@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14967,
+  "slug": "minna-genki-kai",
+  "kind": "manga",
+  "title": "Minna Genki Kai!!",
+  "titles": {
+    "default": "Minna Genki Kai!!"
+  },
+  "synonyms": [
+    "Fight!! Iczer-One",
+    "Akemashite Omedetou!",
+    "Zanshou Mima Moushiagemasu",
+    "Yuri Collection",
+    "The Town of Halloween",
+    "Fate",
+    "Tatakae! Iczer 1",
+    "Kaisenki Sea God",
+    "みんな元気かい！！",
+    "Vaelber Saga",
+    "ヴェルバーサーガ"
+  ],
+  "type": "manga",
+  "chapters": 10,
+  "volumes": 1,
+  "status": "finished",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx93544-G1qV9XWfmt2H.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2291",
+      "url": "https://anilist.co/anime/2291"
+    },
+    "al_manga": {
+      "id": "2291",
+      "url": "https://anilist.co/manga/2291"
+    }
+  }
+}

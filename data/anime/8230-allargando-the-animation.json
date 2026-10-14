@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8230,
+  "slug": "allargando-the-animation",
+  "kind": "anime",
+  "title": "Allargando The Animation",
+  "titles": {
+    "default": "Allargando The Animation",
+    "romaji": "Allargando The Animation",
+    "native": "アラルガンド The Animation"
+  },
+  "synonyms": [
+    "Allargando The Animation",
+    "アラルガンド The Animation",
+    "Haiyore! Nyaruko-san F",
+    "這いよれ！ニャル子さんF"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx21145-oDbvFSuxjuAu.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21145",
+      "url": "https://anilist.co/anime/21145"
+    },
+    "k": {
+      "id": "8881",
+      "url": "https://kitsu.io/anime/8881"
+    },
+    "mal": {
+      "id": "30128",
+      "url": "https://myanimelist.net/anime/30128"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7876,
+  "slug": "ana-no-oku-no-ii-tokoro",
+  "kind": "anime",
+  "title": "Ana no Oku no Ii Tokoro",
+  "titles": {
+    "default": "Ana no Oku no Ii Tokoro",
+    "romaji": "Ana no Oku no Ii Tokoro",
+    "native": "穴の奥のいい秘部（ところ）"
+  },
+  "synonyms": [
+    "Ana no Oku no Ii Tokoro",
+    "穴の奥のいい秘部（ところ）",
+    "Wild Adapter",
+    "ワイルドアダプター"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21163-TAvE0kPtz5JQ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21163",
+      "url": "https://anilist.co/anime/21163"
+    },
+    "k": {
+      "id": "7046",
+      "url": "https://kitsu.io/anime/7046"
+    },
+    "mal": {
+      "id": "27881",
+      "url": "https://myanimelist.net/anime/27881"
+    }
+  }
+}

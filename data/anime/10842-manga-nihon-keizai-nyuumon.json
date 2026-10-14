@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10842,
+  "slug": "manga-nihon-keizai-nyuumon",
+  "kind": "anime",
+  "title": "Manga Nihon Keizai Nyuumon",
+  "titles": {
+    "default": "Manga Nihon Keizai Nyuumon",
+    "romaji": "Manga Nihon Keizai Nyuumon",
+    "native": "マンガ日本経済入門"
+  },
+  "synonyms": [
+    "Manga Nihon Keizai Nyuumon",
+    "マンガ日本経済入門"
+  ],
+  "type": "tv",
+  "episodes": 25,
+  "status": "finished",
+  "season": "fall",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10709.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10709",
+      "url": "https://anilist.co/anime/10709"
+    },
+    "k": {
+      "id": "6307",
+      "url": "https://kitsu.io/anime/6307"
+    },
+    "mal": {
+      "id": "10709",
+      "url": "https://myanimelist.net/anime/10709"
+    }
+  }
+}

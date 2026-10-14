@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4425,
+  "slug": "cynical-hysterie-hour-trip-coaster",
+  "kind": "anime",
+  "title": "Cynical Hysterie Hour: Trip Coaster",
+  "titles": {
+    "default": "Cynical Hysterie Hour: Trip Coaster",
+    "romaji": "Cynical Hysterie Hour: Trip Coaster",
+    "native": "シニカル・ヒステリー・アワー トリップ・コースター"
+  },
+  "synonyms": [
+    "Cynical Hysterie Hour: Trip Coaster",
+    "シニカル・ヒステリー・アワー トリップ・コースター"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6759.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6759",
+      "url": "https://anilist.co/anime/6759"
+    },
+    "k": {
+      "id": "4701",
+      "url": "https://kitsu.io/anime/4701"
+    },
+    "mal": {
+      "id": "6759",
+      "url": "https://myanimelist.net/anime/6759"
+    }
+  }
+}

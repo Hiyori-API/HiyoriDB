@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1279,
+  "slug": "hyakujuu-ou-golion",
+  "kind": "anime",
+  "title": "Hyakujuu-Ou GoLion",
+  "titles": {
+    "default": "Hyakujuu-Ou GoLion",
+    "romaji": "Hyakujuu-Ou GoLion",
+    "english": "Go Lion",
+    "native": "百獣王ゴライオン"
+  },
+  "synonyms": [
+    "Hyakujuu-Ou GoLion",
+    "Go Lion",
+    "百獣王ゴライオン",
+    "Voltron: Defender of the Universe",
+    "Beast King GoLion",
+    "Lion Force Voltron",
+    "Hundred-Beast King Go Lion",
+    "Belle and Sebastian",
+    "Meiken Jolie",
+    "名犬ジョリィ",
+    "Jolie the Great Dog",
+    "Belle et Sebastien"
+  ],
+  "type": "tv",
+  "episodes": 52,
+  "status": "finished",
+  "season": "spring",
+  "year": 1981,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1448.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1448",
+      "url": "https://anilist.co/anime/1448"
+    },
+    "cr": {
+      "id": "go-lion",
+      "url": "https://www.crunchyroll.com/series/go-lion"
+    },
+    "k": {
+      "id": "3288",
+      "url": "https://kitsu.io/anime/3288"
+    },
+    "mal": {
+      "id": "1448",
+      "url": "https://myanimelist.net/anime/1448"
+    },
+    "t": {
+      "id": "65401",
+      "url": "https://trakt.tv/shows/65401"
+    }
+  }
+}

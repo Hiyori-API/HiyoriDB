@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10331,
+  "slug": "the-idolm-ster-sidem-wake-atte-mini-ova",
+  "kind": "anime",
+  "title": "The iDOLM@STER SideM: Wake Atte Mini! OVA",
+  "titles": {
+    "default": "The iDOLM@STER SideM: Wake Atte Mini! OVA",
+    "romaji": "The iDOLM@STER SideM: Wake Atte Mini! OVA",
+    "native": "アイドルマスター SideM 理由あってMini! OVA"
+  },
+  "synonyms": [
+    "The iDOLM@STER SideM: Wake Atte Mini! OVA",
+    "アイドルマスター SideM 理由あってMini! OVA",
+    "Skull-face Bookseller Honda-san OVA",
+    "ガイコツ書店員本田さん OVA",
+    "Gaikotsu Shotenin Honda-san OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126886-YOzmzcJRbdOk.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "126886",
+      "url": "https://anilist.co/anime/126886"
+    },
+    "mal": {
+      "id": "38562",
+      "url": "https://myanimelist.net/anime/38562"
+    }
+  }
+}

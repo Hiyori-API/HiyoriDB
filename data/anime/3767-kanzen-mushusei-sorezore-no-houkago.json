@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3767,
+  "slug": "kanzen-mushusei-sorezore-no-houkago",
+  "kind": "anime",
+  "title": "Kanzen Mushusei: Sorezore no Houkago",
+  "titles": {
+    "default": "Kanzen Mushusei: Sorezore no Houkago",
+    "romaji": "Kanzen Mushusei: Sorezore no Houkago",
+    "native": "完全無修正 それぞれの放課後"
+  },
+  "synonyms": [
+    "Kanzen Mushusei: Sorezore no Houkago",
+    "完全無修正 それぞれの放課後",
+    "Green Green OVA",
+    "グリーングリーン",
+    "Green Green"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5154.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5154",
+      "url": "https://anilist.co/anime/5154"
+    },
+    "k": {
+      "id": "781",
+      "url": "https://kitsu.io/anime/781"
+    },
+    "mal": {
+      "id": "5154",
+      "url": "https://myanimelist.net/anime/5154"
+    }
+  }
+}

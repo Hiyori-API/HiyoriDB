@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5789,
+  "slug": "challenge-1-nensei-de-kakkoii-1-nensei-ni-henshin",
+  "kind": "anime",
+  "title": "Challenge 1-nensei de Kakkoii 1-nensei ni Henshin!",
+  "titles": {
+    "default": "Challenge 1-nensei de Kakkoii 1-nensei ni Henshin!",
+    "romaji": "Challenge 1-nensei de Kakkoii 1-nensei ni Henshin!",
+    "native": "チャレンジ1年生でかっこいい1年生にへんしん!"
+  },
+  "synonyms": [
+    "Challenge 1-nensei de Kakkoii 1-nensei ni Henshin!",
+    "チャレンジ1年生でかっこいい1年生にへんしん!",
+    "Question Fairy",
+    "Challenge Ichinensei de Kakkoii Ichinensei ni Henshin!",
+    "チャレンジ1年生でかっこいい1年生にへんしん!DVD"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7803.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7803",
+      "url": "https://anilist.co/anime/7803"
+    },
+    "k": {
+      "id": "5126",
+      "url": "https://kitsu.io/anime/5126"
+    },
+    "mal": {
+      "id": "7803",
+      "url": "https://myanimelist.net/anime/7803"
+    }
+  }
+}

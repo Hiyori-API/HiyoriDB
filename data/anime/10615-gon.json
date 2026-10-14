@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10615,
+  "slug": "gon",
+  "kind": "anime",
+  "title": "Gon",
+  "titles": {
+    "default": "Gon",
+    "romaji": "Gon",
+    "native": "ごん"
+  },
+  "synonyms": [
+    "Gon",
+    "ごん",
+    "Gon, The Little Fox",
+    "Neon Genesis Evangelion: Death & Rebirth",
+    "Shinseiki Evangelion Gekijouban: Shi to Shinsei",
+    "新世紀エヴァンゲリオン劇場版 シト新生",
+    "Neon Genesis Evangelion - Death and Rebirth"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118036-N3rEgjY1nJ9t.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "118036",
+      "url": "https://anilist.co/anime/118036"
+    },
+    "k": {
+      "id": "22",
+      "url": "https://kitsu.io/anime/22"
+    },
+    "mal": {
+      "id": "42074",
+      "url": "https://myanimelist.net/anime/42074"
+    },
+    "tx": {
+      "id": "gon_tecarat",
+      "url": "https://twitter.com/gon_tecarat"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8260,
+  "slug": "kaijuu-sakaba-kanpai",
+  "kind": "anime",
+  "title": "Kaijuu Sakaba Kanpai!",
+  "titles": {
+    "default": "Kaijuu Sakaba Kanpai!",
+    "romaji": "Kaijuu Sakaba Kanpai!",
+    "native": "怪獣酒場カンパーイ！"
+  },
+  "synonyms": [
+    "Kaijuu Sakaba Kanpai!",
+    "怪獣酒場カンパーイ！",
+    "Wagnaria!!3",
+    "Working!!!",
+    "ワーキング!!!",
+    "Working!! 3rd Season",
+    "Working!! Third Season"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21200-52PPcOrrcNKk.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21200",
+      "url": "https://anilist.co/anime/21200"
+    },
+    "k": {
+      "id": "8712",
+      "url": "https://kitsu.io/anime/8712"
+    },
+    "mal": {
+      "id": "30777",
+      "url": "https://myanimelist.net/anime/30777"
+    },
+    "t": {
+      "id": "61012",
+      "url": "https://trakt.tv/shows/61012"
+    }
+  }
+}

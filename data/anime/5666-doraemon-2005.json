@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5666,
+  "slug": "doraemon-2005",
+  "kind": "anime",
+  "title": "Doraemon (2005)",
+  "titles": {
+    "default": "Doraemon (2005)",
+    "romaji": "Doraemon (2005)",
+    "native": "ドラえもん (2005)"
+  },
+  "synonyms": [
+    "Doraemon (2005)",
+    "ドラえもん (2005)"
+  ],
+  "type": "tv",
+  "status": "airing",
+  "season": "spring",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-bBnJMGnih4PT.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8687",
+      "url": "https://anilist.co/anime/8687"
+    },
+    "ann": {
+      "id": "14223",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=14223"
+    },
+    "k": {
+      "id": "5443",
+      "url": "https://kitsu.io/anime/5443"
+    },
+    "mal": {
+      "id": "8687",
+      "url": "https://myanimelist.net/anime/8687"
+    },
+    "t": {
+      "id": "82026",
+      "url": "https://trakt.tv/shows/82026"
+    },
+    "tx": {
+      "id": "doraemonChannel",
+      "url": "https://twitter.com/doraemonChannel"
+    }
+  }
+}

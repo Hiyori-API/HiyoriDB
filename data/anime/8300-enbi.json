@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8300,
+  "slug": "enbi",
+  "kind": "anime",
+  "title": "Enbi",
+  "titles": {
+    "default": "Enbi",
+    "romaji": "Enbi",
+    "english": "MARAUDING MILF",
+    "native": "艶美"
+  },
+  "synonyms": [
+    "Enbi",
+    "MARAUDING MILF",
+    "艶美",
+    "Hyakka Ryouran: Samurai After",
+    "百花繚乱 サムライアフター",
+    "Hyakka Ryouran OVA"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21278-OJNki332Tluv.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21278",
+      "url": "https://anilist.co/anime/21278"
+    },
+    "k": {
+      "id": "8795",
+      "url": "https://kitsu.io/anime/8795"
+    },
+    "mal": {
+      "id": "23519",
+      "url": "https://myanimelist.net/anime/23519"
+    }
+  }
+}

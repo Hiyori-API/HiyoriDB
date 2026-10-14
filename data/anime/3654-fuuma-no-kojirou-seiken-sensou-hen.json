@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3654,
+  "slug": "fuuma-no-kojirou-seiken-sensou-hen",
+  "kind": "anime",
+  "title": "Fuuma no Kojirou: Seiken Sensou-hen",
+  "titles": {
+    "default": "Fuuma no Kojirou: Seiken Sensou-hen",
+    "romaji": "Fuuma no Kojirou: Seiken Sensou-hen",
+    "native": "風魔の小次郎 聖剣戦争篇"
+  },
+  "synonyms": [
+    "Fuuma no Kojirou: Seiken Sensou-hen",
+    "風魔の小次郎 聖剣戦争篇",
+    "Fuma no Kojiro: Seiken Sensou hen",
+    "Kojiro of the Fuma: Sacred Sword War Chapter",
+    "Devil Hunter Yohko",
+    "Mamono Hunter Youko",
+    "魔物ハンター妖子",
+    "Demon Hunter Youko",
+    "Mamono Hunter Yohko"
+  ],
+  "type": "ova",
+  "episodes": 6,
+  "status": "finished",
+  "season": "fall",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4855.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4855",
+      "url": "https://anilist.co/anime/4855"
+    },
+    "k": {
+      "id": "1155",
+      "url": "https://kitsu.io/anime/1155"
+    },
+    "mal": {
+      "id": "4855",
+      "url": "https://myanimelist.net/anime/4855"
+    }
+  }
+}

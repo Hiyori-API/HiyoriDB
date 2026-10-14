@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5998,
+  "slug": "votoms-finder",
+  "kind": "anime",
+  "title": "Votoms Finder",
+  "titles": {
+    "default": "Votoms Finder",
+    "romaji": "Votoms Finder",
+    "english": "Armored Trooper Votoms: Votoms Finder",
+    "native": "ボトムズファインダ－"
+  },
+  "synonyms": [
+    "Votoms Finder",
+    "Armored Trooper Votoms: Votoms Finder",
+    "ボトムズファインダ－",
+    "Tono to Issho",
+    "殿といっしょ"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8249.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8249",
+      "url": "https://anilist.co/anime/8249"
+    },
+    "cr": {
+      "id": "tono-to-issho",
+      "url": "https://www.crunchyroll.com/series/tono-to-issho"
+    },
+    "k": {
+      "id": "5043",
+      "url": "https://kitsu.io/anime/5043"
+    },
+    "mal": {
+      "id": "8249",
+      "url": "https://myanimelist.net/anime/8249"
+    }
+  }
+}

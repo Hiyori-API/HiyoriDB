@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9011,
+  "slug": "senki-zesshou-symphogear-axz",
+  "kind": "anime",
+  "title": "Senki Zesshou Symphogear AXZ",
+  "titles": {
+    "default": "Senki Zesshou Symphogear AXZ",
+    "romaji": "Senki Zesshou Symphogear AXZ",
+    "english": "Symphogear AXZ",
+    "native": "戦姫絶唱シンフォギア AXZ"
+  },
+  "synonyms": [
+    "Senki Zesshou Symphogear AXZ",
+    "Symphogear AXZ",
+    "戦姫絶唱シンフォギア AXZ",
+    "Symphogear Axis",
+    "戦姫絶唱シンフォギアAXZ〈アクシズ〉"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21672-jDZ3sy89XMMQ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21672",
+      "url": "https://anilist.co/anime/21672"
+    },
+    "cr": {
+      "id": "symphogear",
+      "url": "https://www.crunchyroll.com/series/symphogear"
+    },
+    "mal": {
+      "id": "32836",
+      "url": "https://myanimelist.net/anime/32836"
+    },
+    "tx": {
+      "id": "SYMPHOGEAR",
+      "url": "https://twitter.com/SYMPHOGEAR"
+    }
+  }
+}

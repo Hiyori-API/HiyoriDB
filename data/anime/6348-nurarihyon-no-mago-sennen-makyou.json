@@ -1,0 +1,59 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6348,
+  "slug": "nurarihyon-no-mago-sennen-makyou",
+  "kind": "anime",
+  "title": "Nurarihyon no Mago: Sennen Makyou",
+  "titles": {
+    "default": "Nurarihyon no Mago: Sennen Makyou",
+    "romaji": "Nurarihyon no Mago: Sennen Makyou",
+    "english": "Nura: Rise of the Yokai Clan - Demon Capital",
+    "native": "ぬらりひょんの孫 千年魔京"
+  },
+  "synonyms": [
+    "Nurarihyon no Mago: Sennen Makyou",
+    "Nura: Rise of the Yokai Clan - Demon Capital",
+    "ぬらりひょんの孫 千年魔京",
+    "Nurarihyon no Mago 2",
+    "The Grandson of Nurarihyon 2",
+    "Grandchild of Nurarihyon 2",
+    "Nura: Rise of the Yokai Clan: Demon Capital",
+    "Steins;Gate",
+    "STEINS;GATE",
+    "シュタゲ"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "summer",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10049-Plf9sTuf1fvc.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10049",
+      "url": "https://anilist.co/anime/10049"
+    },
+    "cr": {
+      "id": "series/GYWE7W5GY/steinsgate",
+      "url": "https://www.crunchyroll.com/series/series/GYWE7W5GY/steinsgate"
+    },
+    "k": {
+      "id": "5646",
+      "url": "https://kitsu.io/anime/5646"
+    },
+    "mal": {
+      "id": "10049",
+      "url": "https://myanimelist.net/anime/10049"
+    },
+    "nf": {
+      "id": "80040089",
+      "url": "https://www.netflix.com/title/80040089"
+    },
+    "t": {
+      "id": "42285",
+      "url": "https://trakt.tv/shows/42285"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12288,
+  "slug": "kibou-no-chikara-otona-precure-23",
+  "kind": "anime",
+  "title": "Kibou no Chikara: Otona Precure '23",
+  "titles": {
+    "default": "Kibou no Chikara: Otona Precure '23",
+    "romaji": "Kibou no Chikara: Otona Precure '23",
+    "english": "Power of Hope ~Precure Full Bloom~",
+    "native": "キボウノチカラ～オトナプリキュア'23～"
+  },
+  "synonyms": [
+    "Kibou no Chikara: Otona Precure '23",
+    "Power of Hope ~Precure Full Bloom~",
+    "キボウノチカラ～オトナプリキュア'23～",
+    "Power of Hope ~Grown-Up Precure '23~",
+    "Yes! Precure 5 GoGo! (Zoku-hen)",
+    "Yes!プリキュア5GoGo! (続編)",
+    "SPY×FAMILY Season 2",
+    "Spy x Family Season 2"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2023,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162720-bVrHEs2nUlBo.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "162720",
+      "url": "https://anilist.co/anime/162720"
+    },
+    "cr": {
+      "id": "series/GXJHM3G84/power-of-hope-precure-full-bloom",
+      "url": "https://www.crunchyroll.com/series/series/GXJHM3G84/power-of-hope-precure-full-bloom"
+    },
+    "mal": {
+      "id": "54716",
+      "url": "https://myanimelist.net/anime/54716"
+    },
+    "tx": {
+      "id": "precure_15th",
+      "url": "https://twitter.com/precure_15th"
+    }
+  }
+}

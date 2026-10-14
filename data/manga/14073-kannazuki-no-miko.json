@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14073,
+  "slug": "kannazuki-no-miko",
+  "kind": "manga",
+  "title": "Kannazuki no Miko",
+  "titles": {
+    "default": "Kannazuki no Miko"
+  },
+  "synonyms": [
+    "Kannaduki no Miko",
+    "Priestesses of a Godless Moon",
+    "Priestesses of the Godless Month",
+    "Kannazuki no Miko: Destiny of Shrine Maiden",
+    "神無月の巫女",
+    "Railroad",
+    "레일로드"
+  ],
+  "type": "manga",
+  "chapters": 14,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30969-ZMgBVRlSa3oX.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "143",
+      "url": "https://anilist.co/anime/143"
+    },
+    "al_manga": {
+      "id": "143",
+      "url": "https://anilist.co/manga/143"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3961,
+  "slug": "shachiku-kuruma-no-naka-de-kattemasu",
+  "kind": "anime",
+  "title": "Shachiku: Kuruma no Naka de Kattemasu",
+  "titles": {
+    "default": "Shachiku: Kuruma no Naka de Kattemasu",
+    "romaji": "Shachiku: Kuruma no Naka de Kattemasu",
+    "native": "車畜 ～車の中で飼ってます～"
+  },
+  "synonyms": [
+    "Shachiku: Kuruma no Naka de Kattemasu",
+    "車畜 ～車の中で飼ってます～",
+    "Kai Doh Maru",
+    "怪童丸",
+    "Kaidoumaru",
+    "Kaidomaru"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5567.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5567",
+      "url": "https://anilist.co/anime/5567"
+    },
+    "k": {
+      "id": "1457",
+      "url": "https://kitsu.io/anime/1457"
+    },
+    "mal": {
+      "id": "5567",
+      "url": "https://myanimelist.net/anime/5567"
+    }
+  }
+}

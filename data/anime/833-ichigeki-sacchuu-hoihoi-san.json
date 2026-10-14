@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 833,
+  "slug": "ichigeki-sacchuu-hoihoi-san",
+  "kind": "anime",
+  "title": "Ichigeki Sacchuu!! Hoihoi-san",
+  "titles": {
+    "default": "Ichigeki Sacchuu!! Hoihoi-san",
+    "romaji": "Ichigeki Sacchuu!! Hoihoi-san",
+    "native": "一撃殺虫!!ホイホイさん"
+  },
+  "synonyms": [
+    "Ichigeki Sacchuu!! Hoihoi-san",
+    "一撃殺虫!!ホイホイさん",
+    "Hoi Hoi-san",
+    "Ichigeki Satchu Hoi Hoi San",
+    "One-Shot Bug Killer!! Interceptor Doll HoiHoi-san",
+    "Interceptor Doll HoiHoi-san",
+    "Tenkuu Danzai Skelter+Heaven",
+    "天空断罪スケルターヘブン",
+    "Skelter Heaven"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/932.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "932",
+      "url": "https://anilist.co/anime/932"
+    },
+    "k": {
+      "id": "2910",
+      "url": "https://kitsu.io/anime/2910"
+    },
+    "mal": {
+      "id": "932",
+      "url": "https://myanimelist.net/anime/932"
+    }
+  }
+}

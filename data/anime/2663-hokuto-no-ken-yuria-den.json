@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2663,
+  "slug": "hokuto-no-ken-yuria-den",
+  "kind": "anime",
+  "title": "Hokuto no Ken: Yuria-den",
+  "titles": {
+    "default": "Hokuto no Ken: Yuria-den",
+    "romaji": "Hokuto no Ken: Yuria-den",
+    "english": "Fist of the North Star: The Legend of the True Savior: Legend of Yuria",
+    "native": "真救世主伝説 北斗の拳 ユリア伝"
+  },
+  "synonyms": [
+    "Hokuto no Ken: Yuria-den",
+    "Fist of the North Star: The Legend of the True Savior: Legend of Yuria",
+    "真救世主伝説 北斗の拳 ユリア伝",
+    "Fist of the North Star: The Legend of Yuria"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3027-XrMr8wPS8vle.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3027",
+      "url": "https://anilist.co/anime/3027"
+    },
+    "k": {
+      "id": "2735",
+      "url": "https://kitsu.io/anime/2735"
+    },
+    "mal": {
+      "id": "3027",
+      "url": "https://myanimelist.net/anime/3027"
+    }
+  }
+}

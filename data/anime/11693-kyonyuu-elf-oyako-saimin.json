@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11693,
+  "slug": "kyonyuu-elf-oyako-saimin",
+  "kind": "anime",
+  "title": "Kyonyuu Elf Oyako Saimin",
+  "titles": {
+    "default": "Kyonyuu Elf Oyako Saimin",
+    "romaji": "Kyonyuu Elf Oyako Saimin",
+    "native": "巨乳エルフ母娘催眠"
+  },
+  "synonyms": [
+    "Kyonyuu Elf Oyako Saimin",
+    "巨乳エルフ母娘催眠",
+    "Kotatsu Neko (ONA)",
+    "コタツネコ",
+    "Kotatsuneko",
+    "Kotatsu Cat"
+  ],
+  "type": "ona",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140430-3G87IXikxA7r.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "140430",
+      "url": "https://anilist.co/anime/140430"
+    },
+    "k": {
+      "id": "4300",
+      "url": "https://kitsu.io/anime/4300"
+    },
+    "mal": {
+      "id": "50237",
+      "url": "https://myanimelist.net/anime/50237"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12084,
+  "slug": "kengan-ashura-season-2",
+  "kind": "anime",
+  "title": "Kengan Ashura Season 2",
+  "titles": {
+    "default": "Kengan Ashura Season 2",
+    "romaji": "Kengan Ashura Season 2",
+    "english": "KENGAN ASHURA Season 2",
+    "native": "ケンガンアシュラ Season2"
+  },
+  "synonyms": [
+    "Kengan Ashura Season 2",
+    "KENGAN ASHURA Season 2",
+    "ケンガンアシュラ Season2",
+    "Kengan Ashura 2nd Season"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2023,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146638-THVltMZx1WLk.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "146638",
+      "url": "https://anilist.co/anime/146638"
+    },
+    "mal": {
+      "id": "51369",
+      "url": "https://myanimelist.net/anime/51369"
+    },
+    "nf": {
+      "id": "80992228",
+      "url": "https://www.netflix.com/title/80992228"
+    },
+    "tx": {
+      "id": "kengankai",
+      "url": "https://twitter.com/kengankai"
+    }
+  }
+}

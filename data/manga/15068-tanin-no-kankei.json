@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15068,
+  "slug": "tanin-no-kankei",
+  "kind": "manga",
+  "title": "Tanin no Kankei",
+  "titles": {
+    "default": "Tanin no Kankei"
+  },
+  "synonyms": [
+    "他人の関係",
+    "Dismember",
+    "Kaitai",
+    "解体"
+  ],
+  "type": "manga",
+  "volumes": 2,
+  "status": "finished",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/21851.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4451",
+      "url": "https://anilist.co/anime/4451"
+    },
+    "al_manga": {
+      "id": "4451",
+      "url": "https://anilist.co/manga/4451"
+    }
+  }
+}

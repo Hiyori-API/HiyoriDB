@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14147,
+  "slug": "dear-boys",
+  "kind": "manga",
+  "title": "DEAR BOYS",
+  "titles": {
+    "default": "DEAR BOYS"
+  },
+  "synonyms": [
+    "ディアボーイズ",
+    "Dear Boys",
+    "DEAR BOYS",
+    "Dear Boys Act 1"
+  ],
+  "type": "manga",
+  "chapters": 92,
+  "volumes": 23,
+  "status": "finished",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1294.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "292",
+      "url": "https://anilist.co/anime/292"
+    },
+    "al_manga": {
+      "id": "292",
+      "url": "https://anilist.co/manga/292"
+    }
+  }
+}

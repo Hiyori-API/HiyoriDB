@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3120,
+  "slug": "usavich-ii",
+  "kind": "anime",
+  "title": "Usavich II",
+  "titles": {
+    "default": "Usavich II",
+    "romaji": "Usavich II",
+    "native": "ウサビッチ"
+  },
+  "synonyms": [
+    "Usavich II",
+    "ウサビッチ",
+    "Usavich 2",
+    "Himawari Too!!",
+    "Himawari!!",
+    "ひまわりっ！！"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3738.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3738",
+      "url": "https://anilist.co/anime/3738"
+    },
+    "k": {
+      "id": "1789",
+      "url": "https://kitsu.io/anime/1789"
+    },
+    "mal": {
+      "id": "3738",
+      "url": "https://myanimelist.net/anime/3738"
+    },
+    "t": {
+      "id": "42760",
+      "url": "https://trakt.tv/shows/42760"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9127,
+  "slug": "uchiage-hanabi-shita-kara-miru-ka-yoko-kara-miru-ka",
+  "kind": "anime",
+  "title": "Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?",
+  "titles": {
+    "default": "Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?",
+    "romaji": "Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?",
+    "english": "Fireworks",
+    "native": "打ち上げ花火、下から見るか？横から見るか？"
+  },
+  "synonyms": [
+    "Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?",
+    "Fireworks",
+    "打ち上げ花火、下から見るか？横から見るか？",
+    "Should We See It from the Side or the Bottom?",
+    "升起的烟花，从下面看？还是从侧面看？",
+    "Genocidal Organ",
+    "Gyakusatsu Kikan",
+    "虐殺器官",
+    "Project Itoh"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97908-CbfTf71GjJjg.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "97908",
+      "url": "https://anilist.co/anime/97908"
+    },
+    "k": {
+      "id": "8737",
+      "url": "https://kitsu.io/anime/8737"
+    },
+    "mal": {
+      "id": "34498",
+      "url": "https://myanimelist.net/anime/34498"
+    },
+    "nf": {
+      "id": "81000505",
+      "url": "https://www.netflix.com/title/81000505"
+    }
+  }
+}

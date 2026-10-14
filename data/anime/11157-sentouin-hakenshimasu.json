@@ -1,0 +1,59 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11157,
+  "slug": "sentouin-hakenshimasu",
+  "kind": "anime",
+  "title": "Sentouin, Hakenshimasu!",
+  "titles": {
+    "default": "Sentouin, Hakenshimasu!",
+    "romaji": "Sentouin, Hakenshimasu!",
+    "english": "Combatants Will Be Dispatched!",
+    "native": "戦闘員、派遣します！"
+  },
+  "synonyms": [
+    "Sentouin, Hakenshimasu!",
+    "Combatants Will Be Dispatched!",
+    "戦闘員、派遣します！",
+    "Kombattanten werden entsandt!",
+    "战斗员派遣中！",
+    "นักรบสายป่วนออกปฏิบัติกวน",
+    "Les combattants seront déployés !",
+    "This Ugly Yet Beautiful World",
+    "Kono Minikuku mo Utsukushii Sekai",
+    "この醜くも美しい世界"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116588-noyscGIN8FIr.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "116588",
+      "url": "https://anilist.co/anime/116588"
+    },
+    "cr": {
+      "id": "combatants-will-be-dispatched",
+      "url": "https://www.crunchyroll.com/series/combatants-will-be-dispatched"
+    },
+    "k": {
+      "id": "124",
+      "url": "https://kitsu.io/anime/124"
+    },
+    "mal": {
+      "id": "41456",
+      "url": "https://myanimelist.net/anime/41456"
+    },
+    "t": {
+      "id": "34001",
+      "url": "https://trakt.tv/shows/34001"
+    },
+    "tx": {
+      "id": "sentoin_anime",
+      "url": "https://twitter.com/sentoin_anime"
+    }
+  }
+}

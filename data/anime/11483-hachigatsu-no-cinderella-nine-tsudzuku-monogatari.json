@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11483,
+  "slug": "hachigatsu-no-cinderella-nine-tsudzuku-monogatari",
+  "kind": "anime",
+  "title": "Hachigatsu no Cinderella Nine: Tsudzuku, Monogatari",
+  "titles": {
+    "default": "Hachigatsu no Cinderella Nine: Tsudzuku, Monogatari",
+    "romaji": "Hachigatsu no Cinderella Nine: Tsudzuku, Monogatari",
+    "english": "Cinderella Nine: The Story Continues",
+    "native": "八月のシンデレラナイン ｢つづく、物語｣"
+  },
+  "synonyms": [
+    "Hachigatsu no Cinderella Nine: Tsudzuku, Monogatari",
+    "Cinderella Nine: The Story Continues",
+    "八月のシンデレラナイン ｢つづく、物語｣",
+    "Cinderella Nine Special",
+    "八月のシンデレラナイン 第13話",
+    "Hachigatsu no Cinderella Nine Episode 13",
+    "Seikai no Senki Special",
+    "星界の戦旗 特別編",
+    "Seikai no Senki Movie",
+    "Battle Flag of the Stars Special Edition",
+    "Seikai no Senki Tokubetsuhen"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139813-UvOXsRZI5aA0.png"
+  ],
+  "references": {
+    "al": {
+      "id": "139813",
+      "url": "https://anilist.co/anime/139813"
+    },
+    "cr": {
+      "id": "cinderella-nine/episode-13-the-story-continues-818739",
+      "url": "https://www.crunchyroll.com/series/cinderella-nine/episode-13-the-story-continues-818739"
+    },
+    "k": {
+      "id": "366",
+      "url": "https://kitsu.io/anime/366"
+    },
+    "mal": {
+      "id": "49913",
+      "url": "https://myanimelist.net/anime/49913"
+    }
+  }
+}

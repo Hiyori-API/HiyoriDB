@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4403,
+  "slug": "queen-s-blade-rurou-no-senshi-specials",
+  "kind": "anime",
+  "title": "Queen's Blade: Rurou no Senshi Specials",
+  "titles": {
+    "default": "Queen's Blade: Rurou no Senshi Specials",
+    "romaji": "Queen's Blade: Rurou no Senshi Specials",
+    "english": "Queen's Blade: The Exiled Virgin Specials",
+    "native": "クイーンズブレイド 流浪の戦士"
+  },
+  "synonyms": [
+    "Queen's Blade: Rurou no Senshi Specials",
+    "Queen's Blade: The Exiled Virgin Specials",
+    "クイーンズブレイド 流浪の戦士",
+    "Queen's Blade Specials",
+    "Hatsukoi Limited Shorts",
+    "Hatsukoi Limited.: Gentei Shoujo",
+    "初恋限定。限定少女",
+    "Hatsukoi Limited Specials",
+    "Hatsukoi Limited: Girl Limited",
+    "Hatsukoi Limited: Shoujo Limited",
+    "First Love Limited: Limited Girl",
+    "Hatsukoi Limited. Specials",
+    "Hatsukoi Limited.: Girl Limited",
+    "Hatsukoi Limited.: Shoujo Limited"
+  ],
+  "type": "special",
+  "episodes": 6,
+  "status": "finished",
+  "season": "summer",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6704.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6704",
+      "url": "https://anilist.co/anime/6704"
+    },
+    "k": {
+      "id": "4766",
+      "url": "https://kitsu.io/anime/4766"
+    },
+    "mal": {
+      "id": "6704",
+      "url": "https://myanimelist.net/anime/6704"
+    }
+  }
+}

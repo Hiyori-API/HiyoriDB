@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 160,
+  "slug": "tenkuu-no-escaflowne",
+  "kind": "anime",
+  "title": "Tenkuu no Escaflowne",
+  "titles": {
+    "default": "Tenkuu no Escaflowne",
+    "romaji": "Tenkuu no Escaflowne",
+    "english": "Vision of Escaflowne",
+    "native": "天空のエスカフローネ"
+  },
+  "synonyms": [
+    "Tenkuu no Escaflowne",
+    "Vision of Escaflowne",
+    "天空のエスカフローネ",
+    "The Vision of Escaflowne",
+    "La Visión de Escaflowne",
+    "Vision d'Escaflowne",
+    "I cieli di Escaflowne"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182-YzZtZWMZCSFf.png"
+  ],
+  "references": {
+    "al": {
+      "id": "182",
+      "url": "https://anilist.co/anime/182"
+    },
+    "cr": {
+      "id": "the-vision-of-escaflowne",
+      "url": "https://www.crunchyroll.com/series/the-vision-of-escaflowne"
+    },
+    "k": {
+      "id": "159",
+      "url": "https://kitsu.io/anime/159"
+    },
+    "mal": {
+      "id": "182",
+      "url": "https://myanimelist.net/anime/182"
+    },
+    "t": {
+      "id": "8733",
+      "url": "https://trakt.tv/shows/8733"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10828,
+  "slug": "bemubemu-hunter-kotengu-tenmaru",
+  "kind": "anime",
+  "title": "Bemubemu Hunter Kotengu Tenmaru",
+  "titles": {
+    "default": "Bemubemu Hunter Kotengu Tenmaru",
+    "romaji": "Bemubemu Hunter Kotengu Tenmaru",
+    "native": "べムべムハンター・こてんぐテン丸"
+  },
+  "synonyms": [
+    "Bemubemu Hunter Kotengu Tenmaru",
+    "べムべムハンター・こてんぐテン丸",
+    "Bemubemu Hunter Kotengumaru"
+  ],
+  "type": "tv",
+  "episodes": 19,
+  "status": "finished",
+  "season": "spring",
+  "year": 1983,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17687.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "17687",
+      "url": "https://anilist.co/anime/17687"
+    },
+    "k": {
+      "id": "9214",
+      "url": "https://kitsu.io/anime/9214"
+    },
+    "mal": {
+      "id": "17687",
+      "url": "https://myanimelist.net/anime/17687"
+    }
+  }
+}

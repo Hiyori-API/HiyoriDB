@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12855,
+  "slug": "peleliu-rakuen-no-guernica",
+  "kind": "anime",
+  "title": "Peleliu: Rakuen no Guernica",
+  "titles": {
+    "default": "Peleliu: Rakuen no Guernica",
+    "romaji": "Peleliu: Rakuen no Guernica",
+    "native": "ペリリュー～楽園のゲルニカ～"
+  },
+  "synonyms": [
+    "Peleliu: Rakuen no Guernica",
+    "ペリリュー～楽園のゲルニカ～",
+    "Peleliu: Guernica of Paradise",
+    "The Summer You Were There: The Eternity For You",
+    "The Eternity for You: \"The Summer You Were There\"",
+    "君に贈る永遠",
+    "Kimi ni Okuru Eien"
+  ],
+  "type": "movie",
+  "status": "finished",
+  "season": "fall",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132776-uZLvjGAa4qup.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "132776",
+      "url": "https://anilist.co/anime/132776"
+    },
+    "mal": {
+      "id": "48701",
+      "url": "https://myanimelist.net/anime/48701"
+    }
+  }
+}

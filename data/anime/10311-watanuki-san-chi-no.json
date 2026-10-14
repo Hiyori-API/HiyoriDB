@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10311,
+  "slug": "watanuki-san-chi-no",
+  "kind": "anime",
+  "title": "Watanuki-san Chi no",
+  "titles": {
+    "default": "Watanuki-san Chi no",
+    "romaji": "Watanuki-san Chi no",
+    "native": "四月一日さん家の"
+  },
+  "synonyms": [
+    "Watanuki-san Chi no",
+    "四月一日さん家の",
+    "This Ugly Yet Beautiful World",
+    "Kono Minikuku mo Utsukushii Sekai",
+    "この醜くも美しい世界"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115142-QTJw0rbhHAgR.png"
+  ],
+  "references": {
+    "al": {
+      "id": "115142",
+      "url": "https://anilist.co/anime/115142"
+    },
+    "k": {
+      "id": "124",
+      "url": "https://kitsu.io/anime/124"
+    },
+    "mal": {
+      "id": "39668",
+      "url": "https://myanimelist.net/anime/39668"
+    },
+    "t": {
+      "id": "34001",
+      "url": "https://trakt.tv/shows/34001"
+    },
+    "tx": {
+      "id": "watanukisanchi",
+      "url": "https://twitter.com/watanukisanchi"
+    }
+  }
+}

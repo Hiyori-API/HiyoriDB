@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13876,
+  "slug": "hyper-police",
+  "kind": "manga",
+  "title": "Hyper Police",
+  "titles": {
+    "default": "Hyper Police"
+  },
+  "synonyms": [
+    "Hyper Police",
+    "はいぱーぽりす"
+  ],
+  "type": "manga",
+  "chapters": 96,
+  "volumes": 10,
+  "status": "finished",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30367-eaNmbEVR8Aan.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1180",
+      "url": "https://anilist.co/anime/1180"
+    },
+    "al_manga": {
+      "id": "1180",
+      "url": "https://anilist.co/manga/1180"
+    }
+  }
+}

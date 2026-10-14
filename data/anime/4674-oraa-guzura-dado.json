@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4674,
+  "slug": "oraa-guzura-dado",
+  "kind": "anime",
+  "title": "Oraa Guzura Dado",
+  "titles": {
+    "default": "Oraa Guzura Dado",
+    "romaji": "Oraa Guzura Dado",
+    "native": "おらぁグズラだど"
+  },
+  "synonyms": [
+    "Oraa Guzura Dado",
+    "おらぁグズラだど",
+    "Speed Racer",
+    "Mach GoGoGo",
+    "マッハＧｏＧｏＧｏ",
+    "Mach Go Go Go"
+  ],
+  "type": "tv",
+  "episodes": 52,
+  "status": "finished",
+  "season": "fall",
+  "year": 1967,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b181870-CFwvvqjkttlS.png"
+  ],
+  "references": {
+    "al": {
+      "id": "181870",
+      "url": "https://anilist.co/anime/181870"
+    },
+    "k": {
+      "id": "1298",
+      "url": "https://kitsu.io/anime/1298"
+    },
+    "mal": {
+      "id": "21539",
+      "url": "https://myanimelist.net/anime/21539"
+    },
+    "t": {
+      "id": "30852",
+      "url": "https://trakt.tv/shows/30852"
+    }
+  }
+}

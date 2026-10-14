@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4157,
+  "slug": "transformers-zone",
+  "kind": "anime",
+  "title": "Transformers Zone",
+  "titles": {
+    "default": "Transformers Zone",
+    "romaji": "Transformers Zone",
+    "english": "Transformers: Zone",
+    "native": "トランスフォーマーＺ[ゾーン]"
+  },
+  "synonyms": [
+    "Transformers Zone",
+    "Transformers: Zone",
+    "トランスフォーマーＺ[ゾーン]",
+    "Transformers Z",
+    "新総司令官ダイアトラス登場!"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6038-8D9nI5nfNThh.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6038",
+      "url": "https://anilist.co/anime/6038"
+    },
+    "k": {
+      "id": "4395",
+      "url": "https://kitsu.io/anime/4395"
+    },
+    "mal": {
+      "id": "6038",
+      "url": "https://myanimelist.net/anime/6038"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 47,
+  "slug": "rozen-maiden-tr-umend",
+  "kind": "anime",
+  "title": "Rozen Maiden: Träumend",
+  "titles": {
+    "default": "Rozen Maiden: Träumend",
+    "romaji": "Rozen Maiden: Träumend",
+    "english": "Rozen Maiden: Dreaming",
+    "native": "ローゼンメイデン ~ トロイメント"
+  },
+  "synonyms": [
+    "Rozen Maiden: Träumend",
+    "Rozen Maiden: Dreaming",
+    "ローゼンメイデン ~ トロイメント",
+    "Rozen Maiden: Traumend",
+    "Rozen Maiden 2"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx65-SnVu0Txb00nV.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "65",
+      "url": "https://anilist.co/anime/65"
+    },
+    "cr": {
+      "id": "rozen-maiden",
+      "url": "https://www.crunchyroll.com/series/rozen-maiden"
+    },
+    "k": {
+      "id": "46",
+      "url": "https://kitsu.io/anime/46"
+    },
+    "mal": {
+      "id": "65",
+      "url": "https://myanimelist.net/anime/65"
+    },
+    "t": {
+      "id": "61847",
+      "url": "https://trakt.tv/shows/61847"
+    }
+  }
+}

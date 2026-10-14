@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14148,
+  "slug": "golgo-13",
+  "kind": "manga",
+  "title": "Golgo 13",
+  "titles": {
+    "default": "Golgo 13"
+  },
+  "synonyms": [
+    "Golgo Thirteen",
+    "Duke Togo",
+    "Golgo 13",
+    "ゴルゴ13"
+  ],
+  "type": "manga",
+  "status": "publishing",
+  "year": 1968,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx31298-Cik2Ff9Ip3MD.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4039",
+      "url": "https://anilist.co/anime/1760"
+    },
+    "al_manga": {
+      "id": "4039",
+      "url": "https://anilist.co/manga/4039"
+    }
+  }
+}

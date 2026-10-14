@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6175,
+  "slug": "issho-ni-training-ofuro-bathtime-with-hinako-hiyoko",
+  "kind": "anime",
+  "title": "Issho ni Training Ofuro: BATHTIME WITH HINAKO & HIYOKO",
+  "titles": {
+    "default": "Issho ni Training Ofuro: BATHTIME WITH HINAKO & HIYOKO",
+    "romaji": "Issho ni Training Ofuro: BATHTIME WITH HINAKO & HIYOKO",
+    "english": "Issho ni Training 026: Bathtime with Hinako & Hiyoko",
+    "native": "いっしょにとれーにんぐ026[おふろ] BATHTIME WITH HINAKO&HIYOKO"
+  },
+  "synonyms": [
+    "Issho ni Training Ofuro: BATHTIME WITH HINAKO & HIYOKO",
+    "Issho ni Training 026: Bathtime with Hinako & Hiyoko",
+    "いっしょにとれーにんぐ026[おふろ] BATHTIME WITH HINAKO&HIYOKO",
+    "Isshoni Training 026: Bathtime with Hinako & Hiyoko",
+    "Stretch Time",
+    "Isshoni Training Ofuro: Bathtime with Hinako & Hiyoko",
+    "Issho ni Training Ofuro: Bathtime with Hinako & Hiyoko"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9744.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9744",
+      "url": "https://anilist.co/anime/9744"
+    },
+    "k": {
+      "id": "5846",
+      "url": "https://kitsu.io/anime/5846"
+    },
+    "mal": {
+      "id": "9744",
+      "url": "https://myanimelist.net/anime/9744"
+    }
+  }
+}

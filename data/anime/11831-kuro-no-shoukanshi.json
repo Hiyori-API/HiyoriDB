@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11831,
+  "slug": "kuro-no-shoukanshi",
+  "kind": "anime",
+  "title": "Kuro no Shoukanshi",
+  "titles": {
+    "default": "Kuro no Shoukanshi",
+    "romaji": "Kuro no Shoukanshi",
+    "english": "Black Summoner",
+    "native": "黒の召喚士"
+  },
+  "synonyms": [
+    "Kuro no Shoukanshi",
+    "Black Summoner",
+    "黒の召喚士",
+    "นักอัญเชิญทมิฬ",
+    "黑之召喚士",
+    "DearS",
+    "ディアーズ"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145260-Yt5W8aQQKqF2.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "145260",
+      "url": "https://anilist.co/anime/145260"
+    },
+    "cr": {
+      "id": "series/GVDHX8JJE/black-summoner",
+      "url": "https://www.crunchyroll.com/series/series/GVDHX8JJE/black-summoner"
+    },
+    "k": {
+      "id": "44",
+      "url": "https://kitsu.io/anime/44"
+    },
+    "mal": {
+      "id": "51064",
+      "url": "https://myanimelist.net/anime/51064"
+    },
+    "t": {
+      "id": "61051",
+      "url": "https://trakt.tv/shows/61051"
+    },
+    "tx": {
+      "id": "kuronoshokanshi",
+      "url": "https://twitter.com/kuronoshokanshi"
+    }
+  }
+}

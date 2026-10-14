@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5036,
+  "slug": "ogami-matsugorou",
+  "kind": "anime",
+  "title": "Ogami Matsugorou",
+  "titles": {
+    "default": "Ogami Matsugorou",
+    "romaji": "Ogami Matsugorou",
+    "native": "おがみ松吾郎"
+  },
+  "synonyms": [
+    "Ogami Matsugorou",
+    "おがみ松吾郎"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19921.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "19921",
+      "url": "https://anilist.co/anime/19921"
+    },
+    "k": {
+      "id": "9502",
+      "url": "https://kitsu.io/anime/9502"
+    },
+    "mal": {
+      "id": "19921",
+      "url": "https://myanimelist.net/anime/19921"
+    }
+  }
+}

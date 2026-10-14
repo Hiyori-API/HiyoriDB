@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9098,
+  "slug": "cinderella-girls-gekijou",
+  "kind": "anime",
+  "title": "Cinderella Girls Gekijou",
+  "titles": {
+    "default": "Cinderella Girls Gekijou",
+    "romaji": "Cinderella Girls Gekijou",
+    "english": "THE IDOLM@STER CINDERELLA GIRLS Theater",
+    "native": "シンデレラガールズ劇場"
+  },
+  "synonyms": [
+    "Cinderella Girls Gekijou",
+    "THE IDOLM@STER CINDERELLA GIRLS Theater",
+    "シンデレラガールズ劇場",
+    "Cingeki",
+    "The IDOLM@STER Cinderella Girls Gekijou (TV)",
+    "The maid dragon of Kobayashi-san",
+    "Miss Kobayashi's Dragon Maid",
+    "小林さんちのメイドラゴン",
+    "Kobayashi-san Chi no Maid Dragon"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97765-wBEoCIWWwHVm.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "97765",
+      "url": "https://anilist.co/anime/97765"
+    },
+    "cr": {
+      "id": "the-idolmster-cinderella-girls-theater",
+      "url": "https://www.crunchyroll.com/series/the-idolmster-cinderella-girls-theater"
+    },
+    "mal": {
+      "id": "34257",
+      "url": "https://myanimelist.net/anime/34257"
+    },
+    "tx": {
+      "id": "cingeki_anime",
+      "url": "https://twitter.com/cingeki_anime"
+    }
+  }
+}

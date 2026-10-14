@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15344,
+  "slug": "youkai-apaato-no-yuuga-na-nichijou",
+  "kind": "manga",
+  "title": "Youkai Apaato no Yuuga na Nichijou",
+  "titles": {
+    "default": "Youkai Apaato no Yuuga na Nichijou"
+  },
+  "synonyms": [
+    "Youkai Apart no Yuuga na Nichijou",
+    "Youkai Apartment no Yuuga na Nichijou",
+    "妖怪アパートの幽雅な日常",
+    "Magical Girl Risuka",
+    "Shin Honkaku Mahou Shoujo Risuka",
+    "新本格魔法少女りすか"
+  ],
+  "type": "novel",
+  "volumes": 10,
+  "status": "finished",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/48271.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98501",
+      "url": "https://anilist.co/anime/98501"
+    },
+    "al_manga": {
+      "id": "98501",
+      "url": "https://anilist.co/manga/98501"
+    }
+  }
+}

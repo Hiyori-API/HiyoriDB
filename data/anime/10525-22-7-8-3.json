@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10525,
+  "slug": "22-7-8-3",
+  "kind": "anime",
+  "title": "22/7: 8+3=?",
+  "titles": {
+    "default": "22/7: 8+3=?",
+    "romaji": "22/7: 8+3=?",
+    "native": "22/7: 8＋3＝？"
+  },
+  "synonyms": [
+    "22/7: 8+3=?",
+    "22/7: 8＋3＝？",
+    "22/7 Episode 13",
+    "22/7 OVA",
+    "Nanabun no Nijyuuni Episode 13",
+    "Ore wo Suki nano wa Omae dake ka yo Kanketsu-hen",
+    "Ore wo Suki nano wa Omae dake ka yo Episode 13",
+    "Oresuki OVA",
+    "Oresuki: Are You the Only One Who Loves Me? - Our Playball / Our End Run / Our Game",
+    "俺を好きなのはお前だけかよ  ～俺たちのゲームセット～",
+    "Ore wo Suki nano wa Omae dake ka yo: Oretachi no Game Set"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114249-IF4chK3U982a.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "114249",
+      "url": "https://anilist.co/anime/114249"
+    },
+    "mal": {
+      "id": "40924",
+      "url": "https://myanimelist.net/anime/40924"
+    },
+    "tx": {
+      "id": "227anime",
+      "url": "https://twitter.com/227anime"
+    }
+  }
+}

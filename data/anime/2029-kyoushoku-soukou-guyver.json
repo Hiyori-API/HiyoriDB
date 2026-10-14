@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2029,
+  "slug": "kyoushoku-soukou-guyver",
+  "kind": "anime",
+  "title": "Kyoushoku Soukou Guyver",
+  "titles": {
+    "default": "Kyoushoku Soukou Guyver",
+    "romaji": "Kyoushoku Soukou Guyver",
+    "english": "Guyver: Out of Control",
+    "native": "強殖装甲ガイバー"
+  },
+  "synonyms": [
+    "Kyoushoku Soukou Guyver",
+    "Guyver: Out of Control",
+    "強殖装甲ガイバー",
+    "Outlanders",
+    "アウトランダーズ"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx2293-DMZVV3dOk16e.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2293",
+      "url": "https://anilist.co/anime/2293"
+    },
+    "k": {
+      "id": "1749",
+      "url": "https://kitsu.io/anime/1749"
+    },
+    "mal": {
+      "id": "2293",
+      "url": "https://myanimelist.net/anime/2293"
+    }
+  }
+}

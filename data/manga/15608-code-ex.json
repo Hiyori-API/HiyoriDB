@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15608,
+  "slug": "code-ex",
+  "kind": "manga",
+  "title": "Code-Ex",
+  "titles": {
+    "default": "Code-Ex"
+  },
+  "synonyms": [
+    "Codex",
+    "Code-Ex",
+    "ＣＯＤＥ－ＥＸ",
+    "Kataomoi no Mukougawa",
+    "片想いの向こう側",
+    "Kataomoi no Mukou Gawa",
+    "Ano Kado o Magareba",
+    "Tenshi ga Kuretamono",
+    "Bitou na Koi",
+    "Kimi to Natsu no Aizu"
+  ],
+  "type": "manga",
+  "chapters": 12,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12134.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2564",
+      "url": "https://anilist.co/anime/2564"
+    },
+    "al_manga": {
+      "id": "2564",
+      "url": "https://anilist.co/manga/2564"
+    }
+  }
+}

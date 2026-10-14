@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11800,
+  "slug": "sasaki-to-miyano-koi-ni-kizuku-mae-no-chottoshita-hanashi",
+  "kind": "anime",
+  "title": "Sasaki to Miyano: Koi ni Kizuku Mae no Chottoshita Hanashi.",
+  "titles": {
+    "default": "Sasaki to Miyano: Koi ni Kizuku Mae no Chottoshita Hanashi.",
+    "romaji": "Sasaki to Miyano: Koi ni Kizuku Mae no Chottoshita Hanashi.",
+    "english": "Sasaki and Miyano: A Tiny Episode From Before He Realized His Feelings",
+    "native": "佐々木と宮野 恋に気づく前のちょっとした話。"
+  },
+  "synonyms": [
+    "Sasaki to Miyano: Koi ni Kizuku Mae no Chottoshita Hanashi.",
+    "Sasaki and Miyano: A Tiny Episode From Before He Realized His Feelings",
+    "佐々木と宮野 恋に気づく前のちょっとした話。",
+    "Sasaki to Miyano OVA",
+    "Sasaki and Miyano: A Little Story Before I Realized Love.",
+    "Sasaki and Miyano Episode 13",
+    "佐々木と宮野 第13話",
+    "Sasaki and Miyano: Uma História de um Pouco Antes de Perceber o Amor",
+    "Ultra Maniac OVA",
+    "ウルトラマニアック",
+    "Tokimeki Fushigi Diary: Ultra Maniac"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143082-a14ZcrXtvmnX.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "143082",
+      "url": "https://anilist.co/anime/143082"
+    },
+    "cr": {
+      "id": "series/GW4HM7GNK/sasaki-and-miyano",
+      "url": "https://www.crunchyroll.com/series/series/GW4HM7GNK/sasaki-and-miyano"
+    },
+    "k": {
+      "id": "156",
+      "url": "https://kitsu.io/anime/156"
+    },
+    "mal": {
+      "id": "50672",
+      "url": "https://myanimelist.net/anime/50672"
+    },
+    "tx": {
+      "id": "sasamiya_anime",
+      "url": "https://twitter.com/sasamiya_anime"
+    }
+  }
+}

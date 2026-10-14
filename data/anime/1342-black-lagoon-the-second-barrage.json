@@ -1,0 +1,59 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1342,
+  "slug": "black-lagoon-the-second-barrage",
+  "kind": "anime",
+  "title": "BLACK LAGOON: The Second Barrage",
+  "titles": {
+    "default": "BLACK LAGOON: The Second Barrage",
+    "romaji": "BLACK LAGOON: The Second Barrage",
+    "english": "Black Lagoon: The Second Barrage",
+    "native": "BLACK LAGOON The Second Barrage"
+  },
+  "synonyms": [
+    "BLACK LAGOON: The Second Barrage",
+    "Black Lagoon: The Second Barrage",
+    "BLACK LAGOON The Second Barrage",
+    "Black Lagoon 2nd Season",
+    "Black Lagoon Second Season",
+    "ブラックラグーン The Second Barrage"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1519-cScqJxQW3LNL.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1519",
+      "url": "https://anilist.co/anime/1519"
+    },
+    "cr": {
+      "id": "black-lagoon",
+      "url": "https://www.crunchyroll.com/series/black-lagoon"
+    },
+    "k": {
+      "id": "1363",
+      "url": "https://kitsu.io/anime/1363"
+    },
+    "mal": {
+      "id": "1519",
+      "url": "https://myanimelist.net/anime/1519"
+    },
+    "nf": {
+      "id": "70308852",
+      "url": "https://www.netflix.com/title/70308852"
+    },
+    "t": {
+      "id": "12542",
+      "url": "https://trakt.tv/shows/12542"
+    },
+    "tx": {
+      "id": "lagoon_revy",
+      "url": "https://twitter.com/lagoon_revy"
+    }
+  }
+}

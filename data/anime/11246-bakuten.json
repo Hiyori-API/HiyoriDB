@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11246,
+  "slug": "bakuten",
+  "kind": "anime",
+  "title": "Bakuten!!",
+  "titles": {
+    "default": "Bakuten!!",
+    "romaji": "Bakuten!!",
+    "english": "Backflip!!",
+    "native": "バクテン!!"
+  },
+  "synonyms": [
+    "Bakuten!!",
+    "Backflip!!",
+    "バクテン!!",
+    "This Ugly Yet Beautiful World",
+    "Kono Minikuku mo Utsukushii Sekai",
+    "この醜くも美しい世界"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx125839-ZaMryHrBBvXQ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "125839",
+      "url": "https://anilist.co/anime/125839"
+    },
+    "cr": {
+      "id": "backflip",
+      "url": "https://www.crunchyroll.com/series/backflip"
+    },
+    "k": {
+      "id": "124",
+      "url": "https://kitsu.io/anime/124"
+    },
+    "mal": {
+      "id": "43756",
+      "url": "https://myanimelist.net/anime/43756"
+    },
+    "t": {
+      "id": "34001",
+      "url": "https://trakt.tv/shows/34001"
+    },
+    "tx": {
+      "id": "bakuten_pr",
+      "url": "https://twitter.com/bakuten_pr"
+    }
+  }
+}

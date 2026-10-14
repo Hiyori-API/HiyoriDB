@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14884,
+  "slug": "uchuu-kazoku-carlvinson",
+  "kind": "manga",
+  "title": "Uchuu Kazoku Carlvinson",
+  "titles": {
+    "default": "Uchuu Kazoku Carlvinson"
+  },
+  "synonyms": [
+    "Space Family Carlvinson",
+    "宇宙家族カールビンソン",
+    "Mai",
+    "Mai, The Psychic Girl",
+    "舞"
+  ],
+  "type": "manga",
+  "chapters": 144,
+  "volumes": 13,
+  "status": "finished",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx50994-FUv61MdmXjEG.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4533",
+      "url": "https://anilist.co/anime/4533"
+    },
+    "al_manga": {
+      "id": "4533",
+      "url": "https://anilist.co/manga/4533"
+    }
+  }
+}

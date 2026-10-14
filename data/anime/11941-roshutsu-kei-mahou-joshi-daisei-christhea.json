@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11941,
+  "slug": "roshutsu-kei-mahou-joshi-daisei-christhea",
+  "kind": "anime",
+  "title": "Roshutsu-Kei Mahou Joshi Daisei Christhea",
+  "titles": {
+    "default": "Roshutsu-Kei Mahou Joshi Daisei Christhea",
+    "romaji": "Roshutsu-Kei Mahou Joshi Daisei Christhea",
+    "native": "露出系魔法女子大生クリスティア"
+  },
+  "synonyms": [
+    "Roshutsu-Kei Mahou Joshi Daisei Christhea",
+    "露出系魔法女子大生クリスティア",
+    "Samurai X: Reflection",
+    "Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou-hen",
+    "るろうに剣心 -明治剣客浪漫譚- 星霜編",
+    "Rurouni Kenshin: Seisouhen",
+    "Rurouni Kenshin OVA 2"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155169-6djRwBxVFTCs.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "155169",
+      "url": "https://anilist.co/anime/155169"
+    },
+    "k": {
+      "id": "368",
+      "url": "https://kitsu.io/anime/368"
+    },
+    "mal": {
+      "id": "53257",
+      "url": "https://myanimelist.net/anime/53257"
+    }
+  }
+}

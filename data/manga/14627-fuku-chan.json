@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14627,
+  "slug": "fuku-chan",
+  "kind": "manga",
+  "title": "Fuku-chan",
+  "titles": {
+    "default": "Fuku-chan"
+  },
+  "synonyms": [
+    "フクちゃん",
+    "Renai Soukanzu",
+    "恋愛相姦図",
+    "Renai Sokanzu",
+    "Pink Sweets"
+  ],
+  "type": "manga",
+  "chapters": 5534,
+  "volumes": 16,
+  "status": "finished",
+  "year": 1936,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx151105-ZDmX026uo7Is.png"
+  ],
+  "references": {
+    "al": {
+      "id": "143291",
+      "url": "https://anilist.co/anime/140019"
+    },
+    "al_manga": {
+      "id": "143291",
+      "url": "https://anilist.co/manga/143291"
+    }
+  }
+}

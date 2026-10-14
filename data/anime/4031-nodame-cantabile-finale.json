@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4031,
+  "slug": "nodame-cantabile-finale",
+  "kind": "anime",
+  "title": "Nodame Cantabile Finale",
+  "titles": {
+    "default": "Nodame Cantabile Finale",
+    "romaji": "Nodame Cantabile Finale",
+    "native": "のだめカンタービレ フィナーレ"
+  },
+  "synonyms": [
+    "Nodame Cantabile Finale",
+    "のだめカンタービレ フィナーレ",
+    "Nodame Cantabile Third Season",
+    "Nodame Cantabile Season 3",
+    "Nodame Cantabile: Finale"
+  ],
+  "type": "tv",
+  "episodes": 11,
+  "status": "finished",
+  "season": "winter",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx5690-FEBLLRnlMvlx.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5690",
+      "url": "https://anilist.co/anime/5690"
+    },
+    "k": {
+      "id": "4248",
+      "url": "https://kitsu.io/anime/4248"
+    },
+    "mal": {
+      "id": "5690",
+      "url": "https://myanimelist.net/anime/5690"
+    },
+    "t": {
+      "id": "62171",
+      "url": "https://trakt.tv/shows/62171"
+    }
+  }
+}

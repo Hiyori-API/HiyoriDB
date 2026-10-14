@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1387,
+  "slug": "sumomomo-momomo-chijou-saikyou-no-yome",
+  "kind": "anime",
+  "title": "Sumomomo Momomo: Chijou Saikyou no Yome",
+  "titles": {
+    "default": "Sumomomo Momomo: Chijou Saikyou no Yome",
+    "romaji": "Sumomomo Momomo: Chijou Saikyou no Yome",
+    "native": "すもももももも〜地上最強のヨメ〜"
+  },
+  "synonyms": [
+    "Sumomomo Momomo: Chijou Saikyou no Yome",
+    "すもももももも〜地上最強のヨメ〜",
+    "Sumomomo Momomo: The World's Strongest Bride"
+  ],
+  "type": "tv",
+  "episodes": 22,
+  "status": "finished",
+  "season": "fall",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1568.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1568",
+      "url": "https://anilist.co/anime/1568"
+    },
+    "k": {
+      "id": "1408",
+      "url": "https://kitsu.io/anime/1408"
+    },
+    "mal": {
+      "id": "1568",
+      "url": "https://myanimelist.net/anime/1568"
+    },
+    "t": {
+      "id": "61858",
+      "url": "https://trakt.tv/shows/61858"
+    }
+  }
+}

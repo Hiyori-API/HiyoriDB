@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11203,
+  "slug": "utau-soccer-panda-mifanda",
+  "kind": "anime",
+  "title": "Utau Soccer Panda Mifanda",
+  "titles": {
+    "default": "Utau Soccer Panda Mifanda",
+    "romaji": "Utau Soccer Panda Mifanda",
+    "native": "歌うサッカーパンダ ミファンダ"
+  },
+  "synonyms": [
+    "Utau Soccer Panda Mifanda",
+    "歌うサッカーパンダ ミファンダ",
+    "This Ugly Yet Beautiful World",
+    "Kono Minikuku mo Utsukushii Sekai",
+    "この醜くも美しい世界"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122322-5qGW9U5x1QLo.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "122322",
+      "url": "https://anilist.co/anime/122322"
+    },
+    "k": {
+      "id": "124",
+      "url": "https://kitsu.io/anime/124"
+    },
+    "mal": {
+      "id": "42068",
+      "url": "https://myanimelist.net/anime/42068"
+    },
+    "t": {
+      "id": "34001",
+      "url": "https://trakt.tv/shows/34001"
+    },
+    "tx": {
+      "id": "MIFANDAofficial",
+      "url": "https://twitter.com/MIFANDAofficial"
+    }
+  }
+}

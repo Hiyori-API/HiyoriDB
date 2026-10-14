@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11307,
+  "slug": "nanatsu-no-taizai-hikari-ni-norowareshi-mono-tachi",
+  "kind": "anime",
+  "title": "Nanatsu no Taizai: Hikari ni Norowareshi Mono-tachi",
+  "titles": {
+    "default": "Nanatsu no Taizai: Hikari ni Norowareshi Mono-tachi",
+    "romaji": "Nanatsu no Taizai: Hikari ni Norowareshi Mono-tachi",
+    "english": "The Seven Deadly Sins: Cursed by Light",
+    "native": "七つの大罪 光に呪われし者たち"
+  },
+  "synonyms": [
+    "Nanatsu no Taizai: Hikari ni Norowareshi Mono-tachi",
+    "The Seven Deadly Sins: Cursed by Light",
+    "七つの大罪 光に呪われし者たち",
+    "Los siete pecados capitales: La maldición de la luz",
+    "ศึกตํานาน 7 อัศวิน: สาปแห่งแสง",
+    "Сім смертних гріхів: Прокляття світла",
+    "Семь смертных грехов: Проклятие света",
+    "Evangelion: 3.0+1.0 Thrice Upon a Time",
+    "Shin Evangelion Gekijouban :||",
+    "シン・エヴァンゲリオン劇場版:||",
+    "Evangelion: 4.0",
+    "Rebuild of Evangelion 4.0"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128740-xpjfCO2kpFdz.png"
+  ],
+  "references": {
+    "al": {
+      "id": "128740",
+      "url": "https://anilist.co/anime/128740"
+    },
+    "k": {
+      "id": "3252",
+      "url": "https://kitsu.io/anime/3252"
+    },
+    "mal": {
+      "id": "46420",
+      "url": "https://myanimelist.net/anime/46420"
+    },
+    "nf": {
+      "id": "81263946",
+      "url": "https://www.netflix.com/title/81263946"
+    },
+    "tx": {
+      "id": "7_taizai",
+      "url": "https://twitter.com/7_taizai"
+    }
+  }
+}

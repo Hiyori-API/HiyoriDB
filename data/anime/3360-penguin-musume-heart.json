@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3360,
+  "slug": "penguin-musume-heart",
+  "kind": "anime",
+  "title": "Penguin Musume♥Heart",
+  "titles": {
+    "default": "Penguin Musume♥Heart",
+    "romaji": "Penguin Musume♥Heart",
+    "native": "ペンギン娘♥はぁと"
+  },
+  "synonyms": [
+    "Penguin Musume♥Heart",
+    "ペンギン娘♥はぁと",
+    "Penguin Girl"
+  ],
+  "type": "ona",
+  "episodes": 22,
+  "status": "finished",
+  "season": "spring",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4136-LSUZuEORSbpY.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4136",
+      "url": "https://anilist.co/anime/4136"
+    },
+    "k": {
+      "id": "3485",
+      "url": "https://kitsu.io/anime/3485"
+    },
+    "mal": {
+      "id": "4136",
+      "url": "https://myanimelist.net/anime/4136"
+    }
+  }
+}

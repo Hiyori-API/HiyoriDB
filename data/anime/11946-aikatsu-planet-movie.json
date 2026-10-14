@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11946,
+  "slug": "aikatsu-planet-movie",
+  "kind": "anime",
+  "title": "Aikatsu Planet! Movie",
+  "titles": {
+    "default": "Aikatsu Planet! Movie",
+    "romaji": "Aikatsu Planet! Movie",
+    "english": "Aikatsu Planet! The Movie",
+    "native": "劇場版アイカツプラネット！"
+  },
+  "synonyms": [
+    "Aikatsu Planet! Movie",
+    "Aikatsu Planet! The Movie",
+    "劇場版アイカツプラネット！",
+    "Gekijouban Aikatsu Planet!",
+    "Cowboy Bebop: The Movie",
+    "Cowboy Bebop: Tengoku no Tobira",
+    "Cowboy Bebop: Knockin' on Heaven's Door",
+    "カウボーイビバップ天国の扉"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155525-cN3SUvjpq5Nl.png"
+  ],
+  "references": {
+    "al": {
+      "id": "155525",
+      "url": "https://anilist.co/anime/155525"
+    },
+    "k": {
+      "id": "2",
+      "url": "https://kitsu.io/anime/2"
+    },
+    "mal": {
+      "id": "52992",
+      "url": "https://myanimelist.net/anime/52992"
+    }
+  }
+}

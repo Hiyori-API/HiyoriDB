@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1344,
+  "slug": "black-jack-movie",
+  "kind": "anime",
+  "title": "Black Jack Movie",
+  "titles": {
+    "default": "Black Jack Movie",
+    "romaji": "Black Jack Movie",
+    "english": "Black Jack: The Movie",
+    "native": "ブラック・ジャック 劇場版"
+  },
+  "synonyms": [
+    "Black Jack Movie",
+    "Black Jack: The Movie",
+    "ブラック・ジャック 劇場版",
+    "Shin Kimagure Orange☆Road: Soshite, Ano Natsu no Hajimari",
+    "新きまぐれオレンジ☆ロード ～ そして、あの夏のはじまり",
+    "New Kimagure Orange Road: And Then",
+    "The Beginning of That Summer",
+    "New Kimagure Orange Road: Summer's Beginning"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1521-maDvpcEJAbQi.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1521",
+      "url": "https://anilist.co/anime/1521"
+    },
+    "ap": {
+      "id": "B07DWGGDB4",
+      "url": "https://www.amazon.com/gp/video/detail/B07DWGGDB4"
+    },
+    "cr": {
+      "id": "black-jack-the-movie",
+      "url": "https://www.crunchyroll.com/series/black-jack-the-movie"
+    },
+    "k": {
+      "id": "1897",
+      "url": "https://kitsu.io/anime/1897"
+    },
+    "mal": {
+      "id": "1521",
+      "url": "https://myanimelist.net/anime/1521"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14041,
+  "slug": "satoshi-to-pikachu",
+  "kind": "manga",
+  "title": "Satoshi to Pikachu",
+  "titles": {
+    "default": "Satoshi to Pikachu"
+  },
+  "synonyms": [
+    "Ash + Pikachu",
+    "Ash and Pikachu",
+    "Pokémon: Ash & Pikachu",
+    "Pokemon: Ash & Pikachu",
+    "Ash & Pikachu",
+    "サトシとピカチュウ",
+    "Full Moon wo Sagashite",
+    "満月〈フルムーン〉をさがして",
+    "Searching for the Full Moon",
+    "Ginyuu Meika"
+  ],
+  "type": "manga",
+  "chapters": 36,
+  "volumes": 6,
+  "status": "finished",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b52572-2PiqiV58BVMB.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "527",
+      "url": "https://anilist.co/anime/527"
+    },
+    "al_manga": {
+      "id": "527",
+      "url": "https://anilist.co/manga/527"
+    }
+  }
+}

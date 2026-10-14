@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5254,
+  "slug": "naniwa-yuukyouden-kyouretsu-ana-ga-attara-iretai-hen",
+  "kind": "anime",
+  "title": "Naniwa Yuukyouden: Kyouretsu! Ana ga Attara Iretai-hen",
+  "titles": {
+    "default": "Naniwa Yuukyouden: Kyouretsu! Ana ga Attara Iretai-hen",
+    "romaji": "Naniwa Yuukyouden: Kyouretsu! Ana ga Attara Iretai-hen",
+    "native": "なにわ遊侠伝: 強烈!アナがあったら入れたい篇"
+  },
+  "synonyms": [
+    "Naniwa Yuukyouden: Kyouretsu! Ana ga Attara Iretai-hen",
+    "なにわ遊侠伝: 強烈!アナがあったら入れたい篇"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19749.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "19749",
+      "url": "https://anilist.co/anime/19749"
+    },
+    "k": {
+      "id": "9481",
+      "url": "https://kitsu.io/anime/9481"
+    },
+    "mal": {
+      "id": "19749",
+      "url": "https://myanimelist.net/anime/19749"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7879,
+  "slug": "cosplay-rakuen",
+  "kind": "anime",
+  "title": "Cosplay Rakuen",
+  "titles": {
+    "default": "Cosplay Rakuen",
+    "romaji": "Cosplay Rakuen",
+    "english": "Cosplay Paradise",
+    "native": "コスプレ楽園"
+  },
+  "synonyms": [
+    "Cosplay Rakuen",
+    "Cosplay Paradise",
+    "コスプレ楽園",
+    "Mitsuwano",
+    "みツわの"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21193-hnqrPOK6Smt4.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21193",
+      "url": "https://anilist.co/anime/21193"
+    },
+    "k": {
+      "id": "8140",
+      "url": "https://kitsu.io/anime/8140"
+    },
+    "mal": {
+      "id": "22081",
+      "url": "https://myanimelist.net/anime/22081"
+    }
+  }
+}

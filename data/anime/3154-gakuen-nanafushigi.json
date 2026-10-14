@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3154,
+  "slug": "gakuen-nanafushigi",
+  "kind": "anime",
+  "title": "Gakuen Nanafushigi",
+  "titles": {
+    "default": "Gakuen Nanafushigi",
+    "romaji": "Gakuen Nanafushigi",
+    "english": "Sex Craft",
+    "native": "学艶七不思議"
+  },
+  "synonyms": [
+    "Gakuen Nanafushigi",
+    "Sex Craft",
+    "学艶七不思議",
+    "Eiken",
+    "Eiken: Eikenbu yori Ai wo Komete",
+    "エイケン エイケンヴより愛をこめて"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3802.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3802",
+      "url": "https://anilist.co/anime/3802"
+    },
+    "k": {
+      "id": "703",
+      "url": "https://kitsu.io/anime/703"
+    },
+    "mal": {
+      "id": "3802",
+      "url": "https://myanimelist.net/anime/3802"
+    }
+  }
+}

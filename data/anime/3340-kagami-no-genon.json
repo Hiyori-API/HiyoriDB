@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3340,
+  "slug": "kagami-no-genon",
+  "kind": "anime",
+  "title": "Kagami no Genon",
+  "titles": {
+    "default": "Kagami no Genon",
+    "romaji": "Kagami no Genon",
+    "english": "sound / phantasma / mirror",
+    "native": "かがみのげんおん"
+  },
+  "synonyms": [
+    "Kagami no Genon",
+    "sound / phantasma / mirror",
+    "かがみのげんおん",
+    "Kagami no Gen'on",
+    "Mirror's Fundamental Tone"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4091.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4091",
+      "url": "https://anilist.co/anime/4091"
+    },
+    "k": {
+      "id": "3460",
+      "url": "https://kitsu.io/anime/3460"
+    },
+    "mal": {
+      "id": "4091",
+      "url": "https://myanimelist.net/anime/4091"
+    },
+    "yt": {
+      "id": "aqaHCF8KGaY",
+      "url": "https://www.youtube.com/watch?v=aqaHCF8KGaY"
+    }
+  }
+}

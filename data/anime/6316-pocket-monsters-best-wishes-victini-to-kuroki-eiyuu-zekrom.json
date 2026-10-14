@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6316,
+  "slug": "pocket-monsters-best-wishes-victini-to-kuroki-eiyuu-zekrom",
+  "kind": "anime",
+  "title": "Pocket Monsters Best Wishes!: Victini to Kuroki Eiyuu Zekrom",
+  "titles": {
+    "default": "Pocket Monsters Best Wishes!: Victini to Kuroki Eiyuu Zekrom",
+    "romaji": "Pocket Monsters Best Wishes!: Victini to Kuroki Eiyuu Zekrom",
+    "english": "Pokémon the Movie: White—Victini and Zekrom",
+    "native": "ポケットモンスター ベストウイッシュ 「ビクティニと黒き英雄 ゼクロム」"
+  },
+  "synonyms": [
+    "Pocket Monsters Best Wishes!: Victini to Kuroki Eiyuu Zekrom",
+    "Pokémon the Movie: White—Victini and Zekrom",
+    "ポケットモンスター ベストウイッシュ 「ビクティニと黒き英雄 ゼクロム」",
+    "Gekijouban Pocket Monsters Best Wishes: Victini to Kuroki Eiyuu Zekrom",
+    "Pokemon the Movie: White - Victini and Zekrom",
+    "Pokémon Filmen: White - Victini og Zekrom",
+    "Pokémon Filmen - White : Victini och Zekrom",
+    "Sore Ike! Anpanman: Sukue! Kokorin to Kiseki no Hoshi",
+    "それいけ! アンパンマン すくえ! ココリンと奇跡の星"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9917.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9917",
+      "url": "https://anilist.co/anime/9917"
+    },
+    "k": {
+      "id": "6290",
+      "url": "https://kitsu.io/anime/6290"
+    },
+    "mal": {
+      "id": "9917",
+      "url": "https://myanimelist.net/anime/9917"
+    }
+  }
+}

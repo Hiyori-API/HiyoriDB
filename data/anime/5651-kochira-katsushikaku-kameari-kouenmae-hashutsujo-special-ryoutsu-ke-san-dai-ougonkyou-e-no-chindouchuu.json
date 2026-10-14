@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5651,
+  "slug": "kochira-katsushikaku-kameari-kouenmae-hashutsujo-special-ryoutsu-ke-san-dai-ougonkyou-e-no-chindouchuu",
+  "kind": "anime",
+  "title": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo Special: Ryoutsu-ke San-dai, Ougonkyou e no Chindouchuu!",
+  "titles": {
+    "default": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo Special: Ryoutsu-ke San-dai, Ougonkyou e no Chindouchuu!",
+    "romaji": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo Special: Ryoutsu-ke San-dai, Ougonkyou e no Chindouchuu!",
+    "native": "こちら葛飾区亀有公園前派出所スペシャル 両津家三代、黄金郷への珍道中!"
+  },
+  "synonyms": [
+    "Kochira Katsushikaku Kameari Kouenmae Hashutsujo Special: Ryoutsu-ke San-dai, Ougonkyou e no Chindouchuu!",
+    "こちら葛飾区亀有公園前派出所スペシャル 両津家三代、黄金郷への珍道中!",
+    "Kochikame Special 18",
+    "Pororo to the Cookie Castle",
+    "Pororo Daemoheom",
+    "뽀로로의 대모험",
+    "Porong Porong Pororo",
+    "Pororo's Adventure"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b145776-qd4PxOCoNijr.png"
+  ],
+  "references": {
+    "al": {
+      "id": "145776",
+      "url": "https://anilist.co/anime/145776"
+    },
+    "k": {
+      "id": "4596",
+      "url": "https://kitsu.io/anime/4596"
+    },
+    "mal": {
+      "id": "6524",
+      "url": "https://myanimelist.net/anime/6524"
+    }
+  }
+}

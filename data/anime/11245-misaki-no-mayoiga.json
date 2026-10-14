@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11245,
+  "slug": "misaki-no-mayoiga",
+  "kind": "anime",
+  "title": "Misaki no Mayoiga",
+  "titles": {
+    "default": "Misaki no Mayoiga",
+    "romaji": "Misaki no Mayoiga",
+    "english": "The House of the Lost on the Cape",
+    "native": "岬のマヨイガ"
+  },
+  "synonyms": [
+    "Misaki no Mayoiga",
+    "The House of the Lost on the Cape",
+    "岬のマヨイガ",
+    "The Abandoned House by the Cape",
+    "La Maison des égarées",
+    "La casa degli smarriti sul promontorio",
+    "Evangelion: 3.0+1.0 Thrice Upon a Time",
+    "Shin Evangelion Gekijouban :||",
+    "シン・エヴァンゲリオン劇場版:||",
+    "Evangelion: 4.0",
+    "Rebuild of Evangelion 4.0"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx125838-QEkGEEIA3xfC.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "125838",
+      "url": "https://anilist.co/anime/125838"
+    },
+    "k": {
+      "id": "3252",
+      "url": "https://kitsu.io/anime/3252"
+    },
+    "mal": {
+      "id": "43755",
+      "url": "https://myanimelist.net/anime/43755"
+    },
+    "tx": {
+      "id": "misakinomayoiga",
+      "url": "https://twitter.com/misakinomayoiga"
+    }
+  }
+}

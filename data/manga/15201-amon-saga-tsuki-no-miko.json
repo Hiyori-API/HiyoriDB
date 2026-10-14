@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15201,
+  "slug": "amon-saga-tsuki-no-miko",
+  "kind": "manga",
+  "title": "Amon Saga: Tsuki no Miko",
+  "titles": {
+    "default": "Amon Saga: Tsuki no Miko"
+  },
+  "synonyms": [
+    "Amon Saga: Prince of the Moon",
+    "Amon Saga",
+    "アーモンサーガ -月の御子-",
+    "Love Hina",
+    "ラブひな"
+  ],
+  "type": "manga",
+  "chapters": 7,
+  "volumes": 1,
+  "status": "finished",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx93223-zAwDTkpukuvb.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2249",
+      "url": "https://anilist.co/anime/2249"
+    },
+    "al_manga": {
+      "id": "2249",
+      "url": "https://anilist.co/manga/2249"
+    }
+  }
+}

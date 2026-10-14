@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1003,
+  "slug": "pocket-monsters-advanced-generation-rekkuu-no-houmonsha-deoxys",
+  "kind": "anime",
+  "title": "Pocket Monsters Advanced Generation: Rekkuu no Houmonsha Deoxys",
+  "titles": {
+    "default": "Pocket Monsters Advanced Generation: Rekkuu no Houmonsha Deoxys",
+    "romaji": "Pocket Monsters Advanced Generation: Rekkuu no Houmonsha Deoxys",
+    "english": "Pokémon: Destiny Deoxys",
+    "native": "ポケットモンスター アドバンスジェネレーション 裂空の訪問者 デオキシス"
+  },
+  "synonyms": [
+    "Pocket Monsters Advanced Generation: Rekkuu no Houmonsha Deoxys",
+    "Pokémon: Destiny Deoxys",
+    "ポケットモンスター アドバンスジェネレーション 裂空の訪問者 デオキシス",
+    "Gekijouban Pocket Monsters Advanced Generation: The Visitor of the Space Fissure! Deoxys",
+    "Pokemon Movie 7",
+    "Pokémon: Skjebnens Deoxys",
+    "Pokémon: Cel Deoxys",
+    "Pokémon: Dagen D för Deoxys",
+    "Sore Ike! Anpanman: Yumeneko no Kuni no Nyanii",
+    "それいけ!アンパンマン 夢猫の国のニャニイ"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1122-HCkAs0hqlJwK.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1122",
+      "url": "https://anilist.co/anime/1122"
+    },
+    "k": {
+      "id": "9053",
+      "url": "https://kitsu.io/anime/9053"
+    },
+    "mal": {
+      "id": "1122",
+      "url": "https://myanimelist.net/anime/1122"
+    }
+  }
+}

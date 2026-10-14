@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 314,
+  "slug": "futatsu-no-spica",
+  "kind": "anime",
+  "title": "Futatsu no Spica",
+  "titles": {
+    "default": "Futatsu no Spica",
+    "romaji": "Futatsu no Spica",
+    "english": "Twin Spica",
+    "native": "ふたつのスピカ"
+  },
+  "synonyms": [
+    "Futatsu no Spica",
+    "Twin Spica",
+    "ふたつのスピカ"
+  ],
+  "type": "tv",
+  "episodes": 20,
+  "status": "finished",
+  "season": "fall",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx344-JGnFQAXW7Tob.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "344",
+      "url": "https://anilist.co/anime/344"
+    },
+    "k": {
+      "id": "311",
+      "url": "https://kitsu.io/anime/311"
+    },
+    "mal": {
+      "id": "344",
+      "url": "https://myanimelist.net/anime/344"
+    },
+    "t": {
+      "id": "19711",
+      "url": "https://trakt.tv/shows/19711"
+    }
+  }
+}

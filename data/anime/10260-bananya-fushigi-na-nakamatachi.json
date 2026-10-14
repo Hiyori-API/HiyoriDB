@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10260,
+  "slug": "bananya-fushigi-na-nakamatachi",
+  "kind": "anime",
+  "title": "Bananya: Fushigi na Nakamatachi",
+  "titles": {
+    "default": "Bananya: Fushigi na Nakamatachi",
+    "romaji": "Bananya: Fushigi na Nakamatachi",
+    "english": "Bananya and the Curious Bunch",
+    "native": "ばなにゃ ふしぎななかまたち"
+  },
+  "synonyms": [
+    "Bananya: Fushigi na Nakamatachi",
+    "Bananya and the Curious Bunch",
+    "ばなにゃ ふしぎななかまたち",
+    "Bananya Season 2",
+    "Avenger",
+    "アヴェンジャー"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110881-GCLFxS80cmsb.png"
+  ],
+  "references": {
+    "al": {
+      "id": "110881",
+      "url": "https://anilist.co/anime/110881"
+    },
+    "cr": {
+      "id": "bananya",
+      "url": "https://www.crunchyroll.com/series/bananya"
+    },
+    "k": {
+      "id": "37",
+      "url": "https://kitsu.io/anime/37"
+    },
+    "mal": {
+      "id": "40228",
+      "url": "https://myanimelist.net/anime/40228"
+    },
+    "t": {
+      "id": "21179",
+      "url": "https://trakt.tv/shows/21179"
+    },
+    "tx": {
+      "id": "bananya_anime",
+      "url": "https://twitter.com/bananya_anime"
+    }
+  }
+}

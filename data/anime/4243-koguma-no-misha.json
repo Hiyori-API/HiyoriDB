@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4243,
+  "slug": "koguma-no-misha",
+  "kind": "anime",
+  "title": "Koguma no Misha",
+  "titles": {
+    "default": "Koguma no Misha",
+    "romaji": "Koguma no Misha",
+    "english": "Misha the Bearcub",
+    "native": "こぐまのミーシャ"
+  },
+  "synonyms": [
+    "Koguma no Misha",
+    "Misha the Bearcub",
+    "こぐまのミーシャ"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 1979,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6261.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6261",
+      "url": "https://anilist.co/anime/6261"
+    },
+    "k": {
+      "id": "4493",
+      "url": "https://kitsu.io/anime/4493"
+    },
+    "mal": {
+      "id": "6261",
+      "url": "https://myanimelist.net/anime/6261"
+    }
+  }
+}

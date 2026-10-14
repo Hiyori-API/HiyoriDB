@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14814,
+  "slug": "botchan",
+  "kind": "manga",
+  "title": "Botchan",
+  "titles": {
+    "default": "Botchan"
+  },
+  "synonyms": [
+    "Bocchan",
+    "坊っちゃん",
+    "Maison Ikkoku",
+    "めぞん一刻"
+  ],
+  "type": "manga",
+  "chapters": 2,
+  "status": "finished",
+  "year": 1980,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx176781-hpMUAFX12WeW.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4680",
+      "url": "https://anilist.co/anime/4680"
+    },
+    "al_manga": {
+      "id": "4680",
+      "url": "https://anilist.co/manga/4680"
+    }
+  }
+}

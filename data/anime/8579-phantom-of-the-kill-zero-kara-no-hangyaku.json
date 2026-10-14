@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8579,
+  "slug": "phantom-of-the-kill-zero-kara-no-hangyaku",
+  "kind": "anime",
+  "title": "Phantom of the Kill: ZERO Kara no Hangyaku",
+  "titles": {
+    "default": "Phantom of the Kill: ZERO Kara no Hangyaku",
+    "romaji": "Phantom of the Kill: ZERO Kara no Hangyaku",
+    "native": "ファントム オブ キル ―ZEROからの反逆―"
+  },
+  "synonyms": [
+    "Phantom of the Kill: ZERO Kara no Hangyaku",
+    "ファントム オブ キル ―ZEROからの反逆―",
+    "Phantom of the Kill: Zero's Rebellion",
+    "Phantom of the Kill: Zero kara no Hangyaku"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21449-btqxsUBS1pnD.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21449",
+      "url": "https://anilist.co/anime/21449"
+    },
+    "mal": {
+      "id": "31927",
+      "url": "https://myanimelist.net/anime/31927"
+    },
+    "tx": {
+      "id": "phantom_of_kill",
+      "url": "https://twitter.com/phantom_of_kill"
+    }
+  }
+}

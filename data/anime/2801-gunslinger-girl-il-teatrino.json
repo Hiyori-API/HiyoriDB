@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2801,
+  "slug": "gunslinger-girl-il-teatrino",
+  "kind": "anime",
+  "title": "GUNSLINGER GIRL -IL TEATRINO-",
+  "titles": {
+    "default": "GUNSLINGER GIRL -IL TEATRINO-",
+    "romaji": "GUNSLINGER GIRL -IL TEATRINO-",
+    "english": "Gunslinger Girl -Il Teatrino-"
+  },
+  "synonyms": [
+    "GUNSLINGER GIRL -IL TEATRINO-",
+    "Gunslinger Girl -Il Teatrino-",
+    "ガンスリンガー・ガール -IL TEATRINO-",
+    "Gunslinger Girl 2nd Season",
+    "Gunslinger Girl: Il Teatrino",
+    "ガンスリンガー ガール -IL TEATRINO-",
+    "Gunslinger Girl Second"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n3231-MP0WwB4XBx6u.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3231",
+      "url": "https://anilist.co/anime/3231"
+    },
+    "k": {
+      "id": "2874",
+      "url": "https://kitsu.io/anime/2874"
+    },
+    "mal": {
+      "id": "3231",
+      "url": "https://myanimelist.net/anime/3231"
+    },
+    "t": {
+      "id": "31593",
+      "url": "https://trakt.tv/shows/31593"
+    }
+  }
+}

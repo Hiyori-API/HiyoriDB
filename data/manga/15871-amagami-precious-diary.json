@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15871,
+  "slug": "amagami-precious-diary",
+  "kind": "manga",
+  "title": "Amagami: precious diary",
+  "titles": {
+    "default": "Amagami: precious diary"
+  },
+  "synonyms": [
+    "Amagami: Precious Diary - Kaoru",
+    "Shinonome Amagami",
+    "Ayatsuji Arc",
+    "アマガミ precious diary",
+    "Simple Knot Loafers",
+    "シンプルノットローファー",
+    "Shinpuru Notto Rofa",
+    "Shinpuru Notto Roofaa",
+    "Simple Not Loafer"
+  ],
+  "type": "manga",
+  "chapters": 32,
+  "volumes": 5,
+  "status": "finished",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx47607-xRoR1LyJyTan.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8676",
+      "url": "https://anilist.co/anime/8676"
+    },
+    "al_manga": {
+      "id": "8676",
+      "url": "https://anilist.co/manga/8676"
+    }
+  }
+}

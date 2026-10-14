@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5421,
+  "slug": "sore-ike-anpanman-anpanman-to-oyakusoku",
+  "kind": "anime",
+  "title": "Sore Ike! Anpanman: Anpanman to Oyakusoku",
+  "titles": {
+    "default": "Sore Ike! Anpanman: Anpanman to Oyakusoku",
+    "romaji": "Sore Ike! Anpanman: Anpanman to Oyakusoku",
+    "native": "それいけ! アンパンマン アンパンマンとおやくそく"
+  },
+  "synonyms": [
+    "Sore Ike! Anpanman: Anpanman to Oyakusoku",
+    "それいけ! アンパンマン アンパンマンとおやくそく"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b121829-QDSoX7coSY4X.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "121829",
+      "url": "https://anilist.co/anime/121829"
+    },
+    "k": {
+      "id": "9605",
+      "url": "https://kitsu.io/anime/9605"
+    },
+    "mal": {
+      "id": "21973",
+      "url": "https://myanimelist.net/anime/21973"
+    }
+  }
+}

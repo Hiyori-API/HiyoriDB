@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15230,
+  "slug": "a-li-ce",
+  "kind": "manga",
+  "title": "A・LI・CE",
+  "titles": {
+    "default": "A・LI・CE"
+  },
+  "synonyms": [
+    "アリス",
+    "A・LI・CE",
+    "Love Hina",
+    "ラブひな"
+  ],
+  "type": "manga",
+  "chapters": 15,
+  "volumes": 1,
+  "status": "discontinued",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx133348-sMkDQMY8VCwM.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3463",
+      "url": "https://anilist.co/anime/3463"
+    },
+    "al_manga": {
+      "id": "3463",
+      "url": "https://anilist.co/manga/3463"
+    }
+  }
+}

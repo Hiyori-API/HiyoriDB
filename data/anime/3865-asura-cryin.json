@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3865,
+  "slug": "asura-cryin",
+  "kind": "anime",
+  "title": "Asura Cryin'",
+  "titles": {
+    "default": "Asura Cryin'",
+    "romaji": "Asura Cryin'",
+    "native": "アスラクライン"
+  },
+  "synonyms": [
+    "Asura Cryin'",
+    "アスラクライン",
+    "Asura Kurain"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5342-ANw2oxMaqpKa.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5342",
+      "url": "https://anilist.co/anime/5342"
+    },
+    "cr": {
+      "id": "asura-cryin",
+      "url": "https://www.crunchyroll.com/series/asura-cryin"
+    },
+    "k": {
+      "id": "4064",
+      "url": "https://kitsu.io/anime/4064"
+    },
+    "mal": {
+      "id": "5342",
+      "url": "https://myanimelist.net/anime/5342"
+    },
+    "t": {
+      "id": "42202",
+      "url": "https://trakt.tv/shows/42202"
+    }
+  }
+}

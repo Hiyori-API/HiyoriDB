@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3619,
+  "slug": "pichu-to-pikachu",
+  "kind": "anime",
+  "title": "Pichu to Pikachu",
+  "titles": {
+    "default": "Pichu to Pikachu",
+    "romaji": "Pichu to Pikachu",
+    "english": "Pokémon: Pikachu and Pichu",
+    "native": "ピチューとピカチュウ"
+  },
+  "synonyms": [
+    "Pichu to Pikachu",
+    "Pokémon: Pikachu and Pichu",
+    "ピチューとピカチュウ",
+    "Pikachu & Pichu",
+    "Pokémon: Pikachu i Pichu",
+    "Motoko's Choice Between Love or Swords: Don't cry!",
+    "Love Hina: Motoko no Sentaku, Koi ka Ken... \"Naku na\"",
+    "素子のセンタク",
+    "Mokoto no Sentaku Koikaken",
+    "Love Hina: Motoko's Choice",
+    "Love or the Sword - Don't Cry"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4793.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4793",
+      "url": "https://anilist.co/anime/4793"
+    },
+    "k": {
+      "id": "853",
+      "url": "https://kitsu.io/anime/853"
+    },
+    "mal": {
+      "id": "4793",
+      "url": "https://myanimelist.net/anime/4793"
+    }
+  }
+}

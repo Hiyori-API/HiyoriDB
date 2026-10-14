@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 666,
+  "slug": "m-r",
+  "kind": "anime",
+  "title": "MÄR",
+  "titles": {
+    "default": "MÄR",
+    "romaji": "MÄR",
+    "english": "Marchen Awakens Romance",
+    "native": "メル"
+  },
+  "synonyms": [
+    "MÄR",
+    "Marchen Awakens Romance",
+    "メル",
+    "Märchen Awakens Romance",
+    "MAR-Heaven",
+    "MÄR Heaven"
+  ],
+  "type": "tv",
+  "episodes": 102,
+  "status": "finished",
+  "season": "spring",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx738-NYgcMZwXOgdq.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "738",
+      "url": "https://anilist.co/anime/738"
+    },
+    "k": {
+      "id": "663",
+      "url": "https://kitsu.io/anime/663"
+    },
+    "mal": {
+      "id": "738",
+      "url": "https://myanimelist.net/anime/738"
+    },
+    "t": {
+      "id": "64025",
+      "url": "https://trakt.tv/shows/64025"
+    }
+  }
+}

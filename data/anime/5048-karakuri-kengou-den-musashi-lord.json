@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5048,
+  "slug": "karakuri-kengou-den-musashi-lord",
+  "kind": "anime",
+  "title": "Karakuri Kengou Den Musashi Lord",
+  "titles": {
+    "default": "Karakuri Kengou Den Musashi Lord",
+    "romaji": "Karakuri Kengou Den Musashi Lord",
+    "native": "からくり剣豪伝ムサシロード"
+  },
+  "synonyms": [
+    "Karakuri Kengou Den Musashi Lord",
+    "からくり剣豪伝ムサシロード",
+    "Musashi",
+    "Musashi, the Samurai Lord"
+  ],
+  "type": "tv",
+  "episodes": 50,
+  "status": "finished",
+  "season": "fall",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8065.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8065",
+      "url": "https://anilist.co/anime/8065"
+    },
+    "k": {
+      "id": "5185",
+      "url": "https://kitsu.io/anime/5185"
+    },
+    "mal": {
+      "id": "8065",
+      "url": "https://myanimelist.net/anime/8065"
+    }
+  }
+}

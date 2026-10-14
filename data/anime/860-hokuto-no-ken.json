@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 860,
+  "slug": "hokuto-no-ken",
+  "kind": "anime",
+  "title": "Hokuto no Ken",
+  "titles": {
+    "default": "Hokuto no Ken",
+    "romaji": "Hokuto no Ken",
+    "english": "Fist of the North Star",
+    "native": "北斗の拳"
+  },
+  "synonyms": [
+    "Hokuto no Ken",
+    "Fist of the North Star",
+    "北斗の拳",
+    "Ken il Guerriero",
+    "Seikimatsu Kyuseishu Densetsu: Hokuto no Ken",
+    "Ken - Rättvisans Kämpe",
+    "Ken: The Great Bearfist",
+    "HNK"
+  ],
+  "type": "tv",
+  "episodes": 109,
+  "status": "finished",
+  "season": "fall",
+  "year": 1984,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n967-84jNBaInec98.png"
+  ],
+  "references": {
+    "al": {
+      "id": "967",
+      "url": "https://anilist.co/anime/967"
+    },
+    "cr": {
+      "id": "fist-of-the-north-star",
+      "url": "https://www.crunchyroll.com/series/fist-of-the-north-star"
+    },
+    "k": {
+      "id": "857",
+      "url": "https://kitsu.io/anime/857"
+    },
+    "mal": {
+      "id": "967",
+      "url": "https://myanimelist.net/anime/967"
+    },
+    "t": {
+      "id": "56032",
+      "url": "https://trakt.tv/shows/56032"
+    }
+  }
+}

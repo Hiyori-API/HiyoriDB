@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15092,
+  "slug": "aoyama-gosho-tanpenshuu",
+  "kind": "manga",
+  "title": "Aoyama Gosho Tanpenshuu",
+  "titles": {
+    "default": "Aoyama Gosho Tanpenshuu"
+  },
+  "synonyms": [
+    "Gosho Aoyama's Collection of Short Stories",
+    "Detective George's Mini Huge Cases: Calling on the Great Detective!",
+    "Santa Claus of the Summer",
+    "Wait for A Little While",
+    "The Wandering Red Butterfly",
+    "青山剛昌短編集",
+    "Yokohama Kaidashi Kikou",
+    "ヨコハマ買い出し紀行",
+    "Yokohama Shopping Log",
+    "Yokohama Shopping Trip",
+    "Touge"
+  ],
+  "type": "manga",
+  "chapters": 8,
+  "volumes": 1,
+  "status": "finished",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b43884-F3K3qxKdmkPg.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5578",
+      "url": "https://anilist.co/anime/5578"
+    },
+    "al_manga": {
+      "id": "5578",
+      "url": "https://anilist.co/manga/5578"
+    }
+  }
+}

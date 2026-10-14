@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3246,
+  "slug": "karakuri-kiden-hiwou-senki",
+  "kind": "anime",
+  "title": "Karakuri Kiden: Hiwou Senki",
+  "titles": {
+    "default": "Karakuri Kiden: Hiwou Senki",
+    "romaji": "Karakuri Kiden: Hiwou Senki",
+    "english": "Clockwork Fighters Hiwou's War",
+    "native": "機巧奇傳 ヒヲウ戦記"
+  },
+  "synonyms": [
+    "Karakuri Kiden: Hiwou Senki",
+    "Clockwork Fighters Hiwou's War",
+    "機巧奇傳 ヒヲウ戦記",
+    "Hiwou War Chronicles",
+    "機巧奇傳　ヒヲウ戦記",
+    "Clockwork Fighters: Hiwou's Wari",
+    "Hiwou's Windup Dolls Military Commentaries"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3935-SVAnvZL9qlW7.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3935",
+      "url": "https://anilist.co/anime/3935"
+    },
+    "cr": {
+      "id": "series/G0XHWM1PX/hiwou-war-chronicles",
+      "url": "https://www.crunchyroll.com/series/series/G0XHWM1PX/hiwou-war-chronicles"
+    },
+    "k": {
+      "id": "3360",
+      "url": "https://kitsu.io/anime/3360"
+    },
+    "mal": {
+      "id": "3935",
+      "url": "https://myanimelist.net/anime/3935"
+    },
+    "t": {
+      "id": "9657",
+      "url": "https://trakt.tv/shows/9657"
+    }
+  }
+}

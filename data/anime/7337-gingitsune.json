@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7337,
+  "slug": "gingitsune",
+  "kind": "anime",
+  "title": "Gingitsune",
+  "titles": {
+    "default": "Gingitsune",
+    "romaji": "Gingitsune",
+    "english": "Gingitsune: Messenger Fox of the Gods",
+    "native": "ぎんぎつね"
+  },
+  "synonyms": [
+    "Gingitsune",
+    "Gingitsune: Messenger Fox of the Gods",
+    "ぎんぎつね",
+    "Silver Fox",
+    "Unbreakable Machine-Doll",
+    "Machine-Doll wa Kizutsukanai",
+    "機巧少女〈マシンドール〉は傷つかない",
+    "Machine Girl wa Kizutsukanai",
+    "Kikou Shoujo wa Kizutsukanai"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18411-yKvlUayZ6Bz2.png"
+  ],
+  "references": {
+    "al": {
+      "id": "18411",
+      "url": "https://anilist.co/anime/18411"
+    },
+    "cr": {
+      "id": "gingitsune-messenger-fox-of-the-gods",
+      "url": "https://www.crunchyroll.com/series/gingitsune-messenger-fox-of-the-gods"
+    },
+    "k": {
+      "id": "7617",
+      "url": "https://kitsu.io/anime/7617"
+    },
+    "mal": {
+      "id": "18411",
+      "url": "https://myanimelist.net/anime/18411"
+    },
+    "t": {
+      "id": "72026",
+      "url": "https://trakt.tv/shows/72026"
+    }
+  }
+}

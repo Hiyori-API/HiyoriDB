@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15336,
+  "slug": "popotan",
+  "kind": "manga",
+  "title": "Popotan",
+  "titles": {
+    "default": "Popotan"
+  },
+  "synonyms": [
+    "Po-Po-Tan",
+    "PoPoTan",
+    "Po Po Tan",
+    "ぽぽたん",
+    "xxxHOLiC",
+    "xxxHolic Rou",
+    "xxxHolic Cage",
+    "xxxHolic•Rou"
+  ],
+  "type": "manga",
+  "volumes": 2,
+  "status": "finished",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b51233-AibfkEYtxfZA.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "610",
+      "url": "https://anilist.co/anime/610"
+    },
+    "al_manga": {
+      "id": "610",
+      "url": "https://anilist.co/manga/610"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 350,
+  "slug": "fushigi-yuugi-ova-2",
+  "kind": "anime",
+  "title": "Fushigi Yuugi OVA 2",
+  "titles": {
+    "default": "Fushigi Yuugi OVA 2",
+    "romaji": "Fushigi Yuugi OVA 2",
+    "english": "Mysterious Play OVA 2",
+    "native": "ふしぎ遊戯　第二部"
+  },
+  "synonyms": [
+    "Fushigi Yuugi OVA 2",
+    "Mysterious Play OVA 2",
+    "ふしぎ遊戯　第二部",
+    "Fushigi Yugi OVA 2",
+    "Fushigi Yuugi: Dai Ni Bu"
+  ],
+  "type": "ova",
+  "episodes": 6,
+  "status": "finished",
+  "season": "spring",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/381.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "381",
+      "url": "https://anilist.co/anime/381"
+    },
+    "cr": {
+      "id": "fushigi-yugi-ova",
+      "url": "https://www.crunchyroll.com/series/fushigi-yugi-ova"
+    },
+    "k": {
+      "id": "348",
+      "url": "https://kitsu.io/anime/348"
+    },
+    "mal": {
+      "id": "381",
+      "url": "https://myanimelist.net/anime/381"
+    }
+  }
+}

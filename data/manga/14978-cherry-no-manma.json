@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14978,
+  "slug": "cherry-no-manma",
+  "kind": "manga",
+  "title": "Cherry no Manma",
+  "titles": {
+    "default": "Cherry no Manma"
+  },
+  "synonyms": [
+    "Pink Fruits Scandal",
+    "Cherryのまんま",
+    "Four Steps to Romance",
+    "Romance Godan Katsuyou",
+    "ろまんす五段活用",
+    "Romantic Princess"
+  ],
+  "type": "manga",
+  "volumes": 4,
+  "status": "finished",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx41097-Z8O5JlajuRnA.png"
+  ],
+  "references": {
+    "al": {
+      "id": "6346",
+      "url": "https://anilist.co/anime/6346"
+    },
+    "al_manga": {
+      "id": "6346",
+      "url": "https://anilist.co/manga/6346"
+    }
+  }
+}

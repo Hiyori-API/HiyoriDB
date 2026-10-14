@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11782,
+  "slug": "alice-tantei-kyoku",
+  "kind": "anime",
+  "title": "Alice Tantei Kyoku",
+  "titles": {
+    "default": "Alice Tantei Kyoku",
+    "romaji": "Alice Tantei Kyoku",
+    "native": "アリス 探偵局"
+  },
+  "synonyms": [
+    "Alice Tantei Kyoku",
+    "アリス 探偵局",
+    "Alice Tanteikyoku",
+    "Alice's Detective Agency"
+  ],
+  "type": "tv",
+  "episodes": 56,
+  "status": "finished",
+  "season": "spring",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18819.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "18819",
+      "url": "https://anilist.co/anime/18819"
+    },
+    "k": {
+      "id": "9801",
+      "url": "https://kitsu.io/anime/9801"
+    },
+    "mal": {
+      "id": "18819",
+      "url": "https://myanimelist.net/anime/18819"
+    }
+  }
+}

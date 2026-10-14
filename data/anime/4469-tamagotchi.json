@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4469,
+  "slug": "tamagotchi",
+  "kind": "anime",
+  "title": "Tamagotchi!",
+  "titles": {
+    "default": "Tamagotchi!",
+    "romaji": "Tamagotchi!",
+    "native": "たまごっち!"
+  },
+  "synonyms": [
+    "Tamagotchi!",
+    "たまごっち!",
+    "Thriller Restaurant",
+    "怪談レストラン",
+    "Kaidan Restaurant"
+  ],
+  "type": "tv",
+  "episodes": 143,
+  "status": "finished",
+  "season": "fall",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6900-NnEjDbQL1qMv.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6900",
+      "url": "https://anilist.co/anime/6900"
+    },
+    "mal": {
+      "id": "6900",
+      "url": "https://myanimelist.net/anime/6900"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3707,
+  "slug": "lupin-iii-sweet-lost-night-mahou-no-lamp-wa-akumu-no-yokan",
+  "kind": "anime",
+  "title": "Lupin III: sweet lost night - Mahou no Lamp wa Akumu no Yokan",
+  "titles": {
+    "default": "Lupin III: sweet lost night - Mahou no Lamp wa Akumu no Yokan",
+    "romaji": "Lupin III: sweet lost night - Mahou no Lamp wa Akumu no Yokan",
+    "english": "Lupin the 3rd: Sweet Lost Night",
+    "native": "ルパン三世　sweet lost night ～魔法のランプは悪夢の予感～"
+  },
+  "synonyms": [
+    "Lupin III: sweet lost night - Mahou no Lamp wa Akumu no Yokan",
+    "Lupin the 3rd: Sweet Lost Night",
+    "ルパン三世　sweet lost night ～魔法のランプは悪夢の予感～",
+    "Lupin III: Sweet Lost Night ~Magic Lamp's Nightmare Premonition~",
+    "Lupin III - La lamapada di Aladino",
+    "Lupin the Third: Sweet Lost Night - Magic Lamp's Nightmare Premonition",
+    "Lupin III: Sweet Lost Night - Mahou no Lamp wa Akumu no Yokan",
+    "Lupin III: Sweet Lost Night - Magic Lamp's Nightmare Premonition"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5019-4BC3MrSgmvqn.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5019",
+      "url": "https://anilist.co/anime/5019"
+    },
+    "k": {
+      "id": "3885",
+      "url": "https://kitsu.io/anime/3885"
+    },
+    "mal": {
+      "id": "5019",
+      "url": "https://myanimelist.net/anime/5019"
+    }
+  }
+}

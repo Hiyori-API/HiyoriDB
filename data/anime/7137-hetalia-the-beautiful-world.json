@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7137,
+  "slug": "hetalia-the-beautiful-world",
+  "kind": "anime",
+  "title": "Hetalia: The Beautiful World",
+  "titles": {
+    "default": "Hetalia: The Beautiful World",
+    "romaji": "Hetalia: The Beautiful World",
+    "native": "ヘタリア The Beautiful World"
+  },
+  "synonyms": [
+    "Hetalia: The Beautiful World",
+    "ヘタリア The Beautiful World"
+  ],
+  "type": "ona",
+  "episodes": 20,
+  "status": "finished",
+  "season": "winter",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15195.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "15195",
+      "url": "https://anilist.co/anime/15195"
+    },
+    "cr": {
+      "id": "hetalia",
+      "url": "https://www.crunchyroll.com/series/hetalia"
+    },
+    "k": {
+      "id": "7226",
+      "url": "https://kitsu.io/anime/7226"
+    },
+    "mal": {
+      "id": "15195",
+      "url": "https://myanimelist.net/anime/15195"
+    },
+    "t": {
+      "id": "61580",
+      "url": "https://trakt.tv/shows/61580"
+    },
+    "ttv": {
+      "id": "2239",
+      "url": "https://tubitv.com/series/2239"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5727,
+  "slug": "patta-potta-monta",
+  "kind": "anime",
+  "title": "Patta Potta Monta",
+  "titles": {
+    "default": "Patta Potta Monta",
+    "romaji": "Patta Potta Monta",
+    "native": "パッタ ポッタ モン太"
+  },
+  "synonyms": [
+    "Patta Potta Monta",
+    "パッタ ポッタ モン太",
+    "Bokura ga Ita",
+    "僕等がいた",
+    "Bokuraga Ita",
+    "We were there"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "summer",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b110453-nbihvXPEVy26.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "110453",
+      "url": "https://anilist.co/anime/110453"
+    },
+    "k": {
+      "id": "1099",
+      "url": "https://kitsu.io/anime/1099"
+    },
+    "mal": {
+      "id": "24121",
+      "url": "https://myanimelist.net/anime/24121"
+    },
+    "t": {
+      "id": "22476",
+      "url": "https://trakt.tv/shows/22476"
+    }
+  }
+}

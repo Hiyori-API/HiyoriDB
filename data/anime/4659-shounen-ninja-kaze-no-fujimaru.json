@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4659,
+  "slug": "shounen-ninja-kaze-no-fujimaru",
+  "kind": "anime",
+  "title": "Shounen Ninja Kaze no Fujimaru",
+  "titles": {
+    "default": "Shounen Ninja Kaze no Fujimaru",
+    "romaji": "Shounen Ninja Kaze no Fujimaru",
+    "native": "少年忍者風のフジ丸"
+  },
+  "synonyms": [
+    "Shounen Ninja Kaze no Fujimaru",
+    "少年忍者風のフジ丸",
+    "Samurai Kid"
+  ],
+  "type": "tv",
+  "episodes": 65,
+  "status": "finished",
+  "season": "summer",
+  "year": 1964,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13307-LahAsvEwVqMy.png"
+  ],
+  "references": {
+    "al": {
+      "id": "13307",
+      "url": "https://anilist.co/anime/13307"
+    },
+    "k": {
+      "id": "6936",
+      "url": "https://kitsu.io/anime/6936"
+    },
+    "mal": {
+      "id": "13307",
+      "url": "https://myanimelist.net/anime/13307"
+    }
+  }
+}

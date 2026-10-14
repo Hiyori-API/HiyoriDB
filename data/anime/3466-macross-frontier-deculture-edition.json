@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3466,
+  "slug": "macross-frontier-deculture-edition",
+  "kind": "anime",
+  "title": "Macross Frontier Deculture Edition",
+  "titles": {
+    "default": "Macross Frontier Deculture Edition",
+    "romaji": "Macross Frontier Deculture Edition",
+    "native": "マクロスＦ"
+  },
+  "synonyms": [
+    "Macross Frontier Deculture Edition",
+    "マクロスＦ",
+    "Yumedamaya Kidan",
+    "ゆめだまや奇談",
+    "Yume da Maya Kidan",
+    "Yumedamaya: The Strange Tale of the Dreamball Dealer",
+    "The Strange Story of a Dream Sphere Dealer",
+    "The Strange Tale of a Dream Sphere Dealer"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4454.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4454",
+      "url": "https://anilist.co/anime/4454"
+    },
+    "k": {
+      "id": "2714",
+      "url": "https://kitsu.io/anime/2714"
+    },
+    "mal": {
+      "id": "4454",
+      "url": "https://myanimelist.net/anime/4454"
+    }
+  }
+}

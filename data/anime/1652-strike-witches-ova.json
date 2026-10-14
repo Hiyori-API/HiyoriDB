@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1652,
+  "slug": "strike-witches-ova",
+  "kind": "anime",
+  "title": "Strike Witches OVA",
+  "titles": {
+    "default": "Strike Witches OVA",
+    "romaji": "Strike Witches OVA",
+    "native": "ストライクウィッチーズ"
+  },
+  "synonyms": [
+    "Strike Witches OVA",
+    "ストライクウィッチーズ"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1862-kxyM3WYNVKLj.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1862",
+      "url": "https://anilist.co/anime/1862"
+    },
+    "k": {
+      "id": "1679",
+      "url": "https://kitsu.io/anime/1679"
+    },
+    "mal": {
+      "id": "1862",
+      "url": "https://myanimelist.net/anime/1862"
+    }
+  }
+}

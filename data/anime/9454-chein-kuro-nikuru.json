@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9454,
+  "slug": "chein-kuro-nikuru",
+  "kind": "anime",
+  "title": "Chein Kuro-Nikuru!!",
+  "titles": {
+    "default": "Chein Kuro-Nikuru!!",
+    "romaji": "Chein Kuro-Nikuru!!",
+    "native": "ちぇいん黒にくる!!"
+  },
+  "synonyms": [
+    "Chein Kuro-Nikuru!!",
+    "ちぇいん黒にくる!!",
+    "Chain Chronican Black Shorts",
+    "Gintama (2017)",
+    "Gintama Season 5",
+    "銀魂。",
+    "Gintama."
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b122062-ZKmgBmx9arpQ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "122062",
+      "url": "https://anilist.co/anime/122062"
+    },
+    "mal": {
+      "id": "34765",
+      "url": "https://myanimelist.net/anime/34765"
+    }
+  }
+}

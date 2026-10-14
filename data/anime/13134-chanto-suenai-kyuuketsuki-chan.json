@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13134,
+  "slug": "chanto-suenai-kyuuketsuki-chan",
+  "kind": "anime",
+  "title": "Chanto Suenai Kyuuketsuki-chan",
+  "titles": {
+    "default": "Chanto Suenai Kyuuketsuki-chan",
+    "romaji": "Chanto Suenai Kyuuketsuki-chan",
+    "english": "Li'l Miss Vampire Can't Suck Right",
+    "native": "ちゃんと吸えない吸血鬼ちゃん"
+  },
+  "synonyms": [
+    "Chanto Suenai Kyuuketsuki-chan",
+    "Li'l Miss Vampire Can't Suck Right",
+    "ちゃんと吸えない吸血鬼ちゃん",
+    "Vampire-chan Can't Suck Properly",
+    "Ring ni Kakero 1",
+    "リングにかけろ１",
+    "Put it all in the Ring"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186524-JSsyFR3FqTO8.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "186524",
+      "url": "https://anilist.co/anime/186524"
+    },
+    "cr": {
+      "id": "series/GT00362058/lil-miss-vampire-cant-suck-right",
+      "url": "https://www.crunchyroll.com/series/series/GT00362058/lil-miss-vampire-cant-suck-right"
+    },
+    "k": {
+      "id": "14",
+      "url": "https://kitsu.io/anime/14"
+    },
+    "mal": {
+      "id": "60933",
+      "url": "https://myanimelist.net/anime/60933"
+    },
+    "t": {
+      "id": "69507",
+      "url": "https://trakt.tv/shows/69507"
+    }
+  }
+}

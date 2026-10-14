@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14736,
+  "slug": "akuemon",
+  "kind": "manga",
+  "title": "Akuemon",
+  "titles": {
+    "default": "Akuemon"
+  },
+  "synonyms": [
+    "Aku-Emon le mauvais",
+    "悪右衛門",
+    "Christmas Snow",
+    "Noel la Neige",
+    "ノエル　ラ　ネージュ",
+    "Noël la neige"
+  ],
+  "type": "one_shot",
+  "chapters": 1,
+  "status": "finished",
+  "year": 1973,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx161040-4JVcpL2qE0Gh.png"
+  ],
+  "references": {
+    "al": {
+      "id": "14231",
+      "url": "https://anilist.co/anime/14231"
+    },
+    "al_manga": {
+      "id": "14231",
+      "url": "https://anilist.co/manga/14231"
+    }
+  }
+}

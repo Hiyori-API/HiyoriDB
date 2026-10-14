@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5429,
+  "slug": "heli-tako-puu-chan",
+  "kind": "anime",
+  "title": "Heli-Tako Puu-chan",
+  "titles": {
+    "default": "Heli-Tako Puu-chan",
+    "romaji": "Heli-Tako Puu-chan",
+    "native": "ヘリタコぷーちゃん"
+  },
+  "synonyms": [
+    "Heli-Tako Puu-chan",
+    "ヘリタコぷーちゃん",
+    "Anime Shuukan DX! Mi-Pha-Pu",
+    "Heli-Octopus Puu-Chan",
+    "PUCHAN"
+  ],
+  "type": "tv",
+  "episodes": 42,
+  "status": "finished",
+  "season": "winter",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169096-h7tPqwshEvCV.png"
+  ],
+  "references": {
+    "al": {
+      "id": "169096",
+      "url": "https://anilist.co/anime/169096"
+    },
+    "k": {
+      "id": "9302",
+      "url": "https://kitsu.io/anime/9302"
+    },
+    "mal": {
+      "id": "24465",
+      "url": "https://myanimelist.net/anime/24465"
+    }
+  }
+}

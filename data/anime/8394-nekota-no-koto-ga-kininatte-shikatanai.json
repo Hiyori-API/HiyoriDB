@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8394,
+  "slug": "nekota-no-koto-ga-kininatte-shikatanai",
+  "kind": "anime",
+  "title": "Nekota no Koto ga Kininatte Shikatanai.",
+  "titles": {
+    "default": "Nekota no Koto ga Kininatte Shikatanai.",
+    "romaji": "Nekota no Koto ga Kininatte Shikatanai.",
+    "native": "猫田のことが気になって仕方ない。"
+  },
+  "synonyms": [
+    "Nekota no Koto ga Kininatte Shikatanai.",
+    "猫田のことが気になって仕方ない。",
+    "Bokura wa Minna Kawai-sou: Hajimete no",
+    "僕らはみんな河合荘 初めての",
+    "The Kawai Complex Guide to Manors and Hostel Behavior: First Time",
+    "Bokura wa Minna Kawaisou: Hajimete no",
+    "Bokura wa Minna Kawaisou Special"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21882-SXqC5iVkYQ1C.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21882",
+      "url": "https://anilist.co/anime/21882"
+    },
+    "k": {
+      "id": "8536",
+      "url": "https://kitsu.io/anime/8536"
+    },
+    "mal": {
+      "id": "28963",
+      "url": "https://myanimelist.net/anime/28963"
+    }
+  }
+}

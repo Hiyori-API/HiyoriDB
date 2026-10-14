@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13371,
+  "slug": "hell-mode-yarikomi-zuki-no-gamer-wa-haisettei-no-isekai-de-musou-suru",
+  "kind": "anime",
+  "title": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru",
+  "titles": {
+    "default": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru",
+    "romaji": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru",
+    "english": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing",
+    "native": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～"
+  },
+  "synonyms": [
+    "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru",
+    "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing",
+    "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～",
+    "HELL MODE อยากเล่นโหด ขอโหมดนรก",
+    "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing",
+    "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185262-95wbx3Y9hCwm.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "185262",
+      "url": "https://anilist.co/anime/185262"
+    },
+    "mal": {
+      "id": "60460",
+      "url": "https://myanimelist.net/anime/60460"
+    }
+  }
+}

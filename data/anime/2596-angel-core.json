@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2596,
+  "slug": "angel-core",
+  "kind": "anime",
+  "title": "Angel Core",
+  "titles": {
+    "default": "Angel Core",
+    "romaji": "Angel Core",
+    "native": "エンゼル・コア"
+  },
+  "synonyms": [
+    "Angel Core",
+    "エンゼル・コア",
+    "Eiken",
+    "Eiken: Eikenbu yori Ai wo Komete",
+    "エイケン エイケンヴより愛をこめて"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2946.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2946",
+      "url": "https://anilist.co/anime/2946"
+    },
+    "k": {
+      "id": "703",
+      "url": "https://kitsu.io/anime/703"
+    },
+    "mal": {
+      "id": "2946",
+      "url": "https://myanimelist.net/anime/2946"
+    }
+  }
+}

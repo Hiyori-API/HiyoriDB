@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14379,
+  "slug": "asu-no-yoichi",
+  "kind": "manga",
+  "title": "Asu no Yoichi!",
+  "titles": {
+    "default": "Asu no Yoichi!"
+  },
+  "synonyms": [
+    "Ashita no Yoichi!",
+    "High School Samurai",
+    "Samurai Harem: Asu no Yoichi",
+    "明日のよいち!",
+    "Love Makes People Grow",
+    "Hito wa Ai wo Tabete Sodatsu",
+    "人は愛を食べて育つ",
+    "Eat Love and Grow",
+    "Hito wa ai o tabete sodatsu"
+  ],
+  "type": "manga",
+  "chapters": 58,
+  "volumes": 15,
+  "status": "finished",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b33214-ygxm7HShSqM6.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4999",
+      "url": "https://anilist.co/anime/4999"
+    },
+    "al_manga": {
+      "id": "4999",
+      "url": "https://anilist.co/manga/4999"
+    }
+  }
+}

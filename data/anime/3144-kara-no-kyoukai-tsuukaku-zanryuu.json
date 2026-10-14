@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3144,
+  "slug": "kara-no-kyoukai-tsuukaku-zanryuu",
+  "kind": "anime",
+  "title": "Kara no Kyoukai: Tsuukaku Zanryuu",
+  "titles": {
+    "default": "Kara no Kyoukai: Tsuukaku Zanryuu",
+    "romaji": "Kara no Kyoukai: Tsuukaku Zanryuu",
+    "english": "the Garden of sinners Chapter 3: ever cry, never life. (Remaining Sense of Pain)",
+    "native": "空の境界 痛覚残留"
+  },
+  "synonyms": [
+    "Kara no Kyoukai: Tsuukaku Zanryuu",
+    "the Garden of sinners Chapter 3: ever cry, never life. (Remaining Sense of Pain)",
+    "空の境界 痛覚残留",
+    "One Piece Movie 9: Episode of Chopper Plus - Fuyu ni Saku, Kiseki no Sakura",
+    "ＯＮＥ ＰＩＥＣＥ（ワンピース） エピソードオブチョッパー＋冬に咲く、奇跡の桜",
+    "One Piece: Episode of Chopper Plus - Bloom in the Winter",
+    "Miracle Sakura"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3783-NziqsWetU1LK.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3783",
+      "url": "https://anilist.co/anime/3783"
+    },
+    "cr": {
+      "id": "the-garden-of-sinners/episode-3-remaining-sense-of-pain-ever-cry-never-life-763073",
+      "url": "https://www.crunchyroll.com/series/the-garden-of-sinners/episode-3-remaining-sense-of-pain-ever-cry-never-life-763073"
+    },
+    "k": {
+      "id": "3300",
+      "url": "https://kitsu.io/anime/3300"
+    },
+    "mal": {
+      "id": "3783",
+      "url": "https://myanimelist.net/anime/3783"
+    }
+  }
+}

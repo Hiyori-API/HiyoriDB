@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7905,
+  "slug": "paizuri-cheerleader-vs-sakunyuu-ouendan",
+  "kind": "anime",
+  "title": "Paizuri Cheerleader VS Sakunyuu Ouendan!",
+  "titles": {
+    "default": "Paizuri Cheerleader VS Sakunyuu Ouendan!",
+    "romaji": "Paizuri Cheerleader VS Sakunyuu Ouendan!",
+    "native": "ぱいずりチアリーダーVS搾乳応援団!"
+  },
+  "synonyms": [
+    "Paizuri Cheerleader VS Sakunyuu Ouendan!",
+    "ぱいずりチアリーダーVS搾乳応援団!",
+    "Girls & Panzer: Kore ga Hontou no Anzio-sen desu!",
+    "Girls & Panzer: This is the Real Anzio Battle!",
+    "ガールズ&パンツァー　これが本当のアンツィオ戦です！",
+    "Girls und Panzer OVA",
+    "Girls und Panzer: This is the true battle of Anzio!"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21536-SsoHZILOFMrC.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21536",
+      "url": "https://anilist.co/anime/21536"
+    },
+    "k": {
+      "id": "7981",
+      "url": "https://kitsu.io/anime/7981"
+    },
+    "mal": {
+      "id": "24271",
+      "url": "https://myanimelist.net/anime/24271"
+    }
+  }
+}

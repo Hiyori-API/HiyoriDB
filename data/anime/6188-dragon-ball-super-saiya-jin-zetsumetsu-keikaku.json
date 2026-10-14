@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6188,
+  "slug": "dragon-ball-super-saiya-jin-zetsumetsu-keikaku",
+  "kind": "anime",
+  "title": "Dragon Ball: Super Saiya-jin Zetsumetsu Keikaku",
+  "titles": {
+    "default": "Dragon Ball: Super Saiya-jin Zetsumetsu Keikaku",
+    "romaji": "Dragon Ball: Super Saiya-jin Zetsumetsu Keikaku",
+    "english": "Dragon Ball: Plan to Eradicate the Super Saiyans",
+    "native": "ドラゴンボール　超サイヤ人絶滅計画"
+  },
+  "synonyms": [
+    "Dragon Ball: Super Saiya-jin Zetsumetsu Keikaku",
+    "Dragon Ball: Plan to Eradicate the Super Saiyans",
+    "ドラゴンボール　超サイヤ人絶滅計画",
+    "Dragon Ball Z: Plan to Eradicate Super Saiyans OVA Remake",
+    "Драконий жемчуг Зет: План по уничтожению сайянов 2",
+    "Dragon Ball Z: Plan to Eradicate the Super Saiyans"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10017-2MwGtAPOPg6P.png"
+  ],
+  "references": {
+    "al": {
+      "id": "10017",
+      "url": "https://anilist.co/anime/10017"
+    },
+    "k": {
+      "id": "5997",
+      "url": "https://kitsu.io/anime/5997"
+    },
+    "mal": {
+      "id": "10017",
+      "url": "https://myanimelist.net/anime/10017"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7070,
+  "slug": "yama-ni-kagayaku-guide-ken-heiji-gou",
+  "kind": "anime",
+  "title": "Yama ni Kagayaku: Guide-ken Heiji Gou",
+  "titles": {
+    "default": "Yama ni Kagayaku: Guide-ken Heiji Gou",
+    "romaji": "Yama ni Kagayaku: Guide-ken Heiji Gou",
+    "native": "山に輝く ガイド犬平治号"
+  },
+  "synonyms": [
+    "Yama ni Kagayaku: Guide-ken Heiji Gou",
+    "山に輝く ガイド犬平治号",
+    "Yama ni Kagayaku: Guide Inu Heiji Gou",
+    "C³ - CubexCursedxCurious Special",
+    "C³: Rikan Gakkou Confussion!",
+    "-シーキューブ- 林間学校こんふゅーじょん!",
+    "C3 Special",
+    "C Cube Special",
+    "C^3",
+    "C³ Episode 13",
+    "C³ Special"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20205.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "20205",
+      "url": "https://anilist.co/anime/20205"
+    },
+    "k": {
+      "id": "6751",
+      "url": "https://kitsu.io/anime/6751"
+    },
+    "mal": {
+      "id": "20205",
+      "url": "https://myanimelist.net/anime/20205"
+    }
+  }
+}

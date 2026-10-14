@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13824,
+  "slug": "ghost-hunt",
+  "kind": "manga",
+  "title": "Ghost Hunt",
+  "titles": {
+    "default": "Ghost Hunt"
+  },
+  "synonyms": [
+    "Akuryou ga Ippai",
+    "Ghost-Hunt",
+    "The Ghost Hunt",
+    "ゴーストハント",
+    "Ghost Hunt"
+  ],
+  "type": "manga",
+  "chapters": 57,
+  "volumes": 12,
+  "status": "finished",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30158-5I8KJB2y1ZAW.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1571",
+      "url": "https://anilist.co/anime/1571"
+    },
+    "al_manga": {
+      "id": "1571",
+      "url": "https://anilist.co/manga/1571"
+    }
+  }
+}

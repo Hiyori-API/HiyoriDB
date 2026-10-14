@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4346,
+  "slug": "pico-boku-no-chiisana-natsu-monogatari",
+  "kind": "anime",
+  "title": "pico: Boku no Chiisana Natsu Monogatari",
+  "titles": {
+    "default": "pico: Boku no Chiisana Natsu Monogatari",
+    "romaji": "pico: Boku no Chiisana Natsu Monogatari",
+    "native": "pico～ぼくの小さな夏物語"
+  },
+  "synonyms": [
+    "pico: Boku no Chiisana Natsu Monogatari",
+    "pico～ぼくの小さな夏物語",
+    "Pico: My Little Summer Story",
+    "pico ～ぼくの小さな夏物語～",
+    "Pico: Boku no Chiisana Natsu Monogatari"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6546.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6546",
+      "url": "https://anilist.co/anime/6546"
+    },
+    "k": {
+      "id": "4603",
+      "url": "https://kitsu.io/anime/4603"
+    },
+    "mal": {
+      "id": "6546",
+      "url": "https://myanimelist.net/anime/6546"
+    }
+  }
+}

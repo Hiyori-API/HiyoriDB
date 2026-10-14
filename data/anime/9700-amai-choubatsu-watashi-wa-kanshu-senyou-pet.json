@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9700,
+  "slug": "amai-choubatsu-watashi-wa-kanshu-senyou-pet",
+  "kind": "anime",
+  "title": "Amai Choubatsu: Watashi wa Kanshu Senyou Pet",
+  "titles": {
+    "default": "Amai Choubatsu: Watashi wa Kanshu Senyou Pet",
+    "romaji": "Amai Choubatsu: Watashi wa Kanshu Senyou Pet",
+    "english": "Sweet Punishment -I'm the Guard's Personal Pet-",
+    "native": "甘い懲罰～私は看守専用ペット"
+  },
+  "synonyms": [
+    "Amai Choubatsu: Watashi wa Kanshu Senyou Pet",
+    "Sweet Punishment -I'm the Guard's Personal Pet-",
+    "甘い懲罰～私は看守専用ペット",
+    "Amai Choubatsu: Watashi wa Kanshu Sen`you Pet",
+    "I am a pet dedicated to the guard",
+    "달콤한 징벌 ~ 나는 간수 전용 애완동물",
+    "Dulce Castigo: La Mascota Personal del Guardia",
+    "Doce Castigo: Sou a cadelinha do guarda",
+    "梦塔之雪谜城",
+    "Dream Tower: The Puzzle of Snow City",
+    "Dream Tower: Snow Mystery City",
+    "Dream Tower",
+    "梦塔・雪谜城",
+    "Meng Ta: Xue Mi Cheng"
+  ],
+  "type": "ona",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101160-FBZBM5uRHoSZ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "101160",
+      "url": "https://anilist.co/anime/101160"
+    },
+    "mal": {
+      "id": "37320",
+      "url": "https://myanimelist.net/anime/37320"
+    },
+    "tx": {
+      "id": "ComicFestaAnime",
+      "url": "https://twitter.com/ComicFestaAnime"
+    }
+  }
+}

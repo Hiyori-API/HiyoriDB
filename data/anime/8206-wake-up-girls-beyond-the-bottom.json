@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8206,
+  "slug": "wake-up-girls-beyond-the-bottom",
+  "kind": "anime",
+  "title": "Wake Up, Girls! Beyond the Bottom",
+  "titles": {
+    "default": "Wake Up, Girls! Beyond the Bottom",
+    "romaji": "Wake Up, Girls! Beyond the Bottom",
+    "native": "Wake Up, Girls！ Beyond the Bottom"
+  },
+  "synonyms": [
+    "Wake Up, Girls! Beyond the Bottom",
+    "Wake Up, Girls！ Beyond the Bottom",
+    "Little Witch Academia: The Enchanted Parade",
+    "Little Witch Academia: Mahoujikake no Parade",
+    "リトルウィッチアカデミア 魔法仕掛けのパレード",
+    "LWA 2",
+    "Little Witch Academia 2"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21107-m9brp8HPYV4f.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21107",
+      "url": "https://anilist.co/anime/21107"
+    },
+    "k": {
+      "id": "7862",
+      "url": "https://kitsu.io/anime/7862"
+    },
+    "mal": {
+      "id": "30419",
+      "url": "https://myanimelist.net/anime/30419"
+    },
+    "tx": {
+      "id": "wakeupgirls_PR",
+      "url": "https://twitter.com/wakeupgirls_PR"
+    }
+  }
+}

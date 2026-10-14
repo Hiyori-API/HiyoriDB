@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4226,
+  "slug": "sasameki-koto",
+  "kind": "anime",
+  "title": "Sasameki Koto",
+  "titles": {
+    "default": "Sasameki Koto",
+    "romaji": "Sasameki Koto",
+    "english": "Whispered Words",
+    "native": "ささめきこと"
+  },
+  "synonyms": [
+    "Sasameki Koto",
+    "Whispered Words",
+    "ささめきこと",
+    "Sasamekikoto",
+    "Sasame Kikoto"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6203-9eEIo87h3B5Z.png"
+  ],
+  "references": {
+    "al": {
+      "id": "6203",
+      "url": "https://anilist.co/anime/6203"
+    },
+    "k": {
+      "id": "4473",
+      "url": "https://kitsu.io/anime/4473"
+    },
+    "mal": {
+      "id": "6203",
+      "url": "https://myanimelist.net/anime/6203"
+    },
+    "t": {
+      "id": "42184",
+      "url": "https://trakt.tv/shows/42184"
+    }
+  }
+}

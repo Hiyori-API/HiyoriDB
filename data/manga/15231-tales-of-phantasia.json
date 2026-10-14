@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15231,
+  "slug": "tales-of-phantasia",
+  "kind": "manga",
+  "title": "Tales of Phantasia",
+  "titles": {
+    "default": "Tales of Phantasia"
+  },
+  "synonyms": [
+    "テイルズオブファンタジア",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "volumes": 2,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10738.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "391",
+      "url": "https://anilist.co/anime/391"
+    },
+    "al_manga": {
+      "id": "391",
+      "url": "https://anilist.co/manga/391"
+    }
+  }
+}

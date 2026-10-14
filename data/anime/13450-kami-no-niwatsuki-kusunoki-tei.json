@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13450,
+  "slug": "kami-no-niwatsuki-kusunoki-tei",
+  "kind": "anime",
+  "title": "Kami no Niwatsuki Kusunoki-tei",
+  "titles": {
+    "default": "Kami no Niwatsuki Kusunoki-tei",
+    "romaji": "Kami no Niwatsuki Kusunoki-tei",
+    "english": "Kusunoki's Garden of Gods",
+    "native": "神の庭付き楠木邸"
+  },
+  "synonyms": [
+    "Kami no Niwatsuki Kusunoki-tei",
+    "Kusunoki's Garden of Gods",
+    "神の庭付き楠木邸",
+    "บ้านพักคุสึโนกิกับสวนเทพเจ้า",
+    "Божественный сад у поместья Кусуноки",
+    "This Ugly Yet Beautiful World",
+    "Kono Minikuku mo Utsukushii Sekai",
+    "この醜くも美しい世界"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196029-4ML0UHngkZhn.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "196029",
+      "url": "https://anilist.co/anime/196029"
+    },
+    "cr": {
+      "id": "series/GT00374360/kusunokis-garden-of-gods",
+      "url": "https://www.crunchyroll.com/series/series/GT00374360/kusunokis-garden-of-gods"
+    },
+    "k": {
+      "id": "124",
+      "url": "https://kitsu.io/anime/124"
+    },
+    "mal": {
+      "id": "62050",
+      "url": "https://myanimelist.net/anime/62050"
+    },
+    "t": {
+      "id": "34001",
+      "url": "https://trakt.tv/shows/34001"
+    }
+  }
+}

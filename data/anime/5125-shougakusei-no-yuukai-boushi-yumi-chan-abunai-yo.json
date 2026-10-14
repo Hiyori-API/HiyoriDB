@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5125,
+  "slug": "shougakusei-no-yuukai-boushi-yumi-chan-abunai-yo",
+  "kind": "anime",
+  "title": "Shougakusei no Yuukai Boushi: Yumi-chan Abunai yo!",
+  "titles": {
+    "default": "Shougakusei no Yuukai Boushi: Yumi-chan Abunai yo!",
+    "romaji": "Shougakusei no Yuukai Boushi: Yumi-chan Abunai yo!",
+    "native": "小学生の誘拐防止 ユミちゃん あぶないよ!"
+  },
+  "synonyms": [
+    "Shougakusei no Yuukai Boushi: Yumi-chan Abunai yo!",
+    "小学生の誘拐防止 ユミちゃん あぶないよ!",
+    "小学生の誘拐防止　ユミちゃんあぶないよ"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b9879-hys45go5lCYP.png"
+  ],
+  "references": {
+    "al": {
+      "id": "9879",
+      "url": "https://anilist.co/anime/9879"
+    },
+    "k": {
+      "id": "5916",
+      "url": "https://kitsu.io/anime/5916"
+    },
+    "mal": {
+      "id": "9879",
+      "url": "https://myanimelist.net/anime/9879"
+    }
+  }
+}

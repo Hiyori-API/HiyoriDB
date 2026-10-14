@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6019,
+  "slug": "crayon-shin-chan-chou-jikuu-arashi-wo-yobu-ora-no-hanayome",
+  "kind": "anime",
+  "title": "Crayon Shin-chan: Chou Jikuu! Arashi wo Yobu Ora no Hanayome",
+  "titles": {
+    "default": "Crayon Shin-chan: Chou Jikuu! Arashi wo Yobu Ora no Hanayome",
+    "romaji": "Crayon Shin-chan: Chou Jikuu! Arashi wo Yobu Ora no Hanayome",
+    "native": "クレヨンしんちゃん 超時空！嵐を呼ぶオラの花嫁"
+  },
+  "synonyms": [
+    "Crayon Shin-chan: Chou Jikuu! Arashi wo Yobu Ora no Hanayome",
+    "クレヨンしんちゃん 超時空！嵐を呼ぶオラの花嫁",
+    "Eiga Crayon Shin-chan: Chou Jikuu! Arashi wo Yobu Ora no Hanayome",
+    "Crayon Shin-chan: Super-Dimmension! The Storm Called My Bride",
+    "Shin-chan: La novia del futuro",
+    "Crayon Shin-chan Movie 18: Chou Jikuu! Arashi wo Yobu Ora no Hanayome"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8369.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8369",
+      "url": "https://anilist.co/anime/8369"
+    },
+    "k": {
+      "id": "5318",
+      "url": "https://kitsu.io/anime/5318"
+    },
+    "mal": {
+      "id": "8369",
+      "url": "https://myanimelist.net/anime/8369"
+    }
+  }
+}

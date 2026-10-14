@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3250,
+  "slug": "rensa-byoutou",
+  "kind": "anime",
+  "title": "Rensa Byoutou",
+  "titles": {
+    "default": "Rensa Byoutou",
+    "romaji": "Rensa Byoutou",
+    "native": "連鎖病棟"
+  },
+  "synonyms": [
+    "Rensa Byoutou",
+    "連鎖病棟",
+    "Rensa Byo-toh",
+    "Linked Hospital Ward",
+    "Sousei no Aquarion OVA",
+    "ＯＶＡ『創星のアクエリオン』",
+    "Genesis of Aquarion OVA",
+    "Sousei no Aquarion: Uragiri no Tsubasa",
+    "Sousei no Aquarion: Taiyou no Tsubasa"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3941.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3941",
+      "url": "https://anilist.co/anime/3941"
+    },
+    "k": {
+      "id": "1965",
+      "url": "https://kitsu.io/anime/1965"
+    },
+    "mal": {
+      "id": "3941",
+      "url": "https://myanimelist.net/anime/3941"
+    }
+  }
+}

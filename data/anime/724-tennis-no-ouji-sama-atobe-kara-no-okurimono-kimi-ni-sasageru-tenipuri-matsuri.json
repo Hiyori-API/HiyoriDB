@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 724,
+  "slug": "tennis-no-ouji-sama-atobe-kara-no-okurimono-kimi-ni-sasageru-tenipuri-matsuri",
+  "kind": "anime",
+  "title": "Tennis no Ouji-sama: Atobe Kara no Okurimono - Kimi ni Sasageru Tenipuri Matsuri",
+  "titles": {
+    "default": "Tennis no Ouji-sama: Atobe Kara no Okurimono - Kimi ni Sasageru Tenipuri Matsuri",
+    "romaji": "Tennis no Ouji-sama: Atobe Kara no Okurimono - Kimi ni Sasageru Tenipuri Matsuri",
+    "native": "テニスの王子様 跡部からの贈り物 ～君に捧げるテニプリ祭り～"
+  },
+  "synonyms": [
+    "Tennis no Ouji-sama: Atobe Kara no Okurimono - Kimi ni Sasageru Tenipuri Matsuri",
+    "テニスの王子様 跡部からの贈り物 ～君に捧げるテニプリ祭り～",
+    "The Prince of Tennis: Atobe Kara no Okurimono",
+    "Prince of Tennis: Atobe Kara no Okurimono",
+    "Prince of Tennis: Atobe's Gift",
+    "跡部からの贈り物",
+    "Tennis no Oujisama: Atobe Kara no Okurimono"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/814.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "814",
+      "url": "https://anilist.co/anime/814"
+    },
+    "k": {
+      "id": "721",
+      "url": "https://kitsu.io/anime/721"
+    },
+    "mal": {
+      "id": "814",
+      "url": "https://myanimelist.net/anime/814"
+    }
+  }
+}

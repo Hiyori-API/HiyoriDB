@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2114,
+  "slug": "hoshi-no-kirby",
+  "kind": "anime",
+  "title": "Hoshi no Kirby",
+  "titles": {
+    "default": "Hoshi no Kirby",
+    "romaji": "Hoshi no Kirby",
+    "english": "Kirby: Right Back at Ya!",
+    "native": "星のカービィ"
+  },
+  "synonyms": [
+    "Hoshi no Kirby",
+    "Kirby: Right Back at Ya!",
+    "星のカービィ",
+    "Kirby of the Stars",
+    "Kirby das Estrelas"
+  ],
+  "type": "tv",
+  "episodes": 100,
+  "status": "finished",
+  "season": "fall",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2390-SiSD2HIQLJTz.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2390",
+      "url": "https://anilist.co/anime/2390"
+    },
+    "k": {
+      "id": "2167",
+      "url": "https://kitsu.io/anime/2167"
+    },
+    "mal": {
+      "id": "2390",
+      "url": "https://myanimelist.net/anime/2390"
+    },
+    "t": {
+      "id": "14827",
+      "url": "https://trakt.tv/shows/14827"
+    }
+  }
+}

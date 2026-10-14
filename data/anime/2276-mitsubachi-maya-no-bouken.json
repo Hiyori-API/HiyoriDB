@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2276,
+  "slug": "mitsubachi-maya-no-bouken",
+  "kind": "anime",
+  "title": "Mitsubachi Maya no Bouken",
+  "titles": {
+    "default": "Mitsubachi Maya no Bouken",
+    "romaji": "Mitsubachi Maya no Bouken",
+    "english": "Maya the Bee",
+    "native": "みつばちマーヤの冒険"
+  },
+  "synonyms": [
+    "Mitsubachi Maya no Bouken",
+    "Maya the Bee",
+    "みつばちマーヤの冒険",
+    "Adventures of Maya the Honeybee",
+    "La Abeja Maya",
+    "Die Biene Maja",
+    "Pszczółka Maja",
+    "L'Abella Maia",
+    "A Abelha Maia",
+    "Včielka Maja",
+    "Včelka Mája",
+    "הדבורה מאיה",
+    "Maya l'abeille"
+  ],
+  "type": "tv",
+  "episodes": 52,
+  "status": "finished",
+  "season": "spring",
+  "year": 1975,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2571-ixhrLt5XsQMU.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2571",
+      "url": "https://anilist.co/anime/2571"
+    },
+    "k": {
+      "id": "2336",
+      "url": "https://kitsu.io/anime/2336"
+    },
+    "mal": {
+      "id": "2571",
+      "url": "https://myanimelist.net/anime/2571"
+    },
+    "t": {
+      "id": "10569",
+      "url": "https://trakt.tv/shows/10569"
+    }
+  }
+}

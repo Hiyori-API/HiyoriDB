@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9368,
+  "slug": "shoujo-shuumatsu-jugyou",
+  "kind": "anime",
+  "title": "Shoujo Shuumatsu Jugyou",
+  "titles": {
+    "default": "Shoujo Shuumatsu Jugyou",
+    "romaji": "Shoujo Shuumatsu Jugyou",
+    "english": "Girls' Weekend Class",
+    "native": "少女週末授業"
+  },
+  "synonyms": [
+    "Shoujo Shuumatsu Jugyou",
+    "Girls' Weekend Class",
+    "少女週末授業",
+    "Girls' Last Class"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100180-vPtNXnPCS7bR.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "100180",
+      "url": "https://anilist.co/anime/100180"
+    },
+    "mal": {
+      "id": "36468",
+      "url": "https://myanimelist.net/anime/36468"
+    }
+  }
+}

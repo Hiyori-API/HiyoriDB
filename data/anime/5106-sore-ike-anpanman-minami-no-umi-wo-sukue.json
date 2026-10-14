@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5106,
+  "slug": "sore-ike-anpanman-minami-no-umi-wo-sukue",
+  "kind": "anime",
+  "title": "Sore Ike! Anpanman: Minami no Umi wo Sukue!",
+  "titles": {
+    "default": "Sore Ike! Anpanman: Minami no Umi wo Sukue!",
+    "romaji": "Sore Ike! Anpanman: Minami no Umi wo Sukue!",
+    "native": "それいけ!アンパンマン みなみの海をすくえ!"
+  },
+  "synonyms": [
+    "Sore Ike! Anpanman: Minami no Umi wo Sukue!",
+    "それいけ!アンパンマン みなみの海をすくえ!",
+    "それいけ! アンパンマン みなみの海をすくえ!"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b145477-hTnKYf7OByD6.png"
+  ],
+  "references": {
+    "al": {
+      "id": "145477",
+      "url": "https://anilist.co/anime/145477"
+    },
+    "k": {
+      "id": "9621",
+      "url": "https://kitsu.io/anime/9621"
+    },
+    "mal": {
+      "id": "21291",
+      "url": "https://myanimelist.net/anime/21291"
+    }
+  }
+}

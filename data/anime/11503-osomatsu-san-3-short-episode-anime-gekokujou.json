@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11503,
+  "slug": "osomatsu-san-3-short-episode-anime-gekokujou",
+  "kind": "anime",
+  "title": "Osomatsu-san 3 Short Episode Anime: Gekokujou",
+  "titles": {
+    "default": "Osomatsu-san 3 Short Episode Anime: Gekokujou",
+    "romaji": "Osomatsu-san 3 Short Episode Anime: Gekokujou",
+    "native": "おそ松さん 第3期ショートエピソードアニメ「下剋上」"
+  },
+  "synonyms": [
+    "Osomatsu-san 3 Short Episode Anime: Gekokujou",
+    "おそ松さん 第3期ショートエピソードアニメ「下剋上」",
+    "Girls und Panzer das Finale OVA",
+    "Girls & Panzer: Daikon War!",
+    "Fushou Akiyama Yukari no Sensha Kouza: Unique na Suiriku Ryouyou Sensha-hen",
+    "The Humble Akiyama Yukari's Tank Course: Unique Amphibious Tank",
+    "『ガールズ＆パンツァー 最終章』第3話",
+    "Girls & Panzer: Saishuushou Part 3 Specials"
+  ],
+  "type": "special",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145555-3F3nOUmUZDNH.png"
+  ],
+  "references": {
+    "al": {
+      "id": "145555",
+      "url": "https://anilist.co/anime/145555"
+    },
+    "mal": {
+      "id": "49690",
+      "url": "https://myanimelist.net/anime/49690"
+    }
+  }
+}

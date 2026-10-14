@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9903,
+  "slug": "tv-yarou-nanaana",
+  "kind": "anime",
+  "title": "TV Yarou Nanaana",
+  "titles": {
+    "default": "TV Yarou Nanaana",
+    "romaji": "TV Yarou Nanaana",
+    "english": "Wacky TV Nanana",
+    "native": "テレビ野郎 ナナーナ"
+  },
+  "synonyms": [
+    "TV Yarou Nanaana",
+    "Wacky TV Nanana",
+    "テレビ野郎 ナナーナ",
+    "Televi Yarou Nanana",
+    "TV Yarou Nana-na",
+    "Seven Deadly Sins Season 2",
+    "The Seven Deadly Sins: Revival of the Commandments",
+    "七つの大罪 戒めの復活",
+    "Nanatsu no Taizai: Imashime no Fukkatsu"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "spring",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b112004-1QUwOIDReZ3t.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "112004",
+      "url": "https://anilist.co/anime/112004"
+    },
+    "cr": {
+      "id": "wacky-tv-nanana",
+      "url": "https://www.crunchyroll.com/series/wacky-tv-nanana"
+    },
+    "mal": {
+      "id": "38549",
+      "url": "https://myanimelist.net/anime/38549"
+    }
+  }
+}

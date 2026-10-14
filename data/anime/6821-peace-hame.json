@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6821,
+  "slug": "peace-hame",
+  "kind": "anime",
+  "title": "Peace Hame!",
+  "titles": {
+    "default": "Peace Hame!",
+    "romaji": "Peace Hame!",
+    "native": "ピスはめ！"
+  },
+  "synonyms": [
+    "Peace Hame!",
+    "ピスはめ！",
+    "Pisu Hame!",
+    "PisuHame!",
+    "Hori-san to Miyamura-kun",
+    "堀さんと宮村くん",
+    "Horimiya"
+  ],
+  "type": "ova",
+  "episodes": 6,
+  "status": "finished",
+  "season": "spring",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13057.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "13057",
+      "url": "https://anilist.co/anime/13057"
+    },
+    "k": {
+      "id": "7164",
+      "url": "https://kitsu.io/anime/7164"
+    },
+    "mal": {
+      "id": "13057",
+      "url": "https://myanimelist.net/anime/13057"
+    }
+  }
+}

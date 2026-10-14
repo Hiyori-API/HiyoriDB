@@ -1,0 +1,58 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 836,
+  "slug": "naruto-dai-gekitotsu-maboroshi-no-chitei-iseki-dattebayo",
+  "kind": "anime",
+  "title": "NARUTO: Dai Gekitotsu! Maboroshi no Chitei Iseki Dattebayo",
+  "titles": {
+    "default": "NARUTO: Dai Gekitotsu! Maboroshi no Chitei Iseki Dattebayo",
+    "romaji": "NARUTO: Dai Gekitotsu! Maboroshi no Chitei Iseki Dattebayo",
+    "english": "Naruto the Movie: Legend of the Stone of Gelel",
+    "native": "劇場版 NARUTO -ナルト- 大激突!幻の地底遺跡だってばよ"
+  },
+  "synonyms": [
+    "NARUTO: Dai Gekitotsu! Maboroshi no Chitei Iseki Dattebayo",
+    "Naruto the Movie: Legend of the Stone of Gelel",
+    "劇場版 NARUTO -ナルト- 大激突!幻の地底遺跡だってばよ",
+    "Naruto THE Movie vol.2",
+    "Naruto Movie 2",
+    "Gekijouban Naruto",
+    "Naruto the Movie: The Great Clash! The Phantom Ruins in the Depths of the Earth",
+    "Naruto La Légende de la Pierre de Guelel",
+    "Naruto la película: La leyenda de la piedra de Gelel",
+    "Naruto Movie 02: La leggenda della pietra di Gelel",
+    "Naruto the Movie 2: Legend of the Stone of Gelel",
+    "Naruto Movie 2: Dai Gekitotsu! Maboroshi no Chiteiiseki Dattebayo!",
+    "劇場版　NARUTO　大激突！幻の地底遺跡だってばよ"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx936-P1ogcIs07UR8.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "936",
+      "url": "https://anilist.co/anime/936"
+    },
+    "cr": {
+      "id": "naruto-the-movie-legend-of-the-stone-of-gelel",
+      "url": "https://www.crunchyroll.com/series/naruto-the-movie-legend-of-the-stone-of-gelel"
+    },
+    "k": {
+      "id": "833",
+      "url": "https://kitsu.io/anime/833"
+    },
+    "mal": {
+      "id": "936",
+      "url": "https://myanimelist.net/anime/936"
+    },
+    "nf": {
+      "id": "70101321",
+      "url": "https://www.netflix.com/title/70101321"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 640,
+  "slug": "chou-henshin-cos-prayers-vs-ankoku-uchuu-shougun",
+  "kind": "anime",
+  "title": "Chou Henshin Cos∞prayers VS Ankoku Uchuu Shougun",
+  "titles": {
+    "default": "Chou Henshin Cos∞prayers VS Ankoku Uchuu Shougun",
+    "romaji": "Chou Henshin Cos∞prayers VS Ankoku Uchuu Shougun",
+    "native": "超変身コス∞プレイヤー VS暗黒宇宙将軍"
+  },
+  "synonyms": [
+    "Chou Henshin Cos∞prayers VS Ankoku Uchuu Shougun",
+    "超変身コス∞プレイヤー VS暗黒宇宙将軍",
+    "Cosprayers the Movie",
+    "Chou Henshin Cosprayers vs. Ankoku Uchuu Shougun The Movie",
+    "Chou Henshin Cosprayers vs. Ankoku Uchuu Shougun the Movie",
+    "劇場版「超変身コス∞プレイヤー VS暗黒宇宙将軍」"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/705.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "705",
+      "url": "https://anilist.co/anime/705"
+    },
+    "k": {
+      "id": "639",
+      "url": "https://kitsu.io/anime/639"
+    },
+    "mal": {
+      "id": "705",
+      "url": "https://myanimelist.net/anime/705"
+    }
+  }
+}

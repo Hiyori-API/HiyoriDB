@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11369,
+  "slug": "tenchi-souzou-design-bu-tokubetsu-hen",
+  "kind": "anime",
+  "title": "Tenchi Souzou Design-bu: Tokubetsu-hen",
+  "titles": {
+    "default": "Tenchi Souzou Design-bu: Tokubetsu-hen",
+    "romaji": "Tenchi Souzou Design-bu: Tokubetsu-hen",
+    "english": "Heaven's Design Team: Idea 13",
+    "native": "天地創造デザイン部 特別編"
+  },
+  "synonyms": [
+    "Tenchi Souzou Design-bu: Tokubetsu-hen",
+    "Heaven's Design Team: Idea 13",
+    "天地創造デザイン部 特別編",
+    "Tenchi Souzou Design-bu Episode 13",
+    "Heaven's Design Team Episode 13",
+    "Our Jury Story",
+    "Bokura no Saibanin Monogatari",
+    "ぼくらの裁判員物語"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131866-M3Zs2g7gkSQU.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "131866",
+      "url": "https://anilist.co/anime/131866"
+    },
+    "cr": {
+      "id": "heavens-design-team",
+      "url": "https://www.crunchyroll.com/series/heavens-design-team"
+    },
+    "k": {
+      "id": "4614",
+      "url": "https://kitsu.io/anime/4614"
+    },
+    "mal": {
+      "id": "46587",
+      "url": "https://myanimelist.net/anime/46587"
+    },
+    "tx": {
+      "id": "tendebu_PR",
+      "url": "https://twitter.com/tendebu_PR"
+    },
+    "yt": {
+      "id": "l0TQMnzE7CY",
+      "url": "https://www.youtube.com/watch?v=l0TQMnzE7CY"
+    }
+  }
+}

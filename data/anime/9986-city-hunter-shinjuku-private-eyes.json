@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9986,
+  "slug": "city-hunter-shinjuku-private-eyes",
+  "kind": "anime",
+  "title": "City Hunter: Shinjuku Private Eyes",
+  "titles": {
+    "default": "City Hunter: Shinjuku Private Eyes",
+    "romaji": "City Hunter: Shinjuku Private Eyes",
+    "native": "シティーハンター 新宿プライベートアイズ"
+  },
+  "synonyms": [
+    "City Hunter: Shinjuku Private Eyes",
+    "シティーハンター 新宿プライベートアイズ",
+    "Gekijouban City Hunter",
+    "Nicky Larson Private Eyes",
+    "City Hunter: Private Eyes",
+    "CITY HUNTER 2019",
+    "CITY HUNTER THE MOVIE: Shinjuku Private Eyes",
+    "Cencoroll 2",
+    "センコロール"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101345-lHRKxtalYUm4.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101345",
+      "url": "https://anilist.co/anime/101345"
+    },
+    "cr": {
+      "id": "series/G6P5M4156/city-hunter",
+      "url": "https://www.crunchyroll.com/series/series/G6P5M4156/city-hunter"
+    },
+    "k": {
+      "id": "5749",
+      "url": "https://kitsu.io/anime/5749"
+    },
+    "mal": {
+      "id": "37516",
+      "url": "https://myanimelist.net/anime/37516"
+    },
+    "tx": {
+      "id": "cityhuntermovie",
+      "url": "https://twitter.com/cityhuntermovie"
+    }
+  }
+}

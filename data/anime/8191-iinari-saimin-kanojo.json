@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8191,
+  "slug": "iinari-saimin-kanojo",
+  "kind": "anime",
+  "title": "Iinari! Saimin Kanojo",
+  "titles": {
+    "default": "Iinari! Saimin Kanojo",
+    "romaji": "Iinari! Saimin Kanojo",
+    "native": "いいなり! 催眠彼女"
+  },
+  "synonyms": [
+    "Iinari! Saimin Kanojo",
+    "いいなり! 催眠彼女",
+    "Hyakka Ryouran: Samurai After",
+    "百花繚乱 サムライアフター",
+    "Hyakka Ryouran OVA"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21082-fhArOwoRjSld.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21082",
+      "url": "https://anilist.co/anime/21082"
+    },
+    "k": {
+      "id": "8795",
+      "url": "https://kitsu.io/anime/8795"
+    },
+    "mal": {
+      "id": "24273",
+      "url": "https://myanimelist.net/anime/24273"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9588,
+  "slug": "one-room-second-season",
+  "kind": "anime",
+  "title": "One Room: Second Season",
+  "titles": {
+    "default": "One Room: Second Season",
+    "romaji": "One Room: Second Season",
+    "english": "One Room SECOND SEASON",
+    "native": "One Room セカンドシーズン"
+  },
+  "synonyms": [
+    "One Room: Second Season",
+    "One Room SECOND SEASON",
+    "One Room セカンドシーズン",
+    "ワンルーム",
+    "One Room 2nd Season",
+    "One Room 2",
+    "В одной комнате 2",
+    "High Score Girl",
+    "ハイスコアガール",
+    "Hi Score Girl"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx100133-ON96W9oFFvZL.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "100133",
+      "url": "https://anilist.co/anime/100133"
+    },
+    "cr": {
+      "id": "oneroom",
+      "url": "https://www.crunchyroll.com/series/oneroom"
+    },
+    "k": {
+      "id": "8158",
+      "url": "https://kitsu.io/anime/8158"
+    },
+    "mal": {
+      "id": "36431",
+      "url": "https://myanimelist.net/anime/36431"
+    },
+    "nf": {
+      "id": "80997338",
+      "url": "https://www.netflix.com/title/80997338"
+    },
+    "tx": {
+      "id": "anime_one_room",
+      "url": "https://twitter.com/anime_one_room"
+    }
+  }
+}

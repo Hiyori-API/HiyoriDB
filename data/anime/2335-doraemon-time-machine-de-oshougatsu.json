@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2335,
+  "slug": "doraemon-time-machine-de-oshougatsu",
+  "kind": "anime",
+  "title": "Doraemon: Time Machine de Oshougatsu",
+  "titles": {
+    "default": "Doraemon: Time Machine de Oshougatsu",
+    "romaji": "Doraemon: Time Machine de Oshougatsu",
+    "native": "ドラえもん タイムマシンでお正月"
+  },
+  "synonyms": [
+    "Doraemon: Time Machine de Oshougatsu",
+    "ドラえもん タイムマシンでお正月",
+    "Doraemon's Time Capsule for 2001",
+    "ドラえもん　タイムマシンでお正月"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1979,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2632-3zmv1elpAiEZ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2632",
+      "url": "https://anilist.co/anime/2632"
+    },
+    "k": {
+      "id": "2396",
+      "url": "https://kitsu.io/anime/2396"
+    },
+    "mal": {
+      "id": "2632",
+      "url": "https://myanimelist.net/anime/2632"
+    }
+  }
+}

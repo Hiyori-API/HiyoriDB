@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1739,
+  "slug": "sola",
+  "kind": "anime",
+  "title": "sola",
+  "titles": {
+    "default": "sola",
+    "romaji": "sola"
+  },
+  "synonyms": [
+    "sola",
+    "Sky",
+    "Sola"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1965-lWBpcTni9PS9.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1965",
+      "url": "https://anilist.co/anime/1965"
+    },
+    "k": {
+      "id": "1770",
+      "url": "https://kitsu.io/anime/1770"
+    },
+    "mal": {
+      "id": "1965",
+      "url": "https://myanimelist.net/anime/1965"
+    },
+    "t": {
+      "id": "34067",
+      "url": "https://trakt.tv/shows/34067"
+    },
+    "ttv": {
+      "id": "2382",
+      "url": "https://tubitv.com/series/2382"
+    }
+  }
+}

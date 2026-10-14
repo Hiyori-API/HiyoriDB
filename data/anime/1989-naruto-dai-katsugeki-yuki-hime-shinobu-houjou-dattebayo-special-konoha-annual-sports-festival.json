@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1989,
+  "slug": "naruto-dai-katsugeki-yuki-hime-shinobu-houjou-dattebayo-special-konoha-annual-sports-festival",
+  "kind": "anime",
+  "title": "NARUTO: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo! Special: Konoha Annual Sports Festival",
+  "titles": {
+    "default": "NARUTO: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo! Special: Konoha Annual Sports Festival",
+    "romaji": "NARUTO: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo! Special: Konoha Annual Sports Festival",
+    "english": "Hidden Leaf Village Grand Sports Festival",
+    "native": "木ノ葉の里と大うん動会"
+  },
+  "synonyms": [
+    "NARUTO: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo! Special: Konoha Annual Sports Festival",
+    "Hidden Leaf Village Grand Sports Festival",
+    "木ノ葉の里と大うん動会",
+    "Gekijouban Naruto: Dai Katsugeki! Yuki Hime Ninpouchou Datte ba yo! - S1 Konoha Annual Sports Festival",
+    "Konoha no Sato no Daiun Douaki",
+    "Naruto: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo! Special: Konoha Annual Sports Festival"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2248.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2248",
+      "url": "https://anilist.co/anime/2248"
+    },
+    "k": {
+      "id": "2036",
+      "url": "https://kitsu.io/anime/2036"
+    },
+    "mal": {
+      "id": "2248",
+      "url": "https://myanimelist.net/anime/2248"
+    }
+  }
+}

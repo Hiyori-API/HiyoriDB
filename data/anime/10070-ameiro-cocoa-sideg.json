@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10070,
+  "slug": "ameiro-cocoa-sideg",
+  "kind": "anime",
+  "title": "Ameiro Cocoa sideG",
+  "titles": {
+    "default": "Ameiro Cocoa sideG",
+    "romaji": "Ameiro Cocoa sideG",
+    "english": "Rainy Cocoa sideG",
+    "native": "雨色ココアsideG"
+  },
+  "synonyms": [
+    "Ameiro Cocoa sideG",
+    "Rainy Cocoa sideG",
+    "雨色ココアsideG",
+    "Ame-iro Cocoa 5",
+    "The Promised Neverland",
+    "約束のネバーランド",
+    "Yakusoku no Neverland"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104712-ikhkpUUd8tpK.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "104712",
+      "url": "https://anilist.co/anime/104712"
+    },
+    "cr": {
+      "id": "rainy-cocoa-sideg",
+      "url": "https://www.crunchyroll.com/series/rainy-cocoa-sideg"
+    },
+    "mal": {
+      "id": "37747",
+      "url": "https://myanimelist.net/anime/37747"
+    },
+    "tx": {
+      "id": "rainy_cocoa",
+      "url": "https://twitter.com/rainy_cocoa"
+    }
+  }
+}

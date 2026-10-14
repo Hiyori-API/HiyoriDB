@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4291,
+  "slug": "tetsuwan-birdy-decode-the-cipher",
+  "kind": "anime",
+  "title": "Tetsuwan Birdy DECODE: THE CIPHER",
+  "titles": {
+    "default": "Tetsuwan Birdy DECODE: THE CIPHER",
+    "romaji": "Tetsuwan Birdy DECODE: THE CIPHER",
+    "english": "Birdy the Mighty Decode: The Cipher",
+    "native": "鉄腕バーディー DECODE -THE CIPHER-"
+  },
+  "synonyms": [
+    "Tetsuwan Birdy DECODE: THE CIPHER",
+    "Birdy the Mighty Decode: The Cipher",
+    "鉄腕バーディー DECODE -THE CIPHER-",
+    "Tetsuwan Birdy DECODE OVA",
+    "Birdy the Mighty Decode OVA",
+    "Birdy the Mighty: Decode - Between You and Me",
+    "Tetsuwan Birdy DECODE: Between You and Me",
+    "Birdy the Mighty: Decode OVA",
+    "Tetsuwan Birdy Decode: The Cipher",
+    "Tetsuwan Birdy Decode OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6380-jSQ4Kg2jfEQk.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6380",
+      "url": "https://anilist.co/anime/6380"
+    },
+    "k": {
+      "id": "4539",
+      "url": "https://kitsu.io/anime/4539"
+    },
+    "mal": {
+      "id": "6380",
+      "url": "https://myanimelist.net/anime/6380"
+    }
+  }
+}

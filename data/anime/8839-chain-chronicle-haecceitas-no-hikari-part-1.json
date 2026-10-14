@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8839,
+  "slug": "chain-chronicle-haecceitas-no-hikari-part-1",
+  "kind": "anime",
+  "title": "Chain Chronicle: Haecceitas no Hikari Part 1",
+  "titles": {
+    "default": "Chain Chronicle: Haecceitas no Hikari Part 1",
+    "romaji": "Chain Chronicle: Haecceitas no Hikari Part 1",
+    "native": "チェインクロニクル〜ヘクセイタスの閃（ひかり）〜 第１章"
+  },
+  "synonyms": [
+    "Chain Chronicle: Haecceitas no Hikari Part 1",
+    "チェインクロニクル〜ヘクセイタスの閃（ひかり）〜 第１章",
+    "Chain Chronicle Movie",
+    "チェインクロニクル",
+    "Chain Chronicle: The Light of Haecceitas Part 1",
+    "In This Corner of the World",
+    "Kono Sekai no Katasumi ni",
+    "この世界の片隅に",
+    "To All the Corners of the World"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/87505-m17RlCojRKO1.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "87505",
+      "url": "https://anilist.co/anime/87505"
+    },
+    "cr": {
+      "id": "series/GNVHKN9PW/in-this-corner-and-other-corners-of-the-world",
+      "url": "https://www.crunchyroll.com/series/series/GNVHKN9PW/in-this-corner-and-other-corners-of-the-world"
+    },
+    "k": {
+      "id": "7234",
+      "url": "https://kitsu.io/anime/7234"
+    },
+    "mal": {
+      "id": "33728",
+      "url": "https://myanimelist.net/anime/33728"
+    },
+    "nf": {
+      "id": "80192244",
+      "url": "https://www.netflix.com/title/80192244"
+    },
+    "tx": {
+      "id": "ChroAnime",
+      "url": "https://twitter.com/ChroAnime"
+    }
+  }
+}

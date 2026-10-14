@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11811,
+  "slug": "baby-hamitang",
+  "kind": "anime",
+  "title": "BABY-HAMITANG",
+  "titles": {
+    "default": "BABY-HAMITANG",
+    "romaji": "BABY-HAMITANG"
+  },
+  "synonyms": [
+    "BABY-HAMITANG",
+    "ベイビーハミタン",
+    "Detective Conan: Zero no Tea Time",
+    "Meitantei Conan: Zero no Nichijou",
+    "Zero's Daily Life",
+    "Detective Conan: Zero's Tea Time",
+    "名探偵コナン ゼロの日常（ティータイム）",
+    "Meitantei Conan: Zero no Tea Time"
+  ],
+  "type": "tv",
+  "episodes": 6,
+  "status": "finished",
+  "season": "winter",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143416-VnkMd6zanoJW.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "143416",
+      "url": "https://anilist.co/anime/143416"
+    },
+    "mal": {
+      "id": "50681",
+      "url": "https://myanimelist.net/anime/50681"
+    },
+    "tx": {
+      "id": "Baby_Hamitang",
+      "url": "https://twitter.com/Baby_Hamitang"
+    }
+  }
+}

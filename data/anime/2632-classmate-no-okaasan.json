@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2632,
+  "slug": "classmate-no-okaasan",
+  "kind": "anime",
+  "title": "Classmate no Okaasan",
+  "titles": {
+    "default": "Classmate no Okaasan",
+    "romaji": "Classmate no Okaasan",
+    "english": "My Classmate's Mother",
+    "native": "クラスメイトのお母さん 後編"
+  },
+  "synonyms": [
+    "Classmate no Okaasan",
+    "My Classmate's Mother",
+    "クラスメイトのお母さん 後編",
+    "Classmate no Okasan",
+    "Sousei no Aquarion OVA",
+    "ＯＶＡ『創星のアクエリオン』",
+    "Genesis of Aquarion OVA",
+    "Sousei no Aquarion: Uragiri no Tsubasa",
+    "Sousei no Aquarion: Taiyou no Tsubasa"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2989.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2989",
+      "url": "https://anilist.co/anime/2989"
+    },
+    "k": {
+      "id": "1965",
+      "url": "https://kitsu.io/anime/1965"
+    },
+    "mal": {
+      "id": "2989",
+      "url": "https://myanimelist.net/anime/2989"
+    }
+  }
+}

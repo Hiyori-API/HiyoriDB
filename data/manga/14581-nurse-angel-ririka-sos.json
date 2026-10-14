@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14581,
+  "slug": "nurse-angel-ririka-sos",
+  "kind": "manga",
+  "title": "Nurse Angel Ririka SOS",
+  "titles": {
+    "default": "Nurse Angel Ririka SOS"
+  },
+  "synonyms": [
+    "Nurse Angel Ririka S.O.S.",
+    "ナースエンジェルりりかＳＯＳ",
+    "Kare Kano: His and Her Circumstances",
+    "Kareshi Kanojo no Jijou",
+    "彼氏彼女の事情",
+    "His and Hers",
+    "The Tiger and the Chameleon: A Promise for One Week",
+    "Ashita Mata Mori de Aou ne",
+    "Meet Me Again Tomorrow in the Forest",
+    "KKNJ",
+    "Abareru Ousama",
+    "The Raging King"
+  ],
+  "type": "manga",
+  "chapters": 22,
+  "volumes": 4,
+  "status": "finished",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5626.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "616",
+      "url": "https://anilist.co/anime/616"
+    },
+    "al_manga": {
+      "id": "616",
+      "url": "https://anilist.co/manga/616"
+    }
+  }
+}

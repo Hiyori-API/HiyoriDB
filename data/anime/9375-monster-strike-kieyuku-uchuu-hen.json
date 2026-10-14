@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9375,
+  "slug": "monster-strike-kieyuku-uchuu-hen",
+  "kind": "anime",
+  "title": "Monster Strike: Kieyuku Uchuu-hen",
+  "titles": {
+    "default": "Monster Strike: Kieyuku Uchuu-hen",
+    "romaji": "Monster Strike: Kieyuku Uchuu-hen",
+    "english": "Monster Strike the Animation: The Fading Cosmos",
+    "native": "モンスターストライク「消えゆく宇宙編」"
+  },
+  "synonyms": [
+    "Monster Strike: Kieyuku Uchuu-hen",
+    "Monster Strike the Animation: The Fading Cosmos",
+    "モンスターストライク「消えゆく宇宙編」",
+    "Monster Strike 3",
+    "Monster Strike the Animation: : The Fading Cosmos",
+    "Monster Strike the Anime: The Fading Cosmos",
+    "Monster Strike 2017",
+    "Neko Rahmen",
+    "Neko Ramen",
+    "猫ラーメン",
+    "Neko Raamen"
+  ],
+  "type": "ona",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/100262-1VMMC4Usz9Ft.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "100262",
+      "url": "https://anilist.co/anime/100262"
+    },
+    "cr": {
+      "id": "monster-strike",
+      "url": "https://www.crunchyroll.com/series/monster-strike"
+    },
+    "k": {
+      "id": "3081",
+      "url": "https://kitsu.io/anime/3081"
+    },
+    "mal": {
+      "id": "36246",
+      "url": "https://myanimelist.net/anime/36246"
+    },
+    "tx": {
+      "id": "monst_animation",
+      "url": "https://twitter.com/monst_animation"
+    }
+  }
+}

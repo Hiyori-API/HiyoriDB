@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14346,
+  "slug": "yuugeki-uchuu-senkan-nadesico",
+  "kind": "manga",
+  "title": "Yuugeki Uchuu Senkan Nadesico",
+  "titles": {
+    "default": "Yuugeki Uchuu Senkan Nadesico"
+  },
+  "synonyms": [
+    "Meteor Schlachtschiff Nadesico",
+    "Yuugeki Uchuu Senkan Nadeshiko",
+    "Nadesico",
+    "遊撃宇宙戦艦ナデシコ",
+    "Kamikaze Kaito Jeanne",
+    "Kamikaze Kaitou Jeanne",
+    "Phantom Thief Jeanne",
+    "神風怪盗ジャンヌ",
+    "Divine Wind Phantom Thief Jeanne"
+  ],
+  "type": "manga",
+  "chapters": 25,
+  "volumes": 4,
+  "status": "finished",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b33022-mj7G1kUARDKO.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "218",
+      "url": "https://anilist.co/anime/218"
+    },
+    "al_manga": {
+      "id": "218",
+      "url": "https://anilist.co/manga/218"
+    }
+  }
+}

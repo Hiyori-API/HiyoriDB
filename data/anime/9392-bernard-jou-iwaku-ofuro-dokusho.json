@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9392,
+  "slug": "bernard-jou-iwaku-ofuro-dokusho",
+  "kind": "anime",
+  "title": "Bernard-jou Iwaku. - Ofuro dokusho",
+  "titles": {
+    "default": "Bernard-jou Iwaku. - Ofuro dokusho",
+    "romaji": "Bernard-jou Iwaku. - Ofuro dokusho",
+    "native": "バーナード嬢曰く。 - おふろ読書"
+  },
+  "synonyms": [
+    "Bernard-jou Iwaku. - Ofuro dokusho",
+    "バーナード嬢曰く。 - おふろ読書",
+    "Miss Bernard said. - Bath reading",
+    "Bernard-jou Iwaku. Episode 13",
+    "Hikaru no Go: Journey to the North Star Cup",
+    "ヒカルの碁 北斗杯への道",
+    "Hikaru no Go: Kita Hokuto Hai e no Michi"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx100720-V3DMrBXQ2v2J.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "100720",
+      "url": "https://anilist.co/anime/100720"
+    },
+    "k": {
+      "id": "593",
+      "url": "https://kitsu.io/anime/593"
+    },
+    "mal": {
+      "id": "37000",
+      "url": "https://myanimelist.net/anime/37000"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14792,
+  "slug": "dash-kappei",
+  "kind": "manga",
+  "title": "Dash! Kappei",
+  "titles": {
+    "default": "Dash! Kappei"
+  },
+  "synonyms": [
+    "Chicho Terremoto",
+    "Gigi la trottola",
+    "Dash Kappei",
+    "Dashing Kappei",
+    "Dash! Kappei",
+    "ダッシュ勝平",
+    "Sobakasu no Shounen",
+    "そばかすの少年",
+    "Freckles"
+  ],
+  "type": "manga",
+  "chapters": 157,
+  "volumes": 17,
+  "status": "finished",
+  "year": 1979,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx41214-bwNmt8PajdLX.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2748",
+      "url": "https://anilist.co/anime/2748"
+    },
+    "al_manga": {
+      "id": "2748",
+      "url": "https://anilist.co/manga/2748"
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7536,
+  "slug": "date-a-live-ii",
+  "kind": "anime",
+  "title": "Date A Live II",
+  "titles": {
+    "default": "Date A Live II",
+    "romaji": "Date A Live II",
+    "native": "デート・ア・ライブⅡ"
+  },
+  "synonyms": [
+    "Date A Live II",
+    "デート・ア・ライブⅡ",
+    "Date A Live 2",
+    "พิชิตรัก พิทักษ์โลก ภาค 2",
+    "Рандеву с жизнью",
+    "Date A Live 2nd Season"
+  ],
+  "type": "tv",
+  "episodes": 10,
+  "status": "finished",
+  "season": "spring",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx19163-eHXj3mNRaOXt.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "19163",
+      "url": "https://anilist.co/anime/19163"
+    },
+    "cr": {
+      "id": "date-a-live",
+      "url": "https://www.crunchyroll.com/series/date-a-live"
+    },
+    "k": {
+      "id": "7864",
+      "url": "https://kitsu.io/anime/7864"
+    },
+    "mal": {
+      "id": "19163",
+      "url": "https://myanimelist.net/anime/19163"
+    },
+    "t": {
+      "id": "70005",
+      "url": "https://trakt.tv/shows/70005"
+    },
+    "ttv": {
+      "id": "2244",
+      "url": "https://tubitv.com/series/2244"
+    },
+    "tx": {
+      "id": "date_a_info",
+      "url": "https://twitter.com/date_a_info"
+    }
+  }
+}

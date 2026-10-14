@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11763,
+  "slug": "manga-kodomo-bunko",
+  "kind": "anime",
+  "title": "Manga Kodomo Bunko",
+  "titles": {
+    "default": "Manga Kodomo Bunko",
+    "romaji": "Manga Kodomo Bunko",
+    "native": "まんがこども文庫"
+  },
+  "synonyms": [
+    "Manga Kodomo Bunko",
+    "まんがこども文庫",
+    "Manga Children's Library"
+  ],
+  "type": "tv",
+  "episodes": 51,
+  "status": "finished",
+  "season": "fall",
+  "year": 1978,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20231.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "20231",
+      "url": "https://anilist.co/anime/20231"
+    },
+    "k": {
+      "id": "9434",
+      "url": "https://kitsu.io/anime/9434"
+    },
+    "mal": {
+      "id": "20231",
+      "url": "https://myanimelist.net/anime/20231"
+    }
+  }
+}

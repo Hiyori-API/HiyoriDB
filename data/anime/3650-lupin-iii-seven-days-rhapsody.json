@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3650,
+  "slug": "lupin-iii-seven-days-rhapsody",
+  "kind": "anime",
+  "title": "Lupin III: Seven Days Rhapsody",
+  "titles": {
+    "default": "Lupin III: Seven Days Rhapsody",
+    "romaji": "Lupin III: Seven Days Rhapsody",
+    "english": "Lupin the 3rd: Seven Days Rhapsody",
+    "native": "ルパン三世 「セブンデイズ・ラプソディ」"
+  },
+  "synonyms": [
+    "Lupin III: Seven Days Rhapsody",
+    "Lupin the 3rd: Seven Days Rhapsody",
+    "ルパン三世 「セブンデイズ・ラプソディ」",
+    "Rupan Sansei",
+    "Lupin III - La lacrima della dea",
+    "Sore Ike! Anpanman: Sing! Dance! Everybody's Christmas",
+    "それいけ!アンパンマン うたおう!おどろう!みんなのクリスマス",
+    "Go! Anpanman: Sing! Dance! Everybody's Christmas"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4851.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4851",
+      "url": "https://anilist.co/anime/4851"
+    },
+    "k": {
+      "id": "7566",
+      "url": "https://kitsu.io/anime/7566"
+    },
+    "mal": {
+      "id": "4851",
+      "url": "https://myanimelist.net/anime/4851"
+    }
+  }
+}

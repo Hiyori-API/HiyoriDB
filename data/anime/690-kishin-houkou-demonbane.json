@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 690,
+  "slug": "kishin-houkou-demonbane",
+  "kind": "anime",
+  "title": "Kishin Houkou Demonbane",
+  "titles": {
+    "default": "Kishin Houkou Demonbane",
+    "romaji": "Kishin Houkou Demonbane",
+    "english": "Demonbane OVA",
+    "native": "機神咆吼デモンベイン"
+  },
+  "synonyms": [
+    "Kishin Houkou Demonbane",
+    "Demonbane OVA",
+    "機神咆吼デモンベイン"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/766.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "766",
+      "url": "https://anilist.co/anime/766"
+    },
+    "k": {
+      "id": "688",
+      "url": "https://kitsu.io/anime/688"
+    },
+    "mal": {
+      "id": "766",
+      "url": "https://myanimelist.net/anime/766"
+    }
+  }
+}

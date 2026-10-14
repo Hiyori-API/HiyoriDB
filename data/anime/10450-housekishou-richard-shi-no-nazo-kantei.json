@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10450,
+  "slug": "housekishou-richard-shi-no-nazo-kantei",
+  "kind": "anime",
+  "title": "Housekishou Richard-shi no Nazo Kantei",
+  "titles": {
+    "default": "Housekishou Richard-shi no Nazo Kantei",
+    "romaji": "Housekishou Richard-shi no Nazo Kantei",
+    "english": "The Case Files of Jeweler Richard",
+    "native": "宝石商リチャード氏の謎鑑定"
+  },
+  "synonyms": [
+    "Housekishou Richard-shi no Nazo Kantei",
+    "The Case Files of Jeweler Richard",
+    "宝石商リチャード氏の謎鑑定"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx111951-vzX8hv9fl9pR.png"
+  ],
+  "references": {
+    "al": {
+      "id": "111951",
+      "url": "https://anilist.co/anime/111951"
+    },
+    "cr": {
+      "id": "the-case-files-of-jeweler-richard",
+      "url": "https://www.crunchyroll.com/series/the-case-files-of-jeweler-richard"
+    },
+    "mal": {
+      "id": "40230",
+      "url": "https://myanimelist.net/anime/40230"
+    },
+    "tx": {
+      "id": "jeweler_richard",
+      "url": "https://twitter.com/jeweler_richard"
+    }
+  }
+}

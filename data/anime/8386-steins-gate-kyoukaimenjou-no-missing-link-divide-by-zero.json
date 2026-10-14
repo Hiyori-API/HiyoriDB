@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8386,
+  "slug": "steins-gate-kyoukaimenjou-no-missing-link-divide-by-zero",
+  "kind": "anime",
+  "title": "Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero",
+  "titles": {
+    "default": "Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero",
+    "romaji": "Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero",
+    "english": "Steins;Gate 0: 23β -Divide by Zero-",
+    "native": "シュタインズ・ゲート 境界面上のミッシングリンク -Divide By Zero-"
+  },
+  "synonyms": [
+    "Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero",
+    "Steins;Gate 0: 23β -Divide by Zero-",
+    "シュタインズ・ゲート 境界面上のミッシングリンク -Divide By Zero-",
+    "Steins;Gate: Episode 23 (β)",
+    "One Punch Man OVA",
+    "One Punch-Man OVA",
+    "One-Punch Man OVA",
+    "ワンパンマン OVA「ロード・トゥ・ヒーロー」",
+    "One Punch Man: Road to Hero"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21624-szbmwyC3sJos.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21624",
+      "url": "https://anilist.co/anime/21624"
+    },
+    "mal": {
+      "id": "32188",
+      "url": "https://myanimelist.net/anime/32188"
+    }
+  }
+}

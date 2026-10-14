@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4721,
+  "slug": "zero-tester",
+  "kind": "anime",
+  "title": "Zero Tester",
+  "titles": {
+    "default": "Zero Tester",
+    "romaji": "Zero Tester",
+    "native": "ゼロテスター"
+  },
+  "synonyms": [
+    "Zero Tester",
+    "ゼロテスター",
+    "Babel II",
+    "Babel Nisei",
+    "バビル２世"
+  ],
+  "type": "tv",
+  "episodes": 39,
+  "status": "finished",
+  "season": "fall",
+  "year": 1973,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9520.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9520",
+      "url": "https://anilist.co/anime/9520"
+    },
+    "k": {
+      "id": "1496",
+      "url": "https://kitsu.io/anime/1496"
+    },
+    "mal": {
+      "id": "9520",
+      "url": "https://myanimelist.net/anime/9520"
+    },
+    "t": {
+      "id": "64510",
+      "url": "https://trakt.tv/shows/64510"
+    }
+  }
+}

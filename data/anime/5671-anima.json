@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5671,
+  "slug": "anima",
+  "kind": "anime",
+  "title": "Anima",
+  "titles": {
+    "default": "Anima",
+    "romaji": "Anima",
+    "native": "アニマ"
+  },
+  "synonyms": [
+    "Anima",
+    "アニマ"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b13513-nKslX1lJT5xf.png"
+  ],
+  "references": {
+    "al": {
+      "id": "13513",
+      "url": "https://anilist.co/anime/13513"
+    },
+    "k": {
+      "id": "6984",
+      "url": "https://kitsu.io/anime/6984"
+    },
+    "mal": {
+      "id": "13513",
+      "url": "https://myanimelist.net/anime/13513"
+    }
+  }
+}

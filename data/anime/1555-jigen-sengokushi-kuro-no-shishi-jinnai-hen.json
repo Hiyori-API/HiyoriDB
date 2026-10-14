@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1555,
+  "slug": "jigen-sengokushi-kuro-no-shishi-jinnai-hen",
+  "kind": "anime",
+  "title": "Jigen Sengokushi: Kuro no Shishi - Jinnai-hen",
+  "titles": {
+    "default": "Jigen Sengokushi: Kuro no Shishi - Jinnai-hen",
+    "romaji": "Jigen Sengokushi: Kuro no Shishi - Jinnai-hen",
+    "english": "Black Lion",
+    "native": "時元戦国史 黒の獅士 陣内篇"
+  },
+  "synonyms": [
+    "Jigen Sengokushi: Kuro no Shishi - Jinnai-hen",
+    "Black Lion",
+    "時元戦国史 黒の獅士 陣内篇",
+    "Kuro no Shishi",
+    "Jigen Sengoku Shi Kuro no Shishi Jinnai Hen"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1759-4XYsSkQ7KwPr.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1759",
+      "url": "https://anilist.co/anime/1759"
+    },
+    "k": {
+      "id": "1579",
+      "url": "https://kitsu.io/anime/1579"
+    },
+    "mal": {
+      "id": "1759",
+      "url": "https://myanimelist.net/anime/1759"
+    }
+  }
+}

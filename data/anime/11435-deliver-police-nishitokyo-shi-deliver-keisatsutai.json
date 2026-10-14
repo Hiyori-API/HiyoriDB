@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11435,
+  "slug": "deliver-police-nishitokyo-shi-deliver-keisatsutai",
+  "kind": "anime",
+  "title": "DELIVER POLICE: Nishitokyo-shi Deliver Keisatsutai",
+  "titles": {
+    "default": "DELIVER POLICE: Nishitokyo-shi Deliver Keisatsutai",
+    "romaji": "DELIVER POLICE: Nishitokyo-shi Deliver Keisatsutai",
+    "native": "DELIVER POLICE/西東京市デリバー警察隊"
+  },
+  "synonyms": [
+    "DELIVER POLICE: Nishitokyo-shi Deliver Keisatsutai",
+    "DELIVER POLICE/西東京市デリバー警察隊",
+    "Anime no Tane 2021",
+    "Young Animator Training Project 2021",
+    "HOME!",
+    "Home!"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136139-kGSdQNy80I8j.png"
+  ],
+  "references": {
+    "al": {
+      "id": "136139",
+      "url": "https://anilist.co/anime/136139"
+    },
+    "mal": {
+      "id": "48575",
+      "url": "https://myanimelist.net/anime/48575"
+    }
+  }
+}

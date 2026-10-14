@@ -1,0 +1,62 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11259,
+  "slug": "seirei-gensouki",
+  "kind": "anime",
+  "title": "Seirei Gensouki",
+  "titles": {
+    "default": "Seirei Gensouki",
+    "romaji": "Seirei Gensouki",
+    "english": "Seirei Gensouki: Spirit Chronicles",
+    "native": "精霊幻想記"
+  },
+  "synonyms": [
+    "Seirei Gensouki",
+    "Seirei Gensouki: Spirit Chronicles",
+    "精霊幻想記",
+    "精灵幻想记",
+    "ตำนานวิญญาณแฟนซี",
+    "Full Metal Panic? Fumoffu",
+    "フルメタル・パニック? ふもっふ",
+    "Full Metal Panic Fumoffu",
+    "Fullmetal Panic? Fumoffu"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126546-Jujx9OvKxLzA.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "126546",
+      "url": "https://anilist.co/anime/126546"
+    },
+    "cr": {
+      "id": "series/G0XHWM380/seirei-gensouki-spirit-chronicles",
+      "url": "https://www.crunchyroll.com/series/series/G0XHWM380/seirei-gensouki-spirit-chronicles"
+    },
+    "k": {
+      "id": "52",
+      "url": "https://kitsu.io/anime/52"
+    },
+    "mal": {
+      "id": "44203",
+      "url": "https://myanimelist.net/anime/44203"
+    },
+    "t": {
+      "id": "12432",
+      "url": "https://trakt.tv/shows/12432"
+    },
+    "ttv": {
+      "id": "2377",
+      "url": "https://tubitv.com/series/2377"
+    },
+    "tx": {
+      "id": "seireigensouki",
+      "url": "https://twitter.com/seireigensouki"
+    }
+  }
+}

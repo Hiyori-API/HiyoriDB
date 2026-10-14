@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5749,
+  "slug": "denki-musoubana-electric-full-flower-garden",
+  "kind": "anime",
+  "title": "Denki Musoubana: Electric Full Flower Garden",
+  "titles": {
+    "default": "Denki Musoubana: Electric Full Flower Garden",
+    "romaji": "Denki Musoubana: Electric Full Flower Garden",
+    "native": "電気夢想花 Electric Full Flower Garden"
+  },
+  "synonyms": [
+    "Denki Musoubana: Electric Full Flower Garden",
+    "電気夢想花 Electric Full Flower Garden",
+    "Denki Musou Hana",
+    "Electric Full Flower Garden",
+    "電気夢想花",
+    "Sousei no Aquarion OVA",
+    "ＯＶＡ『創星のアクエリオン』",
+    "Genesis of Aquarion OVA",
+    "Sousei no Aquarion: Uragiri no Tsubasa",
+    "Sousei no Aquarion: Taiyou no Tsubasa"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9257.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9257",
+      "url": "https://anilist.co/anime/9257"
+    },
+    "k": {
+      "id": "1965",
+      "url": "https://kitsu.io/anime/1965"
+    },
+    "mal": {
+      "id": "9257",
+      "url": "https://myanimelist.net/anime/9257"
+    }
+  }
+}

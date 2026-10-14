@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8636,
+  "slug": "itoshi-no-muco-ova",
+  "kind": "anime",
+  "title": "Itoshi no Muco OVA",
+  "titles": {
+    "default": "Itoshi no Muco OVA",
+    "romaji": "Itoshi no Muco OVA",
+    "english": "Lovely Muuuuuuuco! OVA",
+    "native": "いとしのムーコ OVA"
+  },
+  "synonyms": [
+    "Itoshi no Muco OVA",
+    "Lovely Muuuuuuuco! OVA",
+    "いとしのムーコ OVA",
+    "いとしのムーコ OAD",
+    "Lovely Muco! OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21572-bwr4pOg9tfH3.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21572",
+      "url": "https://anilist.co/anime/21572"
+    },
+    "mal": {
+      "id": "32107",
+      "url": "https://myanimelist.net/anime/32107"
+    }
+  }
+}

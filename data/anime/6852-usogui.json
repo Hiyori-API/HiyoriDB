@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6852,
+  "slug": "usogui",
+  "kind": "anime",
+  "title": "Usogui",
+  "titles": {
+    "default": "Usogui",
+    "romaji": "Usogui",
+    "native": "嘘喰い"
+  },
+  "synonyms": [
+    "Usogui",
+    "嘘喰い",
+    "The Lie Eater"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx13303-RsJ5jAwDF64x.png"
+  ],
+  "references": {
+    "al": {
+      "id": "13303",
+      "url": "https://anilist.co/anime/13303"
+    },
+    "k": {
+      "id": "6935",
+      "url": "https://kitsu.io/anime/6935"
+    },
+    "mal": {
+      "id": "13303",
+      "url": "https://myanimelist.net/anime/13303"
+    }
+  }
+}

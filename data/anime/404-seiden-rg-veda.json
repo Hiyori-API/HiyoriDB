@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 404,
+  "slug": "seiden-rg-veda",
+  "kind": "anime",
+  "title": "Seiden: RG VEDA",
+  "titles": {
+    "default": "Seiden: RG VEDA",
+    "romaji": "Seiden: RG VEDA",
+    "english": "RG Veda",
+    "native": "聖伝-RG VEDA-"
+  },
+  "synonyms": [
+    "Seiden: RG VEDA",
+    "RG Veda",
+    "聖伝-RG VEDA-",
+    "聖伝"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b439-A65KabBBQKTY.png"
+  ],
+  "references": {
+    "al": {
+      "id": "439",
+      "url": "https://anilist.co/anime/439"
+    },
+    "k": {
+      "id": "402",
+      "url": "https://kitsu.io/anime/402"
+    },
+    "mal": {
+      "id": "439",
+      "url": "https://myanimelist.net/anime/439"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11897,
+  "slug": "yofukashi-no-uta-mini",
+  "kind": "anime",
+  "title": "Yofukashi no Uta Mini",
+  "titles": {
+    "default": "Yofukashi no Uta Mini",
+    "romaji": "Yofukashi no Uta Mini",
+    "native": "よふかしのうた ミニ"
+  },
+  "synonyms": [
+    "Yofukashi no Uta Mini",
+    "よふかしのうた ミニ",
+    "Call of the Night Mini",
+    "Penguin Musume♥Heart",
+    "ペンギン娘♥はぁと",
+    "Penguin Girl"
+  ],
+  "type": "ona",
+  "episodes": 22,
+  "status": "finished",
+  "season": "spring",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150583-UkGu1k8ecpUr.png"
+  ],
+  "references": {
+    "al": {
+      "id": "150583",
+      "url": "https://anilist.co/anime/150583"
+    },
+    "k": {
+      "id": "3485",
+      "url": "https://kitsu.io/anime/3485"
+    },
+    "mal": {
+      "id": "52015",
+      "url": "https://myanimelist.net/anime/52015"
+    },
+    "tx": {
+      "id": "search",
+      "url": "https://twitter.com/search"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13925,
+  "slug": "kaitou-saint-tail",
+  "kind": "manga",
+  "title": "Kaitou Saint Tail",
+  "titles": {
+    "default": "Kaitou Saint Tail"
+  },
+  "synonyms": [
+    "Kaito Saint Tail",
+    "Master Thief St. Tails",
+    "Mysterious Thief Saint Tail",
+    "Saint Tail",
+    "怪盗セイント・テール",
+    "Kaitou Saint Tail",
+    "Asagao no Portret",
+    "Haru wo Yobu Orgel",
+    "16-sai no Tiara",
+    "Kujira ga Tonda Hi",
+    "Hi～ Fu～ Mi～",
+    "Mantasu ni Just Meet"
+  ],
+  "type": "manga",
+  "chapters": 33,
+  "volumes": 7,
+  "status": "finished",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30508-4TOpGULVxQBG.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1567",
+      "url": "https://anilist.co/anime/1567"
+    },
+    "al_manga": {
+      "id": "1567",
+      "url": "https://anilist.co/manga/1567"
+    }
+  }
+}

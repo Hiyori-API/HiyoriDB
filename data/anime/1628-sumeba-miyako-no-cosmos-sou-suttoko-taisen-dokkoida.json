@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1628,
+  "slug": "sumeba-miyako-no-cosmos-sou-suttoko-taisen-dokkoida",
+  "kind": "anime",
+  "title": "Sumeba Miyako no Cosmos-sou Suttoko Taisen Dokkoida",
+  "titles": {
+    "default": "Sumeba Miyako no Cosmos-sou Suttoko Taisen Dokkoida",
+    "romaji": "Sumeba Miyako no Cosmos-sou Suttoko Taisen Dokkoida",
+    "english": "Dokkoida?!",
+    "native": "住めば都のコスモス荘 すっとこ大戦ドッコイダー"
+  },
+  "synonyms": [
+    "Sumeba Miyako no Cosmos-sou Suttoko Taisen Dokkoida",
+    "Dokkoida?!",
+    "住めば都のコスモス荘 すっとこ大戦ドッコイダー",
+    "Sumeba Miyako no Cosmos-sou Suttoko Taisen Dokkoider",
+    "Dokkoider - Viviendo en el apartamento cósmico"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1837-42rHARqkhRW8.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1837",
+      "url": "https://anilist.co/anime/1837"
+    },
+    "k": {
+      "id": "1654",
+      "url": "https://kitsu.io/anime/1654"
+    },
+    "mal": {
+      "id": "1837",
+      "url": "https://myanimelist.net/anime/1837"
+    },
+    "t": {
+      "id": "34055",
+      "url": "https://trakt.tv/shows/34055"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5765,
+  "slug": "ojarumaru-mangetsu-road-kiki-ippatsu-tama-ni-wa-maro-mo-daibouken",
+  "kind": "anime",
+  "title": "Ojarumaru: Mangetsu Road Kiki Ippatsu - Tama ni wa Maro mo Daibouken",
+  "titles": {
+    "default": "Ojarumaru: Mangetsu Road Kiki Ippatsu - Tama ni wa Maro mo Daibouken",
+    "romaji": "Ojarumaru: Mangetsu Road Kiki Ippatsu - Tama ni wa Maro mo Daibouken",
+    "native": "おじゃる丸 満月ロード危機一髪 ～タマにはマロも大冒険～"
+  },
+  "synonyms": [
+    "Ojarumaru: Mangetsu Road Kiki Ippatsu - Tama ni wa Maro mo Daibouken",
+    "おじゃる丸 満月ロード危機一髪 ～タマにはマロも大冒険～",
+    "Prince Mackaroo: Peril at the Full Moon Road -A \"Rare\" Adventure of Our Prince-"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16482.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "16482",
+      "url": "https://anilist.co/anime/16482"
+    },
+    "k": {
+      "id": "7439",
+      "url": "https://kitsu.io/anime/7439"
+    },
+    "mal": {
+      "id": "16482",
+      "url": "https://myanimelist.net/anime/16482"
+    }
+  }
+}

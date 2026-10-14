@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 873,
+  "slug": "ichigo-100-ova",
+  "kind": "anime",
+  "title": "Ichigo 100% OVA",
+  "titles": {
+    "default": "Ichigo 100% OVA",
+    "romaji": "Ichigo 100% OVA",
+    "english": "Ichigo 100% Original DVD Animation",
+    "native": "いちご１００％　オリジナルDVDアニメーション"
+  },
+  "synonyms": [
+    "Ichigo 100% OVA",
+    "Ichigo 100% Original DVD Animation",
+    "いちご１００％　オリジナルDVDアニメーション"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "summer",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/981.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "981",
+      "url": "https://anilist.co/anime/981"
+    },
+    "k": {
+      "id": "871",
+      "url": "https://kitsu.io/anime/871"
+    },
+    "mal": {
+      "id": "981",
+      "url": "https://myanimelist.net/anime/981"
+    }
+  }
+}

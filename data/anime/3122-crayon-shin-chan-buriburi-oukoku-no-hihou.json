@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3122,
+  "slug": "crayon-shin-chan-buriburi-oukoku-no-hihou",
+  "kind": "anime",
+  "title": "Crayon Shin-chan: Buriburi Oukoku no Hihou",
+  "titles": {
+    "default": "Crayon Shin-chan: Buriburi Oukoku no Hihou",
+    "romaji": "Crayon Shin-chan: Buriburi Oukoku no Hihou",
+    "english": "Crayon Shin-chan: The Hidden Treasure of the Buri Buri Kingdom",
+    "native": "クレヨンしんちゃん ブリブリ王国の秘宝"
+  },
+  "synonyms": [
+    "Crayon Shin-chan: Buriburi Oukoku no Hihou",
+    "Crayon Shin-chan: The Hidden Treasure of the Buri Buri Kingdom",
+    "クレヨンしんちゃん ブリブリ王国の秘宝",
+    "Eiga Crayon Shin-chan: Buriburi Oukoku no Hihou",
+    "Crayon Shin-chan: The Secret Treasure of Buri Buri Kingdom",
+    "Shin-chan: en la isla del tesoro",
+    "ชินจัง เดอะมูฟวี่ 2 : สมบัติลับแห่งอาณาจักรบูริบูริ",
+    "Shin-chan - Cậu bé bút chì! Bảo vật bí mật của Vương quốc Buriburi!",
+    "Crayon Shin-chan Movie 02: Buriburi Oukoku no Hihou"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3745-4a6kWHsjCbPn.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3745",
+      "url": "https://anilist.co/anime/3745"
+    },
+    "k": {
+      "id": "3226",
+      "url": "https://kitsu.io/anime/3226"
+    },
+    "mal": {
+      "id": "3745",
+      "url": "https://myanimelist.net/anime/3745"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2280,
+  "slug": "don-chuck-monogatari",
+  "kind": "anime",
+  "title": "Don Chuck Monogatari",
+  "titles": {
+    "default": "Don Chuck Monogatari",
+    "romaji": "Don Chuck Monogatari",
+    "english": "Don Chuck Stories",
+    "native": "ドンチャック物語"
+  },
+  "synonyms": [
+    "Don Chuck Monogatari",
+    "Don Chuck Stories",
+    "ドンチャック物語"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 1975,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2575-jAAZIPjj4JPb.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2575",
+      "url": "https://anilist.co/anime/2575"
+    },
+    "k": {
+      "id": "2340",
+      "url": "https://kitsu.io/anime/2340"
+    },
+    "mal": {
+      "id": "2575",
+      "url": "https://myanimelist.net/anime/2575"
+    }
+  }
+}

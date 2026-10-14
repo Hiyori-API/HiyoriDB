@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11987,
+  "slug": "ootsuchi-kai-monogatari",
+  "kind": "anime",
+  "title": "Ootsuchi Kai Monogatari",
+  "titles": {
+    "default": "Ootsuchi Kai Monogatari",
+    "romaji": "Ootsuchi Kai Monogatari",
+    "native": "大槌カイ物語"
+  },
+  "synonyms": [
+    "Ootsuchi Kai Monogatari",
+    "大槌カイ物語",
+    "Ootsuchi Kai Monogatari: Departure",
+    "Ootsuchi Kai Monogatari: Voyage",
+    "Potecco Babies",
+    "ポテッコベイビーズ",
+    "Potekko Babies"
+  ],
+  "type": "ona",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b200372-ZJi7NVV7dexu.png"
+  ],
+  "references": {
+    "al": {
+      "id": "200372",
+      "url": "https://anilist.co/anime/200372"
+    },
+    "k": {
+      "id": "5550",
+      "url": "https://kitsu.io/anime/5550"
+    },
+    "mal": {
+      "id": "62038",
+      "url": "https://myanimelist.net/anime/62038"
+    },
+    "yt": {
+      "id": "WAadrbY6Nlg",
+      "url": "https://www.youtube.com/watch?v=GZ6FC1dSaM0"
+    }
+  }
+}

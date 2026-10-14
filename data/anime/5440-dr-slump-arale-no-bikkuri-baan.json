@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5440,
+  "slug": "dr-slump-arale-no-bikkuri-baan",
+  "kind": "anime",
+  "title": "Dr. Slump: Arale no Bikkuri Baan",
+  "titles": {
+    "default": "Dr. Slump: Arale no Bikkuri Baan",
+    "romaji": "Dr. Slump: Arale no Bikkuri Baan",
+    "native": "ドクタースランプ　アラレのびっくりバーン"
+  },
+  "synonyms": [
+    "Dr. Slump: Arale no Bikkuri Baan",
+    "ドクタースランプ　アラレのびっくりバーン",
+    "Dr. Slump: Arale's Surprise",
+    "Case Closed Movie 3: The Last Wizard of the Century",
+    "Meitantei Conan: Seikimatsu no Majutsushi",
+    "Detective Conan Movie 03: The Last Wizard of the Century",
+    "名探偵コナン 世紀末の魔術師",
+    "Detective Conan Movie 3"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8550.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8550",
+      "url": "https://anilist.co/anime/8550"
+    },
+    "k": {
+      "id": "698",
+      "url": "https://kitsu.io/anime/698"
+    },
+    "mal": {
+      "id": "8550",
+      "url": "https://myanimelist.net/anime/8550"
+    }
+  }
+}

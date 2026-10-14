@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1800,
+  "slug": "mahou-no-star-magical-emi",
+  "kind": "anime",
+  "title": "Mahou no Star Magical Emi",
+  "titles": {
+    "default": "Mahou no Star Magical Emi",
+    "romaji": "Mahou no Star Magical Emi",
+    "english": "Magical Emi, the Magic Star",
+    "native": "魔法のスター マジカルエミ"
+  },
+  "synonyms": [
+    "Mahou no Star Magical Emi",
+    "Magical Emi, the Magic Star",
+    "魔法のスター マジカルエミ",
+    "Magica Emi",
+    "Star Magician Magical Emi",
+    "Magic Star Magical Emi"
+  ],
+  "type": "tv",
+  "episodes": 38,
+  "status": "finished",
+  "season": "summer",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2038-8pQpYgitKQyB.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2038",
+      "url": "https://anilist.co/anime/2038"
+    },
+    "k": {
+      "id": "1837",
+      "url": "https://kitsu.io/anime/1837"
+    },
+    "mal": {
+      "id": "2038",
+      "url": "https://myanimelist.net/anime/2038"
+    },
+    "t": {
+      "id": "64596",
+      "url": "https://trakt.tv/shows/64596"
+    }
+  }
+}

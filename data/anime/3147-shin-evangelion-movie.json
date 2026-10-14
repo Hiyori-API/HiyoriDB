@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3147,
+  "slug": "shin-evangelion-movie",
+  "kind": "anime",
+  "title": "Shin Evangelion Movie:||",
+  "titles": {
+    "default": "Shin Evangelion Movie:||",
+    "romaji": "Shin Evangelion Movie:||",
+    "english": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+    "native": "シン・エヴァンゲリオン劇場版:||"
+  },
+  "synonyms": [
+    "Shin Evangelion Movie:||",
+    "Evangelion: 3.0+1.0 Thrice Upon a Time",
+    "シン・エヴァンゲリオン劇場版:||",
+    "Rebuild of Evangelion 4.0",
+    "EVANGELION:3.0+1.01 THRICE UPON A TIME",
+    "EVANGELION:3.0+1.01 A ESPERANÇA",
+    "อีวานเกเลียน:3.0+1.01 สามครั้งก่อน เมื่อเนิ่นนานมาแล้ว",
+    "Evangelion 3.0+1.11",
+    "EVANGELION:3.0+1.01 TRIPLE",
+    "Evangelion 3.0+1.01 Od-nowa",
+    "Shin Evangelion Gekijouban :||",
+    "Evangelion: 4.0"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3786-Tpt9iM72dxTv.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3786",
+      "url": "https://anilist.co/anime/3786"
+    },
+    "k": {
+      "id": "3252",
+      "url": "https://kitsu.io/anime/3252"
+    },
+    "mal": {
+      "id": "3786",
+      "url": "https://myanimelist.net/anime/3786"
+    },
+    "tx": {
+      "id": "evangelion_co",
+      "url": "https://twitter.com/evangelion_co"
+    }
+  }
+}

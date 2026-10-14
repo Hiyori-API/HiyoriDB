@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5271,
+  "slug": "terajimachou-kidan-ginnagashi",
+  "kind": "anime",
+  "title": "Terajimachou Kidan: Ginnagashi",
+  "titles": {
+    "default": "Terajimachou Kidan: Ginnagashi",
+    "romaji": "Terajimachou Kidan: Ginnagashi",
+    "native": "寺島町奇譚 ぎんながし"
+  },
+  "synonyms": [
+    "Terajimachou Kidan: Ginnagashi",
+    "寺島町奇譚 ぎんながし",
+    "Ginnagashi: Strange Tales of Terajima District",
+    "Ushio and Tora: Comically Deformed Theater",
+    "Ushio to Tora: Comically Deformed Theater",
+    "うしおととら コミカル・デフォルメ劇場",
+    "Ushio & Tora: Comically Deformed Theater"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b213510-nAuoi3hHtR68.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "213510",
+      "url": "https://anilist.co/anime/213510"
+    },
+    "k": {
+      "id": "4050",
+      "url": "https://kitsu.io/anime/4050"
+    },
+    "mal": {
+      "id": "33077",
+      "url": "https://myanimelist.net/anime/33077"
+    }
+  }
+}

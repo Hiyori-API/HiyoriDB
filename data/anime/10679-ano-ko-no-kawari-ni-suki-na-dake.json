@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10679,
+  "slug": "ano-ko-no-kawari-ni-suki-na-dake",
+  "kind": "anime",
+  "title": "Ano Ko no Kawari ni Suki na Dake",
+  "titles": {
+    "default": "Ano Ko no Kawari ni Suki na Dake",
+    "romaji": "Ano Ko no Kawari ni Suki na Dake",
+    "native": "実娘（あの子）の代わりに好きなだけ"
+  },
+  "synonyms": [
+    "Ano Ko no Kawari ni Suki na Dake",
+    "実娘（あの子）の代わりに好きなだけ",
+    "Samurai X: Reflection",
+    "Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou-hen",
+    "るろうに剣心 -明治剣客浪漫譚- 星霜編",
+    "Rurouni Kenshin: Seisouhen",
+    "Rurouni Kenshin OVA 2"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx125183-2RSgfVxxVZEz.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "125183",
+      "url": "https://anilist.co/anime/125183"
+    },
+    "k": {
+      "id": "368",
+      "url": "https://kitsu.io/anime/368"
+    },
+    "mal": {
+      "id": "44193",
+      "url": "https://myanimelist.net/anime/44193"
+    }
+  }
+}

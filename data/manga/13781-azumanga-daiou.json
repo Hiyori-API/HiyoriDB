@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13781,
+  "slug": "azumanga-daiou",
+  "kind": "manga",
+  "title": "Azumanga Daiou",
+  "titles": {
+    "default": "Azumanga Daiou"
+  },
+  "synonyms": [
+    "Адзуманга",
+    "Azumanga Daioh",
+    "あずまんが大王",
+    "Paradise Kiss",
+    "パラダイス・キス",
+    "ParaKiss"
+  ],
+  "type": "manga",
+  "chapters": 69,
+  "volumes": 4,
+  "status": "finished",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n30085-EiFHtQfdeHjp.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "66",
+      "url": "https://anilist.co/anime/66"
+    },
+    "al_manga": {
+      "id": "66",
+      "url": "https://anilist.co/manga/66"
+    }
+  }
+}

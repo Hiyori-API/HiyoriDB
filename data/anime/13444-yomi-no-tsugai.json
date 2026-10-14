@@ -1,0 +1,64 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13444,
+  "slug": "yomi-no-tsugai",
+  "kind": "anime",
+  "title": "Yomi no Tsugai",
+  "titles": {
+    "default": "Yomi no Tsugai",
+    "romaji": "Yomi no Tsugai",
+    "english": "Daemons of the Shadow Realm",
+    "native": "黄泉のツガイ"
+  },
+  "synonyms": [
+    "Yomi no Tsugai",
+    "Daemons of the Shadow Realm",
+    "黄泉のツガイ",
+    "ヨミツガ",
+    "YomiTsuga",
+    "Pasangan dari Alam Baka",
+    "ยมลแห่งยมโลก",
+    "Yomi no Tsugai - Daemons do Reino das Sombras",
+    "Espíritus del Inframundo",
+    "Цугаи загробного мира",
+    "Kontraduety z zaświatów",
+    "Цуґаї потойбіччя",
+    "黃泉使者",
+    "Trinity Blood",
+    "トリニティ・ブラッド"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "spring",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195600-moI0UFArtOme.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "195600",
+      "url": "https://anilist.co/anime/195600"
+    },
+    "cr": {
+      "id": "series/GT00371630/daemons-of-the-shadow-realm",
+      "url": "https://www.crunchyroll.com/series/series/GT00371630/daemons-of-the-shadow-realm"
+    },
+    "k": {
+      "id": "18",
+      "url": "https://kitsu.io/anime/18"
+    },
+    "mal": {
+      "id": "62001",
+      "url": "https://myanimelist.net/anime/62001"
+    },
+    "nf": {
+      "id": "82719204",
+      "url": "https://www.netflix.com/title/82719204"
+    },
+    "t": {
+      "id": "42864",
+      "url": "https://trakt.tv/shows/42864"
+    }
+  }
+}

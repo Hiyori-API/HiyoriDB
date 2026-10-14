@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15510,
+  "slug": "sekaiichi-hatsukoi-onodera-ritsu-no-baai",
+  "kind": "manga",
+  "title": "Sekaiichi Hatsukoi: Onodera Ritsu no Baai",
+  "titles": {
+    "default": "Sekaiichi Hatsukoi: Onodera Ritsu no Baai"
+  },
+  "synonyms": [
+    "World's Greatest First Love: Ritsu Onodera's Affair",
+    "รักนี้แด่เพียงคุณ ฉบับโอโนเดระ ริทสึ",
+    "Sekaiichi Hatsukoi: Przypadek Ritsu Onodery",
+    "The World's Greatest First Love",
+    "世界一初恋 ~小野寺律の場合~",
+    "The Kurosagi Corpse Delivery Service",
+    "Kurosagi Shitai Takuhaibin",
+    "黒鷺死体宅配便"
+  ],
+  "type": "manga",
+  "status": "publishing",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx40573-YOvX7o31ZXLU.png"
+  ],
+  "references": {
+    "al": {
+      "id": "111305",
+      "url": "https://anilist.co/anime/9926"
+    },
+    "al_manga": {
+      "id": "111305",
+      "url": "https://anilist.co/manga/111305"
+    }
+  }
+}

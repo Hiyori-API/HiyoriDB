@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12247,
+  "slug": "bastard-ankoku-no-hakaishin-jigoku-no-chinkonka-hen",
+  "kind": "anime",
+  "title": "BASTARD!!: Ankoku no Hakaishin - Jigoku no Chinkonka-hen",
+  "titles": {
+    "default": "BASTARD!!: Ankoku no Hakaishin - Jigoku no Chinkonka-hen",
+    "romaji": "BASTARD!!: Ankoku no Hakaishin - Jigoku no Chinkonka-hen",
+    "english": "BASTARD!! -Heavy Metal, Dark Fantasy- Hell’s Requiem Arc",
+    "native": "BASTARD!! －暗黒の破壊神－ 地獄の鎮魂歌編"
+  },
+  "synonyms": [
+    "BASTARD!!: Ankoku no Hakaishin - Jigoku no Chinkonka-hen",
+    "BASTARD!! -Heavy Metal, Dark Fantasy- Hell’s Requiem Arc",
+    "BASTARD!! －暗黒の破壊神－ 地獄の鎮魂歌編",
+    "BASTARD!!: Ankoku no Hakaishin 2nd Season",
+    "BASTARD!! -Heavy Metal, Dark Fantasy- Season 2",
+    "BASTARD!! -Heavy Metal, Dark Fantasy- Piekielne requiem",
+    "Виродок!! Темний бог руйнування. Сезон 2",
+    "Bastard!! Ankoku no Hakaishin Season 2 (ONA)",
+    "Bastard!! Heavy Metal, Dark Fantasy: Hell's Requiem Arc",
+    "Bastard‼ Heavy Metal, Dark Fantasy Season 2",
+    "BASTARD!! -暗黒の破壊神- 地獄の鎮魂歌編",
+    "Bastard!! Ankoku no Hakaishin: Jigoku no Chinkonka-hen"
+  ],
+  "type": "ona",
+  "episodes": 15,
+  "status": "finished",
+  "season": "summer",
+  "year": 2023,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159926-gIu4simZv4RD.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "159926",
+      "url": "https://anilist.co/anime/159926"
+    },
+    "mal": {
+      "id": "54141",
+      "url": "https://myanimelist.net/anime/54141"
+    },
+    "nf": {
+      "id": "81281582",
+      "url": "https://www.netflix.com/title/81281582"
+    },
+    "tx": {
+      "id": "bastard_PR",
+      "url": "https://twitter.com/bastard_PR"
+    }
+  }
+}

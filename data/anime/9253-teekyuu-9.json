@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9253,
+  "slug": "teekyuu-9",
+  "kind": "anime",
+  "title": "Teekyuu 9",
+  "titles": {
+    "default": "Teekyuu 9",
+    "romaji": "Teekyuu 9",
+    "native": "てーきゅう9"
+  },
+  "synonyms": [
+    "Teekyuu 9",
+    "てーきゅう9",
+    "My Very Own Hero",
+    "Hitorijime My Hero",
+    "ひとりじめマイヒーロー"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98566-Qp3hmzdzvfen.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98566",
+      "url": "https://anilist.co/anime/98566"
+    },
+    "cr": {
+      "id": "teekyu",
+      "url": "https://www.crunchyroll.com/series/teekyu"
+    },
+    "mal": {
+      "id": "35370",
+      "url": "https://myanimelist.net/anime/35370"
+    },
+    "tx": {
+      "id": "te_kyu",
+      "url": "https://twitter.com/te_kyu"
+    }
+  }
+}

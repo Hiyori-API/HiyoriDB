@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1128,
+  "slug": "saint-seiya-tenkai-hen-josou-overture",
+  "kind": "anime",
+  "title": "Saint Seiya: Tenkai-hen Josou - overture",
+  "titles": {
+    "default": "Saint Seiya: Tenkai-hen Josou - overture",
+    "romaji": "Saint Seiya: Tenkai-hen Josou - overture",
+    "english": "Saint Seiya: The Heaven Chapter - Overture",
+    "native": "聖闘士星矢 天界編 序奏 ~overture~"
+  },
+  "synonyms": [
+    "Saint Seiya: Tenkai-hen Josou - overture",
+    "Saint Seiya: The Heaven Chapter - Overture",
+    "聖闘士星矢 天界編 序奏 ~overture~",
+    "Saint Seiya Tenkai-hen: Overture",
+    "Os Cavaleiros do Zodíaco: Prólogo do Céu",
+    "Saint Seiya: Tenkai-hen Josou - Overture"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1259-To3xqSUc49gn.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1259",
+      "url": "https://anilist.co/anime/1259"
+    },
+    "k": {
+      "id": "1134",
+      "url": "https://kitsu.io/anime/1134"
+    },
+    "mal": {
+      "id": "1259",
+      "url": "https://myanimelist.net/anime/1259"
+    }
+  }
+}

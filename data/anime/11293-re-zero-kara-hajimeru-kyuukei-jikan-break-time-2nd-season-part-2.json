@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11293,
+  "slug": "re-zero-kara-hajimeru-kyuukei-jikan-break-time-2nd-season-part-2",
+  "kind": "anime",
+  "title": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 2nd Season Part 2",
+  "titles": {
+    "default": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 2nd Season Part 2",
+    "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 2nd Season Part 2",
+    "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 2nd Season Part 2"
+  },
+  "synonyms": [
+    "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 2nd Season Part 2",
+    "Re:ゼロから始める休憩時間(ブレイクタイム) 2nd Season Part 2",
+    "Re:ZERO ~Starting Break Time From Zero~ Season 2 Part 2",
+    "Zhen Dao Ge: Qian li bu Liu Xing",
+    "枕刀歌: 千里不留行",
+    "On The Edge",
+    "枕刀歌",
+    "Zhen Dao Ge"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b128306-94Zyoqy2fA4X.png"
+  ],
+  "references": {
+    "al": {
+      "id": "128306",
+      "url": "https://anilist.co/anime/128306"
+    },
+    "mal": {
+      "id": "48759",
+      "url": "https://myanimelist.net/anime/48759"
+    },
+    "tx": {
+      "id": "Rezero_official",
+      "url": "https://twitter.com/Rezero_official"
+    }
+  }
+}

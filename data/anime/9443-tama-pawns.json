@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9443,
+  "slug": "tama-pawns",
+  "kind": "anime",
+  "title": "Tama Pawns",
+  "titles": {
+    "default": "Tama Pawns",
+    "romaji": "Tama Pawns",
+    "native": "たまぽんず"
+  },
+  "synonyms": [
+    "Tama Pawns",
+    "たまぽんず",
+    "Aru Tabibito no Nikki",
+    "或る旅人の日記",
+    "The Diary of Tortov Roddle",
+    "A Traveller's Diary"
+  ],
+  "type": "ona",
+  "episodes": 6,
+  "status": "finished",
+  "season": "winter",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116059-mzmiVHSdHGsE.png"
+  ],
+  "references": {
+    "al": {
+      "id": "116059",
+      "url": "https://anilist.co/anime/116059"
+    },
+    "k": {
+      "id": "1083",
+      "url": "https://kitsu.io/anime/1083"
+    },
+    "mal": {
+      "id": "34782",
+      "url": "https://myanimelist.net/anime/34782"
+    }
+  }
+}

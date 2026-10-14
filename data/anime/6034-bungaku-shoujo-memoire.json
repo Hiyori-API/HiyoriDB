@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6034,
+  "slug": "bungaku-shoujo-memoire",
+  "kind": "anime",
+  "title": "Bungaku Shoujo: Memoire",
+  "titles": {
+    "default": "Bungaku Shoujo: Memoire",
+    "romaji": "Bungaku Shoujo: Memoire",
+    "native": "文学少女 メモワール"
+  },
+  "synonyms": [
+    "Bungaku Shoujo: Memoire",
+    "文学少女 メモワール",
+    "Book Girl: Memoire",
+    "Literature Girl: Memoire",
+    "Bungaku Shoujo Memoire I Yume-Miru Shoujo no Prelude",
+    "II Sora-Mau Tenshi no Requiem",
+    "III Koi Suru Otome no Rhapsody",
+    "\"Bungaku Shoujo\" Memoire",
+    "“文学少女”メモワール"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "summer",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8481.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8481",
+      "url": "https://anilist.co/anime/8481"
+    },
+    "k": {
+      "id": "5352",
+      "url": "https://kitsu.io/anime/5352"
+    },
+    "mal": {
+      "id": "8481",
+      "url": "https://myanimelist.net/anime/8481"
+    }
+  }
+}

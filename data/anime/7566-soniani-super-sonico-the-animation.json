@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7566,
+  "slug": "soniani-super-sonico-the-animation",
+  "kind": "anime",
+  "title": "SoniAni: SUPER SONICO THE ANIMATION",
+  "titles": {
+    "default": "SoniAni: SUPER SONICO THE ANIMATION",
+    "romaji": "SoniAni: SUPER SONICO THE ANIMATION",
+    "english": "Soni-Ani: SUPER SONICO THE ANIMATION",
+    "native": "そにアニ -SUPER SONICO THE ANIMATION-"
+  },
+  "synonyms": [
+    "SoniAni: SUPER SONICO THE ANIMATION",
+    "Soni-Ani: SUPER SONICO THE ANIMATION",
+    "そにアニ -SUPER SONICO THE ANIMATION-",
+    "Soni-Ani: Super Sonico The Animation",
+    "SoniAni: Super Sonico The Animation"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20455-idVtmB4eERac.png"
+  ],
+  "references": {
+    "al": {
+      "id": "20455",
+      "url": "https://anilist.co/anime/20455"
+    },
+    "cr": {
+      "id": "soni-ani-super-sonico-the-animation",
+      "url": "https://www.crunchyroll.com/series/soni-ani-super-sonico-the-animation"
+    },
+    "k": {
+      "id": "8031",
+      "url": "https://kitsu.io/anime/8031"
+    },
+    "mal": {
+      "id": "20555",
+      "url": "https://myanimelist.net/anime/20555"
+    },
+    "t": {
+      "id": "74232",
+      "url": "https://trakt.tv/shows/74232"
+    }
+  }
+}

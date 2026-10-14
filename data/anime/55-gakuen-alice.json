@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 55,
+  "slug": "gakuen-alice",
+  "kind": "anime",
+  "title": "Gakuen Alice",
+  "titles": {
+    "default": "Gakuen Alice",
+    "romaji": "Gakuen Alice",
+    "native": "学園アリス"
+  },
+  "synonyms": [
+    "Gakuen Alice",
+    "学園アリス",
+    "Campus Alice",
+    "Alice Academy"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b74-QZI9kO7eesrb.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "74",
+      "url": "https://anilist.co/anime/74"
+    },
+    "cr": {
+      "id": "gakuen-alice",
+      "url": "https://www.crunchyroll.com/series/gakuen-alice"
+    },
+    "k": {
+      "id": "54",
+      "url": "https://kitsu.io/anime/54"
+    },
+    "mal": {
+      "id": "74",
+      "url": "https://myanimelist.net/anime/74"
+    },
+    "t": {
+      "id": "63518",
+      "url": "https://trakt.tv/shows/63518"
+    }
+  }
+}

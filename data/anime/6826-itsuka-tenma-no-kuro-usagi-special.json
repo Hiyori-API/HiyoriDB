@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6826,
+  "slug": "itsuka-tenma-no-kuro-usagi-special",
+  "kind": "anime",
+  "title": "Itsuka Tenma no Kuro Usagi Special",
+  "titles": {
+    "default": "Itsuka Tenma no Kuro Usagi Special",
+    "romaji": "Itsuka Tenma no Kuro Usagi Special",
+    "english": "A Dark Rabbit has Seven Lives Special",
+    "native": "いつか天魔の黒ウサギ スペシャル"
+  },
+  "synonyms": [
+    "Itsuka Tenma no Kuro Usagi Special",
+    "A Dark Rabbit has Seven Lives Special",
+    "いつか天魔の黒ウサギ スペシャル"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13137.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "13137",
+      "url": "https://anilist.co/anime/13137"
+    },
+    "k": {
+      "id": "6889",
+      "url": "https://kitsu.io/anime/6889"
+    },
+    "mal": {
+      "id": "13137",
+      "url": "https://myanimelist.net/anime/13137"
+    }
+  }
+}

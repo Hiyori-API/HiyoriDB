@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7889,
+  "slug": "futari-ecchi-the-one-and-only-step-up-love-story",
+  "kind": "anime",
+  "title": "Futari Ecchi: The One And Only Step Up Love Story",
+  "titles": {
+    "default": "Futari Ecchi: The One And Only Step Up Love Story",
+    "romaji": "Futari Ecchi: The One And Only Step Up Love Story",
+    "english": "Futari Ecchi (OVA)",
+    "native": "ふたりエッチThe One And Only Step Up Love Story"
+  },
+  "synonyms": [
+    "Futari Ecchi: The One And Only Step Up Love Story",
+    "Futari Ecchi (OVA)",
+    "ふたりエッチThe One And Only Step Up Love Story",
+    "Futari Ecchi (2014)",
+    "Futari H (2014)",
+    "ふたりエッチ",
+    "The One And Only Step Up Love Story"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "fall",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21280-dUjX7t4bJMIh.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21280",
+      "url": "https://anilist.co/anime/21280"
+    },
+    "k": {
+      "id": "8763",
+      "url": "https://kitsu.io/anime/8763"
+    },
+    "mal": {
+      "id": "23985",
+      "url": "https://myanimelist.net/anime/23985"
+    }
+  }
+}

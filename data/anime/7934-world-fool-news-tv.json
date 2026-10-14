@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7934,
+  "slug": "world-fool-news-tv",
+  "kind": "anime",
+  "title": "World Fool News (TV)",
+  "titles": {
+    "default": "World Fool News (TV)",
+    "romaji": "World Fool News (TV)",
+    "native": "ワールドフールニューズ"
+  },
+  "synonyms": [
+    "World Fool News (TV)",
+    "ワールドフールニューズ",
+    "Knights of Sidonia",
+    "Sidonia no Kishi",
+    "シドニアの騎士"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98552-mDTjg41ouXjb.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98552",
+      "url": "https://anilist.co/anime/98552"
+    },
+    "cr": {
+      "id": "world-fool-news",
+      "url": "https://www.crunchyroll.com/series/world-fool-news"
+    },
+    "k": {
+      "id": "7768",
+      "url": "https://kitsu.io/anime/7768"
+    },
+    "mal": {
+      "id": "18205",
+      "url": "https://myanimelist.net/anime/18205"
+    },
+    "t": {
+      "id": "75828",
+      "url": "https://trakt.tv/shows/75828"
+    }
+  }
+}

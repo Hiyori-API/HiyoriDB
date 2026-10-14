@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6973,
+  "slug": "eureka-seven-ao-jungfrau-no-hanabana-tachi",
+  "kind": "anime",
+  "title": "Eureka Seven AO: Jungfrau no Hanabana-tachi",
+  "titles": {
+    "default": "Eureka Seven AO: Jungfrau no Hanabana-tachi",
+    "romaji": "Eureka Seven AO: Jungfrau no Hanabana-tachi",
+    "native": "エウレカセブンAO -ユングフラウの花々たち-"
+  },
+  "synonyms": [
+    "Eureka Seven AO: Jungfrau no Hanabana-tachi",
+    "エウレカセブンAO -ユングフラウの花々たち-",
+    "Eureka Seven AO: Jungfrau no Hanabanatachi",
+    "Eureka Seven AO: The Flowers of Jungfrau",
+    "Eureka Seven AO OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/14875.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "14875",
+      "url": "https://anilist.co/anime/14875"
+    },
+    "k": {
+      "id": "7178",
+      "url": "https://kitsu.io/anime/7178"
+    },
+    "mal": {
+      "id": "14875",
+      "url": "https://myanimelist.net/anime/14875"
+    }
+  }
+}

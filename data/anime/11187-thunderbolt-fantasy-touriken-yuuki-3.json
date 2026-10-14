@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11187,
+  "slug": "thunderbolt-fantasy-touriken-yuuki-3",
+  "kind": "anime",
+  "title": "Thunderbolt Fantasy: Touriken Yuuki 3",
+  "titles": {
+    "default": "Thunderbolt Fantasy: Touriken Yuuki 3",
+    "romaji": "Thunderbolt Fantasy: Touriken Yuuki 3",
+    "english": "Thunderbolt Fantasy Sword Seekers 3",
+    "native": "Thunderbolt Fantasy 東離劍遊紀3"
+  },
+  "synonyms": [
+    "Thunderbolt Fantasy: Touriken Yuuki 3",
+    "Thunderbolt Fantasy Sword Seekers 3",
+    "Thunderbolt Fantasy 東離劍遊紀3",
+    "Moriarty's Patriotism Part 2",
+    "Moriarty the Patriot 2",
+    "Moriarty the Patriot Part 2",
+    "憂国のモリアーティ",
+    "Yuukoku no Moriarty Part 2"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119806-fM8V7oRgmSmh.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "119806",
+      "url": "https://anilist.co/anime/119806"
+    },
+    "cr": {
+      "id": "thunderbolt-fantasy",
+      "url": "https://www.crunchyroll.com/series/thunderbolt-fantasy"
+    },
+    "mal": {
+      "id": "43325",
+      "url": "https://myanimelist.net/anime/43325"
+    },
+    "tx": {
+      "id": "TBF_PR",
+      "url": "https://twitter.com/TBF_PR"
+    }
+  }
+}

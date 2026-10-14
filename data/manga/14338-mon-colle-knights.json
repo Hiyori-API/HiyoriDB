@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14338,
+  "slug": "mon-colle-knights",
+  "kind": "manga",
+  "title": "Mon Colle Knights",
+  "titles": {
+    "default": "Mon Colle Knights"
+  },
+  "synonyms": [
+    "Rokumon Tengai Mon Colle Knight",
+    "Rokumon Tengai Mon Kore Naito Six Gate Far Away Mon Colle Knights",
+    "Mon Colle Knights",
+    "六門天外モンコレナイト",
+    "Mushrambo",
+    "マシュランボー",
+    "Mashuranboo"
+  ],
+  "type": "manga",
+  "chapters": 18,
+  "volumes": 4,
+  "status": "finished",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b32972-1I9Af4E7HTfo.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4962",
+      "url": "https://anilist.co/anime/4962"
+    },
+    "al_manga": {
+      "id": "4962",
+      "url": "https://anilist.co/manga/4962"
+    }
+  }
+}

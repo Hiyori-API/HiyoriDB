@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8395,
+  "slug": "saki-achiga-hen-episode-of-side-a-kuro-no-tanjoubi",
+  "kind": "anime",
+  "title": "Saki: Achiga-hen - episode of side-A - Kuro no Tanjoubi",
+  "titles": {
+    "default": "Saki: Achiga-hen - episode of side-A - Kuro no Tanjoubi",
+    "romaji": "Saki: Achiga-hen - episode of side-A - Kuro no Tanjoubi",
+    "english": "Saki: Achiga-hen - Episode of Side-A - Kuro no Tanjoubi",
+    "native": "咲-Saki-阿知賀編 episode of side-A ショートオリジナルアニメ「玄の誕生日」"
+  },
+  "synonyms": [
+    "Saki: Achiga-hen - episode of side-A - Kuro no Tanjoubi",
+    "Saki: Achiga-hen - Episode of Side-A - Kuro no Tanjoubi",
+    "咲-Saki-阿知賀編 episode of side-A ショートオリジナルアニメ「玄の誕生日」",
+    "Bokura wa Minna Kawai-sou: Hajimete no",
+    "僕らはみんな河合荘 初めての",
+    "The Kawai Complex Guide to Manors and Hostel Behavior: First Time",
+    "Bokura wa Minna Kawaisou: Hajimete no",
+    "Bokura wa Minna Kawaisou Special"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/97610-mEQxWRvW1Gul.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "97610",
+      "url": "https://anilist.co/anime/97610"
+    },
+    "k": {
+      "id": "8536",
+      "url": "https://kitsu.io/anime/8536"
+    },
+    "mal": {
+      "id": "30292",
+      "url": "https://myanimelist.net/anime/30292"
+    }
+  }
+}

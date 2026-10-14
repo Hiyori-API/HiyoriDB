@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2559,
+  "slug": "kinbaku-no-yakata-ryakudatsu",
+  "kind": "anime",
+  "title": "Kinbaku no Yakata: Ryakudatsu",
+  "titles": {
+    "default": "Kinbaku no Yakata: Ryakudatsu",
+    "romaji": "Kinbaku no Yakata: Ryakudatsu",
+    "english": "Bondage Mansion",
+    "native": "緊縛の館 ～略奪～"
+  },
+  "synonyms": [
+    "Kinbaku no Yakata: Ryakudatsu",
+    "Bondage Mansion",
+    "緊縛の館 ～略奪～",
+    "Bondage Mansion: Plunder or Rape",
+    "Angelique: Shiroi Tsubasa no Memoire",
+    "アンジェリーク　～白い翼のメモワール～",
+    "Angelique: White Wing Memoirs",
+    "Angelique OVA 1"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2894.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2894",
+      "url": "https://anilist.co/anime/2894"
+    },
+    "k": {
+      "id": "2301",
+      "url": "https://kitsu.io/anime/2301"
+    },
+    "mal": {
+      "id": "2894",
+      "url": "https://myanimelist.net/anime/2894"
+    }
+  }
+}

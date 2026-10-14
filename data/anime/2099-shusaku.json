@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2099,
+  "slug": "shusaku",
+  "kind": "anime",
+  "title": "Shusaku",
+  "titles": {
+    "default": "Shusaku",
+    "romaji": "Shusaku",
+    "native": "臭作"
+  },
+  "synonyms": [
+    "Shusaku",
+    "臭作",
+    "Syuusaku",
+    "Shuusaku",
+    "Highschool Aurabuster: Hikari no Mezame",
+    "ハイスクール・オーラバスター　光の誕生[めざめ]",
+    "Highschool Aurabuster: Birth of the Light"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "winter",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2374.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2374",
+      "url": "https://anilist.co/anime/2374"
+    },
+    "k": {
+      "id": "2499",
+      "url": "https://kitsu.io/anime/2499"
+    },
+    "mal": {
+      "id": "2374",
+      "url": "https://myanimelist.net/anime/2374"
+    }
+  }
+}

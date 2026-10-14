@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9795,
+  "slug": "godzilla-hoshi-wo-kuu-mono",
+  "kind": "anime",
+  "title": "GODZILLA: Hoshi wo Kuu Mono",
+  "titles": {
+    "default": "GODZILLA: Hoshi wo Kuu Mono",
+    "romaji": "GODZILLA: Hoshi wo Kuu Mono",
+    "english": "Godzilla: The Planet Eater",
+    "native": "GODZILLA -星を喰う者-"
+  },
+  "synonyms": [
+    "GODZILLA: Hoshi wo Kuu Mono",
+    "Godzilla: The Planet Eater",
+    "GODZILLA -星を喰う者-",
+    "Godzilla: Eater of Stars",
+    "GODZILLA 星を喰う者",
+    "Godzilla 3: Hoshi wo Kuu Mono"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx102353-CDQ0v6R8dgJ8.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "102353",
+      "url": "https://anilist.co/anime/102353"
+    },
+    "mal": {
+      "id": "37897",
+      "url": "https://myanimelist.net/anime/37897"
+    },
+    "nf": {
+      "id": "80198623",
+      "url": "https://www.netflix.com/title/80198623"
+    },
+    "tx": {
+      "id": "godzilla_anime",
+      "url": "https://twitter.com/godzilla_anime"
+    }
+  }
+}

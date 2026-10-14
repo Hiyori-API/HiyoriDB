@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9346,
+  "slug": "cinderella-girls-gekijou-2nd-season",
+  "kind": "anime",
+  "title": "Cinderella Girls Gekijou 2nd Season",
+  "titles": {
+    "default": "Cinderella Girls Gekijou 2nd Season",
+    "romaji": "Cinderella Girls Gekijou 2nd Season",
+    "english": "THE iDOLM@STER CINDERELLA GIRLS Theater 2nd Season (TV)",
+    "native": "シンデレラガールズ劇場 2期"
+  },
+  "synonyms": [
+    "Cinderella Girls Gekijou 2nd Season",
+    "THE iDOLM@STER CINDERELLA GIRLS Theater 2nd Season (TV)",
+    "シンデレラガールズ劇場 2期",
+    "Cingeki 2",
+    "The IDOLM@STER Cinderella Girls Gekijou 2",
+    "Love Live! School Idol Project: Sunshine!!",
+    "Love Live! Sunshine!! Season 2",
+    "ラブライブ！サンシャイン!! 第2期",
+    "Love Live! Sunshine!! 2nd Season"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99742-duoJA5BKNBNe.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "99742",
+      "url": "https://anilist.co/anime/99742"
+    },
+    "cr": {
+      "id": "the-idolmster-cinderella-girls-theater",
+      "url": "https://www.crunchyroll.com/series/the-idolmster-cinderella-girls-theater"
+    },
+    "mal": {
+      "id": "35883",
+      "url": "https://myanimelist.net/anime/35883"
+    },
+    "tx": {
+      "id": "cingeki_anime",
+      "url": "https://twitter.com/cingeki_anime"
+    }
+  }
+}

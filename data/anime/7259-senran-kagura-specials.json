@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7259,
+  "slug": "senran-kagura-specials",
+  "kind": "anime",
+  "title": "Senran Kagura Specials",
+  "titles": {
+    "default": "Senran Kagura Specials",
+    "romaji": "Senran Kagura Specials",
+    "native": "閃乱カグラ"
+  },
+  "synonyms": [
+    "Senran Kagura Specials",
+    "閃乱カグラ",
+    "Yuyushiki: Nyanyashiki",
+    "ゆゆ式　にゃにゃ式"
+  ],
+  "type": "special",
+  "episodes": 6,
+  "status": "finished",
+  "season": "spring",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17345.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "17345",
+      "url": "https://anilist.co/anime/17345"
+    },
+    "k": {
+      "id": "7778",
+      "url": "https://kitsu.io/anime/7778"
+    },
+    "mal": {
+      "id": "17345",
+      "url": "https://myanimelist.net/anime/17345"
+    }
+  }
+}

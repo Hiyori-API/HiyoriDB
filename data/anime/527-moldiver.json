@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 527,
+  "slug": "moldiver",
+  "kind": "anime",
+  "title": "Moldiver",
+  "titles": {
+    "default": "Moldiver",
+    "romaji": "Moldiver",
+    "native": "モルダイバー"
+  },
+  "synonyms": [
+    "Moldiver",
+    "モルダイバー"
+  ],
+  "type": "ova",
+  "episodes": 6,
+  "status": "finished",
+  "season": "winter",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/571.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "571",
+      "url": "https://anilist.co/anime/571"
+    },
+    "k": {
+      "id": "528",
+      "url": "https://kitsu.io/anime/528"
+    },
+    "mal": {
+      "id": "571",
+      "url": "https://myanimelist.net/anime/571"
+    }
+  }
+}

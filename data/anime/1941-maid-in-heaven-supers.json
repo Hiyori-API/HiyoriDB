@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1941,
+  "slug": "maid-in-heaven-supers",
+  "kind": "anime",
+  "title": "MAID iN HEAVEN SuperS",
+  "titles": {
+    "default": "MAID iN HEAVEN SuperS",
+    "romaji": "MAID iN HEAVEN SuperS",
+    "english": "Maid in Heaven"
+  },
+  "synonyms": [
+    "MAID iN HEAVEN SuperS",
+    "Maid in Heaven",
+    "School Rumble Ichi Gakki Hoshuu",
+    "スクールランブル一学期補習",
+    "School Rumble OVA",
+    "School Rumble: First Extra Term"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2188.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2188",
+      "url": "https://anilist.co/anime/2188"
+    },
+    "k": {
+      "id": "476",
+      "url": "https://kitsu.io/anime/476"
+    },
+    "mal": {
+      "id": "2188",
+      "url": "https://myanimelist.net/anime/2188"
+    }
+  }
+}

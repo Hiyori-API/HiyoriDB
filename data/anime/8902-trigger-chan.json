@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8902,
+  "slug": "trigger-chan",
+  "kind": "anime",
+  "title": "Trigger-chan",
+  "titles": {
+    "default": "Trigger-chan",
+    "romaji": "Trigger-chan",
+    "native": "トリガーちゃん"
+  },
+  "synonyms": [
+    "Trigger-chan",
+    "トリガーちゃん",
+    "Hoshizora Kiseki",
+    "星空キセキ"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99002-mNadpMbwsnL8.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "99002",
+      "url": "https://anilist.co/anime/99002"
+    },
+    "k": {
+      "id": "1097",
+      "url": "https://kitsu.io/anime/1097"
+    },
+    "mal": {
+      "id": "33934",
+      "url": "https://myanimelist.net/anime/33934"
+    }
+  }
+}

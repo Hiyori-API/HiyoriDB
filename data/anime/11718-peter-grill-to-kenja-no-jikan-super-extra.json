@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11718,
+  "slug": "peter-grill-to-kenja-no-jikan-super-extra",
+  "kind": "anime",
+  "title": "Peter Grill to Kenja no Jikan: Super Extra",
+  "titles": {
+    "default": "Peter Grill to Kenja no Jikan: Super Extra",
+    "romaji": "Peter Grill to Kenja no Jikan: Super Extra",
+    "english": "Peter Grill and the Philosopher’s Time: Super Extra",
+    "native": "ピーター・グリルと賢者の時間 Super Extra"
+  },
+  "synonyms": [
+    "Peter Grill to Kenja no Jikan: Super Extra",
+    "Peter Grill and the Philosopher’s Time: Super Extra",
+    "ピーター・グリルと賢者の時間 Super Extra",
+    "Peter Grill and the Philosopher's Time Season 2",
+    "Peter Grill to Kenja no Jikan 2nd Season",
+    "More than a Couple, Less than Lovers.",
+    "Fuukoi",
+    "More than a Married Couple, but Not Lovers.",
+    "夫婦以上、恋人未満。",
+    "Fuufu Ijou, Koibito Miman."
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141400-IHU8WRGMWrCh.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "141400",
+      "url": "https://anilist.co/anime/141400"
+    },
+    "mal": {
+      "id": "50348",
+      "url": "https://myanimelist.net/anime/50348"
+    },
+    "tx": {
+      "id": "petergrillanime",
+      "url": "https://twitter.com/petergrillanime"
+    }
+  }
+}

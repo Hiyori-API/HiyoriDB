@@ -1,0 +1,63 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3565,
+  "slug": "toaru-majutsu-no-index",
+  "kind": "anime",
+  "title": "Toaru Majutsu no Index",
+  "titles": {
+    "default": "Toaru Majutsu no Index",
+    "romaji": "Toaru Majutsu no Index",
+    "english": "A Certain Magical Index",
+    "native": "とある魔術の禁書目録"
+  },
+  "synonyms": [
+    "Toaru Majutsu no Index",
+    "A Certain Magical Index",
+    "とある魔術の禁書目録",
+    "Toaru Majutsu no Kinsho Mokuroku",
+    "אינדקס הקסומה",
+    "魔法禁书目录",
+    "فهرس السحر",
+    "อินเดกซ์คัมภีร์คาถาต้องห้าม",
+    "Cấm thư ma thuật Index",
+    "Μία Κάποια Μαγική Καλόγρια"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "fall",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4654-ba44icsxDQZd.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4654",
+      "url": "https://anilist.co/anime/4654"
+    },
+    "cr": {
+      "id": "a-certain-magical-index/",
+      "url": "https://www.crunchyroll.com/series/a-certain-magical-index/"
+    },
+    "k": {
+      "id": "3725",
+      "url": "https://kitsu.io/anime/3725"
+    },
+    "mal": {
+      "id": "4654",
+      "url": "https://myanimelist.net/anime/4654"
+    },
+    "nf": {
+      "id": "70308188",
+      "url": "https://www.netflix.com/title/70308188"
+    },
+    "t": {
+      "id": "61091",
+      "url": "https://trakt.tv/shows/61091"
+    },
+    "ttv": {
+      "id": "2313",
+      "url": "https://tubitv.com/series/2313"
+    }
+  }
+}

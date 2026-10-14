@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8452,
+  "slug": "milpom-pilot",
+  "kind": "anime",
+  "title": "MILPOM★ Pilot",
+  "titles": {
+    "default": "MILPOM★ Pilot",
+    "romaji": "MILPOM★ Pilot"
+  },
+  "synonyms": [
+    "MILPOM★ Pilot",
+    "みるぽん★ パイロット映像",
+    "Qin Shi Mingyue Tebie Pian: Di Zi Jiang Xi",
+    "秦时明月之帝子降兮",
+    "Qin's Moon: Lady Xiang Descends",
+    "秦时明月 特别篇 帝子降兮",
+    "Qin Shi Mingyue Special: Di Zi Jiang Xi"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b143305-AvXLUAOm8irX.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "143305",
+      "url": "https://anilist.co/anime/143305"
+    },
+    "mal": {
+      "id": "30438",
+      "url": "https://myanimelist.net/anime/30438"
+    }
+  }
+}

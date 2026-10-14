@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8232,
+  "slug": "genkaku-cool-na-sensei-ga-aheboteochi",
+  "kind": "anime",
+  "title": "Genkaku Cool na Sensei ga Aheboteochi!",
+  "titles": {
+    "default": "Genkaku Cool na Sensei ga Aheboteochi!",
+    "romaji": "Genkaku Cool na Sensei ga Aheboteochi!",
+    "native": "厳格クールな先生がアヘボテオチ!"
+  },
+  "synonyms": [
+    "Genkaku Cool na Sensei ga Aheboteochi!",
+    "厳格クールな先生がアヘボテオチ!",
+    "Hyakka Ryouran: Samurai After",
+    "百花繚乱 サムライアフター",
+    "Hyakka Ryouran OVA"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21147-AiTWGYeUb1fh.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21147",
+      "url": "https://anilist.co/anime/21147"
+    },
+    "k": {
+      "id": "8795",
+      "url": "https://kitsu.io/anime/8795"
+    },
+    "mal": {
+      "id": "29261",
+      "url": "https://myanimelist.net/anime/29261"
+    }
+  }
+}

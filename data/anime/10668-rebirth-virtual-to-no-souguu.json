@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10668,
+  "slug": "rebirth-virtual-to-no-souguu",
+  "kind": "anime",
+  "title": "Rebirth: Virtual to no Souguu",
+  "titles": {
+    "default": "Rebirth: Virtual to no Souguu",
+    "romaji": "Rebirth: Virtual to no Souguu",
+    "native": "りばあす ヴァーチャルとの遭遇"
+  },
+  "synonyms": [
+    "Rebirth: Virtual to no Souguu",
+    "りばあす ヴァーチャルとの遭遇",
+    "Seikai no Senki Special",
+    "星界の戦旗 特別編",
+    "Seikai no Senki Movie",
+    "Battle Flag of the Stars Special Edition",
+    "Seikai no Senki Tokubetsuhen"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx123885-Ihn8MnifJPhw.png"
+  ],
+  "references": {
+    "al": {
+      "id": "123885",
+      "url": "https://anilist.co/anime/123885"
+    },
+    "k": {
+      "id": "366",
+      "url": "https://kitsu.io/anime/366"
+    },
+    "mal": {
+      "id": "42797",
+      "url": "https://myanimelist.net/anime/42797"
+    },
+    "yt": {
+      "id": "t-XgmmQnJpE",
+      "url": "https://www.youtube.com/watch?v=t-XgmmQnJpE"
+    }
+  }
+}

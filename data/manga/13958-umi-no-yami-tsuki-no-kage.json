@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13958,
+  "slug": "umi-no-yami-tsuki-no-kage",
+  "kind": "manga",
+  "title": "Umi no Yami, Tsuki no Kage",
+  "titles": {
+    "default": "Umi no Yami, Tsuki no Kage"
+  },
+  "synonyms": [
+    "Umi-Yami",
+    "Moon 's Shadow on a Dark Sea",
+    "바다의 어둠 달의 그림자",
+    "海之闇月之影",
+    "Darkness of the Sea, Shadow of the Moon",
+    "海の闇、月の影",
+    "Umi no Yami, Tsuki no Kage"
+  ],
+  "type": "manga",
+  "chapters": 186,
+  "volumes": 18,
+  "status": "finished",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30636-jWSxOULwfR8k.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4484",
+      "url": "https://anilist.co/anime/4484"
+    },
+    "al_manga": {
+      "id": "4484",
+      "url": "https://anilist.co/manga/4484"
+    }
+  }
+}

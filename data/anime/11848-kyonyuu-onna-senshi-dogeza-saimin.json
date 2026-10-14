@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11848,
+  "slug": "kyonyuu-onna-senshi-dogeza-saimin",
+  "kind": "anime",
+  "title": "Kyonyuu Onna Senshi Dogeza Saimin",
+  "titles": {
+    "default": "Kyonyuu Onna Senshi Dogeza Saimin",
+    "romaji": "Kyonyuu Onna Senshi Dogeza Saimin",
+    "native": "巨乳女戦士・土下座催眠"
+  },
+  "synonyms": [
+    "Kyonyuu Onna Senshi Dogeza Saimin",
+    "巨乳女戦士・土下座催眠",
+    "RG Veda",
+    "聖伝"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146282-5A8XJ8q7dc3z.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "146282",
+      "url": "https://anilist.co/anime/146282"
+    },
+    "k": {
+      "id": "402",
+      "url": "https://kitsu.io/anime/402"
+    },
+    "mal": {
+      "id": "51294",
+      "url": "https://myanimelist.net/anime/51294"
+    }
+  }
+}

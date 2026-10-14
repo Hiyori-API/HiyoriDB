@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9227,
+  "slug": "youkai-apartment-no-yuuga-na-nichijou",
+  "kind": "anime",
+  "title": "Youkai Apartment no Yuuga na Nichijou",
+  "titles": {
+    "default": "Youkai Apartment no Yuuga na Nichijou",
+    "romaji": "Youkai Apartment no Yuuga na Nichijou",
+    "english": "Elegant Yokai Apartment Life",
+    "native": "妖怪アパートの幽雅な日常"
+  },
+  "synonyms": [
+    "Youkai Apartment no Yuuga na Nichijou",
+    "Elegant Yokai Apartment Life",
+    "妖怪アパートの幽雅な日常"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "summer",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98501-R8MfGaRczV2k.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98501",
+      "url": "https://anilist.co/anime/98501"
+    },
+    "cr": {
+      "id": "elegant-yokai-apartment-life",
+      "url": "https://www.crunchyroll.com/series/elegant-yokai-apartment-life"
+    },
+    "mal": {
+      "id": "35220",
+      "url": "https://myanimelist.net/anime/35220"
+    },
+    "tx": {
+      "id": "YouapaAnime",
+      "url": "https://twitter.com/YouapaAnime"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14591,
+  "slug": "hakkenden",
+  "kind": "manga",
+  "title": "Hakkenden",
+  "titles": {
+    "default": "Hakkenden"
+  },
+  "synonyms": [
+    "Hakkenden - Touhou Hakken Ibun",
+    "Hakkenden: Eight Dogs of the East",
+    "Hakkenden",
+    "八犬伝-東方八犬異聞",
+    "Renai Soukanzu",
+    "恋愛相姦図",
+    "Renai Sokanzu",
+    "Pink Sweets"
+  ],
+  "type": "manga",
+  "chapters": 82,
+  "volumes": 24,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx35685-EPM5cyujWkhK.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "15613",
+      "url": "https://anilist.co/anime/15613"
+    },
+    "al_manga": {
+      "id": "15613",
+      "url": "https://anilist.co/manga/15613"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14876,
+  "slug": "lensman",
+  "kind": "manga",
+  "title": "LENSMAN",
+  "titles": {
+    "default": "LENSMAN"
+  },
+  "synonyms": [
+    "レンズマン",
+    "LENSMAN",
+    "Dragon Ball",
+    "ドラゴンボール",
+    "Dragonball",
+    "Dragon Ball Z",
+    "Dragonball Z"
+  ],
+  "type": "manga",
+  "chapters": 3,
+  "volumes": 3,
+  "status": "finished",
+  "year": 1984,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b150671-ZIIFskEgLONE.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2769",
+      "url": "https://anilist.co/anime/2770"
+    },
+    "al_manga": {
+      "id": "2769",
+      "url": "https://anilist.co/manga/2769"
+    }
+  }
+}

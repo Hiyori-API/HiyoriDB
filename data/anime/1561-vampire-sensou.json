@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1561,
+  "slug": "vampire-sensou",
+  "kind": "anime",
+  "title": "Vampire Sensou",
+  "titles": {
+    "default": "Vampire Sensou",
+    "romaji": "Vampire Sensou",
+    "english": "Vampire Wars",
+    "native": "ヴァンパイヤー戦争"
+  },
+  "synonyms": [
+    "Vampire Sensou",
+    "Vampire Wars",
+    "ヴァンパイヤー戦争",
+    "Vampire Senso"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1765.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1765",
+      "url": "https://anilist.co/anime/1765"
+    },
+    "k": {
+      "id": "1585",
+      "url": "https://kitsu.io/anime/1585"
+    },
+    "mal": {
+      "id": "1765",
+      "url": "https://myanimelist.net/anime/1765"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5210,
+  "slug": "naniwa-yuukyouden-nekketsu-bakushou-mankai-hen",
+  "kind": "anime",
+  "title": "Naniwa Yuukyouden: Nekketsu!! Bakushou Mankai-hen",
+  "titles": {
+    "default": "Naniwa Yuukyouden: Nekketsu!! Bakushou Mankai-hen",
+    "romaji": "Naniwa Yuukyouden: Nekketsu!! Bakushou Mankai-hen",
+    "native": "なにわ遊侠伝: 熱血!!爆笑マン開篇"
+  },
+  "synonyms": [
+    "Naniwa Yuukyouden: Nekketsu!! Bakushou Mankai-hen",
+    "なにわ遊侠伝: 熱血!!爆笑マン開篇",
+    "Osaka Tough Guys: Hot Blood!! A Blooming Hearty Laugh Chapter"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19729.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "19729",
+      "url": "https://anilist.co/anime/19729"
+    },
+    "k": {
+      "id": "9482",
+      "url": "https://kitsu.io/anime/9482"
+    },
+    "mal": {
+      "id": "19729",
+      "url": "https://myanimelist.net/anime/19729"
+    }
+  }
+}

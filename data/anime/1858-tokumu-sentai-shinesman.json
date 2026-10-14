@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1858,
+  "slug": "tokumu-sentai-shinesman",
+  "kind": "anime",
+  "title": "Tokumu Sentai Shinesman",
+  "titles": {
+    "default": "Tokumu Sentai Shinesman",
+    "romaji": "Tokumu Sentai Shinesman",
+    "english": "Special Duty Combat Unit Shinesman",
+    "native": "務戦隊シャインズマン"
+  },
+  "synonyms": [
+    "Tokumu Sentai Shinesman",
+    "Special Duty Combat Unit Shinesman",
+    "務戦隊シャインズマン",
+    "特務戦隊シャインズマン"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2097.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2097",
+      "url": "https://anilist.co/anime/2097"
+    },
+    "k": {
+      "id": "1896",
+      "url": "https://kitsu.io/anime/1896"
+    },
+    "mal": {
+      "id": "2097",
+      "url": "https://myanimelist.net/anime/2097"
+    }
+  }
+}

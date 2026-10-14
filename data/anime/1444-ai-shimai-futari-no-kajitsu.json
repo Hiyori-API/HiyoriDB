@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1444,
+  "slug": "ai-shimai-futari-no-kajitsu",
+  "kind": "anime",
+  "title": "Ai Shimai: Futari no Kajitsu",
+  "titles": {
+    "default": "Ai Shimai: Futari no Kajitsu",
+    "romaji": "Ai Shimai: Futari no Kajitsu",
+    "english": "Immoral Sisters",
+    "native": "愛姉妹～二人の果実～"
+  },
+  "synonyms": [
+    "Ai Shimai: Futari no Kajitsu",
+    "Immoral Sisters",
+    "愛姉妹～二人の果実～",
+    "Steel Angel Kurumi Zero",
+    "Koutetsu Tenshi Kurumi Zero",
+    "鋼鉄天使くるみ零"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "spring",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1634.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1634",
+      "url": "https://anilist.co/anime/1634"
+    },
+    "k": {
+      "id": "513",
+      "url": "https://kitsu.io/anime/513"
+    },
+    "mal": {
+      "id": "1634",
+      "url": "https://myanimelist.net/anime/1634"
+    }
+  }
+}

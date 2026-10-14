@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9832,
+  "slug": "crayon-shin-chan-bakumori-kung-fu-boys-ramen-tairan",
+  "kind": "anime",
+  "title": "Crayon Shin-chan: Bakumori! Kung Fu Boys - Ramen Tairan",
+  "titles": {
+    "default": "Crayon Shin-chan: Bakumori! Kung Fu Boys - Ramen Tairan",
+    "romaji": "Crayon Shin-chan: Bakumori! Kung Fu Boys - Ramen Tairan",
+    "native": "映画クレヨンしんちゃん 爆盛！カンフーボーイズ ～拉麺大乱～"
+  },
+  "synonyms": [
+    "Crayon Shin-chan: Bakumori! Kung Fu Boys - Ramen Tairan",
+    "映画クレヨンしんちゃん 爆盛！カンフーボーイズ ～拉麺大乱～",
+    "Shin-chan y los kung-fu boys",
+    "Mint",
+    "MINT"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx103690-zlhPdGJV63jB.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "103690",
+      "url": "https://anilist.co/anime/103690"
+    },
+    "k": {
+      "id": "8098",
+      "url": "https://kitsu.io/anime/8098"
+    },
+    "mal": {
+      "id": "36566",
+      "url": "https://myanimelist.net/anime/36566"
+    }
+  }
+}

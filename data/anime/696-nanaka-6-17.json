@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 696,
+  "slug": "nanaka-6-17",
+  "kind": "anime",
+  "title": "Nanaka 6/17",
+  "titles": {
+    "default": "Nanaka 6/17",
+    "romaji": "Nanaka 6/17",
+    "native": "ななか６／１７"
+  },
+  "synonyms": [
+    "Nanaka 6/17",
+    "ななか６／１７",
+    "Nanaka Juu-nanabun no Roku"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/776.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "776",
+      "url": "https://anilist.co/anime/776"
+    },
+    "k": {
+      "id": "694",
+      "url": "https://kitsu.io/anime/694"
+    },
+    "mal": {
+      "id": "776",
+      "url": "https://myanimelist.net/anime/776"
+    },
+    "t": {
+      "id": "34058",
+      "url": "https://trakt.tv/shows/34058"
+    }
+  }
+}

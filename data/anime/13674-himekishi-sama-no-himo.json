@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13674,
+  "slug": "himekishi-sama-no-himo",
+  "kind": "anime",
+  "title": "Himekishi-sama no Himo",
+  "titles": {
+    "default": "Himekishi-sama no Himo",
+    "romaji": "Himekishi-sama no Himo",
+    "native": "姫騎士様のヒモ"
+  },
+  "synonyms": [
+    "Himekishi-sama no Himo",
+    "姫騎士様のヒモ",
+    "The Kept Man of the Princess Knight",
+    "Despera",
+    "ですぺら",
+    "Desupera"
+  ],
+  "type": "tv",
+  "status": "to_be_aired",
+  "season": "winter",
+  "year": 2027,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186741-jfAFI71jie1x.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "186741",
+      "url": "https://anilist.co/anime/186741"
+    },
+    "k": {
+      "id": "4584",
+      "url": "https://kitsu.io/anime/4584"
+    },
+    "mal": {
+      "id": "61015",
+      "url": "https://myanimelist.net/anime/61015"
+    }
+  }
+}

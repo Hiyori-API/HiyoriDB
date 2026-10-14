@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3016,
+  "slug": "yado-sagashi",
+  "kind": "anime",
+  "title": "Yado-sagashi",
+  "titles": {
+    "default": "Yado-sagashi",
+    "romaji": "Yado-sagashi",
+    "english": "House Hunting",
+    "native": "やどさがし"
+  },
+  "synonyms": [
+    "Yado-sagashi",
+    "House Hunting",
+    "やどさがし",
+    "Looking for a Home",
+    "Water Spider Monmon",
+    "Mizugumo Monmon",
+    "水グモもんもん"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3570.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3570",
+      "url": "https://anilist.co/anime/3570"
+    },
+    "k": {
+      "id": "3550",
+      "url": "https://kitsu.io/anime/3550"
+    },
+    "mal": {
+      "id": "3570",
+      "url": "https://myanimelist.net/anime/3570"
+    }
+  }
+}

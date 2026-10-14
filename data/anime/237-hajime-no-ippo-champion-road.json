@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 237,
+  "slug": "hajime-no-ippo-champion-road",
+  "kind": "anime",
+  "title": "Hajime no Ippo: Champion Road",
+  "titles": {
+    "default": "Hajime no Ippo: Champion Road",
+    "romaji": "Hajime no Ippo: Champion Road",
+    "english": "Hajime no Ippo: The Fighting! - Champion Road",
+    "native": "はじめの一歩 -Champion Road-"
+  },
+  "synonyms": [
+    "Hajime no Ippo: Champion Road",
+    "Hajime no Ippo: The Fighting! - Champion Road",
+    "はじめの一歩 -Champion Road-",
+    "The First Step - Champion Road",
+    "Fighting Spirit: Champion Road"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx264-YQJiFF9LDiUr.png"
+  ],
+  "references": {
+    "al": {
+      "id": "264",
+      "url": "https://anilist.co/anime/264"
+    },
+    "cr": {
+      "id": "watch/G4VUQ3VD3/champion-road",
+      "url": "https://www.crunchyroll.com/series/watch/G4VUQ3VD3/champion-road"
+    },
+    "k": {
+      "id": "239",
+      "url": "https://kitsu.io/anime/239"
+    },
+    "mal": {
+      "id": "264",
+      "url": "https://myanimelist.net/anime/264"
+    }
+  }
+}

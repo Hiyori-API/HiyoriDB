@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4706,
+  "slug": "norakuro",
+  "kind": "anime",
+  "title": "Norakuro",
+  "titles": {
+    "default": "Norakuro",
+    "romaji": "Norakuro",
+    "native": "のらくろ"
+  },
+  "synonyms": [
+    "Norakuro",
+    "のらくろ"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 1970,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119765-tXEryTPMiVfG.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "119765",
+      "url": "https://anilist.co/anime/119765"
+    },
+    "k": {
+      "id": "8879",
+      "url": "https://kitsu.io/anime/8879"
+    },
+    "mal": {
+      "id": "23013",
+      "url": "https://myanimelist.net/anime/23013"
+    }
+  }
+}

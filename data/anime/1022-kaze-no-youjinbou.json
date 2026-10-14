@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1022,
+  "slug": "kaze-no-youjinbou",
+  "kind": "anime",
+  "title": "Kaze no Youjinbou",
+  "titles": {
+    "default": "Kaze no Youjinbou",
+    "romaji": "Kaze no Youjinbou",
+    "english": "Kaze no Yojimbo",
+    "native": "旋風の用心棒"
+  },
+  "synonyms": [
+    "Kaze no Youjinbou",
+    "Kaze no Yojimbo",
+    "旋風の用心棒",
+    "Bodyguard of the Wind",
+    "Kaze no Youjimbo"
+  ],
+  "type": "tv",
+  "episodes": 25,
+  "status": "finished",
+  "season": "fall",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1145-xFgYFvS18f5v.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1145",
+      "url": "https://anilist.co/anime/1145"
+    },
+    "k": {
+      "id": "1026",
+      "url": "https://kitsu.io/anime/1026"
+    },
+    "mal": {
+      "id": "1145",
+      "url": "https://myanimelist.net/anime/1145"
+    },
+    "t": {
+      "id": "34575",
+      "url": "https://trakt.tv/shows/34575"
+    }
+  }
+}

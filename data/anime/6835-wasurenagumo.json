@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6835,
+  "slug": "wasurenagumo",
+  "kind": "anime",
+  "title": "Wasurenagumo",
+  "titles": {
+    "default": "Wasurenagumo",
+    "romaji": "Wasurenagumo",
+    "english": "Li'l Spider Girl",
+    "native": "わすれなぐも"
+  },
+  "synonyms": [
+    "Wasurenagumo",
+    "Li'l Spider Girl",
+    "わすれなぐも",
+    "Wakate Animator Ikusei Project",
+    "Young Animator Training Project",
+    "Anime Mirai 2011",
+    "La Petite Fille araignée",
+    "2011 Young Animator Training Project"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13171.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "13171",
+      "url": "https://anilist.co/anime/13171"
+    },
+    "k": {
+      "id": "6901",
+      "url": "https://kitsu.io/anime/6901"
+    },
+    "mal": {
+      "id": "13171",
+      "url": "https://myanimelist.net/anime/13171"
+    }
+  }
+}

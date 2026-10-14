@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15396,
+  "slug": "poyopoyo-kansatsu-nikki",
+  "kind": "manga",
+  "title": "Poyopoyo Kansatsu Nikki",
+  "titles": {
+    "default": "Poyopoyo Kansatsu Nikki"
+  },
+  "synonyms": [
+    "Poyo Poyo Kansatsu Nikki",
+    "Poyo-Poyo Kansatsu Nikki",
+    "Poyopoyo Observation Diary",
+    "Yorinuki Poyopoyo Kansatsu Nikki",
+    "โลกบ้องแบ๊วของแมวตัวกลม",
+    "PoyoPoyo's Observation Diary",
+    "ポヨポヨ観察日記",
+    "Railroad",
+    "레일로드"
+  ],
+  "type": "manga",
+  "volumes": 15,
+  "status": "finished",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx66015-WVp3EOoM64X8.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12021",
+      "url": "https://anilist.co/anime/12021"
+    },
+    "al_manga": {
+      "id": "12021",
+      "url": "https://anilist.co/manga/12021"
+    }
+  }
+}

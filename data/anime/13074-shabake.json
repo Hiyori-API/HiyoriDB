@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13074,
+  "slug": "shabake",
+  "kind": "anime",
+  "title": "Shabake",
+  "titles": {
+    "default": "Shabake",
+    "romaji": "Shabake",
+    "native": "しゃばけ"
+  },
+  "synonyms": [
+    "Shabake",
+    "しゃばけ",
+    "Avenger",
+    "アヴェンジャー"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184997-CnmvTLC9JQP0.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "184997",
+      "url": "https://anilist.co/anime/184997"
+    },
+    "cr": {
+      "id": "series/GT00362195/shabake",
+      "url": "https://www.crunchyroll.com/series/series/GT00362195/shabake"
+    },
+    "k": {
+      "id": "37",
+      "url": "https://kitsu.io/anime/37"
+    },
+    "mal": {
+      "id": "60378",
+      "url": "https://myanimelist.net/anime/60378"
+    },
+    "t": {
+      "id": "21179",
+      "url": "https://trakt.tv/shows/21179"
+    }
+  }
+}

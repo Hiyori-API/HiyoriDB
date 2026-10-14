@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10287,
+  "slug": "kono-sekai-no-sara-ni-ikutsumono-katasumi-ni",
+  "kind": "anime",
+  "title": "Kono Sekai no (Sara ni Ikutsumono) Katasumi ni",
+  "titles": {
+    "default": "Kono Sekai no (Sara ni Ikutsumono) Katasumi ni",
+    "romaji": "Kono Sekai no (Sara ni Ikutsumono) Katasumi ni",
+    "english": "In This Corner (and Other Corners) of the World",
+    "native": "この世界の（さらにいくつもの）片隅に"
+  },
+  "synonyms": [
+    "Kono Sekai no (Sara ni Ikutsumono) Katasumi ni",
+    "In This Corner (and Other Corners) of the World",
+    "この世界の（さらにいくつもの）片隅に",
+    "In This Corner of the World Extended Cut",
+    "Cencoroll 2",
+    "センコロール"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112135-SZwCaYm8WwR0.png"
+  ],
+  "references": {
+    "al": {
+      "id": "112135",
+      "url": "https://anilist.co/anime/112135"
+    },
+    "cr": {
+      "id": "series/GNVHKN9PW/in-this-corner-and-other-corners-of-the-world",
+      "url": "https://www.crunchyroll.com/series/series/GNVHKN9PW/in-this-corner-and-other-corners-of-the-world"
+    },
+    "k": {
+      "id": "5749",
+      "url": "https://kitsu.io/anime/5749"
+    },
+    "mal": {
+      "id": "9488",
+      "url": "https://myanimelist.net/anime/9488"
+    },
+    "tx": {
+      "id": "konosekai_movie",
+      "url": "https://twitter.com/konosekai_movie"
+    }
+  }
+}

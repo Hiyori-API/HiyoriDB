@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8530,
+  "slug": "charlotte-tsuyoimono-tachi",
+  "kind": "anime",
+  "title": "Charlotte: Tsuyoimono-tachi",
+  "titles": {
+    "default": "Charlotte: Tsuyoimono-tachi",
+    "romaji": "Charlotte: Tsuyoimono-tachi",
+    "english": "Charlotte: Strong People",
+    "native": "Charlotte 強い者たち"
+  },
+  "synonyms": [
+    "Charlotte: Tsuyoimono-tachi",
+    "Charlotte: Strong People",
+    "Charlotte 強い者たち",
+    "Charlotte(シャーロット)TV未放送エピソード特別篇",
+    "Charlotte TV mi Housou Episode Tokubetsu-hen",
+    "Charlotte Special",
+    "The girls who aim for the wildlands OVA",
+    "Shoujo-tachi wa Kouya wo Mezasu OVA",
+    "少女たちは荒野を目指す 言うべきものかしら",
+    "Shoujo-tachi wa Kouya wo Mezasu: Iubeki Monokashira"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21339-Og6xNXlz1pgd.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21339",
+      "url": "https://anilist.co/anime/21339"
+    },
+    "mal": {
+      "id": "31553",
+      "url": "https://myanimelist.net/anime/31553"
+    }
+  }
+}

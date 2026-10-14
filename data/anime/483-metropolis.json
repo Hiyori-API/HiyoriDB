@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 483,
+  "slug": "metropolis",
+  "kind": "anime",
+  "title": "Metropolis",
+  "titles": {
+    "default": "Metropolis",
+    "romaji": "Metropolis",
+    "native": "メトロポリス"
+  },
+  "synonyms": [
+    "Metropolis",
+    "メトロポリス",
+    "Osamu Tezuka's Metropolis",
+    "Robotic Angel"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx522-4Sp8QlrufkG5.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "522",
+      "url": "https://anilist.co/anime/522"
+    },
+    "k": {
+      "id": "481",
+      "url": "https://kitsu.io/anime/481"
+    },
+    "mal": {
+      "id": "522",
+      "url": "https://myanimelist.net/anime/522"
+    }
+  }
+}

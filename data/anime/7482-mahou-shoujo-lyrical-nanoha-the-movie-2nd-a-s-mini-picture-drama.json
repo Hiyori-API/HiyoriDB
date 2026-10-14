@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7482,
+  "slug": "mahou-shoujo-lyrical-nanoha-the-movie-2nd-a-s-mini-picture-drama",
+  "kind": "anime",
+  "title": "Mahou Shoujo Lyrical Nanoha: The MOVIE 2nd A's Mini Picture Drama",
+  "titles": {
+    "default": "Mahou Shoujo Lyrical Nanoha: The MOVIE 2nd A's Mini Picture Drama",
+    "romaji": "Mahou Shoujo Lyrical Nanoha: The MOVIE 2nd A's Mini Picture Drama",
+    "native": "魔法少女リリカルなのは The MOVIE 2nd A's ミニピクチャードラマ"
+  },
+  "synonyms": [
+    "Mahou Shoujo Lyrical Nanoha: The MOVIE 2nd A's Mini Picture Drama",
+    "魔法少女リリカルなのは The MOVIE 2nd A's ミニピクチャードラマ",
+    "Nanoha Picture Drama 02: Nurse Girl Medical Shamal - Prelude",
+    "Nanoha Picture Drama 03: Magical Family Wolken - Prelude",
+    "Peeping Life: Tezuka Pro - Tatsunoko Pro Wonderland Specials",
+    "Peeping Life 手塚プロ・タツノコプロ ワンダーランド",
+    "Peeping Life: Tezuka Pro Tatsunoko Pro Wonderland Specials",
+    "Peeping Life: Tezuka Pro",
+    "Tatsunoko Pro Wonderland Specials"
+  ],
+  "type": "special",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b108549-aeTFlEfoxrge.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "108549",
+      "url": "https://anilist.co/anime/108549"
+    },
+    "k": {
+      "id": "8374",
+      "url": "https://kitsu.io/anime/8374"
+    },
+    "mal": {
+      "id": "32316",
+      "url": "https://myanimelist.net/anime/32316"
+    }
+  }
+}

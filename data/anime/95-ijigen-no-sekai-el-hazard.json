@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 95,
+  "slug": "ijigen-no-sekai-el-hazard",
+  "kind": "anime",
+  "title": "Ijigen no Sekai El Hazard",
+  "titles": {
+    "default": "Ijigen no Sekai El Hazard",
+    "romaji": "Ijigen no Sekai El Hazard",
+    "english": "El Hazard: The Alternative World",
+    "native": "異次元の世界エルハザード"
+  },
+  "synonyms": [
+    "Ijigen no Sekai El Hazard",
+    "El Hazard: The Alternative World",
+    "異次元の世界エルハザード",
+    "Ijigen no Sekai El-Hazard"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115-tHn79Q8ITmBN.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "115",
+      "url": "https://anilist.co/anime/115"
+    },
+    "k": {
+      "id": "94",
+      "url": "https://kitsu.io/anime/94"
+    },
+    "mal": {
+      "id": "115",
+      "url": "https://myanimelist.net/anime/115"
+    },
+    "t": {
+      "id": "63711",
+      "url": "https://trakt.tv/shows/63711"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12969,
+  "slug": "isekai-mokushiroku-mynoghra-hametsu-no-bunmei-de-hajimeru-sekai-seifuku",
+  "kind": "anime",
+  "title": "Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku",
+  "titles": {
+    "default": "Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku",
+    "romaji": "Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku",
+    "english": "Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin",
+    "native": "異世界黙示録マイノグーラ ～破滅の文明で始める世界征服～"
+  },
+  "synonyms": [
+    "Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku",
+    "Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin",
+    "異世界黙示録マイノグーラ ～破滅の文明で始める世界征服～",
+    "Khải huyền dị giới Mynoghra: Chinh phục thế giới từ nền văn minh suy tàn",
+    "Apokalips Dunia Lain Mynoghra: Menaklukkan Dunia Dimulai dari Peradaban Kehancuran",
+    "Introduction to Mineralogy",
+    "Ruri Rocks",
+    "瑠璃の宝石",
+    "Ruri no Houseki"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178433-8KzNsjTmdAvw.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "178433",
+      "url": "https://anilist.co/anime/178433"
+    },
+    "cr": {
+      "id": "series/G1XHJV0M7/apocalypse-bringer-mynoghra-world-conquest-starts-with-the-civilization-of-ruin",
+      "url": "https://www.crunchyroll.com/series/series/G1XHJV0M7/apocalypse-bringer-mynoghra-world-conquest-starts-with-the-civilization-of-ruin"
+    },
+    "mal": {
+      "id": "59130",
+      "url": "https://myanimelist.net/anime/59130"
+    }
+  }
+}

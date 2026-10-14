@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14309,
+  "slug": "tenshi-ni-narumon",
+  "kind": "manga",
+  "title": "Tenshi ni Narumon!",
+  "titles": {
+    "default": "Tenshi ni Narumon!"
+  },
+  "synonyms": [
+    "Tennimon",
+    "I'm Gonna be an Angel!",
+    "天使になるもんっ!",
+    "Paradise Kiss",
+    "パラダイス・キス",
+    "ParaKiss"
+  ],
+  "type": "manga",
+  "chapters": 11,
+  "volumes": 2,
+  "status": "finished",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n32569-N9c3ZjpbcEw8.png"
+  ],
+  "references": {
+    "al": {
+      "id": "605",
+      "url": "https://anilist.co/anime/605"
+    },
+    "al_manga": {
+      "id": "605",
+      "url": "https://anilist.co/manga/605"
+    }
+  }
+}

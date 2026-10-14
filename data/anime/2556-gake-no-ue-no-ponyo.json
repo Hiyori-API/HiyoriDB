@@ -1,0 +1,58 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2556,
+  "slug": "gake-no-ue-no-ponyo",
+  "kind": "anime",
+  "title": "Gake no Ue no Ponyo",
+  "titles": {
+    "default": "Gake no Ue no Ponyo",
+    "romaji": "Gake no Ue no Ponyo",
+    "english": "Ponyo",
+    "native": "崖の上のポニョ"
+  },
+  "synonyms": [
+    "Gake no Ue no Ponyo",
+    "Ponyo",
+    "崖の上のポニョ",
+    "Ponyo on the Cliff by the Sea",
+    "Ponyo en el Acantilado",
+    "بونيو على جرف البحر",
+    "Ponyo sur la falaise",
+    "Ponyo på klippen ved havet",
+    "Ponyo sulla scogliera",
+    "Рыбка Поньо на утесе",
+    "Ponyo på klippan vid havet",
+    "Ponyo rantakalliolla",
+    "Πόνιο: Το Κορίτσι του Ωκεανού",
+    "โปเนียว ธิดาสมุทรผจญภัย",
+    "Ponyo: Uma Amizade que Veio do Mar",
+    "Ponyo - Das große Abenteuer am Meer",
+    "Ponyo við sjávarklettana"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2890-wcNtFr6aUYOR.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2890",
+      "url": "https://anilist.co/anime/2890"
+    },
+    "k": {
+      "id": "2624",
+      "url": "https://kitsu.io/anime/2624"
+    },
+    "mal": {
+      "id": "2890",
+      "url": "https://myanimelist.net/anime/2890"
+    },
+    "nf": {
+      "id": "70106454",
+      "url": "https://www.netflix.com/title/70106454"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9819,
+  "slug": "soikano-gyutto-dakishimete-the-animation",
+  "kind": "anime",
+  "title": "Soikano: Gyutto Dakishimete THE ANIMATION",
+  "titles": {
+    "default": "Soikano: Gyutto Dakishimete THE ANIMATION",
+    "romaji": "Soikano: Gyutto Dakishimete THE ANIMATION",
+    "native": "添いカノ～ぎゅっと抱きしめて～ THE ANIMATION"
+  },
+  "synonyms": [
+    "Soikano: Gyutto Dakishimete THE ANIMATION",
+    "添いカノ～ぎゅっと抱きしめて～ THE ANIMATION",
+    "Soi Kano ~Gyutto Dakishimete~",
+    "Female Companion -Tightly Hug Me-",
+    "Masamune-kun no Revenge OVA",
+    "Masamune-kun's Revenge OVA",
+    "政宗くんのリベンジ OVA",
+    "Masamune-kun no Revenge: Uchi no Mama ni Kagitte/Tsunade Shima, Futatabi./12-Ji wo Sugita Cinderella"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx103076-sKNw9cPgZlyz.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "103076",
+      "url": "https://anilist.co/anime/103076"
+    },
+    "mal": {
+      "id": "38033",
+      "url": "https://myanimelist.net/anime/38033"
+    }
+  }
+}

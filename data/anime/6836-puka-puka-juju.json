@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6836,
+  "slug": "puka-puka-juju",
+  "kind": "anime",
+  "title": "Puka Puka Juju",
+  "titles": {
+    "default": "Puka Puka Juju",
+    "romaji": "Puka Puka Juju",
+    "native": "ぷかぷかジュジュ"
+  },
+  "synonyms": [
+    "Puka Puka Juju",
+    "ぷかぷかジュジュ",
+    "Dudu the Floatie",
+    "Dudu the Floater",
+    "Pukapuka Dudu",
+    "Wakate Animator Ikusei Project",
+    "2011 Young Animator Training Project",
+    "Anime Mirai 2011",
+    "Combustible",
+    "Hi no Youjin",
+    "火要鎮",
+    "Short Peace"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13173.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "13173",
+      "url": "https://anilist.co/anime/13173"
+    },
+    "k": {
+      "id": "7003",
+      "url": "https://kitsu.io/anime/7003"
+    },
+    "mal": {
+      "id": "13173",
+      "url": "https://myanimelist.net/anime/13173"
+    }
+  }
+}

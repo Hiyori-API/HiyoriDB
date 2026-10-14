@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15762,
+  "slug": "pocket-monsters-diamond-pearl-giratina-to-sora-no-hanataba-sheimi",
+  "kind": "manga",
+  "title": "Pocket Monsters Diamond & Pearl: Giratina to Sora no Hanataba Sheimi",
+  "titles": {
+    "default": "Pocket Monsters Diamond & Pearl: Giratina to Sora no Hanataba Sheimi"
+  },
+  "synonyms": [
+    "Pokémon Diamond & Pearl: Giratina to Sora no Hanataba Sheimi",
+    "Giratina and the Sky Warrior",
+    "Giratina to Sora no Hanataba Sheimi",
+    "Pokémon: Giratina and the Sky Warrior",
+    "ポケットモンスター ダイヤモンド&パール ギラティナと氷空の花束 シェイミ",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "chapters": 4,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx52602-vKV53xOo8TOR.png"
+  ],
+  "references": {
+    "al": {
+      "id": "4026",
+      "url": "https://anilist.co/anime/4026"
+    },
+    "al_manga": {
+      "id": "4026",
+      "url": "https://anilist.co/manga/4026"
+    }
+  }
+}

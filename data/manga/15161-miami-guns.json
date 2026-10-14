@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15161,
+  "slug": "miami-guns",
+  "kind": "manga",
+  "title": "Miami☆Guns",
+  "titles": {
+    "default": "Miami☆Guns"
+  },
+  "synonyms": [
+    "Miami Guns",
+    "マイアミ☆ガンズ",
+    "Miami☆Guns",
+    "Notorious Dangerous Lovely Police"
+  ],
+  "type": "manga",
+  "chapters": 19,
+  "volumes": 4,
+  "status": "finished",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx45088-IBn2L6SrcBOg.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "783",
+      "url": "https://anilist.co/anime/783"
+    },
+    "al_manga": {
+      "id": "783",
+      "url": "https://anilist.co/manga/783"
+    }
+  }
+}

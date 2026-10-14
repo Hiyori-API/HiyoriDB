@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4676,
+  "slug": "cyborg-009",
+  "kind": "anime",
+  "title": "Cyborg 009",
+  "titles": {
+    "default": "Cyborg 009",
+    "romaji": "Cyborg 009",
+    "native": "サイボーグ009"
+  },
+  "synonyms": [
+    "Cyborg 009",
+    "サイボーグ009",
+    "Cyborg 009 (1968)",
+    "Cyborg 009 (TV)"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 1968,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx8394-nO1PASsb5Tkj.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8394",
+      "url": "https://anilist.co/anime/8394"
+    },
+    "k": {
+      "id": "3741",
+      "url": "https://kitsu.io/anime/3741"
+    },
+    "mal": {
+      "id": "8394",
+      "url": "https://myanimelist.net/anime/8394"
+    },
+    "t": {
+      "id": "56071",
+      "url": "https://trakt.tv/shows/56071"
+    }
+  }
+}

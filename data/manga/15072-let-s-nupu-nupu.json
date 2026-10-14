@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15072,
+  "slug": "let-s-nupu-nupu",
+  "kind": "manga",
+  "title": "Let's Nupu Nupu",
+  "titles": {
+    "default": "Let's Nupu Nupu"
+  },
+  "synonyms": [
+    "LET'S ぬぷぬぷっ",
+    "Dismember",
+    "Kaitai",
+    "解体"
+  ],
+  "type": "manga",
+  "volumes": 9,
+  "status": "finished",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b121355-mqPGFPBqC3eA.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21486",
+      "url": "https://anilist.co/anime/21486"
+    },
+    "al_manga": {
+      "id": "21486",
+      "url": "https://anilist.co/manga/21486"
+    }
+  }
+}

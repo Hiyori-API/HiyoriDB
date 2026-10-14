@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 470,
+  "slug": "i-my-me-strawberry-eggs",
+  "kind": "anime",
+  "title": "I My Me! Strawberry Eggs",
+  "titles": {
+    "default": "I My Me! Strawberry Eggs",
+    "romaji": "I My Me! Strawberry Eggs",
+    "native": "あぃまぃみぃ！ストロベリー・エッグ"
+  },
+  "synonyms": [
+    "I My Me! Strawberry Eggs",
+    "あぃまぃみぃ！ストロベリー・エッグ",
+    "Ai Mai Mi ! Strawberry Egg"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx509-fM3A0zEX966I.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "509",
+      "url": "https://anilist.co/anime/509"
+    },
+    "k": {
+      "id": "468",
+      "url": "https://kitsu.io/anime/468"
+    },
+    "mal": {
+      "id": "509",
+      "url": "https://myanimelist.net/anime/509"
+    },
+    "t": {
+      "id": "39994",
+      "url": "https://trakt.tv/shows/39994"
+    }
+  }
+}

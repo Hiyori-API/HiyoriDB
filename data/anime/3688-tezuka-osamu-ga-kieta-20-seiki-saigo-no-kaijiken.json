@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3688,
+  "slug": "tezuka-osamu-ga-kieta-20-seiki-saigo-no-kaijiken",
+  "kind": "anime",
+  "title": "Tezuka Osamu ga Kieta?! 20 Seiki Saigo no Kaijiken",
+  "titles": {
+    "default": "Tezuka Osamu ga Kieta?! 20 Seiki Saigo no Kaijiken",
+    "romaji": "Tezuka Osamu ga Kieta?! 20 Seiki Saigo no Kaijiken",
+    "native": "手塚治虫が消えた?! 20世紀最後の怪事件"
+  },
+  "synonyms": [
+    "Tezuka Osamu ga Kieta?! 20 Seiki Saigo no Kaijiken",
+    "手塚治虫が消えた?! 20世紀最後の怪事件",
+    "Last Miracle 20th Century",
+    "Tezuka Osamu's Strangest Case in the 20th Century",
+    "Osamu Tezuka's Lasy Mystery of the 20th Century",
+    "Osamu Tezuka's Last Mystery of the 20th Century"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4941.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4941",
+      "url": "https://anilist.co/anime/4941"
+    },
+    "k": {
+      "id": "3862",
+      "url": "https://kitsu.io/anime/3862"
+    },
+    "mal": {
+      "id": "4941",
+      "url": "https://myanimelist.net/anime/4941"
+    }
+  }
+}

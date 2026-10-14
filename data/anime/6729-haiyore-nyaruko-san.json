@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6729,
+  "slug": "haiyore-nyaruko-san",
+  "kind": "anime",
+  "title": "Haiyore! Nyaruko-san",
+  "titles": {
+    "default": "Haiyore! Nyaruko-san",
+    "romaji": "Haiyore! Nyaruko-san",
+    "english": "Nyaruko: Crawling with Love!",
+    "native": "這いよれ！ニャル子さん"
+  },
+  "synonyms": [
+    "Haiyore! Nyaruko-san",
+    "Nyaruko: Crawling with Love!",
+    "這いよれ！ニャル子さん",
+    "Haiyoru! Nyaruko-san",
+    "Nyarko-san: Another Crawling Chaos",
+    "Nyaruko: Crawling With Love!"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11785-cBfqpOetdIeF.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11785",
+      "url": "https://anilist.co/anime/11785"
+    },
+    "cr": {
+      "id": "nyarko-san-another-crawling-chaos",
+      "url": "https://www.crunchyroll.com/series/nyarko-san-another-crawling-chaos"
+    },
+    "k": {
+      "id": "6599",
+      "url": "https://kitsu.io/anime/6599"
+    },
+    "mal": {
+      "id": "11785",
+      "url": "https://myanimelist.net/anime/11785"
+    },
+    "t": {
+      "id": "66146",
+      "url": "https://trakt.tv/shows/66146"
+    }
+  }
+}

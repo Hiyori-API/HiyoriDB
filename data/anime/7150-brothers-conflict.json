@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7150,
+  "slug": "brothers-conflict",
+  "kind": "anime",
+  "title": "BROTHERS CONFLICT",
+  "titles": {
+    "default": "BROTHERS CONFLICT",
+    "romaji": "BROTHERS CONFLICT",
+    "english": "Brothers Conflict"
+  },
+  "synonyms": [
+    "BROTHERS CONFLICT",
+    "Brothers Conflict",
+    "ブラザーズ コンフリクト",
+    "ブラコン",
+    "BroCon"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15605-32Ek1RRxHon0.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "15605",
+      "url": "https://anilist.co/anime/15605"
+    },
+    "ap": {
+      "id": "B01COAE3JC",
+      "url": "https://www.amazon.com/gp/video/detail/B01COAE3JC"
+    },
+    "cr": {
+      "id": "brothers-conflict",
+      "url": "https://www.crunchyroll.com/series/brothers-conflict"
+    },
+    "k": {
+      "id": "7280",
+      "url": "https://kitsu.io/anime/7280"
+    },
+    "mal": {
+      "id": "15605",
+      "url": "https://myanimelist.net/anime/15605"
+    },
+    "t": {
+      "id": "71632",
+      "url": "https://trakt.tv/shows/71632"
+    }
+  }
+}

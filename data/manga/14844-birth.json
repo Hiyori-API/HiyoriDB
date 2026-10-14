@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14844,
+  "slug": "birth",
+  "kind": "manga",
+  "title": "BIRTH",
+  "titles": {
+    "default": "BIRTH"
+  },
+  "synonyms": [
+    "バース",
+    "Tetsu no Don Quixote",
+    "鉄のドンキホーテ",
+    "Iron Don Quixote",
+    "Mad Fighter",
+    "Hokuto no Ken The Origins",
+    "Hokuto no Ken Pilot"
+  ],
+  "type": "manga",
+  "volumes": 1,
+  "status": "finished",
+  "year": 1982,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b148373-obIB2dY5ZjgK.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2607",
+      "url": "https://anilist.co/anime/2607"
+    },
+    "al_manga": {
+      "id": "2607",
+      "url": "https://anilist.co/manga/2607"
+    }
+  }
+}

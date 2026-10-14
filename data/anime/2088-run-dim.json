@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2088,
+  "slug": "run-dim",
+  "kind": "anime",
+  "title": "RUN=DIM",
+  "titles": {
+    "default": "RUN=DIM",
+    "romaji": "RUN=DIM",
+    "native": "RUN=DIM (ランディム)"
+  },
+  "synonyms": [
+    "RUN=DIM",
+    "RUN=DIM (ランディム)",
+    "R=D",
+    "Run=Dim"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2362.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2362",
+      "url": "https://anilist.co/anime/2362"
+    },
+    "k": {
+      "id": "2140",
+      "url": "https://kitsu.io/anime/2140"
+    },
+    "mal": {
+      "id": "2362",
+      "url": "https://myanimelist.net/anime/2362"
+    }
+  }
+}

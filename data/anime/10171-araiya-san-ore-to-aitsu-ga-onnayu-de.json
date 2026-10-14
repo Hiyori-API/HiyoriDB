@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10171,
+  "slug": "araiya-san-ore-to-aitsu-ga-onnayu-de",
+  "kind": "anime",
+  "title": "Araiya-san!: Ore to Aitsu ga Onnayu de!?",
+  "titles": {
+    "default": "Araiya-san!: Ore to Aitsu ga Onnayu de!?",
+    "romaji": "Araiya-san!: Ore to Aitsu ga Onnayu de!?",
+    "english": "Backwasher! -Her and I, in the Women's Bath!?-",
+    "native": "洗い屋さん! ~俺とアイツが女湯で!?~"
+  },
+  "synonyms": [
+    "Araiya-san!: Ore to Aitsu ga Onnayu de!?",
+    "Backwasher! -Her and I, in the Women's Bath!?-",
+    "洗い屋さん! ~俺とアイツが女湯で!?~",
+    "Miss Washer!: Her and I in Female Bath!?",
+    "Ella y Yo en el Baño de Mujeres",
+    "Teinenpi Shoujo Haiji",
+    "低燃費少女ハイジ",
+    "Low Fuel Cost Girl Haiji"
+  ],
+  "type": "ona",
+  "episodes": 8,
+  "status": "finished",
+  "season": "spring",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx107974-qj1gNTABYHkU.png"
+  ],
+  "references": {
+    "al": {
+      "id": "107974",
+      "url": "https://anilist.co/anime/107974"
+    },
+    "k": {
+      "id": "5226",
+      "url": "https://kitsu.io/anime/5226"
+    },
+    "mal": {
+      "id": "39337",
+      "url": "https://myanimelist.net/anime/39337"
+    }
+  }
+}

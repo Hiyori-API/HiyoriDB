@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10318,
+  "slug": "shimajirou-to-ururu-no-hero-land",
+  "kind": "anime",
+  "title": "Shimajirou to Ururu no Hero Land",
+  "titles": {
+    "default": "Shimajirou to Ururu no Hero Land",
+    "romaji": "Shimajirou to Ururu no Hero Land",
+    "native": "しまじろうとうるるのヒーローランド"
+  },
+  "synonyms": [
+    "Shimajirou to Ururu no Hero Land",
+    "しまじろうとうるるのヒーローランド",
+    "Cencoroll 2",
+    "センコロール"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116801-61EL40DIe3ZB.png"
+  ],
+  "references": {
+    "al": {
+      "id": "116801",
+      "url": "https://anilist.co/anime/116801"
+    },
+    "k": {
+      "id": "5749",
+      "url": "https://kitsu.io/anime/5749"
+    },
+    "mal": {
+      "id": "38618",
+      "url": "https://myanimelist.net/anime/38618"
+    }
+  }
+}

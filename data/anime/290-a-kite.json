@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 290,
+  "slug": "a-kite",
+  "kind": "anime",
+  "title": "A KITE",
+  "titles": {
+    "default": "A KITE",
+    "romaji": "A KITE",
+    "english": "Kite"
+  },
+  "synonyms": [
+    "A KITE",
+    "Kite",
+    "Kite Remastered",
+    "Kite Remastered: Special Edition",
+    "A Kite Special Edition",
+    "A Kite: International Version",
+    "A カイト",
+    "ア カイト",
+    "カイト",
+    "Tekken: The Motion Picture",
+    "Tekken",
+    "鉄拳",
+    "The King Of Iron Fist Tournament The Movie",
+    "Tekken Movie"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx320-uoswyrIq31bG.png"
+  ],
+  "references": {
+    "al": {
+      "id": "320",
+      "url": "https://anilist.co/anime/320"
+    },
+    "cr": {
+      "id": "watch/G9XF2GMX4/",
+      "url": "https://www.crunchyroll.com/series/watch/G9XF2GMX4/"
+    },
+    "k": {
+      "id": "496",
+      "url": "https://kitsu.io/anime/496"
+    },
+    "mal": {
+      "id": "320",
+      "url": "https://myanimelist.net/anime/320"
+    }
+  }
+}

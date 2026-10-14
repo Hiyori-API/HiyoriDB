@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1286,
+  "slug": "l-r-licensed-by-royal",
+  "kind": "anime",
+  "title": "L/R -Licensed by Royal-",
+  "titles": {
+    "default": "L/R -Licensed by Royal-",
+    "romaji": "L/R -Licensed by Royal-",
+    "english": "L/R: Licensed by Royalty"
+  },
+  "synonyms": [
+    "L/R -Licensed by Royal-",
+    "L/R: Licensed by Royalty",
+    "L/R",
+    "Licensed by Royalty",
+    "L/R: Licensed by Royal"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1456-AKZCK1HcMOkI.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1456",
+      "url": "https://anilist.co/anime/1456"
+    },
+    "k": {
+      "id": "1306",
+      "url": "https://kitsu.io/anime/1306"
+    },
+    "mal": {
+      "id": "1456",
+      "url": "https://myanimelist.net/anime/1456"
+    },
+    "t": {
+      "id": "42561",
+      "url": "https://trakt.tv/shows/42561"
+    }
+  }
+}

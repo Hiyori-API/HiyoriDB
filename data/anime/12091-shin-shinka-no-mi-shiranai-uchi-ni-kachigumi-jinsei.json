@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12091,
+  "slug": "shin-shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei",
+  "kind": "anime",
+  "title": "Shin Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei",
+  "titles": {
+    "default": "Shin Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei",
+    "romaji": "Shin Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei",
+    "english": "The Fruit of Evolution: Before I Knew It, My Life Had It Made Season 2",
+    "native": "真・進化の実～知らないうちに勝ち組人生～"
+  },
+  "synonyms": [
+    "Shin Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei",
+    "The Fruit of Evolution: Before I Knew It, My Life Had It Made Season 2",
+    "真・進化の実～知らないうちに勝ち組人生～",
+    "The Fruit of Evolution 2: Before I Knew It, My Life Had It Made",
+    "Buah Evolusi 2: Sebelum Aku Mengetahuinya, Hidupku sudah Berhasil",
+    "The Angel Next Door Spoils Me Rotten",
+    "お隣の天使様にいつの間にか駄目人間にされていた件",
+    "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2023,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146954-tn3mydVZQfZp.png"
+  ],
+  "references": {
+    "al": {
+      "id": "146954",
+      "url": "https://anilist.co/anime/146954"
+    },
+    "cr": {
+      "id": "series/G9VHN9DDX/the-fruit-of-evolution-before-i-knew-it-my-life-had-it-made",
+      "url": "https://www.crunchyroll.com/series/series/G9VHN9DDX/the-fruit-of-evolution-before-i-knew-it-my-life-had-it-made"
+    },
+    "mal": {
+      "id": "51495",
+      "url": "https://myanimelist.net/anime/51495"
+    },
+    "tx": {
+      "id": "shinkanomianime",
+      "url": "https://twitter.com/shinkanomianime"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4630,
+  "slug": "shisha-no-sho",
+  "kind": "anime",
+  "title": "Shisha no Sho",
+  "titles": {
+    "default": "Shisha no Sho",
+    "romaji": "Shisha no Sho",
+    "english": "The Book of the Dead",
+    "native": "死者の書"
+  },
+  "synonyms": [
+    "Shisha no Sho",
+    "The Book of the Dead",
+    "死者の書",
+    "The Book of a Dead Person",
+    "A Book of a Dead Person"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n7510-L2t6xo7axD6s.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7510",
+      "url": "https://anilist.co/anime/7510"
+    },
+    "k": {
+      "id": "5008",
+      "url": "https://kitsu.io/anime/5008"
+    },
+    "mal": {
+      "id": "7510",
+      "url": "https://myanimelist.net/anime/7510"
+    }
+  }
+}

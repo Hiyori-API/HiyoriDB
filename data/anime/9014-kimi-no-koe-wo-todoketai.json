@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9014,
+  "slug": "kimi-no-koe-wo-todoketai",
+  "kind": "anime",
+  "title": "Kimi no Koe wo Todoketai",
+  "titles": {
+    "default": "Kimi no Koe wo Todoketai",
+    "romaji": "Kimi no Koe wo Todoketai",
+    "english": "I Want to Deliver Your Voice",
+    "native": "きみの声をとどけたい"
+  },
+  "synonyms": [
+    "Kimi no Koe wo Todoketai",
+    "I Want to Deliver Your Voice",
+    "きみの声をとどけたい",
+    "Your Voice -KIMIKOE-",
+    "想要传达你的声音",
+    "Genocidal Organ",
+    "Gyakusatsu Kikan",
+    "虐殺器官",
+    "Project Itoh"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21683-aEvZcmtN7Wtt.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21683",
+      "url": "https://anilist.co/anime/21683"
+    },
+    "k": {
+      "id": "8737",
+      "url": "https://kitsu.io/anime/8737"
+    },
+    "mal": {
+      "id": "33218",
+      "url": "https://myanimelist.net/anime/33218"
+    },
+    "tx": {
+      "id": "kimikoe_info",
+      "url": "https://twitter.com/kimikoe_info"
+    }
+  }
+}

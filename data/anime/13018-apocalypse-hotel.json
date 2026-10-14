@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13018,
+  "slug": "apocalypse-hotel",
+  "kind": "anime",
+  "title": "Apocalypse Hotel",
+  "titles": {
+    "default": "Apocalypse Hotel",
+    "romaji": "Apocalypse Hotel",
+    "native": "アポカリプスホテル"
+  },
+  "synonyms": [
+    "Apocalypse Hotel",
+    "アポカリプスホテル",
+    "This Ugly Yet Beautiful World",
+    "Kono Minikuku mo Utsukushii Sekai",
+    "この醜くも美しい世界"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180675-YEwsxiMsnyvL.png"
+  ],
+  "references": {
+    "al": {
+      "id": "180675",
+      "url": "https://anilist.co/anime/180675"
+    },
+    "cr": {
+      "id": "series/GXJHM3G58/apocalypse-hotel",
+      "url": "https://www.crunchyroll.com/series/series/GXJHM3G58/apocalypse-hotel"
+    },
+    "k": {
+      "id": "124",
+      "url": "https://kitsu.io/anime/124"
+    },
+    "mal": {
+      "id": "59675",
+      "url": "https://myanimelist.net/anime/59675"
+    },
+    "t": {
+      "id": "34001",
+      "url": "https://trakt.tv/shows/34001"
+    }
+  }
+}

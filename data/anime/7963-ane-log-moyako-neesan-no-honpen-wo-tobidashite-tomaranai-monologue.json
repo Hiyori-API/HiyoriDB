@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7963,
+  "slug": "ane-log-moyako-neesan-no-honpen-wo-tobidashite-tomaranai-monologue",
+  "kind": "anime",
+  "title": "Ane Log: Moyako Neesan no Honpen wo Tobidashite Tomaranai Monologue",
+  "titles": {
+    "default": "Ane Log: Moyako Neesan no Honpen wo Tobidashite Tomaranai Monologue",
+    "romaji": "Ane Log: Moyako Neesan no Honpen wo Tobidashite Tomaranai Monologue",
+    "native": "姉ログ 靄子姉さんの本編を飛び出しても止まらないモノローグ"
+  },
+  "synonyms": [
+    "Ane Log: Moyako Neesan no Honpen wo Tobidashite Tomaranai Monologue",
+    "姉ログ 靄子姉さんの本編を飛び出しても止まらないモノローグ",
+    "Ane Log Flash OVA",
+    "Sister's Log: Moyako's Never-ending Monologue OVA"
+  ],
+  "type": "ova",
+  "episodes": 6,
+  "status": "finished",
+  "season": "spring",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b107917-pKi1tYud0xQr.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "107917",
+      "url": "https://anilist.co/anime/107917"
+    },
+    "k": {
+      "id": "9176",
+      "url": "https://kitsu.io/anime/9176"
+    },
+    "mal": {
+      "id": "27619",
+      "url": "https://myanimelist.net/anime/27619"
+    }
+  }
+}

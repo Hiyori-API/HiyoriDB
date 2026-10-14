@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3636,
+  "slug": "beyond",
+  "kind": "anime",
+  "title": "Beyond",
+  "titles": {
+    "default": "Beyond",
+    "romaji": "Beyond",
+    "native": "ビ・ヨンド"
+  },
+  "synonyms": [
+    "Beyond",
+    "ビ・ヨンド",
+    "Tekken: The Motion Picture",
+    "Tekken",
+    "鉄拳",
+    "The King Of Iron Fist Tournament The Movie",
+    "Tekken Movie"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4820-e97Eqtnrwweu.png"
+  ],
+  "references": {
+    "al": {
+      "id": "4820",
+      "url": "https://anilist.co/anime/4820"
+    },
+    "k": {
+      "id": "496",
+      "url": "https://kitsu.io/anime/496"
+    },
+    "mal": {
+      "id": "4820",
+      "url": "https://myanimelist.net/anime/4820"
+    }
+  }
+}

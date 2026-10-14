@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3513,
+  "slug": "choujin-locke-shin-sekai-sentai",
+  "kind": "anime",
+  "title": "Choujin Locke: Shin Sekai Sentai",
+  "titles": {
+    "default": "Choujin Locke: Shin Sekai Sentai",
+    "romaji": "Choujin Locke: Shin Sekai Sentai",
+    "english": "Locke the Superman/New World Command",
+    "native": "超人ロック／新世界戦隊"
+  },
+  "synonyms": [
+    "Choujin Locke: Shin Sekai Sentai",
+    "Locke the Superman/New World Command",
+    "超人ロック／新世界戦隊",
+    "Choujin Locke/Shin Sekai Sentai",
+    "Locke the Superman: New World Command",
+    "Choujin Locke: Shinsekai Sentai",
+    "超人ロック 新世界戦隊"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4534-UIEAiA4OvOOL.png"
+  ],
+  "references": {
+    "al": {
+      "id": "4534",
+      "url": "https://anilist.co/anime/4534"
+    },
+    "k": {
+      "id": "3667",
+      "url": "https://kitsu.io/anime/3667"
+    },
+    "mal": {
+      "id": "4534",
+      "url": "https://myanimelist.net/anime/4534"
+    }
+  }
+}

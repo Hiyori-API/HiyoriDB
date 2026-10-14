@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8059,
+  "slug": "kamisama-hajimemashita",
+  "kind": "anime",
+  "title": "Kamisama Hajimemashita◎",
+  "titles": {
+    "default": "Kamisama Hajimemashita◎",
+    "romaji": "Kamisama Hajimemashita◎",
+    "english": "Kamisama Kiss◎",
+    "native": "神様はじめました◎"
+  },
+  "synonyms": [
+    "Kamisama Hajimemashita◎",
+    "Kamisama Kiss◎",
+    "神様はじめました◎",
+    "Kamisama Kiss: Season 2",
+    "Kamisama Kiss Season 2",
+    "Kamisama Hajimemashita 2nd Season",
+    "Kami-sama Hajimemashita 2nd Season",
+    "Kamisama Kiss 2nd Season"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20801-2wtvmLpaM8hY.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "20801",
+      "url": "https://anilist.co/anime/20801"
+    },
+    "cr": {
+      "id": "kamisama-hajimemashita",
+      "url": "https://www.crunchyroll.com/series/kamisama-hajimemashita"
+    },
+    "k": {
+      "id": "8716",
+      "url": "https://kitsu.io/anime/8716"
+    },
+    "mal": {
+      "id": "25681",
+      "url": "https://myanimelist.net/anime/25681"
+    },
+    "nf": {
+      "id": "80070071",
+      "url": "https://www.netflix.com/title/80070071"
+    },
+    "t": {
+      "id": "67789",
+      "url": "https://trakt.tv/shows/67789"
+    }
+  }
+}

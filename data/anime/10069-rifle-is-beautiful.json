@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10069,
+  "slug": "rifle-is-beautiful",
+  "kind": "anime",
+  "title": "Rifle Is Beautiful",
+  "titles": {
+    "default": "Rifle Is Beautiful",
+    "romaji": "Rifle Is Beautiful",
+    "english": "Chidori RSC",
+    "native": "ライフル・イズ・ビューティフル"
+  },
+  "synonyms": [
+    "Rifle Is Beautiful",
+    "Chidori RSC",
+    "ライフル・イズ・ビューティフル",
+    "Ring ni Kakero 1",
+    "リングにかけろ１",
+    "Put it all in the Ring"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104679-wGUXfMYSRXSW.png"
+  ],
+  "references": {
+    "al": {
+      "id": "104679",
+      "url": "https://anilist.co/anime/104679"
+    },
+    "k": {
+      "id": "14",
+      "url": "https://kitsu.io/anime/14"
+    },
+    "mal": {
+      "id": "38529",
+      "url": "https://myanimelist.net/anime/38529"
+    },
+    "t": {
+      "id": "69507",
+      "url": "https://trakt.tv/shows/69507"
+    },
+    "tx": {
+      "id": "rib_anime",
+      "url": "https://twitter.com/rib_anime"
+    }
+  }
+}

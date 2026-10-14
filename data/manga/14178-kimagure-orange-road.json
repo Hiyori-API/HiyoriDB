@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14178,
+  "slug": "kimagure-orange-road",
+  "kind": "manga",
+  "title": "Kimagure Orange★Road",
+  "titles": {
+    "default": "Kimagure Orange★Road"
+  },
+  "synonyms": [
+    "KOR",
+    "Whimsical Orange Road",
+    "Capricious Orange Road",
+    "きまぐれオレンジ★ロード カラー版",
+    "변덕쟁이 오렌지로드",
+    "Kimagure Orange Road",
+    "きまぐれオレンジ★ロード",
+    "Dragon Ball",
+    "ドラゴンボール",
+    "Dragonball",
+    "Dragon Ball Z",
+    "Dragonball Z"
+  ],
+  "type": "manga",
+  "chapters": 156,
+  "volumes": 18,
+  "status": "finished",
+  "year": 1984,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31407-s2juAJZI6ayF.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1087",
+      "url": "https://anilist.co/anime/2458"
+    },
+    "al_manga": {
+      "id": "1087",
+      "url": "https://anilist.co/manga/1087"
+    }
+  }
+}

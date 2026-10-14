@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15206,
+  "slug": "usagi-chan-de-cue",
+  "kind": "manga",
+  "title": "Usagi-chan de Cue!!",
+  "titles": {
+    "default": "Usagi-chan de Cue!!"
+  },
+  "synonyms": [
+    "うさぎちゃんでCue!!",
+    "Love Hina",
+    "ラブひな"
+  ],
+  "type": "manga",
+  "chapters": 20,
+  "volumes": 2,
+  "status": "finished",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b137393-8If0fIgv6tuB.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "991",
+      "url": "https://anilist.co/anime/991"
+    },
+    "al_manga": {
+      "id": "991",
+      "url": "https://anilist.co/manga/991"
+    }
+  }
+}

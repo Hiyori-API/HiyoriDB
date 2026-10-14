@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8766,
+  "slug": "sansha-sanyou-specials",
+  "kind": "anime",
+  "title": "Sansha Sanyou Specials",
+  "titles": {
+    "default": "Sansha Sanyou Specials",
+    "romaji": "Sansha Sanyou Specials",
+    "english": "Three Leaves, Three Colors Specials",
+    "native": "三者三葉 Specials"
+  },
+  "synonyms": [
+    "Sansha Sanyou Specials",
+    "Three Leaves, Three Colors Specials",
+    "三者三葉 Specials",
+    "Kinoko wa Karada ni Iindayo",
+    "Koukyuu Wanyuu no Shishokukai",
+    "Dekiru Onna wa Mibunryou",
+    "三者三葉"
+  ],
+  "type": "special",
+  "episodes": 3,
+  "status": "finished",
+  "season": "summer",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21789-K1X8vGAmzX7m.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21789",
+      "url": "https://anilist.co/anime/21789"
+    },
+    "mal": {
+      "id": "33173",
+      "url": "https://myanimelist.net/anime/33173"
+    },
+    "tx": {
+      "id": "sansya_anime",
+      "url": "https://twitter.com/sansya_anime"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8550,
+  "slug": "magi-sinbad-no-bouken",
+  "kind": "anime",
+  "title": "Magi: Sinbad no Bouken",
+  "titles": {
+    "default": "Magi: Sinbad no Bouken",
+    "romaji": "Magi: Sinbad no Bouken",
+    "english": "Magi: Adventure of Sinbad",
+    "native": "マギ シンドバッドの冒険"
+  },
+  "synonyms": [
+    "Magi: Sinbad no Bouken",
+    "Magi: Adventure of Sinbad",
+    "マギ シンドバッドの冒険",
+    "מאגי: הרפתקאותיו של סינבד",
+    "Magi: Sinbad no Bouken (TV)"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21394-yauvzIHGAoZv.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21394",
+      "url": "https://anilist.co/anime/21394"
+    },
+    "mal": {
+      "id": "31741",
+      "url": "https://myanimelist.net/anime/31741"
+    },
+    "nf": {
+      "id": "80103331",
+      "url": "https://www.netflix.com/title/80103331"
+    },
+    "tx": {
+      "id": "project_magi",
+      "url": "https://twitter.com/project_magi"
+    }
+  }
+}

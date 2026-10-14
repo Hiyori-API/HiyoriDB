@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7187,
+  "slug": "choboraunyopomi-gekijou-ai-mai-mii",
+  "kind": "anime",
+  "title": "Choboraunyopomi Gekijou Ai Mai Mii",
+  "titles": {
+    "default": "Choboraunyopomi Gekijou Ai Mai Mii",
+    "romaji": "Choboraunyopomi Gekijou Ai Mai Mii",
+    "english": "Ai-Mai-Mi",
+    "native": "ちょぼらうにょぽみ劇場あいまいみー"
+  },
+  "synonyms": [
+    "Choboraunyopomi Gekijou Ai Mai Mii",
+    "Ai-Mai-Mi",
+    "ちょぼらうにょぽみ劇場あいまいみー",
+    "Choboraunyopomi Gekijou Dai Ni Maku ai mai mii",
+    "ちょぼらうにょぽみ劇場 あいまいみー",
+    "Ai Mai Mi",
+    "I My Me"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16169-JOD1GwgA0D5G.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "16169",
+      "url": "https://anilist.co/anime/16169"
+    },
+    "cr": {
+      "id": "ai-mai-mi",
+      "url": "https://www.crunchyroll.com/series/ai-mai-mi"
+    },
+    "k": {
+      "id": "7382",
+      "url": "https://kitsu.io/anime/7382"
+    },
+    "mal": {
+      "id": "16169",
+      "url": "https://myanimelist.net/anime/16169"
+    },
+    "t": {
+      "id": "68729",
+      "url": "https://trakt.tv/shows/68729"
+    },
+    "tx": {
+      "id": "anime_aimaimi",
+      "url": "https://twitter.com/anime_aimaimi"
+    }
+  }
+}

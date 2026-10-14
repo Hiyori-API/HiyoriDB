@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10061,
+  "slug": "psycho-pass-sinners-of-the-system-case-2-first-guardian",
+  "kind": "anime",
+  "title": "PSYCHO-PASS Sinners of the System Case 2: First Guardian",
+  "titles": {
+    "default": "PSYCHO-PASS Sinners of the System Case 2: First Guardian",
+    "romaji": "PSYCHO-PASS Sinners of the System Case 2: First Guardian",
+    "english": "PSYCHO-PASS: Sinners of the System 2 - First Guardian",
+    "native": "PSYCHO-PASS サイコパス Sinners of the System Case.2 - First Guardian"
+  },
+  "synonyms": [
+    "PSYCHO-PASS Sinners of the System Case 2: First Guardian",
+    "PSYCHO-PASS: Sinners of the System 2 - First Guardian",
+    "PSYCHO-PASS サイコパス Sinners of the System Case.2 - First Guardian",
+    "Psycho-Pass SS Case 2: First Guardian",
+    "PSYCHO-PASS サイコパス Sinners of the System Case.2「First Guardian」",
+    "Psycho-Pass: Sinners of the System Case.2 - First Guardian"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx104382-uUSwPWXZ8f8n.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "104382",
+      "url": "https://anilist.co/anime/104382"
+    },
+    "cr": {
+      "id": "psycho-pass-sinners-of-the-system",
+      "url": "https://www.crunchyroll.com/series/psycho-pass-sinners-of-the-system"
+    },
+    "mal": {
+      "id": "37441",
+      "url": "https://myanimelist.net/anime/37441"
+    },
+    "tx": {
+      "id": "psychopass_tv",
+      "url": "https://twitter.com/psychopass_tv"
+    }
+  }
+}

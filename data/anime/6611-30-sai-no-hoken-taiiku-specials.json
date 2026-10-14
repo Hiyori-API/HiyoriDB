@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6611,
+  "slug": "30-sai-no-hoken-taiiku-specials",
+  "kind": "anime",
+  "title": "30-sai no Hoken Taiiku Specials",
+  "titles": {
+    "default": "30-sai no Hoken Taiiku Specials",
+    "romaji": "30-sai no Hoken Taiiku Specials",
+    "native": "30歳の保健体育"
+  },
+  "synonyms": [
+    "30-sai no Hoken Taiiku Specials",
+    "30歳の保健体育",
+    "Sanjuu-sai no Hoken Taiiku Specials"
+  ],
+  "type": "special",
+  "episodes": 3,
+  "status": "finished",
+  "season": "summer",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12131.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12131",
+      "url": "https://anilist.co/anime/12131"
+    },
+    "k": {
+      "id": "6670",
+      "url": "https://kitsu.io/anime/6670"
+    },
+    "mal": {
+      "id": "12131",
+      "url": "https://myanimelist.net/anime/12131"
+    }
+  }
+}

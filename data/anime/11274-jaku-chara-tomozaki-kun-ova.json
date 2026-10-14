@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11274,
+  "slug": "jaku-chara-tomozaki-kun-ova",
+  "kind": "anime",
+  "title": "Jaku-Chara Tomozaki-kun OVA",
+  "titles": {
+    "default": "Jaku-Chara Tomozaki-kun OVA",
+    "romaji": "Jaku-Chara Tomozaki-kun OVA",
+    "english": "Bottom-Tier Character Tomozaki OVA",
+    "native": "弱キャラ友崎くんOVA"
+  },
+  "synonyms": [
+    "Jaku-Chara Tomozaki-kun OVA",
+    "Bottom-Tier Character Tomozaki OVA",
+    "弱キャラ友崎くんOVA",
+    "Bottom-Tier Character Tomozaki: Post-game equipment for girls is a little different than usual",
+    "เกมพลิกโฉมนายกระจอก OVA",
+    "Bottom-Tier Character Tomozaki: Most strange spell names have unknown origins",
+    "Stratos 4 OVA",
+    "ストラトス・フォー OVA"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx127363-jQQauCdjQITM.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "127363",
+      "url": "https://anilist.co/anime/127363"
+    },
+    "cr": {
+      "id": "bottom-tier-character-tomozaki",
+      "url": "https://www.crunchyroll.com/series/bottom-tier-character-tomozaki"
+    },
+    "k": {
+      "id": "386",
+      "url": "https://kitsu.io/anime/386"
+    },
+    "mal": {
+      "id": "45604",
+      "url": "https://myanimelist.net/anime/45604"
+    },
+    "tx": {
+      "id": "tomozakikoshiki",
+      "url": "https://twitter.com/tomozakikoshiki"
+    }
+  }
+}

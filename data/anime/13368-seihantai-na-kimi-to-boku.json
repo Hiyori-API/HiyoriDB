@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13368,
+  "slug": "seihantai-na-kimi-to-boku",
+  "kind": "anime",
+  "title": "Seihantai na Kimi to Boku",
+  "titles": {
+    "default": "Seihantai na Kimi to Boku",
+    "romaji": "Seihantai na Kimi to Boku",
+    "english": "You and I Are Polar Opposites",
+    "native": "正反対な君と僕"
+  },
+  "synonyms": [
+    "Seihantai na Kimi to Boku",
+    "You and I Are Polar Opposites",
+    "正反対な君と僕",
+    "ลุ้นรักฉบับคู่ต่างขั้ว",
+    "정반대의 너와 나",
+    "Cậu Và Tớ Là Hai Thái Cực Đối Lập"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184951-s8Lg2muPBhdX.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "184951",
+      "url": "https://anilist.co/anime/184951"
+    },
+    "cr": {
+      "id": "series/GT00365624/you-and-i-are-polar-opposites",
+      "url": "https://www.crunchyroll.com/series/series/GT00365624/you-and-i-are-polar-opposites"
+    },
+    "mal": {
+      "id": "60371",
+      "url": "https://myanimelist.net/anime/60371"
+    }
+  }
+}

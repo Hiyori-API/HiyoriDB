@@ -1,0 +1,66 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10735,
+  "slug": "bishoujo-senshi-sailor-moon-eternal-zenpen",
+  "kind": "anime",
+  "title": "Bishoujo Senshi Sailor Moon: Eternal - Zenpen",
+  "titles": {
+    "default": "Bishoujo Senshi Sailor Moon: Eternal - Zenpen",
+    "romaji": "Bishoujo Senshi Sailor Moon: Eternal - Zenpen",
+    "english": "Pretty Guardian Sailor Moon Eternal The Movie Part 1",
+    "native": "美少女戦士セーラームーンEternal 前編"
+  },
+  "synonyms": [
+    "Bishoujo Senshi Sailor Moon: Eternal - Zenpen",
+    "Pretty Guardian Sailor Moon Eternal The Movie Part 1",
+    "美少女戦士セーラームーンEternal 前編",
+    "「美少女戦士セーラームーン Crystal」第 4 期＜デッド・ムーン編＞",
+    "Bishoujo Senshi Sailor Moon Crystal: Dead Moon-hen 1",
+    "พริตตี้ การ์เดี้ยน เซเลอร์ มูน อีเทอร์นัล เดอะ มูฟวี่",
+    "Bishoujo Senshi Sailor Moon Eternal Part 1",
+    "الحارسة الجميلة بحّارة القمر الأزلية: الفيلم",
+    "Pretty Guardian Sailor Moon Eternal : Le film",
+    "Pretty Guardian Sailor Moon Eternal: Der Film",
+    "Pretty Guardian Sailor Moon Eternal: Η Ταινία",
+    "Pretty Guardian Sailor Moon Eternal - Il film",
+    "극장판 미소녀 전사 세일러 문 이터널",
+    "Pretty Guardian Sailor Moon Eternal: O Filme",
+    "Frumoasa luptătoare Sailor Moon Eternal: Filmul",
+    "Pretty Guardian Sailor Moon Eternal: La película",
+    "Evangelion: 3.0+1.0 Thrice Upon a Time",
+    "Shin Evangelion Gekijouban :||",
+    "シン・エヴァンゲリオン劇場版:||",
+    "Evangelion: 4.0",
+    "Rebuild of Evangelion 4.0"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103713-GZ5LKEkW7Lz2.png"
+  ],
+  "references": {
+    "al": {
+      "id": "103713",
+      "url": "https://anilist.co/anime/103713"
+    },
+    "k": {
+      "id": "3252",
+      "url": "https://kitsu.io/anime/3252"
+    },
+    "mal": {
+      "id": "40024",
+      "url": "https://myanimelist.net/anime/40024"
+    },
+    "nf": {
+      "id": "81214399",
+      "url": "https://www.netflix.com/title/81214399"
+    },
+    "tx": {
+      "id": "sailor_movie",
+      "url": "https://twitter.com/sailor_movie"
+    }
+  }
+}

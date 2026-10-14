@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5848,
+  "slug": "meat-or-die",
+  "kind": "anime",
+  "title": "Meat or Die",
+  "titles": {
+    "default": "Meat or Die",
+    "romaji": "Meat or Die",
+    "native": "ヤンス！ガンス！Meat or Die"
+  },
+  "synonyms": [
+    "Meat or Die",
+    "ヤンス！ガンス！Meat or Die",
+    "YANS! GANS!"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7721.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7721",
+      "url": "https://anilist.co/anime/7721"
+    },
+    "k": {
+      "id": "5096",
+      "url": "https://kitsu.io/anime/5096"
+    },
+    "mal": {
+      "id": "7721",
+      "url": "https://myanimelist.net/anime/7721"
+    }
+  }
+}

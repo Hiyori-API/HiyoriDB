@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9996,
+  "slug": "bang-dream-2nd-season",
+  "kind": "anime",
+  "title": "BanG Dream! 2nd Season",
+  "titles": {
+    "default": "BanG Dream! 2nd Season",
+    "romaji": "BanG Dream! 2nd Season"
+  },
+  "synonyms": [
+    "BanG Dream! 2nd Season",
+    "Bandori",
+    "BanG Dream!（バンドリ！）第2期"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx101633-kRp4u7VmRb5h.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101633",
+      "url": "https://anilist.co/anime/101633"
+    },
+    "mal": {
+      "id": "37869",
+      "url": "https://myanimelist.net/anime/37869"
+    },
+    "tx": {
+      "id": "bang_dream_info",
+      "url": "https://twitter.com/bang_dream_info"
+    }
+  }
+}

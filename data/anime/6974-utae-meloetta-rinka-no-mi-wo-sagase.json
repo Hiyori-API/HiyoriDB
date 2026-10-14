@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6974,
+  "slug": "utae-meloetta-rinka-no-mi-wo-sagase",
+  "kind": "anime",
+  "title": "Utae Meloetta: Rinka no Mi wo Sagase!",
+  "titles": {
+    "default": "Utae Meloetta: Rinka no Mi wo Sagase!",
+    "romaji": "Utae Meloetta: Rinka no Mi wo Sagase!",
+    "native": "うたえメロエッタ リンカのみをさがせ"
+  },
+  "synonyms": [
+    "Utae Meloetta: Rinka no Mi wo Sagase!",
+    "うたえメロエッタ リンカのみをさがせ",
+    "Utae Meloetta: Rinka no Mi o Sagase!",
+    "Sing Meloetta: Search for the Rinka Berries",
+    "Pokemon: Sing Meloetta - Search for the Rinka Berries",
+    "Pocket Monsters: Utae Meloetta - Rinka no Mi wo Sagase!",
+    "Pocket Monsters: Sing Meloetta - Search for the Rinka Berries"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/14935.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "14935",
+      "url": "https://anilist.co/anime/14935"
+    },
+    "k": {
+      "id": "7183",
+      "url": "https://kitsu.io/anime/7183"
+    },
+    "mal": {
+      "id": "14935",
+      "url": "https://myanimelist.net/anime/14935"
+    }
+  }
+}

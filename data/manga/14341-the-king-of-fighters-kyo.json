@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14341,
+  "slug": "the-king-of-fighters-kyo",
+  "kind": "manga",
+  "title": "The King of Fighters: Kyo",
+  "titles": {
+    "default": "The King of Fighters: Kyo"
+  },
+  "synonyms": [
+    "KoF Kyo",
+    "The King of Fighters Kyo",
+    "ザ・キング・オブ・ファイターズ京",
+    "The Life and Times of an Idiot Section Chief",
+    "Kachou Baka Ichidachi",
+    "課長バカ一代",
+    "Kachou Baka Ichidai"
+  ],
+  "type": "manga",
+  "chapters": 10,
+  "volumes": 3,
+  "status": "finished",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33001-nkumvAyKEGer.png"
+  ],
+  "references": {
+    "al": {
+      "id": "825",
+      "url": "https://anilist.co/anime/825"
+    },
+    "al_manga": {
+      "id": "825",
+      "url": "https://anilist.co/manga/825"
+    }
+  }
+}

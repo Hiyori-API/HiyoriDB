@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7304,
+  "slug": "rescue-me",
+  "kind": "anime",
+  "title": "Rescue ME!",
+  "titles": {
+    "default": "Rescue ME!",
+    "romaji": "Rescue ME!",
+    "native": "れすきゅーME!"
+  },
+  "synonyms": [
+    "Rescue ME!",
+    "れすきゅーME!",
+    "Rescue Me!"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18039.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "18039",
+      "url": "https://anilist.co/anime/18039"
+    },
+    "k": {
+      "id": "7691",
+      "url": "https://kitsu.io/anime/7691"
+    },
+    "mal": {
+      "id": "18039",
+      "url": "https://myanimelist.net/anime/18039"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7917,
+  "slug": "elite-jack",
+  "kind": "anime",
+  "title": "Elite Jack!!",
+  "titles": {
+    "default": "Elite Jack!!",
+    "romaji": "Elite Jack!!",
+    "native": "エリートジャック!!"
+  },
+  "synonyms": [
+    "Elite Jack!!",
+    "エリートジャック!!",
+    "Elite Jack!! OVA",
+    "Elite Jack!! Ciao Ciao OVA"
+  ],
+  "type": "ova",
+  "episodes": 6,
+  "status": "finished",
+  "season": "summer",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21604-VDXN5BfHc2hz.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21604",
+      "url": "https://anilist.co/anime/21604"
+    },
+    "k": {
+      "id": "8565",
+      "url": "https://kitsu.io/anime/8565"
+    },
+    "mal": {
+      "id": "24985",
+      "url": "https://myanimelist.net/anime/24985"
+    }
+  }
+}

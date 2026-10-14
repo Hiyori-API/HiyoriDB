@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4909,
+  "slug": "gegege-no-kitarou-youkai-daisensou",
+  "kind": "anime",
+  "title": "Gegege no Kitarou: Youkai Daisensou",
+  "titles": {
+    "default": "Gegege no Kitarou: Youkai Daisensou",
+    "romaji": "Gegege no Kitarou: Youkai Daisensou",
+    "native": "ゲゲゲの鬼太郎 妖怪大戦争"
+  },
+  "synonyms": [
+    "Gegege no Kitarou: Youkai Daisensou",
+    "ゲゲゲの鬼太郎 妖怪大戦争",
+    "Project A-Ko",
+    "プロジェクトＡ子"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8153.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8153",
+      "url": "https://anilist.co/anime/8153"
+    },
+    "k": {
+      "id": "188",
+      "url": "https://kitsu.io/anime/188"
+    },
+    "mal": {
+      "id": "8153",
+      "url": "https://myanimelist.net/anime/8153"
+    }
+  }
+}

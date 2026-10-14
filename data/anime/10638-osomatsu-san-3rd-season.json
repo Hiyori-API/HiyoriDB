@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10638,
+  "slug": "osomatsu-san-3rd-season",
+  "kind": "anime",
+  "title": "Osomatsu-san 3rd Season",
+  "titles": {
+    "default": "Osomatsu-san 3rd Season",
+    "romaji": "Osomatsu-san 3rd Season",
+    "english": "Mr. Osomatsu 3rd season",
+    "native": "おそ松さん 第3期"
+  },
+  "synonyms": [
+    "Osomatsu-san 3rd Season",
+    "Mr. Osomatsu 3rd season",
+    "おそ松さん 第3期",
+    "Mr. Osomatsu 3"
+  ],
+  "type": "tv",
+  "episodes": 25,
+  "status": "finished",
+  "season": "fall",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120851-94u8CMlI599g.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "120851",
+      "url": "https://anilist.co/anime/120851"
+    },
+    "cr": {
+      "id": "mr-osomatsu",
+      "url": "https://www.crunchyroll.com/series/mr-osomatsu"
+    },
+    "mal": {
+      "id": "42391",
+      "url": "https://myanimelist.net/anime/42391"
+    },
+    "tx": {
+      "id": "osomatsu_PR",
+      "url": "https://twitter.com/osomatsu_PR"
+    }
+  }
+}

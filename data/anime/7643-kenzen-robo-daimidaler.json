@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7643,
+  "slug": "kenzen-robo-daimidaler",
+  "kind": "anime",
+  "title": "Kenzen Robo Daimidaler",
+  "titles": {
+    "default": "Kenzen Robo Daimidaler",
+    "romaji": "Kenzen Robo Daimidaler",
+    "english": "Daimidaler: Prince vs. Penguin Empire",
+    "native": "健全ロボ　ダイミダラー"
+  },
+  "synonyms": [
+    "Kenzen Robo Daimidaler",
+    "Daimidaler: Prince vs. Penguin Empire",
+    "健全ロボ　ダイミダラー",
+    "健全ロボ ダイミダラー",
+    "Daimidaler the Sound Robot",
+    "Midara"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20588-jmOSzffIIrOa.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "20588",
+      "url": "https://anilist.co/anime/20588"
+    },
+    "cr": {
+      "id": "daimidaler-prince-vs-penguin-empire?skip_wall=1",
+      "url": "https://www.crunchyroll.com/series/daimidaler-prince-vs-penguin-empire?skip_wall=1"
+    },
+    "k": {
+      "id": "8163",
+      "url": "https://kitsu.io/anime/8163"
+    },
+    "mal": {
+      "id": "21809",
+      "url": "https://myanimelist.net/anime/21809"
+    },
+    "t": {
+      "id": "60374",
+      "url": "https://trakt.tv/shows/60374"
+    }
+  }
+}

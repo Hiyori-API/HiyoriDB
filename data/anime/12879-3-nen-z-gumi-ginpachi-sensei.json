@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12879,
+  "slug": "3-nen-z-gumi-ginpachi-sensei",
+  "kind": "anime",
+  "title": "3-nen Z-gumi Ginpachi-sensei",
+  "titles": {
+    "default": "3-nen Z-gumi Ginpachi-sensei",
+    "romaji": "3-nen Z-gumi Ginpachi-sensei",
+    "english": "GINTAMA - Mr. Ginpachi's Zany Class",
+    "native": "3年Z組銀八先生"
+  },
+  "synonyms": [
+    "3-nen Z-gumi Ginpachi-sensei",
+    "GINTAMA - Mr. Ginpachi's Zany Class",
+    "3年Z組銀八先生",
+    "3-Z Class's Ginpachi-sensei",
+    "3rd Year Class Z Ginpachi-sensei",
+    "GINTAMA: Mr. Ginpachi's Zany Class",
+    "กินทามะ - ปี 3 ห้อง z อาจารย์กินปาจิ",
+    "Gintama: 3-Z Ginpachi Sensei",
+    "Gintama - Mr. Ginpachi's Zany Class",
+    "銀魂 3年Z組銀八先生"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162890-vDRlo1KuRM6W.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "162890",
+      "url": "https://anilist.co/anime/162890"
+    },
+    "cr": {
+      "id": "series/GT00365105/gintama-mr-ginpachis-zany-class",
+      "url": "https://www.crunchyroll.com/series/series/GT00365105/gintama-mr-ginpachis-zany-class"
+    },
+    "mal": {
+      "id": "54757",
+      "url": "https://myanimelist.net/anime/54757"
+    },
+    "tx": {
+      "id": "gintamamovie",
+      "url": "https://twitter.com/gintamamovie"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15879,
+  "slug": "11eyes-tsumi-to-batsu-to-aganai-no-shoujo",
+  "kind": "manga",
+  "title": "11eyes: Tsumi to Batsu to Aganai no Shoujo",
+  "titles": {
+    "default": "11eyes: Tsumi to Batsu to Aganai no Shoujo"
+  },
+  "synonyms": [
+    "11 eyes",
+    "11eyes -Sin",
+    "damnation and the atonement girl-",
+    "11eyes -罪と罰と贖いの少女-",
+    "Simple Knot Loafers",
+    "シンプルノットローファー",
+    "Shinpuru Notto Rofa",
+    "Shinpuru Notto Roofaa",
+    "Simple Not Loafer"
+  ],
+  "type": "manga",
+  "chapters": 12,
+  "volumes": 3,
+  "status": "finished",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx49745-522516Myo8cN.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6682",
+      "url": "https://anilist.co/anime/7739"
+    },
+    "al_manga": {
+      "id": "6682",
+      "url": "https://anilist.co/manga/6682"
+    }
+  }
+}

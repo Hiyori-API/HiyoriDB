@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5577,
+  "slug": "aterui",
+  "kind": "anime",
+  "title": "Aterui",
+  "titles": {
+    "default": "Aterui",
+    "romaji": "Aterui",
+    "native": "アテルイ"
+  },
+  "synonyms": [
+    "Aterui",
+    "アテルイ",
+    "The Cat Returns",
+    "Neko no Ongaeshi",
+    "猫の恩返し",
+    "The Cat's Repayment"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169082-PQR9datgfSvj.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "169082",
+      "url": "https://anilist.co/anime/169082"
+    },
+    "k": {
+      "id": "552",
+      "url": "https://kitsu.io/anime/552"
+    },
+    "mal": {
+      "id": "23523",
+      "url": "https://myanimelist.net/anime/23523"
+    },
+    "nf": {
+      "id": "70019058",
+      "url": "https://www.netflix.com/title/70019058"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 645,
+  "slug": "rec",
+  "kind": "anime",
+  "title": "Rec",
+  "titles": {
+    "default": "Rec",
+    "romaji": "Rec",
+    "native": "レック"
+  },
+  "synonyms": [
+    "Rec",
+    "レック"
+  ],
+  "type": "tv",
+  "episodes": 9,
+  "status": "finished",
+  "season": "winter",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx710-yfZvLjJ8qvwZ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "710",
+      "url": "https://anilist.co/anime/710"
+    },
+    "k": {
+      "id": "644",
+      "url": "https://kitsu.io/anime/644"
+    },
+    "mal": {
+      "id": "710",
+      "url": "https://myanimelist.net/anime/710"
+    },
+    "t": {
+      "id": "34048",
+      "url": "https://trakt.tv/shows/34048"
+    }
+  }
+}

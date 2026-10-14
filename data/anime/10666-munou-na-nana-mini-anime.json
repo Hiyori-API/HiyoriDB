@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10666,
+  "slug": "munou-na-nana-mini-anime",
+  "kind": "anime",
+  "title": "Munou na Nana: Mini Anime",
+  "titles": {
+    "default": "Munou na Nana: Mini Anime",
+    "romaji": "Munou na Nana: Mini Anime",
+    "native": "無能なナナ ミニアニメ"
+  },
+  "synonyms": [
+    "Munou na Nana: Mini Anime",
+    "無能なナナ ミニアニメ",
+    "Talentless Nana Mini Anime",
+    "Han Hua Ri Ji 2nd Season",
+    "God Troubles Me 2nd Season",
+    "汉化日记 第二季",
+    "Hanhua Riji 2nd Season"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b123803-frGulQh4dlMH.png"
+  ],
+  "references": {
+    "al": {
+      "id": "123803",
+      "url": "https://anilist.co/anime/123803"
+    },
+    "mal": {
+      "id": "42831",
+      "url": "https://myanimelist.net/anime/42831"
+    },
+    "tx": {
+      "id": "munounanana",
+      "url": "https://twitter.com/munounanana"
+    }
+  }
+}

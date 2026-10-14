@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14095,
+  "slug": "saint-seiya-the-lost-canvas-meiou-shinwa",
+  "kind": "manga",
+  "title": "Saint Seiya: THE LOST CANVAS - Meiou Shinwa",
+  "titles": {
+    "default": "Saint Seiya: THE LOST CANVAS - Meiou Shinwa"
+  },
+  "synonyms": [
+    "I Cavalieri dello zodiaco - The Lost Canvas - Il mito di Ade",
+    "Os Cavaleiros do Zodíaco: The Lost Canvas - A saga de Hades",
+    "Saint Seiya - The Lost Canvas - La légende d'Hadès",
+    "聖鬥士星矢 THE LOST CANVAS 冥王神話",
+    "聖闘士星矢 THE LOST CANVAS 冥王神話",
+    "The Pain in My Heart",
+    "Boku no Mune ga Itakutemo - Glass",
+    "ぼくの胸が痛くても GLASS"
+  ],
+  "type": "manga",
+  "chapters": 224,
+  "volumes": 25,
+  "status": "finished",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31047-BHs8MnYsOxOC.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9130",
+      "url": "https://anilist.co/anime/6171"
+    },
+    "al_manga": {
+      "id": "9130",
+      "url": "https://anilist.co/manga/9130"
+    }
+  }
+}

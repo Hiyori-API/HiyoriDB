@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4467,
+  "slug": "hakuouki",
+  "kind": "anime",
+  "title": "Hakuouki",
+  "titles": {
+    "default": "Hakuouki",
+    "romaji": "Hakuouki",
+    "english": "Hakuoki ~Demon of the Fleeting Blossom~",
+    "native": "薄桜鬼"
+  },
+  "synonyms": [
+    "Hakuouki",
+    "Hakuoki ~Demon of the Fleeting Blossom~",
+    "薄桜鬼",
+    "Hakuoki",
+    "Hakuouki Shinsengumi Kitan",
+    "Hakuoki,Hakuouki: Shinsengumi Kitan",
+    "Hakuouki: Shinsengumi Kitan"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6895-S4QTn9uPlVrL.png"
+  ],
+  "references": {
+    "al": {
+      "id": "6895",
+      "url": "https://anilist.co/anime/6895"
+    },
+    "cr": {
+      "id": "series/GDKHZE2Q7/hakuoki-demon-of-the-fleeting-blossom",
+      "url": "https://www.crunchyroll.com/series/series/GDKHZE2Q7/hakuoki-demon-of-the-fleeting-blossom"
+    },
+    "k": {
+      "id": "4775",
+      "url": "https://kitsu.io/anime/4775"
+    },
+    "mal": {
+      "id": "6895",
+      "url": "https://myanimelist.net/anime/6895"
+    },
+    "t": {
+      "id": "44073",
+      "url": "https://trakt.tv/shows/44073"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11630,
+  "slug": "osomatsu-san-hipipo-zoku-to-kagayaku-kajitsu",
+  "kind": "anime",
+  "title": "Osomatsu-san: Hipipo-Zoku to Kagayaku Kajitsu",
+  "titles": {
+    "default": "Osomatsu-san: Hipipo-Zoku to Kagayaku Kajitsu",
+    "romaji": "Osomatsu-san: Hipipo-Zoku to Kagayaku Kajitsu",
+    "native": "おそ松さん~ヒピポ族と輝く果実~"
+  },
+  "synonyms": [
+    "Osomatsu-san: Hipipo-Zoku to Kagayaku Kajitsu",
+    "おそ松さん~ヒピポ族と輝く果実~",
+    "Osomatsu-san Movie 2",
+    "Mr. Osomatsu: The Hipipo Tribe and the Glistening Fruit",
+    "Cowboy Bebop: The Movie",
+    "Cowboy Bebop: Tengoku no Tobira",
+    "Cowboy Bebop: Knockin' on Heaven's Door",
+    "カウボーイビバップ天国の扉"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx135177-wCKkr4zjmFPI.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "135177",
+      "url": "https://anilist.co/anime/135177"
+    },
+    "k": {
+      "id": "2",
+      "url": "https://kitsu.io/anime/2"
+    },
+    "mal": {
+      "id": "49119",
+      "url": "https://myanimelist.net/anime/49119"
+    },
+    "tx": {
+      "id": "osomatsu_PR",
+      "url": "https://twitter.com/osomatsu_PR"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11523,
+  "slug": "kumo-no-ue-wa-itsumo-hare",
+  "kind": "anime",
+  "title": "Kumo no Ue wa Itsumo, Hare",
+  "titles": {
+    "default": "Kumo no Ue wa Itsumo, Hare",
+    "romaji": "Kumo no Ue wa Itsumo, Hare",
+    "native": "雲の上はいつも、晴れ"
+  },
+  "synonyms": [
+    "Kumo no Ue wa Itsumo, Hare",
+    "雲の上はいつも、晴れ",
+    "Catblue Dynamite",
+    "Catblue: Dynamite",
+    "キャットブルー：ダイナマイト"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b181468-BOsySyuEHoJG.png"
+  ],
+  "references": {
+    "al": {
+      "id": "181468",
+      "url": "https://anilist.co/anime/181468"
+    },
+    "k": {
+      "id": "1645",
+      "url": "https://kitsu.io/anime/1645"
+    },
+    "mal": {
+      "id": "50845",
+      "url": "https://myanimelist.net/anime/50845"
+    },
+    "yt": {
+      "id": "sb_kvStZtwU",
+      "url": "https://www.youtube.com/watch?v=sb_kvStZtwU"
+    }
+  }
+}

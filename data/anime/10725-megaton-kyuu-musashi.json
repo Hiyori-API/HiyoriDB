@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10725,
+  "slug": "megaton-kyuu-musashi",
+  "kind": "anime",
+  "title": "Megaton-kyuu Musashi",
+  "titles": {
+    "default": "Megaton-kyuu Musashi",
+    "romaji": "Megaton-kyuu Musashi",
+    "english": "MEGATON MUSASHI",
+    "native": "メガトン級ムサシ"
+  },
+  "synonyms": [
+    "Megaton-kyuu Musashi",
+    "MEGATON MUSASHI",
+    "メガトン級ムサシ",
+    "Twin Love",
+    "Futakoi",
+    "双恋"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx87502-IukO9bOX8G7V.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "87502",
+      "url": "https://anilist.co/anime/87502"
+    },
+    "cr": {
+      "id": "series/GP5HJ840X/megaton-musashi",
+      "url": "https://www.crunchyroll.com/series/series/GP5HJ840X/megaton-musashi"
+    },
+    "k": {
+      "id": "104",
+      "url": "https://kitsu.io/anime/104"
+    },
+    "mal": {
+      "id": "33737",
+      "url": "https://myanimelist.net/anime/33737"
+    },
+    "t": {
+      "id": "34677",
+      "url": "https://trakt.tv/shows/34677"
+    },
+    "tx": {
+      "id": "musashi_project",
+      "url": "https://twitter.com/musashi_project"
+    }
+  }
+}

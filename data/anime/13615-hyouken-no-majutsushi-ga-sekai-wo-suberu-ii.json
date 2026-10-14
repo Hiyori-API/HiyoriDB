@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13615,
+  "slug": "hyouken-no-majutsushi-ga-sekai-wo-suberu-ii",
+  "kind": "anime",
+  "title": "Hyouken no Majutsushi ga Sekai wo Suberu II",
+  "titles": {
+    "default": "Hyouken no Majutsushi ga Sekai wo Suberu II",
+    "romaji": "Hyouken no Majutsushi ga Sekai wo Suberu II",
+    "english": "The Iceblade Sorcerer Shall Rule the World II",
+    "native": "冰剣の魔術師が世界を統べるⅡ"
+  },
+  "synonyms": [
+    "Hyouken no Majutsushi ga Sekai wo Suberu II",
+    "The Iceblade Sorcerer Shall Rule the World II",
+    "冰剣の魔術師が世界を統べるⅡ",
+    "The Iceblade Sorcerer Shall Rule the World Season 2",
+    "One Piece",
+    "ONE PIECE",
+    "ワンピース"
+  ],
+  "type": "tv",
+  "status": "airing",
+  "season": "fall",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212503-sXBpRZr96c4e.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "212503",
+      "url": "https://anilist.co/anime/212503"
+    },
+    "cr": {
+      "id": "series/GDKHZEP21/the-iceblade-sorcerer-shall-rule-the-world",
+      "url": "https://www.crunchyroll.com/series/series/GDKHZEP21/the-iceblade-sorcerer-shall-rule-the-world"
+    },
+    "k": {
+      "id": "12",
+      "url": "https://kitsu.io/anime/12"
+    },
+    "mal": {
+      "id": "64254",
+      "url": "https://myanimelist.net/anime/64254"
+    },
+    "t": {
+      "id": "37696",
+      "url": "https://trakt.tv/shows/37696"
+    }
+  }
+}

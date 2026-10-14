@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7030,
+  "slug": "hiyokoi-2012",
+  "kind": "anime",
+  "title": "Hiyokoi (2012)",
+  "titles": {
+    "default": "Hiyokoi (2012)",
+    "romaji": "Hiyokoi (2012)",
+    "native": "ひよ恋"
+  },
+  "synonyms": [
+    "Hiyokoi (2012)",
+    "ひよ恋",
+    "Ribbon x Oha Suta Specials",
+    "Ribon x Oha Suta Specials"
+  ],
+  "type": "special",
+  "episodes": 3,
+  "status": "finished",
+  "season": "fall",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15895.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "15895",
+      "url": "https://anilist.co/anime/15895"
+    },
+    "k": {
+      "id": "7335",
+      "url": "https://kitsu.io/anime/7335"
+    },
+    "mal": {
+      "id": "15895",
+      "url": "https://myanimelist.net/anime/15895"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13409,
+  "slug": "osananajimi-to-wa-love-kome-ni-naranai",
+  "kind": "anime",
+  "title": "Osananajimi to wa Love Kome ni Naranai",
+  "titles": {
+    "default": "Osananajimi to wa Love Kome ni Naranai",
+    "romaji": "Osananajimi to wa Love Kome ni Naranai",
+    "english": "You Can't Be In a Rom-Com with Your Childhood Friends!",
+    "native": "幼馴染とはラブコメにならない"
+  },
+  "synonyms": [
+    "Osananajimi to wa Love Kome ni Naranai",
+    "You Can't Be In a Rom-Com with Your Childhood Friends!",
+    "幼馴染とはラブコメにならない",
+    "OsaLove",
+    "幼ラブ",
+    "Osananajimi to wa Love Comedy ni Naranai",
+    "You and I Are Polar Opposites",
+    "正反対な君と僕",
+    "Seihantai na Kimi to Boku"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189565-OHhadYSsd0Bg.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "189565",
+      "url": "https://anilist.co/anime/189565"
+    },
+    "cr": {
+      "id": "series/GT00365622/you-cant-be-in-a-rom-com-with-your-childhood-friends",
+      "url": "https://www.crunchyroll.com/series/series/GT00365622/you-cant-be-in-a-rom-com-with-your-childhood-friends"
+    },
+    "mal": {
+      "id": "61359",
+      "url": "https://myanimelist.net/anime/61359"
+    },
+    "tx": {
+      "id": "love_Osnnjm_wm",
+      "url": "https://twitter.com/love_Osnnjm_wm"
+    }
+  }
+}

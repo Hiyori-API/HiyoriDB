@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10200,
+  "slug": "tabechatta-tte-ii-no-ni-na-2",
+  "kind": "anime",
+  "title": "Tabechatta tte ii no ni na! 2",
+  "titles": {
+    "default": "Tabechatta tte ii no ni na! 2",
+    "romaji": "Tabechatta tte ii no ni na! 2",
+    "native": "食べちゃったっていいのにな!"
+  },
+  "synonyms": [
+    "Tabechatta tte ii no ni na! 2",
+    "食べちゃったっていいのにな!",
+    "You Can Enjoy! 2",
+    "アナザー・ワールド",
+    "Another World"
+  ],
+  "type": "ona",
+  "episodes": 3,
+  "status": "finished",
+  "season": "winter",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108728-g217radf11bE.png"
+  ],
+  "references": {
+    "al": {
+      "id": "108728",
+      "url": "https://anilist.co/anime/108728"
+    },
+    "mal": {
+      "id": "40295",
+      "url": "https://myanimelist.net/anime/40295"
+    }
+  }
+}

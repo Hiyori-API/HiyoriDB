@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14953,
+  "slug": "naniwa-yuukyouden",
+  "kind": "manga",
+  "title": "Naniwa Yuukyouden",
+  "titles": {
+    "default": "Naniwa Yuukyouden"
+  },
+  "synonyms": [
+    "なにわ遊侠伝",
+    "Ranma ½",
+    "Ranma 1/2",
+    "らんま½"
+  ],
+  "type": "manga",
+  "volumes": 25,
+  "status": "finished",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx193866-S6iVbdoZikEd.png"
+  ],
+  "references": {
+    "al": {
+      "id": "9498",
+      "url": "https://anilist.co/anime/9498"
+    },
+    "al_manga": {
+      "id": "9498",
+      "url": "https://anilist.co/manga/9498"
+    }
+  }
+}

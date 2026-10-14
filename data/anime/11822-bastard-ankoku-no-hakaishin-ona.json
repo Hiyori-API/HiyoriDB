@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11822,
+  "slug": "bastard-ankoku-no-hakaishin-ona",
+  "kind": "anime",
+  "title": "BASTARD!!: Ankoku no Hakaishin (ONA)",
+  "titles": {
+    "default": "BASTARD!!: Ankoku no Hakaishin (ONA)",
+    "romaji": "BASTARD!!: Ankoku no Hakaishin (ONA)",
+    "english": "BASTARD!! -Heavy Metal, Dark Fantasy-",
+    "native": "BASTARD!! －暗黒の破壊神－"
+  },
+  "synonyms": [
+    "BASTARD!!: Ankoku no Hakaishin (ONA)",
+    "BASTARD!! -Heavy Metal, Dark Fantasy-",
+    "BASTARD!! －暗黒の破壊神－",
+    "Bastard!! อสูรร้ายจอมราชัน",
+    "Виродок!! Темний бог руйнування",
+    "Word of Honor",
+    "君有云",
+    "Jun You Yun"
+  ],
+  "type": "ona",
+  "episodes": 24,
+  "status": "finished",
+  "season": "summer",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx144677-nn0zdlrGZ4Ir.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "144677",
+      "url": "https://anilist.co/anime/144677"
+    },
+    "mal": {
+      "id": "50953",
+      "url": "https://myanimelist.net/anime/50953"
+    },
+    "nf": {
+      "id": "81281582",
+      "url": "https://www.netflix.com/title/81281582"
+    },
+    "tx": {
+      "id": "bastard_PR",
+      "url": "https://twitter.com/bastard_PR"
+    }
+  }
+}

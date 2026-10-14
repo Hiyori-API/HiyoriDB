@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3293,
+  "slug": "choujin-locke-lord-leon",
+  "kind": "anime",
+  "title": "Choujin Locke: Lord Leon",
+  "titles": {
+    "default": "Choujin Locke: Lord Leon",
+    "romaji": "Choujin Locke: Lord Leon",
+    "english": "Locke the Superman: Lord Leon",
+    "native": "超人ロック ロードレオン"
+  },
+  "synonyms": [
+    "Choujin Locke: Lord Leon",
+    "Locke the Superman: Lord Leon",
+    "超人ロック ロードレオン",
+    "Choujin Locke: Lordleon",
+    "Space Warriors"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "fall",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4014-OL027k9MPn6a.png"
+  ],
+  "references": {
+    "al": {
+      "id": "4014",
+      "url": "https://anilist.co/anime/4014"
+    },
+    "k": {
+      "id": "3412",
+      "url": "https://kitsu.io/anime/3412"
+    },
+    "mal": {
+      "id": "4014",
+      "url": "https://myanimelist.net/anime/4014"
+    }
+  }
+}

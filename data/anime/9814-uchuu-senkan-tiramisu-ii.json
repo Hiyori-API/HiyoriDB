@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9814,
+  "slug": "uchuu-senkan-tiramisu-ii",
+  "kind": "anime",
+  "title": "Uchuu Senkan Tiramisu II",
+  "titles": {
+    "default": "Uchuu Senkan Tiramisu II",
+    "romaji": "Uchuu Senkan Tiramisu II",
+    "english": "Space Battleship Tiramisu ZWEI",
+    "native": "宇宙戦艦ティラミスII"
+  },
+  "synonyms": [
+    "Uchuu Senkan Tiramisu II",
+    "Space Battleship Tiramisu ZWEI",
+    "宇宙戦艦ティラミスII",
+    "Uchuu Senkan Tiramisù",
+    "Space Battleship TIRAMISU Zwei",
+    "AoButa",
+    "Rascal Does Not Dream of Bunny Girl Senpai",
+    "青春ブタ野郎はバニーガール先輩の夢を見ない",
+    "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx102978-Q6xRVTEy22qh.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "102978",
+      "url": "https://anilist.co/anime/102978"
+    },
+    "cr": {
+      "id": "space-battleship-tiramisu",
+      "url": "https://www.crunchyroll.com/series/space-battleship-tiramisu"
+    },
+    "mal": {
+      "id": "37988",
+      "url": "https://myanimelist.net/anime/37988"
+    },
+    "tx": {
+      "id": "tiramisu_anime",
+      "url": "https://twitter.com/tiramisu_anime"
+    }
+  }
+}

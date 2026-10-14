@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11168,
+  "slug": "maiko-san-chi-no-makanai-san",
+  "kind": "anime",
+  "title": "Maiko-san Chi no Makanai-san",
+  "titles": {
+    "default": "Maiko-san Chi no Makanai-san",
+    "romaji": "Maiko-san Chi no Makanai-san",
+    "english": "Kiyo in Kyoto: From the Maiko House",
+    "native": "舞妓さんちのまかないさん"
+  },
+  "synonyms": [
+    "Maiko-san Chi no Makanai-san",
+    "Kiyo in Kyoto: From the Maiko House",
+    "舞妓さんちのまかないさん",
+    "The caterer at the Maiko Manor"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx117067-ez4mvOwk5PSn.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "117067",
+      "url": "https://anilist.co/anime/117067"
+    },
+    "cr": {
+      "id": "kiyo-in-kyoto-from-the-maiko-house",
+      "url": "https://www.crunchyroll.com/series/kiyo-in-kyoto-from-the-maiko-house"
+    },
+    "mal": {
+      "id": "41556",
+      "url": "https://myanimelist.net/anime/41556"
+    }
+  }
+}

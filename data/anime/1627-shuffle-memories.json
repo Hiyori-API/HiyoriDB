@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1627,
+  "slug": "shuffle-memories",
+  "kind": "anime",
+  "title": "Shuffle! Memories",
+  "titles": {
+    "default": "Shuffle! Memories",
+    "romaji": "Shuffle! Memories",
+    "native": "シャッフル！メモリーズ"
+  },
+  "synonyms": [
+    "Shuffle! Memories",
+    "シャッフル！メモリーズ"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1836.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1836",
+      "url": "https://anilist.co/anime/1836"
+    },
+    "k": {
+      "id": "1653",
+      "url": "https://kitsu.io/anime/1653"
+    },
+    "mal": {
+      "id": "1836",
+      "url": "https://myanimelist.net/anime/1836"
+    },
+    "t": {
+      "id": "61400",
+      "url": "https://trakt.tv/shows/61400"
+    }
+  }
+}

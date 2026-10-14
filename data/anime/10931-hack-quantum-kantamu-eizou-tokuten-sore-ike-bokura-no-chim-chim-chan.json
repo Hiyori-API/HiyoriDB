@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10931,
+  "slug": "hack-quantum-kantamu-eizou-tokuten-sore-ike-bokura-no-chim-chim-chan",
+  "kind": "anime",
+  "title": ".hack//Quantum: Kantamu Eizou Tokuten Sore Ike! Bokura no Chim Chim-chan!!",
+  "titles": {
+    "default": ".hack//Quantum: Kantamu Eizou Tokuten Sore Ike! Bokura no Chim Chim-chan!!",
+    "romaji": ".hack//Quantum: Kantamu Eizou Tokuten Sore Ike! Bokura no Chim Chim-chan!!",
+    "native": ".hack//Quantum 映像特典 それいけ！ぼくらのチムチムちゃん！！"
+  },
+  "synonyms": [
+    ".hack//Quantum: Kantamu Eizou Tokuten Sore Ike! Bokura no Chim Chim-chan!!",
+    ".hack//Quantum 映像特典 それいけ！ぼくらのチムチムちゃん！！",
+    ".hack//Quantum Specials",
+    ".hack//Quantum: Go",
+    ".hack//Quantum: Sore ike! Bokura no Chimuchimu-chan!!",
+    ".hack//Quantum: Go, Our Chim Chims!!"
+  ],
+  "type": "special",
+  "episodes": 3,
+  "status": "finished",
+  "season": "winter",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10390.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10390",
+      "url": "https://anilist.co/anime/10390"
+    },
+    "k": {
+      "id": "6161",
+      "url": "https://kitsu.io/anime/6161"
+    },
+    "mal": {
+      "id": "10390",
+      "url": "https://myanimelist.net/anime/10390"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8405,
+  "slug": "four-seasons-fuuka-to-nanami",
+  "kind": "anime",
+  "title": "Four Seasons: Fuuka to Nanami",
+  "titles": {
+    "default": "Four Seasons: Fuuka to Nanami",
+    "romaji": "Four Seasons: Fuuka to Nanami",
+    "english": "Four Seasons: Fuuka and Nanami",
+    "native": "Four Seasons 楓花と七波"
+  },
+  "synonyms": [
+    "Four Seasons: Fuuka to Nanami",
+    "Four Seasons: Fuuka and Nanami",
+    "Four Seasons 楓花と七波",
+    "Four Seasons: Fuuka and Nanami -Master of Torque- Spin-off Episode",
+    "A linchpin",
+    "カナメヲ",
+    "Kanamewo"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98964-I93G4bviIcPQ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98964",
+      "url": "https://anilist.co/anime/98964"
+    },
+    "mal": {
+      "id": "32058",
+      "url": "https://myanimelist.net/anime/32058"
+    }
+  }
+}

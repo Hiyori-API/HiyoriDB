@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8748,
+  "slug": "houkago-initiation",
+  "kind": "anime",
+  "title": "Houkago Initiation",
+  "titles": {
+    "default": "Houkago Initiation",
+    "romaji": "Houkago Initiation",
+    "native": "放課後Initiation"
+  },
+  "synonyms": [
+    "Houkago Initiation",
+    "放課後Initiation",
+    "Ace of Diamond: Second Season OVA",
+    "ダイヤのA[エース]～Second Season OAD～",
+    "Diamond no Ace: Second Season OVA"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21763-VafPS6SFtYWC.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21763",
+      "url": "https://anilist.co/anime/21763"
+    },
+    "mal": {
+      "id": "33153",
+      "url": "https://myanimelist.net/anime/33153"
+    }
+  }
+}

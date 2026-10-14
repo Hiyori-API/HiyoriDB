@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10291,
+  "slug": "soukyuu-no-fafner-dead-aggressor-the-beyond-part-2",
+  "kind": "anime",
+  "title": "Soukyuu no Fafner: Dead Aggressor - THE BEYOND Part 2",
+  "titles": {
+    "default": "Soukyuu no Fafner: Dead Aggressor - THE BEYOND Part 2",
+    "romaji": "Soukyuu no Fafner: Dead Aggressor - THE BEYOND Part 2",
+    "english": "Fafner THE BEYOND Part 2",
+    "native": "蒼穹のファフナー Dead Aggressor THE BEYOND"
+  },
+  "synonyms": [
+    "Soukyuu no Fafner: Dead Aggressor - THE BEYOND Part 2",
+    "Fafner THE BEYOND Part 2",
+    "蒼穹のファフナー Dead Aggressor THE BEYOND",
+    "Soukyuu no Fafner: Dead Aggressor - The Beyond Part 2"
+  ],
+  "type": "movie",
+  "episodes": 3,
+  "status": "finished",
+  "season": "fall",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112308-xwQ3ydS9VQjw.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "112308",
+      "url": "https://anilist.co/anime/112308"
+    },
+    "cr": {
+      "id": "series/G9VHN9QJ4/fafner-the-beyond",
+      "url": "https://www.crunchyroll.com/series/series/G9VHN9QJ4/fafner-the-beyond"
+    },
+    "mal": {
+      "id": "40109",
+      "url": "https://myanimelist.net/anime/40109"
+    },
+    "tx": {
+      "id": "fafnerproject",
+      "url": "https://twitter.com/fafnerproject"
+    }
+  }
+}

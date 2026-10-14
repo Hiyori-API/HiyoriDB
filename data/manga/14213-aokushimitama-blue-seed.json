@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14213,
+  "slug": "aokushimitama-blue-seed",
+  "kind": "manga",
+  "title": "Aokushimitama Blue Seed",
+  "titles": {
+    "default": "Aokushimitama Blue Seed"
+  },
+  "synonyms": [
+    "Blue Seed",
+    "碧奇魂ブルーシード",
+    "Yokohama Kaidashi Kikou",
+    "ヨコハマ買い出し紀行",
+    "Yokohama Shopping Log",
+    "Yokohama Shopping Trip",
+    "Touge"
+  ],
+  "type": "manga",
+  "chapters": 17,
+  "volumes": 2,
+  "status": "finished",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1540.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "998",
+      "url": "https://anilist.co/anime/998"
+    },
+    "al_manga": {
+      "id": "998",
+      "url": "https://anilist.co/manga/998"
+    }
+  }
+}

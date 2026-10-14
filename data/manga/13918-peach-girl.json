@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13918,
+  "slug": "peach-girl",
+  "kind": "manga",
+  "title": "Peach Girl",
+  "titles": {
+    "default": "Peach Girl"
+  },
+  "synonyms": [
+    "Brzoskwinia",
+    "Peach Girl: Change of Heart",
+    "Peach Girl Authentic",
+    "Peach Girl",
+    "ピーチガール",
+    "Cô bé mật đào",
+    "蜜桃女孩",
+    "Peach Girl: Authentic",
+    "Peach Girl Momo - preplanula djevojka"
+  ],
+  "type": "manga",
+  "chapters": 72,
+  "volumes": 18,
+  "status": "finished",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30475-hdPDZBjXHGfM.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "325",
+      "url": "https://anilist.co/anime/325"
+    },
+    "al_manga": {
+      "id": "325",
+      "url": "https://anilist.co/manga/325"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2476,
+  "slug": "shakugan-no-shana-ii-second",
+  "kind": "anime",
+  "title": "Shakugan no Shana II (Second)",
+  "titles": {
+    "default": "Shakugan no Shana II (Second)",
+    "romaji": "Shakugan no Shana II (Second)",
+    "english": "Shakugan no Shana: Season II",
+    "native": "灼眼のシャナⅡ(Second)"
+  },
+  "synonyms": [
+    "Shakugan no Shana II (Second)",
+    "Shakugan no Shana: Season II",
+    "灼眼のシャナⅡ(Second)",
+    "Shakugan no Shana Second",
+    "Shakugan no Shana 2",
+    "ชานะ นักรบเนตรอัคคี ภาคที่ 2",
+    "Hoả nhãn của Shana 2",
+    "灼眼のシャナII –Second–"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "fall",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2787-ACpKjLdA6T5Z.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2787",
+      "url": "https://anilist.co/anime/2787"
+    },
+    "cr": {
+      "id": "shakugan-no-shana",
+      "url": "https://www.crunchyroll.com/series/shakugan-no-shana"
+    },
+    "k": {
+      "id": "2543",
+      "url": "https://kitsu.io/anime/2543"
+    },
+    "mal": {
+      "id": "2787",
+      "url": "https://myanimelist.net/anime/2787"
+    },
+    "t": {
+      "id": "61174",
+      "url": "https://trakt.tv/shows/61174"
+    }
+  }
+}

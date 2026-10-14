@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15777,
+  "slug": "puchimas-petit-idolm-ster",
+  "kind": "manga",
+  "title": "Puchimas!: PETIT IDOLM@STER",
+  "titles": {
+    "default": "Puchimas!: PETIT IDOLM@STER"
+  },
+  "synonyms": [
+    "ぷちます! -PETIT IDOLM@STER-",
+    "Yuyushiki",
+    "ゆゆ式",
+    "Yuyu-shiki"
+  ],
+  "type": "manga",
+  "status": "publishing",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx59899-ytOTduOtlFcW.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "117398",
+      "url": "https://anilist.co/anime/18781"
+    },
+    "al_manga": {
+      "id": "117398",
+      "url": "https://anilist.co/manga/117398"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4010,
+  "slug": "helter-skelter-hakudaku-no-mura",
+  "kind": "anime",
+  "title": "Helter Skelter: Hakudaku no Mura",
+  "titles": {
+    "default": "Helter Skelter: Hakudaku no Mura",
+    "romaji": "Helter Skelter: Hakudaku no Mura",
+    "native": "ヘルタースケルター ～白濁の村～"
+  },
+  "synonyms": [
+    "Helter Skelter: Hakudaku no Mura",
+    "ヘルタースケルター ～白濁の村～",
+    "Dogs: Bullets & Carnage",
+    "ドッグズ／バレッツ＆カーネイジ",
+    "DOGS",
+    "Dogs: Bullets and Carnage",
+    "Dogs: Stray Dogs Howling in the Dark"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "winter",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5651.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5651",
+      "url": "https://anilist.co/anime/5651"
+    },
+    "k": {
+      "id": "4188",
+      "url": "https://kitsu.io/anime/4188"
+    },
+    "mal": {
+      "id": "5651",
+      "url": "https://myanimelist.net/anime/5651"
+    }
+  }
+}

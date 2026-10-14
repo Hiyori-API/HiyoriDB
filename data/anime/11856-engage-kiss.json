@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11856,
+  "slug": "engage-kiss",
+  "kind": "anime",
+  "title": "Engage Kiss",
+  "titles": {
+    "default": "Engage Kiss",
+    "romaji": "Engage Kiss"
+  },
+  "synonyms": [
+    "Engage Kiss",
+    "エンゲージ・キス",
+    "Project Engage",
+    "Клятвенный поцелуй",
+    "LycoReco",
+    "Lycoris Recoil",
+    "リコリス・リコイル"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146625-DmXjpJ2y8fDn.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "146625",
+      "url": "https://anilist.co/anime/146625"
+    },
+    "cr": {
+      "id": "engage-kiss",
+      "url": "https://www.crunchyroll.com/series/engage-kiss"
+    },
+    "mal": {
+      "id": "51417",
+      "url": "https://myanimelist.net/anime/51417"
+    },
+    "nf": {
+      "id": "81620015",
+      "url": "https://www.netflix.com/title/81620015"
+    },
+    "tx": {
+      "id": "engage_kiss",
+      "url": "https://twitter.com/engage_kiss"
+    }
+  }
+}

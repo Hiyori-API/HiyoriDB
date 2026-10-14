@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5467,
+  "slug": "isaku-tsumi-to-batsu",
+  "kind": "anime",
+  "title": "Isaku: Tsumi to Batsu",
+  "titles": {
+    "default": "Isaku: Tsumi to Batsu",
+    "romaji": "Isaku: Tsumi to Batsu",
+    "native": "遺作 終劇「罪と罰」"
+  },
+  "synonyms": [
+    "Isaku: Tsumi to Batsu",
+    "遺作 終劇「罪と罰」",
+    "Isaku: Crime And Punishment",
+    "Isaku Recap",
+    "Vampiyan Kids: Pilot",
+    "なんちゃってバンパイヤン",
+    "Nanchatte Vampiyan Pilot"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b125395-bLzxEyBh14Zw.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "125395",
+      "url": "https://anilist.co/anime/125395"
+    },
+    "k": {
+      "id": "3604",
+      "url": "https://kitsu.io/anime/3604"
+    },
+    "mal": {
+      "id": "43015",
+      "url": "https://myanimelist.net/anime/43015"
+    }
+  }
+}

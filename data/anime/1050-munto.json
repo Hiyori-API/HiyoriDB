@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1050,
+  "slug": "munto",
+  "kind": "anime",
+  "title": "MUNTO",
+  "titles": {
+    "default": "MUNTO",
+    "romaji": "MUNTO",
+    "english": "Munto",
+    "native": "MUNTO [ムント]"
+  },
+  "synonyms": [
+    "MUNTO",
+    "Munto",
+    "MUNTO [ムント]"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1174-MVifqzK4bsCo.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1174",
+      "url": "https://anilist.co/anime/1174"
+    },
+    "k": {
+      "id": "1054",
+      "url": "https://kitsu.io/anime/1054"
+    },
+    "mal": {
+      "id": "1174",
+      "url": "https://myanimelist.net/anime/1174"
+    }
+  }
+}

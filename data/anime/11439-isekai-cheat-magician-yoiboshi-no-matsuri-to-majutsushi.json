@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11439,
+  "slug": "isekai-cheat-magician-yoiboshi-no-matsuri-to-majutsushi",
+  "kind": "anime",
+  "title": "Isekai Cheat Magician: Yoiboshi no Matsuri to Majutsushi",
+  "titles": {
+    "default": "Isekai Cheat Magician: Yoiboshi no Matsuri to Majutsushi",
+    "romaji": "Isekai Cheat Magician: Yoiboshi no Matsuri to Majutsushi",
+    "english": "Isekai Cheat Magician: Magicians and the Starry Night Festival",
+    "native": "異世界チート魔術師 宵星の祭りと魔術師"
+  },
+  "synonyms": [
+    "Isekai Cheat Magician: Yoiboshi no Matsuri to Majutsushi",
+    "Isekai Cheat Magician: Magicians and the Starry Night Festival",
+    "異世界チート魔術師 宵星の祭りと魔術師",
+    "異世界チート魔術師 OVA",
+    "Seikai no Senki Special",
+    "星界の戦旗 特別編",
+    "Seikai no Senki Movie",
+    "Battle Flag of the Stars Special Edition",
+    "Seikai no Senki Tokubetsuhen"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136263-Fp6162dULWbW.png"
+  ],
+  "references": {
+    "al": {
+      "id": "136263",
+      "url": "https://anilist.co/anime/136263"
+    },
+    "cr": {
+      "id": "series/GY79GJX1R/isekai-cheat-magician",
+      "url": "https://www.crunchyroll.com/series/series/GY79GJX1R/isekai-cheat-magician"
+    },
+    "k": {
+      "id": "366",
+      "url": "https://kitsu.io/anime/366"
+    },
+    "mal": {
+      "id": "49297",
+      "url": "https://myanimelist.net/anime/49297"
+    },
+    "tx": {
+      "id": "isekai_cheat_tv",
+      "url": "https://twitter.com/isekai_cheat_tv"
+    }
+  }
+}

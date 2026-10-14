@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6693,
+  "slug": "another",
+  "kind": "anime",
+  "title": "Another",
+  "titles": {
+    "default": "Another",
+    "romaji": "Another",
+    "native": "アナザー"
+  },
+  "synonyms": [
+    "Another",
+    "アナザー"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11111-gvvE5bBYsyFo.png"
+  ],
+  "references": {
+    "al": {
+      "id": "11111",
+      "url": "https://anilist.co/anime/11111"
+    },
+    "cr": {
+      "id": "another",
+      "url": "https://www.crunchyroll.com/series/another"
+    },
+    "k": {
+      "id": "6462",
+      "url": "https://kitsu.io/anime/6462"
+    },
+    "mal": {
+      "id": "11111",
+      "url": "https://myanimelist.net/anime/11111"
+    },
+    "nf": {
+      "id": "80241072",
+      "url": "https://www.netflix.com/title/80241072"
+    },
+    "t": {
+      "id": "42364",
+      "url": "https://trakt.tv/shows/42364"
+    }
+  }
+}

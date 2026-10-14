@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4869,
+  "slug": "kuroi-ame-ni-utarete",
+  "kind": "anime",
+  "title": "Kuroi Ame ni Utarete",
+  "titles": {
+    "default": "Kuroi Ame ni Utarete",
+    "romaji": "Kuroi Ame ni Utarete",
+    "native": "黒い雨に打たれて"
+  },
+  "synonyms": [
+    "Kuroi Ame ni Utarete",
+    "黒い雨に打たれて",
+    "Beaten by Black Rain",
+    "Struck by Black Rain"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1984,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19135.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "19135",
+      "url": "https://anilist.co/anime/19135"
+    },
+    "k": {
+      "id": "7805",
+      "url": "https://kitsu.io/anime/7805"
+    },
+    "mal": {
+      "id": "19135",
+      "url": "https://myanimelist.net/anime/19135"
+    }
+  }
+}

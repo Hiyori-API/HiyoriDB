@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13312,
+  "slug": "saikyou-degarashi-ouji-no-anyaku-teii-arasoi-munou-wo-enjiru-ss-rank-ouji-wa-koui-keishou-sen-wo-kage-kara-shihai-suru",
+  "kind": "anime",
+  "title": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi: Munou wo Enjiru SS Rank Ouji wa Koui Keishou-sen wo Kage kara Shihai suru",
+  "titles": {
+    "default": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi: Munou wo Enjiru SS Rank Ouji wa Koui Keishou-sen wo Kage kara Shihai suru",
+    "romaji": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi: Munou wo Enjiru SS Rank Ouji wa Koui Keishou-sen wo Kage kara Shihai suru",
+    "english": "The Insipid Prince's Furtive Grab for the Throne",
+    "native": "最強出涸らし皇子の暗躍帝位争い 無能を演じるSSランク皇子は皇位継承戦を影から支配する"
+  },
+  "synonyms": [
+    "Saikyou Degarashi Ouji no Anyaku Teii Arasoi: Munou wo Enjiru SS Rank Ouji wa Koui Keishou-sen wo Kage kara Shihai suru",
+    "The Insipid Prince's Furtive Grab for the Throne",
+    "最強出涸らし皇子の暗躍帝位争い 無能を演じるSSランク皇子は皇位継承戦を影から支配する",
+    "The Strongest Dull Prince Secret Battle for the Throne. ~I Don’t Care About the Throne but Since I Don’t Want to Die, I Think I Will Make My Little Brother the Emperor~",
+    "出涸らし皇子",
+    "Degarashi Ouji",
+    "DearS",
+    "ディアーズ"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169582-quL8VMg45fcu.png"
+  ],
+  "references": {
+    "al": {
+      "id": "169582",
+      "url": "https://anilist.co/anime/169582"
+    },
+    "cr": {
+      "id": "series/GT00378119/the-insipid-princes-furtive-grab-for-the-throne",
+      "url": "https://www.crunchyroll.com/series/series/GT00378119/the-insipid-princes-furtive-grab-for-the-throne"
+    },
+    "k": {
+      "id": "44",
+      "url": "https://kitsu.io/anime/44"
+    },
+    "mal": {
+      "id": "56736",
+      "url": "https://myanimelist.net/anime/56736"
+    },
+    "t": {
+      "id": "61051",
+      "url": "https://trakt.tv/shows/61051"
+    },
+    "tx": {
+      "id": "sn_degarashi",
+      "url": "https://twitter.com/sn_degarashi"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4097,
+  "slug": "tsuru-ni-notte-tomoko-no-bouken",
+  "kind": "anime",
+  "title": "Tsuru ni Notte: Tomoko no Bouken",
+  "titles": {
+    "default": "Tsuru ni Notte: Tomoko no Bouken",
+    "romaji": "Tsuru ni Notte: Tomoko no Bouken",
+    "english": "On A Paper Crane: Tomoko's Adventure",
+    "native": "つるにのって とも子の冒険"
+  },
+  "synonyms": [
+    "Tsuru ni Notte: Tomoko no Bouken",
+    "On A Paper Crane: Tomoko's Adventure",
+    "つるにのって とも子の冒険",
+    "Tomoko Adventure",
+    "L'Oiseau Bonheur"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5917.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5917",
+      "url": "https://anilist.co/anime/5917"
+    },
+    "k": {
+      "id": "4335",
+      "url": "https://kitsu.io/anime/4335"
+    },
+    "mal": {
+      "id": "5917",
+      "url": "https://myanimelist.net/anime/5917"
+    }
+  }
+}

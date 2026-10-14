@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12990,
+  "slug": "salaryman-ga-isekai-ni-ittara-shitennou-ni-natta-hanashi",
+  "kind": "anime",
+  "title": "Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi",
+  "titles": {
+    "default": "Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi",
+    "romaji": "Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi",
+    "english": "Headhunted to Another World: From Salaryman to Big Four!",
+    "native": "サラリーマンが異世界に行ったら四天王になった話"
+  },
+  "synonyms": [
+    "Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi",
+    "Headhunted to Another World: From Salaryman to Big Four!",
+    "サラリーマンが異世界に行ったら四天王になった話",
+    "Salaryman Big 4",
+    "Nhân viên Văn phòng được Triệu hồi thành Tứ Đại Thiên Vương ở Thế giới khác",
+    "平凡上班族到異世界當上了四天王的故事",
+    "Black Jack ONA",
+    "ブラック・ジャック(インターネット版)",
+    "Black Jack: Internet-han"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179689-kmlqdU3IbxeM.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "179689",
+      "url": "https://anilist.co/anime/179689"
+    },
+    "cr": {
+      "id": "series/GDKHZEJPQ/headhunted-to-another-world-from-salaryman-to-big-four",
+      "url": "https://www.crunchyroll.com/series/series/GDKHZEJPQ/headhunted-to-another-world-from-salaryman-to-big-four"
+    },
+    "k": {
+      "id": "4904",
+      "url": "https://kitsu.io/anime/4904"
+    },
+    "mal": {
+      "id": "59349",
+      "url": "https://myanimelist.net/anime/59349"
+    }
+  }
+}

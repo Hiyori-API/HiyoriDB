@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4917,
+  "slug": "katsugeki-shoujo-tanteidan",
+  "kind": "anime",
+  "title": "Katsugeki Shoujo Tanteidan",
+  "titles": {
+    "default": "Katsugeki Shoujo Tanteidan",
+    "romaji": "Katsugeki Shoujo Tanteidan",
+    "native": "活劇少女探偵団"
+  },
+  "synonyms": [
+    "Katsugeki Shoujo Tanteidan",
+    "活劇少女探偵団",
+    "Girl Detective Club"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9491.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9491",
+      "url": "https://anilist.co/anime/9491"
+    },
+    "k": {
+      "id": "5750",
+      "url": "https://kitsu.io/anime/5750"
+    },
+    "mal": {
+      "id": "9491",
+      "url": "https://myanimelist.net/anime/9491"
+    }
+  }
+}

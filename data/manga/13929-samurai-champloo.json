@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13929,
+  "slug": "samurai-champloo",
+  "kind": "manga",
+  "title": "Samurai Champloo",
+  "titles": {
+    "default": "Samurai Champloo"
+  },
+  "synonyms": [
+    "Samurai Champloo",
+    "サムライチャンプルー"
+  ],
+  "type": "manga",
+  "chapters": 10,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30512-L7FWQ9Dj6dHj.png"
+  ],
+  "references": {
+    "al": {
+      "id": "205",
+      "url": "https://anilist.co/anime/205"
+    },
+    "al_manga": {
+      "id": "205",
+      "url": "https://anilist.co/manga/205"
+    }
+  }
+}

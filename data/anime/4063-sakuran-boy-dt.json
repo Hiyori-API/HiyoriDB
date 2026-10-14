@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4063,
+  "slug": "sakuran-boy-dt",
+  "kind": "anime",
+  "title": "Sakuran BOY DT",
+  "titles": {
+    "default": "Sakuran BOY DT",
+    "romaji": "Sakuran BOY DT",
+    "native": "さくらんBOY DT"
+  },
+  "synonyms": [
+    "Sakuran BOY DT",
+    "さくらんBOY DT",
+    "Sakuran Boy DT"
+  ],
+  "type": "tv",
+  "episodes": 11,
+  "status": "finished",
+  "season": "winter",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5810.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5810",
+      "url": "https://anilist.co/anime/5810"
+    },
+    "k": {
+      "id": "4282",
+      "url": "https://kitsu.io/anime/4282"
+    },
+    "mal": {
+      "id": "5810",
+      "url": "https://myanimelist.net/anime/5810"
+    }
+  }
+}

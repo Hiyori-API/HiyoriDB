@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1400,
+  "slug": "gift-eternal-rainbow",
+  "kind": "anime",
+  "title": "Gift: eternal rainbow",
+  "titles": {
+    "default": "Gift: eternal rainbow",
+    "romaji": "Gift: eternal rainbow",
+    "native": "ギフト～ eternal rainbow"
+  },
+  "synonyms": [
+    "Gift: eternal rainbow",
+    "ギフト～ eternal rainbow",
+    "Happiness!",
+    "はぴねす！"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1581-7FpczGCrgGBf.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1581",
+      "url": "https://anilist.co/anime/1581"
+    },
+    "cr": {
+      "id": "happiness",
+      "url": "https://www.crunchyroll.com/series/happiness"
+    },
+    "k": {
+      "id": "1410",
+      "url": "https://kitsu.io/anime/1410"
+    },
+    "mal": {
+      "id": "1581",
+      "url": "https://myanimelist.net/anime/1581"
+    },
+    "t": {
+      "id": "94419",
+      "url": "https://trakt.tv/shows/94419"
+    }
+  }
+}

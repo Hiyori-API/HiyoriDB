@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3261,
+  "slug": "tales-of-symphonia-the-animation-kratos-sensei-no-private-lesson",
+  "kind": "anime",
+  "title": "Tales of Symphonia The Animation: Kratos-sensei no Private Lesson",
+  "titles": {
+    "default": "Tales of Symphonia The Animation: Kratos-sensei no Private Lesson",
+    "romaji": "Tales of Symphonia The Animation: Kratos-sensei no Private Lesson",
+    "native": "クラトス先生の プライべートレスン"
+  },
+  "synonyms": [
+    "Tales of Symphonia The Animation: Kratos-sensei no Private Lesson",
+    "クラトス先生の プライべートレスン",
+    "Tales of Symphonia The Animation: Sylvarant-hen Special",
+    "Tales of Symphonia The Animation: Sylvarant Chapter - Professor Kratos' Private Lesson",
+    "Miyori's Forest",
+    "Miyori no Mori",
+    "ミヨリの森"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3954.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3954",
+      "url": "https://anilist.co/anime/3954"
+    },
+    "k": {
+      "id": "2511",
+      "url": "https://kitsu.io/anime/2511"
+    },
+    "mal": {
+      "id": "3954",
+      "url": "https://myanimelist.net/anime/3954"
+    }
+  }
+}

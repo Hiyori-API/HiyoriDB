@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11498,
+  "slug": "massara",
+  "kind": "anime",
+  "title": "Massara",
+  "titles": {
+    "default": "Massara",
+    "romaji": "Massara",
+    "native": "まっさら"
+  },
+  "synonyms": [
+    "Massara",
+    "まっさら",
+    "Catblue Dynamite",
+    "Catblue: Dynamite",
+    "キャットブルー：ダイナマイト"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142052-whTWGQAHjETz.png"
+  ],
+  "references": {
+    "al": {
+      "id": "142052",
+      "url": "https://anilist.co/anime/142052"
+    },
+    "k": {
+      "id": "1645",
+      "url": "https://kitsu.io/anime/1645"
+    },
+    "mal": {
+      "id": "50597",
+      "url": "https://myanimelist.net/anime/50597"
+    },
+    "yt": {
+      "id": "JJThg5VjPvk",
+      "url": "https://www.youtube.com/watch?v=JJThg5VjPvk"
+    }
+  }
+}

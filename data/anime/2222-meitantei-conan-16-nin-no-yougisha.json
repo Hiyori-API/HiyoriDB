@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2222,
+  "slug": "meitantei-conan-16-nin-no-yougisha",
+  "kind": "anime",
+  "title": "Meitantei Conan: 16 Nin no Yougisha",
+  "titles": {
+    "default": "Meitantei Conan: 16 Nin no Yougisha",
+    "romaji": "Meitantei Conan: 16 Nin no Yougisha",
+    "english": "Case Closed: 16 Suspects",
+    "native": "名探偵コナン 16人の容疑者!?"
+  },
+  "synonyms": [
+    "Meitantei Conan: 16 Nin no Yougisha",
+    "Case Closed: 16 Suspects",
+    "名探偵コナン 16人の容疑者!?",
+    "Detective Conan OVA 02: 16 Suspects",
+    "Case Closed OVA 02: 16 Suspects"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2512.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2512",
+      "url": "https://anilist.co/anime/2512"
+    },
+    "k": {
+      "id": "2278",
+      "url": "https://kitsu.io/anime/2278"
+    },
+    "mal": {
+      "id": "2512",
+      "url": "https://myanimelist.net/anime/2512"
+    },
+    "t": {
+      "id": "30849",
+      "url": "https://trakt.tv/shows/30849"
+    }
+  }
+}

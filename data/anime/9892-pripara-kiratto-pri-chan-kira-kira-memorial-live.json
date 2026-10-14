@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9892,
+  "slug": "pripara-kiratto-pri-chan-kira-kira-memorial-live",
+  "kind": "anime",
+  "title": "PriPara & Kiratto Pri☆Chan: Kira Kira Memorial Live",
+  "titles": {
+    "default": "PriPara & Kiratto Pri☆Chan: Kira Kira Memorial Live",
+    "romaji": "PriPara & Kiratto Pri☆Chan: Kira Kira Memorial Live",
+    "native": "劇場版 プリパラ＆キラッとプリ☆チャン ～きらきらメモリアルライブ～"
+  },
+  "synonyms": [
+    "PriPara & Kiratto Pri☆Chan: Kira Kira Memorial Live",
+    "劇場版 プリパラ＆キラッとプリ☆チャン ～きらきらメモリアルライブ～",
+    "Mint",
+    "MINT"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx107755-pKG3hnsGpniQ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "107755",
+      "url": "https://anilist.co/anime/107755"
+    },
+    "k": {
+      "id": "8098",
+      "url": "https://kitsu.io/anime/8098"
+    },
+    "mal": {
+      "id": "37398",
+      "url": "https://myanimelist.net/anime/37398"
+    },
+    "tx": {
+      "id": "prichan_PR",
+      "url": "https://twitter.com/prichan_PR"
+    }
+  }
+}

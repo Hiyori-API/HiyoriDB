@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11455,
+  "slug": "deji-meets-girl",
+  "kind": "anime",
+  "title": "Deji Meets Girl",
+  "titles": {
+    "default": "Deji Meets Girl",
+    "romaji": "Deji Meets Girl",
+    "english": "Deiji Meets Girl",
+    "native": "でーじミーツガール"
+  },
+  "synonyms": [
+    "Deji Meets Girl",
+    "Deiji Meets Girl",
+    "でーじミーツガール",
+    "Ring ni Kakero 1",
+    "リングにかけろ１",
+    "Put it all in the Ring"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137227-9yb8GJXK964L.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "137227",
+      "url": "https://anilist.co/anime/137227"
+    },
+    "k": {
+      "id": "14",
+      "url": "https://kitsu.io/anime/14"
+    },
+    "mal": {
+      "id": "49505",
+      "url": "https://myanimelist.net/anime/49505"
+    },
+    "t": {
+      "id": "69507",
+      "url": "https://trakt.tv/shows/69507"
+    },
+    "tx": {
+      "id": "dejimeetsgirl",
+      "url": "https://twitter.com/dejimeetsgirl"
+    }
+  }
+}

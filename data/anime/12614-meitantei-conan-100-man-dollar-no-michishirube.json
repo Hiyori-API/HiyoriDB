@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12614,
+  "slug": "meitantei-conan-100-man-dollar-no-michishirube",
+  "kind": "anime",
+  "title": "Meitantei Conan: 100-man Dollar no Michishirube",
+  "titles": {
+    "default": "Meitantei Conan: 100-man Dollar no Michishirube",
+    "romaji": "Meitantei Conan: 100-man Dollar no Michishirube",
+    "english": "Detective Conan: The Million-dollar Pentagram",
+    "native": "名探偵コナン 100万ドルの五稜星"
+  },
+  "synonyms": [
+    "Meitantei Conan: 100-man Dollar no Michishirube",
+    "Detective Conan: The Million-dollar Pentagram",
+    "名探偵コナン 100万ドルの五稜星",
+    "Meitantei Conan Movie 27",
+    "Detective Conan Movie 27",
+    "Meitantei Conan: Hyaku Man Doru no Michishirube",
+    "Case Closed: The Million Dollar Star",
+    "Détective Conan: l'Étoile à 1 Million de dollars",
+    "Detective Conan: The Million Dollar Pentagram",
+    "Detektiv Conan: Das 1-Million-Dollar-Pentagramm",
+    "Detective Conan: Il pentagramma da un milione di dollari",
+    "Detective Conan: O Pentagrama de Milhões de Dólares",
+    "Meitantei Conan: Hyakuman Doru no Michishirube",
+    "Detective Conan Movie 27: The Million-Dollar Pentagram",
+    "Meitantei Conan Movie 27: 100-man Dollar no Michishirube"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2024,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169754-7QA6x4pbOiJX.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "169754",
+      "url": "https://anilist.co/anime/169754"
+    },
+    "mal": {
+      "id": "56785",
+      "url": "https://myanimelist.net/anime/56785"
+    },
+    "tx": {
+      "id": "conan_movie",
+      "url": "https://twitter.com/conan_movie"
+    }
+  }
+}

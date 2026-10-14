@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15316,
+  "slug": "kimi-ga-nozomu-eien",
+  "kind": "manga",
+  "title": "Kimi ga Nozomu Eien",
+  "titles": {
+    "default": "Kimi ga Nozomu Eien"
+  },
+  "synonyms": [
+    "Rumbling Hearts",
+    "君が望む永遠",
+    "Devil May Cry",
+    "デビル メイ クライ",
+    "DMC",
+    "Devil May Cry 2"
+  ],
+  "type": "novel",
+  "volumes": 2,
+  "status": "finished",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx162974-TIr2sh9CxQNQ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1856",
+      "url": "https://anilist.co/anime/3318"
+    },
+    "al_manga": {
+      "id": "1856",
+      "url": "https://anilist.co/manga/1856"
+    }
+  }
+}

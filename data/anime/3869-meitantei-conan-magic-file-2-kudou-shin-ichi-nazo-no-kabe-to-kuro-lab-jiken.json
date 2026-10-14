@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3869,
+  "slug": "meitantei-conan-magic-file-2-kudou-shin-ichi-nazo-no-kabe-to-kuro-lab-jiken",
+  "kind": "anime",
+  "title": "Meitantei Conan Magic File 2: Kudou Shin'ichi Nazo no Kabe to Kuro Lab Jiken",
+  "titles": {
+    "default": "Meitantei Conan Magic File 2: Kudou Shin'ichi Nazo no Kabe to Kuro Lab Jiken",
+    "romaji": "Meitantei Conan Magic File 2: Kudou Shin'ichi Nazo no Kabe to Kuro Lab Jiken",
+    "english": "Case Closed Magic File 2: Kudou Shinichi - The Case of the Mysterious Wall and the Black Lab",
+    "native": "名探偵コナンMagic File 2 ～工藤新一 謎の壁と黒ラブ事件～"
+  },
+  "synonyms": [
+    "Meitantei Conan Magic File 2: Kudou Shin'ichi Nazo no Kabe to Kuro Lab Jiken",
+    "Case Closed Magic File 2: Kudou Shinichi - The Case of the Mysterious Wall and the Black Lab",
+    "名探偵コナンMagic File 2 ～工藤新一 謎の壁と黒ラブ事件～",
+    "Detective Conan Movie 12 Side-Story OVA: Kudou Shinichi - The Case of the Mysterious Wall and the Black Lab",
+    "Detective Conan Magic File 2: Kudou Shin'ichi Nazo no Kabe to Kuro Lab Jiken",
+    "Detective Conan Magic File 2: Kudou Shinichi - The Case of the Mysterious Wall and the Black Lab"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5348-tE3vO3tcPVcR.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5348",
+      "url": "https://anilist.co/anime/5348"
+    },
+    "k": {
+      "id": "4068",
+      "url": "https://kitsu.io/anime/4068"
+    },
+    "mal": {
+      "id": "5348",
+      "url": "https://myanimelist.net/anime/5348"
+    }
+  }
+}

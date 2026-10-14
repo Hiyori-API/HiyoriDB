@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3794,
+  "slug": "kara-no-kyoukai-boukyaku-rokuon",
+  "kind": "anime",
+  "title": "Kara no Kyoukai: Boukyaku Rokuon",
+  "titles": {
+    "default": "Kara no Kyoukai: Boukyaku Rokuon",
+    "romaji": "Kara no Kyoukai: Boukyaku Rokuon",
+    "english": "the Garden of sinners Chapter 6: Fairy Tale. (Oblivion Recording)",
+    "native": "空の境界 忘却録音"
+  },
+  "synonyms": [
+    "Kara no Kyoukai: Boukyaku Rokuon",
+    "the Garden of sinners Chapter 6: Fairy Tale. (Oblivion Recording)",
+    "空の境界 忘却録音",
+    "Chocolate Underground: Bokura no Chocolate Sensou",
+    "チョコレート・アンダーグラウンド　ぼくらのチョコレート戦争 スペシャル・エディション",
+    "Chocolate Underground Theatrical Version",
+    "Chocolate Underground the Movie"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5204-6PdYdIXswcEo.png"
+  ],
+  "references": {
+    "al": {
+      "id": "5204",
+      "url": "https://anilist.co/anime/5204"
+    },
+    "cr": {
+      "id": "the-garden-of-sinners/episode-6-oblivion-recording-fairy-tale-763079",
+      "url": "https://www.crunchyroll.com/series/the-garden-of-sinners/episode-6-oblivion-recording-fairy-tale-763079"
+    },
+    "k": {
+      "id": "4006",
+      "url": "https://kitsu.io/anime/4006"
+    },
+    "mal": {
+      "id": "5204",
+      "url": "https://myanimelist.net/anime/5204"
+    }
+  }
+}

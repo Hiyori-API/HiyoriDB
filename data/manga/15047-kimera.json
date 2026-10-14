@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15047,
+  "slug": "kimera",
+  "kind": "manga",
+  "title": "Kimera",
+  "titles": {
+    "default": "Kimera"
+  },
+  "synonyms": [
+    "Kimera",
+    "キメラ",
+    "KI・ME・RA",
+    "Fushigi Yugi",
+    "Fushigi Yuugi",
+    "ふしぎ遊戯",
+    "Mysterious Play",
+    "Curious Play"
+  ],
+  "type": "manga",
+  "chapters": 10,
+  "volumes": 2,
+  "status": "finished",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b47037-lFTaMrMrsgqk.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2592",
+      "url": "https://anilist.co/anime/2592"
+    },
+    "al_manga": {
+      "id": "2592",
+      "url": "https://anilist.co/manga/2592"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10974,
+  "slug": "sword-art-offline",
+  "kind": "anime",
+  "title": "Sword Art Offline",
+  "titles": {
+    "default": "Sword Art Offline",
+    "romaji": "Sword Art Offline",
+    "english": "Sword Art OFFline",
+    "native": "そーどあーと・おふらいん"
+  },
+  "synonyms": [
+    "Sword Art Offline",
+    "Sword Art OFFline",
+    "そーどあーと・おふらいん",
+    "Sword Art Online: Sword Art Offline",
+    "Sword Art Online Specials",
+    "S.A.O Specials",
+    "SAO Specials"
+  ],
+  "type": "special",
+  "episodes": 9,
+  "status": "finished",
+  "season": "fall",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16099.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "16099",
+      "url": "https://anilist.co/anime/16099"
+    },
+    "k": {
+      "id": "7372",
+      "url": "https://kitsu.io/anime/7372"
+    },
+    "mal": {
+      "id": "16099",
+      "url": "https://myanimelist.net/anime/16099"
+    },
+    "t": {
+      "id": "45529",
+      "url": "https://trakt.tv/shows/45529"
+    }
+  }
+}

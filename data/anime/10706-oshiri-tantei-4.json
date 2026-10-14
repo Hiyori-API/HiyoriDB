@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10706,
+  "slug": "oshiri-tantei-4",
+  "kind": "anime",
+  "title": "Oshiri Tantei 4",
+  "titles": {
+    "default": "Oshiri Tantei 4",
+    "romaji": "Oshiri Tantei 4",
+    "native": "おしりたんてい (第4シリーズ)"
+  },
+  "synonyms": [
+    "Oshiri Tantei 4",
+    "おしりたんてい (第4シリーズ)",
+    "Butt Detective 4",
+    "Sin-ui Tap",
+    "신의 탑",
+    "Tower of God",
+    "神之塔 -Tower of God-",
+    "Kami no Tou"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132696-TIe7Ebn0vVSP.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "132696",
+      "url": "https://anilist.co/anime/132696"
+    },
+    "mal": {
+      "id": "41778",
+      "url": "https://myanimelist.net/anime/41778"
+    }
+  }
+}

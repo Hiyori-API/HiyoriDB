@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1591,
+  "slug": "dirty-pair-movie",
+  "kind": "anime",
+  "title": "Dirty Pair (Movie)",
+  "titles": {
+    "default": "Dirty Pair (Movie)",
+    "romaji": "Dirty Pair (Movie)",
+    "english": "Dirty Pair: Project Eden",
+    "native": "劇場版 ダーティペア"
+  },
+  "synonyms": [
+    "Dirty Pair (Movie)",
+    "Dirty Pair: Project Eden",
+    "劇場版 ダーティペア",
+    "Dirty Pair: The Movie",
+    "Wicked City",
+    "Youjuu Toshi",
+    "妖獣都市",
+    "Demon Beast City",
+    "Supernatural Beast City",
+    "Yoju Toshi"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx1796-g0msTUQ8Y1zN.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1796",
+      "url": "https://anilist.co/anime/1796"
+    },
+    "k": {
+      "id": "992",
+      "url": "https://kitsu.io/anime/992"
+    },
+    "mal": {
+      "id": "1796",
+      "url": "https://myanimelist.net/anime/1796"
+    },
+    "yt": {
+      "id": "gdZtxSL5WM0",
+      "url": "https://www.youtube.com/watch?v=gdZtxSL5WM0"
+    }
+  }
+}

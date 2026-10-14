@@ -1,0 +1,58 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10153,
+  "slug": "beastars",
+  "kind": "anime",
+  "title": "BEASTARS",
+  "titles": {
+    "default": "BEASTARS",
+    "romaji": "BEASTARS"
+  },
+  "synonyms": [
+    "BEASTARS",
+    "ビースターズ",
+    "BEASTARS - O Lobo Bom",
+    "חייתיים",
+    "บีสตาร์",
+    "Выдающиеся звери",
+    "براءة ذئب",
+    "비스타즈",
+    "Ring ni Kakero 1",
+    "リングにかけろ１",
+    "Put it all in the Ring"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx107660-hgknnyaLchJW.png"
+  ],
+  "references": {
+    "al": {
+      "id": "107660",
+      "url": "https://anilist.co/anime/107660"
+    },
+    "k": {
+      "id": "14",
+      "url": "https://kitsu.io/anime/14"
+    },
+    "mal": {
+      "id": "39195",
+      "url": "https://myanimelist.net/anime/39195"
+    },
+    "nf": {
+      "id": "81054847",
+      "url": "https://www.netflix.com/title/81054847"
+    },
+    "t": {
+      "id": "69507",
+      "url": "https://trakt.tv/shows/69507"
+    },
+    "tx": {
+      "id": "bst_anime",
+      "url": "https://twitter.com/bst_anime"
+    }
+  }
+}

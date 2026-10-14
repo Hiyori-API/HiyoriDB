@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1506,
+  "slug": "genma-taisen-shinwa-zenya-no-shou",
+  "kind": "anime",
+  "title": "Genma Taisen: Shinwa Zenya no Shou",
+  "titles": {
+    "default": "Genma Taisen: Shinwa Zenya no Shou",
+    "romaji": "Genma Taisen: Shinwa Zenya no Shou",
+    "english": "Genma Wars: Eve of Mythology",
+    "native": "幻魔大戦－神話前夜の章"
+  },
+  "synonyms": [
+    "Genma Taisen: Shinwa Zenya no Shou",
+    "Genma Wars: Eve of Mythology",
+    "幻魔大戦－神話前夜の章",
+    "Genma Taisen",
+    "Harmagedon: Eve of Mythology",
+    "Ghenma Wars",
+    "Great War of the Demon of Illusions: The Chapter of the Previous Night of the Myth",
+    "Genma Wars"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1705-DZLUVw9Pj3UX.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1705",
+      "url": "https://anilist.co/anime/1705"
+    },
+    "k": {
+      "id": "1461",
+      "url": "https://kitsu.io/anime/1461"
+    },
+    "mal": {
+      "id": "1705",
+      "url": "https://myanimelist.net/anime/1705"
+    },
+    "t": {
+      "id": "65746",
+      "url": "https://trakt.tv/shows/65746"
+    }
+  }
+}

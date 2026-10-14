@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4421,
+  "slug": "durarara",
+  "kind": "anime",
+  "title": "Durarara!!",
+  "titles": {
+    "default": "Durarara!!",
+    "romaji": "Durarara!!",
+    "native": "デュラララ!!"
+  },
+  "synonyms": [
+    "Durarara!!",
+    "デュラララ!!",
+    "DRRR!!",
+    "דורארארה!!",
+    "Dhurarara!!",
+    "Dyurarara!!",
+    "Dulalala!!",
+    "Dullalala!!"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "winter",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6746-3LTwM95Uqeoa.png"
+  ],
+  "references": {
+    "al": {
+      "id": "6746",
+      "url": "https://anilist.co/anime/6746"
+    },
+    "cr": {
+      "id": "series/G619XVNEY/durarara",
+      "url": "https://www.crunchyroll.com/series/series/G619XVNEY/durarara"
+    },
+    "k": {
+      "id": "4696",
+      "url": "https://kitsu.io/anime/4696"
+    },
+    "mal": {
+      "id": "6746",
+      "url": "https://myanimelist.net/anime/6746"
+    },
+    "nf": {
+      "id": "80040119",
+      "url": "https://www.netflix.com/title/80040119"
+    },
+    "t": {
+      "id": "42187",
+      "url": "https://trakt.tv/shows/42187"
+    }
+  }
+}

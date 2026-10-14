@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 972,
+  "slug": "choujikuu-yousai-macross-ai-oboete-imasu-ka",
+  "kind": "anime",
+  "title": "Choujikuu Yousai Macross: Ai Oboete Imasu ka",
+  "titles": {
+    "default": "Choujikuu Yousai Macross: Ai Oboete Imasu ka",
+    "romaji": "Choujikuu Yousai Macross: Ai Oboete Imasu ka",
+    "english": "Macross: Do You Remember Love?",
+    "native": "超時空要塞マクロス -愛・おぼえていますか-"
+  },
+  "synonyms": [
+    "Choujikuu Yousai Macross: Ai Oboete Imasu ka",
+    "Macross: Do You Remember Love?",
+    "超時空要塞マクロス -愛・おぼえていますか-",
+    "Clash of the Bionoids",
+    "Gekijouban Choujikuu Yousai Macross: Ai",
+    "Oboete Imasu ka",
+    "Macross in Clash Of The Bionoids",
+    "Macross - Il film",
+    "Macross, Le Film",
+    "Macross: Långfilmen om Robotech",
+    "Gekijouban Choujikuu Yousai Macross: Ai Oboete Imasu ka",
+    "Super Dimensional Fortress Macross The Movie: Do You Remember Love?",
+    "Choujikuu Yousai Macross: Ai Oboete Imasuka"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1984,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1089-uoP83D60OHxP.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1089",
+      "url": "https://anilist.co/anime/1089"
+    },
+    "k": {
+      "id": "974",
+      "url": "https://kitsu.io/anime/974"
+    },
+    "mal": {
+      "id": "1089",
+      "url": "https://myanimelist.net/anime/1089"
+    }
+  }
+}

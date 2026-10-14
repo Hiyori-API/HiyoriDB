@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6356,
+  "slug": "fate-zero",
+  "kind": "anime",
+  "title": "Fate/Zero",
+  "titles": {
+    "default": "Fate/Zero",
+    "romaji": "Fate/Zero"
+  },
+  "synonyms": [
+    "Fate/Zero",
+    "フェイト/ゼロ",
+    "F/Z",
+    "القدر/زيرو",
+    "פייט/זירו",
+    "Судьба/Начало"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10087-M4Hd9qrHGrXk.png"
+  ],
+  "references": {
+    "al": {
+      "id": "10087",
+      "url": "https://anilist.co/anime/10087"
+    },
+    "cr": {
+      "id": "fatezero",
+      "url": "https://www.crunchyroll.com/series/fatezero"
+    },
+    "k": {
+      "id": "6028",
+      "url": "https://kitsu.io/anime/6028"
+    },
+    "mal": {
+      "id": "10087",
+      "url": "https://myanimelist.net/anime/10087"
+    },
+    "nf": {
+      "id": "70304256",
+      "url": "https://www.netflix.com/title/70304256"
+    },
+    "t": {
+      "id": "74325",
+      "url": "https://trakt.tv/shows/74325"
+    }
+  }
+}

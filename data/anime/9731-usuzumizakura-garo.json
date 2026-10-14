@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9731,
+  "slug": "usuzumizakura-garo",
+  "kind": "anime",
+  "title": "Usuzumizakura -GARO-",
+  "titles": {
+    "default": "Usuzumizakura -GARO-",
+    "romaji": "Usuzumizakura -GARO-",
+    "native": "薄墨桜 -GARO-"
+  },
+  "synonyms": [
+    "Usuzumizakura -GARO-",
+    "薄墨桜 -GARO-",
+    "Garo: The Fleeting Cherry Blossom",
+    "Usuzumizakura: Garo"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx101370-N9qRFFBIaFwA.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101370",
+      "url": "https://anilist.co/anime/101370"
+    },
+    "mal": {
+      "id": "36858",
+      "url": "https://myanimelist.net/anime/36858"
+    }
+  }
+}

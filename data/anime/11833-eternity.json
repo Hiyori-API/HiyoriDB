@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11833,
+  "slug": "eternity",
+  "kind": "anime",
+  "title": "ETERNITY",
+  "titles": {
+    "default": "ETERNITY",
+    "romaji": "ETERNITY"
+  },
+  "synonyms": [
+    "ETERNITY",
+    "Kaguya-sama: Love is War -The First Kiss That Never Ends-",
+    "かぐや様は告らせたい -ファーストキッスは終わらない-",
+    "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145440-0lmZE3cWLJiH.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "145440",
+      "url": "https://anilist.co/anime/145440"
+    },
+    "mal": {
+      "id": "54674",
+      "url": "https://myanimelist.net/anime/54674"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10965,
+  "slug": "the-four-seasons",
+  "kind": "anime",
+  "title": "The Four Seasons",
+  "titles": {
+    "default": "The Four Seasons",
+    "romaji": "The Four Seasons"
+  },
+  "synonyms": [
+    "The Four Seasons"
+  ],
+  "type": "ona",
+  "episodes": 4,
+  "status": "finished",
+  "season": "spring",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b13563-1dEpNjVnl7HY.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "13563",
+      "url": "https://anilist.co/anime/13563"
+    },
+    "k": {
+      "id": "6995",
+      "url": "https://kitsu.io/anime/6995"
+    },
+    "mal": {
+      "id": "13563",
+      "url": "https://myanimelist.net/anime/13563"
+    }
+  }
+}

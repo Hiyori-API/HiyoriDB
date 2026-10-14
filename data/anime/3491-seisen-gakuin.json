@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3491,
+  "slug": "seisen-gakuin",
+  "kind": "anime",
+  "title": "Seisen Gakuin",
+  "titles": {
+    "default": "Seisen Gakuin",
+    "romaji": "Seisen Gakuin",
+    "english": "Holy Sleazy School",
+    "native": "聖泉学淫"
+  },
+  "synonyms": [
+    "Seisen Gakuin",
+    "Holy Sleazy School",
+    "聖泉学淫",
+    "Study-A-Broad episode #2",
+    "Study-A-Broad 2",
+    "Study A-Broad 2",
+    "Study-A-Broad pt2",
+    "Red Garden: Dead Girls",
+    "レッドガーデン デッドガールズ"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4492.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4492",
+      "url": "https://anilist.co/anime/4492"
+    },
+    "k": {
+      "id": "2055",
+      "url": "https://kitsu.io/anime/2055"
+    },
+    "mal": {
+      "id": "4492",
+      "url": "https://myanimelist.net/anime/4492"
+    }
+  }
+}

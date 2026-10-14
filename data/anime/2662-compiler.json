@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2662,
+  "slug": "compiler",
+  "kind": "anime",
+  "title": "Compiler",
+  "titles": {
+    "default": "Compiler",
+    "romaji": "Compiler",
+    "native": "コンパイラ"
+  },
+  "synonyms": [
+    "Compiler",
+    "コンパイラ",
+    "Invaders From Cyberspace",
+    "After School in the Lounge",
+    "Houkago no Shokuinshitsu",
+    "放課後の職員室",
+    "After School in the Teacher's Lounge"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3026-G29k40mn9KSq.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3026",
+      "url": "https://anilist.co/anime/3026"
+    },
+    "k": {
+      "id": "657",
+      "url": "https://kitsu.io/anime/657"
+    },
+    "mal": {
+      "id": "3026",
+      "url": "https://myanimelist.net/anime/3026"
+    }
+  }
+}

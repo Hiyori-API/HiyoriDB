@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13087,
+  "slug": "necronomico-no-cosmic-horror-show",
+  "kind": "anime",
+  "title": "Necronomico no Cosmic Horror Show",
+  "titles": {
+    "default": "Necronomico no Cosmic Horror Show",
+    "romaji": "Necronomico no Cosmic Horror Show",
+    "english": "Necronomico and the Cosmic Horror Show",
+    "native": "ネクロノミ子のコズミックホラーショウ"
+  },
+  "synonyms": [
+    "Necronomico no Cosmic Horror Show",
+    "Necronomico and the Cosmic Horror Show",
+    "ネクロノミ子のコズミックホラーショウ",
+    "เนโครโนมิโกและการแสดงสยองขวัญแห่งจักรวาล",
+    "DearS",
+    "ディアーズ"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185505-l2ZcSDvdzhd8.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "185505",
+      "url": "https://anilist.co/anime/185505"
+    },
+    "cr": {
+      "id": "series/G0XHWM18P/necronomico-and-the-cosmic-horror-show",
+      "url": "https://www.crunchyroll.com/series/series/G0XHWM18P/necronomico-and-the-cosmic-horror-show"
+    },
+    "k": {
+      "id": "44",
+      "url": "https://kitsu.io/anime/44"
+    },
+    "mal": {
+      "id": "60505",
+      "url": "https://myanimelist.net/anime/60505"
+    },
+    "t": {
+      "id": "61051",
+      "url": "https://trakt.tv/shows/61051"
+    }
+  }
+}

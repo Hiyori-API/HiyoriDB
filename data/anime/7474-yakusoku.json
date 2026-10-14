@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7474,
+  "slug": "yakusoku",
+  "kind": "anime",
+  "title": "Yakusoku",
+  "titles": {
+    "default": "Yakusoku",
+    "romaji": "Yakusoku",
+    "english": "Promise",
+    "native": "約束"
+  },
+  "synonyms": [
+    "Yakusoku",
+    "Promise",
+    "約束",
+    "Picotopia",
+    "ピコトピア",
+    "Pikotopia"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98133-PrRQRRs6pTmb.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98133",
+      "url": "https://anilist.co/anime/98133"
+    },
+    "k": {
+      "id": "8219",
+      "url": "https://kitsu.io/anime/8219"
+    },
+    "mal": {
+      "id": "21065",
+      "url": "https://myanimelist.net/anime/21065"
+    }
+  }
+}

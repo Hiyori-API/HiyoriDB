@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15495,
+  "slug": "night-head-genesis",
+  "kind": "manga",
+  "title": "NIGHT HEAD GENESIS",
+  "titles": {
+    "default": "NIGHT HEAD GENESIS"
+  },
+  "synonyms": [
+    "Nighthead Genesis",
+    "NIGHT HEAD GENESIS",
+    "The Pain in My Heart",
+    "Boku no Mune ga Itakutemo - Glass",
+    "ぼくの胸が痛くても GLASS"
+  ],
+  "type": "manga",
+  "chapters": 23,
+  "volumes": 3,
+  "status": "finished",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx38540-ZKihuAcVR6TB.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1243",
+      "url": "https://anilist.co/anime/1243"
+    },
+    "al_manga": {
+      "id": "1243",
+      "url": "https://anilist.co/manga/1243"
+    }
+  }
+}

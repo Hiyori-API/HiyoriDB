@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14527,
+  "slug": "amon-devilman-mokushiroku",
+  "kind": "manga",
+  "title": "AMON: Devilman Mokushiroku",
+  "titles": {
+    "default": "AMON: Devilman Mokushiroku"
+  },
+  "synonyms": [
+    "Amon The Dark Side of The Devilman",
+    "AMONデビルマン黙示録",
+    "Mushrambo",
+    "マシュランボー",
+    "Mashuranboo"
+  ],
+  "type": "manga",
+  "chapters": 41,
+  "volumes": 6,
+  "status": "finished",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx34592-riaPkaFdgz2f.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2356",
+      "url": "https://anilist.co/anime/2356"
+    },
+    "al_manga": {
+      "id": "2356",
+      "url": "https://anilist.co/manga/2356"
+    }
+  }
+}

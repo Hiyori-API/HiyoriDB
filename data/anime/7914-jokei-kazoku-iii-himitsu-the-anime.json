@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7914,
+  "slug": "jokei-kazoku-iii-himitsu-the-anime",
+  "kind": "anime",
+  "title": "Jokei Kazoku III ~HIMITSU~: THE ANIME",
+  "titles": {
+    "default": "Jokei Kazoku III ~HIMITSU~: THE ANIME",
+    "romaji": "Jokei Kazoku III ~HIMITSU~: THE ANIME",
+    "native": "女系家族III~秘密HIMITSU卑蜜~ THE ANIME"
+  },
+  "synonyms": [
+    "Jokei Kazoku III ~HIMITSU~: THE ANIME",
+    "女系家族III~秘密HIMITSU卑蜜~ THE ANIME",
+    "The Female Household III: Secret ~ Carnal Fluids",
+    "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!: Motenaishi, Nazomeite Miru",
+    "私がモテないのはどう考えてもお前らが悪い! 未放送第13話",
+    "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui! Episode 13",
+    "Watamote OVA",
+    "Watamote Episode 13"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21551-qPXNfhCSwZXL.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21551",
+      "url": "https://anilist.co/anime/21551"
+    },
+    "k": {
+      "id": "7991",
+      "url": "https://kitsu.io/anime/7991"
+    },
+    "mal": {
+      "id": "27747",
+      "url": "https://myanimelist.net/anime/27747"
+    }
+  }
+}

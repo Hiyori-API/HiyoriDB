@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1737,
+  "slug": "chikyuu-bouei-kazoku",
+  "kind": "anime",
+  "title": "Chikyuu Bouei Kazoku",
+  "titles": {
+    "default": "Chikyuu Bouei Kazoku",
+    "romaji": "Chikyuu Bouei Kazoku",
+    "english": "The Daichis - Earth's Defense Family",
+    "native": "地球防衛家族"
+  },
+  "synonyms": [
+    "Chikyuu Bouei Kazoku",
+    "The Daichis - Earth's Defense Family",
+    "地球防衛家族",
+    "Chikyu Boei Kazoku",
+    "The Daichis: Earth Defence Family",
+    "The Daichis: Earth's Defence Family"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1962-yb0mwjWCC4WU.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1962",
+      "url": "https://anilist.co/anime/1962"
+    },
+    "k": {
+      "id": "1768",
+      "url": "https://kitsu.io/anime/1768"
+    },
+    "mal": {
+      "id": "1962",
+      "url": "https://myanimelist.net/anime/1962"
+    },
+    "t": {
+      "id": "64278",
+      "url": "https://trakt.tv/shows/64278"
+    },
+    "ttv": {
+      "id": "300005659",
+      "url": "https://tubitv.com/series/300005659"
+    }
+  }
+}

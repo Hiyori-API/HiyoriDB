@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14788,
+  "slug": "shin-karate-jigoku-hen",
+  "kind": "manga",
+  "title": "Shin Karate Jigoku-hen",
+  "titles": {
+    "default": "Shin Karate Jigoku-hen"
+  },
+  "synonyms": [
+    "新カラテ地獄変",
+    "Those Obnoxious Aliens",
+    "Urusei Yatsura",
+    "うる星やつら",
+    "Lum",
+    "The Return of Lum",
+    "Lamu",
+    "the Invader Girl"
+  ],
+  "type": "manga",
+  "volumes": 15,
+  "status": "finished",
+  "year": 1978,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b176676-nVVV7lX4SkIw.png"
+  ],
+  "references": {
+    "al": {
+      "id": "10304",
+      "url": "https://anilist.co/anime/10304"
+    },
+    "al_manga": {
+      "id": "10304",
+      "url": "https://anilist.co/manga/10304"
+    }
+  }
+}

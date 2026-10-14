@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2528,
+  "slug": "kuro-ai-hitoyozumakan-inkou-rannyuuroku",
+  "kind": "anime",
+  "title": "Kuro Ai: Hitoyozumakan Inkou Rannyuuroku",
+  "titles": {
+    "default": "Kuro Ai: Hitoyozumakan Inkou Rannyuuroku",
+    "romaji": "Kuro Ai: Hitoyozumakan Inkou Rannyuuroku",
+    "english": "Dark Love",
+    "native": "黒愛 一夜妻館・淫口乱乳録"
+  },
+  "synonyms": [
+    "Kuro Ai: Hitoyozumakan Inkou Rannyuuroku",
+    "Dark Love",
+    "黒愛 一夜妻館・淫口乱乳録",
+    "Kuro Ai",
+    "Dark Love: Kuro Ai",
+    "Désirs Obscurs",
+    "The Eternal Aseria",
+    "Eien no Aselia",
+    "永遠のアセリア",
+    "Eien no Aseria: The Spirit of Eternity Sword"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2841.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2841",
+      "url": "https://anilist.co/anime/2841"
+    },
+    "k": {
+      "id": "462",
+      "url": "https://kitsu.io/anime/462"
+    },
+    "mal": {
+      "id": "2841",
+      "url": "https://myanimelist.net/anime/2841"
+    }
+  }
+}

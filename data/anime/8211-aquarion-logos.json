@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8211,
+  "slug": "aquarion-logos",
+  "kind": "anime",
+  "title": "Aquarion Logos",
+  "titles": {
+    "default": "Aquarion Logos",
+    "romaji": "Aquarion Logos",
+    "native": "アクエリオンロゴス"
+  },
+  "synonyms": [
+    "Aquarion Logos",
+    "アクエリオンロゴス",
+    "Ushio and Tora",
+    "Ushio & Tora (2015)",
+    "うしおととら",
+    "Ushio to Tora (TV)"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "summer",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21115-jkOCEIYlWRCQ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21115",
+      "url": "https://anilist.co/anime/21115"
+    },
+    "mal": {
+      "id": "30382",
+      "url": "https://myanimelist.net/anime/30382"
+    },
+    "ttv": {
+      "id": "2235",
+      "url": "https://tubitv.com/series/2235"
+    },
+    "tx": {
+      "id": "AQlogos",
+      "url": "https://twitter.com/AQlogos"
+    }
+  }
+}

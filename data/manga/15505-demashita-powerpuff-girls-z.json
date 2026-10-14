@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15505,
+  "slug": "demashita-powerpuff-girls-z",
+  "kind": "manga",
+  "title": "Demashita! Powerpuff Girls Z",
+  "titles": {
+    "default": "Demashita! Powerpuff Girls Z"
+  },
+  "synonyms": [
+    "Powerpuff Girls Z",
+    "PPGZ",
+    "出ましたっ！ パワパフガールズZ",
+    "The Pain in My Heart",
+    "Boku no Mune ga Itakutemo - Glass",
+    "ぼくの胸が痛くても GLASS"
+  ],
+  "type": "manga",
+  "chapters": 12,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b40027-w3VnFCr71kEe.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1221",
+      "url": "https://anilist.co/anime/1221"
+    },
+    "al_manga": {
+      "id": "1221",
+      "url": "https://anilist.co/manga/1221"
+    }
+  }
+}

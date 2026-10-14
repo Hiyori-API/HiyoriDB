@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11066,
+  "slug": "happy-forest",
+  "kind": "anime",
+  "title": "HAPPY FOREST",
+  "titles": {
+    "default": "HAPPY FOREST",
+    "romaji": "HAPPY FOREST"
+  },
+  "synonyms": [
+    "HAPPY FOREST",
+    "Overlord: Ple Ple Pleiades - Special Edition",
+    "ぷれぷれぷれあです特別編",
+    "Ple Ple Pleiades Special Edition"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx102577-jXPilFeq46e4.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "102577",
+      "url": "https://anilist.co/anime/102577"
+    },
+    "mal": {
+      "id": "36097",
+      "url": "https://myanimelist.net/anime/36097"
+    }
+  }
+}

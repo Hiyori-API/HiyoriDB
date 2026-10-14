@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2991,
+  "slug": "dorei-kaigo",
+  "kind": "anime",
+  "title": "Dorei Kaigo",
+  "titles": {
+    "default": "Dorei Kaigo",
+    "romaji": "Dorei Kaigo",
+    "english": "Slave Nurses",
+    "native": "奴隷介護"
+  },
+  "synonyms": [
+    "Dorei Kaigo",
+    "Slave Nurses",
+    "奴隷介護",
+    "Sakura Wars: School of Paris",
+    "Sakura Taisen: Ecole de Paris",
+    "サクラ大戦 エコール・ド・巴里",
+    "Sakura Wars OVA 3",
+    "Sakura Taisen: École de Paris",
+    "Sakura Taisen OVA 3"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "winter",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3538.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3538",
+      "url": "https://anilist.co/anime/3538"
+    },
+    "k": {
+      "id": "1769",
+      "url": "https://kitsu.io/anime/1769"
+    },
+    "mal": {
+      "id": "3538",
+      "url": "https://myanimelist.net/anime/3538"
+    }
+  }
+}

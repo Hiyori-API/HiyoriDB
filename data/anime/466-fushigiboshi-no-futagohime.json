@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 466,
+  "slug": "fushigiboshi-no-futagohime",
+  "kind": "anime",
+  "title": "Fushigiboshi no☆Futagohime",
+  "titles": {
+    "default": "Fushigiboshi no☆Futagohime",
+    "romaji": "Fushigiboshi no☆Futagohime",
+    "english": "Twin Princesses of the Wonder Planet",
+    "native": "ふしぎ星の☆ふたご姫"
+  },
+  "synonyms": [
+    "Fushigiboshi no☆Futagohime",
+    "Twin Princesses of the Wonder Planet",
+    "ふしぎ星の☆ふたご姫",
+    "Fushigi-boshi no Futago-hime",
+    "Fushigi Boshi no Futago Hime",
+    "Twin Princesses of the Mysterious Star",
+    "Twin Princess of the Mysterious Planet",
+    "The Law of Ueki",
+    "Ueki no Housoku",
+    "うえきの法則"
+  ],
+  "type": "tv",
+  "episodes": 51,
+  "status": "finished",
+  "season": "spring",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx505-xajn3wPR06I3.png"
+  ],
+  "references": {
+    "al": {
+      "id": "505",
+      "url": "https://anilist.co/anime/505"
+    },
+    "k": {
+      "id": "441",
+      "url": "https://kitsu.io/anime/441"
+    },
+    "mal": {
+      "id": "505",
+      "url": "https://myanimelist.net/anime/505"
+    },
+    "t": {
+      "id": "34703",
+      "url": "https://trakt.tv/shows/34703"
+    }
+  }
+}

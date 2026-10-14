@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4079,
+  "slug": "kiddy-girl-and-pilot",
+  "kind": "anime",
+  "title": "Kiddy GiRL-AND Pilot",
+  "titles": {
+    "default": "Kiddy GiRL-AND Pilot",
+    "romaji": "Kiddy GiRL-AND Pilot"
+  },
+  "synonyms": [
+    "Kiddy GiRL-AND Pilot",
+    "Kiddy Grade 2 Pilot",
+    "キディ・ガーランド"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5859-XQTRY8jGC8xx.png"
+  ],
+  "references": {
+    "al": {
+      "id": "5859",
+      "url": "https://anilist.co/anime/5859"
+    },
+    "k": {
+      "id": "4306",
+      "url": "https://kitsu.io/anime/4306"
+    },
+    "mal": {
+      "id": "5859",
+      "url": "https://myanimelist.net/anime/5859"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14556,
+  "slug": "mimi-wo-sumaseba",
+  "kind": "manga",
+  "title": "Mimi wo Sumaseba",
+  "titles": {
+    "default": "Mimi wo Sumaseba"
+  },
+  "synonyms": [
+    "If You Listen Closely",
+    "Whisper of the Heart",
+    "耳をすませば",
+    "Four Steps to Romance",
+    "Romance Godan Katsuyou",
+    "ろまんす五段活用",
+    "Romantic Princess"
+  ],
+  "type": "manga",
+  "chapters": 4,
+  "volumes": 1,
+  "status": "finished",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx35228-NEpwrjwI6kRH.png"
+  ],
+  "references": {
+    "al": {
+      "id": "585",
+      "url": "https://anilist.co/anime/585"
+    },
+    "al_manga": {
+      "id": "585",
+      "url": "https://anilist.co/manga/585"
+    }
+  }
+}

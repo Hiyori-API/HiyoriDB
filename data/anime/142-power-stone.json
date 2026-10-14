@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 142,
+  "slug": "power-stone",
+  "kind": "anime",
+  "title": "Power Stone",
+  "titles": {
+    "default": "Power Stone",
+    "romaji": "Power Stone",
+    "native": "パワーストーン"
+  },
+  "synonyms": [
+    "Power Stone",
+    "パワーストーン"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b163-xg8mHh3R6o47.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "163",
+      "url": "https://anilist.co/anime/163"
+    },
+    "k": {
+      "id": "141",
+      "url": "https://kitsu.io/anime/141"
+    },
+    "mal": {
+      "id": "163",
+      "url": "https://myanimelist.net/anime/163"
+    },
+    "t": {
+      "id": "22373",
+      "url": "https://trakt.tv/shows/22373"
+    }
+  }
+}

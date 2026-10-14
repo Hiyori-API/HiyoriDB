@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5428,
+  "slug": "kochira-katsushikaku-kameari-kouenmae-hashutsujo-special-dai-hard-2-shijou-saitei-no-kessen",
+  "kind": "anime",
+  "title": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo Special: Dai Hard 2! Shijou Saitei no Kessen",
+  "titles": {
+    "default": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo Special: Dai Hard 2! Shijou Saitei no Kessen",
+    "romaji": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo Special: Dai Hard 2! Shijou Saitei no Kessen",
+    "native": "こちら葛飾区亀有公園前派出所スペシャル 大ハード2! 史上最低の決戦"
+  },
+  "synonyms": [
+    "Kochira Katsushikaku Kameari Kouenmae Hashutsujo Special: Dai Hard 2! Shijou Saitei no Kessen",
+    "こちら葛飾区亀有公園前派出所スペシャル 大ハード2! 史上最低の決戦",
+    "Kochikame Special 5",
+    "Touch: Miss Lonely Yesterday - Are kara, Kimi wa...",
+    "タッチ Miss Lonely Yesterday あれから, 君は..."
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b145763-J3j93wbI4rR7.png"
+  ],
+  "references": {
+    "al": {
+      "id": "145763",
+      "url": "https://anilist.co/anime/145763"
+    },
+    "k": {
+      "id": "1381",
+      "url": "https://kitsu.io/anime/1381"
+    },
+    "mal": {
+      "id": "1540",
+      "url": "https://myanimelist.net/anime/1540"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4411,
+  "slug": "mechakko-dotakon",
+  "kind": "anime",
+  "title": "Mechakko Dotakon",
+  "titles": {
+    "default": "Mechakko Dotakon",
+    "romaji": "Mechakko Dotakon",
+    "english": "Mechanical Boy Dotakon",
+    "native": "めちゃっこドタコン"
+  },
+  "synonyms": [
+    "Mechakko Dotakon",
+    "Mechanical Boy Dotakon",
+    "めちゃっこドタコン",
+    "Robot boy Dotakon"
+  ],
+  "type": "tv",
+  "episodes": 28,
+  "status": "finished",
+  "season": "spring",
+  "year": 1981,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6727-xOFEGdPtbKbO.png"
+  ],
+  "references": {
+    "al": {
+      "id": "6727",
+      "url": "https://anilist.co/anime/6727"
+    },
+    "k": {
+      "id": "4686",
+      "url": "https://kitsu.io/anime/4686"
+    },
+    "mal": {
+      "id": "6727",
+      "url": "https://myanimelist.net/anime/6727"
+    }
+  }
+}

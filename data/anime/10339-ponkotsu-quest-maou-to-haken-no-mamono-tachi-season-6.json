@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10339,
+  "slug": "ponkotsu-quest-maou-to-haken-no-mamono-tachi-season-6",
+  "kind": "anime",
+  "title": "Ponkotsu Quest: Maou to Haken no Mamono-tachi Season 6",
+  "titles": {
+    "default": "Ponkotsu Quest: Maou to Haken no Mamono-tachi Season 6",
+    "romaji": "Ponkotsu Quest: Maou to Haken no Mamono-tachi Season 6",
+    "native": "ポンコツクエスト〜魔王と派遣の魔物たち〜 シーズン6"
+  },
+  "synonyms": [
+    "Ponkotsu Quest: Maou to Haken no Mamono-tachi Season 6",
+    "ポンコツクエスト〜魔王と派遣の魔物たち〜 シーズン6",
+    "​狐妖小红娘 第六季",
+    "Huyao Xiao Hongniang 6th Season",
+    "Fox Spirit Matchmaker 6th Season",
+    "狐妖小红娘6 竹业篇",
+    "Huyao Xiao Hongniang 6: Zhu Ye Pian"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b177229-9yZdNBZUAdtX.png"
+  ],
+  "references": {
+    "al": {
+      "id": "177229",
+      "url": "https://anilist.co/anime/177229"
+    },
+    "mal": {
+      "id": "38533",
+      "url": "https://myanimelist.net/anime/38533"
+    }
+  }
+}

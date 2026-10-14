@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11070,
+  "slug": "valkyrie-drive-mermaid-mini-ovas",
+  "kind": "anime",
+  "title": "Valkyrie Drive: Mermaid Mini OVAs",
+  "titles": {
+    "default": "Valkyrie Drive: Mermaid Mini OVAs",
+    "romaji": "Valkyrie Drive: Mermaid Mini OVAs",
+    "english": "Valkyrie Drive: Mermaid Specials",
+    "native": "ヴァルキリードライヴ マーメイド ミニOVAs"
+  },
+  "synonyms": [
+    "Valkyrie Drive: Mermaid Mini OVAs",
+    "Valkyrie Drive: Mermaid Specials",
+    "ヴァルキリードライヴ マーメイド ミニOVAs",
+    "Shomin Sample Specials",
+    "俺がお嬢様学校に『庶民サンプル』としてゲッツされた件　『九条さんのドS相談室アニメ版』",
+    "Ore ga Ojousama Gakkou ni \"Shomin Sample\" Toshite Gets♥Sareta Ken Specials"
+  ],
+  "type": "special",
+  "episodes": 6,
+  "status": "finished",
+  "season": "winter",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21413-fPvW8uD5XIfM.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21413",
+      "url": "https://anilist.co/anime/21413"
+    },
+    "mal": {
+      "id": "31736",
+      "url": "https://myanimelist.net/anime/31736"
+    },
+    "tx": {
+      "id": "valkyriedrive",
+      "url": "https://twitter.com/valkyriedrive"
+    }
+  }
+}

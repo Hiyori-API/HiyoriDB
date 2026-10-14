@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1053,
+  "slug": "alien-9",
+  "kind": "anime",
+  "title": "Alien 9",
+  "titles": {
+    "default": "Alien 9",
+    "romaji": "Alien 9",
+    "english": "Alien Nine",
+    "native": "エイリアン9"
+  },
+  "synonyms": [
+    "Alien 9",
+    "Alien Nine",
+    "エイリアン9"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "summer",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx1177-1rJWF4RpI0Vz.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1177",
+      "url": "https://anilist.co/anime/1177"
+    },
+    "k": {
+      "id": "1057",
+      "url": "https://kitsu.io/anime/1057"
+    },
+    "mal": {
+      "id": "1177",
+      "url": "https://myanimelist.net/anime/1177"
+    },
+    "ttv": {
+      "id": "1944",
+      "url": "https://tubitv.com/series/1944"
+    }
+  }
+}

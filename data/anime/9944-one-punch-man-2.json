@@ -1,0 +1,68 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9944,
+  "slug": "one-punch-man-2",
+  "kind": "anime",
+  "title": "One Punch Man 2",
+  "titles": {
+    "default": "One Punch Man 2",
+    "romaji": "One Punch Man 2",
+    "english": "One-Punch Man Season 2",
+    "native": "ワンパンマン 2"
+  },
+  "synonyms": [
+    "One Punch Man 2",
+    "One-Punch Man Season 2",
+    "ワンパンマン 2",
+    "OPM2",
+    "Wanpanman 2",
+    "مرد تک مشتی",
+    "วันพันช์แมน ภาคที่ 2",
+    "One-Punch Man Phần 2",
+    "一拳超人 第二季",
+    "Jagoan Sekali Pukul S2",
+    "ون بنش مان 2",
+    "رجل اللكمة الواحدة 2",
+    "This Ugly Yet Beautiful World",
+    "Kono Minikuku mo Utsukushii Sekai",
+    "この醜くも美しい世界"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97668-nC8gQrXVxt7k.png"
+  ],
+  "references": {
+    "al": {
+      "id": "97668",
+      "url": "https://anilist.co/anime/97668"
+    },
+    "cr": {
+      "id": "one-punch-man",
+      "url": "https://www.crunchyroll.com/series/one-punch-man"
+    },
+    "k": {
+      "id": "124",
+      "url": "https://kitsu.io/anime/124"
+    },
+    "mal": {
+      "id": "34134",
+      "url": "https://myanimelist.net/anime/34134"
+    },
+    "nf": {
+      "id": "80117291",
+      "url": "https://www.netflix.com/title/80117291"
+    },
+    "t": {
+      "id": "34001",
+      "url": "https://trakt.tv/shows/34001"
+    },
+    "tx": {
+      "id": "opm_anime",
+      "url": "https://twitter.com/opm_anime"
+    }
+  }
+}

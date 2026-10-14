@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5894,
+  "slug": "hyakujitsu-no-bara-specials",
+  "kind": "anime",
+  "title": "Hyakujitsu no Bara Specials",
+  "titles": {
+    "default": "Hyakujitsu no Bara Specials",
+    "romaji": "Hyakujitsu no Bara Specials",
+    "english": "Maiden Rose Specials",
+    "native": "百日の薔薇"
+  },
+  "synonyms": [
+    "Hyakujitsu no Bara Specials",
+    "Maiden Rose Specials",
+    "百日の薔薇",
+    "Hyakujitsu no Bara: Jinginaki Nikukyuu-hen",
+    "百日の薔薇 仁義なき肉球編",
+    "Rose of a Hundred Days - Underhanded Paws Chapter"
+  ],
+  "type": "special",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15291.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "15291",
+      "url": "https://anilist.co/anime/15291"
+    },
+    "k": {
+      "id": "7236",
+      "url": "https://kitsu.io/anime/7236"
+    },
+    "mal": {
+      "id": "15291",
+      "url": "https://myanimelist.net/anime/15291"
+    }
+  }
+}

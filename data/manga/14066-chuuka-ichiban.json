@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14066,
+  "slug": "chuuka-ichiban",
+  "kind": "manga",
+  "title": "Chuuka Ichiban!",
+  "titles": {
+    "default": "Chuuka Ichiban!"
+  },
+  "synonyms": [
+    "Cooking Master Boy",
+    "中華一番!",
+    "Chuuka Ichiban!",
+    "Master Cooking Boy",
+    "中華一番！",
+    "요리왕 비룡",
+    "中华小当家",
+    "中華小廚師",
+    "King of Tower"
+  ],
+  "type": "manga",
+  "chapters": 35,
+  "volumes": 5,
+  "status": "finished",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30944-1o9Qaqp9Aap6.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "107666",
+      "url": "https://anilist.co/anime/110"
+    },
+    "al_manga": {
+      "id": "107666",
+      "url": "https://anilist.co/manga/107666"
+    }
+  }
+}

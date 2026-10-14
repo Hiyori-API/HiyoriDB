@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13897,
+  "slug": "kaibutsu-oujo",
+  "kind": "manga",
+  "title": "Kaibutsu Oujo",
+  "titles": {
+    "default": "Kaibutsu Oujo"
+  },
+  "synonyms": [
+    "Hirviöprinsessa Hime",
+    "Princess Resurrection",
+    "怪物王女",
+    "Kaibutsu Oujo"
+  ],
+  "type": "manga",
+  "chapters": 87,
+  "volumes": 20,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx30424-JD1GFkeDXwM2.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9159",
+      "url": "https://anilist.co/anime/2130"
+    },
+    "al_manga": {
+      "id": "9159",
+      "url": "https://anilist.co/manga/9159"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10629,
+  "slug": "bem-become-human",
+  "kind": "anime",
+  "title": "BEM: BECOME HUMAN",
+  "titles": {
+    "default": "BEM: BECOME HUMAN",
+    "romaji": "BEM: BECOME HUMAN",
+    "english": "BEM: Become Human",
+    "native": "劇場版BEM～BECOME HUMAN～"
+  },
+  "synonyms": [
+    "BEM: BECOME HUMAN",
+    "BEM: Become Human",
+    "劇場版BEM～BECOME HUMAN～",
+    "劇場版BEM 〜BECOME HUMAN〜",
+    "Bem Movie: Become Human"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119258-zllw19WbSTO7.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "119258",
+      "url": "https://anilist.co/anime/119258"
+    },
+    "cr": {
+      "id": "watch/G31UX9PW4/bem-become-human",
+      "url": "https://www.crunchyroll.com/series/watch/G31UX9PW4/bem-become-human"
+    },
+    "mal": {
+      "id": "42129",
+      "url": "https://myanimelist.net/anime/42129"
+    },
+    "tx": {
+      "id": "newbem2019",
+      "url": "https://twitter.com/newbem2019"
+    }
+  }
+}

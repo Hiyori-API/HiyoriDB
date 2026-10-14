@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3997,
+  "slug": "violence-gekiga-david-no-hoshi",
+  "kind": "anime",
+  "title": "Violence Gekiga David no Hoshi",
+  "titles": {
+    "default": "Violence Gekiga David no Hoshi",
+    "romaji": "Violence Gekiga David no Hoshi",
+    "english": "Beautiful Girl Hunter",
+    "native": "バイオレンス劇画 堕靡泥の星"
+  },
+  "synonyms": [
+    "Violence Gekiga David no Hoshi",
+    "Beautiful Girl Hunter",
+    "バイオレンス劇画 堕靡泥の星",
+    "Star of David: Beauty Hunting",
+    "Nightsong of Splendor",
+    "Kasei Yakyoku",
+    "華星夜曲",
+    "Night Song of Splendor",
+    "Starlight Nocturne",
+    "Gasei Yakyoku"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "winter",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5621.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5621",
+      "url": "https://anilist.co/anime/5621"
+    },
+    "k": {
+      "id": "3638",
+      "url": "https://kitsu.io/anime/3638"
+    },
+    "mal": {
+      "id": "5621",
+      "url": "https://myanimelist.net/anime/5621"
+    }
+  }
+}

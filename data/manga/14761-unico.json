@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14761,
+  "slug": "unico",
+  "kind": "manga",
+  "title": "Unico",
+  "titles": {
+    "default": "Unico"
+  },
+  "synonyms": [
+    "Unico",
+    "ユニコ"
+  ],
+  "type": "manga",
+  "chapters": 9,
+  "volumes": 2,
+  "status": "finished",
+  "year": 1976,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx47240-pYg5GrW9tKOP.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "105255",
+      "url": "https://anilist.co/anime/2427"
+    },
+    "al_manga": {
+      "id": "105255",
+      "url": "https://anilist.co/manga/105255"
+    }
+  }
+}

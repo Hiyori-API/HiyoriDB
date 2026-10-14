@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9124,
+  "slug": "ao-no-exorcist-kyoto-fujouou-hen-ova",
+  "kind": "anime",
+  "title": "Ao no Exorcist: Kyoto Fujouou-hen OVA",
+  "titles": {
+    "default": "Ao no Exorcist: Kyoto Fujouou-hen OVA",
+    "romaji": "Ao no Exorcist: Kyoto Fujouou-hen OVA",
+    "native": "青の祓魔師 京都不浄王篇 OVA"
+  },
+  "synonyms": [
+    "Ao no Exorcist: Kyoto Fujouou-hen OVA",
+    "青の祓魔師 京都不浄王篇 OVA",
+    "Blue Exorcist: Kyoto Saga OVA",
+    "Stratos 4 OVA",
+    "ストラトス・フォー OVA"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97891-SsbeyuNwwmDA.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "97891",
+      "url": "https://anilist.co/anime/97891"
+    },
+    "k": {
+      "id": "386",
+      "url": "https://kitsu.io/anime/386"
+    },
+    "mal": {
+      "id": "34465",
+      "url": "https://myanimelist.net/anime/34465"
+    }
+  }
+}

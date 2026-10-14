@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5775,
+  "slug": "kaihouku-chikan-harem",
+  "kind": "anime",
+  "title": "Kaihouku: Chikan Harem",
+  "titles": {
+    "default": "Kaihouku: Chikan Harem",
+    "romaji": "Kaihouku: Chikan Harem",
+    "english": "Free Zone",
+    "native": "解放区 ~痴漢ハーレム~"
+  },
+  "synonyms": [
+    "Kaihouku: Chikan Harem",
+    "Free Zone",
+    "解放区 ~痴漢ハーレム~",
+    "Pervs on a Train",
+    "Pervs on a Train: Free Zone",
+    "Kiddy GiRL-AND Pilot",
+    "キディ・ガーランド",
+    "Kiddy Grade 2 Pilot"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119810-en3heRA1orms.png"
+  ],
+  "references": {
+    "al": {
+      "id": "119810",
+      "url": "https://anilist.co/anime/119810"
+    },
+    "k": {
+      "id": "4306",
+      "url": "https://kitsu.io/anime/4306"
+    },
+    "mal": {
+      "id": "49752",
+      "url": "https://myanimelist.net/anime/49752"
+    }
+  }
+}

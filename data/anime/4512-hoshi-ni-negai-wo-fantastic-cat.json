@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4512,
+  "slug": "hoshi-ni-negai-wo-fantastic-cat",
+  "kind": "anime",
+  "title": "Hoshi ni Negai wo: Fantastic Cat",
+  "titles": {
+    "default": "Hoshi ni Negai wo: Fantastic Cat",
+    "romaji": "Hoshi ni Negai wo: Fantastic Cat",
+    "native": "星に願いを Fantastic Cat"
+  },
+  "synonyms": [
+    "Hoshi ni Negai wo: Fantastic Cat",
+    "星に願いを Fantastic Cat"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6992.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6992",
+      "url": "https://anilist.co/anime/6992"
+    },
+    "k": {
+      "id": "4826",
+      "url": "https://kitsu.io/anime/4826"
+    },
+    "mal": {
+      "id": "6992",
+      "url": "https://myanimelist.net/anime/6992"
+    }
+  }
+}

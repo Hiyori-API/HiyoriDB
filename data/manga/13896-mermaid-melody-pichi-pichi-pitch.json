@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13896,
+  "slug": "mermaid-melody-pichi-pichi-pitch",
+  "kind": "manga",
+  "title": "Mermaid Melody: Pichi Pichi Pitch",
+  "titles": {
+    "default": "Mermaid Melody: Pichi Pichi Pitch"
+  },
+  "synonyms": [
+    "Mermaid Melody Pichi Pichi Pitch",
+    "Pichi Pichi Pitch",
+    "MMPPP",
+    "Moonlight Goddess Diana",
+    "Get Nude",
+    "MOONLIGHT GODDESS ディアナ",
+    "ヌードになって",
+    "チェリー ブロッサム",
+    "Mermaid Melody: Pichi Pichi Pitch",
+    "マーメイドメロディーぴちぴちピッチ",
+    "Fujisan",
+    "富士山",
+    "Fuji-san"
+  ],
+  "type": "manga",
+  "chapters": 35,
+  "volumes": 7,
+  "status": "finished",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30423-7ww41wrOMamK.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1110",
+      "url": "https://anilist.co/anime/521"
+    },
+    "al_manga": {
+      "id": "1110",
+      "url": "https://anilist.co/manga/1110"
+    }
+  }
+}

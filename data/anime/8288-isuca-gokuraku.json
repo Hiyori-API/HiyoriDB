@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8288,
+  "slug": "isuca-gokuraku",
+  "kind": "anime",
+  "title": "ISUCA: Gokuraku",
+  "titles": {
+    "default": "ISUCA: Gokuraku",
+    "romaji": "ISUCA: Gokuraku",
+    "native": "ISUCA「極楽」"
+  },
+  "synonyms": [
+    "ISUCA: Gokuraku",
+    "ISUCA「極楽」",
+    "Fate/kaleid liner Prisma☆Illya 2wei!: Mahou Shoujo in Onsen Ryokou",
+    "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ! 魔法少女in温泉旅行",
+    "Prisma Illya 2wei! OVA",
+    "Fate/kaleid liner Prisma☆Illya 2wei! OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21253-qjml1I3EXzKl.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21253",
+      "url": "https://anilist.co/anime/21253"
+    },
+    "k": {
+      "id": "8831",
+      "url": "https://kitsu.io/anime/8831"
+    },
+    "mal": {
+      "id": "28713",
+      "url": "https://myanimelist.net/anime/28713"
+    }
+  }
+}

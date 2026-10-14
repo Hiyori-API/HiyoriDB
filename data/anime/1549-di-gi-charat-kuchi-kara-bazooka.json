@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1549,
+  "slug": "di-gi-charat-kuchi-kara-bazooka",
+  "kind": "anime",
+  "title": "Di Gi Charat: Kuchi Kara Bazooka",
+  "titles": {
+    "default": "Di Gi Charat: Kuchi Kara Bazooka",
+    "romaji": "Di Gi Charat: Kuchi Kara Bazooka",
+    "native": "Di Gi Charat くちからバズーカ"
+  },
+  "synonyms": [
+    "Di Gi Charat: Kuchi Kara Bazooka",
+    "Di Gi Charat くちからバズーカ",
+    "Di Gi Charat Special: A Rocket from the Mouth",
+    "くちからバズーカ",
+    "Upchuck Bazooka",
+    "DiGi Charat Special: A Rocket from the Mouth"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1753-iQI3oBDLiKUX.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1753",
+      "url": "https://anilist.co/anime/1753"
+    },
+    "k": {
+      "id": "1573",
+      "url": "https://kitsu.io/anime/1573"
+    },
+    "mal": {
+      "id": "1753",
+      "url": "https://myanimelist.net/anime/1753"
+    }
+  }
+}

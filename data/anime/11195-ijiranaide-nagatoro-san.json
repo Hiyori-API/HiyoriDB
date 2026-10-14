@@ -1,0 +1,66 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11195,
+  "slug": "ijiranaide-nagatoro-san",
+  "kind": "anime",
+  "title": "Ijiranaide, Nagatoro-san",
+  "titles": {
+    "default": "Ijiranaide, Nagatoro-san",
+    "romaji": "Ijiranaide, Nagatoro-san",
+    "english": "DON'T TOY WITH ME, MISS NAGATORO",
+    "native": "イジらないで、長瀞さん"
+  },
+  "synonyms": [
+    "Ijiranaide, Nagatoro-san",
+    "DON'T TOY WITH ME, MISS NAGATORO",
+    "イジらないで、長瀞さん",
+    "不要欺负我、长瀞同学",
+    "Arrête de me chauffer, Nagatoro!",
+    "ยัยตัวแสบแอบน่ารัก นางาโทโระ",
+    "Не издевайся надо мной, Нагаторо",
+    "괴롭히지 말아요, 나가토로 양",
+    "Jangan main-main denganku, Nona Nagatoro Serangan Ke-2",
+    "No me rayes, Nagatoro",
+    "This Ugly Yet Beautiful World",
+    "Kono Minikuku mo Utsukushii Sekai",
+    "この醜くも美しい世界"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120697-BA2TqxB1I5bJ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "120697",
+      "url": "https://anilist.co/anime/120697"
+    },
+    "cr": {
+      "id": "dont-toy-with-me-miss-nagatoro",
+      "url": "https://www.crunchyroll.com/series/dont-toy-with-me-miss-nagatoro"
+    },
+    "k": {
+      "id": "124",
+      "url": "https://kitsu.io/anime/124"
+    },
+    "mal": {
+      "id": "42361",
+      "url": "https://myanimelist.net/anime/42361"
+    },
+    "nf": {
+      "id": "81427422",
+      "url": "https://www.netflix.com/title/81427422"
+    },
+    "t": {
+      "id": "34001",
+      "url": "https://trakt.tv/shows/34001"
+    },
+    "tx": {
+      "id": "nagatoro_tv",
+      "url": "https://twitter.com/nagatoro_tv"
+    }
+  }
+}

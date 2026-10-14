@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15158,
+  "slug": "akage-no-anne",
+  "kind": "manga",
+  "title": "Akage no Anne",
+  "titles": {
+    "default": "Akage no Anne"
+  },
+  "synonyms": [
+    "Redheaded Anne",
+    "Ana de las Tejas Verdes",
+    "Anne mit den roten Haaren",
+    "Anne of Green Gables",
+    "赤毛のアン",
+    "Kamikaze Kaito Jeanne",
+    "Kamikaze Kaitou Jeanne",
+    "Phantom Thief Jeanne",
+    "神風怪盗ジャンヌ",
+    "Divine Wind Phantom Thief Jeanne"
+  ],
+  "type": "manga",
+  "chapters": 18,
+  "volumes": 3,
+  "status": "finished",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b40282-C436GtN5Gj2H.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "184639",
+      "url": "https://anilist.co/anime/8950"
+    },
+    "al_manga": {
+      "id": "184639",
+      "url": "https://anilist.co/manga/184639"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2419,
+  "slug": "kaisoku-tantei-miko",
+  "kind": "anime",
+  "title": "Kaisoku Tantei Miko",
+  "titles": {
+    "default": "Kaisoku Tantei Miko",
+    "romaji": "Kaisoku Tantei Miko",
+    "native": "霊能探偵ミコ"
+  },
+  "synonyms": [
+    "Kaisoku Tantei Miko",
+    "霊能探偵ミコ",
+    "Reinou Tantei Miko",
+    "Phantom Hunter Miko",
+    "Labyrinth Of Flames",
+    "Honoo no Labyrinth",
+    "炎のらびりんす"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n2721-qEFxeaXxreN9.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2721",
+      "url": "https://anilist.co/anime/2721"
+    },
+    "k": {
+      "id": "537",
+      "url": "https://kitsu.io/anime/537"
+    },
+    "mal": {
+      "id": "2721",
+      "url": "https://myanimelist.net/anime/2721"
+    }
+  }
+}

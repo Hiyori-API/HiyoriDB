@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5181,
+  "slug": "oi-ryouma",
+  "kind": "anime",
+  "title": "Oi! Ryouma",
+  "titles": {
+    "default": "Oi! Ryouma",
+    "romaji": "Oi! Ryouma",
+    "english": "Rainbow Samurai",
+    "native": "お〜い!竜馬"
+  },
+  "synonyms": [
+    "Oi! Ryouma",
+    "Rainbow Samurai",
+    "お〜い!竜馬",
+    "Oi! Ryoma",
+    "Oi",
+    "Ryuoma",
+    "Ryoma",
+    "Hey! Ryoma",
+    "O~i! Ryouma",
+    "O~i! Ryoma"
+  ],
+  "type": "tv",
+  "episodes": 39,
+  "status": "finished",
+  "season": "spring",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8415.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8415",
+      "url": "https://anilist.co/anime/8415"
+    },
+    "k": {
+      "id": "5327",
+      "url": "https://kitsu.io/anime/5327"
+    },
+    "mal": {
+      "id": "8415",
+      "url": "https://myanimelist.net/anime/8415"
+    }
+  }
+}

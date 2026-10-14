@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10457,
+  "slug": "murenase-seton-gakuen",
+  "kind": "anime",
+  "title": "Murenase! Seton Gakuen",
+  "titles": {
+    "default": "Murenase! Seton Gakuen",
+    "romaji": "Murenase! Seton Gakuen",
+    "english": "Seton Academy: Join the Pack!",
+    "native": "群れなせ！シートン学園"
+  },
+  "synonyms": [
+    "Murenase! Seton Gakuen",
+    "Seton Academy: Join the Pack!",
+    "群れなせ！シートン学園",
+    "Murenase! Shiiton Gakuen",
+    "Come Together! to the Seton Academy"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112293-UXFSGOfRbBe8.png"
+  ],
+  "references": {
+    "al": {
+      "id": "112293",
+      "url": "https://anilist.co/anime/112293"
+    },
+    "cr": {
+      "id": "seton-academy-join-the-pack",
+      "url": "https://www.crunchyroll.com/series/seton-academy-join-the-pack"
+    },
+    "mal": {
+      "id": "40483",
+      "url": "https://myanimelist.net/anime/40483"
+    },
+    "tx": {
+      "id": "anime_seton",
+      "url": "https://twitter.com/anime_seton"
+    }
+  }
+}

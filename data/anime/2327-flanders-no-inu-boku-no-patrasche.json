@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2327,
+  "slug": "flanders-no-inu-boku-no-patrasche",
+  "kind": "anime",
+  "title": "Flanders no Inu, Boku no Patrasche",
+  "titles": {
+    "default": "Flanders no Inu, Boku no Patrasche",
+    "romaji": "Flanders no Inu, Boku no Patrasche",
+    "english": "A Dog of Flanders: My Patrasche",
+    "native": "フランダースの犬　～ぼくのパトラッシュ～"
+  },
+  "synonyms": [
+    "Flanders no Inu, Boku no Patrasche",
+    "A Dog of Flanders: My Patrasche",
+    "フランダースの犬　～ぼくのパトラッシュ～",
+    "A Dog of Flanders: My Friend Patrasche",
+    "Un chien des Flandres",
+    "وديع بائع الحليب"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2624.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2624",
+      "url": "https://anilist.co/anime/2624"
+    },
+    "k": {
+      "id": "2388",
+      "url": "https://kitsu.io/anime/2388"
+    },
+    "mal": {
+      "id": "2624",
+      "url": "https://myanimelist.net/anime/2624"
+    }
+  }
+}

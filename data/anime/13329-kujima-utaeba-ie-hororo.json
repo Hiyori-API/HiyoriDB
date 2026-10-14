@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13329,
+  "slug": "kujima-utaeba-ie-hororo",
+  "kind": "anime",
+  "title": "Kujima Utaeba Ie Hororo",
+  "titles": {
+    "default": "Kujima Utaeba Ie Hororo",
+    "romaji": "Kujima Utaeba Ie Hororo",
+    "english": "Kujima: Why Sing, When You Can Warble?",
+    "native": "クジマ歌えば家ほろろ"
+  },
+  "synonyms": [
+    "Kujima Utaeba Ie Hororo",
+    "Kujima: Why Sing, When You Can Warble?",
+    "クジマ歌えば家ほろろ",
+    "ยามเมื่อคุจิมะขับขาน",
+    "This Ugly Yet Beautiful World",
+    "Kono Minikuku mo Utsukushii Sekai",
+    "この醜くも美しい世界"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177508-Ajz9UrU5SsQ0.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "177508",
+      "url": "https://anilist.co/anime/177508"
+    },
+    "cr": {
+      "id": "series/GT00371849/kujima-why-sing-when-you-can-warble",
+      "url": "https://www.crunchyroll.com/series/series/GT00371849/kujima-why-sing-when-you-can-warble"
+    },
+    "k": {
+      "id": "124",
+      "url": "https://kitsu.io/anime/124"
+    },
+    "mal": {
+      "id": "58832",
+      "url": "https://myanimelist.net/anime/58832"
+    },
+    "t": {
+      "id": "34001",
+      "url": "https://trakt.tv/shows/34001"
+    }
+  }
+}

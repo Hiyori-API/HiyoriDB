@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13481,
+  "slug": "ichigo-aika-zatsu-de-namaiki-na-imouto-to-warikirenai-ani",
+  "kind": "anime",
+  "title": "Ichigo Aika: Zatsu de Namaiki na Imouto to Warikirenai Ani",
+  "titles": {
+    "default": "Ichigo Aika: Zatsu de Namaiki na Imouto to Warikirenai Ani",
+    "romaji": "Ichigo Aika: Zatsu de Namaiki na Imouto to Warikirenai Ani",
+    "english": "Ichigo Aika: Strawberry Elegy",
+    "native": "イチゴ哀歌～雑で生イキな妹と割り切れない兄～"
+  },
+  "synonyms": [
+    "Ichigo Aika: Zatsu de Namaiki na Imouto to Warikirenai Ani",
+    "Ichigo Aika: Strawberry Elegy",
+    "イチゴ哀歌～雑で生イキな妹と割り切れない兄～",
+    "Aika. Caprichos prohibidos",
+    "Black Jack ONA",
+    "ブラック・ジャック(インターネット版)",
+    "Black Jack: Internet-han"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198767-PoG84HHFXTit.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "198767",
+      "url": "https://anilist.co/anime/198767"
+    },
+    "k": {
+      "id": "4904",
+      "url": "https://kitsu.io/anime/4904"
+    },
+    "mal": {
+      "id": "62897",
+      "url": "https://myanimelist.net/anime/62897"
+    }
+  }
+}

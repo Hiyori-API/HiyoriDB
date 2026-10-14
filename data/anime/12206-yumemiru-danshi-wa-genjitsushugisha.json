@@ -1,0 +1,63 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12206,
+  "slug": "yumemiru-danshi-wa-genjitsushugisha",
+  "kind": "anime",
+  "title": "Yumemiru Danshi wa Genjitsushugisha",
+  "titles": {
+    "default": "Yumemiru Danshi wa Genjitsushugisha",
+    "romaji": "Yumemiru Danshi wa Genjitsushugisha",
+    "english": "The Dreaming Boy is a Realist",
+    "native": "夢見る男子は現実主義者"
+  },
+  "synonyms": [
+    "Yumemiru Danshi wa Genjitsushugisha",
+    "The Dreaming Boy is a Realist",
+    "夢見る男子は現実主義者",
+    "เด็กหนุ่มจอมเพ้อฝัน ผู้ตื่นมามองความเป็นจริง",
+    "My Dreamy Realist",
+    "Il giovane sognatore è un realista",
+    "Full Metal Panic? Fumoffu",
+    "フルメタル・パニック? ふもっふ",
+    "Full Metal Panic Fumoffu",
+    "Fullmetal Panic? Fumoffu"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2023,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx157397-L1ZUMTuxf8OK.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "157397",
+      "url": "https://anilist.co/anime/157397"
+    },
+    "cr": {
+      "id": "full-metal-panic-fumoffu",
+      "url": "https://www.crunchyroll.com/series/full-metal-panic-fumoffu"
+    },
+    "k": {
+      "id": "52",
+      "url": "https://kitsu.io/anime/52"
+    },
+    "mal": {
+      "id": "53632",
+      "url": "https://myanimelist.net/anime/53632"
+    },
+    "t": {
+      "id": "12432",
+      "url": "https://trakt.tv/shows/12432"
+    },
+    "ttv": {
+      "id": "2377",
+      "url": "https://tubitv.com/series/2377"
+    },
+    "tx": {
+      "id": "yumemiru_anime",
+      "url": "https://twitter.com/yumemiru_anime"
+    }
+  }
+}

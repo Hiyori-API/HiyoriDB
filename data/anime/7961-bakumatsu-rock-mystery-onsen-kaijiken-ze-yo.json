@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7961,
+  "slug": "bakumatsu-rock-mystery-onsen-kaijiken-ze-yo",
+  "kind": "anime",
+  "title": "Bakumatsu Rock: Mystery! Onsen Kaijiken ze yo!!",
+  "titles": {
+    "default": "Bakumatsu Rock: Mystery! Onsen Kaijiken ze yo!!",
+    "romaji": "Bakumatsu Rock: Mystery! Onsen Kaijiken ze yo!!",
+    "native": "幕末Rock 湯煙推理劇[ミステリー]! 温泉怪事件ぜよ!!"
+  },
+  "synonyms": [
+    "Bakumatsu Rock: Mystery! Onsen Kaijiken ze yo!!",
+    "幕末Rock 湯煙推理劇[ミステリー]! 温泉怪事件ぜよ!!"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n107189-FmeF2jXPAy2o.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "107189",
+      "url": "https://anilist.co/anime/107189"
+    },
+    "k": {
+      "id": "8660",
+      "url": "https://kitsu.io/anime/8660"
+    },
+    "mal": {
+      "id": "25077",
+      "url": "https://myanimelist.net/anime/25077"
+    }
+  }
+}

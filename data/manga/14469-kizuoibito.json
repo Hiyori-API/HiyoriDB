@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14469,
+  "slug": "kizuoibito",
+  "kind": "manga",
+  "title": "Kizuoibito",
+  "titles": {
+    "default": "Kizuoibito"
+  },
+  "synonyms": [
+    "White Haired Devil",
+    "Wounded Man",
+    "傷追い人",
+    "Tetsu no Don Quixote",
+    "鉄のドンキホーテ",
+    "Iron Don Quixote",
+    "Mad Fighter",
+    "Hokuto no Ken The Origins",
+    "Hokuto no Ken Pilot"
+  ],
+  "type": "manga",
+  "chapters": 102,
+  "volumes": 11,
+  "status": "finished",
+  "year": 1982,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33978-pgGaBb3crwVE.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3064",
+      "url": "https://anilist.co/anime/3064"
+    },
+    "al_manga": {
+      "id": "3064",
+      "url": "https://anilist.co/manga/3064"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9825,
+  "slug": "shoujo-kageki-revue-starlight-specials",
+  "kind": "anime",
+  "title": "Shoujo☆Kageki Revue Starlight Specials",
+  "titles": {
+    "default": "Shoujo☆Kageki Revue Starlight Specials",
+    "romaji": "Shoujo☆Kageki Revue Starlight Specials",
+    "english": "Revue Starlight Specials",
+    "native": "少女☆歌劇 レヴュー・スタァライト 特別篇"
+  },
+  "synonyms": [
+    "Shoujo☆Kageki Revue Starlight Specials",
+    "Revue Starlight Specials",
+    "少女☆歌劇 レヴュー・スタァライト 特別篇",
+    "少女☆歌劇 レヴュー・スタァライト未放送エピソード"
+  ],
+  "type": "special",
+  "episodes": 3,
+  "status": "finished",
+  "season": "fall",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx103254-F7j1uvueRYQG.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "103254",
+      "url": "https://anilist.co/anime/103254"
+    },
+    "mal": {
+      "id": "38050",
+      "url": "https://myanimelist.net/anime/38050"
+    },
+    "tx": {
+      "id": "revuestarlight",
+      "url": "https://twitter.com/revuestarlight"
+    }
+  }
+}

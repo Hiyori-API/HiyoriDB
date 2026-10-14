@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15726,
+  "slug": "ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai",
+  "kind": "manga",
+  "title": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai",
+  "titles": {
+    "default": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai"
+  },
+  "synonyms": [
+    "My Little Sister Can't Be This Cute",
+    "Oreimo",
+    "น้องสาวของผมไม่น่ารักขนาดนั้นหรอก",
+    "俺の妹がこんなに可愛いわけがない",
+    "Kaichou no Joker",
+    "会長の切り札",
+    "Kaichou no Kirifuda"
+  ],
+  "type": "novel",
+  "chapters": 56,
+  "volumes": 12,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx43667-GB6leA3WTeAK.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "18857",
+      "url": "https://anilist.co/anime/8769"
+    },
+    "al_manga": {
+      "id": "18857",
+      "url": "https://anilist.co/manga/18857"
+    }
+  }
+}

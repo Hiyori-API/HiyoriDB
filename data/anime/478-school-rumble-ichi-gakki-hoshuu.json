@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 478,
+  "slug": "school-rumble-ichi-gakki-hoshuu",
+  "kind": "anime",
+  "title": "School Rumble Ichi Gakki Hoshuu",
+  "titles": {
+    "default": "School Rumble Ichi Gakki Hoshuu",
+    "romaji": "School Rumble Ichi Gakki Hoshuu",
+    "english": "School Rumble OVA",
+    "native": "スクールランブル一学期補習"
+  },
+  "synonyms": [
+    "School Rumble Ichi Gakki Hoshuu",
+    "School Rumble OVA",
+    "スクールランブル一学期補習",
+    "School Rumble: First Extra Term",
+    "School Rumble: Smile, Please! Mammoth, Yum! May I Fall in Love?",
+    "School Rumble:  New-Term Excitement! To Be Near You Scramble! The Naked Truth!",
+    "Embracing Love",
+    "Haru wo Daite Ita",
+    "春を抱いていた",
+    "Haru wo Daiteita"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b517-wYuK22CQJT6m.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "517",
+      "url": "https://anilist.co/anime/517"
+    },
+    "cr": {
+      "id": "school-rumble",
+      "url": "https://www.crunchyroll.com/series/school-rumble"
+    },
+    "k": {
+      "id": "669",
+      "url": "https://kitsu.io/anime/669"
+    },
+    "mal": {
+      "id": "517",
+      "url": "https://myanimelist.net/anime/517"
+    }
+  }
+}

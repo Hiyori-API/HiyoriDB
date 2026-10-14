@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9435,
+  "slug": "namakura-gatana-kunoichi-hen",
+  "kind": "anime",
+  "title": "Namakura Gatana: Kunoichi-hen",
+  "titles": {
+    "default": "Namakura Gatana: Kunoichi-hen",
+    "romaji": "Namakura Gatana: Kunoichi-hen",
+    "native": "なまくら刀・くノ一編"
+  },
+  "synonyms": [
+    "Namakura Gatana: Kunoichi-hen",
+    "なまくら刀・くノ一編",
+    "Namakura Gatana: Kunoichi Chapter",
+    "Catblue Dynamite",
+    "Catblue: Dynamite",
+    "キャットブルー：ダイナマイト"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b113139-JWE3dmjAH7pv.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "113139",
+      "url": "https://anilist.co/anime/113139"
+    },
+    "k": {
+      "id": "1645",
+      "url": "https://kitsu.io/anime/1645"
+    },
+    "mal": {
+      "id": "38059",
+      "url": "https://myanimelist.net/anime/38059"
+    }
+  }
+}

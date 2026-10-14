@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1032,
+  "slug": "melty-lancer-the-animation",
+  "kind": "anime",
+  "title": "Melty Lancer THE ANIMATION",
+  "titles": {
+    "default": "Melty Lancer THE ANIMATION",
+    "romaji": "Melty Lancer THE ANIMATION",
+    "english": "Meltylancer: The Animation",
+    "native": "メルティランサー THE ANIMATION"
+  },
+  "synonyms": [
+    "Melty Lancer THE ANIMATION",
+    "Meltylancer: The Animation",
+    "メルティランサー THE ANIMATION",
+    "Melty Lancer",
+    "メルティランサー",
+    "Melty Lancer: The Animation"
+  ],
+  "type": "ova",
+  "episodes": 6,
+  "status": "finished",
+  "season": "spring",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1155-xqJAeEsTpZoI.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1155",
+      "url": "https://anilist.co/anime/1155"
+    },
+    "k": {
+      "id": "1036",
+      "url": "https://kitsu.io/anime/1036"
+    },
+    "mal": {
+      "id": "1155",
+      "url": "https://myanimelist.net/anime/1155"
+    }
+  }
+}

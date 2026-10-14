@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6557,
+  "slug": "install-pilot",
+  "kind": "anime",
+  "title": "Install Pilot",
+  "titles": {
+    "default": "Install Pilot",
+    "romaji": "Install Pilot",
+    "native": "印ストール"
+  },
+  "synonyms": [
+    "Install Pilot",
+    "印ストール"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11043.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11043",
+      "url": "https://anilist.co/anime/11043"
+    },
+    "k": {
+      "id": "6445",
+      "url": "https://kitsu.io/anime/6445"
+    },
+    "mal": {
+      "id": "11043",
+      "url": "https://myanimelist.net/anime/11043"
+    }
+  }
+}

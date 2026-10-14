@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 748,
+  "slug": "narue-no-sekai",
+  "kind": "anime",
+  "title": "Narue no Sekai",
+  "titles": {
+    "default": "Narue no Sekai",
+    "romaji": "Narue no Sekai",
+    "english": "The World of Narue",
+    "native": "成恵の世界"
+  },
+  "synonyms": [
+    "Narue no Sekai",
+    "The World of Narue",
+    "成恵の世界",
+    "Narue's world"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/840.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "840",
+      "url": "https://anilist.co/anime/840"
+    },
+    "k": {
+      "id": "745",
+      "url": "https://kitsu.io/anime/745"
+    },
+    "mal": {
+      "id": "840",
+      "url": "https://myanimelist.net/anime/840"
+    },
+    "t": {
+      "id": "33921",
+      "url": "https://trakt.tv/shows/33921"
+    }
+  }
+}

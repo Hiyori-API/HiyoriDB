@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14335,
+  "slug": "otome-wa-boku-ni-koishiteru",
+  "kind": "manga",
+  "title": "Otome wa Boku ni Koishiteru",
+  "titles": {
+    "default": "Otome wa Boku ni Koishiteru"
+  },
+  "synonyms": [
+    "Otome wa Boku ni Koi Shiteru",
+    "The Maidens are Falling in Love with the Elder Sister",
+    "Otoboku",
+    "乙女はお姉さまに恋してる",
+    "Love Makes People Grow",
+    "Hito wa Ai wo Tabete Sodatsu",
+    "人は愛を食べて育つ",
+    "Eat Love and Grow",
+    "Hito wa ai o tabete sodatsu"
+  ],
+  "type": "manga",
+  "chapters": 21,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2955.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1569",
+      "url": "https://anilist.co/anime/1569"
+    },
+    "al_manga": {
+      "id": "1569",
+      "url": "https://anilist.co/manga/1569"
+    }
+  }
+}

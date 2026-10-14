@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3056,
+  "slug": "d-c-ii-s-s-da-capo-ii-second-season",
+  "kind": "anime",
+  "title": "D.C.II S.S.: Da Capo II Second Season",
+  "titles": {
+    "default": "D.C.II S.S.: Da Capo II Second Season",
+    "romaji": "D.C.II S.S.: Da Capo II Second Season",
+    "native": "D.C.II S.S. ～ダ・カーポII セカンドシーズン～"
+  },
+  "synonyms": [
+    "D.C.II S.S.: Da Capo II Second Season",
+    "D.C.II S.S. ～ダ・カーポII セカンドシーズン～",
+    "D.C. II S.S.",
+    "D.C.II S.S.: Da Capo II 2nd Season"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3627-wbFO19SGqK9e.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3627",
+      "url": "https://anilist.co/anime/3627"
+    },
+    "k": {
+      "id": "3151",
+      "url": "https://kitsu.io/anime/3151"
+    },
+    "mal": {
+      "id": "3627",
+      "url": "https://myanimelist.net/anime/3627"
+    },
+    "t": {
+      "id": "63507",
+      "url": "https://trakt.tv/shows/63507"
+    }
+  }
+}

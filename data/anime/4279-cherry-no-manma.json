@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4279,
+  "slug": "cherry-no-manma",
+  "kind": "anime",
+  "title": "Cherry no Manma",
+  "titles": {
+    "default": "Cherry no Manma",
+    "romaji": "Cherry no Manma",
+    "native": "Cherryのまんま"
+  },
+  "synonyms": [
+    "Cherry no Manma",
+    "Cherryのまんま",
+    "CnM",
+    "Cherry no Mama"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6346.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6346",
+      "url": "https://anilist.co/anime/6346"
+    },
+    "k": {
+      "id": "4527",
+      "url": "https://kitsu.io/anime/4527"
+    },
+    "mal": {
+      "id": "6346",
+      "url": "https://myanimelist.net/anime/6346"
+    }
+  }
+}

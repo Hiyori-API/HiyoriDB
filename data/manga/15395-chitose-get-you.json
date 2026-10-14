@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15395,
+  "slug": "chitose-get-you",
+  "kind": "manga",
+  "title": "Chitose Get You!!",
+  "titles": {
+    "default": "Chitose Get You!!"
+  },
+  "synonyms": [
+    "ちとせげっちゅ!!",
+    "Railroad",
+    "레일로드"
+  ],
+  "type": "manga",
+  "chapters": 202,
+  "volumes": 10,
+  "status": "finished",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx65755-kCvAF2fgKYHR.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "14277",
+      "url": "https://anilist.co/anime/16319"
+    },
+    "al_manga": {
+      "id": "14277",
+      "url": "https://anilist.co/manga/14277"
+    }
+  }
+}

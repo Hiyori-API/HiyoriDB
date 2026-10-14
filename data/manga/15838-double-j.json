@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15838,
+  "slug": "double-j",
+  "kind": "manga",
+  "title": "Double-J",
+  "titles": {
+    "default": "Double-J"
+  },
+  "synonyms": [
+    "Daburu Jei",
+    "Double J",
+    "だぶるじぇい",
+    "Double-J"
+  ],
+  "type": "manga",
+  "chapters": 106,
+  "volumes": 6,
+  "status": "finished",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx45006-YOHxMSjs56qX.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10838",
+      "url": "https://anilist.co/anime/10838"
+    },
+    "al_manga": {
+      "id": "10838",
+      "url": "https://anilist.co/manga/10838"
+    }
+  }
+}

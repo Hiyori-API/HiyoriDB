@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5155,
+  "slug": "hotaru-kagayaku",
+  "kind": "anime",
+  "title": "Hotaru Kagayaku",
+  "titles": {
+    "default": "Hotaru Kagayaku",
+    "romaji": "Hotaru Kagayaku",
+    "native": "ホタルかがやく"
+  },
+  "synonyms": [
+    "Hotaru Kagayaku",
+    "ホタルかがやく",
+    "Shining Fireflies"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b18747-sDXuXhNpHNBr.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "18747",
+      "url": "https://anilist.co/anime/18747"
+    },
+    "k": {
+      "id": "9328",
+      "url": "https://kitsu.io/anime/9328"
+    },
+    "mal": {
+      "id": "18747",
+      "url": "https://myanimelist.net/anime/18747"
+    }
+  }
+}

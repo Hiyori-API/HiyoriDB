@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15043,
+  "slug": "break-age",
+  "kind": "manga",
+  "title": "Break-Age",
+  "titles": {
+    "default": "Break-Age"
+  },
+  "synonyms": [
+    "Break Age",
+    "ブレイク-エイジ",
+    "Fushigi Yugi",
+    "Fushigi Yuugi",
+    "ふしぎ遊戯",
+    "Mysterious Play",
+    "Curious Play"
+  ],
+  "type": "manga",
+  "chapters": 66,
+  "volumes": 10,
+  "status": "finished",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/8746.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6447",
+      "url": "https://anilist.co/anime/6447"
+    },
+    "al_manga": {
+      "id": "6447",
+      "url": "https://anilist.co/manga/6447"
+    }
+  }
+}

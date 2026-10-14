@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11436,
+  "slug": "ryuusatsu-no-kyoukotsu",
+  "kind": "anime",
+  "title": "Ryuusatsu no Kyoukotsu",
+  "titles": {
+    "default": "Ryuusatsu no Kyoukotsu",
+    "romaji": "Ryuusatsu no Kyoukotsu",
+    "native": "龍殺ノ狂骨"
+  },
+  "synonyms": [
+    "Ryuusatsu no Kyoukotsu",
+    "龍殺ノ狂骨",
+    "Anime no Tane 2021",
+    "Young Animator Training Project 2021",
+    "The Princess of Yoshino",
+    "Yoshino no Hime",
+    "吉野の姫制"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136140-ozeJF4pcUjzK.png"
+  ],
+  "references": {
+    "al": {
+      "id": "136140",
+      "url": "https://anilist.co/anime/136140"
+    },
+    "k": {
+      "id": "3727",
+      "url": "https://kitsu.io/anime/3727"
+    },
+    "mal": {
+      "id": "48589",
+      "url": "https://myanimelist.net/anime/48589"
+    }
+  }
+}

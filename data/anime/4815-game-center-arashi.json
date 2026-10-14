@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4815,
+  "slug": "game-center-arashi",
+  "kind": "anime",
+  "title": "Game Center Arashi",
+  "titles": {
+    "default": "Game Center Arashi",
+    "romaji": "Game Center Arashi",
+    "native": "ゲームセンターあらし"
+  },
+  "synonyms": [
+    "Game Center Arashi",
+    "ゲームセンターあらし",
+    "Game Centre Arashi"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 1982,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12243.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12243",
+      "url": "https://anilist.co/anime/12243"
+    },
+    "k": {
+      "id": "6694",
+      "url": "https://kitsu.io/anime/6694"
+    },
+    "mal": {
+      "id": "12243",
+      "url": "https://myanimelist.net/anime/12243"
+    }
+  }
+}

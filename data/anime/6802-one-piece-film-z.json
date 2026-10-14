@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6802,
+  "slug": "one-piece-film-z",
+  "kind": "anime",
+  "title": "ONE PIECE FILM: Z",
+  "titles": {
+    "default": "ONE PIECE FILM: Z",
+    "romaji": "ONE PIECE FILM: Z",
+    "english": "One Piece Film: Z",
+    "native": "ONE PIECE FILM Z"
+  },
+  "synonyms": [
+    "ONE PIECE FILM: Z",
+    "One Piece Film: Z",
+    "ONE PIECE FILM Z",
+    "One Piece Film 12: Z",
+    "海贼王剧场版Z",
+    "One Piece Gold - Il film",
+    "One Piece Film Z",
+    "ワンピース　フィルム　﻿Ｚ",
+    "One Piece Movie 12"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12859-uQFENDPzMWz6.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12859",
+      "url": "https://anilist.co/anime/12859"
+    },
+    "cr": {
+      "id": "watch/GX9U34WGN/one-piece-film-z",
+      "url": "https://www.crunchyroll.com/series/watch/GX9U34WGN/one-piece-film-z"
+    },
+    "k": {
+      "id": "6827",
+      "url": "https://kitsu.io/anime/6827"
+    },
+    "mal": {
+      "id": "12859",
+      "url": "https://myanimelist.net/anime/12859"
+    },
+    "nf": {
+      "id": "80198443",
+      "url": "https://www.netflix.com/title/80198443"
+    }
+  }
+}

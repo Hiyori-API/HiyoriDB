@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10476,
+  "slug": "healin-good-precure",
+  "kind": "anime",
+  "title": "Healin' Good♥Precure",
+  "titles": {
+    "default": "Healin' Good♥Precure",
+    "romaji": "Healin' Good♥Precure",
+    "english": "Healin' Good Precure",
+    "native": "ヒーリングっど♥プリキュア"
+  },
+  "synonyms": [
+    "Healin' Good♥Precure",
+    "Healin' Good Precure",
+    "ヒーリングっど♥プリキュア",
+    "Healin' Good Pretty Cure",
+    "Healin' Good♡Precure"
+  ],
+  "type": "tv",
+  "episodes": 45,
+  "status": "finished",
+  "season": "winter",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112748-UU9yEob7meZj.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "112748",
+      "url": "https://anilist.co/anime/112748"
+    },
+    "cr": {
+      "id": "healin-good-pretty-cure",
+      "url": "https://www.crunchyroll.com/series/healin-good-pretty-cure"
+    },
+    "mal": {
+      "id": "40610",
+      "url": "https://myanimelist.net/anime/40610"
+    }
+  }
+}

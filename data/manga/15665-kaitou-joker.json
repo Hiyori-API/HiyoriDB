@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15665,
+  "slug": "kaitou-joker",
+  "kind": "manga",
+  "title": "Kaitou Joker",
+  "titles": {
+    "default": "Kaitou Joker"
+  },
+  "synonyms": [
+    "Mysterious Joker",
+    "怪盗ジョーカー",
+    "Kataomoi no Mukougawa",
+    "片想いの向こう側",
+    "Kataomoi no Mukou Gawa",
+    "Ano Kado o Magareba",
+    "Tenshi ga Kuretamono",
+    "Bitou na Koi",
+    "Kimi to Natsu no Aizu"
+  ],
+  "type": "manga",
+  "chapters": 166,
+  "volumes": 26,
+  "status": "finished",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx91981-dTQ5Z9LQ1TmN.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21859",
+      "url": "https://anilist.co/anime/20818"
+    },
+    "al_manga": {
+      "id": "21859",
+      "url": "https://anilist.co/manga/21859"
+    }
+  }
+}

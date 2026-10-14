@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7381,
+  "slug": "mewtwo-kakusei-e-no-prologue",
+  "kind": "anime",
+  "title": "Mewtwo: Kakusei e no Prologue",
+  "titles": {
+    "default": "Mewtwo: Kakusei e no Prologue",
+    "romaji": "Mewtwo: Kakusei e no Prologue",
+    "english": "Pokémon: Mewtwo—Prologue to Awakening",
+    "native": "ミュウツー ~覚醒への序章[プロローグ]～"
+  },
+  "synonyms": [
+    "Mewtwo: Kakusei e no Prologue",
+    "Pokémon: Mewtwo—Prologue to Awakening",
+    "ミュウツー ~覚醒への序章[プロローグ]～",
+    "Mewtwo: Kakusei he no Prologue",
+    "Pokemon: Mewtwo - Prologue to Awakening",
+    "Pokemon: Mewtwo - Kakusei e no Prologue"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19099.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "19099",
+      "url": "https://anilist.co/anime/19099"
+    },
+    "k": {
+      "id": "7789",
+      "url": "https://kitsu.io/anime/7789"
+    },
+    "mal": {
+      "id": "19099",
+      "url": "https://myanimelist.net/anime/19099"
+    }
+  }
+}

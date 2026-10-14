@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14474,
+  "slug": "ginga-densetsu-weed",
+  "kind": "manga",
+  "title": "Ginga Densetsu WEED",
+  "titles": {
+    "default": "Ginga Densetsu WEED"
+  },
+  "synonyms": [
+    "Silver Fang Legend Weed",
+    "은아전설 위드",
+    "WEED",
+    "銀牙伝説ウィード",
+    "Ginga Legend Weed",
+    "銀牙伝説WEED",
+    "Paradise Kiss",
+    "パラダイス・キス",
+    "ParaKiss"
+  ],
+  "type": "manga",
+  "chapters": 500,
+  "volumes": 60,
+  "status": "finished",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx34010-acyCF9qZ16DV.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "915",
+      "url": "https://anilist.co/anime/915"
+    },
+    "al_manga": {
+      "id": "915",
+      "url": "https://anilist.co/manga/915"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13794,
+  "slug": "fruits-basket",
+  "kind": "manga",
+  "title": "Fruits Basket",
+  "titles": {
+    "default": "Fruits Basket"
+  },
+  "synonyms": [
+    "Furuba",
+    "Fruba",
+    "フルバ",
+    "水果篮子",
+    "후르츠 바스켓",
+    "Fruits Basket",
+    "フルーツバスケット"
+  ],
+  "type": "manga",
+  "chapters": 137,
+  "volumes": 23,
+  "status": "finished",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30102-MJuQ0e0k2CgU.png"
+  ],
+  "references": {
+    "al": {
+      "id": "136192",
+      "url": "https://anilist.co/anime/120"
+    },
+    "al_manga": {
+      "id": "136192",
+      "url": "https://anilist.co/manga/136192"
+    }
+  }
+}

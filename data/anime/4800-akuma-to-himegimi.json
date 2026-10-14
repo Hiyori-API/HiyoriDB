@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4800,
+  "slug": "akuma-to-himegimi",
+  "kind": "anime",
+  "title": "Akuma to Himegimi",
+  "titles": {
+    "default": "Akuma to Himegimi",
+    "romaji": "Akuma to Himegimi",
+    "native": "悪魔と姫ぎみ"
+  },
+  "synonyms": [
+    "Akuma to Himegimi",
+    "悪魔と姫ぎみ",
+    "The Devil and the Princess",
+    "悪魔と姫君"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1981,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b168574-k0AX5QXkzcxj.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "168574",
+      "url": "https://anilist.co/anime/168574"
+    },
+    "k": {
+      "id": "9187",
+      "url": "https://kitsu.io/anime/9187"
+    },
+    "mal": {
+      "id": "23779",
+      "url": "https://myanimelist.net/anime/23779"
+    }
+  }
+}

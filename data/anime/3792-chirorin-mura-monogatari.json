@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3792,
+  "slug": "chirorin-mura-monogatari",
+  "kind": "anime",
+  "title": "Chirorin Mura Monogatari",
+  "titles": {
+    "default": "Chirorin Mura Monogatari",
+    "romaji": "Chirorin Mura Monogatari",
+    "english": "Chirorin Village Story",
+    "native": "チロリン村物語"
+  },
+  "synonyms": [
+    "Chirorin Mura Monogatari",
+    "Chirorin Village Story",
+    "チロリン村物語",
+    "Nutsberry Town"
+  ],
+  "type": "tv",
+  "episodes": 170,
+  "status": "finished",
+  "season": "spring",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5202.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5202",
+      "url": "https://anilist.co/anime/5202"
+    },
+    "k": {
+      "id": "5607",
+      "url": "https://kitsu.io/anime/5607"
+    },
+    "mal": {
+      "id": "9119",
+      "url": "https://myanimelist.net/anime/9119"
+    }
+  }
+}

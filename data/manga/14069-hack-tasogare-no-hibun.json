@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14069,
+  "slug": "hack-tasogare-no-hibun",
+  "kind": "manga",
+  "title": ".hack//Tasogare no Hibun",
+  "titles": {
+    "default": ".hack//Tasogare no Hibun"
+  },
+  "synonyms": [
+    "Epitaph of Twilight",
+    ".hack//Epitaph of Twilight",
+    ".hack//黄昏の碑文",
+    ".hack//Tasogare no Hibun"
+  ],
+  "type": "novel",
+  "chapters": 12,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/17635.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "48",
+      "url": "https://anilist.co/anime/48"
+    },
+    "al_manga": {
+      "id": "48",
+      "url": "https://anilist.co/manga/48"
+    }
+  }
+}

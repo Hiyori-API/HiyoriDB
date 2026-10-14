@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9691,
+  "slug": "moshi-moshi-terumi-desu",
+  "kind": "anime",
+  "title": "Moshi Moshi, Terumi Desu",
+  "titles": {
+    "default": "Moshi Moshi, Terumi Desu",
+    "romaji": "Moshi Moshi, Terumi Desu",
+    "native": "もしもし、てるみです。"
+  },
+  "synonyms": [
+    "Moshi Moshi, Terumi Desu",
+    "もしもし、てるみです。",
+    "Moshimoshi",
+    "Terumi Desu",
+    "からめるハニー",
+    "Caramel Honey"
+  ],
+  "type": "ona",
+  "episodes": 30,
+  "status": "finished",
+  "season": "spring",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b101089-T1Z8bM1jxgEz.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101089",
+      "url": "https://anilist.co/anime/101089"
+    },
+    "mal": {
+      "id": "37246",
+      "url": "https://myanimelist.net/anime/37246"
+    }
+  }
+}

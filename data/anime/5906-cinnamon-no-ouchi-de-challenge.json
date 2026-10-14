@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5906,
+  "slug": "cinnamon-no-ouchi-de-challenge",
+  "kind": "anime",
+  "title": "Cinnamon no Ouchi de Challenge",
+  "titles": {
+    "default": "Cinnamon no Ouchi de Challenge",
+    "romaji": "Cinnamon no Ouchi de Challenge",
+    "native": "シナモンの おうちでチャレンジ"
+  },
+  "synonyms": [
+    "Cinnamon no Ouchi de Challenge",
+    "シナモンの おうちでチャレンジ",
+    "When They Cry: Rei",
+    "Higurashi no Naku Koro ni Rei",
+    "ひぐらしのなく頃に礼",
+    "Higurashi no Naku Koro ni 3rd Season",
+    "Higurashi no Naku Koro ni Dai San Ki"
+  ],
+  "type": "ova",
+  "episodes": 5,
+  "status": "finished",
+  "season": "spring",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx168635-JQZOW29ImsaM.png"
+  ],
+  "references": {
+    "al": {
+      "id": "168635",
+      "url": "https://anilist.co/anime/168635"
+    },
+    "k": {
+      "id": "3170",
+      "url": "https://kitsu.io/anime/3170"
+    },
+    "mal": {
+      "id": "52147",
+      "url": "https://myanimelist.net/anime/52147"
+    }
+  }
+}

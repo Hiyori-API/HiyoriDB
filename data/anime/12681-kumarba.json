@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12681,
+  "slug": "kumarba",
+  "kind": "anime",
+  "title": "Kumarba",
+  "titles": {
+    "default": "Kumarba",
+    "romaji": "Kumarba",
+    "native": "クマーバ"
+  },
+  "synonyms": [
+    "Kumarba",
+    "クマーバ",
+    "This Ugly Yet Beautiful World",
+    "Kono Minikuku mo Utsukushii Sekai",
+    "この醜くも美しい世界"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2024,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx173249-wdL8HaSVtCgQ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "173249",
+      "url": "https://anilist.co/anime/173249"
+    },
+    "k": {
+      "id": "124",
+      "url": "https://kitsu.io/anime/124"
+    },
+    "mal": {
+      "id": "58463",
+      "url": "https://myanimelist.net/anime/58463"
+    },
+    "t": {
+      "id": "34001",
+      "url": "https://trakt.tv/shows/34001"
+    },
+    "tx": {
+      "id": "kumarbakids",
+      "url": "https://twitter.com/kumarbakids"
+    }
+  }
+}

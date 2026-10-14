@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8675,
+  "slug": "hibike-euphonium-kitauji-koukou-suisougaku-bu-e-youkoso",
+  "kind": "anime",
+  "title": "Hibike! Euphonium: Kitauji Koukou Suisougaku-bu e Youkoso",
+  "titles": {
+    "default": "Hibike! Euphonium: Kitauji Koukou Suisougaku-bu e Youkoso",
+    "romaji": "Hibike! Euphonium: Kitauji Koukou Suisougaku-bu e Youkoso",
+    "english": "Sound! Euphonium The Movie: Welcome to the Kitauji High School Concert Band",
+    "native": "劇場版 響け！ユーフォニアム～北宇治高校吹奏楽部へようこそ～"
+  },
+  "synonyms": [
+    "Hibike! Euphonium: Kitauji Koukou Suisougaku-bu e Youkoso",
+    "Sound! Euphonium The Movie: Welcome to the Kitauji High School Concert Band",
+    "劇場版 響け！ユーフォニアム～北宇治高校吹奏楽部へようこそ～",
+    "Kizumonogatari Part 1: Tekketsu",
+    "Kizumonogatari I: Tekketsu-hen",
+    "傷物語〈Ⅰ鉄血篇〉",
+    "Koyomi Vamp"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21638-sQ9UPJ4OtsDY.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21638",
+      "url": "https://anilist.co/anime/21638"
+    },
+    "cr": {
+      "id": "sound-euphonium-movies",
+      "url": "https://www.crunchyroll.com/series/sound-euphonium-movies"
+    },
+    "k": {
+      "id": "5649",
+      "url": "https://kitsu.io/anime/5649"
+    },
+    "mal": {
+      "id": "31989",
+      "url": "https://myanimelist.net/anime/31989"
+    },
+    "t": {
+      "id": "45938",
+      "url": "https://trakt.tv/shows/45938"
+    },
+    "tx": {
+      "id": "anime_eupho",
+      "url": "https://twitter.com/anime_eupho"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5128,
+  "slug": "samuraider",
+  "kind": "anime",
+  "title": "Samuraider",
+  "titles": {
+    "default": "Samuraider",
+    "romaji": "Samuraider",
+    "native": "サムライダー"
+  },
+  "synonyms": [
+    "Samuraider",
+    "サムライダー",
+    "Samuraider: Nazo no Tenkousei",
+    "Wizardry",
+    "ウィザードリィ"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9993.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9993",
+      "url": "https://anilist.co/anime/9993"
+    },
+    "k": {
+      "id": "962",
+      "url": "https://kitsu.io/anime/962"
+    },
+    "mal": {
+      "id": "9993",
+      "url": "https://myanimelist.net/anime/9993"
+    }
+  }
+}

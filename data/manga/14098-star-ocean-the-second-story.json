@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14098,
+  "slug": "star-ocean-the-second-story",
+  "kind": "manga",
+  "title": "Star Ocean: The Second Story",
+  "titles": {
+    "default": "Star Ocean: The Second Story"
+  },
+  "synonyms": [
+    "Star Ocean 2",
+    "Star Ocean EX",
+    "スターオーシャン セカンドストーリー",
+    "Star Ocean: The Second Story"
+  ],
+  "type": "manga",
+  "volumes": 7,
+  "status": "finished",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31053-NeIdlqXWaKvX.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1005",
+      "url": "https://anilist.co/anime/1005"
+    },
+    "al_manga": {
+      "id": "1005",
+      "url": "https://anilist.co/manga/1005"
+    }
+  }
+}

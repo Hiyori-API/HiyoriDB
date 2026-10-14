@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8868,
+  "slug": "chou-do-m-na-hentai-mesu-tachi-otokoton-choukyou-itashimasu",
+  "kind": "anime",
+  "title": "Chou Do M na Hentai Mesu-tachi Otokoton Choukyou Itashimasu!",
+  "titles": {
+    "default": "Chou Do M na Hentai Mesu-tachi Otokoton Choukyou Itashimasu!",
+    "romaji": "Chou Do M na Hentai Mesu-tachi Otokoton Choukyou Itashimasu!",
+    "native": "超ドMなヘンタイ牝たちをとことん調教いたします! 縛られて身動きできねえのに腰だけ下から突上げてきやがる!"
+  },
+  "synonyms": [
+    "Chou Do M na Hentai Mesu-tachi Otokoton Choukyou Itashimasu!",
+    "超ドMなヘンタイ牝たちをとことん調教いたします! 縛られて身動きできねえのに腰だけ下から突上げてきやがる!",
+    "Trick or Alice",
+    "トリック・オア・アリス"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/97906-3EBkDliydPc2.png"
+  ],
+  "references": {
+    "al": {
+      "id": "97906",
+      "url": "https://anilist.co/anime/97906"
+    },
+    "k": {
+      "id": "8100",
+      "url": "https://kitsu.io/anime/8100"
+    },
+    "mal": {
+      "id": "33960",
+      "url": "https://myanimelist.net/anime/33960"
+    }
+  }
+}

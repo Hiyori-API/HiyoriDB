@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8406,
+  "slug": "shinkyoku-no-grimoire-the-animation-unico-no-natsuyasumi",
+  "kind": "anime",
+  "title": "Shinkyoku no Grimoire THE ANIMATION: Unico no Natsuyasumi",
+  "titles": {
+    "default": "Shinkyoku no Grimoire THE ANIMATION: Unico no Natsuyasumi",
+    "romaji": "Shinkyoku no Grimoire THE ANIMATION: Unico no Natsuyasumi",
+    "native": "神曲のグリモワール THE ANIMATION ユニコの夏休み"
+  },
+  "synonyms": [
+    "Shinkyoku no Grimoire THE ANIMATION: Unico no Natsuyasumi",
+    "神曲のグリモワール THE ANIMATION ユニコの夏休み",
+    "Shinkyoku no Grimoire The Animation Special",
+    "Uniko's Summer Vacation",
+    "Shinkyoku no Grimoire The Animation Beach Special",
+    "Shinkyoku no Grimoire The Animation Omake Eizou",
+    "Grimoire of the Divine Comedy",
+    "Bokura wa Minna Kawai-sou: Hajimete no",
+    "僕らはみんな河合荘 初めての",
+    "The Kawai Complex Guide to Manors and Hostel Behavior: First Time",
+    "Bokura wa Minna Kawaisou: Hajimete no",
+    "Bokura wa Minna Kawaisou Special"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98972-edhvC9LEDxPo.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98972",
+      "url": "https://anilist.co/anime/98972"
+    },
+    "k": {
+      "id": "8536",
+      "url": "https://kitsu.io/anime/8536"
+    },
+    "mal": {
+      "id": "33588",
+      "url": "https://myanimelist.net/anime/33588"
+    }
+  }
+}

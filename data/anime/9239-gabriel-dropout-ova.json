@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9239,
+  "slug": "gabriel-dropout-ova",
+  "kind": "anime",
+  "title": "Gabriel Dropout OVA",
+  "titles": {
+    "default": "Gabriel Dropout OVA",
+    "romaji": "Gabriel Dropout OVA",
+    "native": "ガヴリールドロップアウト OVA"
+  },
+  "synonyms": [
+    "Gabriel Dropout OVA",
+    "ガヴリールドロップアウト OVA",
+    "Stratos 4 OVA",
+    "ストラトス・フォー OVA"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98524-cuUdbvhvPkcP.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98524",
+      "url": "https://anilist.co/anime/98524"
+    },
+    "k": {
+      "id": "386",
+      "url": "https://kitsu.io/anime/386"
+    },
+    "mal": {
+      "id": "34855",
+      "url": "https://myanimelist.net/anime/34855"
+    }
+  }
+}

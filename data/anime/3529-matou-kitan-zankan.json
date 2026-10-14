@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3529,
+  "slug": "matou-kitan-zankan",
+  "kind": "anime",
+  "title": "Matou Kitan ZANKAN",
+  "titles": {
+    "default": "Matou Kitan ZANKAN",
+    "romaji": "Matou Kitan ZANKAN",
+    "native": "魔法綺譚ZANKAN[斬奸]"
+  },
+  "synonyms": [
+    "Matou Kitan ZANKAN",
+    "魔法綺譚ZANKAN[斬奸]",
+    "Mato Kitan Zankan",
+    "Apocalypse Zero",
+    "Kakugo no Susume",
+    "覚悟のススメ"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4560.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4560",
+      "url": "https://anilist.co/anime/4560"
+    },
+    "k": {
+      "id": "1481",
+      "url": "https://kitsu.io/anime/1481"
+    },
+    "mal": {
+      "id": "4560",
+      "url": "https://myanimelist.net/anime/4560"
+    }
+  }
+}

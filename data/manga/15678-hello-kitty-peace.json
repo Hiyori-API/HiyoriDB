@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15678,
+  "slug": "hello-kitty-peace",
+  "kind": "manga",
+  "title": "Hello Kitty Peace!!",
+  "titles": {
+    "default": "Hello Kitty Peace!!"
+  },
+  "synonyms": [
+    "Haroo Kiti Piisu!",
+    "ハローキティ ピース!!",
+    "Hello Kitty Peace!!"
+  ],
+  "type": "manga",
+  "chapters": 12,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/15829.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4024",
+      "url": "https://anilist.co/anime/4024"
+    },
+    "al_manga": {
+      "id": "4024",
+      "url": "https://anilist.co/manga/4024"
+    }
+  }
+}

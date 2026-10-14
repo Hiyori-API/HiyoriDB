@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 706,
+  "slug": "shinigami-no-ballad",
+  "kind": "anime",
+  "title": "Shinigami no Ballad.",
+  "titles": {
+    "default": "Shinigami no Ballad.",
+    "romaji": "Shinigami no Ballad.",
+    "english": "Momo, the Girl God of Death",
+    "native": "しにがみのバラッド。"
+  },
+  "synonyms": [
+    "Shinigami no Ballad.",
+    "Momo, the Girl God of Death",
+    "しにがみのバラッド。",
+    "Shinigami no Ballad: Momo the Girl God of Death",
+    "Shinigami's Ballad",
+    "Momo",
+    "Shinigami no Ballad.: Momo the Girl God of Death"
+  ],
+  "type": "tv",
+  "episodes": 6,
+  "status": "finished",
+  "season": "spring",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx789-wfR4OziJ8Ton.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "789",
+      "url": "https://anilist.co/anime/789"
+    },
+    "k": {
+      "id": "704",
+      "url": "https://kitsu.io/anime/704"
+    },
+    "mal": {
+      "id": "789",
+      "url": "https://myanimelist.net/anime/789"
+    },
+    "t": {
+      "id": "42638",
+      "url": "https://trakt.tv/shows/42638"
+    }
+  }
+}

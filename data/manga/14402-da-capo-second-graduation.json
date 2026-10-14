@@ -1,0 +1,31 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14402,
+  "slug": "da-capo-second-graduation",
+  "kind": "manga",
+  "title": "Da Capo Second Graduation",
+  "titles": {
+    "default": "Da Capo Second Graduation"
+  },
+  "synonyms": [
+    "Railroad",
+    "레일로드"
+  ],
+  "type": "manga",
+  "volumes": 3,
+  "status": "finished",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3327.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "291",
+      "url": "https://anilist.co/anime/291"
+    },
+    "al_manga": {
+      "id": "291",
+      "url": "https://anilist.co/manga/291"
+    }
+  }
+}

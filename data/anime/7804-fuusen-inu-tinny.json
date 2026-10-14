@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7804,
+  "slug": "fuusen-inu-tinny",
+  "kind": "anime",
+  "title": "Fuusen Inu Tinny",
+  "titles": {
+    "default": "Fuusen Inu Tinny",
+    "romaji": "Fuusen Inu Tinny",
+    "native": "ふうせんいぬティニー"
+  },
+  "synonyms": [
+    "Fuusen Inu Tinny",
+    "ふうせんいぬティニー",
+    "Tinny the Balloon Dog",
+    "The Irregular at Magic High School",
+    "Mahouka Koukou no Rettousei",
+    "魔法科高校の劣等生"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20865.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "20865",
+      "url": "https://anilist.co/anime/20865"
+    },
+    "cr": {
+      "id": "the-irregular-at-magic-high-school",
+      "url": "https://www.crunchyroll.com/series/the-irregular-at-magic-high-school"
+    },
+    "k": {
+      "id": "8053",
+      "url": "https://kitsu.io/anime/8053"
+    },
+    "mal": {
+      "id": "25503",
+      "url": "https://myanimelist.net/anime/25503"
+    },
+    "t": {
+      "id": "60390",
+      "url": "https://trakt.tv/shows/60390"
+    }
+  }
+}

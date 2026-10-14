@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3660,
+  "slug": "pikachu-no-fuyuyasumi",
+  "kind": "anime",
+  "title": "Pikachu no Fuyuyasumi",
+  "titles": {
+    "default": "Pikachu no Fuyuyasumi",
+    "romaji": "Pikachu no Fuyuyasumi",
+    "english": "Pokémon: Pikachu's Winter Vacation",
+    "native": "ピカチュウのふゆやすみ"
+  },
+  "synonyms": [
+    "Pikachu no Fuyuyasumi",
+    "Pokémon: Pikachu's Winter Vacation",
+    "ピカチュウのふゆやすみ",
+    "Pocket Monsters: Pikachu no Fuyuyasumi",
+    "Gravitation: Lyrics of Love",
+    "グラビテーション"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4874.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4874",
+      "url": "https://anilist.co/anime/4874"
+    },
+    "k": {
+      "id": "466",
+      "url": "https://kitsu.io/anime/466"
+    },
+    "mal": {
+      "id": "4874",
+      "url": "https://myanimelist.net/anime/4874"
+    }
+  }
+}

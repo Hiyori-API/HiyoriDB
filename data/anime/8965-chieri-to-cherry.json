@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8965,
+  "slug": "chieri-to-cherry",
+  "kind": "anime",
+  "title": "Chieri to Cherry",
+  "titles": {
+    "default": "Chieri to Cherry",
+    "romaji": "Chieri to Cherry",
+    "english": "Chieri and Cherry",
+    "native": "ちえりとチェリー"
+  },
+  "synonyms": [
+    "Chieri to Cherry",
+    "Chieri and Cherry",
+    "ちえりとチェリー",
+    "Kizumonogatari Part 1: Tekketsu",
+    "Kizumonogatari I: Tekketsu-hen",
+    "傷物語〈Ⅰ鉄血篇〉",
+    "Koyomi Vamp"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145680-V3rJ7I75qCPM.png"
+  ],
+  "references": {
+    "al": {
+      "id": "145680",
+      "url": "https://anilist.co/anime/145680"
+    },
+    "k": {
+      "id": "5649",
+      "url": "https://kitsu.io/anime/5649"
+    },
+    "mal": {
+      "id": "31236",
+      "url": "https://myanimelist.net/anime/31236"
+    },
+    "t": {
+      "id": "45938",
+      "url": "https://trakt.tv/shows/45938"
+    },
+    "tx": {
+      "id": "chieriandcherry",
+      "url": "https://twitter.com/chieriandcherry"
+    }
+  }
+}

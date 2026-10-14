@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11593,
+  "slug": "leadale-no-daichi-nite",
+  "kind": "anime",
+  "title": "Leadale no Daichi nite",
+  "titles": {
+    "default": "Leadale no Daichi nite",
+    "romaji": "Leadale no Daichi nite",
+    "english": "In the Land of Leadale",
+    "native": "リアデイルの大地にて"
+  },
+  "synonyms": [
+    "Leadale no Daichi nite",
+    "In the Land of Leadale",
+    "リアデイルの大地にて",
+    "มหาพิภพลีอาเดล",
+    "World of Leadale"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130166-YVHrYg4wNA68.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "130166",
+      "url": "https://anilist.co/anime/130166"
+    },
+    "cr": {
+      "id": "in-the-land-of-leadale",
+      "url": "https://www.crunchyroll.com/series/in-the-land-of-leadale"
+    },
+    "mal": {
+      "id": "48239",
+      "url": "https://myanimelist.net/anime/48239"
+    },
+    "tx": {
+      "id": "leadale_anime",
+      "url": "https://twitter.com/leadale_anime"
+    }
+  }
+}

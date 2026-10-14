@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3306,
+  "slug": "golgo-13-tv",
+  "kind": "anime",
+  "title": "Golgo 13 (TV)",
+  "titles": {
+    "default": "Golgo 13 (TV)",
+    "romaji": "Golgo 13 (TV)",
+    "native": "ゴルゴ13 (TV)"
+  },
+  "synonyms": [
+    "Golgo 13 (TV)",
+    "ゴルゴ13 (TV)",
+    "Golgo 13",
+    "ゴルゴ13"
+  ],
+  "type": "tv",
+  "episodes": 50,
+  "status": "finished",
+  "season": "spring",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4039-oClm06wOAmog.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4039",
+      "url": "https://anilist.co/anime/4039"
+    },
+    "k": {
+      "id": "3426",
+      "url": "https://kitsu.io/anime/3426"
+    },
+    "mal": {
+      "id": "4039",
+      "url": "https://myanimelist.net/anime/4039"
+    },
+    "t": {
+      "id": "42172",
+      "url": "https://trakt.tv/shows/42172"
+    }
+  }
+}

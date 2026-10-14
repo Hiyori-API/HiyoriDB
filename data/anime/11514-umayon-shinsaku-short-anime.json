@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11514,
+  "slug": "umayon-shinsaku-short-anime",
+  "kind": "anime",
+  "title": "Umayon: Shinsaku Short Anime",
+  "titles": {
+    "default": "Umayon: Shinsaku Short Anime",
+    "romaji": "Umayon: Shinsaku Short Anime",
+    "native": "うまよん 新作ショートアニメ"
+  },
+  "synonyms": [
+    "Umayon: Shinsaku Short Anime",
+    "うまよん 新作ショートアニメ",
+    "Umayon: New Short Anime",
+    "Umayon Specials",
+    "Umayon Episodes 13-24",
+    "Umayon New Short Anime",
+    "Umayon Shinsaku Short Anime"
+  ],
+  "type": "special",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154386-BF5pWxi2pWqL.png"
+  ],
+  "references": {
+    "al": {
+      "id": "154386",
+      "url": "https://anilist.co/anime/154386"
+    },
+    "mal": {
+      "id": "52751",
+      "url": "https://myanimelist.net/anime/52751"
+    },
+    "tx": {
+      "id": "uma_musu",
+      "url": "https://twitter.com/uma_musu"
+    }
+  }
+}

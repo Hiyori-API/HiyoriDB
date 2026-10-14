@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8201,
+  "slug": "strike-the-blood-valkyria-no-oukoku-hen",
+  "kind": "anime",
+  "title": "Strike the Blood: Valkyria no Oukoku-hen",
+  "titles": {
+    "default": "Strike the Blood: Valkyria no Oukoku-hen",
+    "romaji": "Strike the Blood: Valkyria no Oukoku-hen",
+    "english": "Strike the Blood: Kingdom of the Valkyria",
+    "native": "ストライク・ザ・ブラッド ヴァルキュリアの王国編"
+  },
+  "synonyms": [
+    "Strike the Blood: Valkyria no Oukoku-hen",
+    "Strike the Blood: Kingdom of the Valkyria",
+    "ストライク・ザ・ブラッド ヴァルキュリアの王国編",
+    "Strike the Blood OVA",
+    "Hyakka Ryouran: Samurai After",
+    "百花繚乱 サムライアフター",
+    "Hyakka Ryouran OVA"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21098-XZzuZzKVnnLN.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21098",
+      "url": "https://anilist.co/anime/21098"
+    },
+    "cr": {
+      "id": "strike-the-blood",
+      "url": "https://www.crunchyroll.com/series/strike-the-blood"
+    },
+    "k": {
+      "id": "8795",
+      "url": "https://kitsu.io/anime/8795"
+    },
+    "mal": {
+      "id": "30321",
+      "url": "https://myanimelist.net/anime/30321"
+    }
+  }
+}

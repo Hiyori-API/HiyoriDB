@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3884,
+  "slug": "usavich-iii",
+  "kind": "anime",
+  "title": "Usavich III",
+  "titles": {
+    "default": "Usavich III",
+    "romaji": "Usavich III",
+    "native": "ウサビッチ III"
+  },
+  "synonyms": [
+    "Usavich III",
+    "ウサビッチ III",
+    "Usavich 3",
+    "Vampire Knight: Guilty",
+    "ヴァンパイア騎士〈ナイト〉Guilty",
+    "Vampire Kishi 2",
+    "Vampire Knight 2",
+    "Vampire Kishi Guilty"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5397.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5397",
+      "url": "https://anilist.co/anime/5397"
+    },
+    "cr": {
+      "id": "vampire-knight",
+      "url": "https://www.crunchyroll.com/series/vampire-knight"
+    },
+    "k": {
+      "id": "3023",
+      "url": "https://kitsu.io/anime/3023"
+    },
+    "mal": {
+      "id": "5397",
+      "url": "https://myanimelist.net/anime/5397"
+    },
+    "nf": {
+      "id": "70309457",
+      "url": "https://www.netflix.com/title/70309457"
+    },
+    "t": {
+      "id": "17078",
+      "url": "https://trakt.tv/shows/17078"
+    }
+  }
+}

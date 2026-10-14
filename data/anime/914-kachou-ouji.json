@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 914,
+  "slug": "kachou-ouji",
+  "kind": "anime",
+  "title": "Kachou Ouji",
+  "titles": {
+    "default": "Kachou Ouji",
+    "romaji": "Kachou Ouji",
+    "english": "The Legend of Black Heaven",
+    "native": "課長王子"
+  },
+  "synonyms": [
+    "Kachou Ouji",
+    "The Legend of Black Heaven",
+    "課長王子",
+    "Kachou Ouji: Hard Rock Save the Space",
+    "Legend of Black Heaven"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1025-f9yZiEWi0LjY.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1025",
+      "url": "https://anilist.co/anime/1025"
+    },
+    "cr": {
+      "id": "the-legend-of-black-heaven",
+      "url": "https://www.crunchyroll.com/series/the-legend-of-black-heaven"
+    },
+    "k": {
+      "id": "915",
+      "url": "https://kitsu.io/anime/915"
+    },
+    "mal": {
+      "id": "1025",
+      "url": "https://myanimelist.net/anime/1025"
+    },
+    "t": {
+      "id": "9024",
+      "url": "https://trakt.tv/shows/9024"
+    }
+  }
+}

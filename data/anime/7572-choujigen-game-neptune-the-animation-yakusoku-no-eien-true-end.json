@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7572,
+  "slug": "choujigen-game-neptune-the-animation-yakusoku-no-eien-true-end",
+  "kind": "anime",
+  "title": "Choujigen Game Neptune THE ANIMATION: Yakusoku no Eien (True End)",
+  "titles": {
+    "default": "Choujigen Game Neptune THE ANIMATION: Yakusoku no Eien (True End)",
+    "romaji": "Choujigen Game Neptune THE ANIMATION: Yakusoku no Eien (True End)",
+    "english": "Hyperdimension Neptunia: The Eternity (True Ending) Promised",
+    "native": "超次元ゲイム ネプテューヌ THE ANIMATION 約束の永遠（トゥルーエンド）"
+  },
+  "synonyms": [
+    "Choujigen Game Neptune THE ANIMATION: Yakusoku no Eien (True End)",
+    "Hyperdimension Neptunia: The Eternity (True Ending) Promised",
+    "超次元ゲイム ネプテューヌ THE ANIMATION 約束の永遠（トゥルーエンド）",
+    "Choujigen Game Neptune THE ANIMATION OVA",
+    "Hyperdimension Neptunia: The Animation OVA",
+    "超次元ゲイム ネプテューヌ THE ANIMATION 未放送第13話",
+    "Choujigen Game Neptune The Animation OVA",
+    "超次元ゲイム ネプテューヌ THE ANIMATION",
+    "Choujigen Game Neptune: The Animation Episode 13",
+    "Kami Jigen Game Neptune V OVA",
+    "Hyperdimension Neptunia Victory OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20472-Ywr8YyhaYTbU.png"
+  ],
+  "references": {
+    "al": {
+      "id": "20472",
+      "url": "https://anilist.co/anime/20472"
+    },
+    "k": {
+      "id": "8071",
+      "url": "https://kitsu.io/anime/8071"
+    },
+    "mal": {
+      "id": "20479",
+      "url": "https://myanimelist.net/anime/20479"
+    },
+    "tx": {
+      "id": "nep_anime",
+      "url": "https://twitter.com/nep_anime"
+    }
+  }
+}

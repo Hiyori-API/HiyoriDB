@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14574,
+  "slug": "boku-no-pico-comic",
+  "kind": "manga",
+  "title": "Boku no Pico Comic",
+  "titles": {
+    "default": "Boku no Pico Comic"
+  },
+  "synonyms": [
+    "My Pico",
+    "ぼくのぴこ コミック",
+    "Kataomoi no Mukougawa",
+    "片想いの向こう側",
+    "Kataomoi no Mukou Gawa",
+    "Ano Kado o Magareba",
+    "Tenshi ga Kuretamono",
+    "Bitou na Koi",
+    "Kimi to Natsu no Aizu"
+  ],
+  "type": "manga",
+  "chapters": 1,
+  "status": "finished",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/35467-A280lPDUW3wx.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1639",
+      "url": "https://anilist.co/anime/1639"
+    },
+    "al_manga": {
+      "id": "1639",
+      "url": "https://anilist.co/manga/1639"
+    }
+  }
+}

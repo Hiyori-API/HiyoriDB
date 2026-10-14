@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5087,
+  "slug": "sore-ike-anpanman-omusubiman",
+  "kind": "anime",
+  "title": "Sore Ike! Anpanman: Omusubiman",
+  "titles": {
+    "default": "Sore Ike! Anpanman: Omusubiman",
+    "romaji": "Sore Ike! Anpanman: Omusubiman",
+    "native": "それいけ! アンパンマン おむすびまん"
+  },
+  "synonyms": [
+    "Sore Ike! Anpanman: Omusubiman",
+    "それいけ! アンパンマン おむすびまん"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19433-Pr4ofs17Ocli.png"
+  ],
+  "references": {
+    "al": {
+      "id": "19433",
+      "url": "https://anilist.co/anime/19433"
+    },
+    "k": {
+      "id": "9623",
+      "url": "https://kitsu.io/anime/9623"
+    },
+    "mal": {
+      "id": "19433",
+      "url": "https://myanimelist.net/anime/19433"
+    }
+  }
+}

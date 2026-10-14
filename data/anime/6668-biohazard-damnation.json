@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6668,
+  "slug": "biohazard-damnation",
+  "kind": "anime",
+  "title": "Biohazard: Damnation",
+  "titles": {
+    "default": "Biohazard: Damnation",
+    "romaji": "Biohazard: Damnation",
+    "english": "Resident Evil: Damnation",
+    "native": "バイオハザード ダムネーション"
+  },
+  "synonyms": [
+    "Biohazard: Damnation",
+    "Resident Evil: Damnation",
+    "バイオハザード ダムネーション",
+    "Resident Evil: Condenação",
+    "Resident Evil: Potępienie",
+    "Blue Exorcist The Movie",
+    "Ao no Exorcist Movie",
+    "劇場版 青の祓魔師（エクソシスト）",
+    "Ao no Exorcist Gekijouban",
+    "Ao no Futsumashi Movie",
+    "Blue Exorcist Movie"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9544-rD8dGcCuSW2s.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9544",
+      "url": "https://anilist.co/anime/9544"
+    },
+    "k": {
+      "id": "6580",
+      "url": "https://kitsu.io/anime/6580"
+    },
+    "mal": {
+      "id": "9544",
+      "url": "https://myanimelist.net/anime/9544"
+    }
+  }
+}

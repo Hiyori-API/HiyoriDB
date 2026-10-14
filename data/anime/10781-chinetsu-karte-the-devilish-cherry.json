@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10781,
+  "slug": "chinetsu-karte-the-devilish-cherry",
+  "kind": "anime",
+  "title": "Chinetsu Karte: The Devilish Cherry",
+  "titles": {
+    "default": "Chinetsu Karte: The Devilish Cherry",
+    "romaji": "Chinetsu Karte: The Devilish Cherry",
+    "native": "恥熱カルテ The Devilish Cherry"
+  },
+  "synonyms": [
+    "Chinetsu Karte: The Devilish Cherry",
+    "恥熱カルテ The Devilish Cherry",
+    "Mobile Suit Gundam ZZ: Gundam Frag.",
+    "Kidou Senshi Gundam ZZ: Gundam Frag.",
+    "機動戦士ガンダムZZ: GUNDAM FRAG."
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6686.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6686",
+      "url": "https://anilist.co/anime/6686"
+    },
+    "k": {
+      "id": "5831",
+      "url": "https://kitsu.io/anime/5831"
+    },
+    "mal": {
+      "id": "6686",
+      "url": "https://myanimelist.net/anime/6686"
+    }
+  }
+}

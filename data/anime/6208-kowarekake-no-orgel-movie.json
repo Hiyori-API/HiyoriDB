@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6208,
+  "slug": "kowarekake-no-orgel-movie",
+  "kind": "anime",
+  "title": "Kowarekake no Orgel (Movie)",
+  "titles": {
+    "default": "Kowarekake no Orgel (Movie)",
+    "romaji": "Kowarekake no Orgel (Movie)",
+    "native": "こわれかけのオルゴール"
+  },
+  "synonyms": [
+    "Kowarekake no Orgel (Movie)",
+    "こわれかけのオルゴール",
+    "Kowarekake no Orgol (Movie)",
+    "Half-Broken Music Box (Movie)",
+    "Mardock Scramble: The First Compression",
+    "マルドゥック・スクランブル 圧縮",
+    "Mardock Scramble: Asshuku"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10918.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10918",
+      "url": "https://anilist.co/anime/10918"
+    },
+    "k": {
+      "id": "5195",
+      "url": "https://kitsu.io/anime/5195"
+    },
+    "mal": {
+      "id": "10918",
+      "url": "https://myanimelist.net/anime/10918"
+    }
+  }
+}

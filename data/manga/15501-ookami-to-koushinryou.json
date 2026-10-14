@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15501,
+  "slug": "ookami-to-koushinryou",
+  "kind": "manga",
+  "title": "Ookami to Koushinryou",
+  "titles": {
+    "default": "Ookami to Koushinryou"
+  },
+  "synonyms": [
+    "Okami to Koshinryo",
+    "Spice and Wolf",
+    "Волчица и пряности",
+    "สาวหมาป่ากับนายเครื่องเทศ",
+    "狼與辛香料",
+    "狼与香辛料",
+    "Вовчиця і прянощі",
+    "Spice & Wolf",
+    "狼と香辛料",
+    "Seven Nights",
+    "セヴンナイツ",
+    "7 Nights"
+  ],
+  "type": "novel",
+  "status": "publishing",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx39115-2uLgBuM30i1b.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "181951",
+      "url": "https://anilist.co/anime/2966"
+    },
+    "al_manga": {
+      "id": "181951",
+      "url": "https://anilist.co/manga/181951"
+    }
+  }
+}

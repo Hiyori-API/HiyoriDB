@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11728,
+  "slug": "showtime-2-uta-no-onee-san-datte-shitai",
+  "kind": "anime",
+  "title": "Showtime! 2: Uta no Onee-san datte Shitai",
+  "titles": {
+    "default": "Showtime! 2: Uta no Onee-san datte Shitai",
+    "romaji": "Showtime! 2: Uta no Onee-san datte Shitai",
+    "english": "Show Time! 2",
+    "native": "しょうたいむ！２～歌のお姉さんだってしたい"
+  },
+  "synonyms": [
+    "Showtime! 2: Uta no Onee-san datte Shitai",
+    "Show Time! 2",
+    "しょうたいむ！２～歌のお姉さんだってしたい",
+    "Gaiken Shijou Shugi",
+    "外見至上主義",
+    "Oemo Jisang Juui",
+    "Lookism",
+    "외모지상주의",
+    "Oemojisangjuui"
+  ],
+  "type": "ona",
+  "episodes": 8,
+  "status": "finished",
+  "season": "fall",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142136-IfRvyT2SrGdc.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "142136",
+      "url": "https://anilist.co/anime/142136"
+    },
+    "mal": {
+      "id": "50469",
+      "url": "https://myanimelist.net/anime/50469"
+    }
+  }
+}

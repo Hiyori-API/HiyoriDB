@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15287,
+  "slug": "rainbow-nisha-rokubou-no-shichinin",
+  "kind": "manga",
+  "title": "RAINBOW: Nisha Rokubou no Shichinin",
+  "titles": {
+    "default": "RAINBOW: Nisha Rokubou no Shichinin"
+  },
+  "synonyms": [
+    "RAINBOW: The Seven from Cell 6 Block 2",
+    "Rainbow, los siete de la celda 6 bloque 2",
+    "RAINBOW 二舎六房の七人",
+    "Fujisan",
+    "富士山",
+    "Fuji-san"
+  ],
+  "type": "manga",
+  "chapters": 235,
+  "volumes": 22,
+  "status": "finished",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx37482-Y8a2wjaRzQVH.png"
+  ],
+  "references": {
+    "al": {
+      "id": "6114",
+      "url": "https://anilist.co/anime/6114"
+    },
+    "al_manga": {
+      "id": "6114",
+      "url": "https://anilist.co/manga/6114"
+    }
+  }
+}

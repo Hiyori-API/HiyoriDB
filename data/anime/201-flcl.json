@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 201,
+  "slug": "flcl",
+  "kind": "anime",
+  "title": "FLCL",
+  "titles": {
+    "default": "FLCL",
+    "romaji": "FLCL",
+    "native": "フリクリ"
+  },
+  "synonyms": [
+    "FLCL",
+    "フリクリ",
+    "Fooly Cooly",
+    "Furi Kuri"
+  ],
+  "type": "ova",
+  "episodes": 6,
+  "status": "finished",
+  "season": "spring",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx227-qOB9ZhVvNnqO.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "227",
+      "url": "https://anilist.co/anime/227"
+    },
+    "k": {
+      "id": "202",
+      "url": "https://kitsu.io/anime/202"
+    },
+    "mal": {
+      "id": "227",
+      "url": "https://myanimelist.net/anime/227"
+    }
+  }
+}

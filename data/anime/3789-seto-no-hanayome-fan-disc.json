@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3789,
+  "slug": "seto-no-hanayome-fan-disc",
+  "kind": "anime",
+  "title": "Seto no Hanayome Fan Disc",
+  "titles": {
+    "default": "Seto no Hanayome Fan Disc",
+    "romaji": "Seto no Hanayome Fan Disc",
+    "english": "My Bride is a Mermaid Fan Disc",
+    "native": "瀬戸の花嫁"
+  },
+  "synonyms": [
+    "Seto no Hanayome Fan Disc",
+    "My Bride is a Mermaid Fan Disc",
+    "瀬戸の花嫁"
+  ],
+  "type": "special",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5199.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5199",
+      "url": "https://anilist.co/anime/5199"
+    },
+    "k": {
+      "id": "3978",
+      "url": "https://kitsu.io/anime/3978"
+    },
+    "mal": {
+      "id": "5199",
+      "url": "https://myanimelist.net/anime/5199"
+    }
+  }
+}

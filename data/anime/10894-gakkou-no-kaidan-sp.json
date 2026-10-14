@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10894,
+  "slug": "gakkou-no-kaidan-sp",
+  "kind": "anime",
+  "title": "Gakkou no Kaidan SP",
+  "titles": {
+    "default": "Gakkou no Kaidan SP",
+    "romaji": "Gakkou no Kaidan SP",
+    "english": "Ghost Stories SP",
+    "native": "学校の怪談 SP"
+  },
+  "synonyms": [
+    "Gakkou no Kaidan SP",
+    "Ghost Stories SP",
+    "学校の怪談 SP",
+    "Gakkou no Kaidan (OVA)",
+    "学校の怪談"
+  ],
+  "type": "ova",
+  "episodes": 10,
+  "status": "finished",
+  "season": "summer",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20888.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "20888",
+      "url": "https://anilist.co/anime/20888"
+    },
+    "k": {
+      "id": "8696",
+      "url": "https://kitsu.io/anime/8696"
+    },
+    "mal": {
+      "id": "22053",
+      "url": "https://myanimelist.net/anime/22053"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4566,
+  "slug": "aoi-bungaku-series",
+  "kind": "anime",
+  "title": "Aoi Bungaku Series",
+  "titles": {
+    "default": "Aoi Bungaku Series",
+    "romaji": "Aoi Bungaku Series",
+    "english": "Blue Literature Series",
+    "native": "青い文学シリーズ"
+  },
+  "synonyms": [
+    "Aoi Bungaku Series",
+    "Blue Literature Series",
+    "青い文学シリーズ",
+    "Shin Koihime†Musou",
+    "真恋姫†無双 ～乙女繚乱☆三国志演義～",
+    "Shin Koihime Musou: Otome Ryouran Sangokushi Engi"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx7193-gC4ULfgsznxh.png"
+  ],
+  "references": {
+    "al": {
+      "id": "7193",
+      "url": "https://anilist.co/anime/7193"
+    },
+    "cr": {
+      "id": "shin-koihime-musou",
+      "url": "https://www.crunchyroll.com/series/shin-koihime-musou"
+    },
+    "k": {
+      "id": "4429",
+      "url": "https://kitsu.io/anime/4429"
+    },
+    "mal": {
+      "id": "7193",
+      "url": "https://myanimelist.net/anime/7193"
+    },
+    "t": {
+      "id": "62846",
+      "url": "https://trakt.tv/shows/62846"
+    }
+  }
+}

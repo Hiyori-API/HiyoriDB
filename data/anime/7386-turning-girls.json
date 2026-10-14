@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7386,
+  "slug": "turning-girls",
+  "kind": "anime",
+  "title": "Turning Girls",
+  "titles": {
+    "default": "Turning Girls",
+    "romaji": "Turning Girls",
+    "native": "ターニングガールズ"
+  },
+  "synonyms": [
+    "Turning Girls",
+    "ターニングガールズ"
+  ],
+  "type": "ona",
+  "episodes": 7,
+  "status": "finished",
+  "season": "summer",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19133.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "19133",
+      "url": "https://anilist.co/anime/19133"
+    },
+    "k": {
+      "id": "7804",
+      "url": "https://kitsu.io/anime/7804"
+    },
+    "mal": {
+      "id": "19133",
+      "url": "https://myanimelist.net/anime/19133"
+    },
+    "yt": {
+      "id": "2gEPTJ81LuI",
+      "url": "https://www.youtube.com/watch?v=2gEPTJ81LuI"
+    }
+  }
+}

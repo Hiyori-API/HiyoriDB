@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2799,
+  "slug": "kimi-ga-aruji-de-shitsuji-ga-ore-de",
+  "kind": "anime",
+  "title": "Kimi ga Aruji de Shitsuji ga Ore de",
+  "titles": {
+    "default": "Kimi ga Aruji de Shitsuji ga Ore de",
+    "romaji": "Kimi ga Aruji de Shitsuji ga Ore de",
+    "native": "君が主で執事が俺で"
+  },
+  "synonyms": [
+    "Kimi ga Aruji de Shitsuji ga Ore de",
+    "君が主で執事が俺で",
+    "They Are My Noble Masters",
+    "Kimiaru"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3229-patebR065mMD.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3229",
+      "url": "https://anilist.co/anime/3229"
+    },
+    "k": {
+      "id": "2872",
+      "url": "https://kitsu.io/anime/2872"
+    },
+    "mal": {
+      "id": "3229",
+      "url": "https://myanimelist.net/anime/3229"
+    },
+    "t": {
+      "id": "63262",
+      "url": "https://trakt.tv/shows/63262"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6922,
+  "slug": "blood-c-none-none-gekijou",
+  "kind": "anime",
+  "title": "Blood-C: None-None Gekijou",
+  "titles": {
+    "default": "Blood-C: None-None Gekijou",
+    "romaji": "Blood-C: None-None Gekijou",
+    "native": "のねのね劇場"
+  },
+  "synonyms": [
+    "Blood-C: None-None Gekijou",
+    "のねのね劇場",
+    "BLOOD-C The Last Dark Special"
+  ],
+  "type": "ona",
+  "episodes": 7,
+  "status": "finished",
+  "season": "spring",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/14077.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "14077",
+      "url": "https://anilist.co/anime/14077"
+    },
+    "k": {
+      "id": "7079",
+      "url": "https://kitsu.io/anime/7079"
+    },
+    "mal": {
+      "id": "14077",
+      "url": "https://myanimelist.net/anime/14077"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5995,
+  "slug": "naruto-shippuuden-the-lost-tower",
+  "kind": "anime",
+  "title": "NARUTO: Shippuuden - The Lost Tower",
+  "titles": {
+    "default": "NARUTO: Shippuuden - The Lost Tower",
+    "romaji": "NARUTO: Shippuuden - The Lost Tower",
+    "english": "Naruto Shippuden the Movie: The Lost Tower",
+    "native": "劇場版 NARUTO -ナルト- 疾風伝 ザ・ロストタワー"
+  },
+  "synonyms": [
+    "NARUTO: Shippuuden - The Lost Tower",
+    "Naruto Shippuden the Movie: The Lost Tower",
+    "劇場版 NARUTO -ナルト- 疾風伝 ザ・ロストタワー",
+    "Naruto Movie 7",
+    "Gekijouban Naruto Shippuuden: The Lost Tower",
+    "Naruto Shippūden la película: La torre perdida",
+    "Naruto Shippuden Movie 04: La torre perduta",
+    "Naruto: Shippuuden Movie 4 - The Lost Tower",
+    "劇場版 NARUTO-ナルト-疾風伝 ザ・ロストタワー"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx8246-KAi3bLLdJ4OI.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8246",
+      "url": "https://anilist.co/anime/8246"
+    },
+    "cr": {
+      "id": "naruto-shippuden-the-movie-the-lost-tower",
+      "url": "https://www.crunchyroll.com/series/naruto-shippuden-the-movie-the-lost-tower"
+    },
+    "k": {
+      "id": "5266",
+      "url": "https://kitsu.io/anime/5266"
+    },
+    "mal": {
+      "id": "8246",
+      "url": "https://myanimelist.net/anime/8246"
+    },
+    "nf": {
+      "id": "70275937",
+      "url": "https://www.netflix.com/title/70275937"
+    }
+  }
+}

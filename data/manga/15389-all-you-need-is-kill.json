@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15389,
+  "slug": "all-you-need-is-kill",
+  "kind": "manga",
+  "title": "All You Need is Kill",
+  "titles": {
+    "default": "All You Need is Kill"
+  },
+  "synonyms": [
+    "All you need is kill - Cuộc chiến luân hồi",
+    "Na Skraju Jutra: All you need is kill",
+    "AYNK",
+    "オール ユー ニード イズ キル",
+    "All You Need is Kill",
+    "Kizoku to Nessa no Ouji",
+    "The Aristocrat and the Desert Prince",
+    "貴族と熱砂の皇子"
+  ],
+  "type": "novel",
+  "chapters": 4,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx48511-HJpsLXWtjHTz.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "187892",
+      "url": "https://anilist.co/anime/187892"
+    },
+    "al_manga": {
+      "id": "187892",
+      "url": "https://anilist.co/manga/187892"
+    }
+  }
+}

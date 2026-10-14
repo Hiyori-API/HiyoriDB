@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 815,
+  "slug": "konjiki-no-gash-bell-mecha-vulkan-no-raishuu",
+  "kind": "anime",
+  "title": "Konjiki no Gash Bell!!: Mecha Vulkan no Raishuu",
+  "titles": {
+    "default": "Konjiki no Gash Bell!!: Mecha Vulkan no Raishuu",
+    "romaji": "Konjiki no Gash Bell!!: Mecha Vulkan no Raishuu",
+    "english": "Zatch Bell! Attack of Mechavulcan",
+    "native": "劇場版　金色のガッシュベル!!　メカバルカンの来襲"
+  },
+  "synonyms": [
+    "Konjiki no Gash Bell!!: Mecha Vulkan no Raishuu",
+    "Zatch Bell! Attack of Mechavulcan",
+    "劇場版　金色のガッシュベル!!　メカバルカンの来襲",
+    "Konjiki no Gashbell!! Mecabarukan no raishuu",
+    "Konjiki no Gash Bell!!: Attack of the Mechavulcan",
+    "Gash Bell Movie 2",
+    "Zatch Bell Movie 2"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b911-cLvIrRS9FwHU.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "911",
+      "url": "https://anilist.co/anime/911"
+    },
+    "k": {
+      "id": "811",
+      "url": "https://kitsu.io/anime/811"
+    },
+    "mal": {
+      "id": "911",
+      "url": "https://myanimelist.net/anime/911"
+    }
+  }
+}

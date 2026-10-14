@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11377,
+  "slug": "tesla-note",
+  "kind": "anime",
+  "title": "Tesla Note",
+  "titles": {
+    "default": "Tesla Note",
+    "romaji": "Tesla Note",
+    "native": "テスラノート"
+  },
+  "synonyms": [
+    "Tesla Note",
+    "テスラノート",
+    "Avenger",
+    "アヴェンジャー"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132071-Cza8y6VQO75M.png"
+  ],
+  "references": {
+    "al": {
+      "id": "132071",
+      "url": "https://anilist.co/anime/132071"
+    },
+    "cr": {
+      "id": "tesla-note",
+      "url": "https://www.crunchyroll.com/series/tesla-note"
+    },
+    "k": {
+      "id": "37",
+      "url": "https://kitsu.io/anime/37"
+    },
+    "mal": {
+      "id": "48680",
+      "url": "https://myanimelist.net/anime/48680"
+    },
+    "t": {
+      "id": "21179",
+      "url": "https://trakt.tv/shows/21179"
+    },
+    "tx": {
+      "id": "teslanote",
+      "url": "https://twitter.com/teslanote"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3,
+  "slug": "trigun",
+  "kind": "anime",
+  "title": "TRIGUN",
+  "titles": {
+    "default": "TRIGUN",
+    "romaji": "TRIGUN",
+    "english": "Trigun"
+  },
+  "synonyms": [
+    "TRIGUN",
+    "Trigun",
+    "トライガン",
+    "ไทรกัน",
+    "Триган"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6-wd4saT1JzStH.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6",
+      "url": "https://anilist.co/anime/6"
+    },
+    "cr": {
+      "id": "trigun",
+      "url": "https://www.crunchyroll.com/series/trigun"
+    },
+    "k": {
+      "id": "3",
+      "url": "https://kitsu.io/anime/3"
+    },
+    "mal": {
+      "id": "6",
+      "url": "https://myanimelist.net/anime/6"
+    },
+    "t": {
+      "id": "26336",
+      "url": "https://trakt.tv/shows/26336"
+    }
+  }
+}

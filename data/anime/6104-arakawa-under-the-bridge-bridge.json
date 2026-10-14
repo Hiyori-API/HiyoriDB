@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6104,
+  "slug": "arakawa-under-the-bridge-bridge",
+  "kind": "anime",
+  "title": "Arakawa Under the Bridge × Bridge",
+  "titles": {
+    "default": "Arakawa Under the Bridge × Bridge",
+    "romaji": "Arakawa Under the Bridge × Bridge",
+    "english": "Arakawa Under the Bridge x Bridge",
+    "native": "荒川アンダー ザ ブリッジ×ブリッジ"
+  },
+  "synonyms": [
+    "Arakawa Under the Bridge × Bridge",
+    "Arakawa Under the Bridge x Bridge",
+    "荒川アンダー ザ ブリッジ×ブリッジ",
+    "Arakawa Under the Bridge*2",
+    "Arakawa Under the Bridge x2",
+    "Arakawa Under the Bridge 2nd Season",
+    "Psychic Detective Yakumo",
+    "Shinrei Tantei Yakumo",
+    "心霊探偵 八雲"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9074-5T2wyJAGyQXw.png"
+  ],
+  "references": {
+    "al": {
+      "id": "9074",
+      "url": "https://anilist.co/anime/9074"
+    },
+    "cr": {
+      "id": "arakawa-under-the-bridge",
+      "url": "https://www.crunchyroll.com/series/arakawa-under-the-bridge"
+    },
+    "k": {
+      "id": "5073",
+      "url": "https://kitsu.io/anime/5073"
+    },
+    "mal": {
+      "id": "9074",
+      "url": "https://myanimelist.net/anime/9074"
+    },
+    "t": {
+      "id": "45188",
+      "url": "https://trakt.tv/shows/45188"
+    }
+  }
+}

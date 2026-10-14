@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4539,
+  "slug": "miracle-train-oedo-sen-e-youkoso",
+  "kind": "anime",
+  "title": "Miracle☆Train: Oedo-sen e Youkoso",
+  "titles": {
+    "default": "Miracle☆Train: Oedo-sen e Youkoso",
+    "romaji": "Miracle☆Train: Oedo-sen e Youkoso",
+    "english": "Miracle Train: Welcome to the Oedo Line",
+    "native": "ミラクル☆トレイン〜大江戸線へようこそ〜"
+  },
+  "synonyms": [
+    "Miracle☆Train: Oedo-sen e Youkoso",
+    "Miracle Train: Welcome to the Oedo Line",
+    "ミラクル☆トレイン〜大江戸線へようこそ〜",
+    "Heaven's Lost Property",
+    "Sora no Otoshimono",
+    "そらのおとしもの",
+    "Lost Property of the Sky",
+    "Misplaced by Heaven"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7103.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7103",
+      "url": "https://anilist.co/anime/7103"
+    },
+    "cr": {
+      "id": "miracle-train",
+      "url": "https://www.crunchyroll.com/series/miracle-train"
+    },
+    "k": {
+      "id": "4363",
+      "url": "https://kitsu.io/anime/4363"
+    },
+    "mal": {
+      "id": "7103",
+      "url": "https://myanimelist.net/anime/7103"
+    },
+    "t": {
+      "id": "37279",
+      "url": "https://trakt.tv/shows/37279"
+    }
+  }
+}

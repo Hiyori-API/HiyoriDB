@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7545,
+  "slug": "doraemon-shin-nobita-no-daimakyou-peko-to-5-nin-no-tankentai",
+  "kind": "anime",
+  "title": "Doraemon: Shin Nobita no Daimakyou - Peko to 5-nin no Tankentai",
+  "titles": {
+    "default": "Doraemon: Shin Nobita no Daimakyou - Peko to 5-nin no Tankentai",
+    "romaji": "Doraemon: Shin Nobita no Daimakyou - Peko to 5-nin no Tankentai",
+    "native": "映画ドラえもん 新・のび太の大魔境 ~ペコと5人の探検隊~"
+  },
+  "synonyms": [
+    "Doraemon: Shin Nobita no Daimakyou - Peko to 5-nin no Tankentai",
+    "映画ドラえもん 新・のび太の大魔境 ~ペコと5人の探検隊~",
+    "Eiga Doraemon: Shin Nobita no Daimakyo - Peko to 5-nin no Tankentai",
+    "Doraemon the Movie: Nobita in the New Haunts of Evil -Peko and the Five Explorers-",
+    "Doraemon Movie 34: Shin Nobita no Daimakyou - Peko to 5-nin no Tankentai",
+    "映画 ドラえもん 新・のび太の大魔境～ペコと5人の探検隊～",
+    "Doraemon: New Nobita's Great Demon - Peko and the Exploration Party of Five"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19645-jKsKk2ThNst8.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "19645",
+      "url": "https://anilist.co/anime/19645"
+    },
+    "k": {
+      "id": "7902",
+      "url": "https://kitsu.io/anime/7902"
+    },
+    "mal": {
+      "id": "19645",
+      "url": "https://myanimelist.net/anime/19645"
+    }
+  }
+}

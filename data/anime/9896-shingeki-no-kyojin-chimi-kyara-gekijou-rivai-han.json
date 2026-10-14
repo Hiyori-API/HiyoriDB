@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9896,
+  "slug": "shingeki-no-kyojin-chimi-kyara-gekijou-rivai-han",
+  "kind": "anime",
+  "title": "Shingeki no Kyojin: Chimi Kyara Gekijou - Rivai-han",
+  "titles": {
+    "default": "Shingeki no Kyojin: Chimi Kyara Gekijou - Rivai-han",
+    "romaji": "Shingeki no Kyojin: Chimi Kyara Gekijou - Rivai-han",
+    "native": "｢進撃の巨人｣ちみキャラ劇場”新生リヴァイ班”"
+  },
+  "synonyms": [
+    "Shingeki no Kyojin: Chimi Kyara Gekijou - Rivai-han",
+    "｢進撃の巨人｣ちみキャラ劇場”新生リヴァイ班”",
+    "Attack on Titan Season 3 Picture Drama",
+    "Shingeki no Kyojin Chimi Kyara Gekijou Tonde Ke! Shinsei Levi-han",
+    "Shingeki no Kyojin Season 3 Specials",
+    "The Goddess is a Middle School Student Specials",
+    "Kamichu! Specials",
+    "The Goddess is a Middle School Student",
+    "かみちゅ!",
+    "Kami-chu!: Kami-sama wa Chuugakusei"
+  ],
+  "type": "special",
+  "episodes": 4,
+  "status": "finished",
+  "season": "fall",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108942-UdPtw4CZUQmC.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "108942",
+      "url": "https://anilist.co/anime/108942"
+    },
+    "k": {
+      "id": "450",
+      "url": "https://kitsu.io/anime/450"
+    },
+    "mal": {
+      "id": "39477",
+      "url": "https://myanimelist.net/anime/39477"
+    },
+    "tx": {
+      "id": "anime_shingeki",
+      "url": "https://twitter.com/anime_shingeki"
+    }
+  }
+}

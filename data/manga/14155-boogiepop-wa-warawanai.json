@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14155,
+  "slug": "boogiepop-wa-warawanai",
+  "kind": "manga",
+  "title": "Boogiepop wa Warawanai",
+  "titles": {
+    "default": "Boogiepop wa Warawanai"
+  },
+  "synonyms": [
+    "Boogiepop Series",
+    "Boogiepop Doesn’t Laugh",
+    "Boogiepop and Others",
+    "ブギーポップは笑わない",
+    "The Borderline of Emptiness",
+    "Kara no Kyoukai: The Garden of Sinners",
+    "空の境界 the Garden of sinners",
+    "Rakkyo",
+    "Boundry of Emptiness"
+  ],
+  "type": "novel",
+  "chapters": 8,
+  "volumes": 1,
+  "status": "finished",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx31315-KdFNOZlklUov.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "369",
+      "url": "https://anilist.co/anime/101283"
+    },
+    "al_manga": {
+      "id": "369",
+      "url": "https://anilist.co/manga/369"
+    }
+  }
+}

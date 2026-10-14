@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3832,
+  "slug": "miracle-giants-dome-kun",
+  "kind": "anime",
+  "title": "Miracle Giants Dome-kun",
+  "titles": {
+    "default": "Miracle Giants Dome-kun",
+    "romaji": "Miracle Giants Dome-kun",
+    "native": "ミラクル・ジャイアンツ童夢くん"
+  },
+  "synonyms": [
+    "Miracle Giants Dome-kun",
+    "ミラクル・ジャイアンツ童夢くん",
+    "Miracle Giants Doumu-kun",
+    "Half a Hero"
+  ],
+  "type": "tv",
+  "episodes": 49,
+  "status": "finished",
+  "season": "spring",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5273.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5273",
+      "url": "https://anilist.co/anime/5273"
+    },
+    "k": {
+      "id": "4026",
+      "url": "https://kitsu.io/anime/4026"
+    },
+    "mal": {
+      "id": "5273",
+      "url": "https://myanimelist.net/anime/5273"
+    },
+    "t": {
+      "id": "13376",
+      "url": "https://trakt.tv/shows/13376"
+    }
+  }
+}

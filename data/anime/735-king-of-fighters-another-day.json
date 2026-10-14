@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 735,
+  "slug": "king-of-fighters-another-day",
+  "kind": "anime",
+  "title": "King of Fighters: Another Day",
+  "titles": {
+    "default": "King of Fighters: Another Day",
+    "romaji": "King of Fighters: Another Day",
+    "native": "ザ・キング・オブ・ファイターズ アナザーデイ"
+  },
+  "synonyms": [
+    "King of Fighters: Another Day",
+    "ザ・キング・オブ・ファイターズ アナザーデイ",
+    "KOF",
+    "Bludgeoning Angel Dokuro-chan",
+    "Bokusatsu Tenshi Dokuro-chan",
+    "撲殺天使ドクロちゃん",
+    "Club-To-Death Angel Dokuro-chan"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "winter",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b825-1JmwDIQkfNZF.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "825",
+      "url": "https://anilist.co/anime/825"
+    },
+    "cr": {
+      "id": "series/G6MEX4N4R/bludgeoning-angel-dokuro-chan",
+      "url": "https://www.crunchyroll.com/series/series/G6MEX4N4R/bludgeoning-angel-dokuro-chan"
+    },
+    "k": {
+      "id": "324",
+      "url": "https://kitsu.io/anime/324"
+    },
+    "mal": {
+      "id": "825",
+      "url": "https://myanimelist.net/anime/825"
+    }
+  }
+}

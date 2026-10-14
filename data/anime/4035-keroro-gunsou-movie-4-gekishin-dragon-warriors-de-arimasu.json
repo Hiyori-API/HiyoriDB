@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4035,
+  "slug": "keroro-gunsou-movie-4-gekishin-dragon-warriors-de-arimasu",
+  "kind": "anime",
+  "title": "Keroro Gunsou Movie 4: Gekishin Dragon Warriors de Arimasu!",
+  "titles": {
+    "default": "Keroro Gunsou Movie 4: Gekishin Dragon Warriors de Arimasu!",
+    "romaji": "Keroro Gunsou Movie 4: Gekishin Dragon Warriors de Arimasu!",
+    "english": "Sergeant Keroro: The Super Duper Movie 4",
+    "native": "超劇場版ケロロ軍曹　撃侵ドラゴンウォリアーズであります！"
+  },
+  "synonyms": [
+    "Keroro Gunsou Movie 4: Gekishin Dragon Warriors de Arimasu!",
+    "Sergeant Keroro: The Super Duper Movie 4",
+    "超劇場版ケロロ軍曹　撃侵ドラゴンウォリアーズであります！",
+    "Chou Gekijouban Keroro Gunso 4",
+    "Chou Gekijouban Keroro Gunso: Gekishin Dragon Warriors de Arimasu!",
+    "Sergeant Frog Movie 4",
+    "Crayon Shin-chan Movie 17: Otakebe! Kasukabe Yasei Oukoku",
+    "クレヨンしんちゃん オタケベ!カスカベ野生王国",
+    "Eiga Crayon Shin-chan: Otakebe! Kasukabe Yasei Oukoku",
+    "Crayon Shin-chan: Roar! Kasukabe Animal Kingdom"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5710-YMp7RUI7hB1X.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5710",
+      "url": "https://anilist.co/anime/5710"
+    },
+    "k": {
+      "id": "5317",
+      "url": "https://kitsu.io/anime/5317"
+    },
+    "mal": {
+      "id": "5710",
+      "url": "https://myanimelist.net/anime/5710"
+    }
+  }
+}

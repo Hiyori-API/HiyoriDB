@@ -1,0 +1,59 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13311,
+  "slug": "class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta",
+  "kind": "anime",
+  "title": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+  "titles": {
+    "default": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+    "romaji": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+    "english": "I Made Friends with the Second Prettiest Girl in My Class",
+    "native": "クラスで２番目に可愛い女の子と友だちになった"
+  },
+  "synonyms": [
+    "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+    "I Made Friends with the Second Prettiest Girl in My Class",
+    "クラスで２番目に可愛い女の子と友だちになった",
+    "I Became Friends with the Second Cutest Girl in My Class",
+    "Kuranika",
+    "クラにか",
+    "Я подружился со второй красоткой класса",
+    "This Ugly Yet Beautiful World",
+    "Kono Minikuku mo Utsukushii Sekai",
+    "この醜くも美しい世界"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169580-nXxpmqu6UVux.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "169580",
+      "url": "https://anilist.co/anime/169580"
+    },
+    "cr": {
+      "id": "series/GT00371673",
+      "url": "https://www.crunchyroll.com/series/series/GT00371673"
+    },
+    "k": {
+      "id": "124",
+      "url": "https://kitsu.io/anime/124"
+    },
+    "mal": {
+      "id": "56734",
+      "url": "https://myanimelist.net/anime/56734"
+    },
+    "t": {
+      "id": "34001",
+      "url": "https://trakt.tv/shows/34001"
+    },
+    "tx": {
+      "id": "2ndinclass",
+      "url": "https://twitter.com/2ndinclass"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14312,
+  "slug": "minami-ke",
+  "kind": "manga",
+  "title": "Minami-ke",
+  "titles": {
+    "default": "Minami-ke"
+  },
+  "synonyms": [
+    "みなみけ",
+    "Minami-ke"
+  ],
+  "type": "manga",
+  "status": "publishing",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx32629-sJUrUnzkdCjx.png"
+  ],
+  "references": {
+    "al": {
+      "id": "179088",
+      "url": "https://anilist.co/anime/2963"
+    },
+    "al_manga": {
+      "id": "179088",
+      "url": "https://anilist.co/manga/179088"
+    }
+  }
+}

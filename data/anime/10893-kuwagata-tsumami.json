@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10893,
+  "slug": "kuwagata-tsumami",
+  "kind": "anime",
+  "title": "Kuwagata Tsumami",
+  "titles": {
+    "default": "Kuwagata Tsumami",
+    "romaji": "Kuwagata Tsumami",
+    "english": "Stag Beetle Tsumami",
+    "native": "くわがたツマミ"
+  },
+  "synonyms": [
+    "Kuwagata Tsumami",
+    "Stag Beetle Tsumami",
+    "くわがたツマミ",
+    "Kuwagata Tumami"
+  ],
+  "type": "ona",
+  "episodes": 84,
+  "status": "finished",
+  "season": "summer",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18773.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "18773",
+      "url": "https://anilist.co/anime/18773"
+    },
+    "k": {
+      "id": "8880",
+      "url": "https://kitsu.io/anime/8880"
+    },
+    "mal": {
+      "id": "18773",
+      "url": "https://myanimelist.net/anime/18773"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13671,
+  "slug": "zombie-no-afureta-sekai-de-ore-dake-ga-osowarenai",
+  "kind": "anime",
+  "title": "Zombie no Afureta Sekai de Ore dake ga Osowarenai",
+  "titles": {
+    "default": "Zombie no Afureta Sekai de Ore dake ga Osowarenai",
+    "romaji": "Zombie no Afureta Sekai de Ore dake ga Osowarenai",
+    "native": "ゾンビのあふれた世界で俺だけが襲われない"
+  },
+  "synonyms": [
+    "Zombie no Afureta Sekai de Ore dake ga Osowarenai",
+    "ゾンビのあふれた世界で俺だけが襲われない",
+    "I am the only one who is not attacked in the world filled with zombies.",
+    "Despera",
+    "ですぺら",
+    "Desupera"
+  ],
+  "type": "tv",
+  "status": "to_be_aired",
+  "season": "winter",
+  "year": 2027,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174427-ozv3bFtwB08m.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "174427",
+      "url": "https://anilist.co/anime/174427"
+    },
+    "k": {
+      "id": "4584",
+      "url": "https://kitsu.io/anime/4584"
+    },
+    "mal": {
+      "id": "57990",
+      "url": "https://myanimelist.net/anime/57990"
+    }
+  }
+}

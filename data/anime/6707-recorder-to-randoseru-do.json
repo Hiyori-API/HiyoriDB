@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6707,
+  "slug": "recorder-to-randoseru-do",
+  "kind": "anime",
+  "title": "Recorder to Randoseru Do♪",
+  "titles": {
+    "default": "Recorder to Randoseru Do♪",
+    "romaji": "Recorder to Randoseru Do♪",
+    "english": "Recorder and Randsell",
+    "native": "リコーダーとランドセル　ド♪"
+  },
+  "synonyms": [
+    "Recorder to Randoseru Do♪",
+    "Recorder and Randsell",
+    "リコーダーとランドセル　ド♪",
+    "Recorder and Backpack Do",
+    "Recorder and Satchel Do",
+    "Recorder and Randsell Do",
+    "Recorder and Ransel Do",
+    "Recorder to Randsell Do",
+    "Recorder to Ransel Do"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11491.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11491",
+      "url": "https://anilist.co/anime/11491"
+    },
+    "cr": {
+      "id": "recorder-and-randsell",
+      "url": "https://www.crunchyroll.com/series/recorder-and-randsell"
+    },
+    "k": {
+      "id": "6519",
+      "url": "https://kitsu.io/anime/6519"
+    },
+    "mal": {
+      "id": "11491",
+      "url": "https://myanimelist.net/anime/11491"
+    },
+    "t": {
+      "id": "52535",
+      "url": "https://trakt.tv/shows/52535"
+    }
+  }
+}

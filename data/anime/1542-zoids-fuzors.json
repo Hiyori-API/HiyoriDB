@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1542,
+  "slug": "zoids-fuzors",
+  "kind": "anime",
+  "title": "Zoids Fuzors",
+  "titles": {
+    "default": "Zoids Fuzors",
+    "romaji": "Zoids Fuzors",
+    "native": "ゾイド・フューザース"
+  },
+  "synonyms": [
+    "Zoids Fuzors",
+    "ゾイド・フューザース",
+    "ゾイド・フューザーズ"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1746.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1746",
+      "url": "https://anilist.co/anime/1746"
+    },
+    "k": {
+      "id": "1566",
+      "url": "https://kitsu.io/anime/1566"
+    },
+    "mal": {
+      "id": "1746",
+      "url": "https://myanimelist.net/anime/1746"
+    },
+    "t": {
+      "id": "34620",
+      "url": "https://trakt.tv/shows/34620"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8661,
+  "slug": "12-sai-chiccha-na-mune-no-tokimeki",
+  "kind": "anime",
+  "title": "12-sai.: Chiccha na Mune no Tokimeki",
+  "titles": {
+    "default": "12-sai.: Chiccha na Mune no Tokimeki",
+    "romaji": "12-sai.: Chiccha na Mune no Tokimeki",
+    "native": "12歳。～ちっちゃなムネのトキメキ～"
+  },
+  "synonyms": [
+    "12-sai.: Chiccha na Mune no Tokimeki",
+    "12歳。～ちっちゃなムネのトキメキ～",
+    "Tanaka-kun is Always Listless",
+    "田中くんはいつもけだるげ",
+    "Tanaka-kun wa Itsumo Kedaruge"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21609-syaj6oFS52xC.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21609",
+      "url": "https://anilist.co/anime/21609"
+    },
+    "mal": {
+      "id": "32601",
+      "url": "https://myanimelist.net/anime/32601"
+    },
+    "tx": {
+      "id": "12sai_PR",
+      "url": "https://twitter.com/12sai_PR"
+    }
+  }
+}

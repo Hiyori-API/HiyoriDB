@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8583,
+  "slug": "kono-bijutsu-bu-ni-wa-mondai-ga-aru",
+  "kind": "anime",
+  "title": "Kono Bijutsu-bu ni wa Mondai ga Aru!",
+  "titles": {
+    "default": "Kono Bijutsu-bu ni wa Mondai ga Aru!",
+    "romaji": "Kono Bijutsu-bu ni wa Mondai ga Aru!",
+    "english": "This Art Club Has a Problem!",
+    "native": "この美術部には問題がある!"
+  },
+  "synonyms": [
+    "Kono Bijutsu-bu ni wa Mondai ga Aru!",
+    "This Art Club Has a Problem!",
+    "この美術部には問題がある!",
+    "Konobi",
+    "この美術部には問題がある！"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21457-MzWktnoD67PO.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21457",
+      "url": "https://anilist.co/anime/21457"
+    },
+    "cr": {
+      "id": "this-art-club-has-a-problem",
+      "url": "https://www.crunchyroll.com/series/this-art-club-has-a-problem"
+    },
+    "mal": {
+      "id": "31952",
+      "url": "https://myanimelist.net/anime/31952"
+    },
+    "tx": {
+      "id": "konobi_anime",
+      "url": "https://twitter.com/konobi_anime"
+    }
+  }
+}

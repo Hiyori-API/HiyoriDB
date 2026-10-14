@@ -1,0 +1,60 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8489,
+  "slug": "schwarzesmarken",
+  "kind": "anime",
+  "title": "Schwarzesmarken",
+  "titles": {
+    "default": "Schwarzesmarken",
+    "romaji": "Schwarzesmarken",
+    "english": "Schwarzes Marken",
+    "native": "シュヴァルツェスマーケン"
+  },
+  "synonyms": [
+    "Schwarzesmarken",
+    "Schwarzes Marken",
+    "シュヴァルツェスマーケン",
+    "Muv-Luv Alternative: Schwarzesmarken",
+    "Durarara!!x2 Ketsu",
+    "Durarara!! x2 Ketsu",
+    "デュラララ!!×2 結"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21201-eQx9w8LLNVrx.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21201",
+      "url": "https://anilist.co/anime/21201"
+    },
+    "cr": {
+      "id": "schwarzes-marken",
+      "url": "https://www.crunchyroll.com/series/schwarzes-marken"
+    },
+    "k": {
+      "id": "9725",
+      "url": "https://kitsu.io/anime/9725"
+    },
+    "mal": {
+      "id": "30806",
+      "url": "https://myanimelist.net/anime/30806"
+    },
+    "nf": {
+      "id": "80047029",
+      "url": "https://www.netflix.com/title/80047029"
+    },
+    "t": {
+      "id": "42187",
+      "url": "https://trakt.tv/shows/42187"
+    },
+    "tx": {
+      "id": "schwaken_anime",
+      "url": "https://twitter.com/schwaken_anime"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9238,
+  "slug": "time-bokan-gyakushuu-no-san-akunin",
+  "kind": "anime",
+  "title": "Time Bokan: Gyakushuu no San-Akunin",
+  "titles": {
+    "default": "Time Bokan: Gyakushuu no San-Akunin",
+    "romaji": "Time Bokan: Gyakushuu no San-Akunin",
+    "english": "Time Bokan: The Villains' Strike Back",
+    "native": "タイムボカン 逆襲の三悪人"
+  },
+  "synonyms": [
+    "Time Bokan: Gyakushuu no San-Akunin",
+    "Time Bokan: The Villains' Strike Back",
+    "タイムボカン 逆襲の三悪人",
+    "Time Bokan: Three Bad Guys' Counterattack",
+    "Time Bokan 24 2nd Season",
+    "The Magician's Bride",
+    "Mahoyome",
+    "The Ancient Magus' Bride",
+    "魔法使いの嫁",
+    "Mahoutsukai no Yome"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "fall",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98521-WTX6Uvf7DivL.png"
+  ],
+  "references": {
+    "al": {
+      "id": "98521",
+      "url": "https://anilist.co/anime/98521"
+    },
+    "cr": {
+      "id": "time-bokan-24",
+      "url": "https://www.crunchyroll.com/series/time-bokan-24"
+    },
+    "mal": {
+      "id": "35254",
+      "url": "https://myanimelist.net/anime/35254"
+    },
+    "tx": {
+      "id": "timebokan_24",
+      "url": "https://twitter.com/timebokan_24"
+    }
+  }
+}

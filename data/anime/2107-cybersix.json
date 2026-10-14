@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2107,
+  "slug": "cybersix",
+  "kind": "anime",
+  "title": "Cybersix",
+  "titles": {
+    "default": "Cybersix",
+    "romaji": "Cybersix",
+    "native": "サイバーシックス"
+  },
+  "synonyms": [
+    "Cybersix",
+    "サイバーシックス",
+    "Now and Then, Here and There",
+    "Ima, Soko ni Iru Boku",
+    "今、そこにいる僕",
+    "Ima",
+    "Soko ni Iru Boku"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2383-dlFvoSIirHZc.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2383",
+      "url": "https://anilist.co/anime/2383"
+    },
+    "ap": {
+      "id": "B084ZZ8WLX",
+      "url": "https://www.amazon.com/gp/video/detail/B084ZZ8WLX"
+    },
+    "k": {
+      "id": "138",
+      "url": "https://kitsu.io/anime/138"
+    },
+    "mal": {
+      "id": "2383",
+      "url": "https://myanimelist.net/anime/2383"
+    },
+    "t": {
+      "id": "31548",
+      "url": "https://trakt.tv/shows/31548"
+    }
+  }
+}

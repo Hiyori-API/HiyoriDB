@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15806,
+  "slug": "military",
+  "kind": "manga",
+  "title": "Military!",
+  "titles": {
+    "default": "Military!"
+  },
+  "synonyms": [
+    "みりたり!",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "chapters": 65,
+  "volumes": 5,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx123443-UMVt81rZofiu.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "20793",
+      "url": "https://anilist.co/anime/106456"
+    },
+    "al_manga": {
+      "id": "20793",
+      "url": "https://anilist.co/manga/20793"
+    }
+  }
+}

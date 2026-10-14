@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3569,
+  "slug": "rurouni-kenshin-special-techniques",
+  "kind": "anime",
+  "title": "Rurouni Kenshin: Special Techniques",
+  "titles": {
+    "default": "Rurouni Kenshin: Special Techniques",
+    "romaji": "Rurouni Kenshin: Special Techniques",
+    "native": "るろうに剣心－明治剣客浪漫譚－"
+  },
+  "synonyms": [
+    "Rurouni Kenshin: Special Techniques",
+    "るろうに剣心－明治剣客浪漫譚－",
+    "Rurouni Kenshin: Meiji Kenkaku Romantan - Special Techniques"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4664.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4664",
+      "url": "https://anilist.co/anime/4664"
+    },
+    "k": {
+      "id": "3730",
+      "url": "https://kitsu.io/anime/3730"
+    },
+    "mal": {
+      "id": "4664",
+      "url": "https://myanimelist.net/anime/4664"
+    }
+  }
+}

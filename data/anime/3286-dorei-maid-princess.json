@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3286,
+  "slug": "dorei-maid-princess",
+  "kind": "anime",
+  "title": "Dorei Maid Princess",
+  "titles": {
+    "default": "Dorei Maid Princess",
+    "romaji": "Dorei Maid Princess",
+    "native": "奴隷メイドプリンセス"
+  },
+  "synonyms": [
+    "Dorei Maid Princess",
+    "奴隷メイドプリンセス",
+    "Slave Maid Princess",
+    "No Money!",
+    "Okane ga Nai",
+    "No Money",
+    "お金がないっ"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "spring",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3999.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3999",
+      "url": "https://anilist.co/anime/3999"
+    },
+    "k": {
+      "id": "1945",
+      "url": "https://kitsu.io/anime/1945"
+    },
+    "mal": {
+      "id": "3999",
+      "url": "https://myanimelist.net/anime/3999"
+    }
+  }
+}

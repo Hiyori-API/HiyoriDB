@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9927,
+  "slug": "yuuwaku-office-lover-2",
+  "kind": "anime",
+  "title": "Yuuwaku Office LOVER 2",
+  "titles": {
+    "default": "Yuuwaku Office LOVER 2",
+    "romaji": "Yuuwaku Office LOVER 2",
+    "native": "誘惑オフィスLOVER2"
+  },
+  "synonyms": [
+    "Yuuwaku Office LOVER 2",
+    "誘惑オフィスLOVER2",
+    "Devilman: Crybaby",
+    "DEVILMAN crybaby"
+  ],
+  "type": "ona",
+  "episodes": 10,
+  "status": "finished",
+  "season": "winter",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b163275-pljFEIu8gsYF.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "163275",
+      "url": "https://anilist.co/anime/163275"
+    },
+    "mal": {
+      "id": "36705",
+      "url": "https://myanimelist.net/anime/36705"
+    }
+  }
+}

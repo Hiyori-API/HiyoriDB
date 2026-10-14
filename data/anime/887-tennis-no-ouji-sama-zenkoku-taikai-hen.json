@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 887,
+  "slug": "tennis-no-ouji-sama-zenkoku-taikai-hen",
+  "kind": "anime",
+  "title": "Tennis no Ouji-sama: Zenkoku Taikai-hen",
+  "titles": {
+    "default": "Tennis no Ouji-sama: Zenkoku Taikai-hen",
+    "romaji": "Tennis no Ouji-sama: Zenkoku Taikai-hen",
+    "native": "テニスの王子様 全国大会篇"
+  },
+  "synonyms": [
+    "Tennis no Ouji-sama: Zenkoku Taikai-hen",
+    "テニスの王子様 全国大会篇",
+    "PoT OVA",
+    "Zenkoku Taikai hen",
+    "The Prince of Tennis: The National Tournament",
+    "テニスの王子様 OVA 全国大会篇",
+    "テニスの王子様　Original Video Animation 全国大会篇",
+    "Prince of Tennis: National Championship Chapter",
+    "Prince of Tennis: The National Tournament",
+    "テニスの王子様 Original Video Animation 全国大会編",
+    "Tennis no Ouji-sama: Zenkoku Taikai hen"
+  ],
+  "type": "ova",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx995-tzvdlOkpP2r3.png"
+  ],
+  "references": {
+    "al": {
+      "id": "995",
+      "url": "https://anilist.co/anime/995"
+    },
+    "k": {
+      "id": "885",
+      "url": "https://kitsu.io/anime/885"
+    },
+    "mal": {
+      "id": "995",
+      "url": "https://myanimelist.net/anime/995"
+    }
+  }
+}

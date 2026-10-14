@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2716,
+  "slug": "kekkai",
+  "kind": "anime",
+  "title": "Kekkai",
+  "titles": {
+    "default": "Kekkai",
+    "romaji": "Kekkai",
+    "native": "結界"
+  },
+  "synonyms": [
+    "Kekkai",
+    "結界",
+    "Voices of a Distant Star",
+    "Hoshi no Koe",
+    "ほしのこえ"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3093.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3093",
+      "url": "https://anilist.co/anime/3093"
+    },
+    "cr": {
+      "id": "voices-of-a-distant-star",
+      "url": "https://www.crunchyroll.com/series/voices-of-a-distant-star"
+    },
+    "k": {
+      "id": "231",
+      "url": "https://kitsu.io/anime/231"
+    },
+    "mal": {
+      "id": "3093",
+      "url": "https://myanimelist.net/anime/3093"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1893,
+  "slug": "sora-no-iro-mizu-no-iro",
+  "kind": "anime",
+  "title": "Sora no Iro, Mizu no Iro",
+  "titles": {
+    "default": "Sora no Iro, Mizu no Iro",
+    "romaji": "Sora no Iro, Mizu no Iro",
+    "english": "Color of Sky",
+    "native": "そらのいろ、みずのいろ"
+  },
+  "synonyms": [
+    "Sora no Iro, Mizu no Iro",
+    "Color of Sky",
+    "そらのいろ、みずのいろ",
+    "Stratos 4 Advance Kanketsu-hen",
+    "ストラトス・フォー アドヴァンス 完結編"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2135.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2135",
+      "url": "https://anilist.co/anime/2135"
+    },
+    "k": {
+      "id": "1424",
+      "url": "https://kitsu.io/anime/1424"
+    },
+    "mal": {
+      "id": "2135",
+      "url": "https://myanimelist.net/anime/2135"
+    }
+  }
+}

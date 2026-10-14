@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2763,
+  "slug": "eve-no-jikan-are-you-enjoying-the-time-of-eve",
+  "kind": "anime",
+  "title": "Eve no Jikan: Are you enjoying the time of EVE?",
+  "titles": {
+    "default": "Eve no Jikan: Are you enjoying the time of EVE?",
+    "romaji": "Eve no Jikan: Are you enjoying the time of EVE?",
+    "english": "Time of Eve",
+    "native": "イヴの時間 Are you enjoying the time of EVE ?"
+  },
+  "synonyms": [
+    "Eve no Jikan: Are you enjoying the time of EVE?",
+    "Time of Eve",
+    "イヴの時間 Are you enjoying the time of EVE ?",
+    "이브의 시간",
+    "Eve's Time",
+    "Eve no Jikan",
+    "イヴの時間"
+  ],
+  "type": "ona",
+  "episodes": 6,
+  "status": "finished",
+  "season": "summer",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3167-IBEzQTk9wvbr.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3167",
+      "url": "https://anilist.co/anime/3167"
+    },
+    "cr": {
+      "id": "time-of-eve",
+      "url": "https://www.crunchyroll.com/series/time-of-eve"
+    },
+    "k": {
+      "id": "7661",
+      "url": "https://kitsu.io/anime/7661"
+    },
+    "mal": {
+      "id": "3167",
+      "url": "https://myanimelist.net/anime/3167"
+    }
+  }
+}

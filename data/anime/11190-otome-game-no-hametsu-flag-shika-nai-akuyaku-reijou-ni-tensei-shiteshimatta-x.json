@@ -1,0 +1,64 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11190,
+  "slug": "otome-game-no-hametsu-flag-shika-nai-akuyaku-reijou-ni-tensei-shiteshimatta-x",
+  "kind": "anime",
+  "title": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta… X",
+  "titles": {
+    "default": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta… X",
+    "romaji": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta… X",
+    "english": "My Next Life as a Villainess: All Routes Lead to Doom! X",
+    "native": "乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…Ｘ"
+  },
+  "synonyms": [
+    "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta… X",
+    "My Next Life as a Villainess: All Routes Lead to Doom! X",
+    "乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…Ｘ",
+    "Hamefura 2",
+    "Hamehura 2",
+    "เกิดใหม่เป็นนางร้ายจะเลือกทางไหนก็หายนะ X",
+    "เกิดใหม่เป็นนางร้ายจะเลือกทางไหนก็หายนะ ภาค 2",
+    "Full Metal Panic? Fumoffu",
+    "フルメタル・パニック? ふもっふ",
+    "Full Metal Panic Fumoffu",
+    "Fullmetal Panic? Fumoffu"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120209-7eQk3UKmkQun.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "120209",
+      "url": "https://anilist.co/anime/120209"
+    },
+    "cr": {
+      "id": "my-next-life-as-a-villainess-all-routes-lead-to-doom",
+      "url": "https://www.crunchyroll.com/series/my-next-life-as-a-villainess-all-routes-lead-to-doom"
+    },
+    "k": {
+      "id": "52",
+      "url": "https://kitsu.io/anime/52"
+    },
+    "mal": {
+      "id": "42282",
+      "url": "https://myanimelist.net/anime/42282"
+    },
+    "t": {
+      "id": "12432",
+      "url": "https://trakt.tv/shows/12432"
+    },
+    "ttv": {
+      "id": "2377",
+      "url": "https://tubitv.com/series/2377"
+    },
+    "tx": {
+      "id": "hamehura",
+      "url": "https://twitter.com/hamehura"
+    }
+  }
+}

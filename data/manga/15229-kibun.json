@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15229,
+  "slug": "kibun",
+  "kind": "manga",
+  "title": "Kibun²",
+  "titles": {
+    "default": "Kibun²"
+  },
+  "synonyms": [
+    "気分2",
+    "Kibun Kibun",
+    "Kibun2",
+    "気分²",
+    "Paradise Kiss",
+    "パラダイス・キス",
+    "ParaKiss"
+  ],
+  "type": "manga",
+  "chapters": 11,
+  "volumes": 2,
+  "status": "finished",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx130082-c5936XcQ6pmK.png"
+  ],
+  "references": {
+    "al": {
+      "id": "4603",
+      "url": "https://anilist.co/anime/4603"
+    },
+    "al_manga": {
+      "id": "4603",
+      "url": "https://anilist.co/manga/4603"
+    }
+  }
+}

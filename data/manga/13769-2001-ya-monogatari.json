@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13769,
+  "slug": "2001-ya-monogatari",
+  "kind": "manga",
+  "title": "2001-ya Monogatari",
+  "titles": {
+    "default": "2001-ya Monogatari"
+  },
+  "synonyms": [
+    "2001 Nights",
+    "2001 Ya Monogatari",
+    "2001夜物語",
+    "2001-ya Monogatari"
+  ],
+  "type": "manga",
+  "chapters": 20,
+  "volumes": 3,
+  "status": "finished",
+  "year": 1984,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx30067-nxnfBFZzQwdI.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7279",
+      "url": "https://anilist.co/anime/1662"
+    },
+    "al_manga": {
+      "id": "7279",
+      "url": "https://anilist.co/manga/7279"
+    }
+  }
+}

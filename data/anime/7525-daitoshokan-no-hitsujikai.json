@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7525,
+  "slug": "daitoshokan-no-hitsujikai",
+  "kind": "anime",
+  "title": "Daitoshokan no Hitsujikai",
+  "titles": {
+    "default": "Daitoshokan no Hitsujikai",
+    "romaji": "Daitoshokan no Hitsujikai",
+    "english": "A Good Librarian Like a Good Shepherd",
+    "native": "大図書館の羊飼い"
+  },
+  "synonyms": [
+    "Daitoshokan no Hitsujikai",
+    "A Good Librarian Like a Good Shepherd",
+    "大図書館の羊飼い"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17827-glAvrjSWSoWS.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "17827",
+      "url": "https://anilist.co/anime/17827"
+    },
+    "k": {
+      "id": "8002",
+      "url": "https://kitsu.io/anime/8002"
+    },
+    "mal": {
+      "id": "17827",
+      "url": "https://myanimelist.net/anime/17827"
+    },
+    "t": {
+      "id": "79362",
+      "url": "https://trakt.tv/shows/79362"
+    },
+    "ttv": {
+      "id": "2237",
+      "url": "https://tubitv.com/series/2237"
+    }
+  }
+}

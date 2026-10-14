@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15213,
+  "slug": "mahoutsukai-tai",
+  "kind": "manga",
+  "title": "Mahoutsukai Tai!",
+  "titles": {
+    "default": "Mahoutsukai Tai!"
+  },
+  "synonyms": [
+    "Mahoutsukai tai",
+    "Magic User's Club!",
+    "Mahoutsukai Tai: Escuela de Brujas",
+    "魔法使いTai!",
+    "20th Century Boys",
+    "20世紀少年",
+    "20 Seiki Shounen",
+    "Nijuu Seiki Shounen",
+    "Nijuusseiki Shounen",
+    "20thCB"
+  ],
+  "type": "manga",
+  "chapters": 26,
+  "volumes": 3,
+  "status": "finished",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/9806.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "629",
+      "url": "https://anilist.co/anime/629"
+    },
+    "al_manga": {
+      "id": "629",
+      "url": "https://anilist.co/manga/629"
+    }
+  }
+}

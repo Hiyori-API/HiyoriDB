@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14014,
+  "slug": "earthian",
+  "kind": "manga",
+  "title": "Earthian",
+  "titles": {
+    "default": "Earthian"
+  },
+  "synonyms": [
+    "Earthian",
+    "アーシアン"
+  ],
+  "type": "manga",
+  "chapters": 30,
+  "volumes": 5,
+  "status": "finished",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30753-MGJaDrolUbwn.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1324",
+      "url": "https://anilist.co/anime/1324"
+    },
+    "al_manga": {
+      "id": "1324",
+      "url": "https://anilist.co/manga/1324"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11543,
+  "slug": "deemo-sakura-no-oto-anata-no-kanadeta-oto-ga-ima-mo-hibiku",
+  "kind": "anime",
+  "title": "DEEMO: Sakura no Oto - Anata no Kanadeta Oto ga, Ima mo Hibiku",
+  "titles": {
+    "default": "DEEMO: Sakura no Oto - Anata no Kanadeta Oto ga, Ima mo Hibiku",
+    "romaji": "DEEMO: Sakura no Oto - Anata no Kanadeta Oto ga, Ima mo Hibiku",
+    "english": "DEEMO: Memorial Keys",
+    "native": "DEEMO サクラノオト -あなたの奏でた音が、今も響く-"
+  },
+  "synonyms": [
+    "DEEMO: Sakura no Oto - Anata no Kanadeta Oto ga, Ima mo Hibiku",
+    "DEEMO: Memorial Keys",
+    "DEEMO サクラノオト -あなたの奏でた音が、今も響く-",
+    "DEEMO: Sakura no Oto - I still hear the sound of your piano",
+    "Deemo: Memorial Keys",
+    "劇場版 DEEMO サクラノオト -あなたの奏でた音が, 今も響く-",
+    "Deemo Movie: Sakura no Oto - Anata no Kanadeta Oto ga, Ima mo Hibiku"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113345-ce2bg0cSiizt.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "113345",
+      "url": "https://anilist.co/anime/113345"
+    },
+    "mal": {
+      "id": "40722",
+      "url": "https://myanimelist.net/anime/40722"
+    },
+    "tx": {
+      "id": "DeemoMovie",
+      "url": "https://twitter.com/DeemoMovie"
+    }
+  }
+}

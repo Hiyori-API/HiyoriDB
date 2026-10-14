@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9614,
+  "slug": "souten-no-ken-regenesis",
+  "kind": "anime",
+  "title": "Souten no Ken: REGENESIS",
+  "titles": {
+    "default": "Souten no Ken: REGENESIS",
+    "romaji": "Souten no Ken: REGENESIS",
+    "english": "Fist of the Blue Sky: Regenesis",
+    "native": "蒼天の拳REGENESIS"
+  },
+  "synonyms": [
+    "Souten no Ken: REGENESIS",
+    "Fist of the Blue Sky: Regenesis",
+    "蒼天の拳REGENESIS",
+    "Onmyouji: Heian Monogatari",
+    "阴阳师：平安物语",
+    "Yin Yang Shi: Ping An Wu Yu"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx100408-0S93Zk4507xR.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "100408",
+      "url": "https://anilist.co/anime/100408"
+    },
+    "cr": {
+      "id": "fist-of-the-blue-sky-regenesis",
+      "url": "https://www.crunchyroll.com/series/fist-of-the-blue-sky-regenesis"
+    },
+    "mal": {
+      "id": "36655",
+      "url": "https://myanimelist.net/anime/36655"
+    },
+    "tx": {
+      "id": "soutenregenesis",
+      "url": "https://twitter.com/soutenregenesis"
+    }
+  }
+}

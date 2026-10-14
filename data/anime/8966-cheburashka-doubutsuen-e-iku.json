@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8966,
+  "slug": "cheburashka-doubutsuen-e-iku",
+  "kind": "anime",
+  "title": "Cheburashka: Doubutsuen e Iku",
+  "titles": {
+    "default": "Cheburashka: Doubutsuen e Iku",
+    "romaji": "Cheburashka: Doubutsuen e Iku",
+    "native": "チェブラーシカ 動物園へ行く"
+  },
+  "synonyms": [
+    "Cheburashka: Doubutsuen e Iku",
+    "チェブラーシカ 動物園へ行く",
+    "Big Fish & Begonia",
+    "Da Yu Hai Tang",
+    "大鱼海棠",
+    "Da Hai",
+    "Big Fish & Chinese Flowering Crabapple",
+    "大魚海棠"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145704-L47dduUJxVcX.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "145704",
+      "url": "https://anilist.co/anime/145704"
+    },
+    "k": {
+      "id": "6103",
+      "url": "https://kitsu.io/anime/6103"
+    },
+    "mal": {
+      "id": "10259",
+      "url": "https://myanimelist.net/anime/10259"
+    }
+  }
+}

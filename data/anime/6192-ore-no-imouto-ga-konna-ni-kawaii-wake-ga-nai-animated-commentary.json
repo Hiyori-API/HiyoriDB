@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6192,
+  "slug": "ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai-animated-commentary",
+  "kind": "anime",
+  "title": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai Animated Commentary",
+  "titles": {
+    "default": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai Animated Commentary",
+    "romaji": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai Animated Commentary",
+    "english": "Oreimo Animated Commentary",
+    "native": "俺の妹がこんなに可愛いわけがない"
+  },
+  "synonyms": [
+    "Ore no Imouto ga Konna ni Kawaii Wake ga Nai Animated Commentary",
+    "Oreimo Animated Commentary",
+    "俺の妹がこんなに可愛いわけがない",
+    "My Little Sister Can't Be This Cute Animated Commentary",
+    "The Qwaser Of Stigmata Picture Drama",
+    "Seikon no Qwaser Picture Drama",
+    "聖痕のクェイサー ピクチャードラマ",
+    "Seikon no Quasar Picture Drama"
+  ],
+  "type": "special",
+  "episodes": 16,
+  "status": "finished",
+  "season": "winter",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10108.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10108",
+      "url": "https://anilist.co/anime/10108"
+    },
+    "k": {
+      "id": "5430",
+      "url": "https://kitsu.io/anime/5430"
+    },
+    "mal": {
+      "id": "10108",
+      "url": "https://myanimelist.net/anime/10108"
+    }
+  }
+}

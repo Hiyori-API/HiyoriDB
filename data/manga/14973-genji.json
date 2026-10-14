@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14973,
+  "slug": "genji",
+  "kind": "manga",
+  "title": "Genji",
+  "titles": {
+    "default": "Genji"
+  },
+  "synonyms": [
+    "源氏",
+    "Berserk",
+    "ベルセルク",
+    "Berserk: The Prototype"
+  ],
+  "type": "manga",
+  "status": "publishing",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx136061-F9kVESwgW19l.png"
+  ],
+  "references": {
+    "al": {
+      "id": "8233",
+      "url": "https://anilist.co/anime/8233"
+    },
+    "al_manga": {
+      "id": "8233",
+      "url": "https://anilist.co/manga/8233"
+    }
+  }
+}

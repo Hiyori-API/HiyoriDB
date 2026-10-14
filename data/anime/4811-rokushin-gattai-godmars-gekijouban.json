@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4811,
+  "slug": "rokushin-gattai-godmars-gekijouban",
+  "kind": "anime",
+  "title": "Rokushin Gattai GodMars Gekijouban",
+  "titles": {
+    "default": "Rokushin Gattai GodMars Gekijouban",
+    "romaji": "Rokushin Gattai GodMars Gekijouban",
+    "english": "Six God Combination GodMars: The Movie",
+    "native": "六神合体ゴッドマーズ 劇場版"
+  },
+  "synonyms": [
+    "Rokushin Gattai GodMars Gekijouban",
+    "Six God Combination GodMars: The Movie",
+    "六神合体ゴッドマーズ 劇場版",
+    "God Mars: the Movie",
+    "Rokushin Gattai GodMars (1982)",
+    "六神合体ゴッドマーズ (1982)",
+    "Six God Combination God Mars Movie"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1982,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9385-HDjkeprG8pja.png"
+  ],
+  "references": {
+    "al": {
+      "id": "9385",
+      "url": "https://anilist.co/anime/9385"
+    },
+    "k": {
+      "id": "5712",
+      "url": "https://kitsu.io/anime/5712"
+    },
+    "mal": {
+      "id": "9385",
+      "url": "https://myanimelist.net/anime/9385"
+    }
+  }
+}

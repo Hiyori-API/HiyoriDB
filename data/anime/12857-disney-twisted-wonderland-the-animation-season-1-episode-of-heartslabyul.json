@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12857,
+  "slug": "disney-twisted-wonderland-the-animation-season-1-episode-of-heartslabyul",
+  "kind": "anime",
+  "title": "Disney Twisted-Wonderland: THE ANIMATION - Season 1: EPISODE of HEARTSLABYUL",
+  "titles": {
+    "default": "Disney Twisted-Wonderland: THE ANIMATION - Season 1: EPISODE of HEARTSLABYUL",
+    "romaji": "Disney Twisted-Wonderland: THE ANIMATION - Season 1: EPISODE of HEARTSLABYUL",
+    "english": "Disney Twisted-Wonderland: The Animation",
+    "native": "ディズニー ツイステッドワンダーランド ザ アニメーション シーズン1「エピソード オブ ハーツラビュル」"
+  },
+  "synonyms": [
+    "Disney Twisted-Wonderland: THE ANIMATION - Season 1: EPISODE of HEARTSLABYUL",
+    "Disney Twisted-Wonderland: The Animation",
+    "ディズニー ツイステッドワンダーランド ザ アニメーション シーズン1「エピソード オブ ハーツラビュル」",
+    "Twisted Wonderland",
+    "ディズニー ツイステッドワンダーランド",
+    "Disney Twisted-Wonderland: Animacja",
+    "Disney Twisted-Wonderland: La serie",
+    "דיסני טוויסטד-ארץ הפלאות: האנימציה",
+    "Disney Twisted-Wonderland: A Série",
+    "Disney Twisted Wonderland: Animația",
+    "ดิสนีย์: ทวิสเต็ดวันเดอร์แลนด์",
+    "ディズニー ツイステッドワンダーランド ザ アニメーション エピソード オブ ハーツラビュル",
+    "Disney Twisted-Wonderland The Animation: Episode of Heartslabyul"
+  ],
+  "type": "ona",
+  "episodes": 8,
+  "status": "finished",
+  "season": "fall",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140291-RAwYjwC9vWDR.png"
+  ],
+  "references": {
+    "al": {
+      "id": "140291",
+      "url": "https://anilist.co/anime/140291"
+    },
+    "mal": {
+      "id": "50139",
+      "url": "https://myanimelist.net/anime/50139"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1472,
+  "slug": "barom-one",
+  "kind": "anime",
+  "title": "Barom One",
+  "titles": {
+    "default": "Barom One",
+    "romaji": "Barom One",
+    "native": "バロムワン"
+  },
+  "synonyms": [
+    "Barom One",
+    "バロムワン",
+    "Baromu One",
+    "Barom 1"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1667.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1667",
+      "url": "https://anilist.co/anime/1667"
+    },
+    "k": {
+      "id": "1497",
+      "url": "https://kitsu.io/anime/1497"
+    },
+    "mal": {
+      "id": "1667",
+      "url": "https://myanimelist.net/anime/1667"
+    }
+  }
+}

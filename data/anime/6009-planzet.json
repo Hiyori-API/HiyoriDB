@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6009,
+  "slug": "planzet",
+  "kind": "anime",
+  "title": "Planzet",
+  "titles": {
+    "default": "Planzet",
+    "romaji": "Planzet",
+    "native": "プランゼット"
+  },
+  "synonyms": [
+    "Planzet",
+    "プランゼット"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8297.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8297",
+      "url": "https://anilist.co/anime/8297"
+    },
+    "k": {
+      "id": "5284",
+      "url": "https://kitsu.io/anime/5284"
+    },
+    "mal": {
+      "id": "8297",
+      "url": "https://myanimelist.net/anime/8297"
+    },
+    "tx": {
+      "id": "PLANZET",
+      "url": "https://twitter.com/PLANZET"
+    }
+  }
+}

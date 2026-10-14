@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10007,
+  "slug": "psycho-pass-sinners-of-the-system-case-1-tsumi-to-batsu",
+  "kind": "anime",
+  "title": "PSYCHO-PASS Sinners of the System Case 1: Tsumi to Batsu",
+  "titles": {
+    "default": "PSYCHO-PASS Sinners of the System Case 1: Tsumi to Batsu",
+    "romaji": "PSYCHO-PASS Sinners of the System Case 1: Tsumi to Batsu",
+    "english": "PSYCHO-PASS: Sinners of the System 1 - Crime and Punishment",
+    "native": "PSYCHO-PASS サイコパス Sinners of the System Case.1 - 罪と罰"
+  },
+  "synonyms": [
+    "PSYCHO-PASS Sinners of the System Case 1: Tsumi to Batsu",
+    "PSYCHO-PASS: Sinners of the System 1 - Crime and Punishment",
+    "PSYCHO-PASS サイコパス Sinners of the System Case.1 - 罪と罰",
+    "Psycho-Pass SS Case 1: Tsumi to Batsu",
+    "Psycho-Pass: Sinners of the System Case.1 - Crime and Punishment",
+    "PSYCHO-PASS サイコパス|SS(Sinners of the System) Case.1「罪と罰」",
+    "Psycho-Pass: Sinners of the System Case.1 - Tsumi to Batsu"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx102649-gfShc1x0QQZv.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "102649",
+      "url": "https://anilist.co/anime/102649"
+    },
+    "cr": {
+      "id": "psycho-pass-sinners-of-the-system",
+      "url": "https://www.crunchyroll.com/series/psycho-pass-sinners-of-the-system"
+    },
+    "mal": {
+      "id": "37440",
+      "url": "https://myanimelist.net/anime/37440"
+    },
+    "tx": {
+      "id": "psychopass_tv",
+      "url": "https://twitter.com/psychopass_tv"
+    }
+  }
+}

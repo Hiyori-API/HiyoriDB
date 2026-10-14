@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14415,
+  "slug": "shoya-virgin-night",
+  "kind": "manga",
+  "title": "Shoya: Virgin Night",
+  "titles": {
+    "default": "Shoya: Virgin Night"
+  },
+  "synonyms": [
+    "Shoya -Virgin Night-",
+    "初夜 -ヴァージン・ナイト-",
+    "The Life and Times of an Idiot Section Chief",
+    "Kachou Baka Ichidachi",
+    "課長バカ一代",
+    "Kachou Baka Ichidai"
+  ],
+  "type": "manga",
+  "chapters": 16,
+  "volumes": 2,
+  "status": "finished",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33433-d98wpXofZZqp.png"
+  ],
+  "references": {
+    "al": {
+      "id": "823",
+      "url": "https://anilist.co/anime/823"
+    },
+    "al_manga": {
+      "id": "823",
+      "url": "https://anilist.co/manga/823"
+    }
+  }
+}

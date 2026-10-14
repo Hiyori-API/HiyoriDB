@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2847,
+  "slug": "mozu-no-nie",
+  "kind": "anime",
+  "title": "Mozu no Nie",
+  "titles": {
+    "default": "Mozu no Nie",
+    "romaji": "Mozu no Nie",
+    "english": "House of 100 Tongues",
+    "native": "百舌鳥の贄"
+  },
+  "synonyms": [
+    "Mozu no Nie",
+    "House of 100 Tongues",
+    "百舌鳥の贄",
+    "The Offering of the Shrike",
+    "Alexander's Decision",
+    "Alexandros no Ketsudan",
+    "アレクサンドロスの決断"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3309.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3309",
+      "url": "https://anilist.co/anime/3309"
+    },
+    "k": {
+      "id": "6040",
+      "url": "https://kitsu.io/anime/6040"
+    },
+    "mal": {
+      "id": "3309",
+      "url": "https://myanimelist.net/anime/3309"
+    }
+  }
+}

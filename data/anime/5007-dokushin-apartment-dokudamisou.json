@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5007,
+  "slug": "dokushin-apartment-dokudamisou",
+  "kind": "anime",
+  "title": "Dokushin Apartment Dokudamisou",
+  "titles": {
+    "default": "Dokushin Apartment Dokudamisou",
+    "romaji": "Dokushin Apartment Dokudamisou",
+    "native": "独身アパートどくだみ荘"
+  },
+  "synonyms": [
+    "Dokushin Apartment Dokudamisou",
+    "独身アパートどくだみ荘",
+    "Single Appartment Dokudami-sou",
+    "Cleopatra D.C.",
+    "クレオパトラＤ．Ｃ",
+    "Cleopatra DC"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "winter",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9499.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9499",
+      "url": "https://anilist.co/anime/9499"
+    },
+    "k": {
+      "id": "2514",
+      "url": "https://kitsu.io/anime/2514"
+    },
+    "mal": {
+      "id": "9499",
+      "url": "https://myanimelist.net/anime/9499"
+    }
+  }
+}

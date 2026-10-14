@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15172,
+  "slug": "hanasaka-tenshi-tenten-kun",
+  "kind": "manga",
+  "title": "Hanasaka Tenshi Tenten-kun",
+  "titles": {
+    "default": "Hanasaka Tenshi Tenten-kun"
+  },
+  "synonyms": [
+    "Flower Angel Little Ten-Ten",
+    "花さか天使テンテンくん",
+    "Kamikaze Kaito Jeanne",
+    "Kamikaze Kaitou Jeanne",
+    "Phantom Thief Jeanne",
+    "神風怪盗ジャンヌ",
+    "Divine Wind Phantom Thief Jeanne"
+  ],
+  "type": "manga",
+  "chapters": 161,
+  "volumes": 17,
+  "status": "finished",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b95263-pISRmvyR5ApL.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9811",
+      "url": "https://anilist.co/anime/9811"
+    },
+    "al_manga": {
+      "id": "9811",
+      "url": "https://anilist.co/manga/9811"
+    }
+  }
+}

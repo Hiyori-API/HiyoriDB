@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 319,
+  "slug": "magical-canan",
+  "kind": "anime",
+  "title": "Magical Canan",
+  "titles": {
+    "default": "Magical Canan",
+    "romaji": "Magical Canan",
+    "english": "Magical Kanan",
+    "native": "まじかるカナン"
+  },
+  "synonyms": [
+    "Magical Canan",
+    "Magical Kanan",
+    "まじかるカナン",
+    "Mahou Canan"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/349.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "349",
+      "url": "https://anilist.co/anime/349"
+    },
+    "k": {
+      "id": "316",
+      "url": "https://kitsu.io/anime/316"
+    },
+    "mal": {
+      "id": "349",
+      "url": "https://myanimelist.net/anime/349"
+    },
+    "t": {
+      "id": "64194",
+      "url": "https://trakt.tv/shows/64194"
+    }
+  }
+}

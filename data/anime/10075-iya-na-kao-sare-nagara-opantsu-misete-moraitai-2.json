@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10075,
+  "slug": "iya-na-kao-sare-nagara-opantsu-misete-moraitai-2",
+  "kind": "anime",
+  "title": "Iya na Kao sare nagara Opantsu Misete Moraitai 2",
+  "titles": {
+    "default": "Iya na Kao sare nagara Opantsu Misete Moraitai 2",
+    "romaji": "Iya na Kao sare nagara Opantsu Misete Moraitai 2",
+    "english": "Show Me Your Panties While You Give Me That Disgusted Look! 2",
+    "native": "嫌な顔されながらおパンツ見せてもらいたい 2"
+  },
+  "synonyms": [
+    "Iya na Kao sare nagara Opantsu Misete Moraitai 2",
+    "Show Me Your Panties While You Give Me That Disgusted Look! 2",
+    "嫌な顔されながらおパンツ見せてもらいたい 2",
+    "I Want You To Make a Disgusted Face and Show Me Your Underwear 2",
+    "Iyapan 2",
+    "The Disastrous Life of Saiki K. Restart Arc",
+    "Saiki Kusuo no Ψ-nan: Saishidou-hen",
+    "Saiki Kusuo no Sainan: Saishidou-hen",
+    "The Disastrous Life of Saiki K.: Reawakened",
+    "斉木楠雄のΨ難 Ψ始動編",
+    "Saiki Kusuo no Ψ-nan: Ψ-shidou-hen"
+  ],
+  "type": "ona",
+  "episodes": 6,
+  "status": "finished",
+  "season": "fall",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104979-GyV2oj4lKHD2.png"
+  ],
+  "references": {
+    "al": {
+      "id": "104979",
+      "url": "https://anilist.co/anime/104979"
+    },
+    "mal": {
+      "id": "38163",
+      "url": "https://myanimelist.net/anime/38163"
+    },
+    "tx": {
+      "id": "iyapan_anime",
+      "url": "https://twitter.com/iyapan_anime"
+    }
+  }
+}

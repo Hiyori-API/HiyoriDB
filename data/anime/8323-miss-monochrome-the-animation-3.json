@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8323,
+  "slug": "miss-monochrome-the-animation-3",
+  "kind": "anime",
+  "title": "Miss Monochrome - The Animation 3",
+  "titles": {
+    "default": "Miss Monochrome - The Animation 3",
+    "romaji": "Miss Monochrome - The Animation 3",
+    "english": "Miss Monochrome - The Animation - 3",
+    "native": "ミス・モノクローム -The Animation- 3"
+  },
+  "synonyms": [
+    "Miss Monochrome - The Animation 3",
+    "Miss Monochrome - The Animation - 3",
+    "ミス・モノクローム -The Animation- 3",
+    "Noragami Aragoto",
+    "ノラガミ ARAGOTO"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21332-KyZCNXT0C85P.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21332",
+      "url": "https://anilist.co/anime/21332"
+    },
+    "cr": {
+      "id": "miss-monochrome-the-animation",
+      "url": "https://www.crunchyroll.com/series/miss-monochrome-the-animation"
+    },
+    "mal": {
+      "id": "31560",
+      "url": "https://myanimelist.net/anime/31560"
+    },
+    "tx": {
+      "id": "monochro_staff",
+      "url": "https://twitter.com/monochro_staff"
+    }
+  }
+}

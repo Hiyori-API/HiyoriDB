@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1821,
+  "slug": "mainichi-ga-nichiyoubi",
+  "kind": "anime",
+  "title": "Mainichi ga Nichiyoubi",
+  "titles": {
+    "default": "Mainichi ga Nichiyoubi",
+    "romaji": "Mainichi ga Nichiyoubi",
+    "native": "毎日が日曜日"
+  },
+  "synonyms": [
+    "Mainichi ga Nichiyoubi",
+    "毎日が日曜日",
+    "Everyday is Sunday",
+    "Devil Hunter Yohko",
+    "Mamono Hunter Youko",
+    "魔物ハンター妖子",
+    "Demon Hunter Youko",
+    "Mamono Hunter Yohko"
+  ],
+  "type": "ova",
+  "episodes": 6,
+  "status": "finished",
+  "season": "fall",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2059-3Ss0TXFqXQ56.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2059",
+      "url": "https://anilist.co/anime/2059"
+    },
+    "k": {
+      "id": "1155",
+      "url": "https://kitsu.io/anime/1155"
+    },
+    "mal": {
+      "id": "2059",
+      "url": "https://myanimelist.net/anime/2059"
+    }
+  }
+}

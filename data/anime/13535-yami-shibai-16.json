@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13535,
+  "slug": "yami-shibai-16",
+  "kind": "anime",
+  "title": "Yami Shibai 16",
+  "titles": {
+    "default": "Yami Shibai 16",
+    "romaji": "Yami Shibai 16",
+    "english": "Theatre of Darkness: Yamishibai 16",
+    "native": "闇芝居 十六期"
+  },
+  "synonyms": [
+    "Yami Shibai 16",
+    "Theatre of Darkness: Yamishibai 16",
+    "闇芝居 十六期",
+    "Yamishibai: Japanese Ghost Stories Sixteenth Season",
+    "El Hazard: The Alternative World",
+    "異次元の世界エルハザード",
+    "Ijigen no Sekai El Hazard",
+    "Ijigen no Sekai El-Hazard"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203939-F8YG2X9LgfAX.png"
+  ],
+  "references": {
+    "al": {
+      "id": "203939",
+      "url": "https://anilist.co/anime/203939"
+    },
+    "cr": {
+      "id": "series/G6WEM1V36/theatre-of-darkness-yamishibai",
+      "url": "https://www.crunchyroll.com/series/series/G6WEM1V36/theatre-of-darkness-yamishibai"
+    },
+    "k": {
+      "id": "94",
+      "url": "https://kitsu.io/anime/94"
+    },
+    "mal": {
+      "id": "63087",
+      "url": "https://myanimelist.net/anime/63087"
+    },
+    "t": {
+      "id": "63711",
+      "url": "https://trakt.tv/shows/63711"
+    },
+    "tvt": {
+      "id": "yamishibai16",
+      "url": "http://www.tv-tokyo.co.jp/anime/yamishibai16"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5378,
+  "slug": "shinkai-no-kantai-submarine-707",
+  "kind": "anime",
+  "title": "Shinkai no Kantai: Submarine 707",
+  "titles": {
+    "default": "Shinkai no Kantai: Submarine 707",
+    "romaji": "Shinkai no Kantai: Submarine 707",
+    "native": "深海の艦隊 サブマリン707"
+  },
+  "synonyms": [
+    "Shinkai no Kantai: Submarine 707",
+    "深海の艦隊 サブマリン707",
+    "Undersea Fleet Submarine 707F"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16251.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "16251",
+      "url": "https://anilist.co/anime/16251"
+    },
+    "k": {
+      "id": "7394",
+      "url": "https://kitsu.io/anime/7394"
+    },
+    "mal": {
+      "id": "16251",
+      "url": "https://myanimelist.net/anime/16251"
+    }
+  }
+}

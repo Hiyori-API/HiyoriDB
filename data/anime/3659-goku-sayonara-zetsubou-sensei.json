@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3659,
+  "slug": "goku-sayonara-zetsubou-sensei",
+  "kind": "anime",
+  "title": "Goku Sayonara Zetsubou Sensei",
+  "titles": {
+    "default": "Goku Sayonara Zetsubou Sensei",
+    "romaji": "Goku Sayonara Zetsubou Sensei",
+    "native": "獄・さよなら絶望先生"
+  },
+  "synonyms": [
+    "Goku Sayonara Zetsubou Sensei",
+    "獄・さよなら絶望先生",
+    "Sayonara Zetsubou Sensei OAD",
+    "Goodbye Mr. Despair OVA",
+    "GSZS",
+    "Goodbye Mr. Despair OAD"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "fall",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4872-4TEsaUG8uoYl.png"
+  ],
+  "references": {
+    "al": {
+      "id": "4872",
+      "url": "https://anilist.co/anime/4872"
+    },
+    "k": {
+      "id": "3832",
+      "url": "https://kitsu.io/anime/3832"
+    },
+    "mal": {
+      "id": "4872",
+      "url": "https://myanimelist.net/anime/4872"
+    }
+  }
+}

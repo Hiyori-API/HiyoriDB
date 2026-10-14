@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2075,
+  "slug": "shitai-wo-arau-the-animation",
+  "kind": "anime",
+  "title": "Shitai wo Arau THE ANIMATION",
+  "titles": {
+    "default": "Shitai wo Arau THE ANIMATION",
+    "romaji": "Shitai wo Arau THE ANIMATION",
+    "native": "肢体を洗う THE ANIMATION"
+  },
+  "synonyms": [
+    "Shitai wo Arau THE ANIMATION",
+    "肢体を洗う THE ANIMATION",
+    "Shitai wo Arau The Animation",
+    "Shitai O Arau",
+    "Moekan The Animation",
+    "モエかん THE ANIMATION",
+    "Moekan Company OVA"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "summer",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2348.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2348",
+      "url": "https://anilist.co/anime/2348"
+    },
+    "k": {
+      "id": "580",
+      "url": "https://kitsu.io/anime/580"
+    },
+    "mal": {
+      "id": "2348",
+      "url": "https://myanimelist.net/anime/2348"
+    }
+  }
+}

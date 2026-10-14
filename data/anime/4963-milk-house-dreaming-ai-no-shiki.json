@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4963,
+  "slug": "milk-house-dreaming-ai-no-shiki",
+  "kind": "anime",
+  "title": "Milk House Dreaming: Ai no Shiki",
+  "titles": {
+    "default": "Milk House Dreaming: Ai no Shiki",
+    "romaji": "Milk House Dreaming: Ai no Shiki",
+    "native": "ミルクハウス・ドリーミング 愛の四季"
+  },
+  "synonyms": [
+    "Milk House Dreaming: Ai no Shiki",
+    "ミルクハウス・ドリーミング 愛の四季"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19597.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "19597",
+      "url": "https://anilist.co/anime/19597"
+    },
+    "k": {
+      "id": "9448",
+      "url": "https://kitsu.io/anime/9448"
+    },
+    "mal": {
+      "id": "19597",
+      "url": "https://myanimelist.net/anime/19597"
+    }
+  }
+}

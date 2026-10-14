@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5920,
+  "slug": "nurarihyon-no-mago",
+  "kind": "anime",
+  "title": "Nurarihyon no Mago",
+  "titles": {
+    "default": "Nurarihyon no Mago",
+    "romaji": "Nurarihyon no Mago",
+    "english": "Nura: Rise of the Yokai Clan",
+    "native": "ぬらりひょんの孫"
+  },
+  "synonyms": [
+    "Nurarihyon no Mago",
+    "Nura: Rise of the Yokai Clan",
+    "ぬらりひょんの孫",
+    "The Grandson of Nurarihyon",
+    "Grandchild of Nurarihyon"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "summer",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx7592-28Qy7SBbSquT.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7592",
+      "url": "https://anilist.co/anime/7592"
+    },
+    "k": {
+      "id": "5044",
+      "url": "https://kitsu.io/anime/5044"
+    },
+    "mal": {
+      "id": "7592",
+      "url": "https://myanimelist.net/anime/7592"
+    },
+    "t": {
+      "id": "37313",
+      "url": "https://trakt.tv/shows/37313"
+    }
+  }
+}

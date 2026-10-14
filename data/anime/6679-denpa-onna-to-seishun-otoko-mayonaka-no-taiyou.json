@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6679,
+  "slug": "denpa-onna-to-seishun-otoko-mayonaka-no-taiyou",
+  "kind": "anime",
+  "title": "Denpa Onna to Seishun Otoko: Mayonaka no Taiyou",
+  "titles": {
+    "default": "Denpa Onna to Seishun Otoko: Mayonaka no Taiyou",
+    "romaji": "Denpa Onna to Seishun Otoko: Mayonaka no Taiyou",
+    "english": "Ground Control to Psychoelectric Girl: The Nighttime Sun",
+    "native": "電波女と青春男 真夜中の太陽"
+  },
+  "synonyms": [
+    "Denpa Onna to Seishun Otoko: Mayonaka no Taiyou",
+    "Ground Control to Psychoelectric Girl: The Nighttime Sun",
+    "電波女と青春男 真夜中の太陽",
+    "Denpa Onna to Seishun Otoko Episode 13",
+    "Electromagnetic Wave Woman and Adolescent Man Special",
+    "Ground Control to Psychoelectric Girl: Episode 13",
+    "Minori Scramble!",
+    "みのりスクランブル!"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10638-UVt6Lj56xZtL.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10638",
+      "url": "https://anilist.co/anime/10638"
+    },
+    "cr": {
+      "id": "ground-control-to-psychoelectric-girl",
+      "url": "https://www.crunchyroll.com/series/ground-control-to-psychoelectric-girl"
+    },
+    "k": {
+      "id": "5773",
+      "url": "https://kitsu.io/anime/5773"
+    },
+    "mal": {
+      "id": "10638",
+      "url": "https://myanimelist.net/anime/10638"
+    },
+    "tx": {
+      "id": "denpa_girl",
+      "url": "https://twitter.com/denpa_girl"
+    }
+  }
+}

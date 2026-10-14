@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10280,
+  "slug": "hoozuki-no-reitetsu-2-ova",
+  "kind": "anime",
+  "title": "Hoozuki no Reitetsu 2 OVA",
+  "titles": {
+    "default": "Hoozuki no Reitetsu 2 OVA",
+    "romaji": "Hoozuki no Reitetsu 2 OVA",
+    "native": "鬼灯の冷徹 2 OVA"
+  },
+  "synonyms": [
+    "Hoozuki no Reitetsu 2 OVA",
+    "鬼灯の冷徹 2 OVA",
+    "Hoozuki no Reitetsu 2nd Season OVA",
+    "Hoozuki no Reitetsu 2 OAD",
+    "Cool-headed Hoozuki 2nd Season OVA, Hozuki no Reitetsu 2nd Season OVA",
+    "鬼灯の冷徹 第2期 OAD"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "summer",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx111931-n3xCBhAoUihU.png"
+  ],
+  "references": {
+    "al": {
+      "id": "111931",
+      "url": "https://anilist.co/anime/111931"
+    },
+    "mal": {
+      "id": "39538",
+      "url": "https://myanimelist.net/anime/39538"
+    },
+    "tx": {
+      "id": "hozuki_anime",
+      "url": "https://twitter.com/hozuki_anime"
+    }
+  }
+}

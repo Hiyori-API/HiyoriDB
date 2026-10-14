@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5243,
+  "slug": "akuemon",
+  "kind": "anime",
+  "title": "Akuemon",
+  "titles": {
+    "default": "Akuemon",
+    "romaji": "Akuemon",
+    "native": "悪右衛門"
+  },
+  "synonyms": [
+    "Akuemon",
+    "悪右衛門"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b14231-7kCJ7Tw45Flo.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "14231",
+      "url": "https://anilist.co/anime/14231"
+    },
+    "k": {
+      "id": "7100",
+      "url": "https://kitsu.io/anime/7100"
+    },
+    "mal": {
+      "id": "14231",
+      "url": "https://myanimelist.net/anime/14231"
+    }
+  }
+}

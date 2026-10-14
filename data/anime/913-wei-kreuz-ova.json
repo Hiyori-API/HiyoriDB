@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 913,
+  "slug": "wei-kreuz-ova",
+  "kind": "anime",
+  "title": "Weiß kreuz OVA",
+  "titles": {
+    "default": "Weiß kreuz OVA",
+    "romaji": "Weiß kreuz OVA",
+    "english": "Knight Hunters OVA",
+    "native": "Weiß kreuz ヴァイスクロイツ OVA"
+  },
+  "synonyms": [
+    "Weiß kreuz OVA",
+    "Knight Hunters OVA",
+    "Weiß kreuz ヴァイスクロイツ OVA",
+    "Weiss Kreuz OVA",
+    "Weiss Kreuz: Verbrechen und Strafe",
+    "White Cross",
+    "Weiß Kreuz OVA",
+    "Weiß Kreuz ヴァイスクロイツ"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1024-0DPSE9xIuH0h.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1024",
+      "url": "https://anilist.co/anime/1024"
+    },
+    "k": {
+      "id": "914",
+      "url": "https://kitsu.io/anime/914"
+    },
+    "mal": {
+      "id": "1024",
+      "url": "https://myanimelist.net/anime/1024"
+    }
+  }
+}

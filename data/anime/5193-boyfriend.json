@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5193,
+  "slug": "boyfriend",
+  "kind": "anime",
+  "title": "Boyfriend",
+  "titles": {
+    "default": "Boyfriend",
+    "romaji": "Boyfriend",
+    "native": "ボ～イ フレンド"
+  },
+  "synonyms": [
+    "Boyfriend",
+    "ボ～イ フレンド"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10435-r1paBBGnELcG.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10435",
+      "url": "https://anilist.co/anime/10435"
+    },
+    "k": {
+      "id": "6179",
+      "url": "https://kitsu.io/anime/6179"
+    },
+    "mal": {
+      "id": "10435",
+      "url": "https://myanimelist.net/anime/10435"
+    }
+  }
+}

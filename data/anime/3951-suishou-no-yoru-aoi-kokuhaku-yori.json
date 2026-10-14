@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3951,
+  "slug": "suishou-no-yoru-aoi-kokuhaku-yori",
+  "kind": "anime",
+  "title": "Suishou no Yoru: Aoi Kokuhaku yori",
+  "titles": {
+    "default": "Suishou no Yoru: Aoi Kokuhaku yori",
+    "romaji": "Suishou no Yoru: Aoi Kokuhaku yori",
+    "native": "水晶の夜 ~蒼い告白より~"
+  },
+  "synonyms": [
+    "Suishou no Yoru: Aoi Kokuhaku yori",
+    "水晶の夜 ~蒼い告白より~",
+    "Mr. Stain on Junk Alley: Epilogue",
+    "Garakuta-doori no Stain: Epilogue",
+    "ガラクタ通りのステイン",
+    "Ga-Ra-Ku-Ta: Mr. Stain on Junk Alley: Epilogue",
+    "Garakuta-dori no Sutein: Epilogue"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5555.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5555",
+      "url": "https://anilist.co/anime/5555"
+    },
+    "k": {
+      "id": "6747",
+      "url": "https://kitsu.io/anime/6747"
+    },
+    "mal": {
+      "id": "5555",
+      "url": "https://myanimelist.net/anime/5555"
+    }
+  }
+}

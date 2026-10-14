@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14481,
+  "slug": "nanaka-6-17",
+  "kind": "manga",
+  "title": "Nanaka 6/17",
+  "titles": {
+    "default": "Nanaka 6/17"
+  },
+  "synonyms": [
+    "Nanaka Juu-nanabun no Roku",
+    "ななか6/17",
+    "Full Moon wo Sagashite",
+    "満月〈フルムーン〉をさがして",
+    "Searching for the Full Moon",
+    "Ginyuu Meika"
+  ],
+  "type": "manga",
+  "chapters": 105,
+  "volumes": 12,
+  "status": "finished",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4084.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "776",
+      "url": "https://anilist.co/anime/776"
+    },
+    "al_manga": {
+      "id": "776",
+      "url": "https://anilist.co/manga/776"
+    }
+  }
+}

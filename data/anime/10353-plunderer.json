@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10353,
+  "slug": "plunderer",
+  "kind": "anime",
+  "title": "Plunderer",
+  "titles": {
+    "default": "Plunderer",
+    "romaji": "Plunderer",
+    "native": "プランダラ"
+  },
+  "synonyms": [
+    "Plunderer",
+    "プランダラ",
+    "Ah! My Goddess",
+    "Aa! Megami-sama! (TV)",
+    "ああっ女神さまっ",
+    "Ah! My Goddess! (TV)"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "winter",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101168-LY3XA61byAVo.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101168",
+      "url": "https://anilist.co/anime/101168"
+    },
+    "cr": {
+      "id": "plunderer",
+      "url": "https://www.crunchyroll.com/series/plunderer"
+    },
+    "k": {
+      "id": "31",
+      "url": "https://kitsu.io/anime/31"
+    },
+    "mal": {
+      "id": "37345",
+      "url": "https://myanimelist.net/anime/37345"
+    },
+    "t": {
+      "id": "907",
+      "url": "https://trakt.tv/shows/907"
+    },
+    "tx": {
+      "id": "plundereranime",
+      "url": "https://twitter.com/plundereranime"
+    }
+  }
+}

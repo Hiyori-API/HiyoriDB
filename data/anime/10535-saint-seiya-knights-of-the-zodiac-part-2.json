@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10535,
+  "slug": "saint-seiya-knights-of-the-zodiac-part-2",
+  "kind": "anime",
+  "title": "Saint Seiya: Knights of the Zodiac Part 2",
+  "titles": {
+    "default": "Saint Seiya: Knights of the Zodiac Part 2",
+    "romaji": "Saint Seiya: Knights of the Zodiac Part 2",
+    "english": "Knights of the Zodiac: Saint Seiya Part 2",
+    "native": "聖闘士星矢: Knights of the Zodiac パート2"
+  },
+  "synonyms": [
+    "Saint Seiya: Knights of the Zodiac Part 2",
+    "Knights of the Zodiac: Saint Seiya Part 2",
+    "聖闘士星矢: Knights of the Zodiac パート2",
+    "SAINT SEIYA: Rycerze Zodiaku",
+    "Aikatsu on Parade!: Dream Story",
+    "アイカツオンパレード!",
+    "Aikatsu on Parade! (ONA)"
+  ],
+  "type": "ona",
+  "episodes": 6,
+  "status": "finished",
+  "season": "winter",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114448-nnpndNstYUNF.png"
+  ],
+  "references": {
+    "al": {
+      "id": "114448",
+      "url": "https://anilist.co/anime/114448"
+    },
+    "mal": {
+      "id": "36040",
+      "url": "https://myanimelist.net/anime/36040"
+    },
+    "nf": {
+      "id": "80186926",
+      "url": "https://www.netflix.com/title/80186926"
+    }
+  }
+}

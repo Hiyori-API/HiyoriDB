@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9791,
+  "slug": "k-seven-stories-lost-small-world-ori-no-mukou-ni",
+  "kind": "anime",
+  "title": "K SEVEN STORIES: Lost Small World ~Ori no Mukou ni~",
+  "titles": {
+    "default": "K SEVEN STORIES: Lost Small World ~Ori no Mukou ni~",
+    "romaji": "K SEVEN STORIES: Lost Small World ~Ori no Mukou ni~",
+    "english": "K: SEVEN STORIES \"Lost Small World - Outside the Cage - \"",
+    "native": "K SEVEN STORIES「Lost Small World ～檻の向こうに～」"
+  },
+  "synonyms": [
+    "K SEVEN STORIES: Lost Small World ~Ori no Mukou ni~",
+    "K: SEVEN STORIES \"Lost Small World - Outside the Cage - \"",
+    "K SEVEN STORIES「Lost Small World ～檻の向こうに～」",
+    "K SEVEN STORIES Episode 4",
+    "Lost Small World: To the Other Side of the Cage",
+    "K: Seven Stories - Lost Small World - To the Other Side of the Cage",
+    "K Seven Stories Lost Small World ~檻の向こうに~",
+    "K: Seven Stories Movie 4 - Lost Small World - Ori no Mukou ni"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx102348-NgomRekgBTxK.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "102348",
+      "url": "https://anilist.co/anime/102348"
+    },
+    "cr": {
+      "id": "k-seven-stories",
+      "url": "https://www.crunchyroll.com/series/k-seven-stories"
+    },
+    "mal": {
+      "id": "37305",
+      "url": "https://myanimelist.net/anime/37305"
+    },
+    "ttv": {
+      "id": "3420",
+      "url": "https://tubitv.com/series/3420"
+    },
+    "tx": {
+      "id": "anime_k11",
+      "url": "https://twitter.com/anime_k11"
+    }
+  }
+}

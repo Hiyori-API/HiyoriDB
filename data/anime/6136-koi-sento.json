@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6136,
+  "slug": "koi-sento",
+  "kind": "anime",
+  "title": "Koi☆Sento",
+  "titles": {
+    "default": "Koi☆Sento",
+    "romaji": "Koi☆Sento",
+    "english": "Coicent",
+    "native": "コイ☆セント"
+  },
+  "synonyms": [
+    "Koi☆Sento",
+    "Coicent",
+    "コイ☆セント",
+    "Koisento",
+    "Koi☆Cent"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9333.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9333",
+      "url": "https://anilist.co/anime/9333"
+    },
+    "k": {
+      "id": "5681",
+      "url": "https://kitsu.io/anime/5681"
+    },
+    "mal": {
+      "id": "9333",
+      "url": "https://myanimelist.net/anime/9333"
+    }
+  }
+}

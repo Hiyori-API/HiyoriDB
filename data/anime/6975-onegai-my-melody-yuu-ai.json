@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6975,
+  "slug": "onegai-my-melody-yuu-ai",
+  "kind": "anime",
+  "title": "Onegai My Melody: Yuu & Ai",
+  "titles": {
+    "default": "Onegai My Melody: Yuu & Ai",
+    "romaji": "Onegai My Melody: Yuu & Ai",
+    "native": "おねがいマイメロディ 友 & 愛"
+  },
+  "synonyms": [
+    "Onegai My Melody: Yuu & Ai",
+    "おねがいマイメロディ 友 & 愛",
+    "Onegai My Melody: Friend & Love"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/14947.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "14947",
+      "url": "https://anilist.co/anime/14947"
+    },
+    "k": {
+      "id": "7186",
+      "url": "https://kitsu.io/anime/7186"
+    },
+    "mal": {
+      "id": "14947",
+      "url": "https://myanimelist.net/anime/14947"
+    }
+  }
+}

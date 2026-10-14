@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14720,
+  "slug": "devilman",
+  "kind": "manga",
+  "title": "Devilman",
+  "titles": {
+    "default": "Devilman"
+  },
+  "synonyms": [
+    "デビルマン",
+    "Devilman: The Classic Collection",
+    "Devilman"
+  ],
+  "type": "manga",
+  "chapters": 16,
+  "volumes": 2,
+  "status": "finished",
+  "year": 1972,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b151564-AieDWHkPeuCM.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2252",
+      "url": "https://anilist.co/anime/2252"
+    },
+    "al_manga": {
+      "id": "2252",
+      "url": "https://anilist.co/manga/2252"
+    }
+  }
+}

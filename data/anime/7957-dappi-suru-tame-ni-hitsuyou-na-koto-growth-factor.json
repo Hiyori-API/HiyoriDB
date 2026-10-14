@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7957,
+  "slug": "dappi-suru-tame-ni-hitsuyou-na-koto-growth-factor",
+  "kind": "anime",
+  "title": "Dappi Suru Tame ni Hitsuyou na Koto: Growth Factor",
+  "titles": {
+    "default": "Dappi Suru Tame ni Hitsuyou na Koto: Growth Factor",
+    "romaji": "Dappi Suru Tame ni Hitsuyou na Koto: Growth Factor",
+    "english": "Growth Factor",
+    "native": "だっぴするためにひつようなこと"
+  },
+  "synonyms": [
+    "Dappi Suru Tame ni Hitsuyou na Koto: Growth Factor",
+    "Growth Factor",
+    "だっぴするためにひつようなこと",
+    "Hakuoki ~Demon of the Fleeting Blossom~ Warrior Spirit of the Blue Sky",
+    "Hakuouki Movie 2: Shikon Soukyuu",
+    "劇場版 薄桜鬼 第二章 士魂蒼穹",
+    "Hakuoki Movie 2",
+    "Hakuouki Shinsengumi Kitan Movie 2"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103018-ObA11W6xrFsx.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "103018",
+      "url": "https://anilist.co/anime/103018"
+    },
+    "k": {
+      "id": "6886",
+      "url": "https://kitsu.io/anime/6886"
+    },
+    "mal": {
+      "id": "13119",
+      "url": "https://myanimelist.net/anime/13119"
+    },
+    "t": {
+      "id": "44073",
+      "url": "https://trakt.tv/shows/44073"
+    }
+  }
+}

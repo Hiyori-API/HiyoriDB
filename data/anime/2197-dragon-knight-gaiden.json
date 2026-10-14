@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2197,
+  "slug": "dragon-knight-gaiden",
+  "kind": "anime",
+  "title": "Dragon Knight Gaiden",
+  "titles": {
+    "default": "Dragon Knight Gaiden",
+    "romaji": "Dragon Knight Gaiden",
+    "english": "Dragon Knight: Another Knight on the Town",
+    "native": "ドラゴンナイト外伝"
+  },
+  "synonyms": [
+    "Dragon Knight Gaiden",
+    "Dragon Knight: Another Knight on the Town",
+    "ドラゴンナイト外伝",
+    "Donguri to Yamaneko (1995)",
+    "どんぐりと山猫"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2480.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2480",
+      "url": "https://anilist.co/anime/2480"
+    },
+    "k": {
+      "id": "9247",
+      "url": "https://kitsu.io/anime/9247"
+    },
+    "mal": {
+      "id": "2480",
+      "url": "https://myanimelist.net/anime/2480"
+    }
+  }
+}

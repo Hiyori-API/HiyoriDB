@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14991,
+  "slug": "izumo",
+  "kind": "manga",
+  "title": "Izumo",
+  "titles": {
+    "default": "Izumo"
+  },
+  "synonyms": [
+    "IZUMO",
+    "Four Steps to Romance",
+    "Romance Godan Katsuyou",
+    "ろまんす五段活用",
+    "Romantic Princess"
+  ],
+  "type": "manga",
+  "chapters": 27,
+  "volumes": 4,
+  "status": "finished",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b117296-vaYTpjZmeJk7.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5876",
+      "url": "https://anilist.co/anime/5876"
+    },
+    "al_manga": {
+      "id": "5876",
+      "url": "https://anilist.co/manga/5876"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2098,
+  "slug": "mugen-no-kyoukai",
+  "kind": "anime",
+  "title": "Mugen no Kyoukai",
+  "titles": {
+    "default": "Mugen no Kyoukai",
+    "romaji": "Mugen no Kyoukai",
+    "english": "The Boundary between Dream and Reality",
+    "native": "夢現の境界"
+  },
+  "synonyms": [
+    "Mugen no Kyoukai",
+    "The Boundary between Dream and Reality",
+    "夢現の境界",
+    "Shin Getter Robo vs. Neo Getter Robo",
+    "Shin Getter Robo tai Neo Getter Robo",
+    "真ゲッターロボ対ネオゲッターロボ",
+    "True Getter Robo vs. Neo Getter Robo"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "fall",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2373.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2373",
+      "url": "https://anilist.co/anime/2373"
+    },
+    "k": {
+      "id": "835",
+      "url": "https://kitsu.io/anime/835"
+    },
+    "mal": {
+      "id": "2373",
+      "url": "https://myanimelist.net/anime/2373"
+    }
+  }
+}

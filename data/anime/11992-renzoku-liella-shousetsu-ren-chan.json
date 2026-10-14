@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11992,
+  "slug": "renzoku-liella-shousetsu-ren-chan",
+  "kind": "anime",
+  "title": "Renzoku Liella Shousetsu: Ren-chan",
+  "titles": {
+    "default": "Renzoku Liella Shousetsu: Ren-chan",
+    "romaji": "Renzoku Liella Shousetsu: Ren-chan",
+    "native": "連続リエラ小説 れんちゃん"
+  },
+  "synonyms": [
+    "Renzoku Liella Shousetsu: Ren-chan",
+    "連続リエラ小説 れんちゃん",
+    "Our Jury Story",
+    "Bokura no Saibanin Monogatari",
+    "ぼくらの裁判員物語"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207211-iF74xRcBi92f.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "207211",
+      "url": "https://anilist.co/anime/207211"
+    },
+    "k": {
+      "id": "4614",
+      "url": "https://kitsu.io/anime/4614"
+    },
+    "mal": {
+      "id": "56140",
+      "url": "https://myanimelist.net/anime/56140"
+    }
+  }
+}

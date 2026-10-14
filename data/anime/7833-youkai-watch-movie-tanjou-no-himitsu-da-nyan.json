@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7833,
+  "slug": "youkai-watch-movie-tanjou-no-himitsu-da-nyan",
+  "kind": "anime",
+  "title": "Youkai Watch Movie: Tanjou no Himitsu da Nyan!",
+  "titles": {
+    "default": "Youkai Watch Movie: Tanjou no Himitsu da Nyan!",
+    "romaji": "Youkai Watch Movie: Tanjou no Himitsu da Nyan!",
+    "english": "Yo-Kai Watch: The Movie",
+    "native": "映画 妖怪ウォッチ 誕生の秘密だニャン！"
+  },
+  "synonyms": [
+    "Youkai Watch Movie: Tanjou no Himitsu da Nyan!",
+    "Yo-Kai Watch: The Movie",
+    "映画 妖怪ウォッチ 誕生の秘密だニャン！",
+    "Yo-Kai Watch: La Película",
+    "Yo-kai Watch: Film",
+    "Happiness Charge PreCure! Movie: Ningyou no Kuni no Ballerina",
+    "映画ハピネスチャージプリキュア！人形の国のバレリーナ"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20936-HL2RyIlxPErt.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "20936",
+      "url": "https://anilist.co/anime/20936"
+    },
+    "k": {
+      "id": "8417",
+      "url": "https://kitsu.io/anime/8417"
+    },
+    "mal": {
+      "id": "24591",
+      "url": "https://myanimelist.net/anime/24591"
+    },
+    "nf": {
+      "id": "80154176",
+      "url": "https://www.netflix.com/title/80154176"
+    }
+  }
+}

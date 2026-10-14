@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1929,
+  "slug": "hokuto-no-ken-raoh-gaiden-gekitou-hen",
+  "kind": "anime",
+  "title": "Hokuto no Ken: Raoh Gaiden Gekitou-hen",
+  "titles": {
+    "default": "Hokuto no Ken: Raoh Gaiden Gekitou-hen",
+    "romaji": "Hokuto no Ken: Raoh Gaiden Gekitou-hen",
+    "english": "Fist of the North Star: The Legend of the True Savior: Legend of Raoh: Chapter of Fierce Fighting",
+    "native": "真救世主伝説　北斗の拳　ラオウ伝　激闘の章"
+  },
+  "synonyms": [
+    "Hokuto no Ken: Raoh Gaiden Gekitou-hen",
+    "Fist of the North Star: The Legend of the True Savior: Legend of Raoh: Chapter of Fierce Fighting",
+    "真救世主伝説　北斗の拳　ラオウ伝　激闘の章",
+    "Fist of the North Star: Raoh Side Story Fierce Fighting Arc",
+    "Shin Kyuuseishu Densetsu Hokuto no Ken Raou-den Gekitou no Shou"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2174-U6tKfduGFNAX.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2174",
+      "url": "https://anilist.co/anime/2174"
+    },
+    "k": {
+      "id": "1969",
+      "url": "https://kitsu.io/anime/1969"
+    },
+    "mal": {
+      "id": "2174",
+      "url": "https://myanimelist.net/anime/2174"
+    }
+  }
+}

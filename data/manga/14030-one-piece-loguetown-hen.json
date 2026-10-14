@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14030,
+  "slug": "one-piece-loguetown-hen",
+  "kind": "manga",
+  "title": "ONE PIECE: Loguetown-hen",
+  "titles": {
+    "default": "ONE PIECE: Loguetown-hen"
+  },
+  "synonyms": [
+    "ONE PIECE: Loguetown Arc",
+    "Logue Town",
+    "ONE PIECE ローグタウン編",
+    "Maburaho",
+    "まぶらほ",
+    "Maburaho Tanpen"
+  ],
+  "type": "novel",
+  "volumes": 1,
+  "status": "finished",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx96427-XiDc44cTlf29.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21",
+      "url": "https://anilist.co/anime/21"
+    },
+    "al_manga": {
+      "id": "21",
+      "url": "https://anilist.co/manga/21"
+    }
+  }
+}

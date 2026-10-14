@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9481,
+  "slug": "kyouryuu-shoujo-gauko",
+  "kind": "anime",
+  "title": "Kyouryuu Shoujo Gauko",
+  "titles": {
+    "default": "Kyouryuu Shoujo Gauko",
+    "romaji": "Kyouryuu Shoujo Gauko",
+    "native": "恐竜少女ガウ子"
+  },
+  "synonyms": [
+    "Kyouryuu Shoujo Gauko",
+    "恐竜少女ガウ子",
+    "Dino Girl Gauko",
+    "恐竜少女ガウ子 オリジン",
+    "GAUKO Origin",
+    "Netojuu no Susume",
+    "Recommendation of the Wonderful Virtual Life",
+    "Recovery of an MMO Junkie",
+    "ネト充のススメ",
+    "Net-juu no Susume"
+  ],
+  "type": "tv",
+  "episodes": 10,
+  "status": "finished",
+  "season": "spring",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b185122-n5Pgco17YiOq.png"
+  ],
+  "references": {
+    "al": {
+      "id": "185122",
+      "url": "https://anilist.co/anime/185122"
+    },
+    "mal": {
+      "id": "36038",
+      "url": "https://myanimelist.net/anime/36038"
+    }
+  }
+}

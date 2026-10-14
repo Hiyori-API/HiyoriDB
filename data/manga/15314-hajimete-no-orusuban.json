@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15314,
+  "slug": "hajimete-no-orusuban",
+  "kind": "manga",
+  "title": "Hajimete no Orusuban",
+  "titles": {
+    "default": "Hajimete no Orusuban"
+  },
+  "synonyms": [
+    "はじめてのおるすばん",
+    "Devil May Cry",
+    "デビル メイ クライ",
+    "DMC",
+    "Devil May Cry 2"
+  ],
+  "type": "novel",
+  "chapters": 13,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx116716-C8ifiWMpT4Eq.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "116697",
+      "url": "https://anilist.co/anime/116697"
+    },
+    "al_manga": {
+      "id": "116697",
+      "url": "https://anilist.co/manga/116697"
+    }
+  }
+}

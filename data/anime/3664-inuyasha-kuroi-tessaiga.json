@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3664,
+  "slug": "inuyasha-kuroi-tessaiga",
+  "kind": "anime",
+  "title": "Inuyasha: Kuroi Tessaiga",
+  "titles": {
+    "default": "Inuyasha: Kuroi Tessaiga",
+    "romaji": "Inuyasha: Kuroi Tessaiga",
+    "native": "犬夜叉 黒い鉄砕牙"
+  },
+  "synonyms": [
+    "Inuyasha: Kuroi Tessaiga",
+    "犬夜叉 黒い鉄砕牙",
+    "Inu Yasha Special",
+    "Black Tessaiga",
+    "Black Tetsusaiga",
+    "Kuroi Tetsusaiga",
+    "InuYasha: Kuroi Tessaiga",
+    "犬夜叉",
+    "It's a Rumic World: InuYasha"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4886-xzcW3fD6rmoK.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4886",
+      "url": "https://anilist.co/anime/4886"
+    },
+    "k": {
+      "id": "3837",
+      "url": "https://kitsu.io/anime/3837"
+    },
+    "mal": {
+      "id": "4886",
+      "url": "https://myanimelist.net/anime/4886"
+    }
+  }
+}

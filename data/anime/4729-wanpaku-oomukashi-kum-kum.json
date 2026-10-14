@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4729,
+  "slug": "wanpaku-oomukashi-kum-kum",
+  "kind": "anime",
+  "title": "Wanpaku Oomukashi Kum Kum",
+  "titles": {
+    "default": "Wanpaku Oomukashi Kum Kum",
+    "romaji": "Wanpaku Oomukashi Kum Kum",
+    "english": "Kum Kum",
+    "native": "わんぱく大昔クムクム"
+  },
+  "synonyms": [
+    "Wanpaku Oomukashi Kum Kum",
+    "Kum Kum",
+    "わんぱく大昔クムクム",
+    "Wanpaku Omukashi Kumu Kumu",
+    "Naughty Prehistoric Kum Kum"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 1975,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx8240-pqjs2qz3tnF2.png"
+  ],
+  "references": {
+    "al": {
+      "id": "8240",
+      "url": "https://anilist.co/anime/8240"
+    },
+    "k": {
+      "id": "5261",
+      "url": "https://kitsu.io/anime/5261"
+    },
+    "mal": {
+      "id": "8240",
+      "url": "https://myanimelist.net/anime/8240"
+    }
+  }
+}

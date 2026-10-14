@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4388,
+  "slug": "reporter-blues",
+  "kind": "anime",
+  "title": "Reporter Blues",
+  "titles": {
+    "default": "Reporter Blues",
+    "romaji": "Reporter Blues",
+    "native": "レポーターブルース"
+  },
+  "synonyms": [
+    "Reporter Blues",
+    "レポーターブルース"
+  ],
+  "type": "tv",
+  "episodes": 52,
+  "status": "finished",
+  "season": "spring",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6674-xZ1BHrRDlvUP.png"
+  ],
+  "references": {
+    "al": {
+      "id": "6674",
+      "url": "https://anilist.co/anime/6674"
+    },
+    "k": {
+      "id": "4658",
+      "url": "https://kitsu.io/anime/4658"
+    },
+    "mal": {
+      "id": "6674",
+      "url": "https://myanimelist.net/anime/6674"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10928,
+  "slug": "ore-sama-kingdom",
+  "kind": "anime",
+  "title": "Ore-sama Kingdom",
+  "titles": {
+    "default": "Ore-sama Kingdom",
+    "romaji": "Ore-sama Kingdom",
+    "native": "オレ様キングダム"
+  },
+  "synonyms": [
+    "Ore-sama Kingdom",
+    "オレ様キングダム"
+  ],
+  "type": "ova",
+  "episodes": 14,
+  "status": "finished",
+  "season": "winter",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9943.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9943",
+      "url": "https://anilist.co/anime/9943"
+    },
+    "k": {
+      "id": "5954",
+      "url": "https://kitsu.io/anime/5954"
+    },
+    "mal": {
+      "id": "9943",
+      "url": "https://myanimelist.net/anime/9943"
+    }
+  }
+}

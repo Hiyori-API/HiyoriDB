@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1850,
+  "slug": "choujikuu-seiki-orguss",
+  "kind": "anime",
+  "title": "Choujikuu Seiki Orguss",
+  "titles": {
+    "default": "Choujikuu Seiki Orguss",
+    "romaji": "Choujikuu Seiki Orguss",
+    "english": "Super Dimension Century Orguss",
+    "native": "超時空世紀オーガス"
+  },
+  "synonyms": [
+    "Choujikuu Seiki Orguss",
+    "Super Dimension Century Orguss",
+    "超時空世紀オーガス",
+    "Cho Jiku Seiki Orguss",
+    "Statek Kosmiczny Orguss",
+    "The Super Dimension Century Orguss",
+    "Super Dimensional Century Orguss"
+  ],
+  "type": "tv",
+  "episodes": 35,
+  "status": "finished",
+  "season": "summer",
+  "year": 1983,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2089-QGwwTwdFvs6H.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2089",
+      "url": "https://anilist.co/anime/2089"
+    },
+    "cr": {
+      "id": "de/series/GXJHM3G47/orguss",
+      "url": "https://www.crunchyroll.com/series/de/series/GXJHM3G47/orguss"
+    },
+    "k": {
+      "id": "1888",
+      "url": "https://kitsu.io/anime/1888"
+    },
+    "mal": {
+      "id": "2089",
+      "url": "https://myanimelist.net/anime/2089"
+    },
+    "t": {
+      "id": "42980",
+      "url": "https://trakt.tv/shows/42980"
+    }
+  }
+}

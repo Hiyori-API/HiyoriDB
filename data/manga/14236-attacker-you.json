@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14236,
+  "slug": "attacker-you",
+  "kind": "manga",
+  "title": "Attacker YOU!",
+  "titles": {
+    "default": "Attacker YOU!"
+  },
+  "synonyms": [
+    "Attacker Yu!",
+    "Mila e Shiro due cuori nella pallavolo",
+    "Jeanne et Serge",
+    "Pojedynek Aniolow",
+    "Attacker You!: Dos fuera de serie",
+    "Attacker You!",
+    "アタッカーYOU!",
+    "Juana y Sergio"
+  ],
+  "type": "manga",
+  "chapters": 23,
+  "volumes": 3,
+  "status": "finished",
+  "year": 1984,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31651-jkJnpzbHIbdx.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3081",
+      "url": "https://anilist.co/anime/3081"
+    },
+    "al_manga": {
+      "id": "3081",
+      "url": "https://anilist.co/manga/3081"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 182,
+  "slug": "samurai-champloo",
+  "kind": "anime",
+  "title": "Samurai Champloo",
+  "titles": {
+    "default": "Samurai Champloo",
+    "romaji": "Samurai Champloo",
+    "native": "サムライチャンプルー"
+  },
+  "synonyms": [
+    "Samurai Champloo",
+    "サムライチャンプルー",
+    "ساموراي تشامبلو",
+    "Самурай Чамплу",
+    "SAMURAI CHAMPLOO"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205-7tHVFu6dPBm9.png"
+  ],
+  "references": {
+    "al": {
+      "id": "205",
+      "url": "https://anilist.co/anime/205"
+    },
+    "ap": {
+      "id": "B00C14TZFE",
+      "url": "https://www.amazon.com/gp/video/detail/B00C14TZFE"
+    },
+    "cr": {
+      "id": "series/G6WEK0026/samurai-champloo",
+      "url": "https://www.crunchyroll.com/series/series/G6WEK0026/samurai-champloo"
+    },
+    "k": {
+      "id": "181",
+      "url": "https://kitsu.io/anime/181"
+    },
+    "mal": {
+      "id": "205",
+      "url": "https://myanimelist.net/anime/205"
+    },
+    "t": {
+      "id": "1058",
+      "url": "https://trakt.tv/shows/1058"
+    }
+  }
+}

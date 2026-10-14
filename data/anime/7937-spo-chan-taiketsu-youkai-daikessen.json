@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7937,
+  "slug": "spo-chan-taiketsu-youkai-daikessen",
+  "kind": "anime",
+  "title": "Spo-chan Taiketsu: Youkai Daikessen",
+  "titles": {
+    "default": "Spo-chan Taiketsu: Youkai Daikessen",
+    "romaji": "Spo-chan Taiketsu: Youkai Daikessen",
+    "native": "スポチャン対決〜妖怪大決戦〜"
+  },
+  "synonyms": [
+    "Spo-chan Taiketsu: Youkai Daikessen",
+    "スポチャン対決〜妖怪大決戦〜",
+    "スポチャン対決~妖怪大決戦~"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98893-QLO8UuRU3dtw.png"
+  ],
+  "references": {
+    "al": {
+      "id": "98893",
+      "url": "https://anilist.co/anime/98893"
+    },
+    "k": {
+      "id": "8568",
+      "url": "https://kitsu.io/anime/8568"
+    },
+    "mal": {
+      "id": "24819",
+      "url": "https://myanimelist.net/anime/24819"
+    }
+  }
+}

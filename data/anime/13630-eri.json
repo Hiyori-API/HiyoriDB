@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13630,
+  "slug": "eri",
+  "kind": "anime",
+  "title": "Eri",
+  "titles": {
+    "default": "Eri",
+    "romaji": "Eri",
+    "native": "エリ"
+  },
+  "synonyms": [
+    "Eri",
+    "エリ",
+    "Appleseed (Movie)",
+    "アップルシード",
+    "Appleseed (2004)"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213668-H6Ev0sqyEafl.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "213668",
+      "url": "https://anilist.co/anime/213668"
+    },
+    "k": {
+      "id": "35",
+      "url": "https://kitsu.io/anime/35"
+    },
+    "mal": {
+      "id": "58205",
+      "url": "https://myanimelist.net/anime/58205"
+    }
+  }
+}

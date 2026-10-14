@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12085,
+  "slug": "hanma-baki-season-2",
+  "kind": "anime",
+  "title": "Hanma Baki Season 2",
+  "titles": {
+    "default": "Hanma Baki Season 2",
+    "romaji": "Hanma Baki Season 2",
+    "english": "Baki Hanma Season 2",
+    "native": "範馬刃牙 シーズン２"
+  },
+  "synonyms": [
+    "Hanma Baki Season 2",
+    "Baki Hanma Season 2",
+    "範馬刃牙 シーズン２",
+    "Baki Hanma: Son of Ogre 2",
+    "Son of Ogre Baki Hanma Season 2",
+    "The Boy Fascinating the Fighting God 2",
+    "Baki Hanma 2nd Season",
+    "範馬刃牙 SON OF OGRE",
+    "Hanma Baki: Son of Ogre 2nd Season"
+  ],
+  "type": "ona",
+  "episodes": 27,
+  "status": "finished",
+  "season": "summer",
+  "year": 2023,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146646-RMrHipfzvfTM.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "146646",
+      "url": "https://anilist.co/anime/146646"
+    },
+    "mal": {
+      "id": "51318",
+      "url": "https://myanimelist.net/anime/51318"
+    },
+    "nf": {
+      "id": "81236338",
+      "url": "https://www.netflix.com/title/81236338"
+    },
+    "tx": {
+      "id": "baki_anime",
+      "url": "https://twitter.com/baki_anime"
+    }
+  }
+}

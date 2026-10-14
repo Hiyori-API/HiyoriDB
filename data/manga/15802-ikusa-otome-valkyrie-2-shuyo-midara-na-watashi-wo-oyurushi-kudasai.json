@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15802,
+  "slug": "ikusa-otome-valkyrie-2-shuyo-midara-na-watashi-wo-oyurushi-kudasai",
+  "kind": "manga",
+  "title": "Ikusa Otome Valkyrie 2  Shuyo, Midara na Watashi wo Oyurushi Kudasai...",
+  "titles": {
+    "default": "Ikusa Otome Valkyrie 2  Shuyo, Midara na Watashi wo Oyurushi Kudasai..."
+  },
+  "synonyms": [
+    "Battle Maiden Valkyrie 2",
+    "戦乙女ヴァルキリー２　主よ、淫らな私をお許しください…",
+    "Simple Knot Loafers",
+    "シンプルノットローファー",
+    "Shinpuru Notto Rofa",
+    "Shinpuru Notto Roofaa",
+    "Simple Not Loafer"
+  ],
+  "type": "manga",
+  "chapters": 7,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/19040.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5427",
+      "url": "https://anilist.co/anime/5427"
+    },
+    "al_manga": {
+      "id": "5427",
+      "url": "https://anilist.co/manga/5427"
+    }
+  }
+}

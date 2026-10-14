@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 750,
+  "slug": "ushio-to-tora",
+  "kind": "anime",
+  "title": "Ushio to Tora",
+  "titles": {
+    "default": "Ushio to Tora",
+    "romaji": "Ushio to Tora",
+    "english": "Ushio and Tora",
+    "native": "うしおととら"
+  },
+  "synonyms": [
+    "Ushio to Tora",
+    "Ushio and Tora",
+    "うしおととら",
+    "Ushio & Tora",
+    "Kyou kara Ore wa!!",
+    "今日から俺は！！",
+    "Kyou Kara Ore Ha!!",
+    "From Today I'll",
+    "From Today on I am"
+  ],
+  "type": "ova",
+  "episodes": 10,
+  "status": "finished",
+  "season": "fall",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b842-fVGV9fp1o9io.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "842",
+      "url": "https://anilist.co/anime/842"
+    },
+    "k": {
+      "id": "753",
+      "url": "https://kitsu.io/anime/753"
+    },
+    "mal": {
+      "id": "842",
+      "url": "https://myanimelist.net/anime/842"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9862,
+  "slug": "aigan-kaijuu",
+  "kind": "anime",
+  "title": "Aigan Kaijuu",
+  "titles": {
+    "default": "Aigan Kaijuu",
+    "romaji": "Aigan Kaijuu",
+    "native": "愛玩怪獣"
+  },
+  "synonyms": [
+    "Aigan Kaijuu",
+    "愛玩怪獣",
+    "LMDA",
+    "Layton Mystery Detective Agency: Kat's Mystery-Solving Files",
+    "レイトン ミステリー探偵社~カトリーのナゾトキファイル~",
+    "Layton Mystery Tanteisha: Katri no Nazotoki File"
+  ],
+  "type": "tv",
+  "episodes": 50,
+  "status": "finished",
+  "season": "fall",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx104289-eYZjlYUdRYq1.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "104289",
+      "url": "https://anilist.co/anime/104289"
+    },
+    "mal": {
+      "id": "38365",
+      "url": "https://myanimelist.net/anime/38365"
+    },
+    "tvt": {
+      "id": "aigan_kaiju",
+      "url": "http://www.tv-tokyo.co.jp/anime/aigan_kaiju"
+    }
+  }
+}

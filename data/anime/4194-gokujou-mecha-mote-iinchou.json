@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4194,
+  "slug": "gokujou-mecha-mote-iinchou",
+  "kind": "anime",
+  "title": "Gokujou!! Mecha Mote Iinchou",
+  "titles": {
+    "default": "Gokujou!! Mecha Mote Iinchou",
+    "romaji": "Gokujou!! Mecha Mote Iinchou",
+    "english": "The Best!! Extremely Cool Student Council President",
+    "native": "極上!!めちゃモテ委員長"
+  },
+  "synonyms": [
+    "Gokujou!! Mecha Mote Iinchou",
+    "The Best!! Extremely Cool Student Council President",
+    "極上!!めちゃモテ委員長",
+    "Gokujo!! Mecha Mote Iincho"
+  ],
+  "type": "tv",
+  "episodes": 51,
+  "status": "finished",
+  "season": "spring",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6117.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6117",
+      "url": "https://anilist.co/anime/6117"
+    },
+    "k": {
+      "id": "4433",
+      "url": "https://kitsu.io/anime/4433"
+    },
+    "mal": {
+      "id": "6117",
+      "url": "https://myanimelist.net/anime/6117"
+    },
+    "t": {
+      "id": "98469",
+      "url": "https://trakt.tv/shows/98469"
+    }
+  }
+}

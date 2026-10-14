@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5097,
+  "slug": "oji-san-kaizou-kouza",
+  "kind": "anime",
+  "title": "Oji-san Kaizou Kouza",
+  "titles": {
+    "default": "Oji-san Kaizou Kouza",
+    "romaji": "Oji-san Kaizou Kouza",
+    "native": "おじさん改造講座"
+  },
+  "synonyms": [
+    "Oji-san Kaizou Kouza",
+    "おじさん改造講座",
+    "Ojisan Kaizou Kouza"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21630-nrS7xkHkZiNc.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21630",
+      "url": "https://anilist.co/anime/21630"
+    },
+    "k": {
+      "id": "9505",
+      "url": "https://kitsu.io/anime/9505"
+    },
+    "mal": {
+      "id": "23865",
+      "url": "https://myanimelist.net/anime/23865"
+    }
+  }
+}

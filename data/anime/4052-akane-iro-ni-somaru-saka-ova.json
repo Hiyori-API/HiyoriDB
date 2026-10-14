@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4052,
+  "slug": "akane-iro-ni-somaru-saka-ova",
+  "kind": "anime",
+  "title": "Akane-iro ni Somaru Saka OVA",
+  "titles": {
+    "default": "Akane-iro ni Somaru Saka OVA",
+    "romaji": "Akane-iro ni Somaru Saka OVA",
+    "english": "The Hill Dyed Rose Madder OVA",
+    "native": "あかね色に染まる坂 OVA"
+  },
+  "synonyms": [
+    "Akane-iro ni Somaru Saka OVA",
+    "The Hill Dyed Rose Madder OVA",
+    "あかね色に染まる坂 OVA",
+    "Akane-iro ni Somaru Saka Hardcore",
+    "Akaneiro ni Somaru Saka OVA",
+    "Akasaka OVA",
+    "A Ladeira Tingida de Rubro OVA",
+    "Akane Iro ni Somaru Saka Hardcore OVA",
+    "Akaneiro ni Somaru Saka: Hardcore",
+    "あかね色に染まる坂 Hardcore"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5772-Fk1ZpBXbTLvo.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5772",
+      "url": "https://anilist.co/anime/5772"
+    },
+    "k": {
+      "id": "4270",
+      "url": "https://kitsu.io/anime/4270"
+    },
+    "mal": {
+      "id": "5772",
+      "url": "https://myanimelist.net/anime/5772"
+    }
+  }
+}

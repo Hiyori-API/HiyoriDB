@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7264,
+  "slug": "ark-ix",
+  "kind": "anime",
+  "title": "Ark IX",
+  "titles": {
+    "default": "Ark IX",
+    "romaji": "Ark IX",
+    "english": "Ark Nine",
+    "native": "アークIX"
+  },
+  "synonyms": [
+    "Ark IX",
+    "Ark Nine",
+    "アークIX"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17395.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "17395",
+      "url": "https://anilist.co/anime/17395"
+    },
+    "k": {
+      "id": "7686",
+      "url": "https://kitsu.io/anime/7686"
+    },
+    "mal": {
+      "id": "17395",
+      "url": "https://myanimelist.net/anime/17395"
+    }
+  }
+}

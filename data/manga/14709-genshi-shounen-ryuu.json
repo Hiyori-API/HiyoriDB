@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14709,
+  "slug": "genshi-shounen-ryuu",
+  "kind": "manga",
+  "title": "Genshi Shounen Ryuu",
+  "titles": {
+    "default": "Genshi Shounen Ryuu"
+  },
+  "synonyms": [
+    "Genshi Shonen Ryu",
+    "Ryu the Ancient Boy",
+    "Primitive Boy Ryu",
+    "原始少年リュウ",
+    "Again",
+    "アゲイン"
+  ],
+  "type": "manga",
+  "chapters": 27,
+  "volumes": 3,
+  "status": "finished",
+  "year": 1971,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/20021.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1537",
+      "url": "https://anilist.co/anime/1537"
+    },
+    "al_manga": {
+      "id": "1537",
+      "url": "https://anilist.co/manga/1537"
+    }
+  }
+}

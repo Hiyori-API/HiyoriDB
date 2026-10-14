@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10192,
+  "slug": "boku-no-hero-academia-the-movie-heroes-rising",
+  "kind": "anime",
+  "title": "Boku no Hero Academia THE MOVIE: Heroes:Rising",
+  "titles": {
+    "default": "Boku no Hero Academia THE MOVIE: Heroes:Rising",
+    "romaji": "Boku no Hero Academia THE MOVIE: Heroes:Rising",
+    "english": "My Hero Academia: Heroes Rising",
+    "native": "僕のヒーローアカデミア THE MOVIE ヒーローズ:ライジング"
+  },
+  "synonyms": [
+    "Boku no Hero Academia THE MOVIE: Heroes:Rising",
+    "My Hero Academia: Heroes Rising",
+    "僕のヒーローアカデミア THE MOVIE ヒーローズ:ライジング",
+    "Boku no Hero Academia the Movie 2",
+    "My Hero Academia: El Despertar de los Héroes",
+    "มายฮีโร่ อคาเดเมีย เดอะมูฟวี่: วีรบุรุษกู้โลก",
+    "Cencoroll 2",
+    "センコロール"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108553-yOLfFogpWnTF.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "108553",
+      "url": "https://anilist.co/anime/108553"
+    },
+    "cr": {
+      "id": "series/GMTE00094107/my-hero-academia-heroes-rising",
+      "url": "https://www.crunchyroll.com/series/series/GMTE00094107/my-hero-academia-heroes-rising"
+    },
+    "k": {
+      "id": "5749",
+      "url": "https://kitsu.io/anime/5749"
+    },
+    "mal": {
+      "id": "39565",
+      "url": "https://myanimelist.net/anime/39565"
+    },
+    "nf": {
+      "id": "81398907",
+      "url": "https://www.netflix.com/title/81398907"
+    },
+    "tx": {
+      "id": "heroaca_movie",
+      "url": "https://twitter.com/heroaca_movie"
+    }
+  }
+}

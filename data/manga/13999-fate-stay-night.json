@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13999,
+  "slug": "fate-stay-night",
+  "kind": "manga",
+  "title": "Fate/stay night",
+  "titles": {
+    "default": "Fate/stay night"
+  },
+  "synonyms": [
+    "フェイト/ステイナイト",
+    "페이트 스테이 나이트(Fate Stay Night)",
+    "Fate/stay night",
+    "Renai Soukanzu",
+    "恋愛相姦図",
+    "Renai Sokanzu",
+    "Pink Sweets"
+  ],
+  "type": "manga",
+  "chapters": 87,
+  "volumes": 20,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx30715-Y6FYtdEQm0SV.png"
+  ],
+  "references": {
+    "al": {
+      "id": "356",
+      "url": "https://anilist.co/anime/356"
+    },
+    "al_manga": {
+      "id": "356",
+      "url": "https://anilist.co/manga/356"
+    }
+  }
+}

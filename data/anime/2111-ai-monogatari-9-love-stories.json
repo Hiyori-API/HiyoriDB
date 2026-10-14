@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2111,
+  "slug": "ai-monogatari-9-love-stories",
+  "kind": "anime",
+  "title": "Ai Monogatari: 9 Love Stories",
+  "titles": {
+    "default": "Ai Monogatari: 9 Love Stories",
+    "romaji": "Ai Monogatari: 9 Love Stories",
+    "native": "愛物語 9 Love Stories"
+  },
+  "synonyms": [
+    "Ai Monogatari: 9 Love Stories",
+    "愛物語 9 Love Stories",
+    "Kawaguchi Kaiji's 9 Love Stories"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2387.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2387",
+      "url": "https://anilist.co/anime/2387"
+    },
+    "k": {
+      "id": "2164",
+      "url": "https://kitsu.io/anime/2164"
+    },
+    "mal": {
+      "id": "2387",
+      "url": "https://myanimelist.net/anime/2387"
+    }
+  }
+}

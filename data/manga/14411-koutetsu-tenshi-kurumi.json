@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14411,
+  "slug": "koutetsu-tenshi-kurumi",
+  "kind": "manga",
+  "title": "Koutetsu Tenshi Kurumi",
+  "titles": {
+    "default": "Koutetsu Tenshi Kurumi"
+  },
+  "synonyms": [
+    "Steel Angel Kurumi",
+    "鋼鉄天使くるみ",
+    "Kamikaze Kaito Jeanne",
+    "Kamikaze Kaitou Jeanne",
+    "Phantom Thief Jeanne",
+    "神風怪盗ジャンヌ",
+    "Divine Wind Phantom Thief Jeanne"
+  ],
+  "type": "manga",
+  "volumes": 11,
+  "status": "finished",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b33414-MuHrtNovc7vt.png"
+  ],
+  "references": {
+    "al": {
+      "id": "554",
+      "url": "https://anilist.co/anime/554"
+    },
+    "al_manga": {
+      "id": "554",
+      "url": "https://anilist.co/manga/554"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6311,
+  "slug": "sket-dance",
+  "kind": "anime",
+  "title": "SKET DANCE",
+  "titles": {
+    "default": "SKET DANCE",
+    "romaji": "SKET DANCE",
+    "english": "SKET Dance"
+  },
+  "synonyms": [
+    "SKET DANCE",
+    "SKET Dance",
+    "スケットダンス"
+  ],
+  "type": "tv",
+  "episodes": 77,
+  "status": "finished",
+  "season": "spring",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9863-G6dAvTVsfLRO.png"
+  ],
+  "references": {
+    "al": {
+      "id": "9863",
+      "url": "https://anilist.co/anime/9863"
+    },
+    "cr": {
+      "id": "sket-dance",
+      "url": "https://www.crunchyroll.com/series/sket-dance"
+    },
+    "k": {
+      "id": "5908",
+      "url": "https://kitsu.io/anime/5908"
+    },
+    "mal": {
+      "id": "9863",
+      "url": "https://myanimelist.net/anime/9863"
+    },
+    "t": {
+      "id": "42196",
+      "url": "https://trakt.tv/shows/42196"
+    },
+    "tx": {
+      "id": "sketdance_pr",
+      "url": "https://twitter.com/sketdance_pr"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10022,
+  "slug": "fate-grand-order-zettai-majuu-sensen-babylonia",
+  "kind": "anime",
+  "title": "Fate/Grand Order: Zettai Majuu Sensen Babylonia",
+  "titles": {
+    "default": "Fate/Grand Order: Zettai Majuu Sensen Babylonia",
+    "romaji": "Fate/Grand Order: Zettai Majuu Sensen Babylonia",
+    "english": "Fate/Grand Order Absolute Demonic Front: Babylonia",
+    "native": "Fate/Grand Order -絶対魔獣戦線バビロニア-"
+  },
+  "synonyms": [
+    "Fate/Grand Order: Zettai Majuu Sensen Babylonia",
+    "Fate/Grand Order Absolute Demonic Front: Babylonia",
+    "Fate/Grand Order -絶対魔獣戦線バビロニア-",
+    "FGO: Babylonia",
+    "フェイト/グランドオーダー -絶対魔獣戦線バビロニア-",
+    "Судьба/Великий приказ: Вавилония",
+    "Fate/Grand Order: Absolute Demonic Front - Babylonia"
+  ],
+  "type": "tv",
+  "episodes": 21,
+  "status": "finished",
+  "season": "fall",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103275-SN0wwshS3tWA.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "103275",
+      "url": "https://anilist.co/anime/103275"
+    },
+    "cr": {
+      "id": "fategrand-order-absolute-demonic-front-babylonia",
+      "url": "https://www.crunchyroll.com/series/fategrand-order-absolute-demonic-front-babylonia"
+    },
+    "mal": {
+      "id": "38084",
+      "url": "https://myanimelist.net/anime/38084"
+    },
+    "tx": {
+      "id": "FGOAP_ep7",
+      "url": "https://twitter.com/FGOAP_ep7"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15781,
+  "slug": "kakushi-dere",
+  "kind": "manga",
+  "title": "Kakushi Dere",
+  "titles": {
+    "default": "Kakushi Dere"
+  },
+  "synonyms": [
+    "Dare Koi Train",
+    "Isshoni!",
+    "February 14",
+    "Ubu x Ubu Syndrome",
+    "Hana to Buta to Teishoku",
+    "Sys☆con",
+    "Miyuki: Manga-dou",
+    "Uwaki na Tokoro",
+    "Dere Kakushi",
+    "Hidden-Dovey",
+    "Who's Riding the Love Train?",
+    "Together!",
+    "Beginners Syndrome",
+    "Dinner Between the Flower and the Pig",
+    "Kakushidere: Hidden Love",
+    "かくしデレ",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "chapters": 10,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx67577-EqgrXi6Aoywr.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21550",
+      "url": "https://anilist.co/anime/17745"
+    },
+    "al_manga": {
+      "id": "21550",
+      "url": "https://anilist.co/manga/21550"
+    }
+  }
+}

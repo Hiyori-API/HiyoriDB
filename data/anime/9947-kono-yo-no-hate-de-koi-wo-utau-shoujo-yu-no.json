@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9947,
+  "slug": "kono-yo-no-hate-de-koi-wo-utau-shoujo-yu-no",
+  "kind": "anime",
+  "title": "Kono Yo no Hate de Koi wo Utau Shoujo YU-NO",
+  "titles": {
+    "default": "Kono Yo no Hate de Koi wo Utau Shoujo YU-NO",
+    "romaji": "Kono Yo no Hate de Koi wo Utau Shoujo YU-NO",
+    "english": "YU-NO: A Girl Who Chants Love at the Bound of This World",
+    "native": "この世の果てで恋を唄う少女YU-NO"
+  },
+  "synonyms": [
+    "Kono Yo no Hate de Koi wo Utau Shoujo YU-NO",
+    "YU-NO: A Girl Who Chants Love at the Bound of This World",
+    "この世の果てで恋を唄う少女YU-NO",
+    "YU-NO: A girl who chants love at the bound of this world.",
+    "Blade of Demon Destruction",
+    "Demon Slayer: Kimetsu no Yaiba",
+    "鬼滅の刃",
+    "Kimetsu no Yaiba"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97995-VO6rXNU0fmBq.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "97995",
+      "url": "https://anilist.co/anime/97995"
+    },
+    "cr": {
+      "id": "yu-no-a-girl-who-chants-love-at-the-bound-of-this-world",
+      "url": "https://www.crunchyroll.com/series/yu-no-a-girl-who-chants-love-at-the-bound-of-this-world"
+    },
+    "mal": {
+      "id": "34620",
+      "url": "https://myanimelist.net/anime/34620"
+    },
+    "tx": {
+      "id": "yuno_anime2019",
+      "url": "https://twitter.com/yuno_anime2019"
+    }
+  }
+}

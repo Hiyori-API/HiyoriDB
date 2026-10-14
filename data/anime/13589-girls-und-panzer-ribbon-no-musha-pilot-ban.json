@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13589,
+  "slug": "girls-und-panzer-ribbon-no-musha-pilot-ban",
+  "kind": "anime",
+  "title": "Girls und Panzer: Ribbon no Musha Pilot-ban",
+  "titles": {
+    "default": "Girls und Panzer: Ribbon no Musha Pilot-ban",
+    "romaji": "Girls und Panzer: Ribbon no Musha Pilot-ban",
+    "native": "ガールズ＆パンツァー リボンの武者 パイロット版"
+  },
+  "synonyms": [
+    "Girls und Panzer: Ribbon no Musha Pilot-ban",
+    "ガールズ＆パンツァー リボンの武者 パイロット版",
+    "Girls und Panzer: Ribbon Warrior",
+    "Girls und Panzer Princess Samurai",
+    "Love Hina Spring Movie",
+    "Love Hina Haru Special: Kimi Sakura Chiru Nakare!!",
+    "ラブひな春スペシャル 〜キミサクラチルナカレ!!〜",
+    "Love Hina Spring Special"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209312-ZQGohKvgqGP6.png"
+  ],
+  "references": {
+    "al": {
+      "id": "209312",
+      "url": "https://anilist.co/anime/209312"
+    },
+    "k": {
+      "id": "169",
+      "url": "https://kitsu.io/anime/169"
+    },
+    "mal": {
+      "id": "192",
+      "url": "https://myanimelist.net/anime/192"
+    }
+  }
+}

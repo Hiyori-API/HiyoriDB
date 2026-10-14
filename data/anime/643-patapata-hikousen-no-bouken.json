@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 643,
+  "slug": "patapata-hikousen-no-bouken",
+  "kind": "anime",
+  "title": "Patapata Hikousen no Bouken",
+  "titles": {
+    "default": "Patapata Hikousen no Bouken",
+    "romaji": "Patapata Hikousen no Bouken",
+    "native": "パタパタ飛行船の冒険"
+  },
+  "synonyms": [
+    "Patapata Hikousen no Bouken",
+    "パタパタ飛行船の冒険",
+    "The Secret of Cerulean Sand",
+    "Il segreto della sabbia",
+    "Le secret du sable bleu",
+    "Den blå sandens hemmelighet"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "winter",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/708.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "708",
+      "url": "https://anilist.co/anime/708"
+    },
+    "k": {
+      "id": "642",
+      "url": "https://kitsu.io/anime/642"
+    },
+    "mal": {
+      "id": "708",
+      "url": "https://myanimelist.net/anime/708"
+    },
+    "t": {
+      "id": "23452",
+      "url": "https://trakt.tv/shows/23452"
+    }
+  }
+}

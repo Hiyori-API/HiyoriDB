@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15373,
+  "slug": "hakushaku-to-yousei",
+  "kind": "manga",
+  "title": "Hakushaku to Yousei",
+  "titles": {
+    "default": "Hakushaku to Yousei"
+  },
+  "synonyms": [
+    "The Count and the Fairy",
+    "El Conde y el Hada",
+    "The Earl and The Fairy",
+    "伯爵と妖精～あいつは優雅な大悪党～",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "chapters": 15,
+  "volumes": 4,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx41597-jMlwIdhj6uDT.png"
+  ],
+  "references": {
+    "al": {
+      "id": "4551",
+      "url": "https://anilist.co/anime/4551"
+    },
+    "al_manga": {
+      "id": "4551",
+      "url": "https://anilist.co/manga/4551"
+    }
+  }
+}

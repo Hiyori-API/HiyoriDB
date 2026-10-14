@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10305,
+  "slug": "shiohi-girls-vongole-bianco",
+  "kind": "anime",
+  "title": "Shiohi Girls Vongole Bianco",
+  "titles": {
+    "default": "Shiohi Girls Vongole Bianco",
+    "romaji": "Shiohi Girls Vongole Bianco",
+    "native": "しおひガールズ ボンゴレビアンコ"
+  },
+  "synonyms": [
+    "Shiohi Girls Vongole Bianco",
+    "しおひガールズ ボンゴレビアンコ",
+    "The Wonderland of Ten Thousand 3rd Season",
+    "Wan Jie Xian Zong Di San Ji",
+    "Wanjie Xianzong 3rd Season",
+    "Wonderland 3rd Season",
+    "万界仙踪 第3季",
+    "Wan Jie Xian Zong 3rd Season"
+  ],
+  "type": "ona",
+  "episodes": 48,
+  "status": "finished",
+  "season": "fall",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113655-pgIQ56Myer96.png"
+  ],
+  "references": {
+    "al": {
+      "id": "113655",
+      "url": "https://anilist.co/anime/113655"
+    },
+    "mal": {
+      "id": "40707",
+      "url": "https://myanimelist.net/anime/40707"
+    },
+    "tx": {
+      "id": "shiohigirls_vb",
+      "url": "https://twitter.com/shiohigirls_vb"
+    }
+  }
+}

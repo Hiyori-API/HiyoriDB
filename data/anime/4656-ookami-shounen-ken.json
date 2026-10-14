@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4656,
+  "slug": "ookami-shounen-ken",
+  "kind": "anime",
+  "title": "Ookami Shounen Ken",
+  "titles": {
+    "default": "Ookami Shounen Ken",
+    "romaji": "Ookami Shounen Ken",
+    "native": "狼少年ケン"
+  },
+  "synonyms": [
+    "Ookami Shounen Ken",
+    "狼少年ケン",
+    "Ken the Wolf Boy"
+  ],
+  "type": "tv",
+  "episodes": 86,
+  "status": "finished",
+  "season": "fall",
+  "year": 1963,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17521.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "17521",
+      "url": "https://anilist.co/anime/17521"
+    },
+    "mal": {
+      "id": "17521",
+      "url": "https://myanimelist.net/anime/17521"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 457,
+  "slug": "bakuretsu-hunters",
+  "kind": "anime",
+  "title": "Bakuretsu Hunters",
+  "titles": {
+    "default": "Bakuretsu Hunters",
+    "romaji": "Bakuretsu Hunters",
+    "english": "Sorcerer Hunters",
+    "native": "爆れつハンター"
+  },
+  "synonyms": [
+    "Bakuretsu Hunters",
+    "Sorcerer Hunters",
+    "爆れつハンター",
+    "Spell Wars: Sorcerer Hunters Revenge",
+    "Bakuretsu Hunter - I cacciastregoni"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx495-YFNsNhRtthNz.png"
+  ],
+  "references": {
+    "al": {
+      "id": "495",
+      "url": "https://anilist.co/anime/495"
+    },
+    "cr": {
+      "id": "sorcerer-hunters",
+      "url": "https://www.crunchyroll.com/series/sorcerer-hunters"
+    },
+    "k": {
+      "id": "7786",
+      "url": "https://kitsu.io/anime/7786"
+    },
+    "mal": {
+      "id": "495",
+      "url": "https://myanimelist.net/anime/495"
+    },
+    "t": {
+      "id": "34063",
+      "url": "https://trakt.tv/shows/34063"
+    }
+  }
+}

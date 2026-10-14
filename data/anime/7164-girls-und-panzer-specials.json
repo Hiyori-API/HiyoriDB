@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7164,
+  "slug": "girls-und-panzer-specials",
+  "kind": "anime",
+  "title": "Girls und Panzer Specials",
+  "titles": {
+    "default": "Girls und Panzer Specials",
+    "romaji": "Girls und Panzer Specials",
+    "english": "Girls und Panzer OVA Series",
+    "native": "ガールズ&パンツァー"
+  },
+  "synonyms": [
+    "Girls und Panzer Specials",
+    "Girls und Panzer OVA Series",
+    "ガールズ&パンツァー",
+    "Girls & Panzer Specials",
+    "Girls und Panzer OVA",
+    "Gintama x Mameshiba",
+    "銀魂×豆しば",
+    "Gintama: Kanketsu-hen - Yorozuya yo Eien Nare TV Special"
+  ],
+  "type": "special",
+  "episodes": 6,
+  "status": "finished",
+  "season": "winter",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15811-xa6AKWptSjG1.png"
+  ],
+  "references": {
+    "al": {
+      "id": "15811",
+      "url": "https://anilist.co/anime/15811"
+    },
+    "k": {
+      "id": "7888",
+      "url": "https://kitsu.io/anime/7888"
+    },
+    "mal": {
+      "id": "15811",
+      "url": "https://myanimelist.net/anime/15811"
+    }
+  }
+}

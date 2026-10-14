@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8383,
+  "slug": "gakuen-no-ikenie-nagusami-mono-to-kashita-kyonyuu-furyou-shoujo-hakudaku-ni-okasareru-kasshoku-daniku-no-kyouen-the-anim",
+  "kind": "anime",
+  "title": "Gakuen no Ikenie: Nagusami Mono to Kashita Kyonyuu Furyou Shoujo ~Hakudaku ni Okasareru Kasshoku & Daniku no Kyouen~ THE ANIMATION",
+  "titles": {
+    "default": "Gakuen no Ikenie: Nagusami Mono to Kashita Kyonyuu Furyou Shoujo ~Hakudaku ni Okasareru Kasshoku & Daniku no Kyouen~ THE ANIMATION",
+    "romaji": "Gakuen no Ikenie: Nagusami Mono to Kashita Kyonyuu Furyou Shoujo ~Hakudaku ni Okasareru Kasshoku & Daniku no Kyouen~ THE ANIMATION",
+    "native": "学園の生贄――慰み者と化した巨乳不良少女～白濁に侵される褐色＆堕肉の狂宴～ THE ANIMATION"
+  },
+  "synonyms": [
+    "Gakuen no Ikenie: Nagusami Mono to Kashita Kyonyuu Furyou Shoujo ~Hakudaku ni Okasareru Kasshoku & Daniku no Kyouen~ THE ANIMATION",
+    "学園の生贄――慰み者と化した巨乳不良少女～白濁に侵される褐色＆堕肉の狂宴～ THE ANIMATION",
+    "Saki Biyori Animation",
+    "咲日和 Animation"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21616-ywQdwZPh99Zv.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21616",
+      "url": "https://anilist.co/anime/21616"
+    },
+    "k": {
+      "id": "9563",
+      "url": "https://kitsu.io/anime/9563"
+    },
+    "mal": {
+      "id": "30658",
+      "url": "https://myanimelist.net/anime/30658"
+    }
+  }
+}

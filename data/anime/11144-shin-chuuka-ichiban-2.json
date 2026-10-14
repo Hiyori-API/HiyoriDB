@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11144,
+  "slug": "shin-chuuka-ichiban-2",
+  "kind": "anime",
+  "title": "Shin Chuuka Ichiban! 2",
+  "titles": {
+    "default": "Shin Chuuka Ichiban! 2",
+    "romaji": "Shin Chuuka Ichiban! 2",
+    "english": "True Cooking Master Boy Season 2",
+    "native": "真・中華一番! 2"
+  },
+  "synonyms": [
+    "Shin Chuuka Ichiban! 2",
+    "True Cooking Master Boy Season 2",
+    "真・中華一番! 2",
+    "ยอดกุ๊กแดนมังกร ภาค 2",
+    "Jobless Reincarnation Season 1 Part 2",
+    "Mushoku Tensei: Jobless Reincarnation Part 2",
+    "無職転生 ～異世界行ったら本気だす～ 第2クール",
+    "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114304-MnBLCqwyVIKe.png"
+  ],
+  "references": {
+    "al": {
+      "id": "114304",
+      "url": "https://anilist.co/anime/114304"
+    },
+    "cr": {
+      "id": "true-cooking-master-boy",
+      "url": "https://www.crunchyroll.com/series/true-cooking-master-boy"
+    },
+    "mal": {
+      "id": "40957",
+      "url": "https://myanimelist.net/anime/40957"
+    },
+    "tx": {
+      "id": "shin_chuichi",
+      "url": "https://twitter.com/shin_chuichi"
+    }
+  }
+}

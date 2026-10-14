@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2895,
+  "slug": "daraku",
+  "kind": "anime",
+  "title": "Daraku",
+  "titles": {
+    "default": "Daraku",
+    "romaji": "Daraku",
+    "english": "Dark",
+    "native": "堕楽"
+  },
+  "synonyms": [
+    "Daraku",
+    "Dark",
+    "堕楽",
+    "Degeneration",
+    "Maetel Legend",
+    "メーテルレジェンド"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3393.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3393",
+      "url": "https://anilist.co/anime/3393"
+    },
+    "k": {
+      "id": "1341",
+      "url": "https://kitsu.io/anime/1341"
+    },
+    "mal": {
+      "id": "3393",
+      "url": "https://myanimelist.net/anime/3393"
+    }
+  }
+}

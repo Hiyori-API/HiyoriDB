@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7031,
+  "slug": "picchipichi-shizuku-chan",
+  "kind": "anime",
+  "title": "Picchipichi♪Shizuku-chan",
+  "titles": {
+    "default": "Picchipichi♪Shizuku-chan",
+    "romaji": "Picchipichi♪Shizuku-chan",
+    "native": "ぴっちぴち♪しずくちゃん"
+  },
+  "synonyms": [
+    "Picchipichi♪Shizuku-chan",
+    "ぴっちぴち♪しずくちゃん",
+    "Monsuno: World Master",
+    "Juusen Battle Monsuno",
+    "獣旋バトル モンスーノ",
+    "Beast Rotation Battle Monsuno",
+    "Monsuno: Combat Chaos."
+  ],
+  "type": "tv",
+  "episodes": 52,
+  "status": "finished",
+  "season": "fall",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15897.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "15897",
+      "url": "https://anilist.co/anime/15897"
+    },
+    "k": {
+      "id": "6907",
+      "url": "https://kitsu.io/anime/6907"
+    },
+    "mal": {
+      "id": "15897",
+      "url": "https://myanimelist.net/anime/15897"
+    },
+    "t": {
+      "id": "67135",
+      "url": "https://trakt.tv/shows/67135"
+    }
+  }
+}

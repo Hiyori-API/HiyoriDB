@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13110,
+  "slug": "ao-no-exorcist-yosuga-hen",
+  "kind": "anime",
+  "title": "Ao no Exorcist: Yosuga-hen",
+  "titles": {
+    "default": "Ao no Exorcist: Yosuga-hen",
+    "romaji": "Ao no Exorcist: Yosuga-hen",
+    "english": "Blue Exorcist -The Blue Night Saga-",
+    "native": "青の祓魔師 終夜篇"
+  },
+  "synonyms": [
+    "Ao no Exorcist: Yosuga-hen",
+    "Blue Exorcist -The Blue Night Saga-",
+    "青の祓魔師 終夜篇",
+    "Blue Exorcist Season 5",
+    "Blue Exorcist: The Blue Night Saga"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185880-efBIcDBzPiHP.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "185880",
+      "url": "https://anilist.co/anime/185880"
+    },
+    "cr": {
+      "id": "series/G649PJ0JY/blue-exorcist",
+      "url": "https://www.crunchyroll.com/series/series/G649PJ0JY/blue-exorcist"
+    },
+    "mal": {
+      "id": "59226",
+      "url": "https://myanimelist.net/anime/59226"
+    },
+    "tx": {
+      "id": "aoex_anime",
+      "url": "https://twitter.com/aoex_anime"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 791,
+  "slug": "megami-kouhosei-special-curriculum",
+  "kind": "anime",
+  "title": "Megami Kouhosei Special Curriculum",
+  "titles": {
+    "default": "Megami Kouhosei Special Curriculum",
+    "romaji": "Megami Kouhosei Special Curriculum",
+    "native": "女神候補生 スペシャルカリキュラム"
+  },
+  "synonyms": [
+    "Megami Kouhosei Special Curriculum",
+    "女神候補生 スペシャルカリキュラム",
+    "Candidate for Goddess OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/887.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "887",
+      "url": "https://anilist.co/anime/887"
+    },
+    "cr": {
+      "id": "pilot-candidate",
+      "url": "https://www.crunchyroll.com/series/pilot-candidate"
+    },
+    "k": {
+      "id": "787",
+      "url": "https://kitsu.io/anime/787"
+    },
+    "mal": {
+      "id": "887",
+      "url": "https://myanimelist.net/anime/887"
+    }
+  }
+}

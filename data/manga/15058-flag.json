@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15058,
+  "slug": "flag",
+  "kind": "manga",
+  "title": "FLAG!",
+  "titles": {
+    "default": "FLAG!"
+  },
+  "synonyms": [
+    "フラッグ!",
+    "Fushigi Yugi",
+    "Fushigi Yuugi",
+    "ふしぎ遊戯",
+    "Mysterious Play",
+    "Curious Play"
+  ],
+  "type": "manga",
+  "volumes": 5,
+  "status": "finished",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx190920-2XgDSJa6H3yJ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "181864",
+      "url": "https://anilist.co/anime/181864"
+    },
+    "al_manga": {
+      "id": "181864",
+      "url": "https://anilist.co/manga/181864"
+    }
+  }
+}

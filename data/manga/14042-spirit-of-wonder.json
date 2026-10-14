@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14042,
+  "slug": "spirit-of-wonder",
+  "kind": "manga",
+  "title": "Spirit of Wonder",
+  "titles": {
+    "default": "Spirit of Wonder"
+  },
+  "synonyms": [
+    "Supiritto Obu Wandaa",
+    "The Spirit of Wonder",
+    "Дух Чудес",
+    "Espírito da Aventura",
+    "Spirit of Wonder",
+    "スピリット オブ ワンダー"
+  ],
+  "type": "manga",
+  "chapters": 12,
+  "volumes": 1,
+  "status": "finished",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30864-DUxDkAURc4jK.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2420",
+      "url": "https://anilist.co/anime/2419"
+    },
+    "al_manga": {
+      "id": "2420",
+      "url": "https://anilist.co/manga/2420"
+    }
+  }
+}

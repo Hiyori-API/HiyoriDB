@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4831,
+  "slug": "dr-slump-arale-chan-hoyoyo-sekai-isshuu-dai-race",
+  "kind": "anime",
+  "title": "Dr. Slump: Arale-chan - Hoyoyo Sekai Isshuu Dai Race",
+  "titles": {
+    "default": "Dr. Slump: Arale-chan - Hoyoyo Sekai Isshuu Dai Race",
+    "romaji": "Dr. Slump: Arale-chan - Hoyoyo Sekai Isshuu Dai Race",
+    "english": "Dr. Slump and Arale-chan: The Great Round-the-World Race",
+    "native": "Dr.スランプ アラレちゃん ほよよ世界一周大レース"
+  },
+  "synonyms": [
+    "Dr. Slump: Arale-chan - Hoyoyo Sekai Isshuu Dai Race",
+    "Dr. Slump and Arale-chan: The Great Round-the-World Race",
+    "Dr.スランプ アラレちゃん ほよよ世界一周大レース",
+    "Dr. Slump Movie 3",
+    "Dr. Slump and Arale-chan: Hoyoyo",
+    "Dr. Slump Movie 03: Arale-chan Hoyoyo! Sekai Isshuu Dai Race",
+    "Dr. Slump and Arale-chan: Hoyoyo, Great Round-the-World Race",
+    "Dr.スランプ アラレちゃん ほよよ!世界一周大レース"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1983,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7667.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7667",
+      "url": "https://anilist.co/anime/7667"
+    },
+    "k": {
+      "id": "5076",
+      "url": "https://kitsu.io/anime/5076"
+    },
+    "mal": {
+      "id": "7667",
+      "url": "https://myanimelist.net/anime/7667"
+    }
+  }
+}

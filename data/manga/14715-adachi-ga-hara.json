@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14715,
+  "slug": "adachi-ga-hara",
+  "kind": "manga",
+  "title": "Adachi-ga Hara",
+  "titles": {
+    "default": "Adachi-ga Hara"
+  },
+  "synonyms": [
+    "安達が原",
+    "Christmas Snow",
+    "Noel la Neige",
+    "ノエル　ラ　ネージュ",
+    "Noël la neige"
+  ],
+  "type": "one_shot",
+  "chapters": 1,
+  "status": "finished",
+  "year": 1971,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx161783-lUqXym9vnEBX.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8181",
+      "url": "https://anilist.co/anime/8181"
+    },
+    "al_manga": {
+      "id": "8181",
+      "url": "https://anilist.co/manga/8181"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13488,
+  "slug": "shin-tennis-no-ouji-sama-u-17-world-cup-kesshou-member-ketteisen",
+  "kind": "anime",
+  "title": "Shin Tennis no Ouji-sama: U-17 WORLD CUP Kesshou Member Ketteisen",
+  "titles": {
+    "default": "Shin Tennis no Ouji-sama: U-17 WORLD CUP Kesshou Member Ketteisen",
+    "romaji": "Shin Tennis no Ouji-sama: U-17 WORLD CUP Kesshou Member Ketteisen",
+    "english": "The Prince of Tennis II U-17 WORLD CUP: Final Member Selection Match",
+    "native": "新テニスの王子様 U-17 WORLD CUP 決勝メンバー決定戦"
+  },
+  "synonyms": [
+    "Shin Tennis no Ouji-sama: U-17 WORLD CUP Kesshou Member Ketteisen",
+    "The Prince of Tennis II U-17 WORLD CUP: Final Member Selection Match",
+    "新テニスの王子様 U-17 WORLD CUP 決勝メンバー決定戦",
+    "The Prince of Tennis II: U-17 World Cup - Final Member Selection Match",
+    "Shin Tennis no Oujisama: U-17 World Cup - Kesshou Member Ketteisen"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "airing",
+  "season": "fall",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199068-2afNaytl50Ko.png"
+  ],
+  "references": {
+    "al": {
+      "id": "199068",
+      "url": "https://anilist.co/anime/199068"
+    },
+    "cr": {
+      "id": "series/G65VP3106/the-prince-of-tennis-ii",
+      "url": "https://www.crunchyroll.com/series/series/G65VP3106/the-prince-of-tennis-ii"
+    },
+    "mal": {
+      "id": "62534",
+      "url": "https://myanimelist.net/anime/62534"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3175,
+  "slug": "rebirth-moon-divergence",
+  "kind": "anime",
+  "title": "Rebirth Moon Divergence",
+  "titles": {
+    "default": "Rebirth Moon Divergence",
+    "romaji": "Rebirth Moon Divergence",
+    "native": "リバース ムーン ディバージェンス"
+  },
+  "synonyms": [
+    "Rebirth Moon Divergence",
+    "リバース ムーン ディバージェンス"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3832.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3832",
+      "url": "https://anilist.co/anime/3832"
+    },
+    "k": {
+      "id": "3284",
+      "url": "https://kitsu.io/anime/3284"
+    },
+    "mal": {
+      "id": "3832",
+      "url": "https://myanimelist.net/anime/3832"
+    }
+  }
+}

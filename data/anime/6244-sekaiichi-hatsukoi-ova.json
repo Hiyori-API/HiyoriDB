@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6244,
+  "slug": "sekaiichi-hatsukoi-ova",
+  "kind": "anime",
+  "title": "Sekaiichi Hatsukoi OVA",
+  "titles": {
+    "default": "Sekaiichi Hatsukoi OVA",
+    "romaji": "Sekaiichi Hatsukoi OVA",
+    "native": "世界一初恋 OVA"
+  },
+  "synonyms": [
+    "Sekaiichi Hatsukoi OVA",
+    "世界一初恋 OVA",
+    "Sekaiichi Hatsukoi Episode 0",
+    "Sekai-ichi Hatsukoi: Onodera Ritsu no Baai",
+    "Sekaiichi Hatsukoi Episode 12.5",
+    "Sekaiichi Hatsukoi: Yoshino Chiaki no Baai",
+    "Is This a Zombie? OVA",
+    "Kore wa Zombie Desu ka? OVA",
+    "これはゾンビですか? OVA",
+    "Kore wa Zombie Desu ka? Episode 13",
+    "Koreha Zombie Desuka? OVA",
+    "Kore ha Zombie Desu ka? OVA",
+    "Kore wa Zombie Desu ka? of the Dead Episode 0",
+    "Ee",
+    "Kore ga Saishuukai Desuka?",
+    "Hai",
+    "Encore Arigatou Gozaimasu"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8063.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8063",
+      "url": "https://anilist.co/anime/8063"
+    },
+    "cr": {
+      "id": "sekai-ichi-hatsukoi-worlds-greatest-first-love",
+      "url": "https://www.crunchyroll.com/series/sekai-ichi-hatsukoi-worlds-greatest-first-love"
+    },
+    "k": {
+      "id": "6079",
+      "url": "https://kitsu.io/anime/6079"
+    },
+    "mal": {
+      "id": "8063",
+      "url": "https://myanimelist.net/anime/8063"
+    }
+  }
+}

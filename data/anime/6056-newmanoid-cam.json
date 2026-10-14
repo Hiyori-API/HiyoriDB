@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6056,
+  "slug": "newmanoid-cam",
+  "kind": "anime",
+  "title": "Newmanoid Cam",
+  "titles": {
+    "default": "Newmanoid Cam",
+    "romaji": "Newmanoid Cam",
+    "native": "ニューマノイドキャム"
+  },
+  "synonyms": [
+    "Newmanoid Cam",
+    "ニューマノイドキャム",
+    "Chi's Sweet Home OVA",
+    "チーズスイートホーム チーとコッチ, 出会う.",
+    "Chii's Sweet Home",
+    "Chi's Sweet Home: Chi to Kocchi",
+    "Deau."
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8651.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8651",
+      "url": "https://anilist.co/anime/8651"
+    },
+    "k": {
+      "id": "5166",
+      "url": "https://kitsu.io/anime/5166"
+    },
+    "mal": {
+      "id": "8651",
+      "url": "https://myanimelist.net/anime/8651"
+    }
+  }
+}

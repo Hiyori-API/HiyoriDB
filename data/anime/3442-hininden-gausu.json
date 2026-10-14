@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3442,
+  "slug": "hininden-gausu",
+  "kind": "anime",
+  "title": "Hininden Gausu",
+  "titles": {
+    "default": "Hininden Gausu",
+    "romaji": "Hininden Gausu",
+    "native": "緋忍伝-呀宇種（ガウス）"
+  },
+  "synonyms": [
+    "Hininden Gausu",
+    "緋忍伝-呀宇種（ガウス）",
+    "Hininden Gauss",
+    "Otogi Juushi Akazukin OVA",
+    "おとぎ銃士 赤ずきん",
+    "Fairy Musketeers Little Red Riding Hood"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4378.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4378",
+      "url": "https://anilist.co/anime/4378"
+    },
+    "k": {
+      "id": "369",
+      "url": "https://kitsu.io/anime/369"
+    },
+    "mal": {
+      "id": "4378",
+      "url": "https://myanimelist.net/anime/4378"
+    }
+  }
+}

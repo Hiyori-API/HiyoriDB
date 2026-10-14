@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3536,
+  "slug": "shikabane-hime-aka",
+  "kind": "anime",
+  "title": "Shikabane Hime: Aka",
+  "titles": {
+    "default": "Shikabane Hime: Aka",
+    "romaji": "Shikabane Hime: Aka",
+    "english": "Corpse Princess: Aka",
+    "native": "屍姫 赫"
+  },
+  "synonyms": [
+    "Shikabane Hime: Aka",
+    "Corpse Princess: Aka",
+    "屍姫 赫",
+    "Corpse Princess: Shikabane Hime",
+    "Hyakko",
+    "ヒャッコ"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4581-RT3vGrNYCVqY.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4581",
+      "url": "https://anilist.co/anime/4581"
+    },
+    "cr": {
+      "id": "corpse-princess-shikabane-hime",
+      "url": "https://www.crunchyroll.com/series/corpse-princess-shikabane-hime"
+    },
+    "k": {
+      "id": "3677",
+      "url": "https://kitsu.io/anime/3677"
+    },
+    "mal": {
+      "id": "4581",
+      "url": "https://myanimelist.net/anime/4581"
+    },
+    "t": {
+      "id": "33911",
+      "url": "https://trakt.tv/shows/33911"
+    }
+  }
+}

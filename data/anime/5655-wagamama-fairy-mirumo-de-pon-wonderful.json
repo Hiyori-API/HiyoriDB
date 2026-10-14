@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5655,
+  "slug": "wagamama-fairy-mirumo-de-pon-wonderful",
+  "kind": "anime",
+  "title": "Wagamama☆Fairy Mirumo de Pon! Wonderful",
+  "titles": {
+    "default": "Wagamama☆Fairy Mirumo de Pon! Wonderful",
+    "romaji": "Wagamama☆Fairy Mirumo de Pon! Wonderful",
+    "native": "わがまま☆フェアリー ミルモでポン! わんだほう"
+  },
+  "synonyms": [
+    "Wagamama☆Fairy Mirumo de Pon! Wonderful",
+    "わがまま☆フェアリー ミルモでポン! わんだほう",
+    "Wagamama Fairy Mirumo de Pon! Wonderful",
+    "マーメイドメロディーぴちぴちピッチピュア",
+    "Mermaid Melody Pichi Pichi Pitch Pure"
+  ],
+  "type": "tv",
+  "episodes": 48,
+  "status": "finished",
+  "season": "spring",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170427-oQxsf0Rh3doV.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "170427",
+      "url": "https://anilist.co/anime/170427"
+    },
+    "mal": {
+      "id": "1110",
+      "url": "https://myanimelist.net/anime/1110"
+    }
+  }
+}

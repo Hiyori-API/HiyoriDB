@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14056,
+  "slug": "yami-no-matsuei",
+  "kind": "manga",
+  "title": "Yami no Matsuei",
+  "titles": {
+    "default": "Yami no Matsuei"
+  },
+  "synonyms": [
+    "Les Descendants des Ténèbres",
+    "Descendants of Darkness",
+    "闇の末裔",
+    "Detective Conan",
+    "Meitantei Conan",
+    "Case Closed",
+    "Detektif Conan",
+    "名探偵コナン",
+    "Detective Conan Kaito Kid Special Collection"
+  ],
+  "type": "manga",
+  "status": "publishing",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30918-KlbuaRrHw9wj.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "553",
+      "url": "https://anilist.co/anime/553"
+    },
+    "al_manga": {
+      "id": "553",
+      "url": "https://anilist.co/manga/553"
+    }
+  }
+}

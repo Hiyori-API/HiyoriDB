@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1982,
+  "slug": "fuyu-no-semi",
+  "kind": "anime",
+  "title": "Fuyu no Semi",
+  "titles": {
+    "default": "Fuyu no Semi",
+    "romaji": "Fuyu no Semi",
+    "english": "Embracing Love: A Cicada in Winter",
+    "native": "冬の蝉"
+  },
+  "synonyms": [
+    "Fuyu no Semi",
+    "Embracing Love: A Cicada in Winter",
+    "冬の蝉",
+    "Winter Cicada"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "winter",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2238.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2238",
+      "url": "https://anilist.co/anime/2238"
+    },
+    "k": {
+      "id": "2029",
+      "url": "https://kitsu.io/anime/2029"
+    },
+    "mal": {
+      "id": "2238",
+      "url": "https://myanimelist.net/anime/2238"
+    }
+  }
+}

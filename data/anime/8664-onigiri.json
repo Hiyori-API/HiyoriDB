@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8664,
+  "slug": "onigiri",
+  "kind": "anime",
+  "title": "Onigiri",
+  "titles": {
+    "default": "Onigiri",
+    "romaji": "Onigiri",
+    "native": "鬼斬"
+  },
+  "synonyms": [
+    "Onigiri",
+    "鬼斬",
+    "Demon Slayer",
+    "Demon Cutter",
+    "Space Patrol Luluco",
+    "宇宙パトロールルル子",
+    "Uchuu Patrol Luluco"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21612-d5zrx9CWkxNl.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21612",
+      "url": "https://anilist.co/anime/21612"
+    },
+    "mal": {
+      "id": "32606",
+      "url": "https://myanimelist.net/anime/32606"
+    },
+    "tx": {
+      "id": "onigiri_anime",
+      "url": "https://twitter.com/onigiri_anime"
+    }
+  }
+}

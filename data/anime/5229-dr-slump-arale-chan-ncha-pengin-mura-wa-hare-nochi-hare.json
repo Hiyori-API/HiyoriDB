@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5229,
+  "slug": "dr-slump-arale-chan-ncha-pengin-mura-wa-hare-nochi-hare",
+  "kind": "anime",
+  "title": "Dr. Slump: Arale-chan - Ncha! Pengin Mura wa Hare nochi Hare",
+  "titles": {
+    "default": "Dr. Slump: Arale-chan - Ncha! Pengin Mura wa Hare nochi Hare",
+    "romaji": "Dr. Slump: Arale-chan - Ncha! Pengin Mura wa Hare nochi Hare",
+    "english": "Dr. Slump and Arale-chan: N-cha! Clear Skies Over Penguin Village",
+    "native": "Dr.スランプ アラレちゃん んちゃ!ペンギン村はハレのち晴れ"
+  },
+  "synonyms": [
+    "Dr. Slump: Arale-chan - Ncha! Pengin Mura wa Hare nochi Hare",
+    "Dr. Slump and Arale-chan: N-cha! Clear Skies Over Penguin Village",
+    "Dr.スランプ アラレちゃん んちゃ!ペンギン村はハレのち晴れ",
+    "Dr. Slump Movie 6",
+    "Dr. Slump Movie 06: Arale-chan N-cha! Penguin Mura wa Hare Nochi Hare",
+    "Dr. Slump: Arale-chan - Ncha! Penguin Mura wa Hare Nochi Hare"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7816.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7816",
+      "url": "https://anilist.co/anime/7816"
+    },
+    "k": {
+      "id": "5133",
+      "url": "https://kitsu.io/anime/5133"
+    },
+    "mal": {
+      "id": "7816",
+      "url": "https://myanimelist.net/anime/7816"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14697,
+  "slug": "asura",
+  "kind": "manga",
+  "title": "Asura",
+  "titles": {
+    "default": "Asura"
+  },
+  "synonyms": [
+    "Ashura",
+    "アシュラ",
+    "Ryuu no Michi",
+    "リュウの道",
+    "The Road of Ryuu"
+  ],
+  "type": "manga",
+  "chapters": 29,
+  "volumes": 3,
+  "status": "finished",
+  "year": 1970,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx107775-d5hkTd0nWhQY.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8475",
+      "url": "https://anilist.co/anime/8475"
+    },
+    "al_manga": {
+      "id": "8475",
+      "url": "https://anilist.co/manga/8475"
+    }
+  }
+}

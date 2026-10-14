@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9093,
+  "slug": "forest-fairy-five",
+  "kind": "anime",
+  "title": "FOREST FAIRY FIVE",
+  "titles": {
+    "default": "FOREST FAIRY FIVE",
+    "romaji": "FOREST FAIRY FIVE"
+  },
+  "synonyms": [
+    "FOREST FAIRY FIVE",
+    "The maid dragon of Kobayashi-san",
+    "Miss Kobayashi's Dragon Maid",
+    "小林さんちのメイドラゴン",
+    "Kobayashi-san Chi no Maid Dragon"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/97709-75D2keANAFJm.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "97709",
+      "url": "https://anilist.co/anime/97709"
+    },
+    "cr": {
+      "id": "forest-fairy-five",
+      "url": "https://www.crunchyroll.com/series/forest-fairy-five"
+    },
+    "mal": {
+      "id": "34223",
+      "url": "https://myanimelist.net/anime/34223"
+    }
+  }
+}

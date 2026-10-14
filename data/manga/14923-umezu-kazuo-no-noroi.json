@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14923,
+  "slug": "umezu-kazuo-no-noroi",
+  "kind": "manga",
+  "title": "Umezu Kazuo no Noroi",
+  "titles": {
+    "default": "Umezu Kazuo no Noroi"
+  },
+  "synonyms": [
+    "楳図かずおの呪い",
+    "Nemureru Mori no Binan",
+    "眠れる森美男",
+    "Sleeping Beauty Boy",
+    "The Handsome Man in the Sleeping Woods",
+    "The Sleeping Beauty Man",
+    "The Sleeping Male Beauty in the Woods"
+  ],
+  "type": "manga",
+  "chapters": 6,
+  "volumes": 1,
+  "status": "finished",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx141485-gZwGYWwacXTy.png"
+  ],
+  "references": {
+    "al": {
+      "id": "6276",
+      "url": "https://anilist.co/anime/6276"
+    },
+    "al_manga": {
+      "id": "6276",
+      "url": "https://anilist.co/manga/6276"
+    }
+  }
+}

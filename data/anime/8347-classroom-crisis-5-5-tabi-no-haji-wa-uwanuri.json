@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8347,
+  "slug": "classroom-crisis-5-5-tabi-no-haji-wa-uwanuri",
+  "kind": "anime",
+  "title": "Classroom☆Crisis 5.5: Tabi no Haji wa Uwanuri",
+  "titles": {
+    "default": "Classroom☆Crisis 5.5: Tabi no Haji wa Uwanuri",
+    "romaji": "Classroom☆Crisis 5.5: Tabi no Haji wa Uwanuri",
+    "native": "クラスルーム☆クライシス 第5.5話 旅の恥は上塗り"
+  },
+  "synonyms": [
+    "Classroom☆Crisis 5.5: Tabi no Haji wa Uwanuri",
+    "クラスルーム☆クライシス 第5.5話 旅の恥は上塗り",
+    "Classroom☆Crisis Episode 5.5",
+    "クラスルーム☆クライシス　第5.5話",
+    "Classroom☆Crisis Special",
+    "Classroom Crisis Episode 5.5",
+    "Classroom☆Crisis: Tabi no Haji wa Uwanuri"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21383-34CFSGPfefMG.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21383",
+      "url": "https://anilist.co/anime/21383"
+    },
+    "mal": {
+      "id": "31530",
+      "url": "https://myanimelist.net/anime/31530"
+    },
+    "tx": {
+      "id": "clcr_project",
+      "url": "https://twitter.com/clcr_project"
+    }
+  }
+}

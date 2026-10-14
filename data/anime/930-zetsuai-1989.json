@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 930,
+  "slug": "zetsuai-1989",
+  "kind": "anime",
+  "title": "Zetsuai 1989",
+  "titles": {
+    "default": "Zetsuai 1989",
+    "romaji": "Zetsuai 1989",
+    "native": "絶愛ー1989ー"
+  },
+  "synonyms": [
+    "Zetsuai 1989",
+    "絶愛ー1989ー",
+    "Desperate Love",
+    "Everlasting Love",
+    "絶愛-1989-",
+    "Bronze: 1989"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1041-k7oylkxLSAbU.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1041",
+      "url": "https://anilist.co/anime/1041"
+    },
+    "k": {
+      "id": "931",
+      "url": "https://kitsu.io/anime/931"
+    },
+    "mal": {
+      "id": "1041",
+      "url": "https://myanimelist.net/anime/1041"
+    }
+  }
+}

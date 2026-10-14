@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10787,
+  "slug": "uchuu-patrol-hopper",
+  "kind": "anime",
+  "title": "Uchuu Patrol Hopper",
+  "titles": {
+    "default": "Uchuu Patrol Hopper",
+    "romaji": "Uchuu Patrol Hopper",
+    "native": "宇宙パトロールホッパ"
+  },
+  "synonyms": [
+    "Uchuu Patrol Hopper",
+    "宇宙パトロールホッパ",
+    "Space Patrol Hopper: Space Boy Jun",
+    "Uchuu Patrol Hopper Uchuukko Jun",
+    "Space Patrol Hopper"
+  ],
+  "type": "tv",
+  "episodes": 44,
+  "status": "finished",
+  "season": "winter",
+  "year": 1965,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12897-uZXF5WmBGUjR.png"
+  ],
+  "references": {
+    "al": {
+      "id": "12897",
+      "url": "https://anilist.co/anime/12897"
+    },
+    "k": {
+      "id": "6841",
+      "url": "https://kitsu.io/anime/6841"
+    },
+    "mal": {
+      "id": "12897",
+      "url": "https://myanimelist.net/anime/12897"
+    }
+  }
+}

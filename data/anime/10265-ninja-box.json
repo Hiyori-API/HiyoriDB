@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10265,
+  "slug": "ninja-box",
+  "kind": "anime",
+  "title": "Ninja Box",
+  "titles": {
+    "default": "Ninja Box",
+    "romaji": "Ninja Box",
+    "native": "ニンジャボックス"
+  },
+  "synonyms": [
+    "Ninja Box",
+    "ニンジャボックス",
+    "The Disastrous Life of Saiki K. Restart Arc",
+    "Saiki Kusuo no Ψ-nan: Saishidou-hen",
+    "Saiki Kusuo no Sainan: Saishidou-hen",
+    "The Disastrous Life of Saiki K.: Reawakened",
+    "斉木楠雄のΨ難 Ψ始動編",
+    "Saiki Kusuo no Ψ-nan: Ψ-shidou-hen"
+  ],
+  "type": "ona",
+  "episodes": 6,
+  "status": "finished",
+  "season": "summer",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx111126-4p0t1lpkkW45.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "111126",
+      "url": "https://anilist.co/anime/111126"
+    },
+    "mal": {
+      "id": "40103",
+      "url": "https://myanimelist.net/anime/40103"
+    }
+  }
+}

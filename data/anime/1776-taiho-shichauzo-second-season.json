@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1776,
+  "slug": "taiho-shichauzo-second-season",
+  "kind": "anime",
+  "title": "Taiho Shichauzo: SECOND SEASON",
+  "titles": {
+    "default": "Taiho Shichauzo: SECOND SEASON",
+    "romaji": "Taiho Shichauzo: SECOND SEASON",
+    "english": "You're Under Arrest: Fast & Furious",
+    "native": "逮捕しちゃうぞ SECOND SEASON"
+  },
+  "synonyms": [
+    "Taiho Shichauzo: SECOND SEASON",
+    "You're Under Arrest: Fast & Furious",
+    "逮捕しちゃうぞ SECOND SEASON",
+    "Taiho Shichau zo TV 2",
+    "You're Under Arrest! TV 2",
+    "Taiho Shichau zo: Second Season",
+    "Taiho Shichauzo: Second Season",
+    "Taiho Shichau zo: 2nd Season",
+    "You're Under Arrest: Second Season"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2014.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2014",
+      "url": "https://anilist.co/anime/2014"
+    },
+    "k": {
+      "id": "1813",
+      "url": "https://kitsu.io/anime/1813"
+    },
+    "mal": {
+      "id": "2014",
+      "url": "https://myanimelist.net/anime/2014"
+    },
+    "t": {
+      "id": "61999",
+      "url": "https://trakt.tv/shows/61999"
+    }
+  }
+}

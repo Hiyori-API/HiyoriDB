@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9297,
+  "slug": "marvel-future-avengers",
+  "kind": "anime",
+  "title": "Marvel Future Avengers",
+  "titles": {
+    "default": "Marvel Future Avengers",
+    "romaji": "Marvel Future Avengers",
+    "native": "マーベル フューチャー・アベンジャーズ"
+  },
+  "synonyms": [
+    "Marvel Future Avengers",
+    "マーベル フューチャー・アベンジャーズ",
+    "Marvel Fremtidige Avengers",
+    "Avengers Przyszłości",
+    "Elegant Yokai Apartment Life",
+    "妖怪アパートの幽雅な日常",
+    "Youkai Apartment no Yuuga na Nichijou"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "summer",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98872-OYzOqXGfOYuG.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98872",
+      "url": "https://anilist.co/anime/98872"
+    },
+    "mal": {
+      "id": "34975",
+      "url": "https://myanimelist.net/anime/34975"
+    }
+  }
+}

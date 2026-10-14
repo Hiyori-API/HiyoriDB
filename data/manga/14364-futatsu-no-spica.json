@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14364,
+  "slug": "futatsu-no-spica",
+  "kind": "manga",
+  "title": "Futatsu no Spica",
+  "titles": {
+    "default": "Futatsu no Spica"
+  },
+  "synonyms": [
+    "Spica x2",
+    "Twin Spica",
+    "ふたつのスピカ",
+    "Full Moon wo Sagashite",
+    "満月〈フルムーン〉をさがして",
+    "Searching for the Full Moon",
+    "Ginyuu Meika"
+  ],
+  "type": "manga",
+  "chapters": 116,
+  "volumes": 16,
+  "status": "finished",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33097-ZxEUjyLkVYmR.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "344",
+      "url": "https://anilist.co/anime/344"
+    },
+    "al_manga": {
+      "id": "344",
+      "url": "https://anilist.co/manga/344"
+    }
+  }
+}

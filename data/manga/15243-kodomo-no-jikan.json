@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15243,
+  "slug": "kodomo-no-jikan",
+  "kind": "manga",
+  "title": "Kodomo no Jikan",
+  "titles": {
+    "default": "Kodomo no Jikan"
+  },
+  "synonyms": [
+    "A Forbidden Time",
+    "Child's Time",
+    "Time for Kids",
+    "こどもの時間",
+    "Mushrambo",
+    "マシュランボー",
+    "Mashuranboo"
+  ],
+  "type": "manga",
+  "chapters": 24,
+  "volumes": 3,
+  "status": "finished",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx62101-BaEjaXGDkogi.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4304",
+      "url": "https://anilist.co/anime/4304"
+    },
+    "al_manga": {
+      "id": "4304",
+      "url": "https://anilist.co/manga/4304"
+    }
+  }
+}

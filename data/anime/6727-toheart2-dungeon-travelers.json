@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6727,
+  "slug": "toheart2-dungeon-travelers",
+  "kind": "anime",
+  "title": "ToHeart2: Dungeon Travelers",
+  "titles": {
+    "default": "ToHeart2: Dungeon Travelers",
+    "romaji": "ToHeart2: Dungeon Travelers",
+    "native": "ToHeart2 ダンジョントラベラーズ"
+  },
+  "synonyms": [
+    "ToHeart2: Dungeon Travelers",
+    "ToHeart2 ダンジョントラベラーズ",
+    "トゥハート2 ダンジョントラベラーズ",
+    "To Heart 2: Dungeon Travelers",
+    "ToHeart2ダンジョントラベラーズ",
+    "ToHeart2 Dungeon Travelers"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11773-CpxbVXvThJJ2.png"
+  ],
+  "references": {
+    "al": {
+      "id": "11773",
+      "url": "https://anilist.co/anime/11773"
+    },
+    "k": {
+      "id": "6596",
+      "url": "https://kitsu.io/anime/6596"
+    },
+    "mal": {
+      "id": "11773",
+      "url": "https://myanimelist.net/anime/11773"
+    }
+  }
+}

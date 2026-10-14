@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1857,
+  "slug": "sequence",
+  "kind": "anime",
+  "title": "Sequence",
+  "titles": {
+    "default": "Sequence",
+    "romaji": "Sequence",
+    "native": "シークエンス"
+  },
+  "synonyms": [
+    "Sequence",
+    "シークエンス",
+    "Spirit of Wonder: China-san no Yuuutsu",
+    "ザスピリットオブワンダー - チャイナさんの憂鬱",
+    "China-san no Yutsu ~ The Spirit of Wonder",
+    "Spirit of Wonder: Miss China's Ring",
+    "Spirit of Wonder: Miss China's Melancholy"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2096-OBzw4h7eZBNv.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2096",
+      "url": "https://anilist.co/anime/2096"
+    },
+    "k": {
+      "id": "2195",
+      "url": "https://kitsu.io/anime/2195"
+    },
+    "mal": {
+      "id": "2096",
+      "url": "https://myanimelist.net/anime/2096"
+    }
+  }
+}

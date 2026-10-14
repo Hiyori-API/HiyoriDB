@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1230,
+  "slug": "shin-seiki-gpx-cyber-formula",
+  "kind": "anime",
+  "title": "Shin Seiki GPX Cyber Formula",
+  "titles": {
+    "default": "Shin Seiki GPX Cyber Formula",
+    "romaji": "Shin Seiki GPX Cyber Formula",
+    "english": "Future GPX Cyber Formula",
+    "native": "新世紀GPXサイバーフォーミュラ"
+  },
+  "synonyms": [
+    "Shin Seiki GPX Cyber Formula",
+    "Future GPX Cyber Formula",
+    "新世紀GPXサイバーフォーミュラ",
+    "Cyber Formula: Shinseki-GPX",
+    "新世紀ＧＰＸサイバーフォーミュラ"
+  ],
+  "type": "tv",
+  "episodes": 37,
+  "status": "finished",
+  "season": "spring",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1391-99GnhCkyPKCn.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1391",
+      "url": "https://anilist.co/anime/1391"
+    },
+    "k": {
+      "id": "1244",
+      "url": "https://kitsu.io/anime/1244"
+    },
+    "mal": {
+      "id": "1391",
+      "url": "https://myanimelist.net/anime/1391"
+    },
+    "t": {
+      "id": "9272",
+      "url": "https://trakt.tv/shows/9272"
+    }
+  }
+}

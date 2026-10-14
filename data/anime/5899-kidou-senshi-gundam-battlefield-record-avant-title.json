@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5899,
+  "slug": "kidou-senshi-gundam-battlefield-record-avant-title",
+  "kind": "anime",
+  "title": "Kidou Senshi Gundam Battlefield Record: Avant-Title",
+  "titles": {
+    "default": "Kidou Senshi Gundam Battlefield Record: Avant-Title",
+    "romaji": "Kidou Senshi Gundam Battlefield Record: Avant-Title",
+    "native": "機動戦士ガンダム戦記 アバンタイトル"
+  },
+  "synonyms": [
+    "Kidou Senshi Gundam Battlefield Record: Avant-Title",
+    "機動戦士ガンダム戦記 アバンタイトル",
+    "Kidou Senshi Gundam Senki: Avant Title",
+    "Baka and Test - Summon the Beasts Christmas Special",
+    "Baka to Test to Shoukanjuu: Mondai - Christmas ni Tsuite Kotae Nasai",
+    "The Idiot, the Tests, and the Summoned Creatures: Christmas Special",
+    "バカとテストと召喚獣 問題 クリスマスについて答えなさい",
+    "Baka to Test to Shoukanjuu: Christmas Special",
+    "The Idiot"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18449.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "18449",
+      "url": "https://anilist.co/anime/18449"
+    },
+    "k": {
+      "id": "5127",
+      "url": "https://kitsu.io/anime/5127"
+    },
+    "mal": {
+      "id": "18449",
+      "url": "https://myanimelist.net/anime/18449"
+    }
+  }
+}

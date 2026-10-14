@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7006,
+  "slug": "yu-gi-oh-zexal-ii",
+  "kind": "anime",
+  "title": "Yu☆Gi☆Oh! ZEXAL II",
+  "titles": {
+    "default": "Yu☆Gi☆Oh! ZEXAL II",
+    "romaji": "Yu☆Gi☆Oh! ZEXAL II",
+    "english": "Yu-Gi-Oh! ZEXAL II",
+    "native": "遊☆戯☆王ZEXALⅡ（セカンド）"
+  },
+  "synonyms": [
+    "Yu☆Gi☆Oh! ZEXAL II",
+    "Yu-Gi-Oh! ZEXAL II",
+    "遊☆戯☆王ZEXALⅡ（セカンド）",
+    "Yugioh",
+    "Yu-Gi-Oh! Zexal II",
+    "Yu-Gi-Oh! Zexal 2nd",
+    "Yuu Gi Ou! Zexal Second",
+    "Yuu Gi Ou! Zexal II",
+    "Yu-Gi-Oh! Zexal Second",
+    "Yu☆Gi☆Oh! Zexal Second"
+  ],
+  "type": "tv",
+  "episodes": 73,
+  "status": "finished",
+  "season": "fall",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15489-bkJWvWqZSKXz.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "15489",
+      "url": "https://anilist.co/anime/15489"
+    },
+    "mal": {
+      "id": "15489",
+      "url": "https://myanimelist.net/anime/15489"
+    }
+  }
+}

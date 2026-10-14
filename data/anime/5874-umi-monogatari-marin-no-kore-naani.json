@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5874,
+  "slug": "umi-monogatari-marin-no-kore-naani",
+  "kind": "anime",
+  "title": "Umi Monogatari: Marin no Kore Naani?",
+  "titles": {
+    "default": "Umi Monogatari: Marin no Kore Naani?",
+    "romaji": "Umi Monogatari: Marin no Kore Naani?",
+    "english": "Umi Monogatari: Marin's \"What Is This?\"",
+    "native": "うみものがたり マリンのこれなぁに？"
+  },
+  "synonyms": [
+    "Umi Monogatari: Marin no Kore Naani?",
+    "Umi Monogatari: Marin's \"What Is This?\"",
+    "うみものがたり マリンのこれなぁに？"
+  ],
+  "type": "special",
+  "episodes": 4,
+  "status": "finished",
+  "season": "fall",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9100.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9100",
+      "url": "https://anilist.co/anime/9100"
+    },
+    "k": {
+      "id": "5603",
+      "url": "https://kitsu.io/anime/5603"
+    },
+    "mal": {
+      "id": "9100",
+      "url": "https://myanimelist.net/anime/9100"
+    }
+  }
+}

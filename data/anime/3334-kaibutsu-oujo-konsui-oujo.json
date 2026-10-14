@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3334,
+  "slug": "kaibutsu-oujo-konsui-oujo",
+  "kind": "anime",
+  "title": "Kaibutsu Oujo: Konsui Oujo",
+  "titles": {
+    "default": "Kaibutsu Oujo: Konsui Oujo",
+    "romaji": "Kaibutsu Oujo: Konsui Oujo",
+    "english": "Princess Resurrection Special",
+    "native": "怪物王女：昏睡王女"
+  },
+  "synonyms": [
+    "Kaibutsu Oujo: Konsui Oujo",
+    "Princess Resurrection Special",
+    "怪物王女：昏睡王女",
+    "Kaibutsu Oujo DVD Special",
+    "Kaibutsu Oujo: Sleeping Princess",
+    "Princess Resurrection: Princess Comatose",
+    "怪物王女　第26話「昏睡王女」",
+    "Kaibutsu Oujo Special"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4082.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4082",
+      "url": "https://anilist.co/anime/4082"
+    },
+    "k": {
+      "id": "1927",
+      "url": "https://kitsu.io/anime/1927"
+    },
+    "mal": {
+      "id": "4082",
+      "url": "https://myanimelist.net/anime/4082"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3591,
+  "slug": "chijoku-kankin",
+  "kind": "anime",
+  "title": "Chijoku Kankin",
+  "titles": {
+    "default": "Chijoku Kankin",
+    "romaji": "Chijoku Kankin",
+    "native": "恥辱監禁 ～堕ちた天使たち～"
+  },
+  "synonyms": [
+    "Chijoku Kankin",
+    "恥辱監禁 ～堕ちた天使たち～",
+    "Kai Doh Maru",
+    "怪童丸",
+    "Kaidoumaru",
+    "Kaidomaru"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4717.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4717",
+      "url": "https://anilist.co/anime/4717"
+    },
+    "k": {
+      "id": "1457",
+      "url": "https://kitsu.io/anime/1457"
+    },
+    "mal": {
+      "id": "4717",
+      "url": "https://myanimelist.net/anime/4717"
+    }
+  }
+}

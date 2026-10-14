@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10954,
+  "slug": "sekiei-ayakashi-mangatan",
+  "kind": "anime",
+  "title": "Sekiei Ayakashi Mangatan",
+  "titles": {
+    "default": "Sekiei Ayakashi Mangatan",
+    "romaji": "Sekiei Ayakashi Mangatan",
+    "native": "石影妖漫画譚"
+  },
+  "synonyms": [
+    "Sekiei Ayakashi Mangatan",
+    "石影妖漫画譚"
+  ],
+  "type": "ona",
+  "episodes": 3,
+  "status": "finished",
+  "season": "winter",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12907.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12907",
+      "url": "https://anilist.co/anime/12907"
+    },
+    "k": {
+      "id": "6846",
+      "url": "https://kitsu.io/anime/6846"
+    },
+    "mal": {
+      "id": "12907",
+      "url": "https://myanimelist.net/anime/12907"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14325,
+  "slug": "piano-no-mori",
+  "kind": "manga",
+  "title": "Piano no Mori",
+  "titles": {
+    "default": "Piano no Mori"
+  },
+  "synonyms": [
+    "The Perfect World Of KAI",
+    "Forest of Piano",
+    "ピアノの森",
+    "Love Hina",
+    "ラブひな"
+  ],
+  "type": "manga",
+  "chapters": 242,
+  "volumes": 26,
+  "status": "finished",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx32895-UuiBOroOpyu2.png"
+  ],
+  "references": {
+    "al": {
+      "id": "103049",
+      "url": "https://anilist.co/anime/2594"
+    },
+    "al_manga": {
+      "id": "103049",
+      "url": "https://anilist.co/manga/103049"
+    }
+  }
+}

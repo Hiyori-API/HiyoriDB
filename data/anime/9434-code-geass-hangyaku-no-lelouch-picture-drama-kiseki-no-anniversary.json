@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9434,
+  "slug": "code-geass-hangyaku-no-lelouch-picture-drama-kiseki-no-anniversary",
+  "kind": "anime",
+  "title": "Code Geass: Hangyaku no Lelouch Picture Drama - Kiseki no Anniversary",
+  "titles": {
+    "default": "Code Geass: Hangyaku no Lelouch Picture Drama - Kiseki no Anniversary",
+    "romaji": "Code Geass: Hangyaku no Lelouch Picture Drama - Kiseki no Anniversary",
+    "native": "コードギアス 反逆のルルーシュ キセキのアニバーサリー"
+  },
+  "synonyms": [
+    "Code Geass: Hangyaku no Lelouch Picture Drama - Kiseki no Anniversary",
+    "コードギアス 反逆のルルーシュ キセキのアニバーサリー",
+    "Code Geass: Lelouch of the Rebellion Picture Drama - Miraculous Anniversary",
+    "コードギアス 反逆のルルーシュ キセキのBABA劇場",
+    "Love Hina Spring Movie",
+    "Love Hina Haru Special: Kimi Sakura Chiru Nakare!!",
+    "ラブひな春スペシャル 〜キミサクラチルナカレ!!〜",
+    "Love Hina Spring Special"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b112900-w58lVXgdLx93.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "112900",
+      "url": "https://anilist.co/anime/112900"
+    },
+    "k": {
+      "id": "169",
+      "url": "https://kitsu.io/anime/169"
+    },
+    "mal": {
+      "id": "40334",
+      "url": "https://myanimelist.net/anime/40334"
+    }
+  }
+}

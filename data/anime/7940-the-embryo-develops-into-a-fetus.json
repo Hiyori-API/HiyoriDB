@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7940,
+  "slug": "the-embryo-develops-into-a-fetus",
+  "kind": "anime",
+  "title": "The Embryo Develops into a Fetus",
+  "titles": {
+    "default": "The Embryo Develops into a Fetus",
+    "romaji": "The Embryo Develops into a Fetus"
+  },
+  "synonyms": [
+    "The Embryo Develops into a Fetus",
+    "Paulette's Chair",
+    "Paulette no Isu",
+    "ポレットのイス",
+    "Pollet no Isu",
+    "Poretto no Isu",
+    "Poulette no Isu"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx99216-9nsqOFnSptGa.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "99216",
+      "url": "https://anilist.co/anime/99216"
+    },
+    "k": {
+      "id": "8412",
+      "url": "https://kitsu.io/anime/8412"
+    },
+    "mal": {
+      "id": "29995",
+      "url": "https://myanimelist.net/anime/29995"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5231,
+  "slug": "crayon-shin-chan-action-kamen-vs-haigure-maou",
+  "kind": "anime",
+  "title": "Crayon Shin-chan: Action Kamen vs. Haigure Maou",
+  "titles": {
+    "default": "Crayon Shin-chan: Action Kamen vs. Haigure Maou",
+    "romaji": "Crayon Shin-chan: Action Kamen vs. Haigure Maou",
+    "english": "Crayon Shin-chan: Action Mask vs. Leotard Devil",
+    "native": "映画 クレヨンしんちゃん　アクション仮面ＶＳハイグレ魔王"
+  },
+  "synonyms": [
+    "Crayon Shin-chan: Action Kamen vs. Haigure Maou",
+    "Crayon Shin-chan: Action Mask vs. Leotard Devil",
+    "映画 クレヨンしんちゃん　アクション仮面ＶＳハイグレ魔王",
+    "Eiga Crayon Shin-chan: Action Kamen vs. Haigure Maou",
+    "Crayon Shin-chan: Action Kamen vs. Haigure Devil",
+    "Shin chan: La invasión",
+    "ชินจัง เดอะมูฟวี่ 1 : หน้ากากแอ็คชั่น ปะทะ ปีศาจชุดรัดรูป",
+    "Crayon Shin-chan : Action Kamen Đối Đầu Ma Vương Áo Tắm",
+    "Crayon Shin-chan Movie 01: Action Kamen vs. Haigure Maou"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8358.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8358",
+      "url": "https://anilist.co/anime/8358"
+    },
+    "k": {
+      "id": "5307",
+      "url": "https://kitsu.io/anime/5307"
+    },
+    "mal": {
+      "id": "8358",
+      "url": "https://myanimelist.net/anime/8358"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15743,
+  "slug": "jigoku-shoujo-enma-ai-selection-gekikowa-story-kura",
+  "kind": "manga",
+  "title": "Jigoku Shoujo Enma Ai Selection Gekikowa Story Kura",
+  "titles": {
+    "default": "Jigoku Shoujo Enma Ai Selection Gekikowa Story Kura"
+  },
+  "synonyms": [
+    "地獄少女　閻魔あいセレクション　激こわストーリー　暗",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "chapters": 6,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx213778-XAEfI3grscEk.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "228",
+      "url": "https://anilist.co/anime/228"
+    },
+    "al_manga": {
+      "id": "228",
+      "url": "https://anilist.co/manga/228"
+    }
+  }
+}

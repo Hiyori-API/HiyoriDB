@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6274,
+  "slug": "t-p-sakura-time-paladin-sakura",
+  "kind": "anime",
+  "title": "T.P. Sakura: Time Paladin Sakura",
+  "titles": {
+    "default": "T.P. Sakura: Time Paladin Sakura",
+    "romaji": "T.P. Sakura: Time Paladin Sakura",
+    "native": "T.P.さくら〜タイムパラディンさくら〜時空樹防衛戦"
+  },
+  "synonyms": [
+    "T.P. Sakura: Time Paladin Sakura",
+    "T.P.さくら〜タイムパラディンさくら〜時空樹防衛戦",
+    "T.P. Sakura ~Time Paladin Sakura~ Jikuu Boueisen",
+    "T.P.さくら〜タイムパラディンさくら〜時空防衛戦"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9393.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9393",
+      "url": "https://anilist.co/anime/9393"
+    },
+    "k": {
+      "id": "5719",
+      "url": "https://kitsu.io/anime/5719"
+    },
+    "mal": {
+      "id": "9393",
+      "url": "https://myanimelist.net/anime/9393"
+    }
+  }
+}

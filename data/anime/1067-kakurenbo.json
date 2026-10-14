@@ -1,0 +1,61 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1067,
+  "slug": "kakurenbo",
+  "kind": "anime",
+  "title": "Kakurenbo",
+  "titles": {
+    "default": "Kakurenbo",
+    "romaji": "Kakurenbo",
+    "english": "Kakurenbo: Hide and Seek",
+    "native": "カクレンボ"
+  },
+  "synonyms": [
+    "Kakurenbo",
+    "Kakurenbo: Hide and Seek",
+    "カクレンボ",
+    "Hide and Seek",
+    "InuYasha the Movie 4: Fire on the Mystic Island",
+    "InuYasha: Guren no Houraijima",
+    "犬夜叉 紅蓮の蓬莱島",
+    "Inu Yasha: Guren no Houraijima"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1192-rVDQZAHn6zxB.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1192",
+      "url": "https://anilist.co/anime/1192"
+    },
+    "cr": {
+      "id": "inuyasha-the-movie-4-fire-on-the-mystic-island",
+      "url": "https://www.crunchyroll.com/series/inuyasha-the-movie-4-fire-on-the-mystic-island"
+    },
+    "k": {
+      "id": "412",
+      "url": "https://kitsu.io/anime/412"
+    },
+    "mal": {
+      "id": "1192",
+      "url": "https://myanimelist.net/anime/1192"
+    },
+    "nf": {
+      "id": "70052492",
+      "url": "https://www.netflix.com/title/70052492"
+    },
+    "t": {
+      "id": "60942",
+      "url": "https://trakt.tv/shows/60942"
+    },
+    "yt": {
+      "id": "KmgLd2ri5Jc",
+      "url": "https://www.youtube.com/watch?v=KmgLd2ri5Jc"
+    }
+  }
+}

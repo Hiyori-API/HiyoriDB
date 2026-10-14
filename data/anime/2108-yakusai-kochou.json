@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2108,
+  "slug": "yakusai-kochou",
+  "kind": "anime",
+  "title": "Yakusai Kochou",
+  "titles": {
+    "default": "Yakusai Kochou",
+    "romaji": "Yakusai Kochou",
+    "english": "Demon Fighter Kocho",
+    "native": "厄災仔寵[やくさいこちょう]"
+  },
+  "synonyms": [
+    "Yakusai Kochou",
+    "Demon Fighter Kocho",
+    "厄災仔寵[やくさいこちょう]",
+    "Yakusai Kocho",
+    "厄災仔寵 [やくさいこちょう]"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2384.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2384",
+      "url": "https://anilist.co/anime/2384"
+    },
+    "k": {
+      "id": "2161",
+      "url": "https://kitsu.io/anime/2161"
+    },
+    "mal": {
+      "id": "2384",
+      "url": "https://myanimelist.net/anime/2384"
+    }
+  }
+}

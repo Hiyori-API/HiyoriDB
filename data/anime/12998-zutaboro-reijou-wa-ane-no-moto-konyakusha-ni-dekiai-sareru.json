@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12998,
+  "slug": "zutaboro-reijou-wa-ane-no-moto-konyakusha-ni-dekiai-sareru",
+  "kind": "anime",
+  "title": "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai Sareru",
+  "titles": {
+    "default": "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai Sareru",
+    "romaji": "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai Sareru",
+    "english": "Betrothed to My Sister's Ex",
+    "native": "ずたぼろ令嬢は姉の元婚約者に溺愛される"
+  },
+  "synonyms": [
+    "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai Sareru",
+    "Betrothed to My Sister's Ex",
+    "ずたぼろ令嬢は姉の元婚約者に溺愛される",
+    "Loved by Her Sister's Former Fiancé",
+    "คุณหนูตัวสำรองมีท่านเคานท์มาคลั่งรัก",
+    "DearS",
+    "ディアーズ"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179879-569v3MdQeVmt.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "179879",
+      "url": "https://anilist.co/anime/179879"
+    },
+    "cr": {
+      "id": "series/G9VHN9Q34/betrothed-to-my-sisters-ex",
+      "url": "https://www.crunchyroll.com/series/series/G9VHN9Q34/betrothed-to-my-sisters-ex"
+    },
+    "k": {
+      "id": "44",
+      "url": "https://kitsu.io/anime/44"
+    },
+    "mal": {
+      "id": "59421",
+      "url": "https://myanimelist.net/anime/59421"
+    },
+    "t": {
+      "id": "61051",
+      "url": "https://trakt.tv/shows/61051"
+    }
+  }
+}

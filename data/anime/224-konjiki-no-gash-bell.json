@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 224,
+  "slug": "konjiki-no-gash-bell",
+  "kind": "anime",
+  "title": "Konjiki no Gash Bell!!",
+  "titles": {
+    "default": "Konjiki no Gash Bell!!",
+    "romaji": "Konjiki no Gash Bell!!",
+    "english": "Zatch Bell!",
+    "native": "金色のガッシュベル!!"
+  },
+  "synonyms": [
+    "Konjiki no Gash Bell!!",
+    "Zatch Bell!",
+    "金色のガッシュベル!!",
+    "GASH BELL!!"
+  ],
+  "type": "tv",
+  "episodes": 150,
+  "status": "finished",
+  "season": "spring",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b250-w0c2KefXfW2i.png"
+  ],
+  "references": {
+    "al": {
+      "id": "250",
+      "url": "https://anilist.co/anime/250"
+    },
+    "cr": {
+      "id": "zatch-bell",
+      "url": "https://www.crunchyroll.com/series/zatch-bell"
+    },
+    "k": {
+      "id": "225",
+      "url": "https://kitsu.io/anime/225"
+    },
+    "mal": {
+      "id": "250",
+      "url": "https://myanimelist.net/anime/250"
+    },
+    "t": {
+      "id": "46400",
+      "url": "https://trakt.tv/shows/46400"
+    }
+  }
+}

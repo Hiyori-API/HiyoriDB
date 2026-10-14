@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1962,
+  "slug": "black-jack-21",
+  "kind": "anime",
+  "title": "Black Jack 21",
+  "titles": {
+    "default": "Black Jack 21",
+    "romaji": "Black Jack 21",
+    "native": "ブラック・ジャック21"
+  },
+  "synonyms": [
+    "Black Jack 21",
+    "ブラック・ジャック21",
+    "BJ21"
+  ],
+  "type": "tv",
+  "episodes": 17,
+  "status": "finished",
+  "season": "spring",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx2214-b3Y4OOWHHW0i.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2214",
+      "url": "https://anilist.co/anime/2214"
+    },
+    "mal": {
+      "id": "2214",
+      "url": "https://myanimelist.net/anime/2214"
+    }
+  }
+}

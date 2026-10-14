@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13421,
+  "slug": "29-sai-dokushin-chuuken-boukensha-no-nichijou",
+  "kind": "anime",
+  "title": "29-sai Dokushin Chuuken Boukensha no Nichijou",
+  "titles": {
+    "default": "29-sai Dokushin Chuuken Boukensha no Nichijou",
+    "romaji": "29-sai Dokushin Chuuken Boukensha no Nichijou",
+    "english": "An Adventurer’s Daily Grind at Age 29",
+    "native": "29歳独身中堅冒険者の日常"
+  },
+  "synonyms": [
+    "29-sai Dokushin Chuuken Boukensha no Nichijou",
+    "An Adventurer’s Daily Grind at Age 29",
+    "29歳独身中堅冒険者の日常",
+    "Everyday of the 29 years old single person adventurer.",
+    "The Everyday Life of a 29-Year Old Middling Adventurer",
+    "The Daily Life of a Single 29-Year-Old Adventurer",
+    "ชีวิตประจำวันของนักผจญภัยโสดวัย 29",
+    "Paradition, Heavenhell",
+    "Hell's Paradise Season 2",
+    "地獄楽第二期",
+    "Jigokuraku 2nd Season"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192261-oaqwOjlr64ki.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "192261",
+      "url": "https://anilist.co/anime/192261"
+    },
+    "cr": {
+      "id": "series/GT00365607/an-adventurers-daily-grind-at-age-29",
+      "url": "https://www.crunchyroll.com/series/series/GT00365607/an-adventurers-daily-grind-at-age-29"
+    },
+    "mal": {
+      "id": "61637",
+      "url": "https://myanimelist.net/anime/61637"
+    }
+  }
+}

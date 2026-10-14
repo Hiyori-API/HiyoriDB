@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8376,
+  "slug": "sei-yariman-sisters-pakopako-nikki-the-animation",
+  "kind": "anime",
+  "title": "Sei Yariman Sisters Pakopako Nikki THE ANIMATION",
+  "titles": {
+    "default": "Sei Yariman Sisters Pakopako Nikki THE ANIMATION",
+    "romaji": "Sei Yariman Sisters Pakopako Nikki THE ANIMATION",
+    "native": "聖ヤリマンシスターズ パコパコ日記 THE ANIMATION"
+  },
+  "synonyms": [
+    "Sei Yariman Sisters Pakopako Nikki THE ANIMATION",
+    "聖ヤリマンシスターズ パコパコ日記 THE ANIMATION",
+    "Haiyore! Nyaruko-san F",
+    "這いよれ！ニャル子さんF"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21527-WBGtmWqZQpfQ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21527",
+      "url": "https://anilist.co/anime/21527"
+    },
+    "k": {
+      "id": "8881",
+      "url": "https://kitsu.io/anime/8881"
+    },
+    "mal": {
+      "id": "29085",
+      "url": "https://myanimelist.net/anime/29085"
+    }
+  }
+}

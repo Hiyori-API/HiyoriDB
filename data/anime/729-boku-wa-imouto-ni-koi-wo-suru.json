@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 729,
+  "slug": "boku-wa-imouto-ni-koi-wo-suru",
+  "kind": "anime",
+  "title": "Boku wa Imouto ni Koi wo Suru",
+  "titles": {
+    "default": "Boku wa Imouto ni Koi wo Suru",
+    "romaji": "Boku wa Imouto ni Koi wo Suru",
+    "native": "僕は妹に恋をする"
+  },
+  "synonyms": [
+    "Boku wa Imouto ni Koi wo Suru",
+    "僕は妹に恋をする",
+    "I'm My Little Sister's Secret",
+    "I'm in Love With My Little Sister",
+    "I Love With My Sister"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/819.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "819",
+      "url": "https://anilist.co/anime/819"
+    },
+    "k": {
+      "id": "726",
+      "url": "https://kitsu.io/anime/726"
+    },
+    "mal": {
+      "id": "819",
+      "url": "https://myanimelist.net/anime/819"
+    }
+  }
+}

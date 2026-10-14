@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15662,
+  "slug": "tsuma-shibori",
+  "kind": "manga",
+  "title": "Tsuma Shibori",
+  "titles": {
+    "default": "Tsuma Shibori"
+  },
+  "synonyms": [
+    "妻しぼり",
+    "MM!",
+    "えむえむっ!",
+    "MM Group",
+    "Emu Emu!"
+  ],
+  "type": "novel",
+  "chapters": 12,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/90866-eO8RA0GHh42j.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4763",
+      "url": "https://anilist.co/anime/4763"
+    },
+    "al_manga": {
+      "id": "4763",
+      "url": "https://anilist.co/manga/4763"
+    }
+  }
+}

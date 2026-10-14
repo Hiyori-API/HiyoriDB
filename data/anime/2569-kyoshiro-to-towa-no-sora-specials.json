@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2569,
+  "slug": "kyoshiro-to-towa-no-sora-specials",
+  "kind": "anime",
+  "title": "Kyoshiro to Towa no Sora Specials",
+  "titles": {
+    "default": "Kyoshiro to Towa no Sora Specials",
+    "romaji": "Kyoshiro to Towa no Sora Specials",
+    "english": "Shattered Angels Specials",
+    "native": "京四郎と永遠の空"
+  },
+  "synonyms": [
+    "Kyoshiro to Towa no Sora Specials",
+    "Shattered Angels Specials",
+    "京四郎と永遠の空",
+    "Kyoushirou to Towa no Sora",
+    "Kyoshiro and the Eternal Sky",
+    "Shattered Angels",
+    "京四郎和永远的天空",
+    "Kyoushirou to Towa no Sora Specials",
+    "京四郎と永遠（とわ）の空",
+    "Kyoshiro and the Eternal Sky Specials"
+  ],
+  "type": "special",
+  "episodes": 6,
+  "status": "finished",
+  "season": "summer",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2911.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2911",
+      "url": "https://anilist.co/anime/2911"
+    },
+    "k": {
+      "id": "2639",
+      "url": "https://kitsu.io/anime/2639"
+    },
+    "mal": {
+      "id": "2911",
+      "url": "https://myanimelist.net/anime/2911"
+    }
+  }
+}

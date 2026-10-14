@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7488,
+  "slug": "glass-no-kamen-desu-ga-z-ova",
+  "kind": "anime",
+  "title": "Glass no Kamen Desu ga Z OVA",
+  "titles": {
+    "default": "Glass no Kamen Desu ga Z OVA",
+    "romaji": "Glass no Kamen Desu ga Z OVA",
+    "native": "ガラスの仮面ですがZ 未放映2話"
+  },
+  "synonyms": [
+    "Glass no Kamen Desu ga Z OVA",
+    "ガラスの仮面ですがZ 未放映2話",
+    "Zetsumetsu Kigu Shoujo: Amazing Twins",
+    "絶滅危愚少女 Amazing Twins"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115759-Iz3zatLBWNmc.png"
+  ],
+  "references": {
+    "al": {
+      "id": "115759",
+      "url": "https://anilist.co/anime/115759"
+    },
+    "k": {
+      "id": "7963",
+      "url": "https://kitsu.io/anime/7963"
+    },
+    "mal": {
+      "id": "34336",
+      "url": "https://myanimelist.net/anime/34336"
+    }
+  }
+}

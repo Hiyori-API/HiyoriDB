@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1541,
+  "slug": "wild-7-another-bouryaku-unga",
+  "kind": "anime",
+  "title": "Wild 7 another Bouryaku Unga",
+  "titles": {
+    "default": "Wild 7 another Bouryaku Unga",
+    "romaji": "Wild 7 another Bouryaku Unga",
+    "english": "Wild 7 Another",
+    "native": "ワイルド7 another 謀略運河"
+  },
+  "synonyms": [
+    "Wild 7 another Bouryaku Unga",
+    "Wild 7 Another",
+    "ワイルド7 another 謀略運河",
+    "Wild 7 Swirling Canal",
+    "Los 7 Salvajes",
+    "Wild 7 Another Bouryaku Unga",
+    "ワイルド7 another　謀略運河"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1745.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1745",
+      "url": "https://anilist.co/anime/1745"
+    },
+    "k": {
+      "id": "1565",
+      "url": "https://kitsu.io/anime/1565"
+    },
+    "mal": {
+      "id": "1745",
+      "url": "https://myanimelist.net/anime/1745"
+    },
+    "t": {
+      "id": "73852",
+      "url": "https://trakt.tv/shows/73852"
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13542,
+  "slug": "otome-kaijuu-caram-liser",
+  "kind": "anime",
+  "title": "Otome Kaijuu Caraméliser",
+  "titles": {
+    "default": "Otome Kaijuu Caraméliser",
+    "romaji": "Otome Kaijuu Caraméliser",
+    "english": "KAIJU GIRL CARAMELISE",
+    "native": "乙女怪獣キャラメリゼ"
+  },
+  "synonyms": [
+    "Otome Kaijuu Caraméliser",
+    "KAIJU GIRL CARAMELISE",
+    "乙女怪獣キャラメリゼ",
+    "สาวน้อยไคจู คาราเมไลซ์",
+    "Full Metal Panic? Fumoffu",
+    "フルメタル・パニック? ふもっふ",
+    "Full Metal Panic Fumoffu",
+    "Fullmetal Panic? Fumoffu"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204466-vXMvIs4VOoQd.png"
+  ],
+  "references": {
+    "al": {
+      "id": "204466",
+      "url": "https://anilist.co/anime/204466"
+    },
+    "cr": {
+      "id": "series/GT00378081/kaiju-girl-caramelise",
+      "url": "https://www.crunchyroll.com/series/series/GT00378081/kaiju-girl-caramelise"
+    },
+    "k": {
+      "id": "52",
+      "url": "https://kitsu.io/anime/52"
+    },
+    "mal": {
+      "id": "63150",
+      "url": "https://myanimelist.net/anime/63150"
+    },
+    "t": {
+      "id": "12432",
+      "url": "https://trakt.tv/shows/12432"
+    },
+    "ttv": {
+      "id": "2377",
+      "url": "https://tubitv.com/series/2377"
+    }
+  }
+}

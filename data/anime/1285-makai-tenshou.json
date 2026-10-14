@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1285,
+  "slug": "makai-tenshou",
+  "kind": "anime",
+  "title": "Makai Tenshou",
+  "titles": {
+    "default": "Makai Tenshou",
+    "romaji": "Makai Tenshou",
+    "english": "Ninja Resurrection",
+    "native": "魔界転生"
+  },
+  "synonyms": [
+    "Makai Tenshou",
+    "Ninja Resurrection",
+    "魔界転生",
+    "Ninja Resurrection: The Revenge of Jubei",
+    "Makai Tensho",
+    "Tekken: The Motion Picture",
+    "Tekken",
+    "鉄拳",
+    "The King Of Iron Fist Tournament The Movie",
+    "Tekken Movie"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "cancelled",
+  "season": "winter",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1455-FCGSDxB8QQzS.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1455",
+      "url": "https://anilist.co/anime/1455"
+    },
+    "k": {
+      "id": "496",
+      "url": "https://kitsu.io/anime/496"
+    },
+    "mal": {
+      "id": "1455",
+      "url": "https://myanimelist.net/anime/1455"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5576,
+  "slug": "aoi-triton",
+  "kind": "anime",
+  "title": "Aoi Triton",
+  "titles": {
+    "default": "Aoi Triton",
+    "romaji": "Aoi Triton",
+    "native": "青いトリトン"
+  },
+  "synonyms": [
+    "Aoi Triton",
+    "青いトリトン",
+    "Umi no Triton Pilot",
+    "Argento Soma Special",
+    "アルジェントソーマ",
+    "Argento Soma OVA",
+    "Argento Soma Episode 24.5"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b148745-a6vP40hrwe5Y.png"
+  ],
+  "references": {
+    "al": {
+      "id": "148745",
+      "url": "https://anilist.co/anime/148745"
+    },
+    "k": {
+      "id": "1609",
+      "url": "https://kitsu.io/anime/1609"
+    },
+    "mal": {
+      "id": "36163",
+      "url": "https://myanimelist.net/anime/36163"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13973,
+  "slug": "gakuen-heaven",
+  "kind": "manga",
+  "title": "Gakuen Heaven",
+  "titles": {
+    "default": "Gakuen Heaven"
+  },
+  "synonyms": [
+    "学園ヘヴン 丹羽編",
+    "Gakuen Heaven: Niwa-hen",
+    "Gakuen Heaven",
+    "学園ヘヴン",
+    "xxxHOLiC",
+    "xxxHolic Rou",
+    "xxxHolic Cage",
+    "xxxHolic•Rou"
+  ],
+  "type": "manga",
+  "chapters": 3,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30666-GmkBnCwZwKzD.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "850",
+      "url": "https://anilist.co/anime/850"
+    },
+    "al_manga": {
+      "id": "850",
+      "url": "https://anilist.co/manga/850"
+    }
+  }
+}

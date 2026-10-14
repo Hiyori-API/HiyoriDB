@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5453,
+  "slug": "rerere-no-tensai-bakabon",
+  "kind": "anime",
+  "title": "Rerere no Tensai Bakabon",
+  "titles": {
+    "default": "Rerere no Tensai Bakabon",
+    "romaji": "Rerere no Tensai Bakabon",
+    "native": "レレレの天才バカボン"
+  },
+  "synonyms": [
+    "Rerere no Tensai Bakabon",
+    "レレレの天才バカボン",
+    "Re Re Re no Tensai Bakabon",
+    "Rerere's Genius Bakabon"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "fall",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10607.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10607",
+      "url": "https://anilist.co/anime/10607"
+    },
+    "k": {
+      "id": "6264",
+      "url": "https://kitsu.io/anime/6264"
+    },
+    "mal": {
+      "id": "10607",
+      "url": "https://myanimelist.net/anime/10607"
+    }
+  }
+}

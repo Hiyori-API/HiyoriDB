@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9784,
+  "slug": "iya-na-kao-sare-nagara-opantsu-misete-moraitai",
+  "kind": "anime",
+  "title": "Iya na Kao sare nagara Opantsu Misete Moraitai",
+  "titles": {
+    "default": "Iya na Kao sare nagara Opantsu Misete Moraitai",
+    "romaji": "Iya na Kao sare nagara Opantsu Misete Moraitai",
+    "english": "Show Me Your Panties While You Give Me That Disgusted Look!",
+    "native": "嫌な顔されながらおパンツ見せてもらいたい"
+  },
+  "synonyms": [
+    "Iya na Kao sare nagara Opantsu Misete Moraitai",
+    "Show Me Your Panties While You Give Me That Disgusted Look!",
+    "嫌な顔されながらおパンツ見せてもらいたい",
+    "I Want You to Make a Disgusted Face and Show Me Your Underwear",
+    "嫌パン",
+    "IyaPan",
+    "Haré+Guu Deluxe",
+    "Jungle wa Itsumo Hare nochi Guu Deluxe",
+    "ジャングルはいつもハレのちグゥ　デラックス",
+    "Jungle wa Itsumo Haré nochi Guu Deluxe",
+    "Jungle wa Itsumo Hale Nochi Guu Deluxe",
+    "Hare+Guu Deluxe"
+  ],
+  "type": "ova",
+  "episodes": 6,
+  "status": "finished",
+  "season": "summer",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx101970-fvdeZLRnXEuX.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101970",
+      "url": "https://anilist.co/anime/101970"
+    },
+    "k": {
+      "id": "229",
+      "url": "https://kitsu.io/anime/229"
+    },
+    "mal": {
+      "id": "37021",
+      "url": "https://myanimelist.net/anime/37021"
+    },
+    "tx": {
+      "id": "iyapan_anime",
+      "url": "https://twitter.com/iyapan_anime"
+    }
+  }
+}

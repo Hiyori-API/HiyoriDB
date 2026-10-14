@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3547,
+  "slug": "reijou-caster-ingyaku-no-wana",
+  "kind": "anime",
+  "title": "Reijou Caster: Ingyaku no Wana",
+  "titles": {
+    "default": "Reijou Caster: Ingyaku no Wana",
+    "romaji": "Reijou Caster: Ingyaku no Wana",
+    "native": "隷嬢キャスター 〜淫虐の罠〜"
+  },
+  "synonyms": [
+    "Reijou Caster: Ingyaku no Wana",
+    "隷嬢キャスター 〜淫虐の罠〜",
+    "Papillon Rose OVA",
+    "Lingerie Senshi Papillon Rose",
+    "ランジェリー戦士パピヨンローゼ",
+    "Lingerie Soldier Papillon Rose"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4604.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4604",
+      "url": "https://anilist.co/anime/4604"
+    },
+    "k": {
+      "id": "1796",
+      "url": "https://kitsu.io/anime/1796"
+    },
+    "mal": {
+      "id": "4604",
+      "url": "https://myanimelist.net/anime/4604"
+    }
+  }
+}

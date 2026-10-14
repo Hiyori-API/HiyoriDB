@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 563,
+  "slug": "saishuu-heiki-kanojo-another-love-song",
+  "kind": "anime",
+  "title": "Saishuu Heiki Kanojo: Another Love Song",
+  "titles": {
+    "default": "Saishuu Heiki Kanojo: Another Love Song",
+    "romaji": "Saishuu Heiki Kanojo: Another Love Song",
+    "english": "Saikano: Another Love Song",
+    "native": "最終兵器彼女Another Love Song"
+  },
+  "synonyms": [
+    "Saishuu Heiki Kanojo: Another Love Song",
+    "Saikano: Another Love Song",
+    "最終兵器彼女Another Love Song",
+    "Saikano OVA",
+    "Saishuuheiki Kanojo - Another Love Song",
+    "Saishuuheiki Kanojo OVA"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b609-JohCZyhylmHK.png"
+  ],
+  "references": {
+    "al": {
+      "id": "609",
+      "url": "https://anilist.co/anime/609"
+    },
+    "k": {
+      "id": "564",
+      "url": "https://kitsu.io/anime/564"
+    },
+    "mal": {
+      "id": "609",
+      "url": "https://myanimelist.net/anime/609"
+    }
+  }
+}

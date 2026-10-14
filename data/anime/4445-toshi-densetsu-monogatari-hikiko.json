@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4445,
+  "slug": "toshi-densetsu-monogatari-hikiko",
+  "kind": "anime",
+  "title": "Toshi Densetsu Monogatari Hikiko",
+  "titles": {
+    "default": "Toshi Densetsu Monogatari Hikiko",
+    "romaji": "Toshi Densetsu Monogatari Hikiko",
+    "native": "都市伝説物語　ひきこ"
+  },
+  "synonyms": [
+    "Toshi Densetsu Monogatari Hikiko",
+    "都市伝説物語　ひきこ",
+    "Urban Legend Story Hikiko"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6809.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6809",
+      "url": "https://anilist.co/anime/6809"
+    },
+    "k": {
+      "id": "4725",
+      "url": "https://kitsu.io/anime/4725"
+    },
+    "mal": {
+      "id": "6809",
+      "url": "https://myanimelist.net/anime/6809"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6324,
+  "slug": "ikoku-meiro-no-crois-e",
+  "kind": "anime",
+  "title": "Ikoku Meiro no Croisée",
+  "titles": {
+    "default": "Ikoku Meiro no Croisée",
+    "romaji": "Ikoku Meiro no Croisée",
+    "english": "Croisée in a Foreign Labyrinth ~ The Animation",
+    "native": "異国迷路のクロワーゼ"
+  },
+  "synonyms": [
+    "Ikoku Meiro no Croisée",
+    "Croisée in a Foreign Labyrinth ~ The Animation",
+    "異国迷路のクロワーゼ",
+    "Ikoku Meiro no Croisée The Animation",
+    "Ikoku Meiro No Croisee The Animation",
+    "La croisée dans un labyrinthe étranger Special",
+    "Croisée in a Foreign Labyrinth The Animation",
+    "異国迷路のクロワーゼ The Animation",
+    "Ikoku Meiro no Croisee The Animation"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9938-1Fqauvn8d1ON.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9938",
+      "url": "https://anilist.co/anime/9938"
+    },
+    "k": {
+      "id": "5950",
+      "url": "https://kitsu.io/anime/5950"
+    },
+    "mal": {
+      "id": "9938",
+      "url": "https://myanimelist.net/anime/9938"
+    },
+    "t": {
+      "id": "63439",
+      "url": "https://trakt.tv/shows/63439"
+    }
+  }
+}

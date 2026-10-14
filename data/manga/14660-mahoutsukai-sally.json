@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14660,
+  "slug": "mahoutsukai-sally",
+  "kind": "manga",
+  "title": "Mahoutsukai Sally",
+  "titles": {
+    "default": "Mahoutsukai Sally"
+  },
+  "synonyms": [
+    "Mahoutsukai Sally",
+    "Magical Witch Sally",
+    "Sally the Witch",
+    "魔法使いサリー",
+    "Kuroi Ame ni Utarete",
+    "黒い雨にうたれて",
+    "Struck by Black Rain"
+  ],
+  "type": "manga",
+  "chapters": 16,
+  "volumes": 1,
+  "status": "finished",
+  "year": 1966,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx42461-tBqqbJjWpVPs.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3356",
+      "url": "https://anilist.co/anime/3356"
+    },
+    "al_manga": {
+      "id": "3356",
+      "url": "https://anilist.co/manga/3356"
+    }
+  }
+}

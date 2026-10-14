@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3532,
+  "slug": "prism-ark-specials",
+  "kind": "anime",
+  "title": "Prism Ark Specials",
+  "titles": {
+    "default": "Prism Ark Specials",
+    "romaji": "Prism Ark Specials",
+    "native": "プリズム・アーク ぷりあーく"
+  },
+  "synonyms": [
+    "Prism Ark Specials",
+    "プリズム・アーク ぷりあーく",
+    "Prism Ark: Pri Ark",
+    "Kyoushirou to Towa no Sora Specials",
+    "京四郎と永遠（とわ）の空",
+    "Kyoshiro to Towa no Sora Specials",
+    "Kyoshiro and the Eternal Sky Specials",
+    "Shattered Angels Specials"
+  ],
+  "type": "special",
+  "episodes": 6,
+  "status": "finished",
+  "season": "winter",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4566.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4566",
+      "url": "https://anilist.co/anime/4566"
+    },
+    "k": {
+      "id": "2639",
+      "url": "https://kitsu.io/anime/2639"
+    },
+    "mal": {
+      "id": "4566",
+      "url": "https://myanimelist.net/anime/4566"
+    }
+  }
+}

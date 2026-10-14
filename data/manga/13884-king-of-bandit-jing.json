@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13884,
+  "slug": "king-of-bandit-jing",
+  "kind": "manga",
+  "title": "KING OF BANDIT JING",
+  "titles": {
+    "default": "KING OF BANDIT JING"
+  },
+  "synonyms": [
+    "King of Bandits Jing: Bottle",
+    "キング・オブ・バンディット・ジン",
+    "Jing: King of Bandits - Twilight Tales",
+    "KING OF BANDIT JING",
+    "King of Bandit Jing"
+  ],
+  "type": "manga",
+  "chapters": 35,
+  "volumes": 7,
+  "status": "finished",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30394-QNLcxNBNtwNM.png"
+  ],
+  "references": {
+    "al": {
+      "id": "107",
+      "url": "https://anilist.co/anime/107"
+    },
+    "al_manga": {
+      "id": "107",
+      "url": "https://anilist.co/manga/107"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14235,
+  "slug": "liar-game",
+  "kind": "manga",
+  "title": "LIAR GAME",
+  "titles": {
+    "default": "LIAR GAME"
+  },
+  "synonyms": [
+    "ライアーゲーム",
+    "Liar Game: El Juego de los Mentirosos",
+    "라이어 게임",
+    "LIAR GAME",
+    "Renai Soukanzu",
+    "恋愛相姦図",
+    "Renai Sokanzu",
+    "Pink Sweets"
+  ],
+  "type": "manga",
+  "chapters": 201,
+  "volumes": 19,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31649-zKUMKIrXO8u5.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "217460",
+      "url": "https://anilist.co/anime/197754"
+    },
+    "al_manga": {
+      "id": "217460",
+      "url": "https://anilist.co/manga/217460"
+    }
+  }
+}

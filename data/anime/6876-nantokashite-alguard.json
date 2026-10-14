@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6876,
+  "slug": "nantokashite-alguard",
+  "kind": "anime",
+  "title": "Nantokashite Alguard",
+  "titles": {
+    "default": "Nantokashite Alguard",
+    "romaji": "Nantokashite Alguard",
+    "native": "なんとかして アルガード"
+  },
+  "synonyms": [
+    "Nantokashite Alguard",
+    "なんとかして アルガード"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13543.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "13543",
+      "url": "https://anilist.co/anime/13543"
+    },
+    "k": {
+      "id": "6990",
+      "url": "https://kitsu.io/anime/6990"
+    },
+    "mal": {
+      "id": "13543",
+      "url": "https://myanimelist.net/anime/13543"
+    }
+  }
+}

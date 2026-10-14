@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3834,
+  "slug": "happy-happy-clover",
+  "kind": "anime",
+  "title": "Happy Happy Clover",
+  "titles": {
+    "default": "Happy Happy Clover",
+    "romaji": "Happy Happy Clover",
+    "native": "はぴはぴクローバー"
+  },
+  "synonyms": [
+    "Happy Happy Clover",
+    "はぴはぴクローバー",
+    "Happy Clover",
+    "Baccano!",
+    "バッカーノ！"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5276-VCu3CuWhIEAb.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5276",
+      "url": "https://anilist.co/anime/5276"
+    },
+    "k": {
+      "id": "2039",
+      "url": "https://kitsu.io/anime/2039"
+    },
+    "mal": {
+      "id": "5276",
+      "url": "https://myanimelist.net/anime/5276"
+    },
+    "t": {
+      "id": "33974",
+      "url": "https://trakt.tv/shows/33974"
+    }
+  }
+}

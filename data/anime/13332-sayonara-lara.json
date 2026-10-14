@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13332,
+  "slug": "sayonara-lara",
+  "kind": "anime",
+  "title": "Sayonara Lara",
+  "titles": {
+    "default": "Sayonara Lara",
+    "romaji": "Sayonara Lara",
+    "english": "Goodbye, Lara",
+    "native": "さよならララ"
+  },
+  "synonyms": [
+    "Sayonara Lara",
+    "Goodbye, Lara",
+    "さよならララ",
+    "さよララ",
+    "SayoLara",
+    "Прощай, Лара",
+    "DearS",
+    "ディアーズ"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177637-8onaQWqKW1C3.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "177637",
+      "url": "https://anilist.co/anime/177637"
+    },
+    "cr": {
+      "id": "series/GT00378059/goodbye-lara",
+      "url": "https://www.crunchyroll.com/series/series/GT00378059/goodbye-lara"
+    },
+    "k": {
+      "id": "44",
+      "url": "https://kitsu.io/anime/44"
+    },
+    "mal": {
+      "id": "58878",
+      "url": "https://myanimelist.net/anime/58878"
+    },
+    "t": {
+      "id": "61051",
+      "url": "https://trakt.tv/shows/61051"
+    }
+  }
+}

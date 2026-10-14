@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9210,
+  "slug": "hoozuki-no-reitetsu-2",
+  "kind": "anime",
+  "title": "Hoozuki no Reitetsu 2",
+  "titles": {
+    "default": "Hoozuki no Reitetsu 2",
+    "romaji": "Hoozuki no Reitetsu 2",
+    "english": "Hozuki’s Coolheadedness 2",
+    "native": "鬼灯の冷徹 2"
+  },
+  "synonyms": [
+    "Hoozuki no Reitetsu 2",
+    "Hozuki’s Coolheadedness 2",
+    "鬼灯の冷徹 2",
+    "Hozuki no Reitetsu",
+    "Cool-headed Hoozuki 2",
+    "Hoozuki no Reitetsu 2nd Season: First Cour",
+    "Cool-headed Hoozuki",
+    "Hozuki's Coolheadedness 2",
+    "鬼灯の冷徹 第弐期",
+    "Hoozuki no Reitetsu 2nd Season"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98438-DdWr6KxfD5v4.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98438",
+      "url": "https://anilist.co/anime/98438"
+    },
+    "mal": {
+      "id": "35075",
+      "url": "https://myanimelist.net/anime/35075"
+    },
+    "tx": {
+      "id": "hozuki_anime",
+      "url": "https://twitter.com/hozuki_anime"
+    }
+  }
+}

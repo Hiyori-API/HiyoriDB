@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6918,
+  "slug": "katayoku-no-khronos-gear",
+  "kind": "anime",
+  "title": "Katayoku no Khronos Gear",
+  "titles": {
+    "default": "Katayoku no Khronos Gear",
+    "romaji": "Katayoku no Khronos Gear",
+    "native": "片翼のクロノスギア"
+  },
+  "synonyms": [
+    "Katayoku no Khronos Gear",
+    "片翼のクロノスギア"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/14039.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "14039",
+      "url": "https://anilist.co/anime/14039"
+    },
+    "k": {
+      "id": "7070",
+      "url": "https://kitsu.io/anime/7070"
+    },
+    "mal": {
+      "id": "14039",
+      "url": "https://myanimelist.net/anime/14039"
+    }
+  }
+}

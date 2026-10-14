@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15242,
+  "slug": "kamyla",
+  "kind": "manga",
+  "title": "Kamyla",
+  "titles": {
+    "default": "Kamyla"
+  },
+  "synonyms": [
+    "Kamiira",
+    "カミイラ KAMYLA",
+    "Mushrambo",
+    "マシュランボー",
+    "Mashuranboo"
+  ],
+  "type": "manga",
+  "chapters": 8,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/26472.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3921",
+      "url": "https://anilist.co/anime/3921"
+    },
+    "al_manga": {
+      "id": "3921",
+      "url": "https://anilist.co/manga/3921"
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10468,
+  "slug": "appare-ranman",
+  "kind": "anime",
+  "title": "Appare-Ranman!",
+  "titles": {
+    "default": "Appare-Ranman!",
+    "romaji": "Appare-Ranman!",
+    "english": "APPARE-RANMAN!",
+    "native": "天晴爛漫！"
+  },
+  "synonyms": [
+    "Appare-Ranman!",
+    "APPARE-RANMAN!",
+    "天晴爛漫！",
+    "Appare Ranman!",
+    "Prétear: The New Legend of Snow White",
+    "Shin Shirayuki-hime Densetsu Prétear",
+    "新白雪姫伝説プリーティア",
+    "Shin Shirayuki-hime Densetsu Pretear"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112444-S7bhKskrAqSI.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "112444",
+      "url": "https://anilist.co/anime/112444"
+    },
+    "cr": {
+      "id": "appare-ranman",
+      "url": "https://www.crunchyroll.com/series/appare-ranman"
+    },
+    "k": {
+      "id": "79",
+      "url": "https://kitsu.io/anime/79"
+    },
+    "mal": {
+      "id": "40532",
+      "url": "https://myanimelist.net/anime/40532"
+    },
+    "t": {
+      "id": "42703",
+      "url": "https://trakt.tv/shows/42703"
+    },
+    "tx": {
+      "id": "appareranman",
+      "url": "https://twitter.com/appareranman"
+    }
+  }
+}

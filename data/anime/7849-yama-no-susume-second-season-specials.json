@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7849,
+  "slug": "yama-no-susume-second-season-specials",
+  "kind": "anime",
+  "title": "Yama no Susume: Second Season Specials",
+  "titles": {
+    "default": "Yama no Susume: Second Season Specials",
+    "romaji": "Yama no Susume: Second Season Specials",
+    "native": "ヤマノススメ セカンドシーズン"
+  },
+  "synonyms": [
+    "Yama no Susume: Second Season Specials",
+    "ヤマノススメ セカンドシーズン",
+    "Yama no Susume 2 Specials",
+    "Encouragement of Climb Season 2 Specials",
+    "Encouragement of Climb 2nd Season Specials",
+    "Yama no Susume 2nd Season Episode 6.5 and Episode 25",
+    "Encouragement of Climb 2nd Season",
+    "Yama no Susume 2nd Season Specials"
+  ],
+  "type": "special",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx21003-PzoNo7cztKPJ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21003",
+      "url": "https://anilist.co/anime/21003"
+    },
+    "k": {
+      "id": "9783",
+      "url": "https://kitsu.io/anime/9783"
+    },
+    "mal": {
+      "id": "27887",
+      "url": "https://myanimelist.net/anime/27887"
+    },
+    "tx": {
+      "id": "yamanosusume",
+      "url": "https://twitter.com/yamanosusume"
+    }
+  }
+}

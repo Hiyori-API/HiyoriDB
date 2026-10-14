@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7286,
+  "slug": "ketsuekigata-kun",
+  "kind": "anime",
+  "title": "Ketsuekigata-kun!",
+  "titles": {
+    "default": "Ketsuekigata-kun!",
+    "romaji": "Ketsuekigata-kun!",
+    "native": "血液型くん!"
+  },
+  "synonyms": [
+    "Ketsuekigata-kun!",
+    "血液型くん!",
+    "血液型くん！"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b17731-V3oZtJnbmWjl.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "17731",
+      "url": "https://anilist.co/anime/17731"
+    },
+    "k": {
+      "id": "7651",
+      "url": "https://kitsu.io/anime/7651"
+    },
+    "mal": {
+      "id": "17731",
+      "url": "https://myanimelist.net/anime/17731"
+    },
+    "t": {
+      "id": "70202",
+      "url": "https://trakt.tv/shows/70202"
+    },
+    "tx": {
+      "id": "ketsuekigatakun",
+      "url": "https://twitter.com/ketsuekigatakun"
+    }
+  }
+}

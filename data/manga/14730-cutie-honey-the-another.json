@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14730,
+  "slug": "cutie-honey-the-another",
+  "kind": "manga",
+  "title": "Cutie Honey THE ANOTHER",
+  "titles": {
+    "default": "Cutie Honey THE ANOTHER"
+  },
+  "synonyms": [
+    "キューティーハニー THE ANOTHER",
+    "Onward Towards Our Noble Deaths",
+    "Souin Gyokusai seyo!",
+    "総員玉砕せよ！",
+    "The Banzai! Charge",
+    "Operation Death",
+    "Opération Mort",
+    "Let us all die honorably!"
+  ],
+  "type": "manga",
+  "chapters": 19,
+  "volumes": 1,
+  "status": "finished",
+  "year": 1973,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx109212-xnbuTGKwRgON.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1661",
+      "url": "https://anilist.co/anime/1661"
+    },
+    "al_manga": {
+      "id": "1661",
+      "url": "https://anilist.co/manga/1661"
+    }
+  }
+}

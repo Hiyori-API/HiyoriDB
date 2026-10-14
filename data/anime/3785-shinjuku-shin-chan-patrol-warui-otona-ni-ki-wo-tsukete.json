@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3785,
+  "slug": "shinjuku-shin-chan-patrol-warui-otona-ni-ki-wo-tsukete",
+  "kind": "anime",
+  "title": "Shinjuku Shin-chan Patrol: Warui Otona ni Ki wo Tsukete",
+  "titles": {
+    "default": "Shinjuku Shin-chan Patrol: Warui Otona ni Ki wo Tsukete",
+    "romaji": "Shinjuku Shin-chan Patrol: Warui Otona ni Ki wo Tsukete",
+    "native": "新宿シンちゃんパトロール わるい大人に気をつけて"
+  },
+  "synonyms": [
+    "Shinjuku Shin-chan Patrol: Warui Otona ni Ki wo Tsukete",
+    "新宿シンちゃんパトロール わるい大人に気をつけて",
+    "Shinjuku Shin-chan Patrol: Be Careful of Bad Adults"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5193.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5193",
+      "url": "https://anilist.co/anime/5193"
+    },
+    "k": {
+      "id": "3974",
+      "url": "https://kitsu.io/anime/3974"
+    },
+    "mal": {
+      "id": "5193",
+      "url": "https://myanimelist.net/anime/5193"
+    }
+  }
+}

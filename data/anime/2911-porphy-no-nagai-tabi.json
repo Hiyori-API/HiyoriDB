@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2911,
+  "slug": "porphy-no-nagai-tabi",
+  "kind": "anime",
+  "title": "Porphy no Nagai Tabi",
+  "titles": {
+    "default": "Porphy no Nagai Tabi",
+    "romaji": "Porphy no Nagai Tabi",
+    "english": "The Orphans of Simitra",
+    "native": "ポルフィの長い旅"
+  },
+  "synonyms": [
+    "Porphy no Nagai Tabi",
+    "The Orphans of Simitra",
+    "ポルフィの長い旅",
+    "Porufi no Nagai Tabi",
+    "The Long Journey of Porphy",
+    "Porfy no Nagai Tabi",
+    "The Long Journey of Porfy",
+    "The Long Journey of Porfyi",
+    "Porfy's Long Journey"
+  ],
+  "type": "tv",
+  "episodes": 52,
+  "status": "finished",
+  "season": "winter",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3424.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3424",
+      "url": "https://anilist.co/anime/3424"
+    },
+    "k": {
+      "id": "2999",
+      "url": "https://kitsu.io/anime/2999"
+    },
+    "mal": {
+      "id": "3424",
+      "url": "https://myanimelist.net/anime/3424"
+    },
+    "t": {
+      "id": "43599",
+      "url": "https://trakt.tv/shows/43599"
+    }
+  }
+}

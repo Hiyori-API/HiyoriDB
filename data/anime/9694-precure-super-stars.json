@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9694,
+  "slug": "precure-super-stars",
+  "kind": "anime",
+  "title": "Precure Super Stars!",
+  "titles": {
+    "default": "Precure Super Stars!",
+    "romaji": "Precure Super Stars!",
+    "native": "映画プリキュアスーパースターズ"
+  },
+  "synonyms": [
+    "Precure Super Stars!",
+    "映画プリキュアスーパースターズ",
+    "Precure Super Stars! Movie",
+    "Mint",
+    "MINT"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101101-Bo9O30xyEy4H.png"
+  ],
+  "references": {
+    "al": {
+      "id": "101101",
+      "url": "https://anilist.co/anime/101101"
+    },
+    "k": {
+      "id": "8098",
+      "url": "https://kitsu.io/anime/8098"
+    },
+    "mal": {
+      "id": "36995",
+      "url": "https://myanimelist.net/anime/36995"
+    },
+    "tx": {
+      "id": "precure_movie",
+      "url": "https://twitter.com/precure_movie"
+    }
+  }
+}

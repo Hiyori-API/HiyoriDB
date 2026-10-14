@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4731,
+  "slug": "ganso-tensai-bakabon",
+  "kind": "anime",
+  "title": "Ganso Tensai Bakabon",
+  "titles": {
+    "default": "Ganso Tensai Bakabon",
+    "romaji": "Ganso Tensai Bakabon",
+    "native": "元祖天才バカボン"
+  },
+  "synonyms": [
+    "Ganso Tensai Bakabon",
+    "元祖天才バカボン",
+    "Original Genius Bakabon",
+    "Original Bakabon the Genius Fool",
+    "The Genius Bakabon"
+  ],
+  "type": "tv",
+  "episodes": 103,
+  "status": "finished",
+  "season": "fall",
+  "year": 1975,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b11268-fHuuSkWdMuAB.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11268",
+      "url": "https://anilist.co/anime/11268"
+    },
+    "k": {
+      "id": "6485",
+      "url": "https://kitsu.io/anime/6485"
+    },
+    "mal": {
+      "id": "11268",
+      "url": "https://myanimelist.net/anime/11268"
+    }
+  }
+}

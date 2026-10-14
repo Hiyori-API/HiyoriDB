@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2736,
+  "slug": "bobby-ni-kubittake",
+  "kind": "anime",
+  "title": "Bobby ni Kubittake",
+  "titles": {
+    "default": "Bobby ni Kubittake",
+    "romaji": "Bobby ni Kubittake",
+    "native": "ボビーに首ったけ"
+  },
+  "synonyms": [
+    "Bobby ni Kubittake",
+    "ボビーに首ったけ",
+    "Bobby's Girl",
+    "Bobby's In Deep",
+    "Penguin's Memory: Shiawase Monogatari",
+    "ペンギンズ・メモリー幸福物語",
+    "A Penguin's Memories"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx3120-BulW2go7PrrW.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3120",
+      "url": "https://anilist.co/anime/3120"
+    },
+    "k": {
+      "id": "7427",
+      "url": "https://kitsu.io/anime/7427"
+    },
+    "mal": {
+      "id": "3120",
+      "url": "https://myanimelist.net/anime/3120"
+    }
+  }
+}

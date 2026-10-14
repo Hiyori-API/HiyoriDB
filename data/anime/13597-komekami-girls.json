@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13597,
+  "slug": "komekami-girls",
+  "kind": "anime",
+  "title": "Komekami! Girls",
+  "titles": {
+    "default": "Komekami! Girls",
+    "romaji": "Komekami! Girls",
+    "native": "こめかみっ！Girls"
+  },
+  "synonyms": [
+    "Komekami! Girls",
+    "こめかみっ！Girls",
+    "こめかみっ！ガールズ",
+    "This Ugly Yet Beautiful World",
+    "Kono Minikuku mo Utsukushii Sekai",
+    "この醜くも美しい世界"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209940-AmmMcfBXmB3c.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "209940",
+      "url": "https://anilist.co/anime/209940"
+    },
+    "k": {
+      "id": "124",
+      "url": "https://kitsu.io/anime/124"
+    },
+    "mal": {
+      "id": "63709",
+      "url": "https://myanimelist.net/anime/63709"
+    },
+    "t": {
+      "id": "34001",
+      "url": "https://trakt.tv/shows/34001"
+    }
+  }
+}

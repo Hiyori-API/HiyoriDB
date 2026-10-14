@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11310,
+  "slug": "yubisaki-kara-honki-no-netsujou-2-koibito-wa-shouboushi",
+  "kind": "anime",
+  "title": "Yubisaki Kara Honki no Netsujou 2: Koibito wa Shouboushi",
+  "titles": {
+    "default": "Yubisaki Kara Honki no Netsujou 2: Koibito wa Shouboushi",
+    "romaji": "Yubisaki Kara Honki no Netsujou 2: Koibito wa Shouboushi",
+    "english": "Fire in His Fingertips 2: My Boyfriend is a Fireman",
+    "native": "指先から本気の熱情2-恋人は消防士-"
+  },
+  "synonyms": [
+    "Yubisaki Kara Honki no Netsujou 2: Koibito wa Shouboushi",
+    "Fire in His Fingertips 2: My Boyfriend is a Fireman",
+    "指先から本気の熱情2-恋人は消防士-",
+    "O Calor dos seus Dedos 2",
+    "Fuego en sus Dedos (Parte 2)",
+    "Pokémon Evolutions",
+    "Pokemon Evolutions"
+  ],
+  "type": "ona",
+  "episodes": 8,
+  "status": "finished",
+  "season": "summer",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128947-s2afCAL5MKCY.png"
+  ],
+  "references": {
+    "al": {
+      "id": "128947",
+      "url": "https://anilist.co/anime/128947"
+    },
+    "mal": {
+      "id": "46701",
+      "url": "https://myanimelist.net/anime/46701"
+    },
+    "tx": {
+      "id": "ComicFestaAnime",
+      "url": "https://twitter.com/ComicFestaAnime"
+    }
+  }
+}

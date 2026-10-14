@@ -1,0 +1,59 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11646,
+  "slug": "aharen-san-wa-hakarenai",
+  "kind": "anime",
+  "title": "Aharen-san wa Hakarenai",
+  "titles": {
+    "default": "Aharen-san wa Hakarenai",
+    "romaji": "Aharen-san wa Hakarenai",
+    "native": "阿波連さんははかれない"
+  },
+  "synonyms": [
+    "Aharen-san wa Hakarenai",
+    "阿波連さんははかれない",
+    "Aharen Is Indecipherable",
+    "Aharen Is Unfathomable",
+    "This Ugly Yet Beautiful World",
+    "Kono Minikuku mo Utsukushii Sekai",
+    "この醜くも美しい世界"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137281-i4UHcGkUi7j6.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "137281",
+      "url": "https://anilist.co/anime/137281"
+    },
+    "cr": {
+      "id": "aharen-san-wa-hakarenai",
+      "url": "https://www.crunchyroll.com/series/aharen-san-wa-hakarenai"
+    },
+    "k": {
+      "id": "124",
+      "url": "https://kitsu.io/anime/124"
+    },
+    "mal": {
+      "id": "49520",
+      "url": "https://myanimelist.net/anime/49520"
+    },
+    "nf": {
+      "id": "81595558",
+      "url": "https://www.netflix.com/title/81595558"
+    },
+    "t": {
+      "id": "34001",
+      "url": "https://trakt.tv/shows/34001"
+    },
+    "tx": {
+      "id": "aharen_pr",
+      "url": "https://twitter.com/aharen_pr"
+    }
+  }
+}

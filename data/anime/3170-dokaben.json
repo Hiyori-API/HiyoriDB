@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3170,
+  "slug": "dokaben",
+  "kind": "anime",
+  "title": "Dokaben",
+  "titles": {
+    "default": "Dokaben",
+    "romaji": "Dokaben",
+    "native": "ドカベン"
+  },
+  "synonyms": [
+    "Dokaben",
+    "ドカベン"
+  ],
+  "type": "tv",
+  "episodes": 163,
+  "status": "finished",
+  "season": "fall",
+  "year": 1976,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3825-hrpriEuwUshY.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3825",
+      "url": "https://anilist.co/anime/3825"
+    },
+    "k": {
+      "id": "3279",
+      "url": "https://kitsu.io/anime/3279"
+    },
+    "mal": {
+      "id": "3825",
+      "url": "https://myanimelist.net/anime/3825"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4343,
+  "slug": "fresh-precure-omocha-no-kuni-wa-himitsu-ga-ippai",
+  "kind": "anime",
+  "title": "Fresh Precure! Omocha no Kuni wa Himitsu ga Ippai!?",
+  "titles": {
+    "default": "Fresh Precure! Omocha no Kuni wa Himitsu ga Ippai!?",
+    "romaji": "Fresh Precure! Omocha no Kuni wa Himitsu ga Ippai!?",
+    "native": "フレッシュプリキュア！ おもちゃの国は秘密がいっぱい！？"
+  },
+  "synonyms": [
+    "Fresh Precure! Omocha no Kuni wa Himitsu ga Ippai!?",
+    "フレッシュプリキュア！ おもちゃの国は秘密がいっぱい！？",
+    "Fresh Pretty Cure! - Le Pretty Cure nel Regno dei Giocattoli",
+    "Kikansha Yaemon",
+    "きかんしゃやえもん"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6527-hBc86bVzJHaX.png"
+  ],
+  "references": {
+    "al": {
+      "id": "6527",
+      "url": "https://anilist.co/anime/6527"
+    },
+    "k": {
+      "id": "5357",
+      "url": "https://kitsu.io/anime/5357"
+    },
+    "mal": {
+      "id": "6527",
+      "url": "https://myanimelist.net/anime/6527"
+    }
+  }
+}

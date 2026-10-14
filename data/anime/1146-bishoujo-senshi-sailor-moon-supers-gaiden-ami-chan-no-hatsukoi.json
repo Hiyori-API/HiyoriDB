@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1146,
+  "slug": "bishoujo-senshi-sailor-moon-supers-gaiden-ami-chan-no-hatsukoi",
+  "kind": "anime",
+  "title": "Bishoujo Senshi Sailor Moon SuperS Gaiden: Ami-chan no Hatsukoi",
+  "titles": {
+    "default": "Bishoujo Senshi Sailor Moon SuperS Gaiden: Ami-chan no Hatsukoi",
+    "romaji": "Bishoujo Senshi Sailor Moon SuperS Gaiden: Ami-chan no Hatsukoi",
+    "english": "Sailor Moon SuperS Plus: Ami's First Love",
+    "native": "美少女戦士セーラームーンSuperS 外伝 亜美ちゃんの初恋"
+  },
+  "synonyms": [
+    "Bishoujo Senshi Sailor Moon SuperS Gaiden: Ami-chan no Hatsukoi",
+    "Sailor Moon SuperS Plus: Ami's First Love",
+    "美少女戦士セーラームーンSuperS 外伝 亜美ちゃんの初恋",
+    "Il primo amore di Amy",
+    "Pierwsza miłość Ami"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1278-Nfyto6U4HTHm.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1278",
+      "url": "https://anilist.co/anime/1278"
+    },
+    "k": {
+      "id": "1153",
+      "url": "https://kitsu.io/anime/1153"
+    },
+    "mal": {
+      "id": "1278",
+      "url": "https://myanimelist.net/anime/1278"
+    }
+  }
+}

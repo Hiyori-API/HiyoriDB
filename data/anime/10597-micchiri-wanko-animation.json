@@ -1,0 +1,59 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10597,
+  "slug": "micchiri-wanko-animation",
+  "kind": "anime",
+  "title": "Micchiri Wanko! Animation",
+  "titles": {
+    "default": "Micchiri Wanko! Animation",
+    "romaji": "Micchiri Wanko! Animation",
+    "native": "みっちりわんこ！あにめ～しょん"
+  },
+  "synonyms": [
+    "Micchiri Wanko! Animation",
+    "みっちりわんこ！あにめ～しょん",
+    "Honey and Clover",
+    "Hachimitsu to Clover",
+    "ハチミツとクローバー",
+    "HachiKuro",
+    "Honey & Clover"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "spring",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116789-QCRGjlJzvLjl.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "116789",
+      "url": "https://anilist.co/anime/116789"
+    },
+    "cr": {
+      "id": "honey-and-clover",
+      "url": "https://www.crunchyroll.com/series/honey-and-clover"
+    },
+    "k": {
+      "id": "7",
+      "url": "https://kitsu.io/anime/7"
+    },
+    "mal": {
+      "id": "41470",
+      "url": "https://myanimelist.net/anime/41470"
+    },
+    "t": {
+      "id": "35263",
+      "url": "https://trakt.tv/shows/35263"
+    },
+    "tvt": {
+      "id": "kinder",
+      "url": "http://www.tv-tokyo.co.jp/anime/kinder"
+    },
+    "tx": {
+      "id": "mitchiri_wanko",
+      "url": "https://twitter.com/mitchiri_wanko"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5301,
+  "slug": "kobo-chan-special-matsuri-ga-ippai",
+  "kind": "anime",
+  "title": "Kobo-chan Special: Matsuri ga Ippai!",
+  "titles": {
+    "default": "Kobo-chan Special: Matsuri ga Ippai!",
+    "romaji": "Kobo-chan Special: Matsuri ga Ippai!",
+    "native": "コボちゃんスペシャル 祭りがいっぱい!"
+  },
+  "synonyms": [
+    "Kobo-chan Special: Matsuri ga Ippai!",
+    "コボちゃんスペシャル 祭りがいっぱい!",
+    "Kobo Nazo-jou no Nazo",
+    "Ameagari no Yakusoku",
+    "Bokutachi no Kekkonshiki",
+    "Heisei Mikoshi Gassen",
+    "Lupin the Third: Dragon of Doom",
+    "Lupin Sansei: Moeyo Zantetsuken!",
+    "Lupin III: Dragon of Doom",
+    "ルパン三世『燃えよ斬鉄剣』",
+    "Rupan Sansei: Moeyo Zantetsuken",
+    "Lupin III: Burn",
+    "Zantetsuken!"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b181820-ocCNLxx7EcvY.png"
+  ],
+  "references": {
+    "al": {
+      "id": "181820",
+      "url": "https://anilist.co/anime/181820"
+    },
+    "k": {
+      "id": "1270",
+      "url": "https://kitsu.io/anime/1270"
+    },
+    "mal": {
+      "id": "39343",
+      "url": "https://myanimelist.net/anime/39343"
+    }
+  }
+}

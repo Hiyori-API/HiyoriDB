@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 439,
+  "slug": "hotori-tada-saiwai-wo-koinegau",
+  "kind": "anime",
+  "title": "Hotori: Tada Saiwai wo Koinegau",
+  "titles": {
+    "default": "Hotori: Tada Saiwai wo Koinegau",
+    "romaji": "Hotori: Tada Saiwai wo Koinegau",
+    "english": "Hotori ~Simply Wishing For Hope~",
+    "native": "ほとり～たださいわいを希う"
+  },
+  "synonyms": [
+    "Hotori: Tada Saiwai wo Koinegau",
+    "Hotori ~Simply Wishing For Hope~",
+    "ほとり～たださいわいを希う"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/475.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "475",
+      "url": "https://anilist.co/anime/475"
+    },
+    "k": {
+      "id": "437",
+      "url": "https://kitsu.io/anime/437"
+    },
+    "mal": {
+      "id": "475",
+      "url": "https://myanimelist.net/anime/475"
+    }
+  }
+}

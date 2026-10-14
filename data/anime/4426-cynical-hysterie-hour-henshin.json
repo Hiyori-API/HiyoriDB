@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4426,
+  "slug": "cynical-hysterie-hour-henshin",
+  "kind": "anime",
+  "title": "Cynical Hysterie Hour: Henshin!",
+  "titles": {
+    "default": "Cynical Hysterie Hour: Henshin!",
+    "romaji": "Cynical Hysterie Hour: Henshin!",
+    "native": "シニカル・ヒステリー・アワー へんしん！"
+  },
+  "synonyms": [
+    "Cynical Hysterie Hour: Henshin!",
+    "シニカル・ヒステリー・アワー へんしん！",
+    "Cynical Hysterie Hour: Ch Ch Ch Change"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6760.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6760",
+      "url": "https://anilist.co/anime/6760"
+    },
+    "k": {
+      "id": "4702",
+      "url": "https://kitsu.io/anime/4702"
+    },
+    "mal": {
+      "id": "6760",
+      "url": "https://myanimelist.net/anime/6760"
+    }
+  }
+}

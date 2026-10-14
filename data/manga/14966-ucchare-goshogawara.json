@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14966,
+  "slug": "ucchare-goshogawara",
+  "kind": "manga",
+  "title": "Ucchare Goshogawara",
+  "titles": {
+    "default": "Ucchare Goshogawara"
+  },
+  "synonyms": [
+    "うっちゃれ五所瓦",
+    "Vaelber Saga",
+    "ヴェルバーサーガ"
+  ],
+  "type": "manga",
+  "chapters": 116,
+  "volumes": 12,
+  "status": "finished",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx91455-EImTKGWAli3C.png"
+  ],
+  "references": {
+    "al": {
+      "id": "12899",
+      "url": "https://anilist.co/anime/12899"
+    },
+    "al_manga": {
+      "id": "12899",
+      "url": "https://anilist.co/manga/12899"
+    }
+  }
+}

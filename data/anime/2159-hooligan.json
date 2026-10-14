@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2159,
+  "slug": "hooligan",
+  "kind": "anime",
+  "title": "Hooligan",
+  "titles": {
+    "default": "Hooligan",
+    "romaji": "Hooligan",
+    "native": "フーリガン"
+  },
+  "synonyms": [
+    "Hooligan",
+    "フーリガン",
+    "Hooligan: Quest for the Seven Holy Dildos",
+    "Hurigan",
+    "Samurai X: Reflection",
+    "Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou-hen",
+    "るろうに剣心 -明治剣客浪漫譚- 星霜編",
+    "Rurouni Kenshin: Seisouhen",
+    "Rurouni Kenshin OVA 2"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2439-2yUL5CXgqfwP.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2439",
+      "url": "https://anilist.co/anime/2439"
+    },
+    "k": {
+      "id": "368",
+      "url": "https://kitsu.io/anime/368"
+    },
+    "mal": {
+      "id": "2439",
+      "url": "https://myanimelist.net/anime/2439"
+    }
+  }
+}

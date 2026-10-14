@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1389,
+  "slug": "happiness",
+  "kind": "anime",
+  "title": "Happiness!",
+  "titles": {
+    "default": "Happiness!",
+    "romaji": "Happiness!",
+    "native": "はぴねす！"
+  },
+  "synonyms": [
+    "Happiness!",
+    "はぴねす！",
+    "¡FELICIDAD!"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1570.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1570",
+      "url": "https://anilist.co/anime/1570"
+    },
+    "cr": {
+      "id": "happiness",
+      "url": "https://www.crunchyroll.com/series/happiness"
+    },
+    "k": {
+      "id": "1410",
+      "url": "https://kitsu.io/anime/1410"
+    },
+    "mal": {
+      "id": "1570",
+      "url": "https://myanimelist.net/anime/1570"
+    },
+    "t": {
+      "id": "94419",
+      "url": "https://trakt.tv/shows/94419"
+    }
+  }
+}

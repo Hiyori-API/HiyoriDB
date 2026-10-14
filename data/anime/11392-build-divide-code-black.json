@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11392,
+  "slug": "build-divide-code-black",
+  "kind": "anime",
+  "title": "Build Divide: Code Black",
+  "titles": {
+    "default": "Build Divide: Code Black",
+    "romaji": "Build Divide: Code Black",
+    "english": "BUILD-DIVIDE -#000000- CODE BLACK",
+    "native": "ビルディバイド -#000000​(コードブラック)-"
+  },
+  "synonyms": [
+    "Build Divide: Code Black",
+    "BUILD-DIVIDE -#000000- CODE BLACK",
+    "ビルディバイド -#000000​(コードブラック)-",
+    "Build Divide",
+    "บิลด์ ดิไวด์",
+    "Ring ni Kakero 1",
+    "リングにかけろ１",
+    "Put it all in the Ring"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132525-cilowwejol66.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "132525",
+      "url": "https://anilist.co/anime/132525"
+    },
+    "cr": {
+      "id": "series/GG5H5XDE1/build-divide-000000-code-black",
+      "url": "https://www.crunchyroll.com/series/series/GG5H5XDE1/build-divide-000000-code-black"
+    },
+    "k": {
+      "id": "14",
+      "url": "https://kitsu.io/anime/14"
+    },
+    "mal": {
+      "id": "48776",
+      "url": "https://myanimelist.net/anime/48776"
+    },
+    "t": {
+      "id": "69507",
+      "url": "https://trakt.tv/shows/69507"
+    },
+    "tx": {
+      "id": "build_divide",
+      "url": "https://twitter.com/build_divide"
+    }
+  }
+}

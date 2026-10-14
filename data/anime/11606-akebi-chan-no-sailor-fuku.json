@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11606,
+  "slug": "akebi-chan-no-sailor-fuku",
+  "kind": "anime",
+  "title": "Akebi-chan no Sailor Fuku",
+  "titles": {
+    "default": "Akebi-chan no Sailor Fuku",
+    "romaji": "Akebi-chan no Sailor Fuku",
+    "english": "Akebi’s Sailor Uniform",
+    "native": "明日ちゃんのセーラー服"
+  },
+  "synonyms": [
+    "Akebi-chan no Sailor Fuku",
+    "Akebi’s Sailor Uniform",
+    "明日ちゃんのセーラー服",
+    "Akebi-chan no Serafuku",
+    "Akebi's School Uniform",
+    "ชุดกะลาสีของอาเคบิจัง",
+    "Akebi's Sailor Uniform",
+    "Akebi-chan no Sailor-fuku"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131548-4OXik3SWOaee.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "131548",
+      "url": "https://anilist.co/anime/131548"
+    },
+    "cr": {
+      "id": "series/GDKHZEW97",
+      "url": "https://www.crunchyroll.com/series/series/GDKHZEW97"
+    },
+    "mal": {
+      "id": "48553",
+      "url": "https://myanimelist.net/anime/48553"
+    },
+    "tx": {
+      "id": "AKEBI_chan",
+      "url": "https://twitter.com/AKEBI_chan"
+    }
+  }
+}

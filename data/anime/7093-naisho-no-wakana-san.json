@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7093,
+  "slug": "naisho-no-wakana-san",
+  "kind": "anime",
+  "title": "Naisho no Wakana-san",
+  "titles": {
+    "default": "Naisho no Wakana-san",
+    "romaji": "Naisho no Wakana-san",
+    "english": "Secret Wakana",
+    "native": "ナイショの若菜さん"
+  },
+  "synonyms": [
+    "Naisho no Wakana-san",
+    "Secret Wakana",
+    "ナイショの若菜さん",
+    "Blood Lad OVA",
+    "Blood Lad: Wagahai wa Neko de wa Nai",
+    "ブラッドラッド 我輩は猫ではない"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b10575-g8HMBOUDwcNV.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10575",
+      "url": "https://anilist.co/anime/10575"
+    },
+    "k": {
+      "id": "7724",
+      "url": "https://kitsu.io/anime/7724"
+    },
+    "mal": {
+      "id": "10575",
+      "url": "https://myanimelist.net/anime/10575"
+    },
+    "t": {
+      "id": "57206",
+      "url": "https://trakt.tv/shows/57206"
+    }
+  }
+}

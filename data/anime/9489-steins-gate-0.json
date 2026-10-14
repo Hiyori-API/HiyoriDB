@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9489,
+  "slug": "steins-gate-0",
+  "kind": "anime",
+  "title": "Steins;Gate 0",
+  "titles": {
+    "default": "Steins;Gate 0",
+    "romaji": "Steins;Gate 0",
+    "native": "シュタインズ・ゲート ゼロ"
+  },
+  "synonyms": [
+    "Steins;Gate 0",
+    "シュタインズ・ゲート ゼロ",
+    "s;g0",
+    "命运石之门0",
+    "Steins",
+    "Gate Zero"
+  ],
+  "type": "tv",
+  "episodes": 23,
+  "status": "finished",
+  "season": "spring",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21127-7ARWZkDXKiiD.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21127",
+      "url": "https://anilist.co/anime/21127"
+    },
+    "cr": {
+      "id": "steinsgate-0",
+      "url": "https://www.crunchyroll.com/series/steinsgate-0"
+    },
+    "mal": {
+      "id": "30484",
+      "url": "https://myanimelist.net/anime/30484"
+    },
+    "tx": {
+      "id": "SG_anime",
+      "url": "https://twitter.com/SG_anime"
+    }
+  }
+}

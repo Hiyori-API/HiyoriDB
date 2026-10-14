@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1719,
+  "slug": "sd-gundam-gaiden",
+  "kind": "anime",
+  "title": "SD Gundam Gaiden",
+  "titles": {
+    "default": "SD Gundam Gaiden",
+    "romaji": "SD Gundam Gaiden",
+    "native": "SDガンダム外伝"
+  },
+  "synonyms": [
+    "SD Gundam Gaiden",
+    "SDガンダム外伝",
+    "機動戦士SDガンダム外伝",
+    "Kidou Senshi SD Gundam Gaiden",
+    "SD Gundam Sidestory"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "spring",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1939-5wTQ9qH7emcM.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1939",
+      "url": "https://anilist.co/anime/1939"
+    },
+    "k": {
+      "id": "1748",
+      "url": "https://kitsu.io/anime/1748"
+    },
+    "mal": {
+      "id": "1939",
+      "url": "https://myanimelist.net/anime/1939"
+    }
+  }
+}

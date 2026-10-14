@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6140,
+  "slug": "kuma-no-gakkou-jackie-to-katie",
+  "kind": "anime",
+  "title": "Kuma no Gakkou: Jackie to Katie",
+  "titles": {
+    "default": "Kuma no Gakkou: Jackie to Katie",
+    "romaji": "Kuma no Gakkou: Jackie to Katie",
+    "native": "くまのがっこう ～ジャッキーとケイティ～"
+  },
+  "synonyms": [
+    "Kuma no Gakkou: Jackie to Katie",
+    "くまのがっこう ～ジャッキーとケイティ～",
+    "The Bears' School"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9339.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9339",
+      "url": "https://anilist.co/anime/9339"
+    },
+    "k": {
+      "id": "5686",
+      "url": "https://kitsu.io/anime/5686"
+    },
+    "mal": {
+      "id": "9339",
+      "url": "https://myanimelist.net/anime/9339"
+    }
+  }
+}

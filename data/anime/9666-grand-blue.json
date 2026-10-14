@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9666,
+  "slug": "grand-blue",
+  "kind": "anime",
+  "title": "Grand Blue",
+  "titles": {
+    "default": "Grand Blue",
+    "romaji": "Grand Blue",
+    "english": "Grand Blue Dreaming",
+    "native": "ぐらんぶる"
+  },
+  "synonyms": [
+    "Grand Blue",
+    "Grand Blue Dreaming",
+    "ぐらんぶる",
+    "ก๊วนป่วนชวนบุ๋งบุ๋ง",
+    "High Score Girl",
+    "ハイスコアガール",
+    "Hi Score Girl"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100922-uxEhaCsqMMp3.png"
+  ],
+  "references": {
+    "al": {
+      "id": "100922",
+      "url": "https://anilist.co/anime/100922"
+    },
+    "cr": {
+      "id": "series/GNVHKN94W/grand-blue-dreaming",
+      "url": "https://www.crunchyroll.com/series/series/GNVHKN94W/grand-blue-dreaming"
+    },
+    "k": {
+      "id": "8158",
+      "url": "https://kitsu.io/anime/8158"
+    },
+    "mal": {
+      "id": "37105",
+      "url": "https://myanimelist.net/anime/37105"
+    },
+    "nf": {
+      "id": "80997338",
+      "url": "https://www.netflix.com/title/80997338"
+    },
+    "tx": {
+      "id": "gb_anime",
+      "url": "https://twitter.com/gb_anime"
+    }
+  }
+}

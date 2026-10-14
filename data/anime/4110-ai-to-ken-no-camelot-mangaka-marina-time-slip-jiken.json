@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4110,
+  "slug": "ai-to-ken-no-camelot-mangaka-marina-time-slip-jiken",
+  "kind": "anime",
+  "title": "Ai to Ken no Camelot: Mangaka Marina Time Slip Jiken",
+  "titles": {
+    "default": "Ai to Ken no Camelot: Mangaka Marina Time Slip Jiken",
+    "romaji": "Ai to Ken no Camelot: Mangaka Marina Time Slip Jiken",
+    "english": "Camelot",
+    "native": "愛と剣のキャメロット まんが家マリナ タイムスリップ事件"
+  },
+  "synonyms": [
+    "Ai to Ken no Camelot: Mangaka Marina Time Slip Jiken",
+    "Camelot",
+    "愛と剣のキャメロット まんが家マリナ タイムスリップ事件",
+    "Marina the Manga Artist Goes to Camelot"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5931-uWMJnaJMuf4r.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5931",
+      "url": "https://anilist.co/anime/5931"
+    },
+    "k": {
+      "id": "4348",
+      "url": "https://kitsu.io/anime/4348"
+    },
+    "mal": {
+      "id": "5931",
+      "url": "https://myanimelist.net/anime/5931"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9539,
+  "slug": "donten-ni-warau-gaiden-shukumei-soutou-no-fuuma",
+  "kind": "anime",
+  "title": "Donten ni Warau Gaiden: Shukumei, Soutou no Fuuma",
+  "titles": {
+    "default": "Donten ni Warau Gaiden: Shukumei, Soutou no Fuuma",
+    "romaji": "Donten ni Warau Gaiden: Shukumei, Soutou no Fuuma",
+    "english": "Laughing Under the Clouds: Gaiden Part 2",
+    "native": "曇天に笑う<外伝> ～宿命、双頭の風魔～"
+  },
+  "synonyms": [
+    "Donten ni Warau Gaiden: Shukumei, Soutou no Fuuma",
+    "Laughing Under the Clouds: Gaiden Part 2",
+    "曇天に笑う<外伝> ～宿命、双頭の風魔～",
+    "Donten: Laughing Under The Clouds - Gaiden: Chapter 2 - The Tragedy of Fuuma Ninja Tribe",
+    "Mint",
+    "MINT"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99196-VwzvzxjMWwcw.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "99196",
+      "url": "https://anilist.co/anime/99196"
+    },
+    "cr": {
+      "id": "donten-laughing-under-the-clouds-gaiden",
+      "url": "https://www.crunchyroll.com/series/donten-laughing-under-the-clouds-gaiden"
+    },
+    "k": {
+      "id": "8098",
+      "url": "https://kitsu.io/anime/8098"
+    },
+    "mal": {
+      "id": "35424",
+      "url": "https://myanimelist.net/anime/35424"
+    },
+    "tx": {
+      "id": "donten_anime",
+      "url": "https://twitter.com/donten_anime"
+    }
+  }
+}

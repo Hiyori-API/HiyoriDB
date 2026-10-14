@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9301,
+  "slug": "hajimete-no-gal-hajimete-no-bunkasai",
+  "kind": "anime",
+  "title": "Hajimete no Gal: Hajimete no Bunkasai",
+  "titles": {
+    "default": "Hajimete no Gal: Hajimete no Bunkasai",
+    "romaji": "Hajimete no Gal: Hajimete no Bunkasai",
+    "english": "My First Girlfriend is a Gal OVA",
+    "native": "はじめてのギャル はじめての文化祭"
+  },
+  "synonyms": [
+    "Hajimete no Gal: Hajimete no Bunkasai",
+    "My First Girlfriend is a Gal OVA",
+    "はじめてのギャル はじめての文化祭",
+    "Hajimete no Gyaru OVA",
+    "First-Time Gal OVA",
+    "My First Gal OVA",
+    "Hajimete no Gal: My First School Festival",
+    "はじめてのギャル OVA",
+    "Hajimete no Gal OVA",
+    "Onegai☆Teacher: Himitsu na Futari",
+    "おねがい☆ティーチャー ヒミツなふたり",
+    "Onegai Sensei",
+    "Please Teacher! OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98878-jmrheWUkd7IA.png"
+  ],
+  "references": {
+    "al": {
+      "id": "98878",
+      "url": "https://anilist.co/anime/98878"
+    },
+    "k": {
+      "id": "406",
+      "url": "https://kitsu.io/anime/406"
+    },
+    "mal": {
+      "id": "35237",
+      "url": "https://myanimelist.net/anime/35237"
+    },
+    "tx": {
+      "id": "haji_GAL",
+      "url": "https://twitter.com/haji_GAL"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2452,
+  "slug": "evangelion-shin-movie-jo",
+  "kind": "anime",
+  "title": "Evangelion Shin Movie: Jo",
+  "titles": {
+    "default": "Evangelion Shin Movie: Jo",
+    "romaji": "Evangelion Shin Movie: Jo",
+    "english": "Evangelion: 1.0 You Are (Not) Alone",
+    "native": "ヱヴァンゲリヲン新劇場版:序"
+  },
+  "synonyms": [
+    "Evangelion Shin Movie: Jo",
+    "Evangelion: 1.0 You Are (Not) Alone",
+    "ヱヴァンゲリヲン新劇場版:序",
+    "Rebuild of Evangelion 1.11",
+    "Evangelion 1.11 (Nie) jesteś sam",
+    "Reconstrucción de Evangelion",
+    "Евангелион 1.11: Ты (не) один",
+    "Реконструкция Евангелиона - Евангелион: 1.0 Ты [Не] Одинок",
+    "福音戰士新劇場版：序",
+    "Evangelion 1.0: Você [Não] Está Só",
+    "Evangelion 1.0: Você [Não] Está Sozinho",
+    "EVANGELION:1.11 (NO) ESTÁS SOLO",
+    "Dai-chan, Daisuki.",
+    "大ちゃん, だいすき.",
+    "Daichan",
+    "Daisuki."
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2759-S0ATamQtDwlW.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2759",
+      "url": "https://anilist.co/anime/2759"
+    },
+    "k": {
+      "id": "9241",
+      "url": "https://kitsu.io/anime/9241"
+    },
+    "mal": {
+      "id": "2759",
+      "url": "https://myanimelist.net/anime/2759"
+    }
+  }
+}

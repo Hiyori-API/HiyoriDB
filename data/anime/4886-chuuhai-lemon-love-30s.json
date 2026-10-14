@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4886,
+  "slug": "chuuhai-lemon-love-30s",
+  "kind": "anime",
+  "title": "Chuuhai Lemon: LOVE 30S",
+  "titles": {
+    "default": "Chuuhai Lemon: LOVE 30S",
+    "romaji": "Chuuhai Lemon: LOVE 30S",
+    "native": "酎ハイれもん：LOVE30S"
+  },
+  "synonyms": [
+    "Chuuhai Lemon: LOVE 30S",
+    "酎ハイれもん：LOVE30S",
+    "Chu-high Lemon LOVE 30S",
+    "Chuuhai Lemon: Love 30s - Ame ni Nurete mo",
+    "酎ハイれもんLOVE30S 雨にぬれても",
+    "Lemon Cocktail LOVE 30S",
+    "Lemon Cocktail: Love 30 S"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9998.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9998",
+      "url": "https://anilist.co/anime/9998"
+    },
+    "k": {
+      "id": "5986",
+      "url": "https://kitsu.io/anime/5986"
+    },
+    "mal": {
+      "id": "9998",
+      "url": "https://myanimelist.net/anime/9998"
+    }
+  }
+}

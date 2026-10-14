@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7262,
+  "slug": "natsuyasumi",
+  "kind": "anime",
+  "title": "Natsuyasumi.",
+  "titles": {
+    "default": "Natsuyasumi.",
+    "romaji": "Natsuyasumi.",
+    "native": "ナツヤスミ."
+  },
+  "synonyms": [
+    "Natsuyasumi.",
+    "ナツヤスミ.",
+    "Summer Vacation",
+    "Natsuyasumi Period",
+    "Oreimo 2 Specials",
+    "Ore no Imouto ga Konnani Kawaii Wake ga Nai. Specials",
+    "俺の妹がこんなに可愛いわけがない。",
+    "My Little Sister Can't Be This Cute 2 Specials",
+    "Ore no Imouto ga Konna ni Kawaii Wake ga Nai 2 Specials"
+  ],
+  "type": "ona",
+  "episodes": 3,
+  "status": "finished",
+  "season": "winter",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17371.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "17371",
+      "url": "https://anilist.co/anime/17371"
+    },
+    "k": {
+      "id": "7822",
+      "url": "https://kitsu.io/anime/7822"
+    },
+    "mal": {
+      "id": "17371",
+      "url": "https://myanimelist.net/anime/17371"
+    }
+  }
+}

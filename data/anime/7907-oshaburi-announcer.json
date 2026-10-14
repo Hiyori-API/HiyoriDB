@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7907,
+  "slug": "oshaburi-announcer",
+  "kind": "anime",
+  "title": "Oshaburi Announcer",
+  "titles": {
+    "default": "Oshaburi Announcer",
+    "romaji": "Oshaburi Announcer",
+    "native": "おしゃぶりアナウンサー"
+  },
+  "synonyms": [
+    "Oshaburi Announcer",
+    "おしゃぶりアナウンサー",
+    "Sucker Announcer",
+    "Inari, Konkon, Koi Iroha.: Inari, Konkon, Semishigure.",
+    "いなり、こんこん、恋いろは。いなり、コンコン、蝉しぐれ。",
+    "Inari",
+    "Konkon",
+    "Koi Iroha. Episode 11"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21538-0xm1DFeoutSP.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21538",
+      "url": "https://anilist.co/anime/21538"
+    },
+    "k": {
+      "id": "8251",
+      "url": "https://kitsu.io/anime/8251"
+    },
+    "mal": {
+      "id": "23247",
+      "url": "https://myanimelist.net/anime/23247"
+    }
+  }
+}

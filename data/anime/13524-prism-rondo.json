@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13524,
+  "slug": "prism-rondo",
+  "kind": "anime",
+  "title": "Prism Rondo",
+  "titles": {
+    "default": "Prism Rondo",
+    "romaji": "Prism Rondo",
+    "english": "Love Through A Prism",
+    "native": "プリズム輪舞曲"
+  },
+  "synonyms": [
+    "Prism Rondo",
+    "Love Through A Prism",
+    "プリズム輪舞曲",
+    "ปริซึมแห่งรัก",
+    "El amor a través de un prisma",
+    "Prin prisma dragostei",
+    "Pelo Prisma do Amor",
+    "프리즘 윤무곡",
+    "Il prisma dell'amore",
+    "Έρωτας Μέσα από ένα Πρίσμα",
+    "Le Prisme de l'amour",
+    "稜鏡戀曲",
+    "棱镜恋曲",
+    "حبّ يمر عبر منشور زجاجي",
+    "Призма любви",
+    "Love Through a Prism",
+    "プリズム輪舞曲〈ロンド〉"
+  ],
+  "type": "ona",
+  "episodes": 20,
+  "status": "finished",
+  "season": "winter",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202955-9ESiLpN9AynZ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "202955",
+      "url": "https://anilist.co/anime/202955"
+    },
+    "mal": {
+      "id": "63019",
+      "url": "https://myanimelist.net/anime/63019"
+    },
+    "nf": {
+      "id": "81498882",
+      "url": "https://www.netflix.com/title/81498882"
+    }
+  }
+}

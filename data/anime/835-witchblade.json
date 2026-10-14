@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 835,
+  "slug": "witchblade",
+  "kind": "anime",
+  "title": "Witchblade",
+  "titles": {
+    "default": "Witchblade",
+    "romaji": "Witchblade",
+    "native": "ウィッチブレイド"
+  },
+  "synonyms": [
+    "Witchblade",
+    "ウィッチブレイド"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "spring",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx935-nzFM4wRfrbmt.png"
+  ],
+  "references": {
+    "al": {
+      "id": "935",
+      "url": "https://anilist.co/anime/935"
+    },
+    "cr": {
+      "id": "witchblade",
+      "url": "https://www.crunchyroll.com/series/witchblade"
+    },
+    "k": {
+      "id": "832",
+      "url": "https://kitsu.io/anime/832"
+    },
+    "mal": {
+      "id": "935",
+      "url": "https://myanimelist.net/anime/935"
+    },
+    "t": {
+      "id": "20357",
+      "url": "https://trakt.tv/shows/20357"
+    }
+  }
+}

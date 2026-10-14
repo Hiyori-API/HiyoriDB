@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 812,
+  "slug": "hagane-no-renkinjutsushi-premium-collection",
+  "kind": "anime",
+  "title": "Hagane no Renkinjutsushi: PREMIUM COLLECTION",
+  "titles": {
+    "default": "Hagane no Renkinjutsushi: PREMIUM COLLECTION",
+    "romaji": "Hagane no Renkinjutsushi: PREMIUM COLLECTION",
+    "english": "Fullmetal Alchemist: Premium OVA Collection",
+    "native": "鋼の錬金術師 PREMIUM COLLECTION"
+  },
+  "synonyms": [
+    "Hagane no Renkinjutsushi: PREMIUM COLLECTION",
+    "Fullmetal Alchemist: Premium OVA Collection",
+    "鋼の錬金術師 PREMIUM COLLECTION",
+    "State Alchemists vs Seven Homunculi",
+    "Enkai-hen",
+    "Chibi Party",
+    "Kodomo-hen",
+    "Kids",
+    "FMA"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "spring",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/908.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "908",
+      "url": "https://anilist.co/anime/908"
+    },
+    "k": {
+      "id": "808",
+      "url": "https://kitsu.io/anime/808"
+    },
+    "mal": {
+      "id": "908",
+      "url": "https://myanimelist.net/anime/908"
+    }
+  }
+}

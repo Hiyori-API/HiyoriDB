@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7509,
+  "slug": "tiger-bunny-the-rising",
+  "kind": "anime",
+  "title": "TIGER & BUNNY: The Rising",
+  "titles": {
+    "default": "TIGER & BUNNY: The Rising",
+    "romaji": "TIGER & BUNNY: The Rising",
+    "english": "Tiger & Bunny: The Movie - The Rising",
+    "native": "劇場版 TIGER & BUNNY -The Rising-"
+  },
+  "synonyms": [
+    "TIGER & BUNNY: The Rising",
+    "Tiger & Bunny: The Movie - The Rising",
+    "劇場版 TIGER & BUNNY -The Rising-",
+    "Tiger and Bunny Movie 2",
+    "Taibani Movie 2",
+    "Tiger & Bunny: The Rising",
+    "Tiger & Bunny Movie 2: The Rising"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12017-U8b3DtnDuiCY.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12017",
+      "url": "https://anilist.co/anime/12017"
+    },
+    "k": {
+      "id": "6644",
+      "url": "https://kitsu.io/anime/6644"
+    },
+    "mal": {
+      "id": "12017",
+      "url": "https://myanimelist.net/anime/12017"
+    },
+    "nf": {
+      "id": "81579323",
+      "url": "https://www.netflix.com/title/81579323"
+    }
+  }
+}

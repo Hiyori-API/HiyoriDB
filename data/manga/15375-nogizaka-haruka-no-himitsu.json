@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15375,
+  "slug": "nogizaka-haruka-no-himitsu",
+  "kind": "manga",
+  "title": "Nogizaka Haruka no Himitsu",
+  "titles": {
+    "default": "Nogizaka Haruka no Himitsu"
+  },
+  "synonyms": [
+    "Nogizaka Haruka's Secret",
+    "Haruka Nogizaka's Secret",
+    "乃木坂春香の秘密",
+    "Love Makes People Grow",
+    "Hito wa Ai wo Tabete Sodatsu",
+    "人は愛を食べて育つ",
+    "Eat Love and Grow",
+    "Hito wa ai o tabete sodatsu"
+  ],
+  "type": "manga",
+  "chapters": 23,
+  "volumes": 4,
+  "status": "finished",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx38847-mbD3GfyJQ5dW.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3467",
+      "url": "https://anilist.co/anime/3467"
+    },
+    "al_manga": {
+      "id": "3467",
+      "url": "https://anilist.co/manga/3467"
+    }
+  }
+}

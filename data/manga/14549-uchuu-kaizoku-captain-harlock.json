@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14549,
+  "slug": "uchuu-kaizoku-captain-harlock",
+  "kind": "manga",
+  "title": "Uchuu Kaizoku Captain Harlock",
+  "titles": {
+    "default": "Uchuu Kaizoku Captain Harlock"
+  },
+  "synonyms": [
+    "Uchū Kaizoku Kyaputen Hārokku",
+    "Capitán Harlock: El Pirata Espacial",
+    "Captain Harlock",
+    "Space Pirate Captain Harlock",
+    "Captain Harlock: The Classic Collection",
+    "우주해적 캡틴 하록",
+    "宇宙海賊キャプテンハーロック",
+    "NonNonBa",
+    "Nonnonbaa to Ore",
+    "のんのんばあとオレ"
+  ],
+  "type": "manga",
+  "chapters": 55,
+  "volumes": 5,
+  "status": "finished",
+  "year": 1977,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx35115-fZzfIJXnDYds.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "100148",
+      "url": "https://anilist.co/anime/1000"
+    },
+    "al_manga": {
+      "id": "100148",
+      "url": "https://anilist.co/manga/100148"
+    }
+  }
+}

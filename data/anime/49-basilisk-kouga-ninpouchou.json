@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 49,
+  "slug": "basilisk-kouga-ninpouchou",
+  "kind": "anime",
+  "title": "Basilisk: Kouga Ninpouchou",
+  "titles": {
+    "default": "Basilisk: Kouga Ninpouchou",
+    "romaji": "Basilisk: Kouga Ninpouchou",
+    "english": "Basilisk",
+    "native": "バジリスク 甲賀忍法帖"
+  },
+  "synonyms": [
+    "Basilisk: Kouga Ninpouchou",
+    "Basilisk",
+    "バジリスク 甲賀忍法帖",
+    "Basilisk: Koga Nimpo Cho",
+    "Basilisk: Kouga Ninpou Chou",
+    "Basilisk: The Kouga Ninja Scrolls",
+    "Василиск"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "spring",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx67-aBz3s2hBTtdH.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "67",
+      "url": "https://anilist.co/anime/67"
+    },
+    "cr": {
+      "id": "basilisk",
+      "url": "https://www.crunchyroll.com/series/basilisk"
+    },
+    "k": {
+      "id": "48",
+      "url": "https://kitsu.io/anime/48"
+    },
+    "mal": {
+      "id": "67",
+      "url": "https://myanimelist.net/anime/67"
+    },
+    "t": {
+      "id": "9362",
+      "url": "https://trakt.tv/shows/9362"
+    },
+    "tx": {
+      "id": "basilisk_koga",
+      "url": "https://twitter.com/basilisk_koga"
+    }
+  }
+}

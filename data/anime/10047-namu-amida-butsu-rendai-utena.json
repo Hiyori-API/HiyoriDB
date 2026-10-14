@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10047,
+  "slug": "namu-amida-butsu-rendai-utena",
+  "kind": "anime",
+  "title": "Namu Amida Butsu!: Rendai UTENA",
+  "titles": {
+    "default": "Namu Amida Butsu!: Rendai UTENA",
+    "romaji": "Namu Amida Butsu!: Rendai UTENA",
+    "english": "Namuamidabutsu! -UTENA-",
+    "native": "なむあみだ仏っ！-蓮台 UTENA-"
+  },
+  "synonyms": [
+    "Namu Amida Butsu!: Rendai UTENA",
+    "Namuamidabutsu! -UTENA-",
+    "なむあみだ仏っ！-蓮台 UTENA-",
+    "Bungo Stray Dogs 3",
+    "文豪ストレイドッグス 第3期",
+    "Bungou Stray Dogs 3rd Season"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b104212-Pb79PmiljHwx.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "104212",
+      "url": "https://anilist.co/anime/104212"
+    },
+    "cr": {
+      "id": "namuamidabutsu-utena-",
+      "url": "https://www.crunchyroll.com/series/namuamidabutsu-utena-"
+    },
+    "mal": {
+      "id": "38150",
+      "url": "https://myanimelist.net/anime/38150"
+    },
+    "tx": {
+      "id": "namu_anime",
+      "url": "https://twitter.com/namu_anime"
+    }
+  }
+}

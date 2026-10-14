@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2266,
+  "slug": "captain-future",
+  "kind": "anime",
+  "title": "Captain Future",
+  "titles": {
+    "default": "Captain Future",
+    "romaji": "Captain Future",
+    "native": "キャプテンフューチャー"
+  },
+  "synonyms": [
+    "Captain Future",
+    "キャプテンフューチャー",
+    "Capitaine Flam"
+  ],
+  "type": "tv",
+  "episodes": 52,
+  "status": "finished",
+  "season": "fall",
+  "year": 1978,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2561-0UE5P0iDUP9Y.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2561",
+      "url": "https://anilist.co/anime/2561"
+    },
+    "k": {
+      "id": "2326",
+      "url": "https://kitsu.io/anime/2326"
+    },
+    "mal": {
+      "id": "2561",
+      "url": "https://myanimelist.net/anime/2561"
+    },
+    "t": {
+      "id": "22902",
+      "url": "https://trakt.tv/shows/22902"
+    }
+  }
+}

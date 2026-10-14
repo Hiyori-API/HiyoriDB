@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1386,
+  "slug": "kaitou-saint-tail",
+  "kind": "anime",
+  "title": "Kaitou Saint Tail",
+  "titles": {
+    "default": "Kaitou Saint Tail",
+    "romaji": "Kaitou Saint Tail",
+    "english": "Mysterious Thief Saint Tail",
+    "native": "怪盗セイント・テール"
+  },
+  "synonyms": [
+    "Kaitou Saint Tail",
+    "Mysterious Thief Saint Tail",
+    "怪盗セイント・テール",
+    "Lisa e Seya - Un solo cuore per lo stesso segreto",
+    "จอมโจรสาวเซนต์เทล",
+    "Cô Bé Thiên Thần"
+  ],
+  "type": "tv",
+  "episodes": 43,
+  "status": "finished",
+  "season": "fall",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1567-Is6i6GqL5m2b.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1567",
+      "url": "https://anilist.co/anime/1567"
+    },
+    "k": {
+      "id": "1407",
+      "url": "https://kitsu.io/anime/1407"
+    },
+    "mal": {
+      "id": "1567",
+      "url": "https://myanimelist.net/anime/1567"
+    },
+    "t": {
+      "id": "13393",
+      "url": "https://trakt.tv/shows/13393"
+    }
+  }
+}

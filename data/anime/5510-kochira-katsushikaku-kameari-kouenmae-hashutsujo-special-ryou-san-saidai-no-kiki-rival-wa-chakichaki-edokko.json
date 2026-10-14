@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5510,
+  "slug": "kochira-katsushikaku-kameari-kouenmae-hashutsujo-special-ryou-san-saidai-no-kiki-rival-wa-chakichaki-edokko",
+  "kind": "anime",
+  "title": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo Special: Ryou-san Saidai no Kiki! Rival wa Chakichaki Edokko",
+  "titles": {
+    "default": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo Special: Ryou-san Saidai no Kiki! Rival wa Chakichaki Edokko",
+    "romaji": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo Special: Ryou-san Saidai no Kiki! Rival wa Chakichaki Edokko",
+    "native": "こちら葛飾区亀有公園前派出所スペシャル 両さん最大の危機！ライバルはチャキチャキ江戸っ娘"
+  },
+  "synonyms": [
+    "Kochira Katsushikaku Kameari Kouenmae Hashutsujo Special: Ryou-san Saidai no Kiki! Rival wa Chakichaki Edokko",
+    "こちら葛飾区亀有公園前派出所スペシャル 両さん最大の危機！ライバルはチャキチャキ江戸っ娘",
+    "Kochikame Special 9",
+    "Love Hina Christmas Movie",
+    "Love Hina Christmas Special: Silent Eve",
+    "ラブひなクリスマススペシャル ～サイレント・イヴ～"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b145767-CWLMQbWrmBCT.png"
+  ],
+  "references": {
+    "al": {
+      "id": "145767",
+      "url": "https://anilist.co/anime/145767"
+    },
+    "k": {
+      "id": "168",
+      "url": "https://kitsu.io/anime/168"
+    },
+    "mal": {
+      "id": "191",
+      "url": "https://myanimelist.net/anime/191"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14512,
+  "slug": "toradora",
+  "kind": "manga",
+  "title": "Toradora!",
+  "titles": {
+    "default": "Toradora!"
+  },
+  "synonyms": [
+    "Tiger X Dragon",
+    "TigerxDragon",
+    "Tora Dora",
+    "ТораДора! Тигр и Дракон",
+    "ToraDora! ยัยตัวร้ายกับนายหน้าโหด",
+    "Toradora!",
+    "とらドラ！",
+    "Don't Be Cruel",
+    "Hidoku Shinaide",
+    "酷くしないで",
+    "Treat me gently",
+    "Please, Don't be Coldhearted",
+    "Please, After School Secret",
+    "Wagamama mo Aishite",
+    "Love the Selfish, Too",
+    "Hindered by Underwear",
+    "Don't Take Off the Sailor Uniform, Please",
+    "Don't be Cruel",
+    "Please",
+    "Don't be Coldhearted",
+    "After School Secret",
+    "Love the Selfish",
+    "Too",
+    "Don't Take Off the Sailor Uniform"
+  ],
+  "type": "manga",
+  "status": "publishing",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx34368-BCouTUMs4GmM.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4224",
+      "url": "https://anilist.co/anime/4224"
+    },
+    "al_manga": {
+      "id": "4224",
+      "url": "https://anilist.co/manga/4224"
+    }
+  }
+}

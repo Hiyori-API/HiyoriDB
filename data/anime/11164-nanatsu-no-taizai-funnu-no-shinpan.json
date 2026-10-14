@@ -1,0 +1,61 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11164,
+  "slug": "nanatsu-no-taizai-funnu-no-shinpan",
+  "kind": "anime",
+  "title": "Nanatsu no Taizai: Funnu no Shinpan",
+  "titles": {
+    "default": "Nanatsu no Taizai: Funnu no Shinpan",
+    "romaji": "Nanatsu no Taizai: Funnu no Shinpan",
+    "english": "The Seven Deadly Sins: Dragon's Judgement",
+    "native": "七つの大罪 憤怒の審判"
+  },
+  "synonyms": [
+    "Nanatsu no Taizai: Funnu no Shinpan",
+    "The Seven Deadly Sins: Dragon's Judgement",
+    "七つの大罪 憤怒の審判",
+    "七大罪：愤怒的审判",
+    "The Seven Deadly Sins: Dragens dom",
+    "ศึกตำนาน 7 อัศวิน ภาค 4",
+    "Сім смертних гріхів: Правосуддя Дракона",
+    "Семь смертных грехов: Яростное правосудие",
+    "Ah! My Goddess",
+    "Aa! Megami-sama! (TV)",
+    "ああっ女神さまっ",
+    "Ah! My Goddess! (TV)"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "winter",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116752-yIJuKp88adqt.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "116752",
+      "url": "https://anilist.co/anime/116752"
+    },
+    "k": {
+      "id": "31",
+      "url": "https://kitsu.io/anime/31"
+    },
+    "mal": {
+      "id": "41491",
+      "url": "https://myanimelist.net/anime/41491"
+    },
+    "nf": {
+      "id": "80050063",
+      "url": "https://www.netflix.com/title/80050063"
+    },
+    "t": {
+      "id": "907",
+      "url": "https://trakt.tv/shows/907"
+    },
+    "tx": {
+      "id": "7_taizai",
+      "url": "https://twitter.com/7_taizai"
+    }
+  }
+}

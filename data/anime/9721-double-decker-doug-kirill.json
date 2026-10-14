@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9721,
+  "slug": "double-decker-doug-kirill",
+  "kind": "anime",
+  "title": "DOUBLE DECKER! Doug & Kirill",
+  "titles": {
+    "default": "DOUBLE DECKER! Doug & Kirill",
+    "romaji": "DOUBLE DECKER! Doug & Kirill",
+    "english": "DOUBLE DECKER! DOUG & KIRILL",
+    "native": "DOUBLE DECKER! ダグ＆キリル"
+  },
+  "synonyms": [
+    "DOUBLE DECKER! Doug & Kirill",
+    "DOUBLE DECKER! DOUG & KIRILL",
+    "DOUBLE DECKER! ダグ＆キリル",
+    "AoButa",
+    "Rascal Does Not Dream of Bunny Girl Senpai",
+    "青春ブタ野郎はバニーガール先輩の夢を見ない",
+    "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx101318-eQZqO7jbfVOs.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101318",
+      "url": "https://anilist.co/anime/101318"
+    },
+    "cr": {
+      "id": "double-decker-doug-kirill",
+      "url": "https://www.crunchyroll.com/series/double-decker-doug-kirill"
+    },
+    "mal": {
+      "id": "37496",
+      "url": "https://myanimelist.net/anime/37496"
+    },
+    "tx": {
+      "id": "dabudeka",
+      "url": "https://twitter.com/dabudeka"
+    }
+  }
+}

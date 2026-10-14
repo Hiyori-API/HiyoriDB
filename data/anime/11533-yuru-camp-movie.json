@@ -1,0 +1,61 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11533,
+  "slug": "yuru-camp-movie",
+  "kind": "anime",
+  "title": "Yuru Camp△ Movie",
+  "titles": {
+    "default": "Yuru Camp△ Movie",
+    "romaji": "Yuru Camp△ Movie",
+    "english": "Laid-Back Camp The Movie",
+    "native": "映画 ゆるキャン△"
+  },
+  "synonyms": [
+    "Yuru Camp△ Movie",
+    "Laid-Back Camp The Movie",
+    "映画 ゆるキャン△",
+    "Eiga Yuru Camp",
+    "Spirited Away",
+    "Sen to Chihiro no Kamikakushi",
+    "千と千尋の神隠し",
+    "Sen and Chihiro's Spiriting Away"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104460-EwUV9ZJMCtnR.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "104460",
+      "url": "https://anilist.co/anime/104460"
+    },
+    "ap": {
+      "id": "B081GJPV9P",
+      "url": "https://www.amazon.com/gp/video/detail/B081GJPV9P"
+    },
+    "cr": {
+      "id": "laid-back-camp",
+      "url": "https://www.crunchyroll.com/series/laid-back-camp"
+    },
+    "k": {
+      "id": "176",
+      "url": "https://kitsu.io/anime/176"
+    },
+    "mal": {
+      "id": "38475",
+      "url": "https://myanimelist.net/anime/38475"
+    },
+    "nf": {
+      "id": "60023642",
+      "url": "https://www.netflix.com/title/60023642"
+    },
+    "tx": {
+      "id": "yurucamp_anime",
+      "url": "https://twitter.com/yurucamp_anime"
+    }
+  }
+}

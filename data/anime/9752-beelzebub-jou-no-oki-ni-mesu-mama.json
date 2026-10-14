@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9752,
+  "slug": "beelzebub-jou-no-oki-ni-mesu-mama",
+  "kind": "anime",
+  "title": "Beelzebub-jou no Oki ni Mesu Mama.",
+  "titles": {
+    "default": "Beelzebub-jou no Oki ni Mesu Mama.",
+    "romaji": "Beelzebub-jou no Oki ni Mesu Mama.",
+    "english": "As Miss Beelzebub Likes it.",
+    "native": "ベルゼブブ嬢のお気に召すまま。"
+  },
+  "synonyms": [
+    "Beelzebub-jou no Oki ni Mesu Mama.",
+    "As Miss Beelzebub Likes it.",
+    "ベルゼブブ嬢のお気に召すまま。",
+    "Beelzebub-jou no Okinimesu mama.",
+    "High Score Girl",
+    "ハイスコアガール",
+    "Hi Score Girl"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101505-jhNHjv7Ng3ku.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101505",
+      "url": "https://anilist.co/anime/101505"
+    },
+    "cr": {
+      "id": "as-miss-beelzebub-likes",
+      "url": "https://www.crunchyroll.com/series/as-miss-beelzebub-likes"
+    },
+    "k": {
+      "id": "8158",
+      "url": "https://kitsu.io/anime/8158"
+    },
+    "mal": {
+      "id": "37716",
+      "url": "https://myanimelist.net/anime/37716"
+    },
+    "nf": {
+      "id": "80997338",
+      "url": "https://www.netflix.com/title/80997338"
+    },
+    "tx": {
+      "id": "beelmama_anime",
+      "url": "https://twitter.com/beelmama_anime"
+    }
+  }
+}

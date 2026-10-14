@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2670,
+  "slug": "tobe-isami",
+  "kind": "anime",
+  "title": "Tobe! Isami",
+  "titles": {
+    "default": "Tobe! Isami",
+    "romaji": "Tobe! Isami",
+    "english": "Soar High! Isami",
+    "native": "飛べ！イサミ"
+  },
+  "synonyms": [
+    "Tobe! Isami",
+    "Soar High! Isami",
+    "飛べ！イサミ",
+    "Fly! Isami"
+  ],
+  "type": "tv",
+  "episodes": 50,
+  "status": "finished",
+  "season": "spring",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3036-0MywYGWOr5RX.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3036",
+      "url": "https://anilist.co/anime/3036"
+    },
+    "k": {
+      "id": "2742",
+      "url": "https://kitsu.io/anime/2742"
+    },
+    "mal": {
+      "id": "3036",
+      "url": "https://myanimelist.net/anime/3036"
+    },
+    "t": {
+      "id": "69909",
+      "url": "https://trakt.tv/shows/69909"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12779,
+  "slug": "0-saiji-start-dash-monogatari",
+  "kind": "anime",
+  "title": "0-saiji Start Dash Monogatari",
+  "titles": {
+    "default": "0-saiji Start Dash Monogatari",
+    "romaji": "0-saiji Start Dash Monogatari",
+    "english": "HEAD START AT BIRTH",
+    "native": "0歳児スタートダッシュ物語"
+  },
+  "synonyms": [
+    "0-saiji Start Dash Monogatari",
+    "HEAD START AT BIRTH",
+    "0歳児スタートダッシュ物語",
+    "0 years old child starting dash story",
+    "Makeine",
+    "Makeine: Too Many Losing Heroines!",
+    "負けヒロインが多すぎる！",
+    "Make Heroine ga Oosugiru!"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2024,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177879-IwqLLxo8cpHa.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "177879",
+      "url": "https://anilist.co/anime/177879"
+    },
+    "mal": {
+      "id": "58985",
+      "url": "https://myanimelist.net/anime/58985"
+    }
+  }
+}

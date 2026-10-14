@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9492,
+  "slug": "island",
+  "kind": "anime",
+  "title": "ISLAND",
+  "titles": {
+    "default": "ISLAND",
+    "romaji": "ISLAND"
+  },
+  "synonyms": [
+    "ISLAND",
+    "アイランド",
+    "High Score Girl",
+    "ハイスコアガール",
+    "Hi Score Girl"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx21712-To9Y3VNCf5a6.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21712",
+      "url": "https://anilist.co/anime/21712"
+    },
+    "cr": {
+      "id": "island",
+      "url": "https://www.crunchyroll.com/series/island"
+    },
+    "k": {
+      "id": "8158",
+      "url": "https://kitsu.io/anime/8158"
+    },
+    "mal": {
+      "id": "33012",
+      "url": "https://myanimelist.net/anime/33012"
+    },
+    "nf": {
+      "id": "80997338",
+      "url": "https://www.netflix.com/title/80997338"
+    },
+    "tx": {
+      "id": "island_fw",
+      "url": "https://twitter.com/island_fw"
+    }
+  }
+}

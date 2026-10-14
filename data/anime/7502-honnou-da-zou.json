@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7502,
+  "slug": "honnou-da-zou",
+  "kind": "anime",
+  "title": "Honnou da Zou",
+  "titles": {
+    "default": "Honnou da Zou",
+    "romaji": "Honnou da Zou",
+    "english": "Passionate Elephant",
+    "native": "本能だゾウ"
+  },
+  "synonyms": [
+    "Honnou da Zou",
+    "Passionate Elephant",
+    "本能だゾウ",
+    "My Instinct",
+    "Hitotsubu ni Kawaranu Ai wo Komete",
+    "一粒に変わらぬ愛をこめて",
+    "Morinaga Caramel 100th Anniversary Short"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183822-i0SQ36HbtQY8.png"
+  ],
+  "references": {
+    "al": {
+      "id": "183822",
+      "url": "https://anilist.co/anime/183822"
+    },
+    "k": {
+      "id": "8236",
+      "url": "https://kitsu.io/anime/8236"
+    },
+    "mal": {
+      "id": "56551",
+      "url": "https://myanimelist.net/anime/56551"
+    },
+    "yt": {
+      "id": "4ykYc6IiR_c",
+      "url": "https://www.youtube.com/watch?v=4ykYc6IiR_c"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15307,
+  "slug": "genmukan-aiyoku-to-ryoujoku-no-inzai",
+  "kind": "manga",
+  "title": "Genmukan: Aiyoku to Ryoujoku no Inzai",
+  "titles": {
+    "default": "Genmukan: Aiyoku to Ryoujoku no Inzai"
+  },
+  "synonyms": [
+    "幻夢館～愛欲と凌辱の淫罪～",
+    "Devil May Cry",
+    "デビル メイ クライ",
+    "DMC",
+    "Devil May Cry 2"
+  ],
+  "type": "novel",
+  "volumes": 1,
+  "status": "finished",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/91933-81MoMZ3lv2FE.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2590",
+      "url": "https://anilist.co/anime/8294"
+    },
+    "al_manga": {
+      "id": "2590",
+      "url": "https://anilist.co/manga/2590"
+    }
+  }
+}

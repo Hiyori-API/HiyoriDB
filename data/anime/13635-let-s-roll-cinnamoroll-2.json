@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13635,
+  "slug": "let-s-roll-cinnamoroll-2",
+  "kind": "anime",
+  "title": "Let's Roll, Cinnamoroll! 2",
+  "titles": {
+    "default": "Let's Roll, Cinnamoroll! 2",
+    "romaji": "Let's Roll, Cinnamoroll! 2",
+    "native": "レッツロールシナモロール"
+  },
+  "synonyms": [
+    "Let's Roll, Cinnamoroll! 2",
+    "レッツロールシナモロール",
+    "Saishuu Shiken Kujira",
+    "最終試験くじら",
+    "Final Examination Kujira"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213861-PNBuQOrphcbK.png"
+  ],
+  "references": {
+    "al": {
+      "id": "213861",
+      "url": "https://anilist.co/anime/213861"
+    },
+    "k": {
+      "id": "2685",
+      "url": "https://kitsu.io/anime/2685"
+    },
+    "mal": {
+      "id": "64537",
+      "url": "https://myanimelist.net/anime/64537"
+    }
+  }
+}

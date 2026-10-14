@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5917,
+  "slug": "saraiya-goyou",
+  "kind": "anime",
+  "title": "Saraiya Goyou",
+  "titles": {
+    "default": "Saraiya Goyou",
+    "romaji": "Saraiya Goyou",
+    "english": "House of Five Leaves",
+    "native": "さらい屋 五葉"
+  },
+  "synonyms": [
+    "Saraiya Goyou",
+    "House of Five Leaves",
+    "さらい屋 五葉",
+    "Sarai-ya Goyou"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx7588-iXCwrmgHGJbd.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7588",
+      "url": "https://anilist.co/anime/7588"
+    },
+    "cr": {
+      "id": "house-of-five-leaves",
+      "url": "https://www.crunchyroll.com/series/house-of-five-leaves"
+    },
+    "k": {
+      "id": "5041",
+      "url": "https://kitsu.io/anime/5041"
+    },
+    "mal": {
+      "id": "7588",
+      "url": "https://myanimelist.net/anime/7588"
+    },
+    "t": {
+      "id": "61102",
+      "url": "https://trakt.tv/shows/61102"
+    }
+  }
+}

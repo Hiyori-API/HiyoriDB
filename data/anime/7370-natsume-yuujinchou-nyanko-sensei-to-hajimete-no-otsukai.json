@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7370,
+  "slug": "natsume-yuujinchou-nyanko-sensei-to-hajimete-no-otsukai",
+  "kind": "anime",
+  "title": "Natsume Yuujinchou: Nyanko-sensei to Hajimete no Otsukai",
+  "titles": {
+    "default": "Natsume Yuujinchou: Nyanko-sensei to Hajimete no Otsukai",
+    "romaji": "Natsume Yuujinchou: Nyanko-sensei to Hajimete no Otsukai",
+    "english": "Natsume's Book of Friends: Nyanko-sensei & The First Errand",
+    "native": "夏目友人帳新 ニャンコ先生とはじめてのおつかい"
+  },
+  "synonyms": [
+    "Natsume Yuujinchou: Nyanko-sensei to Hajimete no Otsukai",
+    "Natsume's Book of Friends: Nyanko-sensei & The First Errand",
+    "夏目友人帳新 ニャンコ先生とはじめてのおつかい",
+    "Natsume Yuujinchou LaLa Special",
+    "Natsume Yujincho LaLa Special",
+    "夏目友人帳新作アニメDVD",
+    "Natsume's Book of Friends LaLa Special",
+    "Natsume Yuujinchou Go OVA",
+    "Natsume Yujin-cho 5 OVA"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18849.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "18849",
+      "url": "https://anilist.co/anime/18849"
+    },
+    "cr": {
+      "id": "watch/GRZX5DQVY/nyanko-sensei--the-first-errand",
+      "url": "https://www.crunchyroll.com/series/watch/GRZX5DQVY/nyanko-sensei--the-first-errand"
+    },
+    "k": {
+      "id": "7747",
+      "url": "https://kitsu.io/anime/7747"
+    },
+    "mal": {
+      "id": "18849",
+      "url": "https://myanimelist.net/anime/18849"
+    },
+    "tx": {
+      "id": "NatsumeYujincho",
+      "url": "https://twitter.com/NatsumeYujincho"
+    }
+  }
+}

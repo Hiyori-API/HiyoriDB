@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2180,
+  "slug": "metal-skin-panic-madox-01",
+  "kind": "anime",
+  "title": "Metal Skin Panic MADOX-01",
+  "titles": {
+    "default": "Metal Skin Panic MADOX-01",
+    "romaji": "Metal Skin Panic MADOX-01",
+    "native": "メタルスキンパニック ＭＡＤＯＸ－０１"
+  },
+  "synonyms": [
+    "Metal Skin Panic MADOX-01",
+    "メタルスキンパニック ＭＡＤＯＸ－０１",
+    "メタルスキンパニックMADOX-01"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx2461-VH2tMxZUh8H4.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2461",
+      "url": "https://anilist.co/anime/2461"
+    },
+    "k": {
+      "id": "2235",
+      "url": "https://kitsu.io/anime/2235"
+    },
+    "mal": {
+      "id": "2461",
+      "url": "https://myanimelist.net/anime/2461"
+    }
+  }
+}

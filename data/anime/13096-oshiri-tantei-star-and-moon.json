@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13096,
+  "slug": "oshiri-tantei-star-and-moon",
+  "kind": "anime",
+  "title": "Oshiri Tantei: STAR AND MOON",
+  "titles": {
+    "default": "Oshiri Tantei: STAR AND MOON",
+    "romaji": "Oshiri Tantei: STAR AND MOON",
+    "native": "おしりたんてい スター・アンド・ムーン"
+  },
+  "synonyms": [
+    "Oshiri Tantei: STAR AND MOON",
+    "おしりたんてい スター・アンド・ムーン",
+    "Neon Genesis Evangelion: Death & Rebirth",
+    "Shinseiki Evangelion Gekijouban: Shi to Shinsei",
+    "新世紀エヴァンゲリオン劇場版 シト新生",
+    "Neon Genesis Evangelion - Death and Rebirth"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b185643-GdoqcxGGXqq5.png"
+  ],
+  "references": {
+    "al": {
+      "id": "185643",
+      "url": "https://anilist.co/anime/185643"
+    },
+    "k": {
+      "id": "22",
+      "url": "https://kitsu.io/anime/22"
+    },
+    "mal": {
+      "id": "60613",
+      "url": "https://myanimelist.net/anime/60613"
+    },
+    "tx": {
+      "id": "o_tantei",
+      "url": "https://twitter.com/o_tantei"
+    }
+  }
+}

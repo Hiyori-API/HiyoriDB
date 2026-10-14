@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14339,
+  "slug": "kyoukasho-ni-nai",
+  "kind": "manga",
+  "title": "Kyoukasho ni Nai!",
+  "titles": {
+    "default": "Kyoukasho ni Nai!"
+  },
+  "synonyms": [
+    "Not in a Textbook!",
+    "Kyoukasho ni Nai",
+    "教科書にないッ！",
+    "Kare Kano: His and Her Circumstances",
+    "Kareshi Kanojo no Jijou",
+    "彼氏彼女の事情",
+    "His and Hers",
+    "The Tiger and the Chameleon: A Promise for One Week",
+    "Ashita Mata Mori de Aou ne",
+    "Meet Me Again Tomorrow in the Forest",
+    "KKNJ",
+    "Abareru Ousama",
+    "The Raging King"
+  ],
+  "type": "manga",
+  "chapters": 179,
+  "volumes": 18,
+  "status": "finished",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx32998-AGwndymNd3kp.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1271",
+      "url": "https://anilist.co/anime/1271"
+    },
+    "al_manga": {
+      "id": "1271",
+      "url": "https://anilist.co/manga/1271"
+    }
+  }
+}

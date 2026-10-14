@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2103,
+  "slug": "kisaku-spirit",
+  "kind": "anime",
+  "title": "Kisaku Spirit",
+  "titles": {
+    "default": "Kisaku Spirit",
+    "romaji": "Kisaku Spirit",
+    "english": "Kisaku Spirit: The Letch Lives",
+    "native": "鬼作 ～魂～"
+  },
+  "synonyms": [
+    "Kisaku Spirit",
+    "Kisaku Spirit: The Letch Lives",
+    "鬼作 ～魂～",
+    "Le Portrait de Petit Cossette",
+    "Cossette no Shouzou",
+    "コゼットの肖像",
+    "Le Portrait de Petite Cossette"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "spring",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2378.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2378",
+      "url": "https://anilist.co/anime/2378"
+    },
+    "k": {
+      "id": "473",
+      "url": "https://kitsu.io/anime/473"
+    },
+    "mal": {
+      "id": "2378",
+      "url": "https://myanimelist.net/anime/2378"
+    }
+  }
+}

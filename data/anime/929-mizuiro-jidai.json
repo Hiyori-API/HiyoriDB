@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 929,
+  "slug": "mizuiro-jidai",
+  "kind": "anime",
+  "title": "Mizuiro Jidai",
+  "titles": {
+    "default": "Mizuiro Jidai",
+    "romaji": "Mizuiro Jidai",
+    "native": "水色時代"
+  },
+  "synonyms": [
+    "Mizuiro Jidai",
+    "水色時代",
+    "Aqua Age",
+    "Blue Green Years",
+    "Temi d'amore",
+    "Temi d'amore tra i banchi di scuola"
+  ],
+  "type": "tv",
+  "episodes": 47,
+  "status": "finished",
+  "season": "spring",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1040.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1040",
+      "url": "https://anilist.co/anime/1040"
+    },
+    "k": {
+      "id": "930",
+      "url": "https://kitsu.io/anime/930"
+    },
+    "mal": {
+      "id": "1040",
+      "url": "https://myanimelist.net/anime/1040"
+    },
+    "t": {
+      "id": "46114",
+      "url": "https://trakt.tv/shows/46114"
+    }
+  }
+}

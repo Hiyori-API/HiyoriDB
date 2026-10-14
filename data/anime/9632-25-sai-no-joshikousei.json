@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9632,
+  "slug": "25-sai-no-joshikousei",
+  "kind": "anime",
+  "title": "25-sai no Joshikousei",
+  "titles": {
+    "default": "25-sai no Joshikousei",
+    "romaji": "25-sai no Joshikousei",
+    "english": "25-Year-Old High School Girl, I Wouldn't Do This with a Kid",
+    "native": "25歳の女子高生"
+  },
+  "synonyms": [
+    "25-sai no Joshikousei",
+    "25-Year-Old High School Girl, I Wouldn't Do This with a Kid",
+    "25歳の女子高生",
+    "The 25 Year Old High School Girl",
+    "Colegial aos 25",
+    "En Prepa a los 25",
+    "Slow Start",
+    "スロウスタート"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100635-KK4UhWU4LEsN.png"
+  ],
+  "references": {
+    "al": {
+      "id": "100635",
+      "url": "https://anilist.co/anime/100635"
+    },
+    "mal": {
+      "id": "36840",
+      "url": "https://myanimelist.net/anime/36840"
+    },
+    "tx": {
+      "id": "ComicFestaAnime",
+      "url": "https://twitter.com/ComicFestaAnime"
+    }
+  }
+}

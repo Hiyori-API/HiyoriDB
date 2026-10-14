@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9252,
+  "slug": "osomatsu-san-2nd-season",
+  "kind": "anime",
+  "title": "Osomatsu-san 2nd Season",
+  "titles": {
+    "default": "Osomatsu-san 2nd Season",
+    "romaji": "Osomatsu-san 2nd Season",
+    "english": "Mr. Osomatsu 2nd season",
+    "native": "おそ松さん 第2期"
+  },
+  "synonyms": [
+    "Osomatsu-san 2nd Season",
+    "Mr. Osomatsu 2nd season",
+    "おそ松さん 第2期",
+    "Mr. Osomatsu 2"
+  ],
+  "type": "tv",
+  "episodes": 25,
+  "status": "finished",
+  "season": "fall",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98565-SflMvnfkJY82.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98565",
+      "url": "https://anilist.co/anime/98565"
+    },
+    "cr": {
+      "id": "mr-osomatsu",
+      "url": "https://www.crunchyroll.com/series/mr-osomatsu"
+    },
+    "mal": {
+      "id": "35067",
+      "url": "https://myanimelist.net/anime/35067"
+    },
+    "tx": {
+      "id": "osomatsu_PR",
+      "url": "https://twitter.com/osomatsu_PR"
+    }
+  }
+}

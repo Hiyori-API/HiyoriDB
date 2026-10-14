@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8780,
+  "slug": "yowamushi-pedal-spare-bike",
+  "kind": "anime",
+  "title": "Yowamushi Pedal: SPARE BIKE",
+  "titles": {
+    "default": "Yowamushi Pedal: SPARE BIKE",
+    "romaji": "Yowamushi Pedal: SPARE BIKE",
+    "native": "弱虫ペダル SPARE BIKE"
+  },
+  "synonyms": [
+    "Yowamushi Pedal: SPARE BIKE",
+    "弱虫ペダル SPARE BIKE",
+    "Big Fish & Begonia",
+    "Da Yu Hai Tang",
+    "大鱼海棠",
+    "Da Hai",
+    "Big Fish & Chinese Flowering Crabapple",
+    "大魚海棠"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21806-hyCrjRqpjpMV.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21806",
+      "url": "https://anilist.co/anime/21806"
+    },
+    "k": {
+      "id": "6103",
+      "url": "https://kitsu.io/anime/6103"
+    },
+    "mal": {
+      "id": "33302",
+      "url": "https://myanimelist.net/anime/33302"
+    },
+    "tx": {
+      "id": "yowapeda_anime",
+      "url": "https://twitter.com/yowapeda_anime"
+    }
+  }
+}

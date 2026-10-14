@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14432,
+  "slug": "tobaku-mokushiroku-kaiji",
+  "kind": "manga",
+  "title": "Tobaku Mokushiroku Kaiji",
+  "titles": {
+    "default": "Tobaku Mokushiroku Kaiji"
+  },
+  "synonyms": [
+    "Tobaku Mokujiroku Kaiji",
+    "Kaiji",
+    "Gambling Apocalypse Kaiji",
+    "賭博黙示録カイジ",
+    "The Life and Times of an Idiot Section Chief",
+    "Kachou Baka Ichidachi",
+    "課長バカ一代",
+    "Kachou Baka Ichidai"
+  ],
+  "type": "manga",
+  "chapters": 158,
+  "volumes": 13,
+  "status": "finished",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33572-3M5IvzI17oEm.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3002",
+      "url": "https://anilist.co/anime/3002"
+    },
+    "al_manga": {
+      "id": "3002",
+      "url": "https://anilist.co/manga/3002"
+    }
+  }
+}

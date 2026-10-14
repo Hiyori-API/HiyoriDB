@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1909,
+  "slug": "saint-beast-kouin-jojishi-tenshi-tan",
+  "kind": "anime",
+  "title": "Saint Beast: Kouin Jojishi Tenshi Tan",
+  "titles": {
+    "default": "Saint Beast: Kouin Jojishi Tenshi Tan",
+    "romaji": "Saint Beast: Kouin Jojishi Tenshi Tan",
+    "native": "セイント・ビースト～光陰叙事詩天使譚～"
+  },
+  "synonyms": [
+    "Saint Beast: Kouin Jojishi Tenshi Tan",
+    "セイント・ビースト～光陰叙事詩天使譚～",
+    "Fera Sagrada 2"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2153-AwiATL74LIOf.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2153",
+      "url": "https://anilist.co/anime/2153"
+    },
+    "k": {
+      "id": "1949",
+      "url": "https://kitsu.io/anime/1949"
+    },
+    "mal": {
+      "id": "2153",
+      "url": "https://myanimelist.net/anime/2153"
+    },
+    "t": {
+      "id": "65458",
+      "url": "https://trakt.tv/shows/65458"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8932,
+  "slug": "91-daze",
+  "kind": "anime",
+  "title": "91 Daze",
+  "titles": {
+    "default": "91 Daze",
+    "romaji": "91 Daze"
+  },
+  "synonyms": [
+    "91 Daze",
+    "Sound! Euphonium 2 Specials",
+    "響け！ユーフォニアム2",
+    "Hibike! Euphonium 2 Specials"
+  ],
+  "type": "special",
+  "episodes": 7,
+  "status": "finished",
+  "season": "fall",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/104396-4kwKsF34tkky.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "104396",
+      "url": "https://anilist.co/anime/104396"
+    },
+    "mal": {
+      "id": "36756",
+      "url": "https://myanimelist.net/anime/36756"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 266,
+  "slug": "di-gi-charat",
+  "kind": "anime",
+  "title": "Di Gi Charat",
+  "titles": {
+    "default": "Di Gi Charat",
+    "romaji": "Di Gi Charat"
+  },
+  "synonyms": [
+    "Di Gi Charat",
+    "デ・ジ・キャラット",
+    "デ・ジ･キャラット",
+    "DiGi Charat"
+  ],
+  "type": "tv",
+  "episodes": 16,
+  "status": "finished",
+  "season": "fall",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b293-QHi2tGbPdJBH.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "293",
+      "url": "https://anilist.co/anime/293"
+    },
+    "k": {
+      "id": "268",
+      "url": "https://kitsu.io/anime/268"
+    },
+    "mal": {
+      "id": "293",
+      "url": "https://myanimelist.net/anime/293"
+    },
+    "t": {
+      "id": "42556",
+      "url": "https://trakt.tv/shows/42556"
+    }
+  }
+}

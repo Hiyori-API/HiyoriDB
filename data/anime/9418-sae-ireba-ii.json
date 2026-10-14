@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9418,
+  "slug": "sae-ireba-ii",
+  "kind": "anime",
+  "title": "○○ sae Ireba Ii.",
+  "titles": {
+    "default": "○○ sae Ireba Ii.",
+    "romaji": "○○ sae Ireba Ii.",
+    "native": "○○さえいればいい。"
+  },
+  "synonyms": [
+    "○○ sae Ireba Ii.",
+    "○○さえいればいい。",
+    "A Sister's All You Need (ONA)",
+    "Imouto sae Ireba Ii. (ONA)",
+    "妹さえいればいい。(ONA)",
+    "Marumaru sae Ireba Ii.",
+    "The Wings of Rean",
+    "Rean no Tsubasa",
+    "リーンの翼"
+  ],
+  "type": "ona",
+  "episodes": 6,
+  "status": "finished",
+  "season": "fall",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx102946-d2HJiCsuQeDf.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "102946",
+      "url": "https://anilist.co/anime/102946"
+    },
+    "k": {
+      "id": "531",
+      "url": "https://kitsu.io/anime/531"
+    },
+    "mal": {
+      "id": "37045",
+      "url": "https://myanimelist.net/anime/37045"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10712,
+  "slug": "zoids-wild-senki",
+  "kind": "anime",
+  "title": "Zoids Wild Senki",
+  "titles": {
+    "default": "Zoids Wild Senki",
+    "romaji": "Zoids Wild Senki",
+    "native": "ゾイドワイルド戦記"
+  },
+  "synonyms": [
+    "Zoids Wild Senki",
+    "ゾイドワイルド戦記",
+    "King of Fighters: Another Day",
+    "ザ・キング・オブ・ファイターズ アナザーデイ",
+    "KOF"
+  ],
+  "type": "ona",
+  "episodes": 4,
+  "status": "finished",
+  "season": "fall",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b147764-zFU2zVAoPkRZ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "147764",
+      "url": "https://anilist.co/anime/147764"
+    },
+    "k": {
+      "id": "732",
+      "url": "https://kitsu.io/anime/732"
+    },
+    "mal": {
+      "id": "42885",
+      "url": "https://myanimelist.net/anime/42885"
+    }
+  }
+}

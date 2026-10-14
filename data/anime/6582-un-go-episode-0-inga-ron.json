@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6582,
+  "slug": "un-go-episode-0-inga-ron",
+  "kind": "anime",
+  "title": "UN-GO episode:0 Inga-ron",
+  "titles": {
+    "default": "UN-GO episode:0 Inga-ron",
+    "romaji": "UN-GO episode:0 Inga-ron",
+    "english": "UN-GO MOVIE",
+    "native": "UN-GO episode:0 因果論"
+  },
+  "synonyms": [
+    "UN-GO episode:0 Inga-ron",
+    "UN-GO MOVIE",
+    "UN-GO episode:0 因果論",
+    "UN-GO: Inga-ron",
+    "UN-GO Episode 0: Chapter of Inga",
+    "UN-GO: Chapter of Inga"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11531-hsCTtgEDRAMs.png"
+  ],
+  "references": {
+    "al": {
+      "id": "11531",
+      "url": "https://anilist.co/anime/11531"
+    },
+    "k": {
+      "id": "6529",
+      "url": "https://kitsu.io/anime/6529"
+    },
+    "mal": {
+      "id": "11531",
+      "url": "https://myanimelist.net/anime/11531"
+    },
+    "t": {
+      "id": "64487",
+      "url": "https://trakt.tv/shows/64487"
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13020,
+  "slug": "a-rank-party-wo-ridatsu-shita-ore-wa-moto-oshiegotachi-to-meikyuu-shinbu-wo-mezasu",
+  "kind": "anime",
+  "title": "A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu.",
+  "titles": {
+    "default": "A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu.",
+    "romaji": "A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu.",
+    "english": "I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!",
+    "native": "Aランクパーティを離脱した俺は、元教え子たちと迷宮深部を目指す。"
+  },
+  "synonyms": [
+    "A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu.",
+    "I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!",
+    "Aランクパーティを離脱した俺は、元教え子たちと迷宮深部を目指す。",
+    "After Leaving the A-Rank Party, I Aim for the Deep Part of the Labyrinth With My Former Students",
+    "Aparida",
+    "Покинув группу А-ранга, я направился вместе со своими бывшими учениками в глубины лабиринта",
+    "Aku Meninggalkan Regu Peringkat-A untuk Membantu Mantan Muridku",
+    "Sau khi rời khỏi Tổ đội hạng A, Tôi thám hiểm Mê cung cùng Đệ tử cũ",
+    "Ah! My Goddess",
+    "Aa! Megami-sama! (TV)",
+    "ああっ女神さまっ",
+    "Ah! My Goddess! (TV)"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "winter",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180812-162w2RBaqJzE.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "180812",
+      "url": "https://anilist.co/anime/180812"
+    },
+    "cr": {
+      "id": "series/GKEH2G004/i-left-my-a-rank-party-to-help-my-former-students-reach-the-dungeon-depths",
+      "url": "https://www.crunchyroll.com/series/series/GKEH2G004/i-left-my-a-rank-party-to-help-my-former-students-reach-the-dungeon-depths"
+    },
+    "k": {
+      "id": "31",
+      "url": "https://kitsu.io/anime/31"
+    },
+    "mal": {
+      "id": "59730",
+      "url": "https://myanimelist.net/anime/59730"
+    },
+    "t": {
+      "id": "907",
+      "url": "https://trakt.tv/shows/907"
+    }
+  }
+}

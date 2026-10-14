@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1913,
+  "slug": "koutetsushin-jeeg",
+  "kind": "anime",
+  "title": "Koutetsushin Jeeg",
+  "titles": {
+    "default": "Koutetsushin Jeeg",
+    "romaji": "Koutetsushin Jeeg",
+    "native": "鋼鉄神ジーグ"
+  },
+  "synonyms": [
+    "Koutetsushin Jeeg",
+    "鋼鉄神ジーグ",
+    "Kotetsu Shin Jeeg",
+    "Steel Jeeg (2007)",
+    "Kotetsushin Jeeg"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2157-PUMZmpHr1mBy.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2157",
+      "url": "https://anilist.co/anime/2157"
+    },
+    "k": {
+      "id": "1953",
+      "url": "https://kitsu.io/anime/1953"
+    },
+    "mal": {
+      "id": "2157",
+      "url": "https://myanimelist.net/anime/2157"
+    },
+    "t": {
+      "id": "61452",
+      "url": "https://trakt.tv/shows/61452"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3200,
+  "slug": "coji-coji",
+  "kind": "anime",
+  "title": "Coji-Coji",
+  "titles": {
+    "default": "Coji-Coji",
+    "romaji": "Coji-Coji",
+    "native": "さくらももこ劇場 コジコジ"
+  },
+  "synonyms": [
+    "Coji-Coji",
+    "さくらももこ劇場 コジコジ",
+    "Coji Coji",
+    "Cojicoji",
+    "Kojikoji",
+    "Koji-koji",
+    "Sakura Momoko Gekijou: Coji-Coji",
+    "Sakura Momoko Theatre: Kojikoji"
+  ],
+  "type": "tv",
+  "episodes": 100,
+  "status": "finished",
+  "season": "fall",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3869.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3869",
+      "url": "https://anilist.co/anime/3869"
+    },
+    "k": {
+      "id": "3311",
+      "url": "https://kitsu.io/anime/3311"
+    },
+    "mal": {
+      "id": "3869",
+      "url": "https://myanimelist.net/anime/3869"
+    }
+  }
+}

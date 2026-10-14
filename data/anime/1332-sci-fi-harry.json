@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1332,
+  "slug": "sci-fi-harry",
+  "kind": "anime",
+  "title": "Sci-fi Harry",
+  "titles": {
+    "default": "Sci-fi Harry",
+    "romaji": "Sci-fi Harry",
+    "native": "サイファイハリー"
+  },
+  "synonyms": [
+    "Sci-fi Harry",
+    "サイファイハリー"
+  ],
+  "type": "tv",
+  "episodes": 20,
+  "status": "finished",
+  "season": "fall",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1508-SDXzbWv7uORF.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1508",
+      "url": "https://anilist.co/anime/1508"
+    },
+    "k": {
+      "id": "1353",
+      "url": "https://kitsu.io/anime/1353"
+    },
+    "mal": {
+      "id": "1508",
+      "url": "https://myanimelist.net/anime/1508"
+    },
+    "t": {
+      "id": "65393",
+      "url": "https://trakt.tv/shows/65393"
+    }
+  }
+}

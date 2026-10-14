@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14320,
+  "slug": "wei-an-assassin-and-white-shaman",
+  "kind": "manga",
+  "title": "Weiß: AN ASSASSIN AND WHITE SHAMAN",
+  "titles": {
+    "default": "Weiß: AN ASSASSIN AND WHITE SHAMAN"
+  },
+  "synonyms": [
+    "An Assassin and White Shaman",
+    "Weiss Kreuz",
+    "Knight Hunters",
+    "White Cross",
+    "ヴァイス-AN ASSASSIN AND WHITE SHAMAN",
+    "E's",
+    "エス",
+    "E's Otherwise",
+    "Es"
+  ],
+  "type": "manga",
+  "chapters": 9,
+  "volumes": 2,
+  "status": "finished",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2722.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "447",
+      "url": "https://anilist.co/anime/447"
+    },
+    "al_manga": {
+      "id": "447",
+      "url": "https://anilist.co/manga/447"
+    }
+  }
+}

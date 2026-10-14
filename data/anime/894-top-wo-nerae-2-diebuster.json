@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 894,
+  "slug": "top-wo-nerae-2-diebuster",
+  "kind": "anime",
+  "title": "Top wo Nerae 2! DIEBUSTER",
+  "titles": {
+    "default": "Top wo Nerae 2! DIEBUSTER",
+    "romaji": "Top wo Nerae 2! DIEBUSTER",
+    "english": "Gunbuster 2: Diebuster",
+    "native": "トップをねらえ2！DIEBUSTER"
+  },
+  "synonyms": [
+    "Top wo Nerae 2! DIEBUSTER",
+    "Gunbuster 2: Diebuster",
+    "トップをねらえ2！DIEBUSTER",
+    "Aim for the Top! 2",
+    "DieBuster",
+    "Gunbuster 2",
+    "Top wo Nerae 2! Diebuster"
+  ],
+  "type": "ova",
+  "episodes": 6,
+  "status": "finished",
+  "season": "fall",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx1002-W7vQj8WSzAxf.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1002",
+      "url": "https://anilist.co/anime/1002"
+    },
+    "ap": {
+      "id": "B07ZHM7WL1",
+      "url": "https://www.amazon.com/gp/video/detail/B07ZHM7WL1"
+    },
+    "k": {
+      "id": "892",
+      "url": "https://kitsu.io/anime/892"
+    },
+    "mal": {
+      "id": "1002",
+      "url": "https://myanimelist.net/anime/1002"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7303,
+  "slug": "freezing-vibration",
+  "kind": "anime",
+  "title": "Freezing Vibration",
+  "titles": {
+    "default": "Freezing Vibration",
+    "romaji": "Freezing Vibration",
+    "native": "フリージング ヴァイブレーション"
+  },
+  "synonyms": [
+    "Freezing Vibration",
+    "フリージング ヴァイブレーション",
+    "Unbreakable Machine-Doll",
+    "Machine-Doll wa Kizutsukanai",
+    "機巧少女〈マシンドール〉は傷つかない",
+    "Machine Girl wa Kizutsukanai",
+    "Kikou Shoujo wa Kizutsukanai"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18001-ORF1Yuxt1z0I.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "18001",
+      "url": "https://anilist.co/anime/18001"
+    },
+    "cr": {
+      "id": "freezing",
+      "url": "https://www.crunchyroll.com/series/freezing"
+    },
+    "k": {
+      "id": "7617",
+      "url": "https://kitsu.io/anime/7617"
+    },
+    "mal": {
+      "id": "18001",
+      "url": "https://myanimelist.net/anime/18001"
+    },
+    "t": {
+      "id": "72026",
+      "url": "https://trakt.tv/shows/72026"
+    }
+  }
+}

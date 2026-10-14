@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2530,
+  "slug": "pocket-monsters-diamond-pearl-dialga-vs-palkia-vs-darkrai",
+  "kind": "anime",
+  "title": "Pocket Monsters Diamond & Pearl: Dialga VS Palkia VS Darkrai",
+  "titles": {
+    "default": "Pocket Monsters Diamond & Pearl: Dialga VS Palkia VS Darkrai",
+    "romaji": "Pocket Monsters Diamond & Pearl: Dialga VS Palkia VS Darkrai",
+    "english": "Pokémon: The Rise of Darkrai",
+    "native": "ポケットモンスター ダイヤモンド＆パール ディアルガVSパルキアVSダークライ"
+  },
+  "synonyms": [
+    "Pocket Monsters Diamond & Pearl: Dialga VS Palkia VS Darkrai",
+    "Pokémon: The Rise of Darkrai",
+    "ポケットモンスター ダイヤモンド＆パール ディアルガVSパルキアVSダークライ",
+    "Pokemon Movie 10",
+    "Pokémon - Darkrai sin oppstand",
+    "Pokémon - Darkrai Slår Till",
+    "Pokemon: The Rise Of Darkrai",
+    "Pokemon Diamond & Pearl: Dialga vs. Palkia vs. Darkrai",
+    "Gekijouban Pocket Monsters Diamond and Pearl: Dialga vs. Palkia vs. Darkrai"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2847-BBQFXVTiy6H7.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2847",
+      "url": "https://anilist.co/anime/2847"
+    },
+    "k": {
+      "id": "2597",
+      "url": "https://kitsu.io/anime/2597"
+    },
+    "mal": {
+      "id": "2847",
+      "url": "https://myanimelist.net/anime/2847"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13828,
+  "slug": "bus-gamer",
+  "kind": "manga",
+  "title": "Bus Gamer",
+  "titles": {
+    "default": "Bus Gamer"
+  },
+  "synonyms": [
+    "Bus Gamer ビズ ゲーマー",
+    "The Pain in My Heart",
+    "Boku no Mune ga Itakutemo - Glass",
+    "ぼくの胸が痛くても GLASS"
+  ],
+  "type": "manga",
+  "chapters": 9,
+  "volumes": 1,
+  "status": "discontinued",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b37223-YkMA0J0UltS0.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3389",
+      "url": "https://anilist.co/anime/3389"
+    },
+    "al_manga": {
+      "id": "3389",
+      "url": "https://anilist.co/manga/3389"
+    }
+  }
+}

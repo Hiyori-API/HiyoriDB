@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12690,
+  "slug": "maou-gun-saikyou-no-majutsushi-wa-ningen-datta",
+  "kind": "anime",
+  "title": "Maou Gun Saikyou no Majutsushi wa Ningen datta",
+  "titles": {
+    "default": "Maou Gun Saikyou no Majutsushi wa Ningen datta",
+    "romaji": "Maou Gun Saikyou no Majutsushi wa Ningen datta",
+    "english": "The Strongest Magician in the Demon Lord's Army was a Human",
+    "native": "魔王軍最強の魔術師は人間だった"
+  },
+  "synonyms": [
+    "Maou Gun Saikyou no Majutsushi wa Ningen datta",
+    "The Strongest Magician in the Demon Lord's Army was a Human",
+    "魔王軍最強の魔術師は人間だった",
+    "Maou-gun Saikyou no Majutsushi wa Ningen datta",
+    "DearS",
+    "ディアーズ"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2024,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx173584-nyZElmr8218W.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "173584",
+      "url": "https://anilist.co/anime/173584"
+    },
+    "cr": {
+      "id": "series/GG5H5XQDD/the-strongest-magician-in-the-demon-lords-army-was-a-human",
+      "url": "https://www.crunchyroll.com/series/series/GG5H5XQDD/the-strongest-magician-in-the-demon-lords-army-was-a-human"
+    },
+    "k": {
+      "id": "44",
+      "url": "https://kitsu.io/anime/44"
+    },
+    "mal": {
+      "id": "57876",
+      "url": "https://myanimelist.net/anime/57876"
+    },
+    "t": {
+      "id": "61051",
+      "url": "https://trakt.tv/shows/61051"
+    },
+    "tx": {
+      "id": "maougun_pr",
+      "url": "https://twitter.com/maougun_pr"
+    }
+  }
+}

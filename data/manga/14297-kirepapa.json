@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14297,
+  "slug": "kirepapa",
+  "kind": "manga",
+  "title": "Kirepapa.",
+  "titles": {
+    "default": "Kirepapa."
+  },
+  "synonyms": [
+    "Kire Papa",
+    "Kirepapa.",
+    "Kireani",
+    "Kireani.",
+    "キレイでキレやすいパパ",
+    "Kirei de Kire Yasui Papa",
+    "Kirepapa",
+    "キレパパ。",
+    "xxxHOLiC",
+    "xxxHolic Rou",
+    "xxxHolic Cage",
+    "xxxHolic•Rou"
+  ],
+  "type": "manga",
+  "volumes": 4,
+  "status": "finished",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31997-4z8wvPPoHECM.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3375",
+      "url": "https://anilist.co/anime/3375"
+    },
+    "al_manga": {
+      "id": "3375",
+      "url": "https://anilist.co/manga/3375"
+    }
+  }
+}

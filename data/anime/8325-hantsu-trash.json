@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8325,
+  "slug": "hantsu-trash",
+  "kind": "anime",
+  "title": "Hantsu × Trash",
+  "titles": {
+    "default": "Hantsu × Trash",
+    "romaji": "Hantsu × Trash",
+    "native": "ハンツー×トラッシュ"
+  },
+  "synonyms": [
+    "Hantsu × Trash",
+    "ハンツー×トラッシュ",
+    "Sexy and Stupid Water Polo Comedy!!",
+    "Yona: The girl standing in the blush of dawn",
+    "Akatsuki no Yona: Sono Se ni wa",
+    "Akatsuki no Yona: Zeno-hen",
+    "Yona of the Dawn OVA",
+    "暁のヨナ",
+    "Akatsuki no Yona OVA"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "fall",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21336-34XQzzDs4mA6.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21336",
+      "url": "https://anilist.co/anime/21336"
+    },
+    "mal": {
+      "id": "31491",
+      "url": "https://myanimelist.net/anime/31491"
+    }
+  }
+}

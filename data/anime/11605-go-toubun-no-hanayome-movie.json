@@ -1,0 +1,58 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11605,
+  "slug": "go-toubun-no-hanayome-movie",
+  "kind": "anime",
+  "title": "Go-toubun no Hanayome Movie",
+  "titles": {
+    "default": "Go-toubun no Hanayome Movie",
+    "romaji": "Go-toubun no Hanayome Movie",
+    "english": "The Quintessential Quintuplets Movie",
+    "native": "映画 五等分の花嫁"
+  },
+  "synonyms": [
+    "Go-toubun no Hanayome Movie",
+    "The Quintessential Quintuplets Movie",
+    "映画 五等分の花嫁",
+    "5-toubun no Hanayome Movie",
+    "Eiga Go-toubun no Hanayome",
+    "เจ้าสาวผมเป็นแฝดห้า The Movie",
+    "Appleseed (Movie)",
+    "アップルシード",
+    "Appleseed (2004)"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131520-89Qfo8JnGHI3.png"
+  ],
+  "references": {
+    "al": {
+      "id": "131520",
+      "url": "https://anilist.co/anime/131520"
+    },
+    "cr": {
+      "id": "the-quintessential-quintuplets",
+      "url": "https://www.crunchyroll.com/series/the-quintessential-quintuplets"
+    },
+    "k": {
+      "id": "35",
+      "url": "https://kitsu.io/anime/35"
+    },
+    "mal": {
+      "id": "48548",
+      "url": "https://myanimelist.net/anime/48548"
+    },
+    "nf": {
+      "id": "81717895",
+      "url": "https://www.netflix.com/title/81717895"
+    },
+    "tx": {
+      "id": "5Hanayome_anime",
+      "url": "https://twitter.com/5Hanayome_anime"
+    }
+  }
+}

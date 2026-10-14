@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7535,
+  "slug": "toaru-hikuushi-e-no-koiuta",
+  "kind": "anime",
+  "title": "Toaru Hikuushi e no Koiuta",
+  "titles": {
+    "default": "Toaru Hikuushi e no Koiuta",
+    "romaji": "Toaru Hikuushi e no Koiuta",
+    "english": "The Pilot's Love Song",
+    "native": "とある飛空士への恋歌"
+  },
+  "synonyms": [
+    "Toaru Hikuushi e no Koiuta",
+    "The Pilot's Love Song",
+    "とある飛空士への恋歌",
+    "Love Song of a Certain Pilot"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19117-AIdJ4idSxNvD.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "19117",
+      "url": "https://anilist.co/anime/19117"
+    },
+    "ap": {
+      "id": "B07WNKFPHV",
+      "url": "https://www.amazon.com/gp/video/detail/B07WNKFPHV"
+    },
+    "cr": {
+      "id": "the-pilots-love-song",
+      "url": "https://www.crunchyroll.com/series/the-pilots-love-song"
+    },
+    "k": {
+      "id": "7770",
+      "url": "https://kitsu.io/anime/7770"
+    },
+    "mal": {
+      "id": "19117",
+      "url": "https://myanimelist.net/anime/19117"
+    },
+    "t": {
+      "id": "72244",
+      "url": "https://trakt.tv/shows/72244"
+    }
+  }
+}

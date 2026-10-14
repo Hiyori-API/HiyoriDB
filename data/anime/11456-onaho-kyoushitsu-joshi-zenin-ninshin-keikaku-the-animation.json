@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11456,
+  "slug": "onaho-kyoushitsu-joshi-zenin-ninshin-keikaku-the-animation",
+  "kind": "anime",
+  "title": "Onaho Kyoushitsu: Joshi Zenin Ninshin Keikaku The Animation",
+  "titles": {
+    "default": "Onaho Kyoushitsu: Joshi Zenin Ninshin Keikaku The Animation",
+    "romaji": "Onaho Kyoushitsu: Joshi Zenin Ninshin Keikaku The Animation",
+    "english": "Ona Hole Class Room The Animation",
+    "native": "オナホ教室 ～女子全員妊娠計画～ The Animation"
+  },
+  "synonyms": [
+    "Onaho Kyoushitsu: Joshi Zenin Ninshin Keikaku The Animation",
+    "Ona Hole Class Room The Animation",
+    "オナホ教室 ～女子全員妊娠計画～ The Animation",
+    "Given OVA",
+    "Given OAD",
+    "given - on the other hand",
+    "ギヴン うらがわの存在",
+    "Given: Uragawa no Sonzai"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137264-flneq3dMyzbE.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "137264",
+      "url": "https://anilist.co/anime/137264"
+    },
+    "mal": {
+      "id": "49524",
+      "url": "https://myanimelist.net/anime/49524"
+    }
+  }
+}

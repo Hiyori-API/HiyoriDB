@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3764,
+  "slug": "mahjong-hishou-den-naki-no-ryuu",
+  "kind": "anime",
+  "title": "Mahjong Hishou-den Naki no Ryuu",
+  "titles": {
+    "default": "Mahjong Hishou-den Naki no Ryuu",
+    "romaji": "Mahjong Hishou-den Naki no Ryuu",
+    "native": "麻雀飛翔伝 哭きの竜"
+  },
+  "synonyms": [
+    "Mahjong Hishou-den Naki no Ryuu",
+    "麻雀飛翔伝 哭きの竜",
+    "Weeping Dragon",
+    "Mahjong Hishouden: Naki no Ryuu"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "spring",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5151-z6Q3MguSsAuP.png"
+  ],
+  "references": {
+    "al": {
+      "id": "5151",
+      "url": "https://anilist.co/anime/5151"
+    },
+    "k": {
+      "id": "3950",
+      "url": "https://kitsu.io/anime/3950"
+    },
+    "mal": {
+      "id": "5151",
+      "url": "https://myanimelist.net/anime/5151"
+    }
+  }
+}

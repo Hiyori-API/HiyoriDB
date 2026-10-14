@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5783,
+  "slug": "shampoo-ouji",
+  "kind": "anime",
+  "title": "Shampoo Ouji",
+  "titles": {
+    "default": "Shampoo Ouji",
+    "romaji": "Shampoo Ouji",
+    "native": "シャンプー王子"
+  },
+  "synonyms": [
+    "Shampoo Ouji",
+    "シャンプー王子",
+    "Prism Ark",
+    "プリズム・アーク"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b141080-FvF1PjyFfuL3.png"
+  ],
+  "references": {
+    "al": {
+      "id": "141080",
+      "url": "https://anilist.co/anime/141080"
+    },
+    "k": {
+      "id": "1626",
+      "url": "https://kitsu.io/anime/1626"
+    },
+    "mal": {
+      "id": "35508",
+      "url": "https://myanimelist.net/anime/35508"
+    },
+    "t": {
+      "id": "64076",
+      "url": "https://trakt.tv/shows/64076"
+    }
+  }
+}

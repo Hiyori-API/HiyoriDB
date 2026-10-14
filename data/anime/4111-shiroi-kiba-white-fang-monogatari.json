@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4111,
+  "slug": "shiroi-kiba-white-fang-monogatari",
+  "kind": "anime",
+  "title": "Shiroi Kiba White Fang Monogatari",
+  "titles": {
+    "default": "Shiroi Kiba White Fang Monogatari",
+    "romaji": "Shiroi Kiba White Fang Monogatari",
+    "native": "白い牙 ホワイトファング物語"
+  },
+  "synonyms": [
+    "Shiroi Kiba White Fang Monogatari",
+    "白い牙 ホワイトファング物語",
+    "Shiroi Kiba: The Story of White Fang",
+    "White Fang Story.",
+    "White Fang",
+    "白い牙ホワイトファング物語",
+    "White Fang Story"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1982,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5933-aSMH32Ujh6Eu.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5933",
+      "url": "https://anilist.co/anime/5933"
+    },
+    "k": {
+      "id": "4349",
+      "url": "https://kitsu.io/anime/4349"
+    },
+    "mal": {
+      "id": "5933",
+      "url": "https://myanimelist.net/anime/5933"
+    }
+  }
+}

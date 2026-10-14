@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2349,
+  "slug": "dorami-doraemon-robot-gakkou-nanafushigi",
+  "kind": "anime",
+  "title": "Dorami & Doraemon: Robot Gakkou Nanafushigi?!",
+  "titles": {
+    "default": "Dorami & Doraemon: Robot Gakkou Nanafushigi?!",
+    "romaji": "Dorami & Doraemon: Robot Gakkou Nanafushigi?!",
+    "native": "ドラミ＆ドラえもんズ ロボット学校七不思議！？"
+  },
+  "synonyms": [
+    "Dorami & Doraemon: Robot Gakkou Nanafushigi?!",
+    "ドラミ＆ドラえもんズ ロボット学校七不思議！？",
+    "Dorami & Doraemons: Robot School's Seven Mysteries",
+    "Crayon Shin-chan Movie 04: Henderland no Daibouken",
+    "クレヨンしんちゃん ヘンダーランドの大冒険",
+    "Eiga Crayon Shin-chan: Henderland no Daibouken",
+    "Crayon Shin-chan: Adventure in Henderland"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2646.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2646",
+      "url": "https://anilist.co/anime/2646"
+    },
+    "k": {
+      "id": "5308",
+      "url": "https://kitsu.io/anime/5308"
+    },
+    "mal": {
+      "id": "2646",
+      "url": "https://myanimelist.net/anime/2646"
+    }
+  }
+}

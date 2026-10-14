@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13448,
+  "slug": "mao",
+  "kind": "anime",
+  "title": "MAO",
+  "titles": {
+    "default": "MAO",
+    "romaji": "MAO"
+  },
+  "synonyms": [
+    "MAO",
+    "マオ",
+    "MAO หาญสู้พลิกชะตาอาถรรพณ์",
+    "D.N.Angel",
+    "Ｄ・Ｎ・ＡＮＧＥＬ",
+    "DN Angel",
+    "DNAngel"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196012-R3YNjunufpYh.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "196012",
+      "url": "https://anilist.co/anime/196012"
+    },
+    "cr": {
+      "id": "series/GMEHME7KW/dnangel",
+      "url": "https://www.crunchyroll.com/series/series/GMEHME7KW/dnangel"
+    },
+    "k": {
+      "id": "42",
+      "url": "https://kitsu.io/anime/42"
+    },
+    "mal": {
+      "id": "62048",
+      "url": "https://myanimelist.net/anime/62048"
+    },
+    "t": {
+      "id": "25561",
+      "url": "https://trakt.tv/shows/25561"
+    }
+  }
+}

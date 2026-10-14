@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6579,
+  "slug": "babuka-gokudou-no-tsuma",
+  "kind": "anime",
+  "title": "BaBuKa: Gokudou no Tsuma",
+  "titles": {
+    "default": "BaBuKa: Gokudou no Tsuma",
+    "romaji": "BaBuKa: Gokudou no Tsuma",
+    "native": "BaBuKa -極道の妻-"
+  },
+  "synonyms": [
+    "BaBuKa: Gokudou no Tsuma",
+    "BaBuKa -極道の妻-",
+    "BaBuKa: Immoral Wife",
+    "Babuka",
+    "District Welfare Office Woman",
+    "Legend of the Heroes: Trails in the Sky",
+    "Eiyuu Densetsu: Sora no Kiseki The Animation",
+    "英雄伝説 空の軌跡 THE ANIMATION"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11469.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11469",
+      "url": "https://anilist.co/anime/11469"
+    },
+    "k": {
+      "id": "6104",
+      "url": "https://kitsu.io/anime/6104"
+    },
+    "mal": {
+      "id": "11469",
+      "url": "https://myanimelist.net/anime/11469"
+    }
+  }
+}

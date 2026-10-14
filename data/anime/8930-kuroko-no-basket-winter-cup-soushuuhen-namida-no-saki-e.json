@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8930,
+  "slug": "kuroko-no-basket-winter-cup-soushuuhen-namida-no-saki-e",
+  "kind": "anime",
+  "title": "Kuroko no Basket: Winter Cup Soushuuhen - Namida no Saki e",
+  "titles": {
+    "default": "Kuroko no Basket: Winter Cup Soushuuhen - Namida no Saki e",
+    "romaji": "Kuroko no Basket: Winter Cup Soushuuhen - Namida no Saki e",
+    "english": "Winter Cup Highlights Episode 2 – Winter Cup Highlights -Beyond the Tears-",
+    "native": "黒子のバスケ ウインターカップ総集編　～涙の先へ～"
+  },
+  "synonyms": [
+    "Kuroko no Basket: Winter Cup Soushuuhen - Namida no Saki e",
+    "Winter Cup Highlights Episode 2 – Winter Cup Highlights -Beyond the Tears-",
+    "黒子のバスケ ウインターカップ総集編　～涙の先へ～",
+    "Kuroko's Basketball Movie 2: Winter Cup Highlights - Beyond the Tears",
+    "In This Corner of the World",
+    "Kono Sekai no Katasumi ni",
+    "この世界の片隅に",
+    "To All the Corners of the World"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx102836-dd3IsyfTSdD1.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "102836",
+      "url": "https://anilist.co/anime/102836"
+    },
+    "cr": {
+      "id": "kurokos-basketball",
+      "url": "https://www.crunchyroll.com/series/kurokos-basketball"
+    },
+    "k": {
+      "id": "7234",
+      "url": "https://kitsu.io/anime/7234"
+    },
+    "mal": {
+      "id": "32870",
+      "url": "https://myanimelist.net/anime/32870"
+    },
+    "nf": {
+      "id": "80192244",
+      "url": "https://www.netflix.com/title/80192244"
+    }
+  }
+}

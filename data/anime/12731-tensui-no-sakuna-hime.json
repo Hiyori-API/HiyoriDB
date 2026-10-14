@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12731,
+  "slug": "tensui-no-sakuna-hime",
+  "kind": "anime",
+  "title": "Tensui no Sakuna-hime",
+  "titles": {
+    "default": "Tensui no Sakuna-hime",
+    "romaji": "Tensui no Sakuna-hime",
+    "english": "Sakuna: Of Rice and Ruin",
+    "native": "天穂のサクナヒメ"
+  },
+  "synonyms": [
+    "Tensui no Sakuna-hime",
+    "Sakuna: Of Rice and Ruin",
+    "天穂のサクナヒメ",
+    "天穗之咲稻姬",
+    "Mahoako",
+    "Looking up to Magical Girls",
+    "I Admire Magical Girls, and...",
+    "Gushing over Magical Girls",
+    "魔法少女にあこがれて",
+    "Mahou Shoujo ni Akogarete"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2024,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175868-oSzeoiq8nAkj.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "175868",
+      "url": "https://anilist.co/anime/175868"
+    },
+    "cr": {
+      "id": "series/G8DHV78W7/sakuna-of-rice-and-ruin",
+      "url": "https://www.crunchyroll.com/series/series/G8DHV78W7/sakuna-of-rice-and-ruin"
+    },
+    "mal": {
+      "id": "58357",
+      "url": "https://myanimelist.net/anime/58357"
+    },
+    "nf": {
+      "id": "81914001",
+      "url": "https://www.netflix.com/title/81914001"
+    },
+    "tx": {
+      "id": "sakuna_anime",
+      "url": "https://twitter.com/sakuna_anime"
+    }
+  }
+}

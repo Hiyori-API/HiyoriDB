@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14810,
+  "slug": "shin-taketori-monogatari-1000-nen-joou",
+  "kind": "manga",
+  "title": "Shin Taketori Monogatari: 1000-nen Joou",
+  "titles": {
+    "default": "Shin Taketori Monogatari: 1000-nen Joou"
+  },
+  "synonyms": [
+    "Queen Millennia",
+    "Die Königin der 1000 Jahre",
+    "新竹取物語 1000年女王",
+    "Maison Ikkoku",
+    "めぞん一刻"
+  ],
+  "type": "manga",
+  "chapters": 1000,
+  "volumes": 5,
+  "status": "finished",
+  "year": 1980,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b112189-TYieelH4HFZ7.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1495",
+      "url": "https://anilist.co/anime/1548"
+    },
+    "al_manga": {
+      "id": "1495",
+      "url": "https://anilist.co/manga/1495"
+    }
+  }
+}

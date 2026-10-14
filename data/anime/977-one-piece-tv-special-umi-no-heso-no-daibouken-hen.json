@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 977,
+  "slug": "one-piece-tv-special-umi-no-heso-no-daibouken-hen",
+  "kind": "anime",
+  "title": "ONE PIECE TV Special: Umi no Heso no Daibouken-hen",
+  "titles": {
+    "default": "ONE PIECE TV Special: Umi no Heso no Daibouken-hen",
+    "romaji": "ONE PIECE TV Special: Umi no Heso no Daibouken-hen",
+    "english": "One Piece: Umi no Heso no Daibouken-hen",
+    "native": "ONE PIECE TVスペシャル 海のヘソの大冒険篇"
+  },
+  "synonyms": [
+    "ONE PIECE TV Special: Umi no Heso no Daibouken-hen",
+    "One Piece: Umi no Heso no Daibouken-hen",
+    "ONE PIECE TVスペシャル 海のヘソの大冒険篇",
+    "One Piece: Avventura nell'ombelico dell'oceano",
+    "One Piece Special: Adventure in the Ocean's Navel",
+    "วันพีซ ภาคพิเศษ 1 การผจญภัยใต้มหาสมุทร",
+    "Vua Hải Tặc: Cuộc phiêu lưu vào rốn đại dương",
+    "One Piece Special: Luffy Falls! Adventure in the Navel of the Sea",
+    "ワンピース ルフィ落下!秘境・海のヘソの大冒険"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1094-H3YFJ1TR0ZZi.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1094",
+      "url": "https://anilist.co/anime/1094"
+    },
+    "k": {
+      "id": "979",
+      "url": "https://kitsu.io/anime/979"
+    },
+    "mal": {
+      "id": "1094",
+      "url": "https://myanimelist.net/anime/1094"
+    }
+  }
+}

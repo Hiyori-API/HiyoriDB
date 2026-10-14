@@ -1,0 +1,58 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 804,
+  "slug": "dragon-ball-z-kyokugen-battle-sandai-super-saiyajin",
+  "kind": "anime",
+  "title": "Dragon Ball Z: Kyokugen Battle!! Sandai Super Saiyajin",
+  "titles": {
+    "default": "Dragon Ball Z: Kyokugen Battle!! Sandai Super Saiyajin",
+    "romaji": "Dragon Ball Z: Kyokugen Battle!! Sandai Super Saiyajin",
+    "english": "Dragon Ball Z: Super Android 13!",
+    "native": "ドラゴンボールＺ 極限バトル！三大超サイヤ人"
+  },
+  "synonyms": [
+    "Dragon Ball Z: Kyokugen Battle!! Sandai Super Saiyajin",
+    "Dragon Ball Z: Super Android 13!",
+    "ドラゴンボールＺ 極限バトル！三大超サイヤ人",
+    "Dragon Ball Z: Utmost Limits of Battle!! The Three Super Saiyajin",
+    "Dragon Ball Z: Super Battle of Three Super Saiyas",
+    "ดราก้อนบอล Z เดอะมูฟวี่ 7 ซูเปอร์ไซย่า ปะทะ มนุษย์ดัดแปลง",
+    "Bảy Viên Ngọc Rồng Z: Người Máy Số 13",
+    "DBZ: Super Android 13!",
+    "DBZ: Kyokugen Battle!! Sandai Super Saiyajin",
+    "DBZ: Super Battle",
+    "DBZ: Utmost Limits of Battle!! The Three Super Saiyajin",
+    "Dragon Ball Z: De 3 androiderna",
+    "Dragon Ball Z: De Tre Androiderene",
+    "Dragon Ball Z Movie 7",
+    "Драконий жемчуг Зет: Суперандроид 13",
+    "Dragon Ball Z Movie 07: Super Android 13",
+    "Dragon Ball Z Movie 07: Kyokugen Battle!! Sandai Super Saiyajin"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/900-cNaooAiGtuYv.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "900",
+      "url": "https://anilist.co/anime/900"
+    },
+    "cr": {
+      "id": "series/GMTE00002916/dragon-ball-z-super-android-13",
+      "url": "https://www.crunchyroll.com/series/series/GMTE00002916/dragon-ball-z-super-android-13"
+    },
+    "k": {
+      "id": "800",
+      "url": "https://kitsu.io/anime/800"
+    },
+    "mal": {
+      "id": "900",
+      "url": "https://myanimelist.net/anime/900"
+    }
+  }
+}

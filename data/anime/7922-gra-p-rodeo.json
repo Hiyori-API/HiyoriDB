@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7922,
+  "slug": "gra-p-rodeo",
+  "kind": "anime",
+  "title": "Gra-P & Rodeo",
+  "titles": {
+    "default": "Gra-P & Rodeo",
+    "romaji": "Gra-P & Rodeo",
+    "native": "ぐらＰ＆ろで夫"
+  },
+  "synonyms": [
+    "Gra-P & Rodeo",
+    "ぐらＰ＆ろで夫",
+    "Dragonball Kai",
+    "DBK",
+    "DB Kai",
+    "DBZ Kai",
+    "Dragon Ball Z Kai: The Final Chapters",
+    "ドラゴンボール改",
+    "Dragon Ball Kai (2014)"
+  ],
+  "type": "tv",
+  "episodes": 61,
+  "status": "finished",
+  "season": "fall",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21809-6NE8DgcYS1q3.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21809",
+      "url": "https://anilist.co/anime/21809"
+    },
+    "mal": {
+      "id": "27521",
+      "url": "https://myanimelist.net/anime/27521"
+    }
+  }
+}

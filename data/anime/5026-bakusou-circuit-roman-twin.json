@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5026,
+  "slug": "bakusou-circuit-roman-twin",
+  "kind": "anime",
+  "title": "Bakusou Circuit Roman TWIN",
+  "titles": {
+    "default": "Bakusou Circuit Roman TWIN",
+    "romaji": "Bakusou Circuit Roman TWIN",
+    "native": "爆走サーキット・ロマン TWIN"
+  },
+  "synonyms": [
+    "Bakusou Circuit Roman TWIN",
+    "爆走サーキット・ロマン TWIN",
+    "Bakusou Circuit Roman Twin",
+    "爆走サーキット·ロマン TWIN"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx13553-lKHqxkl6LGn5.png"
+  ],
+  "references": {
+    "al": {
+      "id": "13553",
+      "url": "https://anilist.co/anime/13553"
+    },
+    "k": {
+      "id": "6992",
+      "url": "https://kitsu.io/anime/6992"
+    },
+    "mal": {
+      "id": "13553",
+      "url": "https://myanimelist.net/anime/13553"
+    }
+  }
+}

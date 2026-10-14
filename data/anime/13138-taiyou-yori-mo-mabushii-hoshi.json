@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13138,
+  "slug": "taiyou-yori-mo-mabushii-hoshi",
+  "kind": "anime",
+  "title": "Taiyou yori mo Mabushii Hoshi",
+  "titles": {
+    "default": "Taiyou yori mo Mabushii Hoshi",
+    "romaji": "Taiyou yori mo Mabushii Hoshi",
+    "english": "A Star Brighter Than the Sun",
+    "native": "太陽よりも眩しい星"
+  },
+  "synonyms": [
+    "Taiyou yori mo Mabushii Hoshi",
+    "A Star Brighter Than the Sun",
+    "太陽よりも眩しい星",
+    "たまほし",
+    "TamaHoshi",
+    "Una estrella más radiante que el Sol",
+    "Gwiazda jaśniejsza od Słońca",
+    "ดวงดาราเจิดจรัสเกินตะวัน",
+    "Uma Estrela Mais Radiante Que o Sol",
+    "Ring ni Kakero 1",
+    "リングにかけろ１",
+    "Put it all in the Ring"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186621-jFeAgDQkQMUm.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "186621",
+      "url": "https://anilist.co/anime/186621"
+    },
+    "k": {
+      "id": "14",
+      "url": "https://kitsu.io/anime/14"
+    },
+    "mal": {
+      "id": "60969",
+      "url": "https://myanimelist.net/anime/60969"
+    },
+    "t": {
+      "id": "69507",
+      "url": "https://trakt.tv/shows/69507"
+    }
+  }
+}

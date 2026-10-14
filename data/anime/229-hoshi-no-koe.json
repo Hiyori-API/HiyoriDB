@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 229,
+  "slug": "hoshi-no-koe",
+  "kind": "anime",
+  "title": "Hoshi no Koe",
+  "titles": {
+    "default": "Hoshi no Koe",
+    "romaji": "Hoshi no Koe",
+    "english": "Voices of a Distant Star",
+    "native": "ほしのこえ"
+  },
+  "synonyms": [
+    "Hoshi no Koe",
+    "Voices of a Distant Star",
+    "ほしのこえ",
+    "เสียงเพรียกแห่งดวงดาว",
+    "Głosy z odległej gwiazdy",
+    "La voce delle stelle"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx256-CMHbugPOGxF6.png"
+  ],
+  "references": {
+    "al": {
+      "id": "256",
+      "url": "https://anilist.co/anime/256"
+    },
+    "cr": {
+      "id": "voices-of-a-distant-star",
+      "url": "https://www.crunchyroll.com/series/voices-of-a-distant-star"
+    },
+    "k": {
+      "id": "231",
+      "url": "https://kitsu.io/anime/231"
+    },
+    "mal": {
+      "id": "256",
+      "url": "https://myanimelist.net/anime/256"
+    }
+  }
+}

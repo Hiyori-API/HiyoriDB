@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3831,
+  "slug": "tondemo-nezumi-daikatsuyaku",
+  "kind": "anime",
+  "title": "Tondemo Nezumi Daikatsuyaku",
+  "titles": {
+    "default": "Tondemo Nezumi Daikatsuyaku",
+    "romaji": "Tondemo Nezumi Daikatsuyaku",
+    "english": "The Legend of Manxmouse",
+    "native": "トンデモネズミ大活躍"
+  },
+  "synonyms": [
+    "Tondemo Nezumi Daikatsuyaku",
+    "The Legend of Manxmouse",
+    "トンデモネズミ大活躍",
+    "Manxmouse",
+    "Aim for the Ace! (1979)",
+    "Ace wo Nerae! (1979)",
+    "エースをねらえ！",
+    "Ace o Nerae: Theatrical Version",
+    "Aim for the Ace! Movie",
+    "Aim for the Best!",
+    "Jump High Hiromi!"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1979,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5272-xhPx7inHv34N.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5272",
+      "url": "https://anilist.co/anime/5272"
+    },
+    "k": {
+      "id": "283",
+      "url": "https://kitsu.io/anime/283"
+    },
+    "mal": {
+      "id": "5272",
+      "url": "https://myanimelist.net/anime/5272"
+    }
+  }
+}

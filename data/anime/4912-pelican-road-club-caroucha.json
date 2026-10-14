@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4912,
+  "slug": "pelican-road-club-caroucha",
+  "kind": "anime",
+  "title": "Pelican Road: Club Caroucha",
+  "titles": {
+    "default": "Pelican Road: Club Caroucha",
+    "romaji": "Pelican Road: Club Caroucha",
+    "native": "ペリカンロード クラブ・カルーチャ"
+  },
+  "synonyms": [
+    "Pelican Road: Club Caroucha",
+    "ペリカンロード クラブ・カルーチャ",
+    "Pelikan Road Club Culture",
+    "Johnny o Motoqueiro",
+    "Call Me Tonight",
+    "コール・ミー・トゥナイト",
+    "Pink Noise"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8324.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8324",
+      "url": "https://anilist.co/anime/8324"
+    },
+    "k": {
+      "id": "1944",
+      "url": "https://kitsu.io/anime/1944"
+    },
+    "mal": {
+      "id": "8324",
+      "url": "https://myanimelist.net/anime/8324"
+    }
+  }
+}

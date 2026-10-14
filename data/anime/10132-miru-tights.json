@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10132,
+  "slug": "miru-tights",
+  "kind": "anime",
+  "title": "Miru Tights",
+  "titles": {
+    "default": "Miru Tights",
+    "romaji": "Miru Tights",
+    "native": "みるタイツ"
+  },
+  "synonyms": [
+    "Miru Tights",
+    "みるタイツ",
+    "絲襪視界",
+    "丝袜视界"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx106967-7gsr6SKbeYiN.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "106967",
+      "url": "https://anilist.co/anime/106967"
+    },
+    "mal": {
+      "id": "38935",
+      "url": "https://myanimelist.net/anime/38935"
+    }
+  }
+}

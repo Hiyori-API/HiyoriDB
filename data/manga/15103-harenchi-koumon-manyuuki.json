@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15103,
+  "slug": "harenchi-koumon-manyuuki",
+  "kind": "manga",
+  "title": "Harenchi Koumon Manyuuki",
+  "titles": {
+    "default": "Harenchi Koumon Manyuuki"
+  },
+  "synonyms": [
+    "ハレンチ紅門マン遊記",
+    "Yokohama Kaidashi Kikou",
+    "ヨコハマ買い出し紀行",
+    "Yokohama Shopping Log",
+    "Yokohama Shopping Trip",
+    "Touge"
+  ],
+  "type": "manga",
+  "chapters": 25,
+  "volumes": 2,
+  "status": "finished",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx138138-ToZUZU5pXT8D.png"
+  ],
+  "references": {
+    "al": {
+      "id": "5566",
+      "url": "https://anilist.co/anime/5566"
+    },
+    "al_manga": {
+      "id": "5566",
+      "url": "https://anilist.co/manga/5566"
+    }
+  }
+}

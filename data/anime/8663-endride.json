@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8663,
+  "slug": "endride",
+  "kind": "anime",
+  "title": "Endride",
+  "titles": {
+    "default": "Endride",
+    "romaji": "Endride",
+    "native": "エンドライド"
+  },
+  "synonyms": [
+    "Endride",
+    "エンドライド",
+    "Nijiiro Days",
+    "Rainbow Days",
+    "虹色デイズ"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "spring",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21611-J75lzaBJAJun.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21611",
+      "url": "https://anilist.co/anime/21611"
+    },
+    "cr": {
+      "id": "endride",
+      "url": "https://www.crunchyroll.com/series/endride"
+    },
+    "mal": {
+      "id": "32608",
+      "url": "https://myanimelist.net/anime/32608"
+    },
+    "tx": {
+      "id": "endride_anime",
+      "url": "https://twitter.com/endride_anime"
+    }
+  }
+}

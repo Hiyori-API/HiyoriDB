@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 491,
+  "slug": "bishoujo-senshi-sailor-moon",
+  "kind": "anime",
+  "title": "Bishoujo Senshi Sailor Moon",
+  "titles": {
+    "default": "Bishoujo Senshi Sailor Moon",
+    "romaji": "Bishoujo Senshi Sailor Moon",
+    "english": "Sailor Moon",
+    "native": "美少女戦士セーラームーン"
+  },
+  "synonyms": [
+    "Bishoujo Senshi Sailor Moon",
+    "Sailor Moon",
+    "美少女戦士セーラームーン",
+    "Pretty Soldier Sailor Moon",
+    "Czarodziejka z Księżyca",
+    "Navegante da Lua",
+    "Sailor Moon - Das Mädchen mit den Zauberkräften"
+  ],
+  "type": "tv",
+  "episodes": 46,
+  "status": "finished",
+  "season": "winter",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx530-O8q6KpJ244Qk.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "530",
+      "url": "https://anilist.co/anime/530"
+    },
+    "k": {
+      "id": "489",
+      "url": "https://kitsu.io/anime/489"
+    },
+    "mal": {
+      "id": "530",
+      "url": "https://myanimelist.net/anime/530"
+    },
+    "t": {
+      "id": "3548",
+      "url": "https://trakt.tv/shows/3548"
+    }
+  }
+}

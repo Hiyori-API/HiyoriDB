@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4556,
+  "slug": "yoroshiku-mechadoc",
+  "kind": "anime",
+  "title": "Yoroshiku Mechadoc",
+  "titles": {
+    "default": "Yoroshiku Mechadoc",
+    "romaji": "Yoroshiku Mechadoc",
+    "english": "Mecha-Doc",
+    "native": "よろしくメカドック"
+  },
+  "synonyms": [
+    "Yoroshiku Mechadoc",
+    "Mecha-Doc",
+    "よろしくメカドック",
+    "A Tutto Gas",
+    "What's Up Mechadoc",
+    "Leave it to Mecha-Doc",
+    "Yoroshiku Mechadock",
+    "Yoroshiku Mecha Doc"
+  ],
+  "type": "tv",
+  "episodes": 30,
+  "status": "finished",
+  "season": "fall",
+  "year": 1984,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx7160-Rm14M3T11JfI.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7160",
+      "url": "https://anilist.co/anime/7160"
+    },
+    "k": {
+      "id": "4886",
+      "url": "https://kitsu.io/anime/4886"
+    },
+    "mal": {
+      "id": "7160",
+      "url": "https://myanimelist.net/anime/7160"
+    }
+  }
+}

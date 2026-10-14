@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9125,
+  "slug": "sakura-quest",
+  "kind": "anime",
+  "title": "Sakura Quest",
+  "titles": {
+    "default": "Sakura Quest",
+    "romaji": "Sakura Quest",
+    "native": "サクラクエスト"
+  },
+  "synonyms": [
+    "Sakura Quest",
+    "サクラクエスト"
+  ],
+  "type": "tv",
+  "episodes": 25,
+  "status": "finished",
+  "season": "spring",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97903-x34aD15XP8hZ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "97903",
+      "url": "https://anilist.co/anime/97903"
+    },
+    "cr": {
+      "id": "sakura-quest",
+      "url": "https://www.crunchyroll.com/series/sakura-quest"
+    },
+    "mal": {
+      "id": "34494",
+      "url": "https://myanimelist.net/anime/34494"
+    },
+    "tx": {
+      "id": "manoyama_PR",
+      "url": "https://twitter.com/manoyama_PR"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 852,
+  "slug": "shin-chou-kyou-ryo-condor-hero",
+  "kind": "anime",
+  "title": "Shin Chou Kyou Ryo: Condor Hero",
+  "titles": {
+    "default": "Shin Chou Kyou Ryo: Condor Hero",
+    "romaji": "Shin Chou Kyou Ryo: Condor Hero",
+    "english": "Legend of Condor Hero",
+    "native": "神鵰侠侶 コンドルヒーロー"
+  },
+  "synonyms": [
+    "Shin Chou Kyou Ryo: Condor Hero",
+    "Legend of Condor Hero",
+    "神鵰侠侶 コンドルヒーロー",
+    "Shen Diao Xia Lu",
+    "The Legend of Condor Hero"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/959.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "959",
+      "url": "https://anilist.co/anime/959"
+    },
+    "k": {
+      "id": "849",
+      "url": "https://kitsu.io/anime/849"
+    },
+    "mal": {
+      "id": "959",
+      "url": "https://myanimelist.net/anime/959"
+    },
+    "t": {
+      "id": "37400",
+      "url": "https://trakt.tv/shows/37400"
+    }
+  }
+}

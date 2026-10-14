@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1645,
+  "slug": "rockman-hoshi-ni-negai-wo",
+  "kind": "anime",
+  "title": "Rockman Hoshi ni Negai wo",
+  "titles": {
+    "default": "Rockman Hoshi ni Negai wo",
+    "romaji": "Rockman Hoshi ni Negai wo",
+    "english": "Mega Man: Upon a Star",
+    "native": "ロックマン星に願いを"
+  },
+  "synonyms": [
+    "Rockman Hoshi ni Negai wo",
+    "Mega Man: Upon a Star",
+    "ロックマン星に願いを",
+    "Rockman OVA",
+    "Rockman Wishing Upon a Star",
+    "MegaMan: Wishing upon a Star",
+    "Rockman OAV"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "fall",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1854-8qWMEFsdFcWw.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1854",
+      "url": "https://anilist.co/anime/1854"
+    },
+    "k": {
+      "id": "1671",
+      "url": "https://kitsu.io/anime/1671"
+    },
+    "mal": {
+      "id": "1854",
+      "url": "https://myanimelist.net/anime/1854"
+    }
+  }
+}

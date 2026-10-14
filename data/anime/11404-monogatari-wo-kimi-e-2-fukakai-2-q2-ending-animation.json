@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11404,
+  "slug": "monogatari-wo-kimi-e-2-fukakai-2-q2-ending-animation",
+  "kind": "anime",
+  "title": "Monogatari wo kimi e. #2 - Fukakai 2 Q2 Ending Animation",
+  "titles": {
+    "default": "Monogatari wo kimi e. #2 - Fukakai 2 Q2 Ending Animation",
+    "romaji": "Monogatari wo kimi e. #2 - Fukakai 2 Q2 Ending Animation",
+    "native": "物語を君へ。#2 -不可解弐Q2 エンディングアニメーション-"
+  },
+  "synonyms": [
+    "Monogatari wo kimi e. #2 - Fukakai 2 Q2 Ending Animation",
+    "物語を君へ。#2 -不可解弐Q2 エンディングアニメーション-",
+    "Shiguang Dailiren Episode 5.5",
+    "Link Click Episode 5.5",
+    "时光代理人 番外篇 比武招亲",
+    "Shiguang Dailiren Fanwai Pian: Biwu Zhaoqin"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx133146-ZB6OmDiMTD1D.png"
+  ],
+  "references": {
+    "al": {
+      "id": "133146",
+      "url": "https://anilist.co/anime/133146"
+    },
+    "mal": {
+      "id": "49200",
+      "url": "https://myanimelist.net/anime/49200"
+    },
+    "yt": {
+      "id": "vBnSA-zKb0I",
+      "url": "https://www.youtube.com/watch?v=vBnSA-zKb0I"
+    }
+  }
+}

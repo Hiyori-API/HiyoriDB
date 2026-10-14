@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5260,
+  "slug": "kero-kero-keroppi-no-tomodachi-wa-mahou-tsukai",
+  "kind": "anime",
+  "title": "Kero Kero Keroppi no Tomodachi wa Mahou Tsukai",
+  "titles": {
+    "default": "Kero Kero Keroppi no Tomodachi wa Mahou Tsukai",
+    "romaji": "Kero Kero Keroppi no Tomodachi wa Mahou Tsukai",
+    "native": "けろけろけろっぴの友だちは魔法使い"
+  },
+  "synonyms": [
+    "Kero Kero Keroppi no Tomodachi wa Mahou Tsukai",
+    "けろけろけろっぴの友だちは魔法使い",
+    "Pekkle in the Great Swimming Race",
+    "Ahiru no Pekkle no Suieitaikai wa Oosawagi",
+    "アヒルのペックルの水泳大会は大騷ぎ",
+    "Hello Kitty and Friends: The Great Swimming Race"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b139026-q0Bl6QcyZIDQ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "139026",
+      "url": "https://anilist.co/anime/139026"
+    },
+    "k": {
+      "id": "8821",
+      "url": "https://kitsu.io/anime/8821"
+    },
+    "mal": {
+      "id": "22639",
+      "url": "https://myanimelist.net/anime/22639"
+    }
+  }
+}

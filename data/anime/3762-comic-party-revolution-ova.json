@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3762,
+  "slug": "comic-party-revolution-ova",
+  "kind": "anime",
+  "title": "Comic Party Revolution OVA",
+  "titles": {
+    "default": "Comic Party Revolution OVA",
+    "romaji": "Comic Party Revolution OVA",
+    "native": "こみっくパーティーRevolution"
+  },
+  "synonyms": [
+    "Comic Party Revolution OVA",
+    "こみっくパーティーRevolution",
+    "Comic Party OVA"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "fall",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5147.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5147",
+      "url": "https://anilist.co/anime/5147"
+    },
+    "k": {
+      "id": "3948",
+      "url": "https://kitsu.io/anime/3948"
+    },
+    "mal": {
+      "id": "5147",
+      "url": "https://myanimelist.net/anime/5147"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14815,
+  "slug": "aishite-knight",
+  "kind": "manga",
+  "title": "Aishite Knight",
+  "titles": {
+    "default": "Aishite Knight"
+  },
+  "synonyms": [
+    "Love Me Knight",
+    "Aishite Night",
+    "Aishite Knight",
+    "Love me, my Knight",
+    "愛してナイト",
+    "Magician",
+    "マジシャン"
+  ],
+  "type": "manga",
+  "chapters": 29,
+  "volumes": 7,
+  "status": "finished",
+  "year": 1981,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b37949-6mYfsqceyzgB.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2221",
+      "url": "https://anilist.co/anime/2221"
+    },
+    "al_manga": {
+      "id": "2221",
+      "url": "https://anilist.co/manga/2221"
+    }
+  }
+}

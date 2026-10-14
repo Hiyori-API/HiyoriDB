@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3900,
+  "slug": "ougon-yuusha-goldran",
+  "kind": "anime",
+  "title": "Ougon Yuusha Goldran",
+  "titles": {
+    "default": "Ougon Yuusha Goldran",
+    "romaji": "Ougon Yuusha Goldran",
+    "english": "The Brave of Gold Goldran",
+    "native": "黄金勇者ゴルドラン"
+  },
+  "synonyms": [
+    "Ougon Yuusha Goldran",
+    "The Brave of Gold Goldran",
+    "黄金勇者ゴルドラン",
+    "Ogon Yusha Gorudoran",
+    "Golden Brave Goldran"
+  ],
+  "type": "tv",
+  "episodes": 48,
+  "status": "finished",
+  "season": "winter",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5440-qYpD0zIpyNh1.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5440",
+      "url": "https://anilist.co/anime/5440"
+    },
+    "k": {
+      "id": "4101",
+      "url": "https://kitsu.io/anime/4101"
+    },
+    "mal": {
+      "id": "5440",
+      "url": "https://myanimelist.net/anime/5440"
+    },
+    "t": {
+      "id": "75421",
+      "url": "https://trakt.tv/shows/75421"
+    }
+  }
+}

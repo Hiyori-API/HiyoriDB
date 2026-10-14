@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3483,
+  "slug": "mahoutsukai-ni-taisetsu-na-koto-natsu-no-sora",
+  "kind": "anime",
+  "title": "Mahoutsukai ni Taisetsu na Koto: Natsu no Sora",
+  "titles": {
+    "default": "Mahoutsukai ni Taisetsu na Koto: Natsu no Sora",
+    "romaji": "Mahoutsukai ni Taisetsu na Koto: Natsu no Sora",
+    "english": "Someday's Dreamers II Sora",
+    "native": "魔法遣いに大切なこと ～夏のソラ～"
+  },
+  "synonyms": [
+    "Mahoutsukai ni Taisetsu na Koto: Natsu no Sora",
+    "Someday's Dreamers II Sora",
+    "魔法遣いに大切なこと ～夏のソラ～",
+    "Someday's Dreamers: Summer Skies",
+    "Someday's Dreamers II: Sora"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4483-TFQXbx7NmL0C.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4483",
+      "url": "https://anilist.co/anime/4483"
+    },
+    "k": {
+      "id": "3636",
+      "url": "https://kitsu.io/anime/3636"
+    },
+    "mal": {
+      "id": "4483",
+      "url": "https://myanimelist.net/anime/4483"
+    },
+    "t": {
+      "id": "33920",
+      "url": "https://trakt.tv/shows/33920"
+    }
+  }
+}

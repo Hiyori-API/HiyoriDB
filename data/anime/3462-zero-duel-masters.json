@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3462,
+  "slug": "zero-duel-masters",
+  "kind": "anime",
+  "title": "Zero Duel Masters",
+  "titles": {
+    "default": "Zero Duel Masters",
+    "romaji": "Zero Duel Masters",
+    "native": "ゼロ デュエル・マスターズ"
+  },
+  "synonyms": [
+    "Zero Duel Masters",
+    "ゼロ デュエル・マスターズ",
+    "Devil May Cry: The Animated Series",
+    "Devil May Cry",
+    "デビル メイ クライ",
+    "DMC",
+    "DmC"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4444.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4444",
+      "url": "https://anilist.co/anime/4444"
+    },
+    "cr": {
+      "id": "devil-may-cry",
+      "url": "https://www.crunchyroll.com/series/devil-may-cry"
+    },
+    "k": {
+      "id": "1547",
+      "url": "https://kitsu.io/anime/1547"
+    },
+    "mal": {
+      "id": "4444",
+      "url": "https://myanimelist.net/anime/4444"
+    },
+    "t": {
+      "id": "12522",
+      "url": "https://trakt.tv/shows/12522"
+    }
+  }
+}

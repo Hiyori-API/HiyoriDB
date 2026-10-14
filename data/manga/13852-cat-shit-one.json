@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13852,
+  "slug": "cat-shit-one",
+  "kind": "manga",
+  "title": "Cat Shit One",
+  "titles": {
+    "default": "Cat Shit One"
+  },
+  "synonyms": [
+    "Apocalypse Meow",
+    "キャット・シット・ワン",
+    "Cat Shit One Volume 0",
+    "Cat Shit One"
+  ],
+  "type": "manga",
+  "chapters": 29,
+  "volumes": 4,
+  "status": "finished",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30299-aIYJiCh0STlh.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6280",
+      "url": "https://anilist.co/anime/6280"
+    },
+    "al_manga": {
+      "id": "6280",
+      "url": "https://anilist.co/manga/6280"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9206,
+  "slug": "yarimoku-beach-ni-shuugakuryokou-de-the-animation",
+  "kind": "anime",
+  "title": "Yarimoku Beach ni Shuugakuryokou de!! THE ANIMATION",
+  "titles": {
+    "default": "Yarimoku Beach ni Shuugakuryokou de!! THE ANIMATION",
+    "romaji": "Yarimoku Beach ni Shuugakuryokou de!! THE ANIMATION",
+    "native": "ヤリモクビーチに修学旅行で!! THE ANIMATION"
+  },
+  "synonyms": [
+    "Yarimoku Beach ni Shuugakuryokou de!! THE ANIMATION",
+    "ヤリモクビーチに修学旅行で!! THE ANIMATION",
+    "Field Trip to the Beach: The Animation",
+    "New Game! OVA: My First Time on a Company Vacation...",
+    "New Game Episode 13",
+    "NEW GAME! 私、社員旅行って初めてなので…",
+    "New Game! Watashi, Shain Ryokou tte Hajimete nanode..."
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98433-x81xwH5N5YnU.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98433",
+      "url": "https://anilist.co/anime/98433"
+    },
+    "mal": {
+      "id": "34963",
+      "url": "https://myanimelist.net/anime/34963"
+    }
+  }
+}

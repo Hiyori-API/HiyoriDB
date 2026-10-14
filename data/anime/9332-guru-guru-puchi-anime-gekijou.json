@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9332,
+  "slug": "guru-guru-puchi-anime-gekijou",
+  "kind": "anime",
+  "title": "Guru Guru Puchi Anime Gekijou",
+  "titles": {
+    "default": "Guru Guru Puchi Anime Gekijou",
+    "romaji": "Guru Guru Puchi Anime Gekijou",
+    "native": "グルグルぷちあにめ劇場"
+  },
+  "synonyms": [
+    "Guru Guru Puchi Anime Gekijou",
+    "グルグルぷちあにめ劇場",
+    "Guruguru Petit Anime Gekijou",
+    "KOF",
+    "Quanhuang Mingyun",
+    "拳皇命运",
+    "The King of Fighters: Destiny"
+  ],
+  "type": "ona",
+  "episodes": 24,
+  "status": "finished",
+  "season": "summer",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx99582-1aNBxES8cREN.png"
+  ],
+  "references": {
+    "al": {
+      "id": "99582",
+      "url": "https://anilist.co/anime/99582"
+    },
+    "mal": {
+      "id": "35909",
+      "url": "https://myanimelist.net/anime/35909"
+    }
+  }
+}

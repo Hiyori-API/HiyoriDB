@@ -1,0 +1,58 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11726,
+  "slug": "otomege-sekai-wa-mob-ni-kibishii-sekai-desu",
+  "kind": "anime",
+  "title": "Otomege Sekai wa Mob ni Kibishii Sekai desu",
+  "titles": {
+    "default": "Otomege Sekai wa Mob ni Kibishii Sekai desu",
+    "romaji": "Otomege Sekai wa Mob ni Kibishii Sekai desu",
+    "english": "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs",
+    "native": "乙女ゲー世界はモブに厳しい世界です"
+  },
+  "synonyms": [
+    "Otomege Sekai wa Mob ni Kibishii Sekai desu",
+    "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs",
+    "乙女ゲー世界はモブに厳しい世界です",
+    "mobseka",
+    "ชีวิตตัวประกอบอย่างตูช่างอยู่ยาก เมื่ออยู่ในโลกเกมจีบหนุ่ม",
+    "Otome Game Sekai wa Mob ni Kibishii Sekai desu",
+    "This Ugly Yet Beautiful World",
+    "Kono Minikuku mo Utsukushii Sekai",
+    "この醜くも美しい世界"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142074-pHe4bX791PJh.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "142074",
+      "url": "https://anilist.co/anime/142074"
+    },
+    "cr": {
+      "id": "trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs",
+      "url": "https://www.crunchyroll.com/series/trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs"
+    },
+    "k": {
+      "id": "124",
+      "url": "https://kitsu.io/anime/124"
+    },
+    "mal": {
+      "id": "50461",
+      "url": "https://myanimelist.net/anime/50461"
+    },
+    "t": {
+      "id": "34001",
+      "url": "https://trakt.tv/shows/34001"
+    },
+    "tx": {
+      "id": "mobseka_anime",
+      "url": "https://twitter.com/mobseka_anime"
+    }
+  }
+}

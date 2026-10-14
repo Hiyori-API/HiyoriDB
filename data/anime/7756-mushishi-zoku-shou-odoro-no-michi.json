@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7756,
+  "slug": "mushishi-zoku-shou-odoro-no-michi",
+  "kind": "anime",
+  "title": "Mushishi Zoku Shou: Odoro no Michi",
+  "titles": {
+    "default": "Mushishi Zoku Shou: Odoro no Michi",
+    "romaji": "Mushishi Zoku Shou: Odoro no Michi",
+    "english": "MUSHI-SHI The Next Passage Special - Path of Thorns",
+    "native": "蟲師 続章「棘のみち」"
+  },
+  "synonyms": [
+    "Mushishi Zoku Shou: Odoro no Michi",
+    "MUSHI-SHI The Next Passage Special - Path of Thorns",
+    "蟲師 続章「棘のみち」",
+    "Mushishi Zoku Shou Specials",
+    "Mushishi: Path of Thorns",
+    "Mushishi: Path of Overgrowth",
+    "Mushishi: La Voie des Broussailles",
+    "Mushishi Path of Thorns",
+    "蟲師 続章",
+    "Mushishi Zoku Shou Special",
+    "Mushi-shi Zoku Shou: Odoro no Michi",
+    "Mushishi Zoku Shou Episode 11 and 12"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx20752-P5EpEJXWGroz.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "20752",
+      "url": "https://anilist.co/anime/20752"
+    },
+    "cr": {
+      "id": "mushi-shi",
+      "url": "https://www.crunchyroll.com/series/mushi-shi"
+    },
+    "k": {
+      "id": "8519",
+      "url": "https://kitsu.io/anime/8519"
+    },
+    "mal": {
+      "id": "24687",
+      "url": "https://myanimelist.net/anime/24687"
+    }
+  }
+}

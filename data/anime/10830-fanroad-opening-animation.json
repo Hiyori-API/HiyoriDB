@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10830,
+  "slug": "fanroad-opening-animation",
+  "kind": "anime",
+  "title": "FANROAD Opening Animation",
+  "titles": {
+    "default": "FANROAD Opening Animation",
+    "romaji": "FANROAD Opening Animation",
+    "native": "FANROAD オープニングアニメ"
+  },
+  "synonyms": [
+    "FANROAD Opening Animation",
+    "FANROAD オープニングアニメ",
+    "GEBOCON I",
+    "GEBOCON Opening Animation",
+    "Cheorin Samchongsa",
+    "철인 삼총사",
+    "3 Iron Musketeers"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1983,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145554-QrabRfvqlwo0.png"
+  ],
+  "references": {
+    "al": {
+      "id": "145554",
+      "url": "https://anilist.co/anime/145554"
+    },
+    "k": {
+      "id": "8824",
+      "url": "https://kitsu.io/anime/8824"
+    },
+    "mal": {
+      "id": "53773",
+      "url": "https://myanimelist.net/anime/53773"
+    }
+  }
+}

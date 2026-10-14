@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1195,
+  "slug": "cyber-city-oedo-808",
+  "kind": "anime",
+  "title": "Cyber City OEDO 808",
+  "titles": {
+    "default": "Cyber City OEDO 808",
+    "romaji": "Cyber City OEDO 808",
+    "english": "Cyber City Oedo 808",
+    "native": "サイバーシティ OEDO 808"
+  },
+  "synonyms": [
+    "Cyber City OEDO 808",
+    "Cyber City Oedo 808",
+    "サイバーシティ OEDO 808",
+    "Cyber City",
+    "CYBER CITY OEDO 808 (サイバーシティ オーエド ハチマルハチ)"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "summer",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1352-1Sytay3y8ZON.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1352",
+      "url": "https://anilist.co/anime/1352"
+    },
+    "cr": {
+      "id": "series/G8DHV7874/cyber-city-oedo-808",
+      "url": "https://www.crunchyroll.com/series/series/G8DHV7874/cyber-city-oedo-808"
+    },
+    "k": {
+      "id": "1207",
+      "url": "https://kitsu.io/anime/1207"
+    },
+    "mal": {
+      "id": "1352",
+      "url": "https://myanimelist.net/anime/1352"
+    }
+  }
+}

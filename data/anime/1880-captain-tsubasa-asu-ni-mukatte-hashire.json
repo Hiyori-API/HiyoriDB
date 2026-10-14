@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1880,
+  "slug": "captain-tsubasa-asu-ni-mukatte-hashire",
+  "kind": "anime",
+  "title": "Captain Tsubasa: Asu ni Mukatte Hashire!",
+  "titles": {
+    "default": "Captain Tsubasa: Asu ni Mukatte Hashire!",
+    "romaji": "Captain Tsubasa: Asu ni Mukatte Hashire!",
+    "native": "キャプテン翼　明日に向って走れ！"
+  },
+  "synonyms": [
+    "Captain Tsubasa: Asu ni Mukatte Hashire!",
+    "キャプテン翼　明日に向って走れ！",
+    "Captain Tsubasa : Ashita ni Mukatte Hashire!",
+    "Captain Tsubasa MOVIE (1986 Spring)",
+    "Captain Tsubasa Movie 3",
+    "Captain Tsubasa: Run Toward Tomorrow",
+    "Project A-Ko",
+    "プロジェクトＡ子"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2120.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2120",
+      "url": "https://anilist.co/anime/2120"
+    },
+    "k": {
+      "id": "188",
+      "url": "https://kitsu.io/anime/188"
+    },
+    "mal": {
+      "id": "2120",
+      "url": "https://myanimelist.net/anime/2120"
+    }
+  }
+}

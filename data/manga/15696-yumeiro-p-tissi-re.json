@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15696,
+  "slug": "yumeiro-p-tissi-re",
+  "kind": "manga",
+  "title": "Yumeiro Pâtissière",
+  "titles": {
+    "default": "Yumeiro Pâtissière"
+  },
+  "synonyms": [
+    "Dream-Colored Pastry Chef",
+    "Yume-iro Patissiere",
+    "Yumeiro Patissiere",
+    "夢色パティシエール",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "chapters": 52,
+  "volumes": 12,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx40386-lWvWVzEc1mUB.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6586",
+      "url": "https://anilist.co/anime/9441"
+    },
+    "al_manga": {
+      "id": "6586",
+      "url": "https://anilist.co/manga/6586"
+    }
+  }
+}

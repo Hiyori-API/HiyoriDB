@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14322,
+  "slug": "jungle-wa-itsumo-hare-nochi-guu",
+  "kind": "manga",
+  "title": "Jungle wa Itsumo Hare Nochi Guu",
+  "titles": {
+    "default": "Jungle wa Itsumo Hare Nochi Guu"
+  },
+  "synonyms": [
+    "Jungle ha Itsumo Hare nochi Guu",
+    "The Jungle Was Always Nice, Then Came Guu",
+    "ジャングルはいつもハレのちグゥ",
+    "Kamikaze Kaito Jeanne",
+    "Kamikaze Kaitou Jeanne",
+    "Phantom Thief Jeanne",
+    "神風怪盗ジャンヌ",
+    "Divine Wind Phantom Thief Jeanne"
+  ],
+  "type": "manga",
+  "chapters": 102,
+  "volumes": 10,
+  "status": "finished",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx32777-hG42htwzDvEM.png"
+  ],
+  "references": {
+    "al": {
+      "id": "253",
+      "url": "https://anilist.co/anime/253"
+    },
+    "al_manga": {
+      "id": "253",
+      "url": "https://anilist.co/manga/253"
+    }
+  }
+}

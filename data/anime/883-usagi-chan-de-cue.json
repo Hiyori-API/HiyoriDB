@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 883,
+  "slug": "usagi-chan-de-cue",
+  "kind": "anime",
+  "title": "Usagi-chan de CUE!!",
+  "titles": {
+    "default": "Usagi-chan de CUE!!",
+    "romaji": "Usagi-chan de CUE!!",
+    "english": "Little Bunny Cue!!",
+    "native": "うさぎちゃんで ＣＵＥ!!"
+  },
+  "synonyms": [
+    "Usagi-chan de CUE!!",
+    "Little Bunny Cue!!",
+    "うさぎちゃんで ＣＵＥ!!",
+    "Usagichan",
+    "It's my rabbit and it's Cue!",
+    "Usagi-chan de Cue!!"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "fall",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx991-ghi3d4Zq6gd8.png"
+  ],
+  "references": {
+    "al": {
+      "id": "991",
+      "url": "https://anilist.co/anime/991"
+    },
+    "k": {
+      "id": "881",
+      "url": "https://kitsu.io/anime/881"
+    },
+    "mal": {
+      "id": "991",
+      "url": "https://myanimelist.net/anime/991"
+    }
+  }
+}

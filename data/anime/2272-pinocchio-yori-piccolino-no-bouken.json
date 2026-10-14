@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2272,
+  "slug": "pinocchio-yori-piccolino-no-bouken",
+  "kind": "anime",
+  "title": "Pinocchio yori Piccolino no Bouken",
+  "titles": {
+    "default": "Pinocchio yori Piccolino no Bouken",
+    "romaji": "Pinocchio yori Piccolino no Bouken",
+    "native": "ピノキオより ピコリーノの冒険"
+  },
+  "synonyms": [
+    "Pinocchio yori Piccolino no Bouken",
+    "ピノキオより ピコリーノの冒険",
+    "The Adventures of Piccolino",
+    "The Adventures of Pinocchio",
+    "Bambino Pinocchio",
+    "Las aventuras de Pinocho",
+    "Die Avonture van Pinocchio",
+    "Pinochio",
+    "Pinóquio",
+    "Pinokkio",
+    "Pinokio",
+    "Πινόκιο",
+    "پینوکیو",
+    "피노키오의 모험",
+    "ماجد لعبة خشبية",
+    "פינוקיו"
+  ],
+  "type": "tv",
+  "episodes": 52,
+  "status": "finished",
+  "season": "spring",
+  "year": 1976,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2567-kqumWjivNtqq.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2567",
+      "url": "https://anilist.co/anime/2567"
+    },
+    "k": {
+      "id": "2332",
+      "url": "https://kitsu.io/anime/2332"
+    },
+    "mal": {
+      "id": "2567",
+      "url": "https://myanimelist.net/anime/2567"
+    }
+  }
+}

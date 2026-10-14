@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14110,
+  "slug": "yebisu-celebrities",
+  "kind": "manga",
+  "title": "YEBISU Celebrities",
+  "titles": {
+    "default": "YEBISU Celebrities"
+  },
+  "synonyms": [
+    "에비스 유명인사",
+    "惠比寿名流男士",
+    "Yebisu Celebrities",
+    "YEBISUセレブリティーズ",
+    "xxxHOLiC",
+    "xxxHolic Rou",
+    "xxxHolic Cage",
+    "xxxHolic•Rou"
+  ],
+  "type": "manga",
+  "chapters": 19,
+  "volumes": 5,
+  "status": "finished",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31103-Lxo55uSaZDIB.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9232",
+      "url": "https://anilist.co/anime/9232"
+    },
+    "al_manga": {
+      "id": "9232",
+      "url": "https://anilist.co/manga/9232"
+    }
+  }
+}

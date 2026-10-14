@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5276,
+  "slug": "dr-slump-arale-chan-hoyoyo-tasuketa-same-ni-tsurerarete",
+  "kind": "anime",
+  "title": "Dr. Slump: Arale-chan - Hoyoyo!! Tasuketa Same ni Tsurerarete...",
+  "titles": {
+    "default": "Dr. Slump: Arale-chan - Hoyoyo!! Tasuketa Same ni Tsurerarete...",
+    "romaji": "Dr. Slump: Arale-chan - Hoyoyo!! Tasuketa Same ni Tsurerarete...",
+    "english": "Dr. Slump and Arale-chan: Hoyoyo!! Follow the Rescued Shark...",
+    "native": "Dr.スランプ アラレちゃん ほよよ!!助けたサメに連れられて..."
+  },
+  "synonyms": [
+    "Dr. Slump: Arale-chan - Hoyoyo!! Tasuketa Same ni Tsurerarete...",
+    "Dr. Slump and Arale-chan: Hoyoyo!! Follow the Rescued Shark...",
+    "Dr.スランプ アラレちゃん ほよよ!!助けたサメに連れられて...",
+    "Dr. Slump Movie 8",
+    "Dr. Slump Movie 08: Arale-chan Hoyoyo!! Tasuketa Same ni Tsurerarete..."
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8548.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8548",
+      "url": "https://anilist.co/anime/8548"
+    },
+    "k": {
+      "id": "5384",
+      "url": "https://kitsu.io/anime/5384"
+    },
+    "mal": {
+      "id": "8548",
+      "url": "https://myanimelist.net/anime/8548"
+    }
+  }
+}

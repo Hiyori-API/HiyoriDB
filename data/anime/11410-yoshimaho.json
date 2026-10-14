@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11410,
+  "slug": "yoshimaho",
+  "kind": "anime",
+  "title": "Yoshimaho",
+  "titles": {
+    "default": "Yoshimaho",
+    "romaji": "Yoshimaho",
+    "native": "よしまほ"
+  },
+  "synonyms": [
+    "Yoshimaho",
+    "よしまほ",
+    "Yoshi Yoshi Magic",
+    "Saishuu Shiken Kujira",
+    "最終試験くじら",
+    "Final Examination Kujira"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx133798-XQFDBQciCAwe.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "133798",
+      "url": "https://anilist.co/anime/133798"
+    },
+    "k": {
+      "id": "2685",
+      "url": "https://kitsu.io/anime/2685"
+    },
+    "mal": {
+      "id": "48892",
+      "url": "https://myanimelist.net/anime/48892"
+    },
+    "tx": {
+      "id": "Yoshimaho_PR",
+      "url": "https://twitter.com/Yoshimaho_PR"
+    }
+  }
+}

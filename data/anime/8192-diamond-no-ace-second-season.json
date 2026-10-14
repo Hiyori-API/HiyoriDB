@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8192,
+  "slug": "diamond-no-ace-second-season",
+  "kind": "anime",
+  "title": "Diamond no Ace: Second Season",
+  "titles": {
+    "default": "Diamond no Ace: Second Season",
+    "romaji": "Diamond no Ace: Second Season",
+    "english": "Ace of the Diamond Second Season",
+    "native": "ダイヤのA～Second Season～"
+  },
+  "synonyms": [
+    "Diamond no Ace: Second Season",
+    "Ace of the Diamond Second Season",
+    "ダイヤのA～Second Season～",
+    "Daiya no Ace 2",
+    "Battle Spirits: Burning Soul",
+    "バトルスピリッツ烈火魂〈バーニングソウル〉",
+    "Battle Spirits 2015",
+    "Battle Spirits Season 8"
+  ],
+  "type": "tv",
+  "episodes": 51,
+  "status": "finished",
+  "season": "spring",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21085-qqkUxpMgtFDW.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21085",
+      "url": "https://anilist.co/anime/21085"
+    },
+    "cr": {
+      "id": "ace-of-the-diamond",
+      "url": "https://www.crunchyroll.com/series/ace-of-the-diamond"
+    },
+    "k": {
+      "id": "9804",
+      "url": "https://kitsu.io/anime/9804"
+    },
+    "mal": {
+      "id": "30230",
+      "url": "https://myanimelist.net/anime/30230"
+    },
+    "t": {
+      "id": "97677",
+      "url": "https://trakt.tv/shows/97677"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11496,
+  "slug": "sore-sunawachi-sketch",
+  "kind": "anime",
+  "title": "Sore, Sunawachi Sketch.",
+  "titles": {
+    "default": "Sore, Sunawachi Sketch.",
+    "romaji": "Sore, Sunawachi Sketch.",
+    "native": "其れ、則ちスケッチ。"
+  },
+  "synonyms": [
+    "Sore, Sunawachi Sketch.",
+    "其れ、則ちスケッチ。",
+    "Soresuke",
+    "In Other Words, Sketch",
+    "JoJo's Bizarre Adventure Part 6: Stone Ocean",
+    "JoJo's Bizarre Adventure: Stone Ocean",
+    "ジョジョの奇妙な冒険 ストーンオーシャン",
+    "JoJo no Kimyou na Bouken Part 6: Stone Ocean"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b141779-p7b72BomZF6o.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "141779",
+      "url": "https://anilist.co/anime/141779"
+    },
+    "mal": {
+      "id": "48661",
+      "url": "https://myanimelist.net/anime/48661"
+    },
+    "tx": {
+      "id": "SketchSore",
+      "url": "https://twitter.com/SketchSore"
+    }
+  }
+}

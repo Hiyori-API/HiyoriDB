@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14281,
+  "slug": "akihabara-dennou-gumi-patapi",
+  "kind": "manga",
+  "title": "Akihabara Dennou Gumi Patapi!",
+  "titles": {
+    "default": "Akihabara Dennou Gumi Patapi!"
+  },
+  "synonyms": [
+    "Akihabara Dennou Gumi Patapi!",
+    "Cyber Team in akihabara Patapi!",
+    "アキハバラ電脳組パタPi!",
+    "Kamikaze Kaito Jeanne",
+    "Kamikaze Kaitou Jeanne",
+    "Phantom Thief Jeanne",
+    "神風怪盗ジャンヌ",
+    "Divine Wind Phantom Thief Jeanne"
+  ],
+  "type": "manga",
+  "chapters": 11,
+  "volumes": 1,
+  "status": "finished",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1818.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2288",
+      "url": "https://anilist.co/anime/2288"
+    },
+    "al_manga": {
+      "id": "2288",
+      "url": "https://anilist.co/manga/2288"
+    }
+  }
+}

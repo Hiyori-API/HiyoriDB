@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13434,
+  "slug": "maou-no-musume-wa-yasashi-sugiru",
+  "kind": "anime",
+  "title": "Maou no Musume wa Yasashi Sugiru!!",
+  "titles": {
+    "default": "Maou no Musume wa Yasashi Sugiru!!",
+    "romaji": "Maou no Musume wa Yasashi Sugiru!!",
+    "english": "The Demon King's Daughter is Too Kind!!",
+    "native": "魔王の娘は優しすぎる!!"
+  },
+  "synonyms": [
+    "Maou no Musume wa Yasashi Sugiru!!",
+    "The Demon King's Daughter is Too Kind!!",
+    "魔王の娘は優しすぎる!!",
+    "MaoMu",
+    "ลูกสาวของจอมมารจิตใจดีเกินไป!!",
+    "Black Jack ONA",
+    "ブラック・ジャック(インターネット版)",
+    "Black Jack: Internet-han"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194742-Cw08T4vIfD3y.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "194742",
+      "url": "https://anilist.co/anime/194742"
+    },
+    "cr": {
+      "id": "series/GT00365778/the-demon-kings-daughter-is-too-kind",
+      "url": "https://www.crunchyroll.com/series/series/GT00365778/the-demon-kings-daughter-is-too-kind"
+    },
+    "k": {
+      "id": "4904",
+      "url": "https://kitsu.io/anime/4904"
+    },
+    "mal": {
+      "id": "61884",
+      "url": "https://myanimelist.net/anime/61884"
+    }
+  }
+}

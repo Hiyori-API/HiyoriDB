@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15322,
+  "slug": "after-nagisa-hen",
+  "kind": "manga",
+  "title": "After...: Nagisa Hen",
+  "titles": {
+    "default": "After...: Nagisa Hen"
+  },
+  "synonyms": [
+    "After... ~Nagisa Hen~ Omake Hon",
+    "After… ～渚編～ おまけ本",
+    "Tsubasa RESERVoir CHRoNiCLE",
+    "Tsubasa: RESERVoir CHRoNiCLE",
+    "ツバサ -RESERVoir CHRoNiCLE-",
+    "TRC"
+  ],
+  "type": "manga",
+  "chapters": 1,
+  "status": "finished",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/7686.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3711",
+      "url": "https://anilist.co/anime/3711"
+    },
+    "al_manga": {
+      "id": "3711",
+      "url": "https://anilist.co/manga/3711"
+    }
+  }
+}

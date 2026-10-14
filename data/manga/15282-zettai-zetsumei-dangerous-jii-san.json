@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15282,
+  "slug": "zettai-zetsumei-dangerous-jii-san",
+  "kind": "manga",
+  "title": "Zettai Zetsumei Dangerous Jii-san",
+  "titles": {
+    "default": "Zettai Zetsumei Dangerous Jii-san"
+  },
+  "synonyms": [
+    "絶体絶命でんぢゃらすじーさん",
+    "Full Moon wo Sagashite",
+    "満月〈フルムーン〉をさがして",
+    "Searching for the Full Moon",
+    "Ginyuu Meika"
+  ],
+  "type": "manga",
+  "chapters": 169,
+  "volumes": 20,
+  "status": "finished",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx135644-TPFh1OrD76MD.png"
+  ],
+  "references": {
+    "al": {
+      "id": "145277",
+      "url": "https://anilist.co/anime/10987"
+    },
+    "al_manga": {
+      "id": "145277",
+      "url": "https://anilist.co/manga/145277"
+    }
+  }
+}

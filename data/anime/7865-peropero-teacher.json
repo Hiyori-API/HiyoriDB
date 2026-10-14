@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7865,
+  "slug": "peropero-teacher",
+  "kind": "anime",
+  "title": "PeroPero☆Teacher",
+  "titles": {
+    "default": "PeroPero☆Teacher",
+    "romaji": "PeroPero☆Teacher",
+    "native": "ぺろぺろ☆てぃーちゃー"
+  },
+  "synonyms": [
+    "PeroPero☆Teacher",
+    "ぺろぺろ☆てぃーちゃー",
+    "Paradise of Innocence",
+    "Mujaki no Rakuen",
+    "無邪気の楽園"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "summer",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21102-B4tTQyDpomuD.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21102",
+      "url": "https://anilist.co/anime/21102"
+    },
+    "k": {
+      "id": "8418",
+      "url": "https://kitsu.io/anime/8418"
+    },
+    "mal": {
+      "id": "22119",
+      "url": "https://myanimelist.net/anime/22119"
+    }
+  }
+}

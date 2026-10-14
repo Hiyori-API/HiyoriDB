@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1620,
+  "slug": "ged-senki",
+  "kind": "anime",
+  "title": "Ged Senki",
+  "titles": {
+    "default": "Ged Senki",
+    "romaji": "Ged Senki",
+    "english": "Tales from Earthsea",
+    "native": "ゲド戦記"
+  },
+  "synonyms": [
+    "Ged Senki",
+    "Tales from Earthsea",
+    "ゲド戦記",
+    "Gedo Senki",
+    "Tales of Ged",
+    "Ged's War Chronicles",
+    "Die Chroniken von Erdsee",
+    "Cuentos de Terramar",
+    "Contos de Terramar",
+    "Les Contes de Terremer",
+    "Opowieści z Ziemiomorza",
+    "I racconti di Terramare",
+    "Jordsjø-krønikene",
+    "Legender från Övärlden",
+    "Sore Ike! Anpanman: Inochi no Hoshi no Dolly",
+    "それいけ! アンパンマン いのちの星のドーリィ"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1829-DqhBRfDU7n6D.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1829",
+      "url": "https://anilist.co/anime/1829"
+    },
+    "k": {
+      "id": "9614",
+      "url": "https://kitsu.io/anime/9614"
+    },
+    "mal": {
+      "id": "1829",
+      "url": "https://myanimelist.net/anime/1829"
+    },
+    "nf": {
+      "id": "70142821",
+      "url": "https://www.netflix.com/title/70142821"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15135,
+  "slug": "byston-well-monogatari-garzey-no-tsubasa",
+  "kind": "manga",
+  "title": "Byston Well Monogatari: Garzey no Tsubasa",
+  "titles": {
+    "default": "Byston Well Monogatari: Garzey no Tsubasa"
+  },
+  "synonyms": [
+    "バイストン・ウェル物語 ガーゼィの翼",
+    "The Summer of the Ubume",
+    "Ubume no Natsu",
+    "姑獲鳥の夏"
+  ],
+  "type": "novel",
+  "volumes": 5,
+  "status": "finished",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx214530-NS8R1nmLHwU9.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1657",
+      "url": "https://anilist.co/anime/1657"
+    },
+    "al_manga": {
+      "id": "1657",
+      "url": "https://anilist.co/manga/1657"
+    }
+  }
+}

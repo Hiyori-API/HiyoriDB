@@ -1,0 +1,59 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11126,
+  "slug": "bishounen-tanteidan",
+  "kind": "anime",
+  "title": "Bishounen Tanteidan",
+  "titles": {
+    "default": "Bishounen Tanteidan",
+    "romaji": "Bishounen Tanteidan",
+    "english": "Pretty Boy Detective Club",
+    "native": "美少年探偵団"
+  },
+  "synonyms": [
+    "Bishounen Tanteidan",
+    "Pretty Boy Detective Club",
+    "美少年探偵団",
+    "Bishounen Series",
+    "PBDC",
+    "美少年侦探团",
+    "ขบวนการนักสืบหนุ่มรูปงาม",
+    "This Ugly Yet Beautiful World",
+    "Kono Minikuku mo Utsukushii Sekai",
+    "この醜くも美しい世界"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113428-jsyIdAHk5K6q.png"
+  ],
+  "references": {
+    "al": {
+      "id": "113428",
+      "url": "https://anilist.co/anime/113428"
+    },
+    "cr": {
+      "id": "pretty-boy-detective-club",
+      "url": "https://www.crunchyroll.com/series/pretty-boy-detective-club"
+    },
+    "k": {
+      "id": "124",
+      "url": "https://kitsu.io/anime/124"
+    },
+    "mal": {
+      "id": "40752",
+      "url": "https://myanimelist.net/anime/40752"
+    },
+    "t": {
+      "id": "34001",
+      "url": "https://trakt.tv/shows/34001"
+    },
+    "tx": {
+      "id": "nisioisin_anime",
+      "url": "https://twitter.com/nisioisin_anime"
+    }
+  }
+}

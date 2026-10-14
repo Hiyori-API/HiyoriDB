@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15527,
+  "slug": "bakemonogatari",
+  "kind": "manga",
+  "title": "Bakemonogatari",
+  "titles": {
+    "default": "Bakemonogatari"
+  },
+  "synonyms": [
+    "Hitagi Crab",
+    "Mayoi Snail",
+    "Suruga Monkey",
+    "Nadeko Snake",
+    "Tsubasa Cat",
+    "ปกรณัมของเหล่าภูต",
+    "Bakemonogatari - Légendes chimériques",
+    "Bakemonogatari: Monster Tale",
+    "化物語",
+    "Ladies versus Butlers!",
+    "れでぃ×ばと!",
+    "Redei Bato!",
+    "Redei x Bato",
+    "Ladies vs Butlers!"
+  ],
+  "type": "novel",
+  "chapters": 41,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx44893-aV0XRP0OfWf7.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5081",
+      "url": "https://anilist.co/anime/5081"
+    },
+    "al_manga": {
+      "id": "5081",
+      "url": "https://anilist.co/manga/5081"
+    }
+  }
+}

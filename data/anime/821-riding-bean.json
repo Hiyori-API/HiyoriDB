@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 821,
+  "slug": "riding-bean",
+  "kind": "anime",
+  "title": "Riding Bean",
+  "titles": {
+    "default": "Riding Bean",
+    "romaji": "Riding Bean",
+    "native": "ライディング・ビーン"
+  },
+  "synonyms": [
+    "Riding Bean",
+    "ライディング・ビーン"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx917-oN745Odnh2sb.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "917",
+      "url": "https://anilist.co/anime/917"
+    },
+    "k": {
+      "id": "817",
+      "url": "https://kitsu.io/anime/817"
+    },
+    "mal": {
+      "id": "917",
+      "url": "https://myanimelist.net/anime/917"
+    }
+  }
+}

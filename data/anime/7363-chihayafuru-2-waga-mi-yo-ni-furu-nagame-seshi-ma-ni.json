@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7363,
+  "slug": "chihayafuru-2-waga-mi-yo-ni-furu-nagame-seshi-ma-ni",
+  "kind": "anime",
+  "title": "Chihayafuru 2: Waga Mi Yo ni Furu Nagame Seshi Ma ni",
+  "titles": {
+    "default": "Chihayafuru 2: Waga Mi Yo ni Furu Nagame Seshi Ma ni",
+    "romaji": "Chihayafuru 2: Waga Mi Yo ni Furu Nagame Seshi Ma ni",
+    "native": "ちはやふる２　わがみよにふるながめせしまに"
+  },
+  "synonyms": [
+    "Chihayafuru 2: Waga Mi Yo ni Furu Nagame Seshi Ma ni",
+    "ちはやふる２　わがみよにふるながめせしまに",
+    "Chihayafull 2 OVA",
+    "Chihayafuru 2 OVA",
+    "Chihayafuru 2 Episode 26",
+    "Kill Me Baby: Butsuzou Kegatte Nise Halloween",
+    "キルミーベイベー　ぶつぞうけがってにせはろうぃーん",
+    "Kill Me Baby OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18745.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "18745",
+      "url": "https://anilist.co/anime/18745"
+    },
+    "k": {
+      "id": "7900",
+      "url": "https://kitsu.io/anime/7900"
+    },
+    "mal": {
+      "id": "18745",
+      "url": "https://myanimelist.net/anime/18745"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13737,
+  "slug": "hikaru-no-go",
+  "kind": "manga",
+  "title": "Hikaru no Go",
+  "titles": {
+    "default": "Hikaru no Go"
+  },
+  "synonyms": [
+    "Hikaru's Go",
+    "Hikago",
+    "Hikaru - Kì Thủ Cờ Vây",
+    "Hikaru no Go",
+    "ヒカルの碁"
+  ],
+  "type": "manga",
+  "chapters": 197,
+  "volumes": 23,
+  "status": "finished",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30020-5NZUzVqJPD2L.png"
+  ],
+  "references": {
+    "al": {
+      "id": "10765",
+      "url": "https://anilist.co/anime/135"
+    },
+    "al_manga": {
+      "id": "10765",
+      "url": "https://anilist.co/manga/10765"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7300,
+  "slug": "uchouten-kazoku",
+  "kind": "anime",
+  "title": "Uchouten Kazoku",
+  "titles": {
+    "default": "Uchouten Kazoku",
+    "romaji": "Uchouten Kazoku",
+    "english": "The Eccentric Family",
+    "native": "有頂天家族"
+  },
+  "synonyms": [
+    "Uchouten Kazoku",
+    "The Eccentric Family",
+    "有頂天家族",
+    "Uchoten Kazoku",
+    "Love Lab",
+    "恋愛ラボ",
+    "Renai Lab"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17909-BXyd04Lj8F6M.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "17909",
+      "url": "https://anilist.co/anime/17909"
+    },
+    "cr": {
+      "id": "the-eccentric-family",
+      "url": "https://www.crunchyroll.com/series/the-eccentric-family"
+    },
+    "k": {
+      "id": "7410",
+      "url": "https://kitsu.io/anime/7410"
+    },
+    "mal": {
+      "id": "17909",
+      "url": "https://myanimelist.net/anime/17909"
+    },
+    "t": {
+      "id": "70755",
+      "url": "https://trakt.tv/shows/70755"
+    }
+  }
+}

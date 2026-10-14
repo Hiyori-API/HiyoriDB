@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10729,
+  "slug": "etotama-nyankyaku-banrai",
+  "kind": "anime",
+  "title": "Etotama: Nyankyaku Banrai",
+  "titles": {
+    "default": "Etotama: Nyankyaku Banrai",
+    "romaji": "Etotama: Nyankyaku Banrai",
+    "native": "えとたま～猫客万来～"
+  },
+  "synonyms": [
+    "Etotama: Nyankyaku Banrai",
+    "えとたま～猫客万来～",
+    "Etotama: Meow-llions of Customers",
+    "Our Jury Story",
+    "Bokura no Saibanin Monogatari",
+    "ぼくらの裁判員物語"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101216-rA4AoXCI9HLn.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101216",
+      "url": "https://anilist.co/anime/101216"
+    },
+    "k": {
+      "id": "4614",
+      "url": "https://kitsu.io/anime/4614"
+    },
+    "mal": {
+      "id": "37346",
+      "url": "https://myanimelist.net/anime/37346"
+    },
+    "tx": {
+      "id": "etotama_anime",
+      "url": "https://twitter.com/etotama_anime"
+    }
+  }
+}

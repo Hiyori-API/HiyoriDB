@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 924,
+  "slug": "patalliro-saiyuki",
+  "kind": "anime",
+  "title": "Patalliro Saiyuki!",
+  "titles": {
+    "default": "Patalliro Saiyuki!",
+    "romaji": "Patalliro Saiyuki!",
+    "native": "パタリロ西遊記！"
+  },
+  "synonyms": [
+    "Patalliro Saiyuki!",
+    "パタリロ西遊記！",
+    "Suzuka",
+    "涼風"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "summer",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1035.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1035",
+      "url": "https://anilist.co/anime/1035"
+    },
+    "k": {
+      "id": "357",
+      "url": "https://kitsu.io/anime/357"
+    },
+    "mal": {
+      "id": "1035",
+      "url": "https://myanimelist.net/anime/1035"
+    },
+    "t": {
+      "id": "61402",
+      "url": "https://trakt.tv/shows/61402"
+    }
+  }
+}

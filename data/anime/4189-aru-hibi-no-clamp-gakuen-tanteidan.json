@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4189,
+  "slug": "aru-hibi-no-clamp-gakuen-tanteidan",
+  "kind": "anime",
+  "title": "Aru Hibi no CLAMP Gakuen Tanteidan",
+  "titles": {
+    "default": "Aru Hibi no CLAMP Gakuen Tanteidan",
+    "romaji": "Aru Hibi no CLAMP Gakuen Tanteidan",
+    "native": "ある日のCLAMP学園探偵団"
+  },
+  "synonyms": [
+    "Aru Hibi no CLAMP Gakuen Tanteidan",
+    "ある日のCLAMP学園探偵団",
+    "Aru Hibi no CLAMP Gakuen Tantei",
+    "One Day With The CLAMP Detectives",
+    "Aruhi no Clamp Gakuen Tanteidan",
+    "CLAMP School Detectives Shorts"
+  ],
+  "type": "special",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6107.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6107",
+      "url": "https://anilist.co/anime/6107"
+    },
+    "k": {
+      "id": "4428",
+      "url": "https://kitsu.io/anime/4428"
+    },
+    "mal": {
+      "id": "6107",
+      "url": "https://myanimelist.net/anime/6107"
+    }
+  }
+}

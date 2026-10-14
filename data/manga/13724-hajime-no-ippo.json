@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13724,
+  "slug": "hajime-no-ippo",
+  "kind": "manga",
+  "title": "Hajime no Ippo",
+  "titles": {
+    "default": "Hajime no Ippo"
+  },
+  "synonyms": [
+    "The Fighting!",
+    "Fighting Spirit",
+    "The Fighting! Ippo",
+    "Hajime no Ippo Gaiden: Naniwa Tiger",
+    "Fight!! Ippo",
+    "Hajime no Ippo: Fighting Spirit!",
+    "はじめの一歩",
+    "Hajime no Ippo"
+  ],
+  "type": "manga",
+  "status": "publishing",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx30007-jVUNk721L0Uz.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "19647",
+      "url": "https://anilist.co/anime/264"
+    },
+    "al_manga": {
+      "id": "19647",
+      "url": "https://anilist.co/manga/19647"
+    }
+  }
+}

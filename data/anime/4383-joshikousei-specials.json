@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4383,
+  "slug": "joshikousei-specials",
+  "kind": "anime",
+  "title": "Joshikousei Specials",
+  "titles": {
+    "default": "Joshikousei Specials",
+    "romaji": "Joshikousei Specials",
+    "english": "Girl's High Specials",
+    "native": "女子高生 スペシャル"
+  },
+  "synonyms": [
+    "Joshikousei Specials",
+    "Girl's High Specials",
+    "女子高生 スペシャル",
+    "Girl's High DVD Bonus Episodes",
+    "High School Girls Specials",
+    "Joshikousei: Girl's High Specials",
+    "女子高生 GIRL'S HIGH",
+    "Joshi Kousei: Girl's High Specials"
+  ],
+  "type": "special",
+  "episodes": 3,
+  "status": "finished",
+  "season": "spring",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6657.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6657",
+      "url": "https://anilist.co/anime/6657"
+    },
+    "k": {
+      "id": "4651",
+      "url": "https://kitsu.io/anime/4651"
+    },
+    "mal": {
+      "id": "6657",
+      "url": "https://myanimelist.net/anime/6657"
+    }
+  }
+}

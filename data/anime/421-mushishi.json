@@ -1,0 +1,64 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 421,
+  "slug": "mushishi",
+  "kind": "anime",
+  "title": "Mushishi",
+  "titles": {
+    "default": "Mushishi",
+    "romaji": "Mushishi",
+    "english": "MUSHI-SHI",
+    "native": "蟲師"
+  },
+  "synonyms": [
+    "Mushishi",
+    "MUSHI-SHI",
+    "蟲師",
+    "מושישי",
+    "กีฏจารย์กับอาถรรพ์แมลงพิสดาร",
+    "Мастер Муши",
+    "Mushi-Shi"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx457-l6cTtNgI9Bi6.png"
+  ],
+  "references": {
+    "al": {
+      "id": "457",
+      "url": "https://anilist.co/anime/457"
+    },
+    "cr": {
+      "id": "mushi-shi",
+      "url": "https://www.crunchyroll.com/series/mushi-shi"
+    },
+    "k": {
+      "id": "419",
+      "url": "https://kitsu.io/anime/419"
+    },
+    "mal": {
+      "id": "457",
+      "url": "https://myanimelist.net/anime/457"
+    },
+    "nf": {
+      "id": "70205008",
+      "url": "https://www.netflix.com/title/70205008"
+    },
+    "t": {
+      "id": "26750",
+      "url": "https://trakt.tv/shows/26750"
+    },
+    "ttv": {
+      "id": "2374",
+      "url": "https://tubitv.com/series/2374"
+    },
+    "yt": {
+      "id": "oXpgvkvKzhw",
+      "url": "https://www.youtube.com/watch?v=SvsAOf9HWTs"
+    }
+  }
+}

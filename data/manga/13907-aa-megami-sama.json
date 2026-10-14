@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13907,
+  "slug": "aa-megami-sama",
+  "kind": "manga",
+  "title": "Aa! Megami-sama!",
+  "titles": {
+    "default": "Aa! Megami-sama!"
+  },
+  "synonyms": [
+    "Ah! My Goddess",
+    "Oh Ma Déesse!",
+    "โอ้! เทพธิดา",
+    "幸運女神",
+    "我的女神",
+    "Lum - Nữ thần hộ mệnh",
+    "오! 나의 여신님",
+    "Oh My Goddess!",
+    "ああっ女神さまっ",
+    "Oh! My Goddess",
+    "Aa! Megami-sama!"
+  ],
+  "type": "manga",
+  "chapters": 308,
+  "volumes": 48,
+  "status": "finished",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30446-jZGZDauOOb8Q.png"
+  ],
+  "references": {
+    "al": {
+      "id": "9611",
+      "url": "https://anilist.co/anime/49"
+    },
+    "al_manga": {
+      "id": "9611",
+      "url": "https://anilist.co/manga/9611"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9863,
+  "slug": "otona-no-bouguya-san",
+  "kind": "anime",
+  "title": "Otona no Bouguya-san",
+  "titles": {
+    "default": "Otona no Bouguya-san",
+    "romaji": "Otona no Bouguya-san",
+    "english": "Armor Shop for Ladies & Gentlemen",
+    "native": "おとなの防具屋さん"
+  },
+  "synonyms": [
+    "Otona no Bouguya-san",
+    "Armor Shop for Ladies & Gentlemen",
+    "おとなの防具屋さん",
+    "Xing Chen Bian",
+    "Legend of Immortals",
+    "Stellar Transformation",
+    "星辰变",
+    "Xingchen Bian"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx104308-lafZJEBjaXH3.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "104308",
+      "url": "https://anilist.co/anime/104308"
+    },
+    "cr": {
+      "id": "armor-shop-for-ladies-gentlemen",
+      "url": "https://www.crunchyroll.com/series/armor-shop-for-ladies-gentlemen"
+    },
+    "mal": {
+      "id": "38395",
+      "url": "https://myanimelist.net/anime/38395"
+    },
+    "tx": {
+      "id": "otonabougu",
+      "url": "https://twitter.com/otonabougu"
+    }
+  }
+}

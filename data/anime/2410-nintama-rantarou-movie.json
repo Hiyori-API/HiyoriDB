@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2410,
+  "slug": "nintama-rantarou-movie",
+  "kind": "anime",
+  "title": "Nintama Rantarou Movie",
+  "titles": {
+    "default": "Nintama Rantarou Movie",
+    "romaji": "Nintama Rantarou Movie",
+    "native": "映画 忍たま乱太郎"
+  },
+  "synonyms": [
+    "Nintama Rantarou Movie",
+    "映画 忍たま乱太郎",
+    "Eiga Nintama Rantarou",
+    "Hell Teacher Nube",
+    "Jigoku Sensei Nube (Movie)",
+    "地獄先生ぬ〜べ〜",
+    "Jigoku Sensei Nube (1996)"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2710-rPtbkliRsqhn.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2710",
+      "url": "https://anilist.co/anime/2710"
+    },
+    "k": {
+      "id": "2505",
+      "url": "https://kitsu.io/anime/2505"
+    },
+    "mal": {
+      "id": "2710",
+      "url": "https://myanimelist.net/anime/2710"
+    }
+  }
+}

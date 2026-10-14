@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8596,
+  "slug": "luck-logic",
+  "kind": "anime",
+  "title": "Luck & Logic",
+  "titles": {
+    "default": "Luck & Logic",
+    "romaji": "Luck & Logic",
+    "native": "ラクエンロジック"
+  },
+  "synonyms": [
+    "Luck & Logic",
+    "ラクエンロジック",
+    "Durarara!!x2 Ketsu",
+    "Durarara!! x2 Ketsu",
+    "デュラララ!!×2 結"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21482-xpAwuOe35KQn.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21482",
+      "url": "https://anilist.co/anime/21482"
+    },
+    "ap": {
+      "id": "B06XJFC5T9",
+      "url": "https://www.amazon.com/gp/video/detail/B06XJFC5T9"
+    },
+    "k": {
+      "id": "9725",
+      "url": "https://kitsu.io/anime/9725"
+    },
+    "mal": {
+      "id": "32083",
+      "url": "https://myanimelist.net/anime/32083"
+    },
+    "nf": {
+      "id": "80047029",
+      "url": "https://www.netflix.com/title/80047029"
+    },
+    "t": {
+      "id": "42187",
+      "url": "https://trakt.tv/shows/42187"
+    },
+    "tx": {
+      "id": "luck_and_logic",
+      "url": "https://twitter.com/luck_and_logic"
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7181,
+  "slug": "toaru-kagaku-no-railgun-s",
+  "kind": "anime",
+  "title": "Toaru Kagaku no Railgun S",
+  "titles": {
+    "default": "Toaru Kagaku no Railgun S",
+    "romaji": "Toaru Kagaku no Railgun S",
+    "english": "A Certain Scientific Railgun S",
+    "native": "とある科学の超電磁砲S"
+  },
+  "synonyms": [
+    "Toaru Kagaku no Railgun S",
+    "A Certain Scientific Railgun S",
+    "とある科学の超電磁砲S",
+    "Toaru Kagaku no Railgun 2nd Season",
+    "A Certain Scientific Railgun 2nd Season",
+    "เรลกัน แฟ้มลับคดีวิทยาศาสตร์ ภาค 2",
+    "Некий научный Рейлган 2",
+    "Некий научный Рейлган С",
+    "เรลกัน แฟ้มลับคดีวิทยาศาสตร์ ภาคที่ 2",
+    "Cấm thư ma thuật Index ngoại truyện: Siêu Railgun khoa học Phần 2",
+    "魔法禁書目錄外傳 科學超電磁砲 第二季",
+    "科學超電磁砲 S"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "spring",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx16049-FbOhOsQAuisF.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "16049",
+      "url": "https://anilist.co/anime/16049"
+    },
+    "cr": {
+      "id": "a-certain-scientific-railgun",
+      "url": "https://www.crunchyroll.com/series/a-certain-scientific-railgun"
+    },
+    "k": {
+      "id": "7366",
+      "url": "https://kitsu.io/anime/7366"
+    },
+    "mal": {
+      "id": "16049",
+      "url": "https://myanimelist.net/anime/16049"
+    },
+    "t": {
+      "id": "30843",
+      "url": "https://trakt.tv/shows/30843"
+    },
+    "ttv": {
+      "id": "2312",
+      "url": "https://tubitv.com/series/2312"
+    }
+  }
+}

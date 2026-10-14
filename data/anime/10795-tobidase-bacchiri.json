@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10795,
+  "slug": "tobidase-bacchiri",
+  "kind": "anime",
+  "title": "Tobidase! Bacchiri",
+  "titles": {
+    "default": "Tobidase! Bacchiri",
+    "romaji": "Tobidase! Bacchiri",
+    "native": "とびだせ! バッチリ"
+  },
+  "synonyms": [
+    "Tobidase! Bacchiri",
+    "とびだせ! バッチリ",
+    "Jump Out! Batchiri",
+    "ロボタン",
+    "Robotan"
+  ],
+  "type": "tv",
+  "episodes": 132,
+  "status": "finished",
+  "season": "fall",
+  "year": 1966,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19991.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "19991",
+      "url": "https://anilist.co/anime/19991"
+    },
+    "mal": {
+      "id": "19991",
+      "url": "https://myanimelist.net/anime/19991"
+    }
+  }
+}

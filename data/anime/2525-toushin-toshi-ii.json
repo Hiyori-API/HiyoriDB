@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2525,
+  "slug": "toushin-toshi-ii",
+  "kind": "anime",
+  "title": "Toushin Toshi II",
+  "titles": {
+    "default": "Toushin Toshi II",
+    "romaji": "Toushin Toshi II",
+    "english": "Tournament of the Gods: Title Match",
+    "native": "闘神都市Ⅱ"
+  },
+  "synonyms": [
+    "Toushin Toshi II",
+    "Tournament of the Gods: Title Match",
+    "闘神都市Ⅱ",
+    "Toshin Toshi 2",
+    "Toshin Toshi II",
+    "Starship Girl Yamamoto Yohko II",
+    "Soreyuke! Uchuu Senkan Yamamoto Yohko II",
+    "それゆけ!宇宙戦艦ヤマモト・ヨーコⅡ",
+    "Soreyuke! Uchuu Senkan Yamamoto Yooko II"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "winter",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2838-4Phq03zydnT9.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2838",
+      "url": "https://anilist.co/anime/2838"
+    },
+    "k": {
+      "id": "1501",
+      "url": "https://kitsu.io/anime/1501"
+    },
+    "mal": {
+      "id": "2838",
+      "url": "https://myanimelist.net/anime/2838"
+    }
+  }
+}

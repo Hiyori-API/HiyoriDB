@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1681,
+  "slug": "hikari-to-mizu-no-daphne-ova",
+  "kind": "anime",
+  "title": "Hikari to Mizu no Daphne OVA",
+  "titles": {
+    "default": "Hikari to Mizu no Daphne OVA",
+    "romaji": "Hikari to Mizu no Daphne OVA",
+    "english": "Daphne in the Brilliant Blue OVA",
+    "native": "光と水のダフネ OVA"
+  },
+  "synonyms": [
+    "Hikari to Mizu no Daphne OVA",
+    "Daphne in the Brilliant Blue OVA",
+    "光と水のダフネ OVA",
+    "Stratos 4 OVA",
+    "ストラトス・フォー OVA"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1898-N3KlujV4XW2v.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1898",
+      "url": "https://anilist.co/anime/1898"
+    },
+    "k": {
+      "id": "386",
+      "url": "https://kitsu.io/anime/386"
+    },
+    "mal": {
+      "id": "1898",
+      "url": "https://myanimelist.net/anime/1898"
+    }
+  }
+}

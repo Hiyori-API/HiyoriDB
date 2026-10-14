@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6910,
+  "slug": "queen-s-blade-rebellion-specials",
+  "kind": "anime",
+  "title": "Queen's Blade: Rebellion Specials",
+  "titles": {
+    "default": "Queen's Blade: Rebellion Specials",
+    "romaji": "Queen's Blade: Rebellion Specials",
+    "english": "Queen's Blade Rebellion Specials",
+    "native": "クイーンズブレイド リベリオン 限界突破で見えちゃうの"
+  },
+  "synonyms": [
+    "Queen's Blade: Rebellion Specials",
+    "Queen's Blade Rebellion Specials",
+    "クイーンズブレイド リベリオン 限界突破で見えちゃうの",
+    "Queen's Blade Rebellion: Genkai Toppa de Miechau no!?",
+    "Queen's Blade Rebellion: What Will It Look Like When It Smashes Through Restrictions!?",
+    "Shining Hearts: Bread of Happiness Specials",
+    "Shining Hearts: Shiawase no Pan Specials",
+    "シャイニング・ハーツ 〜幸せのパン〜"
+  ],
+  "type": "special",
+  "episodes": 6,
+  "status": "finished",
+  "season": "summer",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13855.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "13855",
+      "url": "https://anilist.co/anime/13855"
+    },
+    "k": {
+      "id": "7264",
+      "url": "https://kitsu.io/anime/7264"
+    },
+    "mal": {
+      "id": "13855",
+      "url": "https://myanimelist.net/anime/13855"
+    }
+  }
+}

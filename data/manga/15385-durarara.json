@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15385,
+  "slug": "durarara",
+  "kind": "manga",
+  "title": "Durarara!!",
+  "titles": {
+    "default": "Durarara!!"
+  },
+  "synonyms": [
+    "DRRR!!",
+    "Дюрарара!!",
+    "DRRR!! โลกบิดเบี้ยวที่อิเคะบุคุโระ",
+    "듀라라라!!",
+    "Durarara!!",
+    "デュラララ!!",
+    "Kizoku to Nessa no Ouji",
+    "The Aristocrat and the Desert Prince",
+    "貴族と熱砂の皇子"
+  ],
+  "type": "novel",
+  "chapters": 89,
+  "volumes": 13,
+  "status": "finished",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx46816-D2DhHjjCu2ow.png"
+  ],
+  "references": {
+    "al": {
+      "id": "20879",
+      "url": "https://anilist.co/anime/6746"
+    },
+    "al_manga": {
+      "id": "20879",
+      "url": "https://anilist.co/manga/20879"
+    }
+  }
+}

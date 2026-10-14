@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15341,
+  "slug": "majokko-tsukune-chan",
+  "kind": "manga",
+  "title": "Majokko Tsukune-chan",
+  "titles": {
+    "default": "Majokko Tsukune-chan"
+  },
+  "synonyms": [
+    "Magical Witch Tsukune-Chan",
+    "魔女っ娘つくねちゃん",
+    "xxxHOLiC",
+    "xxxHolic Rou",
+    "xxxHolic Cage",
+    "xxxHolic•Rou"
+  ],
+  "type": "manga",
+  "chapters": 45,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx52943-09x83XShQMrn.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "145282",
+      "url": "https://anilist.co/anime/2457"
+    },
+    "al_manga": {
+      "id": "145282",
+      "url": "https://anilist.co/manga/145282"
+    }
+  }
+}

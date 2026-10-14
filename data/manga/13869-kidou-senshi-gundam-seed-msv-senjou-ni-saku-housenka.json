@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13869,
+  "slug": "kidou-senshi-gundam-seed-msv-senjou-ni-saku-housenka",
+  "kind": "manga",
+  "title": "Kidou Senshi Gundam SEED MSV: Senjou ni Saku Housenka",
+  "titles": {
+    "default": "Kidou Senshi Gundam SEED MSV: Senjou ni Saku Housenka"
+  },
+  "synonyms": [
+    "機動戦士ガンダムSEED MSV 戦場に咲くホウセンカ",
+    "Captain Tsubasa: Road to 2002 - F.C.R.B. Stadium Opening Match",
+    "キャプテン翼 ROAD TO 2002特別編 F.C.R.B. STADIUM OPENING MATCH"
+  ],
+  "type": "one_shot",
+  "chapters": 1,
+  "status": "finished",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b113421-ugNvRvUNzt9m.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "93",
+      "url": "https://anilist.co/anime/93"
+    },
+    "al_manga": {
+      "id": "93",
+      "url": "https://anilist.co/manga/93"
+    }
+  }
+}

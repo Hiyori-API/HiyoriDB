@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13167,
+  "slug": "digimon-beatbreak",
+  "kind": "anime",
+  "title": "DIGIMON BEATBREAK",
+  "titles": {
+    "default": "DIGIMON BEATBREAK",
+    "romaji": "DIGIMON BEATBREAK"
+  },
+  "synonyms": [
+    "DIGIMON BEATBREAK",
+    "デジモンビートブレイク",
+    "ดิจิมอน บีตเบรก",
+    "디지몬 비트브레이크",
+    "Getbackers",
+    "GetBackers",
+    "ゲットバッカーズ　奪還屋",
+    "GetBackers: Dakkan'ya",
+    "Get Backers"
+  ],
+  "type": "tv",
+  "episodes": 49,
+  "status": "finished",
+  "season": "fall",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188388-aXx9fsnvezBf.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "188388",
+      "url": "https://anilist.co/anime/188388"
+    },
+    "cr": {
+      "id": "series/GT00364378/digimon-beatbreak",
+      "url": "https://www.crunchyroll.com/series/series/GT00364378/digimon-beatbreak"
+    },
+    "k": {
+      "id": "111",
+      "url": "https://kitsu.io/anime/111"
+    },
+    "mal": {
+      "id": "61269",
+      "url": "https://myanimelist.net/anime/61269"
+    },
+    "t": {
+      "id": "62219",
+      "url": "https://trakt.tv/shows/62219"
+    }
+  }
+}

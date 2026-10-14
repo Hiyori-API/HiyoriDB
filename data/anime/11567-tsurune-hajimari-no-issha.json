@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11567,
+  "slug": "tsurune-hajimari-no-issha",
+  "kind": "anime",
+  "title": "Tsurune: Hajimari no Issha",
+  "titles": {
+    "default": "Tsurune: Hajimari no Issha",
+    "romaji": "Tsurune: Hajimari no Issha",
+    "english": "Tsurune The Movie - The First Shot -",
+    "native": "劇場版ツルネ －はじまりの一射－"
+  },
+  "synonyms": [
+    "Tsurune: Hajimari no Issha",
+    "Tsurune The Movie - The First Shot -",
+    "劇場版ツルネ －はじまりの一射－",
+    "Tsurune: The First Shot",
+    "Aim for the Ace! (1979)",
+    "Ace wo Nerae! (1979)",
+    "エースをねらえ！",
+    "Ace o Nerae: Theatrical Version",
+    "Aim for the Ace! Movie",
+    "Aim for the Best!",
+    "Jump High Hiromi!"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx125261-Sh9fN2heZ1rm.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "125261",
+      "url": "https://anilist.co/anime/125261"
+    },
+    "k": {
+      "id": "283",
+      "url": "https://kitsu.io/anime/283"
+    },
+    "mal": {
+      "id": "43556",
+      "url": "https://myanimelist.net/anime/43556"
+    },
+    "tx": {
+      "id": "tsurune_anime",
+      "url": "https://twitter.com/tsurune_anime"
+    }
+  }
+}

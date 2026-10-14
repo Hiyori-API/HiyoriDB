@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2992,
+  "slug": "utsukushiki-emono-tachi-no-gakuen",
+  "kind": "anime",
+  "title": "Utsukushiki Emono-tachi no Gakuen",
+  "titles": {
+    "default": "Utsukushiki Emono-tachi no Gakuen",
+    "romaji": "Utsukushiki Emono-tachi no Gakuen",
+    "english": "Sin Sorority",
+    "native": "美しき獲物たちの学園"
+  },
+  "synonyms": [
+    "Utsukushiki Emono-tachi no Gakuen",
+    "Sin Sorority",
+    "美しき獲物たちの学園",
+    "Samurai X: Reflection",
+    "Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou-hen",
+    "るろうに剣心 -明治剣客浪漫譚- 星霜編",
+    "Rurouni Kenshin: Seisouhen",
+    "Rurouni Kenshin OVA 2"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3539.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3539",
+      "url": "https://anilist.co/anime/3539"
+    },
+    "k": {
+      "id": "368",
+      "url": "https://kitsu.io/anime/368"
+    },
+    "mal": {
+      "id": "3539",
+      "url": "https://myanimelist.net/anime/3539"
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12524,
+  "slug": "mahou-shoujo-ni-akogarete",
+  "kind": "anime",
+  "title": "Mahou Shoujo ni Akogarete",
+  "titles": {
+    "default": "Mahou Shoujo ni Akogarete",
+    "romaji": "Mahou Shoujo ni Akogarete",
+    "english": "Gushing Over Magical Girls",
+    "native": "魔法少女にあこがれて"
+  },
+  "synonyms": [
+    "Mahou Shoujo ni Akogarete",
+    "Gushing Over Magical Girls",
+    "魔法少女にあこがれて",
+    "I Admire Magical Girls, and...",
+    "Mahoako",
+    "Looking up to Magical Girls",
+    "夢想成為魔法少女",
+    "Fascinada por Garotas Mágicas",
+    "Me encantan las Magical Girls",
+    "El Hazard: The Alternative World",
+    "異次元の世界エルハザード",
+    "Ijigen no Sekai El Hazard",
+    "Ijigen no Sekai El-Hazard"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2024,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162780-brAdNEROhZdG.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "162780",
+      "url": "https://anilist.co/anime/162780"
+    },
+    "k": {
+      "id": "94",
+      "url": "https://kitsu.io/anime/94"
+    },
+    "mal": {
+      "id": "54722",
+      "url": "https://myanimelist.net/anime/54722"
+    },
+    "t": {
+      "id": "63711",
+      "url": "https://trakt.tv/shows/63711"
+    },
+    "tx": {
+      "id": "mahoako_anime",
+      "url": "https://twitter.com/mahoako_anime"
+    }
+  }
+}

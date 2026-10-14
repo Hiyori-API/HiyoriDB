@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3080,
+  "slug": "joker-marginal-city",
+  "kind": "anime",
+  "title": "Joker: Marginal City",
+  "titles": {
+    "default": "Joker: Marginal City",
+    "romaji": "Joker: Marginal City",
+    "native": "ＪＯＫＥＲ　マージナル・シティ"
+  },
+  "synonyms": [
+    "Joker: Marginal City",
+    "ＪＯＫＥＲ　マージナル・シティ",
+    "J0KER - Marginal City",
+    "J0ker",
+    "Joker",
+    "JOKER マージナル・シティ"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3661.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3661",
+      "url": "https://anilist.co/anime/3661"
+    },
+    "k": {
+      "id": "3177",
+      "url": "https://kitsu.io/anime/3177"
+    },
+    "mal": {
+      "id": "3661",
+      "url": "https://myanimelist.net/anime/3661"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6119,
+  "slug": "seikimatsu-occult-gakuin-specials",
+  "kind": "anime",
+  "title": "Seikimatsu Occult Gakuin Specials",
+  "titles": {
+    "default": "Seikimatsu Occult Gakuin Specials",
+    "romaji": "Seikimatsu Occult Gakuin Specials",
+    "english": "Occult Academy Specials",
+    "native": "世紀末オカルト学院"
+  },
+  "synonyms": [
+    "Seikimatsu Occult Gakuin Specials",
+    "Occult Academy Specials",
+    "世紀末オカルト学院",
+    "Zaidanhoujin Occult Designer Gakuin Specials",
+    "Seikimatsu Occult Academy Specials"
+  ],
+  "type": "special",
+  "episodes": 4,
+  "status": "finished",
+  "season": "fall",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9220.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9220",
+      "url": "https://anilist.co/anime/9220"
+    },
+    "k": {
+      "id": "5636",
+      "url": "https://kitsu.io/anime/5636"
+    },
+    "mal": {
+      "id": "9220",
+      "url": "https://myanimelist.net/anime/9220"
+    }
+  }
+}

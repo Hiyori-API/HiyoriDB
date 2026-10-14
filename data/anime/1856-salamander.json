@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1856,
+  "slug": "salamander",
+  "kind": "anime",
+  "title": "Salamander",
+  "titles": {
+    "default": "Salamander",
+    "romaji": "Salamander",
+    "native": "沙羅曼蛇"
+  },
+  "synonyms": [
+    "Salamander",
+    "沙羅曼蛇"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "winter",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2095.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2095",
+      "url": "https://anilist.co/anime/2095"
+    },
+    "k": {
+      "id": "1894",
+      "url": "https://kitsu.io/anime/1894"
+    },
+    "mal": {
+      "id": "2095",
+      "url": "https://myanimelist.net/anime/2095"
+    }
+  }
+}

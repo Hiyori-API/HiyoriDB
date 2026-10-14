@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6803,
+  "slug": "pretty-rhythm-dear-my-future",
+  "kind": "anime",
+  "title": "Pretty Rhythm: Dear My Future",
+  "titles": {
+    "default": "Pretty Rhythm: Dear My Future",
+    "romaji": "Pretty Rhythm: Dear My Future",
+    "native": "プリティーリズム・ディアマイフューチャー"
+  },
+  "synonyms": [
+    "Pretty Rhythm: Dear My Future",
+    "プリティーリズム・ディアマイフューチャー",
+    "プリティーリズム ディアマイフューチャー"
+  ],
+  "type": "tv",
+  "episodes": 51,
+  "status": "finished",
+  "season": "spring",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12863-YerEY4cnzlfl.png"
+  ],
+  "references": {
+    "al": {
+      "id": "12863",
+      "url": "https://anilist.co/anime/12863"
+    },
+    "k": {
+      "id": "6829",
+      "url": "https://kitsu.io/anime/6829"
+    },
+    "mal": {
+      "id": "12863",
+      "url": "https://myanimelist.net/anime/12863"
+    },
+    "t": {
+      "id": "67145",
+      "url": "https://trakt.tv/shows/67145"
+    }
+  }
+}

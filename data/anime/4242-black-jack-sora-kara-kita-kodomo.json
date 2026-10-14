@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4242,
+  "slug": "black-jack-sora-kara-kita-kodomo",
+  "kind": "anime",
+  "title": "Black Jack: Sora Kara Kita Kodomo",
+  "titles": {
+    "default": "Black Jack: Sora Kara Kita Kodomo",
+    "romaji": "Black Jack: Sora Kara Kita Kodomo",
+    "native": "ブラック・ジャック 空からきた子ども"
+  },
+  "synonyms": [
+    "Black Jack: Sora Kara Kita Kodomo",
+    "ブラック・ジャック 空からきた子ども",
+    "Black Jack: The Child Who Came from the Sky",
+    "Black Jack: Sora kara Kita Kodomo"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6246-bCS00PUnK7qs.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6246",
+      "url": "https://anilist.co/anime/6246"
+    },
+    "k": {
+      "id": "4491",
+      "url": "https://kitsu.io/anime/4491"
+    },
+    "mal": {
+      "id": "6246",
+      "url": "https://myanimelist.net/anime/6246"
+    }
+  }
+}

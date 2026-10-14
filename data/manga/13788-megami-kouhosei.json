@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13788,
+  "slug": "megami-kouhosei",
+  "kind": "manga",
+  "title": "Megami Kouhosei",
+  "titles": {
+    "default": "Megami Kouhosei"
+  },
+  "synonyms": [
+    "Pilot Candidate",
+    "The Candidate for Goddess",
+    "女神候補生",
+    "The Life and Times of an Idiot Section Chief",
+    "Kachou Baka Ichidachi",
+    "課長バカ一代",
+    "Kachou Baka Ichidai"
+  ],
+  "type": "manga",
+  "chapters": 27,
+  "volumes": 5,
+  "status": "finished",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30093-rdtRNu10wr3N.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "888",
+      "url": "https://anilist.co/anime/888"
+    },
+    "al_manga": {
+      "id": "888",
+      "url": "https://anilist.co/manga/888"
+    }
+  }
+}

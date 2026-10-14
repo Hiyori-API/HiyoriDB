@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11395,
+  "slug": "dakaretai-otoko-1-i-ni-odosarete-imasu-spain-hen",
+  "kind": "anime",
+  "title": "Dakaretai Otoko 1-i ni Odosarete Imasu.: Spain-hen",
+  "titles": {
+    "default": "Dakaretai Otoko 1-i ni Odosarete Imasu.: Spain-hen",
+    "romaji": "Dakaretai Otoko 1-i ni Odosarete Imasu.: Spain-hen",
+    "english": "DAKAICHI -I'm being harassed by the sexiest man of the year- the Movie: Spain Arc",
+    "native": "劇場版 抱かれたい男1位に脅されています。～スペイン編～"
+  },
+  "synonyms": [
+    "Dakaretai Otoko 1-i ni Odosarete Imasu.: Spain-hen",
+    "DAKAICHI -I'm being harassed by the sexiest man of the year- the Movie: Spain Arc",
+    "劇場版 抱かれたい男1位に脅されています。～スペイン編～",
+    "Dakaretai Otoko Ichii ni Odosarete Imasu. Movie",
+    "Dakaichi: I'm Being Harassed By the Sexiest Man of the Year the Movie - Spain Arc",
+    "Dakaretai Otoko 1-i ni Odosarete Imasu. Movie: Spain-hen"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132545-nENYhlJhAohn.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "132545",
+      "url": "https://anilist.co/anime/132545"
+    },
+    "cr": {
+      "id": "watch/GEVUWJNJX/movie",
+      "url": "https://www.crunchyroll.com/series/watch/GEVUWJNJX/movie"
+    },
+    "mal": {
+      "id": "48780",
+      "url": "https://myanimelist.net/anime/48780"
+    },
+    "tx": {
+      "id": "dakaretai_1st",
+      "url": "https://twitter.com/dakaretai_1st"
+    }
+  }
+}

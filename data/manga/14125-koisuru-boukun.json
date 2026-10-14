@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14125,
+  "slug": "koisuru-boukun",
+  "kind": "manga",
+  "title": "Koisuru Boukun",
+  "titles": {
+    "default": "Koisuru Boukun"
+  },
+  "synonyms": [
+    "Koi Suru Boukun",
+    "Zakochany Tyran",
+    "사랑하는 폭군",
+    "Verliebter Tyrann",
+    "The Tyrant Falls In Love",
+    "恋する暴君",
+    "Puu-Neko",
+    "プ～ねこ",
+    "Pū-Neko",
+    "Pu~Neko"
+  ],
+  "type": "manga",
+  "status": "publishing",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31199-Blh83jPCM3MX.png"
+  ],
+  "references": {
+    "al": {
+      "id": "8634",
+      "url": "https://anilist.co/anime/8634"
+    },
+    "al_manga": {
+      "id": "8634",
+      "url": "https://anilist.co/manga/8634"
+    }
+  }
+}

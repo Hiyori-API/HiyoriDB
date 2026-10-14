@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13629,
+  "slug": "perfect-addiction",
+  "kind": "anime",
+  "title": "Perfect Addiction",
+  "titles": {
+    "default": "Perfect Addiction",
+    "romaji": "Perfect Addiction",
+    "native": "パーフェクトアディクション"
+  },
+  "synonyms": [
+    "Perfect Addiction",
+    "パーフェクトアディクション",
+    "อ้อนรักหนุ่มหน้าหวาน",
+    "Saishuu Shiken Kujira",
+    "最終試験くじら",
+    "Final Examination Kujira"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213666-nnKcumRblZi1.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "213666",
+      "url": "https://anilist.co/anime/213666"
+    },
+    "k": {
+      "id": "2685",
+      "url": "https://kitsu.io/anime/2685"
+    },
+    "mal": {
+      "id": "63514",
+      "url": "https://myanimelist.net/anime/63514"
+    }
+  }
+}

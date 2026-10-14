@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 700,
+  "slug": "meitantei-conan-seikimatsu-no-majutsushi",
+  "kind": "anime",
+  "title": "Meitantei Conan: Seikimatsu no Majutsushi",
+  "titles": {
+    "default": "Meitantei Conan: Seikimatsu no Majutsushi",
+    "romaji": "Meitantei Conan: Seikimatsu no Majutsushi",
+    "english": "Detective Conan: The Last Wizard of the Century",
+    "native": "名探偵コナン 世紀末の魔術師"
+  },
+  "synonyms": [
+    "Meitantei Conan: Seikimatsu no Majutsushi",
+    "Detective Conan: The Last Wizard of the Century",
+    "名探偵コナン 世紀末の魔術師",
+    "Detective Conan Movie 3: The Last Wizard of the Century",
+    "Meitantei Conan Movie 03: Seikimatsu no Majutsushi",
+    "Detektiv Conan: Der Magier des letzten Jahrhunderts",
+    "Detective Conan Movie 03: L’ultimo mago del secolo",
+    "Détective Conan : Le Magicien de la fin du siècle",
+    "Case Closed: The Last Wizard of the Century",
+    "Case Closed Movie 3: The Last Wizard of the Century",
+    "Detective Conan Movie 03: The Last Wizard of the Century",
+    "Detective Conan Movie 3"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx781-5VSeE53N40BF.png"
+  ],
+  "references": {
+    "al": {
+      "id": "781",
+      "url": "https://anilist.co/anime/781"
+    },
+    "k": {
+      "id": "698",
+      "url": "https://kitsu.io/anime/698"
+    },
+    "mal": {
+      "id": "781",
+      "url": "https://myanimelist.net/anime/781"
+    },
+    "nf": {
+      "id": "70126871",
+      "url": "https://www.netflix.com/title/70126871"
+    }
+  }
+}

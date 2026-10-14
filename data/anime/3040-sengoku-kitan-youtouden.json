@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3040,
+  "slug": "sengoku-kitan-youtouden",
+  "kind": "anime",
+  "title": "Sengoku Kitan Youtouden",
+  "titles": {
+    "default": "Sengoku Kitan Youtouden",
+    "romaji": "Sengoku Kitan Youtouden",
+    "english": "Yotoden: Chronicle of the Warlord Period",
+    "native": "戦国奇譚妖刀伝"
+  },
+  "synonyms": [
+    "Sengoku Kitan Youtouden",
+    "Yotoden: Chronicle of the Warlord Period",
+    "戦国奇譚妖刀伝",
+    "Sengoku Kidan Youtouden",
+    "Yotoden OVA",
+    "Magiczny miecz ninja",
+    "Zaklęty miecz ninja"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "spring",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3600-ywIjIotacxgD.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3600",
+      "url": "https://anilist.co/anime/3600"
+    },
+    "k": {
+      "id": "3134",
+      "url": "https://kitsu.io/anime/3134"
+    },
+    "mal": {
+      "id": "3600",
+      "url": "https://myanimelist.net/anime/3600"
+    }
+  }
+}

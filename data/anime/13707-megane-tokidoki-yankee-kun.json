@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13707,
+  "slug": "megane-tokidoki-yankee-kun",
+  "kind": "anime",
+  "title": "Megane, Tokidoki, Yankee-kun",
+  "titles": {
+    "default": "Megane, Tokidoki, Yankee-kun",
+    "romaji": "Megane, Tokidoki, Yankee-kun",
+    "native": "メガネ、時々、ヤンキーくん"
+  },
+  "synonyms": [
+    "Megane, Tokidoki, Yankee-kun",
+    "メガネ、時々、ヤンキーくん",
+    "Otasukebu",
+    "Glasses With a Chance of Delinquent",
+    "Sudden Death",
+    "Sadon Desu",
+    "さどんです"
+  ],
+  "type": "tv",
+  "status": "to_be_aired",
+  "season": "spring",
+  "year": 2027,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211304-PItzmt5h2yMC.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "211304",
+      "url": "https://anilist.co/anime/211304"
+    },
+    "k": {
+      "id": "8275",
+      "url": "https://kitsu.io/anime/8275"
+    },
+    "mal": {
+      "id": "64006",
+      "url": "https://myanimelist.net/anime/64006"
+    }
+  }
+}

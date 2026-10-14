@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13877,
+  "slug": "ichigo-mashimaro",
+  "kind": "manga",
+  "title": "Ichigo Mashimaro",
+  "titles": {
+    "default": "Ichigo Mashimaro"
+  },
+  "synonyms": [
+    "Erdbeeren & Marshmallows",
+    "Les petites fraises",
+    "Strawberry Marshmallow",
+    "苺ましまろ",
+    "Ichigo Mashimaro"
+  ],
+  "type": "manga",
+  "status": "publishing",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30371-12DZmJIP37gD.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "488",
+      "url": "https://anilist.co/anime/1888"
+    },
+    "al_manga": {
+      "id": "488",
+      "url": "https://anilist.co/manga/488"
+    }
+  }
+}

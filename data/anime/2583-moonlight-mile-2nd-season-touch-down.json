@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2583,
+  "slug": "moonlight-mile-2nd-season-touch-down",
+  "kind": "anime",
+  "title": "MOONLIGHT MILE 2nd Season -Touch down-",
+  "titles": {
+    "default": "MOONLIGHT MILE 2nd Season -Touch down-",
+    "romaji": "MOONLIGHT MILE 2nd Season -Touch down-",
+    "native": "MOONLIGHT MILE 2ndシーズン -Touch down-"
+  },
+  "synonyms": [
+    "MOONLIGHT MILE 2nd Season -Touch down-",
+    "MOONLIGHT MILE 2ndシーズン -Touch down-",
+    "Moonlight Mile sezon 2 - Lądowanie",
+    "ムーンライトマイル 2ndシーズン -Touch down-",
+    "Moonlight Mile 2nd Season: Touch Down"
+  ],
+  "type": "tv",
+  "episodes": 14,
+  "status": "finished",
+  "season": "fall",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2929-kltYZeHi3DQf.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2929",
+      "url": "https://anilist.co/anime/2929"
+    },
+    "mal": {
+      "id": "2929",
+      "url": "https://myanimelist.net/anime/2929"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2167,
+  "slug": "chibo",
+  "kind": "anime",
+  "title": "Chibo",
+  "titles": {
+    "default": "Chibo",
+    "romaji": "Chibo",
+    "english": "Mother Knows Breast",
+    "native": "痴母"
+  },
+  "synonyms": [
+    "Chibo",
+    "Mother Knows Breast",
+    "痴母",
+    "School Rumble Ichi Gakki Hoshuu",
+    "スクールランブル一学期補習",
+    "School Rumble OVA",
+    "School Rumble: First Extra Term"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2447.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2447",
+      "url": "https://anilist.co/anime/2447"
+    },
+    "k": {
+      "id": "476",
+      "url": "https://kitsu.io/anime/476"
+    },
+    "mal": {
+      "id": "2447",
+      "url": "https://myanimelist.net/anime/2447"
+    }
+  }
+}

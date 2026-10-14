@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 326,
+  "slug": "fate-stay-night",
+  "kind": "anime",
+  "title": "Fate/stay night",
+  "titles": {
+    "default": "Fate/stay night",
+    "romaji": "Fate/stay night"
+  },
+  "synonyms": [
+    "Fate/stay night",
+    "フェイト/ステイナイト",
+    "Судьба/Ночь схватки",
+    "Fate - Stay Night"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "winter",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx356-mTpMvtillumS.png"
+  ],
+  "references": {
+    "al": {
+      "id": "356",
+      "url": "https://anilist.co/anime/356"
+    },
+    "k": {
+      "id": "323",
+      "url": "https://kitsu.io/anime/323"
+    },
+    "mal": {
+      "id": "356",
+      "url": "https://myanimelist.net/anime/356"
+    },
+    "nf": {
+      "id": "80067250",
+      "url": "https://www.netflix.com/title/80067250"
+    },
+    "t": {
+      "id": "61708",
+      "url": "https://trakt.tv/shows/61708"
+    },
+    "ttv": {
+      "id": "4452",
+      "url": "https://tubitv.com/series/4452"
+    }
+  }
+}

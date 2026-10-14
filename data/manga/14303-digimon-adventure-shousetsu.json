@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14303,
+  "slug": "digimon-adventure-shousetsu",
+  "kind": "manga",
+  "title": "Digimon Adventure Shousetsu",
+  "titles": {
+    "default": "Digimon Adventure Shousetsu"
+  },
+  "synonyms": [
+    "Digimon Adventure: Novel",
+    "デジモンアドベンチャー小説",
+    "Happy Seven",
+    "はっぴぃセブン",
+    "Happy 7"
+  ],
+  "type": "novel",
+  "chapters": 19,
+  "volumes": 3,
+  "status": "finished",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx129811-HPuEuuLNw8XW.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "552",
+      "url": "https://anilist.co/anime/552"
+    },
+    "al_manga": {
+      "id": "552",
+      "url": "https://anilist.co/manga/552"
+    }
+  }
+}

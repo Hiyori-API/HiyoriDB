@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14653,
+  "slug": "kamui-gaiden",
+  "kind": "manga",
+  "title": "Kamui Gaiden",
+  "titles": {
+    "default": "Kamui Gaiden"
+  },
+  "synonyms": [
+    "The Legend of Kamui",
+    "カムイ外伝",
+    "Renai Soukanzu",
+    "恋愛相姦図",
+    "Renai Sokanzu",
+    "Pink Sweets"
+  ],
+  "type": "manga",
+  "chapters": 20,
+  "volumes": 2,
+  "status": "finished",
+  "year": 1965,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx41749-hVtb0NCPZdC8.png"
+  ],
+  "references": {
+    "al": {
+      "id": "5023",
+      "url": "https://anilist.co/anime/5023"
+    },
+    "al_manga": {
+      "id": "5023",
+      "url": "https://anilist.co/manga/5023"
+    }
+  }
+}

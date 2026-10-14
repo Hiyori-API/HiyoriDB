@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3385,
+  "slug": "popolocrois-monogatari",
+  "kind": "anime",
+  "title": "Popolocrois Monogatari",
+  "titles": {
+    "default": "Popolocrois Monogatari",
+    "romaji": "Popolocrois Monogatari",
+    "native": "ポポロクロイス物語"
+  },
+  "synonyms": [
+    "Popolocrois Monogatari",
+    "ポポロクロイス物語",
+    "Popolocrois"
+  ],
+  "type": "tv",
+  "episodes": 25,
+  "status": "finished",
+  "season": "fall",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4191-0lhSXP6OU3A0.png"
+  ],
+  "references": {
+    "al": {
+      "id": "4191",
+      "url": "https://anilist.co/anime/4191"
+    },
+    "k": {
+      "id": "3513",
+      "url": "https://kitsu.io/anime/3513"
+    },
+    "mal": {
+      "id": "4191",
+      "url": "https://myanimelist.net/anime/4191"
+    }
+  }
+}

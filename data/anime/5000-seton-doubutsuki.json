@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5000,
+  "slug": "seton-doubutsuki",
+  "kind": "anime",
+  "title": "Seton Doubutsuki",
+  "titles": {
+    "default": "Seton Doubutsuki",
+    "romaji": "Seton Doubutsuki",
+    "english": "Seton Animal Chronicles",
+    "native": "シートン動物記"
+  },
+  "synonyms": [
+    "Seton Doubutsuki",
+    "Seton Animal Chronicles",
+    "シートン動物記",
+    "Seton's Animal Tales"
+  ],
+  "type": "tv",
+  "episodes": 45,
+  "status": "finished",
+  "season": "fall",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7845.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7845",
+      "url": "https://anilist.co/anime/7845"
+    },
+    "k": {
+      "id": "5140",
+      "url": "https://kitsu.io/anime/5140"
+    },
+    "mal": {
+      "id": "7845",
+      "url": "https://myanimelist.net/anime/7845"
+    }
+  }
+}

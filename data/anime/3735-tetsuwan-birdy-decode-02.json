@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3735,
+  "slug": "tetsuwan-birdy-decode-02",
+  "kind": "anime",
+  "title": "Tetsuwan Birdy DECODE:02",
+  "titles": {
+    "default": "Tetsuwan Birdy DECODE:02",
+    "romaji": "Tetsuwan Birdy DECODE:02",
+    "english": "Birdy the Mighty: Decode 02",
+    "native": "鉄腕バーディー DECODE:02"
+  },
+  "synonyms": [
+    "Tetsuwan Birdy DECODE:02",
+    "Birdy the Mighty: Decode 02",
+    "鉄腕バーディー DECODE:02",
+    "Tetsuwan Birdy Decode 2nd Season",
+    "鉄腕バーディー DECODE 第2期",
+    "Tetsuwan Birdy Decode:02"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5074-2pMtem2bC5K9.png"
+  ],
+  "references": {
+    "al": {
+      "id": "5074",
+      "url": "https://anilist.co/anime/5074"
+    },
+    "k": {
+      "id": "3915",
+      "url": "https://kitsu.io/anime/3915"
+    },
+    "mal": {
+      "id": "5074",
+      "url": "https://myanimelist.net/anime/5074"
+    },
+    "t": {
+      "id": "37107",
+      "url": "https://trakt.tv/shows/37107"
+    }
+  }
+}

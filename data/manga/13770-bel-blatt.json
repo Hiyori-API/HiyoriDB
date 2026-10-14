@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13770,
+  "slug": "bel-blatt",
+  "kind": "manga",
+  "title": "Übel Blatt",
+  "titles": {
+    "default": "Übel Blatt"
+  },
+  "synonyms": [
+    "Evil Blade",
+    "ดาบคลั่งทวงแค้น",
+    "Ubel Blatt",
+    "Übel Blatt ～ユーベルブラット～",
+    "Übel Blatt",
+    "Übel Blatt [ユーベルブラット]"
+  ],
+  "type": "manga",
+  "chapters": 167,
+  "volumes": 23,
+  "status": "finished",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30070-iqQFA13GBkeI.png"
+  ],
+  "references": {
+    "al": {
+      "id": "175198",
+      "url": "https://anilist.co/anime/175198"
+    },
+    "al_manga": {
+      "id": "175198",
+      "url": "https://anilist.co/manga/175198"
+    }
+  }
+}

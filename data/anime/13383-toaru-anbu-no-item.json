@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13383,
+  "slug": "toaru-anbu-no-item",
+  "kind": "anime",
+  "title": "Toaru Anbu no ITEM",
+  "titles": {
+    "default": "Toaru Anbu no ITEM",
+    "romaji": "Toaru Anbu no ITEM",
+    "english": "A Certain Dark Item",
+    "native": "とある暗部の少女共棲"
+  },
+  "synonyms": [
+    "Toaru Anbu no ITEM",
+    "A Certain Dark Item",
+    "とある暗部の少女共棲",
+    "A Certain Dark Side's Item",
+    "One Piece",
+    "ONE PIECE",
+    "ワンピース"
+  ],
+  "type": "tv",
+  "status": "airing",
+  "season": "fall",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186742-v7yfbefc8fuO.png"
+  ],
+  "references": {
+    "al": {
+      "id": "186742",
+      "url": "https://anilist.co/anime/186742"
+    },
+    "cr": {
+      "id": "series/GT00383991/a-certain-dark-item",
+      "url": "https://www.crunchyroll.com/series/series/GT00383991/a-certain-dark-item"
+    },
+    "k": {
+      "id": "12",
+      "url": "https://kitsu.io/anime/12"
+    },
+    "mal": {
+      "id": "61014",
+      "url": "https://myanimelist.net/anime/61014"
+    },
+    "t": {
+      "id": "37696",
+      "url": "https://trakt.tv/shows/37696"
+    }
+  }
+}

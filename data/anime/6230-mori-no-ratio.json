@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6230,
+  "slug": "mori-no-ratio",
+  "kind": "anime",
+  "title": "Mori no Ratio",
+  "titles": {
+    "default": "Mori no Ratio",
+    "romaji": "Mori no Ratio",
+    "english": "Ratio of Forest",
+    "native": "森のレシオ"
+  },
+  "synonyms": [
+    "Mori no Ratio",
+    "Ratio of Forest",
+    "森のレシオ",
+    "Mori no Reshio",
+    "Maple Leaves",
+    "Momiji Ryouran",
+    "紅葉繚乱"
+  ],
+  "type": "tv",
+  "status": "airing",
+  "season": "spring",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101906-wNhuSdTewGUw.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101906",
+      "url": "https://anilist.co/anime/101906"
+    },
+    "mal": {
+      "id": "29427",
+      "url": "https://myanimelist.net/anime/29427"
+    }
+  }
+}

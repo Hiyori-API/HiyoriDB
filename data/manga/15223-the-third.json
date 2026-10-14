@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15223,
+  "slug": "the-third",
+  "kind": "manga",
+  "title": "The Third",
+  "titles": {
+    "default": "The Third"
+  },
+  "synonyms": [
+    "ザ・サード",
+    "The Third"
+  ],
+  "type": "novel",
+  "status": "publishing",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/47675.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "944",
+      "url": "https://anilist.co/anime/944"
+    },
+    "al_manga": {
+      "id": "944",
+      "url": "https://anilist.co/manga/944"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4916,
+  "slug": "cool-cool-bye",
+  "kind": "anime",
+  "title": "Cool Cool Bye",
+  "titles": {
+    "default": "Cool Cool Bye",
+    "romaji": "Cool Cool Bye",
+    "native": "クール・クール・バイ"
+  },
+  "synonyms": [
+    "Cool Cool Bye",
+    "クール・クール・バイ"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9356-QUpq1jpkhpIq.png"
+  ],
+  "references": {
+    "al": {
+      "id": "9356",
+      "url": "https://anilist.co/anime/9356"
+    },
+    "k": {
+      "id": "5701",
+      "url": "https://kitsu.io/anime/5701"
+    },
+    "mal": {
+      "id": "9356",
+      "url": "https://myanimelist.net/anime/9356"
+    }
+  }
+}

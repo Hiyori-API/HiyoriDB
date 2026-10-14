@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6747,
+  "slug": "fairy-tail-houou-no-miko",
+  "kind": "anime",
+  "title": "FAIRY TAIL: Houou no Miko",
+  "titles": {
+    "default": "FAIRY TAIL: Houou no Miko",
+    "romaji": "FAIRY TAIL: Houou no Miko",
+    "english": "Fairy Tail: Phoenix Priestess",
+    "native": "劇場版 FAIRY TAIL 鳳凰の巫女"
+  },
+  "synonyms": [
+    "FAIRY TAIL: Houou no Miko",
+    "Fairy Tail: Phoenix Priestess",
+    "劇場版 FAIRY TAIL 鳳凰の巫女",
+    "Fairy Tail - 1er Film - La prêtresse du Phoenix",
+    "Fairy Tail the Movie: Phoenix Priestess",
+    "Fairy Tail Movie 1: Houou no Miko",
+    "Gekijouban Fairy Tail: Houou no Miko",
+    "Priestess of the Phoenix",
+    "Fairy Tail: The Phoenix Priestess"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12049-FIx0K2s81SPa.png"
+  ],
+  "references": {
+    "al": {
+      "id": "12049",
+      "url": "https://anilist.co/anime/12049"
+    },
+    "k": {
+      "id": "6652",
+      "url": "https://kitsu.io/anime/6652"
+    },
+    "mal": {
+      "id": "12049",
+      "url": "https://myanimelist.net/anime/12049"
+    },
+    "t": {
+      "id": "46004",
+      "url": "https://trakt.tv/shows/46004"
+    }
+  }
+}

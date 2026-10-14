@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7420,
+  "slug": "neppuu-kairiku-bushi-road",
+  "kind": "anime",
+  "title": "Neppuu Kairiku Bushi Road",
+  "titles": {
+    "default": "Neppuu Kairiku Bushi Road",
+    "romaji": "Neppuu Kairiku Bushi Road",
+    "native": "熱風海陸ブシロード"
+  },
+  "synonyms": [
+    "Neppuu Kairiku Bushi Road",
+    "熱風海陸ブシロード",
+    "Burning Wind Ocean Earth Samurai Lord",
+    "Bushilord",
+    "Bushiroad",
+    "Neppu Kairiku Bushi Road"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19653-bnJEpdrrIrHB.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "19653",
+      "url": "https://anilist.co/anime/19653"
+    },
+    "k": {
+      "id": "7874",
+      "url": "https://kitsu.io/anime/7874"
+    },
+    "mal": {
+      "id": "19653",
+      "url": "https://myanimelist.net/anime/19653"
+    }
+  }
+}

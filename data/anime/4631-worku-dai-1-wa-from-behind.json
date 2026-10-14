@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4631,
+  "slug": "worku-dai-1-wa-from-behind",
+  "kind": "anime",
+  "title": "WORKU: Dai 1-wa FROM BEHIND",
+  "titles": {
+    "default": "WORKU: Dai 1-wa FROM BEHIND",
+    "romaji": "WORKU: Dai 1-wa FROM BEHIND",
+    "native": "WORKU～第１話 FROM BEHIND～"
+  },
+  "synonyms": [
+    "WORKU: Dai 1-wa FROM BEHIND",
+    "WORKU～第１話 FROM BEHIND～",
+    "From Behind: Worku",
+    "Worku",
+    "WORKU (ウォルク)",
+    "Worku: From Behind",
+    "Stranger In Paradigm"
+  ],
+  "type": "ona",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7511.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7511",
+      "url": "https://anilist.co/anime/7511"
+    },
+    "k": {
+      "id": "5009",
+      "url": "https://kitsu.io/anime/5009"
+    },
+    "mal": {
+      "id": "7511",
+      "url": "https://myanimelist.net/anime/7511"
+    }
+  }
+}

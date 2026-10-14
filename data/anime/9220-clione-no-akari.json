@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9220,
+  "slug": "clione-no-akari",
+  "kind": "anime",
+  "title": "Clione no Akari",
+  "titles": {
+    "default": "Clione no Akari",
+    "romaji": "Clione no Akari",
+    "english": "Lights of the Clione",
+    "native": "クリオネの灯り"
+  },
+  "synonyms": [
+    "Clione no Akari",
+    "Lights of the Clione",
+    "クリオネの灯り",
+    "Welcome to the Classroom of the Elite",
+    "You-jitsu",
+    "You-zitsu",
+    "Classroom of the Elite",
+    "ようこそ実力至上主義の教室へ",
+    "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98475-I2WJBV5X01gb.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98475",
+      "url": "https://anilist.co/anime/98475"
+    },
+    "mal": {
+      "id": "35114",
+      "url": "https://myanimelist.net/anime/35114"
+    },
+    "tx": {
+      "id": "clionenoakari",
+      "url": "https://twitter.com/clionenoakari"
+    }
+  }
+}

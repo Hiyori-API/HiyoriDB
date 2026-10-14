@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14767,
+  "slug": "ankoku-shinwa",
+  "kind": "manga",
+  "title": "Ankoku Shinwa",
+  "titles": {
+    "default": "Ankoku Shinwa"
+  },
+  "synonyms": [
+    "The Dark Myth",
+    "Jofuku Densetsu",
+    "徐福伝説",
+    "The Legend of Jofuku",
+    "暗黒神話",
+    "Shin Kyojin no Hoshi",
+    "新巨人の星"
+  ],
+  "type": "manga",
+  "chapters": 7,
+  "volumes": 1,
+  "status": "finished",
+  "year": 1976,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx90549-DgmLwUA8QtjZ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1966",
+      "url": "https://anilist.co/anime/1966"
+    },
+    "al_manga": {
+      "id": "1966",
+      "url": "https://anilist.co/manga/1966"
+    }
+  }
+}

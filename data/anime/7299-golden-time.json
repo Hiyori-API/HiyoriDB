@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7299,
+  "slug": "golden-time",
+  "kind": "anime",
+  "title": "Golden Time",
+  "titles": {
+    "default": "Golden Time",
+    "romaji": "Golden Time",
+    "native": "ゴールデンタイム"
+  },
+  "synonyms": [
+    "Golden Time",
+    "ゴールデンタイム",
+    "Tokyo Ravens",
+    "東京レイヴンズ"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "fall",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17895-M8yjOyMxHf5X.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "17895",
+      "url": "https://anilist.co/anime/17895"
+    },
+    "cr": {
+      "id": "series/G6QW4EZQ6/tokyo-ravens",
+      "url": "https://www.crunchyroll.com/series/series/G6QW4EZQ6/tokyo-ravens"
+    },
+    "k": {
+      "id": "7359",
+      "url": "https://kitsu.io/anime/7359"
+    },
+    "mal": {
+      "id": "17895",
+      "url": "https://myanimelist.net/anime/17895"
+    },
+    "t": {
+      "id": "72021",
+      "url": "https://trakt.tv/shows/72021"
+    },
+    "tx": {
+      "id": "golden_time_tv",
+      "url": "https://twitter.com/golden_time_tv"
+    }
+  }
+}

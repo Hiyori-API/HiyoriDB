@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5297,
+  "slug": "susume-godzilland",
+  "kind": "anime",
+  "title": "Susume! Godzilland",
+  "titles": {
+    "default": "Susume! Godzilland",
+    "romaji": "Susume! Godzilland",
+    "native": "すすめ！ゴジランド"
+  },
+  "synonyms": [
+    "Susume! Godzilland",
+    "すすめ！ゴジランド",
+    "Recommend! Godzilland",
+    "Get Going! Godzilland",
+    "Legend of the Crystals: Final Fantasy",
+    "Final Fantasy",
+    "ファイナルファンタジー"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "fall",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141251-7Wn4HWdG9Eln.png"
+  ],
+  "references": {
+    "al": {
+      "id": "141251",
+      "url": "https://anilist.co/anime/141251"
+    },
+    "k": {
+      "id": "390",
+      "url": "https://kitsu.io/anime/390"
+    },
+    "mal": {
+      "id": "34813",
+      "url": "https://myanimelist.net/anime/34813"
+    }
+  }
+}

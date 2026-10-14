@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6817,
+  "slug": "please-r-pe-me",
+  "kind": "anime",
+  "title": "Please R○pe Me!",
+  "titles": {
+    "default": "Please R○pe Me!",
+    "romaji": "Please R○pe Me!",
+    "native": "プリーズ・レ○プ・ミー!"
+  },
+  "synonyms": [
+    "Please R○pe Me!",
+    "プリーズ・レ○プ・ミー!",
+    "Please Rape Me!",
+    "Tight-rope",
+    "タイトロープ",
+    "Tight Rope",
+    "Tightrope"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b12997-WJkZ0kBOWyq3.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12997",
+      "url": "https://anilist.co/anime/12997"
+    },
+    "k": {
+      "id": "6793",
+      "url": "https://kitsu.io/anime/6793"
+    },
+    "mal": {
+      "id": "12997",
+      "url": "https://myanimelist.net/anime/12997"
+    }
+  }
+}

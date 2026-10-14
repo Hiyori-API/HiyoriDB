@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15269,
+  "slug": "toomawari-suru-hina",
+  "kind": "manga",
+  "title": "Toomawari suru Hina",
+  "titles": {
+    "default": "Toomawari suru Hina"
+  },
+  "synonyms": [
+    "Little birds can remember",
+    "〈古典部〉シリーズ",
+    "Koten-bu Series",
+    "เจ้าหญิงเดินอ้อม",
+    "遠まわりする雛",
+    "MM!",
+    "えむえむっ!",
+    "MM Group",
+    "Emu Emu!"
+  ],
+  "type": "novel",
+  "chapters": 7,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx144313-rfGWqIyYdijo.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12189",
+      "url": "https://anilist.co/anime/12189"
+    },
+    "al_manga": {
+      "id": "12189",
+      "url": "https://anilist.co/manga/12189"
+    }
+  }
+}

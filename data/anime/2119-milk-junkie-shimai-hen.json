@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2119,
+  "slug": "milk-junkie-shimai-hen",
+  "kind": "anime",
+  "title": "MILK Junkie: Shimai-hen",
+  "titles": {
+    "default": "MILK Junkie: Shimai-hen",
+    "romaji": "MILK Junkie: Shimai-hen",
+    "english": "Boobalicious",
+    "native": "MILK・ジャンキー 姉妹編"
+  },
+  "synonyms": [
+    "MILK Junkie: Shimai-hen",
+    "Boobalicious",
+    "MILK・ジャンキー 姉妹編",
+    "Milk Junky Shimai Hen",
+    "Milk Junky Sisters Compilation",
+    "Milk Junkies 2",
+    "Ichigo 100% Original DVD Animation",
+    "Ichigo 100% OVA",
+    "いちご１００％　オリジナルDVDアニメーション"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "spring",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2396.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2396",
+      "url": "https://anilist.co/anime/2396"
+    },
+    "k": {
+      "id": "871",
+      "url": "https://kitsu.io/anime/871"
+    },
+    "mal": {
+      "id": "2396",
+      "url": "https://myanimelist.net/anime/2396"
+    }
+  }
+}

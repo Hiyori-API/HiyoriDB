@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5701,
+  "slug": "hana-no-kage",
+  "kind": "anime",
+  "title": "Hana no Kage",
+  "titles": {
+    "default": "Hana no Kage",
+    "romaji": "Hana no Kage",
+    "english": "Shadow of the Cherry Blossoms",
+    "native": "花の翳"
+  },
+  "synonyms": [
+    "Hana no Kage",
+    "Shadow of the Cherry Blossoms",
+    "花の翳"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8533-FwHZbIB3xle2.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8533",
+      "url": "https://anilist.co/anime/8533"
+    },
+    "k": {
+      "id": "5377",
+      "url": "https://kitsu.io/anime/5377"
+    },
+    "mal": {
+      "id": "8533",
+      "url": "https://myanimelist.net/anime/8533"
+    }
+  }
+}

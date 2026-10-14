@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5315,
+  "slug": "konchuu-tsurezuregusa",
+  "kind": "anime",
+  "title": "Konchuu Tsurezuregusa",
+  "titles": {
+    "default": "Konchuu Tsurezuregusa",
+    "romaji": "Konchuu Tsurezuregusa",
+    "native": "昆蟲つれづれ草"
+  },
+  "synonyms": [
+    "Konchuu Tsurezuregusa",
+    "昆蟲つれづれ草",
+    "Essays on Insects",
+    "Insect Tsurezuregusa"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16263.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "16263",
+      "url": "https://anilist.co/anime/16263"
+    },
+    "k": {
+      "id": "7400",
+      "url": "https://kitsu.io/anime/7400"
+    },
+    "mal": {
+      "id": "16263",
+      "url": "https://myanimelist.net/anime/16263"
+    }
+  }
+}

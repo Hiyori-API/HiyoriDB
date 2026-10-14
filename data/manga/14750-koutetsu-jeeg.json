@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14750,
+  "slug": "koutetsu-jeeg",
+  "kind": "manga",
+  "title": "Koutetsu Jeeg",
+  "titles": {
+    "default": "Koutetsu Jeeg"
+  },
+  "synonyms": [
+    "Steel Armor Jeeg",
+    "Steel Jeeg",
+    "鋼鉄ジーグ",
+    "Koutetsu Jeeg"
+  ],
+  "type": "manga",
+  "chapters": 11,
+  "volumes": 1,
+  "status": "finished",
+  "year": 1975,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx208072-pigh7uR2jYqM.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4198",
+      "url": "https://anilist.co/anime/4198"
+    },
+    "al_manga": {
+      "id": "4198",
+      "url": "https://anilist.co/manga/4198"
+    }
+  }
+}

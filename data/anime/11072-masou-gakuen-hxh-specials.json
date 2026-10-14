@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11072,
+  "slug": "masou-gakuen-hxh-specials",
+  "kind": "anime",
+  "title": "Masou Gakuen HxH Specials",
+  "titles": {
+    "default": "Masou Gakuen HxH Specials",
+    "romaji": "Masou Gakuen HxH Specials",
+    "english": "Hybrid x Heart Magias Academy Ataraxia Specials"
+  },
+  "synonyms": [
+    "Masou Gakuen HxH Specials",
+    "Hybrid x Heart Magias Academy Ataraxia Specials",
+    "Masou Gakuen Hybrid x Heart Specials",
+    "魔装学園H×H"
+  ],
+  "type": "special",
+  "episodes": 6,
+  "status": "finished",
+  "season": "fall",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/97936-tun0SXDtguBS.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "97936",
+      "url": "https://anilist.co/anime/97936"
+    },
+    "mal": {
+      "id": "34447",
+      "url": "https://myanimelist.net/anime/34447"
+    }
+  }
+}

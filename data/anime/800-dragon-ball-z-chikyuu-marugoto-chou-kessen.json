@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 800,
+  "slug": "dragon-ball-z-chikyuu-marugoto-chou-kessen",
+  "kind": "anime",
+  "title": "Dragon Ball Z: Chikyuu Marugoto Chou Kessen",
+  "titles": {
+    "default": "Dragon Ball Z: Chikyuu Marugoto Chou Kessen",
+    "romaji": "Dragon Ball Z: Chikyuu Marugoto Chou Kessen",
+    "english": "Dragon Ball Z: The Tree of Might",
+    "native": "ドラゴンボールＺ 地球まるごと超決戦"
+  },
+  "synonyms": [
+    "Dragon Ball Z: Chikyuu Marugoto Chou Kessen",
+    "Dragon Ball Z: The Tree of Might",
+    "ドラゴンボールＺ 地球まるごと超決戦",
+    "Dragon Ball Z: La super batalla",
+    "ดราก้อนบอล Z เดอะมูฟวี่ 3 ศึกสะท้านพิภพ",
+    "Bảy Viên Ngọc Rồng Z: Mầm Cây Sinh Lực",
+    "Dragon Ball Z: Największy pojedynek na świecie",
+    "Dragon Ball Z: Det store slaget",
+    "Dragon Ball Z: Det stora slaget",
+    "Драконий жемчуг Зет: Решающая битва за Землю",
+    "Dragon Ball Z Movie 03: The Tree of Might",
+    "Dragon Ball Z Movie 03: Chikyuu Marugoto Choukessen",
+    "Akira Toriyama the World",
+    "DBZ Movie 1 - Super Battle in the World"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/896.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "896",
+      "url": "https://anilist.co/anime/896"
+    },
+    "cr": {
+      "id": "series/GMTE00002912/dragon-ball-z-the-tree-of-might",
+      "url": "https://www.crunchyroll.com/series/series/GMTE00002912/dragon-ball-z-the-tree-of-might"
+    },
+    "k": {
+      "id": "796",
+      "url": "https://kitsu.io/anime/796"
+    },
+    "mal": {
+      "id": "896",
+      "url": "https://myanimelist.net/anime/896"
+    }
+  }
+}

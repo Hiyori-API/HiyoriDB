@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1848,
+  "slug": "vs-kishi-ramune-40-honoo",
+  "kind": "anime",
+  "title": "VS Kishi Ramune & 40 Honoo",
+  "titles": {
+    "default": "VS Kishi Ramune & 40 Honoo",
+    "romaji": "VS Kishi Ramune & 40 Honoo",
+    "english": "VS Knight Lamune & 40 Fire",
+    "native": "VS騎士ラムネ&40炎"
+  },
+  "synonyms": [
+    "VS Kishi Ramune & 40 Honoo",
+    "VS Knight Lamune & 40 Fire",
+    "VS騎士ラムネ&40炎",
+    "Knights of Lamune & 40 Fire",
+    "VS Knight Ramune & 40 Fire",
+    "Knights of Ramune & 40 Fire"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2087-AbpORqks9HN5.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2087",
+      "url": "https://anilist.co/anime/2087"
+    },
+    "cr": {
+      "id": "vs-knight-lamune-40-fire",
+      "url": "https://www.crunchyroll.com/series/vs-knight-lamune-40-fire"
+    },
+    "k": {
+      "id": "1886",
+      "url": "https://kitsu.io/anime/1886"
+    },
+    "mal": {
+      "id": "2087",
+      "url": "https://myanimelist.net/anime/2087"
+    },
+    "t": {
+      "id": "44984",
+      "url": "https://trakt.tv/shows/44984"
+    }
+  }
+}

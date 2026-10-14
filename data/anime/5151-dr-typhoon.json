@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5151,
+  "slug": "dr-typhoon",
+  "kind": "anime",
+  "title": "Dr. Typhoon",
+  "titles": {
+    "default": "Dr. Typhoon",
+    "romaji": "Dr. Typhoon",
+    "native": "Dr.(ドク)タイフーン"
+  },
+  "synonyms": [
+    "Dr. Typhoon",
+    "Dr.(ドク)タイフーン",
+    "Doc Typhoon"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17307.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "17307",
+      "url": "https://anilist.co/anime/17307"
+    },
+    "k": {
+      "id": "7635",
+      "url": "https://kitsu.io/anime/7635"
+    },
+    "mal": {
+      "id": "17307",
+      "url": "https://myanimelist.net/anime/17307"
+    }
+  }
+}

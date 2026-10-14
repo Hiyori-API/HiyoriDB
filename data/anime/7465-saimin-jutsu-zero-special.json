@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7465,
+  "slug": "saimin-jutsu-zero-special",
+  "kind": "anime",
+  "title": "Saimin Jutsu ZERO Special",
+  "titles": {
+    "default": "Saimin Jutsu ZERO Special",
+    "romaji": "Saimin Jutsu ZERO Special",
+    "native": "催眠術ZERO"
+  },
+  "synonyms": [
+    "Saimin Jutsu ZERO Special",
+    "催眠術ZERO",
+    "Natsume's Book of Friends: Nyanko-sensei & The First Errand",
+    "Natsume Yuujinchou: Nyanko-sensei to Hajimete no Otsukai",
+    "夏目友人帳新作アニメDVD",
+    "Natsume Yuujinchou LaLa Special",
+    "Natsume Yujincho LaLa Special",
+    "Natsume's Book of Friends LaLa Special",
+    "Natsume Yuujinchou Go OVA",
+    "Natsume Yujin-cho 5 OVA"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21036-h5yasf2u5INh.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21036",
+      "url": "https://anilist.co/anime/21036"
+    },
+    "cr": {
+      "id": "natsume-yujin-cho-5/episode-1-nyanko-sensei-the-first-errand-721069",
+      "url": "https://www.crunchyroll.com/series/natsume-yujin-cho-5/episode-1-nyanko-sensei-the-first-errand-721069"
+    },
+    "k": {
+      "id": "7747",
+      "url": "https://kitsu.io/anime/7747"
+    },
+    "mal": {
+      "id": "23475",
+      "url": "https://myanimelist.net/anime/23475"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3038,
+  "slug": "fantasia",
+  "kind": "anime",
+  "title": "Fantasia",
+  "titles": {
+    "default": "Fantasia",
+    "romaji": "Fantasia",
+    "english": "Girl from Phantasia",
+    "native": "ふぁんたじあ"
+  },
+  "synonyms": [
+    "Fantasia",
+    "Girl from Phantasia",
+    "ふぁんたじあ"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3597-dXiEDZFns0lv.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3597",
+      "url": "https://anilist.co/anime/3597"
+    },
+    "k": {
+      "id": "3133",
+      "url": "https://kitsu.io/anime/3133"
+    },
+    "mal": {
+      "id": "3597",
+      "url": "https://myanimelist.net/anime/3597"
+    }
+  }
+}

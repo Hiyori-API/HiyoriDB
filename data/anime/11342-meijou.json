@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11342,
+  "slug": "meijou",
+  "kind": "anime",
+  "title": "Meijou",
+  "titles": {
+    "default": "Meijou",
+    "romaji": "Meijou",
+    "native": "迷情"
+  },
+  "synonyms": [
+    "Meijou",
+    "迷情",
+    "Meijyou",
+    "Infatuation",
+    "School Days ONA",
+    "スクールデイズ",
+    "School Days"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130620-OOyyEXgrMvyj.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "130620",
+      "url": "https://anilist.co/anime/130620"
+    },
+    "k": {
+      "id": "678",
+      "url": "https://kitsu.io/anime/678"
+    },
+    "mal": {
+      "id": "48392",
+      "url": "https://myanimelist.net/anime/48392"
+    }
+  }
+}

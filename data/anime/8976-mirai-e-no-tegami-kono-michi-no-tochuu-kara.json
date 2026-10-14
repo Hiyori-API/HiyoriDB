@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8976,
+  "slug": "mirai-e-no-tegami-kono-michi-no-tochuu-kara",
+  "kind": "anime",
+  "title": "Mirai e no Tegami: Kono Michi no Tochuu kara",
+  "titles": {
+    "default": "Mirai e no Tegami: Kono Michi no Tochuu kara",
+    "romaji": "Mirai e no Tegami: Kono Michi no Tochuu kara",
+    "native": "みらいへの手紙~この道の途中から~"
+  },
+  "synonyms": [
+    "Mirai e no Tegami: Kono Michi no Tochuu kara",
+    "みらいへの手紙~この道の途中から~",
+    "Letter to the Future: Midway Along the Path",
+    "Kotatsu Neko (ONA)",
+    "コタツネコ",
+    "Kotatsuneko",
+    "Kotatsu Cat"
+  ],
+  "type": "ona",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b179759-vQis3W6cfB0G.png"
+  ],
+  "references": {
+    "al": {
+      "id": "179759",
+      "url": "https://anilist.co/anime/179759"
+    },
+    "k": {
+      "id": "4300",
+      "url": "https://kitsu.io/anime/4300"
+    },
+    "mal": {
+      "id": "35047",
+      "url": "https://myanimelist.net/anime/35047"
+    }
+  }
+}

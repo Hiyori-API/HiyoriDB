@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5895,
+  "slug": "chogattai-majutsu-robot-ginguiser-specials",
+  "kind": "anime",
+  "title": "Chogattai Majutsu Robot Ginguiser Specials",
+  "titles": {
+    "default": "Chogattai Majutsu Robot Ginguiser Specials",
+    "romaji": "Chogattai Majutsu Robot Ginguiser Specials",
+    "native": "超合体魔術ロボ_ギンガイザー"
+  },
+  "synonyms": [
+    "Chogattai Majutsu Robot Ginguiser Specials",
+    "超合体魔術ロボ_ギンガイザー",
+    "Ultra-Transforming Magic Robot Ginguiser Specials",
+    "Maiden Rose Specials",
+    "Hyakujitsu no Bara: Jinginaki Nikukyuu-hen",
+    "百日の薔薇 仁義なき肉球編",
+    "Hyakujitsu no Bara Specials",
+    "Rose of a Hundred Days - Underhanded Paws Chapter"
+  ],
+  "type": "special",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16041.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "16041",
+      "url": "https://anilist.co/anime/16041"
+    },
+    "k": {
+      "id": "7236",
+      "url": "https://kitsu.io/anime/7236"
+    },
+    "mal": {
+      "id": "16041",
+      "url": "https://myanimelist.net/anime/16041"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2938,
+  "slug": "a-li-ce",
+  "kind": "anime",
+  "title": "A・LI・CE",
+  "titles": {
+    "default": "A・LI・CE",
+    "romaji": "A・LI・CE",
+    "english": "A.LI.CE",
+    "native": "Ａ・ＬＩ・ＣＥ"
+  },
+  "synonyms": [
+    "A・LI・CE",
+    "A.LI.CE",
+    "Ａ・ＬＩ・ＣＥ",
+    "alice"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3463-8r8IutdGFKMk.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3463",
+      "url": "https://anilist.co/anime/3463"
+    },
+    "k": {
+      "id": "3028",
+      "url": "https://kitsu.io/anime/3028"
+    },
+    "mal": {
+      "id": "3463",
+      "url": "https://myanimelist.net/anime/3463"
+    }
+  }
+}

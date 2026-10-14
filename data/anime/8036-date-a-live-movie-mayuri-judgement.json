@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8036,
+  "slug": "date-a-live-movie-mayuri-judgement",
+  "kind": "anime",
+  "title": "Date A Live Movie: Mayuri Judgement",
+  "titles": {
+    "default": "Date A Live Movie: Mayuri Judgement",
+    "romaji": "Date A Live Movie: Mayuri Judgement",
+    "english": "Date A Live Mayuri Judgement",
+    "native": "劇場版デート・ア・ライブ 万由里ジャッジメント"
+  },
+  "synonyms": [
+    "Date A Live Movie: Mayuri Judgement",
+    "Date A Live Mayuri Judgement",
+    "劇場版デート・ア・ライブ 万由里ジャッジメント",
+    "Date A Live Movie: Mayuri Judgment",
+    "พิชิตรัก พิทักษ์โลก : เดอะมูฟวี่ คำพิพากษาของมายูริ",
+    "Code Geass: Akito the Exiled 4 - From the Memory of Hatred",
+    "Code Geass: Boukoku no Akito 4 - Nikushimi no Kioku kara",
+    "Code Geass: Akito the Exiled - Memories of Hatred",
+    "コードギアス 亡国のアキト 第４章「憎しみの記憶から」"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20741-WdThAhseSo1y.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "20741",
+      "url": "https://anilist.co/anime/20741"
+    },
+    "cr": {
+      "id": "date-a-live",
+      "url": "https://www.crunchyroll.com/series/date-a-live"
+    },
+    "k": {
+      "id": "7229",
+      "url": "https://kitsu.io/anime/7229"
+    },
+    "mal": {
+      "id": "24655",
+      "url": "https://myanimelist.net/anime/24655"
+    },
+    "tx": {
+      "id": "date_a_info",
+      "url": "https://twitter.com/date_a_info"
+    }
+  }
+}

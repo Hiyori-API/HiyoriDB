@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5266,
+  "slug": "kero-kero-keroppi-no-kero-kero-house-no-himitsu",
+  "kind": "anime",
+  "title": "Kero Kero Keroppi no Kero Kero House no Himitsu",
+  "titles": {
+    "default": "Kero Kero Keroppi no Kero Kero House no Himitsu",
+    "romaji": "Kero Kero Keroppi no Kero Kero House no Himitsu",
+    "native": "けろけろけろっぴのけろけろハウスのひみつ"
+  },
+  "synonyms": [
+    "Kero Kero Keroppi no Kero Kero House no Himitsu",
+    "けろけろけろっぴのけろけろハウスのひみつ",
+    "Keroppi: The Frog's Secret House",
+    "Pekkle in the Adventures of Sinbad",
+    "Ahiru no Pekkle no Sindbad no Bouken",
+    "アヒルのペックルのシンドバッドの冒険",
+    "Hello Kitty and Friends: The Adventures of Sinbad"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b187584-y6s9r2ewQyAu.png"
+  ],
+  "references": {
+    "al": {
+      "id": "187584",
+      "url": "https://anilist.co/anime/187584"
+    },
+    "k": {
+      "id": "8820",
+      "url": "https://kitsu.io/anime/8820"
+    },
+    "mal": {
+      "id": "22615",
+      "url": "https://myanimelist.net/anime/22615"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5372,
+  "slug": "ninpen-manmaru",
+  "kind": "anime",
+  "title": "Ninpen Manmaru",
+  "titles": {
+    "default": "Ninpen Manmaru",
+    "romaji": "Ninpen Manmaru",
+    "native": "忍ペンまん丸"
+  },
+  "synonyms": [
+    "Ninpen Manmaru",
+    "忍ペンまん丸",
+    "Manmaru the Ninja Penguin"
+  ],
+  "type": "tv",
+  "episodes": 30,
+  "status": "finished",
+  "season": "summer",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b9455-rsN58GtFc92X.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9455",
+      "url": "https://anilist.co/anime/9455"
+    },
+    "k": {
+      "id": "5741",
+      "url": "https://kitsu.io/anime/5741"
+    },
+    "mal": {
+      "id": "9455",
+      "url": "https://myanimelist.net/anime/9455"
+    }
+  }
+}

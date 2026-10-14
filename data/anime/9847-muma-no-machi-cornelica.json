@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9847,
+  "slug": "muma-no-machi-cornelica",
+  "kind": "anime",
+  "title": "Muma no Machi Cornelica",
+  "titles": {
+    "default": "Muma no Machi Cornelica",
+    "romaji": "Muma no Machi Cornelica",
+    "native": "夢魔の街コルネリカ"
+  },
+  "synonyms": [
+    "Muma no Machi Cornelica",
+    "夢魔の街コルネリカ",
+    "Cornelica",
+    "Town of Succubi",
+    "Mysterious Play: Eikoden",
+    "Fushigi Yuugi: Eikouden",
+    "ふしぎ遊戯 -永光伝",
+    "Fushigi Yuugi OVA 3"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "fall",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx104059-1f9TgoIptabc.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "104059",
+      "url": "https://anilist.co/anime/104059"
+    },
+    "cr": {
+      "id": "fushigi-yugi-eikoden",
+      "url": "https://www.crunchyroll.com/series/fushigi-yugi-eikoden"
+    },
+    "k": {
+      "id": "103",
+      "url": "https://kitsu.io/anime/103"
+    },
+    "mal": {
+      "id": "38265",
+      "url": "https://myanimelist.net/anime/38265"
+    }
+  }
+}

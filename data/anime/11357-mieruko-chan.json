@@ -1,0 +1,61 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11357,
+  "slug": "mieruko-chan",
+  "kind": "anime",
+  "title": "Mieruko-chan",
+  "titles": {
+    "default": "Mieruko-chan",
+    "romaji": "Mieruko-chan",
+    "native": "見える子ちゃん"
+  },
+  "synonyms": [
+    "Mieruko-chan",
+    "見える子ちゃん",
+    "มิเอรุโกะจัง ใครว่าหนูเห็นผี",
+    "Mieruko: Gadis yang Bisa Melihat Hantu",
+    "Girl That Can See It",
+    "Mieruko-chan. Dziewczyna, która widzi więcej",
+    "Ring ni Kakero 1",
+    "リングにかけろ１",
+    "Put it all in the Ring"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131083-sKGHkpVDksaZ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "131083",
+      "url": "https://anilist.co/anime/131083"
+    },
+    "cr": {
+      "id": "mieruko-chan",
+      "url": "https://www.crunchyroll.com/series/mieruko-chan"
+    },
+    "k": {
+      "id": "14",
+      "url": "https://kitsu.io/anime/14"
+    },
+    "mal": {
+      "id": "48483",
+      "url": "https://myanimelist.net/anime/48483"
+    },
+    "nf": {
+      "id": "81513820",
+      "url": "https://www.netflix.com/title/81513820"
+    },
+    "t": {
+      "id": "69507",
+      "url": "https://trakt.tv/shows/69507"
+    },
+    "tx": {
+      "id": "mierukochan_pr",
+      "url": "https://twitter.com/mierukochan_pr"
+    }
+  }
+}

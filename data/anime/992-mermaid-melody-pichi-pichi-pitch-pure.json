@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 992,
+  "slug": "mermaid-melody-pichi-pichi-pitch-pure",
+  "kind": "anime",
+  "title": "Mermaid Melody: Pichi Pichi Pitch Pure",
+  "titles": {
+    "default": "Mermaid Melody: Pichi Pichi Pitch Pure",
+    "romaji": "Mermaid Melody: Pichi Pichi Pitch Pure",
+    "native": "マーメイドメロディーぴちぴちピッチピュア"
+  },
+  "synonyms": [
+    "Mermaid Melody: Pichi Pichi Pitch Pure",
+    "マーメイドメロディーぴちぴちピッチピュア",
+    "Mermaid Melody Pichi Pichi Pitch Pure"
+  ],
+  "type": "tv",
+  "episodes": 39,
+  "status": "finished",
+  "season": "spring",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1110-hW9GxIpSC9Te.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1110",
+      "url": "https://anilist.co/anime/1110"
+    },
+    "k": {
+      "id": "995",
+      "url": "https://kitsu.io/anime/995"
+    },
+    "mal": {
+      "id": "1110",
+      "url": "https://myanimelist.net/anime/1110"
+    },
+    "t": {
+      "id": "42636",
+      "url": "https://trakt.tv/shows/42636"
+    }
+  }
+}

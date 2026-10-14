@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5933,
+  "slug": "bakuman",
+  "kind": "anime",
+  "title": "Bakuman.",
+  "titles": {
+    "default": "Bakuman.",
+    "romaji": "Bakuman.",
+    "native": "バクマン。"
+  },
+  "synonyms": [
+    "Bakuman.",
+    "バクマン。",
+    "バクマン。第1シリーズ",
+    "Bakuman. 1st Series",
+    "Бакуман.",
+    "Bakuman Season 1"
+  ],
+  "type": "tv",
+  "episodes": 25,
+  "status": "finished",
+  "season": "fall",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx7674-J0QHrtN50kzj.png"
+  ],
+  "references": {
+    "al": {
+      "id": "7674",
+      "url": "https://anilist.co/anime/7674"
+    },
+    "k": {
+      "id": "5079",
+      "url": "https://kitsu.io/anime/5079"
+    },
+    "mal": {
+      "id": "7674",
+      "url": "https://myanimelist.net/anime/7674"
+    },
+    "t": {
+      "id": "60951",
+      "url": "https://trakt.tv/shows/60951"
+    },
+    "ttv": {
+      "id": "1982",
+      "url": "https://tubitv.com/series/1982"
+    }
+  }
+}

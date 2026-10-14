@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1000,
+  "slug": "pocket-monsters-celebi-toki-wo-koeta-deai",
+  "kind": "anime",
+  "title": "Pocket Monsters: Celebi Toki wo Koeta Deai",
+  "titles": {
+    "default": "Pocket Monsters: Celebi Toki wo Koeta Deai",
+    "romaji": "Pocket Monsters: Celebi Toki wo Koeta Deai",
+    "english": "Pokémon 4Ever",
+    "native": "劇場版ポケットモンスター セレビィ 時を越えた遭遇"
+  },
+  "synonyms": [
+    "Pocket Monsters: Celebi Toki wo Koeta Deai",
+    "Pokémon 4Ever",
+    "劇場版ポケットモンスター セレビィ 時を越えた遭遇",
+    "Gekijouban Pocket Monsters: Serebii Toki wo Koeta Deai",
+    "Celebi: A Timeless Encounter",
+    "Pokémon Movie 4",
+    "Celebi: The Voice of the Forest",
+    "Pokémon for Alltid - Celebi: Skogens Stemme",
+    "Pokémon 4: Głos lasu",
+    "Pokémon 4Ever - Celebi: Skogens Röst",
+    "Sore Ike! Anpanman: Gomira no Hoshi",
+    "それいけ!アンパンマン ゴミラの星"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx1119-Vz0ohBLmZ5uP.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1119",
+      "url": "https://anilist.co/anime/1119"
+    },
+    "k": {
+      "id": "9611",
+      "url": "https://kitsu.io/anime/9611"
+    },
+    "mal": {
+      "id": "1119",
+      "url": "https://myanimelist.net/anime/1119"
+    }
+  }
+}

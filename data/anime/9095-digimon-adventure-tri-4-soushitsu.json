@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9095,
+  "slug": "digimon-adventure-tri-4-soushitsu",
+  "kind": "anime",
+  "title": "Digimon Adventure tri. 4: Soushitsu",
+  "titles": {
+    "default": "Digimon Adventure tri. 4: Soushitsu",
+    "romaji": "Digimon Adventure tri. 4: Soushitsu",
+    "english": "Digimon Adventure tri. Chapter 4: Loss",
+    "native": "デジモンアドベンチャー tri. 第4章「喪失」"
+  },
+  "synonyms": [
+    "Digimon Adventure tri. 4: Soushitsu",
+    "Digimon Adventure tri. Chapter 4: Loss",
+    "デジモンアドベンチャー tri. 第4章「喪失」",
+    "Digimon tri. 4",
+    "Genocidal Organ",
+    "Gyakusatsu Kikan",
+    "虐殺器官",
+    "Project Itoh"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97734-44dAngCA1PU2.png"
+  ],
+  "references": {
+    "al": {
+      "id": "97734",
+      "url": "https://anilist.co/anime/97734"
+    },
+    "cr": {
+      "id": "digimon-adventure-tri",
+      "url": "https://www.crunchyroll.com/series/digimon-adventure-tri"
+    },
+    "k": {
+      "id": "8737",
+      "url": "https://kitsu.io/anime/8737"
+    },
+    "mal": {
+      "id": "34299",
+      "url": "https://myanimelist.net/anime/34299"
+    },
+    "tx": {
+      "id": "Digi_advntr15th",
+      "url": "https://twitter.com/Digi_advntr15th"
+    },
+    "yt": {
+      "id": "yunyVwNYsI4",
+      "url": "https://www.youtube.com/watch?v=yunyVwNYsI4"
+    }
+  }
+}

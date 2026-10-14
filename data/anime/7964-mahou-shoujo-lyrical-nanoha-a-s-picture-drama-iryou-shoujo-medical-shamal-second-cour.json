@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7964,
+  "slug": "mahou-shoujo-lyrical-nanoha-a-s-picture-drama-iryou-shoujo-medical-shamal-second-cour",
+  "kind": "anime",
+  "title": "Mahou Shoujo Lyrical Nanoha A's: Picture Drama - Iryou Shoujo Medical Shamal Second Cour",
+  "titles": {
+    "default": "Mahou Shoujo Lyrical Nanoha A's: Picture Drama - Iryou Shoujo Medical Shamal Second Cour",
+    "romaji": "Mahou Shoujo Lyrical Nanoha A's: Picture Drama - Iryou Shoujo Medical Shamal Second Cour",
+    "native": "魔法少女リリカルなのは エース ピクチャードラマ 医療少女メディカルシャマル セカンドコース"
+  },
+  "synonyms": [
+    "Mahou Shoujo Lyrical Nanoha A's: Picture Drama - Iryou Shoujo Medical Shamal Second Cour",
+    "魔法少女リリカルなのは エース ピクチャードラマ 医療少女メディカルシャマル セカンドコース",
+    "Nanoha Picture Drama 03",
+    "The Disappearance of Conan Edogawa: The Worst Two Days in History",
+    "名探偵コナン 江戸川コナン失踪事件～史上最悪の二日間～",
+    "Edogawa Conan Shissou Jiken: Shijou Saiaku no Futsukakan"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b108729-NvciVpWL4DGt.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "108729",
+      "url": "https://anilist.co/anime/108729"
+    },
+    "k": {
+      "id": "8179",
+      "url": "https://kitsu.io/anime/8179"
+    },
+    "mal": {
+      "id": "37933",
+      "url": "https://myanimelist.net/anime/37933"
+    }
+  }
+}

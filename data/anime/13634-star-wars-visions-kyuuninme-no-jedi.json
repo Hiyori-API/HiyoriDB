@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13634,
+  "slug": "star-wars-visions-kyuuninme-no-jedi",
+  "kind": "anime",
+  "title": "Star Wars: Visions - Kyuuninme no Jedi",
+  "titles": {
+    "default": "Star Wars: Visions - Kyuuninme no Jedi",
+    "romaji": "Star Wars: Visions - Kyuuninme no Jedi",
+    "english": "Star Wars: Visions Presents - The Ninth Jedi",
+    "native": "Star Wars：ビジョンズ 九人目のジェダイ"
+  },
+  "synonyms": [
+    "Star Wars: Visions - Kyuuninme no Jedi",
+    "Star Wars: Visions Presents - The Ninth Jedi",
+    "Star Wars：ビジョンズ 九人目のジェダイ",
+    "Gwiezdne wojny: Wizje przedstawiają ‐ Dziewiąty Jedi",
+    "Star Wars: Visions Apresenta - A Nona Jedi",
+    "スター・ウォーズ：ビジョンズ／九人目のジェダイ"
+  ],
+  "type": "ona",
+  "episodes": 8,
+  "status": "finished",
+  "season": "summer",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213847-VJBiihCv12zh.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "213847",
+      "url": "https://anilist.co/anime/213847"
+    },
+    "mal": {
+      "id": "61546",
+      "url": "https://myanimelist.net/anime/61546"
+    }
+  }
+}

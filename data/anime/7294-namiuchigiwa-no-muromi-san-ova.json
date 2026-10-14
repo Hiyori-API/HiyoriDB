@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7294,
+  "slug": "namiuchigiwa-no-muromi-san-ova",
+  "kind": "anime",
+  "title": "Namiuchigiwa no Muromi-san OVA",
+  "titles": {
+    "default": "Namiuchigiwa no Muromi-san OVA",
+    "romaji": "Namiuchigiwa no Muromi-san OVA",
+    "native": "波打際のむろみさん OAD"
+  },
+  "synonyms": [
+    "Namiuchigiwa no Muromi-san OVA",
+    "波打際のむろみさん OAD",
+    "Namiuchigiwa no Muromi-san OAD",
+    "Namiuchigiwa no Muromi-san: Pangea Chou Tairiku no Muromi-san",
+    "波打際のむろみさん パンゲア超大陸のむろみさん"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17855.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "17855",
+      "url": "https://anilist.co/anime/17855"
+    },
+    "k": {
+      "id": "7690",
+      "url": "https://kitsu.io/anime/7690"
+    },
+    "mal": {
+      "id": "17855",
+      "url": "https://myanimelist.net/anime/17855"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7273,
+  "slug": "d-spray",
+  "kind": "anime",
+  "title": "D-spray",
+  "titles": {
+    "default": "D-spray",
+    "romaji": "D-spray"
+  },
+  "synonyms": [
+    "D-spray",
+    "Ro-Kyu-Bu!: Tomoka no Ichigo Sundae",
+    "ロウきゅーぶ！智花のいちごサンデー",
+    "Rou-Kyuu-Bu! OVA",
+    "Rou-Kyu-Bu! OVA",
+    "Ro-Kyu-Bu ~ Fast Break! OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17543.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "17543",
+      "url": "https://anilist.co/anime/17543"
+    },
+    "k": {
+      "id": "7313",
+      "url": "https://kitsu.io/anime/7313"
+    },
+    "mal": {
+      "id": "17543",
+      "url": "https://myanimelist.net/anime/17543"
+    }
+  }
+}

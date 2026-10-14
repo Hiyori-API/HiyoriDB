@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5605,
+  "slug": "kagerouka-kun",
+  "kind": "anime",
+  "title": "Kagerouka-kun",
+  "titles": {
+    "default": "Kagerouka-kun",
+    "romaji": "Kagerouka-kun",
+    "native": "かげろうかーくん"
+  },
+  "synonyms": [
+    "Kagerouka-kun",
+    "かげろうかーくん"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19497.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "19497",
+      "url": "https://anilist.co/anime/19497"
+    },
+    "k": {
+      "id": "9358",
+      "url": "https://kitsu.io/anime/9358"
+    },
+    "mal": {
+      "id": "19497",
+      "url": "https://myanimelist.net/anime/19497"
+    }
+  }
+}

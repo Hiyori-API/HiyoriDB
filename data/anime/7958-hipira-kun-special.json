@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7958,
+  "slug": "hipira-kun-special",
+  "kind": "anime",
+  "title": "Hipira-kun Special",
+  "titles": {
+    "default": "Hipira-kun Special",
+    "romaji": "Hipira-kun Special",
+    "native": "ヒピラくん"
+  },
+  "synonyms": [
+    "Hipira-kun Special",
+    "ヒピラくん",
+    "Hipira-kun Episode 13"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/104435-Nu3SC9GczyRa.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "104435",
+      "url": "https://anilist.co/anime/104435"
+    },
+    "k": {
+      "id": "9004",
+      "url": "https://kitsu.io/anime/9004"
+    },
+    "mal": {
+      "id": "22985",
+      "url": "https://myanimelist.net/anime/22985"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10973,
+  "slug": "amagami-ss-plus-picture-drama-valentine-for-you",
+  "kind": "anime",
+  "title": "Amagami SS+ plus Picture Drama: Valentine For You",
+  "titles": {
+    "default": "Amagami SS+ plus Picture Drama: Valentine For You",
+    "romaji": "Amagami SS+ plus Picture Drama: Valentine For You",
+    "native": "アマガミSS+ plus 新作ピクチャードラマ～バレンタイン・フォー・ユー～"
+  },
+  "synonyms": [
+    "Amagami SS+ plus Picture Drama: Valentine For You",
+    "アマガミSS+ plus 新作ピクチャードラマ～バレンタイン・フォー・ユー～",
+    "Amagami SS+ Plus Picture Drama - Valentine For You",
+    "Amagami SS+ Plus Picture Drama - Give Me Chocolate!",
+    "Amagami SS+ Plus Picture Drama"
+  ],
+  "type": "special",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15951-xfbHPX8mh91f.png"
+  ],
+  "references": {
+    "al": {
+      "id": "15951",
+      "url": "https://anilist.co/anime/15951"
+    },
+    "k": {
+      "id": "7345",
+      "url": "https://kitsu.io/anime/7345"
+    },
+    "mal": {
+      "id": "15951",
+      "url": "https://myanimelist.net/anime/15951"
+    }
+  }
+}

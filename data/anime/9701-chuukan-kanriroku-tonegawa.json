@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9701,
+  "slug": "chuukan-kanriroku-tonegawa",
+  "kind": "anime",
+  "title": "Chuukan Kanriroku Tonegawa",
+  "titles": {
+    "default": "Chuukan Kanriroku Tonegawa",
+    "romaji": "Chuukan Kanriroku Tonegawa",
+    "english": "Mr. Tonegawa: Middle Management Blues",
+    "native": "中間管理録トネガワ"
+  },
+  "synonyms": [
+    "Chuukan Kanriroku Tonegawa",
+    "Mr. Tonegawa: Middle Management Blues",
+    "中間管理録トネガワ",
+    "Middle Manager Tonegawa"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "summer",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101161-CrSXo1LfBx0D.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101161",
+      "url": "https://anilist.co/anime/101161"
+    },
+    "cr": {
+      "id": "mr-tonegawa-middle-management-blues",
+      "url": "https://www.crunchyroll.com/series/mr-tonegawa-middle-management-blues"
+    },
+    "mal": {
+      "id": "37338",
+      "url": "https://myanimelist.net/anime/37338"
+    },
+    "tx": {
+      "id": "Tonegawa_Anime",
+      "url": "https://twitter.com/Tonegawa_Anime"
+    }
+  }
+}

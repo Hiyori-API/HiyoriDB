@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3971,
+  "slug": "kaitei-daisensou-ai-no-20-000-miles",
+  "kind": "anime",
+  "title": "Kaitei Daisensou: Ai no 20,000 Miles",
+  "titles": {
+    "default": "Kaitei Daisensou: Ai no 20,000 Miles",
+    "romaji": "Kaitei Daisensou: Ai no 20,000 Miles",
+    "native": "海底大戦争 愛の20000マイル"
+  },
+  "synonyms": [
+    "Kaitei Daisensou: Ai no 20,000 Miles",
+    "海底大戦争 愛の20000マイル",
+    "Kaite Daisenso: Ai no Nisen Miles",
+    "Undersea Encounter",
+    "海底大戦争 愛の20,000マイル",
+    "The Great Navy Battle: 20,000 Miles of Love",
+    "The Great Navy Battle: 20",
+    "000 Miles of Love"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1981,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5581.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5581",
+      "url": "https://anilist.co/anime/5581"
+    },
+    "k": {
+      "id": "4179",
+      "url": "https://kitsu.io/anime/4179"
+    },
+    "mal": {
+      "id": "5581",
+      "url": "https://myanimelist.net/anime/5581"
+    }
+  }
+}

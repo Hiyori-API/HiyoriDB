@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13439,
+  "slug": "meikyuu-no-shiori",
+  "kind": "anime",
+  "title": "Meikyuu no Shiori",
+  "titles": {
+    "default": "Meikyuu no Shiori",
+    "romaji": "Meikyuu no Shiori",
+    "english": "LABYRINTH",
+    "native": "迷宮のしおり"
+  },
+  "synonyms": [
+    "Meikyuu no Shiori",
+    "LABYRINTH",
+    "迷宮のしおり",
+    "Лабиринт",
+    "Perfect Blue",
+    "パーフェクト・ブルー"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195384-mi810JewTu08.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "195384",
+      "url": "https://anilist.co/anime/195384"
+    },
+    "k": {
+      "id": "400",
+      "url": "https://kitsu.io/anime/400"
+    },
+    "mal": {
+      "id": "61964",
+      "url": "https://myanimelist.net/anime/61964"
+    }
+  }
+}

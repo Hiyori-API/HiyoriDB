@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1801,
+  "slug": "mahou-no-yousei-persia",
+  "kind": "anime",
+  "title": "Mahou no Yousei Persia",
+  "titles": {
+    "default": "Mahou no Yousei Persia",
+    "romaji": "Mahou no Yousei Persia",
+    "native": "魔法の妖精 ペルシャ"
+  },
+  "synonyms": [
+    "Mahou no Yousei Persia",
+    "魔法の妖精 ペルシャ",
+    "Magical Fairy Persia",
+    "Magical Fairy Perusha",
+    "Evelyn e la magia di un sogno d'amore",
+    "Vanessa et la Magie des Rêves"
+  ],
+  "type": "tv",
+  "episodes": 48,
+  "status": "finished",
+  "season": "summer",
+  "year": 1984,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2039-AxPNFZieeyLi.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2039",
+      "url": "https://anilist.co/anime/2039"
+    },
+    "k": {
+      "id": "1838",
+      "url": "https://kitsu.io/anime/1838"
+    },
+    "mal": {
+      "id": "2039",
+      "url": "https://myanimelist.net/anime/2039"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11529,
+  "slug": "musashino",
+  "kind": "anime",
+  "title": "Musashino!",
+  "titles": {
+    "default": "Musashino!",
+    "romaji": "Musashino!",
+    "english": "Musasi-no",
+    "native": "むさしの!"
+  },
+  "synonyms": [
+    "Musashino!",
+    "Musasi-no",
+    "むさしの!",
+    "Urawa no Usagi-chan 2nd Season",
+    "DearS",
+    "ディアーズ"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98577-YNb269dvO4UK.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98577",
+      "url": "https://anilist.co/anime/98577"
+    },
+    "cr": {
+      "id": "musasi-no",
+      "url": "https://www.crunchyroll.com/series/musasi-no"
+    },
+    "k": {
+      "id": "44",
+      "url": "https://kitsu.io/anime/44"
+    },
+    "mal": {
+      "id": "35335",
+      "url": "https://myanimelist.net/anime/35335"
+    },
+    "t": {
+      "id": "61051",
+      "url": "https://trakt.tv/shows/61051"
+    },
+    "tx": {
+      "id": "musasi_no",
+      "url": "https://twitter.com/musasi_no"
+    }
+  }
+}

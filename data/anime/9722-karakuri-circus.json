@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9722,
+  "slug": "karakuri-circus",
+  "kind": "anime",
+  "title": "Karakuri Circus",
+  "titles": {
+    "default": "Karakuri Circus",
+    "romaji": "Karakuri Circus",
+    "native": "からくりサーカス"
+  },
+  "synonyms": [
+    "Karakuri Circus",
+    "からくりサーカス",
+    "Le Cirque de Karakuri"
+  ],
+  "type": "tv",
+  "episodes": 36,
+  "status": "finished",
+  "season": "fall",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx101336-RhdykHwHu1dh.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101336",
+      "url": "https://anilist.co/anime/101336"
+    },
+    "mal": {
+      "id": "37447",
+      "url": "https://myanimelist.net/anime/37447"
+    },
+    "tx": {
+      "id": "karakuri_anime",
+      "url": "https://twitter.com/karakuri_anime"
+    }
+  }
+}

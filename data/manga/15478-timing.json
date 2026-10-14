@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15478,
+  "slug": "timing",
+  "kind": "manga",
+  "title": "Timing",
+  "titles": {
+    "default": "Timing"
+  },
+  "synonyms": [
+    "타이밍",
+    "Renai Soukanzu",
+    "恋愛相姦図",
+    "Renai Sokanzu",
+    "Pink Sweets"
+  ],
+  "type": "manga",
+  "chapters": 36,
+  "volumes": 3,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx127190-YjLS4Y03O0q4.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "127162",
+      "url": "https://anilist.co/anime/127162"
+    },
+    "al_manga": {
+      "id": "127162",
+      "url": "https://anilist.co/manga/127162"
+    }
+  }
+}

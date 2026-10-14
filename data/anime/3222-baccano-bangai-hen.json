@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3222,
+  "slug": "baccano-bangai-hen",
+  "kind": "anime",
+  "title": "Baccano! Bangai-hen",
+  "titles": {
+    "default": "Baccano! Bangai-hen",
+    "romaji": "Baccano! Bangai-hen",
+    "native": "バッカーノ! 番外編"
+  },
+  "synonyms": [
+    "Baccano! Bangai-hen",
+    "バッカーノ! 番外編",
+    "Baccano! OVA",
+    "Baccano! Specials",
+    "Baccano! Extras",
+    "バッカーノ!"
+  ],
+  "type": "special",
+  "episodes": 3,
+  "status": "finished",
+  "season": "winter",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3901-uUj3GeGsebmj.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3901",
+      "url": "https://anilist.co/anime/3901"
+    },
+    "k": {
+      "id": "3334",
+      "url": "https://kitsu.io/anime/3334"
+    },
+    "mal": {
+      "id": "3901",
+      "url": "https://myanimelist.net/anime/3901"
+    }
+  }
+}

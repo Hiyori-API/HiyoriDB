@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14795,
+  "slug": "coquelicot-zaka-kara",
+  "kind": "manga",
+  "title": "Coquelicot-zaka kara",
+  "titles": {
+    "default": "Coquelicot-zaka kara"
+  },
+  "synonyms": [
+    "Kokuriko-Zaka Kara",
+    "From Up on Poppy Hill",
+    "La Colline aux coquelicot",
+    "From Kukuriko Hill",
+    "コクリコ坂から",
+    "Sobakasu no Shounen",
+    "そばかすの少年",
+    "Freckles"
+  ],
+  "type": "manga",
+  "chapters": 8,
+  "volumes": 2,
+  "status": "finished",
+  "year": 1979,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx53614-byDK2VyhSLHx.png"
+  ],
+  "references": {
+    "al": {
+      "id": "10029",
+      "url": "https://anilist.co/anime/10029"
+    },
+    "al_manga": {
+      "id": "10029",
+      "url": "https://anilist.co/manga/10029"
+    }
+  }
+}

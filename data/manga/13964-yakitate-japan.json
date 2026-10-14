@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13964,
+  "slug": "yakitate-japan",
+  "kind": "manga",
+  "title": "Yakitate!! Japan",
+  "titles": {
+    "default": "Yakitate!! Japan"
+  },
+  "synonyms": [
+    "Fresh-Baked Japan",
+    "Freshly-Baked Japan",
+    "¡¡Amasando!! Ja-Pan",
+    "Yakitate Ja-pan!! Un pain c'est tout",
+    "Yakitate!! Japan",
+    "焼きたて!! ジャぱん"
+  ],
+  "type": "manga",
+  "chapters": 242,
+  "volumes": 26,
+  "status": "finished",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30653-7WUDXYmT1QTx.png"
+  ],
+  "references": {
+    "al": {
+      "id": "28",
+      "url": "https://anilist.co/anime/28"
+    },
+    "al_manga": {
+      "id": "28",
+      "url": "https://anilist.co/manga/28"
+    }
+  }
+}

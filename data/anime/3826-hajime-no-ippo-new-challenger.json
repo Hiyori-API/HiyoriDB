@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3826,
+  "slug": "hajime-no-ippo-new-challenger",
+  "kind": "anime",
+  "title": "Hajime no Ippo: New Challenger",
+  "titles": {
+    "default": "Hajime no Ippo: New Challenger",
+    "romaji": "Hajime no Ippo: New Challenger",
+    "english": "Hajime no Ippo: The Fighting! New Challenger",
+    "native": "はじめの一歩 New Challenger"
+  },
+  "synonyms": [
+    "Hajime no Ippo: New Challenger",
+    "Hajime no Ippo: The Fighting! New Challenger",
+    "はじめの一歩 New Challenger",
+    "Hajime no Ippo Season II",
+    "Hajime no Ippo 2",
+    "Fighting Spirit: New Challenger",
+    "Hajime no Ippo: A Luta! - Um Novo Desafiante",
+    "はじめの一歩 新シリーズ",
+    "Hajime no Ippo New Series"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "winter",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5258-Qn6GBiSY57iT.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5258",
+      "url": "https://anilist.co/anime/5258"
+    },
+    "k": {
+      "id": "4016",
+      "url": "https://kitsu.io/anime/4016"
+    },
+    "mal": {
+      "id": "5258",
+      "url": "https://myanimelist.net/anime/5258"
+    },
+    "nf": {
+      "id": "80995578",
+      "url": "https://www.netflix.com/title/80995578"
+    },
+    "t": {
+      "id": "61087",
+      "url": "https://trakt.tv/shows/61087"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8334,
+  "slug": "haikyuu-vs-akaten",
+  "kind": "anime",
+  "title": "Haikyuu!!: VS Akaten",
+  "titles": {
+    "default": "Haikyuu!!: VS Akaten",
+    "romaji": "Haikyuu!!: VS Akaten",
+    "english": "HAIKYU!!: VS Failing Marks",
+    "native": "ハイキュー!! VS赤点"
+  },
+  "synonyms": [
+    "Haikyuu!!: VS Akaten",
+    "HAIKYU!!: VS Failing Marks",
+    "ハイキュー!! VS赤点",
+    "Haikyuu!!: Jump Festa 2015 Special",
+    "Haikyuu!! OVA",
+    "Haikyu‼ OAD: VS Failing Marks",
+    "Kuroko no Basket Episode 75.5",
+    "Kuroko’s Basketball: It is the Best Present",
+    "黒子のバスケ〜最高のプレゼントです〜",
+    "Kuroko no Basket: Saikou no Present desu"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21348-VIKyHcNUWIlb.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21348",
+      "url": "https://anilist.co/anime/21348"
+    },
+    "cr": {
+      "id": "haikyu/haikyu-oads-vs-failing-marks-816189",
+      "url": "https://www.crunchyroll.com/series/haikyu/haikyu-oads-vs-failing-marks-816189"
+    },
+    "mal": {
+      "id": "35806",
+      "url": "https://myanimelist.net/anime/35806"
+    },
+    "tx": {
+      "id": "animehaikyu_com",
+      "url": "https://twitter.com/animehaikyu_com"
+    },
+    "yt": {
+      "id": "0NL-Agtomho",
+      "url": "https://www.youtube.com/watch?v=0NL-Agtomho"
+    }
+  }
+}

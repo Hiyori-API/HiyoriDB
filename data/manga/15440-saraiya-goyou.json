@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15440,
+  "slug": "saraiya-goyou",
+  "kind": "manga",
+  "title": "Saraiya Goyou",
+  "titles": {
+    "default": "Saraiya Goyou"
+  },
+  "synonyms": [
+    "Sarai-ya Goyo",
+    "Sarai-ya Goyou",
+    "Beş Yaprak",
+    "Goyô",
+    "납치사 고요",
+    "House of Five Leaves",
+    "さらい屋五葉",
+    "Renai Soukanzu",
+    "恋愛相姦図",
+    "Renai Sokanzu",
+    "Pink Sweets"
+  ],
+  "type": "manga",
+  "chapters": 59,
+  "volumes": 8,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx43271-1WBjF6HFJDrw.png"
+  ],
+  "references": {
+    "al": {
+      "id": "7588",
+      "url": "https://anilist.co/anime/7588"
+    },
+    "al_manga": {
+      "id": "7588",
+      "url": "https://anilist.co/manga/7588"
+    }
+  }
+}

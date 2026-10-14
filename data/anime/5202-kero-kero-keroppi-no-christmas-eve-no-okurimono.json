@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5202,
+  "slug": "kero-kero-keroppi-no-christmas-eve-no-okurimono",
+  "kind": "anime",
+  "title": "Kero Kero Keroppi no Christmas Eve no Okurimono",
+  "titles": {
+    "default": "Kero Kero Keroppi no Christmas Eve no Okurimono",
+    "romaji": "Kero Kero Keroppi no Christmas Eve no Okurimono",
+    "native": "けろけろけろっぴのクリスマス・イブのおくりもの"
+  },
+  "synonyms": [
+    "Kero Kero Keroppi no Christmas Eve no Okurimono",
+    "けろけろけろっぴのクリスマス・イブのおくりもの",
+    "Keroppi in the Christmas Eve Gift",
+    "Hello Kitty and Friends: The Christmas Eve Gift",
+    "Keroppi and Friends: The Christmas Eve Gift"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17983.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "17983",
+      "url": "https://anilist.co/anime/17983"
+    },
+    "k": {
+      "id": "9015",
+      "url": "https://kitsu.io/anime/9015"
+    },
+    "mal": {
+      "id": "17983",
+      "url": "https://myanimelist.net/anime/17983"
+    }
+  }
+}

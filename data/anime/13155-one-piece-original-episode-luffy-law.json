@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13155,
+  "slug": "one-piece-original-episode-luffy-law",
+  "kind": "anime",
+  "title": "ONE PIECE: Original Episode/Luffy, Law",
+  "titles": {
+    "default": "ONE PIECE: Original Episode/Luffy, Law",
+    "romaji": "ONE PIECE: Original Episode/Luffy, Law",
+    "native": "ONE PIECE オリジナルエピソード／ルフィ、ロー"
+  },
+  "synonyms": [
+    "ONE PIECE: Original Episode/Luffy, Law",
+    "ONE PIECE オリジナルエピソード／ルフィ、ロー",
+    "ルフィ、ロー",
+    "Luffy, Law"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187380-RZmxpJyB3A6Y.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "187380",
+      "url": "https://anilist.co/anime/187380"
+    },
+    "mal": {
+      "id": "60790",
+      "url": "https://myanimelist.net/anime/60790"
+    },
+    "yt": {
+      "id": "njxatFON6Zg",
+      "url": "https://www.youtube.com/watch?v=njxatFON6Zg"
+    }
+  }
+}

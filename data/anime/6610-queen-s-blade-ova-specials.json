@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6610,
+  "slug": "queen-s-blade-ova-specials",
+  "kind": "anime",
+  "title": "Queen's Blade OVA Specials",
+  "titles": {
+    "default": "Queen's Blade OVA Specials",
+    "romaji": "Queen's Blade OVA Specials",
+    "native": "クイーンズブレイド OVA"
+  },
+  "synonyms": [
+    "Queen's Blade OVA Specials",
+    "クイーンズブレイド OVA",
+    "Queen's Blade Rebellion Premium Visual Book",
+    "クイーンズブレイド リベリオン プレミアムビジュアルブック",
+    "クイーンズブレイド",
+    "Queen's Blade: Rebellion OVA Specials"
+  ],
+  "type": "special",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12065.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12065",
+      "url": "https://anilist.co/anime/12065"
+    },
+    "k": {
+      "id": "6658",
+      "url": "https://kitsu.io/anime/6658"
+    },
+    "mal": {
+      "id": "12065",
+      "url": "https://myanimelist.net/anime/12065"
+    }
+  }
+}

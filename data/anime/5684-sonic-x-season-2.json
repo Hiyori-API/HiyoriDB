@@ -1,0 +1,60 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5684,
+  "slug": "sonic-x-season-2",
+  "kind": "anime",
+  "title": "Sonic X Season 2",
+  "titles": {
+    "default": "Sonic X Season 2",
+    "romaji": "Sonic X Season 2",
+    "english": "Sonic X: The Metarex Saga",
+    "native": "ソニックX 第2期"
+  },
+  "synonyms": [
+    "Sonic X Season 2",
+    "Sonic X: The Metarex Saga",
+    "ソニックX 第2期",
+    "Sonic X Season 3",
+    "Sonic X Series 2",
+    "My ZHiME",
+    "Mai-Otome",
+    "舞-乙HiME",
+    "Mai Oto-Hime",
+    "Mai-OtoHiME",
+    "Dancing Maiden"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129610-s1WG5PfQqyzq.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "129610",
+      "url": "https://anilist.co/anime/129610"
+    },
+    "k": {
+      "id": "78",
+      "url": "https://kitsu.io/anime/78"
+    },
+    "mal": {
+      "id": "99",
+      "url": "https://myanimelist.net/anime/99"
+    },
+    "nf": {
+      "id": "81172267",
+      "url": "https://www.netflix.com/title/81172267"
+    },
+    "t": {
+      "id": "42491",
+      "url": "https://trakt.tv/shows/42491"
+    },
+    "ttv": {
+      "id": "2100",
+      "url": "https://tubitv.com/series/2100"
+    }
+  }
+}

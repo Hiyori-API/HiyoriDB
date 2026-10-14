@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11050,
+  "slug": "mou-inu-chuui",
+  "kind": "anime",
+  "title": "Mou Inu Chuui",
+  "titles": {
+    "default": "Mou Inu Chuui",
+    "romaji": "Mou Inu Chuui",
+    "native": "もう犬注意"
+  },
+  "synonyms": [
+    "Mou Inu Chuui",
+    "もう犬注意",
+    "Hana no Zundamaru: Junk",
+    "花のずんだ丸 じゃんく"
+  ],
+  "type": "ona",
+  "episodes": 3,
+  "status": "finished",
+  "season": "winter",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183820-UP22rFNERa5F.png"
+  ],
+  "references": {
+    "al": {
+      "id": "183820",
+      "url": "https://anilist.co/anime/183820"
+    },
+    "k": {
+      "id": "9163",
+      "url": "https://kitsu.io/anime/9163"
+    },
+    "mal": {
+      "id": "59040",
+      "url": "https://myanimelist.net/anime/59040"
+    },
+    "yt": {
+      "id": "BcEebRzQj2s",
+      "url": "https://www.youtube.com/watch?v=Q-brslGoWlg"
+    }
+  }
+}

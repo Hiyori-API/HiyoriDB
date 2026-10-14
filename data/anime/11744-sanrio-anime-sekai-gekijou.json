@@ -1,0 +1,71 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11744,
+  "slug": "sanrio-anime-sekai-gekijou",
+  "kind": "anime",
+  "title": "Sanrio Anime Sekai Gekijou",
+  "titles": {
+    "default": "Sanrio Anime Sekai Gekijou",
+    "romaji": "Sanrio Anime Sekai Gekijou",
+    "english": "Hello Kitty’s Animation Theater",
+    "native": "サンリオ・アニメ世界名作劇場"
+  },
+  "synonyms": [
+    "Sanrio Anime Sekai Gekijou",
+    "Hello Kitty’s Animation Theater",
+    "サンリオ・アニメ世界名作劇場",
+    "ハローキティの白雪姫, (Hello kitty no Shirayukihime,Hello Kitty in \"Snow White and the Seven Dwarfs\")",
+    "バッドばつ丸のオオカミが来た!, (Bad Badtz-maru no Ookami ga Kita!, Badtz-Maru in \"The Shepherd Boy and the Wolf\")",
+    "ポチャッコのジャックと豆の木, (Pochakko no Jack to Mamenoki, Pochacco in \"Jack and the Beanstalk\")",
+    "ハローキティの王様の耳はロバの耳, (Hello Kitty no Susama no Mimi wa Roba no Mimi, Hello Kitty & Mimmy in \"The Story of King Midas\")",
+    "ハローキティのヘンゼルとグレーテル, (Hello Kitty no Hansel to Gretel, Hello Kitty & Dear Daniel in \"Hansel & Gretel\")",
+    "マイメロディの赤ずきん, (My Melody no Akazukin, My Melody in \"Little Red Riding Hood\")",
+    "ハローキティのかぐや姫, (Hello Kitty no Kaguya-Hime, Hello Kitty in \"The Bamboo Princess\")",
+    "ハンギョドンのはだかの王様, (Hangyodon no Hadaka no Ousama, Hangyodon in \"The Emperor's New Clothes\")",
+    "ハローキティのねむれる森の美女, (Hello Kitty no Nemureru Mori no Bijo, Hello Kitty in \"Sleeping Beauty\")",
+    "バッドばつ丸のアリとキリギリス, (Bad Badtz-Maru no Ari to Kirigirisu, Badtz-Maru in \"The Ants and the Grasshopper\")",
+    "ハローキティの白鳥の王子, (Hello Kitty no Hakuchou no Ouji, Hello Kitty in \"The Wild Swans\")",
+    "おさるのもんきちの金の斧 銀の斧, (O Saru no Monkichi no Kin no Ono Gin no Ono, Monkichi in \"Mercury and the Workmen\")",
+    "ハローキティのくるみ割り人形, (Hello Kitty no Kurumiwari Ningyou, Hello Kitty in \"The Nutcracker\")",
+    "コロコロクリリンの田舎のネズミ都会のネズミ, (Corocorokuririn no Inaka no Nezumi Tokai no Nezumi, Corocorokuririn in \"The Country Mouse and the Town Mouse\")",
+    "ハローキティの桃太郎, (Hello Kitty no Momotarou, Hello Kitty in \"Momotaro\")",
+    "ポムポムプリンのウサギとカメ, (Pompompurin no Usagi to Kame, Pompompurin in \"The Tortoise and the Hare\")",
+    "ハローキティのシンデレラ, (Hello Kitty no Cinderella, Hello Kitty in \"Cinderella\")",
+    "アヒルのペックルのアヒルのドレイクステール, (Ahiru no Pekkle no Ahiru no Drakestail, Pekkle in \"Drakestail\")",
+    "けろけろけろっぴのアラジンと魔法のランプ, (Kero Kero Keroppi no Arajin to Mahou no Ranpu, Keroppi in \"Aladdin and the Magic Lamp\")",
+    "ハローキティのマッチ売りの少女, (Hello Kitty no Match Uri no Shoujo, Hello Kitty in \"The Little Match Girl\")",
+    "ハローキティの長靴をはいた猫, (Hello Kitty no Nagagutsu o Haita Neko, Hello Kitty in \"Puss in Boots\")",
+    "アヒルのペックルのみにくいアヒルの子, (Ahiru no Pekkle no Minikui Ahiru no ko, Pekkle in \"The Ugly Duckling\")",
+    "ハローキティのおやゆび姫, (Hello Kitty no o Yayu bi Hime, Hello Kitty in \"Thumbelina\")",
+    "ポムポムプリンの北風と太陽, (Pompompurin no Kitakaze to Taiyou, Pompompurin in \"The North Wind and the Sun\")",
+    "ハローキティの雪の女王, (Hello Kitty no Yuki no Joou / Hello Kitty & Dear Daniel in \"The Snow Queen\")",
+    "ハローキティの3匹の子ぶた, (Hello Kitty no 3 Hiki no ko Buta / Hello Kitty, Mimmy, & Dear Daniel in \"The Three Little Pigs\")",
+    "Hello Kitty fortellinger",
+    "Monkichi the Monkey in The Gold Axe and the Silver Axe",
+    "Osaru no Monkichi no Kin no Ono Gin no Ono",
+    "おさるのもんきちの金の斧 銀の斧",
+    "Hello Kitty's Animation Theater 6b"
+  ],
+  "type": "ova",
+  "episodes": 26,
+  "status": "finished",
+  "season": "summer",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4024-IzecGdpwRWrg.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4024",
+      "url": "https://anilist.co/anime/4024"
+    },
+    "k": {
+      "id": "9518",
+      "url": "https://kitsu.io/anime/9518"
+    },
+    "mal": {
+      "id": "22567",
+      "url": "https://myanimelist.net/anime/22567"
+    }
+  }
+}

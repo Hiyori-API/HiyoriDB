@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11409,
+  "slug": "gunmachan",
+  "kind": "anime",
+  "title": "GUNMACHAN",
+  "titles": {
+    "default": "GUNMACHAN",
+    "romaji": "GUNMACHAN",
+    "native": "ぐんまちゃん"
+  },
+  "synonyms": [
+    "GUNMACHAN",
+    "ぐんまちゃん",
+    "Gunma-chan",
+    "Gunma Chan",
+    "Avenger",
+    "アヴェンジャー"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b133510-sCZf52CUxXvr.png"
+  ],
+  "references": {
+    "al": {
+      "id": "133510",
+      "url": "https://anilist.co/anime/133510"
+    },
+    "cr": {
+      "id": "series/GDKHZEPP3/gunma-chan",
+      "url": "https://www.crunchyroll.com/series/series/GDKHZEPP3/gunma-chan"
+    },
+    "k": {
+      "id": "37",
+      "url": "https://kitsu.io/anime/37"
+    },
+    "mal": {
+      "id": "49184",
+      "url": "https://myanimelist.net/anime/49184"
+    },
+    "t": {
+      "id": "21179",
+      "url": "https://trakt.tv/shows/21179"
+    },
+    "tx": {
+      "id": "gunmachan_info",
+      "url": "https://twitter.com/gunmachan_info"
+    }
+  }
+}

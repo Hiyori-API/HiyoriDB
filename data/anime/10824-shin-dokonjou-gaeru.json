@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10824,
+  "slug": "shin-dokonjou-gaeru",
+  "kind": "anime",
+  "title": "Shin Dokonjou Gaeru",
+  "titles": {
+    "default": "Shin Dokonjou Gaeru",
+    "romaji": "Shin Dokonjou Gaeru",
+    "native": "新・ど根性ガエル"
+  },
+  "synonyms": [
+    "Shin Dokonjou Gaeru",
+    "新・ど根性ガエル"
+  ],
+  "type": "tv",
+  "episodes": 30,
+  "status": "finished",
+  "season": "fall",
+  "year": 1981,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126865-1bQOEHkKKbwq.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "126865",
+      "url": "https://anilist.co/anime/126865"
+    },
+    "k": {
+      "id": "9581",
+      "url": "https://kitsu.io/anime/9581"
+    },
+    "mal": {
+      "id": "21487",
+      "url": "https://myanimelist.net/anime/21487"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2112,
+  "slug": "tachiguishi-retsuden",
+  "kind": "anime",
+  "title": "Tachiguishi Retsuden",
+  "titles": {
+    "default": "Tachiguishi Retsuden",
+    "romaji": "Tachiguishi Retsuden",
+    "english": "Tachigui: The Amazing Lives of the Fast Food Grifters",
+    "native": "立喰師列伝"
+  },
+  "synonyms": [
+    "Tachiguishi Retsuden",
+    "Tachigui: The Amazing Lives of the Fast Food Grifters",
+    "立喰師列伝",
+    "Tachigui - The Amazing Lives of the Fast Food Grifters"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2388.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2388",
+      "url": "https://anilist.co/anime/2388"
+    },
+    "k": {
+      "id": "2165",
+      "url": "https://kitsu.io/anime/2165"
+    },
+    "mal": {
+      "id": "2388",
+      "url": "https://myanimelist.net/anime/2388"
+    }
+  }
+}

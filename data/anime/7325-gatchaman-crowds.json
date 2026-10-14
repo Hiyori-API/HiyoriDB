@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7325,
+  "slug": "gatchaman-crowds",
+  "kind": "anime",
+  "title": "Gatchaman Crowds",
+  "titles": {
+    "default": "Gatchaman Crowds",
+    "romaji": "Gatchaman Crowds",
+    "native": "ガッチャマン クラウズ"
+  },
+  "synonyms": [
+    "Gatchaman Crowds",
+    "ガッチャマン クラウズ",
+    "Futari wa Milky Holmes",
+    "ふたりはミルキィホームズ"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18229-KanFYQps8XGS.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "18229",
+      "url": "https://anilist.co/anime/18229"
+    },
+    "cr": {
+      "id": "gatchaman-crowds",
+      "url": "https://www.crunchyroll.com/series/gatchaman-crowds"
+    },
+    "k": {
+      "id": "7623",
+      "url": "https://kitsu.io/anime/7623"
+    },
+    "mal": {
+      "id": "18229",
+      "url": "https://myanimelist.net/anime/18229"
+    },
+    "t": {
+      "id": "64894",
+      "url": "https://trakt.tv/shows/64894"
+    }
+  }
+}

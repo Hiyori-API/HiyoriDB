@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3291,
+  "slug": "alignment-you-you-the-animation",
+  "kind": "anime",
+  "title": "Alignment You! You! THE ANIMATION",
+  "titles": {
+    "default": "Alignment You! You! THE ANIMATION",
+    "romaji": "Alignment You! You! THE ANIMATION",
+    "native": "あらいめんとゆーゆー THE ANIMATION"
+  },
+  "synonyms": [
+    "Alignment You! You! THE ANIMATION",
+    "あらいめんとゆーゆー THE ANIMATION",
+    "Yotsunoha",
+    "よつのは"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4010-7NfDYqOFFj1M.png"
+  ],
+  "references": {
+    "al": {
+      "id": "4010",
+      "url": "https://anilist.co/anime/4010"
+    },
+    "k": {
+      "id": "2722",
+      "url": "https://kitsu.io/anime/2722"
+    },
+    "mal": {
+      "id": "4010",
+      "url": "https://myanimelist.net/anime/4010"
+    }
+  }
+}

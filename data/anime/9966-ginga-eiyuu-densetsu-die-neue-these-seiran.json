@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9966,
+  "slug": "ginga-eiyuu-densetsu-die-neue-these-seiran",
+  "kind": "anime",
+  "title": "Ginga Eiyuu Densetsu: Die Neue These - Seiran",
+  "titles": {
+    "default": "Ginga Eiyuu Densetsu: Die Neue These - Seiran",
+    "romaji": "Ginga Eiyuu Densetsu: Die Neue These - Seiran",
+    "english": "Legend of the Galactic Heroes: Die Neue These Second",
+    "native": "銀河英雄伝説 Die Neue These 星乱"
+  },
+  "synonyms": [
+    "Ginga Eiyuu Densetsu: Die Neue These - Seiran",
+    "Legend of the Galactic Heroes: Die Neue These Second",
+    "銀河英雄伝説 Die Neue These 星乱",
+    "Legend of the Galactic Heroes: The New Thesis - Stellar War",
+    "Legend of the Galactic Heroes: Die Neue These Season 2",
+    "Легенда о героях галактики: Новый тезис. Хаос",
+    "Ni Zai Xing Guang Shen Chu",
+    "Stars Fall",
+    "你在星光深处",
+    "Ni Zai Xingguang Shenchu"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100780-0umTIigEolK8.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "100780",
+      "url": "https://anilist.co/anime/100780"
+    },
+    "cr": {
+      "id": "series/GRW4DXNEY",
+      "url": "https://www.crunchyroll.com/series/series/GRW4DXNEY"
+    },
+    "mal": {
+      "id": "36369",
+      "url": "https://myanimelist.net/anime/36369"
+    },
+    "tx": {
+      "id": "gineidenanime",
+      "url": "https://twitter.com/gineidenanime"
+    }
+  }
+}

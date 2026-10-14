@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6248,
+  "slug": "gosick",
+  "kind": "anime",
+  "title": "GOSICK",
+  "titles": {
+    "default": "GOSICK",
+    "romaji": "GOSICK",
+    "english": "Gosick"
+  },
+  "synonyms": [
+    "GOSICK",
+    "Gosick",
+    "ゴシック",
+    "GOSICK -ゴシック-"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "winter",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx8425-Bn14ayPjnq9o.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8425",
+      "url": "https://anilist.co/anime/8425"
+    },
+    "cr": {
+      "id": "gosick",
+      "url": "https://www.crunchyroll.com/series/gosick"
+    },
+    "k": {
+      "id": "5330",
+      "url": "https://kitsu.io/anime/5330"
+    },
+    "mal": {
+      "id": "8425",
+      "url": "https://myanimelist.net/anime/8425"
+    },
+    "nf": {
+      "id": "80209888",
+      "url": "https://www.netflix.com/title/80209888"
+    },
+    "t": {
+      "id": "38400",
+      "url": "https://trakt.tv/shows/38400"
+    },
+    "tvt": {
+      "id": "gosick",
+      "url": "http://www.tv-tokyo.co.jp/anime/gosick"
+    }
+  }
+}

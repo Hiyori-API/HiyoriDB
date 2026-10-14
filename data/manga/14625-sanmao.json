@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14625,
+  "slug": "sanmao",
+  "kind": "manga",
+  "title": "Sanmao",
+  "titles": {
+    "default": "Sanmao"
+  },
+  "synonyms": [
+    "San Mao",
+    "三毛",
+    "Sanmao",
+    "Renai Soukanzu",
+    "恋愛相姦図",
+    "Renai Sokanzu",
+    "Pink Sweets"
+  ],
+  "type": "manga",
+  "status": "finished",
+  "year": 1935,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/14800.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "129464",
+      "url": "https://anilist.co/anime/129461"
+    },
+    "al_manga": {
+      "id": "129464",
+      "url": "https://anilist.co/manga/129464"
+    }
+  }
+}

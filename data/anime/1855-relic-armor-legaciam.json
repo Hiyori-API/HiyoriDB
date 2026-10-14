@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1855,
+  "slug": "relic-armor-legaciam",
+  "kind": "anime",
+  "title": "Relic Armor LEGACIAM",
+  "titles": {
+    "default": "Relic Armor LEGACIAM",
+    "romaji": "Relic Armor LEGACIAM",
+    "native": "レリックアーマーLEGACIAM"
+  },
+  "synonyms": [
+    "Relic Armor LEGACIAM",
+    "レリックアーマーLEGACIAM",
+    "Relic Armor Legaciam",
+    "レリック・アーマー レガシアム"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2094.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2094",
+      "url": "https://anilist.co/anime/2094"
+    },
+    "k": {
+      "id": "1893",
+      "url": "https://kitsu.io/anime/1893"
+    },
+    "mal": {
+      "id": "2094",
+      "url": "https://myanimelist.net/anime/2094"
+    }
+  }
+}

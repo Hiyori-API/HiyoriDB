@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3537,
+  "slug": "topo-gigio",
+  "kind": "anime",
+  "title": "Topo Gigio",
+  "titles": {
+    "default": "Topo Gigio",
+    "romaji": "Topo Gigio",
+    "native": "トッポ・ジージョ"
+  },
+  "synonyms": [
+    "Topo Gigio",
+    "トッポ・ジージョ",
+    "Toppo Jijo",
+    "Return of Topo Gigio",
+    "帰って来た　トッポ・ジージョ"
+  ],
+  "type": "tv",
+  "episodes": 21,
+  "status": "finished",
+  "season": "spring",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4584.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4584",
+      "url": "https://anilist.co/anime/4584"
+    },
+    "k": {
+      "id": "3696",
+      "url": "https://kitsu.io/anime/3696"
+    },
+    "mal": {
+      "id": "4584",
+      "url": "https://myanimelist.net/anime/4584"
+    }
+  }
+}

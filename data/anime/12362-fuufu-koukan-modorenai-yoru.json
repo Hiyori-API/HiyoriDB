@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12362,
+  "slug": "fuufu-koukan-modorenai-yoru",
+  "kind": "anime",
+  "title": "Fuufu Koukan: Modorenai Yoru",
+  "titles": {
+    "default": "Fuufu Koukan: Modorenai Yoru",
+    "romaji": "Fuufu Koukan: Modorenai Yoru",
+    "english": "Married Couple Swap",
+    "native": "夫婦交歓～戻れない夜～"
+  },
+  "synonyms": [
+    "Fuufu Koukan: Modorenai Yoru",
+    "Married Couple Swap",
+    "夫婦交歓～戻れない夜～",
+    "Fuufu Koukan: Otto yori Sugoi Kongai Sex",
+    "Married Couple Swap ~He's Better Than My Husband~",
+    "Échange de couples",
+    "Left-Hand Layup!",
+    "左手上篮",
+    "Zuoshou Shanglan"
+  ],
+  "type": "ona",
+  "episodes": 8,
+  "status": "finished",
+  "season": "summer",
+  "year": 2023,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx168253-AgwIeG1kRNsU.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "168253",
+      "url": "https://anilist.co/anime/168253"
+    },
+    "mal": {
+      "id": "55616",
+      "url": "https://myanimelist.net/anime/55616"
+    },
+    "tx": {
+      "id": "aforg_official",
+      "url": "https://twitter.com/aforg_official"
+    }
+  }
+}

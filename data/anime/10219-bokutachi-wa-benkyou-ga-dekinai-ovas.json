@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10219,
+  "slug": "bokutachi-wa-benkyou-ga-dekinai-ovas",
+  "kind": "anime",
+  "title": "Bokutachi wa Benkyou ga Dekinai OVAs",
+  "titles": {
+    "default": "Bokutachi wa Benkyou ga Dekinai OVAs",
+    "romaji": "Bokutachi wa Benkyou ga Dekinai OVAs",
+    "english": "We Never Learn OVAs",
+    "native": "ぼくたちは勉強ができない OVAs"
+  },
+  "synonyms": [
+    "Bokutachi wa Benkyou ga Dekinai OVAs",
+    "We Never Learn OVAs",
+    "ぼくたちは勉強ができない OVAs",
+    "Boku-tachi wa Benkyou ga Dekinai OVA",
+    "Bokuben OVA",
+    "チャペルの鐘は[X]を祝福する",
+    "Chapel no Kane wa [X] wo Shukufuku Suru",
+    "Nagisa ni Usemono Arite Senjin wa Enzen to [X] Suru",
+    "渚に失せものありて先人は艶然と[X]する",
+    "เรื่องนี้ตําราไม่มีสอน OVA",
+    "Ero Manga Sensei: Imouto to Akazu no Ma OVA",
+    "Eromanga Sensei OVA",
+    "エロマンガ先生 OVA",
+    "Eromanga-sensei OVA"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109492-DphM0bHcV0LD.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "109492",
+      "url": "https://anilist.co/anime/109492"
+    },
+    "mal": {
+      "id": "39819",
+      "url": "https://myanimelist.net/anime/39819"
+    }
+  }
+}

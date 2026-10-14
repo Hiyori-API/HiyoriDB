@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1918,
+  "slug": "aika-r-16-virgin-mission",
+  "kind": "anime",
+  "title": "AIKa R-16: VIRGIN MISSION",
+  "titles": {
+    "default": "AIKa R-16: VIRGIN MISSION",
+    "romaji": "AIKa R-16: VIRGIN MISSION",
+    "native": "AIKa R-16：VIRGIN MISSION"
+  },
+  "synonyms": [
+    "AIKa R-16: VIRGIN MISSION",
+    "AIKa R-16：VIRGIN MISSION",
+    "AIKa R-16: Virgin Mission",
+    "AIKa R-16:VIRGIN MISSION"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "spring",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx2163-7BvE6SXJu4xR.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2163",
+      "url": "https://anilist.co/anime/2163"
+    },
+    "k": {
+      "id": "1958",
+      "url": "https://kitsu.io/anime/1958"
+    },
+    "mal": {
+      "id": "2163",
+      "url": "https://myanimelist.net/anime/2163"
+    },
+    "ttv": {
+      "id": "3315",
+      "url": "https://tubitv.com/series/2924"
+    }
+  }
+}

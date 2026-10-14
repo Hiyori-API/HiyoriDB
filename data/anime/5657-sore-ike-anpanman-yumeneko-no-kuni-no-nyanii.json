@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5657,
+  "slug": "sore-ike-anpanman-yumeneko-no-kuni-no-nyanii",
+  "kind": "anime",
+  "title": "Sore Ike! Anpanman: Yumeneko no Kuni no Nyanii",
+  "titles": {
+    "default": "Sore Ike! Anpanman: Yumeneko no Kuni no Nyanii",
+    "romaji": "Sore Ike! Anpanman: Yumeneko no Kuni no Nyanii",
+    "native": "それいけ！アンパンマン 夢猫の国のニャニィ"
+  },
+  "synonyms": [
+    "Sore Ike! Anpanman: Yumeneko no Kuni no Nyanii",
+    "それいけ！アンパンマン 夢猫の国のニャニィ",
+    "それいけ!アンパンマン 夢猫の国のニャニイ"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174124-07sMkhxFAHSZ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "174124",
+      "url": "https://anilist.co/anime/174124"
+    },
+    "k": {
+      "id": "9053",
+      "url": "https://kitsu.io/anime/9053"
+    },
+    "mal": {
+      "id": "21969",
+      "url": "https://myanimelist.net/anime/21969"
+    }
+  }
+}

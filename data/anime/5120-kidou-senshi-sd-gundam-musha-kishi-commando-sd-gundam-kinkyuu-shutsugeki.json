@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5120,
+  "slug": "kidou-senshi-sd-gundam-musha-kishi-commando-sd-gundam-kinkyuu-shutsugeki",
+  "kind": "anime",
+  "title": "Kidou Senshi SD Gundam: Musha Kishi Commando - SD Gundam Kinkyuu Shutsugeki",
+  "titles": {
+    "default": "Kidou Senshi SD Gundam: Musha Kishi Commando - SD Gundam Kinkyuu Shutsugeki",
+    "romaji": "Kidou Senshi SD Gundam: Musha Kishi Commando - SD Gundam Kinkyuu Shutsugeki",
+    "native": "機動戦士SDガンダム劇場版 武者・騎士・コマンド SDガンダム緊急出撃"
+  },
+  "synonyms": [
+    "Kidou Senshi SD Gundam: Musha Kishi Commando - SD Gundam Kinkyuu Shutsugeki",
+    "機動戦士SDガンダム劇場版 武者・騎士・コマンド SDガンダム緊急出撃",
+    "SD Gundam Musha Knight Command Emergency Sortie",
+    "SD Gundam Scramble",
+    "Honoo no Tenkousei",
+    "炎の転校生",
+    "Blazing Transfer Student"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9087.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9087",
+      "url": "https://anilist.co/anime/9087"
+    },
+    "k": {
+      "id": "1849",
+      "url": "https://kitsu.io/anime/1849"
+    },
+    "mal": {
+      "id": "9087",
+      "url": "https://myanimelist.net/anime/9087"
+    }
+  }
+}

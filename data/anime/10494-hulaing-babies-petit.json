@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10494,
+  "slug": "hulaing-babies-petit",
+  "kind": "anime",
+  "title": "Hulaing Babies☆Petit",
+  "titles": {
+    "default": "Hulaing Babies☆Petit",
+    "romaji": "Hulaing Babies☆Petit",
+    "native": "フライングベイビーズ☆プチ"
+  },
+  "synonyms": [
+    "Hulaing Babies☆Petit",
+    "フライングベイビーズ☆プチ",
+    "Hands off the Motion Pictures Club!",
+    "Keep Your Hands Off Eizouken!",
+    "映像研には手を出すな!",
+    "Eizouken ni wa Te wo Dasu na!"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113463-zHcmCnrgiKTK.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "113463",
+      "url": "https://anilist.co/anime/113463"
+    },
+    "mal": {
+      "id": "40758",
+      "url": "https://myanimelist.net/anime/40758"
+    },
+    "tx": {
+      "id": "hulaingbabies",
+      "url": "https://twitter.com/hulaingbabies"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4662,
+  "slug": "uchuu-shounen-soran",
+  "kind": "anime",
+  "title": "Uchuu Shounen Soran",
+  "titles": {
+    "default": "Uchuu Shounen Soran",
+    "romaji": "Uchuu Shounen Soran",
+    "native": "宇宙少年ソラン"
+  },
+  "synonyms": [
+    "Uchuu Shounen Soran",
+    "宇宙少年ソラン"
+  ],
+  "type": "tv",
+  "episodes": 96,
+  "status": "finished",
+  "season": "spring",
+  "year": 1965,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12887.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12887",
+      "url": "https://anilist.co/anime/12887"
+    },
+    "k": {
+      "id": "6838",
+      "url": "https://kitsu.io/anime/6838"
+    },
+    "mal": {
+      "id": "12887",
+      "url": "https://myanimelist.net/anime/12887"
+    }
+  }
+}

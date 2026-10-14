@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3886,
+  "slug": "shuuchuu-chiryou-shitsu",
+  "kind": "anime",
+  "title": "Shuuchuu Chiryou Shitsu",
+  "titles": {
+    "default": "Shuuchuu Chiryou Shitsu",
+    "romaji": "Shuuchuu Chiryou Shitsu",
+    "english": "Internal Medicine",
+    "native": "羞中恥療室"
+  },
+  "synonyms": [
+    "Shuuchuu Chiryou Shitsu",
+    "Internal Medicine",
+    "羞中恥療室",
+    "Shuuchuu Chiryoushitsu",
+    "Tokyo Daigaku Monogatari",
+    "東京大学物語",
+    "Tokyo University Story"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5399-qEnaQF0j2EZo.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5399",
+      "url": "https://anilist.co/anime/5399"
+    },
+    "k": {
+      "id": "943",
+      "url": "https://kitsu.io/anime/943"
+    },
+    "mal": {
+      "id": "5399",
+      "url": "https://myanimelist.net/anime/5399"
+    }
+  }
+}

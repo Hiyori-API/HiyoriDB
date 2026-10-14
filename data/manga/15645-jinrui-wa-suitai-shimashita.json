@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15645,
+  "slug": "jinrui-wa-suitai-shimashita",
+  "kind": "manga",
+  "title": "Jinrui wa Suitai Shimashita",
+  "titles": {
+    "default": "Jinrui wa Suitai Shimashita"
+  },
+  "synonyms": [
+    "ตัวฉันกับวันสิ้นโลก",
+    "Humanity has Declined",
+    "人類は衰退しました",
+    "MM!",
+    "えむえむっ!",
+    "MM Group",
+    "Emu Emu!"
+  ],
+  "type": "novel",
+  "chapters": 22,
+  "volumes": 9,
+  "status": "finished",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx54562-tIsfbx6YzsG4.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10357",
+      "url": "https://anilist.co/anime/10357"
+    },
+    "al_manga": {
+      "id": "10357",
+      "url": "https://anilist.co/manga/10357"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1910,
+  "slug": "tekkon-kinkreet",
+  "kind": "anime",
+  "title": "Tekkon Kinkreet",
+  "titles": {
+    "default": "Tekkon Kinkreet",
+    "romaji": "Tekkon Kinkreet",
+    "english": "Tekkonkinkreet",
+    "native": "鉄コン筋クリート"
+  },
+  "synonyms": [
+    "Tekkon Kinkreet",
+    "Tekkonkinkreet",
+    "鉄コン筋クリート",
+    "Black & White",
+    "Amer Béton",
+    "Tekkon Kinkreet (2006)",
+    "Tekkon Kinkurito",
+    "Tekkon Kin Creat"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx2154-R7xZo22O9FjK.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2154",
+      "url": "https://anilist.co/anime/2154"
+    },
+    "k": {
+      "id": "1950",
+      "url": "https://kitsu.io/anime/1950"
+    },
+    "mal": {
+      "id": "2154",
+      "url": "https://myanimelist.net/anime/2154"
+    }
+  }
+}

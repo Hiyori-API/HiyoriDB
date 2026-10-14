@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3167,
+  "slug": "sougen-no-shoujo-laura",
+  "kind": "anime",
+  "title": "Sougen no Shoujo Laura",
+  "titles": {
+    "default": "Sougen no Shoujo Laura",
+    "romaji": "Sougen no Shoujo Laura",
+    "english": "Laura",
+    "native": "草原の少女ローラ"
+  },
+  "synonyms": [
+    "Sougen no Shoujo Laura",
+    "Laura",
+    "草原の少女ローラ",
+    "Laura The Prairie Girl",
+    "Laura, Girl of the Prairies"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 1975,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3822.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3822",
+      "url": "https://anilist.co/anime/3822"
+    },
+    "k": {
+      "id": "3276",
+      "url": "https://kitsu.io/anime/3276"
+    },
+    "mal": {
+      "id": "3822",
+      "url": "https://myanimelist.net/anime/3822"
+    }
+  }
+}

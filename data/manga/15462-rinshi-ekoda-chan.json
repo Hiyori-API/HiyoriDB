@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15462,
+  "slug": "rinshi-ekoda-chan",
+  "kind": "manga",
+  "title": "Rinshi!! Ekoda-chan",
+  "titles": {
+    "default": "Rinshi!! Ekoda-chan"
+  },
+  "synonyms": [
+    "Near Death!! Ekoda chan",
+    "臨死!!江古田ちゃん",
+    "Renai Soukanzu",
+    "恋愛相姦図",
+    "Renai Sokanzu",
+    "Pink Sweets"
+  ],
+  "type": "manga",
+  "chapters": 114,
+  "volumes": 8,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx72237-JIsFSMlDby4s.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10540",
+      "url": "https://anilist.co/anime/104009"
+    },
+    "al_manga": {
+      "id": "10540",
+      "url": "https://anilist.co/manga/10540"
+    }
+  }
+}

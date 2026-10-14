@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14058,
+  "slug": "koko-wa-greenwood",
+  "kind": "manga",
+  "title": "Koko wa Greenwood",
+  "titles": {
+    "default": "Koko wa Greenwood"
+  },
+  "synonyms": [
+    "Dareka: STRANGER",
+    "誰か―STRANGER―",
+    "Uchizawa to Watashi",
+    "内沢とわたし",
+    "Here is Greenwood",
+    "ここはグリーン・ウッド",
+    "Nemureru Mori no Binan",
+    "眠れる森美男",
+    "Sleeping Beauty Boy",
+    "The Handsome Man in the Sleeping Woods",
+    "The Sleeping Beauty Man",
+    "The Sleeping Male Beauty in the Woods"
+  ],
+  "type": "manga",
+  "chapters": 71,
+  "volumes": 11,
+  "status": "finished",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30921-fvtqAH3OSOQd.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1804",
+      "url": "https://anilist.co/anime/1804"
+    },
+    "al_manga": {
+      "id": "1804",
+      "url": "https://anilist.co/manga/1804"
+    }
+  }
+}

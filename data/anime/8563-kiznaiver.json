@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8563,
+  "slug": "kiznaiver",
+  "kind": "anime",
+  "title": "Kiznaiver",
+  "titles": {
+    "default": "Kiznaiver",
+    "romaji": "Kiznaiver",
+    "native": "キズナイーバー"
+  },
+  "synonyms": [
+    "Kiznaiver",
+    "キズナイーバー"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21421-5y8ryXsMB7aJ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21421",
+      "url": "https://anilist.co/anime/21421"
+    },
+    "cr": {
+      "id": "kiznaiver",
+      "url": "https://www.crunchyroll.com/series/kiznaiver"
+    },
+    "mal": {
+      "id": "31798",
+      "url": "https://myanimelist.net/anime/31798"
+    },
+    "tx": {
+      "id": "kiznaiver",
+      "url": "https://twitter.com/kiznaiver"
+    }
+  }
+}

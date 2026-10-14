@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9646,
+  "slug": "rokuhoudou-yotsuiro-biyori",
+  "kind": "anime",
+  "title": "Rokuhoudou Yotsuiro Biyori",
+  "titles": {
+    "default": "Rokuhoudou Yotsuiro Biyori",
+    "romaji": "Rokuhoudou Yotsuiro Biyori",
+    "english": "Yotsuiro Biyori",
+    "native": "鹿楓堂よついろ日和"
+  },
+  "synonyms": [
+    "Rokuhoudou Yotsuiro Biyori",
+    "Yotsuiro Biyori",
+    "鹿楓堂よついろ日和",
+    "鹿枫堂四色日和",
+    "High Score Girl",
+    "ハイスコアガール",
+    "Hi Score Girl"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b100727-GYoFpP6jtjT6.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "100727",
+      "url": "https://anilist.co/anime/100727"
+    },
+    "cr": {
+      "id": "Yotsuiro-Biyori",
+      "url": "https://www.crunchyroll.com/series/Yotsuiro-Biyori"
+    },
+    "k": {
+      "id": "8158",
+      "url": "https://kitsu.io/anime/8158"
+    },
+    "mal": {
+      "id": "36513",
+      "url": "https://myanimelist.net/anime/36513"
+    },
+    "nf": {
+      "id": "80997338",
+      "url": "https://www.netflix.com/title/80997338"
+    },
+    "tx": {
+      "id": "RokuhoudouAnime",
+      "url": "https://twitter.com/RokuhoudouAnime"
+    }
+  }
+}

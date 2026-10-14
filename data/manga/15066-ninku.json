@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15066,
+  "slug": "ninku",
+  "kind": "manga",
+  "title": "Ninku",
+  "titles": {
+    "default": "Ninku"
+  },
+  "synonyms": [
+    "Ninku",
+    "忍空",
+    "Dismember",
+    "Kaitai",
+    "解体"
+  ],
+  "type": "manga",
+  "chapters": 80,
+  "volumes": 9,
+  "status": "finished",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/11361.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "16345",
+      "url": "https://anilist.co/anime/912"
+    },
+    "al_manga": {
+      "id": "16345",
+      "url": "https://anilist.co/manga/16345"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11927,
+  "slug": "tekken-bloodline",
+  "kind": "anime",
+  "title": "Tekken: Bloodline",
+  "titles": {
+    "default": "Tekken: Bloodline",
+    "romaji": "Tekken: Bloodline"
+  },
+  "synonyms": [
+    "Tekken: Bloodline",
+    "鉄拳",
+    "Tekken: Кровні узи",
+    "Tekken: Узы крови",
+    "The Tatami Time Machine Blues",
+    "四畳半タイムマシンブルース",
+    "Yojouhan Time Machine Blues"
+  ],
+  "type": "ona",
+  "episodes": 6,
+  "status": "finished",
+  "season": "summer",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153906-FGzh9vn1bCCw.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "153906",
+      "url": "https://anilist.co/anime/153906"
+    },
+    "mal": {
+      "id": "51347",
+      "url": "https://myanimelist.net/anime/51347"
+    },
+    "nf": {
+      "id": "81002441",
+      "url": "https://www.netflix.com/title/81002441"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10618,
+  "slug": "isekai-harem-monogatari",
+  "kind": "anime",
+  "title": "Isekai Harem Monogatari",
+  "titles": {
+    "default": "Isekai Harem Monogatari",
+    "romaji": "Isekai Harem Monogatari",
+    "english": "Otherworld Harem Story",
+    "native": "異世界ハーレム物語"
+  },
+  "synonyms": [
+    "Isekai Harem Monogatari",
+    "Otherworld Harem Story",
+    "異世界ハーレム物語",
+    "Tales of a Harem in Another World",
+    "Tales of Harem",
+    "Step Up Love Story",
+    "Futari Ecchi",
+    "ふたりエッチ",
+    "Futari H"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "summer",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118166-bIpq0Yg0xWld.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "118166",
+      "url": "https://anilist.co/anime/118166"
+    },
+    "k": {
+      "id": "349",
+      "url": "https://kitsu.io/anime/349"
+    },
+    "mal": {
+      "id": "41848",
+      "url": "https://myanimelist.net/anime/41848"
+    }
+  }
+}

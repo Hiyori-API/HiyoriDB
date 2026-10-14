@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3456,
+  "slug": "moetan-specials",
+  "kind": "anime",
+  "title": "Moetan Specials",
+  "titles": {
+    "default": "Moetan Specials",
+    "romaji": "Moetan Specials",
+    "native": "もえたん 特別"
+  },
+  "synonyms": [
+    "Moetan Specials",
+    "もえたん 特別",
+    "初めてのデート",
+    "Hajimete no Date",
+    "世紀末覇者！魔法少女総進撃",
+    "Seikimatsu Hasha! Mahou Shoujo Sou Shingeki",
+    "Moetan",
+    "もえたん"
+  ],
+  "type": "special",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4421-MjK6aeYSLoim.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4421",
+      "url": "https://anilist.co/anime/4421"
+    },
+    "k": {
+      "id": "2145",
+      "url": "https://kitsu.io/anime/2145"
+    },
+    "mal": {
+      "id": "4421",
+      "url": "https://myanimelist.net/anime/4421"
+    }
+  }
+}

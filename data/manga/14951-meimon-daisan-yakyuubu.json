@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14951,
+  "slug": "meimon-daisan-yakyuubu",
+  "kind": "manga",
+  "title": "Meimon! Daisan Yakyuubu",
+  "titles": {
+    "default": "Meimon! Daisan Yakyuubu"
+  },
+  "synonyms": [
+    "名門! 第三野球部",
+    "Ranma ½",
+    "Ranma 1/2",
+    "らんま½"
+  ],
+  "type": "manga",
+  "chapters": 279,
+  "volumes": 31,
+  "status": "finished",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx174474-0OvuuHQ33vNm.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4121",
+      "url": "https://anilist.co/anime/4121"
+    },
+    "al_manga": {
+      "id": "4121",
+      "url": "https://anilist.co/manga/4121"
+    }
+  }
+}

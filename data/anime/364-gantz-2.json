@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 364,
+  "slug": "gantz-2",
+  "kind": "anime",
+  "title": "GANTZ 2",
+  "titles": {
+    "default": "GANTZ 2",
+    "romaji": "GANTZ 2",
+    "english": "Gantz: Second Stage"
+  },
+  "synonyms": [
+    "GANTZ 2",
+    "Gantz: Second Stage",
+    "ガンツ 2",
+    "Gantz - Second Stage",
+    "Gantz 2nd stage",
+    "Gantz 2nd Stage",
+    "ガンツ",
+    "Gantz *uncut*"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx395-vNu8TEbEL6qI.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "395",
+      "url": "https://anilist.co/anime/395"
+    },
+    "cr": {
+      "id": "gantz",
+      "url": "https://www.crunchyroll.com/series/gantz"
+    },
+    "k": {
+      "id": "362",
+      "url": "https://kitsu.io/anime/362"
+    },
+    "mal": {
+      "id": "395",
+      "url": "https://myanimelist.net/anime/395"
+    },
+    "nf": {
+      "id": "80133769",
+      "url": "https://www.netflix.com/title/80133769"
+    },
+    "t": {
+      "id": "11227",
+      "url": "https://trakt.tv/shows/11227"
+    }
+  }
+}

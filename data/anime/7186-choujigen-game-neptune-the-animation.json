@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7186,
+  "slug": "choujigen-game-neptune-the-animation",
+  "kind": "anime",
+  "title": "Choujigen Game Neptune THE ANIMATION",
+  "titles": {
+    "default": "Choujigen Game Neptune THE ANIMATION",
+    "romaji": "Choujigen Game Neptune THE ANIMATION",
+    "english": "Hyperdimension Neptunia",
+    "native": "超次元ゲイム ネプテューヌ THE ANIMATION"
+  },
+  "synonyms": [
+    "Choujigen Game Neptune THE ANIMATION",
+    "Hyperdimension Neptunia",
+    "超次元ゲイム ネプテューヌ THE ANIMATION",
+    "Kami Jigen Game Neptune V",
+    "Hyperdimension Neptunia Victory",
+    "Hyperdimension Neptunia: The Animation",
+    "초차원 게임 넵튠 : The Animation",
+    "Choujigen Game Neptune The Animation"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16157-GFIuj9e2Y8nK.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "16157",
+      "url": "https://anilist.co/anime/16157"
+    },
+    "cr": {
+      "id": "hyperdimension-neptunia",
+      "url": "https://www.crunchyroll.com/series/hyperdimension-neptunia"
+    },
+    "k": {
+      "id": "7379",
+      "url": "https://kitsu.io/anime/7379"
+    },
+    "mal": {
+      "id": "16157",
+      "url": "https://myanimelist.net/anime/16157"
+    },
+    "t": {
+      "id": "71766",
+      "url": "https://trakt.tv/shows/71766"
+    },
+    "tx": {
+      "id": "nep_anime",
+      "url": "https://twitter.com/nep_anime"
+    }
+  }
+}

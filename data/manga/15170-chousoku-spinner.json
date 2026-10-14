@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15170,
+  "slug": "chousoku-spinner",
+  "kind": "manga",
+  "title": "Chousoku Spinner",
+  "titles": {
+    "default": "Chousoku Spinner"
+  },
+  "synonyms": [
+    "Ultraspeed Spinner",
+    "超速スピナー",
+    "Kamikaze Kaito Jeanne",
+    "Kamikaze Kaitou Jeanne",
+    "Phantom Thief Jeanne",
+    "神風怪盗ジャンヌ",
+    "Divine Wind Phantom Thief Jeanne"
+  ],
+  "type": "manga",
+  "chapters": 40,
+  "volumes": 7,
+  "status": "finished",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b72137-bY7zo86parld.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2703",
+      "url": "https://anilist.co/anime/2703"
+    },
+    "al_manga": {
+      "id": "2703",
+      "url": "https://anilist.co/manga/2703"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11049,
+  "slug": "go-go-kadendanshi-season-2",
+  "kind": "anime",
+  "title": "Go! Go! Kadendanshi Season 2",
+  "titles": {
+    "default": "Go! Go! Kadendanshi Season 2",
+    "romaji": "Go! Go! Kadendanshi Season 2",
+    "native": "Go!Go!家電男子 シーズン2"
+  },
+  "synonyms": [
+    "Go! Go! Kadendanshi Season 2",
+    "Go!Go!家電男子 シーズン2",
+    "Go!Go!家電男子2",
+    "Go! Go! Kadendanshi 2nd Season"
+  ],
+  "type": "ona",
+  "episodes": 78,
+  "status": "finished",
+  "season": "spring",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b139678-otzekNeDb4GR.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "139678",
+      "url": "https://anilist.co/anime/139678"
+    },
+    "k": {
+      "id": "8990",
+      "url": "https://kitsu.io/anime/8990"
+    },
+    "mal": {
+      "id": "23857",
+      "url": "https://myanimelist.net/anime/23857"
+    },
+    "yt": {
+      "id": "kadendanshi",
+      "url": "https://www.youtube.com/watch?v=kadendanshi"
+    }
+  }
+}

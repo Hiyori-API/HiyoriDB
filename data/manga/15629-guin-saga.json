@@ -1,0 +1,31 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15629,
+  "slug": "guin-saga",
+  "kind": "manga",
+  "title": "Guin Saga",
+  "titles": {
+    "default": "Guin Saga"
+  },
+  "synonyms": [
+    "グイン・サーガ",
+    "Guin Saga"
+  ],
+  "type": "manga",
+  "volumes": 6,
+  "status": "finished",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx45150-HOG7XTeSSky2.png"
+  ],
+  "references": {
+    "al": {
+      "id": "5041",
+      "url": "https://anilist.co/anime/5041"
+    },
+    "al_manga": {
+      "id": "5041",
+      "url": "https://anilist.co/manga/5041"
+    }
+  }
+}

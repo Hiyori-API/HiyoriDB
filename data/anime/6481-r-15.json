@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6481,
+  "slug": "r-15",
+  "kind": "anime",
+  "title": "R-15",
+  "titles": {
+    "default": "R-15",
+    "romaji": "R-15",
+    "native": "あーるじゅうご"
+  },
+  "synonyms": [
+    "R-15",
+    "あーるじゅうご",
+    "Sacred Seven",
+    "セイクリッドセブン",
+    "Sacred 7"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10611-NRtcece5MQTG.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10611",
+      "url": "https://anilist.co/anime/10611"
+    },
+    "cr": {
+      "id": "r-15",
+      "url": "https://www.crunchyroll.com/series/r-15"
+    },
+    "k": {
+      "id": "6058",
+      "url": "https://kitsu.io/anime/6058"
+    },
+    "mal": {
+      "id": "10611",
+      "url": "https://myanimelist.net/anime/10611"
+    },
+    "t": {
+      "id": "42281",
+      "url": "https://trakt.tv/shows/42281"
+    }
+  }
+}

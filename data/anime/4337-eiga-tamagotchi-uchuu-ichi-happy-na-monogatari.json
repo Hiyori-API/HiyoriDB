@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4337,
+  "slug": "eiga-tamagotchi-uchuu-ichi-happy-na-monogatari",
+  "kind": "anime",
+  "title": "Eiga! Tamagotchi Uchuu Ichi Happy na Monogatari!?",
+  "titles": {
+    "default": "Eiga! Tamagotchi Uchuu Ichi Happy na Monogatari!?",
+    "romaji": "Eiga! Tamagotchi Uchuu Ichi Happy na Monogatari!?",
+    "native": "映画！たまごっち うちゅーいちハッピーな物語！？"
+  },
+  "synonyms": [
+    "Eiga! Tamagotchi Uchuu Ichi Happy na Monogatari!?",
+    "映画！たまごっち うちゅーいちハッピーな物語！？"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6517.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6517",
+      "url": "https://anilist.co/anime/6517"
+    },
+    "k": {
+      "id": "4590",
+      "url": "https://kitsu.io/anime/4590"
+    },
+    "mal": {
+      "id": "6517",
+      "url": "https://myanimelist.net/anime/6517"
+    }
+  }
+}

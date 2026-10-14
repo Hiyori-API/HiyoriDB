@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11421,
+  "slug": "yami-shibai-9",
+  "kind": "anime",
+  "title": "Yami Shibai 9",
+  "titles": {
+    "default": "Yami Shibai 9",
+    "romaji": "Yami Shibai 9",
+    "english": "Theatre of Darkness: Yamishibai 9",
+    "native": "闇芝居 9"
+  },
+  "synonyms": [
+    "Yami Shibai 9",
+    "Theatre of Darkness: Yamishibai 9",
+    "闇芝居 9",
+    "Yamishibai: Japanese Ghost Stories 9",
+    "เรื่องเล่าผีญี่ปุ่น ภาค 9",
+    "IDOLiSH7 3rd Season",
+    "Idolish Seven 3rd Season",
+    "IDOLISH7 Third BEAT!",
+    "アイドリッシュセブン Third BEAT!",
+    "IDOLiSH7 Third Beat!"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx135108-K5eosBMnj97L.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "135108",
+      "url": "https://anilist.co/anime/135108"
+    },
+    "cr": {
+      "id": "series/G6WEM1V36",
+      "url": "https://www.crunchyroll.com/series/series/G6WEM1V36"
+    },
+    "mal": {
+      "id": "49110",
+      "url": "https://myanimelist.net/anime/49110"
+    },
+    "tvt": {
+      "id": "yamishibai9",
+      "url": "http://www.tv-tokyo.co.jp/anime/yamishibai9"
+    }
+  }
+}

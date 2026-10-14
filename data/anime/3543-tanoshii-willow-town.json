@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3543,
+  "slug": "tanoshii-willow-town",
+  "kind": "anime",
+  "title": "Tanoshii Willow Town",
+  "titles": {
+    "default": "Tanoshii Willow Town",
+    "romaji": "Tanoshii Willow Town",
+    "native": "楽しいウイロータウン"
+  },
+  "synonyms": [
+    "Tanoshii Willow Town",
+    "楽しいウイロータウン",
+    "Fun Willow Town",
+    "O czym szumią wierzby"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4599.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4599",
+      "url": "https://anilist.co/anime/4599"
+    },
+    "k": {
+      "id": "3703",
+      "url": "https://kitsu.io/anime/3703"
+    },
+    "mal": {
+      "id": "4599",
+      "url": "https://myanimelist.net/anime/4599"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14384,
+  "slug": "kaze-no-stigma",
+  "kind": "manga",
+  "title": "Kaze no Stigma",
+  "titles": {
+    "default": "Kaze no Stigma"
+  },
+  "synonyms": [
+    "Kaze no Stigma - Kouen no Miko",
+    "Stigma of the Wind",
+    "風の聖痕 - 紅炎の御子",
+    "Kataomoi no Mukougawa",
+    "片想いの向こう側",
+    "Kataomoi no Mukou Gawa",
+    "Ano Kado o Magareba",
+    "Tenshi ga Kuretamono",
+    "Bitou na Koi",
+    "Kimi to Natsu no Aizu"
+  ],
+  "type": "manga",
+  "chapters": 11,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3237.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1691",
+      "url": "https://anilist.co/anime/1691"
+    },
+    "al_manga": {
+      "id": "1691",
+      "url": "https://anilist.co/manga/1691"
+    }
+  }
+}

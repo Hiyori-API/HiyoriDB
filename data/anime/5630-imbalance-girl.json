@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5630,
+  "slug": "imbalance-girl",
+  "kind": "anime",
+  "title": "Imbalance Girl",
+  "titles": {
+    "default": "Imbalance Girl",
+    "romaji": "Imbalance Girl",
+    "native": "アンバランスガール"
+  },
+  "synonyms": [
+    "Imbalance Girl",
+    "アンバランスガール",
+    "Kishin Houkou Demonbane",
+    "機神咆吼デモンベイン",
+    "Demonbane OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9270.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9270",
+      "url": "https://anilist.co/anime/9270"
+    },
+    "k": {
+      "id": "688",
+      "url": "https://kitsu.io/anime/688"
+    },
+    "mal": {
+      "id": "9270",
+      "url": "https://myanimelist.net/anime/9270"
+    }
+  }
+}

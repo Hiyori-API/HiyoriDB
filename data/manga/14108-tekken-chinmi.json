@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14108,
+  "slug": "tekken-chinmi",
+  "kind": "manga",
+  "title": "Tekken Chinmi",
+  "titles": {
+    "default": "Tekken Chinmi"
+  },
+  "synonyms": [
+    "Kung Fu Boy",
+    "Kung Fu Boy \"Chinmi\"",
+    "จินมี่หมัดเหล็ก",
+    "쿵후보이 친미",
+    "Ironfist Chinmi",
+    "鉄拳チンミ",
+    "مدرسة الكونغ فو",
+    "Tekken Chinmi",
+    "Kung Fu Boy Chinmi"
+  ],
+  "type": "manga",
+  "chapters": 162,
+  "volumes": 35,
+  "status": "finished",
+  "year": 1984,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31100-H26Ve4yzGUNv.png"
+  ],
+  "references": {
+    "al": {
+      "id": "4663",
+      "url": "https://anilist.co/anime/4663"
+    },
+    "al_manga": {
+      "id": "4663",
+      "url": "https://anilist.co/manga/4663"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15120,
+  "slug": "armitage-iii",
+  "kind": "manga",
+  "title": "Armitage III",
+  "titles": {
+    "default": "Armitage III"
+  },
+  "synonyms": [
+    "Armitage The Third",
+    "アミテージ・ザ・サード",
+    "Kare Kano: His and Her Circumstances",
+    "Kareshi Kanojo no Jijou",
+    "彼氏彼女の事情",
+    "His and Hers",
+    "The Tiger and the Chameleon: A Promise for One Week",
+    "Ashita Mata Mori de Aou ne",
+    "Meet Me Again Tomorrow in the Forest",
+    "KKNJ",
+    "Abareru Ousama",
+    "The Raging King"
+  ],
+  "type": "manga",
+  "chapters": 9,
+  "volumes": 2,
+  "status": "finished",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b55614-RpQb2CpJSdrM.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1079",
+      "url": "https://anilist.co/anime/1079"
+    },
+    "al_manga": {
+      "id": "1079",
+      "url": "https://anilist.co/manga/1079"
+    }
+  }
+}

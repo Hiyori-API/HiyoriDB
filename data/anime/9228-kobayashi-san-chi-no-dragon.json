@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9228,
+  "slug": "kobayashi-san-chi-no-dragon",
+  "kind": "anime",
+  "title": "Kobayashi-san Chi no ○○ Dragon",
+  "titles": {
+    "default": "Kobayashi-san Chi no ○○ Dragon",
+    "romaji": "Kobayashi-san Chi no ○○ Dragon",
+    "english": "Miss Kobayashi's Dragon Something",
+    "native": "小林さんちの○○ドラゴン"
+  },
+  "synonyms": [
+    "Kobayashi-san Chi no ○○ Dragon",
+    "Miss Kobayashi's Dragon Something",
+    "小林さんちの○○ドラゴン",
+    "Kobayashi-san Chi no OO Dragon",
+    "Miss Kobayashi's Anything Dragon",
+    "Kobayashi-san Chi no Marumaru Dragon",
+    "Maria Watches Over Us Specials",
+    "Maria-sama ga Miteru Specials",
+    "マリア様がみてる",
+    "MariMite",
+    "La Vierge Marie Vous Regarde",
+    "The Virgin Mary is Watching You"
+  ],
+  "type": "special",
+  "episodes": 7,
+  "status": "finished",
+  "season": "spring",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98502-uHajY0ZQcLix.png"
+  ],
+  "references": {
+    "al": {
+      "id": "98502",
+      "url": "https://anilist.co/anime/98502"
+    },
+    "k": {
+      "id": "136",
+      "url": "https://kitsu.io/anime/136"
+    },
+    "mal": {
+      "id": "35145",
+      "url": "https://myanimelist.net/anime/35145"
+    }
+  }
+}

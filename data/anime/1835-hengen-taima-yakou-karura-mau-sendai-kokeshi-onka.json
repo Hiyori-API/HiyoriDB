@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1835,
+  "slug": "hengen-taima-yakou-karura-mau-sendai-kokeshi-onka",
+  "kind": "anime",
+  "title": "Hengen Taima Yakou Karura Mau! Sendai Kokeshi Onka",
+  "titles": {
+    "default": "Hengen Taima Yakou Karura Mau! Sendai Kokeshi Onka",
+    "romaji": "Hengen Taima Yakou Karura Mau! Sendai Kokeshi Onka",
+    "native": "変幻退魔夜行 カルラ舞う！ 仙台小芥子怨歌"
+  },
+  "synonyms": [
+    "Hengen Taima Yakou Karura Mau! Sendai Kokeshi Onka",
+    "変幻退魔夜行 カルラ舞う！ 仙台小芥子怨歌",
+    "Hengentaimayakou Karuramau! Sendaikokeshienka",
+    "Hengentai Mayakou Karura Mau! Sendai Kokeshi Enka",
+    "Devil Hunter Yohko",
+    "Mamono Hunter Youko",
+    "魔物ハンター妖子",
+    "Demon Hunter Youko",
+    "Mamono Hunter Yohko"
+  ],
+  "type": "ova",
+  "episodes": 6,
+  "status": "finished",
+  "season": "fall",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2073.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2073",
+      "url": "https://anilist.co/anime/2073"
+    },
+    "k": {
+      "id": "1155",
+      "url": "https://kitsu.io/anime/1155"
+    },
+    "mal": {
+      "id": "2073",
+      "url": "https://myanimelist.net/anime/2073"
+    }
+  }
+}

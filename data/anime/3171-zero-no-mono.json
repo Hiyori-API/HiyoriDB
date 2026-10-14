@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3171,
+  "slug": "zero-no-mono",
+  "kind": "anime",
+  "title": "Zero no Mono",
+  "titles": {
+    "default": "Zero no Mono",
+    "romaji": "Zero no Mono",
+    "native": "ゼロの者"
+  },
+  "synonyms": [
+    "Zero no Mono",
+    "ゼロの者",
+    "Kai Doh Maru",
+    "怪童丸",
+    "Kaidoumaru",
+    "Kaidomaru"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3826.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3826",
+      "url": "https://anilist.co/anime/3826"
+    },
+    "k": {
+      "id": "1457",
+      "url": "https://kitsu.io/anime/1457"
+    },
+    "mal": {
+      "id": "3826",
+      "url": "https://myanimelist.net/anime/3826"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10027,
+  "slug": "trinity-seven-movie-tenkuu-toshokan-to-shinku-no-maou",
+  "kind": "anime",
+  "title": "Trinity Seven Movie - Tenkuu Toshokan to Shinku no Maou",
+  "titles": {
+    "default": "Trinity Seven Movie - Tenkuu Toshokan to Shinku no Maou",
+    "romaji": "Trinity Seven Movie - Tenkuu Toshokan to Shinku no Maou",
+    "english": "Trinity Seven: Heavens Library & Crimson Lord",
+    "native": "劇場版トリニティセブン -天空図書館と真紅の魔王"
+  },
+  "synonyms": [
+    "Trinity Seven Movie - Tenkuu Toshokan to Shinku no Maou",
+    "Trinity Seven: Heavens Library & Crimson Lord",
+    "劇場版トリニティセブン -天空図書館と真紅の魔王",
+    "Trinity Seven Movie 2",
+    "Cencoroll 2",
+    "センコロール"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103631-LUdp603NQ36A.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "103631",
+      "url": "https://anilist.co/anime/103631"
+    },
+    "cr": {
+      "id": "trinity-seven",
+      "url": "https://www.crunchyroll.com/series/trinity-seven"
+    },
+    "k": {
+      "id": "5749",
+      "url": "https://kitsu.io/anime/5749"
+    },
+    "mal": {
+      "id": "37986",
+      "url": "https://myanimelist.net/anime/37986"
+    },
+    "tx": {
+      "id": "TrinitySeven_PR",
+      "url": "https://twitter.com/TrinitySeven_PR"
+    }
+  }
+}

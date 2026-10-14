@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14710,
+  "slug": "wansa-kun",
+  "kind": "manga",
+  "title": "Wansa-kun",
+  "titles": {
+    "default": "Wansa-kun"
+  },
+  "synonyms": [
+    "Little Wansa",
+    "ワンサくん",
+    "Again",
+    "アゲイン"
+  ],
+  "type": "manga",
+  "chapters": 4,
+  "volumes": 1,
+  "status": "finished",
+  "year": 1971,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx59617-7JELYjfABgGu.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6868",
+      "url": "https://anilist.co/anime/6868"
+    },
+    "al_manga": {
+      "id": "6868",
+      "url": "https://anilist.co/manga/6868"
+    }
+  }
+}

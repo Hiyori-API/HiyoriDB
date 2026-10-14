@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6599,
+  "slug": "justeen",
+  "kind": "anime",
+  "title": "Justeen",
+  "titles": {
+    "default": "Justeen",
+    "romaji": "Justeen",
+    "native": "ジャスティーン"
+  },
+  "synonyms": [
+    "Justeen",
+    "ジャスティーン",
+    "Armored Trooper Votoms: Alone Again",
+    "Soukou Kihei Votoms: Koei Futatabi",
+    "装甲騎兵ボトムズ 孤影再び",
+    "Soko Kihei Votoms: Koei Futatabi",
+    "Armored Trooper VOTOMS: Chirico’s Return"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11767-Tyn2eT6LzP9D.png"
+  ],
+  "references": {
+    "al": {
+      "id": "11767",
+      "url": "https://anilist.co/anime/11767"
+    },
+    "k": {
+      "id": "5270",
+      "url": "https://kitsu.io/anime/5270"
+    },
+    "mal": {
+      "id": "11767",
+      "url": "https://myanimelist.net/anime/11767"
+    }
+  }
+}

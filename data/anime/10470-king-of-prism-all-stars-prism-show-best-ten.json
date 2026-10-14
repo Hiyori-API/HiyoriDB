@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10470,
+  "slug": "king-of-prism-all-stars-prism-show-best-ten",
+  "kind": "anime",
+  "title": "KING OF PRISM ALL STARS: Prism Show☆Best Ten",
+  "titles": {
+    "default": "KING OF PRISM ALL STARS: Prism Show☆Best Ten",
+    "romaji": "KING OF PRISM ALL STARS: Prism Show☆Best Ten",
+    "native": "KING OF PRISM ALL STARS -プリズムショー☆ベストテン-"
+  },
+  "synonyms": [
+    "KING OF PRISM ALL STARS: Prism Show☆Best Ten",
+    "KING OF PRISM ALL STARS -プリズムショー☆ベストテン-",
+    "King of Prism All Stars: Prism Show☆Best Ten"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112480-E5eGMMMpi0cw.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "112480",
+      "url": "https://anilist.co/anime/112480"
+    },
+    "mal": {
+      "id": "40543",
+      "url": "https://myanimelist.net/anime/40543"
+    }
+  }
+}

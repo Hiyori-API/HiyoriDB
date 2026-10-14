@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11689,
+  "slug": "shin-tennis-no-ouji-sama-u-17-world-cup",
+  "kind": "anime",
+  "title": "Shin Tennis no Ouji-sama: U-17 WORLD CUP",
+  "titles": {
+    "default": "Shin Tennis no Ouji-sama: U-17 WORLD CUP",
+    "romaji": "Shin Tennis no Ouji-sama: U-17 WORLD CUP",
+    "english": "The Prince of Tennis II U-17 World Cup",
+    "native": "新テニスの王子様 U-17 WORLD CUP"
+  },
+  "synonyms": [
+    "Shin Tennis no Ouji-sama: U-17 WORLD CUP",
+    "The Prince of Tennis II U-17 World Cup",
+    "新テニスの王子様 U-17 WORLD CUP",
+    "New Prince of Tennis: U-17 WORLD CUP",
+    "Call of the Night",
+    "よふかしのうた",
+    "Yofukashi no Uta"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140187-q9sCHP66unws.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "140187",
+      "url": "https://anilist.co/anime/140187"
+    },
+    "cr": {
+      "id": "series/G65VP3106/the-prince-of-tennis-ii",
+      "url": "https://www.crunchyroll.com/series/series/G65VP3106/the-prince-of-tennis-ii"
+    },
+    "mal": {
+      "id": "50099",
+      "url": "https://myanimelist.net/anime/50099"
+    },
+    "tx": {
+      "id": "shintenianime",
+      "url": "https://twitter.com/shintenianime"
+    }
+  }
+}

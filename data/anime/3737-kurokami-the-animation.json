@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3737,
+  "slug": "kurokami-the-animation",
+  "kind": "anime",
+  "title": "Kurokami The Animation",
+  "titles": {
+    "default": "Kurokami The Animation",
+    "romaji": "Kurokami The Animation",
+    "english": "Black God",
+    "native": "黒神 The Animation"
+  },
+  "synonyms": [
+    "Kurokami The Animation",
+    "Black God",
+    "黒神 The Animation",
+    "Kurokami",
+    "Kurogami",
+    "Kuro Kami",
+    "Dark God"
+  ],
+  "type": "tv",
+  "episodes": 23,
+  "status": "finished",
+  "season": "winter",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5079-GGC5BR9xIiE0.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5079",
+      "url": "https://anilist.co/anime/5079"
+    },
+    "k": {
+      "id": "3917",
+      "url": "https://kitsu.io/anime/3917"
+    },
+    "mal": {
+      "id": "5079",
+      "url": "https://myanimelist.net/anime/5079"
+    },
+    "t": {
+      "id": "60961",
+      "url": "https://trakt.tv/shows/60961"
+    }
+  }
+}

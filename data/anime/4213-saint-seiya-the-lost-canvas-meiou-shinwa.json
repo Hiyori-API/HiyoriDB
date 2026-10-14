@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4213,
+  "slug": "saint-seiya-the-lost-canvas-meiou-shinwa",
+  "kind": "anime",
+  "title": "Saint Seiya: THE LOST CANVAS - Meiou Shinwa",
+  "titles": {
+    "default": "Saint Seiya: THE LOST CANVAS - Meiou Shinwa",
+    "romaji": "Saint Seiya: THE LOST CANVAS - Meiou Shinwa",
+    "english": "Saint Seiya: The Lost Canvas",
+    "native": "聖闘士星矢 THE LOST CANVAS 冥王神話"
+  },
+  "synonyms": [
+    "Saint Seiya: THE LOST CANVAS - Meiou Shinwa",
+    "Saint Seiya: The Lost Canvas",
+    "聖闘士星矢 THE LOST CANVAS 冥王神話",
+    "Los Guerreros del Zodiaco: El lienzo perdido",
+    "Os Cavaleiros do Zodíaco: The Lost Canvas",
+    "Saint Seiya: The Lost Canvas - Meiou Shinwa"
+  ],
+  "type": "ova",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6171-DO60x2e7jEjg.png"
+  ],
+  "references": {
+    "al": {
+      "id": "6171",
+      "url": "https://anilist.co/anime/6171"
+    },
+    "cr": {
+      "id": "saint-seiya-the-lost-canvas",
+      "url": "https://www.crunchyroll.com/series/saint-seiya-the-lost-canvas"
+    },
+    "k": {
+      "id": "4458",
+      "url": "https://kitsu.io/anime/4458"
+    },
+    "mal": {
+      "id": "6171",
+      "url": "https://myanimelist.net/anime/6171"
+    },
+    "nf": {
+      "id": "70273371",
+      "url": "https://www.netflix.com/title/70273371"
+    }
+  }
+}

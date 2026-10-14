@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6096,
+  "slug": "kuttsukiboshi",
+  "kind": "anime",
+  "title": "Kuttsukiboshi",
+  "titles": {
+    "default": "Kuttsukiboshi",
+    "romaji": "Kuttsukiboshi",
+    "native": "くっつきぼし"
+  },
+  "synonyms": [
+    "Kuttsukiboshi",
+    "くっつきぼし"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9014-UXVMlqhBqjSs.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9014",
+      "url": "https://anilist.co/anime/9014"
+    },
+    "k": {
+      "id": "5576",
+      "url": "https://kitsu.io/anime/5576"
+    },
+    "mal": {
+      "id": "9014",
+      "url": "https://myanimelist.net/anime/9014"
+    }
+  }
+}

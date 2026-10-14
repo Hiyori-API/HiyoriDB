@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12911,
+  "slug": "nihon-e-youkoso-elf-san",
+  "kind": "anime",
+  "title": "Nihon e Youkoso Elf-san.",
+  "titles": {
+    "default": "Nihon e Youkoso Elf-san.",
+    "romaji": "Nihon e Youkoso Elf-san.",
+    "english": "Welcome to Japan, Ms. Elf!",
+    "native": "日本へようこそエルフさん。"
+  },
+  "synonyms": [
+    "Nihon e Youkoso Elf-san.",
+    "Welcome to Japan, Ms. Elf!",
+    "日本へようこそエルフさん。",
+    "歡迎來到日本，妖精小姐。"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172439-sTda7baXB0Fh.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "172439",
+      "url": "https://anilist.co/anime/172439"
+    },
+    "cr": {
+      "id": "series/G24H1NWWE/welcome-to-japan-ms-elf",
+      "url": "https://www.crunchyroll.com/series/series/G24H1NWWE/welcome-to-japan-ms-elf"
+    },
+    "mal": {
+      "id": "57648",
+      "url": "https://myanimelist.net/anime/57648"
+    },
+    "tx": {
+      "id": "welcome_elfsan",
+      "url": "https://twitter.com/welcome_elfsan"
+    }
+  }
+}

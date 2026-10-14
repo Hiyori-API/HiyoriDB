@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15040,
+  "slug": "akazukin-chacha",
+  "kind": "manga",
+  "title": "Akazukin Chacha",
+  "titles": {
+    "default": "Akazukin Chacha"
+  },
+  "synonyms": [
+    "Red Riding Hood Chacha",
+    "Akazukin Cha Cha",
+    "Akazukin Chacha",
+    "赤ずきんチャチャ",
+    "Fushigi Yugi",
+    "Fushigi Yuugi",
+    "ふしぎ遊戯",
+    "Mysterious Play",
+    "Curious Play"
+  ],
+  "type": "manga",
+  "chapters": 94,
+  "volumes": 13,
+  "status": "finished",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b37270-QC7oRwBPoYmn.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "367",
+      "url": "https://anilist.co/anime/103"
+    },
+    "al_manga": {
+      "id": "367",
+      "url": "https://anilist.co/manga/367"
+    }
+  }
+}

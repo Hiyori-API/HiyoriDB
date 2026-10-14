@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6469,
+  "slug": "kamisama-no-memochou",
+  "kind": "anime",
+  "title": "Kamisama no Memochou",
+  "titles": {
+    "default": "Kamisama no Memochou",
+    "romaji": "Kamisama no Memochou",
+    "english": "Heaven's Memo Pad",
+    "native": "神様のメモ帳"
+  },
+  "synonyms": [
+    "Kamisama no Memochou",
+    "Heaven's Memo Pad",
+    "神様のメモ帳",
+    "It's the Only NEET Thing to Do",
+    "Kami-sama no Memo-chou",
+    "Kamisama no Memo-chou",
+    "God's Notebook",
+    "Kamisama no Memo-chou: It's the Only NEET Thing to Do.",
+    "ผ่าคดีลับนักสืบนีท",
+    "Blade",
+    "ブレイド"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10568-QZbLhgMAQC76.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10568",
+      "url": "https://anilist.co/anime/10568"
+    },
+    "k": {
+      "id": "4787",
+      "url": "https://kitsu.io/anime/4787"
+    },
+    "mal": {
+      "id": "10568",
+      "url": "https://myanimelist.net/anime/10568"
+    },
+    "t": {
+      "id": "63435",
+      "url": "https://trakt.tv/shows/63435"
+    }
+  }
+}

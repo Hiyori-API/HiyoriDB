@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6135,
+  "slug": "shoujo-senki-soul-eater",
+  "kind": "anime",
+  "title": "Shoujo Senki Soul Eater",
+  "titles": {
+    "default": "Shoujo Senki Soul Eater",
+    "romaji": "Shoujo Senki Soul Eater",
+    "native": "少女戦機 ソウルイーター"
+  },
+  "synonyms": [
+    "Shoujo Senki Soul Eater",
+    "少女戦機 ソウルイーター",
+    "Ruin Arms Soul Eater",
+    "Votoms Finder Armored Trooperoid",
+    "Votoms Finder",
+    "ボトムズファインダー"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9328.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9328",
+      "url": "https://anilist.co/anime/9328"
+    },
+    "k": {
+      "id": "5269",
+      "url": "https://kitsu.io/anime/5269"
+    },
+    "mal": {
+      "id": "9328",
+      "url": "https://myanimelist.net/anime/9328"
+    }
+  }
+}

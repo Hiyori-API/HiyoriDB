@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7809,
+  "slug": "imako-system",
+  "kind": "anime",
+  "title": "Imako System",
+  "titles": {
+    "default": "Imako System",
+    "romaji": "Imako System",
+    "native": "イマコシステム"
+  },
+  "synonyms": [
+    "Imako System",
+    "イマコシステム",
+    "Wild Adapter",
+    "ワイルドアダプター"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20874.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "20874",
+      "url": "https://anilist.co/anime/20874"
+    },
+    "k": {
+      "id": "7046",
+      "url": "https://kitsu.io/anime/7046"
+    },
+    "mal": {
+      "id": "21513",
+      "url": "https://myanimelist.net/anime/21513"
+    }
+  }
+}

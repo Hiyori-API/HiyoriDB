@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7223,
+  "slug": "higurashi-no-naku-koro-ni-kaku-outbreak",
+  "kind": "anime",
+  "title": "Higurashi no Naku Koro ni Kaku: Outbreak",
+  "titles": {
+    "default": "Higurashi no Naku Koro ni Kaku: Outbreak",
+    "romaji": "Higurashi no Naku Koro ni Kaku: Outbreak",
+    "native": "ひぐらしのなく頃に拡〜アウトブレイク〜"
+  },
+  "synonyms": [
+    "Higurashi no Naku Koro ni Kaku: Outbreak",
+    "ひぐらしのなく頃に拡〜アウトブレイク〜",
+    "When They Cry Kaku: Outbreak",
+    "쓰르라미 울 적에 확 -아웃브레이크-",
+    "When They Cry: Outbreak",
+    "When They Cry - Outbreak"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16700.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "16700",
+      "url": "https://anilist.co/anime/16700"
+    },
+    "k": {
+      "id": "7494",
+      "url": "https://kitsu.io/anime/7494"
+    },
+    "mal": {
+      "id": "16700",
+      "url": "https://myanimelist.net/anime/16700"
+    }
+  }
+}

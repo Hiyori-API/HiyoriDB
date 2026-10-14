@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15750,
+  "slug": "inazuma-eleven",
+  "kind": "manga",
+  "title": "Inazuma Eleven",
+  "titles": {
+    "default": "Inazuma Eleven"
+  },
+  "synonyms": [
+    "Inazuma 11",
+    "イナズマイレブン",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "chapters": 42,
+  "volumes": 10,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx49315-2AqZShRMXyfx.png"
+  ],
+  "references": {
+    "al": {
+      "id": "5231",
+      "url": "https://anilist.co/anime/5231"
+    },
+    "al_manga": {
+      "id": "5231",
+      "url": "https://anilist.co/manga/5231"
+    },
+    "tx": {
+      "id": "inazuma_project",
+      "url": "https://twitter.com/inazuma_project"
+    }
+  }
+}

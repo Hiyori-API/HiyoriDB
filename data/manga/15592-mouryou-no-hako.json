@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15592,
+  "slug": "mouryou-no-hako",
+  "kind": "manga",
+  "title": "Mouryou no Hako",
+  "titles": {
+    "default": "Mouryou no Hako"
+  },
+  "synonyms": [
+    "Mouryou no Kou",
+    "Box of Goblins",
+    "Moryo's Box",
+    "Kyougokudou",
+    "Hyakki Yakou Series 2",
+    "Le Coffre aux Esprits",
+    "魍魎の匣",
+    "Kataomoi no Mukougawa",
+    "片想いの向こう側",
+    "Kataomoi no Mukou Gawa",
+    "Ano Kado o Magareba",
+    "Tenshi ga Kuretamono",
+    "Bitou na Koi",
+    "Kimi to Natsu no Aizu"
+  ],
+  "type": "manga",
+  "chapters": 10,
+  "volumes": 5,
+  "status": "finished",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx38893-SEqWwBXDp249.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4879",
+      "url": "https://anilist.co/anime/4879"
+    },
+    "al_manga": {
+      "id": "4879",
+      "url": "https://anilist.co/manga/4879"
+    }
+  }
+}

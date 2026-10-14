@@ -1,0 +1,68 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 474,
+  "slug": "tenkuu-no-shiro-laputa",
+  "kind": "anime",
+  "title": "Tenkuu no Shiro Laputa",
+  "titles": {
+    "default": "Tenkuu no Shiro Laputa",
+    "romaji": "Tenkuu no Shiro Laputa",
+    "english": "Castle in the Sky",
+    "native": "天空の城ラピュタ"
+  },
+  "synonyms": [
+    "Tenkuu no Shiro Laputa",
+    "Castle in the Sky",
+    "天空の城ラピュタ",
+    "Tenkuu no Shiro Rapyuta",
+    "Das Schloss im Himmel",
+    "El Castillo en el Cielo",
+    "O Castelo no Céu",
+    "Le Château dans le ciel",
+    "Gökteki Kale",
+    "Laputa - Castello nel cielo",
+    "Castello nel cielo",
+    "قلعة في السماء",
+    "Лапута: Замъкът в небето",
+    "Laputa: Zámek v oblacích",
+    "Laputa – podniebny zamek",
+    "Laputa - Himmelslottet",
+    "Небесный замок Лапута",
+    "Το Κάστρο στον Ουρανό",
+    "Laputa - Az égi palota",
+    "Laputa – slottet i himlen",
+    "Laputa: fljúgandi kastalinn",
+    "Once Upon A Time",
+    "Windaria",
+    "ウインダリア, 童話めいた戦史ウインダリア",
+    "Tales of Windaria",
+    "Windaria: Legend of Fabulous Battle",
+    "Douwa meita senshi Windaria"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx513-yM7Dlt65N4Rl.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "513",
+      "url": "https://anilist.co/anime/513"
+    },
+    "k": {
+      "id": "1013",
+      "url": "https://kitsu.io/anime/1013"
+    },
+    "mal": {
+      "id": "513",
+      "url": "https://myanimelist.net/anime/513"
+    },
+    "nf": {
+      "id": "60027393",
+      "url": "https://www.netflix.com/title/60027393"
+    }
+  }
+}

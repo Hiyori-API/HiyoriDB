@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6293,
+  "slug": "break-blade-5-shisen-no-hate",
+  "kind": "anime",
+  "title": "Break Blade 5: Shisen no Hate",
+  "titles": {
+    "default": "Break Blade 5: Shisen no Hate",
+    "romaji": "Break Blade 5: Shisen no Hate",
+    "english": "Broken Blade 5",
+    "native": "ブレイク ブレイド 死線ノ涯"
+  },
+  "synonyms": [
+    "Break Blade 5: Shisen no Hate",
+    "Broken Blade 5",
+    "ブレイク ブレイド 死線ノ涯",
+    "Breaker Blade 5",
+    "Break Blade 5: Border of Death"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b9724-HonFjiMT9QHy.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9724",
+      "url": "https://anilist.co/anime/9724"
+    },
+    "k": {
+      "id": "5837",
+      "url": "https://kitsu.io/anime/5837"
+    },
+    "mal": {
+      "id": "9724",
+      "url": "https://myanimelist.net/anime/9724"
+    }
+  }
+}

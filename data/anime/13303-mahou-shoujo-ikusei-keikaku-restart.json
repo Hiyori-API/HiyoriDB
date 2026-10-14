@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13303,
+  "slug": "mahou-shoujo-ikusei-keikaku-restart",
+  "kind": "anime",
+  "title": "Mahou Shoujo Ikusei Keikaku: restart",
+  "titles": {
+    "default": "Mahou Shoujo Ikusei Keikaku: restart",
+    "romaji": "Mahou Shoujo Ikusei Keikaku: restart",
+    "english": "MAGICAL GIRL RAISING PROJECT restart",
+    "native": "魔法少女育成計画 restart"
+  },
+  "synonyms": [
+    "Mahou Shoujo Ikusei Keikaku: restart",
+    "MAGICAL GIRL RAISING PROJECT restart",
+    "魔法少女育成計画 restart",
+    "まほいく",
+    "MahoIku",
+    "One Piece",
+    "ONE PIECE",
+    "ワンピース"
+  ],
+  "type": "tv",
+  "status": "airing",
+  "season": "fall",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx160803-Rcr3IvhE7q9c.png"
+  ],
+  "references": {
+    "al": {
+      "id": "160803",
+      "url": "https://anilist.co/anime/160803"
+    },
+    "cr": {
+      "id": "one-piece",
+      "url": "https://www.crunchyroll.com/series/one-piece"
+    },
+    "k": {
+      "id": "12",
+      "url": "https://kitsu.io/anime/12"
+    },
+    "mal": {
+      "id": "54344",
+      "url": "https://myanimelist.net/anime/54344"
+    },
+    "t": {
+      "id": "37696",
+      "url": "https://trakt.tv/shows/37696"
+    },
+    "tx": {
+      "id": "monthlyMGRP",
+      "url": "https://twitter.com/mahoiku_anime"
+    }
+  }
+}

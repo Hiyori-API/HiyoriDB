@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13319,
+  "slug": "dorohedoro-season-2",
+  "kind": "anime",
+  "title": "Dorohedoro Season 2",
+  "titles": {
+    "default": "Dorohedoro Season 2",
+    "romaji": "Dorohedoro Season 2",
+    "native": "ドロヘドロ Season 2"
+  },
+  "synonyms": [
+    "Dorohedoro Season 2",
+    "ドロヘドロ Season 2",
+    "Дорохедоро 2",
+    "สาปพันธุ์อสูร ซีซั่น2",
+    "ドロヘドロ Season2"
+  ],
+  "type": "ona",
+  "episodes": 11,
+  "status": "finished",
+  "season": "spring",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx173172-404XnuOS0DhR.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "173172",
+      "url": "https://anilist.co/anime/173172"
+    },
+    "cr": {
+      "id": "series/GT00371893/dorohedoro",
+      "url": "https://www.crunchyroll.com/series/series/GT00371893/dorohedoro"
+    },
+    "mal": {
+      "id": "57779",
+      "url": "https://myanimelist.net/anime/57779"
+    },
+    "nf": {
+      "id": "80991903",
+      "url": "https://www.netflix.com/title/80991903"
+    },
+    "tx": {
+      "id": "dorohedoro_PR",
+      "url": "https://twitter.com/dorohedoro_PR"
+    }
+  }
+}

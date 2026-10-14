@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 81,
+  "slug": "air",
+  "kind": "anime",
+  "title": "AIR",
+  "titles": {
+    "default": "AIR",
+    "romaji": "AIR",
+    "english": "Air"
+  },
+  "synonyms": [
+    "AIR",
+    "Air",
+    "Air TV",
+    "Magical Kanan",
+    "Magical Canan",
+    "まじかるカナン",
+    "Mahou Canan"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101-8ugQ3UjUQ8Ki.png"
+  ],
+  "references": {
+    "al": {
+      "id": "101",
+      "url": "https://anilist.co/anime/101"
+    },
+    "k": {
+      "id": "316",
+      "url": "https://kitsu.io/anime/316"
+    },
+    "mal": {
+      "id": "101",
+      "url": "https://myanimelist.net/anime/101"
+    },
+    "t": {
+      "id": "64194",
+      "url": "https://trakt.tv/shows/64194"
+    }
+  }
+}

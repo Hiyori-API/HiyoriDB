@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10581,
+  "slug": "kimi-wa-kanata",
+  "kind": "anime",
+  "title": "Kimi wa Kanata",
+  "titles": {
+    "default": "Kimi wa Kanata",
+    "romaji": "Kimi wa Kanata",
+    "english": "Over the Sky",
+    "native": "君は彼方"
+  },
+  "synonyms": [
+    "Kimi wa Kanata",
+    "Over the Sky",
+    "君は彼方",
+    "You are Beyond",
+    "Além do Céu",
+    "Tu sei al di là",
+    "Dragon Ball Movie 1: Curse of the Blood Rubies",
+    "Dragon Ball Movie 1: Shen Long no Densetsu",
+    "ドラゴンボール 神龍の伝説"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116226-Pvs82HwToipq.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "116226",
+      "url": "https://anilist.co/anime/116226"
+    },
+    "cr": {
+      "id": "series/G24H1N5JG/over-the-sky",
+      "url": "https://www.crunchyroll.com/series/series/G24H1N5JG/over-the-sky"
+    },
+    "k": {
+      "id": "461",
+      "url": "https://kitsu.io/anime/461"
+    },
+    "mal": {
+      "id": "41379",
+      "url": "https://myanimelist.net/anime/41379"
+    },
+    "tx": {
+      "id": "kimikana_movie",
+      "url": "https://twitter.com/kimikana_movie"
+    }
+  }
+}

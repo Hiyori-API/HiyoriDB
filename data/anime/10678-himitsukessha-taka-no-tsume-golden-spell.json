@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10678,
+  "slug": "himitsukessha-taka-no-tsume-golden-spell",
+  "kind": "anime",
+  "title": "Himitsukessha Taka no Tsume: Golden Spell",
+  "titles": {
+    "default": "Himitsukessha Taka no Tsume: Golden Spell",
+    "romaji": "Himitsukessha Taka no Tsume: Golden Spell",
+    "english": "Eagle Talon: Golden Spell",
+    "native": "秘密結社 鷹の爪 ～ゴールデン・スペル～"
+  },
+  "synonyms": [
+    "Himitsukessha Taka no Tsume: Golden Spell",
+    "Eagle Talon: Golden Spell",
+    "秘密結社 鷹の爪 ～ゴールデン・スペル～",
+    "Ring ni Kakero 1",
+    "リングにかけろ１",
+    "Put it all in the Ring"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx125153-ROvjT0nsLAwa.png"
+  ],
+  "references": {
+    "al": {
+      "id": "125153",
+      "url": "https://anilist.co/anime/125153"
+    },
+    "cr": {
+      "id": "eagle-talon-golden-spell",
+      "url": "https://www.crunchyroll.com/series/eagle-talon-golden-spell"
+    },
+    "k": {
+      "id": "14",
+      "url": "https://kitsu.io/anime/14"
+    },
+    "mal": {
+      "id": "42657",
+      "url": "https://myanimelist.net/anime/42657"
+    },
+    "t": {
+      "id": "69507",
+      "url": "https://trakt.tv/shows/69507"
+    }
+  }
+}

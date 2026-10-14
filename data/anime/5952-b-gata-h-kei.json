@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5952,
+  "slug": "b-gata-h-kei",
+  "kind": "anime",
+  "title": "B Gata H Kei",
+  "titles": {
+    "default": "B Gata H Kei",
+    "romaji": "B Gata H Kei",
+    "english": "Yamada's First Time: B Gata H Kei",
+    "native": "B型H系"
+  },
+  "synonyms": [
+    "B Gata H Kei",
+    "Yamada's First Time: B Gata H Kei",
+    "B型H系",
+    "Yamada ma première fois",
+    "B-gata H-kei"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx7817-6kYE5LRNoL97.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7817",
+      "url": "https://anilist.co/anime/7817"
+    },
+    "cr": {
+      "id": "yamadas-first-time-b-gata-h-kei",
+      "url": "https://www.crunchyroll.com/series/yamadas-first-time-b-gata-h-kei"
+    },
+    "k": {
+      "id": "5134",
+      "url": "https://kitsu.io/anime/5134"
+    },
+    "mal": {
+      "id": "7817",
+      "url": "https://myanimelist.net/anime/7817"
+    },
+    "t": {
+      "id": "45713",
+      "url": "https://trakt.tv/shows/45713"
+    }
+  }
+}

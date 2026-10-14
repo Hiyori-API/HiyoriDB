@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5365,
+  "slug": "bakumatsu-no-spasibo",
+  "kind": "anime",
+  "title": "Bakumatsu no Spasibo",
+  "titles": {
+    "default": "Bakumatsu no Spasibo",
+    "romaji": "Bakumatsu no Spasibo",
+    "native": "幕末のスパシーボ"
+  },
+  "synonyms": [
+    "Bakumatsu no Spasibo",
+    "幕末のスパシーボ",
+    "Bakumatsu no Supashiibo",
+    "The Day the Earth Moved",
+    "Chikyuu ga Ugoita Hi",
+    "地球が動いた日"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx8092-wou1IckOZR1X.png"
+  ],
+  "references": {
+    "al": {
+      "id": "8092",
+      "url": "https://anilist.co/anime/8092"
+    },
+    "k": {
+      "id": "2642",
+      "url": "https://kitsu.io/anime/2642"
+    },
+    "mal": {
+      "id": "8092",
+      "url": "https://myanimelist.net/anime/8092"
+    }
+  }
+}

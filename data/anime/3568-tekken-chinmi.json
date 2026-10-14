@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3568,
+  "slug": "tekken-chinmi",
+  "kind": "anime",
+  "title": "Tekken Chinmi",
+  "titles": {
+    "default": "Tekken Chinmi",
+    "romaji": "Tekken Chinmi",
+    "english": "Iron Fist Chinmi",
+    "native": "鉄拳チンミ"
+  },
+  "synonyms": [
+    "Tekken Chinmi",
+    "Iron Fist Chinmi",
+    "鉄拳チンミ",
+    "Ironfist Chinmi",
+    "จินมี่หมัดเหล็ก",
+    "Kung Fu Boy"
+  ],
+  "type": "tv",
+  "episodes": 20,
+  "status": "finished",
+  "season": "summer",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4663-5Xf9Mmx1p8vG.png"
+  ],
+  "references": {
+    "al": {
+      "id": "4663",
+      "url": "https://anilist.co/anime/4663"
+    },
+    "k": {
+      "id": "3729",
+      "url": "https://kitsu.io/anime/3729"
+    },
+    "mal": {
+      "id": "4663",
+      "url": "https://myanimelist.net/anime/4663"
+    }
+  }
+}

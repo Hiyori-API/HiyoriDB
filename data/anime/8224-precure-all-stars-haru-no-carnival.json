@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8224,
+  "slug": "precure-all-stars-haru-no-carnival",
+  "kind": "anime",
+  "title": "Precure All Stars: Haru no Carnival♪",
+  "titles": {
+    "default": "Precure All Stars: Haru no Carnival♪",
+    "romaji": "Precure All Stars: Haru no Carnival♪",
+    "native": "プリキュアオールスターズ 春のカーニバル♪"
+  },
+  "synonyms": [
+    "Precure All Stars: Haru no Carnival♪",
+    "プリキュアオールスターズ 春のカーニバル♪",
+    "Doraemon Movie 35: Nobita no Space Heroes",
+    "映画 ドラえもん のび太の宇宙英雄記[スペースヒーローズ]",
+    "Doraemon: Nobita no Uchuu Eiyuuki",
+    "Doraemon: Nobita's Space Heroes"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21137-Bv6GriiJk9ka.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21137",
+      "url": "https://anilist.co/anime/21137"
+    },
+    "k": {
+      "id": "8900",
+      "url": "https://kitsu.io/anime/8900"
+    },
+    "mal": {
+      "id": "28511",
+      "url": "https://myanimelist.net/anime/28511"
+    }
+  }
+}

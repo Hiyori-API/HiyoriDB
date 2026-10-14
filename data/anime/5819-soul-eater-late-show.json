@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5819,
+  "slug": "soul-eater-late-show",
+  "kind": "anime",
+  "title": "Soul Eater Late Show",
+  "titles": {
+    "default": "Soul Eater Late Show",
+    "romaji": "Soul Eater Late Show",
+    "native": "ソウルイーターレイトショー"
+  },
+  "synonyms": [
+    "Soul Eater Late Show",
+    "ソウルイーターレイトショー",
+    "Soul Eater: Late Night Show"
+  ],
+  "type": "special",
+  "episodes": 51,
+  "status": "finished",
+  "season": "spring",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21687-UCt418ZNhBMu.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21687",
+      "url": "https://anilist.co/anime/21687"
+    },
+    "k": {
+      "id": "8597",
+      "url": "https://kitsu.io/anime/8597"
+    },
+    "mal": {
+      "id": "21195",
+      "url": "https://myanimelist.net/anime/21195"
+    }
+  }
+}

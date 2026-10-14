@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15283,
+  "slug": "manga-kousetsu-monogatari",
+  "kind": "manga",
+  "title": "Manga Kousetsu Monogatari",
+  "titles": {
+    "default": "Manga Kousetsu Monogatari"
+  },
+  "synonyms": [
+    "漫画・巷説百物語",
+    "Full Moon wo Sagashite",
+    "満月〈フルムーン〉をさがして",
+    "Searching for the Full Moon",
+    "Ginyuu Meika"
+  ],
+  "type": "manga",
+  "volumes": 1,
+  "status": "finished",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx135918-snlvoEyEtdeZ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "279",
+      "url": "https://anilist.co/anime/279"
+    },
+    "al_manga": {
+      "id": "279",
+      "url": "https://anilist.co/manga/279"
+    }
+  }
+}

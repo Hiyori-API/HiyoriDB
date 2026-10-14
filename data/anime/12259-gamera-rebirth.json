@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12259,
+  "slug": "gamera-rebirth",
+  "kind": "anime",
+  "title": "GAMERA: Rebirth",
+  "titles": {
+    "default": "GAMERA: Rebirth",
+    "romaji": "GAMERA: Rebirth",
+    "english": "GAMERA -Rebirth-"
+  },
+  "synonyms": [
+    "GAMERA: Rebirth",
+    "GAMERA -Rebirth-",
+    "ガメラ リバース",
+    "Ґамера: Переродження",
+    "Ensemble Stars!! Reminiscences Selection Element",
+    "あんさんぶるスターズ！！追憶セレクション 『エレメント』",
+    "Ensemble Stars!! Tsuioku Selection Element"
+  ],
+  "type": "ona",
+  "episodes": 6,
+  "status": "finished",
+  "season": "summer",
+  "year": 2023,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx160831-ZAzJOREityQa.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "160831",
+      "url": "https://anilist.co/anime/160831"
+    },
+    "mal": {
+      "id": "53627",
+      "url": "https://myanimelist.net/anime/53627"
+    },
+    "nf": {
+      "id": "81087387",
+      "url": "https://www.netflix.com/title/81087387"
+    },
+    "tx": {
+      "id": "gamera_rebirth",
+      "url": "https://twitter.com/gamera_rebirth"
+    }
+  }
+}

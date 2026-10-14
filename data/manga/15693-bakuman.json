@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15693,
+  "slug": "bakuman",
+  "kind": "manga",
+  "title": "Bakuman.",
+  "titles": {
+    "default": "Bakuman."
+  },
+  "synonyms": [
+    "Бакуман",
+    "바쿠만",
+    "爆漫王",
+    "Bakuman。",
+    "バクマン。",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "chapters": 176,
+  "volumes": 20,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx39711-tjPWXT1AW321.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10030",
+      "url": "https://anilist.co/anime/12365"
+    },
+    "al_manga": {
+      "id": "10030",
+      "url": "https://anilist.co/manga/10030"
+    }
+  }
+}

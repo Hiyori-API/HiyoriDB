@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6114,
+  "slug": "seikon-no-qwaser-jotei-no-shouzou",
+  "kind": "anime",
+  "title": "Seikon no Qwaser: Jotei no Shouzou",
+  "titles": {
+    "default": "Seikon no Qwaser: Jotei no Shouzou",
+    "romaji": "Seikon no Qwaser: Jotei no Shouzou",
+    "native": "聖痕のクェイサー 女帝の肖像"
+  },
+  "synonyms": [
+    "Seikon no Qwaser: Jotei no Shouzou",
+    "聖痕のクェイサー 女帝の肖像",
+    "Seikon no Qwaser OVA",
+    "The Qwaser Of Stigmata",
+    "Seikon no Quasar",
+    "The Qwaser of Stigmata: Portrait of the Empress"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9202.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9202",
+      "url": "https://anilist.co/anime/9202"
+    },
+    "k": {
+      "id": "5629",
+      "url": "https://kitsu.io/anime/5629"
+    },
+    "mal": {
+      "id": "9202",
+      "url": "https://myanimelist.net/anime/9202"
+    }
+  }
+}

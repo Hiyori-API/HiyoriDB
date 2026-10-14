@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13407,
+  "slug": "arisugawa-ren-tte-honto-wa-onna-nanda-yo-ne",
+  "kind": "anime",
+  "title": "Arisugawa Ren tte Honto wa Onna Nanda yo ne.",
+  "titles": {
+    "default": "Arisugawa Ren tte Honto wa Onna Nanda yo ne.",
+    "romaji": "Arisugawa Ren tte Honto wa Onna Nanda yo ne.",
+    "english": "Ren Arisugawa Is Actually a Girl",
+    "native": "有栖川煉ってホントは女なんだよね。"
+  },
+  "synonyms": [
+    "Arisugawa Ren tte Honto wa Onna Nanda yo ne.",
+    "Ren Arisugawa Is Actually a Girl",
+    "有栖川煉ってホントは女なんだよね。",
+    "ホントはえっちな女の子。",
+    "Honto wa Ecchi na Onnanoko.",
+    "Ore dake ga Shitteru Aitsu no Himitsu",
+    "Only I Know She is Sexy.",
+    "Catman Series II",
+    "キャットマン",
+    "Catman",
+    "Catman 2nd Season"
+  ],
+  "type": "ona",
+  "episodes": 8,
+  "status": "finished",
+  "season": "winter",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189259-vXGvEI1QcJS0.png"
+  ],
+  "references": {
+    "al": {
+      "id": "189259",
+      "url": "https://anilist.co/anime/189259"
+    },
+    "k": {
+      "id": "3602",
+      "url": "https://kitsu.io/anime/3602"
+    },
+    "mal": {
+      "id": "63096",
+      "url": "https://myanimelist.net/anime/63096"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3935,
+  "slug": "tegami-bachi-hikari-to-ao-no-gensou-yawa",
+  "kind": "anime",
+  "title": "Tegami Bachi: Hikari to Ao no Gensou Yawa",
+  "titles": {
+    "default": "Tegami Bachi: Hikari to Ao no Gensou Yawa",
+    "romaji": "Tegami Bachi: Hikari to Ao no Gensou Yawa",
+    "english": "Letter Bee: Light and Blue Night Fantasy",
+    "native": "テガミバチ 〜光と青の幻想夜話〜"
+  },
+  "synonyms": [
+    "Tegami Bachi: Hikari to Ao no Gensou Yawa",
+    "Letter Bee: Light and Blue Night Fantasy",
+    "テガミバチ 〜光と青の幻想夜話〜",
+    "Tegamibachi",
+    "Toshokan Sensou: Koi no Shougai",
+    "図書館戦争 恋ノ障害",
+    "Library War",
+    "Toshokan Sensou: Situation Love Handicap",
+    "Library Revolution Special"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5538.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5538",
+      "url": "https://anilist.co/anime/5538"
+    },
+    "k": {
+      "id": "4060",
+      "url": "https://kitsu.io/anime/4060"
+    },
+    "mal": {
+      "id": "5538",
+      "url": "https://myanimelist.net/anime/5538"
+    }
+  }
+}

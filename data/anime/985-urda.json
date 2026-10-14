@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 985,
+  "slug": "urda",
+  "kind": "anime",
+  "title": "Urda",
+  "titles": {
+    "default": "Urda",
+    "romaji": "Urda",
+    "native": "ウルダ"
+  },
+  "synonyms": [
+    "Urda",
+    "ウルダ",
+    "Urda: Third Reich"
+  ],
+  "type": "ona",
+  "episodes": 5,
+  "status": "finished",
+  "season": "winter",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1102.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1102",
+      "url": "https://anilist.co/anime/1102"
+    },
+    "k": {
+      "id": "987",
+      "url": "https://kitsu.io/anime/987"
+    },
+    "mal": {
+      "id": "1102",
+      "url": "https://myanimelist.net/anime/1102"
+    }
+  }
+}

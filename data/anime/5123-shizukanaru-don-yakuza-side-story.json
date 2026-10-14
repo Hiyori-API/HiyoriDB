@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5123,
+  "slug": "shizukanaru-don-yakuza-side-story",
+  "kind": "anime",
+  "title": "Shizukanaru Don: Yakuza Side Story",
+  "titles": {
+    "default": "Shizukanaru Don: Yakuza Side Story",
+    "romaji": "Shizukanaru Don: Yakuza Side Story",
+    "native": "静かなるドン Yakuza Side Story"
+  },
+  "synonyms": [
+    "Shizukanaru Don: Yakuza Side Story",
+    "静かなるドン Yakuza Side Story",
+    "The Quiet Don",
+    "The Quietened Don"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9349.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9349",
+      "url": "https://anilist.co/anime/9349"
+    },
+    "k": {
+      "id": "5696",
+      "url": "https://kitsu.io/anime/5696"
+    },
+    "mal": {
+      "id": "9349",
+      "url": "https://myanimelist.net/anime/9349"
+    }
+  }
+}

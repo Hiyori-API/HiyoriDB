@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6054,
+  "slug": "shin-koihime-musou-live-revolution",
+  "kind": "anime",
+  "title": "Shin Koihime†Musou: LIVE Revolution",
+  "titles": {
+    "default": "Shin Koihime†Musou: LIVE Revolution",
+    "romaji": "Shin Koihime†Musou: LIVE Revolution",
+    "native": "真恋姫†無双 LIVE Revolution"
+  },
+  "synonyms": [
+    "Shin Koihime†Musou: LIVE Revolution",
+    "真恋姫†無双 LIVE Revolution",
+    "Shin Koihime Musou: Otome Ryouran Sangokushi Engi - Live Revolution",
+    "Shin Koihime†Musou: Live Revolution"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8635.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8635",
+      "url": "https://anilist.co/anime/8635"
+    },
+    "k": {
+      "id": "5411",
+      "url": "https://kitsu.io/anime/5411"
+    },
+    "mal": {
+      "id": "8635",
+      "url": "https://myanimelist.net/anime/8635"
+    }
+  }
+}

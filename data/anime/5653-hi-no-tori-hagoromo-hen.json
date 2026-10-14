@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5653,
+  "slug": "hi-no-tori-hagoromo-hen",
+  "kind": "anime",
+  "title": "Hi no Tori: Hagoromo-hen",
+  "titles": {
+    "default": "Hi no Tori: Hagoromo-hen",
+    "romaji": "Hi no Tori: Hagoromo-hen",
+    "native": "火の鳥 羽衣編"
+  },
+  "synonyms": [
+    "Hi no Tori: Hagoromo-hen",
+    "火の鳥 羽衣編",
+    "火の鳥 ~羽衣編~"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158699-kyjlYbdz0JEb.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "158699",
+      "url": "https://anilist.co/anime/158699"
+    },
+    "k": {
+      "id": "8933",
+      "url": "https://kitsu.io/anime/8933"
+    },
+    "mal": {
+      "id": "23659",
+      "url": "https://myanimelist.net/anime/23659"
+    }
+  }
+}

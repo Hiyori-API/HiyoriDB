@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3464,
+  "slug": "tanin-no-kankei",
+  "kind": "anime",
+  "title": "Tanin no Kankei",
+  "titles": {
+    "default": "Tanin no Kankei",
+    "romaji": "Tanin no Kankei",
+    "english": "Homeroom Affairs",
+    "native": "他人の関係"
+  },
+  "synonyms": [
+    "Tanin no Kankei",
+    "Homeroom Affairs",
+    "他人の関係",
+    "Human Relations"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4451-zOXhQUlNGOUJ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "4451",
+      "url": "https://anilist.co/anime/4451"
+    },
+    "k": {
+      "id": "3614",
+      "url": "https://kitsu.io/anime/3614"
+    },
+    "mal": {
+      "id": "4451",
+      "url": "https://myanimelist.net/anime/4451"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5375,
+  "slug": "licca-the-movie-licca-chan-to-yamaneko-hoshi-no-tabi",
+  "kind": "anime",
+  "title": "Licca the movie: Licca-chan to Yamaneko Hoshi no Tabi",
+  "titles": {
+    "default": "Licca the movie: Licca-chan to Yamaneko Hoshi no Tabi",
+    "romaji": "Licca the movie: Licca-chan to Yamaneko Hoshi no Tabi",
+    "native": "Licca the movie リカちゃん リカちゃんとヤマネコ星の旅"
+  },
+  "synonyms": [
+    "Licca the movie: Licca-chan to Yamaneko Hoshi no Tabi",
+    "Licca the movie リカちゃん リカちゃんとヤマネコ星の旅",
+    "Licca the Movie: Licca-chan to Yamaneko Hoshi no Tabi",
+    "Licca-chan to Yamaneko Hoshi no Tabi"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b9878-Ar3mr8QaPpWf.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9878",
+      "url": "https://anilist.co/anime/9878"
+    },
+    "k": {
+      "id": "5915",
+      "url": "https://kitsu.io/anime/5915"
+    },
+    "mal": {
+      "id": "9878",
+      "url": "https://myanimelist.net/anime/9878"
+    }
+  }
+}

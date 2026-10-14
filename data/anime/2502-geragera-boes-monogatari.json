@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2502,
+  "slug": "geragera-boes-monogatari",
+  "kind": "anime",
+  "title": "Geragera Boes Monogatari",
+  "titles": {
+    "default": "Geragera Boes Monogatari",
+    "romaji": "Geragera Boes Monogatari",
+    "english": "Ox Tales",
+    "native": "げらげらブース物語"
+  },
+  "synonyms": [
+    "Geragera Boes Monogatari",
+    "Ox Tales",
+    "げらげらブース物語",
+    "Geragera Bus Monogatari",
+    "Chuckling Bus Story of Boes",
+    "Funny Farm Madness",
+    "Ollie Ollie Oxen",
+    "Boes Boes",
+    "Gera Gera Booth",
+    "Story of the Geragera Bus",
+    "מוש השור",
+    "Bocas",
+    "Bof!",
+    "Anton",
+    "Djurgården",
+    "Gera Gera Booth Monogatari"
+  ],
+  "type": "tv",
+  "episodes": 52,
+  "status": "finished",
+  "season": "spring",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2815.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2815",
+      "url": "https://anilist.co/anime/2815"
+    },
+    "k": {
+      "id": "2569",
+      "url": "https://kitsu.io/anime/2569"
+    },
+    "mal": {
+      "id": "2815",
+      "url": "https://myanimelist.net/anime/2815"
+    },
+    "t": {
+      "id": "11696",
+      "url": "https://trakt.tv/shows/11696"
+    }
+  }
+}

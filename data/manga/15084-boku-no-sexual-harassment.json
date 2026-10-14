@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15084,
+  "slug": "boku-no-sexual-harassment",
+  "kind": "manga",
+  "title": "Boku no Sexual Harassment",
+  "titles": {
+    "default": "Boku no Sexual Harassment"
+  },
+  "synonyms": [
+    "My Sexual Harassment",
+    "Boku no Sekuhara",
+    "僕のセクハラ",
+    "僕のセクシャルハラスメント",
+    "The Summer of the Ubume",
+    "Ubume no Natsu",
+    "姑獲鳥の夏"
+  ],
+  "type": "novel",
+  "volumes": 2,
+  "status": "finished",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b212963-yAZjmGwYLT3E.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "755",
+      "url": "https://anilist.co/anime/755"
+    },
+    "al_manga": {
+      "id": "755",
+      "url": "https://anilist.co/manga/755"
+    }
+  }
+}

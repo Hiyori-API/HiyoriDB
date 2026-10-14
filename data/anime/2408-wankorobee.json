@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2408,
+  "slug": "wankorobee",
+  "kind": "anime",
+  "title": "Wankorobee",
+  "titles": {
+    "default": "Wankorobee",
+    "romaji": "Wankorobee",
+    "native": "わんころべえ"
+  },
+  "synonyms": [
+    "Wankorobee",
+    "わんころべえ"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2708.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2708",
+      "url": "https://anilist.co/anime/2708"
+    },
+    "k": {
+      "id": "2470",
+      "url": "https://kitsu.io/anime/2470"
+    },
+    "mal": {
+      "id": "2708",
+      "url": "https://myanimelist.net/anime/2708"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5610,
+  "slug": "heart-cocktail-again",
+  "kind": "anime",
+  "title": "Heart Cocktail Again",
+  "titles": {
+    "default": "Heart Cocktail Again",
+    "romaji": "Heart Cocktail Again",
+    "native": "ハートカクテルアゲイン"
+  },
+  "synonyms": [
+    "Heart Cocktail Again",
+    "ハートカクテルアゲイン",
+    "Mr. Stain on Junk Alley: Epilogue",
+    "Garakuta-doori no Stain: Epilogue",
+    "ガラクタ通りのステイン",
+    "Ga-Ra-Ku-Ta: Mr. Stain on Junk Alley: Epilogue",
+    "Garakuta-dori no Sutein: Epilogue"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119134-JvypIHUPL4n2.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "119134",
+      "url": "https://anilist.co/anime/119134"
+    },
+    "k": {
+      "id": "6747",
+      "url": "https://kitsu.io/anime/6747"
+    },
+    "mal": {
+      "id": "21121",
+      "url": "https://myanimelist.net/anime/21121"
+    }
+  }
+}

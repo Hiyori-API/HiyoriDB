@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11211,
+  "slug": "sayonara-watashi-no-cramer-first-touch",
+  "kind": "anime",
+  "title": "Sayonara Watashi no Cramer: First Touch",
+  "titles": {
+    "default": "Sayonara Watashi no Cramer: First Touch",
+    "romaji": "Sayonara Watashi no Cramer: First Touch",
+    "english": "Farewell, My Dear Cramer: First Touch",
+    "native": "映画 さよなら私のクラマー ファーストタッチ"
+  },
+  "synonyms": [
+    "Sayonara Watashi no Cramer: First Touch",
+    "Farewell, My Dear Cramer: First Touch",
+    "映画 さよなら私のクラマー ファーストタッチ",
+    "Sayonara Watashi no Cramer Movie",
+    "Farewell, My Dear Cramer Movie",
+    "Evangelion: 3.0+1.0 Thrice Upon a Time",
+    "Shin Evangelion Gekijouban :||",
+    "シン・エヴァンゲリオン劇場版:||",
+    "Evangelion: 4.0",
+    "Rebuild of Evangelion 4.0"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx123645-gaFgdv8Sx8mX.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "123645",
+      "url": "https://anilist.co/anime/123645"
+    },
+    "cr": {
+      "id": "farewell-my-dear-cramer",
+      "url": "https://www.crunchyroll.com/series/farewell-my-dear-cramer"
+    },
+    "k": {
+      "id": "3252",
+      "url": "https://kitsu.io/anime/3252"
+    },
+    "mal": {
+      "id": "42798",
+      "url": "https://myanimelist.net/anime/42798"
+    },
+    "tx": {
+      "id": "cramer_pr",
+      "url": "https://twitter.com/cramer_pr"
+    }
+  }
+}

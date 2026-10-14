@@ -1,0 +1,58 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10154,
+  "slug": "kanata-no-astra",
+  "kind": "anime",
+  "title": "Kanata no Astra",
+  "titles": {
+    "default": "Kanata no Astra",
+    "romaji": "Kanata no Astra",
+    "english": "ASTRA LOST IN SPACE",
+    "native": "彼方のアストラ"
+  },
+  "synonyms": [
+    "Kanata no Astra",
+    "ASTRA LOST IN SPACE",
+    "彼方のアストラ",
+    "DearS",
+    "ディアーズ"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx107663-gfIpy1h36kUL.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "107663",
+      "url": "https://anilist.co/anime/107663"
+    },
+    "cr": {
+      "id": "astra-lost-in-space",
+      "url": "https://www.crunchyroll.com/series/astra-lost-in-space"
+    },
+    "k": {
+      "id": "44",
+      "url": "https://kitsu.io/anime/44"
+    },
+    "mal": {
+      "id": "39198",
+      "url": "https://myanimelist.net/anime/39198"
+    },
+    "nf": {
+      "id": "81144576",
+      "url": "https://www.netflix.com/title/81144576"
+    },
+    "t": {
+      "id": "61051",
+      "url": "https://trakt.tv/shows/61051"
+    },
+    "tx": {
+      "id": "astra_anime",
+      "url": "https://twitter.com/astra_anime"
+    }
+  }
+}

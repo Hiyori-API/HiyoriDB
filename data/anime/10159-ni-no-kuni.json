@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10159,
+  "slug": "ni-no-kuni",
+  "kind": "anime",
+  "title": "Ni no Kuni",
+  "titles": {
+    "default": "Ni no Kuni",
+    "romaji": "Ni no Kuni",
+    "english": "NiNoKuni",
+    "native": "二ノ国"
+  },
+  "synonyms": [
+    "Ni no Kuni",
+    "NiNoKuni",
+    "二ノ国",
+    "Cencoroll 2",
+    "センコロール"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx107727-OZLbxfScJyYE.png"
+  ],
+  "references": {
+    "al": {
+      "id": "107727",
+      "url": "https://anilist.co/anime/107727"
+    },
+    "k": {
+      "id": "5749",
+      "url": "https://kitsu.io/anime/5749"
+    },
+    "mal": {
+      "id": "39235",
+      "url": "https://myanimelist.net/anime/39235"
+    },
+    "nf": {
+      "id": "81093113",
+      "url": "https://www.netflix.com/title/81093113"
+    },
+    "tx": {
+      "id": "Ninokuni_movie",
+      "url": "https://twitter.com/Ninokuni_movie"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2858,
+  "slug": "inaka-isha",
+  "kind": "anime",
+  "title": "Inaka Isha",
+  "titles": {
+    "default": "Inaka Isha",
+    "romaji": "Inaka Isha",
+    "english": "Franz Kafka's A Country Doctor",
+    "native": "カフカ 田舎医者"
+  },
+  "synonyms": [
+    "Inaka Isha",
+    "Franz Kafka's A Country Doctor",
+    "カフカ 田舎医者",
+    "Kafka Inaka Isha",
+    "Ein Landarzt"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3326-lD1YFIekCahK.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3326",
+      "url": "https://anilist.co/anime/3326"
+    },
+    "k": {
+      "id": "2938",
+      "url": "https://kitsu.io/anime/2938"
+    },
+    "mal": {
+      "id": "3326",
+      "url": "https://myanimelist.net/anime/3326"
+    }
+  }
+}

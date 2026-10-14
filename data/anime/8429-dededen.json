@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8429,
+  "slug": "dededen",
+  "kind": "anime",
+  "title": "Dededen",
+  "titles": {
+    "default": "Dededen",
+    "romaji": "Dededen",
+    "native": "でででん"
+  },
+  "synonyms": [
+    "Dededen",
+    "でででん",
+    "The Eden of Grisaia Specials",
+    "Le Eden de la Grisaia Specials",
+    "グリザイアの楽園",
+    "Grisaia no Rakuen Specials"
+  ],
+  "type": "special",
+  "episodes": 5,
+  "status": "finished",
+  "season": "winter",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102672-WCoEt8bwGmO9.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "102672",
+      "url": "https://anilist.co/anime/102672"
+    },
+    "mal": {
+      "id": "30289",
+      "url": "https://myanimelist.net/anime/30289"
+    }
+  }
+}

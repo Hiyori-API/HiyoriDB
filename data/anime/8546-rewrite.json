@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8546,
+  "slug": "rewrite",
+  "kind": "anime",
+  "title": "Rewrite",
+  "titles": {
+    "default": "Rewrite",
+    "romaji": "Rewrite"
+  },
+  "synonyms": [
+    "Rewrite",
+    "リライト",
+    "Shokugeki no Souma 2nd Season",
+    "Shokugeki no Soma 2",
+    "Food Wars: Shokugeki no Soma 2",
+    "Shokugeki no Soma: The Second Plate",
+    "Food Wars! The Second Plate",
+    "食戟のソーマ 弍ノ皿",
+    "Shokugeki no Souma: Ni no Sara"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21382-bBJghvjTP8Dr.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21382",
+      "url": "https://anilist.co/anime/21382"
+    },
+    "cr": {
+      "id": "rewrite",
+      "url": "https://www.crunchyroll.com/series/rewrite"
+    },
+    "mal": {
+      "id": "31716",
+      "url": "https://myanimelist.net/anime/31716"
+    },
+    "tx": {
+      "id": "rewrite_tv",
+      "url": "https://twitter.com/rewrite_tv"
+    }
+  }
+}

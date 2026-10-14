@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8116,
+  "slug": "kyoukai-no-rinne",
+  "kind": "anime",
+  "title": "Kyoukai no Rinne",
+  "titles": {
+    "default": "Kyoukai no Rinne",
+    "romaji": "Kyoukai no Rinne",
+    "english": "Rin-ne",
+    "native": "境界のRinne"
+  },
+  "synonyms": [
+    "Kyoukai no Rinne",
+    "Rin-ne",
+    "境界のRinne",
+    "Baby Steps 2nd Season",
+    "ベイビーステップ 第2シリーズ",
+    "Baby Steps Second Season"
+  ],
+  "type": "tv",
+  "episodes": 25,
+  "status": "finished",
+  "season": "spring",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20953-ZWTPj5AplXtX.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "20953",
+      "url": "https://anilist.co/anime/20953"
+    },
+    "k": {
+      "id": "9142",
+      "url": "https://kitsu.io/anime/9142"
+    },
+    "mal": {
+      "id": "28423",
+      "url": "https://myanimelist.net/anime/28423"
+    },
+    "t": {
+      "id": "75824",
+      "url": "https://trakt.tv/shows/75824"
+    },
+    "tx": {
+      "id": "nhk_rinne",
+      "url": "https://twitter.com/nhk_rinne"
+    }
+  }
+}

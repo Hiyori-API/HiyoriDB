@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15236,
+  "slug": "m-use",
+  "kind": "manga",
+  "title": "MØUSE",
+  "titles": {
+    "default": "MØUSE"
+  },
+  "synonyms": [
+    "Mouse",
+    "マウス",
+    "Mushrambo",
+    "マシュランボー",
+    "Mashuranboo"
+  ],
+  "type": "manga",
+  "chapters": 110,
+  "volumes": 14,
+  "status": "finished",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b37660-TUEEkf9PXkPf.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "624",
+      "url": "https://anilist.co/anime/624"
+    },
+    "al_manga": {
+      "id": "624",
+      "url": "https://anilist.co/manga/624"
+    }
+  }
+}

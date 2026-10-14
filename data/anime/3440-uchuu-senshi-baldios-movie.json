@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3440,
+  "slug": "uchuu-senshi-baldios-movie",
+  "kind": "anime",
+  "title": "Uchuu Senshi Baldios (Movie)",
+  "titles": {
+    "default": "Uchuu Senshi Baldios (Movie)",
+    "romaji": "Uchuu Senshi Baldios (Movie)",
+    "english": "Space Warrior Baldios (Movie)",
+    "native": "宇宙戦士バルディオス(劇場版)"
+  },
+  "synonyms": [
+    "Uchuu Senshi Baldios (Movie)",
+    "Space Warrior Baldios (Movie)",
+    "宇宙戦士バルディオス(劇場版)",
+    "Space Warrior Baldios",
+    "宇宙戦士バルディオス"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1981,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4371-9jgl0twrjFJK.png"
+  ],
+  "references": {
+    "al": {
+      "id": "4371",
+      "url": "https://anilist.co/anime/4371"
+    },
+    "cr": {
+      "id": "space-warrior-baldios",
+      "url": "https://www.crunchyroll.com/series/space-warrior-baldios"
+    },
+    "k": {
+      "id": "1557",
+      "url": "https://kitsu.io/anime/1557"
+    },
+    "mal": {
+      "id": "4371",
+      "url": "https://myanimelist.net/anime/4371"
+    }
+  }
+}

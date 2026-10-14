@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2981,
+  "slug": "mahou-shoujo-meruru",
+  "kind": "anime",
+  "title": "Mahou Shoujo Meruru",
+  "titles": {
+    "default": "Mahou Shoujo Meruru",
+    "romaji": "Mahou Shoujo Meruru",
+    "english": "Magic Woman M",
+    "native": "魔法少女メルル"
+  },
+  "synonyms": [
+    "Mahou Shoujo Meruru",
+    "Magic Woman M",
+    "魔法少女メルル",
+    "Magical Girl Meruru",
+    "Gestalt",
+    "Choujuu Densetsu Gestalt",
+    "超獣伝説ゲシュタルト"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3526.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3526",
+      "url": "https://anilist.co/anime/3526"
+    },
+    "k": {
+      "id": "1157",
+      "url": "https://kitsu.io/anime/1157"
+    },
+    "mal": {
+      "id": "3526",
+      "url": "https://myanimelist.net/anime/3526"
+    }
+  }
+}

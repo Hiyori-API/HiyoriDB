@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15739,
+  "slug": "zekkyou-gakkyuu",
+  "kind": "manga",
+  "title": "Zekkyou Gakkyuu",
+  "titles": {
+    "default": "Zekkyou Gakkyuu"
+  },
+  "synonyms": [
+    "Scary Lessons",
+    "Zekkyo Gakkyu",
+    "Lớp học rùng rợn",
+    "Screaming Lessons",
+    "絶叫学級",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "chapters": 81,
+  "volumes": 20,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx47154-Hv1C9TztfPfh.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21792",
+      "url": "https://anilist.co/anime/15891"
+    },
+    "al_manga": {
+      "id": "21792",
+      "url": "https://anilist.co/manga/21792"
+    }
+  }
+}

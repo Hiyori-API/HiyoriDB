@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15657,
+  "slug": "legend-of-regios",
+  "kind": "manga",
+  "title": "Legend of Regios",
+  "titles": {
+    "default": "Legend of Regios"
+  },
+  "synonyms": [
+    "レジェンド・オブ・レギオス",
+    "MM!",
+    "えむえむっ!",
+    "MM Group",
+    "Emu Emu!"
+  ],
+  "type": "novel",
+  "chapters": 21,
+  "volumes": 3,
+  "status": "finished",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/36591.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6368",
+      "url": "https://anilist.co/anime/6368"
+    },
+    "al_manga": {
+      "id": "6368",
+      "url": "https://anilist.co/manga/6368"
+    }
+  }
+}

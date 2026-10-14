@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3526,
+  "slug": "mirai-choujuu-fobia",
+  "kind": "anime",
+  "title": "Mirai Choujuu Fobia",
+  "titles": {
+    "default": "Mirai Choujuu Fobia",
+    "romaji": "Mirai Choujuu Fobia",
+    "english": "Fobia",
+    "native": "未来超獣フォビア"
+  },
+  "synonyms": [
+    "Mirai Choujuu Fobia",
+    "Fobia",
+    "未来超獣フォビア",
+    "Elf Princess Rane",
+    "Yousei Hime Ren",
+    "妖精姫レーン",
+    "Yosei Hime Ren",
+    "Fairy Princess Ren"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4556.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4556",
+      "url": "https://anilist.co/anime/4556"
+    },
+    "k": {
+      "id": "1465",
+      "url": "https://kitsu.io/anime/1465"
+    },
+    "mal": {
+      "id": "4556",
+      "url": "https://myanimelist.net/anime/4556"
+    }
+  }
+}

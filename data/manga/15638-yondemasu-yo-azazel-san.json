@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15638,
+  "slug": "yondemasu-yo-azazel-san",
+  "kind": "manga",
+  "title": "Yondemasu yo, Azazel-san.",
+  "titles": {
+    "default": "Yondemasu yo, Azazel-san."
+  },
+  "synonyms": [
+    "Yondemasu yo",
+    "Azazeru-san.",
+    "Yondemasuyo",
+    "Azazel-san.",
+    "You're Being Summoned",
+    "よんでますよ、アザゼルさん。",
+    "Kataomoi no Mukougawa",
+    "片想いの向こう側",
+    "Kataomoi no Mukou Gawa",
+    "Ano Kado o Magareba",
+    "Tenshi ga Kuretamono",
+    "Bitou na Koi",
+    "Kimi to Natsu no Aizu"
+  ],
+  "type": "manga",
+  "chapters": 161,
+  "volumes": 16,
+  "status": "finished",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/22114.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "16241",
+      "url": "https://anilist.co/anime/10216"
+    },
+    "al_manga": {
+      "id": "16241",
+      "url": "https://anilist.co/manga/16241"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3344,
+  "slug": "urarochi-diamond",
+  "kind": "anime",
+  "title": "Urarochi Diamond",
+  "titles": {
+    "default": "Urarochi Diamond",
+    "romaji": "Urarochi Diamond",
+    "native": "裏路地ダイヤモンド"
+  },
+  "synonyms": [
+    "Urarochi Diamond",
+    "裏路地ダイヤモンド",
+    "Uraroji Diamond"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4098-TmRDkToNtl2Z.png"
+  ],
+  "references": {
+    "al": {
+      "id": "4098",
+      "url": "https://anilist.co/anime/4098"
+    },
+    "k": {
+      "id": "3465",
+      "url": "https://kitsu.io/anime/3465"
+    },
+    "mal": {
+      "id": "4098",
+      "url": "https://myanimelist.net/anime/4098"
+    }
+  }
+}

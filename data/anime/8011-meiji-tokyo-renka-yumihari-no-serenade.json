@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8011,
+  "slug": "meiji-tokyo-renka-yumihari-no-serenade",
+  "kind": "anime",
+  "title": "Meiji Tokyo Renka: Yumihari no Serenade",
+  "titles": {
+    "default": "Meiji Tokyo Renka: Yumihari no Serenade",
+    "romaji": "Meiji Tokyo Renka: Yumihari no Serenade",
+    "native": "劇場版 明治東亰恋伽 ～弦月の小夜曲～"
+  },
+  "synonyms": [
+    "Meiji Tokyo Renka: Yumihari no Serenade",
+    "劇場版 明治東亰恋伽 ～弦月の小夜曲～",
+    "Meikoi",
+    "Meiji Tokyo Renka: Gengetsu no Sayokyoku",
+    "Code Geass: Akito the Exiled 4 - From the Memory of Hatred",
+    "Code Geass: Boukoku no Akito 4 - Nikushimi no Kioku kara",
+    "Code Geass: Akito the Exiled - Memories of Hatred",
+    "コードギアス 亡国のアキト 第４章「憎しみの記憶から」"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20511-uNqlt45AGrSC.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "20511",
+      "url": "https://anilist.co/anime/20511"
+    },
+    "cr": {
+      "id": "code-geass-akito-the-exiled",
+      "url": "https://www.crunchyroll.com/series/code-geass-akito-the-exiled"
+    },
+    "k": {
+      "id": "7229",
+      "url": "https://kitsu.io/anime/7229"
+    },
+    "mal": {
+      "id": "29855",
+      "url": "https://myanimelist.net/anime/29855"
+    },
+    "tx": {
+      "id": "meikoi_staff",
+      "url": "https://twitter.com/meikoi_staff"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15343,
+  "slug": "owari-no-chronicle",
+  "kind": "manga",
+  "title": "Owari no Chronicle",
+  "titles": {
+    "default": "Owari no Chronicle"
+  },
+  "synonyms": [
+    "The Ending Chronicle",
+    "終わりのクロニクル",
+    "Magical Girl Risuka",
+    "Shin Honkaku Mahou Shoujo Risuka",
+    "新本格魔法少女りすか"
+  ],
+  "type": "novel",
+  "chapters": 258,
+  "volumes": 14,
+  "status": "finished",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx63671-BvJB4l7rB5ez.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "13669",
+      "url": "https://anilist.co/anime/13669"
+    },
+    "al_manga": {
+      "id": "13669",
+      "url": "https://anilist.co/manga/13669"
+    }
+  }
+}

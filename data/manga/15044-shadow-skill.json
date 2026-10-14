@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15044,
+  "slug": "shadow-skill",
+  "kind": "manga",
+  "title": "Shadow Skill",
+  "titles": {
+    "default": "Shadow Skill"
+  },
+  "synonyms": [
+    "Shadow Skill: Invincibility Fire Ball",
+    "Shadow Skill: Black Howling",
+    "Shadow Skill: Black Wing",
+    "シャドウスキル",
+    "Fushigi Yugi",
+    "Fushigi Yuugi",
+    "ふしぎ遊戯",
+    "Mysterious Play",
+    "Curious Play"
+  ],
+  "type": "manga",
+  "chapters": 22,
+  "volumes": 4,
+  "status": "finished",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx40220-cz7p6aOxcmVV.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "114244",
+      "url": "https://anilist.co/anime/1099"
+    },
+    "al_manga": {
+      "id": "114244",
+      "url": "https://anilist.co/manga/114244"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13716,
+  "slug": "futsutsuka-na-akujo-de-wa-gozaimasu-ga-suuguu-chouso-torikae-den-part-2",
+  "kind": "anime",
+  "title": "Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den Part 2",
+  "titles": {
+    "default": "Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den Part 2",
+    "romaji": "Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den Part 2",
+    "native": "ふつつかな悪女ではございますが ～雛宮蝶鼠とりかえ伝～ 第二幕"
+  },
+  "synonyms": [
+    "Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den Part 2",
+    "ふつつかな悪女ではございますが ～雛宮蝶鼠とりかえ伝～ 第二幕",
+    "Though I Am an Inept Villainess Part 2",
+    "Despera",
+    "ですぺら",
+    "Desupera"
+  ],
+  "type": "tv",
+  "status": "to_be_aired",
+  "season": "winter",
+  "year": 2027,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217070-Muh7Kjw4RQsi.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "217070",
+      "url": "https://anilist.co/anime/217070"
+    },
+    "k": {
+      "id": "4584",
+      "url": "https://kitsu.io/anime/4584"
+    },
+    "mal": {
+      "id": "65032",
+      "url": "https://myanimelist.net/anime/65032"
+    }
+  }
+}

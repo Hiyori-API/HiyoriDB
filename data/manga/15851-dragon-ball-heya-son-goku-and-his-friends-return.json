@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15851,
+  "slug": "dragon-ball-heya-son-goku-and-his-friends-return",
+  "kind": "manga",
+  "title": "Dragon Ball: Heya! Son Goku and His Friends Return!!",
+  "titles": {
+    "default": "Dragon Ball: Heya! Son Goku and His Friends Return!!"
+  },
+  "synonyms": [
+    "Simple Knot Loafers",
+    "シンプルノットローファー",
+    "Shinpuru Notto Rofa",
+    "Shinpuru Notto Roofaa",
+    "Simple Not Loafer"
+  ],
+  "type": "manga",
+  "chapters": 2,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx46110-J5o0hRODa79o.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5152",
+      "url": "https://anilist.co/anime/5152"
+    },
+    "al_manga": {
+      "id": "5152",
+      "url": "https://anilist.co/manga/5152"
+    }
+  }
+}

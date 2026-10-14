@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10332,
+  "slug": "zannen-na-ikimono-jiten-special",
+  "kind": "anime",
+  "title": "Zannen na Ikimono Jiten (Special)",
+  "titles": {
+    "default": "Zannen na Ikimono Jiten (Special)",
+    "romaji": "Zannen na Ikimono Jiten (Special)",
+    "native": "ざんねんないきもの事典 (Special)"
+  },
+  "synonyms": [
+    "Zannen na Ikimono Jiten (Special)",
+    "ざんねんないきもの事典 (Special)",
+    "All Might: Rising - The Animation",
+    "Boku no Hero Academia Picture Drama",
+    "My Hero Academia: All Might Rising",
+    "My Hero Academia: Two Heroes Specials",
+    "僕のヒーローアカデミア THE MOVIE ～2人の英雄（ヒーロー）～ 特典",
+    "Boku no Hero Academia the Movie 1: Futari no Hero Specials"
+  ],
+  "type": "special",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b128739-p3DjiNHqEEoJ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "128739",
+      "url": "https://anilist.co/anime/128739"
+    },
+    "mal": {
+      "id": "39430",
+      "url": "https://myanimelist.net/anime/39430"
+    }
+  }
+}

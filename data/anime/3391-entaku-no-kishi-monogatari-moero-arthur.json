@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3391,
+  "slug": "entaku-no-kishi-monogatari-moero-arthur",
+  "kind": "anime",
+  "title": "Entaku no Kishi Monogatari: Moero Arthur",
+  "titles": {
+    "default": "Entaku no Kishi Monogatari: Moero Arthur",
+    "romaji": "Entaku no Kishi Monogatari: Moero Arthur",
+    "english": "King Arthur and the Knights of the Round Table",
+    "native": "円卓の騎士物語　燃えろアーサー"
+  },
+  "synonyms": [
+    "Entaku no Kishi Monogatari: Moero Arthur",
+    "King Arthur and the Knights of the Round Table",
+    "円卓の騎士物語　燃えろアーサー",
+    "King Arthur",
+    "Prinz Arthus",
+    "El Rey Arturo",
+    "Rei Arthur",
+    "Kuningas Arthur",
+    "Kong Arthur",
+    "Kung Arthur"
+  ],
+  "type": "tv",
+  "episodes": 30,
+  "status": "finished",
+  "season": "fall",
+  "year": 1979,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4199-SSsDHFoYl4Oc.png"
+  ],
+  "references": {
+    "al": {
+      "id": "4199",
+      "url": "https://anilist.co/anime/4199"
+    },
+    "k": {
+      "id": "3519",
+      "url": "https://kitsu.io/anime/3519"
+    },
+    "mal": {
+      "id": "4199",
+      "url": "https://myanimelist.net/anime/4199"
+    },
+    "t": {
+      "id": "21901",
+      "url": "https://trakt.tv/shows/21901"
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8189,
+  "slug": "aoharu-kikanjuu",
+  "kind": "anime",
+  "title": "Aoharu × Kikanjuu",
+  "titles": {
+    "default": "Aoharu × Kikanjuu",
+    "romaji": "Aoharu × Kikanjuu",
+    "english": "Aoharu x Machinegun",
+    "native": "青春×機関銃"
+  },
+  "synonyms": [
+    "Aoharu × Kikanjuu",
+    "Aoharu x Machinegun",
+    "青春×機関銃",
+    "ศึกปืนกล X คนผ่าเหล่า",
+    "Non Non Biyori Repeat",
+    "のんのんびより りぴーと",
+    "Non Non Biyori 2nd Season",
+    "Non Non Biyori Second Season"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21078-VJItqWm5y0UU.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21078",
+      "url": "https://anilist.co/anime/21078"
+    },
+    "cr": {
+      "id": "non-non-biyori",
+      "url": "https://www.crunchyroll.com/series/non-non-biyori"
+    },
+    "k": {
+      "id": "8410",
+      "url": "https://kitsu.io/anime/8410"
+    },
+    "mal": {
+      "id": "30205",
+      "url": "https://myanimelist.net/anime/30205"
+    },
+    "t": {
+      "id": "72238",
+      "url": "https://trakt.tv/shows/72238"
+    },
+    "tx": {
+      "id": "aoharu_anime",
+      "url": "https://twitter.com/aoharu_anime"
+    }
+  }
+}

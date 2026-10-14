@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1132,
+  "slug": "suika",
+  "kind": "anime",
+  "title": "Suika",
+  "titles": {
+    "default": "Suika",
+    "romaji": "Suika",
+    "english": "Wet Summer Days",
+    "native": "水夏"
+  },
+  "synonyms": [
+    "Suika",
+    "Wet Summer Days",
+    "水夏",
+    "Sakura Wars: School of Paris",
+    "Sakura Taisen: Ecole de Paris",
+    "サクラ大戦 エコール・ド・巴里",
+    "Sakura Wars OVA 3",
+    "Sakura Taisen: École de Paris",
+    "Sakura Taisen OVA 3"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "winter",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1263.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1263",
+      "url": "https://anilist.co/anime/1263"
+    },
+    "k": {
+      "id": "1769",
+      "url": "https://kitsu.io/anime/1769"
+    },
+    "mal": {
+      "id": "1263",
+      "url": "https://myanimelist.net/anime/1263"
+    }
+  }
+}

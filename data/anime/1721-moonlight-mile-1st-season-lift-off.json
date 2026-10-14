@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1721,
+  "slug": "moonlight-mile-1st-season-lift-off",
+  "kind": "anime",
+  "title": "MOONLIGHT MILE 1st Season -Lift off-",
+  "titles": {
+    "default": "MOONLIGHT MILE 1st Season -Lift off-",
+    "romaji": "MOONLIGHT MILE 1st Season -Lift off-",
+    "native": "MOONLIGHT MILE 1stシーズン -Lift off-"
+  },
+  "synonyms": [
+    "MOONLIGHT MILE 1st Season -Lift off-",
+    "MOONLIGHT MILE 1stシーズン -Lift off-",
+    "Moonlight Mile sezon 1 - Start",
+    "Moonlight Mile 1st Season: Lift Off",
+    "ムーンライトマイル 1stシーズン -Lift off-"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1941-trygRz5pWQ5a.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1941",
+      "url": "https://anilist.co/anime/1941"
+    },
+    "k": {
+      "id": "1750",
+      "url": "https://kitsu.io/anime/1750"
+    },
+    "mal": {
+      "id": "1941",
+      "url": "https://myanimelist.net/anime/1941"
+    },
+    "t": {
+      "id": "26675",
+      "url": "https://trakt.tv/shows/26675"
+    }
+  }
+}

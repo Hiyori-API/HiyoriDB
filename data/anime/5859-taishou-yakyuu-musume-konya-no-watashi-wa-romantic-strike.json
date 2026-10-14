@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5859,
+  "slug": "taishou-yakyuu-musume-konya-no-watashi-wa-romantic-strike",
+  "kind": "anime",
+  "title": "Taishou Yakyuu Musume.: Konya no Watashi wa Romantic Strike",
+  "titles": {
+    "default": "Taishou Yakyuu Musume.: Konya no Watashi wa Romantic Strike",
+    "romaji": "Taishou Yakyuu Musume.: Konya no Watashi wa Romantic Strike",
+    "native": "大正野球娘。今夜の私は浪漫ちっくストライク"
+  },
+  "synonyms": [
+    "Taishou Yakyuu Musume.: Konya no Watashi wa Romantic Strike",
+    "大正野球娘。今夜の私は浪漫ちっくストライク",
+    "Taishou Baseball Girls",
+    "Taishou Yakyuu Musume. Specials",
+    "Kon-ya no Watashi wa Romantic Strike"
+  ],
+  "type": "special",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx8042-Te1DsplxB9N6.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8042",
+      "url": "https://anilist.co/anime/8042"
+    },
+    "k": {
+      "id": "5180",
+      "url": "https://kitsu.io/anime/5180"
+    },
+    "mal": {
+      "id": "8042",
+      "url": "https://myanimelist.net/anime/8042"
+    }
+  }
+}

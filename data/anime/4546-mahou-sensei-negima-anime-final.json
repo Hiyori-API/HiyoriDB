@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4546,
+  "slug": "mahou-sensei-negima-anime-final",
+  "kind": "anime",
+  "title": "Mahou Sensei Negima! ANIME FINAL",
+  "titles": {
+    "default": "Mahou Sensei Negima! ANIME FINAL",
+    "romaji": "Mahou Sensei Negima! ANIME FINAL",
+    "native": "魔法先生ネギま! ANIME FINAL"
+  },
+  "synonyms": [
+    "Mahou Sensei Negima! ANIME FINAL",
+    "魔法先生ネギま! ANIME FINAL",
+    "Gekijouban Negima",
+    "Negima the Movie",
+    "Mahou Sensei Negima! Anime Final"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx7135-tMTBc0CAUAaB.png"
+  ],
+  "references": {
+    "al": {
+      "id": "7135",
+      "url": "https://anilist.co/anime/7135"
+    },
+    "k": {
+      "id": "4876",
+      "url": "https://kitsu.io/anime/4876"
+    },
+    "mal": {
+      "id": "7135",
+      "url": "https://myanimelist.net/anime/7135"
+    }
+  }
+}

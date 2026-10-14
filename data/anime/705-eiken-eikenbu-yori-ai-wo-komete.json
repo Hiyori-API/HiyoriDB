@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 705,
+  "slug": "eiken-eikenbu-yori-ai-wo-komete",
+  "kind": "anime",
+  "title": "Eiken: Eikenbu yori Ai wo Komete",
+  "titles": {
+    "default": "Eiken: Eikenbu yori Ai wo Komete",
+    "romaji": "Eiken: Eikenbu yori Ai wo Komete",
+    "english": "Eiken",
+    "native": "エイケン エイケンヴより愛をこめて"
+  },
+  "synonyms": [
+    "Eiken: Eikenbu yori Ai wo Komete",
+    "Eiken",
+    "エイケン エイケンヴより愛をこめて",
+    "Eiken: With Love from the Eiken Club"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/788.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "788",
+      "url": "https://anilist.co/anime/788"
+    },
+    "cr": {
+      "id": "eiken",
+      "url": "https://www.crunchyroll.com/series/eiken"
+    },
+    "k": {
+      "id": "703",
+      "url": "https://kitsu.io/anime/703"
+    },
+    "mal": {
+      "id": "788",
+      "url": "https://myanimelist.net/anime/788"
+    },
+    "ttv": {
+      "id": "300005895",
+      "url": "https://tubitv.com/series/300005889"
+    }
+  }
+}

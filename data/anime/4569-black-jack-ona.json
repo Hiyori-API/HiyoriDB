@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4569,
+  "slug": "black-jack-ona",
+  "kind": "anime",
+  "title": "Black Jack ONA",
+  "titles": {
+    "default": "Black Jack ONA",
+    "romaji": "Black Jack ONA",
+    "native": "ブラック・ジャック(インターネット版)"
+  },
+  "synonyms": [
+    "Black Jack ONA",
+    "ブラック・ジャック(インターネット版)",
+    "Black Jack: Internet-han"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n7229-uUMPtWuTH8Et.png"
+  ],
+  "references": {
+    "al": {
+      "id": "7229",
+      "url": "https://anilist.co/anime/7229"
+    },
+    "k": {
+      "id": "4904",
+      "url": "https://kitsu.io/anime/4904"
+    },
+    "mal": {
+      "id": "7229",
+      "url": "https://myanimelist.net/anime/7229"
+    }
+  }
+}

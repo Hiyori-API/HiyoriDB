@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10002,
+  "slug": "girly-air-force",
+  "kind": "anime",
+  "title": "Girly Air Force",
+  "titles": {
+    "default": "Girly Air Force",
+    "romaji": "Girly Air Force",
+    "native": "ガーリー・エアフォース"
+  },
+  "synonyms": [
+    "Girly Air Force",
+    "ガーリー・エアフォース",
+    "The Kotobuki Squadron in the Wilderness",
+    "The Magnificent Kotobuki",
+    "荒野のコトブキ飛行隊",
+    "Kouya no Kotobuki Hikoutai"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx101930-I9ccYyORssGV.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101930",
+      "url": "https://anilist.co/anime/101930"
+    },
+    "cr": {
+      "id": "girly-air-force",
+      "url": "https://www.crunchyroll.com/series/girly-air-force"
+    },
+    "mal": {
+      "id": "37998",
+      "url": "https://myanimelist.net/anime/37998"
+    },
+    "tx": {
+      "id": "GAF_anime",
+      "url": "https://twitter.com/GAF_anime"
+    }
+  }
+}

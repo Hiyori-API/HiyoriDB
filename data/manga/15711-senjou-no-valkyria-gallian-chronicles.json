@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15711,
+  "slug": "senjou-no-valkyria-gallian-chronicles",
+  "kind": "manga",
+  "title": "Senjou no Valkyria: Gallian Chronicles",
+  "titles": {
+    "default": "Senjou no Valkyria: Gallian Chronicles"
+  },
+  "synonyms": [
+    "Battlefield Valkyria: Gallian Chronicles",
+    "Valkyria Chronicles",
+    "戦場のヴァルキュリア -Gallian Chronicles-",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "chapters": 14,
+  "volumes": 4,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/11664.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5507",
+      "url": "https://anilist.co/anime/5507"
+    },
+    "al_manga": {
+      "id": "5507",
+      "url": "https://anilist.co/manga/5507"
+    }
+  }
+}

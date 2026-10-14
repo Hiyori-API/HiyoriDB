@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3457,
+  "slug": "tatakae-ramenman",
+  "kind": "anime",
+  "title": "Tatakae!! Ramenman",
+  "titles": {
+    "default": "Tatakae!! Ramenman",
+    "romaji": "Tatakae!! Ramenman",
+    "english": "Fight!! Ramenman",
+    "native": "闘将!!拉麺男"
+  },
+  "synonyms": [
+    "Tatakae!! Ramenman",
+    "Fight!! Ramenman",
+    "闘将!!拉麺男",
+    "Toushou!! Ramenman"
+  ],
+  "type": "tv",
+  "episodes": 35,
+  "status": "finished",
+  "season": "winter",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4427-Kzqxt58GwIxJ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4427",
+      "url": "https://anilist.co/anime/4427"
+    },
+    "k": {
+      "id": "3605",
+      "url": "https://kitsu.io/anime/3605"
+    },
+    "mal": {
+      "id": "4427",
+      "url": "https://myanimelist.net/anime/4427"
+    },
+    "t": {
+      "id": "68863",
+      "url": "https://trakt.tv/shows/68863"
+    }
+  }
+}

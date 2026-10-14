@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 857,
+  "slug": "hit-wo-nerae",
+  "kind": "anime",
+  "title": "Hit wo Nerae",
+  "titles": {
+    "default": "Hit wo Nerae",
+    "romaji": "Hit wo Nerae",
+    "native": "ヒットをねらえ!"
+  },
+  "synonyms": [
+    "Hit wo Nerae",
+    "ヒットをねらえ!",
+    "Hit o Nerae",
+    "Smash Hit",
+    "Hit wo Nerae!",
+    "Smash Hit!"
+  ],
+  "type": "tv",
+  "episodes": 8,
+  "status": "finished",
+  "season": "spring",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/964.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "964",
+      "url": "https://anilist.co/anime/964"
+    },
+    "k": {
+      "id": "854",
+      "url": "https://kitsu.io/anime/854"
+    },
+    "mal": {
+      "id": "964",
+      "url": "https://myanimelist.net/anime/964"
+    },
+    "t": {
+      "id": "65071",
+      "url": "https://trakt.tv/shows/65071"
+    }
+  }
+}

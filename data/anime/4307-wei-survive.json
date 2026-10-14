@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4307,
+  "slug": "wei-survive",
+  "kind": "anime",
+  "title": "Weiß Survive",
+  "titles": {
+    "default": "Weiß Survive",
+    "romaji": "Weiß Survive",
+    "native": "ヴァイス・サヴァイヴ"
+  },
+  "synonyms": [
+    "Weiß Survive",
+    "ヴァイス・サヴァイヴ",
+    "Weiss Survive"
+  ],
+  "type": "tv",
+  "episodes": 16,
+  "status": "finished",
+  "season": "summer",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6425.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6425",
+      "url": "https://anilist.co/anime/6425"
+    },
+    "k": {
+      "id": "4557",
+      "url": "https://kitsu.io/anime/4557"
+    },
+    "mal": {
+      "id": "6425",
+      "url": "https://myanimelist.net/anime/6425"
+    },
+    "t": {
+      "id": "61406",
+      "url": "https://trakt.tv/shows/61406"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8445,
+  "slug": "toaru-kagaku-no-suzushina-yuriko",
+  "kind": "anime",
+  "title": "Toaru Kagaku no Suzushina Yuriko",
+  "titles": {
+    "default": "Toaru Kagaku no Suzushina Yuriko",
+    "romaji": "Toaru Kagaku no Suzushina Yuriko",
+    "native": "とある科学の鈴科百合子"
+  },
+  "synonyms": [
+    "Toaru Kagaku no Suzushina Yuriko",
+    "とある科学の鈴科百合子",
+    "A Certain Scientific Yuriko Suzushina",
+    "Qin Shi Mingyue Tebie Pian: Di Zi Jiang Xi",
+    "秦时明月之帝子降兮",
+    "Qin's Moon: Lady Xiang Descends",
+    "秦时明月 特别篇 帝子降兮",
+    "Qin Shi Mingyue Special: Di Zi Jiang Xi"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b125268-LtYoDXI6WCxa.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "125268",
+      "url": "https://anilist.co/anime/125268"
+    },
+    "mal": {
+      "id": "33278",
+      "url": "https://myanimelist.net/anime/33278"
+    }
+  }
+}

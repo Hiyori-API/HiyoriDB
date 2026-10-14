@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13298,
+  "slug": "tantei-wa-mou-shindeiru-season-2",
+  "kind": "anime",
+  "title": "Tantei wa mou, Shindeiru. Season 2",
+  "titles": {
+    "default": "Tantei wa mou, Shindeiru. Season 2",
+    "romaji": "Tantei wa mou, Shindeiru. Season 2",
+    "english": "The Detective Is Already Dead Season 2",
+    "native": "探偵はもう、死んでいる。Season2"
+  },
+  "synonyms": [
+    "Tantei wa mou, Shindeiru. Season 2",
+    "The Detective Is Already Dead Season 2",
+    "探偵はもう、死んでいる。Season2",
+    "La detective esta muerta. 2",
+    "Tanmoshi 2",
+    "นักสืบตายเเล้ว ภาค 2",
+    "たんもし 2",
+    "Tanmoshi",
+    "Tantei wa Mou, Shindeiru. Season 2"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "airing",
+  "season": "fall",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152677-gtJbgjE94lCN.png"
+  ],
+  "references": {
+    "al": {
+      "id": "152677",
+      "url": "https://anilist.co/anime/152677"
+    },
+    "cr": {
+      "id": "the-detective-is-already-dead",
+      "url": "https://www.crunchyroll.com/series/the-detective-is-already-dead"
+    },
+    "mal": {
+      "id": "52480",
+      "url": "https://myanimelist.net/anime/52480"
+    },
+    "tx": {
+      "id": "tanteiwamou_",
+      "url": "https://twitter.com/tanteiwamou_"
+    }
+  }
+}

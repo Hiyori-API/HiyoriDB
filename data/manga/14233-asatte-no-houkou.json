@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14233,
+  "slug": "asatte-no-houkou",
+  "kind": "manga",
+  "title": "Asatte no Houkou",
+  "titles": {
+    "default": "Asatte no Houkou"
+  },
+  "synonyms": [
+    "A Direction of the Day After Tomorrow",
+    "Towards the Day After Tomorrow",
+    "あさっての方向。",
+    "Renai Soukanzu",
+    "恋愛相姦図",
+    "Renai Sokanzu",
+    "Pink Sweets"
+  ],
+  "type": "manga",
+  "chapters": 29,
+  "volumes": 5,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1643.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1554",
+      "url": "https://anilist.co/anime/1554"
+    },
+    "al_manga": {
+      "id": "1554",
+      "url": "https://anilist.co/manga/1554"
+    }
+  }
+}

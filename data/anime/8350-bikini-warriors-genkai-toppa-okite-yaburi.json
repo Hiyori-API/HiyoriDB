@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8350,
+  "slug": "bikini-warriors-genkai-toppa-okite-yaburi",
+  "kind": "anime",
+  "title": "BIKINI WARRIORS: Genkai Toppa, Okite-Yaburi",
+  "titles": {
+    "default": "BIKINI WARRIORS: Genkai Toppa, Okite-Yaburi",
+    "romaji": "BIKINI WARRIORS: Genkai Toppa, Okite-Yaburi",
+    "native": "ビキニ・ウォリアーズ 限界突破、掟破り"
+  },
+  "synonyms": [
+    "BIKINI WARRIORS: Genkai Toppa, Okite-Yaburi",
+    "ビキニ・ウォリアーズ 限界突破、掟破り",
+    "Gintama': Futon ni Haitte kara Buki Nokoshi ni Kizuite Neru ni Nerenai Toki mo Aru",
+    "銀魂 〜布団に入ってから拭き残しに気付いて寝るに寝れない時もある〜",
+    "Gintama (2015)",
+    "Gintama OAD",
+    "Gintama OVA",
+    "Gintama: Jump Festa 2014 Special"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21387-YKqvvla5oW8Y.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21387",
+      "url": "https://anilist.co/anime/21387"
+    },
+    "k": {
+      "id": "8627",
+      "url": "https://kitsu.io/anime/8627"
+    },
+    "mal": {
+      "id": "31283",
+      "url": "https://myanimelist.net/anime/31283"
+    },
+    "tx": {
+      "id": "bikiniwarriors",
+      "url": "https://twitter.com/bikiniwarriors"
+    }
+  }
+}

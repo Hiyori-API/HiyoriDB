@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6107,
+  "slug": "heroman-specials",
+  "kind": "anime",
+  "title": "Heroman Specials",
+  "titles": {
+    "default": "Heroman Specials",
+    "romaji": "Heroman Specials",
+    "native": "ヒーローマン 特別"
+  },
+  "synonyms": [
+    "Heroman Specials",
+    "ヒーローマン 特別",
+    "Kaibutsu Oujo (OVA) Specials",
+    "怪物王女",
+    "Princess Resurrection: Kerberotte Specials",
+    "Princess Resurrection (OVA) Specials"
+  ],
+  "type": "special",
+  "episodes": 3,
+  "status": "finished",
+  "season": "fall",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9121.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9121",
+      "url": "https://anilist.co/anime/9121"
+    },
+    "k": {
+      "id": "9159",
+      "url": "https://kitsu.io/anime/9159"
+    },
+    "mal": {
+      "id": "9121",
+      "url": "https://myanimelist.net/anime/9121"
+    }
+  }
+}

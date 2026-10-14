@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8287,
+  "slug": "gatchaman-crowds-insight-0-inbound",
+  "kind": "anime",
+  "title": "GATCHAMAN CROWDS insight #0 inbound",
+  "titles": {
+    "default": "GATCHAMAN CROWDS insight #0 inbound",
+    "romaji": "GATCHAMAN CROWDS insight #0 inbound",
+    "english": "Gatchaman Crowds insight: Inbound",
+    "native": "GATCHAMAN CROWDS insight「#0 inbound」"
+  },
+  "synonyms": [
+    "GATCHAMAN CROWDS insight #0 inbound",
+    "Gatchaman Crowds insight: Inbound",
+    "GATCHAMAN CROWDS insight「#0 inbound」",
+    "Gatchaman Crowds 2nd Season: Episode 0",
+    "Gatchaman Crowds Second Season: Episode 0",
+    "Gatchaman Crowds Insight: #0 Inbound",
+    "GATCHAMAN CROWDS insight（インサイト）「#0 inbound」",
+    "Gatchaman Crowds Insight: Inbound"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21252-4YZzferZBQ9U.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21252",
+      "url": "https://anilist.co/anime/21252"
+    },
+    "cr": {
+      "id": "gatchaman-crowds",
+      "url": "https://www.crunchyroll.com/series/gatchaman-crowds"
+    },
+    "mal": {
+      "id": "30925",
+      "url": "https://myanimelist.net/anime/30925"
+    }
+  }
+}

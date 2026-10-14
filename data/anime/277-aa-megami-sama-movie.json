@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 277,
+  "slug": "aa-megami-sama-movie",
+  "kind": "anime",
+  "title": "Aa! Megami-sama! Movie",
+  "titles": {
+    "default": "Aa! Megami-sama! Movie",
+    "romaji": "Aa! Megami-sama! Movie",
+    "english": "Ah! My Goddess: The Movie",
+    "native": "劇場版 ああっ女神さまっ"
+  },
+  "synonyms": [
+    "Aa! Megami-sama! Movie",
+    "Ah! My Goddess: The Movie",
+    "劇場版 ああっ女神さまっ",
+    "Gekijouban Aa! Megamisama",
+    "Aa! Megami-sama!: The Movie",
+    "劇場版　ああっ女神さまっ"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx304-p9BSB5gOwZRO.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "304",
+      "url": "https://anilist.co/anime/304"
+    },
+    "k": {
+      "id": "7784",
+      "url": "https://kitsu.io/anime/7784"
+    },
+    "mal": {
+      "id": "304",
+      "url": "https://myanimelist.net/anime/304"
+    }
+  }
+}

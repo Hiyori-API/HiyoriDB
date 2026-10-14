@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1788,
+  "slug": "hayate-no-gotoku",
+  "kind": "anime",
+  "title": "Hayate no Gotoku!",
+  "titles": {
+    "default": "Hayate no Gotoku!",
+    "romaji": "Hayate no Gotoku!",
+    "english": "Hayate the Combat Butler",
+    "native": "ハヤテのごとく！"
+  },
+  "synonyms": [
+    "Hayate no Gotoku!",
+    "Hayate the Combat Butler",
+    "ハヤテのごとく！"
+  ],
+  "type": "tv",
+  "episodes": 52,
+  "status": "finished",
+  "season": "spring",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2026-xoCa4unn5iOi.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2026",
+      "url": "https://anilist.co/anime/2026"
+    },
+    "cr": {
+      "id": "hayate-the-combat-butler-season-1-2",
+      "url": "https://www.crunchyroll.com/series/hayate-the-combat-butler-season-1-2"
+    },
+    "k": {
+      "id": "1825",
+      "url": "https://kitsu.io/anime/1825"
+    },
+    "mal": {
+      "id": "2026",
+      "url": "https://myanimelist.net/anime/2026"
+    },
+    "t": {
+      "id": "56000",
+      "url": "https://trakt.tv/shows/56000"
+    }
+  }
+}

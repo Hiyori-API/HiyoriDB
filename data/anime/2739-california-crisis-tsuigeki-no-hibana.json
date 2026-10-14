@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2739,
+  "slug": "california-crisis-tsuigeki-no-hibana",
+  "kind": "anime",
+  "title": "California Crisis: Tsuigeki no Hibana",
+  "titles": {
+    "default": "California Crisis: Tsuigeki no Hibana",
+    "romaji": "California Crisis: Tsuigeki no Hibana",
+    "english": "California Crisis: Gun Salvo",
+    "native": "カリフォルニア・クライシス　追撃の銃火"
+  },
+  "synonyms": [
+    "California Crisis: Tsuigeki no Hibana",
+    "California Crisis: Gun Salvo",
+    "カリフォルニア・クライシス　追撃の銃火",
+    "California Crisis: Tsuigeki no Juka",
+    "California Crisis: Tsuigeki no Juuka [Hibana]",
+    "Call Me Tonight",
+    "コール・ミー・トゥナイト",
+    "Pink Noise"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx3127-auDAkoqcfjE1.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3127",
+      "url": "https://anilist.co/anime/3127"
+    },
+    "k": {
+      "id": "1944",
+      "url": "https://kitsu.io/anime/1944"
+    },
+    "mal": {
+      "id": "3127",
+      "url": "https://myanimelist.net/anime/3127"
+    }
+  }
+}

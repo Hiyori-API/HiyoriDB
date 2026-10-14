@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7425,
+  "slug": "battle-spirits-saikyou-ginga-ultimate-zero",
+  "kind": "anime",
+  "title": "Battle Spirits: Saikyou Ginga Ultimate Zero",
+  "titles": {
+    "default": "Battle Spirits: Saikyou Ginga Ultimate Zero",
+    "romaji": "Battle Spirits: Saikyou Ginga Ultimate Zero",
+    "english": "Battle Spirits: Strongest Galaxy Ultimate Zero",
+    "native": "最強銀河 究極[アルティメット]ゼロ~バトルスピリッツ~"
+  },
+  "synonyms": [
+    "Battle Spirits: Saikyou Ginga Ultimate Zero",
+    "Battle Spirits: Strongest Galaxy Ultimate Zero",
+    "最強銀河 究極[アルティメット]ゼロ~バトルスピリッツ~",
+    "The Greatest Galaxy Ultimate Zero -Battle Spirits-",
+    "Glitter Force: Dokidoki!",
+    "Dokidoki! Precure",
+    "Glitter Force Doki Doki",
+    "ドキドキ! プリキュア",
+    "Doki Doki! Precure",
+    "Doki Doki! Pretty Cure"
+  ],
+  "type": "tv",
+  "episodes": 49,
+  "status": "finished",
+  "season": "fall",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19825-tYWnHBZlqCzY.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "19825",
+      "url": "https://anilist.co/anime/19825"
+    },
+    "k": {
+      "id": "7426",
+      "url": "https://kitsu.io/anime/7426"
+    },
+    "mal": {
+      "id": "19825",
+      "url": "https://myanimelist.net/anime/19825"
+    },
+    "nf": {
+      "id": "80175619",
+      "url": "https://www.netflix.com/title/80175619"
+    },
+    "t": {
+      "id": "69317",
+      "url": "https://trakt.tv/shows/69317"
+    }
+  }
+}

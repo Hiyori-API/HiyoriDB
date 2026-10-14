@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10366,
+  "slug": "oshi-ga-budoukan-ittekuretara-shinu",
+  "kind": "anime",
+  "title": "Oshi ga Budoukan Ittekuretara Shinu",
+  "titles": {
+    "default": "Oshi ga Budoukan Ittekuretara Shinu",
+    "romaji": "Oshi ga Budoukan Ittekuretara Shinu",
+    "english": "If My Favorite Pop Idol Made It to the Budokan, I Would Die",
+    "native": "推しが武道館いってくれたら死ぬ"
+  },
+  "synonyms": [
+    "Oshi ga Budoukan Ittekuretara Shinu",
+    "If My Favorite Pop Idol Made It to the Budokan, I Would Die",
+    "推しが武道館いってくれたら死ぬ",
+    "If the Fan Goes to Budoukan, She’ll Die",
+    "OshiBudo",
+    "Je la vois déjà en haut de l'affiche",
+    "Se la mia idol preferita arrivasse al Budokan, morirei",
+    "OshiBudou"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104391-5gOoFEMiSFg1.png"
+  ],
+  "references": {
+    "al": {
+      "id": "104391",
+      "url": "https://anilist.co/anime/104391"
+    },
+    "cr": {
+      "id": "if-my-favorite-pop-idol-made-it-to-the-budokan-i-would-die",
+      "url": "https://www.crunchyroll.com/series/if-my-favorite-pop-idol-made-it-to-the-budokan-i-would-die"
+    },
+    "mal": {
+      "id": "37890",
+      "url": "https://myanimelist.net/anime/37890"
+    },
+    "tx": {
+      "id": "anime_oshibudo",
+      "url": "https://twitter.com/anime_oshibudo"
+    }
+  }
+}

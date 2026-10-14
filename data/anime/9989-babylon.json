@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9989,
+  "slug": "babylon",
+  "kind": "anime",
+  "title": "Babylon",
+  "titles": {
+    "default": "Babylon",
+    "romaji": "Babylon",
+    "english": "BABYLON",
+    "native": "バビロン"
+  },
+  "synonyms": [
+    "Babylon",
+    "BABYLON",
+    "バビロン",
+    "Babilonia",
+    "Ring ni Kakero 1",
+    "リングにかけろ１",
+    "Put it all in the Ring"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101349-AWy5SjUS8mYZ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101349",
+      "url": "https://anilist.co/anime/101349"
+    },
+    "k": {
+      "id": "14",
+      "url": "https://kitsu.io/anime/14"
+    },
+    "mal": {
+      "id": "37525",
+      "url": "https://myanimelist.net/anime/37525"
+    },
+    "t": {
+      "id": "69507",
+      "url": "https://trakt.tv/shows/69507"
+    },
+    "tx": {
+      "id": "babylon_anime",
+      "url": "https://twitter.com/babylon_anime"
+    }
+  }
+}

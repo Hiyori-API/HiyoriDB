@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7950,
+  "slug": "bishoujo-mobage-mobami-chan",
+  "kind": "anime",
+  "title": "Bishoujo Mobage: Mobami-chan",
+  "titles": {
+    "default": "Bishoujo Mobage: Mobami-chan",
+    "romaji": "Bishoujo Mobage: Mobami-chan",
+    "native": "美少女Mobage モバミちゃん"
+  },
+  "synonyms": [
+    "Bishoujo Mobage: Mobami-chan",
+    "美少女Mobage モバミちゃん"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx102406-xULqvBI6AAR5.png"
+  ],
+  "references": {
+    "al": {
+      "id": "102406",
+      "url": "https://anilist.co/anime/102406"
+    },
+    "k": {
+      "id": "9099",
+      "url": "https://kitsu.io/anime/9099"
+    },
+    "mal": {
+      "id": "25991",
+      "url": "https://myanimelist.net/anime/25991"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3461,
+  "slug": "duel-masters-charge",
+  "kind": "anime",
+  "title": "Duel Masters Charge",
+  "titles": {
+    "default": "Duel Masters Charge",
+    "romaji": "Duel Masters Charge",
+    "native": "デュエル・マスターズ　チャージ"
+  },
+  "synonyms": [
+    "Duel Masters Charge",
+    "デュエル・マスターズ　チャージ",
+    "Beet the Vandel Buster",
+    "冒険王ビィト",
+    "Adventure King Beet",
+    "Bouken Ou Beet"
+  ],
+  "type": "tv",
+  "episodes": 52,
+  "status": "finished",
+  "season": "spring",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4443-n6I7pxFYCMtx.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4443",
+      "url": "https://anilist.co/anime/4443"
+    },
+    "k": {
+      "id": "5",
+      "url": "https://kitsu.io/anime/5"
+    },
+    "mal": {
+      "id": "4443",
+      "url": "https://myanimelist.net/anime/4443"
+    },
+    "t": {
+      "id": "43047",
+      "url": "https://trakt.tv/shows/43047"
+    }
+  }
+}

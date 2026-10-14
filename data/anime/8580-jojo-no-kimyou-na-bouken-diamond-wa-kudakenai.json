@@ -1,0 +1,63 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8580,
+  "slug": "jojo-no-kimyou-na-bouken-diamond-wa-kudakenai",
+  "kind": "anime",
+  "title": "JoJo no Kimyou na Bouken: Diamond wa Kudakenai",
+  "titles": {
+    "default": "JoJo no Kimyou na Bouken: Diamond wa Kudakenai",
+    "romaji": "JoJo no Kimyou na Bouken: Diamond wa Kudakenai",
+    "english": "JoJo's Bizarre Adventure: Diamond is Unbreakable",
+    "native": "ジョジョの奇妙な冒険 ダイヤモンドは砕けない"
+  },
+  "synonyms": [
+    "JoJo no Kimyou na Bouken: Diamond wa Kudakenai",
+    "JoJo's Bizarre Adventure: Diamond is Unbreakable",
+    "ジョジョの奇妙な冒険 ダイヤモンドは砕けない",
+    "JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai",
+    "JoJo's Bizarre Adventure Part 4: Diamond is Unbreakable",
+    "مغامرات جوجو العجيبة: الألماس غير قابل للكسر",
+    "Le bizzarre avventure di JoJo: Diamond is Unbreakable",
+    "Невероятные приключения ДжоДжо: Diamond is Unbreakable",
+    "Diamond is not Crash",
+    "JoJo's Bizarre Adventure: Diamond Is Unbreakable"
+  ],
+  "type": "tv",
+  "episodes": 39,
+  "status": "finished",
+  "season": "spring",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21450-D7XFwEQjZ5GA.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21450",
+      "url": "https://anilist.co/anime/21450"
+    },
+    "ap": {
+      "id": "B0B75Z4JDX",
+      "url": "https://www.amazon.com/gp/video/detail/B0B75Z4JDX"
+    },
+    "cr": {
+      "id": "jojos-bizarre-adventure",
+      "url": "https://www.crunchyroll.com/series/jojos-bizarre-adventure"
+    },
+    "mal": {
+      "id": "31933",
+      "url": "https://myanimelist.net/anime/31933"
+    },
+    "nf": {
+      "id": "80179831",
+      "url": "https://www.netflix.com/title/80179831"
+    },
+    "ttv": {
+      "id": "1823",
+      "url": "https://tubitv.com/series/1823"
+    },
+    "tx": {
+      "id": "anime_jojo",
+      "url": "https://twitter.com/anime_jojo"
+    }
+  }
+}

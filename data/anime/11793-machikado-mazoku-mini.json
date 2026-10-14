@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11793,
+  "slug": "machikado-mazoku-mini",
+  "kind": "anime",
+  "title": "Machikado Mazoku Mini",
+  "titles": {
+    "default": "Machikado Mazoku Mini",
+    "romaji": "Machikado Mazoku Mini",
+    "english": "The Demon Girl Next Door Minis",
+    "native": "まちカドまぞく みに"
+  },
+  "synonyms": [
+    "Machikado Mazoku Mini",
+    "The Demon Girl Next Door Minis",
+    "まちカドまぞく みに"
+  ],
+  "type": "ona",
+  "episodes": 36,
+  "status": "finished",
+  "season": "summer",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113302-R0e8WO9TVOXU.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "113302",
+      "url": "https://anilist.co/anime/113302"
+    },
+    "mal": {
+      "id": "40755",
+      "url": "https://myanimelist.net/anime/40755"
+    },
+    "tx": {
+      "id": "search",
+      "url": "https://twitter.com/search"
+    }
+  }
+}

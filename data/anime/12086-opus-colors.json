@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12086,
+  "slug": "opus-colors",
+  "kind": "anime",
+  "title": "Opus.COLORs",
+  "titles": {
+    "default": "Opus.COLORs",
+    "romaji": "Opus.COLORs",
+    "native": "Opus.COLORs（オーパスカラーズ）"
+  },
+  "synonyms": [
+    "Opus.COLORs",
+    "Opus.COLORs（オーパスカラーズ）",
+    "Skip and Loafer",
+    "スキップとローファー",
+    "Skip to Loafer"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2023,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146678-og5HsnoGY1zU.png"
+  ],
+  "references": {
+    "al": {
+      "id": "146678",
+      "url": "https://anilist.co/anime/146678"
+    },
+    "cr": {
+      "id": "series/GVDHX8Q91/opuscolors",
+      "url": "https://www.crunchyroll.com/series/series/GVDHX8Q91/opuscolors"
+    },
+    "mal": {
+      "id": "51415",
+      "url": "https://myanimelist.net/anime/51415"
+    },
+    "tx": {
+      "id": "opus_colors",
+      "url": "https://twitter.com/opus_colors"
+    }
+  }
+}

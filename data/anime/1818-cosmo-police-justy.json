@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1818,
+  "slug": "cosmo-police-justy",
+  "kind": "anime",
+  "title": "COSMO POLICE Justy",
+  "titles": {
+    "default": "COSMO POLICE Justy",
+    "romaji": "COSMO POLICE Justy",
+    "native": "ＣＯＳＭＯ　ＰＯＬＩＣＥ　ジャスティ"
+  },
+  "synonyms": [
+    "COSMO POLICE Justy",
+    "ＣＯＳＭＯ　ＰＯＬＩＣＥ　ジャスティ",
+    "Justy, Policía del Cosmos",
+    "Cosmo Police Justy",
+    "COSMO POLICE ジャスティ"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2056-SFdKi4BN6rHk.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2056",
+      "url": "https://anilist.co/anime/2056"
+    },
+    "k": {
+      "id": "1855",
+      "url": "https://kitsu.io/anime/1855"
+    },
+    "mal": {
+      "id": "2056",
+      "url": "https://myanimelist.net/anime/2056"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13990,
+  "slug": "magic-knight-rayearth-2",
+  "kind": "manga",
+  "title": "Magic Knight Rayearth 2",
+  "titles": {
+    "default": "Magic Knight Rayearth 2"
+  },
+  "synonyms": [
+    "Mahou Kishi Rayearth 2",
+    "Guerreiras Mágicas de Rayearth Fase 2",
+    "Luchadoras de leyenda 2",
+    "Hiệp sĩ phép màu 2",
+    "마법기사 레이어스 2부",
+    "Magic Knight Rayearth 2",
+    "魔法騎士レイアース2",
+    "Magic Knight Rayearth II"
+  ],
+  "type": "manga",
+  "chapters": 14,
+  "volumes": 3,
+  "status": "finished",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30697-RvNgBfVQ0WuU.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1563",
+      "url": "https://anilist.co/anime/1563"
+    },
+    "al_manga": {
+      "id": "1563",
+      "url": "https://anilist.co/manga/1563"
+    }
+  }
+}

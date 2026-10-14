@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5066,
+  "slug": "circuit-no-ookami-ii-modena-no-ken",
+  "kind": "anime",
+  "title": "Circuit no Ookami II: Modena no Ken",
+  "titles": {
+    "default": "Circuit no Ookami II: Modena no Ken",
+    "romaji": "Circuit no Ookami II: Modena no Ken",
+    "native": "サーキットの狼II モデナの剣"
+  },
+  "synonyms": [
+    "Circuit no Ookami II: Modena no Ken",
+    "サーキットの狼II モデナの剣",
+    "Circuit no Ookami II: Modena no Tsurugi"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10967.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10967",
+      "url": "https://anilist.co/anime/10967"
+    },
+    "k": {
+      "id": "6429",
+      "url": "https://kitsu.io/anime/6429"
+    },
+    "mal": {
+      "id": "10967",
+      "url": "https://myanimelist.net/anime/10967"
+    }
+  }
+}

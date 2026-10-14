@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9973,
+  "slug": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-orion-no-ya",
+  "kind": "anime",
+  "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka: Orion no Ya",
+  "titles": {
+    "default": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka: Orion no Ya",
+    "romaji": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka: Orion no Ya",
+    "english": "Is It Wrong to Try to Pick Up Girls in a Dungeon?: Arrow of the Orion",
+    "native": "ダンジョンに出会いを求めるのは間違っているだろうか ─ オリオンの矢 ─"
+  },
+  "synonyms": [
+    "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka: Orion no Ya",
+    "Is It Wrong to Try to Pick Up Girls in a Dungeon?: Arrow of the Orion",
+    "ダンジョンに出会いを求めるのは間違っているだろうか ─ オリオンの矢 ─",
+    "DanMachi: Arrow of the Orion",
+    "Cencoroll 2",
+    "センコロール"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101166-aF8tzfuui6Bp.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101166",
+      "url": "https://anilist.co/anime/101166"
+    },
+    "k": {
+      "id": "5749",
+      "url": "https://kitsu.io/anime/5749"
+    },
+    "mal": {
+      "id": "37348",
+      "url": "https://myanimelist.net/anime/37348"
+    },
+    "nf": {
+      "id": "81101468",
+      "url": "https://www.netflix.com/title/81101468"
+    },
+    "tx": {
+      "id": "danmachi_anime",
+      "url": "https://twitter.com/danmachi_anime"
+    }
+  }
+}

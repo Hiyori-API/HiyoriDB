@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13572,
+  "slug": "yani-neko",
+  "kind": "anime",
+  "title": "Yani Neko",
+  "titles": {
+    "default": "Yani Neko",
+    "romaji": "Yani Neko",
+    "english": "Chainsmoker Cat",
+    "native": "ヤニねこ"
+  },
+  "synonyms": [
+    "Yani Neko",
+    "Chainsmoker Cat",
+    "ヤニねこ",
+    "แมวสาวอมควัน",
+    "尼古喵喵",
+    "DearS",
+    "ディアーズ"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207141-h5q5KJPd6vaX.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "207141",
+      "url": "https://anilist.co/anime/207141"
+    },
+    "cr": {
+      "id": "series/GRZXD528Y/dears",
+      "url": "https://www.crunchyroll.com/series/series/GRZXD528Y/dears"
+    },
+    "k": {
+      "id": "44",
+      "url": "https://kitsu.io/anime/44"
+    },
+    "mal": {
+      "id": "63403",
+      "url": "https://myanimelist.net/anime/63403"
+    },
+    "nf": {
+      "id": "82760630",
+      "url": "https://www.netflix.com/title/82760630"
+    },
+    "t": {
+      "id": "61051",
+      "url": "https://trakt.tv/shows/61051"
+    }
+  }
+}

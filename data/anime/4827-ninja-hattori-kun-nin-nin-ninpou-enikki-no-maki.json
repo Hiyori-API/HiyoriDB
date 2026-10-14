@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4827,
+  "slug": "ninja-hattori-kun-nin-nin-ninpou-enikki-no-maki",
+  "kind": "anime",
+  "title": "Ninja Hattori-kun: Nin Nin Ninpou Enikki no Maki",
+  "titles": {
+    "default": "Ninja Hattori-kun: Nin Nin Ninpou Enikki no Maki",
+    "romaji": "Ninja Hattori-kun: Nin Nin Ninpou Enikki no Maki",
+    "native": "忍者ハットリくん ニンニン忍法絵日記の巻"
+  },
+  "synonyms": [
+    "Ninja Hattori-kun: Nin Nin Ninpou Enikki no Maki",
+    "忍者ハットリくん ニンニン忍法絵日記の巻",
+    "Ninja Hattori: Picture Diary",
+    "Gauche the Cellist",
+    "Cello Hiki no Gauche (1982)",
+    "セロ弾きのゴーシュ",
+    "Serohiki no Goshu",
+    "Gorsch the Cellist"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1982,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177143-7GeXjrIBfzT8.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "177143",
+      "url": "https://anilist.co/anime/177143"
+    },
+    "k": {
+      "id": "939",
+      "url": "https://kitsu.io/anime/939"
+    },
+    "mal": {
+      "id": "21493",
+      "url": "https://myanimelist.net/anime/21493"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6446,
+  "slug": "ojii-san-no-lamp",
+  "kind": "anime",
+  "title": "Ojii-san no Lamp",
+  "titles": {
+    "default": "Ojii-san no Lamp",
+    "romaji": "Ojii-san no Lamp",
+    "native": "おぢいさんのランプ"
+  },
+  "synonyms": [
+    "Ojii-san no Lamp",
+    "おぢいさんのランプ",
+    "Ojisan no Lamp",
+    "Grandfather's Lamp",
+    "Wakate Animator Ikusei Project",
+    "2010 Young Animator Training Project",
+    "Anime Mirai 2010",
+    "PROJECT A",
+    "Ojiisan no Lamp",
+    "Project A"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n10500-jmcqLz2iGNO0.png"
+  ],
+  "references": {
+    "al": {
+      "id": "10500",
+      "url": "https://anilist.co/anime/10500"
+    },
+    "k": {
+      "id": "6208",
+      "url": "https://kitsu.io/anime/6208"
+    },
+    "mal": {
+      "id": "10500",
+      "url": "https://myanimelist.net/anime/10500"
+    }
+  }
+}

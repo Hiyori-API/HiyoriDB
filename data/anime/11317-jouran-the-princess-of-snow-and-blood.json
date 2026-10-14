@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11317,
+  "slug": "jouran-the-princess-of-snow-and-blood",
+  "kind": "anime",
+  "title": "Jouran: THE PRINCESS OF SNOW AND BLOOD",
+  "titles": {
+    "default": "Jouran: THE PRINCESS OF SNOW AND BLOOD",
+    "romaji": "Jouran: THE PRINCESS OF SNOW AND BLOOD",
+    "english": "JORAN THE PRINCESS OF SNOW AND BLOOD",
+    "native": "擾乱 THE PRINCESS OF SNOW AND BLOOD"
+  },
+  "synonyms": [
+    "Jouran: THE PRINCESS OF SNOW AND BLOOD",
+    "JORAN THE PRINCESS OF SNOW AND BLOOD",
+    "擾乱 THE PRINCESS OF SNOW AND BLOOD",
+    "ヘタリア World★Stars",
+    "Hetalia World★Stars"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129664-YeovI2zsTwY9.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "129664",
+      "url": "https://anilist.co/anime/129664"
+    },
+    "cr": {
+      "id": "joran-the-princess-of-snow-and-blood",
+      "url": "https://www.crunchyroll.com/series/joran-the-princess-of-snow-and-blood"
+    },
+    "mal": {
+      "id": "47250",
+      "url": "https://myanimelist.net/anime/47250"
+    },
+    "tx": {
+      "id": "joran_official",
+      "url": "https://twitter.com/joran_official"
+    }
+  }
+}

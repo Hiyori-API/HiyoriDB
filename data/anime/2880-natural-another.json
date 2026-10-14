@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2880,
+  "slug": "natural-another",
+  "kind": "anime",
+  "title": "Natural: Another",
+  "titles": {
+    "default": "Natural: Another",
+    "romaji": "Natural: Another",
+    "english": "Teacher's Pet (2)",
+    "native": "ナチュラル Another"
+  },
+  "synonyms": [
+    "Natural: Another",
+    "Teacher's Pet (2)",
+    "ナチュラル Another",
+    "Angelique: Shiroi Tsubasa no Memoire",
+    "アンジェリーク　～白い翼のメモワール～",
+    "Angelique: White Wing Memoirs",
+    "Angelique OVA 1"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3370.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3370",
+      "url": "https://anilist.co/anime/3370"
+    },
+    "k": {
+      "id": "2301",
+      "url": "https://kitsu.io/anime/2301"
+    },
+    "mal": {
+      "id": "3370",
+      "url": "https://myanimelist.net/anime/3370"
+    }
+  }
+}

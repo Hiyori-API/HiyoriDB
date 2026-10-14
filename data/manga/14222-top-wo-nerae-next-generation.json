@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14222,
+  "slug": "top-wo-nerae-next-generation",
+  "kind": "manga",
+  "title": "Top wo Nerae! NeXT GENERATION",
+  "titles": {
+    "default": "Top wo Nerae! NeXT GENERATION"
+  },
+  "synonyms": [
+    "GunBuster: Next Generation",
+    "トップをねらえ! NeXT GENERATION",
+    "Gekiryuuchi",
+    "激流血～OVER BLEED～",
+    "Over Bleed"
+  ],
+  "type": "manga",
+  "chapters": 17,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx51161-F6X9hufTuu9d.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1002",
+      "url": "https://anilist.co/anime/1002"
+    },
+    "al_manga": {
+      "id": "1002",
+      "url": "https://anilist.co/manga/1002"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2685,
+  "slug": "darling",
+  "kind": "anime",
+  "title": "Darling",
+  "titles": {
+    "default": "Darling",
+    "romaji": "Darling",
+    "native": "ダーリン"
+  },
+  "synonyms": [
+    "Darling",
+    "ダーリン",
+    "Darling Page",
+    "Sakura Wars: School of Paris",
+    "Sakura Taisen: Ecole de Paris",
+    "サクラ大戦 エコール・ド・巴里",
+    "Sakura Wars OVA 3",
+    "Sakura Taisen: École de Paris",
+    "Sakura Taisen OVA 3"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "winter",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3058.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3058",
+      "url": "https://anilist.co/anime/3058"
+    },
+    "k": {
+      "id": "1769",
+      "url": "https://kitsu.io/anime/1769"
+    },
+    "mal": {
+      "id": "3058",
+      "url": "https://myanimelist.net/anime/3058"
+    }
+  }
+}

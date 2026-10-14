@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14964,
+  "slug": "oz",
+  "kind": "manga",
+  "title": "OZ",
+  "titles": {
+    "default": "OZ"
+  },
+  "synonyms": [
+    "オズ",
+    "Vaelber Saga",
+    "ヴェルバーサーガ"
+  ],
+  "type": "manga",
+  "chapters": 10,
+  "volumes": 4,
+  "status": "finished",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx89789-r64cjNu5qswz.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2785",
+      "url": "https://anilist.co/anime/2785"
+    },
+    "al_manga": {
+      "id": "2785",
+      "url": "https://anilist.co/manga/2785"
+    }
+  }
+}

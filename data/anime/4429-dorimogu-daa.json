@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4429,
+  "slug": "dorimogu-daa",
+  "kind": "anime",
+  "title": "Dorimogu Daa!!",
+  "titles": {
+    "default": "Dorimogu Daa!!",
+    "romaji": "Dorimogu Daa!!",
+    "english": "Mock & Sweet",
+    "native": "ドリモグだァ!!"
+  },
+  "synonyms": [
+    "Dorimogu Daa!!",
+    "Mock & Sweet",
+    "ドリモグだァ!!",
+    "Abenteuer im Maulwurfsland",
+    "As aventuras de Nick & Neck",
+    "Choupette et Topi",
+    "L'allegro mondo di Talpilandia",
+    "Mock and Sweet"
+  ],
+  "type": "tv",
+  "episodes": 49,
+  "status": "finished",
+  "season": "fall",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6771.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6771",
+      "url": "https://anilist.co/anime/6771"
+    },
+    "k": {
+      "id": "4707",
+      "url": "https://kitsu.io/anime/4707"
+    },
+    "mal": {
+      "id": "6771",
+      "url": "https://myanimelist.net/anime/6771"
+    }
+  }
+}

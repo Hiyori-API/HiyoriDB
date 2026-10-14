@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12637,
+  "slug": "ao-no-hako",
+  "kind": "anime",
+  "title": "Ao no Hako",
+  "titles": {
+    "default": "Ao no Hako",
+    "romaji": "Ao no Hako",
+    "english": "Blue Box",
+    "native": "アオのハコ"
+  },
+  "synonyms": [
+    "Ao no Hako",
+    "Blue Box",
+    "アオのハコ",
+    "الصندوق الأزرق",
+    "青之箱",
+    "푸른 상자",
+    "La caja azul",
+    "กล่องรักวัยใส",
+    "Niebieskie pudełko",
+    "Yutori-chan",
+    "ゆとりちゃん"
+  ],
+  "type": "ona",
+  "episodes": 25,
+  "status": "finished",
+  "season": "fall",
+  "year": 2024,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170942-KKcLfQzV57nG.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "170942",
+      "url": "https://anilist.co/anime/170942"
+    },
+    "k": {
+      "id": "5115",
+      "url": "https://kitsu.io/anime/5115"
+    },
+    "mal": {
+      "id": "57181",
+      "url": "https://myanimelist.net/anime/57181"
+    },
+    "nf": {
+      "id": "81663323",
+      "url": "https://www.netflix.com/title/81663323"
+    },
+    "tx": {
+      "id": "aonohako_PR",
+      "url": "https://twitter.com/aonohako_PR"
+    }
+  }
+}

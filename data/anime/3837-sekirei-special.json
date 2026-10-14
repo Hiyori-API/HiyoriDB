@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3837,
+  "slug": "sekirei-special",
+  "kind": "anime",
+  "title": "Sekirei Special",
+  "titles": {
+    "default": "Sekirei Special",
+    "romaji": "Sekirei Special"
+  },
+  "synonyms": [
+    "Sekirei Special",
+    "Sekirei OVA",
+    "Sekirei: Hajimete no Otsukai",
+    "セキレイ「初メテノオツカイ」"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5279.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5279",
+      "url": "https://anilist.co/anime/5279"
+    },
+    "k": {
+      "id": "4031",
+      "url": "https://kitsu.io/anime/4031"
+    },
+    "mal": {
+      "id": "5279",
+      "url": "https://myanimelist.net/anime/5279"
+    }
+  }
+}

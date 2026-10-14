@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6562,
+  "slug": "tiger-bunny-pilot",
+  "kind": "anime",
+  "title": "TIGER & BUNNY Pilot",
+  "titles": {
+    "default": "TIGER & BUNNY Pilot",
+    "romaji": "TIGER & BUNNY Pilot",
+    "english": "Tiger & Bunny Pilot",
+    "native": "TIGER & BUNNY （タイガー・アンド・バニー）"
+  },
+  "synonyms": [
+    "TIGER & BUNNY Pilot",
+    "Tiger & Bunny Pilot",
+    "TIGER & BUNNY （タイガー・アンド・バニー）",
+    "Tiger and Bunny Pilot",
+    "Taibani Pilot"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b11099-tGW4ZmVQwm04.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11099",
+      "url": "https://anilist.co/anime/11099"
+    },
+    "k": {
+      "id": "6459",
+      "url": "https://kitsu.io/anime/6459"
+    },
+    "mal": {
+      "id": "11099",
+      "url": "https://myanimelist.net/anime/11099"
+    }
+  }
+}

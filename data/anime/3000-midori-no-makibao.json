@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3000,
+  "slug": "midori-no-makibao",
+  "kind": "anime",
+  "title": "Midori no Makibao",
+  "titles": {
+    "default": "Midori no Makibao",
+    "romaji": "Midori no Makibao",
+    "native": "みどりのマキバオー"
+  },
+  "synonyms": [
+    "Midori no Makibao",
+    "みどりのマキバオー",
+    "The Incredible Race Horse",
+    "Green Makibao"
+  ],
+  "type": "tv",
+  "episodes": 61,
+  "status": "finished",
+  "season": "spring",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3550-4pe4g4EAIhR7.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3550",
+      "url": "https://anilist.co/anime/3550"
+    },
+    "k": {
+      "id": "3094",
+      "url": "https://kitsu.io/anime/3094"
+    },
+    "mal": {
+      "id": "3550",
+      "url": "https://myanimelist.net/anime/3550"
+    }
+  }
+}

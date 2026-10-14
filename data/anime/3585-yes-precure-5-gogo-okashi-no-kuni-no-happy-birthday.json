@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3585,
+  "slug": "yes-precure-5-gogo-okashi-no-kuni-no-happy-birthday",
+  "kind": "anime",
+  "title": "Yes! Precure 5 GoGo! Okashi no Kuni no Happy Birthday♪",
+  "titles": {
+    "default": "Yes! Precure 5 GoGo! Okashi no Kuni no Happy Birthday♪",
+    "romaji": "Yes! Precure 5 GoGo! Okashi no Kuni no Happy Birthday♪",
+    "native": "Yes! プリキュア５GoGo! お菓子の国のハッピーバースデイ♪"
+  },
+  "synonyms": [
+    "Yes! Precure 5 GoGo! Okashi no Kuni no Happy Birthday♪",
+    "Yes! プリキュア５GoGo! お菓子の国のハッピーバースデイ♪",
+    "Eiga Yes! Pretty Cure 5 GoGo!: Okashi no Kuni no Happy Birthday",
+    "Eiga Yes! Pretty Cure 5 GoGo!: Happy Birthday in the Sweets Kingdom",
+    "Yes! Pretty Cure 5 GoGo! - Buon compleanno carissima Nozomi",
+    "Yes! Precure 5 GoGo! Movie: Okashi no Kuni no Happy Birthday",
+    "映画　Yes! プリキュア５ GoGo! お菓子の国のハッピーバースデイ"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4703-1VToRbHzHTCy.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4703",
+      "url": "https://anilist.co/anime/4703"
+    },
+    "k": {
+      "id": "3750",
+      "url": "https://kitsu.io/anime/3750"
+    },
+    "mal": {
+      "id": "4703",
+      "url": "https://myanimelist.net/anime/4703"
+    }
+  }
+}

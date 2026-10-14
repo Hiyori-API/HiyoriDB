@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2478,
+  "slug": "b-densetsu-battle-b-daman",
+  "kind": "anime",
+  "title": "B-Densetsu! Battle B-Daman",
+  "titles": {
+    "default": "B-Densetsu! Battle B-Daman",
+    "romaji": "B-Densetsu! Battle B-Daman",
+    "english": "Battle B-Daman",
+    "native": "B-伝説！バトルビーダマン"
+  },
+  "synonyms": [
+    "B-Densetsu! Battle B-Daman",
+    "Battle B-Daman",
+    "B-伝説！バトルビーダマン",
+    "B-Legend! Battle B-Daman",
+    "Bedaman",
+    "Battle B'Daman",
+    "B-伝説(ビーレジェンド)! バトルビーダマン"
+  ],
+  "type": "tv",
+  "episodes": 52,
+  "status": "finished",
+  "season": "winter",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2789-jYQtYBAtOEOa.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2789",
+      "url": "https://anilist.co/anime/2789"
+    },
+    "mal": {
+      "id": "2789",
+      "url": "https://myanimelist.net/anime/2789"
+    },
+    "tvt": {
+      "id": "bedaman",
+      "url": "http://www.tv-tokyo.co.jp/anime/bedaman"
+    }
+  }
+}

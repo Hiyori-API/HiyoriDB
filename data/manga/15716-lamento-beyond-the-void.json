@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15716,
+  "slug": "lamento-beyond-the-void",
+  "kind": "manga",
+  "title": "Lamento: Beyond the Void",
+  "titles": {
+    "default": "Lamento: Beyond the Void"
+  },
+  "synonyms": [
+    "Lamento - Beyond the Void",
+    "ラメント",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "volumes": 2,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12145.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "110346",
+      "url": "https://anilist.co/anime/110346"
+    },
+    "al_manga": {
+      "id": "110346",
+      "url": "https://anilist.co/manga/110346"
+    }
+  }
+}

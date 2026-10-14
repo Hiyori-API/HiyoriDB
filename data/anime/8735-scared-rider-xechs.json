@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8735,
+  "slug": "scared-rider-xechs",
+  "kind": "anime",
+  "title": "Scared Rider XechS",
+  "titles": {
+    "default": "Scared Rider XechS",
+    "romaji": "Scared Rider XechS",
+    "english": "Sca-red Rider XechS",
+    "native": "スカーレッドライダーゼクス"
+  },
+  "synonyms": [
+    "Scared Rider XechS",
+    "Sca-red Rider XechS",
+    "スカーレッドライダーゼクス",
+    "Sweetness & Lightning",
+    "甘々と稲妻",
+    "Amaama to Inazuma"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21747-ZlYSDrBDgsgO.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21747",
+      "url": "https://anilist.co/anime/21747"
+    },
+    "mal": {
+      "id": "33113",
+      "url": "https://myanimelist.net/anime/33113"
+    },
+    "tx": {
+      "id": "SRX_LAG_PR",
+      "url": "https://twitter.com/SRX_LAG_PR"
+    }
+  }
+}

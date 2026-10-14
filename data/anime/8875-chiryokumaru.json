@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8875,
+  "slug": "chiryokumaru",
+  "kind": "anime",
+  "title": "Chiryokumaru",
+  "titles": {
+    "default": "Chiryokumaru",
+    "romaji": "Chiryokumaru",
+    "native": "知力丸"
+  },
+  "synonyms": [
+    "Chiryokumaru",
+    "知力丸",
+    "Catblue Dynamite",
+    "Catblue: Dynamite",
+    "キャットブルー：ダイナマイト"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/97967-Iw02ocsJMWAJ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "97967",
+      "url": "https://anilist.co/anime/97967"
+    },
+    "k": {
+      "id": "1645",
+      "url": "https://kitsu.io/anime/1645"
+    },
+    "mal": {
+      "id": "34324",
+      "url": "https://myanimelist.net/anime/34324"
+    }
+  }
+}

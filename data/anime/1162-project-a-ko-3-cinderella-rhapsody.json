@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1162,
+  "slug": "project-a-ko-3-cinderella-rhapsody",
+  "kind": "anime",
+  "title": "Project A-Ko 3: Cinderella Rhapsody",
+  "titles": {
+    "default": "Project A-Ko 3: Cinderella Rhapsody",
+    "romaji": "Project A-Ko 3: Cinderella Rhapsody",
+    "native": "プロジェクトA子3 シンデレララプソディ"
+  },
+  "synonyms": [
+    "Project A-Ko 3: Cinderella Rhapsody",
+    "プロジェクトA子3 シンデレララプソディ"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1297.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1297",
+      "url": "https://anilist.co/anime/1297"
+    },
+    "k": {
+      "id": "1169",
+      "url": "https://kitsu.io/anime/1169"
+    },
+    "mal": {
+      "id": "1297",
+      "url": "https://myanimelist.net/anime/1297"
+    }
+  }
+}

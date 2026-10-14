@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9567,
+  "slug": "persona5-the-animation",
+  "kind": "anime",
+  "title": "PERSONA5 the Animation",
+  "titles": {
+    "default": "PERSONA5 the Animation",
+    "romaji": "PERSONA5 the Animation"
+  },
+  "synonyms": [
+    "PERSONA5 the Animation",
+    "P5A",
+    "ペルソナ5アニメーション",
+    "Kakuriyo: Bed & Breakfast for Spirits",
+    "かくりよの宿飯",
+    "Kakuriyo no Yadomeshi"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99693-3YTkA0ZnEOqH.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "99693",
+      "url": "https://anilist.co/anime/99693"
+    },
+    "cr": {
+      "id": "persona5-the-animation",
+      "url": "https://www.crunchyroll.com/series/persona5-the-animation"
+    },
+    "mal": {
+      "id": "36023",
+      "url": "https://myanimelist.net/anime/36023"
+    },
+    "tx": {
+      "id": "P5_anime",
+      "url": "https://twitter.com/P5_anime"
+    }
+  }
+}

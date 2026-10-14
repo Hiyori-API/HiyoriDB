@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2828,
+  "slug": "kinnikuman-kinnikusei-oui-soudatsu-hen",
+  "kind": "anime",
+  "title": "Kinnikuman: Kinnikusei Oui Soudatsu-hen",
+  "titles": {
+    "default": "Kinnikuman: Kinnikusei Oui Soudatsu-hen",
+    "romaji": "Kinnikuman: Kinnikusei Oui Soudatsu-hen",
+    "native": "キン肉マン　キン肉星王位争奪編"
+  },
+  "synonyms": [
+    "Kinnikuman: Kinnikusei Oui Soudatsu-hen",
+    "キン肉マン　キン肉星王位争奪編",
+    "Kinnikuman: Kinnikusei Oui Soudatsuhen",
+    "Kinnikuman: Scramble For The Throne"
+  ],
+  "type": "tv",
+  "episodes": 46,
+  "status": "finished",
+  "season": "fall",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3281-UoyXtFcafEvl.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3281",
+      "url": "https://anilist.co/anime/3281"
+    },
+    "k": {
+      "id": "2907",
+      "url": "https://kitsu.io/anime/2907"
+    },
+    "mal": {
+      "id": "3281",
+      "url": "https://myanimelist.net/anime/3281"
+    }
+  }
+}

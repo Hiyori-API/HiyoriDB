@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 162,
+  "slug": "xenosaga-the-animation",
+  "kind": "anime",
+  "title": "Xenosaga: THE ANIMATION",
+  "titles": {
+    "default": "Xenosaga: THE ANIMATION",
+    "romaji": "Xenosaga: THE ANIMATION",
+    "english": "Xenosaga: The Animation",
+    "native": "ゼノサーガ THE ANIMATION"
+  },
+  "synonyms": [
+    "Xenosaga: THE ANIMATION",
+    "Xenosaga: The Animation",
+    "ゼノサーガ THE ANIMATION",
+    "Xenosaga The Animation"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b184-KnONynUVG1aV.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "184",
+      "url": "https://anilist.co/anime/184"
+    },
+    "k": {
+      "id": "161",
+      "url": "https://kitsu.io/anime/161"
+    },
+    "mal": {
+      "id": "184",
+      "url": "https://myanimelist.net/anime/184"
+    },
+    "t": {
+      "id": "33919",
+      "url": "https://trakt.tv/shows/33919"
+    }
+  }
+}

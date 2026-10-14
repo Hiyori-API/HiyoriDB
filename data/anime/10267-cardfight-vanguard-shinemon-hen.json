@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10267,
+  "slug": "cardfight-vanguard-shinemon-hen",
+  "kind": "anime",
+  "title": "Cardfight!! Vanguard: Shinemon-hen",
+  "titles": {
+    "default": "Cardfight!! Vanguard: Shinemon-hen",
+    "romaji": "Cardfight!! Vanguard: Shinemon-hen",
+    "english": "Cardfight!! Vanguard Shinemon Arc",
+    "native": "カードファイト!! ヴァンガード 新右衛門編"
+  },
+  "synonyms": [
+    "Cardfight!! Vanguard: Shinemon-hen",
+    "Cardfight!! Vanguard Shinemon Arc",
+    "カードファイト!! ヴァンガード 新右衛門編",
+    "Cardfight!! Vanguard: Shinemon Arc"
+  ],
+  "type": "tv",
+  "episodes": 31,
+  "status": "finished",
+  "season": "summer",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx111144-jOEuHdot5Ihs.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "111144",
+      "url": "https://anilist.co/anime/111144"
+    },
+    "mal": {
+      "id": "40167",
+      "url": "https://myanimelist.net/anime/40167"
+    }
+  }
+}

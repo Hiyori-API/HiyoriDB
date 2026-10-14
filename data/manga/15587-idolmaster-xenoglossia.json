@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15587,
+  "slug": "idolmaster-xenoglossia",
+  "kind": "manga",
+  "title": "Idolmaster XENOGLOSSIA",
+  "titles": {
+    "default": "Idolmaster XENOGLOSSIA"
+  },
+  "synonyms": [
+    "Idol Master XENOGLOSSIA",
+    "iDOLM@STER Xenoglossia",
+    "アイドルマスター XENOGLOSSIA",
+    "Gekiryuuchi",
+    "激流血～OVER BLEED～",
+    "Over Bleed"
+  ],
+  "type": "manga",
+  "chapters": 11,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/8140.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1694",
+      "url": "https://anilist.co/anime/1694"
+    },
+    "al_manga": {
+      "id": "1694",
+      "url": "https://anilist.co/manga/1694"
+    }
+  }
+}

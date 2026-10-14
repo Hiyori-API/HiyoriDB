@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11934,
+  "slug": "kanojo-okarishimasu-2nd-season-petit",
+  "kind": "anime",
+  "title": "Kanojo, Okarishimasu 2nd Season Petit",
+  "titles": {
+    "default": "Kanojo, Okarishimasu 2nd Season Petit",
+    "romaji": "Kanojo, Okarishimasu 2nd Season Petit",
+    "native": "彼女、お借りします 第2期 ぷち"
+  },
+  "synonyms": [
+    "Kanojo, Okarishimasu 2nd Season Petit",
+    "彼女、お借りします 第2期 ぷち",
+    "Kanojo, Okarishimasu 2nd Season Mini Anime",
+    "Rent-a-Girlfriend 2nd Season Chibi",
+    "Dalisi Rizhi 2",
+    "The Journal of Dali Temple 2",
+    "White Cat Legend Season 2",
+    "大理寺日志 第2季",
+    "Da Li Si Rizhi 2nd Season"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154385-cCM4Ow2qgOK7.png"
+  ],
+  "references": {
+    "al": {
+      "id": "154385",
+      "url": "https://anilist.co/anime/154385"
+    },
+    "mal": {
+      "id": "52562",
+      "url": "https://myanimelist.net/anime/52562"
+    },
+    "tx": {
+      "id": "kanokari_anime",
+      "url": "https://twitter.com/kanokari_anime"
+    }
+  }
+}

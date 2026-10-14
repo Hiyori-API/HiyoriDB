@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6716,
+  "slug": "dragon-age-blood-mage-no-seisen",
+  "kind": "anime",
+  "title": "Dragon Age: Blood Mage no Seisen",
+  "titles": {
+    "default": "Dragon Age: Blood Mage no Seisen",
+    "romaji": "Dragon Age: Blood Mage no Seisen",
+    "english": "Dragon Age: Dawn of the Seeker",
+    "native": "ドラゴンエイジ ブラッドメイジの聖戦"
+  },
+  "synonyms": [
+    "Dragon Age: Blood Mage no Seisen",
+    "Dragon Age: Dawn of the Seeker",
+    "ドラゴンエイジ ブラッドメイジの聖戦",
+    "ドラゴンエイジ -ブラッドメイジの聖戦-"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11705.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11705",
+      "url": "https://anilist.co/anime/11705"
+    },
+    "k": {
+      "id": "6571",
+      "url": "https://kitsu.io/anime/6571"
+    },
+    "mal": {
+      "id": "11705",
+      "url": "https://myanimelist.net/anime/11705"
+    }
+  }
+}

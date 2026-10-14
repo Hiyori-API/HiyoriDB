@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6157,
+  "slug": "prism-magical-prism-generations",
+  "kind": "anime",
+  "title": "Prism☆Magical: PRISM Generations!",
+  "titles": {
+    "default": "Prism☆Magical: PRISM Generations!",
+    "romaji": "Prism☆Magical: PRISM Generations!",
+    "native": "プリズム☆ま～じカル PRISM Generations!"
+  },
+  "synonyms": [
+    "Prism☆Magical: PRISM Generations!",
+    "プリズム☆ま～じカル PRISM Generations!",
+    "Prism Magical: Prism Generations!"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9506.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9506",
+      "url": "https://anilist.co/anime/9506"
+    },
+    "k": {
+      "id": "5762",
+      "url": "https://kitsu.io/anime/5762"
+    },
+    "mal": {
+      "id": "9506",
+      "url": "https://myanimelist.net/anime/9506"
+    }
+  }
+}

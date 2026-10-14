@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7369,
+  "slug": "hakuouki-reimeiroku-tokuten-disc",
+  "kind": "anime",
+  "title": "Hakuouki Reimeiroku Tokuten Disc",
+  "titles": {
+    "default": "Hakuouki Reimeiroku Tokuten Disc",
+    "romaji": "Hakuouki Reimeiroku Tokuten Disc",
+    "native": "薄桜鬼　黎明録　特典ディスク　"
+  },
+  "synonyms": [
+    "Hakuouki Reimeiroku Tokuten Disc",
+    "薄桜鬼　黎明録　特典ディスク　",
+    "Hakuoki Reimeiroku Tokuten Disc"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18835.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "18835",
+      "url": "https://anilist.co/anime/18835"
+    },
+    "k": {
+      "id": "8422",
+      "url": "https://kitsu.io/anime/8422"
+    },
+    "mal": {
+      "id": "18835",
+      "url": "https://myanimelist.net/anime/18835"
+    }
+  }
+}

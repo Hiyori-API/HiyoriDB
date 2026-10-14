@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3508,
+  "slug": "the-hard-bounty-hunter",
+  "kind": "anime",
+  "title": "The Hard: BOUNTY HUNTER",
+  "titles": {
+    "default": "The Hard: BOUNTY HUNTER",
+    "romaji": "The Hard: BOUNTY HUNTER",
+    "english": "Bounty Hunter: the Hard",
+    "native": "ザ・ハード BOUNTY HUNTER"
+  },
+  "synonyms": [
+    "The Hard: BOUNTY HUNTER",
+    "Bounty Hunter: the Hard",
+    "ザ・ハード BOUNTY HUNTER",
+    "Bounty Hunter: The Hard",
+    "ザ・ハ－ド",
+    "The Hard: Bounty Hunter"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4522-CvCrtd13bl5L.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4522",
+      "url": "https://anilist.co/anime/4522"
+    },
+    "k": {
+      "id": "3662",
+      "url": "https://kitsu.io/anime/3662"
+    },
+    "mal": {
+      "id": "4522",
+      "url": "https://myanimelist.net/anime/4522"
+    }
+  }
+}

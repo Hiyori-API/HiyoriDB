@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8401,
+  "slug": "kanojo-ga-kanji-wo-suki-na-riyuu",
+  "kind": "anime",
+  "title": "Kanojo ga Kanji wo Suki na Riyuu.",
+  "titles": {
+    "default": "Kanojo ga Kanji wo Suki na Riyuu.",
+    "romaji": "Kanojo ga Kanji wo Suki na Riyuu.",
+    "native": "彼女が漢字を好きな理由。"
+  },
+  "synonyms": [
+    "Kanojo ga Kanji wo Suki na Riyuu.",
+    "彼女が漢字を好きな理由。",
+    "Momokuri",
+    "ももくり"
+  ],
+  "type": "ona",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98091-WyXQSFwk8yOD.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98091",
+      "url": "https://anilist.co/anime/98091"
+    },
+    "mal": {
+      "id": "31618",
+      "url": "https://myanimelist.net/anime/31618"
+    }
+  }
+}

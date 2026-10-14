@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5868,
+  "slug": "yanyan-machiko",
+  "kind": "anime",
+  "title": "YanYan Machiko",
+  "titles": {
+    "default": "YanYan Machiko",
+    "romaji": "YanYan Machiko",
+    "native": "やんやんマチコ"
+  },
+  "synonyms": [
+    "YanYan Machiko",
+    "やんやんマチコ",
+    "Halo Legends",
+    "ヘイロー・レジェンズ",
+    "Halo Anime",
+    "Halo Animation"
+  ],
+  "type": "ona",
+  "episodes": 9,
+  "status": "finished",
+  "season": "winter",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8631.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8631",
+      "url": "https://anilist.co/anime/8631"
+    },
+    "k": {
+      "id": "4760",
+      "url": "https://kitsu.io/anime/4760"
+    },
+    "mal": {
+      "id": "8631",
+      "url": "https://myanimelist.net/anime/8631"
+    },
+    "nf": {
+      "id": "70129415",
+      "url": "https://www.netflix.com/title/70129415"
+    }
+  }
+}

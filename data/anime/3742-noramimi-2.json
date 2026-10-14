@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3742,
+  "slug": "noramimi-2",
+  "kind": "anime",
+  "title": "Noramimi 2",
+  "titles": {
+    "default": "Noramimi 2",
+    "romaji": "Noramimi 2",
+    "native": "のらみみ2"
+  },
+  "synonyms": [
+    "Noramimi 2",
+    "のらみみ2",
+    "Noramimi",
+    "のらみみ",
+    "Nora Mimi"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5089.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5089",
+      "url": "https://anilist.co/anime/5089"
+    },
+    "k": {
+      "id": "3065",
+      "url": "https://kitsu.io/anime/3065"
+    },
+    "mal": {
+      "id": "5089",
+      "url": "https://myanimelist.net/anime/5089"
+    }
+  }
+}

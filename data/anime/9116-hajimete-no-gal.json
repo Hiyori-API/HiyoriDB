@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9116,
+  "slug": "hajimete-no-gal",
+  "kind": "anime",
+  "title": "Hajimete no Gal",
+  "titles": {
+    "default": "Hajimete no Gal",
+    "romaji": "Hajimete no Gal",
+    "english": "My First Girlfriend is a Gal",
+    "native": "はじめてのギャル"
+  },
+  "synonyms": [
+    "Hajimete no Gal",
+    "My First Girlfriend is a Gal",
+    "はじめてのギャル",
+    "Hajimete no Gyaru",
+    "First-Time Gal",
+    "My First Gal",
+    "แฟนผมเป็นสาวแกล",
+    "Netojuu no Susume",
+    "Recommendation of the Wonderful Virtual Life",
+    "Recovery of an MMO Junkie",
+    "ネト充のススメ",
+    "Net-juu no Susume"
+  ],
+  "type": "tv",
+  "episodes": 10,
+  "status": "finished",
+  "season": "summer",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97863-79AXrUZ7VQa5.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "97863",
+      "url": "https://anilist.co/anime/97863"
+    },
+    "cr": {
+      "id": "my-first-girlfriend-is-a-gal",
+      "url": "https://www.crunchyroll.com/series/my-first-girlfriend-is-a-gal"
+    },
+    "mal": {
+      "id": "34403",
+      "url": "https://myanimelist.net/anime/34403"
+    },
+    "tx": {
+      "id": "haji_GAL",
+      "url": "https://twitter.com/haji_GAL"
+    }
+  }
+}

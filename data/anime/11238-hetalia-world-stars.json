@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11238,
+  "slug": "hetalia-world-stars",
+  "kind": "anime",
+  "title": "Hetalia World★Stars",
+  "titles": {
+    "default": "Hetalia World★Stars",
+    "romaji": "Hetalia World★Stars",
+    "english": "Hetalia: World Stars",
+    "native": "ヘタリア World★Stars"
+  },
+  "synonyms": [
+    "Hetalia World★Stars",
+    "Hetalia: World Stars",
+    "ヘタリア World★Stars",
+    "黑塔利亚 World★Stars",
+    "เฮตาเลีย เวิลด์ สตาร์ส"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx125351-gpF3Z1bD30fO.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "125351",
+      "url": "https://anilist.co/anime/125351"
+    },
+    "cr": {
+      "id": "hetalia",
+      "url": "https://www.crunchyroll.com/series/hetalia"
+    },
+    "mal": {
+      "id": "43591",
+      "url": "https://myanimelist.net/anime/43591"
+    },
+    "tx": {
+      "id": "animehetalia_ws",
+      "url": "https://twitter.com/animehetalia_ws"
+    }
+  }
+}

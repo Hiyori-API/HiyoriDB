@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9935,
+  "slug": "share-the-warmth",
+  "kind": "anime",
+  "title": "Share the Warmth",
+  "titles": {
+    "default": "Share the Warmth",
+    "romaji": "Share the Warmth"
+  },
+  "synonyms": [
+    "Share the Warmth",
+    "Mob Psycho 100: Reigen - The Miracle Psychic that Nobody Knows",
+    "Mob Psycho 100 Reigen: The Miraculous Unknown Psychic",
+    "モブサイコ100 REIGEN ～知られざる奇跡の霊能力者～",
+    "Mob Psycho 100: Reigen - Shirarezaru Kiseki no Reinouryokusha"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183826-4CXszBRckVzc.png"
+  ],
+  "references": {
+    "al": {
+      "id": "183826",
+      "url": "https://anilist.co/anime/183826"
+    },
+    "mal": {
+      "id": "52096",
+      "url": "https://myanimelist.net/anime/52096"
+    },
+    "yt": {
+      "id": "gubqNjWsUQM",
+      "url": "https://www.youtube.com/watch?v=gubqNjWsUQM"
+    }
+  }
+}

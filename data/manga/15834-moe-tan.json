@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15834,
+  "slug": "moe-tan",
+  "kind": "manga",
+  "title": "Moe-tan",
+  "titles": {
+    "default": "Moe-tan"
+  },
+  "synonyms": [
+    "Methodology Of English",
+    "The Academic Necessity",
+    "Moe-tan",
+    "Moeru Eitango Moetan",
+    "もえたん",
+    "Simple Knot Loafers",
+    "シンプルノットローファー",
+    "Shinpuru Notto Rofa",
+    "Shinpuru Notto Roofaa",
+    "Simple Not Loafer"
+  ],
+  "type": "manga",
+  "chapters": 6,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b44610-LR72HZ4p9GaN.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4421",
+      "url": "https://anilist.co/anime/2367"
+    },
+    "al_manga": {
+      "id": "4421",
+      "url": "https://anilist.co/manga/4421"
+    }
+  }
+}

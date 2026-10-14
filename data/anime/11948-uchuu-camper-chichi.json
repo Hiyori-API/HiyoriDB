@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11948,
+  "slug": "uchuu-camper-chichi",
+  "kind": "anime",
+  "title": "Uchuu Camper Chichi",
+  "titles": {
+    "default": "Uchuu Camper Chichi",
+    "romaji": "Uchuu Camper Chichi",
+    "native": "宇宙キャンパー・チッチ"
+  },
+  "synonyms": [
+    "Uchuu Camper Chichi",
+    "宇宙キャンパー・チッチ",
+    "Anime no Tane 2022",
+    "Young Animator Training Project 2022",
+    "Our Jury Story",
+    "Bokura no Saibanin Monogatari",
+    "ぼくらの裁判員物語"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b155736-TlkvBQdue0wt.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "155736",
+      "url": "https://anilist.co/anime/155736"
+    },
+    "k": {
+      "id": "4614",
+      "url": "https://kitsu.io/anime/4614"
+    },
+    "mal": {
+      "id": "51414",
+      "url": "https://myanimelist.net/anime/51414"
+    }
+  }
+}

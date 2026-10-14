@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13667,
+  "slug": "jk-dark-summoner-to-deki-dei-nai",
+  "kind": "anime",
+  "title": "JK Dark Summoner to Deki......Dei Nai!?",
+  "titles": {
+    "default": "JK Dark Summoner to Deki......Dei Nai!?",
+    "romaji": "JK Dark Summoner to Deki......Dei Nai!?",
+    "native": "JKダークサモナーとデキ。。。。。。でいない!?"
+  },
+  "synonyms": [
+    "JK Dark Summoner to Deki......Dei Nai!?",
+    "JKダークサモナーとデキ。。。。。。でいない!?",
+    "Dark Summoner to Dekiteiru Mini Anime Gekijou",
+    "ダークサモナーとできているミニアニメ劇場",
+    "Firefly Wedding",
+    "ホタルの嫁入り",
+    "Hotaru no Yomeiri"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "airing",
+  "season": "fall",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx218217-crIGlnQDg0bJ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "218217",
+      "url": "https://anilist.co/anime/218217"
+    },
+    "mal": {
+      "id": "65169",
+      "url": "https://myanimelist.net/anime/65169"
+    }
+  }
+}

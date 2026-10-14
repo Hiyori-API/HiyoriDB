@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6715,
+  "slug": "c-de-breaker",
+  "kind": "anime",
+  "title": "CØDE:BREAKER",
+  "titles": {
+    "default": "CØDE:BREAKER",
+    "romaji": "CØDE:BREAKER",
+    "english": "Code:Breaker"
+  },
+  "synonyms": [
+    "CØDE:BREAKER",
+    "Code:Breaker",
+    "Code Breaker"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11703-PDxEAtWBd1mF.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11703",
+      "url": "https://anilist.co/anime/11703"
+    },
+    "cr": {
+      "id": "codebreaker",
+      "url": "https://www.crunchyroll.com/series/codebreaker"
+    },
+    "k": {
+      "id": "6570",
+      "url": "https://kitsu.io/anime/6570"
+    },
+    "mal": {
+      "id": "11703",
+      "url": "https://myanimelist.net/anime/11703"
+    },
+    "t": {
+      "id": "67796",
+      "url": "https://trakt.tv/shows/67796"
+    }
+  }
+}

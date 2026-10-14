@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10441,
+  "slug": "ikebukuro-west-gate-park",
+  "kind": "anime",
+  "title": "Ikebukuro West Gate Park",
+  "titles": {
+    "default": "Ikebukuro West Gate Park",
+    "romaji": "Ikebukuro West Gate Park",
+    "native": "池袋ウエストゲートパーク"
+  },
+  "synonyms": [
+    "Ikebukuro West Gate Park",
+    "池袋ウエストゲートパーク",
+    "IWGP",
+    "Ring ni Kakero 1",
+    "リングにかけろ１",
+    "Put it all in the Ring"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx111324-yp1jtH1XjxS3.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "111324",
+      "url": "https://anilist.co/anime/111324"
+    },
+    "cr": {
+      "id": "ikebukuro-west-gate-park",
+      "url": "https://www.crunchyroll.com/series/ikebukuro-west-gate-park"
+    },
+    "k": {
+      "id": "14",
+      "url": "https://kitsu.io/anime/14"
+    },
+    "mal": {
+      "id": "40359",
+      "url": "https://myanimelist.net/anime/40359"
+    },
+    "t": {
+      "id": "69507",
+      "url": "https://trakt.tv/shows/69507"
+    },
+    "tx": {
+      "id": "iwgp_anime",
+      "url": "https://twitter.com/iwgp_anime"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14833,
+  "slug": "tatakae-ramenman",
+  "kind": "manga",
+  "title": "Tatakae!! Ramenman",
+  "titles": {
+    "default": "Tatakae!! Ramenman"
+  },
+  "synonyms": [
+    "Tatakae Ramenman",
+    "Fight!! Ramenman",
+    "闘将!!拉麺男",
+    "Tetsu no Don Quixote",
+    "鉄のドンキホーテ",
+    "Iron Don Quixote",
+    "Mad Fighter",
+    "Hokuto no Ken The Origins",
+    "Hokuto no Ken Pilot"
+  ],
+  "type": "manga",
+  "chapters": 54,
+  "volumes": 12,
+  "status": "finished",
+  "year": 1982,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx51599-PVGCdGN8lL8I.png"
+  ],
+  "references": {
+    "al": {
+      "id": "4427",
+      "url": "https://anilist.co/anime/4427"
+    },
+    "al_manga": {
+      "id": "4427",
+      "url": "https://anilist.co/manga/4427"
+    }
+  }
+}

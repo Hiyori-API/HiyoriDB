@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13399,
+  "slug": "girls-und-panzer-motto-love-love-sakusen-desu",
+  "kind": "anime",
+  "title": "Girls und Panzer: Motto Love Love Sakusen desu!",
+  "titles": {
+    "default": "Girls und Panzer: Motto Love Love Sakusen desu!",
+    "romaji": "Girls und Panzer: Motto Love Love Sakusen desu!",
+    "native": "ガールズ＆パンツァー もっとらぶらぶ作戦です！"
+  },
+  "synonyms": [
+    "Girls und Panzer: Motto Love Love Sakusen desu!",
+    "ガールズ＆パンツァー もっとらぶらぶ作戦です！",
+    "Girls & Panzer - Motto Love Love Sakusen desu!",
+    "There Is Also a Hole in the Student Organization!",
+    "Even the Student Council Has Its Holes!",
+    "生徒会にも穴はある！",
+    "Seitokai ni mo Ana wa Aru!"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "airing",
+  "season": "fall",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188034-oRwVKBMezOOk.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "188034",
+      "url": "https://anilist.co/anime/188034"
+    },
+    "mal": {
+      "id": "61227",
+      "url": "https://myanimelist.net/anime/61227"
+    }
+  }
+}

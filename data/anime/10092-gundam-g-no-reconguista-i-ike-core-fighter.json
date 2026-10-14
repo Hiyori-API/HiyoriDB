@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10092,
+  "slug": "gundam-g-no-reconguista-i-ike-core-fighter",
+  "kind": "anime",
+  "title": "Gundam: G no Reconguista I - Ike! Core Fighter",
+  "titles": {
+    "default": "Gundam: G no Reconguista I - Ike! Core Fighter",
+    "romaji": "Gundam: G no Reconguista I - Ike! Core Fighter",
+    "english": "Reconguista in G the Movie I Go! Core Fighter",
+    "native": "Ｇのレコンギスタ Ⅰ 行け！コア・ファイター"
+  },
+  "synonyms": [
+    "Gundam: G no Reconguista I - Ike! Core Fighter",
+    "Reconguista in G the Movie I Go! Core Fighter",
+    "Ｇのレコンギスタ Ⅰ 行け！コア・ファイター",
+    "Gekijouban Gundam G no Reconguista",
+    "G-Reco Movie 1",
+    "Cencoroll 2",
+    "センコロール"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx105596-y5AVffHVddIE.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "105596",
+      "url": "https://anilist.co/anime/105596"
+    },
+    "k": {
+      "id": "5749",
+      "url": "https://kitsu.io/anime/5749"
+    },
+    "mal": {
+      "id": "38714",
+      "url": "https://myanimelist.net/anime/38714"
+    },
+    "tx": {
+      "id": "gundam_reco",
+      "url": "https://twitter.com/gundam_reco"
+    }
+  }
+}

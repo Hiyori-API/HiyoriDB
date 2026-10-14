@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2696,
+  "slug": "wakusei-daikaiju-negadon",
+  "kind": "anime",
+  "title": "Wakusei Daikaiju Negadon",
+  "titles": {
+    "default": "Wakusei Daikaiju Negadon",
+    "romaji": "Wakusei Daikaiju Negadon",
+    "english": "Negadon: The Monster from Mars",
+    "native": "惑星大怪獣ネガドン"
+  },
+  "synonyms": [
+    "Wakusei Daikaiju Negadon",
+    "Negadon: The Monster from Mars",
+    "惑星大怪獣ネガドン",
+    "Wakusei Dai Kaiju Negadon",
+    "惑星大怪獣　ネガドン"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3070.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3070",
+      "url": "https://anilist.co/anime/3070"
+    },
+    "k": {
+      "id": "2768",
+      "url": "https://kitsu.io/anime/2768"
+    },
+    "mal": {
+      "id": "3070",
+      "url": "https://myanimelist.net/anime/3070"
+    }
+  }
+}

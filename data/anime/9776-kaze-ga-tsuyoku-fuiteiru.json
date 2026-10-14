@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9776,
+  "slug": "kaze-ga-tsuyoku-fuiteiru",
+  "kind": "anime",
+  "title": "Kaze ga Tsuyoku Fuiteiru",
+  "titles": {
+    "default": "Kaze ga Tsuyoku Fuiteiru",
+    "romaji": "Kaze ga Tsuyoku Fuiteiru",
+    "english": "Run with the Wind",
+    "native": "風が強く吹いている"
+  },
+  "synonyms": [
+    "Kaze ga Tsuyoku Fuiteiru",
+    "Run with the Wind",
+    "風が強く吹いている",
+    "KazeTsuyo",
+    "В ногу с ветром",
+    "Kaze ga Tsuyoku Fuite Iru",
+    "Kazetsuyo"
+  ],
+  "type": "tv",
+  "episodes": 23,
+  "status": "finished",
+  "season": "fall",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101903-ncgPJbbA5Nou.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101903",
+      "url": "https://anilist.co/anime/101903"
+    },
+    "cr": {
+      "id": "run-with-the-wind",
+      "url": "https://www.crunchyroll.com/series/run-with-the-wind"
+    },
+    "mal": {
+      "id": "37965",
+      "url": "https://myanimelist.net/anime/37965"
+    },
+    "nf": {
+      "id": "81145654",
+      "url": "https://www.netflix.com/title/81145654"
+    },
+    "tx": {
+      "id": "kazetsuyo_anime",
+      "url": "https://twitter.com/kazetsuyo_anime"
+    }
+  }
+}

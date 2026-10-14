@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1732,
+  "slug": "ikkitousen-dragon-destiny",
+  "kind": "anime",
+  "title": "Ikkitousen: Dragon Destiny",
+  "titles": {
+    "default": "Ikkitousen: Dragon Destiny",
+    "romaji": "Ikkitousen: Dragon Destiny",
+    "english": "Ikki Tousen: Dragon Destiny",
+    "native": "一騎当千 Dragon Destiny"
+  },
+  "synonyms": [
+    "Ikkitousen: Dragon Destiny",
+    "Ikki Tousen: Dragon Destiny",
+    "一騎当千 Dragon Destiny",
+    "Ikkitosen Dragon Destiny",
+    "Ikki Tousen Dragon Destiny",
+    "Ikkitosen Season 2"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1956-qayV3luUKfkg.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1956",
+      "url": "https://anilist.co/anime/1956"
+    },
+    "k": {
+      "id": "1762",
+      "url": "https://kitsu.io/anime/1762"
+    },
+    "mal": {
+      "id": "1956",
+      "url": "https://myanimelist.net/anime/1956"
+    },
+    "t": {
+      "id": "37426",
+      "url": "https://trakt.tv/shows/37426"
+    }
+  }
+}

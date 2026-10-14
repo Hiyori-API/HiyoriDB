@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2753,
+  "slug": "kagaku-ninja-tai-gatchaman-movie",
+  "kind": "anime",
+  "title": "Kagaku Ninja-Tai Gatchaman (Movie)",
+  "titles": {
+    "default": "Kagaku Ninja-Tai Gatchaman (Movie)",
+    "romaji": "Kagaku Ninja-Tai Gatchaman (Movie)",
+    "english": "Gatchaman: The Movie",
+    "native": "科学忍者隊 ガッチャマン"
+  },
+  "synonyms": [
+    "Kagaku Ninja-Tai Gatchaman (Movie)",
+    "Gatchaman: The Movie",
+    "科学忍者隊 ガッチャマン",
+    "Science Ninja Team Gatchaman (movie)",
+    "Kagaku Ninja-tai Gatchaman (Movie)"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1978,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3153-aYPnqoGG2bJ7.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3153",
+      "url": "https://anilist.co/anime/3153"
+    },
+    "k": {
+      "id": "2826",
+      "url": "https://kitsu.io/anime/2826"
+    },
+    "mal": {
+      "id": "3153",
+      "url": "https://myanimelist.net/anime/3153"
+    }
+  }
+}

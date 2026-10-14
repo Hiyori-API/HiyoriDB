@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1314,
+  "slug": "area-88",
+  "kind": "anime",
+  "title": "Area 88",
+  "titles": {
+    "default": "Area 88",
+    "romaji": "Area 88",
+    "native": "エリア88"
+  },
+  "synonyms": [
+    "Area 88",
+    "エリア88",
+    "Area 88 OVA"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "winter",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1488.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1488",
+      "url": "https://anilist.co/anime/1488"
+    },
+    "k": {
+      "id": "1334",
+      "url": "https://kitsu.io/anime/1334"
+    },
+    "mal": {
+      "id": "1488",
+      "url": "https://myanimelist.net/anime/1488"
+    },
+    "ttv": {
+      "id": "4724",
+      "url": "https://tubitv.com/series/4724"
+    }
+  }
+}

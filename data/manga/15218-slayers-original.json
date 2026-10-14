@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15218,
+  "slug": "slayers-original",
+  "kind": "manga",
+  "title": "Slayers Original",
+  "titles": {
+    "default": "Slayers Original"
+  },
+  "synonyms": [
+    "Slayers Original Movie Screenplay Book",
+    "Slayers Original The Motion Picture",
+    "Dragon Magazine Collection Slayers Original The Movie",
+    "劇場版 スレイヤーズおりぢなる",
+    "スレイヤーズおりぢなる",
+    "Maburaho",
+    "まぶらほ",
+    "Maburaho Tanpen"
+  ],
+  "type": "novel",
+  "volumes": 1,
+  "status": "finished",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/20871.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "867",
+      "url": "https://anilist.co/anime/869"
+    },
+    "al_manga": {
+      "id": "867",
+      "url": "https://anilist.co/manga/867"
+    }
+  }
+}

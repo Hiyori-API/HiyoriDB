@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10655,
+  "slug": "saikyou-kamizmode",
+  "kind": "anime",
+  "title": "Saikyou Kamizmode!",
+  "titles": {
+    "default": "Saikyou Kamizmode!",
+    "romaji": "Saikyou Kamizmode!",
+    "native": "最響カミズモード！"
+  },
+  "synonyms": [
+    "Saikyou Kamizmode!",
+    "最響カミズモード！",
+    "Beyblade Burst Super King",
+    "Beyblade Burst Surge",
+    "ベイブレードバースト スパーキング",
+    "Beyblade Burst Sparking"
+  ],
+  "type": "ona",
+  "episodes": 52,
+  "status": "finished",
+  "season": "fall",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122632-nwu9D6gnbThG.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "122632",
+      "url": "https://anilist.co/anime/122632"
+    },
+    "mal": {
+      "id": "42522",
+      "url": "https://myanimelist.net/anime/42522"
+    },
+    "tx": {
+      "id": "kamizmode",
+      "url": "https://twitter.com/kamizmode"
+    }
+  }
+}

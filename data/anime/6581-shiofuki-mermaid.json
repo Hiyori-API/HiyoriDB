@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6581,
+  "slug": "shiofuki-mermaid",
+  "kind": "anime",
+  "title": "Shiofuki Mermaid",
+  "titles": {
+    "default": "Shiofuki Mermaid",
+    "romaji": "Shiofuki Mermaid",
+    "native": "しおふきマーメイド"
+  },
+  "synonyms": [
+    "Shiofuki Mermaid",
+    "しおふきマーメイド",
+    "Deadman Wonderland: Akai Knife Tsukai",
+    "デッドマン・ワンダーランド 赤いナイフ使い",
+    "Deadman Wonderland OAD",
+    "Deadman Wonderland OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11523.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11523",
+      "url": "https://anilist.co/anime/11523"
+    },
+    "k": {
+      "id": "6172",
+      "url": "https://kitsu.io/anime/6172"
+    },
+    "mal": {
+      "id": "11523",
+      "url": "https://myanimelist.net/anime/11523"
+    }
+  }
+}

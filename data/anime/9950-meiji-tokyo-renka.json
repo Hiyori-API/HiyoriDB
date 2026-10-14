@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9950,
+  "slug": "meiji-tokyo-renka",
+  "kind": "anime",
+  "title": "Meiji Tokyo Renka",
+  "titles": {
+    "default": "Meiji Tokyo Renka",
+    "romaji": "Meiji Tokyo Renka",
+    "native": "明治東亰恋伽"
+  },
+  "synonyms": [
+    "Meiji Tokyo Renka",
+    "明治東亰恋伽",
+    "Meikoi"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99000-rVYGI3okjHQh.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "99000",
+      "url": "https://anilist.co/anime/99000"
+    },
+    "cr": {
+      "id": "meiji-tokyo-renka",
+      "url": "https://www.crunchyroll.com/series/meiji-tokyo-renka"
+    },
+    "mal": {
+      "id": "34209",
+      "url": "https://myanimelist.net/anime/34209"
+    },
+    "tx": {
+      "id": "meikoi_staff",
+      "url": "https://twitter.com/meikoi_staff"
+    }
+  }
+}

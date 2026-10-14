@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 998,
+  "slug": "pocket-monsters-maboroshi-no-pok-mon-lugia-bakutan",
+  "kind": "anime",
+  "title": "Pocket Monsters: Maboroshi no Pokémon Lugia Bakutan",
+  "titles": {
+    "default": "Pocket Monsters: Maboroshi no Pokémon Lugia Bakutan",
+    "romaji": "Pocket Monsters: Maboroshi no Pokémon Lugia Bakutan",
+    "english": "Pokémon the Movie 2000",
+    "native": "劇場版ポケットモンスター 幻のポケモン ルギア爆誕"
+  },
+  "synonyms": [
+    "Pocket Monsters: Maboroshi no Pokémon Lugia Bakutan",
+    "Pokémon the Movie 2000",
+    "劇場版ポケットモンスター 幻のポケモン ルギア爆誕",
+    "The Power of One",
+    "Gekijouban Pocket Monsters: Revelation Lugia",
+    "Pokémon Movie 2",
+    "Pokémon 2: Den enes kraft",
+    "Pokémon, la película 2000: El poder de uno",
+    "Pokémon 2: Uwierz w swoją siłę",
+    "Pokémon 2 - Ensam är stark",
+    "Pokémon 2 - La forza di uno",
+    "Sore Ike! Anpanman: Anpanman to Tanoshii Nakama-tachi",
+    "それいけ! アンパンマン アンパンマンとたのしい仲間たち",
+    "Anpanman Movie 19"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1117.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1117",
+      "url": "https://anilist.co/anime/1117"
+    },
+    "k": {
+      "id": "9606",
+      "url": "https://kitsu.io/anime/9606"
+    },
+    "mal": {
+      "id": "1117",
+      "url": "https://myanimelist.net/anime/1117"
+    }
+  }
+}

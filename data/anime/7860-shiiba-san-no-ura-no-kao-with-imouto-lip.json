@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7860,
+  "slug": "shiiba-san-no-ura-no-kao-with-imouto-lip",
+  "kind": "anime",
+  "title": "Shiiba-san no Ura no Kao. with Imouto Lip",
+  "titles": {
+    "default": "Shiiba-san no Ura no Kao. with Imouto Lip",
+    "romaji": "Shiiba-san no Ura no Kao. with Imouto Lip",
+    "native": "椎葉さんのウラの顔。with イモートリップ"
+  },
+  "synonyms": [
+    "Shiiba-san no Ura no Kao. with Imouto Lip",
+    "椎葉さんのウラの顔。with イモートリップ",
+    "Tonari no Seki-kun OVA",
+    "となりの関くん DVD",
+    "Tonari no Seki-kun OAD"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21084-HJ2Pl8m55URf.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21084",
+      "url": "https://anilist.co/anime/21084"
+    },
+    "k": {
+      "id": "8198",
+      "url": "https://kitsu.io/anime/8198"
+    },
+    "mal": {
+      "id": "21393",
+      "url": "https://myanimelist.net/anime/21393"
+    }
+  }
+}

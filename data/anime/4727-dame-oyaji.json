@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4727,
+  "slug": "dame-oyaji",
+  "kind": "anime",
+  "title": "Dame Oyaji",
+  "titles": {
+    "default": "Dame Oyaji",
+    "romaji": "Dame Oyaji",
+    "native": "ダメおやじ"
+  },
+  "synonyms": [
+    "Dame Oyaji",
+    "ダメおやじ",
+    "No Good Dad",
+    "Family Planning",
+    "No Good Pop",
+    "No Good Daddy"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "winter",
+  "year": 1974,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10887.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10887",
+      "url": "https://anilist.co/anime/10887"
+    },
+    "k": {
+      "id": "6394",
+      "url": "https://kitsu.io/anime/6394"
+    },
+    "mal": {
+      "id": "10887",
+      "url": "https://myanimelist.net/anime/10887"
+    }
+  }
+}

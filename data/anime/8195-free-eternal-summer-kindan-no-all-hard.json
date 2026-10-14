@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8195,
+  "slug": "free-eternal-summer-kindan-no-all-hard",
+  "kind": "anime",
+  "title": "Free!: Eternal Summer - Kindan no All Hard!",
+  "titles": {
+    "default": "Free!: Eternal Summer - Kindan no All Hard!",
+    "romaji": "Free!: Eternal Summer - Kindan no All Hard!",
+    "english": "Free! -Eternal Summer-: Forbidden All-Hard!",
+    "native": "Free!-Eternal Summer- 禁断のオールハード！"
+  },
+  "synonyms": [
+    "Free!: Eternal Summer - Kindan no All Hard!",
+    "Free! -Eternal Summer-: Forbidden All-Hard!",
+    "Free!-Eternal Summer- 禁断のオールハード！",
+    "Free!: Eternal Summer Special",
+    "Diabolik Lovers OVA",
+    "DIABOLIK LOVERS OAD"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21091-k2SQybroJSeW.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21091",
+      "url": "https://anilist.co/anime/21091"
+    },
+    "k": {
+      "id": "9093",
+      "url": "https://kitsu.io/anime/9093"
+    },
+    "mal": {
+      "id": "26213",
+      "url": "https://myanimelist.net/anime/26213"
+    }
+  }
+}

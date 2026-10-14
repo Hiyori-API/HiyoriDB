@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11735,
+  "slug": "boku-no-hero-academia-the-movie-world-heroes-mission-tabidachi",
+  "kind": "anime",
+  "title": "Boku no Hero Academia THE MOVIE: World Heroes' Mission - Tabidachi",
+  "titles": {
+    "default": "Boku no Hero Academia THE MOVIE: World Heroes' Mission - Tabidachi",
+    "romaji": "Boku no Hero Academia THE MOVIE: World Heroes' Mission - Tabidachi",
+    "native": "僕のヒーローアカデミア THE MOVIE ワールド ヒーローズ ミッション ≪旅立ち≫"
+  },
+  "synonyms": [
+    "Boku no Hero Academia THE MOVIE: World Heroes' Mission - Tabidachi",
+    "僕のヒーローアカデミア THE MOVIE ワールド ヒーローズ ミッション ≪旅立ち≫",
+    "My Hero Academia: World Heroes' Mission <<Departure>>",
+    "No.XXX ホークス：SOOTHE",
+    "Hawks: SOOTHE",
+    "Siúil, a Rún OVA",
+    "Totsukuni no Shoujo OAD",
+    "The Girl From the Other Side",
+    "とつくにの少女",
+    "Totsukuni no Shoujo (2022)"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142411-Hb2c6mMLs6Jb.png"
+  ],
+  "references": {
+    "al": {
+      "id": "142411",
+      "url": "https://anilist.co/anime/142411"
+    },
+    "mal": {
+      "id": "50532",
+      "url": "https://myanimelist.net/anime/50532"
+    },
+    "tx": {
+      "id": "heroaca_movie",
+      "url": "https://twitter.com/heroaca_movie"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4883,
+  "slug": "ginga-hyouryuu-vifam-kieta-12-nin",
+  "kind": "anime",
+  "title": "Ginga Hyouryuu Vifam: Kieta 12-nin",
+  "titles": {
+    "default": "Ginga Hyouryuu Vifam: Kieta 12-nin",
+    "romaji": "Ginga Hyouryuu Vifam: Kieta 12-nin",
+    "native": "銀河漂流バイファム 消えた12人"
+  },
+  "synonyms": [
+    "Ginga Hyouryuu Vifam: Kieta 12-nin",
+    "銀河漂流バイファム 消えた12人",
+    "Galactic Drifter Vifam: 12 Fade Away",
+    "Round Vernian Vifam: 12 Fade Away"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx9389-Olo8AQkPN5wH.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9389",
+      "url": "https://anilist.co/anime/9389"
+    },
+    "k": {
+      "id": "5715",
+      "url": "https://kitsu.io/anime/5715"
+    },
+    "mal": {
+      "id": "9389",
+      "url": "https://myanimelist.net/anime/9389"
+    }
+  }
+}

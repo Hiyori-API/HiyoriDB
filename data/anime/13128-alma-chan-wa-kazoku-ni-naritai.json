@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13128,
+  "slug": "alma-chan-wa-kazoku-ni-naritai",
+  "kind": "anime",
+  "title": "Alma-chan wa Kazoku ni Naritai",
+  "titles": {
+    "default": "Alma-chan wa Kazoku ni Naritai",
+    "romaji": "Alma-chan wa Kazoku ni Naritai",
+    "english": "Alma-chan Wants to Be a Family!",
+    "native": "アルマちゃんは家族になりたい"
+  },
+  "synonyms": [
+    "Alma-chan wa Kazoku ni Naritai",
+    "Alma-chan Wants to Be a Family!",
+    "アルマちゃんは家族になりたい",
+    "Shoujogata Heiki wa Kazoku ni Naritai",
+    "I want to be a family",
+    "My Hero Academia 8",
+    "My Hero Academia Final Season",
+    "僕のヒーローアカデミア FINAL SEASON",
+    "Boku no Hero Academia: Final Season"
+  ],
+  "type": "tv",
+  "episodes": 11,
+  "status": "finished",
+  "season": "fall",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186190-k8Q97dpKAOHE.png"
+  ],
+  "references": {
+    "al": {
+      "id": "186190",
+      "url": "https://anilist.co/anime/186190"
+    },
+    "cr": {
+      "id": "series/GXJHM3GZJ/alma-chan-wants-to-be-a-family",
+      "url": "https://www.crunchyroll.com/series/series/GXJHM3GZJ/alma-chan-wants-to-be-a-family"
+    },
+    "mal": {
+      "id": "60781",
+      "url": "https://myanimelist.net/anime/60781"
+    },
+    "tx": {
+      "id": "alma_chan_pr",
+      "url": "https://twitter.com/alma_chan_pr"
+    }
+  }
+}

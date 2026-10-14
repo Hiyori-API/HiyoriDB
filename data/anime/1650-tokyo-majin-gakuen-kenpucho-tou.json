@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1650,
+  "slug": "tokyo-majin-gakuen-kenpucho-tou",
+  "kind": "anime",
+  "title": "Tokyo Majin Gakuen Kenpucho: Tou",
+  "titles": {
+    "default": "Tokyo Majin Gakuen Kenpucho: Tou",
+    "romaji": "Tokyo Majin Gakuen Kenpucho: Tou",
+    "english": "Tokyo Majin",
+    "native": "東京魔人學園剣風帖　龖（トウ）"
+  },
+  "synonyms": [
+    "Tokyo Majin Gakuen Kenpucho: Tou",
+    "Tokyo Majin",
+    "東京魔人學園剣風帖　龖（トウ）",
+    "Tokyo Majin Gakuen Kenpuchou"
+  ],
+  "type": "tv",
+  "episodes": 14,
+  "status": "finished",
+  "season": "winter",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1860-1TRWh93iE2Kf.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1860",
+      "url": "https://anilist.co/anime/1860"
+    },
+    "cr": {
+      "id": "tokyo-majin",
+      "url": "https://www.crunchyroll.com/series/tokyo-majin"
+    },
+    "k": {
+      "id": "1677",
+      "url": "https://kitsu.io/anime/1677"
+    },
+    "mal": {
+      "id": "1860",
+      "url": "https://myanimelist.net/anime/1860"
+    },
+    "t": {
+      "id": "34577",
+      "url": "https://trakt.tv/shows/34577"
+    }
+  }
+}

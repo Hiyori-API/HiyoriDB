@@ -1,0 +1,61 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1260,
+  "slug": "lupin-iii-part-ii",
+  "kind": "anime",
+  "title": "Lupin III: Part II",
+  "titles": {
+    "default": "Lupin III: Part II",
+    "romaji": "Lupin III: Part II",
+    "english": "Lupin the 3rd Part 2",
+    "native": "新・ルパン三世"
+  },
+  "synonyms": [
+    "Lupin III: Part II",
+    "Lupin the 3rd Part 2",
+    "新・ルパン三世",
+    "Rupan Sansei: Part II",
+    "Shin Lupin III",
+    "Lupin III: Greatest Capers",
+    "Edgar, Détective Cambrioleur",
+    "Le nuove avventure di Lupin III",
+    "Lupin the Third: Part II",
+    "Shin Lupin Sansei",
+    "Lupin III: Tales of the Wolf",
+    "New Lupin III"
+  ],
+  "type": "tv",
+  "episodes": 155,
+  "status": "finished",
+  "season": "fall",
+  "year": 1977,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1425-VOR9f6qKK3dn.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1425",
+      "url": "https://anilist.co/anime/1425"
+    },
+    "cr": {
+      "id": "lupin-the-third-part-2",
+      "url": "https://www.crunchyroll.com/series/lupin-the-third-part-2"
+    },
+    "k": {
+      "id": "1278",
+      "url": "https://kitsu.io/anime/1278"
+    },
+    "mal": {
+      "id": "1425",
+      "url": "https://myanimelist.net/anime/1425"
+    },
+    "t": {
+      "id": "94420",
+      "url": "https://trakt.tv/shows/94420"
+    },
+    "ttv": {
+      "id": "2129",
+      "url": "https://tubitv.com/series/2129"
+    }
+  }
+}

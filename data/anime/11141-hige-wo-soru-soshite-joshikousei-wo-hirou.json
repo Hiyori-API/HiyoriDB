@@ -1,0 +1,63 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11141,
+  "slug": "hige-wo-soru-soshite-joshikousei-wo-hirou",
+  "kind": "anime",
+  "title": "Hige wo Soru. Soshite Joshikousei wo Hirou.",
+  "titles": {
+    "default": "Hige wo Soru. Soshite Joshikousei wo Hirou.",
+    "romaji": "Hige wo Soru. Soshite Joshikousei wo Hirou.",
+    "english": "Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway",
+    "native": "ひげを剃る。そして女子高生を拾う。"
+  },
+  "synonyms": [
+    "Hige wo Soru. Soshite Joshikousei wo Hirou.",
+    "Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway",
+    "ひげを剃る。そして女子高生を拾う。",
+    "Higehiro",
+    "I Shaved My Beard Then Picked Up a High School Girl.",
+    "剃须。然后捡到女高中生。",
+    "刮掉鬍子的我與撿到的女高中生",
+    "โกนหนวดไปทำงาน แล้วกลับบ้านมาพบเธอ",
+    "Я побрился. И приютил школьницу",
+    "HIGEHIRO: Kucukur Janggut, Siswi SMA Kupungut",
+    "Prétear: The New Legend of Snow White",
+    "Shin Shirayuki-hime Densetsu Prétear",
+    "新白雪姫伝説プリーティア",
+    "Shin Shirayuki-hime Densetsu Pretear"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114232-2rm50ZD1cQgP.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "114232",
+      "url": "https://anilist.co/anime/114232"
+    },
+    "cr": {
+      "id": "higehiro-after-being-rejected-i-shaved-and-took-in-a-high-school-runaway",
+      "url": "https://www.crunchyroll.com/series/higehiro-after-being-rejected-i-shaved-and-took-in-a-high-school-runaway"
+    },
+    "k": {
+      "id": "79",
+      "url": "https://kitsu.io/anime/79"
+    },
+    "mal": {
+      "id": "40938",
+      "url": "https://myanimelist.net/anime/40938"
+    },
+    "t": {
+      "id": "42703",
+      "url": "https://trakt.tv/shows/42703"
+    },
+    "tx": {
+      "id": "higehiro_anime",
+      "url": "https://twitter.com/higehiro_anime"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14683,
+  "slug": "tiger-mask",
+  "kind": "manga",
+  "title": "Tiger Mask",
+  "titles": {
+    "default": "Tiger Mask"
+  },
+  "synonyms": [
+    "Tiger Mask",
+    "タイガーマスク"
+  ],
+  "type": "manga",
+  "chapters": 70,
+  "volumes": 14,
+  "status": "finished",
+  "year": 1968,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx60575-fmgykTQ8znro.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21682",
+      "url": "https://anilist.co/anime/3009"
+    },
+    "al_manga": {
+      "id": "21682",
+      "url": "https://anilist.co/manga/21682"
+    }
+  }
+}

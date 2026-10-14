@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 480,
+  "slug": "mahoraba-heartful-days",
+  "kind": "anime",
+  "title": "Mahoraba: Heartful days",
+  "titles": {
+    "default": "Mahoraba: Heartful days",
+    "romaji": "Mahoraba: Heartful days",
+    "english": "Mahoraba ~HeartfuL days~",
+    "native": "まほらば ~Heartful days~"
+  },
+  "synonyms": [
+    "Mahoraba: Heartful days",
+    "Mahoraba ~HeartfuL days~",
+    "まほらば ~Heartful days~"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "winter",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx519-GS6gb1XtiIDg.png"
+  ],
+  "references": {
+    "al": {
+      "id": "519",
+      "url": "https://anilist.co/anime/519"
+    },
+    "k": {
+      "id": "478",
+      "url": "https://kitsu.io/anime/478"
+    },
+    "mal": {
+      "id": "519",
+      "url": "https://myanimelist.net/anime/519"
+    },
+    "t": {
+      "id": "63905",
+      "url": "https://trakt.tv/shows/63905"
+    },
+    "tvt": {
+      "id": "mahoraba",
+      "url": "http://www.tv-tokyo.co.jp/anime/mahoraba"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6614,
+  "slug": "nippon-omoshiro-mukashi-banashi",
+  "kind": "anime",
+  "title": "Nippon Omoshiro Mukashi Banashi",
+  "titles": {
+    "default": "Nippon Omoshiro Mukashi Banashi",
+    "romaji": "Nippon Omoshiro Mukashi Banashi",
+    "native": "日本おもしろ昔話"
+  },
+  "synonyms": [
+    "Nippon Omoshiro Mukashi Banashi",
+    "日本おもしろ昔話",
+    "Nihon Omoshiro Mukashi Banashi",
+    "Fun Japanese Folklore",
+    "Maken-Ki!",
+    "マケン姫っ！",
+    "Maken-Ki! Battling Venus"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12181.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12181",
+      "url": "https://anilist.co/anime/12181"
+    },
+    "cr": {
+      "id": "maken-ki",
+      "url": "https://www.crunchyroll.com/series/maken-ki"
+    },
+    "k": {
+      "id": "5949",
+      "url": "https://kitsu.io/anime/5949"
+    },
+    "mal": {
+      "id": "12181",
+      "url": "https://myanimelist.net/anime/12181"
+    },
+    "t": {
+      "id": "60297",
+      "url": "https://trakt.tv/shows/60297"
+    }
+  }
+}

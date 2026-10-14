@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6407,
+  "slug": "hakuouki-sekkaroku",
+  "kind": "anime",
+  "title": "Hakuouki Sekkaroku",
+  "titles": {
+    "default": "Hakuouki Sekkaroku",
+    "romaji": "Hakuouki Sekkaroku",
+    "english": "Hakuoki: Demon of the Fleeting Blossom: A Memory of Snow Flowers",
+    "native": "薄桜鬼 雪華録"
+  },
+  "synonyms": [
+    "Hakuouki Sekkaroku",
+    "Hakuoki: Demon of the Fleeting Blossom: A Memory of Snow Flowers",
+    "薄桜鬼 雪華録",
+    "Hakuouki Hekketsuroku OVA",
+    "Hakuoki ~Demon of the Fleeting Blossom~ A Memory of Snow Flowers"
+  ],
+  "type": "ova",
+  "episodes": 6,
+  "status": "finished",
+  "season": "summer",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10350-83k7UIDguUB7.png"
+  ],
+  "references": {
+    "al": {
+      "id": "10350",
+      "url": "https://anilist.co/anime/10350"
+    },
+    "k": {
+      "id": "6141",
+      "url": "https://kitsu.io/anime/6141"
+    },
+    "mal": {
+      "id": "10350",
+      "url": "https://myanimelist.net/anime/10350"
+    },
+    "t": {
+      "id": "44073",
+      "url": "https://trakt.tv/shows/44073"
+    }
+  }
+}

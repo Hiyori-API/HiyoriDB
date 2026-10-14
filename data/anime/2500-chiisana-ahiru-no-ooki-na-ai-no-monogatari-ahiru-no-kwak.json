@@ -1,0 +1,65 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2500,
+  "slug": "chiisana-ahiru-no-ooki-na-ai-no-monogatari-ahiru-no-kwak",
+  "kind": "anime",
+  "title": "Chiisana Ahiru no Ooki na Ai no Monogatari: Ahiru no Kwak",
+  "titles": {
+    "default": "Chiisana Ahiru no Ooki na Ai no Monogatari: Ahiru no Kwak",
+    "romaji": "Chiisana Ahiru no Ooki na Ai no Monogatari: Ahiru no Kwak",
+    "english": "Alfred J. Quack",
+    "native": "小さなアヒルの大きな愛の物語 あひるのクワック"
+  },
+  "synonyms": [
+    "Chiisana Ahiru no Ooki na Ai no Monogatari: Ahiru no Kwak",
+    "Alfred J. Quack",
+    "小さなアヒルの大きな愛の物語 あひるのクワック",
+    "Alfred Jodocus Kwak",
+    "Little Duck's Big Love Story",
+    "The Adventures of Alfred J. Quack",
+    "Alfred J. Kwak",
+    "Alfred Kvakk",
+    "Rasmus Rapp",
+    "Alfred Jeremias Kwak",
+    "آلفرد كواك",
+    "Rasmus Rap",
+    "yāzi xiàngqián chōng",
+    "Shea'ltiel Quack",
+    "שאלתיאל קוואק",
+    "Alfréd, a kacsa",
+    "Alfréð önd",
+    "Niente paura, c'è Alfred!",
+    "Alfred Jonatan Kwak",
+    "Приключения Альфреда Квака",
+    "Alfred Džonatan Kvak",
+    "Алфред Џонатан Квак",
+    "鴨子向前衝",
+    "Ahiru no Quack"
+  ],
+  "type": "tv",
+  "episodes": 52,
+  "status": "finished",
+  "season": "spring",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2813-lnn3FopSjEi7.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2813",
+      "url": "https://anilist.co/anime/2813"
+    },
+    "k": {
+      "id": "2567",
+      "url": "https://kitsu.io/anime/2567"
+    },
+    "mal": {
+      "id": "2813",
+      "url": "https://myanimelist.net/anime/2813"
+    },
+    "t": {
+      "id": "1874",
+      "url": "https://trakt.tv/shows/1874"
+    }
+  }
+}

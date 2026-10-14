@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10390,
+  "slug": "digimon-adventure-last-evolution-kizuna",
+  "kind": "anime",
+  "title": "Digimon Adventure: LAST EVOLUTION Kizuna",
+  "titles": {
+    "default": "Digimon Adventure: LAST EVOLUTION Kizuna",
+    "romaji": "Digimon Adventure: LAST EVOLUTION Kizuna",
+    "english": "Digimon Adventure: Last Evolution Kizuna",
+    "native": "デジモンアドベンチャー LAST EVOLUTION 絆"
+  },
+  "synonyms": [
+    "Digimon Adventure: LAST EVOLUTION Kizuna",
+    "Digimon Adventure: Last Evolution Kizuna",
+    "デジモンアドベンチャー LAST EVOLUTION 絆",
+    "数码宝贝大冒险 最后的进化 绊",
+    "Metropolis",
+    "メトロポリス",
+    "Osamu Tezuka's Metropolis",
+    "Robotic Angel"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108260-2TAbERdThOZR.png"
+  ],
+  "references": {
+    "al": {
+      "id": "108260",
+      "url": "https://anilist.co/anime/108260"
+    },
+    "k": {
+      "id": "481",
+      "url": "https://kitsu.io/anime/481"
+    },
+    "mal": {
+      "id": "38088",
+      "url": "https://myanimelist.net/anime/38088"
+    },
+    "tx": {
+      "id": "Digi_advntr20th",
+      "url": "https://twitter.com/Digi_advntr20th"
+    }
+  }
+}

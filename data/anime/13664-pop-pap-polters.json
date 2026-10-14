@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13664,
+  "slug": "pop-pap-polters",
+  "kind": "anime",
+  "title": "Pop Pap Polters",
+  "titles": {
+    "default": "Pop Pap Polters",
+    "romaji": "Pop Pap Polters",
+    "native": "ポップパップポルターズ"
+  },
+  "synonyms": [
+    "Pop Pap Polters",
+    "ポップパップポルターズ",
+    "One Piece",
+    "ONE PIECE",
+    "ワンピース"
+  ],
+  "type": "tv",
+  "status": "airing",
+  "season": "fall",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b217787-NHLlgGiqy59P.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "217787",
+      "url": "https://anilist.co/anime/217787"
+    },
+    "cr": {
+      "id": "one-piece",
+      "url": "https://www.crunchyroll.com/series/one-piece"
+    },
+    "k": {
+      "id": "12",
+      "url": "https://kitsu.io/anime/12"
+    },
+    "mal": {
+      "id": "64211",
+      "url": "https://myanimelist.net/anime/64211"
+    },
+    "t": {
+      "id": "37696",
+      "url": "https://trakt.tv/shows/37696"
+    }
+  }
+}

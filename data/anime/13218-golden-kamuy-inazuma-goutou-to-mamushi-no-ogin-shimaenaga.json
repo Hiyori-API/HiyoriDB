@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13218,
+  "slug": "golden-kamuy-inazuma-goutou-to-mamushi-no-ogin-shimaenaga",
+  "kind": "anime",
+  "title": "Golden Kamuy: Inazuma Goutou to Mamushi no Ogin/Shimaenaga",
+  "titles": {
+    "default": "Golden Kamuy: Inazuma Goutou to Mamushi no Ogin/Shimaenaga",
+    "romaji": "Golden Kamuy: Inazuma Goutou to Mamushi no Ogin/Shimaenaga",
+    "native": "ゴールデンカムイ 稲妻強盗と蝮のお銀 / シマエナガ"
+  },
+  "synonyms": [
+    "Golden Kamuy: Inazuma Goutou to Mamushi no Ogin/Shimaenaga",
+    "ゴールデンカムイ 稲妻強盗と蝮のお銀 / シマエナガ",
+    "Golden Kamuy: The Lightning Robber and the Viper Ogin/Shimaenaga",
+    "Onegai☆Teacher: Himitsu na Futari",
+    "おねがい☆ティーチャー ヒミツなふたり",
+    "Onegai Sensei",
+    "Please Teacher! OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194872-J11fIWuuU6T4.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "194872",
+      "url": "https://anilist.co/anime/194872"
+    },
+    "k": {
+      "id": "406",
+      "url": "https://kitsu.io/anime/406"
+    },
+    "mal": {
+      "id": "61834",
+      "url": "https://myanimelist.net/anime/61834"
+    }
+  }
+}

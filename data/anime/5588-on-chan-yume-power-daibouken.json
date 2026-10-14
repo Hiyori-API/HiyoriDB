@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5588,
+  "slug": "on-chan-yume-power-daibouken",
+  "kind": "anime",
+  "title": "on-chan, Yume Power Daibouken!",
+  "titles": {
+    "default": "on-chan, Yume Power Daibouken!",
+    "romaji": "on-chan, Yume Power Daibouken!",
+    "english": "On-chan",
+    "native": "onちゃん夢パワー大冒険！"
+  },
+  "synonyms": [
+    "on-chan, Yume Power Daibouken!",
+    "On-chan",
+    "onちゃん夢パワー大冒険！",
+    "On-chan Yume Power Dai-Boken",
+    "On-chan Yume Power Daiboken",
+    "On-chan, Dream Power Big Adventure!",
+    "on-chan Yume Power Dai-Boken",
+    "on-chan Yume Power Daiboken"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8229-6pnHkO0r6TKh.png"
+  ],
+  "references": {
+    "al": {
+      "id": "8229",
+      "url": "https://anilist.co/anime/8229"
+    },
+    "k": {
+      "id": "5254",
+      "url": "https://kitsu.io/anime/5254"
+    },
+    "mal": {
+      "id": "8229",
+      "url": "https://myanimelist.net/anime/8229"
+    }
+  }
+}

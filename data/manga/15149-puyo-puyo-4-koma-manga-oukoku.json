@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15149,
+  "slug": "puyo-puyo-4-koma-manga-oukoku",
+  "kind": "manga",
+  "title": "Puyo Puyo: 4-koma Manga Oukoku",
+  "titles": {
+    "default": "Puyo Puyo: 4-koma Manga Oukoku"
+  },
+  "synonyms": [
+    "ぷよぷよ4コマまんが王国",
+    "The Life and Times of an Idiot Section Chief",
+    "Kachou Baka Ichidachi",
+    "課長バカ一代",
+    "Kachou Baka Ichidai"
+  ],
+  "type": "manga",
+  "volumes": 2,
+  "status": "finished",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx137590-2B09KmB1h4F3.png"
+  ],
+  "references": {
+    "al": {
+      "id": "119975",
+      "url": "https://anilist.co/anime/119975"
+    },
+    "al_manga": {
+      "id": "119975",
+      "url": "https://anilist.co/manga/119975"
+    }
+  }
+}

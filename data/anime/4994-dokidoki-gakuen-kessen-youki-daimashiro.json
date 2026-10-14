@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4994,
+  "slug": "dokidoki-gakuen-kessen-youki-daimashiro",
+  "kind": "anime",
+  "title": "Dokidoki Gakuen Kessen!! Youki Daimashiro",
+  "titles": {
+    "default": "Dokidoki Gakuen Kessen!! Youki Daimashiro",
+    "romaji": "Dokidoki Gakuen Kessen!! Youki Daimashiro",
+    "native": "ドキドキ学園　決戦！！妖奇大魔城"
+  },
+  "synonyms": [
+    "Dokidoki Gakuen Kessen!! Youki Daimashiro",
+    "ドキドキ学園　決戦！！妖奇大魔城",
+    "Demon City Shinjuku",
+    "Makai Toshi Shinjuku",
+    "魔界都市〈新宿〉",
+    "Monster City Shinjuku"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19437.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "19437",
+      "url": "https://anilist.co/anime/19437"
+    },
+    "k": {
+      "id": "459",
+      "url": "https://kitsu.io/anime/459"
+    },
+    "mal": {
+      "id": "19437",
+      "url": "https://myanimelist.net/anime/19437"
+    }
+  }
+}

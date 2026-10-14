@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7151,
+  "slug": "kono-naka-ni-hitori-imouto-ga-iru-ani-imouto-koibito",
+  "kind": "anime",
+  "title": "Kono Naka ni Hitori, Imouto ga Iru!: Ani, Imouto, Koibito",
+  "titles": {
+    "default": "Kono Naka ni Hitori, Imouto ga Iru!: Ani, Imouto, Koibito",
+    "romaji": "Kono Naka ni Hitori, Imouto ga Iru!: Ani, Imouto, Koibito",
+    "english": "NAKAIMO - My Little Sister Is Among Them!: Ani, Imouto, Koibito",
+    "native": "この中に1人、妹がいる！兄、妹、恋人"
+  },
+  "synonyms": [
+    "Kono Naka ni Hitori, Imouto ga Iru!: Ani, Imouto, Koibito",
+    "NAKAIMO - My Little Sister Is Among Them!: Ani, Imouto, Koibito",
+    "この中に1人、妹がいる！兄、妹、恋人",
+    "Kono Naka ni Hitori",
+    "Imouto ga Iru! OVA",
+    "Imouto ga Iru! Episode 13",
+    "NakaImo",
+    "One of Them is My Younger Sister! OVA",
+    "Who is Imouto? OVA",
+    "NAKAIMO - My Little Sister Is Among Them! OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15609.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "15609",
+      "url": "https://anilist.co/anime/15609"
+    },
+    "k": {
+      "id": "7282",
+      "url": "https://kitsu.io/anime/7282"
+    },
+    "mal": {
+      "id": "15609",
+      "url": "https://myanimelist.net/anime/15609"
+    }
+  }
+}

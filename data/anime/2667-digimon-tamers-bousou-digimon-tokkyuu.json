@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2667,
+  "slug": "digimon-tamers-bousou-digimon-tokkyuu",
+  "kind": "anime",
+  "title": "Digimon Tamers: Bousou Digimon Tokkyuu",
+  "titles": {
+    "default": "Digimon Tamers: Bousou Digimon Tokkyuu",
+    "romaji": "Digimon Tamers: Bousou Digimon Tokkyuu",
+    "english": "Digimon Tamers: Runaway Locomon",
+    "native": "デジモンテイマーズ 暴走デジモン特急"
+  },
+  "synonyms": [
+    "Digimon Tamers: Bousou Digimon Tokkyuu",
+    "Digimon Tamers: Runaway Locomon",
+    "デジモンテイマーズ 暴走デジモン特急",
+    "Digimon Tamers: The Runaway Digimon Express",
+    "Digimon Tamers: Reckless Driving - Digimon Super-Express",
+    "Crayon Shin-chan Movie 10: Arashi wo Yobu Appare! Sengoku Daikassen",
+    "クレヨンしんちゃん 嵐を呼ぶ アッパレ! 戦国大合戦",
+    "Eiga Crayon Shin-chan: Arashi wo Yobu Appare! Sengoku Dai Kassen",
+    "Crayon Shin-chan: The Storm Called: The Battle of the Warring States"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3033.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3033",
+      "url": "https://anilist.co/anime/3033"
+    },
+    "k": {
+      "id": "3225",
+      "url": "https://kitsu.io/anime/3225"
+    },
+    "mal": {
+      "id": "3033",
+      "url": "https://myanimelist.net/anime/3033"
+    }
+  }
+}

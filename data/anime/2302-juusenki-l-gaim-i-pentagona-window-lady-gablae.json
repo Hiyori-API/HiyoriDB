@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2302,
+  "slug": "juusenki-l-gaim-i-pentagona-window-lady-gablae",
+  "kind": "anime",
+  "title": "Juusenki L-Gaim I: Pentagona Window + Lady Gablae",
+  "titles": {
+    "default": "Juusenki L-Gaim I: Pentagona Window + Lady Gablae",
+    "romaji": "Juusenki L-Gaim I: Pentagona Window + Lady Gablae",
+    "native": "重戦機エルガイムI ペンタゴナ ウインドゥ+レディ ギャブレー"
+  },
+  "synonyms": [
+    "Juusenki L-Gaim I: Pentagona Window + Lady Gablae",
+    "重戦機エルガイムI ペンタゴナ ウインドゥ+レディ ギャブレー",
+    "Heavy Metal L-Gaim I: Pentagona Window + Lady Gablae",
+    "Juusenki L-Gaim I: Pentagona Window + Lady Gyabure",
+    "Heavy Metal L-Gaim I: Pentagona Window + Lady Gyabure"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2599-GUYAz1ivzYcC.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2599",
+      "url": "https://anilist.co/anime/2599"
+    },
+    "k": {
+      "id": "2363",
+      "url": "https://kitsu.io/anime/2363"
+    },
+    "mal": {
+      "id": "2599",
+      "url": "https://myanimelist.net/anime/2599"
+    }
+  }
+}

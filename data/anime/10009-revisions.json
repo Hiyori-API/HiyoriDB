@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10009,
+  "slug": "revisions",
+  "kind": "anime",
+  "title": "Revisions",
+  "titles": {
+    "default": "Revisions",
+    "romaji": "Revisions",
+    "native": "リヴィジョンズ"
+  },
+  "synonyms": [
+    "Revisions",
+    "リヴィジョンズ",
+    "وحوش شيبويا",
+    "Black Jack ONA",
+    "ブラック・ジャック(インターネット版)",
+    "Black Jack: Internet-han"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx102835-07I2wxmErz3j.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "102835",
+      "url": "https://anilist.co/anime/102835"
+    },
+    "k": {
+      "id": "4904",
+      "url": "https://kitsu.io/anime/4904"
+    },
+    "mal": {
+      "id": "37436",
+      "url": "https://myanimelist.net/anime/37436"
+    },
+    "nf": {
+      "id": "80992787",
+      "url": "https://www.netflix.com/title/80992787"
+    },
+    "tx": {
+      "id": "revisions_PR",
+      "url": "https://twitter.com/revisions_PR"
+    }
+  }
+}

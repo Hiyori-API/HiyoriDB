@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 197,
+  "slug": "mezzo",
+  "kind": "anime",
+  "title": "MEZZO",
+  "titles": {
+    "default": "MEZZO",
+    "romaji": "MEZZO",
+    "english": "Mezzo",
+    "native": "MEZZO -メゾ-"
+  },
+  "synonyms": [
+    "MEZZO",
+    "Mezzo",
+    "MEZZO -メゾ-",
+    "Mezzo Danger Service Agency",
+    "Mezzo DSA",
+    "メゾ",
+    "Mezzo Forte TV",
+    "Mezzo TV Danger Service Agency"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx222-AWGEcDS0VacZ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "222",
+      "url": "https://anilist.co/anime/222"
+    },
+    "k": {
+      "id": "198",
+      "url": "https://kitsu.io/anime/198"
+    },
+    "mal": {
+      "id": "222",
+      "url": "https://myanimelist.net/anime/222"
+    },
+    "t": {
+      "id": "12121",
+      "url": "https://trakt.tv/shows/12121"
+    }
+  }
+}

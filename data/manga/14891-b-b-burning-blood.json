@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14891,
+  "slug": "b-b-burning-blood",
+  "kind": "manga",
+  "title": "B.B BURNING BLOOD",
+  "titles": {
+    "default": "B.B BURNING BLOOD"
+  },
+  "synonyms": [
+    "B.B",
+    "B・B [ビービー]",
+    "Burning Blood",
+    "Ｂ・Ｂ BURNING BLOOD",
+    "Mai",
+    "Mai, The Psychic Girl",
+    "舞"
+  ],
+  "type": "manga",
+  "chapters": 286,
+  "volumes": 31,
+  "status": "finished",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b117077-9kTTIlnzICDM.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9177",
+      "url": "https://anilist.co/anime/9177"
+    },
+    "al_manga": {
+      "id": "9177",
+      "url": "https://anilist.co/manga/9177"
+    }
+  }
+}

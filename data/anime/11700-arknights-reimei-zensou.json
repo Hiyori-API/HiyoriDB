@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11700,
+  "slug": "arknights-reimei-zensou",
+  "kind": "anime",
+  "title": "Arknights: Reimei Zensou",
+  "titles": {
+    "default": "Arknights: Reimei Zensou",
+    "romaji": "Arknights: Reimei Zensou",
+    "english": "Arknights: PRELUDE TO DAWN",
+    "native": "アークナイツ 黎明前奏"
+  },
+  "synonyms": [
+    "Arknights: Reimei Zensou",
+    "Arknights: PRELUDE TO DAWN",
+    "アークナイツ 黎明前奏",
+    "明日方舟: 黎明前奏",
+    "Arknights Animation: Prelude to Dawn",
+    "アークナイツ【黎明前奏/PRELUDE TO DAWN】",
+    "Arknights: Prelude to Dawn"
+  ],
+  "type": "tv",
+  "episodes": 8,
+  "status": "finished",
+  "season": "fall",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140660-iJAS9omOJdzU.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "140660",
+      "url": "https://anilist.co/anime/140660"
+    },
+    "cr": {
+      "id": "series/GG5H5X3VN/arknights",
+      "url": "https://www.crunchyroll.com/series/series/GG5H5X3VN/arknights"
+    },
+    "mal": {
+      "id": "50205",
+      "url": "https://myanimelist.net/anime/50205"
+    },
+    "tx": {
+      "id": "ArknightsEN",
+      "url": "https://twitter.com/ArknightsStaff"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11294,
+  "slug": "doki-doki-mini-mini-kakushi-dungeon-gekijou",
+  "kind": "anime",
+  "title": "Doki Doki! Mini Mini! Kakushi Dungeon Gekijou",
+  "titles": {
+    "default": "Doki Doki! Mini Mini! Kakushi Dungeon Gekijou",
+    "romaji": "Doki Doki! Mini Mini! Kakushi Dungeon Gekijou",
+    "native": "ドキドキ！ミニミニ！隠しダンジョン劇場"
+  },
+  "synonyms": [
+    "Doki Doki! Mini Mini! Kakushi Dungeon Gekijou",
+    "ドキドキ！ミニミニ！隠しダンジョン劇場",
+    "Black Jack ONA",
+    "ブラック・ジャック(インターネット版)",
+    "Black Jack: Internet-han"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b128367-e4rG4FEjxWAu.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "128367",
+      "url": "https://anilist.co/anime/128367"
+    },
+    "k": {
+      "id": "4904",
+      "url": "https://kitsu.io/anime/4904"
+    },
+    "mal": {
+      "id": "45658",
+      "url": "https://myanimelist.net/anime/45658"
+    }
+  }
+}

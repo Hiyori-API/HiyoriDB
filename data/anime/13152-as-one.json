@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13152,
+  "slug": "as-one",
+  "kind": "anime",
+  "title": "AS ONE",
+  "titles": {
+    "default": "AS ONE",
+    "romaji": "AS ONE",
+    "native": "アズワン"
+  },
+  "synonyms": [
+    "AS ONE",
+    "アズワン",
+    "Cowboy Bebop: The Movie",
+    "Cowboy Bebop: Tengoku no Tobira",
+    "Cowboy Bebop: Knockin' on Heaven's Door",
+    "カウボーイビバップ天国の扉"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187317-oD1Pwu43UVPQ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "187317",
+      "url": "https://anilist.co/anime/187317"
+    },
+    "k": {
+      "id": "2",
+      "url": "https://kitsu.io/anime/2"
+    },
+    "mal": {
+      "id": "61139",
+      "url": "https://myanimelist.net/anime/61139"
+    }
+  }
+}

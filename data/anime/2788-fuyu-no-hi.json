@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2788,
+  "slug": "fuyu-no-hi",
+  "kind": "anime",
+  "title": "Fuyu no Hi",
+  "titles": {
+    "default": "Fuyu no Hi",
+    "romaji": "Fuyu no Hi",
+    "english": "Winter Days",
+    "native": "冬の日"
+  },
+  "synonyms": [
+    "Fuyu no Hi",
+    "Winter Days",
+    "冬の日"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3215.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3215",
+      "url": "https://anilist.co/anime/3215"
+    },
+    "k": {
+      "id": "2861",
+      "url": "https://kitsu.io/anime/2861"
+    },
+    "mal": {
+      "id": "3215",
+      "url": "https://myanimelist.net/anime/3215"
+    }
+  }
+}

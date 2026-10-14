@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11667,
+  "slug": "shadows-house-2nd-season",
+  "kind": "anime",
+  "title": "Shadows House 2nd Season",
+  "titles": {
+    "default": "Shadows House 2nd Season",
+    "romaji": "Shadows House 2nd Season",
+    "english": "SHADOWS HOUSE 2nd Season",
+    "native": "シャドーハウス 2nd Season"
+  },
+  "synonyms": [
+    "Shadows House 2nd Season",
+    "SHADOWS HOUSE 2nd Season",
+    "シャドーハウス 2nd Season",
+    "影宅 第二季",
+    "SHADOWS HOUSE-影宅- 第二季",
+    "DearS",
+    "ディアーズ"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139093-LwQoTAGhhs5v.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "139093",
+      "url": "https://anilist.co/anime/139093"
+    },
+    "cr": {
+      "id": "series/G1XHJVEXE/shadows-house",
+      "url": "https://www.crunchyroll.com/series/series/G1XHJVEXE/shadows-house"
+    },
+    "k": {
+      "id": "44",
+      "url": "https://kitsu.io/anime/44"
+    },
+    "mal": {
+      "id": "49782",
+      "url": "https://myanimelist.net/anime/49782"
+    },
+    "t": {
+      "id": "61051",
+      "url": "https://trakt.tv/shows/61051"
+    },
+    "tx": {
+      "id": "shadowshouse_yj",
+      "url": "https://twitter.com/shadowshouse_yj"
+    }
+  }
+}

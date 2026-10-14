@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6112,
+  "slug": "motto-to-love-ru",
+  "kind": "anime",
+  "title": "Motto To LOVE-Ru",
+  "titles": {
+    "default": "Motto To LOVE-Ru",
+    "romaji": "Motto To LOVE-Ru",
+    "english": "Motto To Love Ru",
+    "native": "もっと To LOVEる -とらぶる-"
+  },
+  "synonyms": [
+    "Motto To LOVE-Ru",
+    "Motto To Love Ru",
+    "もっと To LOVEる -とらぶる-",
+    "Motto To-Love-Ru",
+    "More Trouble",
+    "More ToLoveRu",
+    "Motto To LOVE Ru"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9181.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9181",
+      "url": "https://anilist.co/anime/9181"
+    },
+    "cr": {
+      "id": "motto-to-love-ru",
+      "url": "https://www.crunchyroll.com/series/motto-to-love-ru"
+    },
+    "k": {
+      "id": "5626",
+      "url": "https://kitsu.io/anime/5626"
+    },
+    "mal": {
+      "id": "9181",
+      "url": "https://myanimelist.net/anime/9181"
+    },
+    "t": {
+      "id": "34593",
+      "url": "https://trakt.tv/shows/34593"
+    }
+  }
+}

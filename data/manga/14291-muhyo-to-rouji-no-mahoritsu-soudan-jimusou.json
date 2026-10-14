@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14291,
+  "slug": "muhyo-to-rouji-no-mahoritsu-soudan-jimusou",
+  "kind": "manga",
+  "title": "Muhyo to Rouji no Mahoritsu Soudan Jimusou",
+  "titles": {
+    "default": "Muhyo to Rouji no Mahoritsu Soudan Jimusou"
+  },
+  "synonyms": [
+    "Muhyo to Rouji",
+    "Muhyo and Rouji's Magical Law Consultation Office",
+    "Muhyo et Rôjî",
+    "Muhyo & Roji's Bureau of Supernatural Investigation",
+    "ムヒョとロージーの魔法律相談事務所",
+    "Railroad",
+    "레일로드"
+  ],
+  "type": "manga",
+  "chapters": 159,
+  "volumes": 18,
+  "status": "finished",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31925-0Hap2ytFohAC.png"
+  ],
+  "references": {
+    "al": {
+      "id": "110028",
+      "url": "https://anilist.co/anime/101340"
+    },
+    "al_manga": {
+      "id": "110028",
+      "url": "https://anilist.co/manga/110028"
+    }
+  }
+}

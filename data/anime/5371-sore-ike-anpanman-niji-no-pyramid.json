@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5371,
+  "slug": "sore-ike-anpanman-niji-no-pyramid",
+  "kind": "anime",
+  "title": "Sore Ike! Anpanman: Niji no Pyramid",
+  "titles": {
+    "default": "Sore Ike! Anpanman: Niji no Pyramid",
+    "romaji": "Sore Ike! Anpanman: Niji no Pyramid",
+    "native": "それいけ！アンパンマン 虹のピラミッド"
+  },
+  "synonyms": [
+    "Sore Ike! Anpanman: Niji no Pyramid",
+    "それいけ！アンパンマン 虹のピラミッド",
+    "Soreike! Anpanman: Niji no Piramido",
+    "Soreike! Anpanman: The Pyramid of the Rainbow"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9446.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9446",
+      "url": "https://anilist.co/anime/9446"
+    },
+    "k": {
+      "id": "5738",
+      "url": "https://kitsu.io/anime/5738"
+    },
+    "mal": {
+      "id": "9446",
+      "url": "https://myanimelist.net/anime/9446"
+    }
+  }
+}

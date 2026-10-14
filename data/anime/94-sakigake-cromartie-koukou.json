@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 94,
+  "slug": "sakigake-cromartie-koukou",
+  "kind": "anime",
+  "title": "Sakigake!! Cromartie Koukou",
+  "titles": {
+    "default": "Sakigake!! Cromartie Koukou",
+    "romaji": "Sakigake!! Cromartie Koukou",
+    "english": "Cromartie High School",
+    "native": "魁!!クロマティ高校"
+  },
+  "synonyms": [
+    "Sakigake!! Cromartie Koukou",
+    "Cromartie High School",
+    "魁!!クロマティ高校",
+    "魁!! クロマティ高校"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114-VqL7lYKqdBR6.png"
+  ],
+  "references": {
+    "al": {
+      "id": "114",
+      "url": "https://anilist.co/anime/114"
+    },
+    "cr": {
+      "id": "cromartie-high-school",
+      "url": "https://www.crunchyroll.com/series/cromartie-high-school"
+    },
+    "k": {
+      "id": "93",
+      "url": "https://kitsu.io/anime/93"
+    },
+    "mal": {
+      "id": "114",
+      "url": "https://myanimelist.net/anime/114"
+    },
+    "t": {
+      "id": "12207",
+      "url": "https://trakt.tv/shows/12207"
+    }
+  }
+}

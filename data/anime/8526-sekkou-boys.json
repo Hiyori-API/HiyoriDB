@@ -1,0 +1,59 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8526,
+  "slug": "sekkou-boys",
+  "kind": "anime",
+  "title": "Sekkou Boys",
+  "titles": {
+    "default": "Sekkou Boys",
+    "romaji": "Sekkou Boys",
+    "english": "Sekko Boys",
+    "native": "石膏ボーイズ"
+  },
+  "synonyms": [
+    "Sekkou Boys",
+    "Sekko Boys",
+    "石膏ボーイズ",
+    "Durarara!!x2 Ketsu",
+    "Durarara!! x2 Ketsu",
+    "デュラララ!!×2 結"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21329-P6qOpf3Khb6y.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21329",
+      "url": "https://anilist.co/anime/21329"
+    },
+    "cr": {
+      "id": "sekko-boys",
+      "url": "https://www.crunchyroll.com/series/sekko-boys"
+    },
+    "k": {
+      "id": "9725",
+      "url": "https://kitsu.io/anime/9725"
+    },
+    "mal": {
+      "id": "31540",
+      "url": "https://myanimelist.net/anime/31540"
+    },
+    "nf": {
+      "id": "80047029",
+      "url": "https://www.netflix.com/title/80047029"
+    },
+    "t": {
+      "id": "42187",
+      "url": "https://trakt.tv/shows/42187"
+    },
+    "tx": {
+      "id": "sekkoboys",
+      "url": "https://twitter.com/sekkoboys"
+    }
+  }
+}

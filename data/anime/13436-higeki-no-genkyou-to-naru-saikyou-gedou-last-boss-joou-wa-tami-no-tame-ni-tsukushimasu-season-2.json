@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13436,
+  "slug": "higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2",
+  "kind": "anime",
+  "title": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.  Season 2",
+  "titles": {
+    "default": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.  Season 2",
+    "romaji": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.  Season 2",
+    "english": "The Most Heretical Last Boss Queen: From Villainess to Savior Season 2",
+    "native": "悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。Season2"
+  },
+  "synonyms": [
+    "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.  Season 2",
+    "The Most Heretical Last Boss Queen: From Villainess to Savior Season 2",
+    "悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。Season2",
+    "LasTame 2",
+    "ラス為 2",
+    "โศกนาฏกรรมของตัวร้ายสุดแกร่งอย่างราชินีลาสบอสจะขอถวายตัวเพื่อปวงชน ซีซั่น 2",
+    "Farming Life in Another World Season 2",
+    "異世界のんびり農家2",
+    "Isekai Nonbiri Nouka 2"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195268-HkEv0z9iTCJK.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "195268",
+      "url": "https://anilist.co/anime/195268"
+    },
+    "mal": {
+      "id": "61931",
+      "url": "https://myanimelist.net/anime/61931"
+    },
+    "tx": {
+      "id": "lastame_pr",
+      "url": "https://twitter.com/lastame_pr"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10723,
+  "slug": "kanojo-wa-utau-dakara-boku-wa",
+  "kind": "anime",
+  "title": "Kanojo wa Utau, Dakara Boku wa.",
+  "titles": {
+    "default": "Kanojo wa Utau, Dakara Boku wa.",
+    "romaji": "Kanojo wa Utau, Dakara Boku wa.",
+    "native": "彼女は歌う、だから僕は。"
+  },
+  "synonyms": [
+    "Kanojo wa Utau, Dakara Boku wa.",
+    "彼女は歌う、だから僕は。",
+    "She Sings, as If It were Destiny",
+    "Hoshizora Kiseki",
+    "星空キセキ"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b200643-9IYRuie7PsYH.png"
+  ],
+  "references": {
+    "al": {
+      "id": "200643",
+      "url": "https://anilist.co/anime/200643"
+    },
+    "k": {
+      "id": "1097",
+      "url": "https://kitsu.io/anime/1097"
+    },
+    "mal": {
+      "id": "57857",
+      "url": "https://myanimelist.net/anime/57857"
+    }
+  }
+}

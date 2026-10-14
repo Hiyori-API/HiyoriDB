@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15117,
+  "slug": "rocket-girls",
+  "kind": "manga",
+  "title": "Rocket Girls",
+  "titles": {
+    "default": "Rocket Girls"
+  },
+  "synonyms": [
+    "ロケットガール",
+    "The Summer of the Ubume",
+    "Ubume no Natsu",
+    "姑獲鳥の夏"
+  ],
+  "type": "novel",
+  "volumes": 4,
+  "status": "finished",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b53374-VM6rjxH0sZ21.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1942",
+      "url": "https://anilist.co/anime/1942"
+    },
+    "al_manga": {
+      "id": "1942",
+      "url": "https://anilist.co/manga/1942"
+    }
+  }
+}

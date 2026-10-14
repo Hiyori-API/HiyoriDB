@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3656,
+  "slug": "pico-coco-chico",
+  "kind": "anime",
+  "title": "Pico × CoCo × Chico",
+  "titles": {
+    "default": "Pico × CoCo × Chico",
+    "romaji": "Pico × CoCo × Chico",
+    "native": "ぴこ×CoCo×ちこ"
+  },
+  "synonyms": [
+    "Pico × CoCo × Chico",
+    "ぴこ×CoCo×ちこ",
+    "Boku no Pico OVA 3",
+    "Boku no Piko",
+    "Kamen no Maid Guy OVA",
+    "仮面のメイドガイ OAD",
+    "Kamen no Maid Guy OAD"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4866.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4866",
+      "url": "https://anilist.co/anime/4866"
+    },
+    "k": {
+      "id": "3903",
+      "url": "https://kitsu.io/anime/3903"
+    },
+    "mal": {
+      "id": "4866",
+      "url": "https://myanimelist.net/anime/4866"
+    }
+  }
+}

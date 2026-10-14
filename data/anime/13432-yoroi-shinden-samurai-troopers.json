@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13432,
+  "slug": "yoroi-shinden-samurai-troopers",
+  "kind": "anime",
+  "title": "Yoroi Shinden Samurai Troopers",
+  "titles": {
+    "default": "Yoroi Shinden Samurai Troopers",
+    "romaji": "Yoroi Shinden Samurai Troopers",
+    "english": "Yoroi-Shinden Samurai Troopers",
+    "native": "鎧真伝サムライトルーパー"
+  },
+  "synonyms": [
+    "Yoroi Shinden Samurai Troopers",
+    "Yoroi-Shinden Samurai Troopers",
+    "鎧真伝サムライトルーパー",
+    "ตำนานใหม่ ซามูไรทรูปเปอร์",
+    "Paradition, Heavenhell",
+    "Hell's Paradise Season 2",
+    "地獄楽第二期",
+    "Jigokuraku 2nd Season"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194318-V3STmm4wutVQ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "194318",
+      "url": "https://anilist.co/anime/194318"
+    },
+    "cr": {
+      "id": "series/GT00367517/yoroi-shinden-samurai-troopers",
+      "url": "https://www.crunchyroll.com/series/series/GT00367517/yoroi-shinden-samurai-troopers"
+    },
+    "mal": {
+      "id": "61830",
+      "url": "https://myanimelist.net/anime/61830"
+    }
+  }
+}

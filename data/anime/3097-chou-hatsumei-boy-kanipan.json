@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3097,
+  "slug": "chou-hatsumei-boy-kanipan",
+  "kind": "anime",
+  "title": "Chou Hatsumei BOY Kanipan",
+  "titles": {
+    "default": "Chou Hatsumei BOY Kanipan",
+    "romaji": "Chou Hatsumei BOY Kanipan",
+    "native": "超発明BOYカニパン"
+  },
+  "synonyms": [
+    "Chou Hatsumei BOY Kanipan",
+    "超発明BOYカニパン",
+    "Super Inventor Kanipan",
+    "Chou Hatsumei Boy Kanipan"
+  ],
+  "type": "tv",
+  "episodes": 21,
+  "status": "finished",
+  "season": "winter",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3690.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3690",
+      "url": "https://anilist.co/anime/3690"
+    },
+    "k": {
+      "id": "3197",
+      "url": "https://kitsu.io/anime/3197"
+    },
+    "mal": {
+      "id": "3690",
+      "url": "https://myanimelist.net/anime/3690"
+    }
+  }
+}

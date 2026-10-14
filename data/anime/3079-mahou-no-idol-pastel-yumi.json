@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3079,
+  "slug": "mahou-no-idol-pastel-yumi",
+  "kind": "anime",
+  "title": "Mahou no Idol Pastel Yumi",
+  "titles": {
+    "default": "Mahou no Idol Pastel Yumi",
+    "romaji": "Mahou no Idol Pastel Yumi",
+    "english": "Pastel Yumi, the Magic Idol",
+    "native": "魔法のアイドル パステルユーミ"
+  },
+  "synonyms": [
+    "Mahou no Idol Pastel Yumi",
+    "Pastel Yumi, the Magic Idol",
+    "魔法のアイドル パステルユーミ",
+    "Magical Idol Pastel Yumi",
+    "Sandy dai mille colori",
+    "Susy aux Fleurs Magiques"
+  ],
+  "type": "tv",
+  "episodes": 25,
+  "status": "finished",
+  "season": "spring",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3660-YeCzkQL20L5O.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3660",
+      "url": "https://anilist.co/anime/3660"
+    },
+    "k": {
+      "id": "3176",
+      "url": "https://kitsu.io/anime/3176"
+    },
+    "mal": {
+      "id": "3660",
+      "url": "https://myanimelist.net/anime/3660"
+    }
+  }
+}

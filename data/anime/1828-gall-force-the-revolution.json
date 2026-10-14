@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1828,
+  "slug": "gall-force-the-revolution",
+  "kind": "anime",
+  "title": "Gall Force: THE REVOLUTION",
+  "titles": {
+    "default": "Gall Force: THE REVOLUTION",
+    "romaji": "Gall Force: THE REVOLUTION",
+    "native": "ガルフォース THE REVOLUTION"
+  },
+  "synonyms": [
+    "Gall Force: THE REVOLUTION",
+    "ガルフォース THE REVOLUTION",
+    "Gall Force: The Revolution"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "fall",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2066.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2066",
+      "url": "https://anilist.co/anime/2066"
+    },
+    "k": {
+      "id": "1865",
+      "url": "https://kitsu.io/anime/1865"
+    },
+    "mal": {
+      "id": "2066",
+      "url": "https://myanimelist.net/anime/2066"
+    }
+  }
+}

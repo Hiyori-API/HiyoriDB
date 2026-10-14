@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11115,
+  "slug": "zenonzard-the-animation-episode-0",
+  "kind": "anime",
+  "title": "Zenonzard: THE ANIMATION - Episode 0",
+  "titles": {
+    "default": "Zenonzard: THE ANIMATION - Episode 0",
+    "romaji": "Zenonzard: THE ANIMATION - Episode 0",
+    "native": "ゼノンザード THE ANIMATION - Episode 0"
+  },
+  "synonyms": [
+    "Zenonzard: THE ANIMATION - Episode 0",
+    "ゼノンザード THE ANIMATION - Episode 0",
+    "ゼノンザード THE ANIMATION",
+    "Zenonzard The Animation Episode 0"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112034-wGD4vMFsQNrm.png"
+  ],
+  "references": {
+    "al": {
+      "id": "112034",
+      "url": "https://anilist.co/anime/112034"
+    },
+    "mal": {
+      "id": "40394",
+      "url": "https://myanimelist.net/anime/40394"
+    },
+    "tx": {
+      "id": "zenonzard",
+      "url": "https://twitter.com/zenonzard"
+    },
+    "yt": {
+      "id": "LM2WLQfaHfE",
+      "url": "https://www.youtube.com/watch?v=LM2WLQfaHfE"
+    }
+  }
+}

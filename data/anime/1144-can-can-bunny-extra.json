@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1144,
+  "slug": "can-can-bunny-extra",
+  "kind": "anime",
+  "title": "Can Can Bunny Extra",
+  "titles": {
+    "default": "Can Can Bunny Extra",
+    "romaji": "Can Can Bunny Extra",
+    "english": "Can Can Bunny",
+    "native": "きゃんきゃんバニーエクストラ"
+  },
+  "synonyms": [
+    "Can Can Bunny Extra",
+    "Can Can Bunny",
+    "きゃんきゃんバニーエクストラ",
+    "Can Can Bunny Extra - Lucky 7",
+    "Can Can Bunny Extra - Summer Fun",
+    "Shamanic Princess",
+    "シャーマニックプリンセス"
+  ],
+  "type": "ova",
+  "episodes": 6,
+  "status": "finished",
+  "season": "winter",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1275.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1275",
+      "url": "https://anilist.co/anime/1275"
+    },
+    "k": {
+      "id": "1062",
+      "url": "https://kitsu.io/anime/1062"
+    },
+    "mal": {
+      "id": "1275",
+      "url": "https://myanimelist.net/anime/1275"
+    }
+  }
+}

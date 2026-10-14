@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3473,
+  "slug": "gene-diver",
+  "kind": "anime",
+  "title": "Gene Diver",
+  "titles": {
+    "default": "Gene Diver",
+    "romaji": "Gene Diver",
+    "native": "ジーンダイバー"
+  },
+  "synonyms": [
+    "Gene Diver",
+    "ジーンダイバー"
+  ],
+  "type": "tv",
+  "episodes": 56,
+  "status": "finished",
+  "season": "spring",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4470.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4470",
+      "url": "https://anilist.co/anime/4470"
+    },
+    "k": {
+      "id": "3626",
+      "url": "https://kitsu.io/anime/3626"
+    },
+    "mal": {
+      "id": "4470",
+      "url": "https://myanimelist.net/anime/4470"
+    }
+  }
+}

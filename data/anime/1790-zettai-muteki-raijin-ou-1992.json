@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1790,
+  "slug": "zettai-muteki-raijin-ou-1992",
+  "kind": "anime",
+  "title": "Zettai Muteki Raijin Ou (1992)",
+  "titles": {
+    "default": "Zettai Muteki Raijin Ou (1992)",
+    "romaji": "Zettai Muteki Raijin Ou (1992)",
+    "native": "絶対無敵ライジンオー (1992)"
+  },
+  "synonyms": [
+    "Zettai Muteki Raijin Ou (1992)",
+    "絶対無敵ライジンオー (1992)",
+    "Zettai Muteki Raijin-Oh (1992)",
+    "Matchless Raijin-Oh (1992)"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "fall",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2028-xT2CX0mFjZNe.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2028",
+      "url": "https://anilist.co/anime/2028"
+    },
+    "k": {
+      "id": "1827",
+      "url": "https://kitsu.io/anime/1827"
+    },
+    "mal": {
+      "id": "2028",
+      "url": "https://myanimelist.net/anime/2028"
+    }
+  }
+}

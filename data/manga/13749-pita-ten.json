@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13749,
+  "slug": "pita-ten",
+  "kind": "manga",
+  "title": "Pita-Ten",
+  "titles": {
+    "default": "Pita-Ten"
+  },
+  "synonyms": [
+    "ぴたテン",
+    "Pita Ten",
+    "Pita-Ten",
+    "Devil May Cry",
+    "デビル メイ クライ",
+    "DMC",
+    "Devil May Cry 2"
+  ],
+  "type": "novel",
+  "volumes": 3,
+  "status": "finished",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4659.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "162",
+      "url": "https://anilist.co/anime/162"
+    },
+    "al_manga": {
+      "id": "162",
+      "url": "https://anilist.co/manga/162"
+    }
+  }
+}

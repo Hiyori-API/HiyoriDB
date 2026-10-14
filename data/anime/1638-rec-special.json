@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1638,
+  "slug": "rec-special",
+  "kind": "anime",
+  "title": "Rec Special",
+  "titles": {
+    "default": "Rec Special",
+    "romaji": "Rec Special",
+    "native": "レック"
+  },
+  "synonyms": [
+    "Rec Special",
+    "レック",
+    "Outlaw Star Pilot",
+    "Seihou Bukyou Outlaw Star Pilot",
+    "Outlaw Star",
+    "星方武侠アウトロースター パイロット版",
+    "Future Hero Next Generation Outlaw Star Pilot"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1847-DRueUTTGOX3i.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1847",
+      "url": "https://anilist.co/anime/1847"
+    },
+    "k": {
+      "id": "367",
+      "url": "https://kitsu.io/anime/367"
+    },
+    "mal": {
+      "id": "1847",
+      "url": "https://myanimelist.net/anime/1847"
+    }
+  }
+}

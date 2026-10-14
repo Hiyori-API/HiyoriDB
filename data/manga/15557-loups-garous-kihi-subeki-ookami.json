@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15557,
+  "slug": "loups-garous-kihi-subeki-ookami",
+  "kind": "manga",
+  "title": "Loups=Garous: Kihi Subeki Ookami",
+  "titles": {
+    "default": "Loups=Garous: Kihi Subeki Ookami"
+  },
+  "synonyms": [
+    "ルー=ガルー 忌避すべき狼",
+    "Love Makes People Grow",
+    "Hito wa Ai wo Tabete Sodatsu",
+    "人は愛を食べて育つ",
+    "Eat Love and Grow",
+    "Hito wa ai o tabete sodatsu"
+  ],
+  "type": "manga",
+  "chapters": 30,
+  "volumes": 5,
+  "status": "finished",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/91619-XBbRcIu38Hul.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12723",
+      "url": "https://anilist.co/anime/7598"
+    },
+    "al_manga": {
+      "id": "12723",
+      "url": "https://anilist.co/manga/12723"
+    }
+  }
+}

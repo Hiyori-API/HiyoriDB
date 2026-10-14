@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6142,
+  "slug": "gakkou-no-kowai-uwasa-shin-hanako-san-ga-kita",
+  "kind": "anime",
+  "title": "Gakkou no Kowai Uwasa Shin: Hanako-san ga Kita!!",
+  "titles": {
+    "default": "Gakkou no Kowai Uwasa Shin: Hanako-san ga Kita!!",
+    "romaji": "Gakkou no Kowai Uwasa Shin: Hanako-san ga Kita!!",
+    "english": "School's Scary Stories: Hanako-san ga kita!!",
+    "native": "学校のｺﾜｲうわさ 新・花子さんがきた!!"
+  },
+  "synonyms": [
+    "Gakkou no Kowai Uwasa Shin: Hanako-san ga Kita!!",
+    "School's Scary Stories: Hanako-san ga kita!!",
+    "学校のｺﾜｲうわさ 新・花子さんがきた!!"
+  ],
+  "type": "tv",
+  "episodes": 33,
+  "status": "finished",
+  "season": "summer",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9345-A4sBD0dNg3nZ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "9345",
+      "url": "https://anilist.co/anime/9345"
+    },
+    "k": {
+      "id": "5692",
+      "url": "https://kitsu.io/anime/5692"
+    },
+    "mal": {
+      "id": "9345",
+      "url": "https://myanimelist.net/anime/9345"
+    }
+  }
+}

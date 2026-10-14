@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 943,
+  "slug": "good-morning-call",
+  "kind": "anime",
+  "title": "Good Morning Call",
+  "titles": {
+    "default": "Good Morning Call",
+    "romaji": "Good Morning Call",
+    "native": "グッドモーニング・コール"
+  },
+  "synonyms": [
+    "Good Morning Call",
+    "グッドモーニング・コール"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1056.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1056",
+      "url": "https://anilist.co/anime/1056"
+    },
+    "k": {
+      "id": "945",
+      "url": "https://kitsu.io/anime/945"
+    },
+    "mal": {
+      "id": "1056",
+      "url": "https://myanimelist.net/anime/1056"
+    }
+  }
+}

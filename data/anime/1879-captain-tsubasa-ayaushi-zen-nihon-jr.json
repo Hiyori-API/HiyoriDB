@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1879,
+  "slug": "captain-tsubasa-ayaushi-zen-nihon-jr",
+  "kind": "anime",
+  "title": "Captain Tsubasa: Ayaushi! Zen Nihon Jr.",
+  "titles": {
+    "default": "Captain Tsubasa: Ayaushi! Zen Nihon Jr.",
+    "romaji": "Captain Tsubasa: Ayaushi! Zen Nihon Jr.",
+    "native": "キャプテン翼　危うし！全日本Ｊｒ．"
+  },
+  "synonyms": [
+    "Captain Tsubasa: Ayaushi! Zen Nihon Jr.",
+    "キャプテン翼　危うし！全日本Ｊｒ．",
+    "Captain Tsubasa Movie 2",
+    "Captain Tsubasa MOVIE (1985 Winter)",
+    "Captain Tsubasa Movie 02 - Attention! The Japanese Junior Selection",
+    "Captain Tsubasa: Ayaushi! Zen Nippon Jr."
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2119.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2119",
+      "url": "https://anilist.co/anime/2119"
+    },
+    "k": {
+      "id": "1916",
+      "url": "https://kitsu.io/anime/1916"
+    },
+    "mal": {
+      "id": "2119",
+      "url": "https://myanimelist.net/anime/2119"
+    }
+  }
+}

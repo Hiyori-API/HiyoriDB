@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4275,
+  "slug": "the-ten-little-gall-force",
+  "kind": "anime",
+  "title": "The Ten Little Gall Force",
+  "titles": {
+    "default": "The Ten Little Gall Force",
+    "romaji": "The Ten Little Gall Force",
+    "native": "テンリトルガルフォース"
+  },
+  "synonyms": [
+    "The Ten Little Gall Force",
+    "テンリトルガルフォース",
+    "Super Deformed Double Feature",
+    "Ten Little Gall Force"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6331.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6331",
+      "url": "https://anilist.co/anime/6331"
+    },
+    "k": {
+      "id": "4524",
+      "url": "https://kitsu.io/anime/4524"
+    },
+    "mal": {
+      "id": "6331",
+      "url": "https://myanimelist.net/anime/6331"
+    }
+  }
+}

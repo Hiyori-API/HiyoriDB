@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1272,
+  "slug": "lupin-iii-walther-p-38",
+  "kind": "anime",
+  "title": "Lupin III: Walther P-38",
+  "titles": {
+    "default": "Lupin III: Walther P-38",
+    "romaji": "Lupin III: Walther P-38",
+    "english": "Lupin the Third: Island of Assassins",
+    "native": "ルパン三世ワルサーP38"
+  },
+  "synonyms": [
+    "Lupin III: Walther P-38",
+    "Lupin the Third: Island of Assassins",
+    "ルパン三世ワルサーP38",
+    "Rupan Sansei: Walusa P38 - In Gedenken an die Walther P38",
+    "Lupin III: In Memory of the Walther P38",
+    "Lupin III: Island of Assassins",
+    "Lupin III - Nome in codice Tarantola",
+    "ルパン三世『ワルサーP38』"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1439-P2sl2hUy126E.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1439",
+      "url": "https://anilist.co/anime/1439"
+    },
+    "ap": {
+      "id": "B0915MGF1Y",
+      "url": "https://www.amazon.com/gp/video/detail/B0915MGF1Y"
+    },
+    "k": {
+      "id": "1292",
+      "url": "https://kitsu.io/anime/1292"
+    },
+    "mal": {
+      "id": "1439",
+      "url": "https://myanimelist.net/anime/1439"
+    }
+  }
+}

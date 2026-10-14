@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4282,
+  "slug": "marie-gali-episode-zero",
+  "kind": "anime",
+  "title": "Marie & Gali Episode Zero",
+  "titles": {
+    "default": "Marie & Gali Episode Zero",
+    "romaji": "Marie & Gali Episode Zero",
+    "native": "マリー & ガリー"
+  },
+  "synonyms": [
+    "Marie & Gali Episode Zero",
+    "マリー & ガリー",
+    "Marie and Gali Episode Zero",
+    "Marie and Gali Episode 0",
+    "Marie to Gali Episode Zero",
+    "Marie to Gali Episode 0"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6355.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6355",
+      "url": "https://anilist.co/anime/6355"
+    },
+    "k": {
+      "id": "4530",
+      "url": "https://kitsu.io/anime/4530"
+    },
+    "mal": {
+      "id": "6355",
+      "url": "https://myanimelist.net/anime/6355"
+    }
+  }
+}

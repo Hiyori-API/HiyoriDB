@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5158,
+  "slug": "ishii-hisaichi-no-dai-seikai",
+  "kind": "anime",
+  "title": "Ishii Hisaichi no Dai Seikai",
+  "titles": {
+    "default": "Ishii Hisaichi no Dai Seikai",
+    "romaji": "Ishii Hisaichi no Dai Seikai",
+    "native": "いしいひさいちの大政界"
+  },
+  "synonyms": [
+    "Ishii Hisaichi no Dai Seikai",
+    "いしいひさいちの大政界",
+    "Ishii Hisaichi no Daiseikai",
+    "Ninja Ryuukenden",
+    "忍者龍剣伝",
+    "Ninja Gaiden",
+    "Ninja Ryukenden",
+    "Tale of Ninja Ryuuken",
+    "Ninja Ryu: The Dragon Sword Story"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19583.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "19583",
+      "url": "https://anilist.co/anime/19583"
+    },
+    "k": {
+      "id": "574",
+      "url": "https://kitsu.io/anime/574"
+    },
+    "mal": {
+      "id": "19583",
+      "url": "https://myanimelist.net/anime/19583"
+    }
+  }
+}

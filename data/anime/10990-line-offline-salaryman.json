@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10990,
+  "slug": "line-offline-salaryman",
+  "kind": "anime",
+  "title": "LINE OFFLINE: Salaryman",
+  "titles": {
+    "default": "LINE OFFLINE: Salaryman",
+    "romaji": "LINE OFFLINE: Salaryman",
+    "native": "LINE OFFLINE ～サラリーマン～"
+  },
+  "synonyms": [
+    "LINE OFFLINE: Salaryman",
+    "LINE OFFLINE ～サラリーマン～",
+    "Line Offline: Salaryman",
+    "ＬＩＮＥ ＯＦＦＬＩＮＥ サラリーマン"
+  ],
+  "type": "tv",
+  "episodes": 114,
+  "status": "finished",
+  "season": "winter",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16906.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "16906",
+      "url": "https://anilist.co/anime/16906"
+    },
+    "k": {
+      "id": "7547",
+      "url": "https://kitsu.io/anime/7547"
+    },
+    "mal": {
+      "id": "16906",
+      "url": "https://myanimelist.net/anime/16906"
+    },
+    "t": {
+      "id": "69165",
+      "url": "https://trakt.tv/shows/69165"
+    }
+  }
+}

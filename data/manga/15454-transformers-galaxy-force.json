@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15454,
+  "slug": "transformers-galaxy-force",
+  "kind": "manga",
+  "title": "Transformers: Galaxy Force",
+  "titles": {
+    "default": "Transformers: Galaxy Force"
+  },
+  "synonyms": [
+    "Galaxy Force",
+    "トランスフォーマーギャラクシーフォース",
+    "Renai Soukanzu",
+    "恋愛相姦図",
+    "Renai Sokanzu",
+    "Pink Sweets"
+  ],
+  "type": "manga",
+  "chapters": 9,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/22001.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "928",
+      "url": "https://anilist.co/anime/928"
+    },
+    "al_manga": {
+      "id": "928",
+      "url": "https://anilist.co/manga/928"
+    }
+  }
+}

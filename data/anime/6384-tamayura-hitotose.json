@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6384,
+  "slug": "tamayura-hitotose",
+  "kind": "anime",
+  "title": "Tamayura: hitotose",
+  "titles": {
+    "default": "Tamayura: hitotose",
+    "romaji": "Tamayura: hitotose",
+    "english": "Tamayura: Hitotose",
+    "native": "たまゆら～hitotose～"
+  },
+  "synonyms": [
+    "Tamayura: hitotose",
+    "Tamayura: Hitotose",
+    "たまゆら～hitotose～"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10232-inIllgXxoMqC.png"
+  ],
+  "references": {
+    "al": {
+      "id": "10232",
+      "url": "https://anilist.co/anime/10232"
+    },
+    "cr": {
+      "id": "tamayura-hitotose",
+      "url": "https://www.crunchyroll.com/series/tamayura-hitotose"
+    },
+    "k": {
+      "id": "6087",
+      "url": "https://kitsu.io/anime/6087"
+    },
+    "mal": {
+      "id": "10232",
+      "url": "https://myanimelist.net/anime/10232"
+    },
+    "t": {
+      "id": "44840",
+      "url": "https://trakt.tv/shows/44840"
+    },
+    "tx": {
+      "id": "tamayura_tweet",
+      "url": "https://twitter.com/tamayura_tweet"
+    }
+  }
+}

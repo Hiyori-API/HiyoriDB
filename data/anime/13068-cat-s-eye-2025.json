@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13068,
+  "slug": "cat-s-eye-2025",
+  "kind": "anime",
+  "title": "Cat's♥Eye (2025)",
+  "titles": {
+    "default": "Cat's♥Eye (2025)",
+    "romaji": "Cat's♥Eye (2025)",
+    "english": "Cat's Eye (2025)",
+    "native": "キャッツ♥アイ (2025)"
+  },
+  "synonyms": [
+    "Cat's♥Eye (2025)",
+    "Cat's Eye (2025)",
+    "キャッツ♥アイ (2025)",
+    "Cat’s Eye – Oczy kota",
+    "Occhi di Gatto",
+    "Signé Cat's Eye",
+    "Ein Supertrio",
+    "Ojos de Gato",
+    "猫眼三姐妹",
+    "Xian Wang de Richang Shenghuo 5th Season",
+    "The Daily Life of the Immortal King 5th Season",
+    "不死身な僕の日常 5期",
+    "The Daily Life of the Immortal King 5",
+    "仙王的日常生活 第五季",
+    "Xian Wang de Richang Shenghuo 5"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184718-GvNnorokj1i3.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "184718",
+      "url": "https://anilist.co/anime/184718"
+    },
+    "mal": {
+      "id": "60347",
+      "url": "https://myanimelist.net/anime/60347"
+    }
+  }
+}

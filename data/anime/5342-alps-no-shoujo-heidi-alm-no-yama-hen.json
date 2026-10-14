@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5342,
+  "slug": "alps-no-shoujo-heidi-alm-no-yama-hen",
+  "kind": "anime",
+  "title": "Alps no Shoujo Heidi: Alm no Yama-hen",
+  "titles": {
+    "default": "Alps no Shoujo Heidi: Alm no Yama-hen",
+    "romaji": "Alps no Shoujo Heidi: Alm no Yama-hen",
+    "native": "アルプスの少女ハイジ アルムの山編"
+  },
+  "synonyms": [
+    "Alps no Shoujo Heidi: Alm no Yama-hen",
+    "アルプスの少女ハイジ アルムの山編"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9548.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9548",
+      "url": "https://anilist.co/anime/9548"
+    },
+    "k": {
+      "id": "5788",
+      "url": "https://kitsu.io/anime/5788"
+    },
+    "mal": {
+      "id": "9548",
+      "url": "https://myanimelist.net/anime/9548"
+    }
+  }
+}

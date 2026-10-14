@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15211,
+  "slug": "sister-princess",
+  "kind": "manga",
+  "title": "Sister Princess",
+  "titles": {
+    "default": "Sister Princess"
+  },
+  "synonyms": [
+    "Shisutā Purinsesu",
+    "SisPri",
+    "シスター・プリンセス",
+    "Maburaho",
+    "まぶらほ",
+    "Maburaho Tanpen"
+  ],
+  "type": "novel",
+  "chapters": 54,
+  "volumes": 12,
+  "status": "finished",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx38414-ZzZFSnCe96pr.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "835",
+      "url": "https://anilist.co/anime/836"
+    },
+    "al_manga": {
+      "id": "835",
+      "url": "https://anilist.co/manga/835"
+    }
+  }
+}

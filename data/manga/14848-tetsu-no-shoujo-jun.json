@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14848,
+  "slug": "tetsu-no-shoujo-jun",
+  "kind": "manga",
+  "title": "Tetsu no Shoujo JUN",
+  "titles": {
+    "default": "Tetsu no Shoujo JUN"
+  },
+  "synonyms": [
+    "Iron Virgin Jun",
+    "アイアンバージンJUN",
+    "Tetsu no Shojo Jun",
+    "鉄の処女JUN",
+    "Kuro no Kumikyoku",
+    "黒の組曲",
+    "Tenshi wa Yami ni Hohoemu",
+    "Bell ga Nattara",
+    "Cole",
+    "Linda",
+    "Violet"
+  ],
+  "type": "manga",
+  "chapters": 3,
+  "volumes": 1,
+  "status": "finished",
+  "year": 1983,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx38560-Yj5tMnFcfbzg.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1641",
+      "url": "https://anilist.co/anime/1641"
+    },
+    "al_manga": {
+      "id": "1641",
+      "url": "https://anilist.co/manga/1641"
+    }
+  }
+}

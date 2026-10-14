@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2703,
+  "slug": "warau-salesman",
+  "kind": "anime",
+  "title": "Warau Salesman",
+  "titles": {
+    "default": "Warau Salesman",
+    "romaji": "Warau Salesman",
+    "english": "Laughing Salesman",
+    "native": "笑ゥせぇるすまん"
+  },
+  "synonyms": [
+    "Warau Salesman",
+    "Laughing Salesman",
+    "笑ゥせぇるすまん",
+    "Smiling Salesman"
+  ],
+  "type": "tv",
+  "episodes": 104,
+  "status": "finished",
+  "season": "fall",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3077-r93tm0fXWl46.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3077",
+      "url": "https://anilist.co/anime/3077"
+    },
+    "k": {
+      "id": "2775",
+      "url": "https://kitsu.io/anime/2775"
+    },
+    "mal": {
+      "id": "3077",
+      "url": "https://myanimelist.net/anime/3077"
+    }
+  }
+}

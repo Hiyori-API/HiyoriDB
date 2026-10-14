@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8385,
+  "slug": "aniki-no-yome-san-nara-ore-ni-hamerarete-hiihii-itteru-tokoro-da-yo",
+  "kind": "anime",
+  "title": "Aniki no Yome-san nara, Ore ni Hamerarete Hiihii Itteru Tokoro Da yo",
+  "titles": {
+    "default": "Aniki no Yome-san nara, Ore ni Hamerarete Hiihii Itteru Tokoro Da yo",
+    "romaji": "Aniki no Yome-san nara, Ore ni Hamerarete Hiihii Itteru Tokoro Da yo",
+    "native": "兄貴の嫁さんなら, 俺にハメられてヒイヒイ言ってるところだよ"
+  },
+  "synonyms": [
+    "Aniki no Yome-san nara, Ore ni Hamerarete Hiihii Itteru Tokoro Da yo",
+    "兄貴の嫁さんなら, 俺にハメられてヒイヒイ言ってるところだよ",
+    "Witch Craft Works: Takamiya-kun to Imouto no Warudakumi",
+    "ウィッチクラフトワークス 多華宮君と妹の悪巧み",
+    "Witchcraft Works",
+    "Witch Craft Works OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21621-eZFtQ4UusaR2.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21621",
+      "url": "https://anilist.co/anime/21621"
+    },
+    "k": {
+      "id": "8257",
+      "url": "https://kitsu.io/anime/8257"
+    },
+    "mal": {
+      "id": "31101",
+      "url": "https://myanimelist.net/anime/31101"
+    }
+  }
+}

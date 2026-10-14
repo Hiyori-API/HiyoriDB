@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4780,
+  "slug": "ganbare-tabuchi-kun-aa-tsuppari-jinsei",
+  "kind": "anime",
+  "title": "Ganbare!! Tabuchi-kun!! Aa Tsuppari Jinsei",
+  "titles": {
+    "default": "Ganbare!! Tabuchi-kun!! Aa Tsuppari Jinsei",
+    "romaji": "Ganbare!! Tabuchi-kun!! Aa Tsuppari Jinsei",
+    "native": "がんばれ!! タブチくん!!　あぁツッパリ人生"
+  },
+  "synonyms": [
+    "Ganbare!! Tabuchi-kun!! Aa Tsuppari Jinsei",
+    "がんばれ!! タブチくん!!　あぁツッパリ人生",
+    "Cyborg 009: Legend of the Super Galaxy",
+    "Cyborg 009: Chou Ginga Densetsu",
+    "サイボーグ００９・超銀河伝説",
+    "Defenders of The Vortex"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1980,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116033-14xsOFQ7GOTh.png"
+  ],
+  "references": {
+    "al": {
+      "id": "116033",
+      "url": "https://anilist.co/anime/116033"
+    },
+    "k": {
+      "id": "4945",
+      "url": "https://kitsu.io/anime/4945"
+    },
+    "mal": {
+      "id": "33325",
+      "url": "https://myanimelist.net/anime/33325"
+    }
+  }
+}

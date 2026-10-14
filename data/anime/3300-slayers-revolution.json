@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3300,
+  "slug": "slayers-revolution",
+  "kind": "anime",
+  "title": "Slayers REVOLUTION",
+  "titles": {
+    "default": "Slayers REVOLUTION",
+    "romaji": "Slayers REVOLUTION",
+    "english": "The Slayers Revolution",
+    "native": "スレイヤーズ REVOLUTION"
+  },
+  "synonyms": [
+    "Slayers REVOLUTION",
+    "The Slayers Revolution",
+    "スレイヤーズ REVOLUTION",
+    "Slayers 4th Season",
+    "Slayers 4th Series",
+    "Slayers (TV 2008)",
+    "Slayers Revolution",
+    "スレイヤーズ"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4028-M65wEjtfP8rO.png"
+  ],
+  "references": {
+    "al": {
+      "id": "4028",
+      "url": "https://anilist.co/anime/4028"
+    },
+    "cr": {
+      "id": "the-slayers-revolution",
+      "url": "https://www.crunchyroll.com/series/the-slayers-revolution"
+    },
+    "k": {
+      "id": "3421",
+      "url": "https://kitsu.io/anime/3421"
+    },
+    "mal": {
+      "id": "4028",
+      "url": "https://myanimelist.net/anime/4028"
+    },
+    "t": {
+      "id": "42704",
+      "url": "https://trakt.tv/shows/42704"
+    }
+  }
+}

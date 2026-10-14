@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8890,
+  "slug": "aikatsu-nerawareta-mahou-no-aikatsu-card",
+  "kind": "anime",
+  "title": "Aikatsu!: Nerawareta Mahou no Aikatsu! Card",
+  "titles": {
+    "default": "Aikatsu!: Nerawareta Mahou no Aikatsu! Card",
+    "romaji": "Aikatsu!: Nerawareta Mahou no Aikatsu! Card",
+    "native": "アイカツ！～ねらわれた魔法のアイカツ！カード～"
+  },
+  "synonyms": [
+    "Aikatsu!: Nerawareta Mahou no Aikatsu! Card",
+    "アイカツ！～ねらわれた魔法のアイカツ！カード～",
+    "The Pursuit of the Magic Aikatsu Card",
+    "Big Fish & Begonia",
+    "Da Yu Hai Tang",
+    "大鱼海棠",
+    "Da Hai",
+    "Big Fish & Chinese Flowering Crabapple",
+    "大魚海棠"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98332-a7C5eIwq1WIo.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98332",
+      "url": "https://anilist.co/anime/98332"
+    },
+    "k": {
+      "id": "6103",
+      "url": "https://kitsu.io/anime/6103"
+    },
+    "mal": {
+      "id": "32806",
+      "url": "https://myanimelist.net/anime/32806"
+    }
+  }
+}

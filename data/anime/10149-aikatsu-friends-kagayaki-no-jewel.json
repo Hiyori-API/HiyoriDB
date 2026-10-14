@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10149,
+  "slug": "aikatsu-friends-kagayaki-no-jewel",
+  "kind": "anime",
+  "title": "Aikatsu Friends!: Kagayaki no Jewel",
+  "titles": {
+    "default": "Aikatsu Friends!: Kagayaki no Jewel",
+    "romaji": "Aikatsu Friends!: Kagayaki no Jewel",
+    "native": "アイカツフレンズ！～かがやきのジュエル～"
+  },
+  "synonyms": [
+    "Aikatsu Friends!: Kagayaki no Jewel",
+    "アイカツフレンズ！～かがやきのジュエル～",
+    "Stellvia of the Universe",
+    "Uchuu no Stellvia",
+    "宇宙のステルヴィア",
+    "Cosmic Stellvia",
+    "Stellvia in Space"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx107447-2kLcMTg1IH4A.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "107447",
+      "url": "https://anilist.co/anime/107447"
+    },
+    "k": {
+      "id": "92",
+      "url": "https://kitsu.io/anime/92"
+    },
+    "mal": {
+      "id": "39078",
+      "url": "https://myanimelist.net/anime/39078"
+    },
+    "t": {
+      "id": "34618",
+      "url": "https://trakt.tv/shows/34618"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9262,
+  "slug": "animegataris",
+  "kind": "anime",
+  "title": "Animegataris",
+  "titles": {
+    "default": "Animegataris",
+    "romaji": "Animegataris",
+    "english": "Anime-Gataris",
+    "native": "アニメガタリズ"
+  },
+  "synonyms": [
+    "Animegataris",
+    "Anime-Gataris",
+    "アニメガタリズ",
+    "Shokugeki no Soma 3rd Season",
+    "Shokugeki no Soma 3",
+    "Food Wars! The Third Plate",
+    "食戟のソーマ 餐ノ皿",
+    "Shokugeki no Souma: San no Sara"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98607-00IsY9yY7Aed.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98607",
+      "url": "https://anilist.co/anime/98607"
+    },
+    "cr": {
+      "id": "anime-gataris",
+      "url": "https://www.crunchyroll.com/series/anime-gataris"
+    },
+    "mal": {
+      "id": "35427",
+      "url": "https://myanimelist.net/anime/35427"
+    },
+    "tx": {
+      "id": "animegataris",
+      "url": "https://twitter.com/animegataris"
+    }
+  }
+}

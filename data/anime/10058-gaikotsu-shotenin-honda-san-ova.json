@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10058,
+  "slug": "gaikotsu-shotenin-honda-san-ova",
+  "kind": "anime",
+  "title": "Gaikotsu Shotenin Honda-san OVA",
+  "titles": {
+    "default": "Gaikotsu Shotenin Honda-san OVA",
+    "romaji": "Gaikotsu Shotenin Honda-san OVA",
+    "english": "Skeleton Bookstore Employee Honda OVA",
+    "native": "ガイコツ書店員本田さん OVA"
+  },
+  "synonyms": [
+    "Gaikotsu Shotenin Honda-san OVA",
+    "Skeleton Bookstore Employee Honda OVA",
+    "ガイコツ書店員本田さん OVA",
+    "Skull-face Bookseller Honda-san OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx104324-TZHSfpLypi1T.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "104324",
+      "url": "https://anilist.co/anime/104324"
+    },
+    "mal": {
+      "id": "38527",
+      "url": "https://myanimelist.net/anime/38527"
+    },
+    "tx": {
+      "id": "gai_honda",
+      "url": "https://twitter.com/gai_honda"
+    }
+  }
+}

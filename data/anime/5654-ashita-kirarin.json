@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5654,
+  "slug": "ashita-kirarin",
+  "kind": "anime",
+  "title": "Ashita Kirarin",
+  "titles": {
+    "default": "Ashita Kirarin",
+    "romaji": "Ashita Kirarin",
+    "native": "あした・きらりん"
+  },
+  "synonyms": [
+    "Ashita Kirarin",
+    "あした・きらりん",
+    "Tenbatsu Angel Rabbie☆",
+    "天罰エンジェルラビィ☆",
+    "Judgment! XX Angel Rabbie",
+    "Divine Punishment: Angel Rabbie OVA",
+    "XX Angel Rabbie OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b162693-UZjb9m54hNH8.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "162693",
+      "url": "https://anilist.co/anime/162693"
+    },
+    "k": {
+      "id": "622",
+      "url": "https://kitsu.io/anime/622"
+    },
+    "mal": {
+      "id": "32255",
+      "url": "https://myanimelist.net/anime/32255"
+    }
+  }
+}

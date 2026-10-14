@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15526,
+  "slug": "3-nen-z-gumi-ginpachi-sensei",
+  "kind": "manga",
+  "title": "3-nen Z-gumi Ginpachi-sensei",
+  "titles": {
+    "default": "3-nen Z-gumi Ginpachi-sensei"
+  },
+  "synonyms": [
+    "กินทามะ ปี 3 ห้อง Z ครูซ่ากินปาจิ",
+    "3-Z Class's Ginpachi-sensei",
+    "3rd Year Class Z Ginpachi-sensei",
+    "GINTAMA: Mr. Ginpachi's Zany Class",
+    "３年Ｚ組銀八先生",
+    "Ladies versus Butlers!",
+    "れでぃ×ばと!",
+    "Redei Bato!",
+    "Redei x Bato",
+    "Ladies vs Butlers!"
+  ],
+  "type": "novel",
+  "chapters": 44,
+  "volumes": 9,
+  "status": "finished",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx44022-QpGyYnjCsJqk.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "162890",
+      "url": "https://anilist.co/anime/162890"
+    },
+    "al_manga": {
+      "id": "162890",
+      "url": "https://anilist.co/manga/162890"
+    }
+  }
+}

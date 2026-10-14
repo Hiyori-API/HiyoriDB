@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14417,
+  "slug": "psy-en",
+  "kind": "manga",
+  "title": "PSYЯEN",
+  "titles": {
+    "default": "PSYЯEN"
+  },
+  "synonyms": [
+    "Siren",
+    "Psyren",
+    "PSYЯEN",
+    "PSYЯEN -サイレン-",
+    "Gekiryuuchi",
+    "激流血～OVER BLEED～",
+    "Over Bleed"
+  ],
+  "type": "manga",
+  "chapters": 151,
+  "volumes": 16,
+  "status": "finished",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33438-pBfMEC42XhCA.png"
+  ],
+  "references": {
+    "al": {
+      "id": "204011",
+      "url": "https://anilist.co/anime/204011"
+    },
+    "al_manga": {
+      "id": "204011",
+      "url": "https://anilist.co/manga/204011"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10605,
+  "slug": "guraburu",
+  "kind": "anime",
+  "title": "Guraburu!",
+  "titles": {
+    "default": "Guraburu!",
+    "romaji": "Guraburu!",
+    "english": "Grand Blues!",
+    "native": "ぐらぶるっ！"
+  },
+  "synonyms": [
+    "Guraburu!",
+    "Grand Blues!",
+    "ぐらぶるっ！",
+    "Rozen Maiden",
+    "ローゼンメイデン"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx117086-5ZF0aUiKRugq.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "117086",
+      "url": "https://anilist.co/anime/117086"
+    },
+    "cr": {
+      "id": "grand-blues",
+      "url": "https://www.crunchyroll.com/series/grand-blues"
+    },
+    "k": {
+      "id": "45",
+      "url": "https://kitsu.io/anime/45"
+    },
+    "mal": {
+      "id": "41574",
+      "url": "https://myanimelist.net/anime/41574"
+    },
+    "t": {
+      "id": "61847",
+      "url": "https://trakt.tv/shows/61847"
+    },
+    "tx": {
+      "id": "granbluefantasy",
+      "url": "https://twitter.com/granbluefantasy"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 300,
+  "slug": "midori-no-hibi",
+  "kind": "anime",
+  "title": "Midori no Hibi",
+  "titles": {
+    "default": "Midori no Hibi",
+    "romaji": "Midori no Hibi",
+    "english": "Midori Days",
+    "native": "美鳥の日々"
+  },
+  "synonyms": [
+    "Midori no Hibi",
+    "Midori Days",
+    "美鳥の日々",
+    "My Days With Midori"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx330-iGtLhouVrApP.png"
+  ],
+  "references": {
+    "al": {
+      "id": "330",
+      "url": "https://anilist.co/anime/330"
+    },
+    "k": {
+      "id": "297",
+      "url": "https://kitsu.io/anime/297"
+    },
+    "mal": {
+      "id": "330",
+      "url": "https://myanimelist.net/anime/330"
+    },
+    "t": {
+      "id": "62190",
+      "url": "https://trakt.tv/shows/62190"
+    },
+    "ttv": {
+      "id": "2058",
+      "url": "https://tubitv.com/series/2058"
+    }
+  }
+}

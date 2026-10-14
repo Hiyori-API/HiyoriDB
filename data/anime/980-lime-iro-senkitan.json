@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 980,
+  "slug": "lime-iro-senkitan",
+  "kind": "anime",
+  "title": "Lime-iro Senkitan",
+  "titles": {
+    "default": "Lime-iro Senkitan",
+    "romaji": "Lime-iro Senkitan",
+    "native": "らいむいろ戦奇譚"
+  },
+  "synonyms": [
+    "Lime-iro Senkitan",
+    "らいむいろ戦奇譚",
+    "Raimuiro Senkitan",
+    "Lime-Colored History of War",
+    "Lime-iro Senkitan: Meiji Nippon",
+    "Otome Sakimorisu."
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1097.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1097",
+      "url": "https://anilist.co/anime/1097"
+    },
+    "k": {
+      "id": "982",
+      "url": "https://kitsu.io/anime/982"
+    },
+    "mal": {
+      "id": "1097",
+      "url": "https://myanimelist.net/anime/1097"
+    },
+    "t": {
+      "id": "27822",
+      "url": "https://trakt.tv/shows/27822"
+    }
+  }
+}

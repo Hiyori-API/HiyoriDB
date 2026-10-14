@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12080,
+  "slug": "isekai-one-turn-kill-nee-san-ane-douhan-no-isekai-seikatsu-hajimemashita",
+  "kind": "anime",
+  "title": "Isekai One Turn Kill Nee-san: Ane Douhan no Isekai Seikatsu Hajimemashita",
+  "titles": {
+    "default": "Isekai One Turn Kill Nee-san: Ane Douhan no Isekai Seikatsu Hajimemashita",
+    "romaji": "Isekai One Turn Kill Nee-san: Ane Douhan no Isekai Seikatsu Hajimemashita",
+    "english": "My One-Hit Kill Sister",
+    "native": "異世界ワンターンキル姉さん ～姉同伴の異世界生活はじめました～"
+  },
+  "synonyms": [
+    "Isekai One Turn Kill Nee-san: Ane Douhan no Isekai Seikatsu Hajimemashita",
+    "My One-Hit Kill Sister",
+    "異世界ワンターンキル姉さん ～姉同伴の異世界生活はじめました～",
+    "One Turn Kill พี่สาวจ้าวต่างโลก: เริ่มต้นชีวิตร่วมเดินทางต่างโลกกับพี่สาว",
+    "Minha Mana Apelona",
+    "This Ugly Yet Beautiful World",
+    "Kono Minikuku mo Utsukushii Sekai",
+    "この醜くも美しい世界"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2023,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146234-vSYvPfLwjYXX.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "146234",
+      "url": "https://anilist.co/anime/146234"
+    },
+    "cr": {
+      "id": "series/G5PHNM717/my-one-hit-kill-sister",
+      "url": "https://www.crunchyroll.com/series/series/G5PHNM717/my-one-hit-kill-sister"
+    },
+    "k": {
+      "id": "124",
+      "url": "https://kitsu.io/anime/124"
+    },
+    "mal": {
+      "id": "51219",
+      "url": "https://myanimelist.net/anime/51219"
+    },
+    "t": {
+      "id": "34001",
+      "url": "https://trakt.tv/shows/34001"
+    },
+    "tx": {
+      "id": "onekillsister",
+      "url": "https://twitter.com/onekillsister"
+    }
+  }
+}

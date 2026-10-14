@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1755,
+  "slug": "ufo-robo-grendizer",
+  "kind": "anime",
+  "title": "UFO Robo Grendizer",
+  "titles": {
+    "default": "UFO Robo Grendizer",
+    "romaji": "UFO Robo Grendizer",
+    "native": "ＵＦＯロボグレンダイザー"
+  },
+  "synonyms": [
+    "UFO Robo Grendizer",
+    "ＵＦＯロボグレンダイザー",
+    "UFO Robo Grandizer",
+    "UFO Robot Goldorak",
+    "Goldorak",
+    "UFO Robot Goldrake",
+    "Atlas UFO Robot",
+    "Goldorak, Rymdfantomen",
+    "UFOロボ グレンダイザー"
+  ],
+  "type": "tv",
+  "episodes": 74,
+  "status": "finished",
+  "season": "fall",
+  "year": 1975,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1985-BB32YokamiRs.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1985",
+      "url": "https://anilist.co/anime/1985"
+    },
+    "k": {
+      "id": "1787",
+      "url": "https://kitsu.io/anime/1787"
+    },
+    "mal": {
+      "id": "1985",
+      "url": "https://myanimelist.net/anime/1985"
+    },
+    "t": {
+      "id": "45995",
+      "url": "https://trakt.tv/shows/45995"
+    }
+  }
+}

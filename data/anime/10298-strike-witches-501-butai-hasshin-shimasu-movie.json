@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10298,
+  "slug": "strike-witches-501-butai-hasshin-shimasu-movie",
+  "kind": "anime",
+  "title": "Strike Witches: 501 Butai Hasshin Shimasu! Movie",
+  "titles": {
+    "default": "Strike Witches: 501 Butai Hasshin Shimasu! Movie",
+    "romaji": "Strike Witches: 501 Butai Hasshin Shimasu! Movie",
+    "native": "ストライクウィッチーズ 劇場版 501部隊発進しますっ!"
+  },
+  "synonyms": [
+    "Strike Witches: 501 Butai Hasshin Shimasu! Movie",
+    "ストライクウィッチーズ 劇場版 501部隊発進しますっ!",
+    "Strike Witches: 501st JOINT FIGHTER WING Take Off! Movie",
+    "强袭魔女 剧场版 501部队出动！",
+    "Strike Witches: 501st Joint Fighter Wing Take Off! The Movie"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112732-AsCKlT9YtIAd.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "112732",
+      "url": "https://anilist.co/anime/112732"
+    },
+    "mal": {
+      "id": "39987",
+      "url": "https://myanimelist.net/anime/39987"
+    }
+  }
+}

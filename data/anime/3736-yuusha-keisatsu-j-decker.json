@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3736,
+  "slug": "yuusha-keisatsu-j-decker",
+  "kind": "anime",
+  "title": "Yuusha Keisatsu J-Decker",
+  "titles": {
+    "default": "Yuusha Keisatsu J-Decker",
+    "romaji": "Yuusha Keisatsu J-Decker",
+    "native": "勇者警察ジェイデッカー"
+  },
+  "synonyms": [
+    "Yuusha Keisatsu J-Decker",
+    "勇者警察ジェイデッカー",
+    "Brave Police J-Decker"
+  ],
+  "type": "tv",
+  "episodes": 48,
+  "status": "finished",
+  "season": "winter",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5075-Ztiyz5rMk6wE.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5075",
+      "url": "https://anilist.co/anime/5075"
+    },
+    "k": {
+      "id": "3916",
+      "url": "https://kitsu.io/anime/3916"
+    },
+    "mal": {
+      "id": "5075",
+      "url": "https://myanimelist.net/anime/5075"
+    },
+    "t": {
+      "id": "17613",
+      "url": "https://trakt.tv/shows/17613"
+    }
+  }
+}

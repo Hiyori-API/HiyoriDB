@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5041,
+  "slug": "moomin-pilot-film",
+  "kind": "anime",
+  "title": "Moomin Pilot Film",
+  "titles": {
+    "default": "Moomin Pilot Film",
+    "romaji": "Moomin Pilot Film",
+    "native": "ムーミン パイロットフィルム"
+  },
+  "synonyms": [
+    "Moomin Pilot Film",
+    "ムーミン パイロットフィルム",
+    "Tezuka Osamu Monogatari: Boku wa Son Gokuu",
+    "手塚治虫物語 ぼくは孫悟空",
+    "The Tale of Osamu Tezuka: I'm Songoku",
+    "The Tale of Osamu Tezuka: I'm Son Goku"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b147725-SlukU6ahH4UE.png"
+  ],
+  "references": {
+    "al": {
+      "id": "147725",
+      "url": "https://anilist.co/anime/147725"
+    },
+    "k": {
+      "id": "5777",
+      "url": "https://kitsu.io/anime/5777"
+    },
+    "mal": {
+      "id": "42089",
+      "url": "https://myanimelist.net/anime/42089"
+    }
+  }
+}

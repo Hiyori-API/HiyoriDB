@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2936,
+  "slug": "gensou-jotan-ellcia",
+  "kind": "anime",
+  "title": "Gensou Jotan Ellcia",
+  "titles": {
+    "default": "Gensou Jotan Ellcia",
+    "romaji": "Gensou Jotan Ellcia",
+    "english": "Ellcia",
+    "native": "幻想叙譚エルシア"
+  },
+  "synonyms": [
+    "Gensou Jotan Ellcia",
+    "Ellcia",
+    "幻想叙譚エルシア",
+    "Genso Jodan Elicia",
+    "La leyenda de Ellcia",
+    "A Lenda de Ellcia"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "fall",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx3461-Ojd2xx8sLeyM.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3461",
+      "url": "https://anilist.co/anime/3461"
+    },
+    "k": {
+      "id": "3026",
+      "url": "https://kitsu.io/anime/3026"
+    },
+    "mal": {
+      "id": "3461",
+      "url": "https://myanimelist.net/anime/3461"
+    }
+  }
+}

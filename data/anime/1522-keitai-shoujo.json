@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1522,
+  "slug": "keitai-shoujo",
+  "kind": "anime",
+  "title": "Keitai Shoujo",
+  "titles": {
+    "default": "Keitai Shoujo",
+    "romaji": "Keitai Shoujo",
+    "native": "ケータイ少女"
+  },
+  "synonyms": [
+    "Keitai Shoujo",
+    "ケータイ少女",
+    "Cell Phone Girl"
+  ],
+  "type": "ona",
+  "episodes": 6,
+  "status": "finished",
+  "season": "spring",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1725.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1725",
+      "url": "https://anilist.co/anime/1725"
+    },
+    "k": {
+      "id": "1546",
+      "url": "https://kitsu.io/anime/1546"
+    },
+    "mal": {
+      "id": "1725",
+      "url": "https://myanimelist.net/anime/1725"
+    }
+  }
+}

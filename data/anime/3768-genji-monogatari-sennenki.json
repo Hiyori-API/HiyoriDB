@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3768,
+  "slug": "genji-monogatari-sennenki",
+  "kind": "anime",
+  "title": "Genji Monogatari Sennenki",
+  "titles": {
+    "default": "Genji Monogatari Sennenki",
+    "romaji": "Genji Monogatari Sennenki",
+    "english": "Millennium Old Journal: Tale of Genji",
+    "native": "源氏物語千年紀Genji"
+  },
+  "synonyms": [
+    "Genji Monogatari Sennenki",
+    "Millennium Old Journal: Tale of Genji",
+    "源氏物語千年紀Genji",
+    "Genji Monogatari Sennenki Genji",
+    "The Tale of Genji"
+  ],
+  "type": "tv",
+  "episodes": 11,
+  "status": "finished",
+  "season": "winter",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5155-ukSvlhxCChRO.png"
+  ],
+  "references": {
+    "al": {
+      "id": "5155",
+      "url": "https://anilist.co/anime/5155"
+    },
+    "k": {
+      "id": "3954",
+      "url": "https://kitsu.io/anime/3954"
+    },
+    "mal": {
+      "id": "5155",
+      "url": "https://myanimelist.net/anime/5155"
+    },
+    "t": {
+      "id": "33969",
+      "url": "https://trakt.tv/shows/33969"
+    }
+  }
+}

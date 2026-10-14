@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3600,
+  "slug": "inyoku-tokkyuu-zetsurinou",
+  "kind": "anime",
+  "title": "Inyoku Tokkyuu Zetsurinou",
+  "titles": {
+    "default": "Inyoku Tokkyuu Zetsurinou",
+    "romaji": "Inyoku Tokkyuu Zetsurinou",
+    "english": "Hentai Express",
+    "native": "淫欲特急ゼツリンオー"
+  },
+  "synonyms": [
+    "Inyoku Tokkyuu Zetsurinou",
+    "Hentai Express",
+    "淫欲特急ゼツリンオー",
+    "Inyoku Tokkyu Zetu-Rinoh",
+    "In`yoku Tokkyuu Zetsurin Ou",
+    "Hentai Express: Lust Train",
+    "The Limited Express Train Of Lust - Matchless King",
+    "Red Garden: Dead Girls",
+    "レッドガーデン デッドガールズ"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4730.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4730",
+      "url": "https://anilist.co/anime/4730"
+    },
+    "k": {
+      "id": "2055",
+      "url": "https://kitsu.io/anime/2055"
+    },
+    "mal": {
+      "id": "4730",
+      "url": "https://myanimelist.net/anime/4730"
+    }
+  }
+}

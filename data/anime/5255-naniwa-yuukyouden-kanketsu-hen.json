@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5255,
+  "slug": "naniwa-yuukyouden-kanketsu-hen",
+  "kind": "anime",
+  "title": "Naniwa Yuukyouden: Kanketsu-hen",
+  "titles": {
+    "default": "Naniwa Yuukyouden: Kanketsu-hen",
+    "romaji": "Naniwa Yuukyouden: Kanketsu-hen",
+    "native": "なにわ遊侠伝: 完結篇"
+  },
+  "synonyms": [
+    "Naniwa Yuukyouden: Kanketsu-hen",
+    "なにわ遊侠伝: 完結篇"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19753.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "19753",
+      "url": "https://anilist.co/anime/19753"
+    },
+    "k": {
+      "id": "9480",
+      "url": "https://kitsu.io/anime/9480"
+    },
+    "mal": {
+      "id": "19753",
+      "url": "https://myanimelist.net/anime/19753"
+    }
+  }
+}

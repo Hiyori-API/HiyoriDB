@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9697,
+  "slug": "tsuma-netori-ryoujoku-rinne",
+  "kind": "anime",
+  "title": "Tsuma Netori: Ryoujoku Rinne",
+  "titles": {
+    "default": "Tsuma Netori: Ryoujoku Rinne",
+    "romaji": "Tsuma Netori: Ryoujoku Rinne",
+    "english": "Wife Stealing: Endless Indecency",
+    "native": "妻ネトリ 凌辱輪廻"
+  },
+  "synonyms": [
+    "Tsuma Netori: Ryoujoku Rinne",
+    "Wife Stealing: Endless Indecency",
+    "妻ネトリ 凌辱輪廻",
+    "Voices of a Distant Star",
+    "Hoshi no Koe",
+    "ほしのこえ"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx101124-F2vnaaBhjGdJ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101124",
+      "url": "https://anilist.co/anime/101124"
+    },
+    "cr": {
+      "id": "voices-of-a-distant-star",
+      "url": "https://www.crunchyroll.com/series/voices-of-a-distant-star"
+    },
+    "k": {
+      "id": "231",
+      "url": "https://kitsu.io/anime/231"
+    },
+    "mal": {
+      "id": "37287",
+      "url": "https://myanimelist.net/anime/37287"
+    }
+  }
+}

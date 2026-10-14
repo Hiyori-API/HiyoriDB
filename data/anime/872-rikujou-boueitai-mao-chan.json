@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 872,
+  "slug": "rikujou-boueitai-mao-chan",
+  "kind": "anime",
+  "title": "Rikujou Boueitai Mao-chan",
+  "titles": {
+    "default": "Rikujou Boueitai Mao-chan",
+    "romaji": "Rikujou Boueitai Mao-chan",
+    "english": "Ground Defense Force Mao-chan",
+    "native": "陸上防衛隊まおちゃん"
+  },
+  "synonyms": [
+    "Rikujou Boueitai Mao-chan",
+    "Ground Defense Force Mao-chan",
+    "陸上防衛隊まおちゃん",
+    "Rikujou Bouei-tai Mao-chan",
+    "Ground Defense Force! Mao-chan"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "summer",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/980.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "980",
+      "url": "https://anilist.co/anime/980"
+    },
+    "k": {
+      "id": "870",
+      "url": "https://kitsu.io/anime/870"
+    },
+    "mal": {
+      "id": "980",
+      "url": "https://myanimelist.net/anime/980"
+    },
+    "t": {
+      "id": "29659",
+      "url": "https://trakt.tv/shows/29659"
+    }
+  }
+}

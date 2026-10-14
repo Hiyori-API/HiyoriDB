@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13886,
+  "slug": "kingdom-hearts",
+  "kind": "manga",
+  "title": "Kingdom Hearts",
+  "titles": {
+    "default": "Kingdom Hearts"
+  },
+  "synonyms": [
+    "KH",
+    "Disney Square Enix's Kingdom Hearts",
+    "Kingdom Hearts Final Mix",
+    "Kammatsu Yomikiri: Winnie the Pooh",
+    "Kingdom Hearts",
+    "キングダムハーツ"
+  ],
+  "type": "manga",
+  "chapters": 43,
+  "volumes": 4,
+  "status": "finished",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30396-pNzLcXTQ4PNN.png"
+  ],
+  "references": {
+    "al": {
+      "id": "103441",
+      "url": "https://anilist.co/anime/103441"
+    },
+    "al_manga": {
+      "id": "103441",
+      "url": "https://anilist.co/manga/103441"
+    }
+  }
+}

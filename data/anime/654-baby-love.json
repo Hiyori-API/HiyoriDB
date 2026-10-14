@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 654,
+  "slug": "baby-love",
+  "kind": "anime",
+  "title": "Baby★LOVE",
+  "titles": {
+    "default": "Baby★LOVE",
+    "romaji": "Baby★LOVE",
+    "native": "ベイビィ★LOVE"
+  },
+  "synonyms": [
+    "Baby★LOVE",
+    "ベイビィ★LOVE",
+    "Baby☆Love",
+    "ベイビィ☆LOVE"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/722.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "722",
+      "url": "https://anilist.co/anime/722"
+    },
+    "k": {
+      "id": "651",
+      "url": "https://kitsu.io/anime/651"
+    },
+    "mal": {
+      "id": "722",
+      "url": "https://myanimelist.net/anime/722"
+    }
+  }
+}

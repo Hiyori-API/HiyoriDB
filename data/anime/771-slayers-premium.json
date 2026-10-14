@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 771,
+  "slug": "slayers-premium",
+  "kind": "anime",
+  "title": "Slayers Premium",
+  "titles": {
+    "default": "Slayers Premium",
+    "romaji": "Slayers Premium",
+    "native": "スレイヤーズぷれみあむ"
+  },
+  "synonyms": [
+    "Slayers Premium",
+    "スレイヤーズぷれみあむ",
+    "Slayers Movie 5"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx866-FBIvZY0F5aik.png"
+  ],
+  "references": {
+    "al": {
+      "id": "866",
+      "url": "https://anilist.co/anime/866"
+    },
+    "k": {
+      "id": "767",
+      "url": "https://kitsu.io/anime/767"
+    },
+    "mal": {
+      "id": "866",
+      "url": "https://myanimelist.net/anime/866"
+    }
+  }
+}

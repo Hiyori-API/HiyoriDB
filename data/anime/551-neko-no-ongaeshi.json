@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 551,
+  "slug": "neko-no-ongaeshi",
+  "kind": "anime",
+  "title": "Neko no Ongaeshi",
+  "titles": {
+    "default": "Neko no Ongaeshi",
+    "romaji": "Neko no Ongaeshi",
+    "english": "The Cat Returns",
+    "native": "猫の恩返し"
+  },
+  "synonyms": [
+    "Neko no Ongaeshi",
+    "The Cat Returns",
+    "猫の恩返し",
+    "Haru en el Reino de los Gatos",
+    "O Reino dos Gatos",
+    "Le Royaume des chats",
+    "Narzeczona dla kota",
+    "Das Königreich der Katzen",
+    "Katteprinsen",
+    "La ricompensa del gatto",
+    "Katternas Rike",
+    "Kissojen Valtakunta",
+    "The Cat's Repayment"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx597-Prw5pUyYwcFO.png"
+  ],
+  "references": {
+    "al": {
+      "id": "597",
+      "url": "https://anilist.co/anime/597"
+    },
+    "k": {
+      "id": "552",
+      "url": "https://kitsu.io/anime/552"
+    },
+    "mal": {
+      "id": "597",
+      "url": "https://myanimelist.net/anime/597"
+    },
+    "nf": {
+      "id": "70019058",
+      "url": "https://www.netflix.com/title/70019058"
+    }
+  }
+}

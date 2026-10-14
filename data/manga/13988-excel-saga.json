@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13988,
+  "slug": "excel-saga",
+  "kind": "manga",
+  "title": "Excel Saga",
+  "titles": {
+    "default": "Excel Saga"
+  },
+  "synonyms": [
+    "エクセルサーガ",
+    "Excel♥Saga",
+    "エクセル♥サーガ",
+    "Ekuseru Saga",
+    "엑셀 사가",
+    "Excel Saga",
+    "エクセル・サーガ",
+    "The Life and Times of an Idiot Section Chief",
+    "Kachou Baka Ichidachi",
+    "課長バカ一代",
+    "Kachou Baka Ichidai"
+  ],
+  "type": "manga",
+  "chapters": 183,
+  "volumes": 27,
+  "status": "finished",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30695-KhH7Lck0THjz.png"
+  ],
+  "references": {
+    "al": {
+      "id": "379",
+      "url": "https://anilist.co/anime/379"
+    },
+    "al_manga": {
+      "id": "379",
+      "url": "https://anilist.co/manga/379"
+    }
+  }
+}

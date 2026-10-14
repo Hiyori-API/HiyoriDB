@@ -1,0 +1,72 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11676,
+  "slug": "tensei-shitara-slime-datta-ken-guren-no-kizuna-hen",
+  "kind": "anime",
+  "title": "Tensei Shitara Slime Datta Ken: Guren no Kizuna-hen",
+  "titles": {
+    "default": "Tensei Shitara Slime Datta Ken: Guren no Kizuna-hen",
+    "romaji": "Tensei Shitara Slime Datta Ken: Guren no Kizuna-hen",
+    "english": "That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond",
+    "native": "劇場版 転生したらスライムだった件 紅蓮の絆編"
+  },
+  "synonyms": [
+    "Tensei Shitara Slime Datta Ken: Guren no Kizuna-hen",
+    "That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond",
+    "劇場版 転生したらスライムだった件 紅蓮の絆編",
+    "That Time I Got Reincarnated as a Slime Movie",
+    "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว เดอะมูฟวี่",
+    "Lúc đó tôi đã chuyển sinh thành Slime: Mối Liên Kết Đỏ Thẫm",
+    "О моём перерождении в слизь: Алые узы",
+    "Tensura Movie",
+    "That Time I Got Reincarnated as a Slime: El Vínculo Escarlata",
+    "That Time I Got Reincarnated as a Slime - Laços Escarlates",
+    "Moi, quand je me réincarne en Slime - Le Film : Scarlet Bond",
+    "InuYasha the Movie 2: The Castle Beyond the Looking Glass",
+    "InuYasha: Kagami no Naka no Mugenjo",
+    "犬夜叉 鏡の中の夢幻城",
+    "Inu Yasha: Kagami no Naka no Mugenjo"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139498-DdVASeAj7ag4.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "139498",
+      "url": "https://anilist.co/anime/139498"
+    },
+    "cr": {
+      "id": "series/GMTE00256631/that-time-i-got-reincarnated-as-a-slime-the-movie-scarlet-bond",
+      "url": "https://www.crunchyroll.com/series/series/GMTE00256631/that-time-i-got-reincarnated-as-a-slime-the-movie-scarlet-bond"
+    },
+    "k": {
+      "id": "413",
+      "url": "https://kitsu.io/anime/413"
+    },
+    "mal": {
+      "id": "49877",
+      "url": "https://myanimelist.net/anime/49877"
+    },
+    "nf": {
+      "id": "70018513",
+      "url": "https://www.netflix.com/title/70018513"
+    },
+    "t": {
+      "id": "60942",
+      "url": "https://trakt.tv/shows/60942"
+    },
+    "tx": {
+      "id": "ten_sura_anime",
+      "url": "https://twitter.com/ten_sura_anime"
+    },
+    "yt": {
+      "id": "Wi4pZLdRiEU",
+      "url": "https://www.youtube.com/watch?v=Wi4pZLdRiEU"
+    }
+  }
+}

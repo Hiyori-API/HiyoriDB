@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8701,
+  "slug": "mahoutsukai-no-yome-hoshi-matsu-hito",
+  "kind": "anime",
+  "title": "Mahoutsukai no Yome: Hoshi Matsu Hito",
+  "titles": {
+    "default": "Mahoutsukai no Yome: Hoshi Matsu Hito",
+    "romaji": "Mahoutsukai no Yome: Hoshi Matsu Hito",
+    "english": "The Ancient Magus' Bride: Those Awaiting a Star",
+    "native": "魔法使いの嫁 星待つひと"
+  },
+  "synonyms": [
+    "Mahoutsukai no Yome: Hoshi Matsu Hito",
+    "The Ancient Magus' Bride: Those Awaiting a Star",
+    "魔法使いの嫁 星待つひと",
+    "Mahou Tsukai no Yome: Hoshi Matsu Hito",
+    "The Ancient Magus Bride",
+    "The Ancient Magus' Bride",
+    "The Magician's Bride",
+    "Mahoyome"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "summer",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21688-DOc6RxTYfXEr.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21688",
+      "url": "https://anilist.co/anime/21688"
+    },
+    "cr": {
+      "id": "the-ancient-magus-bride",
+      "url": "https://www.crunchyroll.com/series/the-ancient-magus-bride"
+    },
+    "mal": {
+      "id": "32902",
+      "url": "https://myanimelist.net/anime/32902"
+    },
+    "tx": {
+      "id": "magus_bride",
+      "url": "https://twitter.com/magus_bride"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4166,
+  "slug": "duel-masters-movie-2-lunatic-god-saga",
+  "kind": "anime",
+  "title": "Duel Masters Movie 2: Lunatic God Saga",
+  "titles": {
+    "default": "Duel Masters Movie 2: Lunatic God Saga",
+    "romaji": "Duel Masters Movie 2: Lunatic God Saga",
+    "native": "劇場版デュエル・マスターズ 黒月の神帝(ルナティック・ゴッド・サーガ)"
+  },
+  "synonyms": [
+    "Duel Masters Movie 2: Lunatic God Saga",
+    "劇場版デュエル・マスターズ 黒月の神帝(ルナティック・ゴッド・サーガ)",
+    "Gekijouban Duel Masters Lunatic God Saga",
+    "One Piece Film: Strong World",
+    "One Piece Film Strong World",
+    "ワンピース　フィルム　ストロングワールド",
+    "One Piece Movie 10"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6062-tTZzoBtZQpRs.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6062",
+      "url": "https://anilist.co/anime/6062"
+    },
+    "cr": {
+      "id": "series/G5PHNMWX9/one-piece-movies",
+      "url": "https://www.crunchyroll.com/series/series/G5PHNMWX9/one-piece-movies"
+    },
+    "k": {
+      "id": "3492",
+      "url": "https://kitsu.io/anime/3492"
+    },
+    "mal": {
+      "id": "6062",
+      "url": "https://myanimelist.net/anime/6062"
+    },
+    "nf": {
+      "id": "80998781",
+      "url": "https://www.netflix.com/title/80998781"
+    }
+  }
+}

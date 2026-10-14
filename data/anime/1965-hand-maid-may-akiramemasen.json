@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1965,
+  "slug": "hand-maid-may-akiramemasen",
+  "kind": "anime",
+  "title": "HAND MAID May: Akiramemasen",
+  "titles": {
+    "default": "HAND MAID May: Akiramemasen",
+    "romaji": "HAND MAID May: Akiramemasen",
+    "english": "Hand Maid May: Never Give Up",
+    "native": "HAND MAID メイ「あきらめません」"
+  },
+  "synonyms": [
+    "HAND MAID May: Akiramemasen",
+    "Hand Maid May: Never Give Up",
+    "HAND MAID メイ「あきらめません」",
+    "Hand Maid May Special",
+    "Hand Maid May: Akiramemasen"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2217-BvLBa4lqJTYG.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2217",
+      "url": "https://anilist.co/anime/2217"
+    },
+    "k": {
+      "id": "2008",
+      "url": "https://kitsu.io/anime/2008"
+    },
+    "mal": {
+      "id": "2217",
+      "url": "https://myanimelist.net/anime/2217"
+    }
+  }
+}

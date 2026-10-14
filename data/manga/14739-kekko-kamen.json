@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14739,
+  "slug": "kekko-kamen",
+  "kind": "manga",
+  "title": "Kekko Kamen",
+  "titles": {
+    "default": "Kekko Kamen"
+  },
+  "synonyms": [
+    "Kekkou Kamen",
+    "Kekko Masked",
+    "Mask of Kekkou",
+    "Mask the Kekkou",
+    "けっこう仮面",
+    "Getter Robo",
+    "ゲッターロボ"
+  ],
+  "type": "manga",
+  "chapters": 30,
+  "volumes": 5,
+  "status": "finished",
+  "year": 1974,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx42709-eYb243CcSKK5.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2525",
+      "url": "https://anilist.co/anime/2525"
+    },
+    "al_manga": {
+      "id": "2525",
+      "url": "https://anilist.co/manga/2525"
+    }
+  }
+}

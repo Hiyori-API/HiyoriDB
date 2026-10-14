@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 154,
+  "slug": "triangle-heart-sweet-songs-forever",
+  "kind": "anime",
+  "title": "Triangle Heart: Sweet Songs Forever",
+  "titles": {
+    "default": "Triangle Heart: Sweet Songs Forever",
+    "romaji": "Triangle Heart: Sweet Songs Forever",
+    "native": "とらいあんぐるハート -Sweet Songs Forever-"
+  },
+  "synonyms": [
+    "Triangle Heart: Sweet Songs Forever",
+    "とらいあんぐるハート -Sweet Songs Forever-"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "summer",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/176.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "176",
+      "url": "https://anilist.co/anime/176"
+    },
+    "k": {
+      "id": "153",
+      "url": "https://kitsu.io/anime/153"
+    },
+    "mal": {
+      "id": "176",
+      "url": "https://myanimelist.net/anime/176"
+    }
+  }
+}

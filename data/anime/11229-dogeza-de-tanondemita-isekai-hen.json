@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11229,
+  "slug": "dogeza-de-tanondemita-isekai-hen",
+  "kind": "anime",
+  "title": "Dogeza de Tanondemita: Isekai-hen",
+  "titles": {
+    "default": "Dogeza de Tanondemita: Isekai-hen",
+    "romaji": "Dogeza de Tanondemita: Isekai-hen",
+    "native": "土下座で頼んでみた 異世界編"
+  },
+  "synonyms": [
+    "Dogeza de Tanondemita: Isekai-hen",
+    "土下座で頼んでみた 異世界編",
+    "Dogeza de Tanondemita Episode 13",
+    "Hikaru no Go: Journey to the North Star Cup",
+    "ヒカルの碁 北斗杯への道",
+    "Hikaru no Go: Kita Hokuto Hai e no Michi"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124612-lhQFycfhZfwU.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "124612",
+      "url": "https://anilist.co/anime/124612"
+    },
+    "k": {
+      "id": "593",
+      "url": "https://kitsu.io/anime/593"
+    },
+    "mal": {
+      "id": "42990",
+      "url": "https://myanimelist.net/anime/42990"
+    },
+    "tx": {
+      "id": "dgz_anime",
+      "url": "https://twitter.com/dgz_anime"
+    }
+  }
+}

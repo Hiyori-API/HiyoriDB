@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4153,
+  "slug": "needless",
+  "kind": "anime",
+  "title": "NEEDLESS",
+  "titles": {
+    "default": "NEEDLESS",
+    "romaji": "NEEDLESS",
+    "english": "Needless"
+  },
+  "synonyms": [
+    "NEEDLESS",
+    "Needless",
+    "ニードレス"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "summer",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6030.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6030",
+      "url": "https://anilist.co/anime/6030"
+    },
+    "k": {
+      "id": "4391",
+      "url": "https://kitsu.io/anime/4391"
+    },
+    "mal": {
+      "id": "6030",
+      "url": "https://myanimelist.net/anime/6030"
+    },
+    "t": {
+      "id": "34657",
+      "url": "https://trakt.tv/shows/34657"
+    }
+  }
+}

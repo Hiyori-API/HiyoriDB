@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15347,
+  "slug": "saredo-tsumibito-wa-ryuu-to-odoru",
+  "kind": "manga",
+  "title": "Saredo Tsumibito wa Ryuu to Odoru",
+  "titles": {
+    "default": "Saredo Tsumibito wa Ryuu to Odoru"
+  },
+  "synonyms": [
+    "されど罪人は竜と踊る",
+    "Love Makes People Grow",
+    "Hito wa Ai wo Tabete Sodatsu",
+    "人は愛を食べて育つ",
+    "Eat Love and Grow",
+    "Hito wa ai o tabete sodatsu"
+  ],
+  "type": "manga",
+  "chapters": 4,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/13363.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "87504",
+      "url": "https://anilist.co/anime/87504"
+    },
+    "al_manga": {
+      "id": "87504",
+      "url": "https://anilist.co/manga/87504"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6625,
+  "slug": "itsuka-tenma-no-kuro-usagi-picture-drama",
+  "kind": "anime",
+  "title": "Itsuka Tenma no Kuro Usagi Picture Drama",
+  "titles": {
+    "default": "Itsuka Tenma no Kuro Usagi Picture Drama",
+    "romaji": "Itsuka Tenma no Kuro Usagi Picture Drama",
+    "english": "A Dark Rabbit has Seven Lives Picture Drama",
+    "native": "いつか天魔の黒ウサギ ピクチャードラマ"
+  },
+  "synonyms": [
+    "Itsuka Tenma no Kuro Usagi Picture Drama",
+    "A Dark Rabbit has Seven Lives Picture Drama",
+    "いつか天魔の黒ウサギ ピクチャードラマ",
+    "Itsuka Tenma no Kuro-Usagi  Picture Drama",
+    "Itsuten Picture Drama",
+    "Itsu-ten Picture Drama",
+    "La croisée dans un labyrinthe étranger Picture Drama",
+    "Ikoku Meiro no Croisée Picture Drama",
+    "異国迷路のクロワーゼ ピクチャードラマ",
+    "Ikoku Meiro no Croisée The Animation Picture Drama",
+    "Ikoku Meiro no Croisee The Animation Picture Drama"
+  ],
+  "type": "special",
+  "episodes": 6,
+  "status": "finished",
+  "season": "fall",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12579.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12579",
+      "url": "https://anilist.co/anime/12579"
+    },
+    "k": {
+      "id": "6400",
+      "url": "https://kitsu.io/anime/6400"
+    },
+    "mal": {
+      "id": "12579",
+      "url": "https://myanimelist.net/anime/12579"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 966,
+  "slug": "ningen-kousaten",
+  "kind": "anime",
+  "title": "Ningen Kousaten",
+  "titles": {
+    "default": "Ningen Kousaten",
+    "romaji": "Ningen Kousaten",
+    "english": "Human Crossing",
+    "native": "人間交差点"
+  },
+  "synonyms": [
+    "Ningen Kousaten",
+    "Human Crossing",
+    "人間交差点",
+    "Human Scramble",
+    "Cinderella Boy",
+    "シンデレラボーイ"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1083.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1083",
+      "url": "https://anilist.co/anime/1083"
+    },
+    "k": {
+      "id": "275",
+      "url": "https://kitsu.io/anime/275"
+    },
+    "mal": {
+      "id": "1083",
+      "url": "https://myanimelist.net/anime/1083"
+    },
+    "t": {
+      "id": "21188",
+      "url": "https://trakt.tv/shows/21188"
+    }
+  }
+}

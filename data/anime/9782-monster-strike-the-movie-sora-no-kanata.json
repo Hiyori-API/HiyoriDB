@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9782,
+  "slug": "monster-strike-the-movie-sora-no-kanata",
+  "kind": "anime",
+  "title": "Monster Strike The Movie: Sora no Kanata",
+  "titles": {
+    "default": "Monster Strike The Movie: Sora no Kanata",
+    "romaji": "Monster Strike The Movie: Sora no Kanata",
+    "native": "モンスターストライク: ソラノカナタ"
+  },
+  "synonyms": [
+    "Monster Strike The Movie: Sora no Kanata",
+    "モンスターストライク: ソラノカナタ",
+    "Monster Strike the Movie: Beyond the Sky",
+    "Mint",
+    "MINT"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx101926-Zs0l9fNn4hjq.png"
+  ],
+  "references": {
+    "al": {
+      "id": "101926",
+      "url": "https://anilist.co/anime/101926"
+    },
+    "k": {
+      "id": "8098",
+      "url": "https://kitsu.io/anime/8098"
+    },
+    "mal": {
+      "id": "38021",
+      "url": "https://myanimelist.net/anime/38021"
+    }
+  }
+}

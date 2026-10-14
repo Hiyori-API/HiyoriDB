@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10011,
+  "slug": "naka-no-hito-genome-jikkyouchuu",
+  "kind": "anime",
+  "title": "Naka no Hito Genome [Jikkyouchuu]",
+  "titles": {
+    "default": "Naka no Hito Genome [Jikkyouchuu]",
+    "romaji": "Naka no Hito Genome [Jikkyouchuu]",
+    "english": "The Ones Within",
+    "native": "ナカノヒトゲノム【実況中】"
+  },
+  "synonyms": [
+    "Naka no Hito Genome [Jikkyouchuu]",
+    "The Ones Within",
+    "ナカノヒトゲノム【実況中】",
+    "Nakanohito Genome [Jikkyouchuu]",
+    "DearS",
+    "ディアーズ"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx102926-zVQk2FEDooyI.png"
+  ],
+  "references": {
+    "al": {
+      "id": "102926",
+      "url": "https://anilist.co/anime/102926"
+    },
+    "cr": {
+      "id": "the-ones-within",
+      "url": "https://www.crunchyroll.com/series/the-ones-within"
+    },
+    "k": {
+      "id": "44",
+      "url": "https://kitsu.io/anime/44"
+    },
+    "mal": {
+      "id": "37926",
+      "url": "https://myanimelist.net/anime/37926"
+    },
+    "t": {
+      "id": "61051",
+      "url": "https://trakt.tv/shows/61051"
+    },
+    "tx": {
+      "id": "nhg_anime",
+      "url": "https://twitter.com/nhg_anime"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12278,
+  "slug": "pok-mon-concierge",
+  "kind": "anime",
+  "title": "Pokémon Concierge",
+  "titles": {
+    "default": "Pokémon Concierge",
+    "romaji": "Pokémon Concierge",
+    "native": "ポケモンコンシェルジュ"
+  },
+  "synonyms": [
+    "Pokémon Concierge",
+    "ポケモンコンシェルジュ",
+    "Pocket Monsters Concierge",
+    "Pokémon Portvakt",
+    "Konsjerżka Pokémonów",
+    "La concierge Pokémon",
+    "King of Fighters: Another Day",
+    "ザ・キング・オブ・ファイターズ アナザーデイ",
+    "KOF"
+  ],
+  "type": "ona",
+  "episodes": 4,
+  "status": "finished",
+  "season": "fall",
+  "year": 2023,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162147-90IXqW7pehgw.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "162147",
+      "url": "https://anilist.co/anime/162147"
+    },
+    "k": {
+      "id": "732",
+      "url": "https://kitsu.io/anime/732"
+    },
+    "mal": {
+      "id": "54633",
+      "url": "https://myanimelist.net/anime/54633"
+    }
+  }
+}

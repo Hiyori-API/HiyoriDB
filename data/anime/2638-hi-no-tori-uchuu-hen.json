@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2638,
+  "slug": "hi-no-tori-uchuu-hen",
+  "kind": "anime",
+  "title": "Hi no Tori: Uchuu-hen",
+  "titles": {
+    "default": "Hi no Tori: Uchuu-hen",
+    "romaji": "Hi no Tori: Uchuu-hen",
+    "english": "The Phoenix -Space-",
+    "native": "火の鳥　宇宙編"
+  },
+  "synonyms": [
+    "Hi no Tori: Uchuu-hen",
+    "The Phoenix -Space-",
+    "火の鳥　宇宙編",
+    "Firebird: Space Chapter",
+    "Phoenix: Universe",
+    "Armored Trooper Votoms: Red Shoulder Document - Roots of Treachery",
+    "Soukou Kihei Votoms: Red Shoulder Document - Yabou no Roots",
+    "装甲騎兵ボトムズ　レッドショルダードキュメント野望のルーツ",
+    "Armored Trooper Votoms: Red Shoulder Document - Yabo no Roots",
+    "Armored Trooper Votoms: The Red Shoulder Document - Roots of Ambition"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2998.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2998",
+      "url": "https://anilist.co/anime/2998"
+    },
+    "k": {
+      "id": "2350",
+      "url": "https://kitsu.io/anime/2350"
+    },
+    "mal": {
+      "id": "2998",
+      "url": "https://myanimelist.net/anime/2998"
+    }
+  }
+}

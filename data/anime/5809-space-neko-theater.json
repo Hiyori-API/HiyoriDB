@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5809,
+  "slug": "space-neko-theater",
+  "kind": "anime",
+  "title": "Space Neko Theater",
+  "titles": {
+    "default": "Space Neko Theater",
+    "romaji": "Space Neko Theater",
+    "native": "スペースネコシアター"
+  },
+  "synonyms": [
+    "Space Neko Theater",
+    "スペースネコシアター"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11729.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11729",
+      "url": "https://anilist.co/anime/11729"
+    },
+    "k": {
+      "id": "6576",
+      "url": "https://kitsu.io/anime/6576"
+    },
+    "mal": {
+      "id": "11729",
+      "url": "https://myanimelist.net/anime/11729"
+    }
+  }
+}

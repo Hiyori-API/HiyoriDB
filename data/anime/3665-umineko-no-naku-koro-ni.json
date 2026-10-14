@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3665,
+  "slug": "umineko-no-naku-koro-ni",
+  "kind": "anime",
+  "title": "Umineko no Naku Koro ni",
+  "titles": {
+    "default": "Umineko no Naku Koro ni",
+    "romaji": "Umineko no Naku Koro ni",
+    "english": "Umineko: When They Cry",
+    "native": "うみねこのなく頃に"
+  },
+  "synonyms": [
+    "Umineko no Naku Koro ni",
+    "Umineko: When They Cry",
+    "うみねこのなく頃に",
+    "When They Cry 3",
+    "When the Seagulls Cry",
+    "When They Cry - Seagulls",
+    "When They Cry: Seagulls"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "summer",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4896-q6l4Bq4ly0tw.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4896",
+      "url": "https://anilist.co/anime/4896"
+    },
+    "k": {
+      "id": "3839",
+      "url": "https://kitsu.io/anime/3839"
+    },
+    "mal": {
+      "id": "4896",
+      "url": "https://myanimelist.net/anime/4896"
+    },
+    "t": {
+      "id": "61178",
+      "url": "https://trakt.tv/shows/61178"
+    }
+  }
+}

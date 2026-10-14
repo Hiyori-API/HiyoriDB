@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15827,
+  "slug": "sidonia-no-kishi",
+  "kind": "manga",
+  "title": "Sidonia no Kishi",
+  "titles": {
+    "default": "Sidonia no Kishi"
+  },
+  "synonyms": [
+    "Knights of Cydonia",
+    "Cydonia no Kishi",
+    "Rycerze Sidonii",
+    "銀河騎士傳",
+    "Рыцари «Сидонии»",
+    "Knights of Sidonia",
+    "シドニアの騎士",
+    "Simple Knot Loafers",
+    "シンプルノットローファー",
+    "Shinpuru Notto Rofa",
+    "Shinpuru Notto Roofaa",
+    "Simple Not Loafer"
+  ],
+  "type": "manga",
+  "chapters": 78,
+  "volumes": 15,
+  "status": "finished",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx43723-FWCBxAMFZhWq.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "20762",
+      "url": "https://anilist.co/anime/19775"
+    },
+    "al_manga": {
+      "id": "20762",
+      "url": "https://anilist.co/manga/20762"
+    }
+  }
+}

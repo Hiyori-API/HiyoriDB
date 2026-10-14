@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9020,
+  "slug": "kuzu-no-honkai",
+  "kind": "anime",
+  "title": "Kuzu no Honkai",
+  "titles": {
+    "default": "Kuzu no Honkai",
+    "romaji": "Kuzu no Honkai",
+    "english": "Scum's Wish",
+    "native": "クズの本懐"
+  },
+  "synonyms": [
+    "Kuzu no Honkai",
+    "Scum's Wish",
+    "クズの本懐",
+    "Desejos Proibidos",
+    "El deseo de la escoria"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21701-j81oh6WCNlsQ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21701",
+      "url": "https://anilist.co/anime/21701"
+    },
+    "mal": {
+      "id": "32949",
+      "url": "https://myanimelist.net/anime/32949"
+    },
+    "nf": {
+      "id": "80194878",
+      "url": "https://www.netflix.com/title/80194878"
+    },
+    "tx": {
+      "id": "kuzunohonkai_tv",
+      "url": "https://twitter.com/kuzunohonkai_tv"
+    }
+  }
+}

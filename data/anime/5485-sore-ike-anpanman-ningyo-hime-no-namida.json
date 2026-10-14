@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5485,
+  "slug": "sore-ike-anpanman-ningyo-hime-no-namida",
+  "kind": "anime",
+  "title": "Sore Ike! Anpanman: Ningyo Hime no Namida",
+  "titles": {
+    "default": "Sore Ike! Anpanman: Ningyo Hime no Namida",
+    "romaji": "Sore Ike! Anpanman: Ningyo Hime no Namida",
+    "native": "それいけ！アンパンマン 人魚姫のなみだ"
+  },
+  "synonyms": [
+    "Sore Ike! Anpanman: Ningyo Hime no Namida",
+    "それいけ！アンパンマン 人魚姫のなみだ",
+    "Soreike! Anpanman: Tears of the Mermaid Princess",
+    "Sore Ike! Anpanman: Ningyohime no Namida"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9451.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9451",
+      "url": "https://anilist.co/anime/9451"
+    },
+    "k": {
+      "id": "5740",
+      "url": "https://kitsu.io/anime/5740"
+    },
+    "mal": {
+      "id": "9451",
+      "url": "https://myanimelist.net/anime/9451"
+    }
+  }
+}

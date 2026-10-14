@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7467,
+  "slug": "kichiku-haha-shimai-choukyou-nikki",
+  "kind": "anime",
+  "title": "Kichiku: Haha Shimai Choukyou Nikki",
+  "titles": {
+    "default": "Kichiku: Haha Shimai Choukyou Nikki",
+    "romaji": "Kichiku: Haha Shimai Choukyou Nikki",
+    "english": "Kichiku ~Haha Shimai Choukyou Nikki~",
+    "native": "鬼畜 〜母姉妹調教日記〜"
+  },
+  "synonyms": [
+    "Kichiku: Haha Shimai Choukyou Nikki",
+    "Kichiku ~Haha Shimai Choukyou Nikki~",
+    "鬼畜 〜母姉妹調教日記〜",
+    "Kichiku: Oyako Choukyuu Nikki",
+    "Attack on Titan OVA",
+    "Shingeki no Kyojin OVA",
+    "進撃の巨人ＯＡＤ",
+    "Shingeki no Kyojin: Ilse no Techou",
+    "Attack on Titan: Ilse's Journal",
+    "進撃の巨人 「イルゼの手帳」"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "fall",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx21063-AaiDmhE1vuqy.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21063",
+      "url": "https://anilist.co/anime/21063"
+    },
+    "cr": {
+      "id": "attack-on-titan",
+      "url": "https://www.crunchyroll.com/series/attack-on-titan"
+    },
+    "k": {
+      "id": "7694",
+      "url": "https://kitsu.io/anime/7694"
+    },
+    "mal": {
+      "id": "21349",
+      "url": "https://myanimelist.net/anime/21349"
+    }
+  }
+}

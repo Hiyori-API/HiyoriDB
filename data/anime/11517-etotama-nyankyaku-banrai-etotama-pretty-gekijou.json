@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11517,
+  "slug": "etotama-nyankyaku-banrai-etotama-pretty-gekijou",
+  "kind": "anime",
+  "title": "Etotama: Nyankyaku Banrai - Etotama Pretty Gekijou",
+  "titles": {
+    "default": "Etotama: Nyankyaku Banrai - Etotama Pretty Gekijou",
+    "romaji": "Etotama: Nyankyaku Banrai - Etotama Pretty Gekijou",
+    "native": "えとたま～猫客万来～ ショートアニメ「えとたま プリティ劇場」"
+  },
+  "synonyms": [
+    "Etotama: Nyankyaku Banrai - Etotama Pretty Gekijou",
+    "えとたま～猫客万来～ ショートアニメ「えとたま プリティ劇場」",
+    "Seikai no Senki Special",
+    "星界の戦旗 特別編",
+    "Seikai no Senki Movie",
+    "Battle Flag of the Stars Special Edition",
+    "Seikai no Senki Tokubetsuhen"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b157074-6TZOtYtdz7q0.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "157074",
+      "url": "https://anilist.co/anime/157074"
+    },
+    "k": {
+      "id": "366",
+      "url": "https://kitsu.io/anime/366"
+    },
+    "mal": {
+      "id": "49495",
+      "url": "https://myanimelist.net/anime/49495"
+    }
+  }
+}

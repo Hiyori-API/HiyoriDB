@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6509,
+  "slug": "tennis-no-ouji-sama-eikokushiki-teikyuu-shiro-kessen",
+  "kind": "anime",
+  "title": "Tennis no Ouji-sama: Eikokushiki Teikyuu Shiro Kessen!",
+  "titles": {
+    "default": "Tennis no Ouji-sama: Eikokushiki Teikyuu Shiro Kessen!",
+    "romaji": "Tennis no Ouji-sama: Eikokushiki Teikyuu Shiro Kessen!",
+    "native": "劇場版テニスの王子様 英国式庭球城決戦！"
+  },
+  "synonyms": [
+    "Tennis no Ouji-sama: Eikokushiki Teikyuu Shiro Kessen!",
+    "劇場版テニスの王子様 英国式庭球城決戦！",
+    "Gekijouban Tennis no Ouji-sama: Eikokushiki Teikyuu Shiro Kessen!",
+    "Tennis no Ouji-sama Movie 2: Eikokushiki Teikyuu Shiro Kessen!",
+    "Prince of Tennis: Eikokushiki Teikyuu Shiro Kessen!"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10731-ZaZ3e6St6RK2.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10731",
+      "url": "https://anilist.co/anime/10731"
+    },
+    "k": {
+      "id": "6321",
+      "url": "https://kitsu.io/anime/6321"
+    },
+    "mal": {
+      "id": "10731",
+      "url": "https://myanimelist.net/anime/10731"
+    }
+  }
+}

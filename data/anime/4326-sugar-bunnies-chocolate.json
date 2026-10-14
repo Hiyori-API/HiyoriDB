@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4326,
+  "slug": "sugar-bunnies-chocolate",
+  "kind": "anime",
+  "title": "Sugar Bunnies Chocolate!",
+  "titles": {
+    "default": "Sugar Bunnies Chocolate!",
+    "romaji": "Sugar Bunnies Chocolate!",
+    "native": "シュガーバニーズ ショコラ！"
+  },
+  "synonyms": [
+    "Sugar Bunnies Chocolate!",
+    "シュガーバニーズ ショコラ！",
+    "Sugar Bunnies 2",
+    "Sugarbunnies Sjokolade",
+    "Sukkerkaninene",
+    "Sötnoskaninerna",
+    "Allison & Lillia",
+    "Allison to Lillia",
+    "アリソンとリリア",
+    "Alison and Lilia",
+    "Arison to Riria",
+    "Allison and Lillia"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6482.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6482",
+      "url": "https://anilist.co/anime/6482"
+    },
+    "k": {
+      "id": "3093",
+      "url": "https://kitsu.io/anime/3093"
+    },
+    "mal": {
+      "id": "6482",
+      "url": "https://myanimelist.net/anime/6482"
+    },
+    "t": {
+      "id": "42344",
+      "url": "https://trakt.tv/shows/42344"
+    }
+  }
+}

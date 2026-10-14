@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15833,
+  "slug": "higurashi-no-naku-koro-ni-hirukowashi-hen",
+  "kind": "manga",
+  "title": "Higurashi no Naku Koro ni: Hirukowashi-hen",
+  "titles": {
+    "default": "Higurashi no Naku Koro ni: Hirukowashi-hen"
+  },
+  "synonyms": [
+    "Higurashi no Naku Koro ni - Hiru Kowashihen",
+    "Higurashi When They Cry: Daybreak Arc",
+    "Higurashi When They Cry: Lunch Break Arc",
+    "Higurashi When They Cry: Noon Break Arc",
+    "ひぐらしのなく頃に 昼壊し編",
+    "Simple Knot Loafers",
+    "シンプルノットローファー",
+    "Shinpuru Notto Rofa",
+    "Shinpuru Notto Roofaa",
+    "Simple Not Loafer"
+  ],
+  "type": "manga",
+  "chapters": 7,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/14411.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3652",
+      "url": "https://anilist.co/anime/3652"
+    },
+    "al_manga": {
+      "id": "3652",
+      "url": "https://anilist.co/manga/3652"
+    }
+  }
+}

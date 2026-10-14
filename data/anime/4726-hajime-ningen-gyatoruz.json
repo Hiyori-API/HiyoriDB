@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4726,
+  "slug": "hajime-ningen-gyatoruz",
+  "kind": "anime",
+  "title": "Hajime Ningen Gyatoruz",
+  "titles": {
+    "default": "Hajime Ningen Gyatoruz",
+    "romaji": "Hajime Ningen Gyatoruz",
+    "native": "はじめ人間ギャートルズ"
+  },
+  "synonyms": [
+    "Hajime Ningen Gyatoruz",
+    "はじめ人間ギャートルズ",
+    "First Human Gatorus",
+    "First Human Gattles",
+    "First Human Giatrus",
+    "Giatrus",
+    "The Dawn of Mankind"
+  ],
+  "type": "tv",
+  "episodes": 77,
+  "status": "finished",
+  "season": "fall",
+  "year": 1974,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8763.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8763",
+      "url": "https://anilist.co/anime/8763"
+    },
+    "k": {
+      "id": "5482",
+      "url": "https://kitsu.io/anime/5482"
+    },
+    "mal": {
+      "id": "8763",
+      "url": "https://myanimelist.net/anime/8763"
+    }
+  }
+}

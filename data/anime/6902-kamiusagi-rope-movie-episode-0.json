@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6902,
+  "slug": "kamiusagi-rope-movie-episode-0",
+  "kind": "anime",
+  "title": "Kamiusagi Rope Movie Episode 0",
+  "titles": {
+    "default": "Kamiusagi Rope Movie Episode 0",
+    "romaji": "Kamiusagi Rope Movie Episode 0",
+    "english": "Paper Rabbit Rope Movie Episode 0",
+    "native": "映画「紙兎ロペ」 Episode 0"
+  },
+  "synonyms": [
+    "Kamiusagi Rope Movie Episode 0",
+    "Paper Rabbit Rope Movie Episode 0",
+    "映画「紙兎ロペ」 Episode 0",
+    "Kamiusagi Rope Pierce-hen",
+    "Tamayura: Hitotose - Attakai Kaze no Omoide, Nanode",
+    "たまゆら～hitotose～ 第5.5話「あったかい風の想い出、なので」",
+    "Tamayura: Hitotose OVA",
+    "Tamayura (TV) OVA",
+    "Tamayura (TV) Episode 5.5"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13823.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "13823",
+      "url": "https://anilist.co/anime/13823"
+    },
+    "k": {
+      "id": "6603",
+      "url": "https://kitsu.io/anime/6603"
+    },
+    "mal": {
+      "id": "13823",
+      "url": "https://myanimelist.net/anime/13823"
+    }
+  }
+}

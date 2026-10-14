@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8908,
+  "slug": "sinbad-mahiru-no-yoru-to-fushigi-no-mon",
+  "kind": "anime",
+  "title": "Sinbad: Mahiru no Yoru to Fushigi no Mon",
+  "titles": {
+    "default": "Sinbad: Mahiru no Yoru to Fushigi no Mon",
+    "romaji": "Sinbad: Mahiru no Yoru to Fushigi no Mon",
+    "english": "Sinbad: Night at High Noon and the Wonder Gate",
+    "native": "シンドバッド 真昼の夜とふしぎの門"
+  },
+  "synonyms": [
+    "Sinbad: Mahiru no Yoru to Fushigi no Mon",
+    "Sinbad: Night at High Noon and the Wonder Gate",
+    "シンドバッド 真昼の夜とふしぎの門",
+    "Kizumonogatari Part 1: Tekketsu",
+    "Kizumonogatari I: Tekketsu-hen",
+    "傷物語〈Ⅰ鉄血篇〉",
+    "Koyomi Vamp"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b100658-x8wUnwFk3ivs.png"
+  ],
+  "references": {
+    "al": {
+      "id": "100658",
+      "url": "https://anilist.co/anime/100658"
+    },
+    "k": {
+      "id": "5649",
+      "url": "https://kitsu.io/anime/5649"
+    },
+    "mal": {
+      "id": "32888",
+      "url": "https://myanimelist.net/anime/32888"
+    },
+    "t": {
+      "id": "45938",
+      "url": "https://trakt.tv/shows/45938"
+    }
+  }
+}

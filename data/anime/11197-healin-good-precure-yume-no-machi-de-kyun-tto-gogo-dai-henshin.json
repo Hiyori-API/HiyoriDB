@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11197,
+  "slug": "healin-good-precure-yume-no-machi-de-kyun-tto-gogo-dai-henshin",
+  "kind": "anime",
+  "title": "Healin' Good♥Precure: Yume no Machi de Kyun! Tto GoGo! Dai Henshin!!",
+  "titles": {
+    "default": "Healin' Good♥Precure: Yume no Machi de Kyun! Tto GoGo! Dai Henshin!!",
+    "romaji": "Healin' Good♥Precure: Yume no Machi de Kyun! Tto GoGo! Dai Henshin!!",
+    "native": "映画ヒーリングっど♥プリキュア ゆめのまちでキュン! っとGoGo! 大変身!!"
+  },
+  "synonyms": [
+    "Healin' Good♥Precure: Yume no Machi de Kyun! Tto GoGo! Dai Henshin!!",
+    "映画ヒーリングっど♥プリキュア ゆめのまちでキュン! っとGoGo! 大変身!!",
+    "Healin' Good Pretty Cure Movie",
+    "映画ヒーリングっど♥プリキュア",
+    "Evangelion: 3.0+1.0 Thrice Upon a Time",
+    "Shin Evangelion Gekijouban :||",
+    "シン・エヴァンゲリオン劇場版:||",
+    "Evangelion: 4.0",
+    "Rebuild of Evangelion 4.0"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121026-IdeSxOsJ84HB.png"
+  ],
+  "references": {
+    "al": {
+      "id": "121026",
+      "url": "https://anilist.co/anime/121026"
+    },
+    "k": {
+      "id": "3252",
+      "url": "https://kitsu.io/anime/3252"
+    },
+    "mal": {
+      "id": "42422",
+      "url": "https://myanimelist.net/anime/42422"
+    },
+    "tx": {
+      "id": "precure_movie",
+      "url": "https://twitter.com/precure_movie"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15237,
+  "slug": "lassie",
+  "kind": "manga",
+  "title": "Lassie",
+  "titles": {
+    "default": "Lassie"
+  },
+  "synonyms": [
+    "忠犬萊西",
+    "Lassie",
+    "ラッシー",
+    "Mushrambo",
+    "マシュランボー",
+    "Mashuranboo"
+  ],
+  "type": "manga",
+  "chapters": 16,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx39154-zMJTavlf3okP.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3425",
+      "url": "https://anilist.co/anime/3425"
+    },
+    "al_manga": {
+      "id": "3425",
+      "url": "https://anilist.co/manga/3425"
+    }
+  }
+}

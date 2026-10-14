@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14412,
+  "slug": "kure-nai",
+  "kind": "manga",
+  "title": "kure-nai",
+  "titles": {
+    "default": "kure-nai"
+  },
+  "synonyms": [
+    "Kurenai",
+    "Deep Red Crimson",
+    "紅 kure-nai",
+    "Gekiryuuchi",
+    "激流血～OVER BLEED～",
+    "Over Bleed"
+  ],
+  "type": "manga",
+  "chapters": 55,
+  "volumes": 10,
+  "status": "finished",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33415-r5XM1pVVVf4q.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3358",
+      "url": "https://anilist.co/anime/8078"
+    },
+    "al_manga": {
+      "id": "3358",
+      "url": "https://anilist.co/manga/3358"
+    }
+  }
+}

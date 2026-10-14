@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10854,
+  "slug": "gaki-deka",
+  "kind": "anime",
+  "title": "Gaki Deka",
+  "titles": {
+    "default": "Gaki Deka",
+    "romaji": "Gaki Deka",
+    "native": "がきデカ"
+  },
+  "synonyms": [
+    "Gaki Deka",
+    "がきデカ",
+    "Brat Cop",
+    "Big Brat",
+    "Bratty Cop"
+  ],
+  "type": "tv",
+  "episodes": 22,
+  "status": "finished",
+  "season": "fall",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b179774-u9YnjxadddMY.png"
+  ],
+  "references": {
+    "al": {
+      "id": "179774",
+      "url": "https://anilist.co/anime/179774"
+    },
+    "k": {
+      "id": "9823",
+      "url": "https://kitsu.io/anime/9823"
+    },
+    "mal": {
+      "id": "23607",
+      "url": "https://myanimelist.net/anime/23607"
+    }
+  }
+}

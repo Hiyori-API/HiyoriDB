@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14408,
+  "slug": "black-magic",
+  "kind": "manga",
+  "title": "Black Magic",
+  "titles": {
+    "default": "Black Magic"
+  },
+  "synonyms": [
+    "Black Magic",
+    "ブラックマジック",
+    "Kuro no Kumikyoku",
+    "黒の組曲",
+    "Tenshi wa Yami ni Hohoemu",
+    "Bell ga Nattara",
+    "Cole",
+    "Linda",
+    "Violet"
+  ],
+  "type": "manga",
+  "chapters": 6,
+  "volumes": 1,
+  "status": "finished",
+  "year": 1983,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33396-DCFGqBgNoaeP.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1270",
+      "url": "https://anilist.co/anime/1270"
+    },
+    "al_manga": {
+      "id": "1270",
+      "url": "https://anilist.co/manga/1270"
+    }
+  }
+}

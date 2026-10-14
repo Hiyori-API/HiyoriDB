@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13922,
+  "slug": "seiden-rg-veda",
+  "kind": "manga",
+  "title": "Seiden: RG VEDA",
+  "titles": {
+    "default": "Seiden: RG VEDA"
+  },
+  "synonyms": [
+    "Seiden",
+    "성전 -RG VEDA-",
+    "RG Veda",
+    "聖伝-RG VEDA-",
+    "Four Steps to Romance",
+    "Romance Godan Katsuyou",
+    "ろまんす五段活用",
+    "Romantic Princess"
+  ],
+  "type": "manga",
+  "chapters": 25,
+  "volumes": 10,
+  "status": "finished",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30500-jIfItqXo6tS8.png"
+  ],
+  "references": {
+    "al": {
+      "id": "439",
+      "url": "https://anilist.co/anime/439"
+    },
+    "al_manga": {
+      "id": "439",
+      "url": "https://anilist.co/manga/439"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7980,
+  "slug": "peeping-life-shinkon-chan-kansai-ni-irasshai",
+  "kind": "anime",
+  "title": "Peeping Life: Shinkon-chan Kansai ni Irasshai",
+  "titles": {
+    "default": "Peeping Life: Shinkon-chan Kansai ni Irasshai",
+    "romaji": "Peeping Life: Shinkon-chan Kansai ni Irasshai",
+    "native": "Peeping Life 『新婚ちゃん関西にいらっしゃい』"
+  },
+  "synonyms": [
+    "Peeping Life: Shinkon-chan Kansai ni Irasshai",
+    "Peeping Life 『新婚ちゃん関西にいらっしゃい』",
+    "Peeping Life: Welcome to Kansai, Newlyweds!",
+    "Peeping Life: Welcome to Kansai"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b117407-03SgzmfSGNMR.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "117407",
+      "url": "https://anilist.co/anime/117407"
+    },
+    "k": {
+      "id": "8864",
+      "url": "https://kitsu.io/anime/8864"
+    },
+    "mal": {
+      "id": "24443",
+      "url": "https://myanimelist.net/anime/24443"
+    }
+  }
+}

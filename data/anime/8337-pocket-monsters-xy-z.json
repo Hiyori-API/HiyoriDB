@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8337,
+  "slug": "pocket-monsters-xy-z",
+  "kind": "anime",
+  "title": "Pocket Monsters XY&Z",
+  "titles": {
+    "default": "Pocket Monsters XY&Z",
+    "romaji": "Pocket Monsters XY&Z",
+    "english": "Pokémon the Series: XYZ",
+    "native": "ポケットモンスター XY&Z"
+  },
+  "synonyms": [
+    "Pocket Monsters XY&Z",
+    "Pokémon the Series: XYZ",
+    "ポケットモンスター XY&Z",
+    "Pokémon Seria XYZ",
+    "Pokémon XY&Z",
+    "ポケットモンスターXY&Z",
+    "Pokemon XY&Z"
+  ],
+  "type": "tv",
+  "episodes": 47,
+  "status": "finished",
+  "season": "fall",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21356-bHTUPdtd8xy2.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21356",
+      "url": "https://anilist.co/anime/21356"
+    },
+    "mal": {
+      "id": "31592",
+      "url": "https://myanimelist.net/anime/31592"
+    },
+    "tvt": {
+      "id": "pokemon_xyz",
+      "url": "http://www.tv-tokyo.co.jp/anime/pokemon_xyz"
+    },
+    "tx": {
+      "id": "anipoke_PR",
+      "url": "https://twitter.com/anipoke_PR"
+    }
+  }
+}

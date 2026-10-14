@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9364,
+  "slug": "anitore-xx-jigoku-no-training",
+  "kind": "anime",
+  "title": "Anitore! XX: Jigoku no Training",
+  "titles": {
+    "default": "Anitore! XX: Jigoku no Training",
+    "romaji": "Anitore! XX: Jigoku no Training",
+    "native": "あにトレ！ＸＸ「地獄のトレーニング」"
+  },
+  "synonyms": [
+    "Anitore! XX: Jigoku no Training",
+    "あにトレ！ＸＸ「地獄のトレーニング」",
+    "Anitore! XX Specials",
+    "Anime de Training! XX Specials",
+    "Ani Tore! XX Specials",
+    "プリンセス・プリンシパル ピクチャードラマ",
+    "Princess Principal Picture Drama"
+  ],
+  "type": "special",
+  "episodes": 6,
+  "status": "finished",
+  "season": "spring",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/100072-rSOIAyfeBmH8.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "100072",
+      "url": "https://anilist.co/anime/100072"
+    },
+    "mal": {
+      "id": "38177",
+      "url": "https://myanimelist.net/anime/38177"
+    }
+  }
+}

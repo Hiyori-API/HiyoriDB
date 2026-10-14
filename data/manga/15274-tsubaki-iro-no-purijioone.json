@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15274,
+  "slug": "tsubaki-iro-no-purijioone",
+  "kind": "manga",
+  "title": "Tsubaki-iro no Purijioone",
+  "titles": {
+    "default": "Tsubaki-iro no Purijioone"
+  },
+  "synonyms": [
+    "椿色のプリジオーネ",
+    "Happy Seven",
+    "はっぴぃセブン",
+    "Happy 7"
+  ],
+  "type": "novel",
+  "volumes": 1,
+  "status": "finished",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/91323-3kubXyxfujtW.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2190",
+      "url": "https://anilist.co/anime/2190"
+    },
+    "al_manga": {
+      "id": "2190",
+      "url": "https://anilist.co/manga/2190"
+    }
+  }
+}

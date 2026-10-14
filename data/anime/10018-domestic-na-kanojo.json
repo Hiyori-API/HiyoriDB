@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10018,
+  "slug": "domestic-na-kanojo",
+  "kind": "anime",
+  "title": "Domestic na Kanojo",
+  "titles": {
+    "default": "Domestic na Kanojo",
+    "romaji": "Domestic na Kanojo",
+    "english": "Domestic Girlfriend",
+    "native": "ドメスティックな彼女"
+  },
+  "synonyms": [
+    "Domestic na Kanojo",
+    "Domestic Girlfriend",
+    "ドメスティックな彼女",
+    "DomeKano",
+    "บทเรียนรักเส้นทางหัวใจ",
+    "Gotoubun no Hanayome",
+    "The Five Wedded Brides",
+    "The Quintessential Quintuplets",
+    "五等分の花嫁",
+    "5-toubun no Hanayome"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx103139-2TfvRyGTE1qp.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "103139",
+      "url": "https://anilist.co/anime/103139"
+    },
+    "cr": {
+      "id": "domestic-girlfriend",
+      "url": "https://www.crunchyroll.com/series/domestic-girlfriend"
+    },
+    "mal": {
+      "id": "37982",
+      "url": "https://myanimelist.net/anime/37982"
+    },
+    "tx": {
+      "id": "domekano_anime",
+      "url": "https://twitter.com/domekano_anime"
+    }
+  }
+}

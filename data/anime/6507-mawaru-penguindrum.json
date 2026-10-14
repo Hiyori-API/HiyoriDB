@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6507,
+  "slug": "mawaru-penguindrum",
+  "kind": "anime",
+  "title": "Mawaru Penguindrum",
+  "titles": {
+    "default": "Mawaru Penguindrum",
+    "romaji": "Mawaru Penguindrum",
+    "english": "Penguindrum",
+    "native": "輪るピングドラム"
+  },
+  "synonyms": [
+    "Mawaru Penguindrum",
+    "Penguindrum",
+    "輪るピングドラム",
+    "Steins;Gate",
+    "STEINS;GATE",
+    "シュタゲ"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "summer",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10721-lNEbDPX24qzn.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10721",
+      "url": "https://anilist.co/anime/10721"
+    },
+    "cr": {
+      "id": "series/GYWE7W5GY/steinsgate",
+      "url": "https://www.crunchyroll.com/series/series/GYWE7W5GY/steinsgate"
+    },
+    "k": {
+      "id": "5646",
+      "url": "https://kitsu.io/anime/5646"
+    },
+    "mal": {
+      "id": "10721",
+      "url": "https://myanimelist.net/anime/10721"
+    },
+    "t": {
+      "id": "42285",
+      "url": "https://trakt.tv/shows/42285"
+    },
+    "tx": {
+      "id": "penguindrum",
+      "url": "https://twitter.com/penguindrum"
+    }
+  }
+}

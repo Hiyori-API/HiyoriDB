@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2728,
+  "slug": "mei-king",
+  "kind": "anime",
+  "title": "Mei king",
+  "titles": {
+    "default": "Mei king",
+    "romaji": "Mei king",
+    "native": "めい・king"
+  },
+  "synonyms": [
+    "Mei king",
+    "めい・king",
+    "MeiKing",
+    "Choushin Hime Dangaizer 3",
+    "超神姫ダンガイザー3"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "fall",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3109.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3109",
+      "url": "https://anilist.co/anime/3109"
+    },
+    "k": {
+      "id": "1462",
+      "url": "https://kitsu.io/anime/1462"
+    },
+    "mal": {
+      "id": "3109",
+      "url": "https://myanimelist.net/anime/3109"
+    }
+  }
+}

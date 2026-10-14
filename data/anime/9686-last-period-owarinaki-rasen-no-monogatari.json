@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9686,
+  "slug": "last-period-owarinaki-rasen-no-monogatari",
+  "kind": "anime",
+  "title": "Last Period: Owarinaki Rasen no Monogatari",
+  "titles": {
+    "default": "Last Period: Owarinaki Rasen no Monogatari",
+    "romaji": "Last Period: Owarinaki Rasen no Monogatari",
+    "english": "Last Period: the journey to the end of the despair",
+    "native": "ラストピリオド －終わりなき螺旋の物語－"
+  },
+  "synonyms": [
+    "Last Period: Owarinaki Rasen no Monogatari",
+    "Last Period: the journey to the end of the despair",
+    "ラストピリオド －終わりなき螺旋の物語－",
+    "Last Period: Perjalanan Menuju Akhir Keputusasaan",
+    "High Score Girl",
+    "ハイスコアガール",
+    "Hi Score Girl"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101044-hLGPzkGcXYQN.png"
+  ],
+  "references": {
+    "al": {
+      "id": "101044",
+      "url": "https://anilist.co/anime/101044"
+    },
+    "cr": {
+      "id": "last-period-the-journey-to-the-end-of-the-despair",
+      "url": "https://www.crunchyroll.com/series/last-period-the-journey-to-the-end-of-the-despair"
+    },
+    "k": {
+      "id": "8158",
+      "url": "https://kitsu.io/anime/8158"
+    },
+    "mal": {
+      "id": "37254",
+      "url": "https://myanimelist.net/anime/37254"
+    },
+    "nf": {
+      "id": "80997338",
+      "url": "https://www.netflix.com/title/80997338"
+    },
+    "tx": {
+      "id": "last_period",
+      "url": "https://twitter.com/last_period"
+    }
+  }
+}

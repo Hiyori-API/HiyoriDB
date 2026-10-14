@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14464,
+  "slug": "omishi-mahou-gekijou-risky-safety",
+  "kind": "manga",
+  "title": "Omishi Mahou Gekijou: Risky★Safety",
+  "titles": {
+    "default": "Omishi Mahou Gekijou: Risky★Safety"
+  },
+  "synonyms": [
+    "Risky Safety",
+    "Omishi Magical Theatre: Risky Safety",
+    "Omishi Mahou Gekijou: Risuki Sefuti",
+    "臣士魔法劇場 リスキー★セフティ",
+    "Paradise Kiss",
+    "パラダイス・キス",
+    "ParaKiss"
+  ],
+  "type": "manga",
+  "volumes": 3,
+  "status": "finished",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3932.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1300",
+      "url": "https://anilist.co/anime/1300"
+    },
+    "al_manga": {
+      "id": "1300",
+      "url": "https://anilist.co/manga/1300"
+    }
+  }
+}

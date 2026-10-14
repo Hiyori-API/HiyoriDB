@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4924,
+  "slug": "kikou-kai-galient-ova",
+  "kind": "anime",
+  "title": "Kikou Kai Galient OVA",
+  "titles": {
+    "default": "Kikou Kai Galient OVA",
+    "romaji": "Kikou Kai Galient OVA",
+    "native": "機甲界ガリアン OVA"
+  },
+  "synonyms": [
+    "Kikou Kai Galient OVA",
+    "機甲界ガリアン OVA",
+    "Panzer World Galient OVA",
+    "機甲界ガリアン",
+    "Kikou Kai Garian OVA"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "winter",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10751.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10751",
+      "url": "https://anilist.co/anime/10751"
+    },
+    "k": {
+      "id": "6331",
+      "url": "https://kitsu.io/anime/6331"
+    },
+    "mal": {
+      "id": "10751",
+      "url": "https://myanimelist.net/anime/10751"
+    }
+  }
+}

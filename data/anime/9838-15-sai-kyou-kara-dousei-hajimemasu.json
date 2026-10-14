@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9838,
+  "slug": "15-sai-kyou-kara-dousei-hajimemasu",
+  "kind": "anime",
+  "title": "15-sai, Kyou kara Dousei Hajimemasu.",
+  "titles": {
+    "default": "15-sai, Kyou kara Dousei Hajimemasu.",
+    "romaji": "15-sai, Kyou kara Dousei Hajimemasu.",
+    "native": "15歳, 今日から同棲はじめます."
+  },
+  "synonyms": [
+    "15-sai, Kyou kara Dousei Hajimemasu.",
+    "15歳, 今日から同棲はじめます.",
+    "からめるハニー",
+    "Caramel Honey"
+  ],
+  "type": "ona",
+  "episodes": 30,
+  "status": "finished",
+  "season": "spring",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103886-2cVEedL6EeO1.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "103886",
+      "url": "https://anilist.co/anime/103886"
+    },
+    "mal": {
+      "id": "38019",
+      "url": "https://myanimelist.net/anime/38019"
+    }
+  }
+}

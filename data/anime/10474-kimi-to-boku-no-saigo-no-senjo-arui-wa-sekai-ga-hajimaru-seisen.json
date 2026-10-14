@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10474,
+  "slug": "kimi-to-boku-no-saigo-no-senjo-arui-wa-sekai-ga-hajimaru-seisen",
+  "kind": "anime",
+  "title": "Kimi to Boku no Saigo no Senjo, Arui wa Sekai ga Hajimaru Seisen",
+  "titles": {
+    "default": "Kimi to Boku no Saigo no Senjo, Arui wa Sekai ga Hajimaru Seisen",
+    "romaji": "Kimi to Boku no Saigo no Senjo, Arui wa Sekai ga Hajimaru Seisen",
+    "english": "Our Last Crusade or the Rise of a New World",
+    "native": "キミと僕の最後の戦場、あるいは世界が始まる聖戦"
+  },
+  "synonyms": [
+    "Kimi to Boku no Saigo no Senjo, Arui wa Sekai ga Hajimaru Seisen",
+    "Our Last Crusade or the Rise of a New World",
+    "キミと僕の最後の戦場、あるいは世界が始まる聖戦",
+    "Kimisen",
+    "ศึกสุดท้ายของเธอกับผมคือจุดเริ่มต้นของโลกใบใหม่",
+    "Kimi to Boku no Saigo no Senjo, Aruiwa Sekai ga Hajimaru Seisen",
+    "Rozen Maiden",
+    "ローゼンメイデン"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112667-GYFeAlZ38mXK.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "112667",
+      "url": "https://anilist.co/anime/112667"
+    },
+    "cr": {
+      "id": "our-last-crusade-or-the-rise-of-a-new-world",
+      "url": "https://www.crunchyroll.com/series/our-last-crusade-or-the-rise-of-a-new-world"
+    },
+    "k": {
+      "id": "45",
+      "url": "https://kitsu.io/anime/45"
+    },
+    "mal": {
+      "id": "40595",
+      "url": "https://myanimelist.net/anime/40595"
+    },
+    "t": {
+      "id": "61847",
+      "url": "https://trakt.tv/shows/61847"
+    },
+    "tx": {
+      "id": "kimisen_project",
+      "url": "https://twitter.com/kimisen_project"
+    }
+  }
+}

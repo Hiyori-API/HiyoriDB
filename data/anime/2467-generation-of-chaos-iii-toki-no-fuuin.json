@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2467,
+  "slug": "generation-of-chaos-iii-toki-no-fuuin",
+  "kind": "anime",
+  "title": "Generation of Chaos III: Toki no Fuuin",
+  "titles": {
+    "default": "Generation of Chaos III: Toki no Fuuin",
+    "romaji": "Generation of Chaos III: Toki no Fuuin",
+    "english": "Generation of Chaos III: Time of the Seal",
+    "native": "ジェネレーションオブカオス３ ～時の封印～"
+  },
+  "synonyms": [
+    "Generation of Chaos III: Toki no Fuuin",
+    "Generation of Chaos III: Time of the Seal",
+    "ジェネレーションオブカオス３ ～時の封印～",
+    "ジェネレーション オブ カオス III ～　時の封印　～",
+    "Generation of Chaos III: Seal of Time"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2778-BTSHEiLLfPkH.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2778",
+      "url": "https://anilist.co/anime/2778"
+    },
+    "k": {
+      "id": "2534",
+      "url": "https://kitsu.io/anime/2534"
+    },
+    "mal": {
+      "id": "2778",
+      "url": "https://myanimelist.net/anime/2778"
+    }
+  }
+}

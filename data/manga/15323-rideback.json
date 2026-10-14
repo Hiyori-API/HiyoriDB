@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15323,
+  "slug": "rideback",
+  "kind": "manga",
+  "title": "RideBack",
+  "titles": {
+    "default": "RideBack"
+  },
+  "synonyms": [
+    "Ride Back",
+    "ライドバック",
+    "xxxHOLiC",
+    "xxxHolic Rou",
+    "xxxHolic Cage",
+    "xxxHolic•Rou"
+  ],
+  "type": "manga",
+  "chapters": 62,
+  "volumes": 10,
+  "status": "finished",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx38398-tB3zxG3oJHCO.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4618",
+      "url": "https://anilist.co/anime/4618"
+    },
+    "al_manga": {
+      "id": "4618",
+      "url": "https://anilist.co/manga/4618"
+    }
+  }
+}

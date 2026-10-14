@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2491,
+  "slug": "candy-candy-candy-no-natsuyasumi",
+  "kind": "anime",
+  "title": "Candy Candy: Candy no Natsuyasumi",
+  "titles": {
+    "default": "Candy Candy: Candy no Natsuyasumi",
+    "romaji": "Candy Candy: Candy no Natsuyasumi",
+    "native": "キャンディ・キャンディ キャンディの夏休み"
+  },
+  "synonyms": [
+    "Candy Candy: Candy no Natsuyasumi",
+    "キャンディ・キャンディ キャンディの夏休み",
+    "Candy Candy: Candy's Summer Vacation",
+    "Candy Candy's Summer Holidays",
+    "Candy Candy Spesial",
+    "Candy Candy: Candy no Natsu Yasumi"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1978,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2802-FmMzQsWuPjZM.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2802",
+      "url": "https://anilist.co/anime/2802"
+    },
+    "k": {
+      "id": "2558",
+      "url": "https://kitsu.io/anime/2558"
+    },
+    "mal": {
+      "id": "2802",
+      "url": "https://myanimelist.net/anime/2802"
+    }
+  }
+}

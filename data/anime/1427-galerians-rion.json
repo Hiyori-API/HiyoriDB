@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1427,
+  "slug": "galerians-rion",
+  "kind": "anime",
+  "title": "Galerians: Rion",
+  "titles": {
+    "default": "Galerians: Rion",
+    "romaji": "Galerians: Rion",
+    "native": "ガレリアンズ：リオン"
+  },
+  "synonyms": [
+    "Galerians: Rion",
+    "ガレリアンズ：リオン",
+    "Galerians: Rion (2003)"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "spring",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1611.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1611",
+      "url": "https://anilist.co/anime/1611"
+    },
+    "k": {
+      "id": "1449",
+      "url": "https://kitsu.io/anime/1449"
+    },
+    "mal": {
+      "id": "1611",
+      "url": "https://myanimelist.net/anime/1611"
+    }
+  }
+}

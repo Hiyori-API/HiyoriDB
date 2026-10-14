@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8098,
+  "slug": "k-return-of-kings",
+  "kind": "anime",
+  "title": "K: RETURN OF KINGS",
+  "titles": {
+    "default": "K: RETURN OF KINGS",
+    "romaji": "K: RETURN OF KINGS",
+    "native": "K RETURN OF KINGS"
+  },
+  "synonyms": [
+    "K: RETURN OF KINGS",
+    "K RETURN OF KINGS",
+    "K-Project 2",
+    "K-Project Sequel",
+    "K 2nd Season",
+    "K: Return of Kings"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20913-gtriPcPNUwAQ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "20913",
+      "url": "https://anilist.co/anime/20913"
+    },
+    "mal": {
+      "id": "27991",
+      "url": "https://myanimelist.net/anime/27991"
+    }
+  }
+}

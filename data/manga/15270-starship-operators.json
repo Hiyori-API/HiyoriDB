@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15270,
+  "slug": "starship-operators",
+  "kind": "manga",
+  "title": "Starship Operators",
+  "titles": {
+    "default": "Starship Operators"
+  },
+  "synonyms": [
+    "スターシップ・オペレーターズ",
+    "Happy Seven",
+    "はっぴぃセブン",
+    "Happy 7"
+  ],
+  "type": "novel",
+  "volumes": 6,
+  "status": "finished",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/42125.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "342",
+      "url": "https://anilist.co/anime/342"
+    },
+    "al_manga": {
+      "id": "342",
+      "url": "https://anilist.co/manga/342"
+    }
+  }
+}

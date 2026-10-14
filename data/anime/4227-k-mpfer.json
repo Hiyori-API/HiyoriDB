@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4227,
+  "slug": "k-mpfer",
+  "kind": "anime",
+  "title": "Kämpfer",
+  "titles": {
+    "default": "Kämpfer",
+    "romaji": "Kämpfer",
+    "native": "けんぷファー"
+  },
+  "synonyms": [
+    "Kämpfer",
+    "けんぷファー",
+    "Kampfer",
+    "Kaempfer"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6205-3waXg2FNaAFL.png"
+  ],
+  "references": {
+    "al": {
+      "id": "6205",
+      "url": "https://anilist.co/anime/6205"
+    },
+    "k": {
+      "id": "4474",
+      "url": "https://kitsu.io/anime/4474"
+    },
+    "mal": {
+      "id": "6205",
+      "url": "https://myanimelist.net/anime/6205"
+    },
+    "t": {
+      "id": "35869",
+      "url": "https://trakt.tv/shows/35869"
+    }
+  }
+}

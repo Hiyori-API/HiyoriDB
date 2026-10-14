@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10745,
+  "slug": "mushoku-tensei-isekai-ittara-honki-dasu",
+  "kind": "anime",
+  "title": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+  "titles": {
+    "default": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+    "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+    "english": "Mushoku Tensei: Jobless Reincarnation",
+    "native": "無職転生 ～異世界行ったら本気だす～"
+  },
+  "synonyms": [
+    "Mushoku Tensei: Isekai Ittara Honki Dasu",
+    "Mushoku Tensei: Jobless Reincarnation",
+    "無職転生 ～異世界行ったら本気だす～",
+    "Jobless Reincarnation: I Will Seriously Try If I Go To Another World",
+    "无职转生 ~到了异世界就拿出真本事~",
+    "เกิดชาตินี้พี่ต้องเทพ",
+    "Thất nghiệp chuyển sinh"
+  ],
+  "type": "tv",
+  "episodes": 11,
+  "status": "finished",
+  "season": "winter",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108465-1ANspF1EWyFx.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "108465",
+      "url": "https://anilist.co/anime/108465"
+    },
+    "cr": {
+      "id": "mushoku-tensei-jobless-reincarnation",
+      "url": "https://www.crunchyroll.com/series/mushoku-tensei-jobless-reincarnation"
+    },
+    "mal": {
+      "id": "39535",
+      "url": "https://myanimelist.net/anime/39535"
+    },
+    "nf": {
+      "id": "80987039",
+      "url": "https://www.netflix.com/title/80987039"
+    },
+    "tx": {
+      "id": "mushokutensei_A",
+      "url": "https://twitter.com/mushokutensei_A"
+    }
+  }
+}

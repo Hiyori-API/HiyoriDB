@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9577,
+  "slug": "kaijuu-girls-ultra-kaijuu-gijinka-keikaku-2",
+  "kind": "anime",
+  "title": "Kaijuu Girls: Ultra Kaijuu Gijinka Keikaku 2",
+  "titles": {
+    "default": "Kaijuu Girls: Ultra Kaijuu Gijinka Keikaku 2",
+    "romaji": "Kaijuu Girls: Ultra Kaijuu Gijinka Keikaku 2",
+    "native": "怪獣娘[かいじゅうがーるず] ~ウルトラ怪獣擬人化計画~ 第2シリーズ"
+  },
+  "synonyms": [
+    "Kaijuu Girls: Ultra Kaijuu Gijinka Keikaku 2",
+    "怪獣娘[かいじゅうがーるず] ~ウルトラ怪獣擬人化計画~ 第2シリーズ",
+    "Kaiju Girls 2",
+    "Spirit Pact: Yomi no Chigiri",
+    "Spirit Pact: Bond of the Underworld",
+    "Spiritpact: Bond of the Underworld",
+    "灵契 2",
+    "Ling Qi 2"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/99888-q8TLXKmRv4uC.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "99888",
+      "url": "https://anilist.co/anime/99888"
+    },
+    "cr": {
+      "id": "kaiju-girls",
+      "url": "https://www.crunchyroll.com/series/kaiju-girls"
+    },
+    "mal": {
+      "id": "36196",
+      "url": "https://myanimelist.net/anime/36196"
+    },
+    "tx": {
+      "id": "ultrakaiju_gk",
+      "url": "https://twitter.com/ultrakaiju_gk"
+    }
+  }
+}

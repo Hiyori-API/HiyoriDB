@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6249,
+  "slug": "hourou-musuko",
+  "kind": "anime",
+  "title": "Hourou Musuko",
+  "titles": {
+    "default": "Hourou Musuko",
+    "romaji": "Hourou Musuko",
+    "english": "Wandering Son",
+    "native": "放浪息子"
+  },
+  "synonyms": [
+    "Hourou Musuko",
+    "Wandering Son",
+    "放浪息子",
+    "The Transient Son"
+  ],
+  "type": "tv",
+  "episodes": 11,
+  "status": "finished",
+  "season": "winter",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx8426-ISvFPcPQ7aXU.png"
+  ],
+  "references": {
+    "al": {
+      "id": "8426",
+      "url": "https://anilist.co/anime/8426"
+    },
+    "cr": {
+      "id": "hourou-musuko-wandering-son",
+      "url": "https://www.crunchyroll.com/series/hourou-musuko-wandering-son"
+    },
+    "k": {
+      "id": "5331",
+      "url": "https://kitsu.io/anime/5331"
+    },
+    "mal": {
+      "id": "8426",
+      "url": "https://myanimelist.net/anime/8426"
+    },
+    "t": {
+      "id": "43684",
+      "url": "https://trakt.tv/shows/43684"
+    }
+  }
+}

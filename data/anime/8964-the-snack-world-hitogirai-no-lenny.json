@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8964,
+  "slug": "the-snack-world-hitogirai-no-lenny",
+  "kind": "anime",
+  "title": "The Snack World: Hitogirai no Lenny",
+  "titles": {
+    "default": "The Snack World: Hitogirai no Lenny",
+    "romaji": "The Snack World: Hitogirai no Lenny",
+    "native": "スナックワールド 人嫌いのレニー"
+  },
+  "synonyms": [
+    "The Snack World: Hitogirai no Lenny",
+    "スナックワールド 人嫌いのレニー",
+    "In This Corner of the World",
+    "Kono Sekai no Katasumi ni",
+    "この世界の片隅に",
+    "To All the Corners of the World"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145492-H95ALNmxT6YL.png"
+  ],
+  "references": {
+    "al": {
+      "id": "145492",
+      "url": "https://anilist.co/anime/145492"
+    },
+    "cr": {
+      "id": "series/GNVHKN9PW/in-this-corner-and-other-corners-of-the-world",
+      "url": "https://www.crunchyroll.com/series/series/GNVHKN9PW/in-this-corner-and-other-corners-of-the-world"
+    },
+    "k": {
+      "id": "7234",
+      "url": "https://kitsu.io/anime/7234"
+    },
+    "mal": {
+      "id": "34416",
+      "url": "https://myanimelist.net/anime/34416"
+    },
+    "nf": {
+      "id": "80192244",
+      "url": "https://www.netflix.com/title/80192244"
+    }
+  }
+}

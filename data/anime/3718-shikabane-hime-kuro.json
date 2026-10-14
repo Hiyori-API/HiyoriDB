@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3718,
+  "slug": "shikabane-hime-kuro",
+  "kind": "anime",
+  "title": "Shikabane Hime: Kuro",
+  "titles": {
+    "default": "Shikabane Hime: Kuro",
+    "romaji": "Shikabane Hime: Kuro",
+    "english": "Corpse Princess: Kuro",
+    "native": "屍姫 玄"
+  },
+  "synonyms": [
+    "Shikabane Hime: Kuro",
+    "Corpse Princess: Kuro",
+    "屍姫 玄",
+    "Shikabane Hime Second Season",
+    "Ride Back",
+    "RideBack",
+    "ライドバック"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5034-UqHnd7efO3uG.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5034",
+      "url": "https://anilist.co/anime/5034"
+    },
+    "cr": {
+      "id": "series/GQWH0MPW2/rideback",
+      "url": "https://www.crunchyroll.com/series/series/GQWH0MPW2/rideback"
+    },
+    "k": {
+      "id": "3715",
+      "url": "https://kitsu.io/anime/3715"
+    },
+    "mal": {
+      "id": "5034",
+      "url": "https://myanimelist.net/anime/5034"
+    },
+    "t": {
+      "id": "61786",
+      "url": "https://trakt.tv/shows/61786"
+    }
+  }
+}

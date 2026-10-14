@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13005,
+  "slug": "kikaijikake-no-marie",
+  "kind": "anime",
+  "title": "Kikaijikake no Marie",
+  "titles": {
+    "default": "Kikaijikake no Marie",
+    "romaji": "Kikaijikake no Marie",
+    "english": "Mechanical Marie",
+    "native": "機械じかけのマリー"
+  },
+  "synonyms": [
+    "Kikaijikake no Marie",
+    "Mechanical Marie",
+    "機械じかけのマリー",
+    "Mechanically Marie",
+    "มารี เมดสาวโรบอทกำมะลอ",
+    "Ring ni Kakero 1",
+    "リングにかけろ１",
+    "Put it all in the Ring"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179992-tu21efjGADCO.png"
+  ],
+  "references": {
+    "al": {
+      "id": "179992",
+      "url": "https://anilist.co/anime/179992"
+    },
+    "cr": {
+      "id": "series/G79H23ZJ9/mechanical-marie",
+      "url": "https://www.crunchyroll.com/series/series/G79H23ZJ9/mechanical-marie"
+    },
+    "k": {
+      "id": "14",
+      "url": "https://kitsu.io/anime/14"
+    },
+    "mal": {
+      "id": "59484",
+      "url": "https://myanimelist.net/anime/59484"
+    },
+    "t": {
+      "id": "69507",
+      "url": "https://trakt.tv/shows/69507"
+    }
+  }
+}

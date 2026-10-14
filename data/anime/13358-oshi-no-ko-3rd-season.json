@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13358,
+  "slug": "oshi-no-ko-3rd-season",
+  "kind": "anime",
+  "title": "[Oshi no Ko] 3rd Season",
+  "titles": {
+    "default": "[Oshi no Ko] 3rd Season",
+    "romaji": "[Oshi no Ko] 3rd Season",
+    "english": "OSHI NO KO Season 3",
+    "native": "【推しの子】第3期"
+  },
+  "synonyms": [
+    "[Oshi no Ko] 3rd Season",
+    "OSHI NO KO Season 3",
+    "【推しの子】第3期",
+    "[OSHI NO KO] Season 3",
+    "【OSHI NO KO】Season 3",
+    "My Star Season 3",
+    "[Oshi No Ko] Season 3",
+    "【推しの子】 第3期"
+  ],
+  "type": "tv",
+  "episodes": 11,
+  "status": "finished",
+  "season": "winter",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182587-fsU8LOjmd7oj.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "182587",
+      "url": "https://anilist.co/anime/182587"
+    },
+    "cr": {
+      "id": "series/GT00366791/oshi-no-ko",
+      "url": "https://www.crunchyroll.com/series/series/GT00366791/oshi-no-ko"
+    },
+    "mal": {
+      "id": "60058",
+      "url": "https://myanimelist.net/anime/60058"
+    },
+    "nf": {
+      "id": "81684733",
+      "url": "https://www.netflix.com/title/81684733"
+    },
+    "tx": {
+      "id": "anime_oshinoko",
+      "url": "https://twitter.com/oshinoko_global"
+    }
+  }
+}

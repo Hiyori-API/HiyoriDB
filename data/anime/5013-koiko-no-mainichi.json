@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5013,
+  "slug": "koiko-no-mainichi",
+  "kind": "anime",
+  "title": "Koiko no Mainichi",
+  "titles": {
+    "default": "Koiko no Mainichi",
+    "romaji": "Koiko no Mainichi",
+    "native": "恋子の毎日"
+  },
+  "synonyms": [
+    "Koiko no Mainichi",
+    "恋子の毎日",
+    "Seishun Fuufu Monogatari: Koiko no Mainichi",
+    "青春夫婦物語　恋子の毎日",
+    "Koiko's Daily Life",
+    "Assemble Insert",
+    "アッセンブル・インサート"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b10045-aPdMtWJfuYfN.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10045",
+      "url": "https://anilist.co/anime/10045"
+    },
+    "k": {
+      "id": "2190",
+      "url": "https://kitsu.io/anime/2190"
+    },
+    "mal": {
+      "id": "10045",
+      "url": "https://myanimelist.net/anime/10045"
+    }
+  }
+}

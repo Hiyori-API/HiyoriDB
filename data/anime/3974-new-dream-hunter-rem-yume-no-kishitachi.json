@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3974,
+  "slug": "new-dream-hunter-rem-yume-no-kishitachi",
+  "kind": "anime",
+  "title": "NEW DREAM HUNTER Rem: Yume no Kishitachi",
+  "titles": {
+    "default": "NEW DREAM HUNTER Rem: Yume no Kishitachi",
+    "romaji": "NEW DREAM HUNTER Rem: Yume no Kishitachi",
+    "native": "NEW DREAM HUNTER 麗夢 夢の騎士達"
+  },
+  "synonyms": [
+    "NEW DREAM HUNTER Rem: Yume no Kishitachi",
+    "NEW DREAM HUNTER 麗夢 夢の騎士達",
+    "New Dream Hunter Rem: Dream Knights",
+    "New Dream Hunter Rem: Yume no Kishitachi"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5585-nvcrGxJSy91Y.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5585",
+      "url": "https://anilist.co/anime/5585"
+    },
+    "k": {
+      "id": "4182",
+      "url": "https://kitsu.io/anime/4182"
+    },
+    "mal": {
+      "id": "5585",
+      "url": "https://myanimelist.net/anime/5585"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14902,
+  "slug": "lady",
+  "kind": "manga",
+  "title": "Lady!!",
+  "titles": {
+    "default": "Lady!!"
+  },
+  "synonyms": [
+    "Moeru Bara",
+    "Gwendoline",
+    "Roses de feu",
+    "レディー！！",
+    "Nemureru Mori no Binan",
+    "眠れる森美男",
+    "Sleeping Beauty Boy",
+    "The Handsome Man in the Sleeping Woods",
+    "The Sleeping Beauty Man",
+    "The Sleeping Male Beauty in the Woods"
+  ],
+  "type": "manga",
+  "chapters": 59,
+  "volumes": 12,
+  "status": "finished",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx39393-8qxMxodg0Ebj.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2227",
+      "url": "https://anilist.co/anime/2227"
+    },
+    "al_manga": {
+      "id": "2227",
+      "url": "https://anilist.co/manga/2227"
+    }
+  }
+}

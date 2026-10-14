@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14664,
+  "slug": "jun-shotaro-no-fantasy-world",
+  "kind": "manga",
+  "title": "Jun: Shotaro no Fantasy World",
+  "titles": {
+    "default": "Jun: Shotaro no Fantasy World"
+  },
+  "synonyms": [
+    "Fantasy World Jun",
+    "Shotaro's Fantasy World Jun",
+    "ジュン",
+    "Jun",
+    "ファンタジーワールド ジュン",
+    "ジュン - 章太郎のファンタジーワールド",
+    "Kuroi Ame ni Utarete",
+    "黒い雨にうたれて",
+    "Struck by Black Rain"
+  ],
+  "type": "manga",
+  "chapters": 34,
+  "volumes": 2,
+  "status": "finished",
+  "year": 1966,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b82343-bMKxUPW2NRFP.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "145063",
+      "url": "https://anilist.co/anime/145063"
+    },
+    "al_manga": {
+      "id": "145063",
+      "url": "https://anilist.co/manga/145063"
+    }
+  }
+}

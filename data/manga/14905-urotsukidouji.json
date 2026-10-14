@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14905,
+  "slug": "urotsukidouji",
+  "kind": "manga",
+  "title": "Urotsukidouji",
+  "titles": {
+    "default": "Urotsukidouji"
+  },
+  "synonyms": [
+    "Choujin Densetsu Urotsukidoji",
+    "The Legend of the Ultra God and The Wandering Kid",
+    "超神伝説うろつき童子",
+    "The Wandering Kid - Legend of the Supergod",
+    "Urotsukidoji: Legend of the Overfiend",
+    "うろつき童子",
+    "Nemureru Mori no Binan",
+    "眠れる森美男",
+    "Sleeping Beauty Boy",
+    "The Handsome Man in the Sleeping Woods",
+    "The Sleeping Beauty Man",
+    "The Sleeping Male Beauty in the Woods"
+  ],
+  "type": "manga",
+  "chapters": 19,
+  "volumes": 6,
+  "status": "finished",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx41821-ccbJ1HeHCrFr.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2343",
+      "url": "https://anilist.co/anime/1353"
+    },
+    "al_manga": {
+      "id": "2343",
+      "url": "https://anilist.co/manga/2343"
+    }
+  }
+}

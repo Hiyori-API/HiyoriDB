@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4820,
+  "slug": "ohayou-spank-movie",
+  "kind": "anime",
+  "title": "Ohayou! Spank (Movie)",
+  "titles": {
+    "default": "Ohayou! Spank (Movie)",
+    "romaji": "Ohayou! Spank (Movie)",
+    "native": "おはよう! スパンク"
+  },
+  "synonyms": [
+    "Ohayou! Spank (Movie)",
+    "おはよう! スパンク",
+    "Hello! Spank (Movie)",
+    "Haguregumo",
+    "浮浪雲",
+    "Wandering Clouds"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1982,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19897.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "19897",
+      "url": "https://anilist.co/anime/19897"
+    },
+    "k": {
+      "id": "5362",
+      "url": "https://kitsu.io/anime/5362"
+    },
+    "mal": {
+      "id": "19897",
+      "url": "https://myanimelist.net/anime/19897"
+    }
+  }
+}

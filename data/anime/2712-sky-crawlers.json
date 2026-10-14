@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2712,
+  "slug": "sky-crawlers",
+  "kind": "anime",
+  "title": "Sky Crawlers",
+  "titles": {
+    "default": "Sky Crawlers",
+    "romaji": "Sky Crawlers",
+    "english": "The Sky Crawlers",
+    "native": "スカイ・クロラ"
+  },
+  "synonyms": [
+    "Sky Crawlers",
+    "The Sky Crawlers",
+    "スカイ・クロラ",
+    "Nebeští jezdci"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3089-AVjAzlLaN7SQ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3089",
+      "url": "https://anilist.co/anime/3089"
+    },
+    "k": {
+      "id": "2785",
+      "url": "https://kitsu.io/anime/2785"
+    },
+    "mal": {
+      "id": "3089",
+      "url": "https://myanimelist.net/anime/3089"
+    }
+  }
+}

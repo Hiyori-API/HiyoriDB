@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5098,
+  "slug": "aries-shinwa-no-seizakyuu",
+  "kind": "anime",
+  "title": "Aries: Shinwa no Seizakyuu",
+  "titles": {
+    "default": "Aries: Shinwa no Seizakyuu",
+    "romaji": "Aries: Shinwa no Seizakyuu",
+    "native": "アリーズ -神話の星座宮-"
+  },
+  "synonyms": [
+    "Aries: Shinwa no Seizakyuu",
+    "アリーズ -神話の星座宮-",
+    "Aries"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/104070-8CoPlEAeIzE2.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "104070",
+      "url": "https://anilist.co/anime/104070"
+    },
+    "k": {
+      "id": "9199",
+      "url": "https://kitsu.io/anime/9199"
+    },
+    "mal": {
+      "id": "22271",
+      "url": "https://myanimelist.net/anime/22271"
+    }
+  }
+}

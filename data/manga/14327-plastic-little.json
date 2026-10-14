@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14327,
+  "slug": "plastic-little",
+  "kind": "manga",
+  "title": "Plastic Little",
+  "titles": {
+    "default": "Plastic Little"
+  },
+  "synonyms": [
+    "Plastic Little: Captain's Log",
+    "プラスチックリトル",
+    "Yokohama Kaidashi Kikou",
+    "ヨコハマ買い出し紀行",
+    "Yokohama Shopping Log",
+    "Yokohama Shopping Trip",
+    "Touge"
+  ],
+  "type": "manga",
+  "chapters": 5,
+  "volumes": 1,
+  "status": "finished",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2912.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2332",
+      "url": "https://anilist.co/anime/2332"
+    },
+    "al_manga": {
+      "id": "2332",
+      "url": "https://anilist.co/manga/2332"
+    }
+  }
+}

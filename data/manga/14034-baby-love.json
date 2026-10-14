@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14034,
+  "slug": "baby-love",
+  "kind": "manga",
+  "title": "Baby★LOVE",
+  "titles": {
+    "default": "Baby★LOVE"
+  },
+  "synonyms": [
+    "ベイビィ・Love",
+    "我が家の健康グッズ",
+    "Waga Ie no Kenkou Goods",
+    "베이비 러브",
+    "Baby★LOVE",
+    "ベイビィ★LOVE",
+    "Baby★Love"
+  ],
+  "type": "manga",
+  "chapters": 49,
+  "volumes": 9,
+  "status": "finished",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30833-RccEg0LYZRA2.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "722",
+      "url": "https://anilist.co/anime/722"
+    },
+    "al_manga": {
+      "id": "722",
+      "url": "https://anilist.co/manga/722"
+    }
+  }
+}

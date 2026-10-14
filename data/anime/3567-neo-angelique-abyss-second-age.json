@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3567,
+  "slug": "neo-angelique-abyss-second-age",
+  "kind": "anime",
+  "title": "Neo Angelique Abyss: Second Age",
+  "titles": {
+    "default": "Neo Angelique Abyss: Second Age",
+    "romaji": "Neo Angelique Abyss: Second Age",
+    "native": "ネオアンジェリーク Abyss -Second Age-"
+  },
+  "synonyms": [
+    "Neo Angelique Abyss: Second Age",
+    "ネオアンジェリーク Abyss -Second Age-"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4662.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4662",
+      "url": "https://anilist.co/anime/4662"
+    },
+    "cr": {
+      "id": "neo-angelique-abyss",
+      "url": "https://www.crunchyroll.com/series/neo-angelique-abyss"
+    },
+    "k": {
+      "id": "3728",
+      "url": "https://kitsu.io/anime/3728"
+    },
+    "mal": {
+      "id": "4662",
+      "url": "https://myanimelist.net/anime/4662"
+    },
+    "t": {
+      "id": "35004",
+      "url": "https://trakt.tv/shows/35004"
+    }
+  }
+}

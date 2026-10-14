@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9897,
+  "slug": "shinmai-maou-no-testament-departures-maria-no-hizou-eizou",
+  "kind": "anime",
+  "title": "Shinmai Maou no Testament: DEPARTURES - Maria no Hizou Eizou",
+  "titles": {
+    "default": "Shinmai Maou no Testament: DEPARTURES - Maria no Hizou Eizou",
+    "romaji": "Shinmai Maou no Testament: DEPARTURES - Maria no Hizou Eizou",
+    "native": "新妹魔王の契約者 DEPARTURES 万理亜の秘蔵映像"
+  },
+  "synonyms": [
+    "Shinmai Maou no Testament: DEPARTURES - Maria no Hizou Eizou",
+    "新妹魔王の契約者 DEPARTURES 万理亜の秘蔵映像",
+    "The Testament of Sister New Devil DEPARTURES Special",
+    "The Testament of Sister New Devil Departures: Maria's Secret Video",
+    "Shinmai Maou no Testament Departures: Maria no Hizou Eizou"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b108944-rrEtLxl9Fok9.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "108944",
+      "url": "https://anilist.co/anime/108944"
+    },
+    "mal": {
+      "id": "39480",
+      "url": "https://myanimelist.net/anime/39480"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8403,
+  "slug": "kuroko-no-basket-3-ng-shuu",
+  "kind": "anime",
+  "title": "Kuroko no Basket 3 NG-shuu",
+  "titles": {
+    "default": "Kuroko no Basket 3 NG-shuu",
+    "romaji": "Kuroko no Basket 3 NG-shuu",
+    "native": "黒子のバスケ3 NG集"
+  },
+  "synonyms": [
+    "Kuroko no Basket 3 NG-shuu",
+    "黒子のバスケ3 NG集",
+    "黒子のバスケ3期 NG集",
+    "Kuroko no Basket 3rd Season NG-shuu"
+  ],
+  "type": "special",
+  "episodes": 9,
+  "status": "finished",
+  "season": "spring",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98704-l3SgpLnTedJE.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98704",
+      "url": "https://anilist.co/anime/98704"
+    },
+    "mal": {
+      "id": "30311",
+      "url": "https://myanimelist.net/anime/30311"
+    },
+    "tx": {
+      "id": "kurobasanime",
+      "url": "https://twitter.com/kurobasanime"
+    }
+  }
+}

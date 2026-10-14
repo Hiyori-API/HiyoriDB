@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15691,
+  "slug": "white-album",
+  "kind": "manga",
+  "title": "WHITE ALBUM",
+  "titles": {
+    "default": "WHITE ALBUM"
+  },
+  "synonyms": [
+    "ホワイトアルバム",
+    "WHITE ALBUM",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "chapters": 25,
+  "volumes": 3,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/9134.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4720",
+      "url": "https://anilist.co/anime/4720"
+    },
+    "al_manga": {
+      "id": "4720",
+      "url": "https://anilist.co/manga/4720"
+    }
+  }
+}

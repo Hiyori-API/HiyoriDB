@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2590,
+  "slug": "bishoujo-senshi-sailor-moon-r-make-up-sailor-senshi",
+  "kind": "anime",
+  "title": "Bishoujo Senshi Sailor Moon R: Make Up! Sailor Senshi",
+  "titles": {
+    "default": "Bishoujo Senshi Sailor Moon R: Make Up! Sailor Senshi",
+    "romaji": "Bishoujo Senshi Sailor Moon R: Make Up! Sailor Senshi",
+    "english": "Sailor Moon R: Make Up! Sailor Guardians",
+    "native": "メイクアップ！ セーラー戦士"
+  },
+  "synonyms": [
+    "Bishoujo Senshi Sailor Moon R: Make Up! Sailor Senshi",
+    "Sailor Moon R: Make Up! Sailor Guardians",
+    "メイクアップ！ セーラー戦士",
+    "Przemieńcie się, czarodziejki!",
+    "Sailor Moon R: Make Up! Sailor Guardians Featurette"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2937-Kl5cvwwFDkPj.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2937",
+      "url": "https://anilist.co/anime/2937"
+    },
+    "k": {
+      "id": "2660",
+      "url": "https://kitsu.io/anime/2660"
+    },
+    "mal": {
+      "id": "2937",
+      "url": "https://myanimelist.net/anime/2937"
+    }
+  }
+}

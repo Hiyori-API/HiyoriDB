@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1218,
+  "slug": "ojamajo-doremi-na-i-sho",
+  "kind": "anime",
+  "title": "Ojamajo Doremi Na-i-sho",
+  "titles": {
+    "default": "Ojamajo Doremi Na-i-sho",
+    "romaji": "Ojamajo Doremi Na-i-sho",
+    "native": "おジャ魔女どれみ ナ・イ・ショ"
+  },
+  "synonyms": [
+    "Ojamajo Doremi Na-i-sho",
+    "おジャ魔女どれみ ナ・イ・ショ"
+  ],
+  "type": "ova",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1376-LH3Sw7ZAJMjs.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1376",
+      "url": "https://anilist.co/anime/1376"
+    },
+    "k": {
+      "id": "1230",
+      "url": "https://kitsu.io/anime/1230"
+    },
+    "mal": {
+      "id": "1376",
+      "url": "https://myanimelist.net/anime/1376"
+    },
+    "tx": {
+      "id": "Doremi_staff",
+      "url": "https://twitter.com/Doremi_staff"
+    }
+  }
+}

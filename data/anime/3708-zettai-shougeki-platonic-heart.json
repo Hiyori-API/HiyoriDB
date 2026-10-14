@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3708,
+  "slug": "zettai-shougeki-platonic-heart",
+  "kind": "anime",
+  "title": "Zettai Shougeki: Platonic Heart",
+  "titles": {
+    "default": "Zettai Shougeki: Platonic Heart",
+    "romaji": "Zettai Shougeki: Platonic Heart",
+    "english": "Master of Martial Hearts",
+    "native": "絶対衝激～プラトニックハート～"
+  },
+  "synonyms": [
+    "Zettai Shougeki: Platonic Heart",
+    "Master of Martial Hearts",
+    "絶対衝激～プラトニックハート～",
+    "Zettai Shogeki"
+  ],
+  "type": "ova",
+  "episodes": 5,
+  "status": "finished",
+  "season": "fall",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5020-5oL8hMhdY7ER.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5020",
+      "url": "https://anilist.co/anime/5020"
+    },
+    "cr": {
+      "id": "master-of-martial-hearts",
+      "url": "https://www.crunchyroll.com/series/master-of-martial-hearts"
+    },
+    "k": {
+      "id": "3886",
+      "url": "https://kitsu.io/anime/3886"
+    },
+    "mal": {
+      "id": "5020",
+      "url": "https://myanimelist.net/anime/5020"
+    }
+  }
+}

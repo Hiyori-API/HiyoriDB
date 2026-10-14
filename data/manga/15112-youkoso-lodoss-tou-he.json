@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15112,
+  "slug": "youkoso-lodoss-tou-he",
+  "kind": "manga",
+  "title": "Youkoso Lodoss-tou he!",
+  "titles": {
+    "default": "Youkoso Lodoss-tou he!"
+  },
+  "synonyms": [
+    "Youkoso Roudosu-tou he!",
+    "Welcome to Lodoss Island!",
+    "ようこそロードス島へ!",
+    "Kare Kano: His and Her Circumstances",
+    "Kareshi Kanojo no Jijou",
+    "彼氏彼女の事情",
+    "His and Hers",
+    "The Tiger and the Chameleon: A Promise for One Week",
+    "Ashita Mata Mori de Aou ne",
+    "Meet Me Again Tomorrow in the Forest",
+    "KKNJ",
+    "Abareru Ousama",
+    "The Raging King"
+  ],
+  "type": "manga",
+  "volumes": 3,
+  "status": "finished",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12374.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2840",
+      "url": "https://anilist.co/anime/2840"
+    },
+    "al_manga": {
+      "id": "2840",
+      "url": "https://anilist.co/manga/2840"
+    }
+  }
+}

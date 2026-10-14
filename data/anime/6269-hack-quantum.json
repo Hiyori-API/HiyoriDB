@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6269,
+  "slug": "hack-quantum",
+  "kind": "anime",
+  "title": ".hack//Quantum",
+  "titles": {
+    "default": ".hack//Quantum",
+    "romaji": ".hack//Quantum",
+    "native": "ドットハック クワンタム"
+  },
+  "synonyms": [
+    ".hack//Quantum",
+    "ドットハック クワンタム"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "winter",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9332.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9332",
+      "url": "https://anilist.co/anime/9332"
+    },
+    "cr": {
+      "id": "hackquantum",
+      "url": "https://www.crunchyroll.com/series/hackquantum"
+    },
+    "k": {
+      "id": "5680",
+      "url": "https://kitsu.io/anime/5680"
+    },
+    "mal": {
+      "id": "9332",
+      "url": "https://myanimelist.net/anime/9332"
+    }
+  }
+}

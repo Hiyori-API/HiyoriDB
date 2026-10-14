@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3692,
+  "slug": "rokumon-tengai-mon-colle-knights",
+  "kind": "anime",
+  "title": "Rokumon Tengai Mon Colle Knights",
+  "titles": {
+    "default": "Rokumon Tengai Mon Colle Knights",
+    "romaji": "Rokumon Tengai Mon Colle Knights",
+    "english": "Mon Colle Knights",
+    "native": "六門天外モンコレナイト"
+  },
+  "synonyms": [
+    "Rokumon Tengai Mon Colle Knights",
+    "Mon Colle Knights",
+    "六門天外モンコレナイト",
+    "Six Gates Far Away Mon Colle Knight",
+    "Les Chevaliers de l'Outre-Monde",
+    "Los Caballeros del Mundo Mon",
+    "Os Cavaleiros de Mon Colle",
+    "Six Gates Faraway Mon Colle Knights",
+    "Rokumon Tengai Monkore Knight"
+  ],
+  "type": "tv",
+  "episodes": 51,
+  "status": "finished",
+  "season": "winter",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4962.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4962",
+      "url": "https://anilist.co/anime/4962"
+    },
+    "cr": {
+      "id": "mon-colle-knights",
+      "url": "https://www.crunchyroll.com/series/mon-colle-knights"
+    },
+    "k": {
+      "id": "3867",
+      "url": "https://kitsu.io/anime/3867"
+    },
+    "mal": {
+      "id": "4962",
+      "url": "https://myanimelist.net/anime/4962"
+    },
+    "t": {
+      "id": "19171",
+      "url": "https://trakt.tv/shows/19171"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2021,
+  "slug": "transformers-car-robots",
+  "kind": "anime",
+  "title": "Transformers: Car Robots",
+  "titles": {
+    "default": "Transformers: Car Robots",
+    "romaji": "Transformers: Car Robots",
+    "english": "Transformers: Robots in Disguise",
+    "native": "トランスフォーマー・カーロボット"
+  },
+  "synonyms": [
+    "Transformers: Car Robots",
+    "Transformers: Robots in Disguise",
+    "トランスフォーマー・カーロボット",
+    "Transformers: A Nova Geração"
+  ],
+  "type": "tv",
+  "episodes": 39,
+  "status": "finished",
+  "season": "spring",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2284.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2284",
+      "url": "https://anilist.co/anime/2284"
+    },
+    "k": {
+      "id": "2069",
+      "url": "https://kitsu.io/anime/2069"
+    },
+    "mal": {
+      "id": "2284",
+      "url": "https://myanimelist.net/anime/2284"
+    },
+    "t": {
+      "id": "20376",
+      "url": "https://trakt.tv/shows/20376"
+    }
+  }
+}

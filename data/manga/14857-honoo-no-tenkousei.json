@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14857,
+  "slug": "honoo-no-tenkousei",
+  "kind": "manga",
+  "title": "Honoo no Tenkousei",
+  "titles": {
+    "default": "Honoo no Tenkousei"
+  },
+  "synonyms": [
+    "HonoTen",
+    "Blazing Transfer Student",
+    "炎の転校生",
+    "Kuro no Kumikyoku",
+    "黒の組曲",
+    "Tenshi wa Yami ni Hohoemu",
+    "Bell ga Nattara",
+    "Cole",
+    "Linda",
+    "Violet"
+  ],
+  "type": "manga",
+  "chapters": 118,
+  "volumes": 12,
+  "status": "finished",
+  "year": 1983,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx48388-V7Jf1uXuMAjB.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2050",
+      "url": "https://anilist.co/anime/2050"
+    },
+    "al_manga": {
+      "id": "2050",
+      "url": "https://anilist.co/manga/2050"
+    }
+  }
+}

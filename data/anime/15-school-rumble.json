@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15,
+  "slug": "school-rumble",
+  "kind": "anime",
+  "title": "School Rumble",
+  "titles": {
+    "default": "School Rumble",
+    "romaji": "School Rumble",
+    "native": "スクールランブル"
+  },
+  "synonyms": [
+    "School Rumble",
+    "スクールランブル"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx24-FY8Y08LrROKE.png"
+  ],
+  "references": {
+    "al": {
+      "id": "24",
+      "url": "https://anilist.co/anime/24"
+    },
+    "cr": {
+      "id": "school-rumble",
+      "url": "https://www.crunchyroll.com/series/school-rumble"
+    },
+    "k": {
+      "id": "15",
+      "url": "https://kitsu.io/anime/15"
+    },
+    "mal": {
+      "id": "24",
+      "url": "https://myanimelist.net/anime/24"
+    },
+    "t": {
+      "id": "31528",
+      "url": "https://trakt.tv/shows/31528"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11885,
+  "slug": "kj-file",
+  "kind": "anime",
+  "title": "KJ File",
+  "titles": {
+    "default": "KJ File",
+    "romaji": "KJ File",
+    "native": "KJファイル"
+  },
+  "synonyms": [
+    "KJ File",
+    "KJファイル",
+    "Kaiju File",
+    "LycoReco",
+    "Lycoris Recoil",
+    "リコリス・リコイル"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx148492-yGnBaNJpYaKu.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "148492",
+      "url": "https://anilist.co/anime/148492"
+    },
+    "mal": {
+      "id": "51773",
+      "url": "https://myanimelist.net/anime/51773"
+    },
+    "tvt": {
+      "id": "kjfile",
+      "url": "http://www.tv-tokyo.co.jp/anime/kjfile"
+    },
+    "yt": {
+      "id": "I_2N7ll8vaM",
+      "url": "https://www.youtube.com/watch?v=I_2N7ll8vaM"
+    }
+  }
+}

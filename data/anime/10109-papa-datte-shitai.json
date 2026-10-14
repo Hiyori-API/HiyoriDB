@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10109,
+  "slug": "papa-datte-shitai",
+  "kind": "anime",
+  "title": "Papa Datte, Shitai",
+  "titles": {
+    "default": "Papa Datte, Shitai",
+    "romaji": "Papa Datte, Shitai",
+    "english": "Even a Dad Still Wants It...",
+    "native": "パパだって、したい"
+  },
+  "synonyms": [
+    "Papa Datte, Shitai",
+    "Even a Dad Still Wants It...",
+    "パパだって、したい",
+    "คุณพ่อคนนี้ขอผมได้ไหม",
+    "Até um Pai Tem Vontade…",
+    "Hasta un Padre Merece...",
+    "Catman Series II",
+    "キャットマン",
+    "Catman",
+    "Catman 2nd Season"
+  ],
+  "type": "ona",
+  "episodes": 8,
+  "status": "finished",
+  "season": "winter",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx106165-stVK5wodJenh.png"
+  ],
+  "references": {
+    "al": {
+      "id": "106165",
+      "url": "https://anilist.co/anime/106165"
+    },
+    "k": {
+      "id": "3602",
+      "url": "https://kitsu.io/anime/3602"
+    },
+    "mal": {
+      "id": "38797",
+      "url": "https://myanimelist.net/anime/38797"
+    }
+  }
+}

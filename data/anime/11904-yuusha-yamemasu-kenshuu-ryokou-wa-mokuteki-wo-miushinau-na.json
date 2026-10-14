@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11904,
+  "slug": "yuusha-yamemasu-kenshuu-ryokou-wa-mokuteki-wo-miushinau-na",
+  "kind": "anime",
+  "title": "Yuusha, Yamemasu: Kenshuu Ryokou wa Mokuteki wo Miushinau na",
+  "titles": {
+    "default": "Yuusha, Yamemasu: Kenshuu Ryokou wa Mokuteki wo Miushinau na",
+    "romaji": "Yuusha, Yamemasu: Kenshuu Ryokou wa Mokuteki wo Miushinau na",
+    "english": "I'm Quitting Heroing: Remember, the Work Trip is First and Foremost a Learning Opportunity",
+    "native": "勇者、辞めます 研修旅行は目的を見失うな"
+  },
+  "synonyms": [
+    "Yuusha, Yamemasu: Kenshuu Ryokou wa Mokuteki wo Miushinau na",
+    "I'm Quitting Heroing: Remember, the Work Trip is First and Foremost a Learning Opportunity",
+    "勇者、辞めます 研修旅行は目的を見失うな",
+    "I'm Quitting Heroing: Don't Lose Sight of Why We Took This Research Trip",
+    "I'm Quitting Heroing OVA",
+    "Gravitation: Lyrics of Love",
+    "グラビテーション"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151126-cyEV9s8Fz3Nu.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "151126",
+      "url": "https://anilist.co/anime/151126"
+    },
+    "k": {
+      "id": "466",
+      "url": "https://kitsu.io/anime/466"
+    },
+    "mal": {
+      "id": "51562",
+      "url": "https://myanimelist.net/anime/51562"
+    },
+    "tx": {
+      "id": "yuuyame_anime",
+      "url": "https://twitter.com/yuuyame_anime"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1990,
+  "slug": "amon-saga",
+  "kind": "anime",
+  "title": "Amon Saga",
+  "titles": {
+    "default": "Amon Saga",
+    "romaji": "Amon Saga",
+    "native": "アモン・サーガ"
+  },
+  "synonyms": [
+    "Amon Saga",
+    "アモン・サーガ"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2249-PJ6vLuBggx3g.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2249",
+      "url": "https://anilist.co/anime/2249"
+    },
+    "k": {
+      "id": "2037",
+      "url": "https://kitsu.io/anime/2037"
+    },
+    "mal": {
+      "id": "2249",
+      "url": "https://myanimelist.net/anime/2249"
+    }
+  }
+}

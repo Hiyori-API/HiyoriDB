@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5757,
+  "slug": "koukaku-kidoutai-stand-alone-complex-tachikoma-na-hibi",
+  "kind": "anime",
+  "title": "Koukaku Kidoutai: STAND ALONE COMPLEX - Tachikoma na Hibi",
+  "titles": {
+    "default": "Koukaku Kidoutai: STAND ALONE COMPLEX - Tachikoma na Hibi",
+    "romaji": "Koukaku Kidoutai: STAND ALONE COMPLEX - Tachikoma na Hibi",
+    "english": "Ghost in the Shell: Stand Alone Complex: Tachikomatic Days",
+    "native": "攻殻機動隊 STAND ALONE COMPLEX タチコマな日々"
+  },
+  "synonyms": [
+    "Koukaku Kidoutai: STAND ALONE COMPLEX - Tachikoma na Hibi",
+    "Ghost in the Shell: Stand Alone Complex: Tachikomatic Days",
+    "攻殻機動隊 STAND ALONE COMPLEX タチコマな日々",
+    "Ghost in the Shell: Stand Alone Complex - Tachikoma na Hibi Specials",
+    "Ghost in the Shell: Stand Alone Complex - Tachikoma na Hibi (TV)"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10870.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10870",
+      "url": "https://anilist.co/anime/10870"
+    },
+    "k": {
+      "id": "1190",
+      "url": "https://kitsu.io/anime/1190"
+    },
+    "mal": {
+      "id": "10870",
+      "url": "https://myanimelist.net/anime/10870"
+    }
+  }
+}

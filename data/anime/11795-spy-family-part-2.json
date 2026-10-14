@@ -1,0 +1,63 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11795,
+  "slug": "spy-family-part-2",
+  "kind": "anime",
+  "title": "SPY×FAMILY Part 2",
+  "titles": {
+    "default": "SPY×FAMILY Part 2",
+    "romaji": "SPY×FAMILY Part 2",
+    "english": "SPY x FAMILY Cour 2",
+    "native": "SPY×FAMILY 第2クール"
+  },
+  "synonyms": [
+    "SPY×FAMILY Part 2",
+    "SPY x FAMILY Cour 2",
+    "SPY×FAMILY 第2クール",
+    "SxF",
+    "스파이 패밀리",
+    "间谍过家家",
+    "スパイファミリー 2クール",
+    "Twin Love",
+    "Futakoi",
+    "双恋"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142838-26JrqcFU1ljB.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "142838",
+      "url": "https://anilist.co/anime/142838"
+    },
+    "cr": {
+      "id": "series/G4PH0WXVJ/spy-x-family",
+      "url": "https://www.crunchyroll.com/series/series/G4PH0WXVJ/spy-x-family"
+    },
+    "k": {
+      "id": "104",
+      "url": "https://kitsu.io/anime/104"
+    },
+    "mal": {
+      "id": "50602",
+      "url": "https://myanimelist.net/anime/50602"
+    },
+    "nf": {
+      "id": "81511410",
+      "url": "https://www.netflix.com/title/81511410"
+    },
+    "t": {
+      "id": "34677",
+      "url": "https://trakt.tv/shows/34677"
+    },
+    "tx": {
+      "id": "spyfamily_en",
+      "url": "https://twitter.com/spyfamily_anime"
+    }
+  }
+}

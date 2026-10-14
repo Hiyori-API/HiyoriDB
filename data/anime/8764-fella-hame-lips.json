@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8764,
+  "slug": "fella-hame-lips",
+  "kind": "anime",
+  "title": "Fella Hame Lips",
+  "titles": {
+    "default": "Fella Hame Lips",
+    "romaji": "Fella Hame Lips",
+    "native": "フェラハメりっぷす"
+  },
+  "synonyms": [
+    "Fella Hame Lips",
+    "フェラハメりっぷす",
+    "Gintama° OVA",
+    "Gintama: Love Incense Arc",
+    "銀魂　愛染香篇",
+    "Gintama°: Aizome Kaori-hen"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx21785-ORbg3V81ivIf.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21785",
+      "url": "https://anilist.co/anime/21785"
+    },
+    "mal": {
+      "id": "33231",
+      "url": "https://myanimelist.net/anime/33231"
+    }
+  }
+}

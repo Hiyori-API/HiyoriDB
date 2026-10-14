@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15012,
+  "slug": "chokin-senshi-cashman",
+  "kind": "manga",
+  "title": "Chokin Senshi Cashman",
+  "titles": {
+    "default": "Chokin Senshi Cashman"
+  },
+  "synonyms": [
+    "Cashman - Saving Soldier",
+    "貯金戦士CASHMAN",
+    "Cashman - Der Krieger der Sparbüchse",
+    "Soldier of Savings Cashman",
+    "貯金戦士キャッシュマン",
+    "Shouryou Tsukai Elementalors",
+    "精霊使いエレメンタラー",
+    "Elementalors",
+    "Shouryou Tsukai Erementara",
+    "les Elémentalistes"
+  ],
+  "type": "manga",
+  "chapters": 3,
+  "status": "finished",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx134352-WZ34g9sF34yE.png"
+  ],
+  "references": {
+    "al": {
+      "id": "6484",
+      "url": "https://anilist.co/anime/6484"
+    },
+    "al_manga": {
+      "id": "6484",
+      "url": "https://anilist.co/manga/6484"
+    }
+  }
+}

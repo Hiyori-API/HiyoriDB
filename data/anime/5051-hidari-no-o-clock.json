@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5051,
+  "slug": "hidari-no-o-clock",
+  "kind": "anime",
+  "title": "Hidari no O'Clock!!",
+  "titles": {
+    "default": "Hidari no O'Clock!!",
+    "romaji": "Hidari no O'Clock!!",
+    "native": "左のオクロック!!"
+  },
+  "synonyms": [
+    "Hidari no O'Clock!!",
+    "左のオクロック!!"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8967.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8967",
+      "url": "https://anilist.co/anime/8967"
+    },
+    "k": {
+      "id": "5558",
+      "url": "https://kitsu.io/anime/5558"
+    },
+    "mal": {
+      "id": "8967",
+      "url": "https://myanimelist.net/anime/8967"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1425,
+  "slug": "salaryman-kintarou",
+  "kind": "anime",
+  "title": "Salaryman Kintarou",
+  "titles": {
+    "default": "Salaryman Kintarou",
+    "romaji": "Salaryman Kintarou",
+    "english": "SALARYMAN KINTARO",
+    "native": "サラリーマン金太郎"
+  },
+  "synonyms": [
+    "Salaryman Kintarou",
+    "SALARYMAN KINTARO",
+    "サラリーマン金太郎",
+    "Sarariiman Kintarô"
+  ],
+  "type": "tv",
+  "episodes": 20,
+  "status": "finished",
+  "season": "winter",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1608-UO5MGV8aLKng.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1608",
+      "url": "https://anilist.co/anime/1608"
+    },
+    "k": {
+      "id": "1447",
+      "url": "https://kitsu.io/anime/1447"
+    },
+    "mal": {
+      "id": "1608",
+      "url": "https://myanimelist.net/anime/1608"
+    },
+    "t": {
+      "id": "55028",
+      "url": "https://trakt.tv/shows/55028"
+    }
+  }
+}

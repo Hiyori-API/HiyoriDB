@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14592,
+  "slug": "litchi-hikari-club",
+  "kind": "manga",
+  "title": "Litchi☆Hikari Club",
+  "titles": {
+    "default": "Litchi☆Hikari Club"
+  },
+  "synonyms": [
+    "Raichi Hikari Club",
+    "Hikari Club, il club della luce",
+    "Litchi Hikari Club",
+    "Lychee Light Club",
+    "ライチ☆光クラブ",
+    "Renai Soukanzu",
+    "恋愛相姦図",
+    "Renai Sokanzu",
+    "Pink Sweets"
+  ],
+  "type": "manga",
+  "chapters": 9,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx35709-C2JDfrqKNrYo.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "15045",
+      "url": "https://anilist.co/anime/15045"
+    },
+    "al_manga": {
+      "id": "15045",
+      "url": "https://anilist.co/manga/15045"
+    }
+  }
+}

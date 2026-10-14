@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4434,
+  "slug": "ef-a-tale-of-memories-recollections",
+  "kind": "anime",
+  "title": "ef: a tale of memories. - Recollections",
+  "titles": {
+    "default": "ef: a tale of memories. - Recollections",
+    "romaji": "ef: a tale of memories. - Recollections",
+    "english": "ef ~ A Tale of Melodies - Recollections",
+    "native": "ef - a tale of memories. ~Recollections~"
+  },
+  "synonyms": [
+    "ef: a tale of memories. - Recollections",
+    "ef ~ A Tale of Melodies - Recollections",
+    "ef - a tale of memories. ~Recollections~",
+    "ef: A Tale of Memories. - Recollections"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6783.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6783",
+      "url": "https://anilist.co/anime/6783"
+    },
+    "k": {
+      "id": "4713",
+      "url": "https://kitsu.io/anime/4713"
+    },
+    "mal": {
+      "id": "6783",
+      "url": "https://myanimelist.net/anime/6783"
+    }
+  }
+}

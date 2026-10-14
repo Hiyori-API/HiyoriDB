@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15027,
+  "slug": "oh-my-konbu",
+  "kind": "manga",
+  "title": "OH! MY Konbu",
+  "titles": {
+    "default": "OH! MY Konbu"
+  },
+  "synonyms": [
+    "OH!MYコンブ",
+    "Baby & Me",
+    "Akachan to Boku",
+    "赤ちゃんと僕",
+    "AkaBoku",
+    "Baby and Me",
+    "Time Limit",
+    "Secret Boy ni Tee Dasuna!!",
+    "Baka de Karukute Wagamama de",
+    "Natsu to Kimi no Irradiation"
+  ],
+  "type": "manga",
+  "volumes": 12,
+  "status": "finished",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx92200-ZXaEEsvEqxSc.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "126620",
+      "url": "https://anilist.co/anime/126620"
+    },
+    "al_manga": {
+      "id": "126620",
+      "url": "https://anilist.co/manga/126620"
+    }
+  }
+}

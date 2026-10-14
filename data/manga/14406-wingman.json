@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14406,
+  "slug": "wingman",
+  "kind": "manga",
+  "title": "Wingman",
+  "titles": {
+    "default": "Wingman"
+  },
+  "synonyms": [
+    "Yume Senshi Wingman",
+    "Dream Soldier Wingman",
+    "ウイングマン",
+    "Kuro no Kumikyoku",
+    "黒の組曲",
+    "Tenshi wa Yami ni Hohoemu",
+    "Bell ga Nattara",
+    "Cole",
+    "Linda",
+    "Violet"
+  ],
+  "type": "manga",
+  "chapters": 113,
+  "volumes": 13,
+  "status": "finished",
+  "year": 1983,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33390-E2NKoFctzFF9.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3021",
+      "url": "https://anilist.co/anime/3021"
+    },
+    "al_manga": {
+      "id": "3021",
+      "url": "https://anilist.co/manga/3021"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4945,
+  "slug": "hoero-bunbun-movie",
+  "kind": "anime",
+  "title": "Hoero Bunbun (Movie)",
+  "titles": {
+    "default": "Hoero Bunbun (Movie)",
+    "romaji": "Hoero Bunbun (Movie)",
+    "native": "ほえろブンブン (Movie)"
+  },
+  "synonyms": [
+    "Hoero Bunbun (Movie)",
+    "ほえろブンブン (Movie)",
+    "Hoero! Bun Bun Special",
+    "Bark! Bun Bun Special",
+    "Yap! Bun Bun",
+    "Piesek BUM BUM",
+    "Hoero! Bun Bun (Movie)",
+    "ほえろブンブン"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b10509-nbUXWoOjnl14.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10509",
+      "url": "https://anilist.co/anime/10509"
+    },
+    "k": {
+      "id": "6214",
+      "url": "https://kitsu.io/anime/6214"
+    },
+    "mal": {
+      "id": "10509",
+      "url": "https://myanimelist.net/anime/10509"
+    }
+  }
+}

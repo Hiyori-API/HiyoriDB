@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15736,
+  "slug": "shocking-pink",
+  "kind": "manga",
+  "title": "Shocking Pink!",
+  "titles": {
+    "default": "Shocking Pink!"
+  },
+  "synonyms": [
+    "Pink Shock",
+    "Shocking Pink!",
+    "ショッキングピンク！",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "chapters": 12,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/16336.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10488",
+      "url": "https://anilist.co/anime/10488"
+    },
+    "al_manga": {
+      "id": "10488",
+      "url": "https://anilist.co/manga/10488"
+    }
+  }
+}

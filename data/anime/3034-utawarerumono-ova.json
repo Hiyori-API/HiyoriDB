@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3034,
+  "slug": "utawarerumono-ova",
+  "kind": "anime",
+  "title": "Utawarerumono OVA",
+  "titles": {
+    "default": "Utawarerumono OVA",
+    "romaji": "Utawarerumono OVA",
+    "native": "うたわれるもの OVA"
+  },
+  "synonyms": [
+    "Utawarerumono OVA",
+    "うたわれるもの OVA",
+    "Utawareru Mono OVA",
+    "The One Being Sung OVA",
+    "OVA うたわれるもの"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "summer",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3593-lrUl1POvVtKT.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3593",
+      "url": "https://anilist.co/anime/3593"
+    },
+    "k": {
+      "id": "3129",
+      "url": "https://kitsu.io/anime/3129"
+    },
+    "mal": {
+      "id": "3593",
+      "url": "https://myanimelist.net/anime/3593"
+    }
+  }
+}

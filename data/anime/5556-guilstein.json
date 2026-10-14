@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5556,
+  "slug": "guilstein",
+  "kind": "anime",
+  "title": "Guilstein",
+  "titles": {
+    "default": "Guilstein",
+    "romaji": "Guilstein",
+    "native": "ギルスティン"
+  },
+  "synonyms": [
+    "Guilstein",
+    "ギルスティン",
+    "The Cat Returns",
+    "Neko no Ongaeshi",
+    "猫の恩返し",
+    "The Cat's Repayment"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11995.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11995",
+      "url": "https://anilist.co/anime/11995"
+    },
+    "k": {
+      "id": "552",
+      "url": "https://kitsu.io/anime/552"
+    },
+    "mal": {
+      "id": "11995",
+      "url": "https://myanimelist.net/anime/11995"
+    },
+    "nf": {
+      "id": "70019058",
+      "url": "https://www.netflix.com/title/70019058"
+    }
+  }
+}

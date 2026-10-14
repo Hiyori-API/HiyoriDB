@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10784,
+  "slug": "mittsu-no-hanashi",
+  "kind": "anime",
+  "title": "Mittsu no Hanashi",
+  "titles": {
+    "default": "Mittsu no Hanashi",
+    "romaji": "Mittsu no Hanashi",
+    "native": "新しい動画 3つのはなし"
+  },
+  "synonyms": [
+    "Mittsu no Hanashi",
+    "新しい動画 3つのはなし",
+    "Three Tales",
+    "3-tsu no Hanashi",
+    "3-tsu no Hanashi Atarashii Douga"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1960,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8774.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8774",
+      "url": "https://anilist.co/anime/8774"
+    },
+    "k": {
+      "id": "5490",
+      "url": "https://kitsu.io/anime/5490"
+    },
+    "mal": {
+      "id": "8774",
+      "url": "https://myanimelist.net/anime/8774"
+    }
+  }
+}

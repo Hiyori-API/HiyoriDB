@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 495,
+  "slug": "slayers",
+  "kind": "anime",
+  "title": "Slayers",
+  "titles": {
+    "default": "Slayers",
+    "romaji": "Slayers",
+    "english": "The Slayers",
+    "native": "スレイヤーズ"
+  },
+  "synonyms": [
+    "Slayers",
+    "The Slayers",
+    "スレイヤーズ",
+    "Slayers TV",
+    "Un incantesimo dischiuso tra i petali del tempo per Rina",
+    "Рубаки",
+    "Magiczni wojownicy"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx534-BPGH9zsSFPm3.png"
+  ],
+  "references": {
+    "al": {
+      "id": "534",
+      "url": "https://anilist.co/anime/534"
+    },
+    "cr": {
+      "id": "the-slayers",
+      "url": "https://www.crunchyroll.com/series/the-slayers"
+    },
+    "k": {
+      "id": "493",
+      "url": "https://kitsu.io/anime/493"
+    },
+    "mal": {
+      "id": "534",
+      "url": "https://myanimelist.net/anime/534"
+    },
+    "t": {
+      "id": "42704",
+      "url": "https://trakt.tv/shows/42704"
+    }
+  }
+}

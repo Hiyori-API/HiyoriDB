@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7418,
+  "slug": "hontou-ni-atta-hitozuma-furin-kokuhaku",
+  "kind": "anime",
+  "title": "Hontou ni Atta Hitozuma Furin Kokuhaku",
+  "titles": {
+    "default": "Hontou ni Atta Hitozuma Furin Kokuhaku",
+    "romaji": "Hontou ni Atta Hitozuma Furin Kokuhaku",
+    "native": "本当にあった人妻不倫告白"
+  },
+  "synonyms": [
+    "Hontou ni Atta Hitozuma Furin Kokuhaku",
+    "本当にあった人妻不倫告白",
+    "A True Story: Immoral Confession of a Married Woman",
+    "Kamisama Hajimemashita OVA",
+    "神様はじめました",
+    "Kami-sama Hajimemashita OVA",
+    "Kamisama Kiss OVA"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19635.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "19635",
+      "url": "https://anilist.co/anime/19635"
+    },
+    "k": {
+      "id": "7901",
+      "url": "https://kitsu.io/anime/7901"
+    },
+    "mal": {
+      "id": "19635",
+      "url": "https://myanimelist.net/anime/19635"
+    },
+    "t": {
+      "id": "67789",
+      "url": "https://trakt.tv/shows/67789"
+    }
+  }
+}

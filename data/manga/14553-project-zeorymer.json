@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14553,
+  "slug": "project-zeorymer",
+  "kind": "manga",
+  "title": "Project Zeorymer",
+  "titles": {
+    "default": "Project Zeorymer"
+  },
+  "synonyms": [
+    "Zeorymer",
+    "Meioh Keikaku Zeorymer",
+    "Zeoraymer",
+    "Hades Project Zeorymer",
+    "Meiou Keikaku Zeorymer",
+    "冥王計画ゼオライマー",
+    "Kuro no Kumikyoku",
+    "黒の組曲",
+    "Tenshi wa Yami ni Hohoemu",
+    "Bell ga Nattara",
+    "Cole",
+    "Linda",
+    "Violet"
+  ],
+  "type": "manga",
+  "chapters": 5,
+  "volumes": 1,
+  "status": "finished",
+  "year": 1983,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx35192-WK2QrzSpBcpY.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1832",
+      "url": "https://anilist.co/anime/1832"
+    },
+    "al_manga": {
+      "id": "1832",
+      "url": "https://anilist.co/manga/1832"
+    }
+  }
+}

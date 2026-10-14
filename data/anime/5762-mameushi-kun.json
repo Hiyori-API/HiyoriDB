@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5762,
+  "slug": "mameushi-kun",
+  "kind": "anime",
+  "title": "Mameushi-kun",
+  "titles": {
+    "default": "Mameushi-kun",
+    "romaji": "Mameushi-kun",
+    "native": "まめうしくん"
+  },
+  "synonyms": [
+    "Mameushi-kun",
+    "まめうしくん",
+    "Les Misérables: Shoujo Cosette",
+    "レ・ミゼラブル 少女コゼット",
+    "Les Miserables: Shoujo Cosette"
+  ],
+  "type": "tv",
+  "episodes": 52,
+  "status": "finished",
+  "season": "fall",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12185-A7faCfY6eINA.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12185",
+      "url": "https://anilist.co/anime/12185"
+    },
+    "k": {
+      "id": "1523",
+      "url": "https://kitsu.io/anime/1523"
+    },
+    "mal": {
+      "id": "12185",
+      "url": "https://myanimelist.net/anime/12185"
+    },
+    "t": {
+      "id": "62687",
+      "url": "https://trakt.tv/shows/62687"
+    }
+  }
+}

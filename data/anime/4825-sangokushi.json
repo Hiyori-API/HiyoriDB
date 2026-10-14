@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4825,
+  "slug": "sangokushi",
+  "kind": "anime",
+  "title": "Sangokushi",
+  "titles": {
+    "default": "Sangokushi",
+    "romaji": "Sangokushi",
+    "native": "三国志"
+  },
+  "synonyms": [
+    "Sangokushi",
+    "三国志",
+    "Three Kingdoms",
+    "Wagahai wa Neko de Aru",
+    "吾輩は猫である",
+    "I Am a Cat"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1982,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b151499-zVM6zxWCRnpE.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "151499",
+      "url": "https://anilist.co/anime/151499"
+    },
+    "k": {
+      "id": "9691",
+      "url": "https://kitsu.io/anime/9691"
+    },
+    "mal": {
+      "id": "22973",
+      "url": "https://myanimelist.net/anime/22973"
+    }
+  }
+}

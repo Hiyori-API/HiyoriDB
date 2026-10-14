@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5685,
+  "slug": "kumo-no-gakkou",
+  "kind": "anime",
+  "title": "Kumo no Gakkou",
+  "titles": {
+    "default": "Kumo no Gakkou",
+    "romaji": "Kumo no Gakkou",
+    "native": "雲の学校"
+  },
+  "synonyms": [
+    "Kumo no Gakkou",
+    "雲の学校",
+    "Case Closed Movie 09: Strategy Above the Depths",
+    "Detective Conan Movie 09: Strategy Above the Depths",
+    "名探偵コナン　水平線上の陰謀",
+    "Detective Conan - Strategy Above the Depths",
+    "Meitantei Conan: Suihei Senjou no Sutoratejii"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129817-JRhpZ4q7m6Km.png"
+  ],
+  "references": {
+    "al": {
+      "id": "129817",
+      "url": "https://anilist.co/anime/129817"
+    },
+    "k": {
+      "id": "1351",
+      "url": "https://kitsu.io/anime/1351"
+    },
+    "mal": {
+      "id": "34744",
+      "url": "https://myanimelist.net/anime/34744"
+    }
+  }
+}

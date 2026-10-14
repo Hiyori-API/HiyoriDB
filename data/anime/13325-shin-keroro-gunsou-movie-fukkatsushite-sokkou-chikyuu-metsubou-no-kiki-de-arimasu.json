@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13325,
+  "slug": "shin-keroro-gunsou-movie-fukkatsushite-sokkou-chikyuu-metsubou-no-kiki-de-arimasu",
+  "kind": "anime",
+  "title": "Shin Keroro Gunsou Movie: Fukkatsushite Sokkou Chikyuu Metsubou no Kiki de Arimasu!",
+  "titles": {
+    "default": "Shin Keroro Gunsou Movie: Fukkatsushite Sokkou Chikyuu Metsubou no Kiki de Arimasu!",
+    "romaji": "Shin Keroro Gunsou Movie: Fukkatsushite Sokkou Chikyuu Metsubou no Kiki de Arimasu!",
+    "native": "新劇場版 ケロロ軍曹 復活して速攻地球滅亡の危機であります！"
+  },
+  "synonyms": [
+    "Shin Keroro Gunsou Movie: Fukkatsushite Sokkou Chikyuu Metsubou no Kiki de Arimasu!",
+    "新劇場版 ケロロ軍曹 復活して速攻地球滅亡の危機であります！",
+    "Sgt. Frog Movie",
+    "劇場版 ケロロ軍曹",
+    "Appleseed (Movie)",
+    "アップルシード",
+    "Appleseed (2004)"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176636-zPyFoYfFYZLo.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "176636",
+      "url": "https://anilist.co/anime/176636"
+    },
+    "k": {
+      "id": "35",
+      "url": "https://kitsu.io/anime/35"
+    },
+    "mal": {
+      "id": "58773",
+      "url": "https://myanimelist.net/anime/58773"
+    },
+    "tx": {
+      "id": "keroro_anime",
+      "url": "https://twitter.com/keroro_anime"
+    }
+  }
+}

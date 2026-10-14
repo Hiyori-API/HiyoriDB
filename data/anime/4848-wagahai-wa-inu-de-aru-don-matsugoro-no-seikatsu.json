@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4848,
+  "slug": "wagahai-wa-inu-de-aru-don-matsugoro-no-seikatsu",
+  "kind": "anime",
+  "title": "Wagahai wa Inu de Aru: Don Matsugoro no Seikatsu",
+  "titles": {
+    "default": "Wagahai wa Inu de Aru: Don Matsugoro no Seikatsu",
+    "romaji": "Wagahai wa Inu de Aru: Don Matsugoro no Seikatsu",
+    "native": "吾輩は犬である ドン松五郎の生活"
+  },
+  "synonyms": [
+    "Wagahai wa Inu de Aru: Don Matsugoro no Seikatsu",
+    "吾輩は犬である ドン松五郎の生活",
+    "Wagahai wa Inu de Aru: Don Matsugoro no Monogatari",
+    "I Am A Dog: The Story of Don Matsugoro",
+    "I Am A Dog: Don Matsugorou's Life",
+    "Doraemon: It's Spring!",
+    "春だ！一番ドラえもん祭り",
+    "Haru da! Ichiban Doraemon Matsuri"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1983,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b153395-k0wAJrm2ksXR.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "153395",
+      "url": "https://anilist.co/anime/153395"
+    },
+    "k": {
+      "id": "2402",
+      "url": "https://kitsu.io/anime/2402"
+    },
+    "mal": {
+      "id": "24447",
+      "url": "https://myanimelist.net/anime/24447"
+    }
+  }
+}

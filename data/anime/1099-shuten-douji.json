@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1099,
+  "slug": "shuten-douji",
+  "kind": "anime",
+  "title": "Shuten Douji",
+  "titles": {
+    "default": "Shuten Douji",
+    "romaji": "Shuten Douji",
+    "english": "Shuten Doji - The Star Hand Kid",
+    "native": "手天童子"
+  },
+  "synonyms": [
+    "Shuten Douji",
+    "Shuten Doji - The Star Hand Kid",
+    "手天童子",
+    "Shuten Doji",
+    "Star Demon"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "fall",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx1227-pTx6nWdjBH2J.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1227",
+      "url": "https://anilist.co/anime/1227"
+    },
+    "k": {
+      "id": "1104",
+      "url": "https://kitsu.io/anime/1104"
+    },
+    "mal": {
+      "id": "1227",
+      "url": "https://myanimelist.net/anime/1227"
+    }
+  }
+}

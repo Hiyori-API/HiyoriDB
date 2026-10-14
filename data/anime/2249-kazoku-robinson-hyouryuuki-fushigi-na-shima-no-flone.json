@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2249,
+  "slug": "kazoku-robinson-hyouryuuki-fushigi-na-shima-no-flone",
+  "kind": "anime",
+  "title": "Kazoku Robinson Hyouryuuki: Fushigi na Shima no Flone",
+  "titles": {
+    "default": "Kazoku Robinson Hyouryuuki: Fushigi na Shima no Flone",
+    "romaji": "Kazoku Robinson Hyouryuuki: Fushigi na Shima no Flone",
+    "english": "Swiss Family Robinson",
+    "native": "家族ロビンソン漂流記ふしぎな島のフローネ"
+  },
+  "synonyms": [
+    "Kazoku Robinson Hyouryuuki: Fushigi na Shima no Flone",
+    "Swiss Family Robinson",
+    "家族ロビンソン漂流記ふしぎな島のフローネ",
+    "Sekai Meisaku Gekijou",
+    "Robinson Family Lost at Sea: Flone of the Marvelous Island",
+    "World Masterpiece Theater",
+    "WMT",
+    "عائلة روبنسون السويسرية",
+    "فلونة",
+    "The Swiss Family Robinson: Flone of the Mysterious Island",
+    "Swiss Family Robinson (TV)"
+  ],
+  "type": "tv",
+  "episodes": 50,
+  "status": "finished",
+  "season": "winter",
+  "year": 1981,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2544.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2544",
+      "url": "https://anilist.co/anime/2544"
+    },
+    "k": {
+      "id": "2309",
+      "url": "https://kitsu.io/anime/2309"
+    },
+    "mal": {
+      "id": "2544",
+      "url": "https://myanimelist.net/anime/2544"
+    },
+    "t": {
+      "id": "37641",
+      "url": "https://trakt.tv/shows/37641"
+    },
+    "ttv": {
+      "id": "300008224",
+      "url": "https://tubitv.com/series/300008224"
+    }
+  }
+}

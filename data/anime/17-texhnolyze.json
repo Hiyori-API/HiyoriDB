@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 17,
+  "slug": "texhnolyze",
+  "kind": "anime",
+  "title": "TEXHNOLYZE",
+  "titles": {
+    "default": "TEXHNOLYZE",
+    "romaji": "TEXHNOLYZE",
+    "english": "Texhnolyze"
+  },
+  "synonyms": [
+    "TEXHNOLYZE",
+    "Texhnolyze",
+    "テクノライズ",
+    "Technolyze"
+  ],
+  "type": "tv",
+  "episodes": 22,
+  "status": "finished",
+  "season": "spring",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx26-ADSztyHBNO39.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "26",
+      "url": "https://anilist.co/anime/26"
+    },
+    "cr": {
+      "id": "texhnolyze",
+      "url": "https://www.crunchyroll.com/series/texhnolyze"
+    },
+    "k": {
+      "id": "17",
+      "url": "https://kitsu.io/anime/17"
+    },
+    "mal": {
+      "id": "26",
+      "url": "https://myanimelist.net/anime/26"
+    },
+    "t": {
+      "id": "8792",
+      "url": "https://trakt.tv/shows/8792"
+    }
+  }
+}

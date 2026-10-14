@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2301,
+  "slug": "juusenki-l-gaim",
+  "kind": "anime",
+  "title": "Juusenki L-Gaim",
+  "titles": {
+    "default": "Juusenki L-Gaim",
+    "romaji": "Juusenki L-Gaim",
+    "english": "Heavy Metal L-Gaim",
+    "native": "重戦機エルガイム"
+  },
+  "synonyms": [
+    "Juusenki L-Gaim",
+    "Heavy Metal L-Gaim",
+    "重戦機エルガイム"
+  ],
+  "type": "tv",
+  "episodes": 54,
+  "status": "finished",
+  "season": "winter",
+  "year": 1984,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2598-cnuraEHNmj4x.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2598",
+      "url": "https://anilist.co/anime/2598"
+    },
+    "k": {
+      "id": "2362",
+      "url": "https://kitsu.io/anime/2362"
+    },
+    "mal": {
+      "id": "2598",
+      "url": "https://myanimelist.net/anime/2598"
+    },
+    "t": {
+      "id": "9381",
+      "url": "https://trakt.tv/shows/9381"
+    }
+  }
+}

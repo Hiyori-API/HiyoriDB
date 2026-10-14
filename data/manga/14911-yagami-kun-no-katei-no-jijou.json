@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14911,
+  "slug": "yagami-kun-no-katei-no-jijou",
+  "kind": "manga",
+  "title": "Yagami-kun no Katei no Jijou",
+  "titles": {
+    "default": "Yagami-kun no Katei no Jijou"
+  },
+  "synonyms": [
+    "Yagami-kun's Family Affairs",
+    "八神くんの家庭の事情",
+    "Nemureru Mori no Binan",
+    "眠れる森美男",
+    "Sleeping Beauty Boy",
+    "The Handsome Man in the Sleeping Woods",
+    "The Sleeping Beauty Man",
+    "The Sleeping Male Beauty in the Woods"
+  ],
+  "type": "manga",
+  "volumes": 7,
+  "status": "finished",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx49329-LmsNNlZE3tqi.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4537",
+      "url": "https://anilist.co/anime/4537"
+    },
+    "al_manga": {
+      "id": "4537",
+      "url": "https://anilist.co/manga/4537"
+    }
+  }
+}

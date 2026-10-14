@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4732,
+  "slug": "gowappa-5-gordam",
+  "kind": "anime",
+  "title": "Gowappa 5 Gordam",
+  "titles": {
+    "default": "Gowappa 5 Gordam",
+    "romaji": "Gowappa 5 Gordam",
+    "english": "Goliath the Super Fighter",
+    "native": "ゴワッパー5ゴーダム"
+  },
+  "synonyms": [
+    "Gowappa 5 Gordam",
+    "Goliath the Super Fighter",
+    "ゴワッパー5ゴーダム",
+    "Godam",
+    "Go Wapper 5 Go Dam",
+    "Gowapper-5 Godam",
+    "Gowapper 5 Gordam",
+    "Gowappa 5 Godam"
+  ],
+  "type": "tv",
+  "episodes": 36,
+  "status": "finished",
+  "season": "spring",
+  "year": 1976,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx7551-52u43ns3VpXR.png"
+  ],
+  "references": {
+    "al": {
+      "id": "7551",
+      "url": "https://anilist.co/anime/7551"
+    },
+    "k": {
+      "id": "5027",
+      "url": "https://kitsu.io/anime/5027"
+    },
+    "mal": {
+      "id": "7551",
+      "url": "https://myanimelist.net/anime/7551"
+    }
+  }
+}

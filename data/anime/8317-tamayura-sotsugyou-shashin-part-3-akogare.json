@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8317,
+  "slug": "tamayura-sotsugyou-shashin-part-3-akogare",
+  "kind": "anime",
+  "title": "Tamayura: Sotsugyou Shashin Part 3 - Akogare",
+  "titles": {
+    "default": "Tamayura: Sotsugyou Shashin Part 3 - Akogare",
+    "romaji": "Tamayura: Sotsugyou Shashin Part 3 - Akogare",
+    "native": "たまゆら～卒業写真～　第3部 憧-あこがれ-"
+  },
+  "synonyms": [
+    "Tamayura: Sotsugyou Shashin Part 3 - Akogare",
+    "たまゆら～卒業写真～　第3部 憧-あこがれ-",
+    "Little Witch Academia: The Enchanted Parade",
+    "Little Witch Academia: Mahoujikake no Parade",
+    "リトルウィッチアカデミア 魔法仕掛けのパレード",
+    "LWA 2",
+    "Little Witch Academia 2"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21324-aJ2iuzAKmsWU.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21324",
+      "url": "https://anilist.co/anime/21324"
+    },
+    "k": {
+      "id": "7862",
+      "url": "https://kitsu.io/anime/7862"
+    },
+    "mal": {
+      "id": "29830",
+      "url": "https://myanimelist.net/anime/29830"
+    },
+    "tx": {
+      "id": "tamayura_tweet",
+      "url": "https://twitter.com/tamayura_tweet"
+    }
+  }
+}

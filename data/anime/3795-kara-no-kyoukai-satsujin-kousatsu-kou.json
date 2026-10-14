@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3795,
+  "slug": "kara-no-kyoukai-satsujin-kousatsu-kou",
+  "kind": "anime",
+  "title": "Kara no Kyoukai: Satsujin Kousatsu (Kou)",
+  "titles": {
+    "default": "Kara no Kyoukai: Satsujin Kousatsu (Kou)",
+    "romaji": "Kara no Kyoukai: Satsujin Kousatsu (Kou)",
+    "english": "the Garden of sinners Chapter 7: ……not nothing heart. (Murder Speculation Part B)",
+    "native": "空の境界 殺人考察(後)"
+  },
+  "synonyms": [
+    "Kara no Kyoukai: Satsujin Kousatsu (Kou)",
+    "the Garden of sinners Chapter 7: ……not nothing heart. (Murder Speculation Part B)",
+    "空の境界 殺人考察(後)",
+    "The Garden of Sinners: Murder Speculation Part B (...not nothing heart.)",
+    "Naruto Shippuden the Movie: Will of Fire",
+    "Naruto: Shippuuden Movie 3 - Hi no Ishi wo Tsugu Mono",
+    "ナルト- 疾風伝 火の意志を継ぐ者",
+    "Naruto Shippuuden: Gekijouban Naruto Shippuuden: Hi no Ishi o Tsugu Mono",
+    "Naruto Shippuuden Movie 3",
+    "Naruto Movie 6",
+    "Naruto Shippuuden 3: Inheritors of Will of Fire"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5205-kfgpEQI8ERza.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5205",
+      "url": "https://anilist.co/anime/5205"
+    },
+    "cr": {
+      "id": "the-garden-of-sinners/episode-7-murder-speculation-part-b-not-nothing-heart-763181",
+      "url": "https://www.crunchyroll.com/series/the-garden-of-sinners/episode-7-murder-speculation-part-b-not-nothing-heart-763181"
+    },
+    "k": {
+      "id": "4520",
+      "url": "https://kitsu.io/anime/4520"
+    },
+    "mal": {
+      "id": "5205",
+      "url": "https://myanimelist.net/anime/5205"
+    }
+  }
+}

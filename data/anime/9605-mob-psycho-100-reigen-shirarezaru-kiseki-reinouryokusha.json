@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9605,
+  "slug": "mob-psycho-100-reigen-shirarezaru-kiseki-reinouryokusha",
+  "kind": "anime",
+  "title": "Mob Psycho 100 REIGEN: Shirarezaru Kiseki Reinouryokusha",
+  "titles": {
+    "default": "Mob Psycho 100 REIGEN: Shirarezaru Kiseki Reinouryokusha",
+    "romaji": "Mob Psycho 100 REIGEN: Shirarezaru Kiseki Reinouryokusha",
+    "english": "Mob Psycho 100 REIGEN The Miraculous Unknown Psychic",
+    "native": "モブサイコ100 REIGEN ～知られざる奇跡の霊能力者～"
+  },
+  "synonyms": [
+    "Mob Psycho 100 REIGEN: Shirarezaru Kiseki Reinouryokusha",
+    "Mob Psycho 100 REIGEN The Miraculous Unknown Psychic",
+    "モブサイコ100 REIGEN ～知られざる奇跡の霊能力者～",
+    "Моб Психо 100: Рейген — таинственный чудесный экстрасенс",
+    "My Girlfriend is a Faithful Virgin Bitch",
+    "Boku no Kanojo ga Majimesugiru Shojo Bitch na Ken",
+    "My Girlfriend is Shobitch OVA",
+    "僕の彼女がマジメ過ぎるしょびっちな件 OVA",
+    "Boku no Kanojo ga Majimesugiru Sho-bitch na Ken OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100353-6dM62JCho2Yg.png"
+  ],
+  "references": {
+    "al": {
+      "id": "100353",
+      "url": "https://anilist.co/anime/100353"
+    },
+    "cr": {
+      "id": "mob-psycho-100",
+      "url": "https://www.crunchyroll.com/series/mob-psycho-100"
+    },
+    "mal": {
+      "id": "36616",
+      "url": "https://myanimelist.net/anime/36616"
+    },
+    "tx": {
+      "id": "mobpsycho_anime",
+      "url": "https://twitter.com/mobpsycho_anime"
+    }
+  }
+}

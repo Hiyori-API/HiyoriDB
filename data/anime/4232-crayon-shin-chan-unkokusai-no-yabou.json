@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4232,
+  "slug": "crayon-shin-chan-unkokusai-no-yabou",
+  "kind": "anime",
+  "title": "Crayon Shin-chan: Unkokusai no Yabou",
+  "titles": {
+    "default": "Crayon Shin-chan: Unkokusai no Yabou",
+    "romaji": "Crayon Shin-chan: Unkokusai no Yabou",
+    "english": "Crayon Shin-chan: Unkokusai's Ambition",
+    "native": "クレヨンしんちゃん 雲黒斎の野望"
+  },
+  "synonyms": [
+    "Crayon Shin-chan: Unkokusai no Yabou",
+    "Crayon Shin-chan: Unkokusai's Ambition",
+    "クレヨンしんちゃん 雲黒斎の野望",
+    "Eiga Crayon Shin-chan: Unkokusai no Yabou",
+    "Shin Chan y la ambición de Karakaka",
+    "ชินจัง เดอะมูฟวี่ 3 : ความฝักใฝ่ของอูนโคคุซาอิ",
+    "Crayon Shin-chan : Âm Mưu Của Lãnh Chúa Unkokusai",
+    "Crayon Shin-chan Movie 03: Unkokusai no Yabou"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6217.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6217",
+      "url": "https://anilist.co/anime/6217"
+    },
+    "k": {
+      "id": "4480",
+      "url": "https://kitsu.io/anime/4480"
+    },
+    "mal": {
+      "id": "6217",
+      "url": "https://myanimelist.net/anime/6217"
+    }
+  }
+}

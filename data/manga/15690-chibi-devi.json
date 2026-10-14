@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15690,
+  "slug": "chibi-devi",
+  "kind": "manga",
+  "title": "Chibi☆Devi!",
+  "titles": {
+    "default": "Chibi☆Devi!"
+  },
+  "synonyms": [
+    "Chibi Devil!",
+    "ちび☆デビ！",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "chapters": 80,
+  "volumes": 11,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx39131-bbnDFisvTYOt.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11457",
+      "url": "https://anilist.co/anime/11457"
+    },
+    "al_manga": {
+      "id": "11457",
+      "url": "https://anilist.co/manga/11457"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6057,
+  "slug": "mahou-shoujo-isuka",
+  "kind": "anime",
+  "title": "Mahou Shoujo Isuka",
+  "titles": {
+    "default": "Mahou Shoujo Isuka",
+    "romaji": "Mahou Shoujo Isuka",
+    "native": "魔法少女イスカ"
+  },
+  "synonyms": [
+    "Mahou Shoujo Isuka",
+    "魔法少女イスカ",
+    "Magical Girl Isuka",
+    "\"Bungaku Shoujo\" Memoire",
+    "“文学少女”メモワール",
+    "Book Girl: Memoire",
+    "Literature Girl: Memoire"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "spring",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx8653-R6b56KxGaVx6.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8653",
+      "url": "https://anilist.co/anime/8653"
+    },
+    "k": {
+      "id": "5352",
+      "url": "https://kitsu.io/anime/5352"
+    },
+    "mal": {
+      "id": "8653",
+      "url": "https://myanimelist.net/anime/8653"
+    }
+  }
+}

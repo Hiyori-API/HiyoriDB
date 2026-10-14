@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8789,
+  "slug": "time-travel-shoujo-mari-waka-to-8-nin-no-kagakusha-tachi",
+  "kind": "anime",
+  "title": "Time Travel Shoujo: Mari Waka to 8-nin no Kagakusha-tachi",
+  "titles": {
+    "default": "Time Travel Shoujo: Mari Waka to 8-nin no Kagakusha-tachi",
+    "romaji": "Time Travel Shoujo: Mari Waka to 8-nin no Kagakusha-tachi",
+    "english": "Time Travel Girl",
+    "native": "タイムトラベル少女～マリ・ワカと8人の科学者たち～"
+  },
+  "synonyms": [
+    "Time Travel Shoujo: Mari Waka to 8-nin no Kagakusha-tachi",
+    "Time Travel Girl",
+    "タイムトラベル少女～マリ・ワカと8人の科学者たち～",
+    "Mariwaka",
+    "Handa-kun",
+    "はんだくん"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21824-HpGRQlvbgLNW.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21824",
+      "url": "https://anilist.co/anime/21824"
+    },
+    "cr": {
+      "id": "time-travel-girl",
+      "url": "https://www.crunchyroll.com/series/time-travel-girl"
+    },
+    "mal": {
+      "id": "33341",
+      "url": "https://myanimelist.net/anime/33341"
+    },
+    "tx": {
+      "id": "mariwaka_anime",
+      "url": "https://twitter.com/mariwaka_anime"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1988,
+  "slug": "mononoke",
+  "kind": "anime",
+  "title": "Mononoke",
+  "titles": {
+    "default": "Mononoke",
+    "romaji": "Mononoke",
+    "native": "モノノ怪"
+  },
+  "synonyms": [
+    "Mononoke",
+    "モノノ怪"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2246-WHkSkgyuxfgD.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2246",
+      "url": "https://anilist.co/anime/2246"
+    },
+    "cr": {
+      "id": "series/GQWH0M1MK/mononoke",
+      "url": "https://www.crunchyroll.com/series/series/GQWH0M1MK/mononoke"
+    },
+    "k": {
+      "id": "2035",
+      "url": "https://kitsu.io/anime/2035"
+    },
+    "mal": {
+      "id": "2246",
+      "url": "https://myanimelist.net/anime/2246"
+    },
+    "nf": {
+      "id": "80169676",
+      "url": "https://www.netflix.com/title/80169676"
+    },
+    "t": {
+      "id": "16590",
+      "url": "https://trakt.tv/shows/16590"
+    },
+    "ttv": {
+      "id": "1624",
+      "url": "https://tubitv.com/series/1624"
+    }
+  }
+}

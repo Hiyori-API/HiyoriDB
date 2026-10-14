@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8773,
+  "slug": "ameiro-cocoa-in-hawaii",
+  "kind": "anime",
+  "title": "Ameiro Cocoa in Hawaii",
+  "titles": {
+    "default": "Ameiro Cocoa in Hawaii",
+    "romaji": "Ameiro Cocoa in Hawaii",
+    "english": "Rainy Cocoa in Hawaii",
+    "native": "雨色ココア in Hawaii"
+  },
+  "synonyms": [
+    "Ameiro Cocoa in Hawaii",
+    "Rainy Cocoa in Hawaii",
+    "雨色ココア in Hawaii",
+    "Ame-iro Cocoa 3",
+    "Bungo Stray Dogs 2",
+    "文豪ストレイドッグス",
+    "Bungou Stray Dogs 2nd Season"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21797-Uyzr7GQeUaup.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21797",
+      "url": "https://anilist.co/anime/21797"
+    },
+    "mal": {
+      "id": "33245",
+      "url": "https://myanimelist.net/anime/33245"
+    },
+    "tx": {
+      "id": "rainy_cocoa",
+      "url": "https://twitter.com/rainy_cocoa"
+    }
+  }
+}

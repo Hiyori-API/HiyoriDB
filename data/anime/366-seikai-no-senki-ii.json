@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 366,
+  "slug": "seikai-no-senki-ii",
+  "kind": "anime",
+  "title": "Seikai no Senki II",
+  "titles": {
+    "default": "Seikai no Senki II",
+    "romaji": "Seikai no Senki II",
+    "english": "Banner of the Stars II",
+    "native": "星界の戦旗 II"
+  },
+  "synonyms": [
+    "Seikai no Senki II",
+    "Banner of the Stars II",
+    "星界の戦旗 II",
+    "Battle Flag of the Stars II"
+  ],
+  "type": "tv",
+  "episodes": 10,
+  "status": "finished",
+  "season": "summer",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx397-mngW4FJxfPTl.png"
+  ],
+  "references": {
+    "al": {
+      "id": "397",
+      "url": "https://anilist.co/anime/397"
+    },
+    "k": {
+      "id": "364",
+      "url": "https://kitsu.io/anime/364"
+    },
+    "mal": {
+      "id": "397",
+      "url": "https://myanimelist.net/anime/397"
+    },
+    "t": {
+      "id": "26093",
+      "url": "https://trakt.tv/shows/26093"
+    }
+  }
+}

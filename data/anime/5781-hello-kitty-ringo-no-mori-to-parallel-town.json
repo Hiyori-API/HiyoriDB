@@ -1,0 +1,59 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5781,
+  "slug": "hello-kitty-ringo-no-mori-to-parallel-town",
+  "kind": "anime",
+  "title": "Hello Kitty: Ringo no Mori to Parallel Town",
+  "titles": {
+    "default": "Hello Kitty: Ringo no Mori to Parallel Town",
+    "romaji": "Hello Kitty: Ringo no Mori to Parallel Town",
+    "native": "ハローキティ りんごの森とパラレルタウン"
+  },
+  "synonyms": [
+    "Hello Kitty: Ringo no Mori to Parallel Town",
+    "ハローキティ りんごの森とパラレルタウン",
+    "Hello Kitty: Epleskogen og Parallellsonen",
+    "Hello Kitty: Äppelskogen Och Parallella Zonen",
+    "Hello Kitty: Omenapuumetsä ja Lumottu Maa",
+    "Hello Kitty - Æbleskoven Og Parallelzonen",
+    "Hello Kitty - Parallel Town",
+    "Gurren Lagann",
+    "Tengen Toppa Gurren Lagann",
+    "天元突破グレンラガン",
+    "Tengen Toppa Gurren-Lagann",
+    "Making Break-Through Gurren Lagann",
+    "Heavenly Breakthrough Gurren Lagann",
+    "TTGL",
+    "Gurren Laggan"
+  ],
+  "type": "tv",
+  "episodes": 27,
+  "status": "finished",
+  "season": "fall",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b124435-ijzJdujMsHot.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "124435",
+      "url": "https://anilist.co/anime/124435"
+    },
+    "cr": {
+      "id": "gurren-lagann",
+      "url": "https://www.crunchyroll.com/series/gurren-lagann"
+    },
+    "k": {
+      "id": "1801",
+      "url": "https://kitsu.io/anime/1801"
+    },
+    "mal": {
+      "id": "22441",
+      "url": "https://myanimelist.net/anime/22441"
+    },
+    "t": {
+      "id": "21628",
+      "url": "https://trakt.tv/shows/21628"
+    }
+  }
+}

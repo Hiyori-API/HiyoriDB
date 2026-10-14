@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 317,
+  "slug": "wild-arms-twilight-venom",
+  "kind": "anime",
+  "title": "Wild Arms: Twilight Venom",
+  "titles": {
+    "default": "Wild Arms: Twilight Venom",
+    "romaji": "Wild Arms: Twilight Venom",
+    "native": "ワイルドアームズ トワイライトヴェノム"
+  },
+  "synonyms": [
+    "Wild Arms: Twilight Venom",
+    "ワイルドアームズ トワイライトヴェノム",
+    "Wild Arms"
+  ],
+  "type": "tv",
+  "episodes": 22,
+  "status": "finished",
+  "season": "fall",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx347-9KfBM9H0PSST.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "347",
+      "url": "https://anilist.co/anime/347"
+    },
+    "k": {
+      "id": "314",
+      "url": "https://kitsu.io/anime/314"
+    },
+    "mal": {
+      "id": "347",
+      "url": "https://myanimelist.net/anime/347"
+    },
+    "t": {
+      "id": "38863",
+      "url": "https://trakt.tv/shows/38863"
+    }
+  }
+}

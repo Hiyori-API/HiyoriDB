@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8954,
+  "slug": "youkai-watch-soratobu-kujira-to-double-sekai-no-daibouken-da-nyan",
+  "kind": "anime",
+  "title": "Youkai Watch: Soratobu Kujira to Double Sekai no Daibouken da Nyan!",
+  "titles": {
+    "default": "Youkai Watch: Soratobu Kujira to Double Sekai no Daibouken da Nyan!",
+    "romaji": "Youkai Watch: Soratobu Kujira to Double Sekai no Daibouken da Nyan!",
+    "native": "妖怪ウォッチ 空飛ぶクジラとダブル世界の大冒険だニャン!"
+  },
+  "synonyms": [
+    "Youkai Watch: Soratobu Kujira to Double Sekai no Daibouken da Nyan!",
+    "妖怪ウォッチ 空飛ぶクジラとダブル世界の大冒険だニャン!",
+    "In This Corner of the World",
+    "Kono Sekai no Katasumi ni",
+    "この世界の片隅に",
+    "To All the Corners of the World"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b121663-n90agXSoHzW6.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "121663",
+      "url": "https://anilist.co/anime/121663"
+    },
+    "cr": {
+      "id": "series/GNVHKN9PW/in-this-corner-and-other-corners-of-the-world",
+      "url": "https://www.crunchyroll.com/series/series/GNVHKN9PW/in-this-corner-and-other-corners-of-the-world"
+    },
+    "k": {
+      "id": "7234",
+      "url": "https://kitsu.io/anime/7234"
+    },
+    "mal": {
+      "id": "32222",
+      "url": "https://myanimelist.net/anime/32222"
+    },
+    "nf": {
+      "id": "80192244",
+      "url": "https://www.netflix.com/title/80192244"
+    }
+  }
+}

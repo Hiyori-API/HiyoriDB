@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7147,
+  "slug": "high-school-dxd-new",
+  "kind": "anime",
+  "title": "High School DxD NEW",
+  "titles": {
+    "default": "High School DxD NEW",
+    "romaji": "High School DxD NEW",
+    "native": "ハイスクールDxD NEW"
+  },
+  "synonyms": [
+    "High School DxD NEW",
+    "ハイスクールDxD NEW",
+    "High School DxD 2",
+    "Highschool DxD 2",
+    "High School DxD New",
+    "ハイスクールD×D NEW",
+    "High School DxD Dai 2-ki",
+    "High School DxD 2nd Season",
+    "High School DxD Second Season"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx15451-A5T54vmxUq9t.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "15451",
+      "url": "https://anilist.co/anime/15451"
+    },
+    "cr": {
+      "id": "high-school-dxd",
+      "url": "https://www.crunchyroll.com/series/high-school-dxd"
+    },
+    "k": {
+      "id": "7258",
+      "url": "https://kitsu.io/anime/7258"
+    },
+    "mal": {
+      "id": "15451",
+      "url": "https://myanimelist.net/anime/15451"
+    },
+    "nf": {
+      "id": "80005873",
+      "url": "https://www.netflix.com/title/80005873"
+    },
+    "t": {
+      "id": "65266",
+      "url": "https://trakt.tv/shows/65266"
+    }
+  }
+}

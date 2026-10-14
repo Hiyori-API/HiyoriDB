@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14314,
+  "slug": "georgie",
+  "kind": "manga",
+  "title": "Georgie!",
+  "titles": {
+    "default": "Georgie!"
+  },
+  "synonyms": [
+    "Lady Georgie",
+    "Georgie",
+    "ジョージィ！"
+  ],
+  "type": "manga",
+  "chapters": 53,
+  "volumes": 5,
+  "status": "finished",
+  "year": 1982,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx32685-nq2B29kcLEiM.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2542",
+      "url": "https://anilist.co/anime/2542"
+    },
+    "al_manga": {
+      "id": "2542",
+      "url": "https://anilist.co/manga/2542"
+    }
+  }
+}

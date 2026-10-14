@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5111,
+  "slug": "onimaru-senjou-ni-kakeru-itsutsu-no-seishun",
+  "kind": "anime",
+  "title": "Onimaru: Senjou ni Kakeru Itsutsu no Seishun",
+  "titles": {
+    "default": "Onimaru: Senjou ni Kakeru Itsutsu no Seishun",
+    "romaji": "Onimaru: Senjou ni Kakeru Itsutsu no Seishun",
+    "native": "鬼丸 戦場に駆ける五つの青春"
+  },
+  "synonyms": [
+    "Onimaru: Senjou ni Kakeru Itsutsu no Seishun",
+    "鬼丸 戦場に駆ける五つの青春"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b177069-7PY7wm8V342H.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "177069",
+      "url": "https://anilist.co/anime/177069"
+    },
+    "k": {
+      "id": "9765",
+      "url": "https://kitsu.io/anime/9765"
+    },
+    "mal": {
+      "id": "23819",
+      "url": "https://myanimelist.net/anime/23819"
+    }
+  }
+}

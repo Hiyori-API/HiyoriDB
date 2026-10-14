@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6892,
+  "slug": "ippatsu-hicchuu-devander",
+  "kind": "anime",
+  "title": "Ippatsu Hicchuu!! Devander",
+  "titles": {
+    "default": "Ippatsu Hicchuu!! Devander",
+    "romaji": "Ippatsu Hicchuu!! Devander",
+    "native": "一発必中!! デバンダー"
+  },
+  "synonyms": [
+    "Ippatsu Hicchuu!! Devander",
+    "一発必中!! デバンダー"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx13693-WgK0igwuqJdp.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "13693",
+      "url": "https://anilist.co/anime/13693"
+    },
+    "k": {
+      "id": "7016",
+      "url": "https://kitsu.io/anime/7016"
+    },
+    "mal": {
+      "id": "13693",
+      "url": "https://myanimelist.net/anime/13693"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2614,
+  "slug": "ookami-to-koushinryou",
+  "kind": "anime",
+  "title": "Ookami to Koushinryou",
+  "titles": {
+    "default": "Ookami to Koushinryou",
+    "romaji": "Ookami to Koushinryou",
+    "english": "Spice and Wolf",
+    "native": "狼と香辛料"
+  },
+  "synonyms": [
+    "Ookami to Koushinryou",
+    "Spice and Wolf",
+    "狼と香辛料",
+    "สาวหมาป่ากับนายเครื่องเทศ",
+    "Волчица и пряности"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2966-AEULMyYA9WKb.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2966",
+      "url": "https://anilist.co/anime/2966"
+    },
+    "cr": {
+      "id": "spice-and-wolf",
+      "url": "https://www.crunchyroll.com/series/spice-and-wolf"
+    },
+    "k": {
+      "id": "2684",
+      "url": "https://kitsu.io/anime/2684"
+    },
+    "mal": {
+      "id": "2966",
+      "url": "https://myanimelist.net/anime/2966"
+    },
+    "nf": {
+      "id": "70205026",
+      "url": "https://www.netflix.com/title/70205026"
+    },
+    "t": {
+      "id": "26590",
+      "url": "https://trakt.tv/shows/26590"
+    }
+  }
+}

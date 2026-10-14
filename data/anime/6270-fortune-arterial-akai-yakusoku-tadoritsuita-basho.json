@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6270,
+  "slug": "fortune-arterial-akai-yakusoku-tadoritsuita-basho",
+  "kind": "anime",
+  "title": "FORTUNE ARTERIAL: Akai Yakusoku - Tadoritsuita Basho",
+  "titles": {
+    "default": "FORTUNE ARTERIAL: Akai Yakusoku - Tadoritsuita Basho",
+    "romaji": "FORTUNE ARTERIAL: Akai Yakusoku - Tadoritsuita Basho",
+    "native": "FORTUNE ARTERIAL 赤い約束 たどり着いた場所"
+  },
+  "synonyms": [
+    "FORTUNE ARTERIAL: Akai Yakusoku - Tadoritsuita Basho",
+    "FORTUNE ARTERIAL 赤い約束 たどり着いた場所",
+    "Fortune Arterial: Akai Yakusoku OVA",
+    "Fortune Arterial: Akai Yakusoku - Tadoritsuita Basho"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9347-Dj1hDg02Tk9I.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9347",
+      "url": "https://anilist.co/anime/9347"
+    },
+    "k": {
+      "id": "5694",
+      "url": "https://kitsu.io/anime/5694"
+    },
+    "mal": {
+      "id": "9347",
+      "url": "https://myanimelist.net/anime/9347"
+    }
+  }
+}

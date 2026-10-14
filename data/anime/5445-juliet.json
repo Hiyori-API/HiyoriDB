@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5445,
+  "slug": "juliet",
+  "kind": "anime",
+  "title": "Juliet",
+  "titles": {
+    "default": "Juliet",
+    "romaji": "Juliet",
+    "native": "ジュリエット"
+  },
+  "synonyms": [
+    "Juliet",
+    "ジュリエット"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8993.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8993",
+      "url": "https://anilist.co/anime/8993"
+    },
+    "k": {
+      "id": "5564",
+      "url": "https://kitsu.io/anime/5564"
+    },
+    "mal": {
+      "id": "8993",
+      "url": "https://myanimelist.net/anime/8993"
+    }
+  }
+}

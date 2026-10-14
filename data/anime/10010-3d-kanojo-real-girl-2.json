@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10010,
+  "slug": "3d-kanojo-real-girl-2",
+  "kind": "anime",
+  "title": "3D Kanojo: Real Girl 2",
+  "titles": {
+    "default": "3D Kanojo: Real Girl 2",
+    "romaji": "3D Kanojo: Real Girl 2",
+    "english": "Real Girl 2",
+    "native": "3D彼女 リアルガール 2"
+  },
+  "synonyms": [
+    "3D Kanojo: Real Girl 2",
+    "Real Girl 2",
+    "3D彼女 リアルガール 2",
+    "3D Girlfriend 2nd Season",
+    "Real Girl Season 2",
+    "3D彼女 リアルガール(第2シーズン)",
+    "3D Kanojo: Real Girl 2nd Season"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx102882-lKp3ExWNzoE6.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "102882",
+      "url": "https://anilist.co/anime/102882"
+    },
+    "mal": {
+      "id": "37956",
+      "url": "https://myanimelist.net/anime/37956"
+    },
+    "tx": {
+      "id": "3Dkanojo_anime",
+      "url": "https://twitter.com/3Dkanojo_anime"
+    }
+  }
+}

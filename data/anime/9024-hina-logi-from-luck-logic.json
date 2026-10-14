@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9024,
+  "slug": "hina-logi-from-luck-logic",
+  "kind": "anime",
+  "title": "Hina Logi: from Luck & Logic",
+  "titles": {
+    "default": "Hina Logi: from Luck & Logic",
+    "romaji": "Hina Logi: from Luck & Logic",
+    "english": "Hina Logic - from Luck & Logic",
+    "native": "ひなろじ～from Luck & Logic～"
+  },
+  "synonyms": [
+    "Hina Logi: from Luck & Logic",
+    "Hina Logic - from Luck & Logic",
+    "ひなろじ～from Luck & Logic～",
+    "Welcome to the Classroom of the Elite",
+    "You-jitsu",
+    "You-zitsu",
+    "Classroom of the Elite",
+    "ようこそ実力至上主義の教室へ",
+    "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx21738-SMMRGISxAUKx.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21738",
+      "url": "https://anilist.co/anime/21738"
+    },
+    "cr": {
+      "id": "hina-logic-from-luck-logic",
+      "url": "https://www.crunchyroll.com/series/hina-logic-from-luck-logic"
+    },
+    "mal": {
+      "id": "34834",
+      "url": "https://myanimelist.net/anime/34834"
+    },
+    "tx": {
+      "id": "luck_and_logic",
+      "url": "https://twitter.com/luck_and_logic"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1760,
+  "slug": "juusou-kikou-dancougar-nova",
+  "kind": "anime",
+  "title": "Juusou Kikou Dancougar Nova",
+  "titles": {
+    "default": "Juusou Kikou Dancougar Nova",
+    "romaji": "Juusou Kikou Dancougar Nova",
+    "native": "獣装機攻ダンクーガノヴァ"
+  },
+  "synonyms": [
+    "Juusou Kikou Dancougar Nova",
+    "獣装機攻ダンクーガノヴァ",
+    "Kemono Soukikou Dancouga Nova",
+    "Juusoukikou Dancougar Nova"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1991.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1991",
+      "url": "https://anilist.co/anime/1991"
+    },
+    "k": {
+      "id": "1792",
+      "url": "https://kitsu.io/anime/1792"
+    },
+    "mal": {
+      "id": "1991",
+      "url": "https://myanimelist.net/anime/1991"
+    },
+    "t": {
+      "id": "80410",
+      "url": "https://trakt.tv/shows/80410"
+    }
+  }
+}

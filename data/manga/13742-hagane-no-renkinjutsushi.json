@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13742,
+  "slug": "hagane-no-renkinjutsushi",
+  "kind": "manga",
+  "title": "Hagane no Renkinjutsushi",
+  "titles": {
+    "default": "Hagane no Renkinjutsushi"
+  },
+  "synonyms": [
+    "FMA",
+    "Fullmetal Alchemist Novel",
+    "Fullmetal Alchemist - A Terra da Areia",
+    "Fullmetal Alchemist",
+    "鋼の錬金術師",
+    "Magical Girl Risuka",
+    "Shin Honkaku Mahou Shoujo Risuka",
+    "新本格魔法少女りすか"
+  ],
+  "type": "novel",
+  "chapters": 35,
+  "volumes": 6,
+  "status": "finished",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b34658-JSKzr7Y4mQ3x.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "121",
+      "url": "https://anilist.co/anime/121"
+    },
+    "al_manga": {
+      "id": "121",
+      "url": "https://anilist.co/manga/121"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5335,
+  "slug": "gegege-no-kitarou-1996",
+  "kind": "anime",
+  "title": "Gegege no Kitarou (1996)",
+  "titles": {
+    "default": "Gegege no Kitarou (1996)",
+    "romaji": "Gegege no Kitarou (1996)",
+    "english": "Spooky Kitaro",
+    "native": "ゲゲゲの鬼太郎"
+  },
+  "synonyms": [
+    "Gegege no Kitarou (1996)",
+    "Spooky Kitaro",
+    "ゲゲゲの鬼太郎"
+  ],
+  "type": "tv",
+  "episodes": 114,
+  "status": "finished",
+  "season": "winter",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7619.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7619",
+      "url": "https://anilist.co/anime/7619"
+    },
+    "k": {
+      "id": "7746",
+      "url": "https://kitsu.io/anime/7746"
+    },
+    "mal": {
+      "id": "7619",
+      "url": "https://myanimelist.net/anime/7619"
+    }
+  }
+}

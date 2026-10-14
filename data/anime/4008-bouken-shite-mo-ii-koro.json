@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4008,
+  "slug": "bouken-shite-mo-ii-koro",
+  "kind": "anime",
+  "title": "Bouken Shite mo Ii Koro",
+  "titles": {
+    "default": "Bouken Shite mo Ii Koro",
+    "romaji": "Bouken Shite mo Ii Koro",
+    "native": "冒険してもいい頃"
+  },
+  "synonyms": [
+    "Bouken Shite mo Ii Koro",
+    "冒険してもいい頃",
+    "Bouken Shitemo Iikoro"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "fall",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx5648-dEngGmHwk99H.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5648",
+      "url": "https://anilist.co/anime/5648"
+    },
+    "k": {
+      "id": "4221",
+      "url": "https://kitsu.io/anime/4221"
+    },
+    "mal": {
+      "id": "5648",
+      "url": "https://myanimelist.net/anime/5648"
+    }
+  }
+}

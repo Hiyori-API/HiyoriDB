@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5061,
+  "slug": "chinpui-eri-sama-katsudou-daishashin",
+  "kind": "anime",
+  "title": "Chinpui: Eri-sama Katsudou Daishashin",
+  "titles": {
+    "default": "Chinpui: Eri-sama Katsudou Daishashin",
+    "romaji": "Chinpui: Eri-sama Katsudou Daishashin",
+    "native": "チンプイ エリさま活動大写真"
+  },
+  "synonyms": [
+    "Chinpui: Eri-sama Katsudou Daishashin",
+    "チンプイ エリさま活動大写真",
+    "Chimpui: Eri-sama Katsudou Daishashin",
+    "Timpui: Eri-sama Katsudou Daishashin",
+    "Little Polar Bear: Shirokuma-kun, Doko e?",
+    "リトルポーラベア しろくまくん, どこへ?"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10040.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10040",
+      "url": "https://anilist.co/anime/10040"
+    },
+    "k": {
+      "id": "8799",
+      "url": "https://kitsu.io/anime/8799"
+    },
+    "mal": {
+      "id": "10040",
+      "url": "https://myanimelist.net/anime/10040"
+    }
+  }
+}

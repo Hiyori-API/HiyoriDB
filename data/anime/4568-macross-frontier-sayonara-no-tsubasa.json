@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4568,
+  "slug": "macross-frontier-sayonara-no-tsubasa",
+  "kind": "anime",
+  "title": "Macross Frontier: Sayonara no Tsubasa",
+  "titles": {
+    "default": "Macross Frontier: Sayonara no Tsubasa",
+    "romaji": "Macross Frontier: Sayonara no Tsubasa",
+    "english": "Macross Frontier: The Wings of Farewell",
+    "native": "劇場版 マクロスF ~サヨナラノツバサ~"
+  },
+  "synonyms": [
+    "Macross Frontier: Sayonara no Tsubasa",
+    "Macross Frontier: The Wings of Farewell",
+    "劇場版 マクロスF ~サヨナラノツバサ~",
+    "Macross F the Movie 2",
+    "Macross Frontier the Movie 2",
+    "Gekijouban Macross F: Sayonara no Tsubasa",
+    "Macross F Movie 2: Sayonara no Tsubasa",
+    "劇場版 マクロスＦ 恋離飛翼 ～サヨナラノツバサ～",
+    "Macross Frontier: The Wings of Goodbye"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx7222-O7mOS8vlnIO4.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7222",
+      "url": "https://anilist.co/anime/7222"
+    },
+    "k": {
+      "id": "4903",
+      "url": "https://kitsu.io/anime/4903"
+    },
+    "mal": {
+      "id": "7222",
+      "url": "https://myanimelist.net/anime/7222"
+    }
+  }
+}

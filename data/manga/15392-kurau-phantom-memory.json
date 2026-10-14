@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15392,
+  "slug": "kurau-phantom-memory",
+  "kind": "manga",
+  "title": "KURAU Phantom Memory",
+  "titles": {
+    "default": "KURAU Phantom Memory"
+  },
+  "synonyms": [
+    "クラウ ファントムメモリー",
+    "Kizoku to Nessa no Ouji",
+    "The Aristocrat and the Desert Prince",
+    "貴族と熱砂の皇子"
+  ],
+  "type": "novel",
+  "chapters": 30,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/23800.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "483",
+      "url": "https://anilist.co/anime/483"
+    },
+    "al_manga": {
+      "id": "483",
+      "url": "https://anilist.co/manga/483"
+    }
+  }
+}

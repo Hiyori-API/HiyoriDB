@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11651,
+  "slug": "hanabi-chan-wa-okure-gachi",
+  "kind": "anime",
+  "title": "Hanabi-chan wa Okure-gachi",
+  "titles": {
+    "default": "Hanabi-chan wa Okure-gachi",
+    "romaji": "Hanabi-chan wa Okure-gachi",
+    "english": "Hanabichan ~The girl who popped out of the game world~",
+    "native": "ハナビちゃんは遅れがち"
+  },
+  "synonyms": [
+    "Hanabi-chan wa Okure-gachi",
+    "Hanabichan ~The girl who popped out of the game world~",
+    "ハナビちゃんは遅れがち",
+    "Hanabi Tends to Fall Behind",
+    "Hanabi-chan is Often Late",
+    "DearS",
+    "ディアーズ"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137621-CpN5XrZb1vGs.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "137621",
+      "url": "https://anilist.co/anime/137621"
+    },
+    "cr": {
+      "id": "series/G8DHV7EEG",
+      "url": "https://www.crunchyroll.com/series/series/G8DHV7EEG"
+    },
+    "k": {
+      "id": "44",
+      "url": "https://kitsu.io/anime/44"
+    },
+    "mal": {
+      "id": "49551",
+      "url": "https://myanimelist.net/anime/49551"
+    },
+    "t": {
+      "id": "61051",
+      "url": "https://trakt.tv/shows/61051"
+    },
+    "tx": {
+      "id": "hnb_off",
+      "url": "https://twitter.com/hnb_off"
+    }
+  }
+}

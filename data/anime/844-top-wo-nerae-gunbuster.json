@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 844,
+  "slug": "top-wo-nerae-gunbuster",
+  "kind": "anime",
+  "title": "Top wo Nerae! GunBuster",
+  "titles": {
+    "default": "Top wo Nerae! GunBuster",
+    "romaji": "Top wo Nerae! GunBuster",
+    "english": "Gunbuster",
+    "native": "トップをねらえ! GunBuster"
+  },
+  "synonyms": [
+    "Top wo Nerae! GunBuster",
+    "Gunbuster",
+    "トップをねらえ! GunBuster",
+    "Top wo Nerae!",
+    "Aim for the Top!",
+    "Toppu o Nerae",
+    "Punta al Top! Gunbuster",
+    "Top wo Nerae! Gunbuster",
+    "トップをねらえ！ GunBuster"
+  ],
+  "type": "ova",
+  "episodes": 6,
+  "status": "finished",
+  "season": "fall",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx949-LDCFxDufSwTQ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "949",
+      "url": "https://anilist.co/anime/949"
+    },
+    "cr": {
+      "id": "series/GZJH3D8D8/gunbuster",
+      "url": "https://www.crunchyroll.com/series/series/GZJH3D8D8/gunbuster"
+    },
+    "k": {
+      "id": "841",
+      "url": "https://kitsu.io/anime/841"
+    },
+    "mal": {
+      "id": "949",
+      "url": "https://myanimelist.net/anime/949"
+    }
+  }
+}

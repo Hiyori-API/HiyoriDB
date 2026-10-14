@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14753,
+  "slug": "wankorobee",
+  "kind": "manga",
+  "title": "Wankorobee",
+  "titles": {
+    "default": "Wankorobee"
+  },
+  "synonyms": [
+    "わんころべえ",
+    "Berserk",
+    "ベルセルク",
+    "Berserk: The Prototype"
+  ],
+  "type": "manga",
+  "status": "publishing",
+  "year": 1975,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b125334-vJk9jfMnvTVr.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2708",
+      "url": "https://anilist.co/anime/2708"
+    },
+    "al_manga": {
+      "id": "2708",
+      "url": "https://anilist.co/manga/2708"
+    }
+  }
+}

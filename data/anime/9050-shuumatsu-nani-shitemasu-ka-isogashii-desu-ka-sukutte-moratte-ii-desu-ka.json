@@ -1,0 +1,66 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9050,
+  "slug": "shuumatsu-nani-shitemasu-ka-isogashii-desu-ka-sukutte-moratte-ii-desu-ka",
+  "kind": "anime",
+  "title": "Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?",
+  "titles": {
+    "default": "Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?",
+    "romaji": "Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?",
+    "english": "WorldEnd: What are you doing at the end of the world? Are you busy? Will you save us?",
+    "native": "終末なにしてますか? 忙しいですか? 救ってもらっていいですか?"
+  },
+  "synonyms": [
+    "Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?",
+    "WorldEnd: What are you doing at the end of the world? Are you busy? Will you save us?",
+    "終末なにしてますか? 忙しいですか? 救ってもらっていいですか?",
+    "Do you have what THE END? Are you busy? Shall you save xxx?",
+    "Sukasuka",
+    "末日时在做什么？有没有空？可以来拯救吗？",
+    "WorldEnd: What do you do at the end of the world? Are you busy? Will you save us?",
+    "Apa yang Engkau Lakukan Saat Akhir Dunia? Apakah Engkau Sibuk? Bisakah Engkau Menolongku?",
+    "เวิลด์เอนด์: วันสิ้นโลกนี้ทำอะไร ยุ่งหรือเปล่า มาช่วยเราได้ไหม",
+    "Конец человечества. Что ты будешь делать после того, как людей не стало?",
+    "Attack on Titan Season 2",
+    "Shingeki no Kyojin Season 2",
+    "進撃の巨人 Season 2"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21860-lSIbYJtEbAXu.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21860",
+      "url": "https://anilist.co/anime/21860"
+    },
+    "cr": {
+      "id": "worldend-what-do-you-do-at-the-end-of-the-world-are-you-busy-will-you-save-us",
+      "url": "https://www.crunchyroll.com/series/worldend-what-do-you-do-at-the-end-of-the-world-are-you-busy-will-you-save-us"
+    },
+    "k": {
+      "id": "8671",
+      "url": "https://kitsu.io/anime/8671"
+    },
+    "mal": {
+      "id": "33502",
+      "url": "https://myanimelist.net/anime/33502"
+    },
+    "nf": {
+      "id": "80193136",
+      "url": "https://www.netflix.com/title/80193136"
+    },
+    "t": {
+      "id": "1420",
+      "url": "https://trakt.tv/shows/1420"
+    },
+    "tx": {
+      "id": "sukasuka_anime",
+      "url": "https://twitter.com/sukasuka_anime"
+    }
+  }
+}

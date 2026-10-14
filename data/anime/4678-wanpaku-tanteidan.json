@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4678,
+  "slug": "wanpaku-tanteidan",
+  "kind": "anime",
+  "title": "Wanpaku Tanteidan",
+  "titles": {
+    "default": "Wanpaku Tanteidan",
+    "romaji": "Wanpaku Tanteidan",
+    "native": "わんぱく探偵団"
+  },
+  "synonyms": [
+    "Wanpaku Tanteidan",
+    "わんぱく探偵団",
+    "Boy's Detective Team"
+  ],
+  "type": "tv",
+  "episodes": 35,
+  "status": "finished",
+  "season": "winter",
+  "year": 1968,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12139-FuANPjqjLOM4.png"
+  ],
+  "references": {
+    "al": {
+      "id": "12139",
+      "url": "https://anilist.co/anime/12139"
+    },
+    "k": {
+      "id": "6674",
+      "url": "https://kitsu.io/anime/6674"
+    },
+    "mal": {
+      "id": "12139",
+      "url": "https://myanimelist.net/anime/12139"
+    }
+  }
+}

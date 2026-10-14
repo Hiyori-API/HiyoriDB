@@ -1,0 +1,68 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 177,
+  "slug": "sen-to-chihiro-no-kamikakushi",
+  "kind": "anime",
+  "title": "Sen to Chihiro no Kamikakushi",
+  "titles": {
+    "default": "Sen to Chihiro no Kamikakushi",
+    "romaji": "Sen to Chihiro no Kamikakushi",
+    "english": "Spirited Away",
+    "native": "千と千尋の神隠し"
+  },
+  "synonyms": [
+    "Sen to Chihiro no Kamikakushi",
+    "Spirited Away",
+    "千と千尋の神隠し",
+    "Le Voyage de Chihiro",
+    "La Città Incantata",
+    "El Viaje de Chihiro",
+    "Chihiros Reise ins Zauberland",
+    "Ruhların Kaçışı",
+    "המסע המופלא",
+    "Călătoria lui Chihiro",
+    "Spirited Away: W krainie bogów",
+    "Chihiro Szellemországban",
+    "A Viagem de Chihiro",
+    "千与千寻",
+    "Унесённые призраками",
+    "Chihiro og heksene",
+    "Ταξίδι στην Χώρα των Θαυμάτων",
+    "มิติวิญญาณมหัศจรรย์",
+    "Henkien kätkemä",
+    "Chihiro ilmmiid gaskkas",
+    "Vaimudest viidud",
+    "Chihiro og álögin",
+    "Sen and Chihiro's Spiriting Away"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199-sWefXJvXkDOb.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "199",
+      "url": "https://anilist.co/anime/199"
+    },
+    "ap": {
+      "id": "B081GJPV9P",
+      "url": "https://www.amazon.com/gp/video/detail/B081GJPV9P"
+    },
+    "k": {
+      "id": "176",
+      "url": "https://kitsu.io/anime/176"
+    },
+    "mal": {
+      "id": "199",
+      "url": "https://myanimelist.net/anime/199"
+    },
+    "nf": {
+      "id": "60023642",
+      "url": "https://www.netflix.com/title/60023642"
+    }
+  }
+}

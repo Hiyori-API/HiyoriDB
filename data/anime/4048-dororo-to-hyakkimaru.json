@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4048,
+  "slug": "dororo-to-hyakkimaru",
+  "kind": "anime",
+  "title": "Dororo to Hyakkimaru",
+  "titles": {
+    "default": "Dororo to Hyakkimaru",
+    "romaji": "Dororo to Hyakkimaru",
+    "english": "Dororo",
+    "native": "どろろと百鬼丸"
+  },
+  "synonyms": [
+    "Dororo to Hyakkimaru",
+    "Dororo",
+    "どろろと百鬼丸",
+    "Dororo and Hyakkimaru"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 1969,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5760-0nnYt4GrL1NO.png"
+  ],
+  "references": {
+    "al": {
+      "id": "5760",
+      "url": "https://anilist.co/anime/5760"
+    },
+    "k": {
+      "id": "4266",
+      "url": "https://kitsu.io/anime/4266"
+    },
+    "mal": {
+      "id": "5760",
+      "url": "https://myanimelist.net/anime/5760"
+    },
+    "t": {
+      "id": "72743",
+      "url": "https://trakt.tv/shows/72743"
+    }
+  }
+}

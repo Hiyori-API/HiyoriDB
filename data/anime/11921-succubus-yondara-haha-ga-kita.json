@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11921,
+  "slug": "succubus-yondara-haha-ga-kita",
+  "kind": "anime",
+  "title": "Succubus Yondara Haha ga Kita!?",
+  "titles": {
+    "default": "Succubus Yondara Haha ga Kita!?",
+    "romaji": "Succubus Yondara Haha ga Kita!?",
+    "native": "サキュバス喚んだら義母が来た！？"
+  },
+  "synonyms": [
+    "Succubus Yondara Haha ga Kita!?",
+    "サキュバス喚んだら義母が来た！？",
+    "I Summoned a Succubus and My Mom Appeared!?",
+    "When I Summoned a Succubus, My Mother Showed Up!?",
+    "Samurai X: Reflection",
+    "Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou-hen",
+    "るろうに剣心 -明治剣客浪漫譚- 星霜編",
+    "Rurouni Kenshin: Seisouhen",
+    "Rurouni Kenshin OVA 2"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153346-HnghurNqaYHJ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "153346",
+      "url": "https://anilist.co/anime/153346"
+    },
+    "k": {
+      "id": "368",
+      "url": "https://kitsu.io/anime/368"
+    },
+    "mal": {
+      "id": "52617",
+      "url": "https://myanimelist.net/anime/52617"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 428,
+  "slug": "one-piece-the-movie-omatsuri-danshaku-to-himitsu-no-shima",
+  "kind": "anime",
+  "title": "ONE PIECE THE MOVIE: Omatsuri Danshaku to Himitsu no Shima",
+  "titles": {
+    "default": "ONE PIECE THE MOVIE: Omatsuri Danshaku to Himitsu no Shima",
+    "romaji": "ONE PIECE THE MOVIE: Omatsuri Danshaku to Himitsu no Shima",
+    "english": "One Piece: Baron Omatsuri and the Secret Island",
+    "native": "ONE PIECE THE MOVIE オマツリ男爵と秘密の島"
+  },
+  "synonyms": [
+    "ONE PIECE THE MOVIE: Omatsuri Danshaku to Himitsu no Shima",
+    "One Piece: Baron Omatsuri and the Secret Island",
+    "ONE PIECE THE MOVIE オマツリ男爵と秘密の島",
+    "One Piece Movie 6",
+    "One Piece: El barón Omatsuri y la isla de los secretos",
+    "One Piece - L'isola segreta del barone Omatsuri",
+    "One Piece Movie 6: Omatsuri Danshaku to Himitsu no Shima",
+    "ワンピース オマツリ男爵と秘密の島"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx464-g4wcZPjbhY5j.png"
+  ],
+  "references": {
+    "al": {
+      "id": "464",
+      "url": "https://anilist.co/anime/464"
+    },
+    "k": {
+      "id": "426",
+      "url": "https://kitsu.io/anime/426"
+    },
+    "mal": {
+      "id": "464",
+      "url": "https://myanimelist.net/anime/464"
+    }
+  }
+}

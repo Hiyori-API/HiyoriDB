@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11873,
+  "slug": "suisei-no-freyline-prologue",
+  "kind": "anime",
+  "title": "Suisei no Freyline: Prologue",
+  "titles": {
+    "default": "Suisei no Freyline: Prologue",
+    "romaji": "Suisei no Freyline: Prologue",
+    "native": "彗星のフロイライン〜プロローグ〜"
+  },
+  "synonyms": [
+    "Suisei no Freyline: Prologue",
+    "彗星のフロイライン〜プロローグ〜",
+    "Suisei no Fraulein: Prologue",
+    "Comet Freyline: Prologue",
+    "Love Hina Spring Movie",
+    "Love Hina Haru Special: Kimi Sakura Chiru Nakare!!",
+    "ラブひな春スペシャル 〜キミサクラチルナカレ!!〜",
+    "Love Hina Spring Special"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b147226-YNyWVTJQHK17.png"
+  ],
+  "references": {
+    "al": {
+      "id": "147226",
+      "url": "https://anilist.co/anime/147226"
+    },
+    "k": {
+      "id": "169",
+      "url": "https://kitsu.io/anime/169"
+    },
+    "mal": {
+      "id": "51544",
+      "url": "https://myanimelist.net/anime/51544"
+    },
+    "yt": {
+      "id": "ZhGLIh6_Das",
+      "url": "https://www.youtube.com/watch?v=ZhGLIh6_Das"
+    }
+  }
+}

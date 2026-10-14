@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15485,
+  "slug": "touch-kirby-4-koma-gag-battle",
+  "kind": "manga",
+  "title": "Touch! Kirby 4-Koma Gag Battle",
+  "titles": {
+    "default": "Touch! Kirby 4-Koma Gag Battle"
+  },
+  "synonyms": [
+    "タッチ!カービィ4コマギャグバトル",
+    "Guardian Dog"
+  ],
+  "type": "manga",
+  "chapters": 18,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx170613-q3hDJm7SwA5R.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101094",
+      "url": "https://anilist.co/anime/11717"
+    },
+    "al_manga": {
+      "id": "101094",
+      "url": "https://anilist.co/manga/101094"
+    }
+  }
+}

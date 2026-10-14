@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11433,
+  "slug": "hetalia-world-stars-ova",
+  "kind": "anime",
+  "title": "Hetalia World★Stars OVA",
+  "titles": {
+    "default": "Hetalia World★Stars OVA",
+    "romaji": "Hetalia World★Stars OVA",
+    "native": "ヘタリア World★Stars 初収録新作エピソード OVA"
+  },
+  "synonyms": [
+    "Hetalia World★Stars OVA",
+    "ヘタリア World★Stars 初収録新作エピソード OVA",
+    "เฮตาเลีย เวิลด์ สตาร์ส OVA",
+    "Hakuoki ~Demon of the Fleeting Blossom~",
+    "薄桜鬼 OVA",
+    "Hakuouki OVA (2021)"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "summer",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b136137-x5i18VP1A76I.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "136137",
+      "url": "https://anilist.co/anime/136137"
+    },
+    "mal": {
+      "id": "48627",
+      "url": "https://myanimelist.net/anime/48627"
+    },
+    "tx": {
+      "id": "animehetalia_ws",
+      "url": "https://twitter.com/animehetalia_ws"
+    }
+  }
+}

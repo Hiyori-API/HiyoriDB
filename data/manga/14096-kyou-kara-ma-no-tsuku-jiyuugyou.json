@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14096,
+  "slug": "kyou-kara-ma-no-tsuku-jiyuugyou",
+  "kind": "manga",
+  "title": "Kyou Kara Ma no Tsuku Jiyuugyou!",
+  "titles": {
+    "default": "Kyou Kara Ma no Tsuku Jiyuugyou!"
+  },
+  "synonyms": [
+    "Kyo Kara Mao!",
+    "Kyou Kara Mahou",
+    "Kyou Kara Maou!",
+    "今日からマ王!",
+    "Kyo Kara MAOH!",
+    "今日からマのつく自由業！",
+    "Renai Soukanzu",
+    "恋愛相姦図",
+    "Renai Sokanzu",
+    "Pink Sweets"
+  ],
+  "type": "manga",
+  "chapters": 133,
+  "volumes": 21,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31048-oe2vrNnaLUxZ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2971",
+      "url": "https://anilist.co/anime/251"
+    },
+    "al_manga": {
+      "id": "2971",
+      "url": "https://anilist.co/manga/2971"
+    }
+  }
+}

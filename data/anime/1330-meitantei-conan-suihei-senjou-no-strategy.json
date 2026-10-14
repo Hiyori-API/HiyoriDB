@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1330,
+  "slug": "meitantei-conan-suihei-senjou-no-strategy",
+  "kind": "anime",
+  "title": "Meitantei Conan: Suihei Senjou no Strategy",
+  "titles": {
+    "default": "Meitantei Conan: Suihei Senjou no Strategy",
+    "romaji": "Meitantei Conan: Suihei Senjou no Strategy",
+    "english": "Detective Conan: Strategy Above the Depths",
+    "native": "名探偵コナン　水平線上の陰謀"
+  },
+  "synonyms": [
+    "Meitantei Conan: Suihei Senjou no Strategy",
+    "Detective Conan: Strategy Above the Depths",
+    "名探偵コナン　水平線上の陰謀",
+    "Meitantei Conan Movie 09: Suihei Senjou no Strategy",
+    "Detektiv Conan: Das Komplott über dem Ozean",
+    "Detective Conan Movie 09: La strategia degli Abissi",
+    "Détective Conan : Stratégie en profondeur",
+    "Case Closed: Strategy Above the Depths",
+    "Case Closed Movie 09: Strategy Above the Depths",
+    "Detective Conan Movie 09: Strategy Above the Depths",
+    "Detective Conan - Strategy Above the Depths",
+    "Meitantei Conan: Suihei Senjou no Sutoratejii"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1505-1ARTmIc0Ryh6.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1505",
+      "url": "https://anilist.co/anime/1505"
+    },
+    "k": {
+      "id": "1351",
+      "url": "https://kitsu.io/anime/1351"
+    },
+    "mal": {
+      "id": "1505",
+      "url": "https://myanimelist.net/anime/1505"
+    }
+  }
+}

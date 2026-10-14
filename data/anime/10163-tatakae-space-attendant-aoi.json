@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10163,
+  "slug": "tatakae-space-attendant-aoi",
+  "kind": "anime",
+  "title": "Tatakae! Space Attendant Aoi",
+  "titles": {
+    "default": "Tatakae! Space Attendant Aoi",
+    "romaji": "Tatakae! Space Attendant Aoi",
+    "native": "斗え! スペースアテンダントアオイ"
+  },
+  "synonyms": [
+    "Tatakae! Space Attendant Aoi",
+    "斗え! スペースアテンダントアオイ",
+    "2019 Young Animator Training Project",
+    "Anime Mirai 2019",
+    "Anime Tamago 2019",
+    "Cencoroll 2",
+    "センコロール"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b107860-1CGIfQOFmhIW.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "107860",
+      "url": "https://anilist.co/anime/107860"
+    },
+    "k": {
+      "id": "5749",
+      "url": "https://kitsu.io/anime/5749"
+    },
+    "mal": {
+      "id": "38012",
+      "url": "https://myanimelist.net/anime/38012"
+    }
+  }
+}

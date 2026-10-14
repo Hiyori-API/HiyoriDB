@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4141,
+  "slug": "hottarake-no-shima-haruka-to-mahou-no-kagami",
+  "kind": "anime",
+  "title": "Hottarake no Shima: Haruka to Mahou no Kagami",
+  "titles": {
+    "default": "Hottarake no Shima: Haruka to Mahou no Kagami",
+    "romaji": "Hottarake no Shima: Haruka to Mahou no Kagami",
+    "english": "Oblivion Island: Haruka and the Magic Mirror",
+    "native": "ホッタラケの島　～遥と魔法の鏡～"
+  },
+  "synonyms": [
+    "Hottarake no Shima: Haruka to Mahou no Kagami",
+    "Oblivion Island: Haruka and the Magic Mirror",
+    "ホッタラケの島　～遥と魔法の鏡～",
+    "Oblivion Island",
+    "La Isla de los Recuerdos y el Espejo Mágico"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx5998-Ivtm7ENLXRKR.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5998",
+      "url": "https://anilist.co/anime/5998"
+    },
+    "k": {
+      "id": "4380",
+      "url": "https://kitsu.io/anime/4380"
+    },
+    "mal": {
+      "id": "5998",
+      "url": "https://myanimelist.net/anime/5998"
+    }
+  }
+}

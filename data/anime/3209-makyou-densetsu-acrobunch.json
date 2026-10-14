@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3209,
+  "slug": "makyou-densetsu-acrobunch",
+  "kind": "anime",
+  "title": "Makyou Densetsu Acrobunch",
+  "titles": {
+    "default": "Makyou Densetsu Acrobunch",
+    "romaji": "Makyou Densetsu Acrobunch",
+    "english": "Acrobunch",
+    "native": "魔境伝説アクロバンチ"
+  },
+  "synonyms": [
+    "Makyou Densetsu Acrobunch",
+    "Acrobunch",
+    "魔境伝説アクロバンチ",
+    "Demon Regions Legend Acrobunch",
+    "Askadis",
+    "Acrobanch"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "spring",
+  "year": 1982,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3880-QgYG6q0C9ktb.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3880",
+      "url": "https://anilist.co/anime/3880"
+    },
+    "k": {
+      "id": "3320",
+      "url": "https://kitsu.io/anime/3320"
+    },
+    "mal": {
+      "id": "3880",
+      "url": "https://myanimelist.net/anime/3880"
+    },
+    "t": {
+      "id": "20106",
+      "url": "https://trakt.tv/shows/20106"
+    }
+  }
+}

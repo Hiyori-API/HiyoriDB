@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13779,
+  "slug": "ayashi-no-ceres",
+  "kind": "manga",
+  "title": "Ayashi no Ceres",
+  "titles": {
+    "default": "Ayashi no Ceres"
+  },
+  "synonyms": [
+    "Ayashi no Ceres, La Leyenda Celestial",
+    "Ceres: Celestial Legend",
+    "妖しのセレス",
+    "Ayashi no Ceres"
+  ],
+  "type": "manga",
+  "chapters": 83,
+  "volumes": 14,
+  "status": "finished",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30083-tfXOnJzIcN3f.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "104",
+      "url": "https://anilist.co/anime/104"
+    },
+    "al_manga": {
+      "id": "104",
+      "url": "https://anilist.co/manga/104"
+    }
+  }
+}

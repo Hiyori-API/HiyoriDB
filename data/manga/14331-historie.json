@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14331,
+  "slug": "historie",
+  "kind": "manga",
+  "title": "Historie",
+  "titles": {
+    "default": "Historie"
+  },
+  "synonyms": [
+    "HISTORIĒ",
+    "ยูเมเนส จอมคนพลิกโลก",
+    "Historie",
+    "ヒストリエ",
+    "Yotsuba&!",
+    "Yotsubato!",
+    "よつばと!"
+  ],
+  "type": "manga",
+  "status": "publishing",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx32924-LIMg9fDPBi28.png"
+  ],
+  "references": {
+    "al": {
+      "id": "205130",
+      "url": "https://anilist.co/anime/205130"
+    },
+    "al_manga": {
+      "id": "205130",
+      "url": "https://anilist.co/manga/205130"
+    }
+  }
+}

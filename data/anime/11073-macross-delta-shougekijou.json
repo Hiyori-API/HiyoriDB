@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11073,
+  "slug": "macross-delta-shougekijou",
+  "kind": "anime",
+  "title": "Macross Δ: Delta Shougekijou",
+  "titles": {
+    "default": "Macross Δ: Delta Shougekijou",
+    "romaji": "Macross Δ: Delta Shougekijou",
+    "english": "Macross Δ Special",
+    "native": "マクロスΔ「でるた小劇場」"
+  },
+  "synonyms": [
+    "Macross Δ: Delta Shougekijou",
+    "Macross Δ Special",
+    "マクロスΔ「でるた小劇場」",
+    "Macross Δ SP",
+    "Macross Delta SP",
+    "Macross Delta Special"
+  ],
+  "type": "special",
+  "episodes": 9,
+  "status": "finished",
+  "season": "summer",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97952-9vHdgqnU4nl1.png"
+  ],
+  "references": {
+    "al": {
+      "id": "97952",
+      "url": "https://anilist.co/anime/97952"
+    },
+    "mal": {
+      "id": "33806",
+      "url": "https://myanimelist.net/anime/33806"
+    }
+  }
+}

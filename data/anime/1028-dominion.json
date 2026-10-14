@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1028,
+  "slug": "dominion",
+  "kind": "anime",
+  "title": "Dominion",
+  "titles": {
+    "default": "Dominion",
+    "romaji": "Dominion",
+    "english": "Dominion Tank Police",
+    "native": "ドミニオン"
+  },
+  "synonyms": [
+    "Dominion",
+    "Dominion Tank Police",
+    "ドミニオン"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "spring",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1151-SvOaX2oMD1oc.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1151",
+      "url": "https://anilist.co/anime/1151"
+    },
+    "k": {
+      "id": "1032",
+      "url": "https://kitsu.io/anime/1032"
+    },
+    "mal": {
+      "id": "1151",
+      "url": "https://myanimelist.net/anime/1151"
+    }
+  }
+}

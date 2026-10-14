@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12096,
+  "slug": "d4dj-all-mix",
+  "kind": "anime",
+  "title": "D4DJ All Mix",
+  "titles": {
+    "default": "D4DJ All Mix",
+    "romaji": "D4DJ All Mix"
+  },
+  "synonyms": [
+    "D4DJ All Mix",
+    "Dig Delight Direct Drive DJ",
+    "D4DJ Animation Season 2",
+    "D4DJ: Общий микс"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2023,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx147216-h3fGLff36ktU.png"
+  ],
+  "references": {
+    "al": {
+      "id": "147216",
+      "url": "https://anilist.co/anime/147216"
+    },
+    "cr": {
+      "id": "series/G3KHEV032/d4dj-all-mix",
+      "url": "https://www.crunchyroll.com/series/series/G3KHEV032/d4dj-all-mix"
+    },
+    "mal": {
+      "id": "51586",
+      "url": "https://myanimelist.net/anime/51586"
+    },
+    "tx": {
+      "id": "d4dj_pj_en",
+      "url": "https://twitter.com/D4DJ_pj"
+    }
+  }
+}

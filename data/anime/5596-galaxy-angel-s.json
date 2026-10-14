@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5596,
+  "slug": "galaxy-angel-s",
+  "kind": "anime",
+  "title": "Galaxy Angel S",
+  "titles": {
+    "default": "Galaxy Angel S",
+    "romaji": "Galaxy Angel S",
+    "native": "ギャラクシーエンジェルS"
+  },
+  "synonyms": [
+    "Galaxy Angel S",
+    "ギャラクシーエンジェルS"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12225.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12225",
+      "url": "https://anilist.co/anime/12225"
+    },
+    "k": {
+      "id": "6690",
+      "url": "https://kitsu.io/anime/6690"
+    },
+    "mal": {
+      "id": "12225",
+      "url": "https://myanimelist.net/anime/12225"
+    }
+  }
+}

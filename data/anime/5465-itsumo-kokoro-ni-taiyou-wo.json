@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5465,
+  "slug": "itsumo-kokoro-ni-taiyou-wo",
+  "kind": "anime",
+  "title": "Itsumo Kokoro ni Taiyou wo!",
+  "titles": {
+    "default": "Itsumo Kokoro ni Taiyou wo!",
+    "romaji": "Itsumo Kokoro ni Taiyou wo!",
+    "native": "いつも心に太陽を!"
+  },
+  "synonyms": [
+    "Itsumo Kokoro ni Taiyou wo!",
+    "いつも心に太陽を!",
+    "Always the Sun in My Soul",
+    "Remember the Sun in the Heart",
+    "Di Gi Charat",
+    "デ・ジ･キャラット",
+    "DiGi Charat"
+  ],
+  "type": "tv",
+  "episodes": 16,
+  "status": "finished",
+  "season": "fall",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b114961-ehAO9Kklosy5.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "114961",
+      "url": "https://anilist.co/anime/114961"
+    },
+    "k": {
+      "id": "268",
+      "url": "https://kitsu.io/anime/268"
+    },
+    "mal": {
+      "id": "28071",
+      "url": "https://myanimelist.net/anime/28071"
+    },
+    "t": {
+      "id": "42556",
+      "url": "https://trakt.tv/shows/42556"
+    }
+  }
+}

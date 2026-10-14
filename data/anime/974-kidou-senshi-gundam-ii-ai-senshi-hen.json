@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 974,
+  "slug": "kidou-senshi-gundam-ii-ai-senshi-hen",
+  "kind": "anime",
+  "title": "Kidou Senshi Gundam II: Ai Senshi-hen",
+  "titles": {
+    "default": "Kidou Senshi Gundam II: Ai Senshi-hen",
+    "romaji": "Kidou Senshi Gundam II: Ai Senshi-hen",
+    "english": "Mobile Suit Gundam II: Soldiers of Sorrow",
+    "native": "機動戦士ガンダムⅡ　哀・戦士編"
+  },
+  "synonyms": [
+    "Kidou Senshi Gundam II: Ai Senshi-hen",
+    "Mobile Suit Gundam II: Soldiers of Sorrow",
+    "機動戦士ガンダムⅡ　哀・戦士編",
+    "Mobile Suit Gundam Movie 2"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1981,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1091-VSmUzzebMq7V.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1091",
+      "url": "https://anilist.co/anime/1091"
+    },
+    "k": {
+      "id": "976",
+      "url": "https://kitsu.io/anime/976"
+    },
+    "mal": {
+      "id": "1091",
+      "url": "https://myanimelist.net/anime/1091"
+    },
+    "nf": {
+      "id": "70014612",
+      "url": "https://www.netflix.com/title/70014612"
+    },
+    "yt": {
+      "id": "OzVAWX42kxA",
+      "url": "https://www.youtube.com/watch?v=OzVAWX42kxA"
+    }
+  }
+}

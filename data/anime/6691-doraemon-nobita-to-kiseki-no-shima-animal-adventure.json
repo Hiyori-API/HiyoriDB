@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6691,
+  "slug": "doraemon-nobita-to-kiseki-no-shima-animal-adventure",
+  "kind": "anime",
+  "title": "Doraemon: Nobita to Kiseki no Shima - Animal Adventure",
+  "titles": {
+    "default": "Doraemon: Nobita to Kiseki no Shima - Animal Adventure",
+    "romaji": "Doraemon: Nobita to Kiseki no Shima - Animal Adventure",
+    "native": "ドラえもん のび太と奇跡の島 ～アニマル アドベンチャー～"
+  },
+  "synonyms": [
+    "Doraemon: Nobita to Kiseki no Shima - Animal Adventure",
+    "ドラえもん のび太と奇跡の島 ～アニマル アドベンチャー～",
+    "Doraemon: En Busca del Escarabajo Dorado",
+    "Doraemon: Nobita and the Miracle Island - Animal Adventure",
+    "Pleasant Goat and Big Big Wolf: Mission Incredible: Adventures on the Dragon's Trail",
+    "Xi Yang Yang Yu Hui Tai Lang: Zhi Kaixin Chuang Long Nian",
+    "喜羊羊与灰太狼 之开心闯龙年",
+    "Pleasant Goat and Big Big Wolf Movie 4: Mission Incredible - Adventures on the Dragon's Trail"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11053-NVIucQcBuezt.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11053",
+      "url": "https://anilist.co/anime/11053"
+    },
+    "k": {
+      "id": "9061",
+      "url": "https://kitsu.io/anime/9061"
+    },
+    "mal": {
+      "id": "11053",
+      "url": "https://myanimelist.net/anime/11053"
+    }
+  }
+}

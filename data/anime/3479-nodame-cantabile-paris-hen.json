@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3479,
+  "slug": "nodame-cantabile-paris-hen",
+  "kind": "anime",
+  "title": "Nodame Cantabile: Paris-hen",
+  "titles": {
+    "default": "Nodame Cantabile: Paris-hen",
+    "romaji": "Nodame Cantabile: Paris-hen",
+    "native": "のだめカンタービレ 巴里編"
+  },
+  "synonyms": [
+    "Nodame Cantabile: Paris-hen",
+    "のだめカンタービレ 巴里編",
+    "Nodame Cantabile Paris Chapter",
+    "Nodame Cantabile Pari Hen",
+    "Nodame Cantabile Pari-Hen",
+    "Nodame Cantabile Pari-hen"
+  ],
+  "type": "tv",
+  "episodes": 11,
+  "status": "finished",
+  "season": "fall",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx4477-Qg9EwJP1f5NF.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4477",
+      "url": "https://anilist.co/anime/4477"
+    },
+    "k": {
+      "id": "3632",
+      "url": "https://kitsu.io/anime/3632"
+    },
+    "mal": {
+      "id": "4477",
+      "url": "https://myanimelist.net/anime/4477"
+    },
+    "t": {
+      "id": "62171",
+      "url": "https://trakt.tv/shows/62171"
+    }
+  }
+}

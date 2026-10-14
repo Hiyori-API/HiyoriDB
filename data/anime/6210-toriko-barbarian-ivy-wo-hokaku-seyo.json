@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6210,
+  "slug": "toriko-barbarian-ivy-wo-hokaku-seyo",
+  "kind": "anime",
+  "title": "Toriko: Barbarian Ivy wo Hokaku Seyo!",
+  "titles": {
+    "default": "Toriko: Barbarian Ivy wo Hokaku Seyo!",
+    "romaji": "Toriko: Barbarian Ivy wo Hokaku Seyo!",
+    "native": "トリコ バーバリアンアイビーを捕獲せよ!"
+  },
+  "synonyms": [
+    "Toriko: Barbarian Ivy wo Hokaku Seyo!",
+    "トリコ バーバリアンアイビーを捕獲せよ!",
+    "Toriko: Jump Super Anime Tour 2010 Special",
+    "Toriko: Jump Festa 2010 Special"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11787.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11787",
+      "url": "https://anilist.co/anime/11787"
+    },
+    "k": {
+      "id": "6600",
+      "url": "https://kitsu.io/anime/6600"
+    },
+    "mal": {
+      "id": "11787",
+      "url": "https://myanimelist.net/anime/11787"
+    }
+  }
+}

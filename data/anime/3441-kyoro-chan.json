@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3441,
+  "slug": "kyoro-chan",
+  "kind": "anime",
+  "title": "Kyoro-chan",
+  "titles": {
+    "default": "Kyoro-chan",
+    "romaji": "Kyoro-chan",
+    "native": "キョロちゃん"
+  },
+  "synonyms": [
+    "Kyoro-chan",
+    "キョロちゃん"
+  ],
+  "type": "tv",
+  "episodes": 91,
+  "status": "finished",
+  "season": "summer",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4375.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4375",
+      "url": "https://anilist.co/anime/4375"
+    },
+    "k": {
+      "id": "3576",
+      "url": "https://kitsu.io/anime/3576"
+    },
+    "mal": {
+      "id": "4375",
+      "url": "https://myanimelist.net/anime/4375"
+    }
+  }
+}

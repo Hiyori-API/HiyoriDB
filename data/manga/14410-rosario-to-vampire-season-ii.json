@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14410,
+  "slug": "rosario-to-vampire-season-ii",
+  "kind": "manga",
+  "title": "Rosario to Vampire: Season II",
+  "titles": {
+    "default": "Rosario to Vampire: Season II"
+  },
+  "synonyms": [
+    "Rosario and Vampire: Season 2",
+    "Rosario+Vampire - Tılsımlı Kolye ve Vampir - Sezon 2",
+    "Rosario to Vampire II",
+    "Rosario+Vampire: Season II",
+    "ロザリオとバンパイア SeasonⅡ",
+    "Gekiryuuchi",
+    "激流血～OVER BLEED～",
+    "Over Bleed"
+  ],
+  "type": "manga",
+  "chapters": 67,
+  "volumes": 14,
+  "status": "finished",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33403-3LuzOHj6nW3q.png"
+  ],
+  "references": {
+    "al": {
+      "id": "4214",
+      "url": "https://anilist.co/anime/4214"
+    },
+    "al_manga": {
+      "id": "4214",
+      "url": "https://anilist.co/manga/4214"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8790,
+  "slug": "danganronpa-3-the-end-of-kibougamine-gakuen-zetsubou-hen",
+  "kind": "anime",
+  "title": "Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen",
+  "titles": {
+    "default": "Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen",
+    "romaji": "Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen",
+    "english": "Danganronpa 3: The End of Hope’s Peak High School - Despair Arc",
+    "native": "ダンガンロンパ3 -The End of 希望ヶ峰学園-　絶望編"
+  },
+  "synonyms": [
+    "Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen",
+    "Danganronpa 3: The End of Hope’s Peak High School - Despair Arc",
+    "ダンガンロンパ3 -The End of 希望ヶ峰学園-　絶望編",
+    "Danganronpa 3: The End of Hope's Peak Academy - Despair Volume",
+    "Danganronpa 3: The End of Hope's Peak High School - Despair Arc",
+    "ダンガンロンパ3 -The End of 希望ヶ峰学園- 絶望編"
+  ],
+  "type": "tv",
+  "episodes": 11,
+  "status": "finished",
+  "season": "summer",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21825-OjVRUQwM8bTz.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21825",
+      "url": "https://anilist.co/anime/21825"
+    },
+    "cr": {
+      "id": "danganronpa-3-the-end-of-hopes-peak-high-school",
+      "url": "https://www.crunchyroll.com/series/danganronpa-3-the-end-of-hopes-peak-high-school"
+    },
+    "mal": {
+      "id": "33028",
+      "url": "https://myanimelist.net/anime/33028"
+    },
+    "tx": {
+      "id": "dangan_anime",
+      "url": "https://twitter.com/dangan_anime"
+    }
+  }
+}

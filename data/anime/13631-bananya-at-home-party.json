@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13631,
+  "slug": "bananya-at-home-party",
+  "kind": "anime",
+  "title": "Bananya: At-Home Party",
+  "titles": {
+    "default": "Bananya: At-Home Party",
+    "romaji": "Bananya: At-Home Party",
+    "english": "Bananya 10th Anniversary Special",
+    "native": "ばなにゃ あっとほーむぱーてぃー"
+  },
+  "synonyms": [
+    "Bananya: At-Home Party",
+    "Bananya 10th Anniversary Special",
+    "ばなにゃ あっとほーむぱーてぃー",
+    "Seikai no Senki Special",
+    "星界の戦旗 特別編",
+    "Seikai no Senki Movie",
+    "Battle Flag of the Stars Special Edition",
+    "Seikai no Senki Tokubetsuhen"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213750-5hVyApOz4YXe.png"
+  ],
+  "references": {
+    "al": {
+      "id": "213750",
+      "url": "https://anilist.co/anime/213750"
+    },
+    "cr": {
+      "id": "series/GY2PW4EMY/",
+      "url": "https://www.crunchyroll.com/series/series/GY2PW4EMY/"
+    },
+    "k": {
+      "id": "366",
+      "url": "https://kitsu.io/anime/366"
+    },
+    "mal": {
+      "id": "64519",
+      "url": "https://myanimelist.net/anime/64519"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11086,
+  "slug": "shingeki-no-bahamut-genesis-short-story",
+  "kind": "anime",
+  "title": "Shingeki no Bahamut: GENESIS - Short story",
+  "titles": {
+    "default": "Shingeki no Bahamut: GENESIS - Short story",
+    "romaji": "Shingeki no Bahamut: GENESIS - Short story",
+    "english": "Rage of Bahamut: Genesis - Short Story",
+    "native": "神撃のバハムート GENESIS Short story"
+  },
+  "synonyms": [
+    "Shingeki no Bahamut: GENESIS - Short story",
+    "Rage of Bahamut: Genesis - Short Story",
+    "神撃のバハムート GENESIS Short story",
+    "Ancien and the Magic Tablet: Another Story",
+    "エンシェンと魔法のタブレット～もうひとつのひるね姫～",
+    "Ancien to Mahou no Tablet: Mou Hitotsu no Hirune Hime"
+  ],
+  "type": "ona",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98629-YNcvPEHSTvBt.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98629",
+      "url": "https://anilist.co/anime/98629"
+    },
+    "mal": {
+      "id": "34642",
+      "url": "https://myanimelist.net/anime/34642"
+    }
+  }
+}

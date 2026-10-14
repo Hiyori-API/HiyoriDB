@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4651,
+  "slug": "anju-to-zushioumaru",
+  "kind": "anime",
+  "title": "Anju to Zushioumaru",
+  "titles": {
+    "default": "Anju to Zushioumaru",
+    "romaji": "Anju to Zushioumaru",
+    "native": "安寿と厨子王丸"
+  },
+  "synonyms": [
+    "Anju to Zushioumaru",
+    "安寿と厨子王丸",
+    "Anju to Zushiou Maru",
+    "Anju and Zushiomaru",
+    "The Littlest Warrior",
+    "The Orphan Brother",
+    "den lille krigaren"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1961,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx7610-knPFRnDYQmHt.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7610",
+      "url": "https://anilist.co/anime/7610"
+    },
+    "k": {
+      "id": "5051",
+      "url": "https://kitsu.io/anime/5051"
+    },
+    "mal": {
+      "id": "7610",
+      "url": "https://myanimelist.net/anime/7610"
+    }
+  }
+}

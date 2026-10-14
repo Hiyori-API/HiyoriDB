@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4952,
+  "slug": "aitsu-to-lullaby-suiyoubi-no-cinderella",
+  "kind": "anime",
+  "title": "Aitsu to Lullaby: Suiyoubi no Cinderella",
+  "titles": {
+    "default": "Aitsu to Lullaby: Suiyoubi no Cinderella",
+    "romaji": "Aitsu to Lullaby: Suiyoubi no Cinderella",
+    "native": "あいつとララバイ 水曜日のシンデレラ"
+  },
+  "synonyms": [
+    "Aitsu to Lullaby: Suiyoubi no Cinderella",
+    "あいつとララバイ 水曜日のシンデレラ",
+    "Aitsu to Lullaby: Suiyobi no Cinderella",
+    "あいつとララバイ　水曜日のシンデレラ",
+    "Lullaby for Wednesday's Cinderella"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b14183-eNQlGNa87Amm.png"
+  ],
+  "references": {
+    "al": {
+      "id": "14183",
+      "url": "https://anilist.co/anime/14183"
+    },
+    "k": {
+      "id": "7092",
+      "url": "https://kitsu.io/anime/7092"
+    },
+    "mal": {
+      "id": "14183",
+      "url": "https://myanimelist.net/anime/14183"
+    }
+  }
+}

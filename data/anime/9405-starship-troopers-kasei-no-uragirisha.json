@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9405,
+  "slug": "starship-troopers-kasei-no-uragirisha",
+  "kind": "anime",
+  "title": "Starship Troopers: Kasei no Uragirisha",
+  "titles": {
+    "default": "Starship Troopers: Kasei no Uragirisha",
+    "romaji": "Starship Troopers: Kasei no Uragirisha",
+    "english": "Starship Troopers: Traitor of Mars",
+    "native": "スターシップトルーパー：火星の裏切り者"
+  },
+  "synonyms": [
+    "Starship Troopers: Kasei no Uragirisha",
+    "Starship Troopers: Traitor of Mars",
+    "スターシップトルーパー：火星の裏切り者",
+    "Starship Troopers: Red Planet",
+    "Żołnierze kosmosu: Zdrada na Marsie",
+    "Genocidal Organ",
+    "Gyakusatsu Kikan",
+    "虐殺器官",
+    "Project Itoh"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101913-0vPbUaY3Jop2.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101913",
+      "url": "https://anilist.co/anime/101913"
+    },
+    "k": {
+      "id": "8737",
+      "url": "https://kitsu.io/anime/8737"
+    },
+    "mal": {
+      "id": "36194",
+      "url": "https://myanimelist.net/anime/36194"
+    }
+  }
+}

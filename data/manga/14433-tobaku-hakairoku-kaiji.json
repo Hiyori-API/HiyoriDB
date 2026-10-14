@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14433,
+  "slug": "tobaku-hakairoku-kaiji",
+  "kind": "manga",
+  "title": "Tobaku Hakairoku Kaiji",
+  "titles": {
+    "default": "Tobaku Hakairoku Kaiji"
+  },
+  "synonyms": [
+    "Kaiji",
+    "Gambling Maverick Kaiji",
+    "Tobaku Hakairoku",
+    "Gambling Heathen Kaij",
+    "Kaiji Part 2",
+    "Gambling Rebellion Kaiji",
+    "賭博破戒録カイジ",
+    "Mushrambo",
+    "マシュランボー",
+    "Mashuranboo"
+  ],
+  "type": "manga",
+  "chapters": 134,
+  "volumes": 13,
+  "status": "finished",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33573-hkqZOuUPGi2b.png"
+  ],
+  "references": {
+    "al": {
+      "id": "10271",
+      "url": "https://anilist.co/anime/10271"
+    },
+    "al_manga": {
+      "id": "10271",
+      "url": "https://anilist.co/manga/10271"
+    }
+  }
+}

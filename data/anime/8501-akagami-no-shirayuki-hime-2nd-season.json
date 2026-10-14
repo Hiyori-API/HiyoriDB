@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8501,
+  "slug": "akagami-no-shirayuki-hime-2nd-season",
+  "kind": "anime",
+  "title": "Akagami no Shirayuki-hime 2nd Season",
+  "titles": {
+    "default": "Akagami no Shirayuki-hime 2nd Season",
+    "romaji": "Akagami no Shirayuki-hime 2nd Season",
+    "english": "Snow White with the Red Hair Season 2",
+    "native": "赤髪の白雪姫 2ndシーズン"
+  },
+  "synonyms": [
+    "Akagami no Shirayuki-hime 2nd Season",
+    "Snow White with the Red Hair Season 2",
+    "赤髪の白雪姫 2ndシーズン",
+    "สโนว์ไวท์ผมแดง ภาค 2",
+    "Die rothaarige Schneeprinzessin 2",
+    "Durarara!!x2 Ketsu",
+    "Durarara!! x2 Ketsu",
+    "デュラララ!!×2 結"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21258-6UnmYMTMH0f7.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21258",
+      "url": "https://anilist.co/anime/21258"
+    },
+    "cr": {
+      "id": "snow-white-with-the-red-hair",
+      "url": "https://www.crunchyroll.com/series/snow-white-with-the-red-hair"
+    },
+    "k": {
+      "id": "9725",
+      "url": "https://kitsu.io/anime/9725"
+    },
+    "mal": {
+      "id": "31173",
+      "url": "https://myanimelist.net/anime/31173"
+    },
+    "nf": {
+      "id": "80047029",
+      "url": "https://www.netflix.com/title/80047029"
+    },
+    "t": {
+      "id": "42187",
+      "url": "https://trakt.tv/shows/42187"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9167,
+  "slug": "super-danganronpa-2-5-komaeda-nagito-to-sekai-no-hakaisha",
+  "kind": "anime",
+  "title": "Super Danganronpa 2.5 Komaeda Nagito to Sekai no Hakaisha",
+  "titles": {
+    "default": "Super Danganronpa 2.5 Komaeda Nagito to Sekai no Hakaisha",
+    "romaji": "Super Danganronpa 2.5 Komaeda Nagito to Sekai no Hakaisha",
+    "native": "スーパーダンガンロンパ2.5 狛枝凪斗と世界の破壊者"
+  },
+  "synonyms": [
+    "Super Danganronpa 2.5 Komaeda Nagito to Sekai no Hakaisha",
+    "スーパーダンガンロンパ2.5 狛枝凪斗と世界の破壊者",
+    "Super Danganronpa 2.5: Nagito Komaeda and the Destroyer of the World",
+    "Super Danganronpa 2.5: Nagito Komaeda and the World Destroyer",
+    "Super Danganronpa 2.5: Komaeda Nagito to Sekai no Hakaisha"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b98153-KX7tTXRV23oh.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98153",
+      "url": "https://anilist.co/anime/98153"
+    },
+    "mal": {
+      "id": "34152",
+      "url": "https://myanimelist.net/anime/34152"
+    },
+    "tx": {
+      "id": "dangan_anime",
+      "url": "https://twitter.com/dangan_anime"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6780,
+  "slug": "ai-mai-moe-can-change",
+  "kind": "anime",
+  "title": "Ai Mai! Moe Can Change!",
+  "titles": {
+    "default": "Ai Mai! Moe Can Change!",
+    "romaji": "Ai Mai! Moe Can Change!",
+    "native": "あいまい! 萌えCanちぇんじ!"
+  },
+  "synonyms": [
+    "Ai Mai! Moe Can Change!",
+    "あいまい! 萌えCanちぇんじ!"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12501.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12501",
+      "url": "https://anilist.co/anime/12501"
+    },
+    "k": {
+      "id": "6749",
+      "url": "https://kitsu.io/anime/6749"
+    },
+    "mal": {
+      "id": "12501",
+      "url": "https://myanimelist.net/anime/12501"
+    }
+  }
+}

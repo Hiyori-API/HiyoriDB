@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3829,
+  "slug": "choujuu-kishin-dancougar-god-bless-dancougar",
+  "kind": "anime",
+  "title": "Choujuu Kishin Dancougar: God Bless Dancougar",
+  "titles": {
+    "default": "Choujuu Kishin Dancougar: God Bless Dancougar",
+    "romaji": "Choujuu Kishin Dancougar: God Bless Dancougar",
+    "english": "God Bless Dancougar",
+    "native": "超獣機神ダンクーガ ゴッド・ブレス・ダンクーガ"
+  },
+  "synonyms": [
+    "Choujuu Kishin Dancougar: God Bless Dancougar",
+    "God Bless Dancougar",
+    "超獣機神ダンクーガ ゴッド・ブレス・ダンクーガ",
+    "Chouju Kishin Dancouga: God Bless Dancouga"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5266.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5266",
+      "url": "https://anilist.co/anime/5266"
+    },
+    "k": {
+      "id": "4022",
+      "url": "https://kitsu.io/anime/4022"
+    },
+    "mal": {
+      "id": "5266",
+      "url": "https://myanimelist.net/anime/5266"
+    }
+  }
+}

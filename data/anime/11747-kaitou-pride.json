@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11747,
+  "slug": "kaitou-pride",
+  "kind": "anime",
+  "title": "Kaitou Pride",
+  "titles": {
+    "default": "Kaitou Pride",
+    "romaji": "Kaitou Pride",
+    "english": "Dr. Zen",
+    "native": "怪盗プライド"
+  },
+  "synonyms": [
+    "Kaitou Pride",
+    "Dr. Zen",
+    "怪盗プライド",
+    "Pride the Master Thief",
+    "Mysterious Thief Plaid",
+    "Kaitou Plaid",
+    "Mysterious Thief Pride",
+    "Uchuujin Pipi",
+    "宇宙人ピピ"
+  ],
+  "type": "tv",
+  "episodes": 105,
+  "status": "finished",
+  "season": "spring",
+  "year": 1965,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19987.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "19987",
+      "url": "https://anilist.co/anime/19987"
+    },
+    "k": {
+      "id": "9684",
+      "url": "https://kitsu.io/anime/9684"
+    },
+    "mal": {
+      "id": "19987",
+      "url": "https://myanimelist.net/anime/19987"
+    }
+  }
+}

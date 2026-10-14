@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10972,
+  "slug": "backstage-idol-story",
+  "kind": "anime",
+  "title": "Backstage Idol Story",
+  "titles": {
+    "default": "Backstage Idol Story",
+    "romaji": "Backstage Idol Story",
+    "native": "バックステージ・アイドル・ストーリー"
+  },
+  "synonyms": [
+    "Backstage Idol Story",
+    "バックステージ・アイドル・ストーリー",
+    "Black Rock Shooter",
+    "Black★Rock Shooter (TV)",
+    "ブラック★ロックシューター",
+    "BRS (TV)"
+  ],
+  "type": "tv",
+  "episodes": 8,
+  "status": "finished",
+  "season": "fall",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15787.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "15787",
+      "url": "https://anilist.co/anime/15787"
+    },
+    "k": {
+      "id": "6489",
+      "url": "https://kitsu.io/anime/6489"
+    },
+    "mal": {
+      "id": "15787",
+      "url": "https://myanimelist.net/anime/15787"
+    },
+    "t": {
+      "id": "42852",
+      "url": "https://trakt.tv/shows/42852"
+    }
+  }
+}

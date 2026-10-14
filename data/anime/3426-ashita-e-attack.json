@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3426,
+  "slug": "ashita-e-attack",
+  "kind": "anime",
+  "title": "Ashita e Attack!",
+  "titles": {
+    "default": "Ashita e Attack!",
+    "romaji": "Ashita e Attack!",
+    "native": "あしたへアタック！"
+  },
+  "synonyms": [
+    "Ashita e Attack!",
+    "あしたへアタック！",
+    "Attack on Tomorrow",
+    "Smash"
+  ],
+  "type": "tv",
+  "episodes": 23,
+  "status": "finished",
+  "season": "spring",
+  "year": 1977,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4339-Tktb0qDz72D3.png"
+  ],
+  "references": {
+    "al": {
+      "id": "4339",
+      "url": "https://anilist.co/anime/4339"
+    },
+    "k": {
+      "id": "3560",
+      "url": "https://kitsu.io/anime/3560"
+    },
+    "mal": {
+      "id": "4339",
+      "url": "https://myanimelist.net/anime/4339"
+    }
+  }
+}

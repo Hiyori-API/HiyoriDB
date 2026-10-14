@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 816,
+  "slug": "ninku",
+  "kind": "anime",
+  "title": "NINKU",
+  "titles": {
+    "default": "NINKU",
+    "romaji": "NINKU",
+    "english": "NINKŪ",
+    "native": "NINKU -忍空-"
+  },
+  "synonyms": [
+    "NINKU",
+    "NINKŪ",
+    "NINKU -忍空-",
+    "Ninkuu",
+    "Ninku",
+    "忍空"
+  ],
+  "type": "tv",
+  "episodes": 55,
+  "status": "finished",
+  "season": "winter",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx912-3uK0m0NF29Br.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "912",
+      "url": "https://anilist.co/anime/912"
+    },
+    "k": {
+      "id": "812",
+      "url": "https://kitsu.io/anime/812"
+    },
+    "mal": {
+      "id": "912",
+      "url": "https://myanimelist.net/anime/912"
+    },
+    "t": {
+      "id": "62102",
+      "url": "https://trakt.tv/shows/62102"
+    }
+  }
+}

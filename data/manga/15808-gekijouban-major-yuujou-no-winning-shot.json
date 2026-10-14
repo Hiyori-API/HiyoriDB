@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15808,
+  "slug": "gekijouban-major-yuujou-no-winning-shot",
+  "kind": "manga",
+  "title": "Gekijouban Major: Yuujou no Winning Shot",
+  "titles": {
+    "default": "Gekijouban Major: Yuujou no Winning Shot"
+  },
+  "synonyms": [
+    "Major Movie: The Ball of Friendship",
+    "Gekijouban Major: Yuujou no Ikkyuu",
+    "劇場版MAJOR 友情の一球（ウイニングショット）",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "chapters": 2,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx128270-Tt4SBFHe4Mlb.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5029",
+      "url": "https://anilist.co/anime/5029"
+    },
+    "al_manga": {
+      "id": "5029",
+      "url": "https://anilist.co/manga/5029"
+    }
+  }
+}

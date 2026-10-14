@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11059,
+  "slug": "monster-musume-no-iru-nichijou-hobo-mainichi-namappoi-douga",
+  "kind": "anime",
+  "title": "Monster Musume no Iru Nichijou: Hobo Mainichi ○○! Namappoi Douga",
+  "titles": {
+    "default": "Monster Musume no Iru Nichijou: Hobo Mainichi ○○! Namappoi Douga",
+    "romaji": "Monster Musume no Iru Nichijou: Hobo Mainichi ○○! Namappoi Douga",
+    "english": "Monster Musume Everyday Life With Monster Girls: Hobo Mainichi Oo! Namappoi Douga",
+    "native": "モンスター娘のいる日常 ほぼ毎日○○！生っぽい動画"
+  },
+  "synonyms": [
+    "Monster Musume no Iru Nichijou: Hobo Mainichi ○○! Namappoi Douga",
+    "Monster Musume Everyday Life With Monster Girls: Hobo Mainichi Oo! Namappoi Douga",
+    "モンスター娘のいる日常 ほぼ毎日○○！生っぽい動画",
+    "Almost Daily __! Sort of Live Video, Monster Musume WEB Shorts",
+    "Almost Daily __! Sort of Live Video",
+    "Monster Musume WEB Shorts",
+    "Monster Musume: Almost Daily ◯◯! Sort of Live Video",
+    "「モンスター娘のいる日常」ほぼ毎日○○！生っぽい動画",
+    "Monster Musume no Iru Nichijou: Hobo Mainichi ◯◯! Namappoi Douga"
+  ],
+  "type": "ona",
+  "episodes": 60,
+  "status": "finished",
+  "season": "summer",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21389-ZtjeP8RWkLE5.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21389",
+      "url": "https://anilist.co/anime/21389"
+    },
+    "mal": {
+      "id": "31121",
+      "url": "https://myanimelist.net/anime/31121"
+    },
+    "tx": {
+      "id": "monmusu_tv",
+      "url": "https://twitter.com/monmusu_tv"
+    }
+  }
+}

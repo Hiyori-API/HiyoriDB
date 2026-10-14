@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13513,
+  "slug": "oshiri-dandy-the-young",
+  "kind": "anime",
+  "title": "Oshiri Dandy the Young",
+  "titles": {
+    "default": "Oshiri Dandy the Young",
+    "romaji": "Oshiri Dandy the Young",
+    "native": "おしりダンディ ザ・ヤング"
+  },
+  "synonyms": [
+    "Oshiri Dandy the Young",
+    "おしりダンディ ザ・ヤング",
+    "Shin Chan",
+    "Crayon Shin-chan",
+    "クレヨンしんちゃん"
+  ],
+  "type": "tv",
+  "status": "airing",
+  "season": "spring",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx201910-yulAeyMQbbvw.png"
+  ],
+  "references": {
+    "al": {
+      "id": "201910",
+      "url": "https://anilist.co/anime/201910"
+    },
+    "k": {
+      "id": "856",
+      "url": "https://kitsu.io/anime/856"
+    },
+    "mal": {
+      "id": "966",
+      "url": "https://myanimelist.net/anime/966"
+    },
+    "t": {
+      "id": "61711",
+      "url": "https://trakt.tv/shows/61711"
+    }
+  }
+}

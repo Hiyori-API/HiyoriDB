@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5745,
+  "slug": "ukkari-p-n-lope-ova",
+  "kind": "anime",
+  "title": "Ukkari Pénélope OVA",
+  "titles": {
+    "default": "Ukkari Pénélope OVA",
+    "romaji": "Ukkari Pénélope OVA",
+    "native": "メリークリスマス、ペネロペ / ペネロペのクリスマスパーティー"
+  },
+  "synonyms": [
+    "Ukkari Pénélope OVA",
+    "メリークリスマス、ペネロペ / ペネロペのクリスマスパーティー",
+    "Ukkari Penelope OVA",
+    "Pénélope tête en l'air OVA",
+    "Carelessly Penelope OVA",
+    "Absent-minded Penelope OVA",
+    "Head in the Air Penelope",
+    "Pénélope's Christmas Party",
+    "Pénélope no Christmas Party"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8346.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8346",
+      "url": "https://anilist.co/anime/8346"
+    },
+    "k": {
+      "id": "5301",
+      "url": "https://kitsu.io/anime/5301"
+    },
+    "mal": {
+      "id": "8346",
+      "url": "https://myanimelist.net/anime/8346"
+    }
+  }
+}

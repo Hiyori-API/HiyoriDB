@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14971,
+  "slug": "neo-faust",
+  "kind": "manga",
+  "title": "Neo Faust",
+  "titles": {
+    "default": "Neo Faust"
+  },
+  "synonyms": [
+    "Neo Faust",
+    "ネオ・ファウスト",
+    "Ranma ½",
+    "Ranma 1/2",
+    "らんま½"
+  ],
+  "type": "manga",
+  "chapters": 2,
+  "volumes": 1,
+  "status": "discontinued",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx131322-QJtqXcbSxRMj.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "104345",
+      "url": "https://anilist.co/anime/104345"
+    },
+    "al_manga": {
+      "id": "104345",
+      "url": "https://anilist.co/manga/104345"
+    }
+  }
+}

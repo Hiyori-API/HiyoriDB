@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3793,
+  "slug": "shin-maple-town-monogatari-palm-town-hen",
+  "kind": "anime",
+  "title": "Shin Maple Town Monogatari: Palm Town-hen",
+  "titles": {
+    "default": "Shin Maple Town Monogatari: Palm Town-hen",
+    "romaji": "Shin Maple Town Monogatari: Palm Town-hen",
+    "english": "Palm Town",
+    "native": "新メイプルタウン物語 パームタウン編"
+  },
+  "synonyms": [
+    "Shin Maple Town Monogatari: Palm Town-hen",
+    "Palm Town",
+    "新メイプルタウン物語 パームタウン編",
+    "New Maple Town Stories"
+  ],
+  "type": "tv",
+  "episodes": 44,
+  "status": "finished",
+  "season": "winter",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5203.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5203",
+      "url": "https://anilist.co/anime/5203"
+    },
+    "k": {
+      "id": "3982",
+      "url": "https://kitsu.io/anime/3982"
+    },
+    "mal": {
+      "id": "5203",
+      "url": "https://myanimelist.net/anime/5203"
+    }
+  }
+}

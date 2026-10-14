@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15324,
+  "slug": "kimi-to-boku",
+  "kind": "manga",
+  "title": "Kimi to Boku.",
+  "titles": {
+    "default": "Kimi to Boku."
+  },
+  "synonyms": [
+    "You and I",
+    "少年同盟",
+    "君と僕。",
+    "xxxHOLiC",
+    "xxxHolic Rou",
+    "xxxHolic Cage",
+    "xxxHolic•Rou"
+  ],
+  "type": "manga",
+  "chapters": 103,
+  "volumes": 17,
+  "status": "finished",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx38557-uqsMyGtCGcJI.png"
+  ],
+  "references": {
+    "al": {
+      "id": "10460",
+      "url": "https://anilist.co/anime/11739"
+    },
+    "al_manga": {
+      "id": "10460",
+      "url": "https://anilist.co/manga/10460"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 616,
+  "slug": "lemon-angel-project",
+  "kind": "anime",
+  "title": "Lemon Angel Project",
+  "titles": {
+    "default": "Lemon Angel Project",
+    "romaji": "Lemon Angel Project",
+    "native": "レモン エンジェル プロジェクト"
+  },
+  "synonyms": [
+    "Lemon Angel Project",
+    "レモン エンジェル プロジェクト"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx671-ok9PGZjG6jzS.png"
+  ],
+  "references": {
+    "al": {
+      "id": "671",
+      "url": "https://anilist.co/anime/671"
+    },
+    "k": {
+      "id": "615",
+      "url": "https://kitsu.io/anime/615"
+    },
+    "mal": {
+      "id": "671",
+      "url": "https://myanimelist.net/anime/671"
+    },
+    "t": {
+      "id": "35658",
+      "url": "https://trakt.tv/shows/35658"
+    }
+  }
+}

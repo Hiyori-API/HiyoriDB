@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 935,
+  "slug": "elf-wo-karu-mono-tachi-ii",
+  "kind": "anime",
+  "title": "Elf wo Karu Mono-tachi II",
+  "titles": {
+    "default": "Elf wo Karu Mono-tachi II",
+    "romaji": "Elf wo Karu Mono-tachi II",
+    "english": "Those Who Hunt Elves II",
+    "native": "エルフを狩るモノたち II"
+  },
+  "synonyms": [
+    "Elf wo Karu Mono-tachi II",
+    "Those Who Hunt Elves II",
+    "エルフを狩るモノたち II"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1046-MtFdMlw6oGWL.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1046",
+      "url": "https://anilist.co/anime/1046"
+    },
+    "k": {
+      "id": "936",
+      "url": "https://kitsu.io/anime/936"
+    },
+    "mal": {
+      "id": "1046",
+      "url": "https://myanimelist.net/anime/1046"
+    },
+    "t": {
+      "id": "12510",
+      "url": "https://trakt.tv/shows/12510"
+    }
+  }
+}

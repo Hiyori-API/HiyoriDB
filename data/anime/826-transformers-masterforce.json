@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 826,
+  "slug": "transformers-masterforce",
+  "kind": "anime",
+  "title": "Transformers Masterforce",
+  "titles": {
+    "default": "Transformers Masterforce",
+    "romaji": "Transformers Masterforce",
+    "english": "Transformers Super-God Masterforce",
+    "native": "トランスフォーマー・超神マスターフォース"
+  },
+  "synonyms": [
+    "Transformers Masterforce",
+    "Transformers Super-God Masterforce",
+    "トランスフォーマー・超神マスターフォース",
+    "Transformers Chojin Master Force",
+    "Little Lord Fauntleroy",
+    "Shoukoushi Cedie",
+    "小公子セディ",
+    "Sekai Meisaku Gekijou",
+    "Little Prince Cedie"
+  ],
+  "type": "tv",
+  "episodes": 43,
+  "status": "finished",
+  "season": "spring",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/924.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "924",
+      "url": "https://anilist.co/anime/924"
+    },
+    "k": {
+      "id": "2320",
+      "url": "https://kitsu.io/anime/2320"
+    },
+    "mal": {
+      "id": "924",
+      "url": "https://myanimelist.net/anime/924"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9325,
+  "slug": "demi-chan-wa-kataritai-demi-chan-no-natsuyasumi",
+  "kind": "anime",
+  "title": "Demi-chan wa Kataritai: Demi-chan no Natsuyasumi",
+  "titles": {
+    "default": "Demi-chan wa Kataritai: Demi-chan no Natsuyasumi",
+    "romaji": "Demi-chan wa Kataritai: Demi-chan no Natsuyasumi",
+    "english": "Interviews with Monster Girls: The Demi-chans' Summer Break",
+    "native": "亜人ちゃんは語りたい 亜人ちゃんの夏休み"
+  },
+  "synonyms": [
+    "Demi-chan wa Kataritai: Demi-chan no Natsuyasumi",
+    "Interviews with Monster Girls: The Demi-chans' Summer Break",
+    "亜人ちゃんは語りたい 亜人ちゃんの夏休み",
+    "The Demis' Summer Break",
+    "Our Jury Story",
+    "Bokura no Saibanin Monogatari",
+    "ぼくらの裁判員物語"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx99394-0fGPUck4fnBd.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "99394",
+      "url": "https://anilist.co/anime/99394"
+    },
+    "cr": {
+      "id": "interviews-with-monster-girls",
+      "url": "https://www.crunchyroll.com/series/interviews-with-monster-girls"
+    },
+    "k": {
+      "id": "4614",
+      "url": "https://kitsu.io/anime/4614"
+    },
+    "mal": {
+      "id": "35823",
+      "url": "https://myanimelist.net/anime/35823"
+    },
+    "tx": {
+      "id": "demichan_anime",
+      "url": "https://twitter.com/demichan_anime"
+    }
+  }
+}

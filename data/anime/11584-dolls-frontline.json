@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11584,
+  "slug": "dolls-frontline",
+  "kind": "anime",
+  "title": "Dolls' Frontline",
+  "titles": {
+    "default": "Dolls' Frontline",
+    "romaji": "Dolls' Frontline",
+    "english": "Girls’ Frontline",
+    "native": "ドールズフロントライン"
+  },
+  "synonyms": [
+    "Dolls' Frontline",
+    "Girls’ Frontline",
+    "ドールズフロントライン",
+    "少女前线",
+    "Shaonü Qianxian",
+    "Девушки на линии фронта",
+    "Vanitas no Shuki 2nd Season",
+    "Memoir of Vanitas 2nd Season",
+    "Vanitas no Carte 2nd Season",
+    "The Case Study of Vanitas Part 2",
+    "ヴァニタスの手記",
+    "Vanitas no Karte Part 2"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128828-Lhulr8Niitey.png"
+  ],
+  "references": {
+    "al": {
+      "id": "128828",
+      "url": "https://anilist.co/anime/128828"
+    },
+    "cr": {
+      "id": "girls-frontline",
+      "url": "https://www.crunchyroll.com/series/girls-frontline"
+    },
+    "mal": {
+      "id": "46604",
+      "url": "https://myanimelist.net/anime/46604"
+    },
+    "tx": {
+      "id": "gf_animePR",
+      "url": "https://twitter.com/gf_animePR"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6915,
+  "slug": "accel-world-ex",
+  "kind": "anime",
+  "title": "Accel World EX",
+  "titles": {
+    "default": "Accel World EX",
+    "romaji": "Accel World EX",
+    "native": "アクセル・ワールド EX"
+  },
+  "synonyms": [
+    "Accel World EX",
+    "アクセル・ワールド EX",
+    "Accel World OVA",
+    "Accel World: Reverberation",
+    "Accel World: Ginyoku no Kakusei",
+    "Accel World: Kasoku no Chouten"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx13939-ZwDOMGMYUu4N.png"
+  ],
+  "references": {
+    "al": {
+      "id": "13939",
+      "url": "https://anilist.co/anime/13939"
+    },
+    "k": {
+      "id": "7057",
+      "url": "https://kitsu.io/anime/7057"
+    },
+    "mal": {
+      "id": "13939",
+      "url": "https://myanimelist.net/anime/13939"
+    },
+    "t": {
+      "id": "42938",
+      "url": "https://trakt.tv/shows/42938"
+    },
+    "tx": {
+      "id": "accel_world",
+      "url": "https://twitter.com/accel_world"
+    }
+  }
+}

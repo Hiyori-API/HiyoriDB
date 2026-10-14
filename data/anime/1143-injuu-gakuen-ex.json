@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1143,
+  "slug": "injuu-gakuen-ex",
+  "kind": "anime",
+  "title": "Injuu Gakuen EX",
+  "titles": {
+    "default": "Injuu Gakuen EX",
+    "romaji": "Injuu Gakuen EX",
+    "english": "Lady Blue",
+    "native": "淫獣学園 EX"
+  },
+  "synonyms": [
+    "Injuu Gakuen EX",
+    "Lady Blue",
+    "淫獣学園 EX",
+    "La Blue Girl EX",
+    "Birdy the Mighty",
+    "Tetsuwan Birdy",
+    "鉄腕バーディー"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "summer",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1274.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1274",
+      "url": "https://anilist.co/anime/1274"
+    },
+    "k": {
+      "id": "523",
+      "url": "https://kitsu.io/anime/523"
+    },
+    "mal": {
+      "id": "1274",
+      "url": "https://myanimelist.net/anime/1274"
+    }
+  }
+}

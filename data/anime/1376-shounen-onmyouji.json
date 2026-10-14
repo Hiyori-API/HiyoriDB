@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1376,
+  "slug": "shounen-onmyouji",
+  "kind": "anime",
+  "title": "Shounen Onmyouji",
+  "titles": {
+    "default": "Shounen Onmyouji",
+    "romaji": "Shounen Onmyouji",
+    "english": "Shonen Onmyoji",
+    "native": "少年陰陽師"
+  },
+  "synonyms": [
+    "Shounen Onmyouji",
+    "Shonen Onmyoji",
+    "少年陰陽師",
+    "The Young Spirit Master",
+    "Teenager Onmyoji",
+    "Shonen Onmyouji"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1557-l3d9C5xr1BAC.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1557",
+      "url": "https://anilist.co/anime/1557"
+    },
+    "k": {
+      "id": "1397",
+      "url": "https://kitsu.io/anime/1397"
+    },
+    "mal": {
+      "id": "1557",
+      "url": "https://myanimelist.net/anime/1557"
+    },
+    "t": {
+      "id": "61433",
+      "url": "https://trakt.tv/shows/61433"
+    }
+  }
+}

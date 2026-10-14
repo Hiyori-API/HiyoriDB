@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5591,
+  "slug": "peace-maker-kurogane-original-short-story-gion-festival",
+  "kind": "anime",
+  "title": "Peace Maker Kurogane: Original Short Story - Gion Festival",
+  "titles": {
+    "default": "Peace Maker Kurogane: Original Short Story - Gion Festival",
+    "romaji": "Peace Maker Kurogane: Original Short Story - Gion Festival",
+    "english": "Peace Maker Kurogane: Festival of Gion",
+    "native": "オリジナルショートストーリー 「祇園会」"
+  },
+  "synonyms": [
+    "Peace Maker Kurogane: Original Short Story - Gion Festival",
+    "Peace Maker Kurogane: Festival of Gion",
+    "オリジナルショートストーリー 「祇園会」",
+    "Peace Maker Kurogane Special",
+    "Peacemaker Kurogane Special",
+    "PMK Special",
+    "The Prince of Tennis: New Year's Special",
+    "Tennis no Ouji-sama: Oshougatsu Special",
+    "テニスの王子様 お正月スペシャル",
+    "Tennis no Ouji-sama: S1",
+    "Prince of Tennis: New Year's Special"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9568.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9568",
+      "url": "https://anilist.co/anime/9568"
+    },
+    "k": {
+      "id": "4378",
+      "url": "https://kitsu.io/anime/4378"
+    },
+    "mal": {
+      "id": "9568",
+      "url": "https://myanimelist.net/anime/9568"
+    }
+  }
+}

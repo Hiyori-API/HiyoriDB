@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 292,
+  "slug": "paradise-kiss",
+  "kind": "anime",
+  "title": "Paradise Kiss",
+  "titles": {
+    "default": "Paradise Kiss",
+    "romaji": "Paradise Kiss",
+    "native": "パラダイス・キス"
+  },
+  "synonyms": [
+    "Paradise Kiss",
+    "パラダイス・キス",
+    "Parakiss",
+    "Paradise kiss",
+    "ParaKiss"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx322-4OvRw6V7JTiK.png"
+  ],
+  "references": {
+    "al": {
+      "id": "322",
+      "url": "https://anilist.co/anime/322"
+    },
+    "k": {
+      "id": "289",
+      "url": "https://kitsu.io/anime/289"
+    },
+    "mal": {
+      "id": "322",
+      "url": "https://myanimelist.net/anime/322"
+    },
+    "t": {
+      "id": "34061",
+      "url": "https://trakt.tv/shows/34061"
+    }
+  }
+}

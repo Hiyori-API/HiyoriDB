@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8648,
+  "slug": "owari-no-seraph-kyuuketsuki-shahal",
+  "kind": "anime",
+  "title": "Owari no Seraph: Kyuuketsuki Shahal",
+  "titles": {
+    "default": "Owari no Seraph: Kyuuketsuki Shahal",
+    "romaji": "Owari no Seraph: Kyuuketsuki Shahal",
+    "english": "Seraph of the End: Kyuuketsuki Shahal",
+    "native": "終わりのセラフ 吸血鬼シャハル"
+  },
+  "synonyms": [
+    "Owari no Seraph: Kyuuketsuki Shahal",
+    "Seraph of the End: Kyuuketsuki Shahal",
+    "終わりのセラフ 吸血鬼シャハル",
+    "Owari no Seraph: Jump Festa 2015 Special",
+    "Owari no Seraph: Vampire Shahar",
+    "Owari no Seraph OVA",
+    "終わりのセラフ ジャンプフェスタ2015",
+    "เทวทูตแห่งโลกมืด OVA",
+    "Trick or Alice",
+    "トリック・オア・アリス"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21586-Fhcf7PklKZ5O.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21586",
+      "url": "https://anilist.co/anime/21586"
+    },
+    "k": {
+      "id": "8100",
+      "url": "https://kitsu.io/anime/8100"
+    },
+    "mal": {
+      "id": "31378",
+      "url": "https://myanimelist.net/anime/31378"
+    },
+    "tx": {
+      "id": "owarino_seraph",
+      "url": "https://twitter.com/owarino_seraph"
+    }
+  }
+}

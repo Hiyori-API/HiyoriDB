@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1153,
+  "slug": "soukihei-md-geist-2-death-force",
+  "kind": "anime",
+  "title": "Soukihei MD Geist 2: DEATH FORCE",
+  "titles": {
+    "default": "Soukihei MD Geist 2: DEATH FORCE",
+    "romaji": "Soukihei MD Geist 2: DEATH FORCE",
+    "english": "M.D. Geist 2 - Death Force",
+    "native": "装鬼兵MDガイスト2 DEATH FORCE"
+  },
+  "synonyms": [
+    "Soukihei MD Geist 2: DEATH FORCE",
+    "M.D. Geist 2 - Death Force",
+    "装鬼兵MDガイスト2 DEATH FORCE",
+    "MD Geist 2",
+    "Most Dangerous Geist 2",
+    "Most Dangerous Geist 2: Death Force",
+    "Most Dangerous Geist II",
+    "MD Geist II: Death Force",
+    "装鬼兵MDガイスト2",
+    "Most Dangerous Geist II: Death Force",
+    "Soukihei MD Geist 2"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1286-uiS4eicEoMkD.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1286",
+      "url": "https://anilist.co/anime/1286"
+    },
+    "k": {
+      "id": "1160",
+      "url": "https://kitsu.io/anime/1160"
+    },
+    "mal": {
+      "id": "1286",
+      "url": "https://myanimelist.net/anime/1286"
+    }
+  }
+}

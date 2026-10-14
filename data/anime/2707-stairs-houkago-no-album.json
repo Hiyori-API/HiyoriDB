@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2707,
+  "slug": "stairs-houkago-no-album",
+  "kind": "anime",
+  "title": "Stairs: Houkago no Album",
+  "titles": {
+    "default": "Stairs: Houkago no Album",
+    "romaji": "Stairs: Houkago no Album",
+    "native": "スタイアー ～放課後のアルバム～"
+  },
+  "synonyms": [
+    "Stairs: Houkago no Album",
+    "スタイアー ～放課後のアルバム～",
+    "Afro-Ken",
+    "アフロ犬"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3082.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3082",
+      "url": "https://anilist.co/anime/3082"
+    },
+    "k": {
+      "id": "2552",
+      "url": "https://kitsu.io/anime/2552"
+    },
+    "mal": {
+      "id": "3082",
+      "url": "https://myanimelist.net/anime/3082"
+    }
+  }
+}

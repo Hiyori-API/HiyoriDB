@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9288,
+  "slug": "skirt-no-naka-wa-kedamono-deshita",
+  "kind": "anime",
+  "title": "Skirt no Naka wa Kedamono Deshita.",
+  "titles": {
+    "default": "Skirt no Naka wa Kedamono Deshita.",
+    "romaji": "Skirt no Naka wa Kedamono Deshita.",
+    "english": "A Predator in a Skirt",
+    "native": "スカートの中はケダモノでした。"
+  },
+  "synonyms": [
+    "Skirt no Naka wa Kedamono Deshita.",
+    "A Predator in a Skirt",
+    "スカートの中はケダモノでした。",
+    "There Was a Beast Inside the Skirt.",
+    "A Wolf in Women's Clothing",
+    "Um Lobo de Saias",
+    "Saishuu Shiken Kujira",
+    "最終試験くじら",
+    "Final Examination Kujira"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98790-rPMsJyOOfWJI.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98790",
+      "url": "https://anilist.co/anime/98790"
+    },
+    "k": {
+      "id": "2685",
+      "url": "https://kitsu.io/anime/2685"
+    },
+    "mal": {
+      "id": "35629",
+      "url": "https://myanimelist.net/anime/35629"
+    },
+    "tx": {
+      "id": "sukakeda_anime",
+      "url": "https://twitter.com/sukakeda_anime"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14916,
+  "slug": "mahou-no-idol-pastel-yumi",
+  "kind": "manga",
+  "title": "Mahou no Idol Pastel Yumi",
+  "titles": {
+    "default": "Mahou no Idol Pastel Yumi"
+  },
+  "synonyms": [
+    "魔法のアイドルパステルユーミ",
+    "Nemureru Mori no Binan",
+    "眠れる森美男",
+    "Sleeping Beauty Boy",
+    "The Handsome Man in the Sleeping Woods",
+    "The Sleeping Beauty Man",
+    "The Sleeping Male Beauty in the Woods"
+  ],
+  "type": "manga",
+  "chapters": 10,
+  "volumes": 2,
+  "status": "finished",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/56697-SZ0lkP7mPsMZ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3660",
+      "url": "https://anilist.co/anime/3660"
+    },
+    "al_manga": {
+      "id": "3660",
+      "url": "https://anilist.co/manga/3660"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10375,
+  "slug": "tsukiuta-the-animation-2",
+  "kind": "anime",
+  "title": "Tsukiuta. THE ANIMATION 2",
+  "titles": {
+    "default": "Tsukiuta. THE ANIMATION 2",
+    "romaji": "Tsukiuta. THE ANIMATION 2",
+    "english": "TSUKIUTA. The Animation Season 2",
+    "native": "ツキウタ。 THE ANIMATION 2"
+  },
+  "synonyms": [
+    "Tsukiuta. THE ANIMATION 2",
+    "TSUKIUTA. The Animation Season 2",
+    "ツキウタ。 THE ANIMATION 2",
+    "Dig Delight Direct Drive DJ",
+    "D4DJ First Mix"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx105244-0EhJURYarzXl.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "105244",
+      "url": "https://anilist.co/anime/105244"
+    },
+    "cr": {
+      "id": "tsukiuta-the-animation",
+      "url": "https://www.crunchyroll.com/series/tsukiuta-the-animation"
+    },
+    "mal": {
+      "id": "38669",
+      "url": "https://myanimelist.net/anime/38669"
+    },
+    "tx": {
+      "id": "tsukiani_info",
+      "url": "https://twitter.com/tsukiani_info"
+    }
+  }
+}

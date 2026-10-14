@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14734,
+  "slug": "jungle-kurobee",
+  "kind": "manga",
+  "title": "Jungle Kurobee",
+  "titles": {
+    "default": "Jungle Kurobee"
+  },
+  "synonyms": [
+    "ジャングル黒べえ",
+    "Onward Towards Our Noble Deaths",
+    "Souin Gyokusai seyo!",
+    "総員玉砕せよ！",
+    "The Banzai! Charge",
+    "Operation Death",
+    "Opération Mort",
+    "Let us all die honorably!"
+  ],
+  "type": "manga",
+  "chapters": 69,
+  "volumes": 1,
+  "status": "finished",
+  "year": 1973,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b140172-bNvZNoLjy183.png"
+  ],
+  "references": {
+    "al": {
+      "id": "10889",
+      "url": "https://anilist.co/anime/10889"
+    },
+    "al_manga": {
+      "id": "10889",
+      "url": "https://anilist.co/manga/10889"
+    }
+  }
+}

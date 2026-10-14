@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15113,
+  "slug": "rakushou-hyper-doll",
+  "kind": "manga",
+  "title": "Rakushou! Hyper Doll",
+  "titles": {
+    "default": "Rakushou! Hyper Doll"
+  },
+  "synonyms": [
+    "Hyper Doll: The Easy Fighter",
+    "Hyper Doll",
+    "楽勝!ハイパードール",
+    "Kare Kano: His and Her Circumstances",
+    "Kareshi Kanojo no Jijou",
+    "彼氏彼女の事情",
+    "His and Hers",
+    "The Tiger and the Chameleon: A Promise for One Week",
+    "Ashita Mata Mori de Aou ne",
+    "Meet Me Again Tomorrow in the Forest",
+    "KKNJ",
+    "Abareru Ousama",
+    "The Raging King"
+  ],
+  "type": "manga",
+  "chapters": 30,
+  "volumes": 5,
+  "status": "finished",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx43276-OWtwr5B2b9Xq.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2522",
+      "url": "https://anilist.co/anime/2522"
+    },
+    "al_manga": {
+      "id": "2522",
+      "url": "https://anilist.co/manga/2522"
+    }
+  }
+}

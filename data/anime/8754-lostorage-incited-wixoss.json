@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8754,
+  "slug": "lostorage-incited-wixoss",
+  "kind": "anime",
+  "title": "Lostorage incited WIXOSS",
+  "titles": {
+    "default": "Lostorage incited WIXOSS",
+    "romaji": "Lostorage incited WIXOSS"
+  },
+  "synonyms": [
+    "Lostorage incited WIXOSS",
+    "Kiss Him, Not Me!",
+    "私がモテてどうすんだ",
+    "Watashi ga Motete Dousunda"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21772-RcnRl1bsqg2U.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21772",
+      "url": "https://anilist.co/anime/21772"
+    },
+    "cr": {
+      "id": "lostorage-incited-wixoss",
+      "url": "https://www.crunchyroll.com/series/lostorage-incited-wixoss"
+    },
+    "mal": {
+      "id": "33197",
+      "url": "https://myanimelist.net/anime/33197"
+    },
+    "nf": {
+      "id": "81080860",
+      "url": "https://www.netflix.com/title/81080860"
+    },
+    "tx": {
+      "id": "wixoss_anime",
+      "url": "https://twitter.com/wixoss_anime"
+    }
+  }
+}

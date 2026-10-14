@@ -1,0 +1,58 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10042,
+  "slug": "stand-my-heroes-piece-of-truth",
+  "kind": "anime",
+  "title": "Stand My Heroes: PIECE OF TRUTH",
+  "titles": {
+    "default": "Stand My Heroes: PIECE OF TRUTH",
+    "romaji": "Stand My Heroes: PIECE OF TRUTH",
+    "english": "Stand My Heroes: Piece of Truth",
+    "native": "スタンドマイヒーローズ PIECE OF TRUTH"
+  },
+  "synonyms": [
+    "Stand My Heroes: PIECE OF TRUTH",
+    "Stand My Heroes: Piece of Truth",
+    "スタンドマイヒーローズ PIECE OF TRUTH",
+    "スタマイ",
+    "StaMy",
+    "SutaMai",
+    "Ring ni Kakero 1",
+    "リングにかけろ１",
+    "Put it all in the Ring"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104158-Jn8LRgfii5Kx.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "104158",
+      "url": "https://anilist.co/anime/104158"
+    },
+    "cr": {
+      "id": "stand-my-heroes-piece-of-truth",
+      "url": "https://www.crunchyroll.com/series/stand-my-heroes-piece-of-truth"
+    },
+    "k": {
+      "id": "14",
+      "url": "https://kitsu.io/anime/14"
+    },
+    "mal": {
+      "id": "38331",
+      "url": "https://myanimelist.net/anime/38331"
+    },
+    "t": {
+      "id": "69507",
+      "url": "https://trakt.tv/shows/69507"
+    },
+    "tx": {
+      "id": "myhero_anime",
+      "url": "https://twitter.com/myhero_anime"
+    }
+  }
+}

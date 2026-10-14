@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4126,
+  "slug": "metal-fight-beyblade",
+  "kind": "anime",
+  "title": "Metal Fight Beyblade",
+  "titles": {
+    "default": "Metal Fight Beyblade",
+    "romaji": "Metal Fight Beyblade",
+    "english": "Beyblade: Metal Fusion",
+    "native": "メタルファイト ベイブレード"
+  },
+  "synonyms": [
+    "Metal Fight Beyblade",
+    "Beyblade: Metal Fusion",
+    "メタルファイト ベイブレード",
+    "בייבלייד - עידן המתכת"
+  ],
+  "type": "tv",
+  "episodes": 51,
+  "status": "finished",
+  "season": "spring",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5962-MhsmIFdv4J59.png"
+  ],
+  "references": {
+    "al": {
+      "id": "5962",
+      "url": "https://anilist.co/anime/5962"
+    },
+    "cr": {
+      "id": "beyblade-metal-fusion",
+      "url": "https://www.crunchyroll.com/series/beyblade-metal-fusion"
+    },
+    "k": {
+      "id": "4365",
+      "url": "https://kitsu.io/anime/4365"
+    },
+    "mal": {
+      "id": "5962",
+      "url": "https://myanimelist.net/anime/5962"
+    },
+    "nf": {
+      "id": "70213120",
+      "url": "https://www.netflix.com/title/70213120"
+    },
+    "t": {
+      "id": "62163",
+      "url": "https://trakt.tv/shows/62163"
+    }
+  }
+}

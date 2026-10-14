@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3638,
+  "slug": "pendant",
+  "kind": "anime",
+  "title": "Pendant",
+  "titles": {
+    "default": "Pendant",
+    "romaji": "Pendant",
+    "native": "ペンダント"
+  },
+  "synonyms": [
+    "Pendant",
+    "ペンダント",
+    "Starship Girl Yamamoto Yohko II",
+    "Soreyuke! Uchuu Senkan Yamamoto Yohko II",
+    "それゆけ!宇宙戦艦ヤマモト・ヨーコⅡ",
+    "Soreyuke! Uchuu Senkan Yamamoto Yooko II"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "summer",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4822.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4822",
+      "url": "https://anilist.co/anime/4822"
+    },
+    "k": {
+      "id": "1501",
+      "url": "https://kitsu.io/anime/1501"
+    },
+    "mal": {
+      "id": "4822",
+      "url": "https://myanimelist.net/anime/4822"
+    }
+  }
+}

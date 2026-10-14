@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1405,
+  "slug": "aoi-umi-no-tristia",
+  "kind": "anime",
+  "title": "Aoi Umi no Tristia",
+  "titles": {
+    "default": "Aoi Umi no Tristia",
+    "romaji": "Aoi Umi no Tristia",
+    "native": "蒼い海のトリスティア"
+  },
+  "synonyms": [
+    "Aoi Umi no Tristia",
+    "蒼い海のトリスティア",
+    "Tristia of the Deep Blue Sea",
+    "Tristia - Błękitna Wyspa"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1586.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1586",
+      "url": "https://anilist.co/anime/1586"
+    },
+    "k": {
+      "id": "1426",
+      "url": "https://kitsu.io/anime/1426"
+    },
+    "mal": {
+      "id": "1586",
+      "url": "https://myanimelist.net/anime/1586"
+    }
+  }
+}

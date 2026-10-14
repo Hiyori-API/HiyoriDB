@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11611,
+  "slug": "uta-no-prince-sama-maji-love-st-rish-tours",
+  "kind": "anime",
+  "title": "Uta no☆Prince-sama♪ Maji LOVE ST☆RISH Tours",
+  "titles": {
+    "default": "Uta no☆Prince-sama♪ Maji LOVE ST☆RISH Tours",
+    "romaji": "Uta no☆Prince-sama♪ Maji LOVE ST☆RISH Tours",
+    "english": "Utano☆Princesama Maji LOVE ST☆RISH Tours",
+    "native": "劇場版 うたの☆プリンスさまっ♪ マジLOVEスターリッシュツアーズ"
+  },
+  "synonyms": [
+    "Uta no☆Prince-sama♪ Maji LOVE ST☆RISH Tours",
+    "Utano☆Princesama Maji LOVE ST☆RISH Tours",
+    "劇場版 うたの☆プリンスさまっ♪ マジLOVEスターリッシュツアーズ",
+    "UtaPri Movie 2",
+    "Uta no Princesama Maji Love Starish Tours Movie",
+    "Uta no Prince-sama Maji Love Starish Tours Movie",
+    "Uta no☆Prince-sama♪ Movie: Maji Love ST☆RISH Tours"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132055-HK87BHlrfWYE.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "132055",
+      "url": "https://anilist.co/anime/132055"
+    },
+    "mal": {
+      "id": "48573",
+      "url": "https://myanimelist.net/anime/48573"
+    },
+    "tx": {
+      "id": "utapriMAJILOVE",
+      "url": "https://twitter.com/utapriMAJILOVE"
+    }
+  }
+}

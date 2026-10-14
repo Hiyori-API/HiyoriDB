@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15780,
+  "slug": "hori-san-to-miyamura-kun",
+  "kind": "manga",
+  "title": "Hori-san to Miyamura-kun",
+  "titles": {
+    "default": "Hori-san to Miyamura-kun"
+  },
+  "synonyms": [
+    "Horisan to Miyamurakun",
+    "堀さんと宮村くん",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "chapters": 152,
+  "volumes": 10,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/36615.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "14753",
+      "url": "https://anilist.co/anime/14753"
+    },
+    "al_manga": {
+      "id": "14753",
+      "url": "https://anilist.co/manga/14753"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2959,
+  "slug": "rayca",
+  "kind": "anime",
+  "title": "rayca",
+  "titles": {
+    "default": "rayca",
+    "romaji": "rayca",
+    "native": "零花～rayca"
+  },
+  "synonyms": [
+    "rayca",
+    "零花～rayca",
+    "Rayca"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3490-vputN6td9HzW.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3490",
+      "url": "https://anilist.co/anime/3490"
+    },
+    "k": {
+      "id": "3048",
+      "url": "https://kitsu.io/anime/3048"
+    },
+    "mal": {
+      "id": "3490",
+      "url": "https://myanimelist.net/anime/3490"
+    }
+  }
+}

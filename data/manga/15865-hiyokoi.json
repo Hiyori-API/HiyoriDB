@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15865,
+  "slug": "hiyokoi",
+  "kind": "manga",
+  "title": "Hiyokoi",
+  "titles": {
+    "default": "Hiyokoi"
+  },
+  "synonyms": [
+    "Hiyokoi: Chick Love",
+    "ひよ恋",
+    "Simple Knot Loafers",
+    "シンプルノットローファー",
+    "Shinpuru Notto Rofa",
+    "Shinpuru Notto Roofaa",
+    "Simple Not Loafer"
+  ],
+  "type": "manga",
+  "chapters": 69,
+  "volumes": 14,
+  "status": "finished",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx47394-VUgAXS97f5WS.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8768",
+      "url": "https://anilist.co/anime/15895"
+    },
+    "al_manga": {
+      "id": "8768",
+      "url": "https://anilist.co/manga/8768"
+    }
+  }
+}

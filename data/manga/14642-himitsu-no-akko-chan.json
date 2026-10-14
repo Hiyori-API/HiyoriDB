@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14642,
+  "slug": "himitsu-no-akko-chan",
+  "kind": "manga",
+  "title": "Himitsu no Akko-chan",
+  "titles": {
+    "default": "Himitsu no Akko-chan"
+  },
+  "synonyms": [
+    "Akko-chan's Secret",
+    "ひみつのアッコちゃん",
+    "Renai Soukanzu",
+    "恋愛相姦図",
+    "Renai Sokanzu",
+    "Pink Sweets"
+  ],
+  "type": "manga",
+  "volumes": 3,
+  "status": "finished",
+  "year": 1962,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx51406-77XcY1JuTzFy.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3285",
+      "url": "https://anilist.co/anime/3285"
+    },
+    "al_manga": {
+      "id": "3285",
+      "url": "https://anilist.co/manga/3285"
+    }
+  }
+}

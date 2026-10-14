@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9300,
+  "slug": "hibike-euphonium-todoketai-melody",
+  "kind": "anime",
+  "title": "Hibike! Euphonium: Todoketai Melody",
+  "titles": {
+    "default": "Hibike! Euphonium: Todoketai Melody",
+    "romaji": "Hibike! Euphonium: Todoketai Melody",
+    "english": "Sound! Euphonium The Movie — May the melody reach you! —",
+    "native": "劇場版 響け！ユーフォニアム～届けたいメロディ～"
+  },
+  "synonyms": [
+    "Hibike! Euphonium: Todoketai Melody",
+    "Sound! Euphonium The Movie — May the melody reach you! —",
+    "劇場版 響け！ユーフォニアム～届けたいメロディ～",
+    "Genocidal Organ",
+    "Gyakusatsu Kikan",
+    "虐殺器官",
+    "Project Itoh"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98876-krwPsUODyWin.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98876",
+      "url": "https://anilist.co/anime/98876"
+    },
+    "cr": {
+      "id": "sound-euphonium-movies",
+      "url": "https://www.crunchyroll.com/series/sound-euphonium-movies"
+    },
+    "k": {
+      "id": "8737",
+      "url": "https://kitsu.io/anime/8737"
+    },
+    "mal": {
+      "id": "35082",
+      "url": "https://myanimelist.net/anime/35082"
+    },
+    "tx": {
+      "id": "anime_eupho",
+      "url": "https://twitter.com/anime_eupho"
+    }
+  }
+}

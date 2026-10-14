@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5777,
+  "slug": "susume-dokan-kun",
+  "kind": "anime",
+  "title": "Susume! Dokan-kun",
+  "titles": {
+    "default": "Susume! Dokan-kun",
+    "romaji": "Susume! Dokan-kun",
+    "native": "進め!土管くん"
+  },
+  "synonyms": [
+    "Susume! Dokan-kun",
+    "進め!土管くん",
+    "Baccano!",
+    "バッカーノ！"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b121071-kjaYn33z13NT.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "121071",
+      "url": "https://anilist.co/anime/121071"
+    },
+    "k": {
+      "id": "2039",
+      "url": "https://kitsu.io/anime/2039"
+    },
+    "mal": {
+      "id": "38568",
+      "url": "https://myanimelist.net/anime/38568"
+    },
+    "t": {
+      "id": "33974",
+      "url": "https://trakt.tv/shows/33974"
+    }
+  }
+}

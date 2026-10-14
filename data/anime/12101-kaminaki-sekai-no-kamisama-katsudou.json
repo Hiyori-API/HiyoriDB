@@ -1,0 +1,63 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12101,
+  "slug": "kaminaki-sekai-no-kamisama-katsudou",
+  "kind": "anime",
+  "title": "Kaminaki Sekai no Kamisama Katsudou",
+  "titles": {
+    "default": "Kaminaki Sekai no Kamisama Katsudou",
+    "romaji": "Kaminaki Sekai no Kamisama Katsudou",
+    "english": "KamiKatsu: Working for God in a Godless World",
+    "native": "神無き世界のカミサマ活動"
+  },
+  "synonyms": [
+    "Kaminaki Sekai no Kamisama Katsudou",
+    "KamiKatsu: Working for God in a Godless World",
+    "神無き世界のカミサマ活動",
+    "What God Does in a World Without Gods",
+    "KamiKatsu: Atividades Divinas em um Mundo sem Deuses",
+    "Kamisama : Opération Divine",
+    "KamiKatsu",
+    "KamiKatsu: Meine Arbeit als Missionar in einer gottlosen Welt",
+    "โลกนี้ โลกหน้า ข้าก็เป็นพระเจ้า",
+    "KamiKatsu: Как быть богу в мире без богов?",
+    "無神世界的神明活動",
+    "This Ugly Yet Beautiful World",
+    "Kono Minikuku mo Utsukushii Sekai",
+    "この醜くも美しい世界"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2023,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx148048-IaEk51Wtu07L.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "148048",
+      "url": "https://anilist.co/anime/148048"
+    },
+    "cr": {
+      "id": "series/GNVHKNP4J/kamikatsu-working-for-god-in-a-godless-world",
+      "url": "https://www.crunchyroll.com/series/series/GNVHKNP4J/kamikatsu-working-for-god-in-a-godless-world"
+    },
+    "k": {
+      "id": "124",
+      "url": "https://kitsu.io/anime/124"
+    },
+    "mal": {
+      "id": "51693",
+      "url": "https://myanimelist.net/anime/51693"
+    },
+    "t": {
+      "id": "34001",
+      "url": "https://trakt.tv/shows/34001"
+    },
+    "tx": {
+      "id": "kamikatsu_anime",
+      "url": "https://twitter.com/kamikatsu_anime"
+    }
+  }
+}

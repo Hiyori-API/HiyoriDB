@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1297,
+  "slug": "city-hunter-2",
+  "kind": "anime",
+  "title": "City Hunter 2",
+  "titles": {
+    "default": "City Hunter 2",
+    "romaji": "City Hunter 2",
+    "native": "シティーハンター2"
+  },
+  "synonyms": [
+    "City Hunter 2",
+    "シティーハンター2"
+  ],
+  "type": "tv",
+  "episodes": 63,
+  "status": "finished",
+  "season": "spring",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx1471-fGdrcINlEmwT.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1471",
+      "url": "https://anilist.co/anime/1471"
+    },
+    "cr": {
+      "id": "city-hunter",
+      "url": "https://www.crunchyroll.com/series/city-hunter"
+    },
+    "k": {
+      "id": "1317",
+      "url": "https://kitsu.io/anime/1317"
+    },
+    "mal": {
+      "id": "1471",
+      "url": "https://myanimelist.net/anime/1471"
+    },
+    "t": {
+      "id": "35890",
+      "url": "https://trakt.tv/shows/35890"
+    }
+  }
+}

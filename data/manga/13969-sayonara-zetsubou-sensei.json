@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13969,
+  "slug": "sayonara-zetsubou-sensei",
+  "kind": "manga",
+  "title": "Sayonara Zetsubou Sensei",
+  "titles": {
+    "default": "Sayonara Zetsubou Sensei"
+  },
+  "synonyms": [
+    "Farewell Mr. Despair",
+    "Sayonara Monsieur Désespoir",
+    "Sayonara, Zetsubou-Sensei",
+    "さよなら絶望先生",
+    "Sayonara Zetsubou Sensei"
+  ],
+  "type": "manga",
+  "chapters": 301,
+  "volumes": 30,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30661-MqRCLWra41nS.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10469",
+      "url": "https://anilist.co/anime/2605"
+    },
+    "al_manga": {
+      "id": "10469",
+      "url": "https://anilist.co/manga/10469"
+    }
+  }
+}

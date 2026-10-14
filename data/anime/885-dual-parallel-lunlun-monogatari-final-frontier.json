@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 885,
+  "slug": "dual-parallel-lunlun-monogatari-final-frontier",
+  "kind": "anime",
+  "title": "Dual! Parallel Lunlun Monogatari: Final Frontier",
+  "titles": {
+    "default": "Dual! Parallel Lunlun Monogatari: Final Frontier",
+    "romaji": "Dual! Parallel Lunlun Monogatari: Final Frontier",
+    "english": "Dual! Parallel Trouble Adventure Special",
+    "native": "デュアル！ぱられルンルン物語「ファイナル・フロンティア」"
+  },
+  "synonyms": [
+    "Dual! Parallel Lunlun Monogatari: Final Frontier",
+    "Dual! Parallel Trouble Adventure Special",
+    "デュアル！ぱられルンルン物語「ファイナル・フロンティア」",
+    "Dual! Parallel Trouble Adventures Special",
+    "Dyuaru! Parare Runrun Monogatari",
+    "Dual! Parallel Lunlun Monogatari Special",
+    "Dual Parallel! Trouble Adventures Special",
+    "Dual! Paralle Lunlun Monogatari Special",
+    "Final Frontier"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/993.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "993",
+      "url": "https://anilist.co/anime/993"
+    },
+    "k": {
+      "id": "883",
+      "url": "https://kitsu.io/anime/883"
+    },
+    "mal": {
+      "id": "993",
+      "url": "https://myanimelist.net/anime/993"
+    }
+  }
+}

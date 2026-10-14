@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5030,
+  "slug": "mandalaya-no-ryouta-kukidani-onsen-enshou-soudou-tan",
+  "kind": "anime",
+  "title": "Mandalaya no Ryouta: Kukidani Onsen Enshou Soudou Tan",
+  "titles": {
+    "default": "Mandalaya no Ryouta: Kukidani Onsen Enshou Soudou Tan",
+    "romaji": "Mandalaya no Ryouta: Kukidani Onsen Enshou Soudou Tan",
+    "native": "まんだら屋の良太 丸鬼谷温泉艶笑騒動譚"
+  },
+  "synonyms": [
+    "Mandalaya no Ryouta: Kukidani Onsen Enshou Soudou Tan",
+    "まんだら屋の良太 丸鬼谷温泉艶笑騒動譚",
+    "Ryouta's Mandala Shop",
+    "Dog Soldier",
+    "ドッグソルジャー",
+    "Dog Soldier: Shadows of the Past"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16994.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "16994",
+      "url": "https://anilist.co/anime/16994"
+    },
+    "k": {
+      "id": "2100",
+      "url": "https://kitsu.io/anime/2100"
+    },
+    "mal": {
+      "id": "16994",
+      "url": "https://myanimelist.net/anime/16994"
+    }
+  }
+}

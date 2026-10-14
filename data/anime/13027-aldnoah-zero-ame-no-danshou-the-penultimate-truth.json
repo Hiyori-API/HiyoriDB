@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13027,
+  "slug": "aldnoah-zero-ame-no-danshou-the-penultimate-truth",
+  "kind": "anime",
+  "title": "Aldnoah.Zero: Ame no Danshou - The Penultimate Truth",
+  "titles": {
+    "default": "Aldnoah.Zero: Ame no Danshou - The Penultimate Truth",
+    "romaji": "Aldnoah.Zero: Ame no Danshou - The Penultimate Truth",
+    "english": "ALDNOAH.ZERO: The Penultimate Truth",
+    "native": "アルドノア・ゼロ 雨の断章 -The Penultimate Truth-"
+  },
+  "synonyms": [
+    "Aldnoah.Zero: Ame no Danshou - The Penultimate Truth",
+    "ALDNOAH.ZERO: The Penultimate Truth",
+    "アルドノア・ゼロ 雨の断章 -The Penultimate Truth-",
+    "Aldnoah.Zero EP 24.5",
+    "アルドノア・ゼロ EP24.5",
+    "ALDNOAH.ZERO OVA",
+    "A/Z OVA",
+    "ALDNOAH.ZERO: Let Justice Be Done, Though The Heavens Fall.",
+    "SK Eight",
+    "Skate",
+    "SK8 the Infinity Extra Part",
+    "OVA「SK∞ エスケーエイト EXTRA PART」",
+    "SK∞ OVA: Extra Part"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181440-YfrrFmLHwFBR.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "181440",
+      "url": "https://anilist.co/anime/181440"
+    },
+    "cr": {
+      "id": "watch/G0DUMN7NJ/the-penultimate-truth",
+      "url": "https://www.crunchyroll.com/series/watch/G0DUMN7NJ/the-penultimate-truth"
+    },
+    "mal": {
+      "id": "59843",
+      "url": "https://myanimelist.net/anime/59843"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13686,
+  "slug": "kaze-wo-tsugumono",
+  "kind": "anime",
+  "title": "Kaze wo Tsugumono",
+  "titles": {
+    "default": "Kaze wo Tsugumono",
+    "romaji": "Kaze wo Tsugumono",
+    "native": "風を継ぐもの"
+  },
+  "synonyms": [
+    "Kaze wo Tsugumono",
+    "風を継ぐもの",
+    "Inherit the Winds",
+    "Despera",
+    "ですぺら",
+    "Desupera"
+  ],
+  "type": "tv",
+  "status": "to_be_aired",
+  "season": "winter",
+  "year": 2027,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198728-RguTjB254b7H.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "198728",
+      "url": "https://anilist.co/anime/198728"
+    },
+    "k": {
+      "id": "4584",
+      "url": "https://kitsu.io/anime/4584"
+    },
+    "mal": {
+      "id": "62483",
+      "url": "https://myanimelist.net/anime/62483"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15484,
+  "slug": "eiga-futari-wa-precure-max-heart-2",
+  "kind": "manga",
+  "title": "Eiga Futari wa Precure Max Heart 2",
+  "titles": {
+    "default": "Eiga Futari wa Precure Max Heart 2"
+  },
+  "synonyms": [
+    "Futari wa Pretty Cure Max Heart Movie",
+    "Futari wa Precure Max Heart Movie",
+    "Precure Max Heart Movie",
+    "Pretty Cure Max Heart Movie",
+    "映画ふたりはプリキュアマックスハート",
+    "Renai Soukanzu",
+    "恋愛相姦図",
+    "Renai Sokanzu",
+    "Pink Sweets"
+  ],
+  "type": "manga",
+  "chapters": 2,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx168859-H5YHbu7sNohF.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1931",
+      "url": "https://anilist.co/anime/1931"
+    },
+    "al_manga": {
+      "id": "1931",
+      "url": "https://anilist.co/manga/1931"
+    }
+  }
+}

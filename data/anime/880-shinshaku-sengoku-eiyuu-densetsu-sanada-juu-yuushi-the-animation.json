@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 880,
+  "slug": "shinshaku-sengoku-eiyuu-densetsu-sanada-juu-yuushi-the-animation",
+  "kind": "anime",
+  "title": "Shinshaku Sengoku Eiyuu Densetsu: Sanada Juu Yuushi The Animation",
+  "titles": {
+    "default": "Shinshaku Sengoku Eiyuu Densetsu: Sanada Juu Yuushi The Animation",
+    "romaji": "Shinshaku Sengoku Eiyuu Densetsu: Sanada Juu Yuushi The Animation",
+    "native": "新釈 戦国英雄伝説 眞田十勇士 The Animation"
+  },
+  "synonyms": [
+    "Shinshaku Sengoku Eiyuu Densetsu: Sanada Juu Yuushi The Animation",
+    "新釈 戦国英雄伝説 眞田十勇士 The Animation",
+    "New Legend of the Heroes of the Warring Nations - The Ten Sanada Brave Soldiers Sanada 10 TV",
+    "Shinshaku Sanada Juuyuushi The Animation"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b988-pxSq2eJE9WDG.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "988",
+      "url": "https://anilist.co/anime/988"
+    },
+    "k": {
+      "id": "878",
+      "url": "https://kitsu.io/anime/878"
+    },
+    "mal": {
+      "id": "988",
+      "url": "https://myanimelist.net/anime/988"
+    }
+  }
+}

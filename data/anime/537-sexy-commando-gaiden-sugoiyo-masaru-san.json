@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 537,
+  "slug": "sexy-commando-gaiden-sugoiyo-masaru-san",
+  "kind": "anime",
+  "title": "Sexy Commando Gaiden: Sugoiyo!! Masaru-san",
+  "titles": {
+    "default": "Sexy Commando Gaiden: Sugoiyo!! Masaru-san",
+    "romaji": "Sexy Commando Gaiden: Sugoiyo!! Masaru-san",
+    "native": "セクシーコマンドー外伝 すごいよ!! マサルさん"
+  },
+  "synonyms": [
+    "Sexy Commando Gaiden: Sugoiyo!! Masaru-san",
+    "セクシーコマンドー外伝 すごいよ!! マサルさん",
+    "Sexy Commando Side Story: Amazing! Masaru"
+  ],
+  "type": "tv",
+  "episodes": 48,
+  "status": "finished",
+  "season": "winter",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx582-9f4QqwV5lV1R.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "582",
+      "url": "https://anilist.co/anime/582"
+    },
+    "k": {
+      "id": "538",
+      "url": "https://kitsu.io/anime/538"
+    },
+    "mal": {
+      "id": "582",
+      "url": "https://myanimelist.net/anime/582"
+    },
+    "t": {
+      "id": "36510",
+      "url": "https://trakt.tv/shows/36510"
+    }
+  }
+}

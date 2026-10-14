@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14745,
+  "slug": "gaksital",
+  "kind": "manga",
+  "title": "Gaksital",
+  "titles": {
+    "default": "Gaksital"
+  },
+  "synonyms": [
+    "Bridal Mask",
+    "각시탈",
+    "Getter Robo",
+    "ゲッターロボ"
+  ],
+  "type": "manga",
+  "volumes": 1,
+  "status": "finished",
+  "year": 1974,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx93331-kl1LTM1X01GK.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "213164",
+      "url": "https://anilist.co/anime/213164"
+    },
+    "al_manga": {
+      "id": "213164",
+      "url": "https://anilist.co/manga/213164"
+    }
+  }
+}

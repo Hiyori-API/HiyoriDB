@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10904,
+  "slug": "play-the-lupin-clips-x-parts-collection",
+  "kind": "anime",
+  "title": "Play the Lupin: Clips x Parts Collection",
+  "titles": {
+    "default": "Play the Lupin: Clips x Parts Collection",
+    "romaji": "Play the Lupin: Clips x Parts Collection"
+  },
+  "synonyms": [
+    "Play the Lupin: Clips x Parts Collection",
+    "Samba Temperado",
+    "Love Squall",
+    "Treasure of Time",
+    "Theme of Lupin III '97",
+    "Zoku Natsume Yuujinchou: 3D Nyanko-sensei Gekijou",
+    "続 夏目友人帳 3Ｄニャンコ先生劇場"
+  ],
+  "type": "special",
+  "episodes": 5,
+  "status": "finished",
+  "season": "spring",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b165682-0dbZmDBxQpD8.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "165682",
+      "url": "https://anilist.co/anime/165682"
+    },
+    "k": {
+      "id": "8228",
+      "url": "https://kitsu.io/anime/8228"
+    },
+    "mal": {
+      "id": "49368",
+      "url": "https://myanimelist.net/anime/49368"
+    }
+  }
+}

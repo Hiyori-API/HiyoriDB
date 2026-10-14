@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11321,
+  "slug": "kuro-gal-ni-natta-kara-shinyuu-to-shitemita",
+  "kind": "anime",
+  "title": "Kuro Gal ni Natta kara Shinyuu to Shitemita.",
+  "titles": {
+    "default": "Kuro Gal ni Natta kara Shinyuu to Shitemita.",
+    "romaji": "Kuro Gal ni Natta kara Shinyuu to Shitemita.",
+    "english": "Fucked by My Best Friend",
+    "native": "黒ギャルになったから親友としてみた。"
+  },
+  "synonyms": [
+    "Kuro Gal ni Natta kara Shinyuu to Shitemita.",
+    "Fucked by My Best Friend",
+    "黒ギャルになったから親友としてみた。",
+    "I Turned Into a Gyaru and Tried out My Best Friend",
+    "Kuro Gal ni Natta kara Shinyuu to Yattemita.",
+    "I Became a Black Gal So I Fucked My Best Friend",
+    "Virei uma garota e peguei meu melhor amigo",
+    "Lo hice con mi mejor amigo y me gustó",
+    "Seduced by My Best Friend",
+    "Teinenpi Shoujo Haiji",
+    "低燃費少女ハイジ",
+    "Low Fuel Cost Girl Haiji"
+  ],
+  "type": "ona",
+  "episodes": 8,
+  "status": "finished",
+  "season": "spring",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129801-wtasWtwFuH12.png"
+  ],
+  "references": {
+    "al": {
+      "id": "129801",
+      "url": "https://anilist.co/anime/129801"
+    },
+    "k": {
+      "id": "5226",
+      "url": "https://kitsu.io/anime/5226"
+    },
+    "mal": {
+      "id": "47591",
+      "url": "https://myanimelist.net/anime/47591"
+    }
+  }
+}

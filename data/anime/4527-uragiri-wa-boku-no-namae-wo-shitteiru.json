@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4527,
+  "slug": "uragiri-wa-boku-no-namae-wo-shitteiru",
+  "kind": "anime",
+  "title": "Uragiri wa Boku no Namae wo Shitteiru",
+  "titles": {
+    "default": "Uragiri wa Boku no Namae wo Shitteiru",
+    "romaji": "Uragiri wa Boku no Namae wo Shitteiru",
+    "english": "The Betrayal Knows My Name",
+    "native": "裏切りは僕の名前を知っている"
+  },
+  "synonyms": [
+    "Uragiri wa Boku no Namae wo Shitteiru",
+    "The Betrayal Knows My Name",
+    "裏切りは僕の名前を知っている",
+    "Uraboku"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "spring",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx7058-nIFGNo4AjAPB.png"
+  ],
+  "references": {
+    "al": {
+      "id": "7058",
+      "url": "https://anilist.co/anime/7058"
+    },
+    "cr": {
+      "id": "the-betrayal-knows-my-name",
+      "url": "https://www.crunchyroll.com/series/the-betrayal-knows-my-name"
+    },
+    "k": {
+      "id": "4853",
+      "url": "https://kitsu.io/anime/4853"
+    },
+    "mal": {
+      "id": "7058",
+      "url": "https://myanimelist.net/anime/7058"
+    },
+    "t": {
+      "id": "42188",
+      "url": "https://trakt.tv/shows/42188"
+    }
+  }
+}

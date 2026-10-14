@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1930,
+  "slug": "kino-no-tabi-the-beautiful-world-byouki-no-kuni-for-you",
+  "kind": "anime",
+  "title": "Kino no Tabi: the Beautiful World - Byouki no Kuni: For You",
+  "titles": {
+    "default": "Kino no Tabi: the Beautiful World - Byouki no Kuni: For You",
+    "romaji": "Kino no Tabi: the Beautiful World - Byouki no Kuni: For You",
+    "native": "キノの旅 the Beautiful World 病気の国 -For You-"
+  },
+  "synonyms": [
+    "Kino no Tabi: the Beautiful World - Byouki no Kuni: For You",
+    "キノの旅 the Beautiful World 病気の国 -For You-",
+    "Kino's Journey: The Beautiful World - The Land of Sickness: For You",
+    "The Country of Illness",
+    "Land of Disease",
+    "Kino no Tabi: The Beautiful World - Byouki no Kuni - For You",
+    "キノの旅 -the Beautiful World- 病気の国 -For You-",
+    "Kino's Journey: For You",
+    "Land of Illness"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx2175-ODWaMrFEJVCP.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2175",
+      "url": "https://anilist.co/anime/2175"
+    },
+    "k": {
+      "id": "1970",
+      "url": "https://kitsu.io/anime/1970"
+    },
+    "mal": {
+      "id": "2175",
+      "url": "https://myanimelist.net/anime/2175"
+    }
+  }
+}

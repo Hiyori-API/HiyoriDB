@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9687,
+  "slug": "hanebado",
+  "kind": "anime",
+  "title": "Hanebado!",
+  "titles": {
+    "default": "Hanebado!",
+    "romaji": "Hanebado!",
+    "english": "HANEBADO!",
+    "native": "はねバド!"
+  },
+  "synonyms": [
+    "Hanebado!",
+    "HANEBADO!",
+    "はねバド!",
+    "Hanebado! - The Badminton Play of Ayano Hanesaki!",
+    "Hanebad!",
+    "ฮาเนซากิ อายาโนะ นักแบดสาวเจ้าสนาม",
+    "Overlord III",
+    "オーバーロードⅢ"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx101045-byKzyG0rZD8b.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101045",
+      "url": "https://anilist.co/anime/101045"
+    },
+    "cr": {
+      "id": "hanebado",
+      "url": "https://www.crunchyroll.com/series/hanebado"
+    },
+    "mal": {
+      "id": "37259",
+      "url": "https://myanimelist.net/anime/37259"
+    },
+    "tx": {
+      "id": "hanebad_anime",
+      "url": "https://twitter.com/hanebad_anime"
+    }
+  }
+}

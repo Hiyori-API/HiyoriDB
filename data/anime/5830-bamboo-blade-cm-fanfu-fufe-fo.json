@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5830,
+  "slug": "bamboo-blade-cm-fanfu-fufe-fo",
+  "kind": "anime",
+  "title": "Bamboo Blade: CM Fanfu-Fufe-Fo",
+  "titles": {
+    "default": "Bamboo Blade: CM Fanfu-Fufe-Fo",
+    "romaji": "Bamboo Blade: CM Fanfu-Fufe-Fo",
+    "native": "バンブーブレード ：CM 「ふぁんふ～ふふぇ～ふぉ」"
+  },
+  "synonyms": [
+    "Bamboo Blade: CM Fanfu-Fufe-Fo",
+    "バンブーブレード ：CM 「ふぁんふ～ふふぇ～ふぉ」",
+    "Mameshiba",
+    "豆しば"
+  ],
+  "type": "special",
+  "episodes": 24,
+  "status": "finished",
+  "season": "winter",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b130247-sJww6JfRBUkG.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "130247",
+      "url": "https://anilist.co/anime/130247"
+    },
+    "k": {
+      "id": "4918",
+      "url": "https://kitsu.io/anime/4918"
+    },
+    "mal": {
+      "id": "28815",
+      "url": "https://myanimelist.net/anime/28815"
+    }
+  }
+}

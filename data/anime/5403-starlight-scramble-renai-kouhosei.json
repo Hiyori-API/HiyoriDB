@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5403,
+  "slug": "starlight-scramble-renai-kouhosei",
+  "kind": "anime",
+  "title": "Starlight Scramble Renai Kouhosei",
+  "titles": {
+    "default": "Starlight Scramble Renai Kouhosei",
+    "romaji": "Starlight Scramble Renai Kouhosei",
+    "english": "Starlight Scramble",
+    "native": "スターライトスクランブル 恋愛候補生"
+  },
+  "synonyms": [
+    "Starlight Scramble Renai Kouhosei",
+    "Starlight Scramble",
+    "スターライトスクランブル 恋愛候補生",
+    "Starlight Scramble Ren'ai Kouhosei"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9500-9AZXtKTaZtxB.png"
+  ],
+  "references": {
+    "al": {
+      "id": "9500",
+      "url": "https://anilist.co/anime/9500"
+    },
+    "k": {
+      "id": "5757",
+      "url": "https://kitsu.io/anime/5757"
+    },
+    "mal": {
+      "id": "9500",
+      "url": "https://myanimelist.net/anime/9500"
+    }
+  }
+}

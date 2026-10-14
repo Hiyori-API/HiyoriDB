@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13985,
+  "slug": "maison-ikkoku",
+  "kind": "manga",
+  "title": "Maison Ikkoku",
+  "titles": {
+    "default": "Maison Ikkoku"
+  },
+  "synonyms": [
+    "Cara dolce Kyoko",
+    "메종일각 신장판",
+    "Maison Ikkoku",
+    "めぞん一刻"
+  ],
+  "type": "manga",
+  "chapters": 162,
+  "volumes": 15,
+  "status": "finished",
+  "year": 1980,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30688-vhFGM9jUcGrU.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1453",
+      "url": "https://anilist.co/anime/1453"
+    },
+    "al_manga": {
+      "id": "1453",
+      "url": "https://anilist.co/manga/1453"
+    }
+  }
+}

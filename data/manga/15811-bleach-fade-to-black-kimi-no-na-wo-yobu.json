@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15811,
+  "slug": "bleach-fade-to-black-kimi-no-na-wo-yobu",
+  "kind": "manga",
+  "title": "BLEACH: Fade to Black - Kimi no Na wo Yobu",
+  "titles": {
+    "default": "BLEACH: Fade to Black - Kimi no Na wo Yobu"
+  },
+  "synonyms": [
+    "Bleach the Movie: Fade to Black",
+    "BLEACH Fade to Black 君の名を呼ぶ",
+    "H+P -HimePara-",
+    "H+P ‐ひめぱら‐"
+  ],
+  "type": "novel",
+  "volumes": 1,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx141702-MUPXpGOy4ptU.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4835",
+      "url": "https://anilist.co/anime/4835"
+    },
+    "al_manga": {
+      "id": "4835",
+      "url": "https://anilist.co/manga/4835"
+    }
+  }
+}

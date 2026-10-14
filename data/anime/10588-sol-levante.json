@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10588,
+  "slug": "sol-levante",
+  "kind": "anime",
+  "title": "Sol Levante",
+  "titles": {
+    "default": "Sol Levante",
+    "romaji": "Sol Levante"
+  },
+  "synonyms": [
+    "Sol Levante",
+    "El Sol Naciente",
+    "بلاد الشمس المشرقة",
+    "Our Jury Story",
+    "Bokura no Saibanin Monogatari",
+    "ぼくらの裁判員物語"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116384-xn0nQAKGFSd7.png"
+  ],
+  "references": {
+    "al": {
+      "id": "116384",
+      "url": "https://anilist.co/anime/116384"
+    },
+    "k": {
+      "id": "4614",
+      "url": "https://kitsu.io/anime/4614"
+    },
+    "mal": {
+      "id": "40597",
+      "url": "https://myanimelist.net/anime/40597"
+    },
+    "nf": {
+      "id": "81017017",
+      "url": "https://www.netflix.com/title/81017017"
+    }
+  }
+}

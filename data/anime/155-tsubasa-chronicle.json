@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 155,
+  "slug": "tsubasa-chronicle",
+  "kind": "anime",
+  "title": "Tsubasa Chronicle",
+  "titles": {
+    "default": "Tsubasa Chronicle",
+    "romaji": "Tsubasa Chronicle",
+    "english": "Tsubasa RESERVoir CHRoNiCLE",
+    "native": "ツバサ・クロニクル"
+  },
+  "synonyms": [
+    "Tsubasa Chronicle",
+    "Tsubasa RESERVoir CHRoNiCLE",
+    "ツバサ・クロニクル",
+    "Tsubasa Reservoir Chronicle",
+    "Tsubasa: RESERVoir CHRoNiCLE"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177-tU0wjdXRw5u8.png"
+  ],
+  "references": {
+    "al": {
+      "id": "177",
+      "url": "https://anilist.co/anime/177"
+    },
+    "k": {
+      "id": "154",
+      "url": "https://kitsu.io/anime/154"
+    },
+    "mal": {
+      "id": "177",
+      "url": "https://myanimelist.net/anime/177"
+    },
+    "t": {
+      "id": "37407",
+      "url": "https://trakt.tv/shows/37407"
+    }
+  }
+}

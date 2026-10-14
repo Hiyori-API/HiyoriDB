@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6250,
+  "slug": "onigamiden",
+  "kind": "anime",
+  "title": "Onigamiden",
+  "titles": {
+    "default": "Onigamiden",
+    "romaji": "Onigamiden",
+    "english": "Legend of the Millennium Dragon",
+    "native": "鬼神伝"
+  },
+  "synonyms": [
+    "Onigamiden",
+    "Legend of the Millennium Dragon",
+    "鬼神伝"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8487.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8487",
+      "url": "https://anilist.co/anime/8487"
+    },
+    "k": {
+      "id": "5354",
+      "url": "https://kitsu.io/anime/5354"
+    },
+    "mal": {
+      "id": "8487",
+      "url": "https://myanimelist.net/anime/8487"
+    }
+  }
+}

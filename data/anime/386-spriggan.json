@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 386,
+  "slug": "spriggan",
+  "kind": "anime",
+  "title": "SPRIGGAN",
+  "titles": {
+    "default": "SPRIGGAN",
+    "romaji": "SPRIGGAN",
+    "native": "スプリガン"
+  },
+  "synonyms": [
+    "SPRIGGAN",
+    "スプリガン",
+    "Striker",
+    "Spriggan"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx420-KIPJO7uFQ9cR.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "420",
+      "url": "https://anilist.co/anime/420"
+    },
+    "k": {
+      "id": "384",
+      "url": "https://kitsu.io/anime/384"
+    },
+    "mal": {
+      "id": "420",
+      "url": "https://myanimelist.net/anime/420"
+    }
+  }
+}

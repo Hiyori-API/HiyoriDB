@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3655,
+  "slug": "fuuma-no-kojirou-fuuma-hanran-hen",
+  "kind": "anime",
+  "title": "Fuuma no Kojirou: Fuuma Hanran-hen",
+  "titles": {
+    "default": "Fuuma no Kojirou: Fuuma Hanran-hen",
+    "romaji": "Fuuma no Kojirou: Fuuma Hanran-hen",
+    "native": "風魔の小次郎～風魔反乱篇～"
+  },
+  "synonyms": [
+    "Fuuma no Kojirou: Fuuma Hanran-hen",
+    "風魔の小次郎～風魔反乱篇～",
+    "Fuma no Kojiro: Fuma Hanran hen",
+    "Kojiro of the Fuma: Fuma Rebellion Chapter"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4856.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4856",
+      "url": "https://anilist.co/anime/4856"
+    },
+    "k": {
+      "id": "3828",
+      "url": "https://kitsu.io/anime/3828"
+    },
+    "mal": {
+      "id": "4856",
+      "url": "https://myanimelist.net/anime/4856"
+    }
+  }
+}

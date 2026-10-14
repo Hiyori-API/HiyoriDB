@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1646,
+  "slug": "jaja-uma-quartet",
+  "kind": "anime",
+  "title": "JaJa Uma! Quartet",
+  "titles": {
+    "default": "JaJa Uma! Quartet",
+    "romaji": "JaJa Uma! Quartet",
+    "english": "Wild Cardz",
+    "native": "Jaja馬!カルテット"
+  },
+  "synonyms": [
+    "JaJa Uma! Quartet",
+    "Wild Cardz",
+    "Jaja馬!カルテット",
+    "Crown Knights",
+    "じゃじゃ馬カルテット"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1855.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1855",
+      "url": "https://anilist.co/anime/1855"
+    },
+    "k": {
+      "id": "1672",
+      "url": "https://kitsu.io/anime/1672"
+    },
+    "mal": {
+      "id": "1855",
+      "url": "https://myanimelist.net/anime/1855"
+    }
+  }
+}

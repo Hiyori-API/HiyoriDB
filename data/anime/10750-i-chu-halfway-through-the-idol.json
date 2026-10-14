@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10750,
+  "slug": "i-chu-halfway-through-the-idol",
+  "kind": "anime",
+  "title": "I★CHU: HALFWAY THROUGH THE IDOL",
+  "titles": {
+    "default": "I★CHU: HALFWAY THROUGH THE IDOL",
+    "romaji": "I★CHU: HALFWAY THROUGH THE IDOL",
+    "english": "I★CHU",
+    "native": "アイ★チュウ HALFWAY THROUGH THE IDOL"
+  },
+  "synonyms": [
+    "I★CHU: HALFWAY THROUGH THE IDOL",
+    "I★CHU",
+    "アイ★チュウ HALFWAY THROUGH THE IDOL",
+    "I★CHU: Étoile Stage",
+    "I-chu: Étoile Stage",
+    "ICHU ไอจู หนทางสู่ไอดอล",
+    "Re: Life in a different world from zero 2nd Season",
+    "ReZero 2nd Season",
+    "Re:Zero - Starting Life in Another World 2",
+    "Re:ZERO -Starting Life in Another World- Season 2 Part 2",
+    "Re：ゼロから始める異世界生活 2 part 2",
+    "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109010-VzJFTkkhwa8X.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "109010",
+      "url": "https://anilist.co/anime/109010"
+    },
+    "cr": {
+      "id": "ichu",
+      "url": "https://www.crunchyroll.com/series/ichu"
+    },
+    "mal": {
+      "id": "39725",
+      "url": "https://myanimelist.net/anime/39725"
+    },
+    "tx": {
+      "id": "ichu_anime",
+      "url": "https://twitter.com/ichu_anime"
+    }
+  }
+}

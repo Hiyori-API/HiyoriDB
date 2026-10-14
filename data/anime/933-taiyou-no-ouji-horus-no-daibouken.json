@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 933,
+  "slug": "taiyou-no-ouji-horus-no-daibouken",
+  "kind": "anime",
+  "title": "Taiyou no Ouji: Horus no Daibouken",
+  "titles": {
+    "default": "Taiyou no Ouji: Horus no Daibouken",
+    "romaji": "Taiyou no Ouji: Horus no Daibouken",
+    "english": "The Little Norse Prince",
+    "native": "太陽の王子 ホルスの大冒険"
+  },
+  "synonyms": [
+    "Taiyou no Ouji: Horus no Daibouken",
+    "The Little Norse Prince",
+    "太陽の王子 ホルスの大冒険",
+    "Horus: Prince of the Sun",
+    "Hols: Prince of the Sun",
+    "Little Norse Prince Valiant",
+    "Horus le Prince du Soleil"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1968,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1044-Z3nShiFF7x5p.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1044",
+      "url": "https://anilist.co/anime/1044"
+    },
+    "ap": {
+      "id": "B00GUXOPTS",
+      "url": "https://www.amazon.com/gp/video/detail/B00GUXOPTS"
+    },
+    "k": {
+      "id": "934",
+      "url": "https://kitsu.io/anime/934"
+    },
+    "mal": {
+      "id": "1044",
+      "url": "https://myanimelist.net/anime/1044"
+    }
+  }
+}

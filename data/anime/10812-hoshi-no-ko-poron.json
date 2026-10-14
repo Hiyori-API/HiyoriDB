@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10812,
+  "slug": "hoshi-no-ko-poron",
+  "kind": "anime",
+  "title": "Hoshi no Ko Poron",
+  "titles": {
+    "default": "Hoshi no Ko Poron",
+    "romaji": "Hoshi no Ko Poron",
+    "native": "星の子ポロン"
+  },
+  "synonyms": [
+    "Hoshi no Ko Poron",
+    "星の子ポロン",
+    "Polon the Star Child"
+  ],
+  "type": "tv",
+  "episodes": 260,
+  "status": "finished",
+  "season": "winter",
+  "year": 1974,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11213.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11213",
+      "url": "https://anilist.co/anime/11213"
+    },
+    "k": {
+      "id": "6475",
+      "url": "https://kitsu.io/anime/6475"
+    },
+    "mal": {
+      "id": "11213",
+      "url": "https://myanimelist.net/anime/11213"
+    }
+  }
+}

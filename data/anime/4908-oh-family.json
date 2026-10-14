@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4908,
+  "slug": "oh-family",
+  "kind": "anime",
+  "title": "Oh! Family",
+  "titles": {
+    "default": "Oh! Family",
+    "romaji": "Oh! Family",
+    "native": "Ｏｈ！ファミリー"
+  },
+  "synonyms": [
+    "Oh! Family",
+    "Ｏｈ！ファミリー"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b7575-ooaAtbWxV0oJ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7575",
+      "url": "https://anilist.co/anime/7575"
+    },
+    "k": {
+      "id": "5034",
+      "url": "https://kitsu.io/anime/5034"
+    },
+    "mal": {
+      "id": "7575",
+      "url": "https://myanimelist.net/anime/7575"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9089,
+  "slug": "landreaall",
+  "kind": "anime",
+  "title": "Landreaall",
+  "titles": {
+    "default": "Landreaall",
+    "romaji": "Landreaall",
+    "native": "ランドリオール"
+  },
+  "synonyms": [
+    "Landreaall",
+    "ランドリオール",
+    "Voices of a Distant Star",
+    "Hoshi no Koe",
+    "ほしのこえ"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/97674-LR7UI9V2g03I.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "97674",
+      "url": "https://anilist.co/anime/97674"
+    },
+    "cr": {
+      "id": "voices-of-a-distant-star",
+      "url": "https://www.crunchyroll.com/series/voices-of-a-distant-star"
+    },
+    "k": {
+      "id": "231",
+      "url": "https://kitsu.io/anime/231"
+    },
+    "mal": {
+      "id": "34151",
+      "url": "https://myanimelist.net/anime/34151"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4352,
+  "slug": "it-s-a-rumic-world-50th-anniversary-weekly-shonen-sunday",
+  "kind": "anime",
+  "title": "It's a Rumic World: 50th Anniversary Weekly★Shonen Sunday",
+  "titles": {
+    "default": "It's a Rumic World: 50th Anniversary Weekly★Shonen Sunday",
+    "romaji": "It's a Rumic World: 50th Anniversary Weekly★Shonen Sunday"
+  },
+  "synonyms": [
+    "It's a Rumic World: 50th Anniversary Weekly★Shonen Sunday",
+    "Rumic World",
+    "50th Anniversary Weekly Shonen Sunday",
+    "Sunday CM Theater",
+    "Shonen Sunday Special Opening",
+    "It's a Rumic World: 50th Anniversary Weekly★Shounen Sunday"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6566-2vCBGgyUl4CS.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6566",
+      "url": "https://anilist.co/anime/6566"
+    },
+    "k": {
+      "id": "4612",
+      "url": "https://kitsu.io/anime/4612"
+    },
+    "mal": {
+      "id": "6566",
+      "url": "https://myanimelist.net/anime/6566"
+    }
+  }
+}

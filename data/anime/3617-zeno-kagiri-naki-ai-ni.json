@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3617,
+  "slug": "zeno-kagiri-naki-ai-ni",
+  "kind": "anime",
+  "title": "Zeno: Kagiri Naki Ai ni",
+  "titles": {
+    "default": "Zeno: Kagiri Naki Ai ni",
+    "romaji": "Zeno: Kagiri Naki Ai ni",
+    "native": "ゼノ かぎりなき愛に"
+  },
+  "synonyms": [
+    "Zeno: Kagiri Naki Ai ni",
+    "ゼノ かぎりなき愛に",
+    "Zeno: Unlimited Love",
+    "Zeno: Kagirinaki Ai ni"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4790-SqEhtlli3vG3.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4790",
+      "url": "https://anilist.co/anime/4790"
+    },
+    "k": {
+      "id": "3785",
+      "url": "https://kitsu.io/anime/3785"
+    },
+    "mal": {
+      "id": "4790",
+      "url": "https://myanimelist.net/anime/4790"
+    }
+  }
+}

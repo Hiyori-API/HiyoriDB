@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15338,
+  "slug": "yukikaze-sentou-yousei",
+  "kind": "manga",
+  "title": "Yukikaze: Sentou Yousei",
+  "titles": {
+    "default": "Yukikaze: Sentou Yousei"
+  },
+  "synonyms": [
+    "Battle Fairy Yukikaze",
+    "Yukikaze",
+    "YUKIKAZE 戦闘妖精",
+    "Tsubasa RESERVoir CHRoNiCLE",
+    "Tsubasa: RESERVoir CHRoNiCLE",
+    "ツバサ -RESERVoir CHRoNiCLE-",
+    "TRC"
+  ],
+  "type": "manga",
+  "chapters": 6,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/21610.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1080",
+      "url": "https://anilist.co/anime/1080"
+    },
+    "al_manga": {
+      "id": "1080",
+      "url": "https://anilist.co/manga/1080"
+    }
+  }
+}

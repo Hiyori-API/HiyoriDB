@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10206,
+  "slug": "bakugan-battle-planet",
+  "kind": "anime",
+  "title": "Bakugan Battle Planet",
+  "titles": {
+    "default": "Bakugan Battle Planet",
+    "romaji": "Bakugan Battle Planet",
+    "english": "Bakugan: Battle Planet",
+    "native": "爆丸バトルプラネット"
+  },
+  "synonyms": [
+    "Bakugan Battle Planet",
+    "Bakugan: Battle Planet",
+    "爆丸バトルプラネット",
+    "∀ Gundam",
+    "Turn A Gundam",
+    "∀ガンダム",
+    "Mobile Suit Gundam Turn A"
+  ],
+  "type": "tv",
+  "episodes": 50,
+  "status": "finished",
+  "season": "spring",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108852-Hbg9Va5sEJQz.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "108852",
+      "url": "https://anilist.co/anime/108852"
+    },
+    "k": {
+      "id": "74",
+      "url": "https://kitsu.io/anime/74"
+    },
+    "mal": {
+      "id": "39622",
+      "url": "https://myanimelist.net/anime/39622"
+    },
+    "nf": {
+      "id": "81174992",
+      "url": "https://www.netflix.com/title/81174992"
+    },
+    "t": {
+      "id": "37388",
+      "url": "https://trakt.tv/shows/37388"
+    }
+  }
+}

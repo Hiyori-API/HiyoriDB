@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7629,
+  "slug": "ryuugajou-nanana-no-maizoukin",
+  "kind": "anime",
+  "title": "Ryuugajou Nanana no Maizoukin",
+  "titles": {
+    "default": "Ryuugajou Nanana no Maizoukin",
+    "romaji": "Ryuugajou Nanana no Maizoukin",
+    "english": "Nanana's Buried Treasure",
+    "native": "龍ヶ嬢七々々の埋蔵金"
+  },
+  "synonyms": [
+    "Ryuugajou Nanana no Maizoukin",
+    "Nanana's Buried Treasure",
+    "龍ヶ嬢七々々の埋蔵金",
+    "ล่าขุมสมบัติปริศนา นานานะ",
+    "Ryuugajou Nanana no Maizoukin (TV)"
+  ],
+  "type": "tv",
+  "episodes": 11,
+  "status": "finished",
+  "season": "spring",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20556-QxjzqvyTLgRo.png"
+  ],
+  "references": {
+    "al": {
+      "id": "20556",
+      "url": "https://anilist.co/anime/20556"
+    },
+    "cr": {
+      "id": "nananas-buried-treasure",
+      "url": "https://www.crunchyroll.com/series/nananas-buried-treasure"
+    },
+    "k": {
+      "id": "8162",
+      "url": "https://kitsu.io/anime/8162"
+    },
+    "mal": {
+      "id": "21561",
+      "url": "https://myanimelist.net/anime/21561"
+    },
+    "t": {
+      "id": "75831",
+      "url": "https://trakt.tv/shows/75831"
+    }
+  }
+}

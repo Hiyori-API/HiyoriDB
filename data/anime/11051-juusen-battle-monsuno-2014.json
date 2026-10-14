@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11051,
+  "slug": "juusen-battle-monsuno-2014",
+  "kind": "anime",
+  "title": "Juusen Battle Monsuno (2014)",
+  "titles": {
+    "default": "Juusen Battle Monsuno (2014)",
+    "romaji": "Juusen Battle Monsuno (2014)",
+    "english": "Monsuno: Combat Chaos (2014)",
+    "native": "獣旋バトル モンスーノ(2014)"
+  },
+  "synonyms": [
+    "Juusen Battle Monsuno (2014)",
+    "Monsuno: Combat Chaos (2014)",
+    "獣旋バトル モンスーノ(2014)",
+    "Monsuno Season 3",
+    "Juusen Battle Monsuno 3rd Season",
+    "Barakamon: Mijikamon",
+    "みじかもん",
+    "Barakamon Episode 0",
+    "Barakamon Specials"
+  ],
+  "type": "ona",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197977-GcRyjJocueTG.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "197977",
+      "url": "https://anilist.co/anime/197977"
+    },
+    "k": {
+      "id": "8552",
+      "url": "https://kitsu.io/anime/8552"
+    },
+    "mal": {
+      "id": "25045",
+      "url": "https://myanimelist.net/anime/25045"
+    }
+  }
+}

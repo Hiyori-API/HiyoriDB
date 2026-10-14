@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10523,
+  "slug": "enen-no-shouboutai-ni-no-shou",
+  "kind": "anime",
+  "title": "Enen no Shouboutai: Ni no Shou",
+  "titles": {
+    "default": "Enen no Shouboutai: Ni no Shou",
+    "romaji": "Enen no Shouboutai: Ni no Shou",
+    "english": "Fire Force Season 2",
+    "native": "炎炎ノ消防隊 弐ノ章"
+  },
+  "synonyms": [
+    "Enen no Shouboutai: Ni no Shou",
+    "Fire Force Season 2",
+    "炎炎ノ消防隊 弐ノ章",
+    "Enen no Shouboutai 2",
+    "หน่วยผจญคนไฟลุก ภาค 2",
+    "Enen no Shouboutai 2nd Season",
+    "Fire Force 2nd Season"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "summer",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114236-wfQOWF0Ii3h2.png"
+  ],
+  "references": {
+    "al": {
+      "id": "114236",
+      "url": "https://anilist.co/anime/114236"
+    },
+    "cr": {
+      "id": "fire-force",
+      "url": "https://www.crunchyroll.com/series/fire-force"
+    },
+    "mal": {
+      "id": "40956",
+      "url": "https://myanimelist.net/anime/40956"
+    },
+    "nf": {
+      "id": "81143589",
+      "url": "https://www.netflix.com/title/81143589"
+    },
+    "tx": {
+      "id": "FireForce_PR",
+      "url": "https://twitter.com/FireForce_PR"
+    }
+  }
+}

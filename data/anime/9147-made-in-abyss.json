@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9147,
+  "slug": "made-in-abyss",
+  "kind": "anime",
+  "title": "Made in Abyss",
+  "titles": {
+    "default": "Made in Abyss",
+    "romaji": "Made in Abyss",
+    "native": "メイドインアビス"
+  },
+  "synonyms": [
+    "Made in Abyss",
+    "メイドインアビス",
+    "صنع في الهاوية",
+    "Созданный в Бездне",
+    "ผ่าเหวนรก",
+    "นักบุกเบิกหลุมยักษ์",
+    "Đến từ Abyss"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97986-TQ7dCgbS3y5s.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "97986",
+      "url": "https://anilist.co/anime/97986"
+    },
+    "mal": {
+      "id": "34599",
+      "url": "https://myanimelist.net/anime/34599"
+    },
+    "nf": {
+      "id": "80193163",
+      "url": "https://www.netflix.com/title/80193163"
+    },
+    "tx": {
+      "id": "miabyss_anime",
+      "url": "https://twitter.com/miabyss_anime"
+    }
+  }
+}

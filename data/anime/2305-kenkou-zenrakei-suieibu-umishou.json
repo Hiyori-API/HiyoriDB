@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2305,
+  "slug": "kenkou-zenrakei-suieibu-umishou",
+  "kind": "anime",
+  "title": "Kenkou Zenrakei Suieibu Umishou",
+  "titles": {
+    "default": "Kenkou Zenrakei Suieibu Umishou",
+    "romaji": "Kenkou Zenrakei Suieibu Umishou",
+    "native": "ケンコー全裸系水泳部 ウミショー"
+  },
+  "synonyms": [
+    "Kenkou Zenrakei Suieibu Umishou",
+    "ケンコー全裸系水泳部 ウミショー",
+    "Kenkoo Zenrakei Suieibu Umishou",
+    "Umisho High School Naked Swimming Club",
+    "Umisho",
+    "Kenkou Zenra-kei Suiei-bu Umishou",
+    "Kenkoo Zenra-kei Suiei-bu Umishou"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx2602-CTeDdPqUCQyQ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2602",
+      "url": "https://anilist.co/anime/2602"
+    },
+    "k": {
+      "id": "2366",
+      "url": "https://kitsu.io/anime/2366"
+    },
+    "mal": {
+      "id": "2602",
+      "url": "https://myanimelist.net/anime/2602"
+    },
+    "t": {
+      "id": "61991",
+      "url": "https://trakt.tv/shows/61991"
+    }
+  }
+}

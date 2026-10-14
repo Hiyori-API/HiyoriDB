@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10549,
+  "slug": "fukai-ni-nemuru-oujo-no-abaddon-the-animation",
+  "kind": "anime",
+  "title": "Fukai ni Nemuru Oujo no Abaddon THE ANIMATION",
+  "titles": {
+    "default": "Fukai ni Nemuru Oujo no Abaddon THE ANIMATION",
+    "romaji": "Fukai ni Nemuru Oujo no Abaddon THE ANIMATION",
+    "native": "腐界に眠る王女のアバドーン THE ANIMATION"
+  },
+  "synonyms": [
+    "Fukai ni Nemuru Oujo no Abaddon THE ANIMATION",
+    "腐界に眠る王女のアバドーン THE ANIMATION",
+    "Ascendance of a Bookworm: Side Story One, Ascendance of a Bookworm: Side Story Two",
+    "Ascendance of a Bookworm: Side Story",
+    "本好きの下剋上 ～司書になるためには手段を選んでいられません～ OVA",
+    "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114947-dNwADaQ8obhT.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "114947",
+      "url": "https://anilist.co/anime/114947"
+    },
+    "mal": {
+      "id": "41211",
+      "url": "https://myanimelist.net/anime/41211"
+    }
+  }
+}

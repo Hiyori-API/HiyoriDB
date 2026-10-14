@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10551,
+  "slug": "niplheim-no-karyuudo",
+  "kind": "anime",
+  "title": "Niplheim no Karyuudo",
+  "titles": {
+    "default": "Niplheim no Karyuudo",
+    "romaji": "Niplheim no Karyuudo",
+    "english": "Niplheim's Hunter",
+    "native": "ニプルへイムの狩人"
+  },
+  "synonyms": [
+    "Niplheim no Karyuudo",
+    "Niplheim's Hunter",
+    "ニプルへイムの狩人",
+    "Niplheim no Karyuudo: Branded Azel",
+    "Araiso Private High School Student Council Executive Committee",
+    "Shiritsu Araiso Koutougakkou Seitokai Shikkoubu",
+    "私立荒磯高等学校生徒会執行部"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114949-0EQ4HnVq86DN.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "114949",
+      "url": "https://anilist.co/anime/114949"
+    },
+    "k": {
+      "id": "389",
+      "url": "https://kitsu.io/anime/389"
+    },
+    "mal": {
+      "id": "41212",
+      "url": "https://myanimelist.net/anime/41212"
+    }
+  }
+}

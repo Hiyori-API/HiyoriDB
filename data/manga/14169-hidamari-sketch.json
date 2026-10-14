@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14169,
+  "slug": "hidamari-sketch",
+  "kind": "manga",
+  "title": "Hidamari Sketch",
+  "titles": {
+    "default": "Hidamari Sketch"
+  },
+  "synonyms": [
+    "HidaSke",
+    "Sunshine Sketch",
+    "ひだまりスケッチ",
+    "Hidamari Sketch"
+  ],
+  "type": "manga",
+  "status": "publishing",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31362-bZ4pbDvA0bdj.png"
+  ],
+  "references": {
+    "al": {
+      "id": "17739",
+      "url": "https://anilist.co/anime/1852"
+    },
+    "al_manga": {
+      "id": "17739",
+      "url": "https://anilist.co/manga/17739"
+    }
+  }
+}

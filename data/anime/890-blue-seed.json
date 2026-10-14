@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 890,
+  "slug": "blue-seed",
+  "kind": "anime",
+  "title": "BLUE SEED",
+  "titles": {
+    "default": "BLUE SEED",
+    "romaji": "BLUE SEED",
+    "english": "Blue Seed"
+  },
+  "synonyms": [
+    "BLUE SEED",
+    "Blue Seed",
+    "ブルーシード"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx998-sd9hvMtHysHW.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "998",
+      "url": "https://anilist.co/anime/998"
+    },
+    "cr": {
+      "id": "blue-seed",
+      "url": "https://www.crunchyroll.com/series/blue-seed"
+    },
+    "k": {
+      "id": "888",
+      "url": "https://kitsu.io/anime/888"
+    },
+    "mal": {
+      "id": "998",
+      "url": "https://myanimelist.net/anime/998"
+    },
+    "t": {
+      "id": "12578",
+      "url": "https://trakt.tv/shows/12578"
+    }
+  }
+}

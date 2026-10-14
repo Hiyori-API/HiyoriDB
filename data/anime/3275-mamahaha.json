@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3275,
+  "slug": "mamahaha",
+  "kind": "anime",
+  "title": "Mamahaha",
+  "titles": {
+    "default": "Mamahaha",
+    "romaji": "Mamahaha",
+    "english": "The Duchess of Busty Mounds",
+    "native": "継母"
+  },
+  "synonyms": [
+    "Mamahaha",
+    "The Duchess of Busty Mounds",
+    "継母",
+    "Embracing Love",
+    "Haru wo Daite Ita",
+    "春を抱いていた",
+    "Haru wo Daiteita"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3976-ITFbNZsYd0vM.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3976",
+      "url": "https://anilist.co/anime/3976"
+    },
+    "k": {
+      "id": "669",
+      "url": "https://kitsu.io/anime/669"
+    },
+    "mal": {
+      "id": "3976",
+      "url": "https://myanimelist.net/anime/3976"
+    }
+  }
+}

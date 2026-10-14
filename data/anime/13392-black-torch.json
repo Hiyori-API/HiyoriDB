@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13392,
+  "slug": "black-torch",
+  "kind": "anime",
+  "title": "BLACK TORCH",
+  "titles": {
+    "default": "BLACK TORCH",
+    "romaji": "BLACK TORCH"
+  },
+  "synonyms": [
+    "BLACK TORCH",
+    "ブラックトーチ",
+    "Tocha Negra",
+    "DearS",
+    "ディアーズ"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187538-fXVXKYUA3VV6.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "187538",
+      "url": "https://anilist.co/anime/187538"
+    },
+    "cr": {
+      "id": "series/GT00377907/black-torch",
+      "url": "https://www.crunchyroll.com/series/series/GT00377907/black-torch"
+    },
+    "k": {
+      "id": "44",
+      "url": "https://kitsu.io/anime/44"
+    },
+    "mal": {
+      "id": "61169",
+      "url": "https://myanimelist.net/anime/61169"
+    },
+    "t": {
+      "id": "61051",
+      "url": "https://trakt.tv/shows/61051"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4722,
+  "slug": "samurai-giants",
+  "kind": "anime",
+  "title": "Samurai Giants",
+  "titles": {
+    "default": "Samurai Giants",
+    "romaji": "Samurai Giants",
+    "native": "侍ジャイアンツ"
+  },
+  "synonyms": [
+    "Samurai Giants",
+    "侍ジャイアンツ",
+    "Star Pitcher"
+  ],
+  "type": "tv",
+  "episodes": 46,
+  "status": "finished",
+  "season": "fall",
+  "year": 1973,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9916.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9916",
+      "url": "https://anilist.co/anime/9916"
+    },
+    "k": {
+      "id": "5938",
+      "url": "https://kitsu.io/anime/5938"
+    },
+    "mal": {
+      "id": "9916",
+      "url": "https://myanimelist.net/anime/9916"
+    }
+  }
+}

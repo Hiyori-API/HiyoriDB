@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8067,
+  "slug": "mahou-shoujo-lyrical-nanoha-vivid",
+  "kind": "anime",
+  "title": "Mahou Shoujo Lyrical Nanoha ViVid",
+  "titles": {
+    "default": "Mahou Shoujo Lyrical Nanoha ViVid",
+    "romaji": "Mahou Shoujo Lyrical Nanoha ViVid",
+    "english": "Magical Girl Lyrical Nanoha ViVid",
+    "native": "魔法少女リリカルなのはViVid"
+  },
+  "synonyms": [
+    "Mahou Shoujo Lyrical Nanoha ViVid",
+    "Magical Girl Lyrical Nanoha ViVid",
+    "魔法少女リリカルなのはViVid"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20820-QjhVyCHX5ZI8.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "20820",
+      "url": "https://anilist.co/anime/20820"
+    },
+    "k": {
+      "id": "8687",
+      "url": "https://kitsu.io/anime/8687"
+    },
+    "mal": {
+      "id": "25939",
+      "url": "https://myanimelist.net/anime/25939"
+    },
+    "t": {
+      "id": "19744",
+      "url": "https://trakt.tv/shows/19744"
+    }
+  }
+}

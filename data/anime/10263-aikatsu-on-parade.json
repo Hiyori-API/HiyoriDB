@@ -1,0 +1,62 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10263,
+  "slug": "aikatsu-on-parade",
+  "kind": "anime",
+  "title": "Aikatsu on Parade!",
+  "titles": {
+    "default": "Aikatsu on Parade!",
+    "romaji": "Aikatsu on Parade!",
+    "native": "アイカツオンパレード！"
+  },
+  "synonyms": [
+    "Aikatsu on Parade!",
+    "アイカツオンパレード！",
+    "Berserk",
+    "Kenpuu Denki Berserk",
+    "剣風伝奇ベルセルク",
+    "Kenfu Denki Berserk",
+    "Sword-Wind Chronicle Berserk",
+    "Berserk: The Chronicles of Wind Blades",
+    "Berserk: Sword-Wind Tales",
+    "Berserk: SWORD-WIND ROMANCE"
+  ],
+  "type": "tv",
+  "episodes": 25,
+  "status": "finished",
+  "season": "fall",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx111082-T2wx2iPk9jHS.png"
+  ],
+  "references": {
+    "al": {
+      "id": "111082",
+      "url": "https://anilist.co/anime/111082"
+    },
+    "k": {
+      "id": "24",
+      "url": "https://kitsu.io/anime/24"
+    },
+    "mal": {
+      "id": "40266",
+      "url": "https://myanimelist.net/anime/40266"
+    },
+    "nf": {
+      "id": "80243876",
+      "url": "https://www.netflix.com/title/80243876"
+    },
+    "t": {
+      "id": "35780",
+      "url": "https://trakt.tv/shows/35780"
+    },
+    "tvt": {
+      "id": "aikatsuonparade",
+      "url": "http://www.tv-tokyo.co.jp/anime/aikatsuonparade"
+    },
+    "tx": {
+      "id": "aikatsu_anime",
+      "url": "https://twitter.com/aikatsu_anime"
+    }
+  }
+}

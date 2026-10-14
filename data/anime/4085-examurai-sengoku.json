@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4085,
+  "slug": "examurai-sengoku",
+  "kind": "anime",
+  "title": "Examurai Sengoku",
+  "titles": {
+    "default": "Examurai Sengoku",
+    "romaji": "Examurai Sengoku",
+    "native": "エグザムライ戦国"
+  },
+  "synonyms": [
+    "Examurai Sengoku",
+    "エグザムライ戦国",
+    "Exile Generation"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "winter",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5883-GynWDlAEnKdp.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5883",
+      "url": "https://anilist.co/anime/5883"
+    },
+    "k": {
+      "id": "4321",
+      "url": "https://kitsu.io/anime/4321"
+    },
+    "mal": {
+      "id": "5883",
+      "url": "https://myanimelist.net/anime/5883"
+    },
+    "t": {
+      "id": "64022",
+      "url": "https://trakt.tv/shows/64022"
+    }
+  }
+}

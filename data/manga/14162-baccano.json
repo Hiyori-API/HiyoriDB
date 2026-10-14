@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14162,
+  "slug": "baccano",
+  "kind": "manga",
+  "title": "Baccano!",
+  "titles": {
+    "default": "Baccano!"
+  },
+  "synonyms": [
+    "BACCANO！大騷動！",
+    "Baccano!",
+    "バッカーノ！",
+    "バッカーノ!"
+  ],
+  "type": "novel",
+  "status": "publishing",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31342-El9tjsUPir9s.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3901",
+      "url": "https://anilist.co/anime/2251"
+    },
+    "al_manga": {
+      "id": "3901",
+      "url": "https://anilist.co/manga/3901"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15303,
+  "slug": "choujuushin-gravion-zwei",
+  "kind": "manga",
+  "title": "Choujuushin Gravion Zwei",
+  "titles": {
+    "default": "Choujuushin Gravion Zwei"
+  },
+  "synonyms": [
+    "Super Heavy God Gravion",
+    "超重神グラヴィオンツヴァイ",
+    "Devil May Cry",
+    "デビル メイ クライ",
+    "DMC",
+    "Devil May Cry 2"
+  ],
+  "type": "novel",
+  "volumes": 2,
+  "status": "finished",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/89648-3G7ITO56N1fA.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1149",
+      "url": "https://anilist.co/anime/1149"
+    },
+    "al_manga": {
+      "id": "1149",
+      "url": "https://anilist.co/manga/1149"
+    }
+  }
+}

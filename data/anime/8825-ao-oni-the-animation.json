@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8825,
+  "slug": "ao-oni-the-animation",
+  "kind": "anime",
+  "title": "Ao Oni: The Animation",
+  "titles": {
+    "default": "Ao Oni: The Animation",
+    "romaji": "Ao Oni: The Animation",
+    "english": "Aooni The Blue Monster",
+    "native": "あおおに ～じ・あにめぇしょん～"
+  },
+  "synonyms": [
+    "Ao Oni: The Animation",
+    "Aooni The Blue Monster",
+    "あおおに ～じ・あにめぇしょん～",
+    "Flip Flappers",
+    "フリップフラッパーズ"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21897-6HCHc3qyAJtw.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21897",
+      "url": "https://anilist.co/anime/21897"
+    },
+    "cr": {
+      "id": "aooni-the-blue-monster",
+      "url": "https://www.crunchyroll.com/series/aooni-the-blue-monster"
+    },
+    "mal": {
+      "id": "33814",
+      "url": "https://myanimelist.net/anime/33814"
+    },
+    "tx": {
+      "id": "aooni_anime",
+      "url": "https://twitter.com/aooni_anime"
+    }
+  }
+}

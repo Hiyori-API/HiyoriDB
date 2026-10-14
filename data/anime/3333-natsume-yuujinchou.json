@@ -1,0 +1,59 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3333,
+  "slug": "natsume-yuujinchou",
+  "kind": "anime",
+  "title": "Natsume Yuujinchou",
+  "titles": {
+    "default": "Natsume Yuujinchou",
+    "romaji": "Natsume Yuujinchou",
+    "english": "Natsume's Book of Friends Season 1",
+    "native": "夏目友人帳"
+  },
+  "synonyms": [
+    "Natsume Yuujinchou",
+    "Natsume's Book of Friends Season 1",
+    "夏目友人帳",
+    "Natsume Yujincho",
+    "นัตสึเมะกับบันทึกพิศวง",
+    "Hữu Nhân Sổ - Natsume Yuujinchou",
+    "O Livro de Amigos de Natsume",
+    "나츠메 우인장",
+    "Natsume's Book of Friends",
+    "Natsume Yujin-cho"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4081-xi08naD69tjr.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4081",
+      "url": "https://anilist.co/anime/4081"
+    },
+    "cr": {
+      "id": "series/GRE5XQJV6/natsumes-book-of-friends",
+      "url": "https://www.crunchyroll.com/series/series/GRE5XQJV6/natsumes-book-of-friends"
+    },
+    "k": {
+      "id": "3453",
+      "url": "https://kitsu.io/anime/3453"
+    },
+    "mal": {
+      "id": "4081",
+      "url": "https://myanimelist.net/anime/4081"
+    },
+    "nf": {
+      "id": "81032481",
+      "url": "https://www.netflix.com/title/81032481"
+    },
+    "t": {
+      "id": "57330",
+      "url": "https://trakt.tv/shows/57330"
+    }
+  }
+}

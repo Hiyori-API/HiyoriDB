@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13381,
+  "slug": "koori-no-jouheki",
+  "kind": "anime",
+  "title": "Koori no Jouheki",
+  "titles": {
+    "default": "Koori no Jouheki",
+    "romaji": "Koori no Jouheki",
+    "english": "The Ramparts of Ice",
+    "native": "氷の城壁"
+  },
+  "synonyms": [
+    "Koori no Jouheki",
+    "The Ramparts of Ice",
+    "氷の城壁",
+    "Parede de Gelo",
+    "Стены изо льда",
+    "ปราการน้ำแข็งแห่งหัวใจ",
+    "Ice Castle Wall"
+  ],
+  "type": "tv",
+  "episodes": 14,
+  "status": "finished",
+  "season": "spring",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186497-uwPrNPphXvjP.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "186497",
+      "url": "https://anilist.co/anime/186497"
+    },
+    "mal": {
+      "id": "60852",
+      "url": "https://myanimelist.net/anime/60852"
+    },
+    "nf": {
+      "id": "82031882",
+      "url": "https://www.netflix.com/title/82031882"
+    }
+  }
+}

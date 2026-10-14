@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14863,
+  "slug": "zenryaku-milk-house",
+  "kind": "manga",
+  "title": "Zenryaku Milk House",
+  "titles": {
+    "default": "Zenryaku Milk House"
+  },
+  "synonyms": [
+    "前略・ミルクハウス",
+    "Kuro no Kumikyoku",
+    "黒の組曲",
+    "Tenshi wa Yami ni Hohoemu",
+    "Bell ga Nattara",
+    "Cole",
+    "Linda",
+    "Violet"
+  ],
+  "type": "manga",
+  "chapters": 39,
+  "volumes": 10,
+  "status": "finished",
+  "year": 1983,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b118260-LFBDeBggaODB.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "19597",
+      "url": "https://anilist.co/anime/19597"
+    },
+    "al_manga": {
+      "id": "19597",
+      "url": "https://anilist.co/manga/19597"
+    }
+  }
+}

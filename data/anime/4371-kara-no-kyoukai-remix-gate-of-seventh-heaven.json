@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4371,
+  "slug": "kara-no-kyoukai-remix-gate-of-seventh-heaven",
+  "kind": "anime",
+  "title": "Kara no Kyoukai Remix: Gate of seventh heaven",
+  "titles": {
+    "default": "Kara no Kyoukai Remix: Gate of seventh heaven",
+    "romaji": "Kara no Kyoukai Remix: Gate of seventh heaven",
+    "native": "空の境界 Remix -Gate of seventh heaven-"
+  },
+  "synonyms": [
+    "Kara no Kyoukai Remix: Gate of seventh heaven",
+    "空の境界 Remix -Gate of seventh heaven-",
+    "the Garden of sinners Remix -Gate of seventh heaven-",
+    "Kara no Kyoukai Remix: Gate of Seventh Heaven",
+    "The Garden of Sinners: Gate of Seventh Heaven"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6624-Y7y8z9WD2ze0.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6624",
+      "url": "https://anilist.co/anime/6624"
+    },
+    "k": {
+      "id": "4637",
+      "url": "https://kitsu.io/anime/4637"
+    },
+    "mal": {
+      "id": "6624",
+      "url": "https://myanimelist.net/anime/6624"
+    }
+  }
+}

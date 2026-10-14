@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10621,
+  "slug": "king-s-raid-ishi-wo-tsugumonotachi",
+  "kind": "anime",
+  "title": "King's Raid: Ishi wo Tsugumonotachi",
+  "titles": {
+    "default": "King's Raid: Ishi wo Tsugumonotachi",
+    "romaji": "King's Raid: Ishi wo Tsugumonotachi",
+    "english": "KING's RAID: Successors of the Will",
+    "native": "キングスレイド 意志を継ぐものたち"
+  },
+  "synonyms": [
+    "King's Raid: Ishi wo Tsugumonotachi",
+    "KING's RAID: Successors of the Will",
+    "キングスレイド 意志を継ぐものたち",
+    "Gakuen Alice",
+    "学園アリス",
+    "Campus Alice",
+    "Alice Academy"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118376-V0mSf2LG0OOs.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "118376",
+      "url": "https://anilist.co/anime/118376"
+    },
+    "cr": {
+      "id": "series/GEXH3W44W/kings-raid-successors-of-the-will",
+      "url": "https://www.crunchyroll.com/series/series/GEXH3W44W/kings-raid-successors-of-the-will"
+    },
+    "k": {
+      "id": "54",
+      "url": "https://kitsu.io/anime/54"
+    },
+    "mal": {
+      "id": "41834",
+      "url": "https://myanimelist.net/anime/41834"
+    },
+    "t": {
+      "id": "63518",
+      "url": "https://trakt.tv/shows/63518"
+    },
+    "tx": {
+      "id": "kingsraid_anime",
+      "url": "https://twitter.com/kingsraid_anime"
+    }
+  }
+}

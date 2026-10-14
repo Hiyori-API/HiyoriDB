@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12659,
+  "slug": "kuramerukagari",
+  "kind": "anime",
+  "title": "Kuramerukagari",
+  "titles": {
+    "default": "Kuramerukagari",
+    "romaji": "Kuramerukagari",
+    "native": "クラメルカガリ"
+  },
+  "synonyms": [
+    "Kuramerukagari",
+    "クラメルカガリ",
+    "Metropolis",
+    "メトロポリス",
+    "Osamu Tezuka's Metropolis",
+    "Robotic Angel"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2024,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171608-ptzZZt2djIkL.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "171608",
+      "url": "https://anilist.co/anime/171608"
+    },
+    "cr": {
+      "id": "series/GNVHKN9Z2/kurayukaba--kuramerukagari",
+      "url": "https://www.crunchyroll.com/series/series/GNVHKN9Z2/kurayukaba--kuramerukagari"
+    },
+    "k": {
+      "id": "481",
+      "url": "https://kitsu.io/anime/481"
+    },
+    "mal": {
+      "id": "57478",
+      "url": "https://myanimelist.net/anime/57478"
+    },
+    "tx": {
+      "id": "kurayukabaINFO",
+      "url": "https://twitter.com/kurayukabaINFO"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3542,
+  "slug": "urikupen-kyuujotai",
+  "kind": "anime",
+  "title": "Urikupen Kyuujotai",
+  "titles": {
+    "default": "Urikupen Kyuujotai",
+    "romaji": "Urikupen Kyuujotai",
+    "english": "Jungle Tales",
+    "native": "ウリクペン救助隊"
+  },
+  "synonyms": [
+    "Urikupen Kyuujotai",
+    "Jungle Tales",
+    "ウリクペン救助隊",
+    "Urikupen's Rescue Patrol",
+    "Jungelpatruljen",
+    "Djungelpatrullen",
+    "Urikupen Rescue Team",
+    "Urikupen Kyuujo-tai",
+    "Uriqpen Kyudota",
+    "Uriqpen Kyuujotai",
+    "Urikupen Kyuujo Tai",
+    "Uriqpen: Animal Rescue League"
+  ],
+  "type": "tv",
+  "episodes": 156,
+  "status": "finished",
+  "season": "fall",
+  "year": 1974,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4598.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4598",
+      "url": "https://anilist.co/anime/4598"
+    },
+    "k": {
+      "id": "3702",
+      "url": "https://kitsu.io/anime/3702"
+    },
+    "mal": {
+      "id": "4598",
+      "url": "https://myanimelist.net/anime/4598"
+    }
+  }
+}

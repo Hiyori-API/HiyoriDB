@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8236,
+  "slug": "ikoku-na-retro",
+  "kind": "anime",
+  "title": "Ikoku na Retro",
+  "titles": {
+    "default": "Ikoku na Retro",
+    "romaji": "Ikoku na Retro",
+    "english": "Raunchy Role Play",
+    "native": "異国なレトロ"
+  },
+  "synonyms": [
+    "Ikoku na Retro",
+    "Raunchy Role Play",
+    "異国なレトロ",
+    "Witch Craft Works: Takamiya-kun to Imouto no Warudakumi",
+    "ウィッチクラフトワークス 多華宮君と妹の悪巧み",
+    "Witchcraft Works",
+    "Witch Craft Works OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21151-ADHMZ6BYEwfE.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21151",
+      "url": "https://anilist.co/anime/21151"
+    },
+    "k": {
+      "id": "8257",
+      "url": "https://kitsu.io/anime/8257"
+    },
+    "mal": {
+      "id": "29703",
+      "url": "https://myanimelist.net/anime/29703"
+    }
+  }
+}

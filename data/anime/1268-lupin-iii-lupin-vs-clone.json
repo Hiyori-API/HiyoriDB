@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1268,
+  "slug": "lupin-iii-lupin-vs-clone",
+  "kind": "anime",
+  "title": "Lupin III: Lupin vs Clone",
+  "titles": {
+    "default": "Lupin III: Lupin vs Clone",
+    "romaji": "Lupin III: Lupin vs Clone",
+    "english": "Lupin III: The Secret of Mamo",
+    "native": "ルパン三世 ルパンvs複製人間"
+  },
+  "synonyms": [
+    "Lupin III: Lupin vs Clone",
+    "Lupin III: The Secret of Mamo",
+    "ルパン三世 ルパンvs複製人間",
+    "Rupan Sansei",
+    "Lupin III: Lupin vs The Human Clone",
+    "Edgar de la Cambriole : Le secret de Mamo",
+    "Lupin III: La pietra della saggezza",
+    "Lupin the Third: The Mystery of Mamo",
+    "LUPIN THE 3rd: Mystery of Mamo",
+    "Lupin III: O Segredo de Mamo",
+    "Lupin III: Lupin vs Fukusei-ningen",
+    "Lupin Trzeci: Tajemnica Mamo",
+    "Lupin The Third: The Secret of Mamo",
+    "Lupin III: Lupin vs. Fukusei-ningen",
+    "ルパンvs複製人間"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1978,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1435-mSwBXlyrqB2w.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1435",
+      "url": "https://anilist.co/anime/1435"
+    },
+    "ap": {
+      "id": "B08VF8VCGT",
+      "url": "https://www.amazon.com/gp/video/detail/B08VF8VCGT"
+    },
+    "k": {
+      "id": "1288",
+      "url": "https://kitsu.io/anime/1288"
+    },
+    "mal": {
+      "id": "1435",
+      "url": "https://myanimelist.net/anime/1435"
+    }
+  }
+}

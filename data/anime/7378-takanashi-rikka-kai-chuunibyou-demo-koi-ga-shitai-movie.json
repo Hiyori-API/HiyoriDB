@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7378,
+  "slug": "takanashi-rikka-kai-chuunibyou-demo-koi-ga-shitai-movie",
+  "kind": "anime",
+  "title": "Takanashi Rikka Kai: Chuunibyou demo Koi ga Shitai! Movie",
+  "titles": {
+    "default": "Takanashi Rikka Kai: Chuunibyou demo Koi ga Shitai! Movie",
+    "romaji": "Takanashi Rikka Kai: Chuunibyou demo Koi ga Shitai! Movie",
+    "english": "Love, Chunibyo & Other Delusions: Rikka Version",
+    "native": "小鳥遊六花・改 ~劇場版 中二病でも恋がしたい!~"
+  },
+  "synonyms": [
+    "Takanashi Rikka Kai: Chuunibyou demo Koi ga Shitai! Movie",
+    "Love, Chunibyo & Other Delusions: Rikka Version",
+    "小鳥遊六花・改 ~劇場版 中二病でも恋がしたい!~",
+    "Puella Magi Madoka Magica the Movie: Rebellion",
+    "Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari",
+    "劇場版 魔法少女まどか☆マギカ 叛逆の物語",
+    "Mahou Shoujo Madoka Magika Movie 3",
+    "Magical Girl Madoka Magica Movie 3"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19021-4Z0vCkzH3Vmb.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "19021",
+      "url": "https://anilist.co/anime/19021"
+    },
+    "k": {
+      "id": "6638",
+      "url": "https://kitsu.io/anime/6638"
+    },
+    "mal": {
+      "id": "19021",
+      "url": "https://myanimelist.net/anime/19021"
+    },
+    "nf": {
+      "id": "70296750",
+      "url": "https://www.netflix.com/title/70296750"
+    }
+  }
+}

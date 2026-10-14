@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11637,
+  "slug": "fruits-basket-prelude",
+  "kind": "anime",
+  "title": "Fruits Basket: prelude",
+  "titles": {
+    "default": "Fruits Basket: prelude",
+    "romaji": "Fruits Basket: prelude",
+    "english": "Fruits Basket -prelude-",
+    "native": "フルーツバスケット -prelude-"
+  },
+  "synonyms": [
+    "Fruits Basket: prelude",
+    "Fruits Basket -prelude-",
+    "フルーツバスケット -prelude-",
+    "The Story of Kyoko and Katsuya",
+    "今日子と勝也の物語",
+    "Kyouko to Katsuya no Monogatari",
+    "Fruits Basket Movie",
+    "Корзинка фруктов: Прелюдия",
+    "Neon Genesis Evangelion: Death & Rebirth",
+    "Shinseiki Evangelion Gekijouban: Shi to Shinsei",
+    "新世紀エヴァンゲリオン劇場版 シト新生",
+    "Neon Genesis Evangelion - Death and Rebirth"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136192-hxeNRzBHizBZ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "136192",
+      "url": "https://anilist.co/anime/136192"
+    },
+    "cr": {
+      "id": "fruits-basket",
+      "url": "https://www.crunchyroll.com/series/fruits-basket"
+    },
+    "k": {
+      "id": "22",
+      "url": "https://kitsu.io/anime/22"
+    },
+    "mal": {
+      "id": "49310",
+      "url": "https://myanimelist.net/anime/49310"
+    },
+    "tx": {
+      "id": "fruba_pr",
+      "url": "https://twitter.com/fruba_pr"
+    }
+  }
+}

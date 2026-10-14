@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 745,
+  "slug": "kyou-no-go-no-ni",
+  "kind": "anime",
+  "title": "Kyou no Go no Ni",
+  "titles": {
+    "default": "Kyou no Go no Ni",
+    "romaji": "Kyou no Go no Ni",
+    "english": "Today in Class 5-2",
+    "native": "今日の5の2"
+  },
+  "synonyms": [
+    "Kyou no Go no Ni",
+    "Today in Class 5-2",
+    "今日の5の2",
+    "Kyo no Gononi",
+    "Kyou no 5 no 2",
+    "今日の５の２"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "spring",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/837.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "837",
+      "url": "https://anilist.co/anime/837"
+    },
+    "k": {
+      "id": "742",
+      "url": "https://kitsu.io/anime/742"
+    },
+    "mal": {
+      "id": "837",
+      "url": "https://myanimelist.net/anime/837"
+    }
+  }
+}

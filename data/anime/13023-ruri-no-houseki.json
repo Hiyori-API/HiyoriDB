@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13023,
+  "slug": "ruri-no-houseki",
+  "kind": "anime",
+  "title": "Ruri no Houseki",
+  "titles": {
+    "default": "Ruri no Houseki",
+    "romaji": "Ruri no Houseki",
+    "english": "Ruri Rocks",
+    "native": "瑠璃の宝石"
+  },
+  "synonyms": [
+    "Ruri no Houseki",
+    "Ruri Rocks",
+    "瑠璃の宝石",
+    "Introduction to Mineralogy"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180929-ytdzqbrOhots.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "180929",
+      "url": "https://anilist.co/anime/180929"
+    },
+    "cr": {
+      "id": "series/G4PH0WJ2V/ruri-rocks",
+      "url": "https://www.crunchyroll.com/series/series/G4PH0WJ2V/ruri-rocks"
+    },
+    "mal": {
+      "id": "59791",
+      "url": "https://myanimelist.net/anime/59791"
+    }
+  }
+}

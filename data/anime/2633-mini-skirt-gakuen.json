@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2633,
+  "slug": "mini-skirt-gakuen",
+  "kind": "anime",
+  "title": "Mini Skirt Gakuen",
+  "titles": {
+    "default": "Mini Skirt Gakuen",
+    "romaji": "Mini Skirt Gakuen",
+    "native": "ミニスカ学園"
+  },
+  "synonyms": [
+    "Mini Skirt Gakuen",
+    "ミニスカ学園",
+    "Girl's Locker Room Lust",
+    "Mini Skirt Jogakuen",
+    "Cat Soup",
+    "Nekojiru-sou",
+    "ねこぢる草"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2990.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2990",
+      "url": "https://anilist.co/anime/2990"
+    },
+    "k": {
+      "id": "556",
+      "url": "https://kitsu.io/anime/556"
+    },
+    "mal": {
+      "id": "2990",
+      "url": "https://myanimelist.net/anime/2990"
+    }
+  }
+}

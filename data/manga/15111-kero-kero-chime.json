@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15111,
+  "slug": "kero-kero-chime",
+  "kind": "manga",
+  "title": "Kero Kero Chime",
+  "titles": {
+    "default": "Kero Kero Chime"
+  },
+  "synonyms": [
+    "Kerokero Chime",
+    "Kero Kero Chaimu",
+    "ケロケロちゃいむ",
+    "Kare Kano: His and Her Circumstances",
+    "Kareshi Kanojo no Jijou",
+    "彼氏彼女の事情",
+    "His and Hers",
+    "The Tiger and the Chameleon: A Promise for One Week",
+    "Ashita Mata Mori de Aou ne",
+    "Meet Me Again Tomorrow in the Forest",
+    "KKNJ",
+    "Abareru Ousama",
+    "The Raging King"
+  ],
+  "type": "manga",
+  "chapters": 31,
+  "volumes": 5,
+  "status": "finished",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/9798.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2074",
+      "url": "https://anilist.co/anime/2074"
+    },
+    "al_manga": {
+      "id": "2074",
+      "url": "https://anilist.co/manga/2074"
+    }
+  }
+}

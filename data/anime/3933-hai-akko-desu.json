@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3933,
+  "slug": "hai-akko-desu",
+  "kind": "anime",
+  "title": "Hai! Akko Desu",
+  "titles": {
+    "default": "Hai! Akko Desu",
+    "romaji": "Hai! Akko Desu",
+    "native": "ハーイあっこです"
+  },
+  "synonyms": [
+    "Hai! Akko Desu",
+    "ハーイあっこです",
+    "Hi! I'm Akko",
+    "Hi",
+    "This Is Akko"
+  ],
+  "type": "tv",
+  "episodes": 164,
+  "status": "finished",
+  "season": "fall",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5534-yYXoIk1NUB7b.png"
+  ],
+  "references": {
+    "al": {
+      "id": "5534",
+      "url": "https://anilist.co/anime/5534"
+    },
+    "k": {
+      "id": "4139",
+      "url": "https://kitsu.io/anime/4139"
+    },
+    "mal": {
+      "id": "5534",
+      "url": "https://myanimelist.net/anime/5534"
+    }
+  }
+}

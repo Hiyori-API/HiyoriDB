@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2815,
+  "slug": "mai-otome-0-s-ifr",
+  "kind": "anime",
+  "title": "Mai-Otome 0: S.ifr",
+  "titles": {
+    "default": "Mai-Otome 0: S.ifr",
+    "romaji": "Mai-Otome 0: S.ifr",
+    "english": "My-Otome 0: S.ifr",
+    "native": "舞－乙HiME ０～S.ifr～"
+  },
+  "synonyms": [
+    "Mai-Otome 0: S.ifr",
+    "My-Otome 0: S.ifr",
+    "舞－乙HiME ０～S.ifr～",
+    "Mai-Otome Zero",
+    "My-Otome Zero",
+    "My ZHiME 0: S.ifr"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "winter",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3268.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3268",
+      "url": "https://anilist.co/anime/3268"
+    },
+    "cr": {
+      "id": "my-otome",
+      "url": "https://www.crunchyroll.com/series/my-otome"
+    },
+    "k": {
+      "id": "2894",
+      "url": "https://kitsu.io/anime/2894"
+    },
+    "mal": {
+      "id": "3268",
+      "url": "https://myanimelist.net/anime/3268"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 516,
+  "slug": "soukyuu-no-fafner-right-of-left-single-program",
+  "kind": "anime",
+  "title": "Soukyuu no Fafner: RIGHT OF LEFT - single program",
+  "titles": {
+    "default": "Soukyuu no Fafner: RIGHT OF LEFT - single program",
+    "romaji": "Soukyuu no Fafner: RIGHT OF LEFT - single program",
+    "native": "蒼穹のファフナー RIGHT OF LEFT ～single program～"
+  },
+  "synonyms": [
+    "Soukyuu no Fafner: RIGHT OF LEFT - single program",
+    "蒼穹のファフナー RIGHT OF LEFT ～single program～",
+    "Fafner in the Azure 2",
+    "Soukyuu no Fafner II",
+    "Sokyuu no Fafner - Single Program - Right of Left-",
+    "Fafner of the Blue Sky: Right of Left",
+    "Soukyuu no Fafner: Right of Left - Single Program"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx560-dXVJeuipvBRF.png"
+  ],
+  "references": {
+    "al": {
+      "id": "560",
+      "url": "https://anilist.co/anime/560"
+    },
+    "k": {
+      "id": "517",
+      "url": "https://kitsu.io/anime/517"
+    },
+    "mal": {
+      "id": "560",
+      "url": "https://myanimelist.net/anime/560"
+    }
+  }
+}

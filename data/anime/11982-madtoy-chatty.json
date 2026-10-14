@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11982,
+  "slug": "madtoy-chatty",
+  "kind": "anime",
+  "title": "Madtoy Chatty",
+  "titles": {
+    "default": "Madtoy Chatty",
+    "romaji": "Madtoy Chatty",
+    "native": "マッドトイチャッティ"
+  },
+  "synonyms": [
+    "Madtoy Chatty",
+    "マッドトイチャッティ",
+    "∀ Gundam",
+    "Turn A Gundam",
+    "∀ガンダム",
+    "Mobile Suit Gundam Turn A"
+  ],
+  "type": "tv",
+  "episodes": 50,
+  "status": "finished",
+  "season": "spring",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b181831-9WI5YQTUFCU4.png"
+  ],
+  "references": {
+    "al": {
+      "id": "181831",
+      "url": "https://anilist.co/anime/181831"
+    },
+    "k": {
+      "id": "74",
+      "url": "https://kitsu.io/anime/74"
+    },
+    "mal": {
+      "id": "52463",
+      "url": "https://myanimelist.net/anime/52463"
+    },
+    "t": {
+      "id": "37388",
+      "url": "https://trakt.tv/shows/37388"
+    }
+  }
+}

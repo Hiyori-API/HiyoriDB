@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6600,
+  "slug": "lupin-iii-chi-no-kokuin-eien-no-mermaid",
+  "kind": "anime",
+  "title": "Lupin III: Chi no Kokuin - Eien no Mermaid",
+  "titles": {
+    "default": "Lupin III: Chi no Kokuin - Eien no Mermaid",
+    "romaji": "Lupin III: Chi no Kokuin - Eien no Mermaid",
+    "english": "Lupin the 3rd: Blood Seal of the Eternal Mermaid",
+    "native": "ルパン三世 血の刻印 - 永遠のMermaid"
+  },
+  "synonyms": [
+    "Lupin III: Chi no Kokuin - Eien no Mermaid",
+    "Lupin the 3rd: Blood Seal of the Eternal Mermaid",
+    "ルパン三世 血の刻印 - 永遠のMermaid",
+    "Rupan Sansei",
+    "Lupin III: Blood Seal - Eternal Mermaid",
+    "Lupin III: Blood Seal of the Eternal Mermaid",
+    "Lupin III - Il sigillo di sangue, la sirena dell'eternità",
+    "Lupin the Third: Blood Seal - Eternal Mermaid"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11777-p5GmzB73bB8G.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11777",
+      "url": "https://anilist.co/anime/11777"
+    },
+    "k": {
+      "id": "6597",
+      "url": "https://kitsu.io/anime/6597"
+    },
+    "mal": {
+      "id": "11777",
+      "url": "https://myanimelist.net/anime/11777"
+    }
+  }
+}

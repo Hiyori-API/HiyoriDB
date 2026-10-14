@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12143,
+  "slug": "ousama-ranking-yuuki-no-takarabako",
+  "kind": "anime",
+  "title": "Ousama Ranking: Yuuki no Takarabako",
+  "titles": {
+    "default": "Ousama Ranking: Yuuki no Takarabako",
+    "romaji": "Ousama Ranking: Yuuki no Takarabako",
+    "english": "Ranking of Kings: The Treasure Chest of Courage",
+    "native": "王様ランキング 勇気の宝箱"
+  },
+  "synonyms": [
+    "Ousama Ranking: Yuuki no Takarabako",
+    "Ranking of Kings: The Treasure Chest of Courage",
+    "王様ランキング 勇気の宝箱",
+    "อันดับพระราชา",
+    "تصنيف الملوك",
+    "Рейтинг королей: Сундук храбрости",
+    "Ranking of Kings: Le Trésor du Courage",
+    "Ranking of Kings: Treasure Chest of Courage"
+  ],
+  "type": "tv",
+  "episodes": 10,
+  "status": "finished",
+  "season": "spring",
+  "year": 2023,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153452-6aGeSxRw2cxY.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "153452",
+      "url": "https://anilist.co/anime/153452"
+    },
+    "cr": {
+      "id": "series/G79H23W70/ranking-of-kings",
+      "url": "https://www.crunchyroll.com/series/series/G79H23W70/ranking-of-kings"
+    },
+    "mal": {
+      "id": "52657",
+      "url": "https://myanimelist.net/anime/52657"
+    },
+    "nf": {
+      "id": "81644043",
+      "url": "https://www.netflix.com/title/81644043"
+    },
+    "tx": {
+      "id": "osama_ranking",
+      "url": "https://twitter.com/osama_ranking"
+    }
+  }
+}

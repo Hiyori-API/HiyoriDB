@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10953,
+  "slug": "ai-wa-kat-tun",
+  "kind": "anime",
+  "title": "Ai wa KAT-TUN",
+  "titles": {
+    "default": "Ai wa KAT-TUN",
+    "romaji": "Ai wa KAT-TUN",
+    "native": "愛はKAT-TUN"
+  },
+  "synonyms": [
+    "Ai wa KAT-TUN",
+    "愛はKAT-TUN"
+  ],
+  "type": "ona",
+  "episodes": 5,
+  "status": "finished",
+  "season": "winter",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12865.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12865",
+      "url": "https://anilist.co/anime/12865"
+    },
+    "k": {
+      "id": "6830",
+      "url": "https://kitsu.io/anime/6830"
+    },
+    "mal": {
+      "id": "12865",
+      "url": "https://myanimelist.net/anime/12865"
+    }
+  }
+}

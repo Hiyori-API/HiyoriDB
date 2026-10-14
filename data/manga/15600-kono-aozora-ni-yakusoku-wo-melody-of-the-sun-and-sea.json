@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15600,
+  "slug": "kono-aozora-ni-yakusoku-wo-melody-of-the-sun-and-sea",
+  "kind": "manga",
+  "title": "Kono Aozora ni Yakusoku wo: Melody of the Sun and Sea",
+  "titles": {
+    "default": "Kono Aozora ni Yakusoku wo: Melody of the Sun and Sea"
+  },
+  "synonyms": [
+    "Promise to the Blue Sky ~melody of the sun and sea~",
+    "この青空に約束を melody of the sun and sea",
+    "Gekiryuuchi",
+    "激流血～OVER BLEED～",
+    "Over Bleed"
+  ],
+  "type": "manga",
+  "chapters": 6,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx40827-xL5vbENQJ1vf.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2155",
+      "url": "https://anilist.co/anime/2155"
+    },
+    "al_manga": {
+      "id": "2155",
+      "url": "https://anilist.co/manga/2155"
+    }
+  }
+}

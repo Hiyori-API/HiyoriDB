@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5122,
+  "slug": "bousou-sengokushi",
+  "kind": "anime",
+  "title": "Bousou Sengokushi",
+  "titles": {
+    "default": "Bousou Sengokushi",
+    "romaji": "Bousou Sengokushi",
+    "native": "暴走戦國史"
+  },
+  "synonyms": [
+    "Bousou Sengokushi",
+    "暴走戦國史",
+    "暴走戦國史 スペクター誕生",
+    "暴走戦國史 狼の鎮魂歌",
+    "Bousou Sengokushi: Spector Tanjou",
+    "Bousou Sengokushi: Ookami no Chinkonka",
+    "Spectre",
+    "Hosai Sengoku Shi Spectre/Requiem",
+    "Hosai Sengoku Shi Spectre",
+    "Hosai Sengoku Shi Requiem",
+    "Racing Civil War Chronicle Spectre/Requiem",
+    "Racing Civil War Chronicle Spectre",
+    "Racing Civil War Chronicle Requiem",
+    "Bousou Sengokushi: Spectre Tanjou"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9343-eIE6s4lMZtv3.png"
+  ],
+  "references": {
+    "al": {
+      "id": "9343",
+      "url": "https://anilist.co/anime/9343"
+    },
+    "k": {
+      "id": "5690",
+      "url": "https://kitsu.io/anime/5690"
+    },
+    "mal": {
+      "id": "9343",
+      "url": "https://myanimelist.net/anime/9343"
+    }
+  }
+}

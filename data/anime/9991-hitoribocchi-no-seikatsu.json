@@ -1,0 +1,59 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9991,
+  "slug": "hitoribocchi-no-seikatsu",
+  "kind": "anime",
+  "title": "Hitoribocchi no ○○ Seikatsu",
+  "titles": {
+    "default": "Hitoribocchi no ○○ Seikatsu",
+    "romaji": "Hitoribocchi no ○○ Seikatsu",
+    "english": "Hitoribocchi no Marumaruseikatsu",
+    "native": "ひとりぼっちの○○生活"
+  },
+  "synonyms": [
+    "Hitoribocchi no ○○ Seikatsu",
+    "Hitoribocchi no Marumaruseikatsu",
+    "ひとりぼっちの○○生活",
+    "Hitoribocchi",
+    "Bocchi Seikatsu",
+    "一个人的○○小日子",
+    "Hitoribocchi no Marumaru Seikatsu",
+    "This Ugly Yet Beautiful World",
+    "Kono Minikuku mo Utsukushii Sekai",
+    "この醜くも美しい世界"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101386-ZJN6JFf9gKrV.png"
+  ],
+  "references": {
+    "al": {
+      "id": "101386",
+      "url": "https://anilist.co/anime/101386"
+    },
+    "cr": {
+      "id": "hitoribocchi-no-marumaruseikatsu",
+      "url": "https://www.crunchyroll.com/series/hitoribocchi-no-marumaruseikatsu"
+    },
+    "k": {
+      "id": "124",
+      "url": "https://kitsu.io/anime/124"
+    },
+    "mal": {
+      "id": "37614",
+      "url": "https://myanimelist.net/anime/37614"
+    },
+    "t": {
+      "id": "34001",
+      "url": "https://trakt.tv/shows/34001"
+    },
+    "tx": {
+      "id": "bocchi_anime",
+      "url": "https://twitter.com/bocchi_anime"
+    }
+  }
+}

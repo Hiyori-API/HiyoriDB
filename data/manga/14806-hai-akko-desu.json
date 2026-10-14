@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14806,
+  "slug": "hai-akko-desu",
+  "kind": "manga",
+  "title": "Hai Akko Desu",
+  "titles": {
+    "default": "Hai Akko Desu"
+  },
+  "synonyms": [
+    "ハーイあっこです",
+    "Maison Ikkoku",
+    "めぞん一刻"
+  ],
+  "type": "manga",
+  "volumes": 20,
+  "status": "finished",
+  "year": 1980,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx58224-MOCflnMHv85C.png"
+  ],
+  "references": {
+    "al": {
+      "id": "5534",
+      "url": "https://anilist.co/anime/5534"
+    },
+    "al_manga": {
+      "id": "5534",
+      "url": "https://anilist.co/manga/5534"
+    }
+  }
+}

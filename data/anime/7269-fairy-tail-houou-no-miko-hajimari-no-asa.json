@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7269,
+  "slug": "fairy-tail-houou-no-miko-hajimari-no-asa",
+  "kind": "anime",
+  "title": "FAIRY TAIL: Houou no Miko - Hajimari no Asa",
+  "titles": {
+    "default": "FAIRY TAIL: Houou no Miko - Hajimari no Asa",
+    "romaji": "FAIRY TAIL: Houou no Miko - Hajimari no Asa",
+    "english": "Fairy Tail the Movie: Prologue - The First Morning",
+    "native": "劇場版 FAIRY TAIL 鳳凰の巫女「はじまりの朝」"
+  },
+  "synonyms": [
+    "FAIRY TAIL: Houou no Miko - Hajimari no Asa",
+    "Fairy Tail the Movie: Prologue - The First Morning",
+    "劇場版 FAIRY TAIL 鳳凰の巫女「はじまりの朝」",
+    "Fairy Tail Movie 1: Houou no Miko - Hajimari no Asa",
+    "フェアリーテイル: 序章「はじまりの朝」",
+    "Fairy Tail: Houou no Miko Prologue",
+    "Fairy Tail: Priestess of the Phoenix - The First Morning"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17535-9WPwCKsR2S5W.png"
+  ],
+  "references": {
+    "al": {
+      "id": "17535",
+      "url": "https://anilist.co/anime/17535"
+    },
+    "k": {
+      "id": "7810",
+      "url": "https://kitsu.io/anime/7810"
+    },
+    "mal": {
+      "id": "17535",
+      "url": "https://myanimelist.net/anime/17535"
+    },
+    "t": {
+      "id": "46004",
+      "url": "https://trakt.tv/shows/46004"
+    }
+  }
+}

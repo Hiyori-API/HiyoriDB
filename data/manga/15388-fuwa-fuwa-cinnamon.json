@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15388,
+  "slug": "fuwa-fuwa-cinnamon",
+  "kind": "manga",
+  "title": "Fuwa Fuwa♥Cinnamon",
+  "titles": {
+    "default": "Fuwa Fuwa♥Cinnamon"
+  },
+  "synonyms": [
+    "Fluffy, Fluffy Cinnamoroll",
+    "ふわふわ♥シナモン",
+    "Railroad",
+    "레일로드"
+  ],
+  "type": "manga",
+  "chapters": 118,
+  "volumes": 5,
+  "status": "finished",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/18307.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "168635",
+      "url": "https://anilist.co/anime/14537"
+    },
+    "al_manga": {
+      "id": "168635",
+      "url": "https://anilist.co/manga/168635"
+    }
+  }
+}

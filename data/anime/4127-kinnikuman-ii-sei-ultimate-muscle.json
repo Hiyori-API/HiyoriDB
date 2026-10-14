@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4127,
+  "slug": "kinnikuman-ii-sei-ultimate-muscle",
+  "kind": "anime",
+  "title": "Kinnikuman II Sei: ULTIMATE MUSCLE",
+  "titles": {
+    "default": "Kinnikuman II Sei: ULTIMATE MUSCLE",
+    "romaji": "Kinnikuman II Sei: ULTIMATE MUSCLE",
+    "native": "キン肉マンII世 ULTIMATE MUSCLE"
+  },
+  "synonyms": [
+    "Kinnikuman II Sei: ULTIMATE MUSCLE",
+    "キン肉マンII世 ULTIMATE MUSCLE",
+    "Kinnikuman Nisei: Ultimate Muscle",
+    "MR. MUSCLEMAN Second Generation ULTIMATE MUSCLE",
+    "Midori Days",
+    "Midori no Hibi",
+    "美鳥の日々",
+    "My Days With Midori"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5967-EfufMGDaJG5R.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5967",
+      "url": "https://anilist.co/anime/5967"
+    },
+    "k": {
+      "id": "297",
+      "url": "https://kitsu.io/anime/297"
+    },
+    "mal": {
+      "id": "5967",
+      "url": "https://myanimelist.net/anime/5967"
+    },
+    "t": {
+      "id": "62190",
+      "url": "https://trakt.tv/shows/62190"
+    },
+    "ttv": {
+      "id": "2058",
+      "url": "https://tubitv.com/series/2058"
+    }
+  }
+}

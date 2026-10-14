@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11661,
+  "slug": "fumetsu-no-anata-e-season-2",
+  "kind": "anime",
+  "title": "Fumetsu no Anata e Season 2",
+  "titles": {
+    "default": "Fumetsu no Anata e Season 2",
+    "romaji": "Fumetsu no Anata e Season 2",
+    "english": "To Your Eternity Season 2",
+    "native": "不滅のあなたへ Season 2"
+  },
+  "synonyms": [
+    "Fumetsu no Anata e Season 2",
+    "To Your Eternity Season 2",
+    "不滅のあなたへ Season 2",
+    "不滅のあなたへ 第２シリーズ",
+    "Uma vida imortal 2",
+    "แด่เธอผู้เป็นนิรันดร์ ภาค 2",
+    "To Your Eternity 2nd Season",
+    "To You, the Immortal 2nd Season",
+    "不滅のあなたへ Season2"
+  ],
+  "type": "tv",
+  "episodes": 20,
+  "status": "finished",
+  "season": "fall",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx138565-JzvDqH84ILzi.png"
+  ],
+  "references": {
+    "al": {
+      "id": "138565",
+      "url": "https://anilist.co/anime/138565"
+    },
+    "cr": {
+      "id": "series/GG5H5XMWV/to-your-eternity",
+      "url": "https://www.crunchyroll.com/series/series/GG5H5XMWV/to-your-eternity"
+    },
+    "mal": {
+      "id": "49709",
+      "url": "https://myanimelist.net/anime/49709"
+    },
+    "tx": {
+      "id": "EternityAnimeEN",
+      "url": "https://twitter.com/nep_fumetsu"
+    }
+  }
+}

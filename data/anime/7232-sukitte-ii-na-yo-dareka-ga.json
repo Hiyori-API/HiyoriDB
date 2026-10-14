@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7232,
+  "slug": "sukitte-ii-na-yo-dareka-ga",
+  "kind": "anime",
+  "title": "Sukitte Ii na yo.: Dareka ga",
+  "titles": {
+    "default": "Sukitte Ii na yo.: Dareka ga",
+    "romaji": "Sukitte Ii na yo.: Dareka ga",
+    "native": "好きっていいなよ。誰かが"
+  },
+  "synonyms": [
+    "Sukitte Ii na yo.: Dareka ga",
+    "好きっていいなよ。誰かが",
+    "Suki-tte Ii na yo. OVA",
+    "Sukinayo OVA",
+    "Say \"I love you\". OVA",
+    "好きっていいなよ。「誰かが」"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16868.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "16868",
+      "url": "https://anilist.co/anime/16868"
+    },
+    "k": {
+      "id": "7542",
+      "url": "https://kitsu.io/anime/7542"
+    },
+    "mal": {
+      "id": "16868",
+      "url": "https://myanimelist.net/anime/16868"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6984,
+  "slug": "robin-kun-to-100-nin-no-otomodachi-season-2",
+  "kind": "anime",
+  "title": "Robin-kun to 100 nin no Otomodachi Season 2",
+  "titles": {
+    "default": "Robin-kun to 100 nin no Otomodachi Season 2",
+    "romaji": "Robin-kun to 100 nin no Otomodachi Season 2",
+    "english": "Robin with his 100 Friends Season 2",
+    "native": "ロビンくんと100人のお友達シーズン2"
+  },
+  "synonyms": [
+    "Robin-kun to 100 nin no Otomodachi Season 2",
+    "Robin with his 100 Friends Season 2",
+    "ロビンくんと100人のお友達シーズン2",
+    "Dog Days'",
+    "ドッグデイズ'",
+    "Dog Days 2"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15069.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "15069",
+      "url": "https://anilist.co/anime/15069"
+    },
+    "k": {
+      "id": "6598",
+      "url": "https://kitsu.io/anime/6598"
+    },
+    "mal": {
+      "id": "15069",
+      "url": "https://myanimelist.net/anime/15069"
+    },
+    "t": {
+      "id": "44069",
+      "url": "https://trakt.tv/shows/44069"
+    }
+  }
+}

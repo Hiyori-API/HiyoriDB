@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5628,
+  "slug": "tottoko-hamtarou-ham-ham-paradichu-ova-ham-chans-no-mezase-ham-ham-kin-medal-hashire-hashire-daisakusen",
+  "kind": "anime",
+  "title": "Tottoko Hamtarou: Ham Ham Paradichu! OVA: Ham-chans no Mezase! Ham Ham Kin Medal ~Hashire! Hashire! Daisakusen~",
+  "titles": {
+    "default": "Tottoko Hamtarou: Ham Ham Paradichu! OVA: Ham-chans no Mezase! Ham Ham Kin Medal ~Hashire! Hashire! Daisakusen~",
+    "romaji": "Tottoko Hamtarou: Ham Ham Paradichu! OVA: Ham-chans no Mezase! Ham Ham Kin Medal ~Hashire! Hashire! Daisakusen~",
+    "english": "Hamtaro: Ham-Ham Games",
+    "native": "ハムちゃんずのめざせ!ハムハム金メダル 〜はしれ!はしれ!だいさくせん〜"
+  },
+  "synonyms": [
+    "Tottoko Hamtarou: Ham Ham Paradichu! OVA: Ham-chans no Mezase! Ham Ham Kin Medal ~Hashire! Hashire! Daisakusen~",
+    "Hamtaro: Ham-Ham Games",
+    "ハムちゃんずのめざせ!ハムハム金メダル 〜はしれ!はしれ!だいさくせん〜",
+    "Hibike! Wadaiko",
+    "ひびけ! 和だいこ"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8966.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8966",
+      "url": "https://anilist.co/anime/8966"
+    },
+    "k": {
+      "id": "9316",
+      "url": "https://kitsu.io/anime/9316"
+    },
+    "mal": {
+      "id": "8966",
+      "url": "https://myanimelist.net/anime/8966"
+    }
+  }
+}

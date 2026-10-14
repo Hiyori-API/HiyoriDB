@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5542,
+  "slug": "ramen-chai-nyan",
+  "kind": "anime",
+  "title": "Ramen Chai-nyan",
+  "titles": {
+    "default": "Ramen Chai-nyan",
+    "romaji": "Ramen Chai-nyan",
+    "native": "らめんちゃいにゃん"
+  },
+  "synonyms": [
+    "Ramen Chai-nyan",
+    "らめんちゃいにゃん",
+    "Cat Soup",
+    "Nekojiru-sou",
+    "ねこぢる草"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136758-JEuASBVJiQqE.png"
+  ],
+  "references": {
+    "al": {
+      "id": "136758",
+      "url": "https://anilist.co/anime/136758"
+    },
+    "k": {
+      "id": "556",
+      "url": "https://kitsu.io/anime/556"
+    },
+    "mal": {
+      "id": "49498",
+      "url": "https://myanimelist.net/anime/49498"
+    }
+  }
+}

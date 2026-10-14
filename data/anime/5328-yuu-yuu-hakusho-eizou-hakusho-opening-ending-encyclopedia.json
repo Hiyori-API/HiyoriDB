@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5328,
+  "slug": "yuu-yuu-hakusho-eizou-hakusho-opening-ending-encyclopedia",
+  "kind": "anime",
+  "title": "Yuu☆Yuu☆Hakusho: Eizou Hakusho - Opening Ending Encyclopedia",
+  "titles": {
+    "default": "Yuu☆Yuu☆Hakusho: Eizou Hakusho - Opening Ending Encyclopedia",
+    "romaji": "Yuu☆Yuu☆Hakusho: Eizou Hakusho - Opening Ending Encyclopedia",
+    "english": "Yu Yu Hakusho Opening & Ending Encyclopedia",
+    "native": "幽☆遊☆白書: オープニング エンディング大百科"
+  },
+  "synonyms": [
+    "Yuu☆Yuu☆Hakusho: Eizou Hakusho - Opening Ending Encyclopedia",
+    "Yu Yu Hakusho Opening & Ending Encyclopedia",
+    "幽☆遊☆白書: オープニング エンディング大百科",
+    "Sore Ike! Anpanman: Keito no Shiro no Christmas",
+    "それいけ! アンパンマン けいとのしろのクリスマス"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b176862-tSSFzMyV4N4i.png"
+  ],
+  "references": {
+    "al": {
+      "id": "176862",
+      "url": "https://anilist.co/anime/176862"
+    },
+    "k": {
+      "id": "9617",
+      "url": "https://kitsu.io/anime/9617"
+    },
+    "mal": {
+      "id": "42880",
+      "url": "https://myanimelist.net/anime/42880"
+    }
+  }
+}

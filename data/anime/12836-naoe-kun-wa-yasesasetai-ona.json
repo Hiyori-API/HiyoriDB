@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12836,
+  "slug": "naoe-kun-wa-yasesasetai-ona",
+  "kind": "anime",
+  "title": "Naoe-kun wa Yasesasetai. (ONA)",
+  "titles": {
+    "default": "Naoe-kun wa Yasesasetai. (ONA)",
+    "romaji": "Naoe-kun wa Yasesasetai. (ONA)",
+    "native": "直江くんは痩せさせたい。"
+  },
+  "synonyms": [
+    "Naoe-kun wa Yasesasetai. (ONA)",
+    "直江くんは痩せさせたい。",
+    "Spirit Wind Elegance 2nd Season Special",
+    "Feng Ling Yu Xiu 2nd Season: Tebie Pian",
+    "Soulmate Adventure 2nd Season Special",
+    "风灵玉秀 第二章 特别篇",
+    "Feng Ling Yu Xiu 2nd Season Special"
+  ],
+  "type": "ona",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2024,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b189834-r4NucyiFWaFU.png"
+  ],
+  "references": {
+    "al": {
+      "id": "189834",
+      "url": "https://anilist.co/anime/189834"
+    },
+    "mal": {
+      "id": "60163",
+      "url": "https://myanimelist.net/anime/60163"
+    },
+    "tx": {
+      "id": "elyase_anime",
+      "url": "https://twitter.com/elyase_anime"
+    }
+  }
+}

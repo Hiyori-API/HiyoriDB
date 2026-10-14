@@ -1,0 +1,58 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11840,
+  "slug": "noumin-kanren-no-skill-bakka-agetetara-naze-ka-tsuyoku-natta",
+  "kind": "anime",
+  "title": "Noumin Kanren no Skill Bakka Agetetara Naze ka Tsuyoku Natta.",
+  "titles": {
+    "default": "Noumin Kanren no Skill Bakka Agetetara Naze ka Tsuyoku Natta.",
+    "romaji": "Noumin Kanren no Skill Bakka Agetetara Naze ka Tsuyoku Natta.",
+    "english": "I've Somehow Gotten Stronger When I Improved My Farm-Related Skills",
+    "native": "農民関連のスキルばっか上げてたら何故か強くなった。"
+  },
+  "synonyms": [
+    "Noumin Kanren no Skill Bakka Agetetara Naze ka Tsuyoku Natta.",
+    "I've Somehow Gotten Stronger When I Improved My Farm-Related Skills",
+    "農民関連のスキルばっか上げてたら何故か強くなった。",
+    "I Somehow Got Strong By Raising Skills Related To Farming",
+    "点满农民相关技能后，不知为何就变强了。",
+    "Fantasy Farm - Avevo coltivato solo le mie abilità legate all'agricoltura, ma sono diventato più forte",
+    "Rozen Maiden: Träumend",
+    "ローゼンメイデン ~ トロイメント",
+    "Rozen Maiden 2"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145815-XsgcXy7WzgtK.png"
+  ],
+  "references": {
+    "al": {
+      "id": "145815",
+      "url": "https://anilist.co/anime/145815"
+    },
+    "cr": {
+      "id": "rozen-maiden",
+      "url": "https://www.crunchyroll.com/series/rozen-maiden"
+    },
+    "k": {
+      "id": "46",
+      "url": "https://kitsu.io/anime/46"
+    },
+    "mal": {
+      "id": "51128",
+      "url": "https://myanimelist.net/anime/51128"
+    },
+    "t": {
+      "id": "61847",
+      "url": "https://trakt.tv/shows/61847"
+    },
+    "tx": {
+      "id": "nouminkanren",
+      "url": "https://twitter.com/nouminkanren"
+    }
+  }
+}

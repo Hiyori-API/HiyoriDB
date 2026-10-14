@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15067,
+  "slug": "mama-loves-the-poyo-poyo-zaurus",
+  "kind": "manga",
+  "title": "Mama Loves the Poyo Poyo Zaurus",
+  "titles": {
+    "default": "Mama Loves the Poyo Poyo Zaurus"
+  },
+  "synonyms": [
+    "Mama wa Poyo Poyo Zarusu ga Oosuki",
+    "Mama Poyo",
+    "ママはぽよぽよザウルスがお好き",
+    "Dismember",
+    "Kaitai",
+    "解体"
+  ],
+  "type": "manga",
+  "volumes": 4,
+  "status": "finished",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12369.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4782",
+      "url": "https://anilist.co/anime/4782"
+    },
+    "al_manga": {
+      "id": "4782",
+      "url": "https://anilist.co/manga/4782"
+    }
+  }
+}

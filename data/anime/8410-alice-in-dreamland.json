@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8410,
+  "slug": "alice-in-dreamland",
+  "kind": "anime",
+  "title": "Alice in Dreamland",
+  "titles": {
+    "default": "Alice in Dreamland",
+    "romaji": "Alice in Dreamland",
+    "english": "Alice in Dream Land",
+    "native": "アリス・イン・ドリームランド"
+  },
+  "synonyms": [
+    "Alice in Dreamland",
+    "Alice in Dream Land",
+    "アリス・イン・ドリームランド",
+    "Little Witch Academia: The Enchanted Parade",
+    "Little Witch Academia: Mahoujikake no Parade",
+    "リトルウィッチアカデミア 魔法仕掛けのパレード",
+    "LWA 2",
+    "Little Witch Academia 2"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx100767-XjYbC8TMj5NV.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "100767",
+      "url": "https://anilist.co/anime/100767"
+    },
+    "k": {
+      "id": "7862",
+      "url": "https://kitsu.io/anime/7862"
+    },
+    "mal": {
+      "id": "31941",
+      "url": "https://myanimelist.net/anime/31941"
+    },
+    "tx": {
+      "id": "MovieAlice",
+      "url": "https://twitter.com/MovieAlice"
+    }
+  }
+}

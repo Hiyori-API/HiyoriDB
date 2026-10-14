@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11971,
+  "slug": "fate-grand-order-fujimaru-ritsuka-wa-wakaranai-nenmatsu-special",
+  "kind": "anime",
+  "title": "Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai - Nenmatsu Special",
+  "titles": {
+    "default": "Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai - Nenmatsu Special",
+    "romaji": "Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai - Nenmatsu Special",
+    "english": "Fate/Grand Order: You've Lost Ritsuka Fujimaru Special Episode",
+    "native": "Fate/Grand Order 藤丸立香はわからない 年末スペシャル"
+  },
+  "synonyms": [
+    "Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai - Nenmatsu Special",
+    "Fate/Grand Order: You've Lost Ritsuka Fujimaru Special Episode",
+    "Fate/Grand Order 藤丸立香はわからない 年末スペシャル",
+    "Fate/Grand Order: You've Lost Ritsuka Fujimaru Episode 0",
+    "Fate/Grand Order: Fujimaru Ritsuka Doesn't Get It Year-End Special",
+    "FGO 藤丸立香はわからない",
+    "Tonikawa: Over The Moon For You - Uniform",
+    "トニカクカワイイ ~制服~",
+    "Tonikaku Kawaii: Seifuku"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b169384-CNHBuiWcrpiX.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "169384",
+      "url": "https://anilist.co/anime/169384"
+    },
+    "mal": {
+      "id": "54976",
+      "url": "https://myanimelist.net/anime/54976"
+    },
+    "tx": {
+      "id": "fgoproject",
+      "url": "https://twitter.com/fgoproject"
+    },
+    "yt": {
+      "id": "g9RrLz91BDE",
+      "url": "https://www.youtube.com/watch?v=WApeUTO6u50"
+    }
+  }
+}

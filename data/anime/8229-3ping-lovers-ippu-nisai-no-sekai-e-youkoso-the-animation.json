@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8229,
+  "slug": "3ping-lovers-ippu-nisai-no-sekai-e-youkoso-the-animation",
+  "kind": "anime",
+  "title": "3Ping Lovers!☆Ippu Nisai no Sekai e Youkoso♪ THE ANIMATION",
+  "titles": {
+    "default": "3Ping Lovers!☆Ippu Nisai no Sekai e Youkoso♪ THE ANIMATION",
+    "romaji": "3Ping Lovers!☆Ippu Nisai no Sekai e Youkoso♪ THE ANIMATION",
+    "native": "3PingLovers!☆一夫二妻の世界へようこそ♪ THE ANIMATION"
+  },
+  "synonyms": [
+    "3Ping Lovers!☆Ippu Nisai no Sekai e Youkoso♪ THE ANIMATION",
+    "3PingLovers!☆一夫二妻の世界へようこそ♪ THE ANIMATION",
+    "Haiyore! Nyaruko-san F",
+    "這いよれ！ニャル子さんF"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21144-tl9BRZtzIej6.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21144",
+      "url": "https://anilist.co/anime/21144"
+    },
+    "k": {
+      "id": "8881",
+      "url": "https://kitsu.io/anime/8881"
+    },
+    "mal": {
+      "id": "29809",
+      "url": "https://myanimelist.net/anime/29809"
+    }
+  }
+}

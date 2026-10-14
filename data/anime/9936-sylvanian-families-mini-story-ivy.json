@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9936,
+  "slug": "sylvanian-families-mini-story-ivy",
+  "kind": "anime",
+  "title": "Sylvanian Families: Mini Story Ivy",
+  "titles": {
+    "default": "Sylvanian Families: Mini Story Ivy",
+    "romaji": "Sylvanian Families: Mini Story Ivy",
+    "english": "Calico Critters: Mini Episodes -Ivy-",
+    "native": "シルバニアファミリー ミニストーリー アイビー"
+  },
+  "synonyms": [
+    "Sylvanian Families: Mini Story Ivy",
+    "Calico Critters: Mini Episodes -Ivy-",
+    "シルバニアファミリー ミニストーリー アイビー",
+    "Sylvanian Families: Mini Story - Season 2",
+    "High Score Girl",
+    "ハイスコアガール",
+    "Hi Score Girl"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b187053-KFJCIPQQGZEm.png"
+  ],
+  "references": {
+    "al": {
+      "id": "187053",
+      "url": "https://anilist.co/anime/187053"
+    },
+    "k": {
+      "id": "8158",
+      "url": "https://kitsu.io/anime/8158"
+    },
+    "mal": {
+      "id": "38560",
+      "url": "https://myanimelist.net/anime/38560"
+    },
+    "nf": {
+      "id": "80997338",
+      "url": "https://www.netflix.com/title/80997338"
+    }
+  }
+}

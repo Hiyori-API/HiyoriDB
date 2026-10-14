@@ -1,0 +1,59 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11230,
+  "slug": "osananajimi-ga-zettai-ni-makenai-love-kome",
+  "kind": "anime",
+  "title": "Osananajimi ga Zettai ni Makenai Love Kome",
+  "titles": {
+    "default": "Osananajimi ga Zettai ni Makenai Love Kome",
+    "romaji": "Osananajimi ga Zettai ni Makenai Love Kome",
+    "english": "Osamake: Romcom Where The Childhood Friend Won't Lose",
+    "native": "幼なじみが絶対に負けないラブコメ"
+  },
+  "synonyms": [
+    "Osananajimi ga Zettai ni Makenai Love Kome",
+    "Osamake: Romcom Where The Childhood Friend Won't Lose",
+    "幼なじみが絶対に負けないラブコメ",
+    "Osananajimi ga Zettai ni Makenai Love Comedy",
+    "OsaMake",
+    "ความรักนี้เพื่อนสมัยเด็กไม่แพ้รักแรกหรอก",
+    "เลิฟคอเมดี้เรื่องนี้ เพื่อนสมัยเด็กไม่มีวันแพ้",
+    "This Ugly Yet Beautiful World",
+    "Kono Minikuku mo Utsukushii Sekai",
+    "この醜くも美しい世界"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124675-fNI06ipb65vy.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "124675",
+      "url": "https://anilist.co/anime/124675"
+    },
+    "cr": {
+      "id": "osamake-romcom-where-the-childhood-friend-wont-lose",
+      "url": "https://www.crunchyroll.com/series/osamake-romcom-where-the-childhood-friend-wont-lose"
+    },
+    "k": {
+      "id": "124",
+      "url": "https://kitsu.io/anime/124"
+    },
+    "mal": {
+      "id": "43007",
+      "url": "https://myanimelist.net/anime/43007"
+    },
+    "t": {
+      "id": "34001",
+      "url": "https://trakt.tv/shows/34001"
+    },
+    "tx": {
+      "id": "osamake_project",
+      "url": "https://twitter.com/osamake_project"
+    }
+  }
+}

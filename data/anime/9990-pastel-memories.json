@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9990,
+  "slug": "pastel-memories",
+  "kind": "anime",
+  "title": "Pastel Memories",
+  "titles": {
+    "default": "Pastel Memories",
+    "romaji": "Pastel Memories",
+    "native": "ぱすてるメモリーズ"
+  },
+  "synonyms": [
+    "Pastel Memories",
+    "ぱすてるメモリーズ",
+    "Wataten",
+    "Wataten! an Angel Flew Down to Me",
+    "私に天使が舞い降りた！",
+    "Watashi ni Tenshi ga Maiorita!"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101379-ddbxF0DUTgRg.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101379",
+      "url": "https://anilist.co/anime/101379"
+    },
+    "mal": {
+      "id": "37374",
+      "url": "https://myanimelist.net/anime/37374"
+    },
+    "tx": {
+      "id": "pasumemo",
+      "url": "https://twitter.com/pasumemo"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13843,
+  "slug": "saigo-no-door-wo-shimero",
+  "kind": "manga",
+  "title": "Saigo no Door wo Shimero!",
+  "titles": {
+    "default": "Saigo no Door wo Shimero!"
+  },
+  "synonyms": [
+    "Saigo no Door wo Shimero",
+    "Saigo no Doa wo Shimero!",
+    "Close your last door",
+    "Close your Last Door",
+    "Close the Last Door",
+    "最後のドアを閉めろ！",
+    "Saigo no Door wo Shimero!"
+  ],
+  "type": "manga",
+  "chapters": 18,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30234-Ds6joQx5PWcl.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2417",
+      "url": "https://anilist.co/anime/2417"
+    },
+    "al_manga": {
+      "id": "2417",
+      "url": "https://anilist.co/manga/2417"
+    }
+  }
+}

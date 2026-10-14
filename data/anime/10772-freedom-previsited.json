@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10772,
+  "slug": "freedom-previsited",
+  "kind": "anime",
+  "title": "FREEDOM previsited",
+  "titles": {
+    "default": "FREEDOM previsited",
+    "romaji": "FREEDOM previsited"
+  },
+  "synonyms": [
+    "FREEDOM previsited",
+    "Sore Ike! Anpanman: Sing! Dance! Everybody's Christmas",
+    "それいけ!アンパンマン うたおう!おどろう!みんなのクリスマス",
+    "Go! Anpanman: Sing! Dance! Everybody's Christmas"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2319.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2319",
+      "url": "https://anilist.co/anime/2319"
+    },
+    "k": {
+      "id": "7566",
+      "url": "https://kitsu.io/anime/7566"
+    },
+    "mal": {
+      "id": "2319",
+      "url": "https://myanimelist.net/anime/2319"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12833,
+  "slug": "hajime-mashita-yamaneko-iin",
+  "kind": "anime",
+  "title": "Hajime Mashita, Yamaneko Iin",
+  "titles": {
+    "default": "Hajime Mashita, Yamaneko Iin",
+    "romaji": "Hajime Mashita, Yamaneko Iin",
+    "native": "はじめました、山猫医院"
+  },
+  "synonyms": [
+    "Hajime Mashita, Yamaneko Iin",
+    "はじめました、山猫医院",
+    "YAMANEKO-IIN",
+    "Avenger",
+    "アヴェンジャー"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2024,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186756-PZhEWXNI9UUg.png"
+  ],
+  "references": {
+    "al": {
+      "id": "186756",
+      "url": "https://anilist.co/anime/186756"
+    },
+    "k": {
+      "id": "37",
+      "url": "https://kitsu.io/anime/37"
+    },
+    "mal": {
+      "id": "56",
+      "url": "https://myanimelist.net/anime/56"
+    },
+    "t": {
+      "id": "21179",
+      "url": "https://trakt.tv/shows/21179"
+    }
+  }
+}

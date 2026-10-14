@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11023,
+  "slug": "metal-fight-beyblade-zero-g-specials",
+  "kind": "anime",
+  "title": "Metal Fight Beyblade ZERO G Specials",
+  "titles": {
+    "default": "Metal Fight Beyblade ZERO G Specials",
+    "romaji": "Metal Fight Beyblade ZERO G Specials",
+    "english": "Beyblade: Shogun Steel Specials",
+    "native": "メタルファイト ベイブレード ZEROG"
+  },
+  "synonyms": [
+    "Metal Fight Beyblade ZERO G Specials",
+    "Beyblade: Shogun Steel Specials",
+    "メタルファイト ベイブレード ZEROG",
+    "Metal Fight Beyblade Zero G Specials",
+    "Metal Fight Beyblade Zero G OAD",
+    "Metal Fight Beyblade Zero G OVA"
+  ],
+  "type": "special",
+  "episodes": 7,
+  "status": "finished",
+  "season": "spring",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b136110-sDzQOOwVtxyj.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "136110",
+      "url": "https://anilist.co/anime/136110"
+    },
+    "k": {
+      "id": "9073",
+      "url": "https://kitsu.io/anime/9073"
+    },
+    "mal": {
+      "id": "21479",
+      "url": "https://myanimelist.net/anime/21479"
+    }
+  }
+}

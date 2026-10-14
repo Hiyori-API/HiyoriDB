@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9030,
+  "slug": "kobayashi-san-chi-no-maidragon",
+  "kind": "anime",
+  "title": "Kobayashi-san Chi no Maidragon",
+  "titles": {
+    "default": "Kobayashi-san Chi no Maidragon",
+    "romaji": "Kobayashi-san Chi no Maidragon",
+    "english": "Miss Kobayashi's Dragon Maid",
+    "native": "小林さんちのメイドラゴン"
+  },
+  "synonyms": [
+    "Kobayashi-san Chi no Maidragon",
+    "Miss Kobayashi's Dragon Maid",
+    "小林さんちのメイドラゴン",
+    "Kobayashi-san Chi no Maid Dragon",
+    "小林家的龙女仆",
+    "น้องเมดมังกรของคุณโคบายาชิ",
+    "Дракониха-горничная госпожи Кобаяси",
+    "โคบายาชิซังกับเมดมังกร",
+    "The maid dragon of Kobayashi-san"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21776-bwPaYKhnKfUs.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21776",
+      "url": "https://anilist.co/anime/21776"
+    },
+    "cr": {
+      "id": "miss-kobayashis-dragon-maid",
+      "url": "https://www.crunchyroll.com/series/miss-kobayashis-dragon-maid"
+    },
+    "mal": {
+      "id": "33206",
+      "url": "https://myanimelist.net/anime/33206"
+    },
+    "nf": {
+      "id": "80186349",
+      "url": "https://www.netflix.com/title/80186349"
+    },
+    "tx": {
+      "id": "MissKobayashiEN",
+      "url": "https://twitter.com/maidragon_anime"
+    }
+  }
+}

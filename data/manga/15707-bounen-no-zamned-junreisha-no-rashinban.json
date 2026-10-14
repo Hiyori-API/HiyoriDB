@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15707,
+  "slug": "bounen-no-zamned-junreisha-no-rashinban",
+  "kind": "manga",
+  "title": "Bounen no Zamned: Junreisha no Rashinban",
+  "titles": {
+    "default": "Bounen no Zamned: Junreisha no Rashinban"
+  },
+  "synonyms": [
+    "Xam'd: Lost Memories - Pilgrim of the Compass",
+    "Bounen no Xam'd - Junreisha no Rashinban",
+    "Bounen no Xamdou: Junreisha no Compass",
+    "亡念のザムド 巡礼者の羅針盤",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "chapters": 3,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx41499-yXWHpKSm50Ml.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4177",
+      "url": "https://anilist.co/anime/4177"
+    },
+    "al_manga": {
+      "id": "4177",
+      "url": "https://anilist.co/manga/4177"
+    }
+  }
+}

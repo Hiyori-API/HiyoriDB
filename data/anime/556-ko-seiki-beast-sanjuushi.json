@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 556,
+  "slug": "ko-seiki-beast-sanjuushi",
+  "kind": "anime",
+  "title": "KO Seiki Beast Sanjuushi",
+  "titles": {
+    "default": "KO Seiki Beast Sanjuushi",
+    "romaji": "KO Seiki Beast Sanjuushi",
+    "english": "K.O. Beast",
+    "native": "KO世紀 ビースト三獣士"
+  },
+  "synonyms": [
+    "KO Seiki Beast Sanjuushi",
+    "K.O. Beast",
+    "KO世紀 ビースト三獣士",
+    "KO Century Beast Warriors",
+    "KO Beast",
+    "ＫＯ世紀　ビースト三獣士",
+    "K.O. Beasts"
+  ],
+  "type": "ova",
+  "episodes": 7,
+  "status": "finished",
+  "season": "spring",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx602-amdWfHC4ZNMm.png"
+  ],
+  "references": {
+    "al": {
+      "id": "602",
+      "url": "https://anilist.co/anime/602"
+    },
+    "k": {
+      "id": "557",
+      "url": "https://kitsu.io/anime/557"
+    },
+    "mal": {
+      "id": "602",
+      "url": "https://myanimelist.net/anime/602"
+    }
+  }
+}

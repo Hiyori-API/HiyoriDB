@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13522,
+  "slug": "chiikawa-ningyo-no-shima-no-himitsu",
+  "kind": "anime",
+  "title": "Chiikawa: Ningyo no Shima no Himitsu",
+  "titles": {
+    "default": "Chiikawa: Ningyo no Shima no Himitsu",
+    "romaji": "Chiikawa: Ningyo no Shima no Himitsu",
+    "native": "映画ちいかわ 人魚の島のひみつ"
+  },
+  "synonyms": [
+    "Chiikawa: Ningyo no Shima no Himitsu",
+    "映画ちいかわ 人魚の島のひみつ",
+    "Chiikawa the Movie: The Secret of Mermaid Island",
+    "ちいかわ セイレーン編",
+    "Chiikawa: Siren Arc",
+    "劇場版 CHIIKAWA 人魚島的秘密",
+    "Cowboy Bebop: The Movie",
+    "Cowboy Bebop: Tengoku no Tobira",
+    "Cowboy Bebop: Knockin' on Heaven's Door",
+    "カウボーイビバップ天国の扉"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202717-kHDn7BRiP9CR.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "202717",
+      "url": "https://anilist.co/anime/202717"
+    },
+    "k": {
+      "id": "2",
+      "url": "https://kitsu.io/anime/2"
+    },
+    "mal": {
+      "id": "63011",
+      "url": "https://myanimelist.net/anime/63011"
+    }
+  }
+}

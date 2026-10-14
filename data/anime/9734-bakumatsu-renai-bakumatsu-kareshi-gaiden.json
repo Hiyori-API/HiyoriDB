@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9734,
+  "slug": "bakumatsu-renai-bakumatsu-kareshi-gaiden",
+  "kind": "anime",
+  "title": "BAKUMATSU: Renai Bakumatsu Kareshi Gaiden",
+  "titles": {
+    "default": "BAKUMATSU: Renai Bakumatsu Kareshi Gaiden",
+    "romaji": "BAKUMATSU: Renai Bakumatsu Kareshi Gaiden",
+    "english": "BAKUMATSU",
+    "native": "BAKUMATSU ~恋愛幕末カレシ 外伝~"
+  },
+  "synonyms": [
+    "BAKUMATSU: Renai Bakumatsu Kareshi Gaiden",
+    "BAKUMATSU",
+    "BAKUMATSU ~恋愛幕末カレシ 外伝~",
+    "Golden Kamuy Second Season",
+    "Golden Kamuy Season 2",
+    "ゴールデンカムイ",
+    "Golden Kamuy 2nd Season"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx101373-qpJIXrKofqON.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101373",
+      "url": "https://anilist.co/anime/101373"
+    },
+    "cr": {
+      "id": "bakumatsu",
+      "url": "https://www.crunchyroll.com/series/bakumatsu"
+    },
+    "mal": {
+      "id": "37584",
+      "url": "https://myanimelist.net/anime/37584"
+    },
+    "tx": {
+      "id": "BAKUMATSU_info",
+      "url": "https://twitter.com/BAKUMATSU_info"
+    }
+  }
+}

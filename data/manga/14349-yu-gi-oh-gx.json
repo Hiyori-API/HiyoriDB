@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14349,
+  "slug": "yu-gi-oh-gx",
+  "kind": "manga",
+  "title": "Yu☆Gi☆Oh! GX",
+  "titles": {
+    "default": "Yu☆Gi☆Oh! GX"
+  },
+  "synonyms": [
+    "Yugioh GX",
+    "Yu-gi-oh! Generation Next",
+    "Yu-gi-oh! Genex",
+    "Yu-Gi-Oh! GX",
+    "遊☆戯☆王GX",
+    "Guardian Dog"
+  ],
+  "type": "manga",
+  "chapters": 65,
+  "volumes": 9,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33041-kJBX4VVQPHF8.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "482",
+      "url": "https://anilist.co/anime/482"
+    },
+    "al_manga": {
+      "id": "482",
+      "url": "https://anilist.co/manga/482"
+    }
+  }
+}

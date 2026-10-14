@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8273,
+  "slug": "kurayami-santa",
+  "kind": "anime",
+  "title": "Kurayami Santa",
+  "titles": {
+    "default": "Kurayami Santa",
+    "romaji": "Kurayami Santa",
+    "english": "Darkness Boy Santa",
+    "native": "暗闇三太"
+  },
+  "synonyms": [
+    "Kurayami Santa",
+    "Darkness Boy Santa",
+    "暗闇三太",
+    "Wagnaria!!3",
+    "Working!!!",
+    "ワーキング!!!",
+    "Working!! 3rd Season",
+    "Working!! Third Season"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21223-wl0B0KxJwzib.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21223",
+      "url": "https://anilist.co/anime/21223"
+    },
+    "k": {
+      "id": "8712",
+      "url": "https://kitsu.io/anime/8712"
+    },
+    "mal": {
+      "id": "30947",
+      "url": "https://myanimelist.net/anime/30947"
+    },
+    "t": {
+      "id": "61012",
+      "url": "https://trakt.tv/shows/61012"
+    }
+  }
+}

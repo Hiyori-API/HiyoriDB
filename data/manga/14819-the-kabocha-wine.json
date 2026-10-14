@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14819,
+  "slug": "the-kabocha-wine",
+  "kind": "manga",
+  "title": "The Kabocha Wine",
+  "titles": {
+    "default": "The Kabocha Wine"
+  },
+  "synonyms": [
+    "The Pumpkin Wine",
+    "Mes Tendres Années",
+    "Vino di zucca",
+    "The・かぼちゃワイン",
+    "Magician",
+    "マジシャン"
+  ],
+  "type": "manga",
+  "chapters": 170,
+  "volumes": 18,
+  "status": "finished",
+  "year": 1981,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx49545-7QH351YWV7gP.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3159",
+      "url": "https://anilist.co/anime/3159"
+    },
+    "al_manga": {
+      "id": "3159",
+      "url": "https://anilist.co/manga/3159"
+    }
+  }
+}

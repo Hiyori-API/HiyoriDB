@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7104,
+  "slug": "hunter-hunter-phantom-rouge",
+  "kind": "anime",
+  "title": "HUNTER×HUNTER: Phantom Rouge",
+  "titles": {
+    "default": "HUNTER×HUNTER: Phantom Rouge",
+    "romaji": "HUNTER×HUNTER: Phantom Rouge",
+    "english": "Hunter x Hunter: Phantom Rouge",
+    "native": "劇場版 HUNTER×HUNTER 緋色の幻影（ファントム・ルージュ）"
+  },
+  "synonyms": [
+    "HUNTER×HUNTER: Phantom Rouge",
+    "Hunter x Hunter: Phantom Rouge",
+    "劇場版 HUNTER×HUNTER 緋色の幻影（ファントム・ルージュ）",
+    "Gekijouban Hunter x Hunter: Hiiro no Genei",
+    "HxH Movie",
+    "HxH: Phantom Rogue",
+    "Hunter x Hunter: Fantasma Vermelho",
+    "Hunter x Hunter Movie 1: Phantom Rouge",
+    "Hantā Hantā Movie"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx13271-jBxQFqHCpb2K.png"
+  ],
+  "references": {
+    "al": {
+      "id": "13271",
+      "url": "https://anilist.co/anime/13271"
+    },
+    "k": {
+      "id": "6930",
+      "url": "https://kitsu.io/anime/6930"
+    },
+    "mal": {
+      "id": "13271",
+      "url": "https://myanimelist.net/anime/13271"
+    },
+    "nf": {
+      "id": "80108601",
+      "url": "https://www.netflix.com/title/80108601"
+    }
+  }
+}

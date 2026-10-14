@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5481,
+  "slug": "baby-felix",
+  "kind": "anime",
+  "title": "Baby Felix",
+  "titles": {
+    "default": "Baby Felix",
+    "romaji": "Baby Felix",
+    "native": "ベイビーフィリックス"
+  },
+  "synonyms": [
+    "Baby Felix",
+    "ベイビーフィリックス"
+  ],
+  "type": "tv",
+  "episodes": 65,
+  "status": "finished",
+  "season": "fall",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8220.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8220",
+      "url": "https://anilist.co/anime/8220"
+    },
+    "k": {
+      "id": "5251",
+      "url": "https://kitsu.io/anime/5251"
+    },
+    "mal": {
+      "id": "8220",
+      "url": "https://myanimelist.net/anime/8220"
+    }
+  }
+}

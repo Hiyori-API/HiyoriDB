@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7962,
+  "slug": "mahou-shoujo-lyrical-nanoha-picture-drama-mahou-shoujo-lyrical-if",
+  "kind": "anime",
+  "title": "Mahou Shoujo Lyrical Nanoha: Picture Drama - Mahou Shoujo Lyrical IF",
+  "titles": {
+    "default": "Mahou Shoujo Lyrical Nanoha: Picture Drama - Mahou Shoujo Lyrical IF",
+    "romaji": "Mahou Shoujo Lyrical Nanoha: Picture Drama - Mahou Shoujo Lyrical IF",
+    "english": "Mahou Shoujo Lyrical Nanoha Picture Drama",
+    "native": "魔法少女リリカルなのは ピクチャードラマ 魔法少女リリカルIF"
+  },
+  "synonyms": [
+    "Mahou Shoujo Lyrical Nanoha: Picture Drama - Mahou Shoujo Lyrical IF",
+    "Mahou Shoujo Lyrical Nanoha Picture Drama",
+    "魔法少女リリカルなのは ピクチャードラマ 魔法少女リリカルIF",
+    "Nanoha Picture Drama 01",
+    "The Disappearance of Conan Edogawa: The Worst Two Days in History",
+    "名探偵コナン 江戸川コナン失踪事件～史上最悪の二日間～",
+    "Edogawa Conan Shissou Jiken: Shijou Saiaku no Futsukakan"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n107340-kwqTOrWiGlDz.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "107340",
+      "url": "https://anilist.co/anime/107340"
+    },
+    "k": {
+      "id": "8179",
+      "url": "https://kitsu.io/anime/8179"
+    },
+    "mal": {
+      "id": "35501",
+      "url": "https://myanimelist.net/anime/35501"
+    }
+  }
+}

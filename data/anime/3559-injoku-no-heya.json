@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3559,
+  "slug": "injoku-no-heya",
+  "kind": "anime",
+  "title": "Injoku no Heya",
+  "titles": {
+    "default": "Injoku no Heya",
+    "romaji": "Injoku no Heya",
+    "english": "Lewd Room",
+    "native": "淫辱の部屋"
+  },
+  "synonyms": [
+    "Injoku no Heya",
+    "Lewd Room",
+    "淫辱の部屋",
+    "Good Morning Call",
+    "グッドモーニング・コール"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4644.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4644",
+      "url": "https://anilist.co/anime/4644"
+    },
+    "k": {
+      "id": "945",
+      "url": "https://kitsu.io/anime/945"
+    },
+    "mal": {
+      "id": "4644",
+      "url": "https://myanimelist.net/anime/4644"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15577,
+  "slug": "rotte-no-omocha",
+  "kind": "manga",
+  "title": "Rotte no Omocha!",
+  "titles": {
+    "default": "Rotte no Omocha!"
+  },
+  "synonyms": [
+    "Astarotte no Omocha!",
+    "Lotte no Omocha!",
+    "Astarotte's Toy",
+    "ロッテのおもちゃ！",
+    "Kataomoi no Mukougawa",
+    "片想いの向こう側",
+    "Kataomoi no Mukou Gawa",
+    "Ano Kado o Magareba",
+    "Tenshi ga Kuretamono",
+    "Bitou na Koi",
+    "Kimi to Natsu no Aizu"
+  ],
+  "type": "manga",
+  "chapters": 70,
+  "volumes": 9,
+  "status": "finished",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/6778-LyMSNivCO3L6.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10582",
+      "url": "https://anilist.co/anime/9736"
+    },
+    "al_manga": {
+      "id": "10582",
+      "url": "https://anilist.co/manga/10582"
+    }
+  }
+}

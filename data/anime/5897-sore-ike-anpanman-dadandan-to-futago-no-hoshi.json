@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5897,
+  "slug": "sore-ike-anpanman-dadandan-to-futago-no-hoshi",
+  "kind": "anime",
+  "title": "Sore Ike! Anpanman: Dadandan to Futago no Hoshi",
+  "titles": {
+    "default": "Sore Ike! Anpanman: Dadandan to Futago no Hoshi",
+    "romaji": "Sore Ike! Anpanman: Dadandan to Futago no Hoshi",
+    "native": "それいけ！アンパンマン だだんだんとふたごの星"
+  },
+  "synonyms": [
+    "Sore Ike! Anpanman: Dadandan to Futago no Hoshi",
+    "それいけ！アンパンマン だだんだんとふたごの星"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17213.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "17213",
+      "url": "https://anilist.co/anime/17213"
+    },
+    "k": {
+      "id": "7607",
+      "url": "https://kitsu.io/anime/7607"
+    },
+    "mal": {
+      "id": "17213",
+      "url": "https://myanimelist.net/anime/17213"
+    }
+  }
+}

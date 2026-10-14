@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5188,
+  "slug": "shin-seiki-gpx-cyber-formula-graffiti",
+  "kind": "anime",
+  "title": "Shin Seiki GPX Cyber Formula Graffiti",
+  "titles": {
+    "default": "Shin Seiki GPX Cyber Formula Graffiti",
+    "romaji": "Shin Seiki GPX Cyber Formula Graffiti",
+    "native": "新世紀GPXサイバーフォーミュラ グラフィティ"
+  },
+  "synonyms": [
+    "Shin Seiki GPX Cyber Formula Graffiti",
+    "新世紀GPXサイバーフォーミュラ グラフィティ",
+    "Future GPX Cyber Formula Graffiti"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9759-zBlE5K3TkKuX.png"
+  ],
+  "references": {
+    "al": {
+      "id": "9759",
+      "url": "https://anilist.co/anime/9759"
+    },
+    "k": {
+      "id": "5854",
+      "url": "https://kitsu.io/anime/5854"
+    },
+    "mal": {
+      "id": "9759",
+      "url": "https://myanimelist.net/anime/9759"
+    }
+  }
+}

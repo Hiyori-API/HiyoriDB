@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10789,
+  "slug": "rainbow-sentai-robin",
+  "kind": "anime",
+  "title": "Rainbow Sentai Robin",
+  "titles": {
+    "default": "Rainbow Sentai Robin",
+    "romaji": "Rainbow Sentai Robin",
+    "native": "レインボー戦隊ロビン"
+  },
+  "synonyms": [
+    "Rainbow Sentai Robin",
+    "レインボー戦隊ロビン",
+    "Rainbow Battle Team Robin",
+    "Rainbow Squadron Robin",
+    "Robin in the Rainbow Troops"
+  ],
+  "type": "tv",
+  "episodes": 48,
+  "status": "finished",
+  "season": "spring",
+  "year": 1966,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9438.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9438",
+      "url": "https://anilist.co/anime/9438"
+    },
+    "k": {
+      "id": "5734",
+      "url": "https://kitsu.io/anime/5734"
+    },
+    "mal": {
+      "id": "9438",
+      "url": "https://myanimelist.net/anime/9438"
+    }
+  }
+}

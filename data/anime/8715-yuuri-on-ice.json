@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8715,
+  "slug": "yuuri-on-ice",
+  "kind": "anime",
+  "title": "Yuuri!!! on ICE",
+  "titles": {
+    "default": "Yuuri!!! on ICE",
+    "romaji": "Yuuri!!! on ICE",
+    "english": "Yuri!!! on ICE",
+    "native": "ユーリ!!! on ICE"
+  },
+  "synonyms": [
+    "Yuuri!!! on ICE",
+    "Yuri!!! on ICE",
+    "ユーリ!!! on ICE",
+    "Yuri!!! On Ice",
+    "Yuri!!! on Ice"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21709-aqPBDxJPruYR.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21709",
+      "url": "https://anilist.co/anime/21709"
+    },
+    "ap": {
+      "id": "B07959D5Y9",
+      "url": "https://www.amazon.com/gp/video/detail/B07959D5Y9"
+    },
+    "cr": {
+      "id": "yuri-on-ice",
+      "url": "https://www.crunchyroll.com/series/yuri-on-ice"
+    },
+    "mal": {
+      "id": "32995",
+      "url": "https://myanimelist.net/anime/32995"
+    },
+    "tx": {
+      "id": "yurionice_PR",
+      "url": "https://twitter.com/yurionice_PR"
+    }
+  }
+}

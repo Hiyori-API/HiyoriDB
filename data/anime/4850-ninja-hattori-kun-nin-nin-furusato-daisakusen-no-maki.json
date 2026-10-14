@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4850,
+  "slug": "ninja-hattori-kun-nin-nin-furusato-daisakusen-no-maki",
+  "kind": "anime",
+  "title": "Ninja Hattori-kun: Nin Nin Furusato Daisakusen no Maki",
+  "titles": {
+    "default": "Ninja Hattori-kun: Nin Nin Furusato Daisakusen no Maki",
+    "romaji": "Ninja Hattori-kun: Nin Nin Furusato Daisakusen no Maki",
+    "native": "忍者ハットリくん ニンニンふるさと大作戦の巻"
+  },
+  "synonyms": [
+    "Ninja Hattori-kun: Nin Nin Furusato Daisakusen no Maki",
+    "忍者ハットリくん ニンニンふるさと大作戦の巻",
+    "Hattori and the War of the Little Ninja Villages",
+    "Hattori: The Little Ninja: the Chapter of the Great Clash in his Native Country"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1983,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177144-aqKzEpf8IhYH.png"
+  ],
+  "references": {
+    "al": {
+      "id": "177144",
+      "url": "https://anilist.co/anime/177144"
+    },
+    "k": {
+      "id": "9491",
+      "url": "https://kitsu.io/anime/9491"
+    },
+    "mal": {
+      "id": "23647",
+      "url": "https://myanimelist.net/anime/23647"
+    }
+  }
+}

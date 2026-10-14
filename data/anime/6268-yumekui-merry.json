@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6268,
+  "slug": "yumekui-merry",
+  "kind": "anime",
+  "title": "Yumekui Merry",
+  "titles": {
+    "default": "Yumekui Merry",
+    "romaji": "Yumekui Merry",
+    "english": "Dream Eater Merry",
+    "native": "夢喰いメリー"
+  },
+  "synonyms": [
+    "Yumekui Merry",
+    "Dream Eater Merry",
+    "夢喰いメリー"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9331-f2bAShenxOeX.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9331",
+      "url": "https://anilist.co/anime/9331"
+    },
+    "k": {
+      "id": "5679",
+      "url": "https://kitsu.io/anime/5679"
+    },
+    "mal": {
+      "id": "9331",
+      "url": "https://myanimelist.net/anime/9331"
+    },
+    "t": {
+      "id": "38510",
+      "url": "https://trakt.tv/shows/38510"
+    }
+  }
+}

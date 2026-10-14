@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4930,
+  "slug": "meitantei-holmes-mrs-hudson-hitojichi-jiken-no-maki-dover-kaikyou-no-daikuuchuusen-no-maki",
+  "kind": "anime",
+  "title": "Meitantei Holmes: Mrs. Hudson Hitojichi Jiken no Maki / Dover Kaikyou no Daikuuchuusen no Maki",
+  "titles": {
+    "default": "Meitantei Holmes: Mrs. Hudson Hitojichi Jiken no Maki / Dover Kaikyou no Daikuuchuusen no Maki",
+    "romaji": "Meitantei Holmes: Mrs. Hudson Hitojichi Jiken no Maki / Dover Kaikyou no Daikuuchuusen no Maki",
+    "native": "劇場版名探偵ホームズ　ミセス・ハドソン人質事件の巻／ドーバー海峡の大空中戦の巻"
+  },
+  "synonyms": [
+    "Meitantei Holmes: Mrs. Hudson Hitojichi Jiken no Maki / Dover Kaikyou no Daikuuchuusen no Maki",
+    "劇場版名探偵ホームズ　ミセス・ハドソン人質事件の巻／ドーバー海峡の大空中戦の巻",
+    "Sherlock Hound Movie 02",
+    "Meitantei Holmes Movie 02"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20441.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "20441",
+      "url": "https://anilist.co/anime/20441"
+    },
+    "k": {
+      "id": "9122",
+      "url": "https://kitsu.io/anime/9122"
+    },
+    "mal": {
+      "id": "20441",
+      "url": "https://myanimelist.net/anime/20441"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8322,
+  "slug": "durarara-2-ten-onoroke-chakapoko",
+  "kind": "anime",
+  "title": "Durarara!!×2 Ten: Onoroke Chakapoko",
+  "titles": {
+    "default": "Durarara!!×2 Ten: Onoroke Chakapoko",
+    "romaji": "Durarara!!×2 Ten: Onoroke Chakapoko",
+    "english": "Durarara!! X2 The Second Arc: Onoroke Chakapoko",
+    "native": "デュラララ!!×２ 転 お惚気チャカポコ"
+  },
+  "synonyms": [
+    "Durarara!!×2 Ten: Onoroke Chakapoko",
+    "Durarara!! X2 The Second Arc: Onoroke Chakapoko",
+    "デュラララ!!×２ 転 お惚気チャカポコ",
+    "Durarara!!x2 Ten Episode 13.5",
+    "Bokura wa Minna Kawai-sou: Hajimete no",
+    "僕らはみんな河合荘 初めての",
+    "The Kawai Complex Guide to Manors and Hostel Behavior: First Time",
+    "Bokura wa Minna Kawaisou: Hajimete no",
+    "Bokura wa Minna Kawaisou Special"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21331-5gtFE1JYxL2O.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21331",
+      "url": "https://anilist.co/anime/21331"
+    },
+    "k": {
+      "id": "8536",
+      "url": "https://kitsu.io/anime/8536"
+    },
+    "mal": {
+      "id": "31552",
+      "url": "https://myanimelist.net/anime/31552"
+    }
+  }
+}

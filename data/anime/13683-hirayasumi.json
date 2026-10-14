@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13683,
+  "slug": "hirayasumi",
+  "kind": "anime",
+  "title": "Hirayasumi",
+  "titles": {
+    "default": "Hirayasumi",
+    "romaji": "Hirayasumi",
+    "native": "ひらやすみ"
+  },
+  "synonyms": [
+    "Hirayasumi",
+    "ひらやすみ",
+    "Despera",
+    "ですぺら",
+    "Desupera"
+  ],
+  "type": "tv",
+  "status": "to_be_aired",
+  "season": "winter",
+  "year": 2027,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196333-HRmwgn8j8tvi.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "196333",
+      "url": "https://anilist.co/anime/196333"
+    },
+    "k": {
+      "id": "4584",
+      "url": "https://kitsu.io/anime/4584"
+    },
+    "mal": {
+      "id": "62100",
+      "url": "https://myanimelist.net/anime/62100"
+    }
+  }
+}

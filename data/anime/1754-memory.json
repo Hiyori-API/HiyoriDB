@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1754,
+  "slug": "memory",
+  "kind": "anime",
+  "title": "Memory",
+  "titles": {
+    "default": "Memory",
+    "romaji": "Memory",
+    "native": "めもりい"
+  },
+  "synonyms": [
+    "Memory",
+    "めもりい"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1964,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1984-AxWxVpjQzLBB.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1984",
+      "url": "https://anilist.co/anime/1984"
+    },
+    "k": {
+      "id": "1786",
+      "url": "https://kitsu.io/anime/1786"
+    },
+    "mal": {
+      "id": "1984",
+      "url": "https://myanimelist.net/anime/1984"
+    }
+  }
+}

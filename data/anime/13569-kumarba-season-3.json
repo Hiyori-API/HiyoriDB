@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13569,
+  "slug": "kumarba-season-3",
+  "kind": "anime",
+  "title": "Kumarba Season 3",
+  "titles": {
+    "default": "Kumarba Season 3",
+    "romaji": "Kumarba Season 3",
+    "native": "クマーバシーズン3"
+  },
+  "synonyms": [
+    "Kumarba Season 3",
+    "クマーバシーズン3",
+    "Tensura 4",
+    "That Time I Got Reincarnated as a Slime Season 4",
+    "転生したらスライムだった件 第4期",
+    "Tensei shitara Slime Datta Ken 4th Season"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "spring",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206950-pNm7O5inBKBX.png"
+  ],
+  "references": {
+    "al": {
+      "id": "206950",
+      "url": "https://anilist.co/anime/206950"
+    },
+    "mal": {
+      "id": "63383",
+      "url": "https://myanimelist.net/anime/63383"
+    }
+  }
+}

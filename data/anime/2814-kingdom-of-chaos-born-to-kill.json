@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2814,
+  "slug": "kingdom-of-chaos-born-to-kill",
+  "kind": "anime",
+  "title": "Kingdom of Chaos: Born to Kill",
+  "titles": {
+    "default": "Kingdom of Chaos: Born to Kill",
+    "romaji": "Kingdom of Chaos: Born to Kill",
+    "native": "キングダム・オブ・カオス 〜ボーン・トゥー・キル〜"
+  },
+  "synonyms": [
+    "Kingdom of Chaos: Born to Kill",
+    "キングダム・オブ・カオス 〜ボーン・トゥー・キル〜"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "fall",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3267.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3267",
+      "url": "https://anilist.co/anime/3267"
+    },
+    "k": {
+      "id": "2893",
+      "url": "https://kitsu.io/anime/2893"
+    },
+    "mal": {
+      "id": "3267",
+      "url": "https://myanimelist.net/anime/3267"
+    }
+  }
+}

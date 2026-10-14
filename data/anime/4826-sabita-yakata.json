@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4826,
+  "slug": "sabita-yakata",
+  "kind": "anime",
+  "title": "Sabita Yakata",
+  "titles": {
+    "default": "Sabita Yakata",
+    "romaji": "Sabita Yakata",
+    "native": "錆びた館"
+  },
+  "synonyms": [
+    "Sabita Yakata",
+    "錆びた館",
+    "Rusty House",
+    "Shiroi Kiba White Fang Monogatari",
+    "白い牙ホワイトファング物語",
+    "White Fang",
+    "White Fang Story.",
+    "White Fang Story"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1982,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b165977-9KZpfmfvdGFX.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "165977",
+      "url": "https://anilist.co/anime/165977"
+    },
+    "k": {
+      "id": "4349",
+      "url": "https://kitsu.io/anime/4349"
+    },
+    "mal": {
+      "id": "55354",
+      "url": "https://myanimelist.net/anime/55354"
+    }
+  }
+}

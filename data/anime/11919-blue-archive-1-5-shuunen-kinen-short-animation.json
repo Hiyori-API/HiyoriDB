@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11919,
+  "slug": "blue-archive-1-5-shuunen-kinen-short-animation",
+  "kind": "anime",
+  "title": "Blue Archive: 1.5 Shuunen Kinen Short Animation",
+  "titles": {
+    "default": "Blue Archive: 1.5 Shuunen Kinen Short Animation",
+    "romaji": "Blue Archive: 1.5 Shuunen Kinen Short Animation",
+    "english": "Blue Archive ~ New Summer Animation PV ~",
+    "native": "ブルアカ 1.5周年記念ショートアニメーション"
+  },
+  "synonyms": [
+    "Blue Archive: 1.5 Shuunen Kinen Short Animation",
+    "Blue Archive ~ New Summer Animation PV ~",
+    "ブルアカ 1.5周年記念ショートアニメーション",
+    "Blue Archive 1.5 Anniversary Short Animation",
+    "[블루 아카이브] ~ New 여름 애니메이션 PV ~ 공개!",
+    "Mobile Suit Gundam: The Witch from Mercury - Prologue",
+    "機動戦士ガンダム 水星の魔女 PROLOGUE",
+    "Kidou Senshi Gundam: Suisei no Majo - Prologue"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152636-bb3LwS91J5Hu.png"
+  ],
+  "references": {
+    "al": {
+      "id": "152636",
+      "url": "https://anilist.co/anime/152636"
+    },
+    "mal": {
+      "id": "52420",
+      "url": "https://myanimelist.net/anime/52420"
+    },
+    "tx": {
+      "id": "Blue_ArchiveJP",
+      "url": "https://twitter.com/Blue_ArchiveJP"
+    },
+    "yt": {
+      "id": "T5wNrdOMrNg",
+      "url": "https://www.youtube.com/watch?v=kXVco22ZCw8"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14641,
+  "slug": "sasuke",
+  "kind": "manga",
+  "title": "Sasuke",
+  "titles": {
+    "default": "Sasuke"
+  },
+  "synonyms": [
+    "サスケ",
+    "Renai Soukanzu",
+    "恋愛相姦図",
+    "Renai Sokanzu",
+    "Pink Sweets"
+  ],
+  "type": "manga",
+  "chapters": 55,
+  "volumes": 15,
+  "status": "finished",
+  "year": 1961,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx136429-VMbfLFhnbsA4.png"
+  ],
+  "references": {
+    "al": {
+      "id": "6056",
+      "url": "https://anilist.co/anime/6056"
+    },
+    "al_manga": {
+      "id": "6056",
+      "url": "https://anilist.co/manga/6056"
+    }
+  }
+}

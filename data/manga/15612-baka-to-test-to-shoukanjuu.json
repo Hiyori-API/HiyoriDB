@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15612,
+  "slug": "baka-to-test-to-shoukanjuu",
+  "kind": "manga",
+  "title": "Baka to Test to Shoukanjuu",
+  "titles": {
+    "default": "Baka to Test to Shoukanjuu"
+  },
+  "synonyms": [
+    "Baka to Tesuto to Shoukanjuu",
+    "Baka to Test to Shoukanjyuu",
+    "Baka to Test to Syokanjyu",
+    "Idiots, Tests, and Summoned Beasts",
+    "笨蛋，測驗，召喚獸",
+    "Baka & Test: Summon the Beast",
+    "バカとテストと召喚獣",
+    "Simple Knot Loafers",
+    "シンプルノットローファー",
+    "Shinpuru Notto Rofa",
+    "Shinpuru Notto Roofaa",
+    "Simple Not Loafer"
+  ],
+  "type": "manga",
+  "chapters": 84,
+  "volumes": 15,
+  "status": "finished",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/13872.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6347",
+      "url": "https://anilist.co/anime/8516"
+    },
+    "al_manga": {
+      "id": "6347",
+      "url": "https://anilist.co/manga/6347"
+    }
+  }
+}

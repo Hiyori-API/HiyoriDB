@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2872,
+  "slug": "kure-nai",
+  "kind": "anime",
+  "title": "Kure-nai",
+  "titles": {
+    "default": "Kure-nai",
+    "romaji": "Kure-nai",
+    "english": "Kurenai",
+    "native": "紅"
+  },
+  "synonyms": [
+    "Kure-nai",
+    "Kurenai",
+    "紅",
+    "Crimson"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3358-Pvigwmxm5sBV.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3358",
+      "url": "https://anilist.co/anime/3358"
+    },
+    "k": {
+      "id": "2954",
+      "url": "https://kitsu.io/anime/2954"
+    },
+    "mal": {
+      "id": "3358",
+      "url": "https://myanimelist.net/anime/3358"
+    },
+    "t": {
+      "id": "61776",
+      "url": "https://trakt.tv/shows/61776"
+    }
+  }
+}

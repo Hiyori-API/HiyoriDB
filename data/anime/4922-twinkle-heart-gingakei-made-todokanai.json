@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4922,
+  "slug": "twinkle-heart-gingakei-made-todokanai",
+  "kind": "anime",
+  "title": "Twinkle Heart: Gingakei made Todokanai",
+  "titles": {
+    "default": "Twinkle Heart: Gingakei made Todokanai",
+    "romaji": "Twinkle Heart: Gingakei made Todokanai",
+    "native": "トゥインクルハート 銀河系までとどかない"
+  },
+  "synonyms": [
+    "Twinkle Heart: Gingakei made Todokanai",
+    "トゥインクルハート 銀河系までとどかない"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10355.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10355",
+      "url": "https://anilist.co/anime/10355"
+    },
+    "k": {
+      "id": "6145",
+      "url": "https://kitsu.io/anime/6145"
+    },
+    "mal": {
+      "id": "10355",
+      "url": "https://myanimelist.net/anime/10355"
+    }
+  }
+}

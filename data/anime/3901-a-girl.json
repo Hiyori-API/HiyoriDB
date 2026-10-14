@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3901,
+  "slug": "a-girl",
+  "kind": "anime",
+  "title": "A-Girl",
+  "titles": {
+    "default": "A-Girl",
+    "romaji": "A-Girl"
+  },
+  "synonyms": [
+    "A-Girl",
+    "エー・ガール",
+    "A-Girl [エー・ガール]"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx5447-I0yyqno0kYhR.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5447",
+      "url": "https://anilist.co/anime/5447"
+    },
+    "k": {
+      "id": "4102",
+      "url": "https://kitsu.io/anime/4102"
+    },
+    "mal": {
+      "id": "5447",
+      "url": "https://myanimelist.net/anime/5447"
+    }
+  }
+}

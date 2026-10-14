@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1747,
+  "slug": "tri-zenon",
+  "kind": "anime",
+  "title": "Tri-Zenon",
+  "titles": {
+    "default": "Tri-Zenon",
+    "romaji": "Tri-Zenon",
+    "english": "Invincible King Tri-Zenon",
+    "native": "無敵王トライゼノン"
+  },
+  "synonyms": [
+    "Tri-Zenon",
+    "Invincible King Tri-Zenon",
+    "無敵王トライゼノン",
+    "TriZenon",
+    "Invincible Champion Tri-Zenon",
+    "Muteki Ou Tri-Zenon",
+    "Mutekioh Tri-Zenon",
+    "Mutekiou Tri-Zenon"
+  ],
+  "type": "tv",
+  "episodes": 22,
+  "status": "finished",
+  "season": "fall",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1975.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1975",
+      "url": "https://anilist.co/anime/1975"
+    },
+    "k": {
+      "id": "1778",
+      "url": "https://kitsu.io/anime/1778"
+    },
+    "mal": {
+      "id": "1975",
+      "url": "https://myanimelist.net/anime/1975"
+    },
+    "t": {
+      "id": "26848",
+      "url": "https://trakt.tv/shows/26848"
+    }
+  }
+}

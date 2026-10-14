@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6750,
+  "slug": "my-imouto-koakuma-na-a-cup",
+  "kind": "anime",
+  "title": "My Imouto: Koakuma na A Cup",
+  "titles": {
+    "default": "My Imouto: Koakuma na A Cup",
+    "romaji": "My Imouto: Koakuma na A Cup",
+    "native": "My妹～小悪魔なAカップ～"
+  },
+  "synonyms": [
+    "My Imouto: Koakuma na A Cup",
+    "My妹～小悪魔なAカップ～",
+    "My Mai: Koakuma na A Cup",
+    "Recorder to Randoseru",
+    "リコーダーとランドセル",
+    "Recorder and Randsell",
+    "Recorder and Backpack",
+    "Recorder and Satchel",
+    "Recorder to Ransel"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12057-EHUH8x0Rt08c.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12057",
+      "url": "https://anilist.co/anime/12057"
+    },
+    "k": {
+      "id": "7143",
+      "url": "https://kitsu.io/anime/7143"
+    },
+    "mal": {
+      "id": "12057",
+      "url": "https://myanimelist.net/anime/12057"
+    }
+  }
+}

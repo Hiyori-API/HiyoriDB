@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1736,
+  "slug": "arashi-no-yoru-ni",
+  "kind": "anime",
+  "title": "Arashi no Yoru ni",
+  "titles": {
+    "default": "Arashi no Yoru ni",
+    "romaji": "Arashi no Yoru ni",
+    "english": "One Stormy Night",
+    "native": "あらしのよるに"
+  },
+  "synonyms": [
+    "Arashi no Yoru ni",
+    "One Stormy Night",
+    "あらしのよるに",
+    "In the Night of the Storm",
+    "On A Stormy Night",
+    "Stormy Night",
+    "En Stormig Natt"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1961-L9Hw5BgBaNT1.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1961",
+      "url": "https://anilist.co/anime/1961"
+    },
+    "k": {
+      "id": "1767",
+      "url": "https://kitsu.io/anime/1767"
+    },
+    "mal": {
+      "id": "1961",
+      "url": "https://myanimelist.net/anime/1961"
+    }
+  }
+}

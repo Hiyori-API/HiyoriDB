@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5786,
+  "slug": "soreike-anpanman-shabondama-no-purun",
+  "kind": "anime",
+  "title": "Soreike! Anpanman: Shabondama no Purun",
+  "titles": {
+    "default": "Soreike! Anpanman: Shabondama no Purun",
+    "romaji": "Soreike! Anpanman: Shabondama no Purun",
+    "english": "Anpanman: Purun, the Soap Bubble",
+    "native": "それいけ! アンパンマン シャボン玉のプルン"
+  },
+  "synonyms": [
+    "Soreike! Anpanman: Shabondama no Purun",
+    "Anpanman: Purun, the Soap Bubble",
+    "それいけ! アンパンマン シャボン玉のプルン",
+    "Sore Ike! Anpanman: Shabondama no Purun"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b148664-LQGpf4AcWxHF.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "148664",
+      "url": "https://anilist.co/anime/148664"
+    },
+    "k": {
+      "id": "9051",
+      "url": "https://kitsu.io/anime/9051"
+    },
+    "mal": {
+      "id": "21293",
+      "url": "https://myanimelist.net/anime/21293"
+    }
+  }
+}

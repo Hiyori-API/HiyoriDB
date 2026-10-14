@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2909,
+  "slug": "kodomo-no-omocha-ova",
+  "kind": "anime",
+  "title": "Kodomo no Omocha (OVA)",
+  "titles": {
+    "default": "Kodomo no Omocha (OVA)",
+    "romaji": "Kodomo no Omocha (OVA)",
+    "native": "こどものおもちゃ (OVA)"
+  },
+  "synonyms": [
+    "Kodomo no Omocha (OVA)",
+    "こどものおもちゃ (OVA)",
+    "Child's Toy OVA",
+    "Kodocha OVA",
+    "Kodomo no Omocha",
+    "こどものおもちゃ OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3421-cPY3tiflCMLz.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3421",
+      "url": "https://anilist.co/anime/3421"
+    },
+    "k": {
+      "id": "2997",
+      "url": "https://kitsu.io/anime/2997"
+    },
+    "mal": {
+      "id": "3421",
+      "url": "https://myanimelist.net/anime/3421"
+    }
+  }
+}

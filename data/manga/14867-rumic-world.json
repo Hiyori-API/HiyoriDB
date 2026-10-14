@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14867,
+  "slug": "rumic-world",
+  "kind": "manga",
+  "title": "Rumic World",
+  "titles": {
+    "default": "Rumic World"
+  },
+  "synonyms": [
+    "Fire Tripper",
+    "Firetripper",
+    "The Laughing Target",
+    "高橋留美子傑作短編集",
+    "Takahashi Rumiko Kessaku Tanpenshuu",
+    "Rumiko Takahashi Masterpiece Collection",
+    "Rumik World. Zbiór arcydzieł Rumiko Takahashi",
+    "Rumic World Trilogy",
+    "るーみっくわーるど",
+    "Dragon Ball",
+    "ドラゴンボール",
+    "Dragonball",
+    "Dragon Ball Z",
+    "Dragonball Z"
+  ],
+  "type": "manga",
+  "chapters": 19,
+  "volumes": 3,
+  "status": "finished",
+  "year": 1984,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx40810-8hrFxtWFew82.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3787",
+      "url": "https://anilist.co/anime/2973"
+    },
+    "al_manga": {
+      "id": "3787",
+      "url": "https://anilist.co/manga/3787"
+    }
+  }
+}

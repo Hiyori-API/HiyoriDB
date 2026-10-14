@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14630,
+  "slug": "aventure-21",
+  "kind": "manga",
+  "title": "Aventure 21",
+  "titles": {
+    "default": "Aventure 21"
+  },
+  "synonyms": [
+    "21st Century Adventure",
+    "Adventure 21",
+    "アバンチュール21",
+    "Ryuu no Michi",
+    "リュウの道",
+    "The Road of Ryuu"
+  ],
+  "type": "manga",
+  "chapters": 6,
+  "volumes": 1,
+  "status": "finished",
+  "year": 1970,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/43317.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "123638",
+      "url": "https://anilist.co/anime/123638"
+    },
+    "al_manga": {
+      "id": "123638",
+      "url": "https://anilist.co/manga/123638"
+    }
+  }
+}

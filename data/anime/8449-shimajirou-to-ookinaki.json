@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8449,
+  "slug": "shimajirou-to-ookinaki",
+  "kind": "anime",
+  "title": "Shimajirou to Ookinaki",
+  "titles": {
+    "default": "Shimajirou to Ookinaki",
+    "romaji": "Shimajirou to Ookinaki",
+    "native": "しまじろうと おおきなき"
+  },
+  "synonyms": [
+    "Shimajirou to Ookinaki",
+    "しまじろうと おおきなき",
+    "Doraemon Movie 35: Nobita no Space Heroes",
+    "映画 ドラえもん のび太の宇宙英雄記[スペースヒーローズ]",
+    "Doraemon: Nobita no Uchuu Eiyuuki",
+    "Doraemon: Nobita's Space Heroes"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131642-z3LvmloIXoKu.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "131642",
+      "url": "https://anilist.co/anime/131642"
+    },
+    "k": {
+      "id": "8900",
+      "url": "https://kitsu.io/anime/8900"
+    },
+    "mal": {
+      "id": "28293",
+      "url": "https://myanimelist.net/anime/28293"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3814,
+  "slug": "live-on-cardliver-kakeru",
+  "kind": "anime",
+  "title": "Live On CARDLIVER Kakeru",
+  "titles": {
+    "default": "Live On CARDLIVER Kakeru",
+    "romaji": "Live On CARDLIVER Kakeru",
+    "native": "ライブオン CARDLIVER 翔"
+  },
+  "synonyms": [
+    "Live On CARDLIVER Kakeru",
+    "ライブオン CARDLIVER 翔",
+    "Shugo Chara Ninenme",
+    "Shugo Chara! Second Year",
+    "Shugo Chara!! Doki",
+    "しゅごキャラ！！どきっ"
+  ],
+  "type": "tv",
+  "episodes": 51,
+  "status": "finished",
+  "season": "fall",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5235.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5235",
+      "url": "https://anilist.co/anime/5235"
+    },
+    "mal": {
+      "id": "5235",
+      "url": "https://myanimelist.net/anime/5235"
+    }
+  }
+}

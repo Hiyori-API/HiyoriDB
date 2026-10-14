@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14295,
+  "slug": "uragiri-wa-boku-no-namae-wo-shitteiru",
+  "kind": "manga",
+  "title": "Uragiri wa Boku no Namae wo Shitteiru",
+  "titles": {
+    "default": "Uragiri wa Boku no Namae wo Shitteiru"
+  },
+  "synonyms": [
+    "Uraboku",
+    "Fesseln des Verrats",
+    "The Betrayal Knows My Name",
+    "裏切りは僕の名前を知っている",
+    "Renai Soukanzu",
+    "恋愛相姦図",
+    "Renai Sokanzu",
+    "Pink Sweets"
+  ],
+  "type": "manga",
+  "chapters": 68,
+  "volumes": 13,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1951-ayLxrnHsd5vc.png"
+  ],
+  "references": {
+    "al": {
+      "id": "7058",
+      "url": "https://anilist.co/anime/7058"
+    },
+    "al_manga": {
+      "id": "7058",
+      "url": "https://anilist.co/manga/7058"
+    }
+  }
+}

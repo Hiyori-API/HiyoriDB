@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13343,
+  "slug": "mononoke-hebigami",
+  "kind": "anime",
+  "title": "Mononoke: Hebigami",
+  "titles": {
+    "default": "Mononoke: Hebigami",
+    "romaji": "Mononoke: Hebigami",
+    "english": "Mononoke The Movie: Chapter Ⅲ - The Curse of the Serpent",
+    "native": "モノノ怪 蛇神"
+  },
+  "synonyms": [
+    "Mononoke: Hebigami",
+    "Mononoke The Movie: Chapter Ⅲ - The Curse of the Serpent",
+    "モノノ怪 蛇神",
+    "Mononoke: Dai San Shou - Hebigami",
+    "Mononoke — film: rozdział 3 — Klątwa Węża",
+    "Mononoke - O Filme: Capítulo 3 - A Maldição da Serpente",
+    "Grave of the Fireflies",
+    "Hotaru no Haka",
+    "火垂るの墓",
+    "Tombstone for Fireflies"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179874-XT4IXUuAeixL.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "179874",
+      "url": "https://anilist.co/anime/179874"
+    },
+    "k": {
+      "id": "534",
+      "url": "https://kitsu.io/anime/534"
+    },
+    "mal": {
+      "id": "61202",
+      "url": "https://myanimelist.net/anime/61202"
+    },
+    "nf": {
+      "id": "82012956",
+      "url": "https://www.netflix.com/title/82012956"
+    }
+  }
+}

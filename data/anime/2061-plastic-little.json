@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2061,
+  "slug": "plastic-little",
+  "kind": "anime",
+  "title": "Plastic Little",
+  "titles": {
+    "default": "Plastic Little",
+    "romaji": "Plastic Little",
+    "english": "Plastic Little: The Adventures of Captain Tita",
+    "native": "プラスチックリトル"
+  },
+  "synonyms": [
+    "Plastic Little",
+    "Plastic Little: The Adventures of Captain Tita",
+    "プラスチックリトル",
+    "I Shall Never Return",
+    "Boku wa Konomama Kaeranai",
+    "ぼくはこのまま帰らない",
+    "Our Road of no Return"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx2332-7lokbXE0FFbA.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2332",
+      "url": "https://anilist.co/anime/2332"
+    },
+    "k": {
+      "id": "1093",
+      "url": "https://kitsu.io/anime/1093"
+    },
+    "mal": {
+      "id": "2332",
+      "url": "https://myanimelist.net/anime/2332"
+    }
+  }
+}

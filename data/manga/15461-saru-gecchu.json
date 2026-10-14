@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15461,
+  "slug": "saru-gecchu",
+  "kind": "manga",
+  "title": "Saru Gecchu",
+  "titles": {
+    "default": "Saru Gecchu"
+  },
+  "synonyms": [
+    "Saru Get You!",
+    "サルゲッチュ",
+    "Renai Soukanzu",
+    "恋愛相姦図",
+    "Renai Sokanzu",
+    "Pink Sweets"
+  ],
+  "type": "manga",
+  "volumes": 9,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/27109.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "139884",
+      "url": "https://anilist.co/anime/139884"
+    },
+    "al_manga": {
+      "id": "139884",
+      "url": "https://anilist.co/manga/139884"
+    }
+  }
+}

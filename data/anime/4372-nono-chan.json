@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4372,
+  "slug": "nono-chan",
+  "kind": "anime",
+  "title": "Nono-chan",
+  "titles": {
+    "default": "Nono-chan",
+    "romaji": "Nono-chan",
+    "native": "ののちゃん"
+  },
+  "synonyms": [
+    "Nono-chan",
+    "ののちゃん",
+    "Nonoko"
+  ],
+  "type": "tv",
+  "episodes": 61,
+  "status": "finished",
+  "season": "summer",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6625.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6625",
+      "url": "https://anilist.co/anime/6625"
+    },
+    "k": {
+      "id": "4638",
+      "url": "https://kitsu.io/anime/4638"
+    },
+    "mal": {
+      "id": "6625",
+      "url": "https://myanimelist.net/anime/6625"
+    }
+  }
+}

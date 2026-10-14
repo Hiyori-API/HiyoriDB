@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8005,
+  "slug": "dog-days",
+  "kind": "anime",
+  "title": "Dog Days''",
+  "titles": {
+    "default": "Dog Days''",
+    "romaji": "Dog Days''",
+    "english": "Dog Days Season 3",
+    "native": "ドッグデイズ''"
+  },
+  "synonyms": [
+    "Dog Days''",
+    "Dog Days Season 3",
+    "ドッグデイズ''",
+    "Dog Days 3"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16385-ws6NmloFQ37V.png"
+  ],
+  "references": {
+    "al": {
+      "id": "16385",
+      "url": "https://anilist.co/anime/16385"
+    },
+    "cr": {
+      "id": "dog-days",
+      "url": "https://www.crunchyroll.com/series/dog-days"
+    },
+    "k": {
+      "id": "7417",
+      "url": "https://kitsu.io/anime/7417"
+    },
+    "mal": {
+      "id": "16385",
+      "url": "https://myanimelist.net/anime/16385"
+    },
+    "t": {
+      "id": "44069",
+      "url": "https://trakt.tv/shows/44069"
+    }
+  }
+}

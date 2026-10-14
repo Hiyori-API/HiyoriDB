@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5677,
+  "slug": "kouchuu-ouja-mushiking-greatest-champion-e-no-michi",
+  "kind": "anime",
+  "title": "Kouchuu Ouja Mushiking: Greatest Champion e no Michi",
+  "titles": {
+    "default": "Kouchuu Ouja Mushiking: Greatest Champion e no Michi",
+    "romaji": "Kouchuu Ouja Mushiking: Greatest Champion e no Michi",
+    "native": "劇場版甲虫王者ムシキング グレイテストチャンピオンへの道"
+  },
+  "synonyms": [
+    "Kouchuu Ouja Mushiking: Greatest Champion e no Michi",
+    "劇場版甲虫王者ムシキング グレイテストチャンピオンへの道",
+    "Mushiking: The King of Beetles the movie \"The Road to the Greatest Champion\""
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b17469-4pVtzokauBrh.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "17469",
+      "url": "https://anilist.co/anime/17469"
+    },
+    "k": {
+      "id": "8927",
+      "url": "https://kitsu.io/anime/8927"
+    },
+    "mal": {
+      "id": "17469",
+      "url": "https://myanimelist.net/anime/17469"
+    }
+  }
+}

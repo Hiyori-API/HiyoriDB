@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14216,
+  "slug": "haikara-san-ga-tooru",
+  "kind": "manga",
+  "title": "Haikara-san ga Tooru",
+  "titles": {
+    "default": "Haikara-san ga Tooru"
+  },
+  "synonyms": [
+    "Smart-san",
+    "Mademoiselle Anne",
+    "There Goes the Modern Girl",
+    "Here Comes Miss Modern",
+    "はいからさんが通る",
+    "Haikara-san ga Tooru",
+    "Here Comes a Dandy"
+  ],
+  "type": "manga",
+  "chapters": 50,
+  "volumes": 7,
+  "status": "finished",
+  "year": 1975,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b31567-NjIobCvmyHCA.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "100652",
+      "url": "https://anilist.co/anime/3335"
+    },
+    "al_manga": {
+      "id": "100652",
+      "url": "https://anilist.co/manga/100652"
+    }
+  }
+}

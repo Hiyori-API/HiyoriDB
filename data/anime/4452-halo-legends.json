@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4452,
+  "slug": "halo-legends",
+  "kind": "anime",
+  "title": "Halo Legends",
+  "titles": {
+    "default": "Halo Legends",
+    "romaji": "Halo Legends",
+    "native": "ヘイロー・レジェンズ"
+  },
+  "synonyms": [
+    "Halo Legends",
+    "ヘイロー・レジェンズ",
+    "Halo Anime",
+    "Halo Animation"
+  ],
+  "type": "ona",
+  "episodes": 9,
+  "status": "finished",
+  "season": "fall",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6867-CpE2hNtBSeh9.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6867",
+      "url": "https://anilist.co/anime/6867"
+    },
+    "ap": {
+      "id": "B0B64KQGHW",
+      "url": "https://www.amazon.com/gp/video/detail/B0B64KQGHW"
+    },
+    "k": {
+      "id": "4760",
+      "url": "https://kitsu.io/anime/4760"
+    },
+    "mal": {
+      "id": "6867",
+      "url": "https://myanimelist.net/anime/6867"
+    },
+    "nf": {
+      "id": "70129415",
+      "url": "https://www.netflix.com/title/70129415"
+    }
+  }
+}

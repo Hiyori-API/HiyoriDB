@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14935,
+  "slug": "capricorn",
+  "kind": "manga",
+  "title": "Capricorn",
+  "titles": {
+    "default": "Capricorn"
+  },
+  "synonyms": [
+    "カプリコン",
+    "Ranma ½",
+    "Ranma 1/2",
+    "らんま½"
+  ],
+  "type": "manga",
+  "volumes": 5,
+  "status": "finished",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/18554.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2053",
+      "url": "https://anilist.co/anime/2053"
+    },
+    "al_manga": {
+      "id": "2053",
+      "url": "https://anilist.co/manga/2053"
+    }
+  }
+}

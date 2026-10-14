@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1767,
+  "slug": "tokyo-vice",
+  "kind": "anime",
+  "title": "Tokyo Vice",
+  "titles": {
+    "default": "Tokyo Vice",
+    "romaji": "Tokyo Vice",
+    "english": "The Tokyo Project",
+    "native": "トウキョウ・バイス"
+  },
+  "synonyms": [
+    "Tokyo Vice",
+    "The Tokyo Project",
+    "トウキョウ・バイス",
+    "Toukyou Vice",
+    "Ten Little Gall Force",
+    "テンリトルガルフォース",
+    "Super Deformed Double Feature"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2003-azIJOB6ZSPjI.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2003",
+      "url": "https://anilist.co/anime/2003"
+    },
+    "k": {
+      "id": "4524",
+      "url": "https://kitsu.io/anime/4524"
+    },
+    "mal": {
+      "id": "2003",
+      "url": "https://myanimelist.net/anime/2003"
+    }
+  }
+}

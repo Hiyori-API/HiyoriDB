@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14822,
+  "slug": "ningen-kousaten",
+  "kind": "manga",
+  "title": "Ningen Kousaten",
+  "titles": {
+    "default": "Ningen Kousaten"
+  },
+  "synonyms": [
+    "Ningen Kousaten",
+    "Human Crossing",
+    "人間交差点",
+    "Magician",
+    "マジシャン"
+  ],
+  "type": "manga",
+  "chapters": 232,
+  "volumes": 27,
+  "status": "finished",
+  "year": 1981,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/27953.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1083",
+      "url": "https://anilist.co/anime/1083"
+    },
+    "al_manga": {
+      "id": "1083",
+      "url": "https://anilist.co/manga/1083"
+    }
+  }
+}

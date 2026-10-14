@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1712,
+  "slug": "futari-wa-precure-max-heart-2-yukizora-no-tomodachi",
+  "kind": "anime",
+  "title": "Futari wa Precure: Max Heart 2 - Yukizora no Tomodachi",
+  "titles": {
+    "default": "Futari wa Precure: Max Heart 2 - Yukizora no Tomodachi",
+    "romaji": "Futari wa Precure: Max Heart 2 - Yukizora no Tomodachi",
+    "native": "ふたりはプリキュア Max Heart2 雪空のともだち"
+  },
+  "synonyms": [
+    "Futari wa Precure: Max Heart 2 - Yukizora no Tomodachi",
+    "ふたりはプリキュア Max Heart2 雪空のともだち",
+    "Pretty Cure Movie 2",
+    "Eiga Futari wa Precure: Max Heart 2 - Yukizora no Tomodachi",
+    "Pretty Cure Max Heart 2 - Amici per sempre",
+    "Pretty Cure Max Heart: Friends of the Snow-Laden Sky",
+    "Futari wa Precure: Max Heart Movie 2 - Yukizora no Tomodachi"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1931-niK4DwMSpRXl.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1931",
+      "url": "https://anilist.co/anime/1931"
+    },
+    "k": {
+      "id": "1741",
+      "url": "https://kitsu.io/anime/1741"
+    },
+    "mal": {
+      "id": "1931",
+      "url": "https://myanimelist.net/anime/1931"
+    }
+  }
+}

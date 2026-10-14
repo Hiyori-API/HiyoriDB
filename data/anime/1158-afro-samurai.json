@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1158,
+  "slug": "afro-samurai",
+  "kind": "anime",
+  "title": "Afro Samurai",
+  "titles": {
+    "default": "Afro Samurai",
+    "romaji": "Afro Samurai",
+    "native": "アフロサムライ"
+  },
+  "synonyms": [
+    "Afro Samurai",
+    "アフロサムライ"
+  ],
+  "type": "tv",
+  "episodes": 5,
+  "status": "finished",
+  "season": "winter",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1292-FcyYgq7Ly34H.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1292",
+      "url": "https://anilist.co/anime/1292"
+    },
+    "cr": {
+      "id": "afro-samurai",
+      "url": "https://www.crunchyroll.com/series/afro-samurai"
+    },
+    "k": {
+      "id": "1165",
+      "url": "https://kitsu.io/anime/1165"
+    },
+    "mal": {
+      "id": "1292",
+      "url": "https://myanimelist.net/anime/1292"
+    },
+    "nf": {
+      "id": "70204947",
+      "url": "https://www.netflix.com/title/70204947"
+    },
+    "t": {
+      "id": "19453",
+      "url": "https://trakt.tv/shows/19453"
+    }
+  }
+}

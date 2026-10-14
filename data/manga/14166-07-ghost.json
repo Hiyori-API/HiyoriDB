@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14166,
+  "slug": "07-ghost",
+  "kind": "manga",
+  "title": "07-Ghost",
+  "titles": {
+    "default": "07-Ghost"
+  },
+  "synonyms": [
+    "07 Ghost",
+    "seven ghost",
+    "7 ghosts",
+    "the seven ghosts",
+    "セブン＝ゴースト",
+    "07-Ghost – Sete Espectros",
+    "07-Ghost",
+    "セブンゴースト",
+    "Renai Soukanzu",
+    "恋愛相姦図",
+    "Renai Sokanzu",
+    "Pink Sweets"
+  ],
+  "type": "manga",
+  "chapters": 100,
+  "volumes": 17,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx31349-bZZeeBYXcqL1.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5525",
+      "url": "https://anilist.co/anime/5525"
+    },
+    "al_manga": {
+      "id": "5525",
+      "url": "https://anilist.co/manga/5525"
+    }
+  }
+}

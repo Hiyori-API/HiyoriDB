@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1661,
+  "slug": "love-love-specials",
+  "kind": "anime",
+  "title": "LOVE♥LOVE? Specials",
+  "titles": {
+    "default": "LOVE♥LOVE? Specials",
+    "romaji": "LOVE♥LOVE? Specials"
+  },
+  "synonyms": [
+    "LOVE♥LOVE? Specials",
+    "Love Love? Specials",
+    "Love♥Love? Specials",
+    "LOVE♥LOVE?"
+  ],
+  "type": "special",
+  "episodes": 4,
+  "status": "finished",
+  "season": "fall",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1874.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1874",
+      "url": "https://anilist.co/anime/1874"
+    },
+    "k": {
+      "id": "1689",
+      "url": "https://kitsu.io/anime/1689"
+    },
+    "mal": {
+      "id": "1874",
+      "url": "https://myanimelist.net/anime/1874"
+    }
+  }
+}

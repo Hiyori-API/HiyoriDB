@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10719,
+  "slug": "tales-of-crestoria-off-shot-movie",
+  "kind": "anime",
+  "title": "Tales of Crestoria Off Shot Movie",
+  "titles": {
+    "default": "Tales of Crestoria Off Shot Movie",
+    "romaji": "Tales of Crestoria Off Shot Movie",
+    "english": "Tales of Crestoria Behind the Scenes",
+    "native": "【テイルズ オブ クレストリア】オフショットムービー"
+  },
+  "synonyms": [
+    "Tales of Crestoria Off Shot Movie",
+    "Tales of Crestoria Behind the Scenes",
+    "【テイルズ オブ クレストリア】オフショットムービー",
+    "Catblue Dynamite",
+    "Catblue: Dynamite",
+    "キャットブルー：ダイナマイト"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b176863-NABxznB07b6S.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "176863",
+      "url": "https://anilist.co/anime/176863"
+    },
+    "k": {
+      "id": "1645",
+      "url": "https://kitsu.io/anime/1645"
+    },
+    "mal": {
+      "id": "46089",
+      "url": "https://myanimelist.net/anime/46089"
+    },
+    "yt": {
+      "id": "TUK2aTyNcHg",
+      "url": "https://www.youtube.com/watch?v=TUK2aTyNcHg"
+    }
+  }
+}

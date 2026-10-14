@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6830,
+  "slug": "cardfight-vanguard-asia-circuit-hen",
+  "kind": "anime",
+  "title": "Cardfight!! Vanguard: Asia Circuit-hen",
+  "titles": {
+    "default": "Cardfight!! Vanguard: Asia Circuit-hen",
+    "romaji": "Cardfight!! Vanguard: Asia Circuit-hen",
+    "english": "Cardfight!! Vanguard Asia Circuit",
+    "native": "カードファイト!! ヴァンガード アジアサーキット編"
+  },
+  "synonyms": [
+    "Cardfight!! Vanguard: Asia Circuit-hen",
+    "Cardfight!! Vanguard Asia Circuit",
+    "カードファイト!! ヴァンガード アジアサーキット編",
+    "Cardfight!! Vanguard: Asia Circuit Chapter"
+  ],
+  "type": "tv",
+  "episodes": 39,
+  "status": "finished",
+  "season": "spring",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx13145-iJxgTIJqNk4X.png"
+  ],
+  "references": {
+    "al": {
+      "id": "13145",
+      "url": "https://anilist.co/anime/13145"
+    },
+    "cr": {
+      "id": "cardfight-vanguard-asia-circuit-season-2",
+      "url": "https://www.crunchyroll.com/series/cardfight-vanguard-asia-circuit-season-2"
+    },
+    "k": {
+      "id": "6893",
+      "url": "https://kitsu.io/anime/6893"
+    },
+    "mal": {
+      "id": "13145",
+      "url": "https://myanimelist.net/anime/13145"
+    },
+    "t": {
+      "id": "35290",
+      "url": "https://trakt.tv/shows/35290"
+    },
+    "tvt": {
+      "id": "cf",
+      "url": "http://www.tv-tokyo.co.jp/anime/cf"
+    }
+  }
+}

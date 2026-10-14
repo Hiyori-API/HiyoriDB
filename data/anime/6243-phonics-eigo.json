@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6243,
+  "slug": "phonics-eigo",
+  "kind": "anime",
+  "title": "Phonics Eigo",
+  "titles": {
+    "default": "Phonics Eigo",
+    "romaji": "Phonics Eigo",
+    "native": "フォニックスえいご"
+  },
+  "synonyms": [
+    "Phonics Eigo",
+    "フォニックスえいご",
+    "Yozakura Quartet: Hoshi no Umi",
+    "夜桜四重奏 ～ホシノウミ～"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "fall",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b213433-H102EEYCSy00.png"
+  ],
+  "references": {
+    "al": {
+      "id": "213433",
+      "url": "https://anilist.co/anime/213433"
+    },
+    "k": {
+      "id": "5343",
+      "url": "https://kitsu.io/anime/5343"
+    },
+    "mal": {
+      "id": "63635",
+      "url": "https://myanimelist.net/anime/63635"
+    }
+  }
+}

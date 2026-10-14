@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9101,
+  "slug": "schoolgirl-strikers-animation-channel",
+  "kind": "anime",
+  "title": "Schoolgirl Strikers Animation Channel",
+  "titles": {
+    "default": "Schoolgirl Strikers Animation Channel",
+    "romaji": "Schoolgirl Strikers Animation Channel",
+    "native": "スクールガールストライカーズ Animation Channel"
+  },
+  "synonyms": [
+    "Schoolgirl Strikers Animation Channel",
+    "スクールガールストライカーズ Animation Channel",
+    "BanG Dream!",
+    "BanG Dream!（バンドリ！）"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97776-28QkZXPBtq2L.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "97776",
+      "url": "https://anilist.co/anime/97776"
+    },
+    "cr": {
+      "id": "school-girl-strikers",
+      "url": "https://www.crunchyroll.com/series/school-girl-strikers"
+    },
+    "mal": {
+      "id": "34289",
+      "url": "https://myanimelist.net/anime/34289"
+    },
+    "tx": {
+      "id": "sgs_anime",
+      "url": "https://twitter.com/sgs_anime"
+    }
+  }
+}

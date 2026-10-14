@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10173,
+  "slug": "radiant-2",
+  "kind": "anime",
+  "title": "Radiant 2",
+  "titles": {
+    "default": "Radiant 2",
+    "romaji": "Radiant 2",
+    "english": "RADIANT Season 2",
+    "native": "ラディアン2"
+  },
+  "synonyms": [
+    "Radiant 2",
+    "RADIANT Season 2",
+    "ラディアン2",
+    "ラディアン 第2シリーズ",
+    "Radiant 2nd Season"
+  ],
+  "type": "tv",
+  "episodes": 21,
+  "status": "finished",
+  "season": "fall",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108040-FYeFAH75GZ0c.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "108040",
+      "url": "https://anilist.co/anime/108040"
+    },
+    "cr": {
+      "id": "radiant",
+      "url": "https://www.crunchyroll.com/series/radiant"
+    },
+    "mal": {
+      "id": "39355",
+      "url": "https://myanimelist.net/anime/39355"
+    },
+    "tx": {
+      "id": "nep_radiant",
+      "url": "https://twitter.com/nep_radiant"
+    }
+  }
+}

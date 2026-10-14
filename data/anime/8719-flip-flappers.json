@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8719,
+  "slug": "flip-flappers",
+  "kind": "anime",
+  "title": "Flip Flappers",
+  "titles": {
+    "default": "Flip Flappers",
+    "romaji": "Flip Flappers",
+    "english": "FLIP FLAPPERS",
+    "native": "フリップフラッパーズ"
+  },
+  "synonyms": [
+    "Flip Flappers",
+    "FLIP FLAPPERS",
+    "フリップフラッパーズ",
+    "轻拍翻转小魔女",
+    "Flip Flappers: Fantazja kontra świat"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21714-wfvIxPvc2wo4.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21714",
+      "url": "https://anilist.co/anime/21714"
+    },
+    "mal": {
+      "id": "32979",
+      "url": "https://myanimelist.net/anime/32979"
+    },
+    "tx": {
+      "id": "Flip_Flappers",
+      "url": "https://twitter.com/Flip_Flappers"
+    }
+  }
+}

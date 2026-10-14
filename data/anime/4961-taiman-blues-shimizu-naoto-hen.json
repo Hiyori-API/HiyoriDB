@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4961,
+  "slug": "taiman-blues-shimizu-naoto-hen",
+  "kind": "anime",
+  "title": "Taiman Blues: Shimizu Naoto-hen",
+  "titles": {
+    "default": "Taiman Blues: Shimizu Naoto-hen",
+    "romaji": "Taiman Blues: Shimizu Naoto-hen",
+    "native": "たいまんぶるうす 清水直人編"
+  },
+  "synonyms": [
+    "Taiman Blues: Shimizu Naoto-hen",
+    "たいまんぶるうす 清水直人編",
+    "Taiman Blues: Shimizu Naoto Chapter"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "fall",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b18569-roslP1P3v787.png"
+  ],
+  "references": {
+    "al": {
+      "id": "18569",
+      "url": "https://anilist.co/anime/18569"
+    },
+    "k": {
+      "id": "9653",
+      "url": "https://kitsu.io/anime/9653"
+    },
+    "mal": {
+      "id": "18569",
+      "url": "https://myanimelist.net/anime/18569"
+    }
+  }
+}

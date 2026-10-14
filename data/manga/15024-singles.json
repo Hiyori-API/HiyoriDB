@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15024,
+  "slug": "singles",
+  "kind": "manga",
+  "title": "SINGLES",
+  "titles": {
+    "default": "SINGLES"
+  },
+  "synonyms": [
+    "SINGLES",
+    "Baby & Me",
+    "Akachan to Boku",
+    "赤ちゃんと僕",
+    "AkaBoku",
+    "Baby and Me",
+    "Time Limit",
+    "Secret Boy ni Tee Dasuna!!",
+    "Baka de Karukute Wagamama de",
+    "Natsu to Kimi no Irradiation"
+  ],
+  "type": "manga",
+  "chapters": 6,
+  "volumes": 2,
+  "status": "finished",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx78801-TzdiAohY1AKX.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2101",
+      "url": "https://anilist.co/anime/2101"
+    },
+    "al_manga": {
+      "id": "2101",
+      "url": "https://anilist.co/manga/2101"
+    }
+  }
+}

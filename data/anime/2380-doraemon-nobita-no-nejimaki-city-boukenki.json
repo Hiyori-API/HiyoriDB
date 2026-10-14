@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2380,
+  "slug": "doraemon-nobita-no-nejimaki-city-boukenki",
+  "kind": "anime",
+  "title": "Doraemon: Nobita no Nejimaki City Boukenki",
+  "titles": {
+    "default": "Doraemon: Nobita no Nejimaki City Boukenki",
+    "romaji": "Doraemon: Nobita no Nejimaki City Boukenki",
+    "english": "Doraemon: Nobita's Adventure in Clockwork City",
+    "native": "ドラえもん のび太のねじ巻き都市冒険記"
+  },
+  "synonyms": [
+    "Doraemon: Nobita no Nejimaki City Boukenki",
+    "Doraemon: Nobita's Adventure in Clockwork City",
+    "ドラえもん のび太のねじ巻き都市冒険記",
+    "Doraemon: Nobita no Nejimaki Shitei Boukenki",
+    "Tensai Eri-chan Kingyo wo Tabeta",
+    "天才えりちゃん金魚を食べた",
+    "Tensai Eri-chan Kingyo o Tabeta"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2678.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2678",
+      "url": "https://anilist.co/anime/2678"
+    },
+    "k": {
+      "id": "9666",
+      "url": "https://kitsu.io/anime/9666"
+    },
+    "mal": {
+      "id": "2678",
+      "url": "https://myanimelist.net/anime/2678"
+    }
+  }
+}

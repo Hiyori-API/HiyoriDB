@@ -1,0 +1,59 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2023,
+  "slug": "nemo",
+  "kind": "anime",
+  "title": "Nemo",
+  "titles": {
+    "default": "Nemo",
+    "romaji": "Nemo",
+    "english": "Little Nemo: Adventures in Slumberland",
+    "native": "ニモ"
+  },
+  "synonyms": [
+    "Nemo",
+    "Little Nemo: Adventures in Slumberland",
+    "ニモ",
+    "リトル・ニモ",
+    "Little Nemo",
+    "Lille Nemo i Drømmeland",
+    "Nemos Äventyr I Drömmarnas Land",
+    "Kiki to Lala no Aoi Tori",
+    "キキとララの青い鳥",
+    "Kiki and Lala's Blue Bird"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2286-DqqpxLrOazca.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2286",
+      "url": "https://anilist.co/anime/2286"
+    },
+    "ap": {
+      "id": "B082PL3YCR",
+      "url": "https://www.amazon.com/gp/video/detail/B082PL3YCR"
+    },
+    "cr": {
+      "id": "little-nemo-adventures-in-slumberland",
+      "url": "https://www.crunchyroll.com/series/little-nemo-adventures-in-slumberland"
+    },
+    "k": {
+      "id": "5660",
+      "url": "https://kitsu.io/anime/5660"
+    },
+    "mal": {
+      "id": "2286",
+      "url": "https://myanimelist.net/anime/2286"
+    },
+    "yt": {
+      "id": "wRs4Y3Kzdt0",
+      "url": "https://www.youtube.com/watch?v=wRs4Y3Kzdt0"
+    }
+  }
+}

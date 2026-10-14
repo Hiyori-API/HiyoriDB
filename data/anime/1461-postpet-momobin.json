@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1461,
+  "slug": "postpet-momobin",
+  "kind": "anime",
+  "title": "PostPet Momobin",
+  "titles": {
+    "default": "PostPet Momobin",
+    "romaji": "PostPet Momobin",
+    "native": "ポストペットモモ便"
+  },
+  "synonyms": [
+    "PostPet Momobin",
+    "ポストペットモモ便",
+    "Post Pet Momobin"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "summer",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1656.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1656",
+      "url": "https://anilist.co/anime/1656"
+    },
+    "k": {
+      "id": "1487",
+      "url": "https://kitsu.io/anime/1487"
+    },
+    "mal": {
+      "id": "1656",
+      "url": "https://myanimelist.net/anime/1656"
+    }
+  }
+}

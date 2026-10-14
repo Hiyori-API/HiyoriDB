@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 453,
+  "slug": "paniponi-dash",
+  "kind": "anime",
+  "title": "Paniponi Dash!",
+  "titles": {
+    "default": "Paniponi Dash!",
+    "romaji": "Paniponi Dash!",
+    "english": "Pani Poni Dash!",
+    "native": "ぱにぽにだっしゅ！"
+  },
+  "synonyms": [
+    "Paniponi Dash!",
+    "Pani Poni Dash!",
+    "ぱにぽにだっしゅ！"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "summer",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b490-KSxEkqG6QICq.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "490",
+      "url": "https://anilist.co/anime/490"
+    },
+    "cr": {
+      "id": "series/GDKHZEJ9G/pani-poni-dash",
+      "url": "https://www.crunchyroll.com/series/series/GDKHZEJ9G/pani-poni-dash"
+    },
+    "k": {
+      "id": "451",
+      "url": "https://kitsu.io/anime/451"
+    },
+    "mal": {
+      "id": "490",
+      "url": "https://myanimelist.net/anime/490"
+    },
+    "t": {
+      "id": "62223",
+      "url": "https://trakt.tv/shows/62223"
+    }
+  }
+}

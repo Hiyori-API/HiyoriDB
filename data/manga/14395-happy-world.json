@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14395,
+  "slug": "happy-world",
+  "kind": "manga",
+  "title": "Happy World!",
+  "titles": {
+    "default": "Happy World!"
+  },
+  "synonyms": [
+    "ハッピーワールド!",
+    "Happy World!",
+    "Mushrambo",
+    "マシュランボー",
+    "Mashuranboo"
+  ],
+  "type": "manga",
+  "chapters": 72,
+  "volumes": 11,
+  "status": "finished",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33284-Rgk0tmg72XAh.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "319",
+      "url": "https://anilist.co/anime/319"
+    },
+    "al_manga": {
+      "id": "319",
+      "url": "https://anilist.co/manga/319"
+    }
+  }
+}

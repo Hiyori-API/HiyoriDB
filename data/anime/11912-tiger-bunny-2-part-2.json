@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11912,
+  "slug": "tiger-bunny-2-part-2",
+  "kind": "anime",
+  "title": "TIGER & BUNNY 2 Part 2",
+  "titles": {
+    "default": "TIGER & BUNNY 2 Part 2",
+    "romaji": "TIGER & BUNNY 2 Part 2",
+    "native": "TIGER & BUNNY 2 パート2"
+  },
+  "synonyms": [
+    "TIGER & BUNNY 2 Part 2",
+    "TIGER & BUNNY 2 パート2",
+    "Tiger and Bunny 2 Part 2",
+    "Taibani 2",
+    "TIGER & BUNNY 2",
+    "Tiger & Bunny 2 Part 2"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151803-g74NJw5pUNrR.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "151803",
+      "url": "https://anilist.co/anime/151803"
+    },
+    "mal": {
+      "id": "52291",
+      "url": "https://myanimelist.net/anime/52291"
+    },
+    "nf": {
+      "id": "80039972",
+      "url": "https://www.netflix.com/title/80039972"
+    },
+    "tx": {
+      "id": "TIGERandBUNNY",
+      "url": "https://twitter.com/TIGERandBUNNY"
+    }
+  }
+}

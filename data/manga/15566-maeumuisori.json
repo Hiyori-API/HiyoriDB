@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15566,
+  "slug": "maeumuisori",
+  "kind": "manga",
+  "title": "Maeumuisori",
+  "titles": {
+    "default": "Maeumuisori"
+  },
+  "synonyms": [
+    "The Sound Of Your Heart",
+    "마음의소리",
+    "Love Makes People Grow",
+    "Hito wa Ai wo Tabete Sodatsu",
+    "人は愛を食べて育つ",
+    "Eat Love and Grow",
+    "Hito wa ai o tabete sodatsu"
+  ],
+  "type": "manga",
+  "chapters": 1237,
+  "status": "finished",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx120525-lGjD0kK1y1ir.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "132348",
+      "url": "https://anilist.co/anime/132347"
+    },
+    "al_manga": {
+      "id": "132348",
+      "url": "https://anilist.co/manga/132348"
+    }
+  }
+}

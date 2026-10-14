@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14646,
+  "slug": "akuma-kun",
+  "kind": "manga",
+  "title": "Akuma-kun",
+  "titles": {
+    "default": "Akuma-kun"
+  },
+  "synonyms": [
+    "悪魔くん",
+    "Renai Soukanzu",
+    "恋愛相姦図",
+    "Renai Sokanzu",
+    "Pink Sweets"
+  ],
+  "type": "manga",
+  "chapters": 25,
+  "volumes": 3,
+  "status": "finished",
+  "year": 1963,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/23187.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "130706",
+      "url": "https://anilist.co/anime/8227"
+    },
+    "al_manga": {
+      "id": "130706",
+      "url": "https://anilist.co/manga/130706"
+    }
+  }
+}

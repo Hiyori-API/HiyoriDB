@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2258,
+  "slug": "flanders-no-inu",
+  "kind": "anime",
+  "title": "Flanders no Inu",
+  "titles": {
+    "default": "Flanders no Inu",
+    "romaji": "Flanders no Inu",
+    "native": "フランダースの犬"
+  },
+  "synonyms": [
+    "Flanders no Inu",
+    "フランダースの犬",
+    "Sekai Meisaku Gekijou",
+    "A Dog of Flanders",
+    "World Masterpiece Theater",
+    "WMT",
+    "Niklaas, ein Junge aus Flandern"
+  ],
+  "type": "tv",
+  "episodes": 52,
+  "status": "finished",
+  "season": "winter",
+  "year": 1975,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2553.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2553",
+      "url": "https://anilist.co/anime/2553"
+    },
+    "k": {
+      "id": "2318",
+      "url": "https://kitsu.io/anime/2318"
+    },
+    "mal": {
+      "id": "2553",
+      "url": "https://myanimelist.net/anime/2553"
+    },
+    "t": {
+      "id": "45405",
+      "url": "https://trakt.tv/shows/45405"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11905,
+  "slug": "iii-icecrin-double",
+  "kind": "anime",
+  "title": "iii icecrin Double",
+  "titles": {
+    "default": "iii icecrin Double",
+    "romaji": "iii icecrin Double",
+    "native": "iiiあいすくりん2"
+  },
+  "synonyms": [
+    "iii icecrin Double",
+    "iiiあいすくりん2",
+    "iii icecrin 2",
+    "Made in Abyss: The Golden City of the Scorching Sun",
+    "メイドインアビス 烈日の黄金郷",
+    "Made in Abyss: Retsujitsu no Ougonkyou"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151128-6iiPfEDZXcft.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "151128",
+      "url": "https://anilist.co/anime/151128"
+    },
+    "mal": {
+      "id": "51839",
+      "url": "https://myanimelist.net/anime/51839"
+    },
+    "tx": {
+      "id": "iii_icecrin",
+      "url": "https://twitter.com/iii_icecrin"
+    }
+  }
+}

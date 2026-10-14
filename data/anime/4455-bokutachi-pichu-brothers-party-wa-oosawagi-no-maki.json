@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4455,
+  "slug": "bokutachi-pichu-brothers-party-wa-oosawagi-no-maki",
+  "kind": "anime",
+  "title": "Bokutachi Pichu Brothers - Party wa Oosawagi! no Maki",
+  "titles": {
+    "default": "Bokutachi Pichu Brothers - Party wa Oosawagi! no Maki",
+    "romaji": "Bokutachi Pichu Brothers - Party wa Oosawagi! no Maki",
+    "english": "Pokémon: Pichu Bros. in Party Panic",
+    "native": "ぼくたちピチューブラザーズ　～パーティはおおさわぎ！のまき～"
+  },
+  "synonyms": [
+    "Bokutachi Pichu Brothers - Party wa Oosawagi! no Maki",
+    "Pokémon: Pichu Bros. in Party Panic",
+    "ぼくたちピチューブラザーズ　～パーティはおおさわぎ！のまき～",
+    "Pokemon: Pichu Bros. Wild Adventure",
+    "Pocket Monsters: Boku-tachi Pichu Brothers ~Party wa Oosawagi! no maki~",
+    "Mazinkaiser vs. Great General of Darkness",
+    "Mazinkaiser: Shitou! Ankoku Dai Shogun",
+    "マジンカイザー　死闘！暗黒大将軍",
+    "Mazinkaiser: Deathmatch! General Dark",
+    "Mazinkaiser: OVA 8"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6877-7oARGnQDVHZa.png"
+  ],
+  "references": {
+    "al": {
+      "id": "6877",
+      "url": "https://anilist.co/anime/6877"
+    },
+    "k": {
+      "id": "2494",
+      "url": "https://kitsu.io/anime/2494"
+    },
+    "mal": {
+      "id": "6877",
+      "url": "https://myanimelist.net/anime/6877"
+    }
+  }
+}

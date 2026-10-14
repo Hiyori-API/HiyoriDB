@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1190,
+  "slug": "bubblegum-crisis",
+  "kind": "anime",
+  "title": "Bubblegum Crisis",
+  "titles": {
+    "default": "Bubblegum Crisis",
+    "romaji": "Bubblegum Crisis",
+    "native": "バブルガムクライシス"
+  },
+  "synonyms": [
+    "Bubblegum Crisis",
+    "バブルガムクライシス",
+    "Bubblegum Crisis 2032",
+    "Bubblegum Crisis 2033"
+  ],
+  "type": "ova",
+  "episodes": 8,
+  "status": "finished",
+  "season": "winter",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx1347-4NzCZYQQwIjb.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1347",
+      "url": "https://anilist.co/anime/1347"
+    },
+    "k": {
+      "id": "1202",
+      "url": "https://kitsu.io/anime/1202"
+    },
+    "mal": {
+      "id": "1347",
+      "url": "https://myanimelist.net/anime/1347"
+    },
+    "ttv": {
+      "id": "300004803",
+      "url": "https://tubitv.com/series/300004803"
+    }
+  }
+}

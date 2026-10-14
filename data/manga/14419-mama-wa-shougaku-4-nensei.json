@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14419,
+  "slug": "mama-wa-shougaku-4-nensei",
+  "kind": "manga",
+  "title": "Mama wa Shougaku 4 Nensei",
+  "titles": {
+    "default": "Mama wa Shougaku 4 Nensei"
+  },
+  "synonyms": [
+    "Mama is a 4th Grader",
+    "Mama wa Shougaku Yonensei",
+    "Mama wa Shougaku 4-nensei",
+    "ママは小学４年生",
+    "Dismember",
+    "Kaitai",
+    "解体"
+  ],
+  "type": "manga",
+  "chapters": 12,
+  "volumes": 2,
+  "status": "finished",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33464-KVZKBKCEobrA.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "333",
+      "url": "https://anilist.co/anime/333"
+    },
+    "al_manga": {
+      "id": "333",
+      "url": "https://anilist.co/manga/333"
+    }
+  }
+}

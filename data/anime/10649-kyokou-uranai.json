@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10649,
+  "slug": "kyokou-uranai",
+  "kind": "anime",
+  "title": "Kyokou Uranai",
+  "titles": {
+    "default": "Kyokou Uranai",
+    "romaji": "Kyokou Uranai",
+    "native": "虚構占い"
+  },
+  "synonyms": [
+    "Kyokou Uranai",
+    "虚構占い",
+    "Invented Divination",
+    "Black Jack ONA",
+    "ブラック・ジャック(インターネット版)",
+    "Black Jack: Internet-han"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b122238-Q7GyN6067RH8.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "122238",
+      "url": "https://anilist.co/anime/122238"
+    },
+    "k": {
+      "id": "4904",
+      "url": "https://kitsu.io/anime/4904"
+    },
+    "mal": {
+      "id": "42562",
+      "url": "https://myanimelist.net/anime/42562"
+    }
+  }
+}

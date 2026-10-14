@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6200,
+  "slug": "kuragehime-soreike-amars-tankentai",
+  "kind": "anime",
+  "title": "Kuragehime: Soreike! Amars Tankentai",
+  "titles": {
+    "default": "Kuragehime: Soreike! Amars Tankentai",
+    "romaji": "Kuragehime: Soreike! Amars Tankentai",
+    "english": "Princess Jellyfish: Go",
+    "native": "それいけ！尼～ず探検隊"
+  },
+  "synonyms": [
+    "Kuragehime: Soreike! Amars Tankentai",
+    "Princess Jellyfish: Go",
+    "それいけ！尼～ず探検隊",
+    "Princess Jellyfish: Nun Expedition",
+    "Princess Jellyfish: Go, Sisterhood Explorers!"
+  ],
+  "type": "special",
+  "episodes": 6,
+  "status": "finished",
+  "season": "summer",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10391.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10391",
+      "url": "https://anilist.co/anime/10391"
+    },
+    "k": {
+      "id": "6162",
+      "url": "https://kitsu.io/anime/6162"
+    },
+    "mal": {
+      "id": "10391",
+      "url": "https://myanimelist.net/anime/10391"
+    }
+  }
+}

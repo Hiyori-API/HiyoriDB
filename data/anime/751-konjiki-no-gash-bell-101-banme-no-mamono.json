@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 751,
+  "slug": "konjiki-no-gash-bell-101-banme-no-mamono",
+  "kind": "anime",
+  "title": "Konjiki no Gash Bell!!: 101 Banme no Mamono",
+  "titles": {
+    "default": "Konjiki no Gash Bell!!: 101 Banme no Mamono",
+    "romaji": "Konjiki no Gash Bell!!: 101 Banme no Mamono",
+    "english": "Zatch Bell! 101st Devil",
+    "native": "劇場版 金色のガッシュベル!! 101番目の魔物"
+  },
+  "synonyms": [
+    "Konjiki no Gash Bell!!: 101 Banme no Mamono",
+    "Zatch Bell! 101st Devil",
+    "劇場版 金色のガッシュベル!! 101番目の魔物",
+    "Gash Bell Movie 1",
+    "Zatch Bell Movie 1",
+    "Gash Bell The 1st Movie: Unlisted Demon"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/844.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "844",
+      "url": "https://anilist.co/anime/844"
+    },
+    "k": {
+      "id": "748",
+      "url": "https://kitsu.io/anime/748"
+    },
+    "mal": {
+      "id": "844",
+      "url": "https://myanimelist.net/anime/844"
+    }
+  }
+}

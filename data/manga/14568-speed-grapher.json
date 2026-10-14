@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14568,
+  "slug": "speed-grapher",
+  "kind": "manga",
+  "title": "Speed Grapher",
+  "titles": {
+    "default": "Speed Grapher"
+  },
+  "synonyms": [
+    "Speed Grapher",
+    "スピードグラファー",
+    "Renai Soukanzu",
+    "恋愛相姦図",
+    "Renai Sokanzu",
+    "Pink Sweets"
+  ],
+  "type": "manga",
+  "chapters": 17,
+  "volumes": 3,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx35434-LPZBqeI617KO.png"
+  ],
+  "references": {
+    "al": {
+      "id": "198",
+      "url": "https://anilist.co/anime/198"
+    },
+    "al_manga": {
+      "id": "198",
+      "url": "https://anilist.co/manga/198"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7773,
+  "slug": "magic-kaito-1412",
+  "kind": "anime",
+  "title": "Magic Kaito 1412",
+  "titles": {
+    "default": "Magic Kaito 1412",
+    "romaji": "Magic Kaito 1412",
+    "native": "まじっく快斗1412"
+  },
+  "synonyms": [
+    "Magic Kaito 1412",
+    "まじっく快斗1412",
+    "Parasyte -the maxim-",
+    "Kiseijuu: Sei no Kakuritsu",
+    "寄生獣 セイの格率",
+    "Parasite",
+    "Parasitic Beasts",
+    "Parasyte"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "fall",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20790-ZOXZWSlvlN1W.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "20790",
+      "url": "https://anilist.co/anime/20790"
+    },
+    "cr": {
+      "id": "magickaito",
+      "url": "https://www.crunchyroll.com/series/magickaito"
+    },
+    "k": {
+      "id": "8147",
+      "url": "https://kitsu.io/anime/8147"
+    },
+    "mal": {
+      "id": "25517",
+      "url": "https://myanimelist.net/anime/25517"
+    },
+    "nf": {
+      "id": "81086315",
+      "url": "https://www.netflix.com/title/81086315"
+    },
+    "t": {
+      "id": "60936",
+      "url": "https://trakt.tv/shows/60936"
+    }
+  }
+}

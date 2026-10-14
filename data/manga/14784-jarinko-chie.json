@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14784,
+  "slug": "jarinko-chie",
+  "kind": "manga",
+  "title": "Jarinko Chie",
+  "titles": {
+    "default": "Jarinko Chie"
+  },
+  "synonyms": [
+    "Chie the Brat",
+    "じゃりン子チエ",
+    "Those Obnoxious Aliens",
+    "Urusei Yatsura",
+    "うる星やつら",
+    "Lum",
+    "The Return of Lum",
+    "Lamu",
+    "the Invader Girl"
+  ],
+  "type": "manga",
+  "chapters": 786,
+  "volumes": 67,
+  "status": "finished",
+  "year": 1978,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b127968-0t18GlnxYpDn.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3946",
+      "url": "https://anilist.co/anime/9383"
+    },
+    "al_manga": {
+      "id": "3946",
+      "url": "https://anilist.co/manga/3946"
+    }
+  }
+}

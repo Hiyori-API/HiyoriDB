@@ -1,0 +1,60 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 922,
+  "slug": "sennen-joyuu",
+  "kind": "anime",
+  "title": "Sennen Joyuu",
+  "titles": {
+    "default": "Sennen Joyuu",
+    "romaji": "Sennen Joyuu",
+    "english": "Millennium Actress",
+    "native": "千年女優"
+  },
+  "synonyms": [
+    "Sennen Joyuu",
+    "Millennium Actress",
+    "千年女優",
+    "The Cat Returns",
+    "Neko no Ongaeshi",
+    "猫の恩返し",
+    "The Cat's Repayment"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1033-d5p1pbd5qa4L.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1033",
+      "url": "https://anilist.co/anime/1033"
+    },
+    "ap": {
+      "id": "B07YQ77W33",
+      "url": "https://www.amazon.com/gp/video/detail/B07YQ77W33"
+    },
+    "cr": {
+      "id": "millennium-actress",
+      "url": "https://www.crunchyroll.com/series/millennium-actress"
+    },
+    "k": {
+      "id": "552",
+      "url": "https://kitsu.io/anime/552"
+    },
+    "mal": {
+      "id": "1033",
+      "url": "https://myanimelist.net/anime/1033"
+    },
+    "nf": {
+      "id": "70019058",
+      "url": "https://www.netflix.com/title/70019058"
+    },
+    "yt": {
+      "id": "3KasqdsIaIs",
+      "url": "https://www.youtube.com/watch?v=3KasqdsIaIs"
+    }
+  }
+}

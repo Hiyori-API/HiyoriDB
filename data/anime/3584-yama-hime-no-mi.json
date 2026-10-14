@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3584,
+  "slug": "yama-hime-no-mi",
+  "kind": "anime",
+  "title": "Yama Hime no Mi",
+  "titles": {
+    "default": "Yama Hime no Mi",
+    "romaji": "Yama Hime no Mi",
+    "native": "山姫の実"
+  },
+  "synonyms": [
+    "Yama Hime no Mi",
+    "山姫の実",
+    "Yamahime no Jitsu",
+    "Yama Hime no Sane",
+    "Indian Summer",
+    "Koharu Biyori",
+    "こはるびより",
+    "Koharubiyori"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "fall",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4701.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4701",
+      "url": "https://anilist.co/anime/4701"
+    },
+    "k": {
+      "id": "2781",
+      "url": "https://kitsu.io/anime/2781"
+    },
+    "mal": {
+      "id": "4701",
+      "url": "https://myanimelist.net/anime/4701"
+    }
+  }
+}

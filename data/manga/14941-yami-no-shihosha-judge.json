@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14941,
+  "slug": "yami-no-shihosha-judge",
+  "kind": "manga",
+  "title": "Yami no Shihosha Judge",
+  "titles": {
+    "default": "Yami no Shihosha Judge"
+  },
+  "synonyms": [
+    "Magistrate of Darkness: Judge",
+    "闇の司法官ジャッジ",
+    "Yami no Shihosha Judge"
+  ],
+  "type": "manga",
+  "chapters": 22,
+  "volumes": 2,
+  "status": "finished",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/48247.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1340",
+      "url": "https://anilist.co/anime/1340"
+    },
+    "al_manga": {
+      "id": "1340",
+      "url": "https://anilist.co/manga/1340"
+    }
+  }
+}

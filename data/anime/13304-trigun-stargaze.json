@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13304,
+  "slug": "trigun-stargaze",
+  "kind": "anime",
+  "title": "TRIGUN STARGAZE",
+  "titles": {
+    "default": "TRIGUN STARGAZE",
+    "romaji": "TRIGUN STARGAZE"
+  },
+  "synonyms": [
+    "TRIGUN STARGAZE",
+    "トライガン スタンピード 完結編",
+    "TRIGUN STAMPEDE: Kanketsu-hen",
+    "トライガン スターゲイズ",
+    "Paradition, Heavenhell",
+    "Hell's Paradise Season 2",
+    "地獄楽第二期",
+    "Jigokuraku 2nd Season"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163144-XdVwFRxPGY6j.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "163144",
+      "url": "https://anilist.co/anime/163144"
+    },
+    "cr": {
+      "id": "series/GXJHM3PK5/trigun-stampede",
+      "url": "https://www.crunchyroll.com/series/series/GXJHM3PK5/trigun-stampede"
+    },
+    "mal": {
+      "id": "54863",
+      "url": "https://myanimelist.net/anime/54863"
+    },
+    "tx": {
+      "id": "trigun_anime",
+      "url": "https://twitter.com/trigun_anime"
+    }
+  }
+}

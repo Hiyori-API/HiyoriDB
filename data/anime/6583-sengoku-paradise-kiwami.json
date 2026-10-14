@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6583,
+  "slug": "sengoku-paradise-kiwami",
+  "kind": "anime",
+  "title": "Sengoku☆Paradise Kiwami",
+  "titles": {
+    "default": "Sengoku☆Paradise Kiwami",
+    "romaji": "Sengoku☆Paradise Kiwami",
+    "native": "戦国☆パラダイス-極-（きわみ）"
+  },
+  "synonyms": [
+    "Sengoku☆Paradise Kiwami",
+    "戦国☆パラダイス-極-（きわみ）",
+    "Hanasaku Iroha ~Blossoms for Tomorrow~",
+    "Hanasaku Iroha",
+    "Hanasaku Iroha: Blossoms for Tomorrow",
+    "花咲くいろは",
+    "Hana-Saku Iroha"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b11547-ZEBqZDrZuFqx.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11547",
+      "url": "https://anilist.co/anime/11547"
+    },
+    "cr": {
+      "id": "hanasaku-iroha",
+      "url": "https://www.crunchyroll.com/series/hanasaku-iroha"
+    },
+    "k": {
+      "id": "5657",
+      "url": "https://kitsu.io/anime/5657"
+    },
+    "mal": {
+      "id": "11547",
+      "url": "https://myanimelist.net/anime/11547"
+    },
+    "t": {
+      "id": "42194",
+      "url": "https://trakt.tv/shows/42194"
+    }
+  }
+}

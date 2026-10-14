@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15146,
+  "slug": "g-taste",
+  "kind": "manga",
+  "title": "G-taste",
+  "titles": {
+    "default": "G-taste"
+  },
+  "synonyms": [
+    "ジィ・テイスト",
+    "The Life and Times of an Idiot Section Chief",
+    "Kachou Baka Ichidachi",
+    "課長バカ一代",
+    "Kachou Baka Ichidai"
+  ],
+  "type": "manga",
+  "chapters": 113,
+  "volumes": 7,
+  "status": "finished",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx115287-Rn5vWS4ihTdb.png"
+  ],
+  "references": {
+    "al": {
+      "id": "9600",
+      "url": "https://anilist.co/anime/2530"
+    },
+    "al_manga": {
+      "id": "9600",
+      "url": "https://anilist.co/manga/9600"
+    }
+  }
+}

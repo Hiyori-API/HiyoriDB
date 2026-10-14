@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10130,
+  "slug": "persona5-the-animation-stars-and-ours",
+  "kind": "anime",
+  "title": "PERSONA5 the Animation: Stars and Ours",
+  "titles": {
+    "default": "PERSONA5 the Animation: Stars and Ours",
+    "romaji": "PERSONA5 the Animation: Stars and Ours",
+    "native": "PERSONA5 the Animation: \"Stars and Ours\""
+  },
+  "synonyms": [
+    "PERSONA5 the Animation: Stars and Ours",
+    "PERSONA5 the Animation: \"Stars and Ours\"",
+    "P5A: Stars and Ours",
+    "Tsurune: Kazemai Koukou Kyuudou-bu Special",
+    "Tsurune: Kazemai Koukou Kyuudou-bu Episode 14",
+    "Tsurune: Kazemai High School Japanese Archery Club - Dangerous Shoot",
+    "ツルネ ―風舞高校弓道部― 第十四話「矢場い」",
+    "Tsurune: Kazemai Koukou Kyuudou-bu - Yabai"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx106896-hNj8pUGTdTcD.png"
+  ],
+  "references": {
+    "al": {
+      "id": "106896",
+      "url": "https://anilist.co/anime/106896"
+    },
+    "cr": {
+      "id": "persona5-the-animation/persona5-the-animation-stars-and-ours-782566",
+      "url": "https://www.crunchyroll.com/series/persona5-the-animation/persona5-the-animation-stars-and-ours-782566"
+    },
+    "mal": {
+      "id": "38431",
+      "url": "https://myanimelist.net/anime/38431"
+    },
+    "tx": {
+      "id": "P5_anime",
+      "url": "https://twitter.com/P5_anime"
+    }
+  }
+}

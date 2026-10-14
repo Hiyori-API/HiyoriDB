@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9934,
+  "slug": "chikyuu-to-no-yakusoku",
+  "kind": "anime",
+  "title": "Chikyuu to no Yakusoku",
+  "titles": {
+    "default": "Chikyuu to no Yakusoku",
+    "romaji": "Chikyuu to no Yakusoku",
+    "native": "地球との約束"
+  },
+  "synonyms": [
+    "Chikyuu to no Yakusoku",
+    "地球との約束",
+    "ガラスの地球を救え",
+    "Save our mother earth",
+    "Onegai☆Twins: Natsu wa Owaranai",
+    "おねがい☆ツインズ 夏は終わらない",
+    "Please Twins! Onegai Twins OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b181817-gt1HFgQsyBvL.png"
+  ],
+  "references": {
+    "al": {
+      "id": "181817",
+      "url": "https://anilist.co/anime/181817"
+    },
+    "k": {
+      "id": "483",
+      "url": "https://kitsu.io/anime/483"
+    },
+    "mal": {
+      "id": "37494",
+      "url": "https://myanimelist.net/anime/37494"
+    },
+    "t": {
+      "id": "20084",
+      "url": "https://trakt.tv/shows/20084"
+    }
+  }
+}

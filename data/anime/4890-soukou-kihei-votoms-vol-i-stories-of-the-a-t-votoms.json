@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4890,
+  "slug": "soukou-kihei-votoms-vol-i-stories-of-the-a-t-votoms",
+  "kind": "anime",
+  "title": "Soukou Kihei Votoms: VOL.I STORIES OF THE A.T. VOTOMS",
+  "titles": {
+    "default": "Soukou Kihei Votoms: VOL.I STORIES OF THE A.T. VOTOMS",
+    "romaji": "Soukou Kihei Votoms: VOL.I STORIES OF THE A.T. VOTOMS",
+    "english": "Armored Trooper Votoms: Vol.1 Stories of the 'A.T. VOTOMS'",
+    "native": "装甲騎兵ボトムズ VOL.I STORIES OF THE A.T.VOTOMS"
+  },
+  "synonyms": [
+    "Soukou Kihei Votoms: VOL.I STORIES OF THE A.T. VOTOMS",
+    "Armored Trooper Votoms: Vol.1 Stories of the 'A.T. VOTOMS'",
+    "装甲騎兵ボトムズ VOL.I STORIES OF THE A.T.VOTOMS",
+    "Soko Kihei Votoms: Vol.1 Stories of the 'A.T. VOTOMS'",
+    "Soukou Kihei Votoms: Vol.1 Stories of the 'A.T. Votoms'"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx12439-NfNyx8SYVZ9Y.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12439",
+      "url": "https://anilist.co/anime/12439"
+    },
+    "k": {
+      "id": "6732",
+      "url": "https://kitsu.io/anime/6732"
+    },
+    "mal": {
+      "id": "12439",
+      "url": "https://myanimelist.net/anime/12439"
+    }
+  }
+}

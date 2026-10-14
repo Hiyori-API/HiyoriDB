@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8311,
+  "slug": "aikatsu-4",
+  "kind": "anime",
+  "title": "Aikatsu! 4",
+  "titles": {
+    "default": "Aikatsu! 4",
+    "romaji": "Aikatsu! 4",
+    "native": "アイカツ! 4"
+  },
+  "synonyms": [
+    "Aikatsu! 4",
+    "アイカツ! 4",
+    "Aikatsu! Akari Generation 2",
+    "Shin Atashinchi",
+    "新あたしンち",
+    "Shin Atashin'chi"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21307-RPQijigOn6xG.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21307",
+      "url": "https://anilist.co/anime/21307"
+    },
+    "mal": {
+      "id": "30649",
+      "url": "https://myanimelist.net/anime/30649"
+    },
+    "tvt": {
+      "id": "aikatsu",
+      "url": "http://www.tv-tokyo.co.jp/anime/aikatsu"
+    },
+    "tx": {
+      "id": "aikatsu_anime",
+      "url": "https://twitter.com/aikatsu_anime"
+    }
+  }
+}

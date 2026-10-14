@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14691,
+  "slug": "kurenai-sanshirou",
+  "kind": "manga",
+  "title": "Kurenai Sanshirou",
+  "titles": {
+    "default": "Kurenai Sanshirou"
+  },
+  "synonyms": [
+    "Judo Boy",
+    "紅三四郎",
+    "The Crater",
+    "ザ・クレーター"
+  ],
+  "type": "manga",
+  "chapters": 4,
+  "volumes": 1,
+  "status": "finished",
+  "year": 1969,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b129981-53ZnMYMv7Uuw.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4439",
+      "url": "https://anilist.co/anime/4439"
+    },
+    "al_manga": {
+      "id": "4439",
+      "url": "https://anilist.co/manga/4439"
+    }
+  }
+}

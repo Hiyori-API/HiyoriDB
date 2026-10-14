@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10091,
+  "slug": "ikkitousen-western-wolves",
+  "kind": "anime",
+  "title": "Ikkitousen: Western Wolves",
+  "titles": {
+    "default": "Ikkitousen: Western Wolves",
+    "romaji": "Ikkitousen: Western Wolves",
+    "english": "Ikki Tousen: Western Wolves",
+    "native": "一騎当千 Western Wolves"
+  },
+  "synonyms": [
+    "Ikkitousen: Western Wolves",
+    "Ikki Tousen: Western Wolves",
+    "一騎当千 Western Wolves"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "winter",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx105391-j3FGJWjN9smU.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "105391",
+      "url": "https://anilist.co/anime/105391"
+    },
+    "cr": {
+      "id": "ikki-tousen",
+      "url": "https://www.crunchyroll.com/series/ikki-tousen"
+    },
+    "mal": {
+      "id": "38425",
+      "url": "https://myanimelist.net/anime/38425"
+    },
+    "tx": {
+      "id": "Animeikkitousen",
+      "url": "https://twitter.com/Animeikkitousen"
+    }
+  }
+}

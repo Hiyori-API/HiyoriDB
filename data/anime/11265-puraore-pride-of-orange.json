@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11265,
+  "slug": "puraore-pride-of-orange",
+  "kind": "anime",
+  "title": "Puraore!: PRIDE OF ORANGE",
+  "titles": {
+    "default": "Puraore!: PRIDE OF ORANGE",
+    "romaji": "Puraore!: PRIDE OF ORANGE",
+    "english": "PuraOre! ~Pride of Orange~",
+    "native": "プラオレ！～PRIDE OF ORANGE～"
+  },
+  "synonyms": [
+    "Puraore!: PRIDE OF ORANGE",
+    "PuraOre! ~Pride of Orange~",
+    "プラオレ！～PRIDE OF ORANGE～",
+    "PuraOra! PRIDE OF ORANGE",
+    "86 Eighty-Six Part 2",
+    "86―エイティシックス―",
+    "86 Part 2"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126793-L29Tdzt6NDeQ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "126793",
+      "url": "https://anilist.co/anime/126793"
+    },
+    "cr": {
+      "id": "series/G3KHEV77Z",
+      "url": "https://www.crunchyroll.com/series/series/G3KHEV77Z"
+    },
+    "mal": {
+      "id": "44274",
+      "url": "https://myanimelist.net/anime/44274"
+    },
+    "tx": {
+      "id": "puraore",
+      "url": "https://twitter.com/puraore"
+    }
+  }
+}

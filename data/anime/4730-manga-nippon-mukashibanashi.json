@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4730,
+  "slug": "manga-nippon-mukashibanashi",
+  "kind": "anime",
+  "title": "Manga Nippon Mukashibanashi",
+  "titles": {
+    "default": "Manga Nippon Mukashibanashi",
+    "romaji": "Manga Nippon Mukashibanashi",
+    "native": "まんが日本昔ばなし"
+  },
+  "synonyms": [
+    "Manga Nippon Mukashibanashi",
+    "まんが日本昔ばなし",
+    "Japanese Folklore Tales"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 1975,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10282-goyF5sRe0LGZ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10282",
+      "url": "https://anilist.co/anime/10282"
+    },
+    "k": {
+      "id": "6113",
+      "url": "https://kitsu.io/anime/6113"
+    },
+    "mal": {
+      "id": "10282",
+      "url": "https://myanimelist.net/anime/10282"
+    }
+  }
+}

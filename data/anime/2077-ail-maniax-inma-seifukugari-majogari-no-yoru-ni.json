@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2077,
+  "slug": "ail-maniax-inma-seifukugari-majogari-no-yoru-ni",
+  "kind": "anime",
+  "title": "Ail MANIAX: Inma Seifukugari & Majogari no Yoru ni",
+  "titles": {
+    "default": "Ail MANIAX: Inma Seifukugari & Majogari no Yoru ni",
+    "romaji": "Ail MANIAX: Inma Seifukugari & Majogari no Yoru ni",
+    "native": "アイルMANIAX ~淫魔制服狩り&魔女狩りの夜に~"
+  },
+  "synonyms": [
+    "Ail MANIAX: Inma Seifukugari & Majogari no Yoru ni",
+    "アイルMANIAX ~淫魔制服狩り&魔女狩りの夜に~",
+    "Hanaukyou Maid-tai OVA",
+    "花右京メイド隊",
+    "Hanaukyo Maids",
+    "Maid in Hanaukyo"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "summer",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2350.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2350",
+      "url": "https://anilist.co/anime/2350"
+    },
+    "k": {
+      "id": "711",
+      "url": "https://kitsu.io/anime/711"
+    },
+    "mal": {
+      "id": "2350",
+      "url": "https://myanimelist.net/anime/2350"
+    }
+  }
+}

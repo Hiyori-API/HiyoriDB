@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7037,
+  "slug": "karneval",
+  "kind": "anime",
+  "title": "Karneval",
+  "titles": {
+    "default": "Karneval",
+    "romaji": "Karneval",
+    "native": "カーニヴァル"
+  },
+  "synonyms": [
+    "Karneval",
+    "カーニヴァル"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16033-XevI1kGoi8Ll.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "16033",
+      "url": "https://anilist.co/anime/16033"
+    },
+    "k": {
+      "id": "7363",
+      "url": "https://kitsu.io/anime/7363"
+    },
+    "mal": {
+      "id": "16033",
+      "url": "https://myanimelist.net/anime/16033"
+    }
+  }
+}

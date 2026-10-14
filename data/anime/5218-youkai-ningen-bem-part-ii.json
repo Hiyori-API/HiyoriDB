@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5218,
+  "slug": "youkai-ningen-bem-part-ii",
+  "kind": "anime",
+  "title": "Youkai Ningen Bem: Part II",
+  "titles": {
+    "default": "Youkai Ningen Bem: Part II",
+    "romaji": "Youkai Ningen Bem: Part II",
+    "native": "妖怪人間ベム パートII"
+  },
+  "synonyms": [
+    "Youkai Ningen Bem: Part II",
+    "妖怪人間ベム パートII",
+    "Demon-man Bem Part II",
+    "Tokyo Babylon",
+    "東京ＢＡＢＹＬＯＮ",
+    "Tokyo Babylon 2"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b150846-rD0j3O84gRBx.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "150846",
+      "url": "https://anilist.co/anime/150846"
+    },
+    "k": {
+      "id": "933",
+      "url": "https://kitsu.io/anime/933"
+    },
+    "mal": {
+      "id": "38368",
+      "url": "https://myanimelist.net/anime/38368"
+    }
+  }
+}

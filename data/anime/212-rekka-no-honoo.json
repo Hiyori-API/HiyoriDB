@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 212,
+  "slug": "rekka-no-honoo",
+  "kind": "anime",
+  "title": "Rekka no Honoo",
+  "titles": {
+    "default": "Rekka no Honoo",
+    "romaji": "Rekka no Honoo",
+    "english": "Flame of Recca",
+    "native": "烈火の炎"
+  },
+  "synonyms": [
+    "Rekka no Honoo",
+    "Flame of Recca",
+    "烈火の炎",
+    "Recca no Honoo",
+    "A Chama de Recca"
+  ],
+  "type": "tv",
+  "episodes": 42,
+  "status": "finished",
+  "season": "summer",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx238-2PeuP9kvnHVe.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "238",
+      "url": "https://anilist.co/anime/238"
+    },
+    "ap": {
+      "id": "B07NZRVF4F",
+      "url": "https://www.amazon.com/gp/video/detail/B07NZRVF4F"
+    },
+    "cr": {
+      "id": "flame-of-recca",
+      "url": "https://www.crunchyroll.com/series/flame-of-recca"
+    },
+    "k": {
+      "id": "213",
+      "url": "https://kitsu.io/anime/213"
+    },
+    "mal": {
+      "id": "238",
+      "url": "https://myanimelist.net/anime/238"
+    },
+    "t": {
+      "id": "61775",
+      "url": "https://trakt.tv/shows/61775"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4638,
+  "slug": "hana-to-chou",
+  "kind": "anime",
+  "title": "Hana to Chou",
+  "titles": {
+    "default": "Hana to Chou",
+    "romaji": "Hana to Chou",
+    "native": "花と蝶"
+  },
+  "synonyms": [
+    "Hana to Chou",
+    "花と蝶",
+    "The Flower and the Butterfly"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1954,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7530.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7530",
+      "url": "https://anilist.co/anime/7530"
+    },
+    "k": {
+      "id": "5020",
+      "url": "https://kitsu.io/anime/5020"
+    },
+    "mal": {
+      "id": "7530",
+      "url": "https://myanimelist.net/anime/7530"
+    }
+  }
+}

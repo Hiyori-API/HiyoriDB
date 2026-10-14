@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3471,
+  "slug": "nagagutsu-wo-haita-neko-no-boken",
+  "kind": "anime",
+  "title": "Nagagutsu wo Haita Neko no Boken",
+  "titles": {
+    "default": "Nagagutsu wo Haita Neko no Boken",
+    "romaji": "Nagagutsu wo Haita Neko no Boken",
+    "native": "長靴をはいた猫の冒険"
+  },
+  "synonyms": [
+    "Nagagutsu wo Haita Neko no Boken",
+    "長靴をはいた猫の冒険",
+    "Nagagutsu o Haita Neko no Bouken",
+    "Adventures of Puss-in-Boots",
+    "Fantasy Adventure: Adventures of Puss `n Boots",
+    "Kot w butach",
+    "Fairy Dick",
+    "Yousei Dick",
+    "妖精ディック",
+    "Hobberdy Dick",
+    "Yosei Dikku"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4468.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4468",
+      "url": "https://anilist.co/anime/4468"
+    },
+    "k": {
+      "id": "5058",
+      "url": "https://kitsu.io/anime/5058"
+    },
+    "mal": {
+      "id": "4468",
+      "url": "https://myanimelist.net/anime/4468"
+    }
+  }
+}

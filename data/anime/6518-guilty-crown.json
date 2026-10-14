@@ -1,0 +1,58 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6518,
+  "slug": "guilty-crown",
+  "kind": "anime",
+  "title": "Guilty Crown",
+  "titles": {
+    "default": "Guilty Crown",
+    "romaji": "Guilty Crown",
+    "native": "ギルティクラウン"
+  },
+  "synonyms": [
+    "Guilty Crown",
+    "ギルティクラウン",
+    "المُلك المُدان",
+    "Honto ni Atta! Reibai Sensei",
+    "ほんとにあった! 霊媒先生",
+    "Yuruani"
+  ],
+  "type": "tv",
+  "episodes": 22,
+  "status": "finished",
+  "season": "fall",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10793-KCysCbrVNqK9.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10793",
+      "url": "https://anilist.co/anime/10793"
+    },
+    "cr": {
+      "id": "guilty-crown",
+      "url": "https://www.crunchyroll.com/series/guilty-crown"
+    },
+    "k": {
+      "id": "6135",
+      "url": "https://kitsu.io/anime/6135"
+    },
+    "mal": {
+      "id": "10793",
+      "url": "https://myanimelist.net/anime/10793"
+    },
+    "nf": {
+      "id": "80113904",
+      "url": "https://www.netflix.com/title/80113904"
+    },
+    "t": {
+      "id": "65700",
+      "url": "https://trakt.tv/shows/65700"
+    },
+    "tx": {
+      "id": "guilty_crown",
+      "url": "https://twitter.com/guilty_crown"
+    }
+  }
+}

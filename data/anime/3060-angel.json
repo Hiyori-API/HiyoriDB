@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3060,
+  "slug": "angel",
+  "kind": "anime",
+  "title": "Angel",
+  "titles": {
+    "default": "Angel",
+    "romaji": "Angel",
+    "native": "エンジェル"
+  },
+  "synonyms": [
+    "Angel",
+    "エンジェル",
+    "Violence Jack: Hell's Wind",
+    "Violence Jack: Hell's Wind-hen",
+    "バイオレンス ジャック 〜ヘルスウインド編〜",
+    "Violence Jack 3",
+    "Violence Jack: Hell's Wind Hen",
+    "Violence Jack: Hell's Wind Arc"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3633.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3633",
+      "url": "https://anilist.co/anime/3633"
+    },
+    "k": {
+      "id": "1198",
+      "url": "https://kitsu.io/anime/1198"
+    },
+    "mal": {
+      "id": "3633",
+      "url": "https://myanimelist.net/anime/3633"
+    }
+  }
+}

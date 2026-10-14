@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2874,
+  "slug": "ufo-senshi-dai-apolon",
+  "kind": "anime",
+  "title": "UFO Senshi Dai Apolon",
+  "titles": {
+    "default": "UFO Senshi Dai Apolon",
+    "romaji": "UFO Senshi Dai Apolon",
+    "native": "ＵＦＯ戦士ダイアポロン"
+  },
+  "synonyms": [
+    "UFO Senshi Dai Apolon",
+    "ＵＦＯ戦士ダイアポロン",
+    "UFO Warrior Dai Apolon",
+    "Shadow World"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 1976,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3361-HdDEnl2B8gKI.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3361",
+      "url": "https://anilist.co/anime/3361"
+    },
+    "k": {
+      "id": "2956",
+      "url": "https://kitsu.io/anime/2956"
+    },
+    "mal": {
+      "id": "3361",
+      "url": "https://myanimelist.net/anime/3361"
+    },
+    "t": {
+      "id": "72726",
+      "url": "https://trakt.tv/shows/72726"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1231,
+  "slug": "shin-seiki-gpx-cyber-formula-11",
+  "kind": "anime",
+  "title": "Shin Seiki GPX Cyber Formula 11",
+  "titles": {
+    "default": "Shin Seiki GPX Cyber Formula 11",
+    "romaji": "Shin Seiki GPX Cyber Formula 11",
+    "native": "新世紀GPXサイバーフォーミュラ11"
+  },
+  "synonyms": [
+    "Shin Seiki GPX Cyber Formula 11",
+    "新世紀GPXサイバーフォーミュラ11",
+    "Shinseki-GPX Cyber Formula 11",
+    "Shin Seiki GPX Cyber Formula Double One",
+    "Future GPX Cyber Formula 11",
+    "新世紀ＧＰＸサイバーフォーミュラ１１"
+  ],
+  "type": "ova",
+  "episodes": 6,
+  "status": "finished",
+  "season": "fall",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1392-s8zDzECPnVw6.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1392",
+      "url": "https://anilist.co/anime/1392"
+    },
+    "k": {
+      "id": "1245",
+      "url": "https://kitsu.io/anime/1245"
+    },
+    "mal": {
+      "id": "1392",
+      "url": "https://myanimelist.net/anime/1392"
+    }
+  }
+}

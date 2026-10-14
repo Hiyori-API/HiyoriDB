@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5334,
+  "slug": "gokinjo-monogatari-the-movie",
+  "kind": "anime",
+  "title": "Gokinjo Monogatari the Movie",
+  "titles": {
+    "default": "Gokinjo Monogatari the Movie",
+    "romaji": "Gokinjo Monogatari the Movie",
+    "english": "Neighborhood Story The Movie",
+    "native": "ご近所物語 (1996)"
+  },
+  "synonyms": [
+    "Gokinjo Monogatari the Movie",
+    "Neighborhood Story The Movie",
+    "ご近所物語 (1996)",
+    "Gokinjyo Monogatari (1996)"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7578.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7578",
+      "url": "https://anilist.co/anime/7578"
+    },
+    "k": {
+      "id": "5035",
+      "url": "https://kitsu.io/anime/5035"
+    },
+    "mal": {
+      "id": "7578",
+      "url": "https://myanimelist.net/anime/7578"
+    }
+  }
+}

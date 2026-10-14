@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1798,
+  "slug": "cosmic-baton-girl-comet-san",
+  "kind": "anime",
+  "title": "Cosmic Baton Girl Comet-san☆",
+  "titles": {
+    "default": "Cosmic Baton Girl Comet-san☆",
+    "romaji": "Cosmic Baton Girl Comet-san☆",
+    "native": "Cosmic Baton Girl コメットさん☆"
+  },
+  "synonyms": [
+    "Cosmic Baton Girl Comet-san☆",
+    "Cosmic Baton Girl コメットさん☆",
+    "Princess Comet",
+    "Comet",
+    "comet-san",
+    "Gira il mondo principessa stellare"
+  ],
+  "type": "tv",
+  "episodes": 43,
+  "status": "finished",
+  "season": "spring",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2036-75UrWW8wbyTR.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2036",
+      "url": "https://anilist.co/anime/2036"
+    },
+    "k": {
+      "id": "1835",
+      "url": "https://kitsu.io/anime/1835"
+    },
+    "mal": {
+      "id": "2036",
+      "url": "https://myanimelist.net/anime/2036"
+    },
+    "t": {
+      "id": "34655",
+      "url": "https://trakt.tv/shows/34655"
+    }
+  }
+}

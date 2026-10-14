@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1331,
+  "slug": "meitantei-conan-tantei-tachi-no-requiem",
+  "kind": "anime",
+  "title": "Meitantei Conan: Tantei-tachi no Requiem",
+  "titles": {
+    "default": "Meitantei Conan: Tantei-tachi no Requiem",
+    "romaji": "Meitantei Conan: Tantei-tachi no Requiem",
+    "english": "Detective Conan: The Private Eyes' Requiem",
+    "native": "名探偵コナン　探偵たちの鎮魂歌[レクイエム]"
+  },
+  "synonyms": [
+    "Meitantei Conan: Tantei-tachi no Requiem",
+    "Detective Conan: The Private Eyes' Requiem",
+    "名探偵コナン　探偵たちの鎮魂歌[レクイエム]",
+    "Meitantei Conan Movie 10: Tantei-tachi no Requiem",
+    "Detektiv Conan: Das Requiem der Detektive",
+    "Detective Conan Movie 10: Requiem per un Detective",
+    "Détective Conan : Le Requiem des détectives",
+    "Case Closed: Requiem of the Detectives",
+    "Case Closed Movie 10: Requiem of the Detectives",
+    "Detective Conan Movie 10: Requiem of the Detectives",
+    "The Private Eyes' Requiem"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1506-EHhN6loLBaau.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1506",
+      "url": "https://anilist.co/anime/1506"
+    },
+    "k": {
+      "id": "1352",
+      "url": "https://kitsu.io/anime/1352"
+    },
+    "mal": {
+      "id": "1506",
+      "url": "https://myanimelist.net/anime/1506"
+    },
+    "t": {
+      "id": "30849",
+      "url": "https://trakt.tv/shows/30849"
+    }
+  }
+}

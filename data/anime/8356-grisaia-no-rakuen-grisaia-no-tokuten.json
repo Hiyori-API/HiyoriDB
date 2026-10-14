@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8356,
+  "slug": "grisaia-no-rakuen-grisaia-no-tokuten",
+  "kind": "anime",
+  "title": "Grisaia no Rakuen: Grisaia no Tokuten",
+  "titles": {
+    "default": "Grisaia no Rakuen: Grisaia no Tokuten",
+    "romaji": "Grisaia no Rakuen: Grisaia no Tokuten",
+    "native": "グリザイアの楽園 グリザイアの特典"
+  },
+  "synonyms": [
+    "Grisaia no Rakuen: Grisaia no Tokuten",
+    "グリザイアの楽園 グリザイアの特典",
+    "Le Eden De La Grisaia: Grisaia no Tokuten",
+    "The Eden of Grisaia: Grisaia no Tokuten",
+    "The Eden of Grisaia Specials",
+    "Le Eden de la Grisaia Specials",
+    "グリザイアの楽園",
+    "Grisaia no Rakuen Specials"
+  ],
+  "type": "special",
+  "episodes": 5,
+  "status": "finished",
+  "season": "summer",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21415-OnSv02EhCiJ8.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21415",
+      "url": "https://anilist.co/anime/21415"
+    },
+    "mal": {
+      "id": "31368",
+      "url": "https://myanimelist.net/anime/31368"
+    },
+    "tx": {
+      "id": "grisaia_anime",
+      "url": "https://twitter.com/grisaia_anime"
+    }
+  }
+}

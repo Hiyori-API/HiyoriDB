@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5617,
+  "slug": "wagamama-fairy-mirumo-de-pon-golden",
+  "kind": "anime",
+  "title": "Wagamama☆Fairy Mirumo de Pon! Golden",
+  "titles": {
+    "default": "Wagamama☆Fairy Mirumo de Pon! Golden",
+    "romaji": "Wagamama☆Fairy Mirumo de Pon! Golden",
+    "native": "わがまま☆フェアリー ミルモでポン! ごおるでん"
+  },
+  "synonyms": [
+    "Wagamama☆Fairy Mirumo de Pon! Golden",
+    "わがまま☆フェアリー ミルモでポン! ごおるでん",
+    "Wagamama Fairy Mirumo de Pon! Golden",
+    "Mirmo Zibang!",
+    "Maburaho",
+    "まぶらほ"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "fall",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b170426-lrYC339O20vy.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "170426",
+      "url": "https://anilist.co/anime/170426"
+    },
+    "cr": {
+      "id": "series/GYDKHE2D5/maburaho",
+      "url": "https://www.crunchyroll.com/series/series/GYDKHE2D5/maburaho"
+    },
+    "k": {
+      "id": "170",
+      "url": "https://kitsu.io/anime/170"
+    },
+    "mal": {
+      "id": "193",
+      "url": "https://myanimelist.net/anime/193"
+    },
+    "t": {
+      "id": "42218",
+      "url": "https://trakt.tv/shows/42218"
+    }
+  }
+}

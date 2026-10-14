@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 730,
+  "slug": "ginga-eiyuu-densetsu",
+  "kind": "anime",
+  "title": "Ginga Eiyuu Densetsu",
+  "titles": {
+    "default": "Ginga Eiyuu Densetsu",
+    "romaji": "Ginga Eiyuu Densetsu",
+    "english": "Legend of the Galactic Heroes",
+    "native": "銀河英雄伝説"
+  },
+  "synonyms": [
+    "Ginga Eiyuu Densetsu",
+    "Legend of the Galactic Heroes",
+    "銀河英雄伝説",
+    "LoGH",
+    "LoTGH",
+    "Gin'eiden",
+    "Heldensagen vom Kosmosinsel",
+    "אגדת הגיבורים הגלקטיים",
+    "LotGH",
+    "GinEiDen",
+    "Heldensagen Vom Kosmosinsel"
+  ],
+  "type": "ova",
+  "episodes": 110,
+  "status": "finished",
+  "season": "winter",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx820-x5dNLNFeKb8B.png"
+  ],
+  "references": {
+    "al": {
+      "id": "820",
+      "url": "https://anilist.co/anime/820"
+    },
+    "k": {
+      "id": "727",
+      "url": "https://kitsu.io/anime/727"
+    },
+    "mal": {
+      "id": "820",
+      "url": "https://myanimelist.net/anime/820"
+    },
+    "t": {
+      "id": "61094",
+      "url": "https://trakt.tv/shows/61094"
+    }
+  }
+}

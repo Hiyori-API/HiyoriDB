@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5624,
+  "slug": "the-marshmallow-times",
+  "kind": "anime",
+  "title": "The Marshmallow Times",
+  "titles": {
+    "default": "The Marshmallow Times",
+    "romaji": "The Marshmallow Times",
+    "native": "マシュマロ通信"
+  },
+  "synonyms": [
+    "The Marshmallow Times",
+    "マシュマロ通信",
+    "Mashumaro Taimusu",
+    "The Raspberry Times",
+    "غيمة",
+    "Beet the Vandel Buster",
+    "冒険王ビィト",
+    "Adventure King Beet",
+    "Bouken Ou Beet"
+  ],
+  "type": "tv",
+  "episodes": 52,
+  "status": "finished",
+  "season": "spring",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7955.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7955",
+      "url": "https://anilist.co/anime/7955"
+    },
+    "k": {
+      "id": "5",
+      "url": "https://kitsu.io/anime/5"
+    },
+    "mal": {
+      "id": "7955",
+      "url": "https://myanimelist.net/anime/7955"
+    },
+    "t": {
+      "id": "43047",
+      "url": "https://trakt.tv/shows/43047"
+    }
+  }
+}

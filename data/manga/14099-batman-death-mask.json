@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14099,
+  "slug": "batman-death-mask",
+  "kind": "manga",
+  "title": "Batman: Death Mask",
+  "titles": {
+    "default": "Batman: Death Mask"
+  },
+  "synonyms": [
+    "Batman: Death Mask",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "chapters": 4,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5756.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4094",
+      "url": "https://anilist.co/anime/4094"
+    },
+    "al_manga": {
+      "id": "4094",
+      "url": "https://anilist.co/manga/4094"
+    }
+  }
+}

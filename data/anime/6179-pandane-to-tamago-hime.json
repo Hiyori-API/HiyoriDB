@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6179,
+  "slug": "pandane-to-tamago-hime",
+  "kind": "anime",
+  "title": "Pandane to Tamago-hime",
+  "titles": {
+    "default": "Pandane to Tamago-hime",
+    "romaji": "Pandane to Tamago-hime",
+    "english": "Mr. Dough and the Egg Princess",
+    "native": "パン種とタマゴ姫"
+  },
+  "synonyms": [
+    "Pandane to Tamago-hime",
+    "Mr. Dough and the Egg Princess",
+    "パン種とタマゴ姫"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9798-SkF2AfeGOata.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9798",
+      "url": "https://anilist.co/anime/9798"
+    },
+    "k": {
+      "id": "5876",
+      "url": "https://kitsu.io/anime/5876"
+    },
+    "mal": {
+      "id": "9798",
+      "url": "https://myanimelist.net/anime/9798"
+    }
+  }
+}

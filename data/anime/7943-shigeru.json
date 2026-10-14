@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7943,
+  "slug": "shigeru",
+  "kind": "anime",
+  "title": "Shigeru",
+  "titles": {
+    "default": "Shigeru",
+    "romaji": "Shigeru",
+    "native": "しげる"
+  },
+  "synonyms": [
+    "Shigeru",
+    "しげる",
+    "Moonrakers",
+    "ムーンレイカーズ"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/101087-O4ln3BV6SuHV.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101087",
+      "url": "https://anilist.co/anime/101087"
+    },
+    "k": {
+      "id": "8463",
+      "url": "https://kitsu.io/anime/8463"
+    },
+    "mal": {
+      "id": "31686",
+      "url": "https://myanimelist.net/anime/31686"
+    }
+  }
+}

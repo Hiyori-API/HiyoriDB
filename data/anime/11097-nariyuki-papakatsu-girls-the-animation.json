@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11097,
+  "slug": "nariyuki-papakatsu-girls-the-animation",
+  "kind": "anime",
+  "title": "Nariyuki → Papakatsu GIRLS!! THE ANIMATION",
+  "titles": {
+    "default": "Nariyuki → Papakatsu GIRLS!! THE ANIMATION",
+    "romaji": "Nariyuki → Papakatsu GIRLS!! THE ANIMATION",
+    "english": "LF Sugar Daddy GIRLS!!",
+    "native": "なりゆき→パパ活GIRLS!! THE ANIMATION"
+  },
+  "synonyms": [
+    "Nariyuki → Papakatsu GIRLS!! THE ANIMATION",
+    "LF Sugar Daddy GIRLS!!",
+    "なりゆき→パパ活GIRLS!! THE ANIMATION",
+    "Outcome→ PAPActivity Girls!!",
+    "ぷちます! -PETIT IDOLM@STER-",
+    "Puchimas!: Petit iDOLM@STER (OVA)"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx100641-feAZSAthlkQJ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "100641",
+      "url": "https://anilist.co/anime/100641"
+    },
+    "mal": {
+      "id": "36849",
+      "url": "https://myanimelist.net/anime/36849"
+    }
+  }
+}

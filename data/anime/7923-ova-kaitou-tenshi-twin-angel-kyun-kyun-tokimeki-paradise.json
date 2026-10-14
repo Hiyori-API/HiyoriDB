@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7923,
+  "slug": "ova-kaitou-tenshi-twin-angel-kyun-kyun-tokimeki-paradise",
+  "kind": "anime",
+  "title": "OVA Kaitou Tenshi Twin Angel: Kyun Kyun☆Tokimeki Paradise!!",
+  "titles": {
+    "default": "OVA Kaitou Tenshi Twin Angel: Kyun Kyun☆Tokimeki Paradise!!",
+    "romaji": "OVA Kaitou Tenshi Twin Angel: Kyun Kyun☆Tokimeki Paradise!!",
+    "english": "OVA Twin Angel: Twinkle Paradise",
+    "native": "OVA快盗天使ツインエンジェル ～キュンキュン☆ときめきパラダイス！！～"
+  },
+  "synonyms": [
+    "OVA Kaitou Tenshi Twin Angel: Kyun Kyun☆Tokimeki Paradise!!",
+    "OVA Twin Angel: Twinkle Paradise",
+    "OVA快盗天使ツインエンジェル ～キュンキュン☆ときめきパラダイス！！～",
+    "Kimi no Iru Machi OVA",
+    "君のいる町 OVA",
+    "A Town Where You Live",
+    "Uchi ga Kita Machi",
+    "The Town Where I Came"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21834-PscJUiqsPMuY.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21834",
+      "url": "https://anilist.co/anime/21834"
+    },
+    "k": {
+      "id": "8185",
+      "url": "https://kitsu.io/anime/8185"
+    },
+    "mal": {
+      "id": "27997",
+      "url": "https://myanimelist.net/anime/27997"
+    }
+  }
+}

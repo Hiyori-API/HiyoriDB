@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8042,
+  "slug": "juuou-mujin-no-fafnir",
+  "kind": "anime",
+  "title": "Juuou Mujin no Fafnir",
+  "titles": {
+    "default": "Juuou Mujin no Fafnir",
+    "romaji": "Juuou Mujin no Fafnir",
+    "english": "Unlimited Fafnir",
+    "native": "銃皇無尽のファフニール"
+  },
+  "synonyms": [
+    "Juuou Mujin no Fafnir",
+    "Unlimited Fafnir",
+    "銃皇無尽のファフニール",
+    "Unlimited Fafnir School Battle"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20758-dX3iQYjwPMDH.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "20758",
+      "url": "https://anilist.co/anime/20758"
+    },
+    "cr": {
+      "id": "unlimited-fafnir",
+      "url": "https://www.crunchyroll.com/series/unlimited-fafnir"
+    },
+    "k": {
+      "id": "8649",
+      "url": "https://kitsu.io/anime/8649"
+    },
+    "mal": {
+      "id": "24873",
+      "url": "https://myanimelist.net/anime/24873"
+    },
+    "t": {
+      "id": "81820",
+      "url": "https://trakt.tv/shows/81820"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10270,
+  "slug": "hangyaku-sei-million-arthur-special",
+  "kind": "anime",
+  "title": "Hangyaku-sei Million Arthur Special",
+  "titles": {
+    "default": "Hangyaku-sei Million Arthur Special",
+    "romaji": "Hangyaku-sei Million Arthur Special",
+    "english": "Operation Han-Gyaku-Sei Million Arthur Special",
+    "native": "叛逆性ミリオンアーサー TV未放送エピソード"
+  },
+  "synonyms": [
+    "Hangyaku-sei Million Arthur Special",
+    "Operation Han-Gyaku-Sei Million Arthur Special",
+    "叛逆性ミリオンアーサー TV未放送エピソード",
+    "Hangyakusei Million Arthur Special",
+    "Million Arthur: Farwell, Beloved Dancho",
+    "叛逆性ミリオンアーサー さらば愛しの団長",
+    "Hangyakusei Million Arthur: Saraba Itoshi no Danchou"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b111306-j2ScG7X93hxm.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "111306",
+      "url": "https://anilist.co/anime/111306"
+    },
+    "cr": {
+      "id": "million-arthur",
+      "url": "https://www.crunchyroll.com/series/million-arthur"
+    },
+    "mal": {
+      "id": "38601",
+      "url": "https://myanimelist.net/anime/38601"
+    },
+    "tx": {
+      "id": "hangyakuseiMAAN",
+      "url": "https://twitter.com/hangyakuseiMAAN"
+    }
+  }
+}

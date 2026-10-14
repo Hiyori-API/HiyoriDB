@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13798,
+  "slug": "chobits",
+  "kind": "manga",
+  "title": "Chobits",
+  "titles": {
+    "default": "Chobits"
+  },
+  "synonyms": [
+    "ดิจิทัล เลดี้",
+    "쵸비츠",
+    "Chobits",
+    "ちょびっツ",
+    "Mushrambo",
+    "マシュランボー",
+    "Mashuranboo"
+  ],
+  "type": "manga",
+  "chapters": 88,
+  "volumes": 8,
+  "status": "finished",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30107-UAERGstOOuAh.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "59",
+      "url": "https://anilist.co/anime/59"
+    },
+    "al_manga": {
+      "id": "59",
+      "url": "https://anilist.co/manga/59"
+    }
+  }
+}

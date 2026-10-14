@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2350,
+  "slug": "dorami-chan-mini-dora-sos",
+  "kind": "anime",
+  "title": "Dorami-chan: Mini-Dora SOS",
+  "titles": {
+    "default": "Dorami-chan: Mini-Dora SOS",
+    "romaji": "Dorami-chan: Mini-Dora SOS",
+    "native": "ドラミちゃん ミニドラSOS!!!"
+  },
+  "synonyms": [
+    "Dorami-chan: Mini-Dora SOS",
+    "ドラミちゃん ミニドラSOS!!!",
+    "Dorami-chan: Mini-Dora SOS!!!"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2647.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2647",
+      "url": "https://anilist.co/anime/2647"
+    },
+    "k": {
+      "id": "2411",
+      "url": "https://kitsu.io/anime/2411"
+    },
+    "mal": {
+      "id": "2647",
+      "url": "https://myanimelist.net/anime/2647"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2450,
+  "slug": "12-senshi-bakuretsu-eto-ranger",
+  "kind": "anime",
+  "title": "12 Senshi Bakuretsu Eto Ranger",
+  "titles": {
+    "default": "12 Senshi Bakuretsu Eto Ranger",
+    "romaji": "12 Senshi Bakuretsu Eto Ranger",
+    "native": "十二戦支 爆烈エトレンジャー"
+  },
+  "synonyms": [
+    "12 Senshi Bakuretsu Eto Ranger",
+    "十二戦支 爆烈エトレンジャー",
+    "Juuni Senshi Bakuretsu Eto Ranger",
+    "꾸러기 수비대",
+    "Kyouryuu Boukenki Jura Tripper",
+    "恐竜冒険記ジュラトリッパー",
+    "Dino Adventure Jurassic Tripper",
+    "Kyoryu Bokenki Jura Tripper"
+  ],
+  "type": "tv",
+  "episodes": 39,
+  "status": "finished",
+  "season": "spring",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2757-EaRs8t78rgir.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2757",
+      "url": "https://anilist.co/anime/2757"
+    },
+    "k": {
+      "id": "2257",
+      "url": "https://kitsu.io/anime/2257"
+    },
+    "mal": {
+      "id": "2757",
+      "url": "https://myanimelist.net/anime/2757"
+    },
+    "t": {
+      "id": "44904",
+      "url": "https://trakt.tv/shows/44904"
+    }
+  }
+}

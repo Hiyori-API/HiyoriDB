@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2346,
+  "slug": "doraemon-summer-holiday",
+  "kind": "anime",
+  "title": "Doraemon: Summer Holiday",
+  "titles": {
+    "default": "Doraemon: Summer Holiday",
+    "romaji": "Doraemon: Summer Holiday"
+  },
+  "synonyms": [
+    "Doraemon: Summer Holiday"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2643.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2643",
+      "url": "https://anilist.co/anime/2643"
+    },
+    "k": {
+      "id": "2407",
+      "url": "https://kitsu.io/anime/2407"
+    },
+    "mal": {
+      "id": "2643",
+      "url": "https://myanimelist.net/anime/2643"
+    }
+  }
+}

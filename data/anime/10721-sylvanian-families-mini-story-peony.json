@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10721,
+  "slug": "sylvanian-families-mini-story-peony",
+  "kind": "anime",
+  "title": "Sylvanian Families: Mini Story Peony",
+  "titles": {
+    "default": "Sylvanian Families: Mini Story Peony",
+    "romaji": "Sylvanian Families: Mini Story Peony",
+    "english": "Calico Critters: Mini Episodes -Peony-",
+    "native": "シルバニアファミリー ミニストーリー ピオニー"
+  },
+  "synonyms": [
+    "Sylvanian Families: Mini Story Peony",
+    "Calico Critters: Mini Episodes -Peony-",
+    "シルバニアファミリー ミニストーリー ピオニー",
+    "Sylvanian Families: Mini Story - Season 4",
+    "Ring ni Kakero 1",
+    "リングにかけろ１",
+    "Put it all in the Ring"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b187055-RfIs6Ka9faCJ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "187055",
+      "url": "https://anilist.co/anime/187055"
+    },
+    "k": {
+      "id": "14",
+      "url": "https://kitsu.io/anime/14"
+    },
+    "mal": {
+      "id": "52968",
+      "url": "https://myanimelist.net/anime/52968"
+    },
+    "t": {
+      "id": "69507",
+      "url": "https://trakt.tv/shows/69507"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 615,
+  "slug": "lamune",
+  "kind": "anime",
+  "title": "Lamune",
+  "titles": {
+    "default": "Lamune",
+    "romaji": "Lamune",
+    "native": "ラムネ"
+  },
+  "synonyms": [
+    "Lamune",
+    "ラムネ",
+    "Lamune ~ The Glass Jar that Reflects the Sea Lemonade"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx670-j3gSsZF9NBtw.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "670",
+      "url": "https://anilist.co/anime/670"
+    },
+    "k": {
+      "id": "614",
+      "url": "https://kitsu.io/anime/614"
+    },
+    "mal": {
+      "id": "670",
+      "url": "https://myanimelist.net/anime/670"
+    },
+    "t": {
+      "id": "61389",
+      "url": "https://trakt.tv/shows/61389"
+    }
+  }
+}

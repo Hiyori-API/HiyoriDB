@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6683,
+  "slug": "steins-gate-oukoubakko-no-poriomania",
+  "kind": "anime",
+  "title": "Steins;Gate: Oukoubakko no Poriomania",
+  "titles": {
+    "default": "Steins;Gate: Oukoubakko no Poriomania",
+    "romaji": "Steins;Gate: Oukoubakko no Poriomania",
+    "english": "Steins;Gate: Egoistic Poriomania",
+    "native": "シュタインズ・ゲート 横行跋扈のポリオマニア"
+  },
+  "synonyms": [
+    "Steins;Gate: Oukoubakko no Poriomania",
+    "Steins;Gate: Egoistic Poriomania",
+    "シュタインズ・ゲート 横行跋扈のポリオマニア",
+    "Steins",
+    "Gate Special",
+    "Poriomanía del egoismo",
+    "Minori Scramble!",
+    "みのりスクランブル!"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10863-V6oW2kN8bBYf.png"
+  ],
+  "references": {
+    "al": {
+      "id": "10863",
+      "url": "https://anilist.co/anime/10863"
+    },
+    "k": {
+      "id": "5773",
+      "url": "https://kitsu.io/anime/5773"
+    },
+    "mal": {
+      "id": "10863",
+      "url": "https://myanimelist.net/anime/10863"
+    }
+  }
+}

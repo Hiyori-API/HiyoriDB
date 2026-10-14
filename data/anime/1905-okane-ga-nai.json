@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1905,
+  "slug": "okane-ga-nai",
+  "kind": "anime",
+  "title": "Okane ga Nai",
+  "titles": {
+    "default": "Okane ga Nai",
+    "romaji": "Okane ga Nai",
+    "english": "No Money!",
+    "native": "お金がないっ"
+  },
+  "synonyms": [
+    "Okane ga Nai",
+    "No Money!",
+    "お金がないっ",
+    "I Have No Money!",
+    "No Money"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "winter",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2148.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2148",
+      "url": "https://anilist.co/anime/2148"
+    },
+    "k": {
+      "id": "1945",
+      "url": "https://kitsu.io/anime/1945"
+    },
+    "mal": {
+      "id": "2148",
+      "url": "https://myanimelist.net/anime/2148"
+    }
+  }
+}

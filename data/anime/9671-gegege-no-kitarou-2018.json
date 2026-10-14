@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9671,
+  "slug": "gegege-no-kitarou-2018",
+  "kind": "anime",
+  "title": "Gegege no Kitarou (2018)",
+  "titles": {
+    "default": "Gegege no Kitarou (2018)",
+    "romaji": "Gegege no Kitarou (2018)",
+    "english": "GeGeGe no Kitaro",
+    "native": "ゲゲゲの鬼太郎(2018)"
+  },
+  "synonyms": [
+    "Gegege no Kitarou (2018)",
+    "GeGeGe no Kitaro",
+    "ゲゲゲの鬼太郎(2018)",
+    "Spooky Kitaro",
+    "ゲゲゲの鬼太郎 (2018)"
+  ],
+  "type": "tv",
+  "episodes": 97,
+  "status": "finished",
+  "season": "spring",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100978-2BLQeMknulmo.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "100978",
+      "url": "https://anilist.co/anime/100978"
+    },
+    "cr": {
+      "id": "gegege-no-kitaro",
+      "url": "https://www.crunchyroll.com/series/gegege-no-kitaro"
+    },
+    "mal": {
+      "id": "37140",
+      "url": "https://myanimelist.net/anime/37140"
+    },
+    "ttv": {
+      "id": "300006598",
+      "url": "https://tubitv.com/series/300006598"
+    },
+    "tx": {
+      "id": "kitaroanime50th",
+      "url": "https://twitter.com/kitaroanime50th"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5758,
+  "slug": "chainsaw-maid",
+  "kind": "anime",
+  "title": "Chainsaw Maid",
+  "titles": {
+    "default": "Chainsaw Maid",
+    "romaji": "Chainsaw Maid",
+    "native": "チェーンソー・メイド"
+  },
+  "synonyms": [
+    "Chainsaw Maid",
+    "チェーンソー・メイド"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11679.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11679",
+      "url": "https://anilist.co/anime/11679"
+    },
+    "k": {
+      "id": "6559",
+      "url": "https://kitsu.io/anime/6559"
+    },
+    "mal": {
+      "id": "11679",
+      "url": "https://myanimelist.net/anime/11679"
+    },
+    "yt": {
+      "id": "6d-tNXxTRBA",
+      "url": "https://www.youtube.com/watch?v=6d-tNXxTRBA"
+    }
+  }
+}

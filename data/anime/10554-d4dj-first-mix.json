@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10554,
+  "slug": "d4dj-first-mix",
+  "kind": "anime",
+  "title": "D4DJ First Mix",
+  "titles": {
+    "default": "D4DJ First Mix",
+    "romaji": "D4DJ First Mix"
+  },
+  "synonyms": [
+    "D4DJ First Mix",
+    "Dig Delight Direct Drive DJ"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115069-hKrmZDt2oZ8Q.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "115069",
+      "url": "https://anilist.co/anime/115069"
+    },
+    "cr": {
+      "id": "d4dj-first-mix",
+      "url": "https://www.crunchyroll.com/series/d4dj-first-mix"
+    },
+    "mal": {
+      "id": "39681",
+      "url": "https://myanimelist.net/anime/39681"
+    },
+    "tx": {
+      "id": "d4dj_pj_en",
+      "url": "https://twitter.com/D4DJ_pj"
+    }
+  }
+}

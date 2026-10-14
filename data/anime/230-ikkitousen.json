@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 230,
+  "slug": "ikkitousen",
+  "kind": "anime",
+  "title": "Ikkitousen",
+  "titles": {
+    "default": "Ikkitousen",
+    "romaji": "Ikkitousen",
+    "english": "Battle Vixens: Ikki Tousen",
+    "native": "一騎当千"
+  },
+  "synonyms": [
+    "Ikkitousen",
+    "Battle Vixens: Ikki Tousen",
+    "一騎当千",
+    "Ikki Tousen",
+    "Ikki-Tosen: Legendary Fighter",
+    "Battle Vixens"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx257-gCZecr1Nu9NV.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "257",
+      "url": "https://anilist.co/anime/257"
+    },
+    "cr": {
+      "id": "series/G24H1NZXD/ikki-tousen",
+      "url": "https://www.crunchyroll.com/series/series/G24H1NZXD/ikki-tousen"
+    },
+    "k": {
+      "id": "232",
+      "url": "https://kitsu.io/anime/232"
+    },
+    "mal": {
+      "id": "257",
+      "url": "https://myanimelist.net/anime/257"
+    },
+    "t": {
+      "id": "37426",
+      "url": "https://trakt.tv/shows/37426"
+    }
+  }
+}

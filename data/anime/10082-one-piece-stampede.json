@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10082,
+  "slug": "one-piece-stampede",
+  "kind": "anime",
+  "title": "ONE PIECE STAMPEDE",
+  "titles": {
+    "default": "ONE PIECE STAMPEDE",
+    "romaji": "ONE PIECE STAMPEDE",
+    "english": "One Piece: Stampede"
+  },
+  "synonyms": [
+    "ONE PIECE STAMPEDE",
+    "One Piece: Stampede",
+    "ワンピース スタンピード",
+    "One Piece: Estampida",
+    "航海王：狂热行动",
+    "One Piece Film 14",
+    "Cencoroll 2",
+    "センコロール"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx105143-5uBDmhvMr6At.png"
+  ],
+  "references": {
+    "al": {
+      "id": "105143",
+      "url": "https://anilist.co/anime/105143"
+    },
+    "cr": {
+      "id": "watch/GK9U3MN17",
+      "url": "https://www.crunchyroll.com/series/watch/GK9U3MN17"
+    },
+    "k": {
+      "id": "5749",
+      "url": "https://kitsu.io/anime/5749"
+    },
+    "mal": {
+      "id": "38234",
+      "url": "https://myanimelist.net/anime/38234"
+    }
+  }
+}

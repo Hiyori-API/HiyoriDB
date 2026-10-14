@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1529,
+  "slug": "ex-driver-nina-rei-danger-zone",
+  "kind": "anime",
+  "title": "eX-Driver: Nina & Rei Danger Zone",
+  "titles": {
+    "default": "eX-Driver: Nina & Rei Danger Zone",
+    "romaji": "eX-Driver: Nina & Rei Danger Zone",
+    "english": "éX-Driver Danger Zone",
+    "native": "エクスドライバー Nina&Rei Danger Zone"
+  },
+  "synonyms": [
+    "eX-Driver: Nina & Rei Danger Zone",
+    "éX-Driver Danger Zone",
+    "エクスドライバー Nina&Rei Danger Zone"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1733-evSAgg5z3pxS.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1733",
+      "url": "https://anilist.co/anime/1733"
+    },
+    "k": {
+      "id": "1553",
+      "url": "https://kitsu.io/anime/1553"
+    },
+    "mal": {
+      "id": "1733",
+      "url": "https://myanimelist.net/anime/1733"
+    }
+  }
+}

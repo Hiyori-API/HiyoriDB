@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1942,
+  "slug": "tsubaki-iro-no-prigione",
+  "kind": "anime",
+  "title": "Tsubaki-iro no Prigione",
+  "titles": {
+    "default": "Tsubaki-iro no Prigione",
+    "romaji": "Tsubaki-iro no Prigione",
+    "native": "椿色のプリジオーネ"
+  },
+  "synonyms": [
+    "Tsubaki-iro no Prigione",
+    "椿色のプリジオーネ",
+    "Heritage from Father",
+    "Camilla-Colored Prison",
+    "Tsubaki Iro no Purijioone",
+    "Tsubakiiro Prigeorne",
+    "Heritage: Tsubaki-iro no Prigione",
+    "La Prison aux Camélias",
+    "MegaMan: Wishing upon a Star",
+    "Rockman Hoshi ni Negai wo",
+    "ロックマン星に願いを",
+    "Rockman OAV"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "summer",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2190.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2190",
+      "url": "https://anilist.co/anime/2190"
+    },
+    "k": {
+      "id": "1671",
+      "url": "https://kitsu.io/anime/1671"
+    },
+    "mal": {
+      "id": "2190",
+      "url": "https://myanimelist.net/anime/2190"
+    }
+  }
+}

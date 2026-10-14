@@ -1,0 +1,59 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 892,
+  "slug": "uchuu-kaizoku-captain-harlock",
+  "kind": "anime",
+  "title": "Uchuu Kaizoku Captain Harlock",
+  "titles": {
+    "default": "Uchuu Kaizoku Captain Harlock",
+    "romaji": "Uchuu Kaizoku Captain Harlock",
+    "english": "Captain Harlock Space Pirate",
+    "native": "宇宙海賊キャプテンハーロック"
+  },
+  "synonyms": [
+    "Uchuu Kaizoku Captain Harlock",
+    "Captain Harlock Space Pirate",
+    "宇宙海賊キャプテンハーロック",
+    "Harlock TV",
+    "Albator 78",
+    "El Capità Harlock",
+    "Smart-san",
+    "Haikara-san ga Tooru",
+    "はいからさんが通る",
+    "Here Comes Ms. Modern",
+    "Mademoiselle Anne",
+    "Haikara-san Passes",
+    "Comes Miss High-Collar",
+    "Haikara-san ga Toru"
+  ],
+  "type": "tv",
+  "episodes": 42,
+  "status": "finished",
+  "season": "spring",
+  "year": 1978,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1000-Xpeob9jND2tg.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1000",
+      "url": "https://anilist.co/anime/1000"
+    },
+    "cr": {
+      "id": "captain-harlock",
+      "url": "https://www.crunchyroll.com/series/captain-harlock"
+    },
+    "k": {
+      "id": "2944",
+      "url": "https://kitsu.io/anime/2944"
+    },
+    "mal": {
+      "id": "1000",
+      "url": "https://myanimelist.net/anime/1000"
+    },
+    "ttv": {
+      "id": "1831",
+      "url": "https://tubitv.com/series/1831"
+    }
+  }
+}

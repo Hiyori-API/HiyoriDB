@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14057,
+  "slug": "shion-no-ou",
+  "kind": "manga",
+  "title": "Shion no Ou",
+  "titles": {
+    "default": "Shion no Ou"
+  },
+  "synonyms": [
+    "Shion no Ou: The Flowers of Hard Blood",
+    "Shion's King",
+    "Kings of Shôgi: The Flowers of Hard Blood",
+    "しおんの王",
+    "Railroad",
+    "레일로드"
+  ],
+  "type": "manga",
+  "chapters": 50,
+  "volumes": 8,
+  "status": "finished",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30920-U3bqcVuu49L7.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2562",
+      "url": "https://anilist.co/anime/2562"
+    },
+    "al_manga": {
+      "id": "2562",
+      "url": "https://anilist.co/manga/2562"
+    }
+  }
+}

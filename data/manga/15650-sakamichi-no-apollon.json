@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15650,
+  "slug": "sakamichi-no-apollon",
+  "kind": "manga",
+  "title": "Sakamichi no Apollon",
+  "titles": {
+    "default": "Sakamichi no Apollon"
+  },
+  "synonyms": [
+    "Sakamichi no Aporon",
+    "Wzgórze Apolla",
+    "Kids on the Slope",
+    "坂道のアポロン",
+    "Kataomoi no Mukougawa",
+    "片想いの向こう側",
+    "Kataomoi no Mukou Gawa",
+    "Ano Kado o Magareba",
+    "Tenshi ga Kuretamono",
+    "Bitou na Koi",
+    "Kimi to Natsu no Aizu"
+  ],
+  "type": "manga",
+  "chapters": 53,
+  "volumes": 9,
+  "status": "finished",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx58393-szrdyUApsPNn.png"
+  ],
+  "references": {
+    "al": {
+      "id": "12531",
+      "url": "https://anilist.co/anime/12531"
+    },
+    "al_manga": {
+      "id": "12531",
+      "url": "https://anilist.co/manga/12531"
+    }
+  }
+}

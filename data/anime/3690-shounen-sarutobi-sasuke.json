@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3690,
+  "slug": "shounen-sarutobi-sasuke",
+  "kind": "anime",
+  "title": "Shounen Sarutobi Sasuke",
+  "titles": {
+    "default": "Shounen Sarutobi Sasuke",
+    "romaji": "Shounen Sarutobi Sasuke",
+    "english": "Magic Boy",
+    "native": "少年猿飛佐助"
+  },
+  "synonyms": [
+    "Shounen Sarutobi Sasuke",
+    "Magic Boy",
+    "少年猿飛佐助",
+    "Sasuke",
+    "the Young Sarutobi",
+    "The Adventures of Little Samurai",
+    "Pojken som kunde trolla"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1959,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4948-jCgpSVUX3srk.png"
+  ],
+  "references": {
+    "al": {
+      "id": "4948",
+      "url": "https://anilist.co/anime/4948"
+    },
+    "k": {
+      "id": "3865",
+      "url": "https://kitsu.io/anime/3865"
+    },
+    "mal": {
+      "id": "4948",
+      "url": "https://myanimelist.net/anime/4948"
+    }
+  }
+}

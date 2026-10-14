@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5224,
+  "slug": "kero-kero-keroppi-no-sora-tobu-yume-no-fune",
+  "kind": "anime",
+  "title": "Kero Kero Keroppi no Sora Tobu Yume no Fune",
+  "titles": {
+    "default": "Kero Kero Keroppi no Sora Tobu Yume no Fune",
+    "romaji": "Kero Kero Keroppi no Sora Tobu Yume no Fune",
+    "native": "けろけろけろっぴの空とぶゆめの船"
+  },
+  "synonyms": [
+    "Kero Kero Keroppi no Sora Tobu Yume no Fune",
+    "けろけろけろっぴの空とぶゆめの船",
+    "The Tree of Courage",
+    "Mochi Mochi no Ki (OVA)",
+    "モチモチの木",
+    "Mochimochi no Ki"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b187587-pS7uWg4YIxFi.png"
+  ],
+  "references": {
+    "al": {
+      "id": "187587",
+      "url": "https://anilist.co/anime/187587"
+    },
+    "k": {
+      "id": "9460",
+      "url": "https://kitsu.io/anime/9460"
+    },
+    "mal": {
+      "id": "22647",
+      "url": "https://myanimelist.net/anime/22647"
+    }
+  }
+}

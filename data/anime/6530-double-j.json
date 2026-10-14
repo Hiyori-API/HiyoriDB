@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6530,
+  "slug": "double-j",
+  "kind": "anime",
+  "title": "Double-J",
+  "titles": {
+    "default": "Double-J",
+    "romaji": "Double-J",
+    "native": "だぶるじぇい"
+  },
+  "synonyms": [
+    "Double-J",
+    "だぶるじぇい",
+    "Daburu Jei",
+    "Double J",
+    "Bunny Drop",
+    "Usagi Drop",
+    "うさぎドロップ"
+  ],
+  "type": "tv",
+  "episodes": 11,
+  "status": "finished",
+  "season": "summer",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10838.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10838",
+      "url": "https://anilist.co/anime/10838"
+    },
+    "cr": {
+      "id": "usagi-drop",
+      "url": "https://www.crunchyroll.com/series/usagi-drop"
+    },
+    "k": {
+      "id": "6060",
+      "url": "https://kitsu.io/anime/6060"
+    },
+    "mal": {
+      "id": "10838",
+      "url": "https://myanimelist.net/anime/10838"
+    },
+    "t": {
+      "id": "63477",
+      "url": "https://trakt.tv/shows/63477"
+    }
+  }
+}

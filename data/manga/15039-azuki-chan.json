@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15039,
+  "slug": "azuki-chan",
+  "kind": "manga",
+  "title": "Azuki-chan",
+  "titles": {
+    "default": "Azuki-chan"
+  },
+  "synonyms": [
+    "あずきちゃん",
+    "Fushigi Yugi",
+    "Fushigi Yuugi",
+    "ふしぎ遊戯",
+    "Mysterious Play",
+    "Curious Play"
+  ],
+  "type": "manga",
+  "chapters": 57,
+  "volumes": 5,
+  "status": "finished",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/6986.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1893",
+      "url": "https://anilist.co/anime/1893"
+    },
+    "al_manga": {
+      "id": "1893",
+      "url": "https://anilist.co/manga/1893"
+    }
+  }
+}

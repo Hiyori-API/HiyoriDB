@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1439,
+  "slug": "maou-dante",
+  "kind": "anime",
+  "title": "Maou Dante",
+  "titles": {
+    "default": "Maou Dante",
+    "romaji": "Maou Dante",
+    "english": "Demon Lord Dante",
+    "native": "魔王ダンテ"
+  },
+  "synonyms": [
+    "Maou Dante",
+    "Demon Lord Dante",
+    "魔王ダンテ",
+    "Dante the Satan",
+    "Dante, Seigneur des Démons",
+    "Dante, Señor de los Demonios"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1628-KeT91CSV2RCm.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1628",
+      "url": "https://anilist.co/anime/1628"
+    },
+    "cr": {
+      "id": "demon-lord-dante",
+      "url": "https://www.crunchyroll.com/series/demon-lord-dante"
+    },
+    "k": {
+      "id": "1463",
+      "url": "https://kitsu.io/anime/1463"
+    },
+    "mal": {
+      "id": "1628",
+      "url": "https://myanimelist.net/anime/1628"
+    },
+    "t": {
+      "id": "33913",
+      "url": "https://trakt.tv/shows/33913"
+    }
+  }
+}

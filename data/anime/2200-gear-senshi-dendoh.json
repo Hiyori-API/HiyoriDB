@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2200,
+  "slug": "gear-senshi-dendoh",
+  "kind": "anime",
+  "title": "GEAR Senshi Dendoh",
+  "titles": {
+    "default": "GEAR Senshi Dendoh",
+    "romaji": "GEAR Senshi Dendoh",
+    "native": "GEAR戦士 電童"
+  },
+  "synonyms": [
+    "GEAR Senshi Dendoh",
+    "GEAR戦士 電童",
+    "Guard Earth and Advanced Reconnaissance Fighter Dendo",
+    "Gear Fighter Dendoh",
+    "GEAR Senshi Dendou"
+  ],
+  "type": "tv",
+  "episodes": 38,
+  "status": "finished",
+  "season": "fall",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2484-cKkTQRNpoAXx.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2484",
+      "url": "https://anilist.co/anime/2484"
+    },
+    "k": {
+      "id": "2254",
+      "url": "https://kitsu.io/anime/2254"
+    },
+    "mal": {
+      "id": "2484",
+      "url": "https://myanimelist.net/anime/2484"
+    },
+    "t": {
+      "id": "34531",
+      "url": "https://trakt.tv/shows/34531"
+    }
+  }
+}

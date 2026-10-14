@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7377,
+  "slug": "koukaku-kidoutai-arise-another-mission",
+  "kind": "anime",
+  "title": "Koukaku Kidoutai ARISE: ANOTHER MISSION",
+  "titles": {
+    "default": "Koukaku Kidoutai ARISE: ANOTHER MISSION",
+    "romaji": "Koukaku Kidoutai ARISE: ANOTHER MISSION",
+    "english": "Ghost in the Shell: Arise - Another Mission",
+    "native": "攻殻機動隊ＡＲＩＳＥ　ANOTHER MISSION"
+  },
+  "synonyms": [
+    "Koukaku Kidoutai ARISE: ANOTHER MISSION",
+    "Ghost in the Shell: Arise - Another Mission",
+    "攻殻機動隊ＡＲＩＳＥ　ANOTHER MISSION",
+    "Koukaku Kidoutai Arise: Another Mission"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18989.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "18989",
+      "url": "https://anilist.co/anime/18989"
+    },
+    "k": {
+      "id": "8233",
+      "url": "https://kitsu.io/anime/8233"
+    },
+    "mal": {
+      "id": "18989",
+      "url": "https://myanimelist.net/anime/18989"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10183,
+  "slug": "phantasy-star-online-2-episode-oracle",
+  "kind": "anime",
+  "title": "PHANTASY STAR ONLINE 2: EPISODE ORACLE",
+  "titles": {
+    "default": "PHANTASY STAR ONLINE 2: EPISODE ORACLE",
+    "romaji": "PHANTASY STAR ONLINE 2: EPISODE ORACLE",
+    "english": "Phantasy Star Online 2: Episode Oracle",
+    "native": "PHANTASY STAR ONLINE 2 EPISODE ORACLE"
+  },
+  "synonyms": [
+    "PHANTASY STAR ONLINE 2: EPISODE ORACLE",
+    "Phantasy Star Online 2: Episode Oracle",
+    "PHANTASY STAR ONLINE 2 EPISODE ORACLE",
+    "ファンタシースターオンライン2 エピソード・オラクル",
+    "My Hero Academia Season 4",
+    "僕のヒーローアカデミア",
+    "Boku no Hero Academia 4th Season"
+  ],
+  "type": "tv",
+  "episodes": 25,
+  "status": "finished",
+  "season": "fall",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108358-9Y0qXz0o101z.png"
+  ],
+  "references": {
+    "al": {
+      "id": "108358",
+      "url": "https://anilist.co/anime/108358"
+    },
+    "cr": {
+      "id": "phantasy-star-online-2-episode-oracle",
+      "url": "https://www.crunchyroll.com/series/phantasy-star-online-2-episode-oracle"
+    },
+    "mal": {
+      "id": "39506",
+      "url": "https://myanimelist.net/anime/39506"
+    },
+    "tx": {
+      "id": "anime_pso2",
+      "url": "https://twitter.com/anime_pso2"
+    }
+  }
+}

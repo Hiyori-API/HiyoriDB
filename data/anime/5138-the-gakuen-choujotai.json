@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5138,
+  "slug": "the-gakuen-choujotai",
+  "kind": "anime",
+  "title": "The Gakuen Choujotai",
+  "titles": {
+    "default": "The Gakuen Choujotai",
+    "romaji": "The Gakuen Choujotai",
+    "native": "ザ・学園超女隊"
+  },
+  "synonyms": [
+    "The Gakuen Choujotai",
+    "ザ・学園超女隊",
+    "Za Gakuen Choujotai",
+    "The Chohjotai",
+    "School Super Girl Team",
+    "Mermaid Forest OVA",
+    "人魚の森",
+    "Ningyo no Mori",
+    "Rumic World 4"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12401.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12401",
+      "url": "https://anilist.co/anime/12401"
+    },
+    "k": {
+      "id": "1815",
+      "url": "https://kitsu.io/anime/1815"
+    },
+    "mal": {
+      "id": "12401",
+      "url": "https://myanimelist.net/anime/12401"
+    }
+  }
+}

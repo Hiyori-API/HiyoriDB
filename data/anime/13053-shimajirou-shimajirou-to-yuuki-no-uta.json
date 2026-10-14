@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13053,
+  "slug": "shimajirou-shimajirou-to-yuuki-no-uta",
+  "kind": "anime",
+  "title": "Shimajirou: Shimajirou to Yuuki no Uta",
+  "titles": {
+    "default": "Shimajirou: Shimajirou to Yuuki no Uta",
+    "romaji": "Shimajirou: Shimajirou to Yuuki no Uta",
+    "native": "映画しまじろうしまじろうと ゆうきのうた"
+  },
+  "synonyms": [
+    "Shimajirou: Shimajirou to Yuuki no Uta",
+    "映画しまじろうしまじろうと ゆうきのうた",
+    "Shimajiro the Movie: Shimajiro and the Song of Courage",
+    "Neon Genesis Evangelion: Death & Rebirth",
+    "Shinseiki Evangelion Gekijouban: Shi to Shinsei",
+    "新世紀エヴァンゲリオン劇場版 シト新生",
+    "Neon Genesis Evangelion - Death and Rebirth"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183412-aquaVDg24IRw.png"
+  ],
+  "references": {
+    "al": {
+      "id": "183412",
+      "url": "https://anilist.co/anime/183412"
+    },
+    "k": {
+      "id": "22",
+      "url": "https://kitsu.io/anime/22"
+    },
+    "mal": {
+      "id": "56335",
+      "url": "https://myanimelist.net/anime/56335"
+    }
+  }
+}

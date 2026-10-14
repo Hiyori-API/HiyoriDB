@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6622,
+  "slug": "maken-ki-doki-doki-maken-ki-himitsu-no-kunren",
+  "kind": "anime",
+  "title": "Maken-ki!: Doki Doki! Maken-ki! Himitsu no Kunren",
+  "titles": {
+    "default": "Maken-ki!: Doki Doki! Maken-ki! Himitsu no Kunren",
+    "romaji": "Maken-ki!: Doki Doki! Maken-ki! Himitsu no Kunren",
+    "native": "マケン姫っ！ ドキドキッ！マケン姫っ！秘密の訓練"
+  },
+  "synonyms": [
+    "Maken-ki!: Doki Doki! Maken-ki! Himitsu no Kunren",
+    "マケン姫っ！ ドキドキッ！マケン姫っ！秘密の訓練",
+    "Maken-Ki! Specials",
+    "Freezing Specials",
+    "はじけちゃう! ドキドキトラブルフリージング",
+    "Hajikechau! Dokidoki Trouble Freezing"
+  ],
+  "type": "special",
+  "episodes": 6,
+  "status": "finished",
+  "season": "winter",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12449.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12449",
+      "url": "https://anilist.co/anime/12449"
+    },
+    "k": {
+      "id": "6063",
+      "url": "https://kitsu.io/anime/6063"
+    },
+    "mal": {
+      "id": "12449",
+      "url": "https://myanimelist.net/anime/12449"
+    }
+  }
+}

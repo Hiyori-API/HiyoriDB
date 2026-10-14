@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7079,
+  "slug": "ano-hi-mita-hana-no-namae-wo-bokutachi-wa-mada-shiranai-menma-e-no-tegami",
+  "kind": "anime",
+  "title": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.: Menma e no Tegami",
+  "titles": {
+    "default": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.: Menma e no Tegami",
+    "romaji": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.: Menma e no Tegami",
+    "native": "あの日見た花の名前を僕達はまだ知らない。「めんまへの手紙」"
+  },
+  "synonyms": [
+    "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.: Menma e no Tegami",
+    "あの日見た花の名前を僕達はまだ知らない。「めんまへの手紙」",
+    "We Still Don't Know the Name of the Flower We Saw That Day.: Letter to Menma",
+    "Sayonara Zetsubou Sensei Special Omake",
+    "さよなら絶望先生",
+    "Sayonara Zetsubou Sensei BD Box Special Omake"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b107342-CohOnqdwuycN.png"
+  ],
+  "references": {
+    "al": {
+      "id": "107342",
+      "url": "https://anilist.co/anime/107342"
+    },
+    "k": {
+      "id": "7001",
+      "url": "https://kitsu.io/anime/7001"
+    },
+    "mal": {
+      "id": "38963",
+      "url": "https://myanimelist.net/anime/38963"
+    }
+  }
+}

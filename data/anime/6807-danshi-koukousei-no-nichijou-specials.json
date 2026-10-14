@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6807,
+  "slug": "danshi-koukousei-no-nichijou-specials",
+  "kind": "anime",
+  "title": "Danshi Koukousei no Nichijou Specials",
+  "titles": {
+    "default": "Danshi Koukousei no Nichijou Specials",
+    "romaji": "Danshi Koukousei no Nichijou Specials",
+    "english": "Daily Lives of High School Boys Specials",
+    "native": "男子高校生の日常"
+  },
+  "synonyms": [
+    "Danshi Koukousei no Nichijou Specials",
+    "Daily Lives of High School Boys Specials",
+    "男子高校生の日常"
+  ],
+  "type": "special",
+  "episodes": 6,
+  "status": "finished",
+  "season": "spring",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12893-wmSNdidw29ZJ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "12893",
+      "url": "https://anilist.co/anime/12893"
+    },
+    "k": {
+      "id": "6839",
+      "url": "https://kitsu.io/anime/6839"
+    },
+    "mal": {
+      "id": "12893",
+      "url": "https://myanimelist.net/anime/12893"
+    }
+  }
+}

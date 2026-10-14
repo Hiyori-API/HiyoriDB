@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11974,
+  "slug": "etopirika-omoi-wo-tsumugu-tori",
+  "kind": "anime",
+  "title": "Etopirika: Omoi wo Tsumugu Tori",
+  "titles": {
+    "default": "Etopirika: Omoi wo Tsumugu Tori",
+    "romaji": "Etopirika: Omoi wo Tsumugu Tori",
+    "native": "エトピリカ～想いを紡ぐ鳥～"
+  },
+  "synonyms": [
+    "Etopirika: Omoi wo Tsumugu Tori",
+    "エトピリカ～想いを紡ぐ鳥～",
+    "Etopirika ~A bird that spins thoughts~",
+    "Our Jury Story",
+    "Bokura no Saibanin Monogatari",
+    "ぼくらの裁判員物語"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b170056-kZefg52oBUi4.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "170056",
+      "url": "https://anilist.co/anime/170056"
+    },
+    "k": {
+      "id": "4614",
+      "url": "https://kitsu.io/anime/4614"
+    },
+    "mal": {
+      "id": "59200",
+      "url": "https://myanimelist.net/anime/59200"
+    }
+  }
+}

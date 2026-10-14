@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8413,
+  "slug": "mahou-shoujo-madoka-magica-concept-movie",
+  "kind": "anime",
+  "title": "Mahou Shoujo Madoka★Magica: Concept Movie",
+  "titles": {
+    "default": "Mahou Shoujo Madoka★Magica: Concept Movie",
+    "romaji": "Mahou Shoujo Madoka★Magica: Concept Movie",
+    "english": "Puella Magi Madoka Magica Concept Movie",
+    "native": "魔法少女まどか★マギカ コンセプトムービー"
+  },
+  "synonyms": [
+    "Mahou Shoujo Madoka★Magica: Concept Movie",
+    "Puella Magi Madoka Magica Concept Movie",
+    "魔法少女まどか★マギカ コンセプトムービー",
+    "Little Witch Academia: The Enchanted Parade",
+    "Little Witch Academia: Mahoujikake no Parade",
+    "リトルウィッチアカデミア 魔法仕掛けのパレード",
+    "LWA 2",
+    "Little Witch Academia 2"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx101090-2UAWFh1VlRrk.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101090",
+      "url": "https://anilist.co/anime/101090"
+    },
+    "k": {
+      "id": "7862",
+      "url": "https://kitsu.io/anime/7862"
+    },
+    "mal": {
+      "id": "32153",
+      "url": "https://myanimelist.net/anime/32153"
+    }
+  }
+}

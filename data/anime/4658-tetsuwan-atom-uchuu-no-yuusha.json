@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4658,
+  "slug": "tetsuwan-atom-uchuu-no-yuusha",
+  "kind": "anime",
+  "title": "Tetsuwan Atom: Uchuu no Yuusha",
+  "titles": {
+    "default": "Tetsuwan Atom: Uchuu no Yuusha",
+    "romaji": "Tetsuwan Atom: Uchuu no Yuusha",
+    "english": "Astro Boy: The Brave in Space",
+    "native": "鉄腕アトム 宇宙の勇者"
+  },
+  "synonyms": [
+    "Tetsuwan Atom: Uchuu no Yuusha",
+    "Astro Boy: The Brave in Space",
+    "鉄腕アトム 宇宙の勇者"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1964,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10342-KNADJFNsd8dv.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10342",
+      "url": "https://anilist.co/anime/10342"
+    },
+    "k": {
+      "id": "6136",
+      "url": "https://kitsu.io/anime/6136"
+    },
+    "mal": {
+      "id": "10342",
+      "url": "https://myanimelist.net/anime/10342"
+    }
+  }
+}

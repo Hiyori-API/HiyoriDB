@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15831,
+  "slug": "triage-x",
+  "kind": "manga",
+  "title": "Triage X",
+  "titles": {
+    "default": "Triage X"
+  },
+  "synonyms": [
+    "Toriaaji X",
+    "Triage X",
+    "トリアージX",
+    "Gakuen Babysitters",
+    "学園ベビーシッターズ",
+    "School Babysitters"
+  ],
+  "type": "manga",
+  "status": "publishing",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx44018-LfDPOS5Crryd.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21338",
+      "url": "https://anilist.co/anime/20839"
+    },
+    "al_manga": {
+      "id": "21338",
+      "url": "https://anilist.co/manga/21338"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5075,
+  "slug": "ajin-senshi",
+  "kind": "anime",
+  "title": "Ajin Senshi",
+  "titles": {
+    "default": "Ajin Senshi",
+    "romaji": "Ajin Senshi",
+    "native": "亜人戦士"
+  },
+  "synonyms": [
+    "Ajin Senshi",
+    "亜人戦士"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17325.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "17325",
+      "url": "https://anilist.co/anime/17325"
+    },
+    "k": {
+      "id": "8677",
+      "url": "https://kitsu.io/anime/8677"
+    },
+    "mal": {
+      "id": "17325",
+      "url": "https://myanimelist.net/anime/17325"
+    }
+  }
+}

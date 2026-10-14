@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 308,
+  "slug": "versailles-no-bara",
+  "kind": "anime",
+  "title": "Versailles no Bara",
+  "titles": {
+    "default": "Versailles no Bara",
+    "romaji": "Versailles no Bara",
+    "english": "Lady Oscar: The Rose of Versailles",
+    "native": "ベルサイユのばら"
+  },
+  "synonyms": [
+    "Versailles no Bara",
+    "Lady Oscar: The Rose of Versailles",
+    "ベルサイユのばら",
+    "Berusaiyu no Bara",
+    "The Rose of Versailles",
+    "Lady Oscar",
+    "Lady Oscar: Róża Wersalu"
+  ],
+  "type": "tv",
+  "episodes": 40,
+  "status": "finished",
+  "season": "fall",
+  "year": 1979,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx338-dyRsnLdTLZGM.png"
+  ],
+  "references": {
+    "al": {
+      "id": "338",
+      "url": "https://anilist.co/anime/338"
+    },
+    "ap": {
+      "id": "B09KGCTYBG",
+      "url": "https://www.amazon.com/gp/video/detail/B09KGCTYBG"
+    },
+    "cr": {
+      "id": "the-rose-of-versailles",
+      "url": "https://www.crunchyroll.com/series/the-rose-of-versailles"
+    },
+    "k": {
+      "id": "305",
+      "url": "https://kitsu.io/anime/305"
+    },
+    "mal": {
+      "id": "338",
+      "url": "https://myanimelist.net/anime/338"
+    },
+    "t": {
+      "id": "62169",
+      "url": "https://trakt.tv/shows/62169"
+    }
+  }
+}

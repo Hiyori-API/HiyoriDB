@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3668,
+  "slug": "kyou-no-go-no-ni-2008",
+  "kind": "anime",
+  "title": "Kyou no Go no Ni (2008)",
+  "titles": {
+    "default": "Kyou no Go no Ni (2008)",
+    "romaji": "Kyou no Go no Ni (2008)",
+    "native": "今日の５の２ (2008)"
+  },
+  "synonyms": [
+    "Kyou no Go no Ni (2008)",
+    "今日の５の２ (2008)",
+    "Kyou no Go no Ni (TV)",
+    "Today in Class 5-2 (2008)",
+    "Birdy the Mighty: Decode",
+    "Tetsuwan Birdy Decode",
+    "鉄腕バーディー (2008)",
+    "Tetsuwan Birdy (2008)",
+    "Birdy the Mighty TV"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4903-cmGls7HRpqVP.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4903",
+      "url": "https://anilist.co/anime/4903"
+    },
+    "k": {
+      "id": "3389",
+      "url": "https://kitsu.io/anime/3389"
+    },
+    "mal": {
+      "id": "4903",
+      "url": "https://myanimelist.net/anime/4903"
+    },
+    "t": {
+      "id": "37107",
+      "url": "https://trakt.tv/shows/37107"
+    }
+  }
+}

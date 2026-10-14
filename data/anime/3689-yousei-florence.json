@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3689,
+  "slug": "yousei-florence",
+  "kind": "anime",
+  "title": "Yousei Florence",
+  "titles": {
+    "default": "Yousei Florence",
+    "romaji": "Yousei Florence",
+    "english": "A Journey Through Fairyland",
+    "native": "妖精フローレンス"
+  },
+  "synonyms": [
+    "Yousei Florence",
+    "A Journey Through Fairyland",
+    "妖精フローレンス",
+    "Fairy Florence",
+    "Viaggio nella fantasia",
+    "Florence y Michael en el mundo de la fantasía",
+    "Yosei Florence"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4943-VkdINm8ZCIOT.png"
+  ],
+  "references": {
+    "al": {
+      "id": "4943",
+      "url": "https://anilist.co/anime/4943"
+    },
+    "k": {
+      "id": "3863",
+      "url": "https://kitsu.io/anime/3863"
+    },
+    "mal": {
+      "id": "4943",
+      "url": "https://myanimelist.net/anime/4943"
+    }
+  }
+}

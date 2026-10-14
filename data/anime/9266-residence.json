@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9266,
+  "slug": "residence",
+  "kind": "anime",
+  "title": "Residence",
+  "titles": {
+    "default": "Residence",
+    "romaji": "Residence",
+    "native": "レジデンス"
+  },
+  "synonyms": [
+    "Residence",
+    "レジデンス",
+    "Angel Sanctuary",
+    "Tenshi Kinryouku",
+    "天使禁猟区"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "spring",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98623-7not5FUm5ENz.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98623",
+      "url": "https://anilist.co/anime/98623"
+    },
+    "k": {
+      "id": "32",
+      "url": "https://kitsu.io/anime/32"
+    },
+    "mal": {
+      "id": "35446",
+      "url": "https://myanimelist.net/anime/35446"
+    },
+    "ttv": {
+      "id": "2381",
+      "url": "https://tubitv.com/series/2381"
+    }
+  }
+}

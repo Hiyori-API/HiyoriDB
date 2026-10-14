@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5390,
+  "slug": "kikansha-sensei",
+  "kind": "anime",
+  "title": "Kikansha Sensei",
+  "titles": {
+    "default": "Kikansha Sensei",
+    "romaji": "Kikansha Sensei",
+    "native": "機関車先生"
+  },
+  "synonyms": [
+    "Kikansha Sensei",
+    "機関車先生",
+    "Teacher Tank Engine",
+    "Locomotive Teacher"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b159417-nBvjbR5TfEZd.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "159417",
+      "url": "https://anilist.co/anime/159417"
+    },
+    "k": {
+      "id": "9383",
+      "url": "https://kitsu.io/anime/9383"
+    },
+    "mal": {
+      "id": "23085",
+      "url": "https://myanimelist.net/anime/23085"
+    }
+  }
+}

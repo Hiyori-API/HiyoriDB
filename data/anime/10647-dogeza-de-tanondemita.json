@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10647,
+  "slug": "dogeza-de-tanondemita",
+  "kind": "anime",
+  "title": "Dogeza de Tanondemita",
+  "titles": {
+    "default": "Dogeza de Tanondemita",
+    "romaji": "Dogeza de Tanondemita",
+    "english": "<DOGEZA>I Tried Asking While Kowtowing.",
+    "native": "土下座で頼んでみた"
+  },
+  "synonyms": [
+    "Dogeza de Tanondemita",
+    "<DOGEZA>I Tried Asking While Kowtowing.",
+    "土下座で頼んでみた",
+    "I Tried Asking In Dogeza",
+    "Ring ni Kakero 1",
+    "リングにかけろ１",
+    "Put it all in the Ring"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122137-wqDaJxQWVXaa.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "122137",
+      "url": "https://anilist.co/anime/122137"
+    },
+    "cr": {
+      "id": "dogezai-tried-asking-while-kowtowing/",
+      "url": "https://www.crunchyroll.com/series/dogezai-tried-asking-while-kowtowing/"
+    },
+    "k": {
+      "id": "14",
+      "url": "https://kitsu.io/anime/14"
+    },
+    "mal": {
+      "id": "42571",
+      "url": "https://myanimelist.net/anime/42571"
+    },
+    "t": {
+      "id": "69507",
+      "url": "https://trakt.tv/shows/69507"
+    },
+    "tx": {
+      "id": "dgz_anime",
+      "url": "https://twitter.com/dgz_anime"
+    }
+  }
+}

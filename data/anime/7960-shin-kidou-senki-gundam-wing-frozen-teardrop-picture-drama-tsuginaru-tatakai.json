@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7960,
+  "slug": "shin-kidou-senki-gundam-wing-frozen-teardrop-picture-drama-tsuginaru-tatakai",
+  "kind": "anime",
+  "title": "Shin Kidou Senki Gundam Wing: Frozen Teardrop Picture Drama - Tsuginaru Tatakai",
+  "titles": {
+    "default": "Shin Kidou Senki Gundam Wing: Frozen Teardrop Picture Drama - Tsuginaru Tatakai",
+    "romaji": "Shin Kidou Senki Gundam Wing: Frozen Teardrop Picture Drama - Tsuginaru Tatakai",
+    "native": "新機動戦記ガンダムW Frozen Teardrop ピクチャードラマ - 次なる戦い"
+  },
+  "synonyms": [
+    "Shin Kidou Senki Gundam Wing: Frozen Teardrop Picture Drama - Tsuginaru Tatakai",
+    "新機動戦記ガンダムW Frozen Teardrop ピクチャードラマ - 次なる戦い",
+    "New Mobile Report Gundam Wing: Frozen Teardrop Picture Drama - Aratanaru Tatakai",
+    "新機動戦記ガンダムW Frozen Teardrop ピクチャードラマ",
+    "Mobile Suit Gundam Wing: Frozen Teardrop Picture Drama - Aratanaru Tatakai",
+    "Mobile Suit Gundam Wing: Frozen Teardrop Picture Drama - A New Battle"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n107188-8FnkBJrUDSs0.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "107188",
+      "url": "https://anilist.co/anime/107188"
+    },
+    "k": {
+      "id": "8603",
+      "url": "https://kitsu.io/anime/8603"
+    },
+    "mal": {
+      "id": "22435",
+      "url": "https://myanimelist.net/anime/22435"
+    }
+  }
+}

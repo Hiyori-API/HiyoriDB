@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14728,
+  "slug": "ore-wa-chokkaku",
+  "kind": "manga",
+  "title": "Ore wa Chokkaku",
+  "titles": {
+    "default": "Ore wa Chokkaku"
+  },
+  "synonyms": [
+    "おれは直角",
+    "Onward Towards Our Noble Deaths",
+    "Souin Gyokusai seyo!",
+    "総員玉砕せよ！",
+    "The Banzai! Charge",
+    "Operation Death",
+    "Opération Mort",
+    "Let us all die honorably!"
+  ],
+  "type": "manga",
+  "chapters": 52,
+  "volumes": 14,
+  "status": "finished",
+  "year": 1973,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx88240-7g7sRumX2VYj.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "19831",
+      "url": "https://anilist.co/anime/19831"
+    },
+    "al_manga": {
+      "id": "19831",
+      "url": "https://anilist.co/manga/19831"
+    }
+  }
+}

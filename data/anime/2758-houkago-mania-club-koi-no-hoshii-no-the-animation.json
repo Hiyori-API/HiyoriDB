@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2758,
+  "slug": "houkago-mania-club-koi-no-hoshii-no-the-animation",
+  "kind": "anime",
+  "title": "Houkago Mania Club: Koi no Hoshii no - THE ANIMATION",
+  "titles": {
+    "default": "Houkago Mania Club: Koi no Hoshii no - THE ANIMATION",
+    "romaji": "Houkago Mania Club: Koi no Hoshii no - THE ANIMATION",
+    "english": "After School Mania Club",
+    "native": "放課後マニア倶楽部 -濃いの欲しいの- THE ANIMATION"
+  },
+  "synonyms": [
+    "Houkago Mania Club: Koi no Hoshii no - THE ANIMATION",
+    "After School Mania Club",
+    "放課後マニア倶楽部 -濃いの欲しいの- THE ANIMATION",
+    "Houkago Renai Club",
+    "El club de las pervertidas",
+    "Submarine 707R",
+    "サブマリン707R",
+    "Submarine 707 Revolution",
+    "Okret podwodny 707"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3160.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3160",
+      "url": "https://anilist.co/anime/3160"
+    },
+    "k": {
+      "id": "1422",
+      "url": "https://kitsu.io/anime/1422"
+    },
+    "mal": {
+      "id": "3160",
+      "url": "https://myanimelist.net/anime/3160"
+    }
+  }
+}

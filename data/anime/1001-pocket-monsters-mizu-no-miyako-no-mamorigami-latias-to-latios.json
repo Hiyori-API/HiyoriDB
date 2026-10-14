@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1001,
+  "slug": "pocket-monsters-mizu-no-miyako-no-mamorigami-latias-to-latios",
+  "kind": "anime",
+  "title": "Pocket Monsters: Mizu no Miyako no Mamorigami Latias to Latios",
+  "titles": {
+    "default": "Pocket Monsters: Mizu no Miyako no Mamorigami Latias to Latios",
+    "romaji": "Pocket Monsters: Mizu no Miyako no Mamorigami Latias to Latios",
+    "english": "Pokémon Heroes",
+    "native": "劇場版ポケットモンスター 水の都の護神 ラティアスとラティオス"
+  },
+  "synonyms": [
+    "Pocket Monsters: Mizu no Miyako no Mamorigami Latias to Latios",
+    "Pokémon Heroes",
+    "劇場版ポケットモンスター 水の都の護神 ラティアスとラティオス",
+    "Pokemon Movie 5",
+    "Pokémon Heroes: Latios and Latias",
+    "Pokémon Helter: Latios og Latias",
+    "Pokémon 5: Les Héros Pokémon:",
+    "Pokémon 5: Bohaterowie",
+    "Sore Ike! Anpanman: Tekka no Maki-chan to Kin no Kamameshidon",
+    "それいけ！アンパンマン　鉄火のマキちゃんと金のかまめしどん"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1120-dSMPMrXYWlER.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1120",
+      "url": "https://anilist.co/anime/1120"
+    },
+    "k": {
+      "id": "9627",
+      "url": "https://kitsu.io/anime/9627"
+    },
+    "mal": {
+      "id": "1120",
+      "url": "https://myanimelist.net/anime/1120"
+    }
+  }
+}

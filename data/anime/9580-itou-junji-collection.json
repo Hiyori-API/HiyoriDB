@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9580,
+  "slug": "itou-junji-collection",
+  "kind": "anime",
+  "title": "Itou Junji: Collection",
+  "titles": {
+    "default": "Itou Junji: Collection",
+    "romaji": "Itou Junji: Collection",
+    "english": "Junji Ito Collection",
+    "native": "伊藤潤二「コレクション」"
+  },
+  "synonyms": [
+    "Itou Junji: Collection",
+    "Junji Ito Collection",
+    "伊藤潤二「コレクション」",
+    "จุนจิ อิโต้ คอลเลคชั่นสยอง",
+    "High Score Girl",
+    "ハイスコアガール",
+    "Hi Score Girl"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx99940-pxsliSVHi0sj.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "99940",
+      "url": "https://anilist.co/anime/99940"
+    },
+    "cr": {
+      "id": "junji-ito-collection",
+      "url": "https://www.crunchyroll.com/series/junji-ito-collection"
+    },
+    "k": {
+      "id": "8158",
+      "url": "https://kitsu.io/anime/8158"
+    },
+    "mal": {
+      "id": "36124",
+      "url": "https://myanimelist.net/anime/36124"
+    },
+    "nf": {
+      "id": "80997338",
+      "url": "https://www.netflix.com/title/80997338"
+    },
+    "tx": {
+      "id": "itojunji_anime",
+      "url": "https://twitter.com/itojunji_anime"
+    }
+  }
+}

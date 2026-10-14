@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10134,
+  "slug": "karakai-jouzu-no-takagi-san-2",
+  "kind": "anime",
+  "title": "Karakai Jouzu no Takagi-san 2",
+  "titles": {
+    "default": "Karakai Jouzu no Takagi-san 2",
+    "romaji": "Karakai Jouzu no Takagi-san 2",
+    "english": "Teasing Master Takagi-san Season 2",
+    "native": "からかい上手の高木さん 2"
+  },
+  "synonyms": [
+    "Karakai Jouzu no Takagi-san 2",
+    "Teasing Master Takagi-san Season 2",
+    "からかい上手の高木さん 2",
+    "Skilled Teaser Takagi-san 2nd Season",
+    "טאקאגי-סאן אלופת ההקנטות 2",
+    "Nhất quỷ Nhì ma, Thứ ba Takagi 2",
+    "แกล้งนัก รักนะ รู้ยัง ภาค 2",
+    "Takagi-san, experta en bromas pesadas",
+    "Nicht schon wieder, Takagi-san",
+    "Karakai Jouzu no Takagi-san Second Season",
+    "Teasing Master Takagi-san 2",
+    "からかい上手の高木さん2"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx107068-KJq0eFP0GTjL.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "107068",
+      "url": "https://anilist.co/anime/107068"
+    },
+    "mal": {
+      "id": "38993",
+      "url": "https://myanimelist.net/anime/38993"
+    },
+    "nf": {
+      "id": "80228274",
+      "url": "https://www.netflix.com/title/80228274"
+    },
+    "tx": {
+      "id": "takagi3_anime",
+      "url": "https://twitter.com/takagi3_anime"
+    }
+  }
+}

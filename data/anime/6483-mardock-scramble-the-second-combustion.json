@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6483,
+  "slug": "mardock-scramble-the-second-combustion",
+  "kind": "anime",
+  "title": "Mardock Scramble: The Second Combustion",
+  "titles": {
+    "default": "Mardock Scramble: The Second Combustion",
+    "romaji": "Mardock Scramble: The Second Combustion",
+    "native": "マルドゥック・スクランブル 燃焼"
+  },
+  "synonyms": [
+    "Mardock Scramble: The Second Combustion",
+    "マルドゥック・スクランブル 燃焼",
+    "Towanoquon: Eternal Quon",
+    "Towa no Quon 6: Towa no Quon",
+    "トワノクオン 第６章 永久の久遠"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10624-T1BA3M26ZfsE.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10624",
+      "url": "https://anilist.co/anime/10624"
+    },
+    "k": {
+      "id": "6314",
+      "url": "https://kitsu.io/anime/6314"
+    },
+    "mal": {
+      "id": "10624",
+      "url": "https://myanimelist.net/anime/10624"
+    }
+  }
+}

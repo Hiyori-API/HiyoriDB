@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4252,
+  "slug": "pok-mon-fushigi-no-dungeon-sora-no-tankentai-toki-to-yami-wo-meguru-saigo-no-bouken",
+  "kind": "anime",
+  "title": "Pokémon Fushigi no Dungeon: Sora no Tankentai - Toki to Yami wo Meguru Saigo no Bouken",
+  "titles": {
+    "default": "Pokémon Fushigi no Dungeon: Sora no Tankentai - Toki to Yami wo Meguru Saigo no Bouken",
+    "romaji": "Pokémon Fushigi no Dungeon: Sora no Tankentai - Toki to Yami wo Meguru Saigo no Bouken",
+    "english": "Pokémon Mystery Dungeon: Explorers of Sky—Beyond Time and Darkness",
+    "native": "ポケモン不思議のダンジョン 空の探検隊～時と闇をめぐる最後の冒険～"
+  },
+  "synonyms": [
+    "Pokémon Fushigi no Dungeon: Sora no Tankentai - Toki to Yami wo Meguru Saigo no Bouken",
+    "Pokémon Mystery Dungeon: Explorers of Sky—Beyond Time and Darkness",
+    "ポケモン不思議のダンジョン 空の探検隊～時と闇をめぐる最後の冒険～",
+    "Pokemon Mystery Dungeon: The Final Adventure Through Time and Darkness",
+    "Pokemon Fushigi no Dungeon: Sora no Tankentai - Toki to Yami wo Meguru Saigo no Bouken",
+    "Pokemon Mystery Dungeon: Explorers of the Sky"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6275-e2gGJjSwKZr8.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6275",
+      "url": "https://anilist.co/anime/6275"
+    },
+    "k": {
+      "id": "4502",
+      "url": "https://kitsu.io/anime/4502"
+    },
+    "mal": {
+      "id": "6275",
+      "url": "https://myanimelist.net/anime/6275"
+    },
+    "yt": {
+      "id": "y5wGtHkCY0Y",
+      "url": "https://www.youtube.com/watch?v=y5wGtHkCY0Y"
+    }
+  }
+}

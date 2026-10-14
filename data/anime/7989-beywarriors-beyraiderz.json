@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7989,
+  "slug": "beywarriors-beyraiderz",
+  "kind": "anime",
+  "title": "BeyWarriors: BeyRaiderz",
+  "titles": {
+    "default": "BeyWarriors: BeyRaiderz",
+    "romaji": "BeyWarriors: BeyRaiderz",
+    "native": "ベイウォーリアーズ ベイレイダーズ"
+  },
+  "synonyms": [
+    "BeyWarriors: BeyRaiderz",
+    "ベイウォーリアーズ ベイレイダーズ",
+    "BeyRaiderz Shogun",
+    "The Pilot's Love Song",
+    "Toaru Hikuushi e no Koiuta",
+    "とある飛空士への恋歌",
+    "Love Song of a Certain Pilot"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b138985-nwMrwpLP5z0P.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "138985",
+      "url": "https://anilist.co/anime/138985"
+    },
+    "cr": {
+      "id": "the-pilots-love-song",
+      "url": "https://www.crunchyroll.com/series/the-pilots-love-song"
+    },
+    "k": {
+      "id": "7770",
+      "url": "https://kitsu.io/anime/7770"
+    },
+    "mal": {
+      "id": "19117",
+      "url": "https://myanimelist.net/anime/19117"
+    },
+    "t": {
+      "id": "72244",
+      "url": "https://trakt.tv/shows/72244"
+    }
+  }
+}

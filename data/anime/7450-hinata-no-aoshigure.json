@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7450,
+  "slug": "hinata-no-aoshigure",
+  "kind": "anime",
+  "title": "Hinata no Aoshigure",
+  "titles": {
+    "default": "Hinata no Aoshigure",
+    "romaji": "Hinata no Aoshigure",
+    "native": "陽なたのアオシグレ"
+  },
+  "synonyms": [
+    "Hinata no Aoshigure",
+    "陽なたのアオシグレ",
+    "Sonny Boy & Dewdrop Girl",
+    "Rain in the Sunshine"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20471-jOnMB6MGPtvQ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "20471",
+      "url": "https://anilist.co/anime/20471"
+    },
+    "k": {
+      "id": "8080",
+      "url": "https://kitsu.io/anime/8080"
+    },
+    "mal": {
+      "id": "20673",
+      "url": "https://myanimelist.net/anime/20673"
+    }
+  }
+}

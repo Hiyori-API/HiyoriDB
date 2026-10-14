@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 145,
+  "slug": "samurai-7",
+  "kind": "anime",
+  "title": "Samurai 7",
+  "titles": {
+    "default": "Samurai 7",
+    "romaji": "Samurai 7",
+    "native": "サムライセブン"
+  },
+  "synonyms": [
+    "Samurai 7",
+    "サムライセブン",
+    "Samurai Seven",
+    "Siedmiu samurajów",
+    "Otogi Zoshi: The Legend of Magatama",
+    "Otogizoushi",
+    "お伽草子"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "summer",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166-aKHPMNS3oGQW.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "166",
+      "url": "https://anilist.co/anime/166"
+    },
+    "cr": {
+      "id": "samurai-7",
+      "url": "https://www.crunchyroll.com/series/samurai-7"
+    },
+    "k": {
+      "id": "484",
+      "url": "https://kitsu.io/anime/484"
+    },
+    "mal": {
+      "id": "166",
+      "url": "https://myanimelist.net/anime/166"
+    },
+    "nf": {
+      "id": "70205019",
+      "url": "https://www.netflix.com/title/70205019"
+    },
+    "t": {
+      "id": "34590",
+      "url": "https://trakt.tv/shows/34590"
+    }
+  }
+}

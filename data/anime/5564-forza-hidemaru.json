@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5564,
+  "slug": "forza-hidemaru",
+  "kind": "anime",
+  "title": "Forza! Hidemaru",
+  "titles": {
+    "default": "Forza! Hidemaru",
+    "romaji": "Forza! Hidemaru",
+    "native": "フォルツァ！ひでまる"
+  },
+  "synonyms": [
+    "Forza! Hidemaru",
+    "フォルツァ！ひでまる",
+    "Go for It! Hidemaru",
+    "Go for It! Mario",
+    "Forza! Mario",
+    "Forutsa! Mario",
+    "Forutsa! Hidemaru"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18005.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "18005",
+      "url": "https://anilist.co/anime/18005"
+    },
+    "k": {
+      "id": "9262",
+      "url": "https://kitsu.io/anime/9262"
+    },
+    "mal": {
+      "id": "18005",
+      "url": "https://myanimelist.net/anime/18005"
+    }
+  }
+}

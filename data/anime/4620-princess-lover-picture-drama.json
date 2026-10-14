@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4620,
+  "slug": "princess-lover-picture-drama",
+  "kind": "anime",
+  "title": "Princess Lover! Picture Drama",
+  "titles": {
+    "default": "Princess Lover! Picture Drama",
+    "romaji": "Princess Lover! Picture Drama",
+    "native": "プリンセスラバー!"
+  },
+  "synonyms": [
+    "Princess Lover! Picture Drama",
+    "プリンセスラバー!"
+  ],
+  "type": "special",
+  "episodes": 6,
+  "status": "finished",
+  "season": "fall",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7468.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7468",
+      "url": "https://anilist.co/anime/7468"
+    },
+    "k": {
+      "id": "4987",
+      "url": "https://kitsu.io/anime/4987"
+    },
+    "mal": {
+      "id": "7468",
+      "url": "https://myanimelist.net/anime/7468"
+    }
+  }
+}

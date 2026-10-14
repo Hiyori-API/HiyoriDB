@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13784,
+  "slug": "gals",
+  "kind": "manga",
+  "title": "GALS!",
+  "titles": {
+    "default": "GALS!"
+  },
+  "synonyms": [
+    "Super Gals!",
+    "ギャルズ",
+    "GALS!",
+    "Love Hina",
+    "ラブひな"
+  ],
+  "type": "manga",
+  "chapters": 48,
+  "volumes": 10,
+  "status": "finished",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30089-GhAXx8Re8nRm.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1728",
+      "url": "https://anilist.co/anime/1728"
+    },
+    "al_manga": {
+      "id": "1728",
+      "url": "https://anilist.co/manga/1728"
+    }
+  }
+}

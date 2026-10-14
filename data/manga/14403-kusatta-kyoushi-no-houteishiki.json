@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14403,
+  "slug": "kusatta-kyoushi-no-houteishiki",
+  "kind": "manga",
+  "title": "Kusatta Kyoushi no Houteishiki",
+  "titles": {
+    "default": "Kusatta Kyoushi no Houteishiki"
+  },
+  "synonyms": [
+    "Bad Teacher Equation",
+    "Rotten Teacher's Equation",
+    "Kiss Me, Teacher",
+    "Bésame profe",
+    "Pessima equazione dell'insegnante",
+    "酷哥老師方程式",
+    "Bícame Profe",
+    "Bad Teacher's Equation",
+    "腐った教師の方程式",
+    "Dismember",
+    "Kaitai",
+    "解体"
+  ],
+  "type": "manga",
+  "chapters": 47,
+  "volumes": 10,
+  "status": "finished",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33359-Bt8cuTOiI7zg.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1909",
+      "url": "https://anilist.co/anime/1909"
+    },
+    "al_manga": {
+      "id": "1909",
+      "url": "https://anilist.co/manga/1909"
+    }
+  }
+}

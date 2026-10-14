@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2588,
+  "slug": "ryokan-shirasagi",
+  "kind": "anime",
+  "title": "Ryokan Shirasagi",
+  "titles": {
+    "default": "Ryokan Shirasagi",
+    "romaji": "Ryokan Shirasagi",
+    "english": "Swallowtail Inn",
+    "native": "旅館白鷺"
+  },
+  "synonyms": [
+    "Ryokan Shirasagi",
+    "Swallowtail Inn",
+    "旅館白鷺",
+    "Shirakigi Hotel",
+    "White Heron Inn",
+    "Shirasagi Inn First Night",
+    "Eiken",
+    "Eiken: Eikenbu yori Ai wo Komete",
+    "エイケン エイケンヴより愛をこめて"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2935.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2935",
+      "url": "https://anilist.co/anime/2935"
+    },
+    "k": {
+      "id": "703",
+      "url": "https://kitsu.io/anime/703"
+    },
+    "mal": {
+      "id": "2935",
+      "url": "https://myanimelist.net/anime/2935"
+    }
+  }
+}

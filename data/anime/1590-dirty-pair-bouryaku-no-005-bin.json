@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1590,
+  "slug": "dirty-pair-bouryaku-no-005-bin",
+  "kind": "anime",
+  "title": "Dirty Pair: Bouryaku no 005-bin",
+  "titles": {
+    "default": "Dirty Pair: Bouryaku no 005-bin",
+    "romaji": "Dirty Pair: Bouryaku no 005-bin",
+    "english": "Dirty Pair: Flight 005 Conspiracy",
+    "native": "ダーティペア 謀略の005便"
+  },
+  "synonyms": [
+    "Dirty Pair: Bouryaku no 005-bin",
+    "Dirty Pair: Flight 005 Conspiracy",
+    "ダーティペア 謀略の005便",
+    "Dirty Pair: Verschwörung um Flug 005",
+    "Original Dirty Pair: Flight 005 Conspiracy",
+    "ダーティペア　謀略の００５便"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx1795-jCzXyUdnXo84.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1795",
+      "url": "https://anilist.co/anime/1795"
+    },
+    "k": {
+      "id": "1615",
+      "url": "https://kitsu.io/anime/1615"
+    },
+    "mal": {
+      "id": "1795",
+      "url": "https://myanimelist.net/anime/1795"
+    },
+    "yt": {
+      "id": "1iP7z49Z2to",
+      "url": "https://www.youtube.com/watch?v=1iP7z49Z2to"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14486,
+  "slug": "canvas-2-niji-iro-no-sketch",
+  "kind": "manga",
+  "title": "Canvas 2: Niji-iro no Sketch",
+  "titles": {
+    "default": "Canvas 2: Niji-iro no Sketch"
+  },
+  "synonyms": [
+    "Canvas2 ～虹色のスケッチ～",
+    "Guardian Dog"
+  ],
+  "type": "manga",
+  "chapters": 25,
+  "volumes": 4,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4105.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "694",
+      "url": "https://anilist.co/anime/694"
+    },
+    "al_manga": {
+      "id": "694",
+      "url": "https://anilist.co/manga/694"
+    }
+  }
+}

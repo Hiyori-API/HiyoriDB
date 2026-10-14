@@ -1,0 +1,58 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7701,
+  "slug": "seirei-tsukai-no-blade-dance",
+  "kind": "anime",
+  "title": "Seirei Tsukai no Blade Dance",
+  "titles": {
+    "default": "Seirei Tsukai no Blade Dance",
+    "romaji": "Seirei Tsukai no Blade Dance",
+    "english": "Blade Dance of the Elementalers",
+    "native": "精霊使いの剣舞【ブレイドダンス】"
+  },
+  "synonyms": [
+    "Seirei Tsukai no Blade Dance",
+    "Blade Dance of the Elementalers",
+    "精霊使いの剣舞【ブレイドダンス】",
+    "Seirei Tsukai no Kenbu: Blade Dance",
+    "Seireitsukai no Blade Dance",
+    "精霊使いの剣舞〈ブレイドダンス〉",
+    "Seirei Tsukai no Kenbu",
+    "Seirei Tsukai no Kembu",
+    "Bladedance of Elementalers"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20663-8vTzInvb2Nxr.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "20663",
+      "url": "https://anilist.co/anime/20663"
+    },
+    "cr": {
+      "id": "bladedance-of-elementalers",
+      "url": "https://www.crunchyroll.com/series/bladedance-of-elementalers"
+    },
+    "k": {
+      "id": "7878",
+      "url": "https://kitsu.io/anime/7878"
+    },
+    "mal": {
+      "id": "22877",
+      "url": "https://myanimelist.net/anime/22877"
+    },
+    "t": {
+      "id": "60791",
+      "url": "https://trakt.tv/shows/60791"
+    },
+    "tx": {
+      "id": "blade_anime",
+      "url": "https://twitter.com/blade_anime"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14726,
+  "slug": "cutey-honey",
+  "kind": "manga",
+  "title": "Cutey Honey",
+  "titles": {
+    "default": "Cutey Honey"
+  },
+  "synonyms": [
+    "Cutie Honey: The Origin",
+    "キューティーハニー70's",
+    "Cutie Honey: The Classic Collection",
+    "キューティーハニー　ＴＨＥ　ＦＩＲＳＴ",
+    "キューティーハニー　Ｔｈｅ　Ｏｒｉｇｉｎ",
+    "Cutie Honey",
+    "キューティーハニー",
+    "Onward Towards Our Noble Deaths",
+    "Souin Gyokusai seyo!",
+    "総員玉砕せよ！",
+    "The Banzai! Charge",
+    "Operation Death",
+    "Opération Mort",
+    "Let us all die honorably!"
+  ],
+  "type": "manga",
+  "chapters": 24,
+  "volumes": 2,
+  "status": "finished",
+  "year": 1973,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx86168-Tfqk9W7O80h4.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "100814",
+      "url": "https://anilist.co/anime/1661"
+    },
+    "al_manga": {
+      "id": "100814",
+      "url": "https://anilist.co/manga/100814"
+    }
+  }
+}

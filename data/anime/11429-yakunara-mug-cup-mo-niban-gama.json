@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11429,
+  "slug": "yakunara-mug-cup-mo-niban-gama",
+  "kind": "anime",
+  "title": "Yakunara Mug Cup Mo: Niban Gama",
+  "titles": {
+    "default": "Yakunara Mug Cup Mo: Niban Gama",
+    "romaji": "Yakunara Mug Cup Mo: Niban Gama",
+    "english": "Let's Make a Mug Too 2",
+    "native": "やくならマグカップも 二番窯"
+  },
+  "synonyms": [
+    "Yakunara Mug Cup Mo: Niban Gama",
+    "Let's Make a Mug Too 2",
+    "やくならマグカップも 二番窯",
+    "วัยฝันปั้นแก้วมัค ภาค 2",
+    "Yakunara Mug Cup Mo 2nd Season",
+    "Ring ni Kakero 1",
+    "リングにかけろ１",
+    "Put it all in the Ring"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx135939-ghkWy9Q0MqTe.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "135939",
+      "url": "https://anilist.co/anime/135939"
+    },
+    "cr": {
+      "id": "series/GQWH0M434/Lets-Make-a-Mug-Too",
+      "url": "https://www.crunchyroll.com/series/series/GQWH0M434/Lets-Make-a-Mug-Too"
+    },
+    "k": {
+      "id": "14",
+      "url": "https://kitsu.io/anime/14"
+    },
+    "mal": {
+      "id": "49263",
+      "url": "https://myanimelist.net/anime/49263"
+    },
+    "t": {
+      "id": "69507",
+      "url": "https://trakt.tv/shows/69507"
+    },
+    "tx": {
+      "id": "yakumo_project",
+      "url": "https://twitter.com/yakumo_project"
+    }
+  }
+}

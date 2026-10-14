@@ -1,0 +1,58 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11563,
+  "slug": "uzaki-chan-wa-asobitai",
+  "kind": "anime",
+  "title": "Uzaki-chan wa Asobitai! ω",
+  "titles": {
+    "default": "Uzaki-chan wa Asobitai! ω",
+    "romaji": "Uzaki-chan wa Asobitai! ω",
+    "english": "Uzaki-chan Wants to Hang Out! Season 2",
+    "native": "宇崎ちゃんは遊びたい！ω（だぶる）"
+  },
+  "synonyms": [
+    "Uzaki-chan wa Asobitai! ω",
+    "Uzaki-chan Wants to Hang Out! Season 2",
+    "宇崎ちゃんは遊びたい！ω（だぶる）",
+    "Uzaki-chan Wants to Hang Out! ω",
+    "Uzaki-chan Wants to Hang Out! Double",
+    "Uzaki-chan wa Asobitai! 2nd Season",
+    "รุ่นน้องตัวป่วน อยากชวนเที่ยวเล่น ภาค 2",
+    "Avenger",
+    "アヴェンジャー"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124395-9GeigGh1Ae2f.png"
+  ],
+  "references": {
+    "al": {
+      "id": "124395",
+      "url": "https://anilist.co/anime/124395"
+    },
+    "cr": {
+      "id": "series/GNVHKN7KZ/uzaki-chan-wants-to-hang-out",
+      "url": "https://www.crunchyroll.com/series/series/GNVHKN7KZ/uzaki-chan-wants-to-hang-out"
+    },
+    "k": {
+      "id": "37",
+      "url": "https://kitsu.io/anime/37"
+    },
+    "mal": {
+      "id": "42962",
+      "url": "https://myanimelist.net/anime/42962"
+    },
+    "t": {
+      "id": "21179",
+      "url": "https://trakt.tv/shows/21179"
+    },
+    "tx": {
+      "id": "uzakichan_asobi",
+      "url": "https://twitter.com/uzakichan_asobi"
+    }
+  }
+}

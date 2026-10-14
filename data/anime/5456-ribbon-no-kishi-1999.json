@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5456,
+  "slug": "ribbon-no-kishi-1999",
+  "kind": "anime",
+  "title": "Ribbon no Kishi (1999)",
+  "titles": {
+    "default": "Ribbon no Kishi (1999)",
+    "romaji": "Ribbon no Kishi (1999)",
+    "native": "リボンの騎士 (1999)"
+  },
+  "synonyms": [
+    "Ribbon no Kishi (1999)",
+    "リボンの騎士 (1999)"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/14249.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "14249",
+      "url": "https://anilist.co/anime/14249"
+    },
+    "k": {
+      "id": "7104",
+      "url": "https://kitsu.io/anime/7104"
+    },
+    "mal": {
+      "id": "14249",
+      "url": "https://myanimelist.net/anime/14249"
+    }
+  }
+}

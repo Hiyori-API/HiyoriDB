@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2270,
+  "slug": "jungle-taitei-susume-leo",
+  "kind": "anime",
+  "title": "Jungle Taitei: Susume Leo!",
+  "titles": {
+    "default": "Jungle Taitei: Susume Leo!",
+    "romaji": "Jungle Taitei: Susume Leo!",
+    "native": "ジャングル大帝 進めレオ!"
+  },
+  "synonyms": [
+    "Jungle Taitei: Susume Leo!",
+    "ジャングル大帝 進めレオ!",
+    "Leo the Lion",
+    "New Jungle Emperor",
+    "Go Ahead Leo!",
+    "Jungle Emperor",
+    "ジャングル大帝・進めレオ",
+    "Onward Leo!"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 1966,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2565-iYIqyanzpcps.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2565",
+      "url": "https://anilist.co/anime/2565"
+    },
+    "k": {
+      "id": "2330",
+      "url": "https://kitsu.io/anime/2330"
+    },
+    "mal": {
+      "id": "2565",
+      "url": "https://myanimelist.net/anime/2565"
+    },
+    "t": {
+      "id": "65570",
+      "url": "https://trakt.tv/shows/65570"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9302,
+  "slug": "haikyuu-sainou-to-sense",
+  "kind": "anime",
+  "title": "Haikyuu!!: Sainou to Sense",
+  "titles": {
+    "default": "Haikyuu!!: Sainou to Sense",
+    "romaji": "Haikyuu!!: Sainou to Sense",
+    "english": "Haikyu!! The Movie: Talent and Sense",
+    "native": "ハイキュー!! 才能とセンス"
+  },
+  "synonyms": [
+    "Haikyuu!!: Sainou to Sense",
+    "Haikyu!! The Movie: Talent and Sense",
+    "ハイキュー!! 才能とセンス",
+    "排球少年剧场版 才能与感觉",
+    "ไฮคิว!! คู่ตบฟ้าประทาน เดอะมูฟวี่ 3",
+    "Genocidal Organ",
+    "Gyakusatsu Kikan",
+    "虐殺器官",
+    "Project Itoh"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98884-PCa1CawsXpjB.png"
+  ],
+  "references": {
+    "al": {
+      "id": "98884",
+      "url": "https://anilist.co/anime/98884"
+    },
+    "cr": {
+      "id": "haikyu/haikyu-movies-haikyu-the-movie-talent-and-sense-779531",
+      "url": "https://www.crunchyroll.com/series/haikyu/haikyu-movies-haikyu-the-movie-talent-and-sense-779531"
+    },
+    "k": {
+      "id": "8737",
+      "url": "https://kitsu.io/anime/8737"
+    },
+    "mal": {
+      "id": "35110",
+      "url": "https://myanimelist.net/anime/35110"
+    },
+    "nf": {
+      "id": "81030151",
+      "url": "https://www.netflix.com/title/81030151"
+    }
+  }
+}

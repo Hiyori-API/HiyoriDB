@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15204,
+  "slug": "nipponichi-no-otoko-no-tamashi",
+  "kind": "manga",
+  "title": "Nipponichi no Otoko no Tamashi",
+  "titles": {
+    "default": "Nipponichi no Otoko no Tamashi"
+  },
+  "synonyms": [
+    "Nihon-ichi no Otoko no Tamashii",
+    "Nihonichi no Otoko no Tamashii",
+    "日本一の男の魂",
+    "Love Hina",
+    "ラブひな"
+  ],
+  "type": "manga",
+  "chapters": 752,
+  "volumes": 19,
+  "status": "finished",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx119861-z6SR7PnemMUc.png"
+  ],
+  "references": {
+    "al": {
+      "id": "8890",
+      "url": "https://anilist.co/anime/8890"
+    },
+    "al_manga": {
+      "id": "8890",
+      "url": "https://anilist.co/manga/8890"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15672,
+  "slug": "vatican-kiseki-chousakan",
+  "kind": "manga",
+  "title": "Vatican Kiseki Chousakan",
+  "titles": {
+    "default": "Vatican Kiseki Chousakan"
+  },
+  "synonyms": [
+    "Bachikan Kiseki Chousaka",
+    "Vatican Miracle Examiner",
+    "바티칸 기적 조사관",
+    "バチカン奇跡調査官",
+    "Seven Nights",
+    "セヴンナイツ",
+    "7 Nights"
+  ],
+  "type": "novel",
+  "status": "publishing",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx99887-BXZZ9yGKLhYc.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "97855",
+      "url": "https://anilist.co/anime/97855"
+    },
+    "al_manga": {
+      "id": "97855",
+      "url": "https://anilist.co/manga/97855"
+    }
+  }
+}

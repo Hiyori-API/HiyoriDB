@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9787,
+  "slug": "megalo-box-tokubetsu-hen",
+  "kind": "anime",
+  "title": "Megalo Box Tokubetsu-hen",
+  "titles": {
+    "default": "Megalo Box Tokubetsu-hen",
+    "romaji": "Megalo Box Tokubetsu-hen",
+    "english": "MEGALOBOX Specials",
+    "native": "メガロボクス特別編"
+  },
+  "synonyms": [
+    "Megalo Box Tokubetsu-hen",
+    "MEGALOBOX Specials",
+    "メガロボクス特別編",
+    "Megalo Box Specials",
+    "Chou Henshin Cosprayers Specials",
+    "超変身コス∞プレイヤー"
+  ],
+  "type": "special",
+  "episodes": 3,
+  "status": "finished",
+  "season": "summer",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx102309-Oqt0sXQoJwN4.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "102309",
+      "url": "https://anilist.co/anime/102309"
+    },
+    "k": {
+      "id": "687",
+      "url": "https://kitsu.io/anime/687"
+    },
+    "mal": {
+      "id": "37703",
+      "url": "https://myanimelist.net/anime/37703"
+    },
+    "tx": {
+      "id": "joe50_megalobox",
+      "url": "https://twitter.com/joe50_megalobox"
+    }
+  }
+}

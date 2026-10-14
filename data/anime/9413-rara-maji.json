@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9413,
+  "slug": "rara-maji",
+  "kind": "anime",
+  "title": "Rara Maji",
+  "titles": {
+    "default": "Rara Maji",
+    "romaji": "Rara Maji",
+    "native": "ららマジ"
+  },
+  "synonyms": [
+    "Rara Maji",
+    "ららマジ",
+    "Lala Maji",
+    "Ame to Shoujo to Watashi no Tegami",
+    "雨と少女と私の手紙",
+    "Rain",
+    "the Little Girl",
+    "and My Letter"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx102647-pmbSzIuCuFZO.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "102647",
+      "url": "https://anilist.co/anime/102647"
+    },
+    "k": {
+      "id": "1100",
+      "url": "https://kitsu.io/anime/1100"
+    },
+    "mal": {
+      "id": "35625",
+      "url": "https://myanimelist.net/anime/35625"
+    }
+  }
+}

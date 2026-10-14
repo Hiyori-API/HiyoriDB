@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14276,
+  "slug": "captain-tsubasa",
+  "kind": "manga",
+  "title": "Captain Tsubasa",
+  "titles": {
+    "default": "Captain Tsubasa"
+  },
+  "synonyms": [
+    "Capitán Tsubasa",
+    "Tsubasa - Giấc mơ sân cỏ",
+    "Kapitan Tsubasa",
+    "Captain Tsubasa",
+    "キャプテン翼"
+  ],
+  "type": "manga",
+  "chapters": 356,
+  "volumes": 37,
+  "status": "finished",
+  "year": 1981,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31789-qiNlHJDMJncz.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2117",
+      "url": "https://anilist.co/anime/2116"
+    },
+    "al_manga": {
+      "id": "2117",
+      "url": "https://anilist.co/manga/2117"
+    }
+  }
+}

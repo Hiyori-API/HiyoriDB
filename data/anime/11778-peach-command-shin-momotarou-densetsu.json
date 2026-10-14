@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11778,
+  "slug": "peach-command-shin-momotarou-densetsu",
+  "kind": "anime",
+  "title": "PEACH COMMAND Shin Momotarou Densetsu",
+  "titles": {
+    "default": "PEACH COMMAND Shin Momotarou Densetsu",
+    "romaji": "PEACH COMMAND Shin Momotarou Densetsu",
+    "native": "PEACH COMMAND 新桃太郎伝説"
+  },
+  "synonyms": [
+    "PEACH COMMAND Shin Momotarou Densetsu",
+    "PEACH COMMAND 新桃太郎伝説",
+    "Peach Command Shin Momotarou Densetsu"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "fall",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126321-Q10N2s5oDWYK.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "126321",
+      "url": "https://anilist.co/anime/126321"
+    },
+    "mal": {
+      "id": "33310",
+      "url": "https://myanimelist.net/anime/33310"
+    }
+  }
+}

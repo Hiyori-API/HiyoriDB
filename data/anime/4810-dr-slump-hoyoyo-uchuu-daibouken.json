@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4810,
+  "slug": "dr-slump-hoyoyo-uchuu-daibouken",
+  "kind": "anime",
+  "title": "Dr. Slump: \"Hoyoyo!\" Uchuu Daibouken",
+  "titles": {
+    "default": "Dr. Slump: \"Hoyoyo!\" Uchuu Daibouken",
+    "romaji": "Dr. Slump: \"Hoyoyo!\" Uchuu Daibouken",
+    "english": "Dr. Slump: Hoyoyo! Space Adventure",
+    "native": "Dr.スランプ “ほよよ!”宇宙大冒険"
+  },
+  "synonyms": [
+    "Dr. Slump: \"Hoyoyo!\" Uchuu Daibouken",
+    "Dr. Slump: Hoyoyo! Space Adventure",
+    "Dr.スランプ “ほよよ!”宇宙大冒険",
+    "Dr. Slump: \"Hoyoyo!\" Space Adventure",
+    "Dr. Slump Movie 02: \"Hoyoyo!\" Uchuu Daibouken",
+    "Dr.SLUMP “ほよよ!”宇宙大冒険"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1982,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8546.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8546",
+      "url": "https://anilist.co/anime/8546"
+    },
+    "k": {
+      "id": "5382",
+      "url": "https://kitsu.io/anime/5382"
+    },
+    "mal": {
+      "id": "8546",
+      "url": "https://myanimelist.net/anime/8546"
+    }
+  }
+}

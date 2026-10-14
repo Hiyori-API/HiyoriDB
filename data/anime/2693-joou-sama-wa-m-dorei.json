@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2693,
+  "slug": "joou-sama-wa-m-dorei",
+  "kind": "anime",
+  "title": "Joou-sama wa M Dorei",
+  "titles": {
+    "default": "Joou-sama wa M Dorei",
+    "romaji": "Joou-sama wa M Dorei",
+    "english": "Queen and Slave",
+    "native": "女王様はＭ奴隷"
+  },
+  "synonyms": [
+    "Joou-sama wa M Dorei",
+    "Queen and Slave",
+    "女王様はＭ奴隷",
+    "Jo-oh sama wa M Dorei",
+    "The Queen is a Masochist",
+    "Megami Kouhosei Special Curriculum",
+    "女神候補生 スペシャルカリキュラム",
+    "Candidate for Goddess OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3066.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3066",
+      "url": "https://anilist.co/anime/3066"
+    },
+    "cr": {
+      "id": "pilot-candidate",
+      "url": "https://www.crunchyroll.com/series/pilot-candidate"
+    },
+    "k": {
+      "id": "787",
+      "url": "https://kitsu.io/anime/787"
+    },
+    "mal": {
+      "id": "3066",
+      "url": "https://myanimelist.net/anime/3066"
+    }
+  }
+}

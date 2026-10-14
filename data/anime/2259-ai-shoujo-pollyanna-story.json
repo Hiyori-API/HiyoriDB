@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2259,
+  "slug": "ai-shoujo-pollyanna-story",
+  "kind": "anime",
+  "title": "Ai Shoujo Pollyanna Story",
+  "titles": {
+    "default": "Ai Shoujo Pollyanna Story",
+    "romaji": "Ai Shoujo Pollyanna Story",
+    "native": "愛少女ポリアンナ物語"
+  },
+  "synonyms": [
+    "Ai Shoujo Pollyanna Story",
+    "愛少女ポリアンナ物語",
+    "Sekai Meisaku Gekijou",
+    "Story of Pollyanna",
+    "Girl of Love",
+    "World Masterpiece Theater",
+    "WMT",
+    "Ai Shoujo Pollyanna Monogatari"
+  ],
+  "type": "tv",
+  "episodes": 51,
+  "status": "finished",
+  "season": "winter",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx2554-a3wsOFA22pcl.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2554",
+      "url": "https://anilist.co/anime/2554"
+    },
+    "k": {
+      "id": "2319",
+      "url": "https://kitsu.io/anime/2319"
+    },
+    "mal": {
+      "id": "2554",
+      "url": "https://myanimelist.net/anime/2554"
+    },
+    "t": {
+      "id": "68656",
+      "url": "https://trakt.tv/shows/68656"
+    }
+  }
+}

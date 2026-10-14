@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5264,
+  "slug": "pochacco-no-wakuwaku-birthday",
+  "kind": "anime",
+  "title": "Pochacco no Wakuwaku Birthday",
+  "titles": {
+    "default": "Pochacco no Wakuwaku Birthday",
+    "romaji": "Pochacco no Wakuwaku Birthday",
+    "english": "Pochacco in Exciting Birthday",
+    "native": "ポチャッコのわくわくバースデイ"
+  },
+  "synonyms": [
+    "Pochacco no Wakuwaku Birthday",
+    "Pochacco in Exciting Birthday",
+    "ポチャッコのわくわくバースデイ",
+    "Pochacco's Exciting Birthday",
+    "Pekkle in the Adventures of Sinbad",
+    "Ahiru no Pekkle no Sindbad no Bouken",
+    "アヒルのペックルのシンドバッドの冒険",
+    "Hello Kitty and Friends: The Adventures of Sinbad"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b184370-nycFexXBmoja.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "184370",
+      "url": "https://anilist.co/anime/184370"
+    },
+    "k": {
+      "id": "8820",
+      "url": "https://kitsu.io/anime/8820"
+    },
+    "mal": {
+      "id": "22617",
+      "url": "https://myanimelist.net/anime/22617"
+    }
+  }
+}

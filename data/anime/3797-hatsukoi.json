@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3797,
+  "slug": "hatsukoi",
+  "kind": "anime",
+  "title": "Hatsukoi",
+  "titles": {
+    "default": "Hatsukoi",
+    "romaji": "Hatsukoi",
+    "native": "初恋"
+  },
+  "synonyms": [
+    "Hatsukoi",
+    "初恋",
+    "First Love",
+    "Tokyo Daigaku Monogatari",
+    "東京大学物語",
+    "Tokyo University Story"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5208.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5208",
+      "url": "https://anilist.co/anime/5208"
+    },
+    "k": {
+      "id": "943",
+      "url": "https://kitsu.io/anime/943"
+    },
+    "mal": {
+      "id": "5208",
+      "url": "https://myanimelist.net/anime/5208"
+    }
+  }
+}

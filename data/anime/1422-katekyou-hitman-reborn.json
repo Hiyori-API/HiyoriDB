@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1422,
+  "slug": "katekyou-hitman-reborn",
+  "kind": "anime",
+  "title": "Katekyou Hitman REBORN!",
+  "titles": {
+    "default": "Katekyou Hitman REBORN!",
+    "romaji": "Katekyou Hitman REBORN!",
+    "english": "REBORN!",
+    "native": "家庭教師ヒットマンREBORN!"
+  },
+  "synonyms": [
+    "Katekyou Hitman REBORN!",
+    "REBORN!",
+    "家庭教師ヒットマンREBORN!",
+    "Katekyo Hitman Reborn!",
+    "ครูพิเศษจอมป่วน รีบอร์น!",
+    "Gia sư HITMAN REBORN!",
+    "Kateikyoushi Hitman Reborn!",
+    "Home Tutor Hitman Reborn!",
+    "Reborn!",
+    "Katekyou Hitman Reborn!"
+  ],
+  "type": "tv",
+  "episodes": 203,
+  "status": "finished",
+  "season": "fall",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1604-W2q38L4OCGLI.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1604",
+      "url": "https://anilist.co/anime/1604"
+    },
+    "cr": {
+      "id": "reborn",
+      "url": "https://www.crunchyroll.com/series/reborn"
+    },
+    "mal": {
+      "id": "1604",
+      "url": "https://myanimelist.net/anime/1604"
+    },
+    "ttv": {
+      "id": "1669",
+      "url": "https://tubitv.com/series/1669"
+    }
+  }
+}

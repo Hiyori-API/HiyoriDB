@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10313,
+  "slug": "onmyoji-heian-monogatari-2",
+  "kind": "anime",
+  "title": "Onmyoji: Heian Monogatari 2",
+  "titles": {
+    "default": "Onmyoji: Heian Monogatari 2",
+    "romaji": "Onmyoji: Heian Monogatari 2",
+    "native": "陰陽師・平安物語 2"
+  },
+  "synonyms": [
+    "Onmyoji: Heian Monogatari 2",
+    "陰陽師・平安物語 2",
+    "阴阳师·平安物语 第二季",
+    "Yin Yang Shi: Ping An Wu Yu 2",
+    "Ni Zai Xing Guang Shen Chu",
+    "Stars Fall",
+    "你在星光深处",
+    "Ni Zai Xingguang Shenchu"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115908-MWPhBRBq6vuX.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "115908",
+      "url": "https://anilist.co/anime/115908"
+    },
+    "mal": {
+      "id": "40568",
+      "url": "https://myanimelist.net/anime/40568"
+    }
+  }
+}

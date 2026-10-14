@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6959,
+  "slug": "hiiro-no-kakera-dai-ni-shou",
+  "kind": "anime",
+  "title": "Hiiro no Kakera Dai Ni Shou",
+  "titles": {
+    "default": "Hiiro no Kakera Dai Ni Shou",
+    "romaji": "Hiiro no Kakera Dai Ni Shou",
+    "english": "Hiiro no Kakera: The Tamayori Princess Saga 2",
+    "native": "緋色の欠片 第二章"
+  },
+  "synonyms": [
+    "Hiiro no Kakera Dai Ni Shou",
+    "Hiiro no Kakera: The Tamayori Princess Saga 2",
+    "緋色の欠片 第二章",
+    "Hiiro no Kakera 2nd Season",
+    "Scarlet Fragment 2",
+    "Kill Me Baby",
+    "キルミーベイベー",
+    "Baby",
+    "Please Kill Me."
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14645-bBnbSsHiuoX3.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "14645",
+      "url": "https://anilist.co/anime/14645"
+    },
+    "k": {
+      "id": "6454",
+      "url": "https://kitsu.io/anime/6454"
+    },
+    "mal": {
+      "id": "14645",
+      "url": "https://myanimelist.net/anime/14645"
+    },
+    "t": {
+      "id": "65264",
+      "url": "https://trakt.tv/shows/65264"
+    }
+  }
+}

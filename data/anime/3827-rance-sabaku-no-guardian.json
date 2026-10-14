@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3827,
+  "slug": "rance-sabaku-no-guardian",
+  "kind": "anime",
+  "title": "Rance: Sabaku no Guardian",
+  "titles": {
+    "default": "Rance: Sabaku no Guardian",
+    "romaji": "Rance: Sabaku no Guardian",
+    "native": "ランス ~砂漠のガーディアン~"
+  },
+  "synonyms": [
+    "Rance: Sabaku no Guardian",
+    "ランス ~砂漠のガーディアン~",
+    "Rance: The Desert Guardian",
+    "Time Bokan: Royal Revival",
+    "Time Bokan Oudou Fukko",
+    "タイムボカン王道復古",
+    "Time Bokan OVA"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5259-GtadoPuxrETA.png"
+  ],
+  "references": {
+    "al": {
+      "id": "5259",
+      "url": "https://anilist.co/anime/5259"
+    },
+    "k": {
+      "id": "3694",
+      "url": "https://kitsu.io/anime/3694"
+    },
+    "mal": {
+      "id": "5259",
+      "url": "https://myanimelist.net/anime/5259"
+    }
+  }
+}

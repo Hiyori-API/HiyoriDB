@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5497,
+  "slug": "gunnm-3d-special",
+  "kind": "anime",
+  "title": "GUNNM 3D Special",
+  "titles": {
+    "default": "GUNNM 3D Special",
+    "romaji": "GUNNM 3D Special",
+    "native": "銃夢-3Dスペシャル-"
+  },
+  "synonyms": [
+    "GUNNM 3D Special",
+    "銃夢-3Dスペシャル-",
+    "Battle Angel Alita 3D Special",
+    "Gunnm 3D Special"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b17659-AmgZRDPPOCto.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "17659",
+      "url": "https://anilist.co/anime/17659"
+    },
+    "k": {
+      "id": "8442",
+      "url": "https://kitsu.io/anime/8442"
+    },
+    "mal": {
+      "id": "17659",
+      "url": "https://myanimelist.net/anime/17659"
+    }
+  }
+}

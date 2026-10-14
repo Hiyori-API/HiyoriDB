@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14532,
+  "slug": "jormungand",
+  "kind": "manga",
+  "title": "Jormungand",
+  "titles": {
+    "default": "Jormungand"
+  },
+  "synonyms": [
+    "요르문간드",
+    "Jormungand",
+    "ヨルムンガンド",
+    "Love Makes People Grow",
+    "Hito wa Ai wo Tabete Sodatsu",
+    "人は愛を食べて育つ",
+    "Eat Love and Grow",
+    "Hito wa ai o tabete sodatsu"
+  ],
+  "type": "manga",
+  "chapters": 80,
+  "volumes": 11,
+  "status": "finished",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx34611-mU1i0dYPzzx6.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "13331",
+      "url": "https://anilist.co/anime/12413"
+    },
+    "al_manga": {
+      "id": "13331",
+      "url": "https://anilist.co/manga/13331"
+    }
+  }
+}

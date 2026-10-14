@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10477,
+  "slug": "umibe-no-tranger",
+  "kind": "anime",
+  "title": "Umibe no Étranger",
+  "titles": {
+    "default": "Umibe no Étranger",
+    "romaji": "Umibe no Étranger",
+    "english": "The Stranger by the Shore",
+    "native": "海辺のエトランゼ"
+  },
+  "synonyms": [
+    "Umibe no Étranger",
+    "The Stranger by the Shore",
+    "海辺のエトランゼ",
+    "Seaside Stranger",
+    "Umibe no Etranger",
+    "L'Étranger de la plage",
+    "The Stranger by the Beach",
+    "Cowboy Bebop: The Movie",
+    "Cowboy Bebop: Tengoku no Tobira",
+    "Cowboy Bebop: Knockin' on Heaven's Door",
+    "カウボーイビバップ天国の扉"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112788-yzq8eEwO6wan.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "112788",
+      "url": "https://anilist.co/anime/112788"
+    },
+    "cr": {
+      "id": "the-stranger-by-the-shore/",
+      "url": "https://www.crunchyroll.com/series/the-stranger-by-the-shore/"
+    },
+    "k": {
+      "id": "2",
+      "url": "https://kitsu.io/anime/2"
+    },
+    "mal": {
+      "id": "40615",
+      "url": "https://myanimelist.net/anime/40615"
+    },
+    "tx": {
+      "id": "etranger_anime",
+      "url": "https://twitter.com/etranger_anime"
+    }
+  }
+}

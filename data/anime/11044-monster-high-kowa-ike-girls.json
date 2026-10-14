@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11044,
+  "slug": "monster-high-kowa-ike-girls",
+  "kind": "anime",
+  "title": "Monster High: Kowa-ike Girls",
+  "titles": {
+    "default": "Monster High: Kowa-ike Girls",
+    "romaji": "Monster High: Kowa-ike Girls",
+    "native": "モンスター・ハイ～こわイケガールズ～"
+  },
+  "synonyms": [
+    "Monster High: Kowa-ike Girls",
+    "モンスター・ハイ～こわイケガールズ～",
+    "Monster High: Scary Cool Girls",
+    "Momon's Sand Witch",
+    "ももん'ず さんどうぃっち",
+    "Momon's Sandwitch"
+  ],
+  "type": "ona",
+  "episodes": 8,
+  "status": "finished",
+  "season": "fall",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b99480-M6mgeZvfLksh.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "99480",
+      "url": "https://anilist.co/anime/99480"
+    },
+    "k": {
+      "id": "8857",
+      "url": "https://kitsu.io/anime/8857"
+    },
+    "mal": {
+      "id": "28381",
+      "url": "https://myanimelist.net/anime/28381"
+    }
+  }
+}

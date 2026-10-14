@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7515,
+  "slug": "mouretsu-pirates-abyss-of-hyperspace-akuu-no-shinen",
+  "kind": "anime",
+  "title": "Mouretsu Pirates: ABYSS OF HYPERSPACE - Akuu no Shinen",
+  "titles": {
+    "default": "Mouretsu Pirates: ABYSS OF HYPERSPACE - Akuu no Shinen",
+    "romaji": "Mouretsu Pirates: ABYSS OF HYPERSPACE - Akuu no Shinen",
+    "english": "Bodacious Space Pirates: Abyss of Hyperspace",
+    "native": "モーレツ宇宙海賊 ABYSS OF HYPERSPACE -亜空の深淵-"
+  },
+  "synonyms": [
+    "Mouretsu Pirates: ABYSS OF HYPERSPACE - Akuu no Shinen",
+    "Bodacious Space Pirates: Abyss of Hyperspace",
+    "モーレツ宇宙海賊 ABYSS OF HYPERSPACE -亜空の深淵-",
+    "Gekijouban Mouretsu Pirates",
+    "Bodacious Space Pirates Movie",
+    "Mouretsu Pirates: Abyss of Hyperspace",
+    "Bodacious Space Pirates the Movie: Abyss of Hyperspace",
+    "Mouretsu Pirates Movie",
+    "Mouretsu Pirates: Akuu no Shinen"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14817-XPcB6Z9bzNbF.png"
+  ],
+  "references": {
+    "al": {
+      "id": "14817",
+      "url": "https://anilist.co/anime/14817"
+    },
+    "k": {
+      "id": "7170",
+      "url": "https://kitsu.io/anime/7170"
+    },
+    "mal": {
+      "id": "14817",
+      "url": "https://myanimelist.net/anime/14817"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7939,
+  "slug": "meisou-underworld",
+  "kind": "anime",
+  "title": "Meisou! Underworld",
+  "titles": {
+    "default": "Meisou! Underworld",
+    "romaji": "Meisou! Underworld",
+    "native": "迷走！アンダーワールド"
+  },
+  "synonyms": [
+    "Meisou! Underworld",
+    "迷走！アンダーワールド"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/99111-zPt7RDGSEAe0.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "99111",
+      "url": "https://anilist.co/anime/99111"
+    },
+    "k": {
+      "id": "8464",
+      "url": "https://kitsu.io/anime/8464"
+    },
+    "mal": {
+      "id": "23837",
+      "url": "https://myanimelist.net/anime/23837"
+    }
+  }
+}

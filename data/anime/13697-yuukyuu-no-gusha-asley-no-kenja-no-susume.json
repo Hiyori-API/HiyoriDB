@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13697,
+  "slug": "yuukyuu-no-gusha-asley-no-kenja-no-susume",
+  "kind": "anime",
+  "title": "Yuukyuu no Gusha Asley no, Kenja no Susume",
+  "titles": {
+    "default": "Yuukyuu no Gusha Asley no, Kenja no Susume",
+    "romaji": "Yuukyuu no Gusha Asley no, Kenja no Susume",
+    "english": "The Eternal Fool's Words of Wisdom: A Pawsitively Fantastic Adventure",
+    "native": "悠久の愚者アズリーの、賢者のすゝめ"
+  },
+  "synonyms": [
+    "Yuukyuu no Gusha Asley no, Kenja no Susume",
+    "The Eternal Fool's Words of Wisdom: A Pawsitively Fantastic Adventure",
+    "悠久の愚者アズリーの、賢者のすゝめ",
+    "Despera",
+    "ですぺら",
+    "Desupera"
+  ],
+  "type": "tv",
+  "status": "to_be_aired",
+  "season": "winter",
+  "year": 2027,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207328-BVD3Qa5lrUG3.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "207328",
+      "url": "https://anilist.co/anime/207328"
+    },
+    "cr": {
+      "id": "",
+      "url": "https://www.crunchyroll.com/series/"
+    },
+    "k": {
+      "id": "4584",
+      "url": "https://kitsu.io/anime/4584"
+    },
+    "mal": {
+      "id": "63424",
+      "url": "https://myanimelist.net/anime/63424"
+    },
+    "tx": {
+      "id": "asley_anime",
+      "url": "https://twitter.com/asley_anime"
+    }
+  }
+}

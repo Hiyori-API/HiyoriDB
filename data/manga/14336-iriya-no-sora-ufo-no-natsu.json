@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14336,
+  "slug": "iriya-no-sora-ufo-no-natsu",
+  "kind": "manga",
+  "title": "Iriya no Sora, UFO no Natsu",
+  "titles": {
+    "default": "Iriya no Sora, UFO no Natsu"
+  },
+  "synonyms": [
+    "Iriya no Sora, UFO no Natsu",
+    "イリヤの空、UFOの夏",
+    "Gekiryuuchi",
+    "激流血～OVER BLEED～",
+    "Over Bleed"
+  ],
+  "type": "manga",
+  "chapters": 14,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2956.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "358",
+      "url": "https://anilist.co/anime/358"
+    },
+    "al_manga": {
+      "id": "358",
+      "url": "https://anilist.co/manga/358"
+    }
+  }
+}

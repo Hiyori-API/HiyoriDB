@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7982,
+  "slug": "sore-ike-anpanman-ringo-bouya-to-minna-no-negai",
+  "kind": "anime",
+  "title": "Sore Ike! Anpanman: Ringo Bouya to Minna no Negai",
+  "titles": {
+    "default": "Sore Ike! Anpanman: Ringo Bouya to Minna no Negai",
+    "romaji": "Sore Ike! Anpanman: Ringo Bouya to Minna no Negai",
+    "english": "Anpanman: Apple Boy and Everyone’s Hope",
+    "native": "それいけ! アンパンマン りんごぼうやとみんなの願い"
+  },
+  "synonyms": [
+    "Sore Ike! Anpanman: Ringo Bouya to Minna no Negai",
+    "Anpanman: Apple Boy and Everyone’s Hope",
+    "それいけ! アンパンマン りんごぼうやとみんなの願い",
+    "Spo-chan Taiketsu: Youkai Daikessen",
+    "スポチャン対決~妖怪大決戦~"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119784-TcLE5Yh51FLR.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "119784",
+      "url": "https://anilist.co/anime/119784"
+    },
+    "k": {
+      "id": "8568",
+      "url": "https://kitsu.io/anime/8568"
+    },
+    "mal": {
+      "id": "23617",
+      "url": "https://myanimelist.net/anime/23617"
+    },
+    "nf": {
+      "id": "81719818",
+      "url": "https://www.netflix.com/title/81719818"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13832,
+  "slug": "chocotto-sister",
+  "kind": "manga",
+  "title": "Chocotto Sister",
+  "titles": {
+    "default": "Chocotto Sister"
+  },
+  "synonyms": [
+    "Chokotto Sister",
+    "Chocosis",
+    "Chocotto Sister",
+    "ちょこッとSister"
+  ],
+  "type": "manga",
+  "chapters": 71,
+  "volumes": 8,
+  "status": "finished",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx30176-vPYVh6QybynF.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1219",
+      "url": "https://anilist.co/anime/1219"
+    },
+    "al_manga": {
+      "id": "1219",
+      "url": "https://anilist.co/manga/1219"
+    }
+  }
+}

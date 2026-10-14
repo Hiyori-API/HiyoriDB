@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4288,
+  "slug": "kagaku-ninja-tai-gatchaman-f",
+  "kind": "anime",
+  "title": "Kagaku Ninja-Tai Gatchaman F",
+  "titles": {
+    "default": "Kagaku Ninja-Tai Gatchaman F",
+    "romaji": "Kagaku Ninja-Tai Gatchaman F",
+    "english": "Eagle Riders (2)",
+    "native": "科学忍者隊ガッチャマンF"
+  },
+  "synonyms": [
+    "Kagaku Ninja-Tai Gatchaman F",
+    "Eagle Riders (2)",
+    "科学忍者隊ガッチャマンF",
+    "Gatchaman Fighter",
+    "Science Ninja Team Gatchaman Fighter",
+    "Science Ninja Team Gatchaman F",
+    "Kagaku Ninja-tai Gatchaman F",
+    "Kagaku Ninjatai Gatchaman Fighter"
+  ],
+  "type": "tv",
+  "episodes": 48,
+  "status": "finished",
+  "season": "fall",
+  "year": 1979,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6375.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6375",
+      "url": "https://anilist.co/anime/6375"
+    },
+    "k": {
+      "id": "4536",
+      "url": "https://kitsu.io/anime/4536"
+    },
+    "mal": {
+      "id": "6375",
+      "url": "https://myanimelist.net/anime/6375"
+    },
+    "t": {
+      "id": "13490",
+      "url": "https://trakt.tv/shows/13490"
+    }
+  }
+}

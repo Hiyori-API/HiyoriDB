@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10945,
+  "slug": "neon-the-animation",
+  "kind": "anime",
+  "title": "Neon The Animation",
+  "titles": {
+    "default": "Neon The Animation",
+    "romaji": "Neon The Animation",
+    "native": "音々The Animation"
+  },
+  "synonyms": [
+    "Neon The Animation",
+    "音々The Animation"
+  ],
+  "type": "ona",
+  "episodes": 6,
+  "status": "finished",
+  "season": "summer",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17697.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "17697",
+      "url": "https://anilist.co/anime/17697"
+    },
+    "k": {
+      "id": "8330",
+      "url": "https://kitsu.io/anime/8330"
+    },
+    "mal": {
+      "id": "17697",
+      "url": "https://myanimelist.net/anime/17697"
+    }
+  }
+}

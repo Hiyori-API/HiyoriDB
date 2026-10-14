@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14187,
+  "slug": "kore-ga-watashi-no-goshujin-sama",
+  "kind": "manga",
+  "title": "Kore ga Watashi no Goshujin-sama",
+  "titles": {
+    "default": "Kore ga Watashi no Goshujin-sama"
+  },
+  "synonyms": [
+    "He is My Master",
+    "これが私の御主人様",
+    "Fujisan",
+    "富士山",
+    "Fuji-san"
+  ],
+  "type": "manga",
+  "chapters": 20,
+  "volumes": 5,
+  "status": "finished",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1448.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "412",
+      "url": "https://anilist.co/anime/412"
+    },
+    "al_manga": {
+      "id": "412",
+      "url": "https://anilist.co/manga/412"
+    }
+  }
+}

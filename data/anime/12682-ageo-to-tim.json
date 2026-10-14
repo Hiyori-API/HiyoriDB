@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12682,
+  "slug": "ageo-to-tim",
+  "kind": "anime",
+  "title": "Ageo to Tim",
+  "titles": {
+    "default": "Ageo to Tim",
+    "romaji": "Ageo to Tim",
+    "native": "あげおとティム"
+  },
+  "synonyms": [
+    "Ageo to Tim",
+    "あげおとティム",
+    "This Ugly Yet Beautiful World",
+    "Kono Minikuku mo Utsukushii Sekai",
+    "この醜くも美しい世界"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2024,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx173250-3tOJC8zzTcoC.png"
+  ],
+  "references": {
+    "al": {
+      "id": "173250",
+      "url": "https://anilist.co/anime/173250"
+    },
+    "k": {
+      "id": "124",
+      "url": "https://kitsu.io/anime/124"
+    },
+    "mal": {
+      "id": "58603",
+      "url": "https://myanimelist.net/anime/58603"
+    },
+    "t": {
+      "id": "34001",
+      "url": "https://trakt.tv/shows/34001"
+    },
+    "tx": {
+      "id": "AGEOTOTIM_NFT",
+      "url": "https://twitter.com/AGEOTOTIM_NFT"
+    }
+  }
+}

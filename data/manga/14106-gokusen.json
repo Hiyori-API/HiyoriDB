@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14106,
+  "slug": "gokusen",
+  "kind": "manga",
+  "title": "Gokusen",
+  "titles": {
+    "default": "Gokusen"
+  },
+  "synonyms": [
+    "Gangster Teacher",
+    "ครูสาวยากูซ่า",
+    "ごくせん",
+    "Paradise Kiss",
+    "パラダイス・キス",
+    "ParaKiss"
+  ],
+  "type": "manga",
+  "chapters": 156,
+  "volumes": 15,
+  "status": "finished",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31092-P2xw53eR7gFy.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "242",
+      "url": "https://anilist.co/anime/242"
+    },
+    "al_manga": {
+      "id": "242",
+      "url": "https://anilist.co/manga/242"
+    }
+  }
+}

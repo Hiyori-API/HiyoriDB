@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3382,
+  "slug": "megumi",
+  "kind": "anime",
+  "title": "Megumi",
+  "titles": {
+    "default": "Megumi",
+    "romaji": "Megumi",
+    "native": "めぐみ"
+  },
+  "synonyms": [
+    "Megumi",
+    "めぐみ"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4187.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4187",
+      "url": "https://anilist.co/anime/4187"
+    },
+    "k": {
+      "id": "3509",
+      "url": "https://kitsu.io/anime/3509"
+    },
+    "mal": {
+      "id": "4187",
+      "url": "https://myanimelist.net/anime/4187"
+    }
+  }
+}

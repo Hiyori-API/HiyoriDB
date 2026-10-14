@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14811,
+  "slug": "nora",
+  "kind": "manga",
+  "title": "Nora",
+  "titles": {
+    "default": "Nora"
+  },
+  "synonyms": [
+    "Ryuuka Kairyuu",
+    "Nora no Nagareboshi",
+    "ノーラ",
+    "Maison Ikkoku",
+    "めぞん一刻"
+  ],
+  "type": "manga",
+  "chapters": 12,
+  "volumes": 2,
+  "status": "finished",
+  "year": 1980,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b114914-TxGhFKIkx5mt.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9342",
+      "url": "https://anilist.co/anime/2088"
+    },
+    "al_manga": {
+      "id": "9342",
+      "url": "https://anilist.co/manga/9342"
+    }
+  }
+}

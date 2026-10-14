@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15125,
+  "slug": "soreyuke-uchuu-senkan-yamamoto-youko",
+  "kind": "manga",
+  "title": "Soreyuke! Uchuu Senkan Yamamoto Youko",
+  "titles": {
+    "default": "Soreyuke! Uchuu Senkan Yamamoto Youko"
+  },
+  "synonyms": [
+    "Super Strike TA-29 Yohko Yamamoto",
+    "Soreyuke! Uchuu Senkan Yamamoto Youko",
+    "Go! Spaceship Girl Yohko Yamamoto",
+    "それゆけ！宇宙戦艦ヤマモト・ヨーコ",
+    "Kare Kano: His and Her Circumstances",
+    "Kareshi Kanojo no Jijou",
+    "彼氏彼女の事情",
+    "His and Hers",
+    "The Tiger and the Chameleon: A Promise for One Week",
+    "Ashita Mata Mori de Aou ne",
+    "Meet Me Again Tomorrow in the Forest",
+    "KKNJ",
+    "Abareru Ousama",
+    "The Raging King"
+  ],
+  "type": "manga",
+  "chapters": 47,
+  "volumes": 8,
+  "status": "finished",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b127136-cQ8GHePJPTyE.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1671",
+      "url": "https://anilist.co/anime/1100"
+    },
+    "al_manga": {
+      "id": "1671",
+      "url": "https://anilist.co/manga/1671"
+    }
+  }
+}

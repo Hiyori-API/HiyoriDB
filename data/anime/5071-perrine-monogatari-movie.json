@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5071,
+  "slug": "perrine-monogatari-movie",
+  "kind": "anime",
+  "title": "Perrine Monogatari Movie",
+  "titles": {
+    "default": "Perrine Monogatari Movie",
+    "romaji": "Perrine Monogatari Movie",
+    "native": "劇場版 ペリーヌ物語"
+  },
+  "synonyms": [
+    "Perrine Monogatari Movie",
+    "劇場版 ペリーヌ物語",
+    "The Story of Perrine Movie",
+    "Gekijouban Perrine Monogatari",
+    "Kimu no Juujika",
+    "キムの十字架",
+    "Kim's Cross",
+    "Kim's Crucifix"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16458.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "16458",
+      "url": "https://anilist.co/anime/16458"
+    },
+    "k": {
+      "id": "9387",
+      "url": "https://kitsu.io/anime/9387"
+    },
+    "mal": {
+      "id": "16458",
+      "url": "https://myanimelist.net/anime/16458"
+    }
+  }
+}

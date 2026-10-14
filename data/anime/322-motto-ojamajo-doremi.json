@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 322,
+  "slug": "motto-ojamajo-doremi",
+  "kind": "anime",
+  "title": "Motto! Ojamajo Doremi",
+  "titles": {
+    "default": "Motto! Ojamajo Doremi",
+    "romaji": "Motto! Ojamajo Doremi",
+    "native": "も〜っと！おジャ魔女どれみ"
+  },
+  "synonyms": [
+    "Motto! Ojamajo Doremi",
+    "も〜っと！おジャ魔女どれみ",
+    "More! Useless Witch Doremi",
+    "More! Bothersome Witch Doremi"
+  ],
+  "type": "tv",
+  "episodes": 50,
+  "status": "finished",
+  "season": "winter",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx352-QY0OK1NrlhMR.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "352",
+      "url": "https://anilist.co/anime/352"
+    },
+    "k": {
+      "id": "319",
+      "url": "https://kitsu.io/anime/319"
+    },
+    "mal": {
+      "id": "352",
+      "url": "https://myanimelist.net/anime/352"
+    },
+    "t": {
+      "id": "20260",
+      "url": "https://trakt.tv/shows/20260"
+    },
+    "tx": {
+      "id": "Doremi_staff",
+      "url": "https://twitter.com/Doremi_staff"
+    }
+  }
+}

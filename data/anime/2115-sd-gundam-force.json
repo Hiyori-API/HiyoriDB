@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2115,
+  "slug": "sd-gundam-force",
+  "kind": "anime",
+  "title": "SD Gundam Force",
+  "titles": {
+    "default": "SD Gundam Force",
+    "romaji": "SD Gundam Force",
+    "native": "SDガンダムフォース"
+  },
+  "synonyms": [
+    "SD Gundam Force",
+    "SDガンダムフォース",
+    "Superior Defender Gundam Force",
+    "Bedaman",
+    "Battle B'Daman",
+    "Battle B-Daman",
+    "B-伝説(ビーレジェンド)! バトルビーダマン",
+    "B-Legend! Battle B-Daman"
+  ],
+  "type": "tv",
+  "episodes": 52,
+  "status": "finished",
+  "season": "winter",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2391.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2391",
+      "url": "https://anilist.co/anime/2391"
+    },
+    "mal": {
+      "id": "2391",
+      "url": "https://myanimelist.net/anime/2391"
+    }
+  }
+}

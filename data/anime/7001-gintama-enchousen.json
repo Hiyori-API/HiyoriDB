@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7001,
+  "slug": "gintama-enchousen",
+  "kind": "anime",
+  "title": "Gintama': Enchousen",
+  "titles": {
+    "default": "Gintama': Enchousen",
+    "romaji": "Gintama': Enchousen",
+    "english": "Gintama Season 2 Part 2",
+    "native": "銀魂’延長戦"
+  },
+  "synonyms": [
+    "Gintama': Enchousen",
+    "Gintama Season 2 Part 2",
+    "銀魂’延長戦",
+    "Gintama' (2012)",
+    "Gintama' Overdrive",
+    "Kintama",
+    "Utakoi",
+    "Chouyaku Hyakuninisshu: Uta Koi.",
+    "超訳百人一首 うた恋い。",
+    "Utakoi."
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15417-Uc2uNdWEixwi.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "15417",
+      "url": "https://anilist.co/anime/15417"
+    },
+    "cr": {
+      "id": "gintama",
+      "url": "https://www.crunchyroll.com/series/gintama"
+    },
+    "k": {
+      "id": "6943",
+      "url": "https://kitsu.io/anime/6943"
+    },
+    "mal": {
+      "id": "15417",
+      "url": "https://myanimelist.net/anime/15417"
+    },
+    "t": {
+      "id": "67002",
+      "url": "https://trakt.tv/shows/67002"
+    }
+  }
+}

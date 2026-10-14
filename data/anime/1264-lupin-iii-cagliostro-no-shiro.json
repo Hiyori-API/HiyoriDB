@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1264,
+  "slug": "lupin-iii-cagliostro-no-shiro",
+  "kind": "anime",
+  "title": "Lupin III: Cagliostro no Shiro",
+  "titles": {
+    "default": "Lupin III: Cagliostro no Shiro",
+    "romaji": "Lupin III: Cagliostro no Shiro",
+    "english": "Lupin The 3rd: The Castle of Cagliostro",
+    "native": "ルパン三世 カリオストロの城"
+  },
+  "synonyms": [
+    "Lupin III: Cagliostro no Shiro",
+    "Lupin The 3rd: The Castle of Cagliostro",
+    "ルパン三世 カリオストロの城",
+    "Rupan Sansei",
+    "Lupin III: El Castillo de Cagliostro",
+    "Edgar de la Cambriole : Le Château de Cagliostro",
+    "Lupin Trzeci: Zamek Cagliostro",
+    "Lupin III: The Castle of Cagliostro",
+    "Lupin III - Il castello di Cagliostro",
+    "Lupin III - Slottet i Cagliostro",
+    "Das Schloss des Cagliostro",
+    "Lupin the Third: The Castle of Cagliostro"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1979,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1430-aHneeSPBCeHR.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1430",
+      "url": "https://anilist.co/anime/1430"
+    },
+    "k": {
+      "id": "1283",
+      "url": "https://kitsu.io/anime/1283"
+    },
+    "mal": {
+      "id": "1430",
+      "url": "https://myanimelist.net/anime/1430"
+    },
+    "nf": {
+      "id": "70050576",
+      "url": "https://www.netflix.com/title/70050576"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10152,
+  "slug": "kyou-mo-tsuno-ga-aru",
+  "kind": "anime",
+  "title": "Kyou mo Tsuno ga Aru",
+  "titles": {
+    "default": "Kyou mo Tsuno ga Aru",
+    "romaji": "Kyou mo Tsuno ga Aru",
+    "native": "今日もツノがある"
+  },
+  "synonyms": [
+    "Kyou mo Tsuno ga Aru",
+    "今日もツノがある",
+    "Mobile Suit Zeta Gundam",
+    "Kidou Senshi Zeta Gundam",
+    "機動戦士Ζガンダム",
+    "Mobile Suit Z Gundam"
+  ],
+  "type": "tv",
+  "episodes": 50,
+  "status": "finished",
+  "season": "winter",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx107653-aLVEL1FC9t8q.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "107653",
+      "url": "https://anilist.co/anime/107653"
+    },
+    "cr": {
+      "id": "series/GXJHM3P5W/mobile-suit-zeta-gundam",
+      "url": "https://www.crunchyroll.com/series/series/GXJHM3P5W/mobile-suit-zeta-gundam"
+    },
+    "k": {
+      "id": "64",
+      "url": "https://kitsu.io/anime/64"
+    },
+    "mal": {
+      "id": "39003",
+      "url": "https://myanimelist.net/anime/39003"
+    },
+    "t": {
+      "id": "13615",
+      "url": "https://trakt.tv/shows/13615"
+    }
+  }
+}

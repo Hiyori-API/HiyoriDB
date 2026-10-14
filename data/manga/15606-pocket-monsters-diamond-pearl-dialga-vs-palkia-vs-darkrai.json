@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15606,
+  "slug": "pocket-monsters-diamond-pearl-dialga-vs-palkia-vs-darkrai",
+  "kind": "manga",
+  "title": "Pocket Monsters Diamond & Pearl: Dialga vs. Palkia vs. Darkrai",
+  "titles": {
+    "default": "Pocket Monsters Diamond & Pearl: Dialga vs. Palkia vs. Darkrai"
+  },
+  "synonyms": [
+    "Pokémon Diamond & Pearl: Dialga vs. Palkia vs. Darkrai",
+    "The Rise of Darkrai",
+    "Pokémon: The Rise of Darkrai",
+    "ポケットモンスター ダイヤモンド＆パール ディアルガVSパルキアVSダークライ",
+    "Gekiryuuchi",
+    "激流血～OVER BLEED～",
+    "Over Bleed"
+  ],
+  "type": "manga",
+  "chapters": 5,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx41726-PsNSlKiEbKSN.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2847",
+      "url": "https://anilist.co/anime/2847"
+    },
+    "al_manga": {
+      "id": "2847",
+      "url": "https://anilist.co/manga/2847"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1015,
+  "slug": "mushrambo",
+  "kind": "anime",
+  "title": "Mushrambo",
+  "titles": {
+    "default": "Mushrambo",
+    "romaji": "Mushrambo",
+    "english": "Shinzo",
+    "native": "マシュランボー"
+  },
+  "synonyms": [
+    "Mushrambo",
+    "Shinzo",
+    "マシュランボー"
+  ],
+  "type": "tv",
+  "episodes": 32,
+  "status": "finished",
+  "season": "winter",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1137-1oNoAXDBUL0D.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1137",
+      "url": "https://anilist.co/anime/1137"
+    },
+    "k": {
+      "id": "1018",
+      "url": "https://kitsu.io/anime/1018"
+    },
+    "mal": {
+      "id": "1137",
+      "url": "https://myanimelist.net/anime/1137"
+    },
+    "t": {
+      "id": "21078",
+      "url": "https://trakt.tv/shows/21078"
+    }
+  }
+}

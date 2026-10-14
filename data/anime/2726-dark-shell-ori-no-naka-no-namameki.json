@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2726,
+  "slug": "dark-shell-ori-no-naka-no-namameki",
+  "kind": "anime",
+  "title": "Dark Shell: Ori no Naka no Namameki",
+  "titles": {
+    "default": "Dark Shell: Ori no Naka no Namameki",
+    "romaji": "Dark Shell: Ori no Naka no Namameki",
+    "english": "Dark Shell: Lust in the Cage",
+    "native": "ダーク・シェル 檻の中の艶"
+  },
+  "synonyms": [
+    "Dark Shell: Ori no Naka no Namameki",
+    "Dark Shell: Lust in the Cage",
+    "ダーク・シェル 檻の中の艶",
+    "Eiken",
+    "Eiken: Eikenbu yori Ai wo Komete",
+    "エイケン エイケンヴより愛をこめて"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3107.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3107",
+      "url": "https://anilist.co/anime/3107"
+    },
+    "k": {
+      "id": "703",
+      "url": "https://kitsu.io/anime/703"
+    },
+    "mal": {
+      "id": "3107",
+      "url": "https://myanimelist.net/anime/3107"
+    }
+  }
+}

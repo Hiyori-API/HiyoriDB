@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14522,
+  "slug": "giant-robo-chikyuu-no-moetsukiru-hi",
+  "kind": "manga",
+  "title": "Giant Robo: Chikyuu no Moetsukiru Hi",
+  "titles": {
+    "default": "Giant Robo: Chikyuu no Moetsukiru Hi"
+  },
+  "synonyms": [
+    "Jaianto Robo - Chikyuu no Moetsukiru Hi",
+    "Giant Robo: The Day the Earth Burned",
+    "ジャイアントロボ:地球の燃え尽きる日",
+    "Kataomoi no Mukougawa",
+    "片想いの向こう側",
+    "Kataomoi no Mukou Gawa",
+    "Ano Kado o Magareba",
+    "Tenshi ga Kuretamono",
+    "Bitou na Koi",
+    "Kimi to Natsu no Aizu"
+  ],
+  "type": "manga",
+  "volumes": 9,
+  "status": "finished",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx34538-eTxMAU454MCv.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2321",
+      "url": "https://anilist.co/anime/2321"
+    },
+    "al_manga": {
+      "id": "2321",
+      "url": "https://anilist.co/manga/2321"
+    }
+  }
+}

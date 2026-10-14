@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11615,
+  "slug": "sono-bisque-doll-wa-koi-wo-suru",
+  "kind": "anime",
+  "title": "Sono Bisque Doll wa Koi wo Suru",
+  "titles": {
+    "default": "Sono Bisque Doll wa Koi wo Suru",
+    "romaji": "Sono Bisque Doll wa Koi wo Suru",
+    "english": "My Dress-Up Darling",
+    "native": "その着せ替え人形は恋をする"
+  },
+  "synonyms": [
+    "Sono Bisque Doll wa Koi wo Suru",
+    "My Dress-Up Darling",
+    "その着せ替え人形は恋をする",
+    "Sono Kisekae Ningyou wa Koi wo suru",
+    "หนุ่มเย็บผ้ากับสาวนักคอสเพลย์",
+    "その着せ替え人形（ビスク・ドール）は恋をする",
+    "kisekoi",
+    "Si Boneka Rias Sedang Jatuh Cinta",
+    "Projekt: cosplay",
+    "Любовь с иголочки",
+    "着せ恋",
+    "Oyuncak Bebek Sevgilim",
+    "Nàng Búp Bê Thử Đồ Biết Yêu",
+    "Sono Kisekae Ningyou wa Koi wo Suru",
+    "KiseKoi"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132405-qP7FQYGmNI3d.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "132405",
+      "url": "https://anilist.co/anime/132405"
+    },
+    "cr": {
+      "id": "series/GQWH0M9N8",
+      "url": "https://www.crunchyroll.com/series/series/GQWH0M9N8"
+    },
+    "mal": {
+      "id": "48736",
+      "url": "https://myanimelist.net/anime/48736"
+    },
+    "tx": {
+      "id": "kisekoi_anime",
+      "url": "https://twitter.com/kisekoi_anime"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8294,
+  "slug": "pok-mon-the-movie-xy-ring-no-chou-majin-hoopa",
+  "kind": "anime",
+  "title": "Pokémon The Movie XY: Ring no Chou Majin Hoopa",
+  "titles": {
+    "default": "Pokémon The Movie XY: Ring no Chou Majin Hoopa",
+    "romaji": "Pokémon The Movie XY: Ring no Chou Majin Hoopa",
+    "english": "Pokémon the Movie: Hoopa and the Clash of Ages",
+    "native": "ポケモン・ザ・ムービーXY 光輪の超魔神 フーパ"
+  },
+  "synonyms": [
+    "Pokémon The Movie XY: Ring no Chou Majin Hoopa",
+    "Pokémon the Movie: Hoopa and the Clash of Ages",
+    "ポケモン・ザ・ムービーXY 光輪の超魔神 フーパ",
+    "Pokemon the Movie: Hoopa and the Clash of Ages",
+    "Pokémon Filmen: Hoopa og tidenes sammenstøt",
+    "Pocket Monsters XY: Ring no Chou Majin Hoopa",
+    "Pokémon: Hoopa i starcie wszech czasów",
+    "Pokémon Filmen: Hoopa och tidernas sammandrabbning",
+    "Pokemon the Movie XY: Ring no Choumajin Hoopa",
+    "ポケモン・ザ・ムービーXY『光輪（リング）の超魔神 フーパ』",
+    "Pokemon the Movie XY 2015",
+    "Pokemon the Movie XY: The Archdjinni of Rings - Hoopa",
+    "Pokemon Movie 18"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21266-5okUsTjY5nJl.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21266",
+      "url": "https://anilist.co/anime/21266"
+    },
+    "k": {
+      "id": "8903",
+      "url": "https://kitsu.io/anime/8903"
+    },
+    "mal": {
+      "id": "25805",
+      "url": "https://myanimelist.net/anime/25805"
+    },
+    "nf": {
+      "id": "80094198",
+      "url": "https://www.netflix.com/title/80094198"
+    }
+  }
+}

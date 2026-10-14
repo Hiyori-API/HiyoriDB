@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 69,
+  "slug": "kidou-senshi-v-gundam",
+  "kind": "anime",
+  "title": "Kidou Senshi V Gundam",
+  "titles": {
+    "default": "Kidou Senshi V Gundam",
+    "romaji": "Kidou Senshi V Gundam",
+    "english": "Mobile Suit Victory Gundam",
+    "native": "機動戦士Vガンダム"
+  },
+  "synonyms": [
+    "Kidou Senshi V Gundam",
+    "Mobile Suit Victory Gundam",
+    "機動戦士Vガンダム",
+    "Kidou Senshi Victory Gundam",
+    "Mobile Suit V Gundam"
+  ],
+  "type": "tv",
+  "episodes": 51,
+  "status": "finished",
+  "season": "spring",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx89-835MY29WPRdm.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "89",
+      "url": "https://anilist.co/anime/89"
+    },
+    "k": {
+      "id": "68",
+      "url": "https://kitsu.io/anime/68"
+    },
+    "mal": {
+      "id": "89",
+      "url": "https://myanimelist.net/anime/89"
+    },
+    "t": {
+      "id": "42498",
+      "url": "https://trakt.tv/shows/42498"
+    }
+  }
+}

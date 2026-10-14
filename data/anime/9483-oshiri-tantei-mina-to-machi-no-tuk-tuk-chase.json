@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9483,
+  "slug": "oshiri-tantei-mina-to-machi-no-tuk-tuk-chase",
+  "kind": "anime",
+  "title": "Oshiri Tantei: \"Mina to Machi no Tuk-tuk Chase\"",
+  "titles": {
+    "default": "Oshiri Tantei: \"Mina to Machi no Tuk-tuk Chase\"",
+    "romaji": "Oshiri Tantei: \"Mina to Machi no Tuk-tuk Chase\"",
+    "english": "Butt Detective “Auto Rickshaw Chase in Port Town”",
+    "native": "おしりたんてい 「みなとまちの トゥクトゥクチェイス」"
+  },
+  "synonyms": [
+    "Oshiri Tantei: \"Mina to Machi no Tuk-tuk Chase\"",
+    "Butt Detective “Auto Rickshaw Chase in Port Town”",
+    "おしりたんてい 「みなとまちの トゥクトゥクチェイス」",
+    "Hoshizora Kiseki",
+    "星空キセキ"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b188037-M0Ri6Gg1I2tO.png"
+  ],
+  "references": {
+    "al": {
+      "id": "188037",
+      "url": "https://anilist.co/anime/188037"
+    },
+    "k": {
+      "id": "1097",
+      "url": "https://kitsu.io/anime/1097"
+    },
+    "mal": {
+      "id": "36969",
+      "url": "https://myanimelist.net/anime/36969"
+    },
+    "yt": {
+      "id": "WFdhkvLX72c",
+      "url": "https://www.youtube.com/watch?v=WFdhkvLX72c"
+    }
+  }
+}

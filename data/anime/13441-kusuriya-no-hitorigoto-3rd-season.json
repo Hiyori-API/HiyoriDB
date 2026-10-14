@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13441,
+  "slug": "kusuriya-no-hitorigoto-3rd-season",
+  "kind": "anime",
+  "title": "Kusuriya no Hitorigoto 3rd Season",
+  "titles": {
+    "default": "Kusuriya no Hitorigoto 3rd Season",
+    "romaji": "Kusuriya no Hitorigoto 3rd Season",
+    "english": "The Apothecary Diaries Season 3",
+    "native": "薬屋のひとりごと 第3期"
+  },
+  "synonyms": [
+    "Kusuriya no Hitorigoto 3rd Season",
+    "The Apothecary Diaries Season 3",
+    "薬屋のひとりごと 第3期",
+    "The Pharmacist's Monologue",
+    "Drugstore Soliloquy"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "airing",
+  "season": "fall",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195516-MJpUZlOberqH.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "195516",
+      "url": "https://anilist.co/anime/195516"
+    },
+    "cr": {
+      "id": "series/G3KHEVDJ7/the-apothecary-diaries",
+      "url": "https://www.crunchyroll.com/series/series/G3KHEVDJ7/the-apothecary-diaries"
+    },
+    "mal": {
+      "id": "61987",
+      "url": "https://myanimelist.net/anime/61987"
+    },
+    "tx": {
+      "id": "kusuriya_PR",
+      "url": "https://twitter.com/kusuriya_PR"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4560,
+  "slug": "cheburashka-arere",
+  "kind": "anime",
+  "title": "Cheburashka Arere?",
+  "titles": {
+    "default": "Cheburashka Arere?",
+    "romaji": "Cheburashka Arere?",
+    "native": "チェブラーシカ あれれ？"
+  },
+  "synonyms": [
+    "Cheburashka Arere?",
+    "チェブラーシカ あれれ？",
+    "Winter Sonata",
+    "冬のソナタ",
+    "Fuyu no Sonata",
+    "Winter Ballad",
+    "Winter Love Story"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b7176-NRVrlohpmTxP.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7176",
+      "url": "https://anilist.co/anime/7176"
+    },
+    "k": {
+      "id": "3511",
+      "url": "https://kitsu.io/anime/3511"
+    },
+    "mal": {
+      "id": "7176",
+      "url": "https://myanimelist.net/anime/7176"
+    },
+    "t": {
+      "id": "63295",
+      "url": "https://trakt.tv/shows/63295"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5740,
+  "slug": "futatsu-no-kurumi",
+  "kind": "anime",
+  "title": "Futatsu no Kurumi",
+  "titles": {
+    "default": "Futatsu no Kurumi",
+    "romaji": "Futatsu no Kurumi",
+    "native": "ふたつの胡桃"
+  },
+  "synonyms": [
+    "Futatsu no Kurumi",
+    "ふたつの胡桃",
+    "Story of War: Futatsu no Kurumi",
+    "Two Walnuts"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7775.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7775",
+      "url": "https://anilist.co/anime/7775"
+    },
+    "k": {
+      "id": "5118",
+      "url": "https://kitsu.io/anime/5118"
+    },
+    "mal": {
+      "id": "7775",
+      "url": "https://myanimelist.net/anime/7775"
+    }
+  }
+}

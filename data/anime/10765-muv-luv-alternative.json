@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10765,
+  "slug": "muv-luv-alternative",
+  "kind": "anime",
+  "title": "Muv-Luv Alternative",
+  "titles": {
+    "default": "Muv-Luv Alternative",
+    "romaji": "Muv-Luv Alternative",
+    "native": "マブラヴ オルタネイティヴ"
+  },
+  "synonyms": [
+    "Muv-Luv Alternative",
+    "マブラヴ オルタネイティヴ",
+    "Muv-Luv Alternative The Animation",
+    "Ring ni Kakero 1",
+    "リングにかけろ１",
+    "Put it all in the Ring"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112716-4mMkZtsR3MIn.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "112716",
+      "url": "https://anilist.co/anime/112716"
+    },
+    "cr": {
+      "id": "muv-luv-alternative",
+      "url": "https://www.crunchyroll.com/series/muv-luv-alternative"
+    },
+    "k": {
+      "id": "14",
+      "url": "https://kitsu.io/anime/14"
+    },
+    "mal": {
+      "id": "40608",
+      "url": "https://myanimelist.net/anime/40608"
+    },
+    "t": {
+      "id": "69507",
+      "url": "https://trakt.tv/shows/69507"
+    },
+    "tx": {
+      "id": "Muv_Luv_A_anime",
+      "url": "https://twitter.com/Muv_Luv_A_anime"
+    }
+  }
+}

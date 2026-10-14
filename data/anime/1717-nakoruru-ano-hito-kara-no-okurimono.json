@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1717,
+  "slug": "nakoruru-ano-hito-kara-no-okurimono",
+  "kind": "anime",
+  "title": "Nakoruru: Ano Hito kara no Okurimono",
+  "titles": {
+    "default": "Nakoruru: Ano Hito kara no Okurimono",
+    "romaji": "Nakoruru: Ano Hito kara no Okurimono",
+    "native": "ナコルル 〜あのひとからのおくりもの〜"
+  },
+  "synonyms": [
+    "Nakoruru: Ano Hito kara no Okurimono",
+    "ナコルル 〜あのひとからのおくりもの〜",
+    "Voices of a Distant Star",
+    "Hoshi no Koe",
+    "ほしのこえ"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "cancelled",
+  "season": "spring",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx1937-yROn8rEWOvQj.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1937",
+      "url": "https://anilist.co/anime/1937"
+    },
+    "cr": {
+      "id": "voices-of-a-distant-star",
+      "url": "https://www.crunchyroll.com/series/voices-of-a-distant-star"
+    },
+    "k": {
+      "id": "231",
+      "url": "https://kitsu.io/anime/231"
+    },
+    "mal": {
+      "id": "1937",
+      "url": "https://myanimelist.net/anime/1937"
+    }
+  }
+}

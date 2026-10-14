@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13940,
+  "slug": "energist-no-kioku-tenkuu-no-escaflowne-comic-anthology",
+  "kind": "manga",
+  "title": "Energist no Kioku: Tenkuu no Escaflowne Comic Anthology",
+  "titles": {
+    "default": "Energist no Kioku: Tenkuu no Escaflowne Comic Anthology"
+  },
+  "synonyms": [
+    "Energist's Memories",
+    "Energyst",
+    "The Vision of Escaflowne Comic Anthology",
+    "石の記憶―天空のエスカフローネ・コミックアンソロジー",
+    "Kamikaze Kaito Jeanne",
+    "Kamikaze Kaitou Jeanne",
+    "Phantom Thief Jeanne",
+    "神風怪盗ジャンヌ",
+    "Divine Wind Phantom Thief Jeanne"
+  ],
+  "type": "manga",
+  "volumes": 1,
+  "status": "finished",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/9812.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "182",
+      "url": "https://anilist.co/anime/182"
+    },
+    "al_manga": {
+      "id": "182",
+      "url": "https://anilist.co/manga/182"
+    }
+  }
+}

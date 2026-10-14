@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8482,
+  "slug": "ansatsu-kyoushitsu-2nd-season",
+  "kind": "anime",
+  "title": "Ansatsu Kyoushitsu 2nd Season",
+  "titles": {
+    "default": "Ansatsu Kyoushitsu 2nd Season",
+    "romaji": "Ansatsu Kyoushitsu 2nd Season",
+    "english": "Assassination Classroom Second Season",
+    "native": "暗殺教室 第２期"
+  },
+  "synonyms": [
+    "Ansatsu Kyoushitsu 2nd Season",
+    "Assassination Classroom Second Season",
+    "暗殺教室 第２期",
+    "فصل الاغتيال 2",
+    "Klasa skrytobójców 2",
+    "Assassination Classroom Season 2",
+    "Ansatsu Kyoushitsu Season 2",
+    "Ansatsu Kyoushitsu Final Season",
+    "暗殺教室　第２期"
+  ],
+  "type": "tv",
+  "episodes": 25,
+  "status": "finished",
+  "season": "winter",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21170-kbcfTTZGSaFt.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21170",
+      "url": "https://anilist.co/anime/21170"
+    },
+    "cr": {
+      "id": "assassination-classroom",
+      "url": "https://www.crunchyroll.com/series/assassination-classroom"
+    },
+    "mal": {
+      "id": "30654",
+      "url": "https://myanimelist.net/anime/30654"
+    },
+    "nf": {
+      "id": "80045948",
+      "url": "https://www.netflix.com/title/80045948"
+    },
+    "tx": {
+      "id": "ansatsu_anime",
+      "url": "https://twitter.com/ansatsu_anime"
+    }
+  }
+}

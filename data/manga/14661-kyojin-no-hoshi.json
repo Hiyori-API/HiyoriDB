@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14661,
+  "slug": "kyojin-no-hoshi",
+  "kind": "manga",
+  "title": "Kyojin no Hoshi",
+  "titles": {
+    "default": "Kyojin no Hoshi"
+  },
+  "synonyms": [
+    "Star of the Giants",
+    "巨人の星",
+    "Kyojin no Hoshi"
+  ],
+  "type": "manga",
+  "chapters": 235,
+  "volumes": 19,
+  "status": "finished",
+  "year": 1966,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b45305-gzmKyzxr1P4f.png"
+  ],
+  "references": {
+    "al": {
+      "id": "17439",
+      "url": "https://anilist.co/anime/5834"
+    },
+    "al_manga": {
+      "id": "17439",
+      "url": "https://anilist.co/manga/17439"
+    }
+  }
+}

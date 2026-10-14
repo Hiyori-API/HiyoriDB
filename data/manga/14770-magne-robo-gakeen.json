@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14770,
+  "slug": "magne-robo-gakeen",
+  "kind": "manga",
+  "title": "Magne Robo Gakeen",
+  "titles": {
+    "default": "Magne Robo Gakeen"
+  },
+  "synonyms": [
+    "マグネロボ ガ・キーン",
+    "Christmas Snow",
+    "Noel la Neige",
+    "ノエル　ラ　ネージュ",
+    "Noël la neige"
+  ],
+  "type": "one_shot",
+  "chapters": 1,
+  "status": "finished",
+  "year": 1976,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx193852-goDZdJVWHjTD.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3932",
+      "url": "https://anilist.co/anime/3932"
+    },
+    "al_manga": {
+      "id": "3932",
+      "url": "https://anilist.co/manga/3932"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7886,
+  "slug": "lovely-movie-itoshi-no-muco-season-2",
+  "kind": "anime",
+  "title": "Lovely Movie: Itoshi no Muco Season 2",
+  "titles": {
+    "default": "Lovely Movie: Itoshi no Muco Season 2",
+    "romaji": "Lovely Movie: Itoshi no Muco Season 2",
+    "english": "Lovely Movie: Lovely Muuuuuuuco! Season 2",
+    "native": "ラブリームービー　いとしのムーコ シーズン２"
+  },
+  "synonyms": [
+    "Lovely Movie: Itoshi no Muco Season 2",
+    "Lovely Movie: Lovely Muuuuuuuco! Season 2",
+    "ラブリームービー　いとしのムーコ シーズン２",
+    "Kimiuso",
+    "Your Lie in April",
+    "四月は君の嘘",
+    "Shigatsu wa Kimi no Uso"
+  ],
+  "type": "tv",
+  "episodes": 22,
+  "status": "finished",
+  "season": "spring",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21227-b5W4jg4x8yzU.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21227",
+      "url": "https://anilist.co/anime/21227"
+    },
+    "mal": {
+      "id": "23901",
+      "url": "https://myanimelist.net/anime/23901"
+    }
+  }
+}

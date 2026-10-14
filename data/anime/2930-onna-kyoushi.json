@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2930,
+  "slug": "onna-kyoushi",
+  "kind": "anime",
+  "title": "Onna Kyoushi",
+  "titles": {
+    "default": "Onna Kyoushi",
+    "romaji": "Onna Kyoushi",
+    "english": "Hot Juicy Teacher",
+    "native": "女教師"
+  },
+  "synonyms": [
+    "Onna Kyoushi",
+    "Hot Juicy Teacher",
+    "女教師",
+    "Mobile Police Patlabor Minimum",
+    "MiniPato",
+    "ミニパト",
+    "Mini Pato"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "winter",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3452.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3452",
+      "url": "https://anilist.co/anime/3452"
+    },
+    "k": {
+      "id": "2493",
+      "url": "https://kitsu.io/anime/2493"
+    },
+    "mal": {
+      "id": "3452",
+      "url": "https://myanimelist.net/anime/3452"
+    }
+  }
+}

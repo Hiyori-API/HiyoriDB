@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9604,
+  "slug": "juushinki-pandora",
+  "kind": "anime",
+  "title": "Juushinki Pandora",
+  "titles": {
+    "default": "Juushinki Pandora",
+    "romaji": "Juushinki Pandora",
+    "english": "LAST HOPE",
+    "native": "重神機パンドーラ"
+  },
+  "synonyms": [
+    "Juushinki Pandora",
+    "LAST HOPE",
+    "重神機パンドーラ",
+    "الأمل الأخير",
+    "重神机潘多拉",
+    "Kakuriyo: Bed & Breakfast for Spirits",
+    "かくりよの宿飯",
+    "Kakuriyo no Yadomeshi"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx100341-0fgk2fX8hc79.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "100341",
+      "url": "https://anilist.co/anime/100341"
+    },
+    "mal": {
+      "id": "33531",
+      "url": "https://myanimelist.net/anime/33531"
+    },
+    "nf": {
+      "id": "80221272",
+      "url": "https://www.netflix.com/title/80221272"
+    },
+    "tx": {
+      "id": "unit_pandora",
+      "url": "https://twitter.com/unit_pandora"
+    }
+  }
+}

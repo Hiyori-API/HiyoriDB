@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4987,
+  "slug": "tooyamazakura-uchuuchou-yatsu-no-na-wa-gold",
+  "kind": "anime",
+  "title": "Tooyamazakura Uchuuchou: Yatsu no Na wa Gold",
+  "titles": {
+    "default": "Tooyamazakura Uchuuchou: Yatsu no Na wa Gold",
+    "romaji": "Tooyamazakura Uchuuchou: Yatsu no Na wa Gold",
+    "native": "遠山桜宇宙帖 奴の名はゴールド"
+  },
+  "synonyms": [
+    "Tooyamazakura Uchuuchou: Yatsu no Na wa Gold",
+    "遠山桜宇宙帖 奴の名はゴールド",
+    "Samurai Gold",
+    "Ten Little Gall Force",
+    "テンリトルガルフォース",
+    "Super Deformed Double Feature"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12399-ivMb94EWXOUo.png"
+  ],
+  "references": {
+    "al": {
+      "id": "12399",
+      "url": "https://anilist.co/anime/12399"
+    },
+    "k": {
+      "id": "4524",
+      "url": "https://kitsu.io/anime/4524"
+    },
+    "mal": {
+      "id": "12399",
+      "url": "https://myanimelist.net/anime/12399"
+    }
+  }
+}

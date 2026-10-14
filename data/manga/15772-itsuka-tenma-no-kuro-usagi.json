@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15772,
+  "slug": "itsuka-tenma-no-kuro-usagi",
+  "kind": "manga",
+  "title": "Itsuka Tenma no Kuro Usagi",
+  "titles": {
+    "default": "Itsuka Tenma no Kuro Usagi"
+  },
+  "synonyms": [
+    "Itsuka Tenma no Kuro-Usagi",
+    "A Dark Rabbit Has Seven Lives",
+    "ItsuTen",
+    "いつか天魔の黒ウサギ",
+    "Kaichou no Joker",
+    "会長の切り札",
+    "Kaichou no Kirifuda"
+  ],
+  "type": "novel",
+  "chapters": 84,
+  "volumes": 13,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/25210.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9750",
+      "url": "https://anilist.co/anime/9750"
+    },
+    "al_manga": {
+      "id": "9750",
+      "url": "https://anilist.co/manga/9750"
+    }
+  }
+}

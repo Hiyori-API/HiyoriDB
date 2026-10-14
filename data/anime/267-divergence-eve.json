@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 267,
+  "slug": "divergence-eve",
+  "kind": "anime",
+  "title": "Divergence Eve",
+  "titles": {
+    "default": "Divergence Eve",
+    "romaji": "Divergence Eve",
+    "native": "ダイバージェンス・イヴ"
+  },
+  "synonyms": [
+    "Divergence Eve",
+    "ダイバージェンス・イヴ"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx294-aXIWReB1FL5M.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "294",
+      "url": "https://anilist.co/anime/294"
+    },
+    "k": {
+      "id": "269",
+      "url": "https://kitsu.io/anime/269"
+    },
+    "mal": {
+      "id": "294",
+      "url": "https://myanimelist.net/anime/294"
+    },
+    "t": {
+      "id": "12298",
+      "url": "https://trakt.tv/shows/12298"
+    }
+  }
+}

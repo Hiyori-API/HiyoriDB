@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5983,
+  "slug": "konchuu-monogatari-mitsubachi-hutch-yuuki-no-melody",
+  "kind": "anime",
+  "title": "Konchuu Monogatari Mitsubachi Hutch: Yuuki no Melody",
+  "titles": {
+    "default": "Konchuu Monogatari Mitsubachi Hutch: Yuuki no Melody",
+    "romaji": "Konchuu Monogatari Mitsubachi Hutch: Yuuki no Melody",
+    "native": "昆虫物語 みつばちハッチ～勇気のメロディ～"
+  },
+  "synonyms": [
+    "Konchuu Monogatari Mitsubachi Hutch: Yuuki no Melody",
+    "昆虫物語 みつばちハッチ～勇気のメロディ～",
+    "Hutch the Honeybee"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8141.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8141",
+      "url": "https://anilist.co/anime/8141"
+    },
+    "k": {
+      "id": "5211",
+      "url": "https://kitsu.io/anime/5211"
+    },
+    "mal": {
+      "id": "8141",
+      "url": "https://myanimelist.net/anime/8141"
+    }
+  }
+}

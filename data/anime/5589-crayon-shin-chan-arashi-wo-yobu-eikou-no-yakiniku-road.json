@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5589,
+  "slug": "crayon-shin-chan-arashi-wo-yobu-eikou-no-yakiniku-road",
+  "kind": "anime",
+  "title": "Crayon Shin-chan: Arashi wo Yobu Eikou no Yakiniku Road",
+  "titles": {
+    "default": "Crayon Shin-chan: Arashi wo Yobu Eikou no Yakiniku Road",
+    "romaji": "Crayon Shin-chan: Arashi wo Yobu Eikou no Yakiniku Road",
+    "english": "Crayon Shin-chan: Fierceness That Invites Storm! Yakiniku Road of Honor",
+    "native": "映画 クレヨンしんちゃん 嵐を呼ぶ栄光のヤキニクロード"
+  },
+  "synonyms": [
+    "Crayon Shin-chan: Arashi wo Yobu Eikou no Yakiniku Road",
+    "Crayon Shin-chan: Fierceness That Invites Storm! Yakiniku Road of Honor",
+    "映画 クレヨンしんちゃん 嵐を呼ぶ栄光のヤキニクロード",
+    "Eiga Crayon Shin-chan: Arashi wo Yobu Eikou no Yakiniku Road",
+    "Crayon Shin-chan: The Storm Called: Yakiniku Road of Honor",
+    "Shin Chan y el chuletón imposible",
+    "ชินจัง เดอะมูฟวี่ 11 : แด่เนื้อย่าง และความสงบสุขของโลก",
+    "Shin-chan Cậu bé bút chì: Hiểm họa gọi mời - Con đường thịt nướng vinh quang",
+    "Crayon Shin-chan Movie 11: Arashi wo Yobu Eikou no Yakiniku Road"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8363.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8363",
+      "url": "https://anilist.co/anime/8363"
+    },
+    "k": {
+      "id": "5312",
+      "url": "https://kitsu.io/anime/5312"
+    },
+    "mal": {
+      "id": "8363",
+      "url": "https://myanimelist.net/anime/8363"
+    }
+  }
+}

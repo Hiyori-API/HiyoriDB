@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 87,
+  "slug": "ou-dorobou-jing",
+  "kind": "anime",
+  "title": "Ou Dorobou JING",
+  "titles": {
+    "default": "Ou Dorobou JING",
+    "romaji": "Ou Dorobou JING",
+    "english": "Jing: King of Bandits",
+    "native": "王ドロボウ JING"
+  },
+  "synonyms": [
+    "Ou Dorobou JING",
+    "Jing: King of Bandits",
+    "王ドロボウ JING",
+    "King of Bandit Jing",
+    "Ou Dorobou Jing"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx107-w685twC2xgyr.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "107",
+      "url": "https://anilist.co/anime/107"
+    },
+    "k": {
+      "id": "86",
+      "url": "https://kitsu.io/anime/86"
+    },
+    "mal": {
+      "id": "107",
+      "url": "https://myanimelist.net/anime/107"
+    },
+    "t": {
+      "id": "34671",
+      "url": "https://trakt.tv/shows/34671"
+    }
+  }
+}

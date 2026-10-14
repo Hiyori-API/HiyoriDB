@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5,
+  "slug": "bouken-ou-beet",
+  "kind": "anime",
+  "title": "Bouken Ou Beet",
+  "titles": {
+    "default": "Bouken Ou Beet",
+    "romaji": "Bouken Ou Beet",
+    "english": "Beet the Vandel Buster",
+    "native": "冒険王ビィト"
+  },
+  "synonyms": [
+    "Bouken Ou Beet",
+    "Beet the Vandel Buster",
+    "冒険王ビィト",
+    "Adventure King Beet",
+    "Onmyou Taisenki",
+    "陰陽大戦記",
+    "Onmyou Tai Senki",
+    "The Chronicle of the Big Battle between Yin and Yang"
+  ],
+  "type": "tv",
+  "episodes": 52,
+  "status": "finished",
+  "season": "fall",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8-ReS3TwSgrDDi.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8",
+      "url": "https://anilist.co/anime/8"
+    },
+    "k": {
+      "id": "568",
+      "url": "https://kitsu.io/anime/568"
+    },
+    "mal": {
+      "id": "8",
+      "url": "https://myanimelist.net/anime/8"
+    },
+    "t": {
+      "id": "34028",
+      "url": "https://trakt.tv/shows/34028"
+    },
+    "tvt": {
+      "id": "beet",
+      "url": "http://www.tv-tokyo.co.jp/anime/beet"
+    }
+  }
+}

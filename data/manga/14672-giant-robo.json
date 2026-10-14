@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14672,
+  "slug": "giant-robo",
+  "kind": "manga",
+  "title": "Giant Robo",
+  "titles": {
+    "default": "Giant Robo"
+  },
+  "synonyms": [
+    "ジャイアントロボ",
+    "Lupin III",
+    "Lupin Sansei",
+    "Lupin the 3rd",
+    "ルパン三世"
+  ],
+  "type": "manga",
+  "chapters": 39,
+  "volumes": 2,
+  "status": "finished",
+  "year": 1967,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/40437.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3146",
+      "url": "https://anilist.co/anime/2321"
+    },
+    "al_manga": {
+      "id": "3146",
+      "url": "https://anilist.co/manga/3146"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 286,
+  "slug": "ace-wo-nerae-2",
+  "kind": "anime",
+  "title": "Ace wo Nerae! 2",
+  "titles": {
+    "default": "Ace wo Nerae! 2",
+    "romaji": "Ace wo Nerae! 2",
+    "english": "Aim for the Ace!: Another Match",
+    "native": "エースをねらえ！２"
+  },
+  "synonyms": [
+    "Ace wo Nerae! 2",
+    "Aim for the Ace!: Another Match",
+    "エースをねらえ！２",
+    "Ace wo Nerae! OVA 1",
+    "Aim for the Ace! 2"
+  ],
+  "type": "ova",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx314-ZDzJz1ZrobY7.png"
+  ],
+  "references": {
+    "al": {
+      "id": "314",
+      "url": "https://anilist.co/anime/314"
+    },
+    "k": {
+      "id": "8123",
+      "url": "https://kitsu.io/anime/8123"
+    },
+    "mal": {
+      "id": "314",
+      "url": "https://myanimelist.net/anime/314"
+    }
+  }
+}

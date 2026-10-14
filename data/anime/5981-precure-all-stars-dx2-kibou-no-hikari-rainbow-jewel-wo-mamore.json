@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5981,
+  "slug": "precure-all-stars-dx2-kibou-no-hikari-rainbow-jewel-wo-mamore",
+  "kind": "anime",
+  "title": "Precure All Stars DX2: Kibou no Hikari☆Rainbow Jewel wo Mamore!",
+  "titles": {
+    "default": "Precure All Stars DX2: Kibou no Hikari☆Rainbow Jewel wo Mamore!",
+    "romaji": "Precure All Stars DX2: Kibou no Hikari☆Rainbow Jewel wo Mamore!",
+    "native": "プリキュアオールスターズDX2 希望の光☆レインボージュエルを守れ!"
+  },
+  "synonyms": [
+    "Precure All Stars DX2: Kibou no Hikari☆Rainbow Jewel wo Mamore!",
+    "プリキュアオールスターズDX2 希望の光☆レインボージュエルを守れ!",
+    "Eiga Precure All Stars DX2: Kibou no Hikari - Rainbow Jewel wo Mamore!",
+    "Pretty Cure All Stars DX2: Light of Hope - Protect the Rainbow Jewel!",
+    "Precure All Stars Movie DX2: Kibou no Hikari☆Rainbow Jewel wo Mamore!",
+    "映画 プリキュアオールスターズDX2 希望の光☆レインボージュエルを守れ!"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx8133-XlBoDplQefLt.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8133",
+      "url": "https://anilist.co/anime/8133"
+    },
+    "k": {
+      "id": "5207",
+      "url": "https://kitsu.io/anime/5207"
+    },
+    "mal": {
+      "id": "8133",
+      "url": "https://myanimelist.net/anime/8133"
+    }
+  }
+}

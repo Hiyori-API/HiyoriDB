@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2853,
+  "slug": "harbor-light-monogatari-fashion-lala-yori",
+  "kind": "anime",
+  "title": "Harbor Light Monogatari: Fashion Lala yori",
+  "titles": {
+    "default": "Harbor Light Monogatari: Fashion Lala yori",
+    "romaji": "Harbor Light Monogatari: Fashion Lala yori",
+    "native": "ハーバーライト物語 ファッションララより"
+  },
+  "synonyms": [
+    "Harbor Light Monogatari: Fashion Lala yori",
+    "ハーバーライト物語 ファッションララより",
+    "Fashion Lala: The Story of the Harbor Light",
+    "Fancy Lala OVA",
+    "Appleseed",
+    "アップル・シード"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3320-SFYAerxinGzK.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3320",
+      "url": "https://anilist.co/anime/3320"
+    },
+    "k": {
+      "id": "834",
+      "url": "https://kitsu.io/anime/834"
+    },
+    "mal": {
+      "id": "3320",
+      "url": "https://myanimelist.net/anime/3320"
+    }
+  }
+}

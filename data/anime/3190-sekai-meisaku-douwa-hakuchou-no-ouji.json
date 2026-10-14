@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3190,
+  "slug": "sekai-meisaku-douwa-hakuchou-no-ouji",
+  "kind": "anime",
+  "title": "Sekai Meisaku Douwa: Hakuchou no Ouji",
+  "titles": {
+    "default": "Sekai Meisaku Douwa: Hakuchou no Ouji",
+    "romaji": "Sekai Meisaku Douwa: Hakuchou no Ouji",
+    "english": "The Wild Swans",
+    "native": "世界名作童話 白鳥の王子"
+  },
+  "synonyms": [
+    "Sekai Meisaku Douwa: Hakuchou no Ouji",
+    "The Wild Swans",
+    "世界名作童話 白鳥の王子",
+    "World Children's Classics: The Prince of the Swans"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1977,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3847.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3847",
+      "url": "https://anilist.co/anime/3847"
+    },
+    "k": {
+      "id": "3299",
+      "url": "https://kitsu.io/anime/3299"
+    },
+    "mal": {
+      "id": "3847",
+      "url": "https://myanimelist.net/anime/3847"
+    }
+  }
+}

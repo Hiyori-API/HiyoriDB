@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2634,
+  "slug": "harumi-chan-no-oita",
+  "kind": "anime",
+  "title": "Harumi-chan no Oita",
+  "titles": {
+    "default": "Harumi-chan no Oita",
+    "romaji": "Harumi-chan no Oita",
+    "native": "はるみちゃんのおいた"
+  },
+  "synonyms": [
+    "Harumi-chan no Oita",
+    "はるみちゃんのおいた",
+    "Harumi's Bad Play",
+    "Afro-Ken",
+    "アフロ犬"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2991.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2991",
+      "url": "https://anilist.co/anime/2991"
+    },
+    "k": {
+      "id": "2552",
+      "url": "https://kitsu.io/anime/2552"
+    },
+    "mal": {
+      "id": "2991",
+      "url": "https://myanimelist.net/anime/2991"
+    }
+  }
+}

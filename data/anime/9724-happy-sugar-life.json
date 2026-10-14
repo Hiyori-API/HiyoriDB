@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9724,
+  "slug": "happy-sugar-life",
+  "kind": "anime",
+  "title": "Happy Sugar Life",
+  "titles": {
+    "default": "Happy Sugar Life",
+    "romaji": "Happy Sugar Life",
+    "native": "ハッピーシュガーライフ"
+  },
+  "synonyms": [
+    "Happy Sugar Life",
+    "ハッピーシュガーライフ",
+    "White Sugar Garden, Black Salt Cage",
+    "幸福甜蜜生活",
+    "High Score Girl",
+    "ハイスコアガール",
+    "Hi Score Girl"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101351-TWLbnRdE1tBI.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101351",
+      "url": "https://anilist.co/anime/101351"
+    },
+    "k": {
+      "id": "8158",
+      "url": "https://kitsu.io/anime/8158"
+    },
+    "mal": {
+      "id": "37517",
+      "url": "https://myanimelist.net/anime/37517"
+    },
+    "nf": {
+      "id": "80997338",
+      "url": "https://www.netflix.com/title/80997338"
+    },
+    "tx": {
+      "id": "happysugarlifeA",
+      "url": "https://twitter.com/happysugarlifeA"
+    }
+  }
+}

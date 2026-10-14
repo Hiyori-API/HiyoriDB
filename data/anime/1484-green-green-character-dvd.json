@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1484,
+  "slug": "green-green-character-dvd",
+  "kind": "anime",
+  "title": "Green Green Character DVD",
+  "titles": {
+    "default": "Green Green Character DVD",
+    "romaji": "Green Green Character DVD",
+    "native": "グリーングリーン キャラクターDVD"
+  },
+  "synonyms": [
+    "Green Green Character DVD",
+    "グリーングリーン キャラクターDVD",
+    "グリーングリーン ショートストーリー",
+    "Green Green Short Story",
+    "みどり＆麗華",
+    "双葉&千種",
+    "早苗&若葉",
+    "Green Green Specials"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "fall",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1679-MqQ8t9sAQtCH.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1679",
+      "url": "https://anilist.co/anime/1679"
+    },
+    "k": {
+      "id": "1509",
+      "url": "https://kitsu.io/anime/1509"
+    },
+    "mal": {
+      "id": "1679",
+      "url": "https://myanimelist.net/anime/1679"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4062,
+  "slug": "kupu-mamegoma",
+  "kind": "anime",
+  "title": "Kupu~!! Mamegoma!",
+  "titles": {
+    "default": "Kupu~!! Mamegoma!",
+    "romaji": "Kupu~!! Mamegoma!",
+    "native": "クプ~!!まめゴマ!"
+  },
+  "synonyms": [
+    "Kupu~!! Mamegoma!",
+    "クプ~!!まめゴマ!",
+    "KUPU! Bean sesame!",
+    "Kupuu!! Mamegoma!"
+  ],
+  "type": "tv",
+  "episodes": 51,
+  "status": "finished",
+  "season": "winter",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5809-bbht45Ug5OxS.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5809",
+      "url": "https://anilist.co/anime/5809"
+    },
+    "k": {
+      "id": "4281",
+      "url": "https://kitsu.io/anime/4281"
+    },
+    "mal": {
+      "id": "5809",
+      "url": "https://myanimelist.net/anime/5809"
+    }
+  }
+}

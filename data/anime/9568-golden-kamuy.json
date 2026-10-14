@@ -1,0 +1,59 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9568,
+  "slug": "golden-kamuy",
+  "kind": "anime",
+  "title": "Golden Kamuy",
+  "titles": {
+    "default": "Golden Kamuy",
+    "romaji": "Golden Kamuy",
+    "native": "ゴールデンカムイ"
+  },
+  "synonyms": [
+    "Golden Kamuy",
+    "ゴールデンカムイ",
+    "Golden Kamui",
+    "黄金神威",
+    "High Score Girl",
+    "ハイスコアガール",
+    "Hi Score Girl"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99699-mBCjpoWpAVGX.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "99699",
+      "url": "https://anilist.co/anime/99699"
+    },
+    "ap": {
+      "id": "B07PMVTH3N",
+      "url": "https://www.amazon.com/gp/video/detail/B07PMVTH3N"
+    },
+    "cr": {
+      "id": "golden-kamuy",
+      "url": "https://www.crunchyroll.com/series/golden-kamuy"
+    },
+    "k": {
+      "id": "8158",
+      "url": "https://kitsu.io/anime/8158"
+    },
+    "mal": {
+      "id": "36028",
+      "url": "https://myanimelist.net/anime/36028"
+    },
+    "nf": {
+      "id": "80997338",
+      "url": "https://www.netflix.com/title/80997338"
+    },
+    "tx": {
+      "id": "kamuy_anime",
+      "url": "https://twitter.com/kamuy_anime"
+    }
+  }
+}

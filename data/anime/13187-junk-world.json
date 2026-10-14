@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13187,
+  "slug": "junk-world",
+  "kind": "anime",
+  "title": "JUNK WORLD",
+  "titles": {
+    "default": "JUNK WORLD",
+    "romaji": "JUNK WORLD"
+  },
+  "synonyms": [
+    "JUNK WORLD",
+    "Junk World"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191370-w0h51nHzJ1Qo.png"
+  ],
+  "references": {
+    "al": {
+      "id": "191370",
+      "url": "https://anilist.co/anime/191370"
+    },
+    "mal": {
+      "id": "56640",
+      "url": "https://myanimelist.net/anime/56640"
+    }
+  }
+}

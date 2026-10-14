@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7098,
+  "slug": "mahou-shoujo-madoka-magica-hangyaku-no-monogatari",
+  "kind": "anime",
+  "title": "Mahou Shoujo Madoka☆Magica: Hangyaku no Monogatari",
+  "titles": {
+    "default": "Mahou Shoujo Madoka☆Magica: Hangyaku no Monogatari",
+    "romaji": "Mahou Shoujo Madoka☆Magica: Hangyaku no Monogatari",
+    "english": "Puella Magi Madoka Magica the Movie -Rebellion-",
+    "native": "劇場版 魔法少女まどか☆マギカ 叛逆の物語"
+  },
+  "synonyms": [
+    "Mahou Shoujo Madoka☆Magica: Hangyaku no Monogatari",
+    "Puella Magi Madoka Magica the Movie -Rebellion-",
+    "劇場版 魔法少女まどか☆マギカ 叛逆の物語",
+    "Mahou Shoujo Madoka Magika Movie 3",
+    "Magical Girl Madoka Magica Movie 3",
+    "Puella Magi Madoka Magica the Movie Part III: Rebellion",
+    "Puella Magi Madoka Magica the Movie: Rebellion",
+    "Bayonetta: Bloody Fate",
+    "ベヨネッタ ブラッディフェイト",
+    "BAYONETTA BLOODYFATE"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b11981-koz1IoISs3eU.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11981",
+      "url": "https://anilist.co/anime/11981"
+    },
+    "cr": {
+      "id": "bayonetta-bloody-fate",
+      "url": "https://www.crunchyroll.com/series/bayonetta-bloody-fate"
+    },
+    "k": {
+      "id": "8024",
+      "url": "https://kitsu.io/anime/8024"
+    },
+    "mal": {
+      "id": "11981",
+      "url": "https://myanimelist.net/anime/11981"
+    }
+  }
+}

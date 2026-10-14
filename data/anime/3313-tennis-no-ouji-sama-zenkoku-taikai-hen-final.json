@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3313,
+  "slug": "tennis-no-ouji-sama-zenkoku-taikai-hen-final",
+  "kind": "anime",
+  "title": "Tennis no Ouji-sama: Zenkoku Taikai-hen Final",
+  "titles": {
+    "default": "Tennis no Ouji-sama: Zenkoku Taikai-hen Final",
+    "romaji": "Tennis no Ouji-sama: Zenkoku Taikai-hen Final",
+    "native": "テニスの王子様 全国大会篇 Final"
+  },
+  "synonyms": [
+    "Tennis no Ouji-sama: Zenkoku Taikai-hen Final",
+    "テニスの王子様 全国大会篇 Final",
+    "テニスの王子様 Original Video Animation 全国大会編 Final",
+    "テニスの王子様 OVA 全国大会篇 Final",
+    "The Prince of Tennis: The National Tournament Final",
+    "Prince of Tennis: The National Tournament Finals",
+    "Tennis no Ouji-sama: Zenkoku Taikai-hen - Final",
+    "Tennis no Ouji-sama"
+  ],
+  "type": "ova",
+  "episodes": 7,
+  "status": "finished",
+  "season": "spring",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4053-vybch1WZxfMp.png"
+  ],
+  "references": {
+    "al": {
+      "id": "4053",
+      "url": "https://anilist.co/anime/4053"
+    },
+    "k": {
+      "id": "3433",
+      "url": "https://kitsu.io/anime/3433"
+    },
+    "mal": {
+      "id": "4053",
+      "url": "https://myanimelist.net/anime/4053"
+    }
+  }
+}

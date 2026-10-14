@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8980,
+  "slug": "lalala-lala-chan-patapata-daisensou",
+  "kind": "anime",
+  "title": "Lalala Lala-chan: Patapata Daisensou",
+  "titles": {
+    "default": "Lalala Lala-chan: Patapata Daisensou",
+    "romaji": "Lalala Lala-chan: Patapata Daisensou",
+    "native": "ラララ ララちゃん~パタパタだいせんそう~"
+  },
+  "synonyms": [
+    "Lalala Lala-chan: Patapata Daisensou",
+    "ラララ ララちゃん~パタパタだいせんそう~",
+    "Bungo Stray Dogs 2",
+    "文豪ストレイドッグス",
+    "Bungou Stray Dogs 2nd Season"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189722-ZdJ3NnvuKaUb.png"
+  ],
+  "references": {
+    "al": {
+      "id": "189722",
+      "url": "https://anilist.co/anime/189722"
+    },
+    "mal": {
+      "id": "36551",
+      "url": "https://myanimelist.net/anime/36551"
+    }
+  }
+}

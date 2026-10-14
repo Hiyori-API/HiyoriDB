@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6134,
+  "slug": "seme-chichi",
+  "kind": "anime",
+  "title": "Seme Chichi",
+  "titles": {
+    "default": "Seme Chichi",
+    "romaji": "Seme Chichi",
+    "native": "せめ・ちち"
+  },
+  "synonyms": [
+    "Seme Chichi",
+    "せめ・ちち",
+    "Big Windup!",
+    "Ookiku Furikabutte: Natsu no Scorebook",
+    "おおきく振りかぶって",
+    "Best of Ookiku Furikabutte: Natsu no Score-book",
+    "Ookiku Furikabutte Recap OVA",
+    "Oofuri",
+    "Swing Big!"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9327.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9327",
+      "url": "https://anilist.co/anime/9327"
+    },
+    "k": {
+      "id": "1955",
+      "url": "https://kitsu.io/anime/1955"
+    },
+    "mal": {
+      "id": "9327",
+      "url": "https://myanimelist.net/anime/9327"
+    }
+  }
+}

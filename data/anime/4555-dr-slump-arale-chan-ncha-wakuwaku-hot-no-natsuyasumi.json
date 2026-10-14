@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4555,
+  "slug": "dr-slump-arale-chan-ncha-wakuwaku-hot-no-natsuyasumi",
+  "kind": "anime",
+  "title": "Dr. Slump: Arale-chan - Ncha!! Wakuwaku Hot no Natsuyasumi",
+  "titles": {
+    "default": "Dr. Slump: Arale-chan - Ncha!! Wakuwaku Hot no Natsuyasumi",
+    "romaji": "Dr. Slump: Arale-chan - Ncha!! Wakuwaku Hot no Natsuyasumi",
+    "english": "Dr. Slump and Arale-chan: Ncha!! Trembling Heart of the Summer",
+    "native": "Ｄｒ．スランプ んちゃ!!わくわくハートの夏休み"
+  },
+  "synonyms": [
+    "Dr. Slump: Arale-chan - Ncha!! Wakuwaku Hot no Natsuyasumi",
+    "Dr. Slump and Arale-chan: Ncha!! Trembling Heart of the Summer",
+    "Ｄｒ．スランプ んちゃ!!わくわくハートの夏休み",
+    "Dr. Slump Movie 9",
+    "Dragon Ball Z Movie 11: Bio-Broly",
+    "Dragon Ball Z Movie 11: Super Senshi Gekiha!! Katsu no wa Ore da",
+    "ドラゴンボールＺ 超戦士撃破!!勝のはオレだ",
+    "Dragon Ball Z: Attack Super Warrior",
+    "Dragon Ball Z: Crushing Super Warrior!! I Am the Winner",
+    "Super Fighter Shootout!! I'm the One Who Will Win"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx7158-EKoD2DgWAHp8.png"
+  ],
+  "references": {
+    "al": {
+      "id": "7158",
+      "url": "https://anilist.co/anime/7158"
+    },
+    "cr": {
+      "id": "series/GQWH0M1GG/dragon-ball-z-movies",
+      "url": "https://www.crunchyroll.com/series/series/GQWH0M1GG/dragon-ball-z-movies"
+    },
+    "k": {
+      "id": "804",
+      "url": "https://kitsu.io/anime/804"
+    },
+    "mal": {
+      "id": "7158",
+      "url": "https://myanimelist.net/anime/7158"
+    }
+  }
+}

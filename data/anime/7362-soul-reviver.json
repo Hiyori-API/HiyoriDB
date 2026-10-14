@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7362,
+  "slug": "soul-reviver",
+  "kind": "anime",
+  "title": "Soul Reviver",
+  "titles": {
+    "default": "Soul Reviver",
+    "romaji": "Soul Reviver",
+    "native": "ソウルリヴァイヴァー"
+  },
+  "synonyms": [
+    "Soul Reviver",
+    "ソウルリヴァイヴァー"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18723.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "18723",
+      "url": "https://anilist.co/anime/18723"
+    },
+    "k": {
+      "id": "8890",
+      "url": "https://kitsu.io/anime/8890"
+    },
+    "mal": {
+      "id": "18723",
+      "url": "https://myanimelist.net/anime/18723"
+    }
+  }
+}

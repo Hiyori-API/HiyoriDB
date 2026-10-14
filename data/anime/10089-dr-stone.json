@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10089,
+  "slug": "dr-stone",
+  "kind": "anime",
+  "title": "Dr. STONE",
+  "titles": {
+    "default": "Dr. STONE",
+    "romaji": "Dr. STONE",
+    "native": "Dr.STONE"
+  },
+  "synonyms": [
+    "Dr. STONE",
+    "Dr.STONE",
+    "Dcst",
+    "石纪元",
+    "ドクターストーン",
+    "ดร.สโตน เจ้าแห่งวิทยาศาสตร์กู้คืนอารยธรรมโลก",
+    "Доктор Стоун",
+    "Dr. Stone"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "summer",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx105333-GybuoSoOZfpH.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "105333",
+      "url": "https://anilist.co/anime/105333"
+    },
+    "cr": {
+      "id": "dr-stone",
+      "url": "https://www.crunchyroll.com/series/dr-stone"
+    },
+    "mal": {
+      "id": "38691",
+      "url": "https://myanimelist.net/anime/38691"
+    },
+    "nf": {
+      "id": "81046193",
+      "url": "https://www.netflix.com/title/81046193"
+    },
+    "tx": {
+      "id": "stone_anime_off",
+      "url": "https://twitter.com/stone_anime_off"
+    }
+  }
+}

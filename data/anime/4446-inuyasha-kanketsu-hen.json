@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4446,
+  "slug": "inuyasha-kanketsu-hen",
+  "kind": "anime",
+  "title": "Inuyasha: Kanketsu-hen",
+  "titles": {
+    "default": "Inuyasha: Kanketsu-hen",
+    "romaji": "Inuyasha: Kanketsu-hen",
+    "english": "InuYasha: The Final Act",
+    "native": "犬夜叉 完結編"
+  },
+  "synonyms": [
+    "Inuyasha: Kanketsu-hen",
+    "InuYasha: The Final Act",
+    "犬夜叉 完結編",
+    "Inu Yasha: Kanketsu-hen",
+    "이누야샤 완결편",
+    "Inuyasha: El acto final",
+    "Winter Sonata",
+    "冬のソナタ",
+    "Fuyu no Sonata",
+    "Winter Ballad",
+    "Winter Love Story"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6811-DUsNLwQAOB7o.png"
+  ],
+  "references": {
+    "al": {
+      "id": "6811",
+      "url": "https://anilist.co/anime/6811"
+    },
+    "k": {
+      "id": "3511",
+      "url": "https://kitsu.io/anime/3511"
+    },
+    "mal": {
+      "id": "6811",
+      "url": "https://myanimelist.net/anime/6811"
+    },
+    "t": {
+      "id": "63295",
+      "url": "https://trakt.tv/shows/63295"
+    }
+  }
+}

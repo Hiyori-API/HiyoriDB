@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10235,
+  "slug": "promare-side-galo",
+  "kind": "anime",
+  "title": "Promare: SIDE Galo",
+  "titles": {
+    "default": "Promare: SIDE Galo",
+    "romaji": "Promare: SIDE Galo",
+    "english": "Promare: Galo",
+    "native": "プロメア SIDE ガロ"
+  },
+  "synonyms": [
+    "Promare: SIDE Galo",
+    "Promare: Galo",
+    "プロメア SIDE ガロ",
+    "You Never Let Us Down / Always Growing Closer / Let's Change You Into This! / I'm Your Big Sister",
+    "Wataten! an Angel Flew Down to Me Episode 13",
+    "私に天使が舞い降りた！",
+    "Watashi ni Tenshi ga Maiorita! Special"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110261-ZyVK8Ym2bKXK.png"
+  ],
+  "references": {
+    "al": {
+      "id": "110261",
+      "url": "https://anilist.co/anime/110261"
+    },
+    "mal": {
+      "id": "39991",
+      "url": "https://myanimelist.net/anime/39991"
+    },
+    "tx": {
+      "id": "promare_movie",
+      "url": "https://twitter.com/promare_movie"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6411,
+  "slug": "kamisama-dolls",
+  "kind": "anime",
+  "title": "Kamisama Dolls",
+  "titles": {
+    "default": "Kamisama Dolls",
+    "romaji": "Kamisama Dolls",
+    "native": "神様ドォルズ"
+  },
+  "synonyms": [
+    "Kamisama Dolls",
+    "神様ドォルズ",
+    "Kami-sama Dolls"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10372-MHz5OMvBHPDv.png"
+  ],
+  "references": {
+    "al": {
+      "id": "10372",
+      "url": "https://anilist.co/anime/10372"
+    },
+    "cr": {
+      "id": "kamisama-dolls",
+      "url": "https://www.crunchyroll.com/series/kamisama-dolls"
+    },
+    "k": {
+      "id": "6153",
+      "url": "https://kitsu.io/anime/6153"
+    },
+    "mal": {
+      "id": "10372",
+      "url": "https://myanimelist.net/anime/10372"
+    },
+    "t": {
+      "id": "41919",
+      "url": "https://trakt.tv/shows/41919"
+    }
+  }
+}

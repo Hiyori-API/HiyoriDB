@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2039,
+  "slug": "lime-iro-senkitan-nankoku-yume-roman",
+  "kind": "anime",
+  "title": "Lime-iro Senkitan: Nankoku Yume Roman",
+  "titles": {
+    "default": "Lime-iro Senkitan: Nankoku Yume Roman",
+    "romaji": "Lime-iro Senkitan: Nankoku Yume Roman",
+    "native": "らいむいろ戦奇譚 南国夢浪漫"
+  },
+  "synonyms": [
+    "Lime-iro Senkitan: Nankoku Yume Roman",
+    "らいむいろ戦奇譚 南国夢浪漫",
+    "Raimuiro Senkitan: Nankoku Yume Roman",
+    "Lime-iro Senkitan: The South Island Dream Romantic Adventure (OAV)",
+    "Southern Romance Story",
+    "Lime Iro Senkitan Nankoku Yume Roman",
+    "Raimuiro Senkitan: The South Island Dream Romantic Adventure (OAV)"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2307.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2307",
+      "url": "https://anilist.co/anime/2307"
+    },
+    "k": {
+      "id": "2089",
+      "url": "https://kitsu.io/anime/2089"
+    },
+    "mal": {
+      "id": "2307",
+      "url": "https://myanimelist.net/anime/2307"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3132,
+  "slug": "grimm-douwa-kin-no-tori",
+  "kind": "anime",
+  "title": "Grimm Douwa: Kin no Tori",
+  "titles": {
+    "default": "Grimm Douwa: Kin no Tori",
+    "romaji": "Grimm Douwa: Kin no Tori",
+    "english": "The Golden Bird",
+    "native": "グリム童話 金の鳥"
+  },
+  "synonyms": [
+    "Grimm Douwa: Kin no Tori",
+    "The Golden Bird",
+    "グリム童話 金の鳥",
+    "Grimm Fairy Tale: The Golden Bird",
+    "Grimm's Fairy Tales: The Golden Bird",
+    "Hoero! Bun Bun (Movie)",
+    "ほえろブンブン",
+    "Hoero! Bun Bun Special",
+    "Bark! Bun Bun Special",
+    "Yap! Bun Bun",
+    "Piesek BUM BUM"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3760-KHrIZc00oMvo.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3760",
+      "url": "https://anilist.co/anime/3760"
+    },
+    "k": {
+      "id": "6214",
+      "url": "https://kitsu.io/anime/6214"
+    },
+    "mal": {
+      "id": "3760",
+      "url": "https://myanimelist.net/anime/3760"
+    }
+  }
+}

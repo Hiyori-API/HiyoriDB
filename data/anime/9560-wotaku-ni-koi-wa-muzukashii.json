@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9560,
+  "slug": "wotaku-ni-koi-wa-muzukashii",
+  "kind": "anime",
+  "title": "Wotaku ni Koi wa Muzukashii",
+  "titles": {
+    "default": "Wotaku ni Koi wa Muzukashii",
+    "romaji": "Wotaku ni Koi wa Muzukashii",
+    "english": "Wotakoi: Love is Hard for Otaku",
+    "native": "ヲタクに恋は難しい"
+  },
+  "synonyms": [
+    "Wotaku ni Koi wa Muzukashii",
+    "Wotakoi: Love is Hard for Otaku",
+    "ヲタクに恋は難しい",
+    "Otaku ni Koi wa Muzukashii",
+    "WotaKoi",
+    "It’s Difficult to Love an Otaku",
+    "Love is Hard for an Otaku",
+    "Love is Hard for Nerds",
+    "ווטקוי: האהבה קשה לאוטאקו",
+    "阿宅的恋爱真难",
+    "ยากแท้จริงหนอรักของโอตาคุ",
+    "الحب صعب على الأوتاكو",
+    "Wotakoi: Keine Cheats für die Liebe",
+    "Уотаку: Непроста любовь для отаку",
+    "Wotakoi: O Amor é Difícil para Otaku",
+    "Wotakoi: El Amor es Duro para los Otakus",
+    "It's Difficult to Love an Otaku"
+  ],
+  "type": "tv",
+  "episodes": 11,
+  "status": "finished",
+  "season": "spring",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx99578-oO5KChtfhzln.png"
+  ],
+  "references": {
+    "al": {
+      "id": "99578",
+      "url": "https://anilist.co/anime/99578"
+    },
+    "mal": {
+      "id": "35968",
+      "url": "https://myanimelist.net/anime/35968"
+    },
+    "tx": {
+      "id": "wotakoi_anime",
+      "url": "https://twitter.com/wotakoi_anime"
+    }
+  }
+}

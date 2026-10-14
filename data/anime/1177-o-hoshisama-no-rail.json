@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1177,
+  "slug": "o-hoshisama-no-rail",
+  "kind": "anime",
+  "title": "O-Hoshisama no Rail",
+  "titles": {
+    "default": "O-Hoshisama no Rail",
+    "romaji": "O-Hoshisama no Rail",
+    "english": "Rail of the Star: A True Story of Children",
+    "native": "お星さまのレール"
+  },
+  "synonyms": [
+    "O-Hoshisama no Rail",
+    "Rail of the Star: A True Story of Children",
+    "お星さまのレール",
+    "مسرح الحياة",
+    "Ohoshisama no Rail",
+    "Ohoshi-sama no Rail"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1329.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1329",
+      "url": "https://anilist.co/anime/1329"
+    },
+    "k": {
+      "id": "1186",
+      "url": "https://kitsu.io/anime/1186"
+    },
+    "mal": {
+      "id": "1329",
+      "url": "https://myanimelist.net/anime/1329"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3411,
+  "slug": "ultraviolet-code-044",
+  "kind": "anime",
+  "title": "Ultraviolet: Code 044",
+  "titles": {
+    "default": "Ultraviolet: Code 044",
+    "romaji": "Ultraviolet: Code 044",
+    "native": "ウルトラヴァイオレットコード044"
+  },
+  "synonyms": [
+    "Ultraviolet: Code 044",
+    "ウルトラヴァイオレットコード044",
+    "Ultraviolet:Code044"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4264-5jdwiLMET49D.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4264",
+      "url": "https://anilist.co/anime/4264"
+    },
+    "k": {
+      "id": "3542",
+      "url": "https://kitsu.io/anime/3542"
+    },
+    "mal": {
+      "id": "4264",
+      "url": "https://myanimelist.net/anime/4264"
+    },
+    "t": {
+      "id": "36002",
+      "url": "https://trakt.tv/shows/36002"
+    }
+  }
+}

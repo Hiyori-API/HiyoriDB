@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13198,
+  "slug": "juju-sanpo-gekijouban",
+  "kind": "anime",
+  "title": "Juju Sanpo: Gekijouban",
+  "titles": {
+    "default": "Juju Sanpo: Gekijouban",
+    "romaji": "Juju Sanpo: Gekijouban",
+    "native": "じゅじゅさんぽ 劇場版"
+  },
+  "synonyms": [
+    "Juju Sanpo: Gekijouban",
+    "じゅじゅさんぽ 劇場版",
+    "JUJUTSU KAISEN: Hidden Inventory / Premature Death - Juju Stroll",
+    "劇場版総集編 呪術廻戦 懐玉・玉折 劇場版じゅじゅさんぽ",
+    "Love Hina Spring Movie",
+    "Love Hina Haru Special: Kimi Sakura Chiru Nakare!!",
+    "ラブひな春スペシャル 〜キミサクラチルナカレ!!〜",
+    "Love Hina Spring Special"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192810-hQ9HxiiIXyfI.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "192810",
+      "url": "https://anilist.co/anime/192810"
+    },
+    "k": {
+      "id": "169",
+      "url": "https://kitsu.io/anime/169"
+    },
+    "mal": {
+      "id": "192",
+      "url": "https://myanimelist.net/anime/192"
+    }
+  }
+}

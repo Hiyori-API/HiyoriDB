@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13816,
+  "slug": "rekka-no-honoo",
+  "kind": "manga",
+  "title": "Rekka no Honoo",
+  "titles": {
+    "default": "Rekka no Honoo"
+  },
+  "synonyms": [
+    "Recca no Honoo",
+    "불꽃소년 레카",
+    "Flame of Recca",
+    "烈火の炎",
+    "Rekka no Honoo"
+  ],
+  "type": "manga",
+  "chapters": 329,
+  "volumes": 33,
+  "status": "finished",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30136-HdYtqkCdUQ2D.png"
+  ],
+  "references": {
+    "al": {
+      "id": "238",
+      "url": "https://anilist.co/anime/238"
+    },
+    "al_manga": {
+      "id": "238",
+      "url": "https://anilist.co/manga/238"
+    }
+  }
+}

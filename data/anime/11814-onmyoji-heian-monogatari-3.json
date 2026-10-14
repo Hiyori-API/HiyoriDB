@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11814,
+  "slug": "onmyoji-heian-monogatari-3",
+  "kind": "anime",
+  "title": "Onmyoji: Heian Monogatari 3",
+  "titles": {
+    "default": "Onmyoji: Heian Monogatari 3",
+    "romaji": "Onmyoji: Heian Monogatari 3",
+    "native": "陰陽師・平安物語 3"
+  },
+  "synonyms": [
+    "Onmyoji: Heian Monogatari 3",
+    "陰陽師・平安物語 3",
+    "阴阳师·平安物语 第3季",
+    "Yin Yang Shi: Ping An Wu Yu 3",
+    "All Saints Street 3",
+    "万圣街3",
+    "Wan Sheng Jie 3"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143485-ljk9rdKO1o8N.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "143485",
+      "url": "https://anilist.co/anime/143485"
+    },
+    "mal": {
+      "id": "51183",
+      "url": "https://myanimelist.net/anime/51183"
+    }
+  }
+}

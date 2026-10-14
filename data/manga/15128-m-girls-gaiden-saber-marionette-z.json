@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15128,
+  "slug": "m-girls-gaiden-saber-marionette-z",
+  "kind": "manga",
+  "title": "M Girls Gaiden: Saber Marionette Z",
+  "titles": {
+    "default": "M Girls Gaiden: Saber Marionette Z"
+  },
+  "synonyms": [
+    "Mガールズ外伝セイバーマリオネットZ",
+    "Kare Kano: His and Her Circumstances",
+    "Kareshi Kanojo no Jijou",
+    "彼氏彼女の事情",
+    "His and Hers",
+    "The Tiger and the Chameleon: A Promise for One Week",
+    "Ashita Mata Mori de Aou ne",
+    "Meet Me Again Tomorrow in the Forest",
+    "KKNJ",
+    "Abareru Ousama",
+    "The Raging King"
+  ],
+  "type": "manga",
+  "chapters": 7,
+  "volumes": 1,
+  "status": "finished",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx138764-psOWqAyKJW9j.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1232",
+      "url": "https://anilist.co/anime/1232"
+    },
+    "al_manga": {
+      "id": "1232",
+      "url": "https://anilist.co/manga/1232"
+    }
+  }
+}

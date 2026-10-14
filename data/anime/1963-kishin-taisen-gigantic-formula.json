@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1963,
+  "slug": "kishin-taisen-gigantic-formula",
+  "kind": "anime",
+  "title": "Kishin Taisen Gigantic Formula",
+  "titles": {
+    "default": "Kishin Taisen Gigantic Formula",
+    "romaji": "Kishin Taisen Gigantic Formula",
+    "native": "機神大戦 ギガンティック・フォーミュラ"
+  },
+  "synonyms": [
+    "Kishin Taisen Gigantic Formula",
+    "機神大戦 ギガンティック・フォーミュラ",
+    "Apo Mekhanes Theos Gigantic Formula",
+    "Mechanical Divine War Gigantic Formula",
+    "War Gods Battle: Gigantic Formula"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2215-1pD7jFo5ypXj.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2215",
+      "url": "https://anilist.co/anime/2215"
+    },
+    "k": {
+      "id": "2006",
+      "url": "https://kitsu.io/anime/2006"
+    },
+    "mal": {
+      "id": "2215",
+      "url": "https://myanimelist.net/anime/2215"
+    },
+    "t": {
+      "id": "36203",
+      "url": "https://trakt.tv/shows/36203"
+    }
+  }
+}

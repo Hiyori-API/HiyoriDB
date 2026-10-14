@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10164,
+  "slug": "ta-ga-tame-no-alchemist",
+  "kind": "anime",
+  "title": "Ta ga Tame no Alchemist",
+  "titles": {
+    "default": "Ta ga Tame no Alchemist",
+    "romaji": "Ta ga Tame no Alchemist",
+    "english": "For Whom The Alchemist Exists The Movie",
+    "native": "誰ガ為のアルケミスト"
+  },
+  "synonyms": [
+    "Ta ga Tame no Alchemist",
+    "For Whom The Alchemist Exists The Movie",
+    "誰ガ為のアルケミスト",
+    "Tagatame",
+    "Dare ga Tame no Alchemist",
+    "Cencoroll 2",
+    "センコロール"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx107864-hDeYfSmoHMI0.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "107864",
+      "url": "https://anilist.co/anime/107864"
+    },
+    "cr": {
+      "id": "for-whom-the-alchemist-exists-the-movie",
+      "url": "https://www.crunchyroll.com/series/for-whom-the-alchemist-exists-the-movie"
+    },
+    "k": {
+      "id": "5749",
+      "url": "https://kitsu.io/anime/5749"
+    },
+    "mal": {
+      "id": "37262",
+      "url": "https://myanimelist.net/anime/37262"
+    },
+    "tx": {
+      "id": "FgG_tagatame",
+      "url": "https://twitter.com/FgG_tagatame"
+    }
+  }
+}

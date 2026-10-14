@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13177,
+  "slug": "dr-stone-science-future-part-2",
+  "kind": "anime",
+  "title": "Dr. STONE: SCIENCE FUTURE Part 2",
+  "titles": {
+    "default": "Dr. STONE: SCIENCE FUTURE Part 2",
+    "romaji": "Dr. STONE: SCIENCE FUTURE Part 2",
+    "english": "Dr. STONE SCIENCE FUTURE Cour 2",
+    "native": "Dr.STONE SCIENCE FUTURE 2クール"
+  },
+  "synonyms": [
+    "Dr. STONE: SCIENCE FUTURE Part 2",
+    "Dr. STONE SCIENCE FUTURE Cour 2",
+    "Dr.STONE SCIENCE FUTURE 2クール",
+    "Dr.STONE Season 4 Part 2",
+    "ドクターストーン",
+    "DearS",
+    "ディアーズ"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189117-TLtCXYT7JPoL.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "189117",
+      "url": "https://anilist.co/anime/189117"
+    },
+    "cr": {
+      "id": "series/GYEXQKJG6/dr-stone",
+      "url": "https://www.crunchyroll.com/series/series/GYEXQKJG6/dr-stone"
+    },
+    "k": {
+      "id": "44",
+      "url": "https://kitsu.io/anime/44"
+    },
+    "mal": {
+      "id": "61322",
+      "url": "https://myanimelist.net/anime/61322"
+    },
+    "t": {
+      "id": "61051",
+      "url": "https://trakt.tv/shows/61051"
+    },
+    "tx": {
+      "id": "DrStone_EN",
+      "url": "https://twitter.com/stone_anime_off"
+    }
+  }
+}

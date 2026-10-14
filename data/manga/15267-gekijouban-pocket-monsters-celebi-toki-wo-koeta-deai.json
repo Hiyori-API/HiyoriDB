@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15267,
+  "slug": "gekijouban-pocket-monsters-celebi-toki-wo-koeta-deai",
+  "kind": "manga",
+  "title": "Gekijouban Pocket Monsters: Celebi Toki wo Koeta Deai",
+  "titles": {
+    "default": "Gekijouban Pocket Monsters: Celebi Toki wo Koeta Deai"
+  },
+  "synonyms": [
+    "Pocket Monsters: Celebi: A Timeless Encounter",
+    "Pokémon 4: Celebi: A Timeless Encounter",
+    "劇場版ポケットモンスター セレビィ 時を越えた遭遇",
+    "Full Moon wo Sagashite",
+    "満月〈フルムーン〉をさがして",
+    "Searching for the Full Moon",
+    "Ginyuu Meika"
+  ],
+  "type": "manga",
+  "status": "finished",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n54223-lzIY8CrgYSHv.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1119",
+      "url": "https://anilist.co/anime/1119"
+    },
+    "al_manga": {
+      "id": "1119",
+      "url": "https://anilist.co/manga/1119"
+    }
+  }
+}

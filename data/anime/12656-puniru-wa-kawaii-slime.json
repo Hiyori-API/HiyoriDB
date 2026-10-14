@@ -1,0 +1,63 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12656,
+  "slug": "puniru-wa-kawaii-slime",
+  "kind": "anime",
+  "title": "Puniru wa Kawaii Slime",
+  "titles": {
+    "default": "Puniru wa Kawaii Slime",
+    "romaji": "Puniru wa Kawaii Slime",
+    "english": "Puniru is a Kawaii Slime",
+    "native": "ぷにるはかわいいスライム"
+  },
+  "synonyms": [
+    "Puniru wa Kawaii Slime",
+    "Puniru is a Kawaii Slime",
+    "ぷにるはかわいいスライム",
+    "Puniru is a Cute Slime",
+    "噗妮露是可愛史萊姆",
+    "ぷにかわ",
+    "PuniKawa",
+    "Ring ni Kakero 1",
+    "リングにかけろ１",
+    "Put it all in the Ring"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2024,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171400-fbiXZGItjJtP.png"
+  ],
+  "references": {
+    "al": {
+      "id": "171400",
+      "url": "https://anilist.co/anime/171400"
+    },
+    "cr": {
+      "id": "series/GNVHKN9G2/puniru-is-a-kawaii-slime",
+      "url": "https://www.crunchyroll.com/series/series/GNVHKN9G2/puniru-is-a-kawaii-slime"
+    },
+    "k": {
+      "id": "14",
+      "url": "https://kitsu.io/anime/14"
+    },
+    "mal": {
+      "id": "57517",
+      "url": "https://myanimelist.net/anime/57517"
+    },
+    "nf": {
+      "id": "81975106",
+      "url": "https://www.netflix.com/title/81975106"
+    },
+    "t": {
+      "id": "69507",
+      "url": "https://trakt.tv/shows/69507"
+    },
+    "tx": {
+      "id": "PUNIRUcorocoro",
+      "url": "https://twitter.com/PUNIRUcorocoro"
+    }
+  }
+}

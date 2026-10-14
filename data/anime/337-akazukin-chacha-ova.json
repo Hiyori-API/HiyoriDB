@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 337,
+  "slug": "akazukin-chacha-ova",
+  "kind": "anime",
+  "title": "Akazukin Chacha OVA",
+  "titles": {
+    "default": "Akazukin Chacha OVA",
+    "romaji": "Akazukin Chacha OVA",
+    "native": "赤ずきんチャチャ (1995)"
+  },
+  "synonyms": [
+    "Akazukin Chacha OVA",
+    "赤ずきんチャチャ (1995)"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "winter",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/367.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "367",
+      "url": "https://anilist.co/anime/367"
+    },
+    "k": {
+      "id": "334",
+      "url": "https://kitsu.io/anime/334"
+    },
+    "mal": {
+      "id": "367",
+      "url": "https://myanimelist.net/anime/367"
+    }
+  }
+}

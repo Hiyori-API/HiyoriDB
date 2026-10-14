@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14067,
+  "slug": "handsome-na-kanojo",
+  "kind": "manga",
+  "title": "Handsome na Kanojo",
+  "titles": {
+    "default": "Handsome na Kanojo"
+  },
+  "synonyms": [
+    "Handsome Girlfriend",
+    "Angel & Adventure",
+    "Radical Romance",
+    "Green Age",
+    "Tenshi to Bouken",
+    "ハンサムな彼女",
+    "Handsome na Kanojo"
+  ],
+  "type": "manga",
+  "chapters": 41,
+  "volumes": 9,
+  "status": "finished",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30949-VSndh2vKxm2U.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1115",
+      "url": "https://anilist.co/anime/1115"
+    },
+    "al_manga": {
+      "id": "1115",
+      "url": "https://anilist.co/manga/1115"
+    }
+  }
+}

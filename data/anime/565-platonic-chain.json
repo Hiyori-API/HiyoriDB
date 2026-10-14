@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 565,
+  "slug": "platonic-chain",
+  "kind": "anime",
+  "title": "Platonic Chain",
+  "titles": {
+    "default": "Platonic Chain",
+    "romaji": "Platonic Chain",
+    "native": "プラトニック・チェーン"
+  },
+  "synonyms": [
+    "Platonic Chain",
+    "プラトニック・チェーン"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "fall",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx611-poJaKXWxpsXV.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "611",
+      "url": "https://anilist.co/anime/611"
+    },
+    "k": {
+      "id": "566",
+      "url": "https://kitsu.io/anime/566"
+    },
+    "mal": {
+      "id": "611",
+      "url": "https://myanimelist.net/anime/611"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1113,
+  "slug": "night-head-genesis",
+  "kind": "anime",
+  "title": "NIGHT HEAD GENESIS",
+  "titles": {
+    "default": "NIGHT HEAD GENESIS",
+    "romaji": "NIGHT HEAD GENESIS"
+  },
+  "synonyms": [
+    "NIGHT HEAD GENESIS",
+    "ナイト ヘッド ジェネシス",
+    "NHG",
+    "Night Head Genesis",
+    "NIGHT HEAD GENESIS (ナイト ヘッド ジェネシス)"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "summer",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1243-KqREWydioYdx.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1243",
+      "url": "https://anilist.co/anime/1243"
+    },
+    "k": {
+      "id": "1118",
+      "url": "https://kitsu.io/anime/1118"
+    },
+    "mal": {
+      "id": "1243",
+      "url": "https://myanimelist.net/anime/1243"
+    },
+    "t": {
+      "id": "16455",
+      "url": "https://trakt.tv/shows/16455"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5702,
+  "slug": "pururun-shizuku-chan",
+  "kind": "anime",
+  "title": "Pururun! Shizuku-chan",
+  "titles": {
+    "default": "Pururun! Shizuku-chan",
+    "romaji": "Pururun! Shizuku-chan",
+    "native": "ぷるるんっ！しずくちゃん"
+  },
+  "synonyms": [
+    "Pururun! Shizuku-chan",
+    "ぷるるんっ！しずくちゃん",
+    "Wan Wan Celepoo Sore Yuke! Tetsunoshin",
+    "ワンワンセレプー それゆけ！徹之進",
+    "Wanwan Celepoo Soreyuke! Tetsunoshin"
+  ],
+  "type": "tv",
+  "episodes": 51,
+  "status": "finished",
+  "season": "fall",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9426.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9426",
+      "url": "https://anilist.co/anime/9426"
+    },
+    "mal": {
+      "id": "9426",
+      "url": "https://myanimelist.net/anime/9426"
+    }
+  }
+}

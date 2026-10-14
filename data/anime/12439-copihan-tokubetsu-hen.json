@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12439,
+  "slug": "copihan-tokubetsu-hen",
+  "kind": "anime",
+  "title": "Copihan Tokubetsu-hen",
+  "titles": {
+    "default": "Copihan Tokubetsu-hen",
+    "romaji": "Copihan Tokubetsu-hen",
+    "english": "Copihan Special Episode",
+    "native": "こぴはん 特別編"
+  },
+  "synonyms": [
+    "Copihan Tokubetsu-hen",
+    "Copihan Special Episode",
+    "こぴはん 特別編",
+    "Copihan Episode 8",
+    "Kumokiri OMOTA",
+    "Seikai no Senki Special",
+    "星界の戦旗 特別編",
+    "Seikai no Senki Movie",
+    "Battle Flag of the Stars Special Edition",
+    "Seikai no Senki Tokubetsuhen"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2023,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b208831-Z6AX7YSYCaHf.png"
+  ],
+  "references": {
+    "al": {
+      "id": "208831",
+      "url": "https://anilist.co/anime/208831"
+    },
+    "cr": {
+      "id": "series/G8DHV78N3/copihan",
+      "url": "https://www.crunchyroll.com/series/series/G8DHV78N3/copihan"
+    },
+    "k": {
+      "id": "366",
+      "url": "https://kitsu.io/anime/366"
+    },
+    "mal": {
+      "id": "60756",
+      "url": "https://myanimelist.net/anime/60756"
+    }
+  }
+}

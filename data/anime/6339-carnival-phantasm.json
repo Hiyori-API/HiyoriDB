@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6339,
+  "slug": "carnival-phantasm",
+  "kind": "anime",
+  "title": "Carnival Phantasm",
+  "titles": {
+    "default": "Carnival Phantasm",
+    "romaji": "Carnival Phantasm",
+    "native": "カーニバル・ファンタズム"
+  },
+  "synonyms": [
+    "Carnival Phantasm",
+    "カーニバル・ファンタズム",
+    "Карнавальный Фантазм"
+  ],
+  "type": "ova",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10012-MNLVctKXaIAf.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10012",
+      "url": "https://anilist.co/anime/10012"
+    },
+    "k": {
+      "id": "5992",
+      "url": "https://kitsu.io/anime/5992"
+    },
+    "mal": {
+      "id": "10012",
+      "url": "https://myanimelist.net/anime/10012"
+    }
+  }
+}

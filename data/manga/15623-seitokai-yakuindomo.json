@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15623,
+  "slug": "seitokai-yakuindomo",
+  "kind": "manga",
+  "title": "Seitokai Yakuindomo",
+  "titles": {
+    "default": "Seitokai Yakuindomo"
+  },
+  "synonyms": [
+    "Seitokai Yakuin-domo",
+    "生徒会役員共",
+    "Kataomoi no Mukougawa",
+    "片想いの向こう側",
+    "Kataomoi no Mukou Gawa",
+    "Ano Kado o Magareba",
+    "Tenshi ga Kuretamono",
+    "Bitou na Koi",
+    "Kimi to Natsu no Aizu"
+  ],
+  "type": "manga",
+  "chapters": 655,
+  "volumes": 22,
+  "status": "finished",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx44110-2cQaahXVNLag.png"
+  ],
+  "references": {
+    "al": {
+      "id": "113692",
+      "url": "https://anilist.co/anime/8675"
+    },
+    "al_manga": {
+      "id": "113692",
+      "url": "https://anilist.co/manga/113692"
+    }
+  }
+}

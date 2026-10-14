@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2499,
+  "slug": "sora-tobu-yuurei-sen",
+  "kind": "anime",
+  "title": "Sora Tobu Yuurei Sen",
+  "titles": {
+    "default": "Sora Tobu Yuurei Sen",
+    "romaji": "Sora Tobu Yuurei Sen",
+    "english": "The Flying Ghost Ship",
+    "native": "空飛ぶゆうれい船"
+  },
+  "synonyms": [
+    "Sora Tobu Yuurei Sen",
+    "The Flying Ghost Ship",
+    "空飛ぶゆうれい船",
+    "Flying Ghost Ship",
+    "Flying Phantom Ship",
+    "Sora Tobu Yureisen",
+    "Soratobu Yuureisen"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1969,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2811.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2811",
+      "url": "https://anilist.co/anime/2811"
+    },
+    "k": {
+      "id": "2566",
+      "url": "https://kitsu.io/anime/2566"
+    },
+    "mal": {
+      "id": "2811",
+      "url": "https://myanimelist.net/anime/2811"
+    }
+  }
+}

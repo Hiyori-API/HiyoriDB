@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1985,
+  "slug": "karasu-tengu-kabuto",
+  "kind": "anime",
+  "title": "Karasu Tengu Kabuto",
+  "titles": {
+    "default": "Karasu Tengu Kabuto",
+    "romaji": "Karasu Tengu Kabuto",
+    "native": "カラス天狗カブト"
+  },
+  "synonyms": [
+    "Karasu Tengu Kabuto",
+    "カラス天狗カブト",
+    "Crow Demon Kabuto",
+    "Raven Goblin Kabuto"
+  ],
+  "type": "tv",
+  "episodes": 39,
+  "status": "finished",
+  "season": "summer",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2243.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2243",
+      "url": "https://anilist.co/anime/2243"
+    },
+    "k": {
+      "id": "2032",
+      "url": "https://kitsu.io/anime/2032"
+    },
+    "mal": {
+      "id": "2243",
+      "url": "https://myanimelist.net/anime/2243"
+    },
+    "t": {
+      "id": "64590",
+      "url": "https://trakt.tv/shows/64590"
+    }
+  }
+}

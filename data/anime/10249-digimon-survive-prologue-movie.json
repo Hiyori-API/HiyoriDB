@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10249,
+  "slug": "digimon-survive-prologue-movie",
+  "kind": "anime",
+  "title": "Digimon Survive: Prologue Movie",
+  "titles": {
+    "default": "Digimon Survive: Prologue Movie",
+    "romaji": "Digimon Survive: Prologue Movie",
+    "english": "Digimon Survive - Opening Movie",
+    "native": "『デジモンサヴァイブ』プロローグムービー"
+  },
+  "synonyms": [
+    "Digimon Survive: Prologue Movie",
+    "Digimon Survive - Opening Movie",
+    "『デジモンサヴァイブ』プロローグムービー",
+    "Hoshizora Kiseki",
+    "星空キセキ"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110734-LYwlo3s4XHHD.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "110734",
+      "url": "https://anilist.co/anime/110734"
+    },
+    "k": {
+      "id": "1097",
+      "url": "https://kitsu.io/anime/1097"
+    },
+    "mal": {
+      "id": "40156",
+      "url": "https://myanimelist.net/anime/40156"
+    }
+  }
+}

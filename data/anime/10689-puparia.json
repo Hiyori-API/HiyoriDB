@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10689,
+  "slug": "puparia",
+  "kind": "anime",
+  "title": "PUPARIA",
+  "titles": {
+    "default": "PUPARIA",
+    "romaji": "PUPARIA"
+  },
+  "synonyms": [
+    "PUPARIA",
+    "Puparia"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126287-dgh91tFWDlPg.png"
+  ],
+  "references": {
+    "al": {
+      "id": "126287",
+      "url": "https://anilist.co/anime/126287"
+    },
+    "mal": {
+      "id": "44059",
+      "url": "https://myanimelist.net/anime/44059"
+    },
+    "yt": {
+      "id": "CWnqX41JHuM",
+      "url": "https://www.youtube.com/watch?v=CWnqX41JHuM"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6165,
+  "slug": "mm-ss",
+  "kind": "anime",
+  "title": "MM! SS!",
+  "titles": {
+    "default": "MM! SS!",
+    "romaji": "MM! SS!",
+    "native": "えむえむっ! えすえすっ！"
+  },
+  "synonyms": [
+    "MM! SS!",
+    "えむえむっ! えすえすっ！",
+    "MM! Hidden Cam",
+    "MM! Group",
+    "Emu Emu!",
+    "MM! Specials",
+    "K-ON!!: Ura-On!!",
+    "K-On!!: Ura-On!!",
+    "うらおん!!",
+    "K-On!! Specials",
+    "Uraon!!",
+    "Keion Specials 2"
+  ],
+  "type": "special",
+  "episodes": 9,
+  "status": "finished",
+  "season": "winter",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9581.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9581",
+      "url": "https://anilist.co/anime/9581"
+    },
+    "k": {
+      "id": "5630",
+      "url": "https://kitsu.io/anime/5630"
+    },
+    "mal": {
+      "id": "9581",
+      "url": "https://myanimelist.net/anime/9581"
+    }
+  }
+}

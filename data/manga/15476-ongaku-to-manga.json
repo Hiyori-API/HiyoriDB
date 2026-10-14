@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15476,
+  "slug": "ongaku-to-manga",
+  "kind": "manga",
+  "title": "Ongaku to Manga",
+  "titles": {
+    "default": "Ongaku to Manga"
+  },
+  "synonyms": [
+    "音楽と漫画",
+    "Renai Soukanzu",
+    "恋愛相姦図",
+    "Renai Sokanzu",
+    "Pink Sweets"
+  ],
+  "type": "manga",
+  "chapters": 16,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b111946-oP7mCG532ben.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "111944",
+      "url": "https://anilist.co/anime/111944"
+    },
+    "al_manga": {
+      "id": "111944",
+      "url": "https://anilist.co/manga/111944"
+    }
+  }
+}

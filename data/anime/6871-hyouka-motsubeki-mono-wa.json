@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6871,
+  "slug": "hyouka-motsubeki-mono-wa",
+  "kind": "anime",
+  "title": "Hyouka: Motsubeki Mono wa",
+  "titles": {
+    "default": "Hyouka: Motsubeki Mono wa",
+    "romaji": "Hyouka: Motsubeki Mono wa",
+    "english": "Hyouka: What Should Be Had",
+    "native": "氷菓 持つべきものは"
+  },
+  "synonyms": [
+    "Hyouka: Motsubeki Mono wa",
+    "Hyouka: What Should Be Had",
+    "氷菓 持つべきものは",
+    "Hyouka Episode 11.5",
+    "Hyouka OVA",
+    "Hyou-ka OVA",
+    "Hyouka: You can't escape OVA",
+    "Hyou-ka: You can't escape OVA",
+    "Hyoka OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx13469-bbRQoSUgmf4T.png"
+  ],
+  "references": {
+    "al": {
+      "id": "13469",
+      "url": "https://anilist.co/anime/13469"
+    },
+    "k": {
+      "id": "6974",
+      "url": "https://kitsu.io/anime/6974"
+    },
+    "mal": {
+      "id": "13469",
+      "url": "https://myanimelist.net/anime/13469"
+    },
+    "yt": {
+      "id": "YMxyrWrKxYA",
+      "url": "https://www.youtube.com/watch?v=YMxyrWrKxYA"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15468,
+  "slug": "mrs-junkie",
+  "kind": "manga",
+  "title": "Mrs. Junkie",
+  "titles": {
+    "default": "Mrs. Junkie"
+  },
+  "synonyms": [
+    "ミセスジャンキー",
+    "Young Gun Carnaval",
+    "ヤングガン・カルナバル"
+  ],
+  "type": "novel",
+  "volumes": 1,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/92520-SLLWCW1eA2jO.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3478",
+      "url": "https://anilist.co/anime/3478"
+    },
+    "al_manga": {
+      "id": "3478",
+      "url": "https://anilist.co/manga/3478"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10714,
+  "slug": "hawk-no-onayami-soudanshitsu-special",
+  "kind": "anime",
+  "title": "Hawk no Onayami Soudanshitsu Special",
+  "titles": {
+    "default": "Hawk no Onayami Soudanshitsu Special",
+    "romaji": "Hawk no Onayami Soudanshitsu Special",
+    "native": "ホークのお悩み相談室 Special"
+  },
+  "synonyms": [
+    "Hawk no Onayami Soudanshitsu Special",
+    "ホークのお悩み相談室 Special",
+    "Nanatsu no Taizai",
+    "UFO Princess Valkyrie: Special",
+    "円盤皇女ワるきゅーレ: SPECIAL",
+    "UFO Ultramaiden Valkyrie OVA Special: Bridal Training",
+    "UFO Princess Walkyure",
+    "UFO Princess Walküre",
+    "Bride Training Boot Camp"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154197-yJZMgNynqQtW.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "154197",
+      "url": "https://anilist.co/anime/154197"
+    },
+    "k": {
+      "id": "1012",
+      "url": "https://kitsu.io/anime/1012"
+    },
+    "mal": {
+      "id": "54778",
+      "url": "https://myanimelist.net/anime/54778"
+    }
+  }
+}

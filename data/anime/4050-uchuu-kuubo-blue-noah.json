@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4050,
+  "slug": "uchuu-kuubo-blue-noah",
+  "kind": "anime",
+  "title": "Uchuu Kuubo Blue Noah",
+  "titles": {
+    "default": "Uchuu Kuubo Blue Noah",
+    "romaji": "Uchuu Kuubo Blue Noah",
+    "english": "Space Carrier Blue Noah",
+    "native": "宇宙空母ブルーノア"
+  },
+  "synonyms": [
+    "Uchuu Kuubo Blue Noah",
+    "Space Carrier Blue Noah",
+    "宇宙空母ブルーノア",
+    "Thundersub",
+    "Anti-Space Ship",
+    "Uchu Kubo Blue Noah",
+    "Åskbåten",
+    "الغواصة الزرقاء"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "fall",
+  "year": 1979,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5763-Q9gTzIfM3mOT.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5763",
+      "url": "https://anilist.co/anime/5763"
+    },
+    "k": {
+      "id": "4268",
+      "url": "https://kitsu.io/anime/4268"
+    },
+    "mal": {
+      "id": "5763",
+      "url": "https://myanimelist.net/anime/5763"
+    },
+    "t": {
+      "id": "61943",
+      "url": "https://trakt.tv/shows/61943"
+    }
+  }
+}

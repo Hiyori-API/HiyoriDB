@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 707,
+  "slug": "ergo-proxy",
+  "kind": "anime",
+  "title": "Ergo Proxy",
+  "titles": {
+    "default": "Ergo Proxy",
+    "romaji": "Ergo Proxy"
+  },
+  "synonyms": [
+    "Ergo Proxy",
+    "エルゴプラクシ",
+    "ארגו פרוקסי",
+    "Эрго Прокси",
+    "Ерго Проксі",
+    "エルゴプラクシー"
+  ],
+  "type": "tv",
+  "episodes": 23,
+  "status": "finished",
+  "season": "winter",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx790-YTUCvBKX8ZWK.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "790",
+      "url": "https://anilist.co/anime/790"
+    },
+    "cr": {
+      "id": "ergo-proxy",
+      "url": "https://www.crunchyroll.com/series/ergo-proxy"
+    },
+    "k": {
+      "id": "705",
+      "url": "https://kitsu.io/anime/705"
+    },
+    "mal": {
+      "id": "790",
+      "url": "https://myanimelist.net/anime/790"
+    },
+    "t": {
+      "id": "1092",
+      "url": "https://trakt.tv/shows/1092"
+    },
+    "ttv": {
+      "id": "2315",
+      "url": "https://tubitv.com/series/2315"
+    }
+  }
+}

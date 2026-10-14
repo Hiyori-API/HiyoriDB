@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1979,
+  "slug": "ocha-ken-chokotto-monogatari",
+  "kind": "anime",
+  "title": "Ocha-ken: Chokotto Monogatari",
+  "titles": {
+    "default": "Ocha-ken: Chokotto Monogatari",
+    "romaji": "Ocha-ken: Chokotto Monogatari",
+    "native": "お茶犬～ちょこっとものがたり～"
+  },
+  "synonyms": [
+    "Ocha-ken: Chokotto Monogatari",
+    "お茶犬～ちょこっとものがたり～",
+    "Tea-dog",
+    "Tea Dogs",
+    "お茶犬 ちょこっとものがたり"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2233-fXdkLRog0gzU.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2233",
+      "url": "https://anilist.co/anime/2233"
+    },
+    "k": {
+      "id": "2024",
+      "url": "https://kitsu.io/anime/2024"
+    },
+    "mal": {
+      "id": "2233",
+      "url": "https://myanimelist.net/anime/2233"
+    },
+    "tx": {
+      "id": "ochakenofficial",
+      "url": "https://twitter.com/ochakenofficial"
+    }
+  }
+}

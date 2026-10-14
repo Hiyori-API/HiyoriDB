@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6980,
+  "slug": "haitai-nanafa",
+  "kind": "anime",
+  "title": "Haitai Nanafa",
+  "titles": {
+    "default": "Haitai Nanafa",
+    "romaji": "Haitai Nanafa",
+    "native": "はいたい七葉"
+  },
+  "synonyms": [
+    "Haitai Nanafa",
+    "はいたい七葉",
+    "Haitai Nana Fa",
+    "Kill Me Baby",
+    "キルミーベイベー",
+    "Baby",
+    "Please Kill Me."
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b15043-m7jfJrAGvFQp.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "15043",
+      "url": "https://anilist.co/anime/15043"
+    },
+    "k": {
+      "id": "6454",
+      "url": "https://kitsu.io/anime/6454"
+    },
+    "mal": {
+      "id": "15043",
+      "url": "https://myanimelist.net/anime/15043"
+    },
+    "t": {
+      "id": "65264",
+      "url": "https://trakt.tv/shows/65264"
+    }
+  }
+}

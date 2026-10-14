@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11110,
+  "slug": "cinderella-girls-gekijou-kayou-cinderella-theater-climax-season",
+  "kind": "anime",
+  "title": "Cinderella Girls Gekijou: Kayou Cinderella Theater CLIMAX SEASON",
+  "titles": {
+    "default": "Cinderella Girls Gekijou: Kayou Cinderella Theater CLIMAX SEASON",
+    "romaji": "Cinderella Girls Gekijou: Kayou Cinderella Theater CLIMAX SEASON",
+    "english": "THE IDOLM@STER CINDERELLA GIRLS Theater CLIMAX SEASON",
+    "native": "シンデレラガールズ劇場 火曜シンデレラシアターCLIMAX SEASON"
+  },
+  "synonyms": [
+    "Cinderella Girls Gekijou: Kayou Cinderella Theater CLIMAX SEASON",
+    "THE IDOLM@STER CINDERELLA GIRLS Theater CLIMAX SEASON",
+    "シンデレラガールズ劇場 火曜シンデレラシアターCLIMAX SEASON",
+    "Cinderella Girls Gekijou CLIMAX SEASON ONA",
+    "Cingeki CLIMAX SEASON ONA",
+    "THE IDOLM@STER CINDERELLA GIRLS Theater: Tuesday Cinderella Theater 4th Season, Idolmaster Cinderella Girls Theater: Tuesday Cinderella Theater 4th Season, Cingeki (Web) 4th Season",
+    "THE IDOLM@STER CINDERELLA GIRLS Theater (Web) 4th Season",
+    "シンデレラガールズ劇場 火曜シンデレラシアター 第4期",
+    "Cinderella Girls Gekijou: Kayou Cinderella Theater 4th Season"
+  ],
+  "type": "ona",
+  "episodes": 7,
+  "status": "finished",
+  "season": "spring",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108810-OR4w1wrY9Mcy.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "108810",
+      "url": "https://anilist.co/anime/108810"
+    },
+    "cr": {
+      "id": "the-idolmster-cinderella-girls-theater",
+      "url": "https://www.crunchyroll.com/series/the-idolmster-cinderella-girls-theater"
+    },
+    "mal": {
+      "id": "39654",
+      "url": "https://myanimelist.net/anime/39654"
+    },
+    "tx": {
+      "id": "cingeki_anime",
+      "url": "https://twitter.com/cingeki_anime"
+    }
+  }
+}

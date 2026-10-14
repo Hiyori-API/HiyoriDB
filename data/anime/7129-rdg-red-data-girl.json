@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7129,
+  "slug": "rdg-red-data-girl",
+  "kind": "anime",
+  "title": "RDG: Red Data Girl",
+  "titles": {
+    "default": "RDG: Red Data Girl",
+    "romaji": "RDG: Red Data Girl",
+    "english": "Red Data Girl",
+    "native": "RDG レッドデータガール"
+  },
+  "synonyms": [
+    "RDG: Red Data Girl",
+    "Red Data Girl",
+    "RDG レッドデータガール",
+    "RDG"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14921-w925e6kTfEHW.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "14921",
+      "url": "https://anilist.co/anime/14921"
+    },
+    "cr": {
+      "id": "red-data-girl",
+      "url": "https://www.crunchyroll.com/series/red-data-girl"
+    },
+    "k": {
+      "id": "7182",
+      "url": "https://kitsu.io/anime/7182"
+    },
+    "mal": {
+      "id": "14921",
+      "url": "https://myanimelist.net/anime/14921"
+    },
+    "t": {
+      "id": "69868",
+      "url": "https://trakt.tv/shows/69868"
+    }
+  }
+}

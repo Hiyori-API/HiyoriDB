@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5245,
+  "slug": "kiki-to-lala-no-ohime-sama-ni-naritai",
+  "kind": "anime",
+  "title": "Kiki to Lala no Ohime-sama ni Naritai",
+  "titles": {
+    "default": "Kiki to Lala no Ohime-sama ni Naritai",
+    "romaji": "Kiki to Lala no Ohime-sama ni Naritai",
+    "native": "キキとララのお姫さまになりたい"
+  },
+  "synonyms": [
+    "Kiki to Lala no Ohime-sama ni Naritai",
+    "キキとララのお姫さまになりたい",
+    "Kiki to Lala no Ohimesama ni Naritai",
+    "Kiki and Lala no Ohimesama ni Naritai"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17485-yFGBu2kj6Es6.png"
+  ],
+  "references": {
+    "al": {
+      "id": "17485",
+      "url": "https://anilist.co/anime/17485"
+    },
+    "k": {
+      "id": "8366",
+      "url": "https://kitsu.io/anime/8366"
+    },
+    "mal": {
+      "id": "17485",
+      "url": "https://myanimelist.net/anime/17485"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2451,
+  "slug": "shippuu-iron-leaguer",
+  "kind": "anime",
+  "title": "Shippuu! Iron Leaguer",
+  "titles": {
+    "default": "Shippuu! Iron Leaguer",
+    "romaji": "Shippuu! Iron Leaguer",
+    "native": "疾風！ アイアンリーガー"
+  },
+  "synonyms": [
+    "Shippuu! Iron Leaguer",
+    "疾風！ アイアンリーガー",
+    "Hurricane! Iron Leaguer"
+  ],
+  "type": "tv",
+  "episodes": 52,
+  "status": "finished",
+  "season": "spring",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2758-KLF834IktdBA.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2758",
+      "url": "https://anilist.co/anime/2758"
+    },
+    "k": {
+      "id": "2518",
+      "url": "https://kitsu.io/anime/2518"
+    },
+    "mal": {
+      "id": "2758",
+      "url": "https://myanimelist.net/anime/2758"
+    },
+    "t": {
+      "id": "44810",
+      "url": "https://trakt.tv/shows/44810"
+    }
+  }
+}

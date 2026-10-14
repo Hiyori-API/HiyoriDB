@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 919,
+  "slug": "heisei-tanuki-gassen-ponpoko",
+  "kind": "anime",
+  "title": "Heisei Tanuki Gassen Ponpoko",
+  "titles": {
+    "default": "Heisei Tanuki Gassen Ponpoko",
+    "romaji": "Heisei Tanuki Gassen Ponpoko",
+    "english": "Pom Poko",
+    "native": "平成狸合戦ぽんぽこ"
+  },
+  "synonyms": [
+    "Heisei Tanuki Gassen Ponpoko",
+    "Pom Poko",
+    "平成狸合戦ぽんぽこ",
+    "Szopy w natarciu",
+    "PomPoko: A Grande Batalha dos Guaxinins",
+    "Sore Ike! Anpanman: Lyrical☆Magical Mahou no Gakkou",
+    "それいけ! アンパンマン リリカル☆マジカルまほうの学校"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1030-epXaUwnycmQE.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1030",
+      "url": "https://anilist.co/anime/1030"
+    },
+    "k": {
+      "id": "9620",
+      "url": "https://kitsu.io/anime/9620"
+    },
+    "mal": {
+      "id": "1030",
+      "url": "https://myanimelist.net/anime/1030"
+    },
+    "nf": {
+      "id": "70035036",
+      "url": "https://www.netflix.com/title/70035036"
+    }
+  }
+}

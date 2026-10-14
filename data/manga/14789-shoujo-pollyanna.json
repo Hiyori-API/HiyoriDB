@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14789,
+  "slug": "shoujo-pollyanna",
+  "kind": "manga",
+  "title": "Shoujo Pollyanna",
+  "titles": {
+    "default": "Shoujo Pollyanna"
+  },
+  "synonyms": [
+    "Pollyanna",
+    "A Girl Pollyanna",
+    "少女パレアナ",
+    "Those Obnoxious Aliens",
+    "Urusei Yatsura",
+    "うる星やつら",
+    "Lum",
+    "The Return of Lum",
+    "Lamu",
+    "the Invader Girl"
+  ],
+  "type": "manga",
+  "volumes": 1,
+  "status": "finished",
+  "year": 1978,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx177625-mktMaWOTPuNR.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2554",
+      "url": "https://anilist.co/anime/2554"
+    },
+    "al_manga": {
+      "id": "2554",
+      "url": "https://anilist.co/manga/2554"
+    }
+  }
+}

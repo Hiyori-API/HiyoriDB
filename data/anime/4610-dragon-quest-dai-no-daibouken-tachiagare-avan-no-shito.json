@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4610,
+  "slug": "dragon-quest-dai-no-daibouken-tachiagare-avan-no-shito",
+  "kind": "anime",
+  "title": "Dragon Quest: Dai no Daibouken Tachiagare!! Avan no Shito",
+  "titles": {
+    "default": "Dragon Quest: Dai no Daibouken Tachiagare!! Avan no Shito",
+    "romaji": "Dragon Quest: Dai no Daibouken Tachiagare!! Avan no Shito",
+    "native": "ドラゴンクエスト ダイの大冒険 起ちあがれ!!アバンの使徒"
+  },
+  "synonyms": [
+    "Dragon Quest: Dai no Daibouken Tachiagare!! Avan no Shito",
+    "ドラゴンクエスト ダイの大冒険 起ちあがれ!!アバンの使徒",
+    "Dragon Quest: Dai no Daiboken Tachiagare! Aban no Shito",
+    "Stand up!! Disciples of Avan",
+    "Candy Candy (Movie)",
+    "キャンディ・キャンディ"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx7436-FGKNX8L6b8Bv.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7436",
+      "url": "https://anilist.co/anime/7436"
+    },
+    "k": {
+      "id": "652",
+      "url": "https://kitsu.io/anime/652"
+    },
+    "mal": {
+      "id": "7436",
+      "url": "https://myanimelist.net/anime/7436"
+    }
+  }
+}

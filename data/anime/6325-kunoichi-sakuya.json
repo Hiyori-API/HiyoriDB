@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6325,
+  "slug": "kunoichi-sakuya",
+  "kind": "anime",
+  "title": "Kunoichi Sakuya",
+  "titles": {
+    "default": "Kunoichi Sakuya",
+    "romaji": "Kunoichi Sakuya",
+    "native": "くのいち・咲夜"
+  },
+  "synonyms": [
+    "Kunoichi Sakuya",
+    "くのいち・咲夜",
+    "Baka & Test - Summon the Beasts OVA",
+    "Baka to Test to Shoukanjuu: Matsuri",
+    "バカとテストと召喚獣 ～祭～",
+    "Baka to Test to Shoukanjuu OVA",
+    "Baka to Test to Shokanju OVA",
+    "The Idiot",
+    "the Tests",
+    "and the Summoned Creatures OVA",
+    "Baka and Test: Summon the Beasts OVA"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9939.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9939",
+      "url": "https://anilist.co/anime/9939"
+    },
+    "k": {
+      "id": "5745",
+      "url": "https://kitsu.io/anime/5745"
+    },
+    "mal": {
+      "id": "9939",
+      "url": "https://myanimelist.net/anime/9939"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10546,
+  "slug": "battle-spirits-kakumei-no-gallet",
+  "kind": "anime",
+  "title": "Battle Spirits: Kakumei no Gallet",
+  "titles": {
+    "default": "Battle Spirits: Kakumei no Gallet",
+    "romaji": "Battle Spirits: Kakumei no Gallet",
+    "native": "バトルスピリッツ 赫盟のガレット"
+  },
+  "synonyms": [
+    "Battle Spirits: Kakumei no Gallet",
+    "バトルスピリッツ 赫盟のガレット",
+    "Ontama!",
+    "おんたま!"
+  ],
+  "type": "ona",
+  "episodes": 5,
+  "status": "finished",
+  "season": "summer",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114943-5arViLxJRtL7.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "114943",
+      "url": "https://anilist.co/anime/114943"
+    },
+    "k": {
+      "id": "4771",
+      "url": "https://kitsu.io/anime/4771"
+    },
+    "mal": {
+      "id": "41137",
+      "url": "https://myanimelist.net/anime/41137"
+    },
+    "tx": {
+      "id": "bs_animation",
+      "url": "https://twitter.com/bs_animation"
+    },
+    "yt": {
+      "id": "BattleSpiri",
+      "url": "https://www.youtube.com/watch?v=BattleSpiri"
+    }
+  }
+}

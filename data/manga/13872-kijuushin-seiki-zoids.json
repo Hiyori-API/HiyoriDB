@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13872,
+  "slug": "kijuushin-seiki-zoids",
+  "kind": "manga",
+  "title": "Kijuushin Seiki ZOIDS",
+  "titles": {
+    "default": "Kijuushin Seiki ZOIDS"
+  },
+  "synonyms": [
+    "ZOIDS: Chaotic Century",
+    "機獣新世紀ZOIDS",
+    "Kijuushin Seiki Zoids",
+    "Zoids: Chaotic Century"
+  ],
+  "type": "manga",
+  "chapters": 29,
+  "volumes": 5,
+  "status": "finished",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30359-nIqgWfGMeO6C.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "763",
+      "url": "https://anilist.co/anime/763"
+    },
+    "al_manga": {
+      "id": "763",
+      "url": "https://anilist.co/manga/763"
+    }
+  }
+}

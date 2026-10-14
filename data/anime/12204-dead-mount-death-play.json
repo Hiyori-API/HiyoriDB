@@ -1,0 +1,59 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12204,
+  "slug": "dead-mount-death-play",
+  "kind": "anime",
+  "title": "Dead Mount Death Play",
+  "titles": {
+    "default": "Dead Mount Death Play",
+    "romaji": "Dead Mount Death Play",
+    "native": "デッドマウント・デスプレイ"
+  },
+  "synonyms": [
+    "Dead Mount Death Play",
+    "デッドマウント・デスプレイ",
+    "屍體如山的死亡遊戲",
+    "DMDP",
+    "This Ugly Yet Beautiful World",
+    "Kono Minikuku mo Utsukushii Sekai",
+    "この醜くも美しい世界"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2023,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx157198-LVZ7PgxWwc6v.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "157198",
+      "url": "https://anilist.co/anime/157198"
+    },
+    "cr": {
+      "id": "series/G3KHEV04J/dead-mount-death-play",
+      "url": "https://www.crunchyroll.com/series/series/G3KHEV04J/dead-mount-death-play"
+    },
+    "k": {
+      "id": "124",
+      "url": "https://kitsu.io/anime/124"
+    },
+    "mal": {
+      "id": "53613",
+      "url": "https://myanimelist.net/anime/53613"
+    },
+    "nf": {
+      "id": "81686706",
+      "url": "https://www.netflix.com/title/81686706"
+    },
+    "t": {
+      "id": "34001",
+      "url": "https://trakt.tv/shows/34001"
+    },
+    "tx": {
+      "id": "dmdp_anime",
+      "url": "https://twitter.com/dmdp_anime"
+    }
+  }
+}

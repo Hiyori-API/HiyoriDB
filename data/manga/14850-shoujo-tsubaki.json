@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14850,
+  "slug": "shoujo-tsubaki",
+  "kind": "manga",
+  "title": "Shoujo Tsubaki",
+  "titles": {
+    "default": "Shoujo Tsubaki"
+  },
+  "synonyms": [
+    "Midori",
+    "Midori – Das Kamelienmädchen",
+    "Шоу уродов господина Араси",
+    "Midori: La niña de las camelias",
+    "Midori. La ragazza delle camelie",
+    "La Jeune fille aux camélias",
+    "Midori: Garota das camélias",
+    "Mr. Arashi's Amazing Freak Show",
+    "少女椿",
+    "Kuro no Kumikyoku",
+    "黒の組曲",
+    "Tenshi wa Yami ni Hohoemu",
+    "Bell ga Nattara",
+    "Cole",
+    "Linda",
+    "Violet"
+  ],
+  "type": "manga",
+  "chapters": 8,
+  "volumes": 1,
+  "status": "finished",
+  "year": 1983,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx39057-mX2ZxGeOYMNJ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2981",
+      "url": "https://anilist.co/anime/2981"
+    },
+    "al_manga": {
+      "id": "2981",
+      "url": "https://anilist.co/manga/2981"
+    }
+  }
+}

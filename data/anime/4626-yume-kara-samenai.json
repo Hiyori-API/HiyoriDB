@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4626,
+  "slug": "yume-kara-samenai",
+  "kind": "anime",
+  "title": "Yume kara, Samenai",
+  "titles": {
+    "default": "Yume kara, Samenai",
+    "romaji": "Yume kara, Samenai",
+    "native": "夢から、さめない"
+  },
+  "synonyms": [
+    "Yume kara, Samenai",
+    "夢から、さめない"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx7482-6rcpernAoNMa.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7482",
+      "url": "https://anilist.co/anime/7482"
+    },
+    "k": {
+      "id": "4995",
+      "url": "https://kitsu.io/anime/4995"
+    },
+    "mal": {
+      "id": "7482",
+      "url": "https://myanimelist.net/anime/7482"
+    }
+  }
+}

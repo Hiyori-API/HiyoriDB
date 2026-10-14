@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13811,
+  "slug": "petshop-of-horrors",
+  "kind": "manga",
+  "title": "Petshop of Horrors",
+  "titles": {
+    "default": "Petshop of Horrors"
+  },
+  "synonyms": [
+    "ペットショップ オブ ホラーズ",
+    "Pet Shop of Horrors",
+    "Petshop of Horrors",
+    "Petshop of Horrors (ペットショップ オブ ホラーズ)"
+  ],
+  "type": "manga",
+  "chapters": 41,
+  "volumes": 10,
+  "status": "finished",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30128-eMobdFp80cVV.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "326",
+      "url": "https://anilist.co/anime/326"
+    },
+    "al_manga": {
+      "id": "326",
+      "url": "https://anilist.co/manga/326"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11256,
+  "slug": "jimihen-jimiko-wo-kaechau-jun-isei-kouyuu",
+  "kind": "anime",
+  "title": "Jimihen!!: Jimiko wo Kaechau Jun Isei Kouyuu",
+  "titles": {
+    "default": "Jimihen!!: Jimiko wo Kaechau Jun Isei Kouyuu",
+    "romaji": "Jimihen!!: Jimiko wo Kaechau Jun Isei Kouyuu",
+    "english": "Simple yet Sexy",
+    "native": "じみへんっ！！～地味子を変えちゃう純異性交遊～"
+  },
+  "synonyms": [
+    "Jimihen!!: Jimiko wo Kaechau Jun Isei Kouyuu",
+    "Simple yet Sexy",
+    "じみへんっ！！～地味子を変えちゃう純異性交遊～",
+    "Pure Heterosexual Intercourse That Transforms a Plain Girl",
+    "Não sei como me aproximar do sexo oposto",
+    "Catman Series II",
+    "キャットマン",
+    "Catman",
+    "Catman 2nd Season"
+  ],
+  "type": "ona",
+  "episodes": 8,
+  "status": "finished",
+  "season": "winter",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126242-SMW2lQR0jLAp.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "126242",
+      "url": "https://anilist.co/anime/126242"
+    },
+    "k": {
+      "id": "3602",
+      "url": "https://kitsu.io/anime/3602"
+    },
+    "mal": {
+      "id": "44044",
+      "url": "https://myanimelist.net/anime/44044"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5057,
+  "slug": "goddamn",
+  "kind": "anime",
+  "title": "Goddamn",
+  "titles": {
+    "default": "Goddamn",
+    "romaji": "Goddamn",
+    "native": "ガッデム"
+  },
+  "synonyms": [
+    "Goddamn",
+    "ガッデム"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9646-gsyoORQpJMQh.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9646",
+      "url": "https://anilist.co/anime/9646"
+    },
+    "k": {
+      "id": "5818",
+      "url": "https://kitsu.io/anime/5818"
+    },
+    "mal": {
+      "id": "9646",
+      "url": "https://myanimelist.net/anime/9646"
+    }
+  }
+}

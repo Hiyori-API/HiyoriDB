@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3748,
+  "slug": "andes-shounen-pepero-no-bouken",
+  "kind": "anime",
+  "title": "Andes Shounen Pepero no Bouken",
+  "titles": {
+    "default": "Andes Shounen Pepero no Bouken",
+    "romaji": "Andes Shounen Pepero no Bouken",
+    "english": "Adventures of Pepero the Andes Boy",
+    "native": "アンデス少年ペペロの冒険"
+  },
+  "synonyms": [
+    "Andes Shounen Pepero no Bouken",
+    "Adventures of Pepero the Andes Boy",
+    "アンデス少年ペペロの冒険",
+    "Andes Shonen Pepero no Boken",
+    "Las aventuras de Pepero, hijo de los Andes",
+    "Les aventures de Pepero"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 1975,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5104.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5104",
+      "url": "https://anilist.co/anime/5104"
+    },
+    "k": {
+      "id": "3931",
+      "url": "https://kitsu.io/anime/3931"
+    },
+    "mal": {
+      "id": "5104",
+      "url": "https://myanimelist.net/anime/5104"
+    }
+  }
+}

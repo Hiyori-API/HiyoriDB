@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2067,
+  "slug": "youjuu-kyoushitsu-gaiden",
+  "kind": "anime",
+  "title": "Youjuu Kyoushitsu Gaiden",
+  "titles": {
+    "default": "Youjuu Kyoushitsu Gaiden",
+    "romaji": "Youjuu Kyoushitsu Gaiden",
+    "english": "Demon Beast Resurrection",
+    "native": "妖獣教室外伝"
+  },
+  "synonyms": [
+    "Youjuu Kyoushitsu Gaiden",
+    "Demon Beast Resurrection",
+    "妖獣教室外伝",
+    "Yuu☆Yuu☆Hakusho: Eizou Hakusho II",
+    "幽☆遊☆白書Ⅱ: 幽助、蔵魔、飛影、桑原",
+    "Yu Yu Hakusho: Eizou Hakusho II: Yuusuke",
+    "Kurama",
+    "Hiei",
+    "Kuwabara",
+    "Image Hakusho II"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "fall",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2339-86CGyFXZdR4e.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2339",
+      "url": "https://anilist.co/anime/2339"
+    },
+    "cr": {
+      "id": "series/GR9PKENW6/yu-yu-hakusho",
+      "url": "https://www.crunchyroll.com/series/series/GR9PKENW6/yu-yu-hakusho"
+    },
+    "k": {
+      "id": "1923",
+      "url": "https://kitsu.io/anime/1923"
+    },
+    "mal": {
+      "id": "2339",
+      "url": "https://myanimelist.net/anime/2339"
+    }
+  }
+}

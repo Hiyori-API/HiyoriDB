@@ -1,0 +1,60 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1608,
+  "slug": "sonic-x",
+  "kind": "anime",
+  "title": "Sonic X",
+  "titles": {
+    "default": "Sonic X",
+    "romaji": "Sonic X",
+    "native": "ソニックX"
+  },
+  "synonyms": [
+    "Sonic X",
+    "ソニックX",
+    "Соник X",
+    "Сонік Ікс",
+    "Croket!",
+    "コロッケ！",
+    "Croquette!",
+    "Corokke!"
+  ],
+  "type": "tv",
+  "episodes": 52,
+  "status": "finished",
+  "season": "spring",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1816-yxbOVMuD7SAJ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1816",
+      "url": "https://anilist.co/anime/1816"
+    },
+    "ann": {
+      "id": "2544",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2544"
+    },
+    "k": {
+      "id": "3913",
+      "url": "https://kitsu.io/anime/3913"
+    },
+    "mal": {
+      "id": "1816",
+      "url": "https://myanimelist.net/anime/1816"
+    },
+    "nf": {
+      "id": "81172267",
+      "url": "https://www.netflix.com/title/60036794"
+    },
+    "ttv": {
+      "id": "2100",
+      "url": "https://tubitv.com/series/2100"
+    },
+    "tvt": {
+      "id": "sonic_x",
+      "url": "http://www.tv-tokyo.co.jp/anime/sonic_x"
+    }
+  }
+}

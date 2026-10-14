@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8823,
+  "slug": "sengoku-choujuu-giga-kou",
+  "kind": "anime",
+  "title": "Sengoku Choujuu Giga: Kou",
+  "titles": {
+    "default": "Sengoku Choujuu Giga: Kou",
+    "romaji": "Sengoku Choujuu Giga: Kou",
+    "english": "SENGOKUCHOJYUGIGA",
+    "native": "戦国鳥獣戯画～甲～"
+  },
+  "synonyms": [
+    "Sengoku Choujuu Giga: Kou",
+    "SENGOKUCHOJYUGIGA",
+    "戦国鳥獣戯画～甲～",
+    "Sengokuchojugiga",
+    "Flip Flappers",
+    "フリップフラッパーズ"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21895-vdjzqygp9XKZ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21895",
+      "url": "https://anilist.co/anime/21895"
+    },
+    "cr": {
+      "id": "sengokuchojyugiga",
+      "url": "https://www.crunchyroll.com/series/sengokuchojyugiga"
+    },
+    "mal": {
+      "id": "33803",
+      "url": "https://myanimelist.net/anime/33803"
+    },
+    "tx": {
+      "id": "SENGOKUCHOJYU",
+      "url": "https://twitter.com/SENGOKUCHOJYU"
+    }
+  }
+}

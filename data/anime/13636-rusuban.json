@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13636,
+  "slug": "rusuban",
+  "kind": "anime",
+  "title": "Rusuban",
+  "titles": {
+    "default": "Rusuban",
+    "romaji": "Rusuban",
+    "native": "るすばん"
+  },
+  "synonyms": [
+    "Rusuban",
+    "るすばん",
+    "Cowboy Bebop: The Movie",
+    "Cowboy Bebop: Tengoku no Tobira",
+    "Cowboy Bebop: Knockin' on Heaven's Door",
+    "カウボーイビバップ天国の扉"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213908-ZBUHQxLVUzSW.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "213908",
+      "url": "https://anilist.co/anime/213908"
+    },
+    "k": {
+      "id": "2",
+      "url": "https://kitsu.io/anime/2"
+    },
+    "mal": {
+      "id": "64580",
+      "url": "https://myanimelist.net/anime/64580"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2717,
+  "slug": "rankou-choukyou-maid-ni-natta-shoujo",
+  "kind": "anime",
+  "title": "Rankou Choukyou: Maid ni Natta Shoujo",
+  "titles": {
+    "default": "Rankou Choukyou: Maid ni Natta Shoujo",
+    "romaji": "Rankou Choukyou: Maid ni Natta Shoujo",
+    "english": "Rancou Chokyo - Orgy Training",
+    "native": "乱交調教 メイドになった少女"
+  },
+  "synonyms": [
+    "Rankou Choukyou: Maid ni Natta Shoujo",
+    "Rancou Chokyo - Orgy Training",
+    "乱交調教 メイドになった少女",
+    "Rancou Choukyo",
+    "Kai Doh Maru",
+    "怪童丸",
+    "Kaidoumaru",
+    "Kaidomaru"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3094.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3094",
+      "url": "https://anilist.co/anime/3094"
+    },
+    "k": {
+      "id": "1457",
+      "url": "https://kitsu.io/anime/1457"
+    },
+    "mal": {
+      "id": "3094",
+      "url": "https://myanimelist.net/anime/3094"
+    }
+  }
+}

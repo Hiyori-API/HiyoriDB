@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11805,
+  "slug": "lycoris-recoil",
+  "kind": "anime",
+  "title": "Lycoris Recoil",
+  "titles": {
+    "default": "Lycoris Recoil",
+    "romaji": "Lycoris Recoil",
+    "native": "リコリス・リコイル"
+  },
+  "synonyms": [
+    "Lycoris Recoil",
+    "リコリス・リコイル",
+    "ไลโคริส รีคอยล์",
+    "LycoReco",
+    "Ликорис Рекойл",
+    "莉可麗絲"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143270-rfkyiYXhek5w.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "143270",
+      "url": "https://anilist.co/anime/143270"
+    },
+    "cr": {
+      "id": "lycoris-recoil",
+      "url": "https://www.crunchyroll.com/series/lycoris-recoil"
+    },
+    "mal": {
+      "id": "50709",
+      "url": "https://myanimelist.net/anime/50709"
+    },
+    "nf": {
+      "id": "81620000",
+      "url": "https://www.netflix.com/title/81620000"
+    },
+    "tx": {
+      "id": "lycoris_recoil",
+      "url": "https://twitter.com/lycoris_recoil"
+    }
+  }
+}

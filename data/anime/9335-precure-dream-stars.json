@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9335,
+  "slug": "precure-dream-stars",
+  "kind": "anime",
+  "title": "Precure Dream Stars!",
+  "titles": {
+    "default": "Precure Dream Stars!",
+    "romaji": "Precure Dream Stars!",
+    "native": "プリキュアドリームスターズ！"
+  },
+  "synonyms": [
+    "Precure Dream Stars!",
+    "プリキュアドリームスターズ！",
+    "Pretty Cure Dream Stars!",
+    "Genocidal Organ",
+    "Gyakusatsu Kikan",
+    "虐殺器官",
+    "Project Itoh"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99642-RNWOKndtlpIK.png"
+  ],
+  "references": {
+    "al": {
+      "id": "99642",
+      "url": "https://anilist.co/anime/99642"
+    },
+    "k": {
+      "id": "8737",
+      "url": "https://kitsu.io/anime/8737"
+    },
+    "mal": {
+      "id": "34302",
+      "url": "https://myanimelist.net/anime/34302"
+    }
+  }
+}

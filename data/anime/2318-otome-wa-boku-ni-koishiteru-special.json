@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2318,
+  "slug": "otome-wa-boku-ni-koishiteru-special",
+  "kind": "anime",
+  "title": "Otome wa Boku ni Koishiteru Special",
+  "titles": {
+    "default": "Otome wa Boku ni Koishiteru Special",
+    "romaji": "Otome wa Boku ni Koishiteru Special",
+    "native": "乙女はお姉さま[ボク]に恋してる"
+  },
+  "synonyms": [
+    "Otome wa Boku ni Koishiteru Special",
+    "乙女はお姉さま[ボク]に恋してる",
+    "Otome wa Onee-sama ni Koi Shiteru",
+    "The Maiden Is Falling In Love With The Elder Sister",
+    "Tsunderella",
+    "Otoboku: Maidens are Falling for Me! Special",
+    "Otoboku",
+    "Ookina Shounen Shoujo no Sekai Meisaku no Mori: Tsunderella"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2615.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2615",
+      "url": "https://anilist.co/anime/2615"
+    },
+    "k": {
+      "id": "2379",
+      "url": "https://kitsu.io/anime/2379"
+    },
+    "mal": {
+      "id": "2615",
+      "url": "https://myanimelist.net/anime/2615"
+    }
+  }
+}

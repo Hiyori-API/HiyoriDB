@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4698,
+  "slug": "inakappe-taishou",
+  "kind": "anime",
+  "title": "Inakappe Taishou",
+  "titles": {
+    "default": "Inakappe Taishou",
+    "romaji": "Inakappe Taishou",
+    "english": "General Inakappe",
+    "native": "いなかっぺ大将"
+  },
+  "synonyms": [
+    "Inakappe Taishou",
+    "General Inakappe",
+    "いなかっぺ大将",
+    "The Funny Judo Champion",
+    "The Young Countryman Leader"
+  ],
+  "type": "tv",
+  "episodes": 104,
+  "status": "finished",
+  "season": "fall",
+  "year": 1970,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8786.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8786",
+      "url": "https://anilist.co/anime/8786"
+    },
+    "k": {
+      "id": "5495",
+      "url": "https://kitsu.io/anime/5495"
+    },
+    "mal": {
+      "id": "8786",
+      "url": "https://myanimelist.net/anime/8786"
+    }
+  }
+}

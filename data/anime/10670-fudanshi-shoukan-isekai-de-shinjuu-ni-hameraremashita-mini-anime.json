@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10670,
+  "slug": "fudanshi-shoukan-isekai-de-shinjuu-ni-hameraremashita-mini-anime",
+  "kind": "anime",
+  "title": "Fudanshi Shoukan: Isekai de Shinjuu ni Hameraremashita Mini Anime",
+  "titles": {
+    "default": "Fudanshi Shoukan: Isekai de Shinjuu ni Hameraremashita Mini Anime",
+    "romaji": "Fudanshi Shoukan: Isekai de Shinjuu ni Hameraremashita Mini Anime",
+    "native": "【腐男子召喚〜異世界で神獣にハメられました〜】ミニアニメ"
+  },
+  "synonyms": [
+    "Fudanshi Shoukan: Isekai de Shinjuu ni Hameraremashita Mini Anime",
+    "【腐男子召喚〜異世界で神獣にハメられました〜】ミニアニメ",
+    "Fudanshi Shoukan Mini Anime",
+    "Fudanshi Summoning: I Got Laid by a Divine Beast on an Alternate World",
+    "Kaichuu!",
+    "カイチュー!",
+    "Kaichu!"
+  ],
+  "type": "ona",
+  "episodes": 4,
+  "status": "finished",
+  "season": "summer",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b123903-cJ6u0i5u44EL.png"
+  ],
+  "references": {
+    "al": {
+      "id": "123903",
+      "url": "https://anilist.co/anime/123903"
+    },
+    "k": {
+      "id": "5632",
+      "url": "https://kitsu.io/anime/5632"
+    },
+    "mal": {
+      "id": "42855",
+      "url": "https://myanimelist.net/anime/42855"
+    },
+    "tx": {
+      "id": "search",
+      "url": "https://twitter.com/search"
+    }
+  }
+}

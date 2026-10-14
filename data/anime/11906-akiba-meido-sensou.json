@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11906,
+  "slug": "akiba-meido-sensou",
+  "kind": "anime",
+  "title": "Akiba Meido Sensou",
+  "titles": {
+    "default": "Akiba Meido Sensou",
+    "romaji": "Akiba Meido Sensou",
+    "english": "Akiba Maid War",
+    "native": "アキバ冥途戦争"
+  },
+  "synonyms": [
+    "Akiba Meido Sensou",
+    "Akiba Maid War",
+    "アキバ冥途戦争",
+    "Akiba Maid Sensou",
+    "Война горничных Акибы",
+    "Ring ni Kakero 1",
+    "リングにかけろ１",
+    "Put it all in the Ring"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151379-JxxgTgSViXZL.png"
+  ],
+  "references": {
+    "al": {
+      "id": "151379",
+      "url": "https://anilist.co/anime/151379"
+    },
+    "cr": {
+      "id": "series/G79H23XPW/akiba-maid-war",
+      "url": "https://www.crunchyroll.com/series/series/G79H23XPW/akiba-maid-war"
+    },
+    "k": {
+      "id": "14",
+      "url": "https://kitsu.io/anime/14"
+    },
+    "mal": {
+      "id": "52193",
+      "url": "https://myanimelist.net/anime/52193"
+    },
+    "t": {
+      "id": "69507",
+      "url": "https://trakt.tv/shows/69507"
+    },
+    "tx": {
+      "id": "akbmaidwar",
+      "url": "https://twitter.com/akbmaidwar"
+    }
+  }
+}

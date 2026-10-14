@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5176,
+  "slug": "fairy-dick",
+  "kind": "anime",
+  "title": "Fairy Dick",
+  "titles": {
+    "default": "Fairy Dick",
+    "romaji": "Fairy Dick",
+    "native": "妖精ディック"
+  },
+  "synonyms": [
+    "Fairy Dick",
+    "妖精ディック",
+    "Hobberdy Dick",
+    "Yosei Dikku",
+    "Hobberdy Dick: Der kleine Hauself",
+    "Yousei Dick",
+    "Thumbelina: A Magical Story",
+    "Oyayubi Hime Monogatari",
+    "おやゆび姫物語",
+    "Story of Princess Thumbelina",
+    "Thumbelina",
+    "Thumb Princess Story"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "summer",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7625.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7625",
+      "url": "https://anilist.co/anime/7625"
+    },
+    "k": {
+      "id": "2539",
+      "url": "https://kitsu.io/anime/2539"
+    },
+    "mal": {
+      "id": "7625",
+      "url": "https://myanimelist.net/anime/7625"
+    }
+  }
+}

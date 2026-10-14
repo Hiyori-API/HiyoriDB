@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15070,
+  "slug": "koume-chan-ga-iku",
+  "kind": "manga",
+  "title": "Koume-chan ga Iku!!",
+  "titles": {
+    "default": "Koume-chan ga Iku!!"
+  },
+  "synonyms": [
+    "Here Comes Koume!",
+    "小梅ちゃんが行く!!",
+    "Dismember",
+    "Kaitai",
+    "解体"
+  ],
+  "type": "manga",
+  "chapters": 65,
+  "volumes": 3,
+  "status": "finished",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx94248-JEMBCmpGDMq4.png"
+  ],
+  "references": {
+    "al": {
+      "id": "6571",
+      "url": "https://anilist.co/anime/6571"
+    },
+    "al_manga": {
+      "id": "6571",
+      "url": "https://anilist.co/manga/6571"
+    }
+  }
+}

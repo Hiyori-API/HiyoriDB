@@ -1,0 +1,63 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7765,
+  "slug": "akatsuki-no-yona",
+  "kind": "anime",
+  "title": "Akatsuki no Yona",
+  "titles": {
+    "default": "Akatsuki no Yona",
+    "romaji": "Akatsuki no Yona",
+    "english": "Yona of the Dawn",
+    "native": "暁のヨナ"
+  },
+  "synonyms": [
+    "Akatsuki no Yona",
+    "Yona of the Dawn",
+    "暁のヨナ",
+    "AkaYona",
+    "Йона на заре",
+    "Ёна на заре",
+    "Рассвет Йоны",
+    "Yona, princesse de l'aube",
+    "Parasyte -the maxim-",
+    "Kiseijuu: Sei no Kakuritsu",
+    "寄生獣 セイの格率",
+    "Parasite",
+    "Parasitic Beasts",
+    "Parasyte"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "fall",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20770-brCDvhTXlums.png"
+  ],
+  "references": {
+    "al": {
+      "id": "20770",
+      "url": "https://anilist.co/anime/20770"
+    },
+    "cr": {
+      "id": "yona",
+      "url": "https://www.crunchyroll.com/series/yona"
+    },
+    "k": {
+      "id": "8147",
+      "url": "https://kitsu.io/anime/8147"
+    },
+    "mal": {
+      "id": "25013",
+      "url": "https://myanimelist.net/anime/25013"
+    },
+    "t": {
+      "id": "60936",
+      "url": "https://trakt.tv/shows/60936"
+    },
+    "tx": {
+      "id": "yona_anime",
+      "url": "https://twitter.com/yona_anime"
+    }
+  }
+}

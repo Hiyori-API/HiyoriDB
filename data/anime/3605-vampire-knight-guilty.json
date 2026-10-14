@@ -1,0 +1,60 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3605,
+  "slug": "vampire-knight-guilty",
+  "kind": "anime",
+  "title": "Vampire Knight Guilty",
+  "titles": {
+    "default": "Vampire Knight Guilty",
+    "romaji": "Vampire Knight Guilty",
+    "english": "Vampire Knight: Guilty",
+    "native": "ヴァンパイア騎士"
+  },
+  "synonyms": [
+    "Vampire Knight Guilty",
+    "Vampire Knight: Guilty",
+    "ヴァンパイア騎士",
+    "Vampire Kishi 2",
+    "Vampire Knight 2",
+    "ヴァンパイア騎士〈ナイト〉Guilty",
+    "Vampire Kishi Guilty"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4752-U4EZI6gwWsXX.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4752",
+      "url": "https://anilist.co/anime/4752"
+    },
+    "cr": {
+      "id": "vampire-knight",
+      "url": "https://www.crunchyroll.com/series/vampire-knight"
+    },
+    "k": {
+      "id": "3023",
+      "url": "https://kitsu.io/anime/3023"
+    },
+    "mal": {
+      "id": "4752",
+      "url": "https://myanimelist.net/anime/4752"
+    },
+    "nf": {
+      "id": "70309457",
+      "url": "https://www.netflix.com/title/70309457"
+    },
+    "t": {
+      "id": "17078",
+      "url": "https://trakt.tv/shows/17078"
+    },
+    "ttv": {
+      "id": "2906",
+      "url": "https://tubitv.com/series/2906"
+    }
+  }
+}

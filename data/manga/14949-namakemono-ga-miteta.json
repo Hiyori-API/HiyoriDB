@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14949,
+  "slug": "namakemono-ga-miteta",
+  "kind": "manga",
+  "title": "Namakemono ga Miteta",
+  "titles": {
+    "default": "Namakemono ga Miteta"
+  },
+  "synonyms": [
+    "ナマケモノが見てた",
+    "Ranma ½",
+    "Ranma 1/2",
+    "らんま½"
+  ],
+  "type": "manga",
+  "chapters": 139,
+  "volumes": 11,
+  "status": "finished",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx151209-neFbIbthXmNX.png"
+  ],
+  "references": {
+    "al": {
+      "id": "19817",
+      "url": "https://anilist.co/anime/19817"
+    },
+    "al_manga": {
+      "id": "19817",
+      "url": "https://anilist.co/manga/19817"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14862,
+  "slug": "1-gatsu-ni-wa-christmas",
+  "kind": "manga",
+  "title": "1-gatsu ni wa Christmas",
+  "titles": {
+    "default": "1-gatsu ni wa Christmas"
+  },
+  "synonyms": [
+    "Christmas in January",
+    "Ichigatsu ni wa Christmas",
+    "1月にはChristmas",
+    "Kuro no Kumikyoku",
+    "黒の組曲",
+    "Tenshi wa Yami ni Hohoemu",
+    "Bell ga Nattara",
+    "Cole",
+    "Linda",
+    "Violet"
+  ],
+  "type": "manga",
+  "chapters": 2,
+  "volumes": 1,
+  "status": "finished",
+  "year": 1983,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b108316-wn8XnzHjTXZm.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6060",
+      "url": "https://anilist.co/anime/6060"
+    },
+    "al_manga": {
+      "id": "6060",
+      "url": "https://anilist.co/manga/6060"
+    }
+  }
+}

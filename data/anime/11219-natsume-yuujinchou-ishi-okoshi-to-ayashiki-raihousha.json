@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11219,
+  "slug": "natsume-yuujinchou-ishi-okoshi-to-ayashiki-raihousha",
+  "kind": "anime",
+  "title": "Natsume Yuujinchou: Ishi Okoshi to Ayashiki Raihousha",
+  "titles": {
+    "default": "Natsume Yuujinchou: Ishi Okoshi to Ayashiki Raihousha",
+    "romaji": "Natsume Yuujinchou: Ishi Okoshi to Ayashiki Raihousha",
+    "native": "夏目友人帳 石起こしと怪しき来訪者"
+  },
+  "synonyms": [
+    "Natsume Yuujinchou: Ishi Okoshi to Ayashiki Raihousha",
+    "夏目友人帳 石起こしと怪しき来訪者",
+    "Natsume's Book of Friends: The Waking Rock and the Strange Visitor",
+    "นัตสึเมะกับบันทึกพิศวง เดอะ มูฟวี่ ผู้ปลุกหินผาและผู้มาเยือนประหลาด",
+    "Evangelion: 3.0+1.0 Thrice Upon a Time",
+    "Shin Evangelion Gekijouban :||",
+    "シン・エヴァンゲリオン劇場版:||",
+    "Evangelion: 4.0",
+    "Rebuild of Evangelion 4.0"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124132-1CMeg6ZKv09Q.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "124132",
+      "url": "https://anilist.co/anime/124132"
+    },
+    "k": {
+      "id": "3252",
+      "url": "https://kitsu.io/anime/3252"
+    },
+    "mal": {
+      "id": "42894",
+      "url": "https://myanimelist.net/anime/42894"
+    },
+    "tx": {
+      "id": "NatsumeYujincho",
+      "url": "https://twitter.com/NatsumeYujincho"
+    }
+  }
+}

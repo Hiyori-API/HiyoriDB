@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14507,
+  "slug": "hotaru-no-hikari",
+  "kind": "manga",
+  "title": "Hotaru no Hikari",
+  "titles": {
+    "default": "Hotaru no Hikari"
+  },
+  "synonyms": [
+    "Hotaru no Hikaru",
+    "Glow of the Fireflies",
+    "Light of the Firefly",
+    "Hotaru's Way",
+    "ホタルノヒカリ",
+    "Railroad",
+    "레일로드"
+  ],
+  "type": "manga",
+  "chapters": 90,
+  "volumes": 15,
+  "status": "finished",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx34270-LRqwfIWTBW9Q.png"
+  ],
+  "references": {
+    "al": {
+      "id": "110694",
+      "url": "https://anilist.co/anime/110694"
+    },
+    "al_manga": {
+      "id": "110694",
+      "url": "https://anilist.co/manga/110694"
+    }
+  }
+}

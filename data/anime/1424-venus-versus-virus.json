@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1424,
+  "slug": "venus-versus-virus",
+  "kind": "anime",
+  "title": "Venus Versus Virus",
+  "titles": {
+    "default": "Venus Versus Virus",
+    "romaji": "Venus Versus Virus"
+  },
+  "synonyms": [
+    "Venus Versus Virus",
+    "ヴィーナス ヴァーサス ヴァイアラス",
+    "Venus vs. Virus"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1607-LMJZ0kYu1iJ2.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1607",
+      "url": "https://anilist.co/anime/1607"
+    },
+    "cr": {
+      "id": "venus-versus-virus",
+      "url": "https://www.crunchyroll.com/series/venus-versus-virus"
+    },
+    "k": {
+      "id": "1446",
+      "url": "https://kitsu.io/anime/1446"
+    },
+    "mal": {
+      "id": "1607",
+      "url": "https://myanimelist.net/anime/1607"
+    },
+    "t": {
+      "id": "63523",
+      "url": "https://trakt.tv/shows/63523"
+    }
+  }
+}

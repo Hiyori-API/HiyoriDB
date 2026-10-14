@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1865,
+  "slug": "seto-no-hanayome",
+  "kind": "anime",
+  "title": "Seto no Hanayome",
+  "titles": {
+    "default": "Seto no Hanayome",
+    "romaji": "Seto no Hanayome",
+    "english": "My Bride is a Mermaid",
+    "native": "瀬戸の花嫁"
+  },
+  "synonyms": [
+    "Seto no Hanayome",
+    "My Bride is a Mermaid",
+    "瀬戸の花嫁",
+    "The Inland Sea Bride"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2104-8nyExxxIKd3P.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2104",
+      "url": "https://anilist.co/anime/2104"
+    },
+    "cr": {
+      "id": "my-bride-is-a-mermaid",
+      "url": "https://www.crunchyroll.com/series/my-bride-is-a-mermaid"
+    },
+    "k": {
+      "id": "1903",
+      "url": "https://kitsu.io/anime/1903"
+    },
+    "mal": {
+      "id": "2104",
+      "url": "https://myanimelist.net/anime/2104"
+    },
+    "t": {
+      "id": "56470",
+      "url": "https://trakt.tv/shows/56470"
+    }
+  }
+}

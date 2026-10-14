@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15296,
+  "slug": "b-densetsu-battle-b-daman",
+  "kind": "manga",
+  "title": "B-Densetsu! Battle B-Daman",
+  "titles": {
+    "default": "B-Densetsu! Battle B-Daman"
+  },
+  "synonyms": [
+    "Battle B-Damon",
+    "Battle B-Daman",
+    "B-伝説! バトルビーダマン",
+    "Fujisan",
+    "富士山",
+    "Fuji-san"
+  ],
+  "type": "manga",
+  "chapters": 48,
+  "volumes": 8,
+  "status": "finished",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/20087.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2789",
+      "url": "https://anilist.co/anime/4667"
+    },
+    "al_manga": {
+      "id": "2789",
+      "url": "https://anilist.co/manga/2789"
+    }
+  }
+}

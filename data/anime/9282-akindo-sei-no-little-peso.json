@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9282,
+  "slug": "akindo-sei-no-little-peso",
+  "kind": "anime",
+  "title": "Akindo Sei no Little Peso",
+  "titles": {
+    "default": "Akindo Sei no Little Peso",
+    "romaji": "Akindo Sei no Little Peso",
+    "native": "アキンド星のリトル・ペソ"
+  },
+  "synonyms": [
+    "Akindo Sei no Little Peso",
+    "アキンド星のリトル・ペソ",
+    "Attack on Titan Season 2",
+    "Shingeki no Kyojin Season 2",
+    "進撃の巨人 Season 2"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98752-aCa1bwUJBg4A.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98752",
+      "url": "https://anilist.co/anime/98752"
+    },
+    "cr": {
+      "id": "attack-on-titan",
+      "url": "https://www.crunchyroll.com/series/attack-on-titan"
+    },
+    "k": {
+      "id": "8671",
+      "url": "https://kitsu.io/anime/8671"
+    },
+    "mal": {
+      "id": "34928",
+      "url": "https://myanimelist.net/anime/34928"
+    },
+    "t": {
+      "id": "1420",
+      "url": "https://trakt.tv/shows/1420"
+    }
+  }
+}

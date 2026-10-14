@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2602,
+  "slug": "maria-sama-ga-miteru-3rd-season-ova-maria-sama-ni-wa-naisho",
+  "kind": "anime",
+  "title": "Maria-sama ga Miteru: 3rd Season OVA - Maria-sama ni wa Naisho.",
+  "titles": {
+    "default": "Maria-sama ga Miteru: 3rd Season OVA - Maria-sama ni wa Naisho.",
+    "romaji": "Maria-sama ga Miteru: 3rd Season OVA - Maria-sama ni wa Naisho.",
+    "english": "Maria Watches Over Us 3rd Season OVA - Don't Tell Mother Maria.",
+    "native": "マリア様がみてる～3rdシーズンOVA～マリア様にはないしょ。"
+  },
+  "synonyms": [
+    "Maria-sama ga Miteru: 3rd Season OVA - Maria-sama ni wa Naisho.",
+    "Maria Watches Over Us 3rd Season OVA - Don't Tell Mother Maria.",
+    "マリア様がみてる～3rdシーズンOVA～マリア様にはないしょ。",
+    "Maria-sama ga Miteru 3rd Season OVA Specials",
+    "Maria Watches Over Us 3rd Season OVA Specials",
+    "Keep It a Secret from Maria-sama",
+    "Don't Tell the Virgin Mary",
+    "Keep it a Secret from Maria-sama",
+    "Maria-sama ga Miteru 3rd Specials",
+    "マリア様にはないしょ。",
+    "Maria-sama ni wa Naisho",
+    "Don't tell the Virgin Mary"
+  ],
+  "type": "special",
+  "episodes": 5,
+  "status": "finished",
+  "season": "winter",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx2954-adluWf6XGZsr.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2954",
+      "url": "https://anilist.co/anime/2954"
+    },
+    "k": {
+      "id": "7817",
+      "url": "https://kitsu.io/anime/7817"
+    },
+    "mal": {
+      "id": "2954",
+      "url": "https://myanimelist.net/anime/2954"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9108,
+  "slug": "kidou-senshi-gundam-thunderbolt-2",
+  "kind": "anime",
+  "title": "Kidou Senshi Gundam Thunderbolt 2",
+  "titles": {
+    "default": "Kidou Senshi Gundam Thunderbolt 2",
+    "romaji": "Kidou Senshi Gundam Thunderbolt 2",
+    "english": "Mobile Suit Gundam Thunderbolt 2",
+    "native": "機動戦士ガンダム サンダーボルト 2"
+  },
+  "synonyms": [
+    "Kidou Senshi Gundam Thunderbolt 2",
+    "Mobile Suit Gundam Thunderbolt 2",
+    "機動戦士ガンダム サンダーボルト 2",
+    "Kidou Senshi Gundam Thunderbolt 2nd Season",
+    "Mobile Suit Gundam Thunderbolt 2nd Season"
+  ],
+  "type": "ona",
+  "episodes": 4,
+  "status": "finished",
+  "season": "spring",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97853-HS33suhM5mzI.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "97853",
+      "url": "https://anilist.co/anime/97853"
+    },
+    "mal": {
+      "id": "34391",
+      "url": "https://myanimelist.net/anime/34391"
+    },
+    "tx": {
+      "id": "gundam_tb",
+      "url": "https://twitter.com/gundam_tb"
+    }
+  }
+}

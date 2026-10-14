@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5802,
+  "slug": "code-geass-hangyaku-no-lelouch-r2-flash-flash-kaette-kita-baba-gekijou",
+  "kind": "anime",
+  "title": "Code Geass: Hangyaku no Lelouch R2 FLASH Flash - Kaette Kita BABA Gekijou",
+  "titles": {
+    "default": "Code Geass: Hangyaku no Lelouch R2 FLASH Flash - Kaette Kita BABA Gekijou",
+    "romaji": "Code Geass: Hangyaku no Lelouch R2 FLASH Flash - Kaette Kita BABA Gekijou",
+    "english": "Code Geass: Lelouch of the Rebellion R2: Flash Specials",
+    "native": "コードギアス 反逆のルルーシュ おまけFLASH「帰ってきたBABA劇場」"
+  },
+  "synonyms": [
+    "Code Geass: Hangyaku no Lelouch R2 FLASH Flash - Kaette Kita BABA Gekijou",
+    "Code Geass: Lelouch of the Rebellion R2: Flash Specials",
+    "コードギアス 反逆のルルーシュ おまけFLASH「帰ってきたBABA劇場」",
+    "Code Geass: Lelouch of the Rebellion R2 Extra Flash - Baba Theater Redux",
+    "Code Geass: Hangyaku no Lelouch R2 Flash Specials",
+    "Code Geass: Hangyaku no Lelouch R2 Omake Flash - Kaette Kita Baba Gekijou"
+  ],
+  "type": "special",
+  "episodes": 9,
+  "status": "finished",
+  "season": "summer",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9591.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9591",
+      "url": "https://anilist.co/anime/9591"
+    },
+    "k": {
+      "id": "5801",
+      "url": "https://kitsu.io/anime/5801"
+    },
+    "mal": {
+      "id": "9591",
+      "url": "https://myanimelist.net/anime/9591"
+    }
+  }
+}

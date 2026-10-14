@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 118,
+  "slug": "hunter-hunter-greed-island",
+  "kind": "anime",
+  "title": "HUNTER×HUNTER: Greed Island",
+  "titles": {
+    "default": "HUNTER×HUNTER: Greed Island",
+    "romaji": "HUNTER×HUNTER: Greed Island"
+  },
+  "synonyms": [
+    "HUNTER×HUNTER: Greed Island",
+    "Hunter x Hunter OVA 2",
+    "HxH",
+    "ハンターｘハンター: Greed Island",
+    "Hunter x Hunter: Greed Island",
+    "Hunter X Hunter OVA 2",
+    "Hantā Hantā Greed Island"
+  ],
+  "type": "ova",
+  "episodes": 8,
+  "status": "finished",
+  "season": "winter",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx138-BY6R1y8zuf7s.png"
+  ],
+  "references": {
+    "al": {
+      "id": "138",
+      "url": "https://anilist.co/anime/138"
+    },
+    "k": {
+      "id": "117",
+      "url": "https://kitsu.io/anime/117"
+    },
+    "mal": {
+      "id": "138",
+      "url": "https://myanimelist.net/anime/138"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13906,
+  "slug": "bad-company",
+  "kind": "manga",
+  "title": "BAD COMPANY",
+  "titles": {
+    "default": "BAD COMPANY"
+  },
+  "synonyms": [
+    "バッドカンパニー",
+    "BAD COMPANY",
+    "Kamikaze Kaito Jeanne",
+    "Kamikaze Kaitou Jeanne",
+    "Phantom Thief Jeanne",
+    "神風怪盗ジャンヌ",
+    "Divine Wind Phantom Thief Jeanne"
+  ],
+  "type": "manga",
+  "chapters": 10,
+  "volumes": 1,
+  "status": "finished",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30444-DLkMK6su9wCN.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1913",
+      "url": "https://anilist.co/anime/1913"
+    },
+    "al_manga": {
+      "id": "1913",
+      "url": "https://anilist.co/manga/1913"
+    }
+  }
+}

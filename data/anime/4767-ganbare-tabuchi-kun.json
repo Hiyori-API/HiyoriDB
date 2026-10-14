@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4767,
+  "slug": "ganbare-tabuchi-kun",
+  "kind": "anime",
+  "title": "Ganbare!! Tabuchi-kun!!",
+  "titles": {
+    "default": "Ganbare!! Tabuchi-kun!!",
+    "romaji": "Ganbare!! Tabuchi-kun!!",
+    "native": "がんばれ!! タブチくん!!"
+  },
+  "synonyms": [
+    "Ganbare!! Tabuchi-kun!!",
+    "がんばれ!! タブチくん!!",
+    "Lupin the Third: The Castle of Cagliostro",
+    "Lupin III: Cagliostro no Shiro",
+    "Lupin III: The Castle of Cagliostro",
+    "ルパン三世 カリオストロの城",
+    "Rupan Sansei"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1979,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116016-Wswuwj9R8AaY.png"
+  ],
+  "references": {
+    "al": {
+      "id": "116016",
+      "url": "https://anilist.co/anime/116016"
+    },
+    "k": {
+      "id": "1283",
+      "url": "https://kitsu.io/anime/1283"
+    },
+    "mal": {
+      "id": "32835",
+      "url": "https://myanimelist.net/anime/32835"
+    },
+    "nf": {
+      "id": "70050576",
+      "url": "https://www.netflix.com/title/70050576"
+    }
+  }
+}

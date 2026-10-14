@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12238,
+  "slug": "neko-to-wakai-se-na",
+  "kind": "anime",
+  "title": "Neko to Wakai se na",
+  "titles": {
+    "default": "Neko to Wakai se na",
+    "romaji": "Neko to Wakai se na",
+    "native": "ネコと和解せな"
+  },
+  "synonyms": [
+    "Neko to Wakai se na",
+    "ネコと和解せな",
+    "TOHO animation ミュージックフィルムズ",
+    "TOHO animation Music Films",
+    "Semi",
+    "蝉",
+    "伊藤瑞希×変態紳士クラブ",
+    "Mizuki Itou x HENTAI SHINSHI CLUB",
+    "School Days ONA",
+    "スクールデイズ",
+    "School Days"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2023,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159727-IPzzk3AIU7Yh.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "159727",
+      "url": "https://anilist.co/anime/159727"
+    },
+    "k": {
+      "id": "678",
+      "url": "https://kitsu.io/anime/678"
+    },
+    "mal": {
+      "id": "54809",
+      "url": "https://myanimelist.net/anime/54809"
+    },
+    "yt": {
+      "id": "iy02RoMj-Ko",
+      "url": "https://www.youtube.com/watch?v=iy02RoMj-Ko"
+    }
+  }
+}

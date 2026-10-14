@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6436,
+  "slug": "kimi-to-boku",
+  "kind": "anime",
+  "title": "Kimi to Boku.",
+  "titles": {
+    "default": "Kimi to Boku.",
+    "romaji": "Kimi to Boku.",
+    "english": "You and Me.",
+    "native": "君と僕。"
+  },
+  "synonyms": [
+    "Kimi to Boku.",
+    "You and Me.",
+    "君と僕。"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10460-qvyyqn5teodZ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "10460",
+      "url": "https://anilist.co/anime/10460"
+    },
+    "cr": {
+      "id": "you-and-me",
+      "url": "https://www.crunchyroll.com/series/you-and-me"
+    },
+    "k": {
+      "id": "6191",
+      "url": "https://kitsu.io/anime/6191"
+    },
+    "mal": {
+      "id": "10460",
+      "url": "https://myanimelist.net/anime/10460"
+    },
+    "t": {
+      "id": "64473",
+      "url": "https://trakt.tv/shows/64473"
+    }
+  }
+}

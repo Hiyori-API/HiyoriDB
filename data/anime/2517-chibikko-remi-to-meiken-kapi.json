@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2517,
+  "slug": "chibikko-remi-to-meiken-kapi",
+  "kind": "anime",
+  "title": "Chibikko Remi to Meiken Kapi",
+  "titles": {
+    "default": "Chibikko Remi to Meiken Kapi",
+    "romaji": "Chibikko Remi to Meiken Kapi",
+    "native": "ちびっ子レミと名犬カピ"
+  },
+  "synonyms": [
+    "Chibikko Remi to Meiken Kapi",
+    "ちびっ子レミと名犬カピ",
+    "Little Rémi and Capi",
+    "Little Remi and Famous Dog Kapi",
+    "Chibikko Rémi to Meiken Kapi"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1970,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2830-liUdwHvMbwb9.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2830",
+      "url": "https://anilist.co/anime/2830"
+    },
+    "k": {
+      "id": "2584",
+      "url": "https://kitsu.io/anime/2584"
+    },
+    "mal": {
+      "id": "2830",
+      "url": "https://myanimelist.net/anime/2830"
+    }
+  }
+}

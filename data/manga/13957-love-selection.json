@@ -1,0 +1,58 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13957,
+  "slug": "love-selection",
+  "kind": "manga",
+  "title": "Love Selection",
+  "titles": {
+    "default": "Love Selection"
+  },
+  "synonyms": [
+    "Help Me! Misaki-san",
+    "Summer Fun",
+    "Sister Syndrome",
+    "Cream Processing Manual",
+    "Natsu Asobi",
+    "Jissen Creme Taiou Manual",
+    "Chikan Lesson",
+    "Favorite Menu",
+    "Oniichan to Isshou!",
+    "Ikemen GET!!",
+    "Somero! Tenkousei",
+    "Molester Lessons",
+    "Hey, I'm not a child anymore, right?",
+    "Slut Exchange Student",
+    "Help me!美咲さん",
+    "夏遊び",
+    "実践クレーム対応マニュアル",
+    "痴漢レッスン",
+    "お兄ちゃんと一緒!",
+    "イケメンGET!!",
+    "染めろ!転校生",
+    "Love Selection",
+    "ラブ・セレクション",
+    "Love Makes People Grow",
+    "Hito wa Ai wo Tabete Sodatsu",
+    "人は愛を食べて育つ",
+    "Eat Love and Grow",
+    "Hito wa ai o tabete sodatsu"
+  ],
+  "type": "manga",
+  "chapters": 11,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30632-jCoaYqn9qpoE.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5172",
+      "url": "https://anilist.co/anime/5172"
+    },
+    "al_manga": {
+      "id": "5172",
+      "url": "https://anilist.co/manga/5172"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14498,
+  "slug": "ojamajo-doremi",
+  "kind": "manga",
+  "title": "Ojamajo Doremi",
+  "titles": {
+    "default": "Ojamajo Doremi"
+  },
+  "synonyms": [
+    "Bothersome Witch Doremi",
+    "Useless Witch Doremi",
+    "おジャ魔女どれみ",
+    "Paradise Kiss",
+    "パラダイス・キス",
+    "ParaKiss"
+  ],
+  "type": "manga",
+  "chapters": 23,
+  "volumes": 3,
+  "status": "finished",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx34175-svbzncM70IvF.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "350",
+      "url": "https://anilist.co/anime/350"
+    },
+    "al_manga": {
+      "id": "350",
+      "url": "https://anilist.co/manga/350"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11806,
+  "slug": "urusei-yatsura-2022",
+  "kind": "anime",
+  "title": "Urusei Yatsura (2022)",
+  "titles": {
+    "default": "Urusei Yatsura (2022)",
+    "romaji": "Urusei Yatsura (2022)",
+    "english": "Urusei Yatsura (2022) Seasons 1 & 2",
+    "native": "うる星やつら (2022)"
+  },
+  "synonyms": [
+    "Urusei Yatsura (2022)",
+    "Urusei Yatsura (2022) Seasons 1 & 2",
+    "うる星やつら (2022)",
+    "Urusei Yatsura: All Stars",
+    "Lum, the Invader Girl",
+    "Lamù e i casinisti planetari",
+    "Turma do Barulho",
+    "Urusei Yatsura: Kosmiczni natręci",
+    "Urusei Yatsura (2022) Seasons 1 and 2",
+    "Urusei Yatsura (2022) Seasons 1+2",
+    "Those Obnoxious Aliens",
+    "The Return of Lum",
+    "Urusei Yatsura",
+    "うる星やつら"
+  ],
+  "type": "tv",
+  "episodes": 23,
+  "status": "finished",
+  "season": "fall",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143277-snjd4UzsUl8M.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "143277",
+      "url": "https://anilist.co/anime/143277"
+    },
+    "mal": {
+      "id": "50710",
+      "url": "https://myanimelist.net/anime/50710"
+    },
+    "nf": {
+      "id": "81642888",
+      "url": "https://www.netflix.com/title/81642888"
+    },
+    "tx": {
+      "id": "uy_allstars",
+      "url": "https://twitter.com/uy_allstars"
+    }
+  }
+}

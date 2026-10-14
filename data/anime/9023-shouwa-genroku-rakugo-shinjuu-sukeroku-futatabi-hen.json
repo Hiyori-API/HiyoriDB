@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9023,
+  "slug": "shouwa-genroku-rakugo-shinjuu-sukeroku-futatabi-hen",
+  "kind": "anime",
+  "title": "Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen",
+  "titles": {
+    "default": "Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen",
+    "romaji": "Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen",
+    "english": "Descending Stories: Showa Genroku Rakugo Shinju",
+    "native": "昭和元禄落語心中～助六再び篇～"
+  },
+  "synonyms": [
+    "Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen",
+    "Descending Stories: Showa Genroku Rakugo Shinju",
+    "昭和元禄落語心中～助六再び篇～",
+    "Le Rakugo ou la vie 2",
+    "Shouwa Genroku Rakugo Shinjuu 2nd Season",
+    "Showa and Genroku Era Lover's Suicide Through Rakugo 2nd Season"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx21733-SUV6bCTsU51u.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21733",
+      "url": "https://anilist.co/anime/21733"
+    },
+    "cr": {
+      "id": "showa-genroku-rakugo-shinju",
+      "url": "https://www.crunchyroll.com/series/showa-genroku-rakugo-shinju"
+    },
+    "mal": {
+      "id": "33095",
+      "url": "https://myanimelist.net/anime/33095"
+    },
+    "tx": {
+      "id": "rakugoshinju",
+      "url": "https://twitter.com/rakugoshinju"
+    }
+  }
+}

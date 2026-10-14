@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 360,
+  "slug": "tales-of-phantasia-the-animation",
+  "kind": "anime",
+  "title": "Tales of Phantasia: THE ANIMATION",
+  "titles": {
+    "default": "Tales of Phantasia: THE ANIMATION",
+    "romaji": "Tales of Phantasia: THE ANIMATION",
+    "english": "Tales of Phantasia: The Animation",
+    "native": "テイルズ オブ ファンタジア THE ANIMATION"
+  },
+  "synonyms": [
+    "Tales of Phantasia: THE ANIMATION",
+    "Tales of Phantasia: The Animation",
+    "テイルズ オブ ファンタジア THE ANIMATION",
+    "Tales of Phantasia",
+    "Tales of Phantasia The Animation"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "fall",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx391-1MyURs85iUYA.png"
+  ],
+  "references": {
+    "al": {
+      "id": "391",
+      "url": "https://anilist.co/anime/391"
+    },
+    "cr": {
+      "id": "series/G9VHN9K0K/",
+      "url": "https://www.crunchyroll.com/series/series/G9VHN9K0K/"
+    },
+    "k": {
+      "id": "358",
+      "url": "https://kitsu.io/anime/358"
+    },
+    "mal": {
+      "id": "391",
+      "url": "https://myanimelist.net/anime/391"
+    },
+    "t": {
+      "id": "43536",
+      "url": "https://trakt.tv/shows/43536"
+    }
+  }
+}

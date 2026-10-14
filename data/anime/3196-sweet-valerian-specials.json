@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3196,
+  "slug": "sweet-valerian-specials",
+  "kind": "anime",
+  "title": "Sweet Valerian Specials",
+  "titles": {
+    "default": "Sweet Valerian Specials",
+    "romaji": "Sweet Valerian Specials",
+    "native": "スウィート・ヴァレリアン 特別"
+  },
+  "synonyms": [
+    "Sweet Valerian Specials",
+    "スウィート・ヴァレリアン 特別",
+    "スウィート・ヴァレリアン"
+  ],
+  "type": "special",
+  "episodes": 8,
+  "status": "finished",
+  "season": "summer",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3863-BKZdlYIGnoat.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3863",
+      "url": "https://anilist.co/anime/3863"
+    },
+    "k": {
+      "id": "3307",
+      "url": "https://kitsu.io/anime/3307"
+    },
+    "mal": {
+      "id": "3863",
+      "url": "https://myanimelist.net/anime/3863"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2586,
+  "slug": "mirai-keisatsu-urashiman",
+  "kind": "anime",
+  "title": "Mirai Keisatsu Urashiman",
+  "titles": {
+    "default": "Mirai Keisatsu Urashiman",
+    "romaji": "Mirai Keisatsu Urashiman",
+    "english": "Urashiman",
+    "native": "未来警察ウラシマン"
+  },
+  "synonyms": [
+    "Mirai Keisatsu Urashiman",
+    "Urashiman",
+    "未来警察ウラシマン",
+    "Future Police Urashiman",
+    "Rock'n Cop",
+    "Rocki-kyttä",
+    "Ryo, un ragazzo contro un impero"
+  ],
+  "type": "tv",
+  "episodes": 50,
+  "status": "finished",
+  "season": "winter",
+  "year": 1983,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2933-yGgn0Udwm3fm.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2933",
+      "url": "https://anilist.co/anime/2933"
+    },
+    "k": {
+      "id": "2656",
+      "url": "https://kitsu.io/anime/2656"
+    },
+    "mal": {
+      "id": "2933",
+      "url": "https://myanimelist.net/anime/2933"
+    },
+    "t": {
+      "id": "44862",
+      "url": "https://trakt.tv/shows/44862"
+    }
+  }
+}

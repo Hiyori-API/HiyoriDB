@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4988,
+  "slug": "tatakae-ramenman-movie",
+  "kind": "anime",
+  "title": "Tatakae!! Ramenman (Movie)",
+  "titles": {
+    "default": "Tatakae!! Ramenman (Movie)",
+    "romaji": "Tatakae!! Ramenman (Movie)",
+    "native": "闘将!!拉麺男"
+  },
+  "synonyms": [
+    "Tatakae!! Ramenman (Movie)",
+    "闘将!!拉麺男",
+    "Ramenman (Movie)",
+    "Fight!! Ramenman: Light the Darkness!!"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16728.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "16728",
+      "url": "https://anilist.co/anime/16728"
+    },
+    "k": {
+      "id": "7499",
+      "url": "https://kitsu.io/anime/7499"
+    },
+    "mal": {
+      "id": "16728",
+      "url": "https://myanimelist.net/anime/16728"
+    }
+  }
+}

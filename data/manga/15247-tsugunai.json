@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15247,
+  "slug": "tsugunai",
+  "kind": "manga",
+  "title": "Tsugunai",
+  "titles": {
+    "default": "Tsugunai"
+  },
+  "synonyms": [
+    "ツグナヒ",
+    "Maburaho",
+    "まぶらほ",
+    "Maburaho Tanpen"
+  ],
+  "type": "novel",
+  "volumes": 1,
+  "status": "finished",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/90955-y42mnt034AfS.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "146837",
+      "url": "https://anilist.co/anime/146837"
+    },
+    "al_manga": {
+      "id": "146837",
+      "url": "https://anilist.co/manga/146837"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2166,
+  "slug": "nikuyome-takayanagi-ke-no-hitobito",
+  "kind": "anime",
+  "title": "Nikuyome: Takayanagi Ke no Hitobito",
+  "titles": {
+    "default": "Nikuyome: Takayanagi Ke no Hitobito",
+    "romaji": "Nikuyome: Takayanagi Ke no Hitobito",
+    "english": "Mistreated Bride",
+    "native": "肉嫁 高柳家の人々"
+  },
+  "synonyms": [
+    "Nikuyome: Takayanagi Ke no Hitobito",
+    "Mistreated Bride",
+    "肉嫁 高柳家の人々",
+    "Nikuyome: Takayanagi-ke no Hitobito",
+    "Bludgeoning Angel Dokuro-chan",
+    "Bokusatsu Tenshi Dokuro-chan",
+    "撲殺天使ドクロちゃん",
+    "Club-To-Death Angel Dokuro-chan"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "summer",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2446-OLR0oD0T69Ds.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2446",
+      "url": "https://anilist.co/anime/2446"
+    },
+    "cr": {
+      "id": "series/G6MEX4N4R/bludgeoning-angel-dokuro-chan",
+      "url": "https://www.crunchyroll.com/series/series/G6MEX4N4R/bludgeoning-angel-dokuro-chan"
+    },
+    "k": {
+      "id": "324",
+      "url": "https://kitsu.io/anime/324"
+    },
+    "mal": {
+      "id": "2446",
+      "url": "https://myanimelist.net/anime/2446"
+    }
+  }
+}

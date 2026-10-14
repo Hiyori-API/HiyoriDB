@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9555,
+  "slug": "nanatsu-no-taizai-imashime-no-fukkatsu",
+  "kind": "anime",
+  "title": "Nanatsu no Taizai: Imashime no Fukkatsu",
+  "titles": {
+    "default": "Nanatsu no Taizai: Imashime no Fukkatsu",
+    "romaji": "Nanatsu no Taizai: Imashime no Fukkatsu",
+    "english": "The Seven Deadly Sins: Revival of the Commandments",
+    "native": "七つの大罪 戒めの復活"
+  },
+  "synonyms": [
+    "Nanatsu no Taizai: Imashime no Fukkatsu",
+    "The Seven Deadly Sins: Revival of the Commandments",
+    "七つの大罪 戒めの復活",
+    "The Seven Deadly Sins: Die Rückkehr der Gebote",
+    "ศึกตำนาน 7 อัศวิน ภาค 2 คืนชีพบัญญัติสิบประการ",
+    "The Seven Deadly Sins: Odrodzenie przykazań",
+    "Семь смертных грехов: Возрождение Заповедей",
+    "Seven Deadly Sins Season 2"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "winter",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99539-caPX28RSsgRP.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "99539",
+      "url": "https://anilist.co/anime/99539"
+    },
+    "mal": {
+      "id": "34577",
+      "url": "https://myanimelist.net/anime/34577"
+    },
+    "nf": {
+      "id": "80050063",
+      "url": "https://www.netflix.com/title/80050063"
+    },
+    "tx": {
+      "id": "7_taizai",
+      "url": "https://twitter.com/7_taizai"
+    }
+  }
+}

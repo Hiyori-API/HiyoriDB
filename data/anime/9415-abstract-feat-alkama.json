@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9415,
+  "slug": "abstract-feat-alkama",
+  "kind": "anime",
+  "title": "Abstract feat. Alkama",
+  "titles": {
+    "default": "Abstract feat. Alkama",
+    "romaji": "Abstract feat. Alkama",
+    "native": "个乃ち七允ムく七 (Abstract) feat. Alkama"
+  },
+  "synonyms": [
+    "Abstract feat. Alkama",
+    "个乃ち七允ムく七 (Abstract) feat. Alkama",
+    "Magical Girl Lyrical Nanoha Reflection",
+    "Mahou Shoujo Lyrical Nanoha: Reflection",
+    "魔法少女リリカルなのは Reflection"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102699-iF4mbXTCfp8J.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "102699",
+      "url": "https://anilist.co/anime/102699"
+    },
+    "k": {
+      "id": "8274",
+      "url": "https://kitsu.io/anime/8274"
+    },
+    "mal": {
+      "id": "36182",
+      "url": "https://myanimelist.net/anime/36182"
+    }
+  }
+}

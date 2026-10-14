@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11802,
+  "slug": "kaginado-season-2",
+  "kind": "anime",
+  "title": "Kaginado Season 2",
+  "titles": {
+    "default": "Kaginado Season 2",
+    "romaji": "Kaginado Season 2",
+    "english": "KAGINADO Season 2",
+    "native": "かぎなど シーズン２"
+  },
+  "synonyms": [
+    "Kaginado Season 2",
+    "KAGINADO Season 2",
+    "かぎなど シーズン２",
+    "Key, etc.",
+    "鍵等",
+    "This Ugly Yet Beautiful World",
+    "Kono Minikuku mo Utsukushii Sekai",
+    "この醜くも美しい世界"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143150-yYb9yimEQocm.png"
+  ],
+  "references": {
+    "al": {
+      "id": "143150",
+      "url": "https://anilist.co/anime/143150"
+    },
+    "cr": {
+      "id": "series/G3KHEV73Z/kaginado",
+      "url": "https://www.crunchyroll.com/series/series/G3KHEV73Z/kaginado"
+    },
+    "k": {
+      "id": "124",
+      "url": "https://kitsu.io/anime/124"
+    },
+    "mal": {
+      "id": "50685",
+      "url": "https://myanimelist.net/anime/50685"
+    },
+    "t": {
+      "id": "34001",
+      "url": "https://trakt.tv/shows/34001"
+    },
+    "tx": {
+      "id": "kaginado",
+      "url": "https://twitter.com/kaginado"
+    }
+  }
+}

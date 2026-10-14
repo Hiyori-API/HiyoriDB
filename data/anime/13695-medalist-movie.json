@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13695,
+  "slug": "medalist-movie",
+  "kind": "anime",
+  "title": "Medalist Movie",
+  "titles": {
+    "default": "Medalist Movie",
+    "romaji": "Medalist Movie",
+    "native": "劇場版 メダリスト"
+  },
+  "synonyms": [
+    "Medalist Movie",
+    "劇場版 メダリスト",
+    "Uru in Blue",
+    "Aoki Uru",
+    "蒼きウル",
+    "Blue Uru"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "to_be_aired",
+  "season": "winter",
+  "year": 2027,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206298-q8wPQWpcT4WV.png"
+  ],
+  "references": {
+    "al": {
+      "id": "206298",
+      "url": "https://anilist.co/anime/206298"
+    },
+    "k": {
+      "id": "8350",
+      "url": "https://kitsu.io/anime/8350"
+    },
+    "mal": {
+      "id": "63326",
+      "url": "https://myanimelist.net/anime/63326"
+    }
+  }
+}

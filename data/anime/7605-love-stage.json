@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7605,
+  "slug": "love-stage",
+  "kind": "anime",
+  "title": "LOVE STAGE!!",
+  "titles": {
+    "default": "LOVE STAGE!!",
+    "romaji": "LOVE STAGE!!"
+  },
+  "synonyms": [
+    "LOVE STAGE!!",
+    "ラブステージ",
+    "Love Stage!!"
+  ],
+  "type": "tv",
+  "episodes": 10,
+  "status": "finished",
+  "season": "summer",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx20520-x753cpAR4JvF.png"
+  ],
+  "references": {
+    "al": {
+      "id": "20520",
+      "url": "https://anilist.co/anime/20520"
+    },
+    "cr": {
+      "id": "love-stage",
+      "url": "https://www.crunchyroll.com/series/love-stage"
+    },
+    "k": {
+      "id": "7767",
+      "url": "https://kitsu.io/anime/7767"
+    },
+    "mal": {
+      "id": "21105",
+      "url": "https://myanimelist.net/anime/21105"
+    },
+    "t": {
+      "id": "77559",
+      "url": "https://trakt.tv/shows/77559"
+    }
+  }
+}

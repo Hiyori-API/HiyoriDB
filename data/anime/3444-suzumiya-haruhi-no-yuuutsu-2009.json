@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3444,
+  "slug": "suzumiya-haruhi-no-yuuutsu-2009",
+  "kind": "anime",
+  "title": "Suzumiya Haruhi no Yuuutsu (2009)",
+  "titles": {
+    "default": "Suzumiya Haruhi no Yuuutsu (2009)",
+    "romaji": "Suzumiya Haruhi no Yuuutsu (2009)",
+    "english": "The Melancholy of Haruhi Suzumiya (2009)",
+    "native": "涼宮ハルヒの憂鬱"
+  },
+  "synonyms": [
+    "Suzumiya Haruhi no Yuuutsu (2009)",
+    "The Melancholy of Haruhi Suzumiya (2009)",
+    "涼宮ハルヒの憂鬱",
+    "凉宫春日的忧郁 (2009)",
+    "La Mélancolie de Haruhi Suzumiya",
+    "La Malinconia di Haruhi Suzumiya",
+    "Меланхолия Харухи Судзумии. Второй сезон",
+    "Suzumiya Haruhi no Yuutsu (2009)",
+    "Endless Eight",
+    "The Sigh of Haruhi Suzumiya"
+  ],
+  "type": "tv",
+  "episodes": 28,
+  "status": "finished",
+  "season": "spring",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4382-ojMWjGFfJFmN.png"
+  ],
+  "references": {
+    "al": {
+      "id": "4382",
+      "url": "https://anilist.co/anime/4382"
+    },
+    "cr": {
+      "id": "the-melancholy-of-haruhi-suzumiya",
+      "url": "https://www.crunchyroll.com/series/the-melancholy-of-haruhi-suzumiya"
+    },
+    "mal": {
+      "id": "4382",
+      "url": "https://myanimelist.net/anime/4382"
+    },
+    "nf": {
+      "id": "80132288",
+      "url": "https://www.netflix.com/title/80132288"
+    }
+  }
+}

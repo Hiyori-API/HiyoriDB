@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 582,
+  "slug": "mahou-tsukai-tai",
+  "kind": "anime",
+  "title": "Mahou Tsukai Tai!",
+  "titles": {
+    "default": "Mahou Tsukai Tai!",
+    "romaji": "Mahou Tsukai Tai!",
+    "english": "Magic User's Club!",
+    "native": "魔法使いTai!"
+  },
+  "synonyms": [
+    "Mahou Tsukai Tai!",
+    "Magic User's Club!",
+    "魔法使いTai!",
+    "Magic User's Club OVA",
+    "Il Club della Magia!",
+    "Mahoutsukai Tai! OVA"
+  ],
+  "type": "ova",
+  "episodes": 6,
+  "status": "finished",
+  "season": "spring",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx629-fLzM1xlbng9T.png"
+  ],
+  "references": {
+    "al": {
+      "id": "629",
+      "url": "https://anilist.co/anime/629"
+    },
+    "cr": {
+      "id": "magic-users-club-ova",
+      "url": "https://www.crunchyroll.com/series/magic-users-club-ova"
+    },
+    "k": {
+      "id": "583",
+      "url": "https://kitsu.io/anime/583"
+    },
+    "mal": {
+      "id": "629",
+      "url": "https://myanimelist.net/anime/629"
+    }
+  }
+}

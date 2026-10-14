@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14316,
+  "slug": "grey",
+  "kind": "manga",
+  "title": "GREY",
+  "titles": {
+    "default": "GREY"
+  },
+  "synonyms": [
+    "GREY",
+    "Grey"
+  ],
+  "type": "manga",
+  "chapters": 18,
+  "volumes": 3,
+  "status": "finished",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx32701-B44dbMi89MQH.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2423",
+      "url": "https://anilist.co/anime/2423"
+    },
+    "al_manga": {
+      "id": "2423",
+      "url": "https://anilist.co/manga/2423"
+    }
+  }
+}

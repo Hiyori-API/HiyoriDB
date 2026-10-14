@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14258,
+  "slug": "magikano",
+  "kind": "manga",
+  "title": "Magikano",
+  "titles": {
+    "default": "Magikano"
+  },
+  "synonyms": [
+    "Magicano",
+    "Majikano",
+    "Magical Girlfriend",
+    "マジカノ",
+    "xxxHOLiC",
+    "xxxHolic Rou",
+    "xxxHolic Cage",
+    "xxxHolic•Rou"
+  ],
+  "type": "manga",
+  "chapters": 53,
+  "volumes": 10,
+  "status": "finished",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31728-CknzKg19YP1H.png"
+  ],
+  "references": {
+    "al": {
+      "id": "576",
+      "url": "https://anilist.co/anime/576"
+    },
+    "al_manga": {
+      "id": "576",
+      "url": "https://anilist.co/manga/576"
+    }
+  }
+}

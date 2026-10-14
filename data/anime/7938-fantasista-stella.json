@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7938,
+  "slug": "fantasista-stella",
+  "kind": "anime",
+  "title": "Fantasista Stella",
+  "titles": {
+    "default": "Fantasista Stella",
+    "romaji": "Fantasista Stella",
+    "native": "ファンタジスタ ステラ"
+  },
+  "synonyms": [
+    "Fantasista Stella",
+    "ファンタジスタ ステラ",
+    "Imawa no Kuni no Alice (OVA)",
+    "今際の国のアリス",
+    "Alice in Borderland"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "fall",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98963-Y0MdzHpQmVNi.png"
+  ],
+  "references": {
+    "al": {
+      "id": "98963",
+      "url": "https://anilist.co/anime/98963"
+    },
+    "k": {
+      "id": "8643",
+      "url": "https://kitsu.io/anime/8643"
+    },
+    "mal": {
+      "id": "24817",
+      "url": "https://myanimelist.net/anime/24817"
+    }
+  }
+}

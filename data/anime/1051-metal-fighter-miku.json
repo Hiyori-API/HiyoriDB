@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1051,
+  "slug": "metal-fighter-miku",
+  "kind": "anime",
+  "title": "Metal Fighter MIKU",
+  "titles": {
+    "default": "Metal Fighter MIKU",
+    "romaji": "Metal Fighter MIKU",
+    "native": "メタルファイター・MIKU"
+  },
+  "synonyms": [
+    "Metal Fighter MIKU",
+    "メタルファイター・MIKU",
+    "Metal Fighter Miku",
+    "Metal Fighters"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1175-avk5ggx0mA8H.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1175",
+      "url": "https://anilist.co/anime/1175"
+    },
+    "k": {
+      "id": "1055",
+      "url": "https://kitsu.io/anime/1055"
+    },
+    "mal": {
+      "id": "1175",
+      "url": "https://myanimelist.net/anime/1175"
+    },
+    "t": {
+      "id": "19108",
+      "url": "https://trakt.tv/shows/19108"
+    }
+  }
+}

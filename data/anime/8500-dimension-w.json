@@ -1,0 +1,63 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8500,
+  "slug": "dimension-w",
+  "kind": "anime",
+  "title": "Dimension W",
+  "titles": {
+    "default": "Dimension W",
+    "romaji": "Dimension W",
+    "native": "ディメンション ダブリュー"
+  },
+  "synonyms": [
+    "Dimension W",
+    "ディメンション ダブリュー",
+    "มิติปริศนา",
+    "Измерение W",
+    "Durarara!!x2 Ketsu",
+    "Durarara!! x2 Ketsu",
+    "デュラララ!!×2 結"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21256-ErFGk90Kr5Ab.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21256",
+      "url": "https://anilist.co/anime/21256"
+    },
+    "cr": {
+      "id": "dimension-w",
+      "url": "https://www.crunchyroll.com/series/dimension-w"
+    },
+    "k": {
+      "id": "9725",
+      "url": "https://kitsu.io/anime/9725"
+    },
+    "mal": {
+      "id": "31163",
+      "url": "https://myanimelist.net/anime/31163"
+    },
+    "nf": {
+      "id": "80047029",
+      "url": "https://www.netflix.com/title/80047029"
+    },
+    "t": {
+      "id": "42187",
+      "url": "https://trakt.tv/shows/42187"
+    },
+    "ttv": {
+      "id": "2321",
+      "url": "https://tubitv.com/series/2321"
+    },
+    "tx": {
+      "id": "Dimension_W",
+      "url": "https://twitter.com/Dimension_W"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10775,
+  "slug": "yawaraka-sangokushi-tsukisase-ryofuko-chan",
+  "kind": "anime",
+  "title": "Yawaraka Sangokushi Tsukisase!! Ryofuko-chan",
+  "titles": {
+    "default": "Yawaraka Sangokushi Tsukisase!! Ryofuko-chan",
+    "romaji": "Yawaraka Sangokushi Tsukisase!! Ryofuko-chan",
+    "native": "やわらか三国志 突き刺せ!! 呂布子ちゃん"
+  },
+  "synonyms": [
+    "Yawaraka Sangokushi Tsukisase!! Ryofuko-chan",
+    "やわらか三国志 突き刺せ!! 呂布子ちゃん",
+    "Ryofuko-chan",
+    "Ryofuko-chan, el suave guerrero de los 3 reinos",
+    "Touhou Niji Sousaku Doujin Anime: Musou Kakyou",
+    "東方二次創作同人アニメ 夢想夏郷",
+    "Touhou Unofficial Doujin Anime: A Summer Day's Dream"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "winter",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3417.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3417",
+      "url": "https://anilist.co/anime/3417"
+    },
+    "k": {
+      "id": "5913",
+      "url": "https://kitsu.io/anime/5913"
+    },
+    "mal": {
+      "id": "3417",
+      "url": "https://myanimelist.net/anime/3417"
+    }
+  }
+}

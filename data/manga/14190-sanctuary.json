@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14190,
+  "slug": "sanctuary",
+  "kind": "manga",
+  "title": "Sanctuary",
+  "titles": {
+    "default": "Sanctuary"
+  },
+  "synonyms": [
+    "Santuario",
+    "Sankuchuari",
+    "สุภาพบุรุษทรชน",
+    "Sanctuary",
+    "サンクチュアリ",
+    "Shouryou Tsukai Elementalors",
+    "精霊使いエレメンタラー",
+    "Elementalors",
+    "Shouryou Tsukai Erementara",
+    "les Elémentalistes"
+  ],
+  "type": "manga",
+  "chapters": 108,
+  "volumes": 12,
+  "status": "finished",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31461-G2omJg02hNbb.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2698",
+      "url": "https://anilist.co/anime/2698"
+    },
+    "al_manga": {
+      "id": "2698",
+      "url": "https://anilist.co/manga/2698"
+    }
+  }
+}

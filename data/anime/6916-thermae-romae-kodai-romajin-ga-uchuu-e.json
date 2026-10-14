@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6916,
+  "slug": "thermae-romae-kodai-romajin-ga-uchuu-e",
+  "kind": "anime",
+  "title": "Thermae Romae: Kodai Romajin ga Uchuu e",
+  "titles": {
+    "default": "Thermae Romae: Kodai Romajin ga Uchuu e",
+    "romaji": "Thermae Romae: Kodai Romajin ga Uchuu e",
+    "native": "テルマエ・ロマエ　古代ローマ人が宇宙へ"
+  },
+  "synonyms": [
+    "Thermae Romae: Kodai Romajin ga Uchuu e",
+    "テルマエ・ロマエ　古代ローマ人が宇宙へ",
+    "Thermae Romae: Ancient Roman Goes to Space"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13983.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "13983",
+      "url": "https://anilist.co/anime/13983"
+    },
+    "k": {
+      "id": "7065",
+      "url": "https://kitsu.io/anime/7065"
+    },
+    "mal": {
+      "id": "13983",
+      "url": "https://myanimelist.net/anime/13983"
+    }
+  }
+}

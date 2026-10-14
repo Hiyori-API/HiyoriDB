@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14029,
+  "slug": "city-hunter",
+  "kind": "manga",
+  "title": "City Hunter",
+  "titles": {
+    "default": "City Hunter"
+  },
+  "synonyms": [
+    "Nicky Larson",
+    "City Hunter",
+    "シティーハンター"
+  ],
+  "type": "manga",
+  "chapters": 336,
+  "volumes": 35,
+  "status": "finished",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30792-62RxEnU7tlDg.png"
+  ],
+  "references": {
+    "al": {
+      "id": "147189",
+      "url": "https://anilist.co/anime/1470"
+    },
+    "al_manga": {
+      "id": "147189",
+      "url": "https://anilist.co/manga/147189"
+    }
+  }
+}

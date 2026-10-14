@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1625,
+  "slug": "dragon-knight-4",
+  "kind": "anime",
+  "title": "Dragon Knight 4",
+  "titles": {
+    "default": "Dragon Knight 4",
+    "romaji": "Dragon Knight 4",
+    "english": "Dragon Knight 4-ever",
+    "native": "ドラゴンナイト４"
+  },
+  "synonyms": [
+    "Dragon Knight 4",
+    "Dragon Knight 4-ever",
+    "ドラゴンナイト４",
+    "Dragon Knight: The Wheel of Time",
+    "Queen Emeraldas",
+    "クィーン・エメラルダス"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "fall",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1834-tc9f9DnYQt7j.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1834",
+      "url": "https://anilist.co/anime/1834"
+    },
+    "k": {
+      "id": "1393",
+      "url": "https://kitsu.io/anime/1393"
+    },
+    "mal": {
+      "id": "1834",
+      "url": "https://myanimelist.net/anime/1834"
+    }
+  }
+}

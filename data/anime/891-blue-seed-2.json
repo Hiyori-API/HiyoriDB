@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 891,
+  "slug": "blue-seed-2",
+  "kind": "anime",
+  "title": "BLUE SEED 2",
+  "titles": {
+    "default": "BLUE SEED 2",
+    "romaji": "BLUE SEED 2",
+    "english": "Blue Seed Beyond"
+  },
+  "synonyms": [
+    "BLUE SEED 2",
+    "Blue Seed Beyond",
+    "ブルーシード 2",
+    "Blue Seed 2: Operation Mitama",
+    "Blue Seed OVA",
+    "Blue Seed 2"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "summer",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/999.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "999",
+      "url": "https://anilist.co/anime/999"
+    },
+    "cr": {
+      "id": "blue-seed",
+      "url": "https://www.crunchyroll.com/series/blue-seed"
+    },
+    "k": {
+      "id": "889",
+      "url": "https://kitsu.io/anime/889"
+    },
+    "mal": {
+      "id": "999",
+      "url": "https://myanimelist.net/anime/999"
+    },
+    "ttv": {
+      "id": "300005557",
+      "url": "https://tubitv.com/series/300005557"
+    }
+  }
+}

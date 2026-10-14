@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7113,
+  "slug": "yama-no-susume",
+  "kind": "anime",
+  "title": "Yama no Susume",
+  "titles": {
+    "default": "Yama no Susume",
+    "romaji": "Yama no Susume",
+    "english": "Encouragement of Climb",
+    "native": "ヤマノススメ"
+  },
+  "synonyms": [
+    "Yama no Susume",
+    "Encouragement of Climb",
+    "ヤマノススメ"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx14355-ZsPYtTYa1b4v.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "14355",
+      "url": "https://anilist.co/anime/14355"
+    },
+    "k": {
+      "id": "7117",
+      "url": "https://kitsu.io/anime/7117"
+    },
+    "mal": {
+      "id": "14355",
+      "url": "https://myanimelist.net/anime/14355"
+    },
+    "t": {
+      "id": "68734",
+      "url": "https://trakt.tv/shows/68734"
+    }
+  }
+}

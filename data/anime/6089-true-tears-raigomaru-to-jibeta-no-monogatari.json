@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6089,
+  "slug": "true-tears-raigomaru-to-jibeta-no-monogatari",
+  "kind": "anime",
+  "title": "True Tears: Raigomaru to Jibeta no Monogatari",
+  "titles": {
+    "default": "True Tears: Raigomaru to Jibeta no Monogatari",
+    "romaji": "True Tears: Raigomaru to Jibeta no Monogatari",
+    "native": "雷轟丸とじべたの物語"
+  },
+  "synonyms": [
+    "True Tears: Raigomaru to Jibeta no Monogatari",
+    "雷轟丸とじべたの物語",
+    "True Tears Special: The Story of Raigomaru and Jibeta",
+    "True Tears: Picture Book",
+    "Nodame Cantabile Finale Special",
+    "のだめカンタービレ フィナーレ",
+    "Nodame Cantabile Third Season Special",
+    "Nodame Cantabile Season 3 Special",
+    "Nodame Cantabile Finale Episode 00",
+    "Mine to Kiyora no Saikai"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9002.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9002",
+      "url": "https://anilist.co/anime/9002"
+    },
+    "k": {
+      "id": "5177",
+      "url": "https://kitsu.io/anime/5177"
+    },
+    "mal": {
+      "id": "9002",
+      "url": "https://myanimelist.net/anime/9002"
+    }
+  }
+}

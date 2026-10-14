@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10771,
+  "slug": "kao-no-nai-tsuki",
+  "kind": "anime",
+  "title": "Kao no nai Tsuki",
+  "titles": {
+    "default": "Kao no nai Tsuki",
+    "romaji": "Kao no nai Tsuki",
+    "english": "Moonlight Lady",
+    "native": "顔のない月"
+  },
+  "synonyms": [
+    "Kao no nai Tsuki",
+    "Moonlight Lady",
+    "顔のない月",
+    "Kaotsuki",
+    "No Surface Moon",
+    "Medaka no Gakkou",
+    "めだかの学校",
+    "Killifish School"
+  ],
+  "type": "ova",
+  "episodes": 5,
+  "status": "finished",
+  "season": "winter",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1408.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1408",
+      "url": "https://anilist.co/anime/1408"
+    },
+    "k": {
+      "id": "5769",
+      "url": "https://kitsu.io/anime/5769"
+    },
+    "mal": {
+      "id": "1408",
+      "url": "https://myanimelist.net/anime/1408"
+    }
+  }
+}

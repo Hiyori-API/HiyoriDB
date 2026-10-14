@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9450,
+  "slug": "kaiketsu-zorori-zz-no-himitsu",
+  "kind": "anime",
+  "title": "Kaiketsu Zorori: ZZ no Himitsu",
+  "titles": {
+    "default": "Kaiketsu Zorori: ZZ no Himitsu",
+    "romaji": "Kaiketsu Zorori: ZZ no Himitsu",
+    "native": "かいけつゾロリ ZZのひみつ"
+  },
+  "synonyms": [
+    "Kaiketsu Zorori: ZZ no Himitsu",
+    "かいけつゾロリ ZZのひみつ",
+    "Fate/stay night: Heaven's Feel I. Presage Flower",
+    "Gekijouban Fate/stay night: Heaven's Feel I. Presage Flower",
+    "劇場版「Fate/stay night [Heaven's Feel] Ⅰ.presage flower」"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120378-yDcNvSuvuejm.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "120378",
+      "url": "https://anilist.co/anime/120378"
+    },
+    "k": {
+      "id": "8675",
+      "url": "https://kitsu.io/anime/8675"
+    },
+    "mal": {
+      "id": "35074",
+      "url": "https://myanimelist.net/anime/35074"
+    },
+    "tx": {
+      "id": "zorori_movie",
+      "url": "https://twitter.com/zorori_movie"
+    }
+  }
+}

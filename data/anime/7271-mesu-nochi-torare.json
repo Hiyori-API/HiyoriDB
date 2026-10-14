@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7271,
+  "slug": "mesu-nochi-torare",
+  "kind": "anime",
+  "title": "Mesu Nochi Torare",
+  "titles": {
+    "default": "Mesu Nochi Torare",
+    "romaji": "Mesu Nochi Torare",
+    "native": "メスのちトラレ"
+  },
+  "synonyms": [
+    "Mesu Nochi Torare",
+    "メスのちトラレ",
+    "Hakuouki Reimeiroku Tokuten Disc",
+    "薄桜鬼　黎明録　特典ディスク　"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17539.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "17539",
+      "url": "https://anilist.co/anime/17539"
+    },
+    "k": {
+      "id": "8422",
+      "url": "https://kitsu.io/anime/8422"
+    },
+    "mal": {
+      "id": "17539",
+      "url": "https://myanimelist.net/anime/17539"
+    }
+  }
+}

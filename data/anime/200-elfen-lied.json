@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 200,
+  "slug": "elfen-lied",
+  "kind": "anime",
+  "title": "Elfen Lied",
+  "titles": {
+    "default": "Elfen Lied",
+    "romaji": "Elfen Lied",
+    "native": "エルフェンリート"
+  },
+  "synonyms": [
+    "Elfen Lied",
+    "エルフェンリート",
+    "Elfen Song",
+    "Elfic Song",
+    "妖精的旋律",
+    "Эльфийская песнь"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx226-MibyRKhIrnTe.png"
+  ],
+  "references": {
+    "al": {
+      "id": "226",
+      "url": "https://anilist.co/anime/226"
+    },
+    "ap": {
+      "id": "B00C134SZC",
+      "url": "https://www.amazon.com/gp/video/detail/B00C134SZC"
+    },
+    "cr": {
+      "id": "series/G6WE0Z9G6/elfen-lied",
+      "url": "https://www.crunchyroll.com/series/series/G6WE0Z9G6/elfen-lied"
+    },
+    "k": {
+      "id": "201",
+      "url": "https://kitsu.io/anime/201"
+    },
+    "mal": {
+      "id": "226",
+      "url": "https://myanimelist.net/anime/226"
+    },
+    "t": {
+      "id": "42446",
+      "url": "https://trakt.tv/shows/42446"
+    }
+  }
+}

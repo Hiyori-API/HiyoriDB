@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11717,
+  "slug": "yofukashi-no-uta",
+  "kind": "anime",
+  "title": "Yofukashi no Uta",
+  "titles": {
+    "default": "Yofukashi no Uta",
+    "romaji": "Yofukashi no Uta",
+    "english": "Call of the Night",
+    "native": "よふかしのうた"
+  },
+  "synonyms": [
+    "Yofukashi no Uta",
+    "Call of the Night",
+    "よふかしのうた",
+    "Song of the Night Walkers",
+    "Night Owl Song",
+    "เพลงรักมนุษย์ค้างคาว",
+    "نداء الليل",
+    "Zew nocy",
+    "Il richiamo della notte",
+    "Поклик ночі",
+    "Песнь ночных сов",
+    "El canto de la noche",
+    "Canções da Noite"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141391-M3ZgUKTPENUk.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "141391",
+      "url": "https://anilist.co/anime/141391"
+    },
+    "mal": {
+      "id": "50346",
+      "url": "https://myanimelist.net/anime/50346"
+    },
+    "nf": {
+      "id": "81621036",
+      "url": "https://www.netflix.com/title/81621036"
+    },
+    "tx": {
+      "id": "yofukashi_pr",
+      "url": "https://twitter.com/yofukashi_pr"
+    }
+  }
+}

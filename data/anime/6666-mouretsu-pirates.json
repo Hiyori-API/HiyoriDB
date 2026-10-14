@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6666,
+  "slug": "mouretsu-pirates",
+  "kind": "anime",
+  "title": "Mouretsu Pirates",
+  "titles": {
+    "default": "Mouretsu Pirates",
+    "romaji": "Mouretsu Pirates",
+    "english": "Bodacious Space Pirates",
+    "native": "モーレツ宇宙海賊"
+  },
+  "synonyms": [
+    "Mouretsu Pirates",
+    "Bodacious Space Pirates",
+    "モーレツ宇宙海賊",
+    "Mouretsu Uchuu Kaizoku",
+    "Miniskirt Pirates",
+    "Moretsu Uchuu Kaizoku"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "winter",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx8917-mmUSOxFEQj3f.png"
+  ],
+  "references": {
+    "al": {
+      "id": "8917",
+      "url": "https://anilist.co/anime/8917"
+    },
+    "k": {
+      "id": "5531",
+      "url": "https://kitsu.io/anime/5531"
+    },
+    "mal": {
+      "id": "8917",
+      "url": "https://myanimelist.net/anime/8917"
+    },
+    "t": {
+      "id": "42277",
+      "url": "https://trakt.tv/shows/42277"
+    }
+  }
+}

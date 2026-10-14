@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15519,
+  "slug": "k-mpfer",
+  "kind": "manga",
+  "title": "Kämpfer",
+  "titles": {
+    "default": "Kämpfer"
+  },
+  "synonyms": [
+    "Kenpufer",
+    "Kampfer",
+    "けんぷファー",
+    "Ladies versus Butlers!",
+    "れでぃ×ばと!",
+    "Redei Bato!",
+    "Redei x Bato",
+    "Ladies vs Butlers!"
+  ],
+  "type": "novel",
+  "chapters": 64,
+  "volumes": 15,
+  "status": "finished",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/11607.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10076",
+      "url": "https://anilist.co/anime/6205"
+    },
+    "al_manga": {
+      "id": "10076",
+      "url": "https://anilist.co/manga/10076"
+    }
+  }
+}

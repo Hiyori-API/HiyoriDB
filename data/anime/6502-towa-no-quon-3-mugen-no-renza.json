@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6502,
+  "slug": "towa-no-quon-3-mugen-no-renza",
+  "kind": "anime",
+  "title": "Towa no Quon 3: Mugen no Renza",
+  "titles": {
+    "default": "Towa no Quon 3: Mugen no Renza",
+    "romaji": "Towa no Quon 3: Mugen no Renza",
+    "english": "Towanoquon: The Complicity of Dreams",
+    "native": "トワノクオン 第３章 夢幻の連座"
+  },
+  "synonyms": [
+    "Towa no Quon 3: Mugen no Renza",
+    "Towanoquon: The Complicity of Dreams",
+    "トワノクオン 第３章 夢幻の連座",
+    "Eternal Quon 3: The Complicity of Dreams"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10714.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10714",
+      "url": "https://anilist.co/anime/10714"
+    },
+    "k": {
+      "id": "6311",
+      "url": "https://kitsu.io/anime/6311"
+    },
+    "mal": {
+      "id": "10714",
+      "url": "https://myanimelist.net/anime/10714"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14306,
+  "slug": "crayon-shin-chan",
+  "kind": "manga",
+  "title": "Crayon Shin-chan",
+  "titles": {
+    "default": "Crayon Shin-chan"
+  },
+  "synonyms": [
+    "Kureyon Shinchan",
+    "Crayon Shin Chan",
+    "Shin-chan",
+    "Crayon Shinchan",
+    "クレヨンしんちゃん",
+    "Crayon Shin-chan"
+  ],
+  "type": "manga",
+  "chapters": 1126,
+  "volumes": 50,
+  "status": "finished",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx32435-9lY7xiwr7VQL.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "156009",
+      "url": "https://anilist.co/anime/966"
+    },
+    "al_manga": {
+      "id": "156009",
+      "url": "https://anilist.co/manga/156009"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4344,
+  "slug": "utsurun-desu",
+  "kind": "anime",
+  "title": "Utsurun Desu.",
+  "titles": {
+    "default": "Utsurun Desu.",
+    "romaji": "Utsurun Desu.",
+    "native": "伝染るんです。"
+  },
+  "synonyms": [
+    "Utsurun Desu.",
+    "伝染るんです。",
+    "Utsurundesu."
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "summer",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6528-w2whe7k8vkh7.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6528",
+      "url": "https://anilist.co/anime/6528"
+    },
+    "k": {
+      "id": "4599",
+      "url": "https://kitsu.io/anime/4599"
+    },
+    "mal": {
+      "id": "6528",
+      "url": "https://myanimelist.net/anime/6528"
+    }
+  }
+}

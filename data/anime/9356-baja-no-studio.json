@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9356,
+  "slug": "baja-no-studio",
+  "kind": "anime",
+  "title": "Baja no Studio",
+  "titles": {
+    "default": "Baja no Studio",
+    "romaji": "Baja no Studio",
+    "english": "Baja's Studio",
+    "native": "バジャのスタジオ"
+  },
+  "synonyms": [
+    "Baja no Studio",
+    "Baja's Studio",
+    "バジャのスタジオ",
+    "Onegai☆Teacher: Himitsu na Futari",
+    "おねがい☆ティーチャー ヒミツなふたり",
+    "Onegai Sensei",
+    "Please Teacher! OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99937-4eugxyqtBXu7.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "99937",
+      "url": "https://anilist.co/anime/99937"
+    },
+    "k": {
+      "id": "406",
+      "url": "https://kitsu.io/anime/406"
+    },
+    "mal": {
+      "id": "35965",
+      "url": "https://myanimelist.net/anime/35965"
+    }
+  }
+}

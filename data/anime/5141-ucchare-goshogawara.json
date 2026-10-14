@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5141,
+  "slug": "ucchare-goshogawara",
+  "kind": "anime",
+  "title": "Ucchare Goshogawara",
+  "titles": {
+    "default": "Ucchare Goshogawara",
+    "romaji": "Ucchare Goshogawara",
+    "native": "うっちゃれ五所瓦"
+  },
+  "synonyms": [
+    "Ucchare Goshogawara",
+    "うっちゃれ五所瓦",
+    "Utchare Goshogawara"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12899.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12899",
+      "url": "https://anilist.co/anime/12899"
+    },
+    "k": {
+      "id": "6842",
+      "url": "https://kitsu.io/anime/6842"
+    },
+    "mal": {
+      "id": "12899",
+      "url": "https://myanimelist.net/anime/12899"
+    }
+  }
+}

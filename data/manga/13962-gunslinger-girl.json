@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13962,
+  "slug": "gunslinger-girl",
+  "kind": "manga",
+  "title": "GUNSLINGER GIRL",
+  "titles": {
+    "default": "GUNSLINGER GIRL"
+  },
+  "synonyms": [
+    "ガンスリンガー・ガール",
+    "GUNSLINGER GIRL",
+    "Fujisan",
+    "富士山",
+    "Fuji-san"
+  ],
+  "type": "manga",
+  "chapters": 100,
+  "volumes": 15,
+  "status": "finished",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30649-lRs0R7yOhGtA.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "134",
+      "url": "https://anilist.co/anime/134"
+    },
+    "al_manga": {
+      "id": "134",
+      "url": "https://anilist.co/manga/134"
+    }
+  }
+}

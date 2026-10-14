@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3431,
+  "slug": "tsuukin-kairaku-chikan-de-go",
+  "kind": "anime",
+  "title": "Tsuukin Kairaku: Chikan de GO!!",
+  "titles": {
+    "default": "Tsuukin Kairaku: Chikan de GO!!",
+    "romaji": "Tsuukin Kairaku: Chikan de GO!!",
+    "english": "Pervs on a Train: Pleasure Commute",
+    "native": "通勤快楽 痴漢でGO!!"
+  },
+  "synonyms": [
+    "Tsuukin Kairaku: Chikan de GO!!",
+    "Pervs on a Train: Pleasure Commute",
+    "通勤快楽 痴漢でGO!!",
+    "Kaihouku: Chikan Harem",
+    "解放区 ~痴漢ハーレム~",
+    "Kiddy GiRL-AND Pilot",
+    "キディ・ガーランド",
+    "Kiddy Grade 2 Pilot"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4355.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4355",
+      "url": "https://anilist.co/anime/4355"
+    },
+    "k": {
+      "id": "4306",
+      "url": "https://kitsu.io/anime/4306"
+    },
+    "mal": {
+      "id": "4355",
+      "url": "https://myanimelist.net/anime/4355"
+    }
+  }
+}

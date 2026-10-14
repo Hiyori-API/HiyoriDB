@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3949,
+  "slug": "love-forever",
+  "kind": "anime",
+  "title": "Love Forever",
+  "titles": {
+    "default": "Love Forever",
+    "romaji": "Love Forever",
+    "native": "ラブフォーエヴァー"
+  },
+  "synonyms": [
+    "Love Forever",
+    "ラブフォーエヴァー",
+    "Kai Doh Maru",
+    "怪童丸",
+    "Kaidoumaru",
+    "Kaidomaru"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5553.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5553",
+      "url": "https://anilist.co/anime/5553"
+    },
+    "k": {
+      "id": "1457",
+      "url": "https://kitsu.io/anime/1457"
+    },
+    "mal": {
+      "id": "5553",
+      "url": "https://myanimelist.net/anime/5553"
+    }
+  }
+}

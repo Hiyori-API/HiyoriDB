@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13966,
+  "slug": "mugen-no-juunin",
+  "kind": "manga",
+  "title": "Mugen no Juunin",
+  "titles": {
+    "default": "Mugen no Juunin"
+  },
+  "synonyms": [
+    "La Espada del Inmortal",
+    "Blade den udødelige",
+    "Blade - A Lâmina do Imortal",
+    "Клинок бессмертного",
+    "ฤทธิ์ดาบไร้ปรานี",
+    "Miecz nieśmiertelnego",
+    "Oštrica besmrtnika",
+    "L'Immortale",
+    "L'Habitant de l'infini",
+    "Blade of the Immortal",
+    "無限の住人",
+    "Mugen no Juunin",
+    "Inhabitant of Infinity"
+  ],
+  "type": "manga",
+  "chapters": 219,
+  "volumes": 30,
+  "status": "finished",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30658-4KzCEiCDN7Yq.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "109616",
+      "url": "https://anilist.co/anime/4151"
+    },
+    "al_manga": {
+      "id": "109616",
+      "url": "https://anilist.co/manga/109616"
+    }
+  }
+}

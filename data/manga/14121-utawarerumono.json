@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14121,
+  "slug": "utawarerumono",
+  "kind": "manga",
+  "title": "Utawarerumono",
+  "titles": {
+    "default": "Utawarerumono"
+  },
+  "synonyms": [
+    "The One Being Sung",
+    "うたわれるもの",
+    "Renai Soukanzu",
+    "恋愛相姦図",
+    "Renai Sokanzu",
+    "Pink Sweets"
+  ],
+  "type": "manga",
+  "chapters": 14,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31160-triBRtdo2d2K.png"
+  ],
+  "references": {
+    "al": {
+      "id": "856",
+      "url": "https://anilist.co/anime/856"
+    },
+    "al_manga": {
+      "id": "856",
+      "url": "https://anilist.co/manga/856"
+    }
+  }
+}

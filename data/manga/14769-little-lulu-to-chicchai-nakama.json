@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14769,
+  "slug": "little-lulu-to-chicchai-nakama",
+  "kind": "manga",
+  "title": "Little Lulu to Chicchai Nakama",
+  "titles": {
+    "default": "Little Lulu to Chicchai Nakama"
+  },
+  "synonyms": [
+    "リトル・ルルとちっちゃい仲間",
+    "Shin Kyojin no Hoshi",
+    "新巨人の星"
+  ],
+  "type": "manga",
+  "chapters": 2,
+  "status": "finished",
+  "year": 1976,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx190236-vyAymH14pmtk.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3823",
+      "url": "https://anilist.co/anime/3823"
+    },
+    "al_manga": {
+      "id": "3823",
+      "url": "https://anilist.co/manga/3823"
+    }
+  }
+}

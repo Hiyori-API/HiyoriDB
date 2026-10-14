@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6652,
+  "slug": "houkago-no-thesaurus",
+  "kind": "anime",
+  "title": "Houkago no Thesaurus",
+  "titles": {
+    "default": "Houkago no Thesaurus",
+    "romaji": "Houkago no Thesaurus",
+    "english": "Her Ghost Friend",
+    "native": "放課後のシソーラス"
+  },
+  "synonyms": [
+    "Houkago no Thesaurus",
+    "Her Ghost Friend",
+    "放課後のシソーラス",
+    "Towa no Kizuna",
+    "永久のキズナ",
+    "Everlasting Bond"
+  ],
+  "type": "music",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b118039-nTVpYnewh9WR.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "118039",
+      "url": "https://anilist.co/anime/118039"
+    },
+    "k": {
+      "id": "6668",
+      "url": "https://kitsu.io/anime/6668"
+    },
+    "mal": {
+      "id": "38507",
+      "url": "https://myanimelist.net/anime/38507"
+    }
+  }
+}

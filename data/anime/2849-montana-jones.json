@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2849,
+  "slug": "montana-jones",
+  "kind": "anime",
+  "title": "Montana Jones",
+  "titles": {
+    "default": "Montana Jones",
+    "romaji": "Montana Jones",
+    "native": "モンタナ・ジョーンズ"
+  },
+  "synonyms": [
+    "Montana Jones",
+    "モンタナ・ジョーンズ",
+    "Caccia al tesoro con Montana"
+  ],
+  "type": "tv",
+  "episodes": 52,
+  "status": "finished",
+  "season": "spring",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3313.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3313",
+      "url": "https://anilist.co/anime/3313"
+    },
+    "k": {
+      "id": "2929",
+      "url": "https://kitsu.io/anime/2929"
+    },
+    "mal": {
+      "id": "3313",
+      "url": "https://myanimelist.net/anime/3313"
+    },
+    "t": {
+      "id": "19522",
+      "url": "https://trakt.tv/shows/19522"
+    }
+  }
+}

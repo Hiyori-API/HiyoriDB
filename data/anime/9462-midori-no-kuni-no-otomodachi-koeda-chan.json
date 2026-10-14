@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9462,
+  "slug": "midori-no-kuni-no-otomodachi-koeda-chan",
+  "kind": "anime",
+  "title": "Midori no Kuni no Otomodachi: Koeda-chan",
+  "titles": {
+    "default": "Midori no Kuni no Otomodachi: Koeda-chan",
+    "romaji": "Midori no Kuni no Otomodachi: Koeda-chan",
+    "native": "みどりのくにのおともだち こえだちゃん"
+  },
+  "synonyms": [
+    "Midori no Kuni no Otomodachi: Koeda-chan",
+    "みどりのくにのおともだち こえだちゃん",
+    "Catman Series II",
+    "キャットマン",
+    "Catman",
+    "Catman 2nd Season"
+  ],
+  "type": "ona",
+  "episodes": 8,
+  "status": "finished",
+  "season": "winter",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b127507-OQgmm7Lv7Xy6.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "127507",
+      "url": "https://anilist.co/anime/127507"
+    },
+    "k": {
+      "id": "3602",
+      "url": "https://kitsu.io/anime/3602"
+    },
+    "mal": {
+      "id": "35008",
+      "url": "https://myanimelist.net/anime/35008"
+    }
+  }
+}

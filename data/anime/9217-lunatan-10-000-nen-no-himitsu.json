@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9217,
+  "slug": "lunatan-10-000-nen-no-himitsu",
+  "kind": "anime",
+  "title": "Lunatan: 10,000-nen no Himitsu",
+  "titles": {
+    "default": "Lunatan: 10,000-nen no Himitsu",
+    "romaji": "Lunatan: 10,000-nen no Himitsu",
+    "native": "ルナたん～巨人ルナと地底探検～"
+  },
+  "synonyms": [
+    "Lunatan: 10,000-nen no Himitsu",
+    "ルナたん～巨人ルナと地底探検～",
+    "Dam Keeper no Nakama-tachi",
+    "Pig: The Dam Keeper Poems",
+    "ピッグ - 丘の上のダム・キーパー",
+    "Pig: Oka no Ue no Dam Keeper"
+  ],
+  "type": "ona",
+  "episodes": 10,
+  "status": "finished",
+  "season": "spring",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98468-bbdeRX0sFvzW.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98468",
+      "url": "https://anilist.co/anime/98468"
+    },
+    "mal": {
+      "id": "35131",
+      "url": "https://myanimelist.net/anime/35131"
+    }
+  }
+}

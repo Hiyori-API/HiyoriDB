@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10601,
+  "slug": "monster-strike-the-movie-lucifer-zetsubou-no-yoake",
+  "kind": "anime",
+  "title": "Monster Strike THE MOVIE: Lucifer - Zetsubou no Yoake",
+  "titles": {
+    "default": "Monster Strike THE MOVIE: Lucifer - Zetsubou no Yoake",
+    "romaji": "Monster Strike THE MOVIE: Lucifer - Zetsubou no Yoake",
+    "english": "Monster Strike the Movie: Lucifer Dawn of Despair",
+    "native": "モンスターストライク THE MOVIE ルシファー 絶望の夜明け"
+  },
+  "synonyms": [
+    "Monster Strike THE MOVIE: Lucifer - Zetsubou no Yoake",
+    "Monster Strike the Movie: Lucifer Dawn of Despair",
+    "モンスターストライク THE MOVIE ルシファー 絶望の夜明け",
+    "Sailor Moon R: The Movie",
+    "Bishoujo Senshi Sailor Moon R: The Movie",
+    "美少女戦士セーラームーンＲ THE MOVIE",
+    "Sailor Moon R the Movie: Promise of the Rose"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116962-t13ZFswm5iar.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "116962",
+      "url": "https://anilist.co/anime/116962"
+    },
+    "cr": {
+      "id": "monster-strike-the-movie-lucifer-dawn-of-despair",
+      "url": "https://www.crunchyroll.com/series/monster-strike-the-movie-lucifer-dawn-of-despair"
+    },
+    "k": {
+      "id": "490",
+      "url": "https://kitsu.io/anime/490"
+    },
+    "mal": {
+      "id": "41519",
+      "url": "https://myanimelist.net/anime/41519"
+    },
+    "tx": {
+      "id": "monst_animation",
+      "url": "https://twitter.com/monst_animation"
+    },
+    "yt": {
+      "id": "mq9bKHDWZSo",
+      "url": "https://www.youtube.com/watch?v=mq9bKHDWZSo"
+    }
+  }
+}

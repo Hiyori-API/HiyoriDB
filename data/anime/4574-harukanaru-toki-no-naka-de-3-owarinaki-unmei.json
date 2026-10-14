@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4574,
+  "slug": "harukanaru-toki-no-naka-de-3-owarinaki-unmei",
+  "kind": "anime",
+  "title": "Harukanaru Toki no Naka de 3: Owarinaki Unmei",
+  "titles": {
+    "default": "Harukanaru Toki no Naka de 3: Owarinaki Unmei",
+    "romaji": "Harukanaru Toki no Naka de 3: Owarinaki Unmei",
+    "native": "遙かなる時空の中で3 終わりなき運命"
+  },
+  "synonyms": [
+    "Harukanaru Toki no Naka de 3: Owarinaki Unmei",
+    "遙かなる時空の中で3 終わりなき運命",
+    "In a Distant Time 3: Neverending Destiny",
+    "Haruka Naru Toki no Naka de 3: Owarinaki Unmei"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7254.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7254",
+      "url": "https://anilist.co/anime/7254"
+    },
+    "k": {
+      "id": "4913",
+      "url": "https://kitsu.io/anime/4913"
+    },
+    "mal": {
+      "id": "7254",
+      "url": "https://myanimelist.net/anime/7254"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15418,
+  "slug": "robotmasters",
+  "kind": "manga",
+  "title": "Robotmasters",
+  "titles": {
+    "default": "Robotmasters"
+  },
+  "synonyms": [
+    "Transformers Robotmasters",
+    "Robot Masters",
+    "ロボットマスターズ",
+    "Railroad",
+    "레일로드"
+  ],
+  "type": "manga",
+  "chapters": 13,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b174618-FKLOpbeVHRQr.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2284",
+      "url": "https://anilist.co/anime/7862"
+    },
+    "al_manga": {
+      "id": "2284",
+      "url": "https://anilist.co/manga/2284"
+    }
+  }
+}

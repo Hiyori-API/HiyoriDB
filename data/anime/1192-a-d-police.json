@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1192,
+  "slug": "a-d-police",
+  "kind": "anime",
+  "title": "A.D. Police",
+  "titles": {
+    "default": "A.D. Police",
+    "romaji": "A.D. Police",
+    "english": "A.D. Police: To Protect and Serve",
+    "native": "アドバンスドポリス"
+  },
+  "synonyms": [
+    "A.D. Police",
+    "A.D. Police: To Protect and Serve",
+    "アドバンスドポリス",
+    "Advanced Police",
+    "AD Police",
+    "A.D. Police (TV)"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx1349-hoytSWr7f1cq.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1349",
+      "url": "https://anilist.co/anime/1349"
+    },
+    "k": {
+      "id": "1204",
+      "url": "https://kitsu.io/anime/1204"
+    },
+    "mal": {
+      "id": "1349",
+      "url": "https://myanimelist.net/anime/1349"
+    },
+    "t": {
+      "id": "30956",
+      "url": "https://trakt.tv/shows/30956"
+    }
+  }
+}

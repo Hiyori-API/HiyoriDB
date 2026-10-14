@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6578,
+  "slug": "tsf-monogatari",
+  "kind": "anime",
+  "title": "TSF Monogatari",
+  "titles": {
+    "default": "TSF Monogatari",
+    "romaji": "TSF Monogatari",
+    "native": "TSF物語"
+  },
+  "synonyms": [
+    "TSF Monogatari",
+    "TSF物語",
+    "Takumi ga Seitenkan Shite Fuck Sare Makuru",
+    "Legend of the Heroes: Trails in the Sky",
+    "Eiyuu Densetsu: Sora no Kiseki The Animation",
+    "英雄伝説 空の軌跡 THE ANIMATION"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11467-t17Dh33eSEM8.png"
+  ],
+  "references": {
+    "al": {
+      "id": "11467",
+      "url": "https://anilist.co/anime/11467"
+    },
+    "k": {
+      "id": "6104",
+      "url": "https://kitsu.io/anime/6104"
+    },
+    "mal": {
+      "id": "11467",
+      "url": "https://myanimelist.net/anime/11467"
+    }
+  }
+}

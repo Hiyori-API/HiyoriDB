@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15339,
+  "slug": "bokusatsu-tenshi-dokuro-chan",
+  "kind": "manga",
+  "title": "Bokusatsu Tenshi Dokuro-chan",
+  "titles": {
+    "default": "Bokusatsu Tenshi Dokuro-chan"
+  },
+  "synonyms": [
+    "Bludgeoning Angel Dokuro-Chan",
+    "撲殺天使ドクロちゃん",
+    "Magical Girl Risuka",
+    "Shin Honkaku Mahou Shoujo Risuka",
+    "新本格魔法少女りすか"
+  ],
+  "type": "novel",
+  "volumes": 10,
+  "status": "finished",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx51646-UFGF32ZfjIOB.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "357",
+      "url": "https://anilist.co/anime/2131"
+    },
+    "al_manga": {
+      "id": "357",
+      "url": "https://anilist.co/manga/357"
+    }
+  }
+}

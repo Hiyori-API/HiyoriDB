@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15695,
+  "slug": "inumarudashi",
+  "kind": "manga",
+  "title": "Inumarudashi",
+  "titles": {
+    "default": "Inumarudashi"
+  },
+  "synonyms": [
+    "いぬまるだしっ",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "chapters": 180,
+  "volumes": 10,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10105.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10847",
+      "url": "https://anilist.co/anime/10847"
+    },
+    "al_manga": {
+      "id": "10847",
+      "url": "https://anilist.co/manga/10847"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1851,
+  "slug": "choujikuu-seiki-orguss-02",
+  "kind": "anime",
+  "title": "Choujikuu Seiki Orguss 02",
+  "titles": {
+    "default": "Choujikuu Seiki Orguss 02",
+    "romaji": "Choujikuu Seiki Orguss 02",
+    "english": "Super Dimension Century Orguss 02",
+    "native": "超時空世紀オーガス02"
+  },
+  "synonyms": [
+    "Choujikuu Seiki Orguss 02",
+    "Super Dimension Century Orguss 02",
+    "超時空世紀オーガス02",
+    "Dirty Pair Flash",
+    "ダーティペアFLASH",
+    "Dirty Pair Flash OVA"
+  ],
+  "type": "ova",
+  "episodes": 6,
+  "status": "finished",
+  "season": "winter",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2090-BZc8YhBf4fxF.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2090",
+      "url": "https://anilist.co/anime/2090"
+    },
+    "k": {
+      "id": "1621",
+      "url": "https://kitsu.io/anime/1621"
+    },
+    "mal": {
+      "id": "2090",
+      "url": "https://myanimelist.net/anime/2090"
+    }
+  }
+}

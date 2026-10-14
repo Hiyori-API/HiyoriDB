@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15366,
+  "slug": "muv-luv",
+  "kind": "manga",
+  "title": "Muv-Luv",
+  "titles": {
+    "default": "Muv-Luv"
+  },
+  "synonyms": [
+    "Muv-Luv Extra",
+    "Muv-Luv Alternative",
+    "Muv-Luv Unlimited",
+    "MuvLuv",
+    "マブラヴ",
+    "Ladies versus Butlers!",
+    "れでぃ×ばと!",
+    "Redei Bato!",
+    "Redei x Bato",
+    "Ladies vs Butlers!"
+  ],
+  "type": "novel",
+  "volumes": 7,
+  "status": "finished",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx114482-VOy9aZUCkMKi.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "112716",
+      "url": "https://anilist.co/anime/112716"
+    },
+    "al_manga": {
+      "id": "112716",
+      "url": "https://anilist.co/manga/112716"
+    }
+  }
+}

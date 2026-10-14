@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7483,
+  "slug": "anisava",
+  "kind": "anime",
+  "title": "Anisava",
+  "titles": {
+    "default": "Anisava",
+    "romaji": "Anisava",
+    "native": "アニサバ"
+  },
+  "synonyms": [
+    "Anisava",
+    "アニサバ",
+    "Love Lab",
+    "恋愛ラボ",
+    "Renai Lab"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108748-Xvn5K6MnrIVm.png"
+  ],
+  "references": {
+    "al": {
+      "id": "108748",
+      "url": "https://anilist.co/anime/108748"
+    },
+    "cr": {
+      "id": "love-lab",
+      "url": "https://www.crunchyroll.com/series/love-lab"
+    },
+    "k": {
+      "id": "7410",
+      "url": "https://kitsu.io/anime/7410"
+    },
+    "mal": {
+      "id": "27757",
+      "url": "https://myanimelist.net/anime/27757"
+    },
+    "t": {
+      "id": "70755",
+      "url": "https://trakt.tv/shows/70755"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10951,
+  "slug": "upotte",
+  "kind": "anime",
+  "title": "Upotte!!",
+  "titles": {
+    "default": "Upotte!!",
+    "romaji": "Upotte!!",
+    "native": "うぽって!!"
+  },
+  "synonyms": [
+    "Upotte!!",
+    "うぽって!!"
+  ],
+  "type": "ona",
+  "episodes": 10,
+  "status": "finished",
+  "season": "spring",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12317-ZyVJb1GXbSpC.png"
+  ],
+  "references": {
+    "al": {
+      "id": "12317",
+      "url": "https://anilist.co/anime/12317"
+    },
+    "cr": {
+      "id": "upotte",
+      "url": "https://www.crunchyroll.com/series/upotte"
+    },
+    "k": {
+      "id": "6704",
+      "url": "https://kitsu.io/anime/6704"
+    },
+    "mal": {
+      "id": "12317",
+      "url": "https://myanimelist.net/anime/12317"
+    },
+    "t": {
+      "id": "44942",
+      "url": "https://trakt.tv/shows/44942"
+    }
+  }
+}

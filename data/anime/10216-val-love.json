@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10216,
+  "slug": "val-love",
+  "kind": "anime",
+  "title": "Val × Love",
+  "titles": {
+    "default": "Val × Love",
+    "romaji": "Val × Love",
+    "english": "Val x Love",
+    "native": "戦×恋"
+  },
+  "synonyms": [
+    "Val × Love",
+    "Val x Love",
+    "戦×恋",
+    "Vallove",
+    "Ikusa x Koi",
+    "Valkyrie X Love",
+    "ศึกxรัก วัลเลิฟ",
+    "Ring ni Kakero 1",
+    "リングにかけろ１",
+    "Put it all in the Ring"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109321-uRusf0ug6AQ0.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "109321",
+      "url": "https://anilist.co/anime/109321"
+    },
+    "k": {
+      "id": "14",
+      "url": "https://kitsu.io/anime/14"
+    },
+    "mal": {
+      "id": "39799",
+      "url": "https://myanimelist.net/anime/39799"
+    },
+    "t": {
+      "id": "69507",
+      "url": "https://trakt.tv/shows/69507"
+    },
+    "tx": {
+      "id": "val_love_pr",
+      "url": "https://twitter.com/val_love_pr"
+    }
+  }
+}

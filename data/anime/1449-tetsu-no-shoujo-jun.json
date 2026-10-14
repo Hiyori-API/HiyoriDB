@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1449,
+  "slug": "tetsu-no-shoujo-jun",
+  "kind": "anime",
+  "title": "Tetsu no Shoujo JUN",
+  "titles": {
+    "default": "Tetsu no Shoujo JUN",
+    "romaji": "Tetsu no Shoujo JUN",
+    "english": "Iron Virgin Jun",
+    "native": "鉄の処女JUN"
+  },
+  "synonyms": [
+    "Tetsu no Shoujo JUN",
+    "Iron Virgin Jun",
+    "鉄の処女JUN",
+    "Tetsu no Otome Jun",
+    "アイアンバージンJUN",
+    "Tetsu no Shojo Jun"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1641-HfjEWUbokSjj.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1641",
+      "url": "https://anilist.co/anime/1641"
+    },
+    "k": {
+      "id": "1476",
+      "url": "https://kitsu.io/anime/1476"
+    },
+    "mal": {
+      "id": "1641",
+      "url": "https://myanimelist.net/anime/1641"
+    }
+  }
+}

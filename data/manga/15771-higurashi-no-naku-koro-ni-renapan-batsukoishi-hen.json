@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15771,
+  "slug": "higurashi-no-naku-koro-ni-renapan-batsukoishi-hen",
+  "kind": "manga",
+  "title": "Higurashi no Naku Koro ni: Renapan Batsukoishi-hen",
+  "titles": {
+    "default": "Higurashi no Naku Koro ni: Renapan Batsukoishi-hen"
+  },
+  "synonyms": [
+    "Higurashi Batsukoishi-hen",
+    "ひぐらしのなく頃に 罰恋し編",
+    "Higurashi no Naku Koro ni Batsukoishi-hen",
+    "ひぐらしのなく頃に れなぱん",
+    "Higurashi no Naku Koro ni Renap",
+    "ひぐらしのなく頃に れなぱん 罰恋し編",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "chapters": 2,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx55075-hBNHbn2ujTZ4.png"
+  ],
+  "references": {
+    "al": {
+      "id": "10491",
+      "url": "https://anilist.co/anime/10491"
+    },
+    "al_manga": {
+      "id": "10491",
+      "url": "https://anilist.co/manga/10491"
+    }
+  }
+}

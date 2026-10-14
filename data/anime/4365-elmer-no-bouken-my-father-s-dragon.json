@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4365,
+  "slug": "elmer-no-bouken-my-father-s-dragon",
+  "kind": "anime",
+  "title": "Elmer no Bouken: My Father's Dragon",
+  "titles": {
+    "default": "Elmer no Bouken: My Father's Dragon",
+    "romaji": "Elmer no Bouken: My Father's Dragon",
+    "english": "Elmer's Adventure: My Father's Dragon",
+    "native": "エルマーの冒険"
+  },
+  "synonyms": [
+    "Elmer no Bouken: My Father's Dragon",
+    "Elmer's Adventure: My Father's Dragon",
+    "エルマーの冒険",
+    "Elmer no Boken: My Father's Dragon"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6593.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6593",
+      "url": "https://anilist.co/anime/6593"
+    },
+    "k": {
+      "id": "4629",
+      "url": "https://kitsu.io/anime/4629"
+    },
+    "mal": {
+      "id": "6593",
+      "url": "https://myanimelist.net/anime/6593"
+    }
+  }
+}

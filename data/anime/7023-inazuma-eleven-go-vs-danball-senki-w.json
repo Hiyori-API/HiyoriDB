@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7023,
+  "slug": "inazuma-eleven-go-vs-danball-senki-w",
+  "kind": "anime",
+  "title": "Inazuma Eleven GO vs Danball Senki W",
+  "titles": {
+    "default": "Inazuma Eleven GO vs Danball Senki W",
+    "romaji": "Inazuma Eleven GO vs Danball Senki W",
+    "native": "劇場版 イナズマイレブンGO vs ダンボール戦機W"
+  },
+  "synonyms": [
+    "Inazuma Eleven GO vs Danball Senki W",
+    "劇場版 イナズマイレブンGO vs ダンボール戦機W",
+    "Gekijouban Inazuma Eleven Go vs Danball Senki W",
+    "Inazuma Eleven Go vs. Danball Senki W Movie"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15785-C3kFaPPwnP8i.png"
+  ],
+  "references": {
+    "al": {
+      "id": "15785",
+      "url": "https://anilist.co/anime/15785"
+    },
+    "k": {
+      "id": "7309",
+      "url": "https://kitsu.io/anime/7309"
+    },
+    "mal": {
+      "id": "15785",
+      "url": "https://myanimelist.net/anime/15785"
+    }
+  }
+}

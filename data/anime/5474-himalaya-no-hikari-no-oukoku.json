@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5474,
+  "slug": "himalaya-no-hikari-no-oukoku",
+  "kind": "anime",
+  "title": "Himalaya no Hikari no Oukoku",
+  "titles": {
+    "default": "Himalaya no Hikari no Oukoku",
+    "romaji": "Himalaya no Hikari no Oukoku",
+    "english": "The Himalayan Kingdom of Light",
+    "native": "ヒマラヤの光の王国"
+  },
+  "synonyms": [
+    "Himalaya no Hikari no Oukoku",
+    "The Himalayan Kingdom of Light",
+    "ヒマラヤの光の王国",
+    "Kingdom of Light in the Himalayas",
+    "El Reino de la Luz en los Himalayas"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b160884-yW8peQDlQrYp.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "160884",
+      "url": "https://anilist.co/anime/160884"
+    },
+    "k": {
+      "id": "9321",
+      "url": "https://kitsu.io/anime/9321"
+    },
+    "mal": {
+      "id": "22327",
+      "url": "https://myanimelist.net/anime/22327"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 159,
+  "slug": "vandread-the-second-stage",
+  "kind": "anime",
+  "title": "Vandread: the second stage",
+  "titles": {
+    "default": "Vandread: the second stage",
+    "romaji": "Vandread: the second stage",
+    "english": "Vandread: The Second Stage",
+    "native": "ヴァンドレッド the second stage"
+  },
+  "synonyms": [
+    "Vandread: the second stage",
+    "Vandread: The Second Stage",
+    "ヴァンドレッド the second stage"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181-MSG4LgXhyRhA.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "181",
+      "url": "https://anilist.co/anime/181"
+    },
+    "cr": {
+      "id": "vandread",
+      "url": "https://www.crunchyroll.com/series/vandread"
+    },
+    "k": {
+      "id": "158",
+      "url": "https://kitsu.io/anime/158"
+    },
+    "mal": {
+      "id": "181",
+      "url": "https://myanimelist.net/anime/181"
+    },
+    "t": {
+      "id": "8817",
+      "url": "https://trakt.tv/shows/8817"
+    },
+    "ttv": {
+      "id": "2373",
+      "url": "https://tubitv.com/series/2373"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4112,
+  "slug": "greed",
+  "kind": "anime",
+  "title": "Greed",
+  "titles": {
+    "default": "Greed",
+    "romaji": "Greed",
+    "native": "グリード"
+  },
+  "synonyms": [
+    "Greed",
+    "グリード"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5934-AekNcgLT4VyD.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5934",
+      "url": "https://anilist.co/anime/5934"
+    },
+    "k": {
+      "id": "4350",
+      "url": "https://kitsu.io/anime/4350"
+    },
+    "mal": {
+      "id": "5934",
+      "url": "https://myanimelist.net/anime/5934"
+    }
+  }
+}

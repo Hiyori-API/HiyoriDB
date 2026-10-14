@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11892,
+  "slug": "mahoutsukai-reimeiki-mini-anime",
+  "kind": "anime",
+  "title": "Mahoutsukai Reimeiki Mini Anime",
+  "titles": {
+    "default": "Mahoutsukai Reimeiki Mini Anime",
+    "romaji": "Mahoutsukai Reimeiki Mini Anime",
+    "native": "魔法使い黎明期 ミニアニメ"
+  },
+  "synonyms": [
+    "Mahoutsukai Reimeiki Mini Anime",
+    "魔法使い黎明期 ミニアニメ",
+    "The Dawn of the Witch Mini Anime",
+    "Supreme Sword God",
+    "剑道第一仙",
+    "Jiandao Di Yi Xian"
+  ],
+  "type": "ona",
+  "episodes": 20,
+  "status": "finished",
+  "season": "spring",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b149099-I1W4uSOViTan.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "149099",
+      "url": "https://anilist.co/anime/149099"
+    },
+    "mal": {
+      "id": "51349",
+      "url": "https://myanimelist.net/anime/51349"
+    },
+    "tx": {
+      "id": "search",
+      "url": "https://twitter.com/search"
+    }
+  }
+}

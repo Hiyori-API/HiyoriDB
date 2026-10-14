@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10773,
+  "slug": "ma-ga-ochiru-yoru",
+  "kind": "anime",
+  "title": "Ma ga Ochiru Yoru",
+  "titles": {
+    "default": "Ma ga Ochiru Yoru",
+    "romaji": "Ma ga Ochiru Yoru",
+    "english": "The Night When Evil Falls",
+    "native": "魔が堕ちる夜"
+  },
+  "synonyms": [
+    "Ma ga Ochiru Yoru",
+    "The Night When Evil Falls",
+    "魔が堕ちる夜",
+    "Gunparade Orchestra OVA",
+    "ガンパレード・オーケストラ"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "summer",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2394.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2394",
+      "url": "https://anilist.co/anime/2394"
+    },
+    "k": {
+      "id": "5737",
+      "url": "https://kitsu.io/anime/5737"
+    },
+    "mal": {
+      "id": "2394",
+      "url": "https://myanimelist.net/anime/2394"
+    }
+  }
+}

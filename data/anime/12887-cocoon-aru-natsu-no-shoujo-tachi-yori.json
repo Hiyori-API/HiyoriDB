@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12887,
+  "slug": "cocoon-aru-natsu-no-shoujo-tachi-yori",
+  "kind": "anime",
+  "title": "cocoon: Aru Natsu no Shoujo-tachi Yori",
+  "titles": {
+    "default": "cocoon: Aru Natsu no Shoujo-tachi Yori",
+    "romaji": "cocoon: Aru Natsu no Shoujo-tachi Yori",
+    "english": "cocoon – One Summer of Girlhood",
+    "native": "cocoon ～ある夏の少女たちより～"
+  },
+  "synonyms": [
+    "cocoon: Aru Natsu no Shoujo-tachi Yori",
+    "cocoon – One Summer of Girlhood",
+    "cocoon ～ある夏の少女たちより～",
+    "cocoon -One Summer of Girlhood-",
+    "コクーン",
+    "Seikai no Monshou Special",
+    "星界の紋章 総集編",
+    "Seikai no Monshou Movie",
+    "Crest of the Stars Special Edition"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166527-7Co2vkxgVzT8.png"
+  ],
+  "references": {
+    "al": {
+      "id": "166527",
+      "url": "https://anilist.co/anime/166527"
+    },
+    "k": {
+      "id": "1235",
+      "url": "https://kitsu.io/anime/1235"
+    },
+    "mal": {
+      "id": "55779",
+      "url": "https://myanimelist.net/anime/55779"
+    }
+  }
+}

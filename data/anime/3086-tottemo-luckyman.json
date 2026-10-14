@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3086,
+  "slug": "tottemo-luckyman",
+  "kind": "anime",
+  "title": "Tottemo! Luckyman",
+  "titles": {
+    "default": "Tottemo! Luckyman",
+    "romaji": "Tottemo! Luckyman",
+    "native": "とっても！ラッキーマン"
+  },
+  "synonyms": [
+    "Tottemo! Luckyman",
+    "とっても！ラッキーマン",
+    "Luckyman"
+  ],
+  "type": "tv",
+  "episodes": 50,
+  "status": "finished",
+  "season": "spring",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3672-93nRmP6VDcFY.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3672",
+      "url": "https://anilist.co/anime/3672"
+    },
+    "k": {
+      "id": "3184",
+      "url": "https://kitsu.io/anime/3184"
+    },
+    "mal": {
+      "id": "3672",
+      "url": "https://myanimelist.net/anime/3672"
+    }
+  }
+}

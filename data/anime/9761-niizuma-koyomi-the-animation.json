@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9761,
+  "slug": "niizuma-koyomi-the-animation",
+  "kind": "anime",
+  "title": "Niizuma Koyomi THE ANIMATION",
+  "titles": {
+    "default": "Niizuma Koyomi THE ANIMATION",
+    "romaji": "Niizuma Koyomi THE ANIMATION",
+    "native": "新妻こよみ THE ANIMATION"
+  },
+  "synonyms": [
+    "Niizuma Koyomi THE ANIMATION",
+    "新妻こよみ THE ANIMATION",
+    "Niiduma Koyomi",
+    "New Wife Calendar",
+    "Skilled Teaser Takagi-san OVA",
+    "Karakai Jouzu no Takagi-san: Water Slider",
+    "Teasing Master Takagi-san: Water Slide",
+    "からかい上手の高木さん ウォータースライダー",
+    "Karakai Jouzu no Takagi-san: Water Slide"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx101593-jldTLijxFL7j.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101593",
+      "url": "https://anilist.co/anime/101593"
+    },
+    "mal": {
+      "id": "37815",
+      "url": "https://myanimelist.net/anime/37815"
+    }
+  }
+}

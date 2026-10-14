@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8616,
+  "slug": "kyonyuu-hitozuma-onna-kyoushi-saimin",
+  "kind": "anime",
+  "title": "Kyonyuu Hitozuma Onna Kyoushi Saimin",
+  "titles": {
+    "default": "Kyonyuu Hitozuma Onna Kyoushi Saimin",
+    "romaji": "Kyonyuu Hitozuma Onna Kyoushi Saimin",
+    "native": "巨乳人妻女教師催眠"
+  },
+  "synonyms": [
+    "Kyonyuu Hitozuma Onna Kyoushi Saimin",
+    "巨乳人妻女教師催眠",
+    "クイーンズブレイド グリムワール",
+    "Queen's Blade: Grimoire"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21515-BlKI6DHGYb6k.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21515",
+      "url": "https://anilist.co/anime/21515"
+    },
+    "mal": {
+      "id": "32063",
+      "url": "https://myanimelist.net/anime/32063"
+    }
+  }
+}

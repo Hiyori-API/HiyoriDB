@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4602,
+  "slug": "shakugan-no-shana-s-specials",
+  "kind": "anime",
+  "title": "Shakugan no Shana S Specials",
+  "titles": {
+    "default": "Shakugan no Shana S Specials",
+    "romaji": "Shakugan no Shana S Specials",
+    "native": "灼眼のシャナたん S"
+  },
+  "synonyms": [
+    "Shakugan no Shana S Specials",
+    "灼眼のシャナたん S",
+    "Shakugan no Shana-tan G",
+    "Dos",
+    "Tri",
+    "Frontier",
+    "灼眼のシャナたん",
+    "Shakugan no Shana-tan Dos",
+    "Shakugan no Shana-tan Tri",
+    "Shakugan no Shana-tan Frontier"
+  ],
+  "type": "special",
+  "episodes": 4,
+  "status": "finished",
+  "season": "fall",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7375.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7375",
+      "url": "https://anilist.co/anime/7375"
+    },
+    "k": {
+      "id": "4955",
+      "url": "https://kitsu.io/anime/4955"
+    },
+    "mal": {
+      "id": "7375",
+      "url": "https://myanimelist.net/anime/7375"
+    }
+  }
+}

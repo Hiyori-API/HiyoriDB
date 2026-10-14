@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14927,
+  "slug": "joker",
+  "kind": "manga",
+  "title": "Joker",
+  "titles": {
+    "default": "Joker"
+  },
+  "synonyms": [
+    "Joker Series",
+    "ジョーカー",
+    "Nemureru Mori no Binan",
+    "眠れる森美男",
+    "Sleeping Beauty Boy",
+    "The Handsome Man in the Sleeping Woods",
+    "The Sleeping Beauty Man",
+    "The Sleeping Male Beauty in the Woods"
+  ],
+  "type": "manga",
+  "chapters": 16,
+  "volumes": 8,
+  "status": "finished",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b197770-jwTFfaW0odkz.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3661",
+      "url": "https://anilist.co/anime/3661"
+    },
+    "al_manga": {
+      "id": "3661",
+      "url": "https://anilist.co/manga/3661"
+    }
+  }
+}

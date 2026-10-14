@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 767,
+  "slug": "xxxholic",
+  "kind": "anime",
+  "title": "xxxHOLiC",
+  "titles": {
+    "default": "xxxHOLiC",
+    "romaji": "xxxHOLiC",
+    "native": "XXX ホリック"
+  },
+  "synonyms": [
+    "xxxHOLiC",
+    "XXX ホリック",
+    "×××ホリック",
+    "XXXHOLiC"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "spring",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx861-rbZNhIXwS4JE.png"
+  ],
+  "references": {
+    "al": {
+      "id": "861",
+      "url": "https://anilist.co/anime/861"
+    },
+    "cr": {
+      "id": "xxxholic",
+      "url": "https://www.crunchyroll.com/series/xxxholic"
+    },
+    "k": {
+      "id": "763",
+      "url": "https://kitsu.io/anime/763"
+    },
+    "mal": {
+      "id": "861",
+      "url": "https://myanimelist.net/anime/861"
+    },
+    "t": {
+      "id": "36094",
+      "url": "https://trakt.tv/shows/36094"
+    }
+  }
+}

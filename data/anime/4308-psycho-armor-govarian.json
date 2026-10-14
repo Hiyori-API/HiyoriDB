@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4308,
+  "slug": "psycho-armor-govarian",
+  "kind": "anime",
+  "title": "Psycho Armor Govarian",
+  "titles": {
+    "default": "Psycho Armor Govarian",
+    "romaji": "Psycho Armor Govarian",
+    "native": "サイコアーマー ゴーバリアン"
+  },
+  "synonyms": [
+    "Psycho Armor Govarian",
+    "サイコアーマー ゴーバリアン",
+    "Psycho Armor Gobarian",
+    "Psychoarmor Govarian"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "summer",
+  "year": 1983,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6428-8jJieaGDklv1.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6428",
+      "url": "https://anilist.co/anime/6428"
+    },
+    "k": {
+      "id": "4558",
+      "url": "https://kitsu.io/anime/4558"
+    },
+    "mal": {
+      "id": "6428",
+      "url": "https://myanimelist.net/anime/6428"
+    }
+  }
+}

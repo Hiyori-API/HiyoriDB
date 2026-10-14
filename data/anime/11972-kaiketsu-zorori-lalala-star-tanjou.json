@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11972,
+  "slug": "kaiketsu-zorori-lalala-star-tanjou",
+  "kind": "anime",
+  "title": "Kaiketsu Zorori: Lalala♪ Star Tanjou",
+  "titles": {
+    "default": "Kaiketsu Zorori: Lalala♪ Star Tanjou",
+    "romaji": "Kaiketsu Zorori: Lalala♪ Star Tanjou",
+    "native": "かいけつゾロリ　ラララ♪スターたんじょう"
+  },
+  "synonyms": [
+    "Kaiketsu Zorori: Lalala♪ Star Tanjou",
+    "かいけつゾロリ　ラララ♪スターたんじょう",
+    "Kaiketsu Zorori Movie 6",
+    "Neon Genesis Evangelion: Death & Rebirth",
+    "Shinseiki Evangelion Gekijouban: Shi to Shinsei",
+    "新世紀エヴァンゲリオン劇場版 シト新生",
+    "Neon Genesis Evangelion - Death and Rebirth"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169794-AkeURFUOF23y.png"
+  ],
+  "references": {
+    "al": {
+      "id": "169794",
+      "url": "https://anilist.co/anime/169794"
+    },
+    "k": {
+      "id": "22",
+      "url": "https://kitsu.io/anime/22"
+    },
+    "mal": {
+      "id": "53391",
+      "url": "https://myanimelist.net/anime/53391"
+    }
+  }
+}

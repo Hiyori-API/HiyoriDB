@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 638,
+  "slug": "tenchi-muyou",
+  "kind": "anime",
+  "title": "Tenchi Muyou!",
+  "titles": {
+    "default": "Tenchi Muyou!",
+    "romaji": "Tenchi Muyou!",
+    "english": "Tenchi Muyo! Tenchi Universe",
+    "native": "天地無用！"
+  },
+  "synonyms": [
+    "Tenchi Muyou!",
+    "Tenchi Muyo! Tenchi Universe",
+    "天地無用！",
+    "Tenchi Universe TV",
+    "Tenchi Muyo!"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx696-q40thYobzxmz.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "696",
+      "url": "https://anilist.co/anime/696"
+    },
+    "cr": {
+      "id": "tenchi-muyo-tenchi-universe",
+      "url": "https://www.crunchyroll.com/series/tenchi-muyo-tenchi-universe"
+    },
+    "k": {
+      "id": "637",
+      "url": "https://kitsu.io/anime/637"
+    },
+    "mal": {
+      "id": "696",
+      "url": "https://myanimelist.net/anime/696"
+    },
+    "t": {
+      "id": "20358",
+      "url": "https://trakt.tv/shows/20358"
+    }
+  }
+}

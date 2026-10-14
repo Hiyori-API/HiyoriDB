@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13638,
+  "slug": "youjo-shenki-2",
+  "kind": "anime",
+  "title": "Youjo Shenki 2",
+  "titles": {
+    "default": "Youjo Shenki 2",
+    "romaji": "Youjo Shenki 2",
+    "native": "ようじょしぇんき2"
+  },
+  "synonyms": [
+    "Youjo Shenki 2",
+    "ようじょしぇんき2",
+    "Saga of Tanya the Evil Shorts",
+    "Youjo Senki Specials"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b213961-x2ZvvtkYSTC9.png"
+  ],
+  "references": {
+    "al": {
+      "id": "213961",
+      "url": "https://anilist.co/anime/213961"
+    },
+    "mal": {
+      "id": "64577",
+      "url": "https://myanimelist.net/anime/64577"
+    },
+    "yt": {
+      "id": "3yILla1h1pM",
+      "url": "https://www.youtube.com/watch?v=3yILla1h1pM"
+    }
+  }
+}

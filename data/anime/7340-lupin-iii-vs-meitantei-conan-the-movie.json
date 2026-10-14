@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7340,
+  "slug": "lupin-iii-vs-meitantei-conan-the-movie",
+  "kind": "anime",
+  "title": "Lupin III vs. Meitantei Conan: THE MOVIE",
+  "titles": {
+    "default": "Lupin III vs. Meitantei Conan: THE MOVIE",
+    "romaji": "Lupin III vs. Meitantei Conan: THE MOVIE",
+    "english": "Lupin the 3rd Vs Detective Conan: The Movie",
+    "native": "ルパン三世vs.名探偵コナン THE MOVIE"
+  },
+  "synonyms": [
+    "Lupin III vs. Meitantei Conan: THE MOVIE",
+    "Lupin the 3rd Vs Detective Conan: The Movie",
+    "ルパン三世vs.名探偵コナン THE MOVIE",
+    "Rupan Sansei vs. Meitantei Conan: The Movie",
+    "Rupan Sansei vs Meitantei Conan (Movie)",
+    "Lupin Terzo vs Detective Conan",
+    "Lupin III vs. Detective Conan: The Movie",
+    "Lupin III vs Detetive Conan: O Filme"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18429-vJz2zjLRRve8.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "18429",
+      "url": "https://anilist.co/anime/18429"
+    },
+    "k": {
+      "id": "7723",
+      "url": "https://kitsu.io/anime/7723"
+    },
+    "mal": {
+      "id": "18429",
+      "url": "https://myanimelist.net/anime/18429"
+    }
+  }
+}

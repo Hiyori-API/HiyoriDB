@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9410,
+  "slug": "yuri-plisetsky-gpf-in-barcelona-ex-welcome-to-the-madness",
+  "kind": "anime",
+  "title": "Yuri Plisetsky GPF in Barcelona EX “Welcome to The Madness”",
+  "titles": {
+    "default": "Yuri Plisetsky GPF in Barcelona EX “Welcome to The Madness”",
+    "romaji": "Yuri Plisetsky GPF in Barcelona EX “Welcome to The Madness”",
+    "english": "Yuri on Ice Side Story: Welcome to The Madness"
+  },
+  "synonyms": [
+    "Yuri Plisetsky GPF in Barcelona EX “Welcome to The Madness”",
+    "Yuri on Ice Side Story: Welcome to The Madness",
+    "Yuuri!!! on ICE Special",
+    "Yuri!!! on ICE Special",
+    "Yuri!!! On ICE: Yuri Plisetsky GPF in Barcelona EX \"Welcome to The Madness\"",
+    "ユーリ!!! on ICE Yuri Plisetsky GPF in Barcelona EX \"Welcome to The Madness\"",
+    "Yuri!!! on Ice: Yuri Plisetsky GPF in Barcelona EX - Welcome to The Madness"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102167-Pw1emJfPpOj3.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "102167",
+      "url": "https://anilist.co/anime/102167"
+    },
+    "mal": {
+      "id": "35382",
+      "url": "https://myanimelist.net/anime/35382"
+    }
+  }
+}

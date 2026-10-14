@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13904,
+  "slug": "mai-hime",
+  "kind": "manga",
+  "title": "Mai-HiME",
+  "titles": {
+    "default": "Mai-HiME"
+  },
+  "synonyms": [
+    "Dancing Princess",
+    "Mai HiME",
+    "My HiME",
+    "My Princess",
+    "My-HiME",
+    "舞-HiME",
+    "Mai-HiME",
+    "Princess Mai"
+  ],
+  "type": "manga",
+  "chapters": 44,
+  "volumes": 5,
+  "status": "finished",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30441-Z0Lcx3hXjgDV.png"
+  ],
+  "references": {
+    "al": {
+      "id": "98",
+      "url": "https://anilist.co/anime/98"
+    },
+    "al_manga": {
+      "id": "98",
+      "url": "https://anilist.co/manga/98"
+    }
+  }
+}

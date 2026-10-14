@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1730,
+  "slug": "code-geass-hangyaku-no-lelouch-picture-drama",
+  "kind": "anime",
+  "title": "Code Geass: Hangyaku no Lelouch Picture Drama",
+  "titles": {
+    "default": "Code Geass: Hangyaku no Lelouch Picture Drama",
+    "romaji": "Code Geass: Hangyaku no Lelouch Picture Drama",
+    "native": "コードギアス 反逆のルルーシュ ピクチャードラマ"
+  },
+  "synonyms": [
+    "Code Geass: Hangyaku no Lelouch Picture Drama",
+    "コードギアス 反逆のルルーシュ ピクチャードラマ",
+    "Code Geass: Hangyaku no Lelouch Specials",
+    "Code Geass: Lelouch of the Rebellion Picture Drama",
+    "Code Geass: Lelouch of the Rebellion Picture Dramas"
+  ],
+  "type": "special",
+  "episodes": 9,
+  "status": "finished",
+  "season": "winter",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1953.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1953",
+      "url": "https://anilist.co/anime/1953"
+    },
+    "k": {
+      "id": "1759",
+      "url": "https://kitsu.io/anime/1759"
+    },
+    "mal": {
+      "id": "1953",
+      "url": "https://myanimelist.net/anime/1953"
+    }
+  }
+}

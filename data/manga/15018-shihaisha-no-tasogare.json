@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15018,
+  "slug": "shihaisha-no-tasogare",
+  "kind": "manga",
+  "title": "Shihaisha no Tasogare",
+  "titles": {
+    "default": "Shihaisha no Tasogare"
+  },
+  "synonyms": [
+    "Twilight of the Dark Master",
+    "支配者の黄昏",
+    "Baby & Me",
+    "Akachan to Boku",
+    "赤ちゃんと僕",
+    "AkaBoku",
+    "Baby and Me",
+    "Time Limit",
+    "Secret Boy ni Tee Dasuna!!",
+    "Baka de Karukute Wagamama de",
+    "Natsu to Kimi no Irradiation"
+  ],
+  "type": "manga",
+  "chapters": 1,
+  "volumes": 1,
+  "status": "finished",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx38900-ZBkbiZpLvH8W.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1245",
+      "url": "https://anilist.co/anime/1245"
+    },
+    "al_manga": {
+      "id": "1245",
+      "url": "https://anilist.co/manga/1245"
+    }
+  }
+}

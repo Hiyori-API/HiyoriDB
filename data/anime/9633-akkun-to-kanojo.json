@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9633,
+  "slug": "akkun-to-kanojo",
+  "kind": "anime",
+  "title": "Akkun to Kanojo",
+  "titles": {
+    "default": "Akkun to Kanojo",
+    "romaji": "Akkun to Kanojo",
+    "english": "My Sweet Tyrant",
+    "native": "あっくんとカノジョ"
+  },
+  "synonyms": [
+    "Akkun to Kanojo",
+    "My Sweet Tyrant",
+    "あっくんとカノジョ",
+    "Akkun and His Girlfriend",
+    "My Hero Academia Season 3",
+    "僕のヒーローアカデミア",
+    "Boku no Hero Academia 3rd Season"
+  ],
+  "type": "tv",
+  "episodes": 25,
+  "status": "finished",
+  "season": "spring",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx100645-NJW4S7M0LvDc.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "100645",
+      "url": "https://anilist.co/anime/100645"
+    },
+    "cr": {
+      "id": "my-sweet-tyrant",
+      "url": "https://www.crunchyroll.com/series/my-sweet-tyrant"
+    },
+    "mal": {
+      "id": "36864",
+      "url": "https://myanimelist.net/anime/36864"
+    },
+    "tx": {
+      "id": "akkano_anime",
+      "url": "https://twitter.com/akkano_anime"
+    }
+  }
+}

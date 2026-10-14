@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9634,
+  "slug": "haikara-san-ga-tooru-tokyo-dai-roman",
+  "kind": "anime",
+  "title": "Haikara-san ga Tooru: Tokyo Dai Roman",
+  "titles": {
+    "default": "Haikara-san ga Tooru: Tokyo Dai Roman",
+    "romaji": "Haikara-san ga Tooru: Tokyo Dai Roman",
+    "english": "Haikara-san: Here Comes Miss Modern – Part 2",
+    "native": "劇場版 はいからさんが通る 後編 ～花の東京大ロマン～"
+  },
+  "synonyms": [
+    "Haikara-san ga Tooru: Tokyo Dai Roman",
+    "Haikara-san: Here Comes Miss Modern – Part 2",
+    "劇場版 はいからさんが通る 後編 ～花の東京大ロマン～",
+    "Haikara-san ga Tooru Movie 2: Hana no Tokyo Dai Roman",
+    "Haikara-san ga Toru the movie",
+    "Mint",
+    "MINT"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100652-eRomTXnXdfNh.png"
+  ],
+  "references": {
+    "al": {
+      "id": "100652",
+      "url": "https://anilist.co/anime/100652"
+    },
+    "ap": {
+      "id": "B08BZ2KRN1",
+      "url": "https://www.amazon.com/gp/video/detail/B08BZ2KRN1"
+    },
+    "cr": {
+      "id": "haikara-san-here-comes-miss-modern",
+      "url": "https://www.crunchyroll.com/series/haikara-san-here-comes-miss-modern"
+    },
+    "k": {
+      "id": "8098",
+      "url": "https://kitsu.io/anime/8098"
+    },
+    "mal": {
+      "id": "35228",
+      "url": "https://myanimelist.net/anime/35228"
+    },
+    "tx": {
+      "id": "haikara_anime",
+      "url": "https://twitter.com/haikara_anime"
+    }
+  }
+}

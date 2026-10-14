@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2622,
+  "slug": "youjuu-sensen-adventure-kid",
+  "kind": "anime",
+  "title": "Youjuu Sensen Adventure KID",
+  "titles": {
+    "default": "Youjuu Sensen Adventure KID",
+    "romaji": "Youjuu Sensen Adventure KID",
+    "english": "Adventure Kid",
+    "native": "妖獣戦線アドベンチャーKID"
+  },
+  "synonyms": [
+    "Youjuu Sensen Adventure KID",
+    "Adventure Kid",
+    "妖獣戦線アドベンチャーKID",
+    "Adventure Duo",
+    "Supernatural Beast Battlefront",
+    "Nozomi Witches",
+    "のぞみ ウィッチィズ",
+    "Bewitching Nozomi"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "summer",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2977-FndDWGSZDm50.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2977",
+      "url": "https://anilist.co/anime/2977"
+    },
+    "k": {
+      "id": "1851",
+      "url": "https://kitsu.io/anime/1851"
+    },
+    "mal": {
+      "id": "2977",
+      "url": "https://myanimelist.net/anime/2977"
+    }
+  }
+}

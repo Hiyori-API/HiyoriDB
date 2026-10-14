@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 384,
+  "slug": "ranma-1-2-chuugoku-nekonron-daikessen-okite-yaburi-no-gekitou-hen",
+  "kind": "anime",
+  "title": "Ranma 1/2: Chuugoku Nekonron Daikessen! Okite Yaburi no Gekitou-hen!!",
+  "titles": {
+    "default": "Ranma 1/2: Chuugoku Nekonron Daikessen! Okite Yaburi no Gekitou-hen!!",
+    "romaji": "Ranma 1/2: Chuugoku Nekonron Daikessen! Okite Yaburi no Gekitou-hen!!",
+    "english": "Ranma ½: Big Trouble in Nekonron, China",
+    "native": "らんま1/2 中国寝崑崙大決戦! 掟やぶりの激闘篇!!"
+  },
+  "synonyms": [
+    "Ranma 1/2: Chuugoku Nekonron Daikessen! Okite Yaburi no Gekitou-hen!!",
+    "Ranma ½: Big Trouble in Nekonron, China",
+    "らんま1/2 中国寝崑崙大決戦! 掟やぶりの激闘篇!!",
+    "Ranma 1/2 Movie 1",
+    "Ranma ½: The Battle of Nekonron, China! A Battle to Defy the Rules!",
+    "Ranma ½: Big Trouble in Nekonron",
+    "Ranma ½: Chuugoku Nekonron Daikessen! Okite Yaburi no Gekitou-hen!!",
+    "らんま 1/2 中国寝崑崙大決戦! 掟やぶりの激闘編!!"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx418-O6mu6r1k40jt.png"
+  ],
+  "references": {
+    "al": {
+      "id": "418",
+      "url": "https://anilist.co/anime/418"
+    },
+    "k": {
+      "id": "382",
+      "url": "https://kitsu.io/anime/382"
+    },
+    "mal": {
+      "id": "418",
+      "url": "https://myanimelist.net/anime/418"
+    }
+  }
+}

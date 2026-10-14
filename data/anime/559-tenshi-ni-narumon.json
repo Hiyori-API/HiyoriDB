@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 559,
+  "slug": "tenshi-ni-narumon",
+  "kind": "anime",
+  "title": "Tenshi ni Narumon!",
+  "titles": {
+    "default": "Tenshi ni Narumon!",
+    "romaji": "Tenshi ni Narumon!",
+    "english": "I'm Gonna Be an Angel!",
+    "native": "天使になるもんっ！"
+  },
+  "synonyms": [
+    "Tenshi ni Narumon!",
+    "I'm Gonna Be an Angel!",
+    "天使になるもんっ！"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx605-c0zcv8BhgSEB.png"
+  ],
+  "references": {
+    "al": {
+      "id": "605",
+      "url": "https://anilist.co/anime/605"
+    },
+    "k": {
+      "id": "560",
+      "url": "https://kitsu.io/anime/560"
+    },
+    "mal": {
+      "id": "605",
+      "url": "https://myanimelist.net/anime/605"
+    },
+    "t": {
+      "id": "37671",
+      "url": "https://trakt.tv/shows/37671"
+    },
+    "ttv": {
+      "id": "2261",
+      "url": "https://tubitv.com/series/2261"
+    }
+  }
+}

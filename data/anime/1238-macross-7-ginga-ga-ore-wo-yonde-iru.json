@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1238,
+  "slug": "macross-7-ginga-ga-ore-wo-yonde-iru",
+  "kind": "anime",
+  "title": "Macross 7: Ginga ga Ore wo Yonde Iru",
+  "titles": {
+    "default": "Macross 7: Ginga ga Ore wo Yonde Iru",
+    "romaji": "Macross 7: Ginga ga Ore wo Yonde Iru",
+    "english": "Macross 7: The Galaxy is Calling Me!",
+    "native": "マクロス7 -銀河がオレを呼んでいる!-"
+  },
+  "synonyms": [
+    "Macross 7: Ginga ga Ore wo Yonde Iru",
+    "Macross 7: The Galaxy is Calling Me!",
+    "マクロス7 -銀河がオレを呼んでいる!-",
+    "Macross 7: The Movie",
+    "Macross 7: The Galaxy is Calling Me",
+    "Macross 7 Movie: Ginga ga Ore wo Yondeiru!",
+    "劇場版 マクロス７　銀河がオレを呼んでいる！"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1400-LU1KzLIsRcI8.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1400",
+      "url": "https://anilist.co/anime/1400"
+    },
+    "k": {
+      "id": "1253",
+      "url": "https://kitsu.io/anime/1253"
+    },
+    "mal": {
+      "id": "1400",
+      "url": "https://myanimelist.net/anime/1400"
+    }
+  }
+}

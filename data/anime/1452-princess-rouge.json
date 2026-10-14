@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1452,
+  "slug": "princess-rouge",
+  "kind": "anime",
+  "title": "Princess Rouge",
+  "titles": {
+    "default": "Princess Rouge",
+    "romaji": "Princess Rouge",
+    "english": "Legend of the Last Labyrinth",
+    "native": "プリンセス・ルージュ"
+  },
+  "synonyms": [
+    "Princess Rouge",
+    "Legend of the Last Labyrinth",
+    "プリンセス・ルージュ",
+    "Princess Rouge: Legend of the Last Labyrinth",
+    "Eight Clouds Rising",
+    "Yakumo Tatsu",
+    "八雲立つ"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1644.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1644",
+      "url": "https://anilist.co/anime/1644"
+    },
+    "k": {
+      "id": "916",
+      "url": "https://kitsu.io/anime/916"
+    },
+    "mal": {
+      "id": "1644",
+      "url": "https://myanimelist.net/anime/1644"
+    }
+  }
+}

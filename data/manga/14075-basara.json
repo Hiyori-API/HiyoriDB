@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14075,
+  "slug": "basara",
+  "kind": "manga",
+  "title": "BASARA",
+  "titles": {
+    "default": "BASARA"
+  },
+  "synonyms": [
+    "Legend of Basara",
+    "バサラ",
+    "BASARA婆娑羅",
+    "바사라",
+    "Basara",
+    "BASARA",
+    "Shouryou Tsukai Elementalors",
+    "精霊使いエレメンタラー",
+    "Elementalors",
+    "Shouryou Tsukai Erementara",
+    "les Elémentalistes"
+  ],
+  "type": "manga",
+  "chapters": 107,
+  "volumes": 27,
+  "status": "finished",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30974-Ck0pncZ7LEnW.png"
+  ],
+  "references": {
+    "al": {
+      "id": "633",
+      "url": "https://anilist.co/anime/633"
+    },
+    "al_manga": {
+      "id": "633",
+      "url": "https://anilist.co/manga/633"
+    }
+  }
+}

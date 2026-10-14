@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1018,
+  "slug": "giniro-no-kami-no-agito",
+  "kind": "anime",
+  "title": "Giniro no Kami no Agito",
+  "titles": {
+    "default": "Giniro no Kami no Agito",
+    "romaji": "Giniro no Kami no Agito",
+    "english": "Origin: Spirits of the Past",
+    "native": "銀色の髪のアギト"
+  },
+  "synonyms": [
+    "Giniro no Kami no Agito",
+    "Origin: Spirits of the Past",
+    "銀色の髪のアギト",
+    "Gin'iro no Kami no Agito",
+    "Gin-iro no kami no Agito",
+    "Silver Haired Agito",
+    "Agito with Silver Hair",
+    "Origins: Spirits of the Past",
+    "Gin-iro no Kami no Agito",
+    "Silver-Haired Agito"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1140-5SWhZ6CkGCZw.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1140",
+      "url": "https://anilist.co/anime/1140"
+    },
+    "cr": {
+      "id": "origin-spirits-of-the-past",
+      "url": "https://www.crunchyroll.com/series/origin-spirits-of-the-past"
+    },
+    "k": {
+      "id": "1021",
+      "url": "https://kitsu.io/anime/1021"
+    },
+    "mal": {
+      "id": "1140",
+      "url": "https://myanimelist.net/anime/1140"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13135,
+  "slug": "soreike-anpanman-chapon-no-hero",
+  "kind": "anime",
+  "title": "Soreike! Anpanman: Chapon no Hero!",
+  "titles": {
+    "default": "Soreike! Anpanman: Chapon no Hero!",
+    "romaji": "Soreike! Anpanman: Chapon no Hero!",
+    "native": "それいけ！アンパンマン チャポンのヒーロー！"
+  },
+  "synonyms": [
+    "Soreike! Anpanman: Chapon no Hero!",
+    "それいけ！アンパンマン チャポンのヒーロー！",
+    "Appleseed (Movie)",
+    "アップルシード",
+    "Appleseed (2004)"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186542-m9q64FHGRQXs.png"
+  ],
+  "references": {
+    "al": {
+      "id": "186542",
+      "url": "https://anilist.co/anime/186542"
+    },
+    "k": {
+      "id": "35",
+      "url": "https://kitsu.io/anime/35"
+    },
+    "mal": {
+      "id": "60962",
+      "url": "https://myanimelist.net/anime/60962"
+    }
+  }
+}

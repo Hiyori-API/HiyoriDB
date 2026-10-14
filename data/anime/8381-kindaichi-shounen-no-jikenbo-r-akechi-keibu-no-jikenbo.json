@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8381,
+  "slug": "kindaichi-shounen-no-jikenbo-r-akechi-keibu-no-jikenbo",
+  "kind": "anime",
+  "title": "Kindaichi Shounen no Jikenbo R: Akechi Keibu no Jikenbo",
+  "titles": {
+    "default": "Kindaichi Shounen no Jikenbo R: Akechi Keibu no Jikenbo",
+    "romaji": "Kindaichi Shounen no Jikenbo R: Akechi Keibu no Jikenbo",
+    "english": "The File of Young Kindaichi Returns: Akechi Keibu no Jikenbo",
+    "native": "金田一少年の事件簿Ｒ: 明智警部の事件簿"
+  },
+  "synonyms": [
+    "Kindaichi Shounen no Jikenbo R: Akechi Keibu no Jikenbo",
+    "The File of Young Kindaichi Returns: Akechi Keibu no Jikenbo",
+    "金田一少年の事件簿Ｒ: 明智警部の事件簿",
+    "Kindaichi Shounen no Jikenbo Returns: Akechi Keibu no Jikenbo",
+    "Bokura wa Minna Kawai-sou: Hajimete no",
+    "僕らはみんな河合荘 初めての",
+    "The Kawai Complex Guide to Manors and Hostel Behavior: First Time",
+    "Bokura wa Minna Kawaisou: Hajimete no",
+    "Bokura wa Minna Kawaisou Special"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21589-7NuBuwFGu1A9.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21589",
+      "url": "https://anilist.co/anime/21589"
+    },
+    "k": {
+      "id": "8536",
+      "url": "https://kitsu.io/anime/8536"
+    },
+    "mal": {
+      "id": "32376",
+      "url": "https://myanimelist.net/anime/32376"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3906,
+  "slug": "meitantei-conan-shikkoku-no-chaser",
+  "kind": "anime",
+  "title": "Meitantei Conan: Shikkoku no Chaser",
+  "titles": {
+    "default": "Meitantei Conan: Shikkoku no Chaser",
+    "romaji": "Meitantei Conan: Shikkoku no Chaser",
+    "english": "Detective Conan: The Raven Chaser",
+    "native": "名探偵コナン漆黒の追跡者(チェイサー)"
+  },
+  "synonyms": [
+    "Meitantei Conan: Shikkoku no Chaser",
+    "Detective Conan: The Raven Chaser",
+    "名探偵コナン漆黒の追跡者(チェイサー)",
+    "Meitantei Conan Movie 13: Shikkoku no Chaser",
+    "Detective Conan Movie 13",
+    "Detektiv Conan: Der nachtschwarze Jäger",
+    "Detective Conan Movie 13: ...E le stelle stanno a guardare",
+    "Détective Conan : Le Chasseur noir de jais",
+    "Case Closed: The Jet Black Chaser",
+    "Detective Conan Movie 13: The Raven Chaser",
+    "Detective Conan: The Jet Black Chaser"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5460-z2qeEVBe01dW.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5460",
+      "url": "https://anilist.co/anime/5460"
+    },
+    "k": {
+      "id": "4107",
+      "url": "https://kitsu.io/anime/4107"
+    },
+    "mal": {
+      "id": "5460",
+      "url": "https://myanimelist.net/anime/5460"
+    },
+    "t": {
+      "id": "30849",
+      "url": "https://trakt.tv/shows/30849"
+    }
+  }
+}

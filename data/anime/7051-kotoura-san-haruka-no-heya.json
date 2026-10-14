@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7051,
+  "slug": "kotoura-san-haruka-no-heya",
+  "kind": "anime",
+  "title": "Kotoura-san: Haruka no Heya",
+  "titles": {
+    "default": "Kotoura-san: Haruka no Heya",
+    "romaji": "Kotoura-san: Haruka no Heya",
+    "english": "The Troubled Life of Miss Kotoura: Haruka no Heya",
+    "native": "琴浦さん 春香の部屋"
+  },
+  "synonyms": [
+    "Kotoura-san: Haruka no Heya",
+    "The Troubled Life of Miss Kotoura: Haruka no Heya",
+    "琴浦さん 春香の部屋"
+  ],
+  "type": "ona",
+  "episodes": 6,
+  "status": "finished",
+  "season": "fall",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16636.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "16636",
+      "url": "https://anilist.co/anime/16636"
+    },
+    "k": {
+      "id": "7477",
+      "url": "https://kitsu.io/anime/7477"
+    },
+    "mal": {
+      "id": "16636",
+      "url": "https://myanimelist.net/anime/16636"
+    }
+  }
+}

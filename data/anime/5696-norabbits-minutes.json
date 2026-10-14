@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5696,
+  "slug": "norabbits-minutes",
+  "kind": "anime",
+  "title": "Norabbits' Minutes",
+  "titles": {
+    "default": "Norabbits' Minutes",
+    "romaji": "Norabbits' Minutes",
+    "native": "ノラビッツミニッツ"
+  },
+  "synonyms": [
+    "Norabbits' Minutes",
+    "ノラビッツミニッツ",
+    "Norabittsuminittsu"
+  ],
+  "type": "movie",
+  "episodes": 5,
+  "status": "finished",
+  "season": "winter",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8205.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8205",
+      "url": "https://anilist.co/anime/8205"
+    },
+    "k": {
+      "id": "5242",
+      "url": "https://kitsu.io/anime/5242"
+    },
+    "mal": {
+      "id": "8205",
+      "url": "https://myanimelist.net/anime/8205"
+    }
+  }
+}

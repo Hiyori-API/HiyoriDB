@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1794,
+  "slug": "wellber-no-monogatari-sisters-of-wellber",
+  "kind": "anime",
+  "title": "Wellber no Monogatari: Sisters of Wellber",
+  "titles": {
+    "default": "Wellber no Monogatari: Sisters of Wellber",
+    "romaji": "Wellber no Monogatari: Sisters of Wellber",
+    "native": "ウエルベールの物語 Sisters of Wellber"
+  },
+  "synonyms": [
+    "Wellber no Monogatari: Sisters of Wellber",
+    "ウエルベールの物語 Sisters of Wellber",
+    "Wellber Story: Sisters of Wellber"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2032.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2032",
+      "url": "https://anilist.co/anime/2032"
+    },
+    "k": {
+      "id": "1831",
+      "url": "https://kitsu.io/anime/1831"
+    },
+    "mal": {
+      "id": "2032",
+      "url": "https://myanimelist.net/anime/2032"
+    },
+    "t": {
+      "id": "37380",
+      "url": "https://trakt.tv/shows/37380"
+    }
+  }
+}

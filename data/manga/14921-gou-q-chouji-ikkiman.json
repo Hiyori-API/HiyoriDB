@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14921,
+  "slug": "gou-q-chouji-ikkiman",
+  "kind": "manga",
+  "title": "Gou-Q-Chouji Ikkiman",
+  "titles": {
+    "default": "Gou-Q-Chouji Ikkiman"
+  },
+  "synonyms": [
+    "Go-Q-Choji Ikkiman",
+    "剛Q超児イッキマン",
+    "Nemureru Mori no Binan",
+    "眠れる森美男",
+    "Sleeping Beauty Boy",
+    "The Handsome Man in the Sleeping Woods",
+    "The Sleeping Beauty Man",
+    "The Sleeping Male Beauty in the Woods"
+  ],
+  "type": "manga",
+  "chapters": 18,
+  "volumes": 2,
+  "status": "finished",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n105625-uUrnBNDbung5.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3433",
+      "url": "https://anilist.co/anime/3433"
+    },
+    "al_manga": {
+      "id": "3433",
+      "url": "https://anilist.co/manga/3433"
+    }
+  }
+}

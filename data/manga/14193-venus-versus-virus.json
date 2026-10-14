@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14193,
+  "slug": "venus-versus-virus",
+  "kind": "manga",
+  "title": "Venus Versus Virus",
+  "titles": {
+    "default": "Venus Versus Virus"
+  },
+  "synonyms": [
+    "ヴィーナス ヴァーサス ヴァイアラス",
+    "Venus Versus Virus",
+    "Renai Soukanzu",
+    "恋愛相姦図",
+    "Renai Sokanzu",
+    "Pink Sweets"
+  ],
+  "type": "manga",
+  "chapters": 37,
+  "volumes": 8,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1465.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1607",
+      "url": "https://anilist.co/anime/1607"
+    },
+    "al_manga": {
+      "id": "1607",
+      "url": "https://anilist.co/manga/1607"
+    }
+  }
+}

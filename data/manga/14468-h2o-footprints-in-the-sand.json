@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14468,
+  "slug": "h2o-footprints-in-the-sand",
+  "kind": "manga",
+  "title": "H2O: Footprints in the Sand",
+  "titles": {
+    "default": "H2O: Footprints in the Sand"
+  },
+  "synonyms": [
+    "H2O -Footsteps in the Sand-",
+    "H₂O -FOOTPRINTS IN THE SAND-",
+    "Gekiryuuchi",
+    "激流血～OVER BLEED～",
+    "Over Bleed"
+  ],
+  "type": "manga",
+  "chapters": 13,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3971.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3299",
+      "url": "https://anilist.co/anime/3299"
+    },
+    "al_manga": {
+      "id": "3299",
+      "url": "https://anilist.co/manga/3299"
+    }
+  }
+}

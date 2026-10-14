@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2436,
+  "slug": "monkey-turn-v",
+  "kind": "anime",
+  "title": "Monkey Turn V",
+  "titles": {
+    "default": "Monkey Turn V",
+    "romaji": "Monkey Turn V",
+    "native": "モンキー ターン V"
+  },
+  "synonyms": [
+    "Monkey Turn V",
+    "モンキー ターン V",
+    "Fafner of the Blue Sky",
+    "Soukyuu no Fafner: Dead Aggressor",
+    "蒼穹のファフナーDead Aggressor",
+    "Fafner in the Azure: Dead Aggressor"
+  ],
+  "type": "tv",
+  "episodes": 25,
+  "status": "finished",
+  "season": "summer",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2741-Nq6jbDICjdut.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2741",
+      "url": "https://anilist.co/anime/2741"
+    },
+    "cr": {
+      "id": "series/GW4HM757E/fafner",
+      "url": "https://www.crunchyroll.com/series/series/GW4HM757E/fafner"
+    },
+    "k": {
+      "id": "55",
+      "url": "https://kitsu.io/anime/55"
+    },
+    "mal": {
+      "id": "2741",
+      "url": "https://myanimelist.net/anime/2741"
+    },
+    "t": {
+      "id": "42610",
+      "url": "https://trakt.tv/shows/42610"
+    }
+  }
+}

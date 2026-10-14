@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15151,
+  "slug": "d4-princess",
+  "kind": "manga",
+  "title": "D4 Princess",
+  "titles": {
+    "default": "D4 Princess"
+  },
+  "synonyms": [
+    "螺旋公主朵莉絲",
+    "D4プリンセス",
+    "The Life and Times of an Idiot Section Chief",
+    "Kachou Baka Ichidachi",
+    "課長バカ一代",
+    "Kachou Baka Ichidai"
+  ],
+  "type": "manga",
+  "chapters": 33,
+  "volumes": 4,
+  "status": "finished",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b159139-l9lOnp46jSeJ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2723",
+      "url": "https://anilist.co/anime/2723"
+    },
+    "al_manga": {
+      "id": "2723",
+      "url": "https://anilist.co/manga/2723"
+    }
+  }
+}

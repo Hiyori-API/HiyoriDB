@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2672,
+  "slug": "senya-ichiya-monogatari",
+  "kind": "anime",
+  "title": "Senya Ichiya Monogatari",
+  "titles": {
+    "default": "Senya Ichiya Monogatari",
+    "romaji": "Senya Ichiya Monogatari",
+    "english": "A Thousand & One Nights",
+    "native": "千夜一夜物語"
+  },
+  "synonyms": [
+    "Senya Ichiya Monogatari",
+    "A Thousand & One Nights",
+    "千夜一夜物語",
+    "One Thousand and One Arabian Nights",
+    "1001 Nights",
+    "Soratobu Yuureisen",
+    "空飛ぶゆうれい船",
+    "Sora Tobu Yuurei Sen",
+    "Flying Ghost Ship",
+    "Flying Phantom Ship",
+    "The Flying Ghost Ship",
+    "Sora Tobu Yureisen"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1969,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3038-Wv5W3dVBMCXh.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3038",
+      "url": "https://anilist.co/anime/3038"
+    },
+    "k": {
+      "id": "2566",
+      "url": "https://kitsu.io/anime/2566"
+    },
+    "mal": {
+      "id": "3038",
+      "url": "https://myanimelist.net/anime/3038"
+    }
+  }
+}

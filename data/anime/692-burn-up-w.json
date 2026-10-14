@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 692,
+  "slug": "burn-up-w",
+  "kind": "anime",
+  "title": "BURN-UP W",
+  "titles": {
+    "default": "BURN-UP W",
+    "romaji": "BURN-UP W",
+    "english": "Burn Up W",
+    "native": "バーンナップW"
+  },
+  "synonyms": [
+    "BURN-UP W",
+    "Burn Up W",
+    "バーンナップW",
+    "Burn Up! Warrior",
+    "Equipe Warrior",
+    "Burn Up! W"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "spring",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx769-A22rjx6suLHG.png"
+  ],
+  "references": {
+    "al": {
+      "id": "769",
+      "url": "https://anilist.co/anime/769"
+    },
+    "k": {
+      "id": "690",
+      "url": "https://kitsu.io/anime/690"
+    },
+    "mal": {
+      "id": "769",
+      "url": "https://myanimelist.net/anime/769"
+    }
+  }
+}

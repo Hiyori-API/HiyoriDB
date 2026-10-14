@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1992,
+  "slug": "baccano",
+  "kind": "anime",
+  "title": "Baccano!",
+  "titles": {
+    "default": "Baccano!",
+    "romaji": "Baccano!",
+    "native": "バッカーノ！"
+  },
+  "synonyms": [
+    "Baccano!",
+    "バッカーノ！"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2251-tTQoWxVy4472.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2251",
+      "url": "https://anilist.co/anime/2251"
+    },
+    "k": {
+      "id": "2039",
+      "url": "https://kitsu.io/anime/2039"
+    },
+    "mal": {
+      "id": "2251",
+      "url": "https://myanimelist.net/anime/2251"
+    },
+    "t": {
+      "id": "33974",
+      "url": "https://trakt.tv/shows/33974"
+    }
+  }
+}

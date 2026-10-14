@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10853,
+  "slug": "komatsu-sakyo-anime-gekijou",
+  "kind": "anime",
+  "title": "Komatsu Sakyo Anime Gekijou",
+  "titles": {
+    "default": "Komatsu Sakyo Anime Gekijou",
+    "romaji": "Komatsu Sakyo Anime Gekijou",
+    "english": "Sakyo Komatsu's Animation Theater",
+    "native": "小松左京アニメ劇場"
+  },
+  "synonyms": [
+    "Komatsu Sakyo Anime Gekijou",
+    "Sakyo Komatsu's Animation Theater",
+    "小松左京アニメ劇場"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "fall",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98450-aKQ9XM6zj1wi.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98450",
+      "url": "https://anilist.co/anime/98450"
+    },
+    "k": {
+      "id": "9133",
+      "url": "https://kitsu.io/anime/9133"
+    },
+    "mal": {
+      "id": "23829",
+      "url": "https://myanimelist.net/anime/23829"
+    }
+  }
+}

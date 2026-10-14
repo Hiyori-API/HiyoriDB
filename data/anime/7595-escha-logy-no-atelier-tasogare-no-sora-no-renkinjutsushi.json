@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7595,
+  "slug": "escha-logy-no-atelier-tasogare-no-sora-no-renkinjutsushi",
+  "kind": "anime",
+  "title": "Escha & Logy no Atelier: Tasogare no Sora no Renkinjutsushi",
+  "titles": {
+    "default": "Escha & Logy no Atelier: Tasogare no Sora no Renkinjutsushi",
+    "romaji": "Escha & Logy no Atelier: Tasogare no Sora no Renkinjutsushi",
+    "english": "Atelier Escha & Logy ~Alchemists of the Dusk Sky~",
+    "native": "エスカ＆ロジーのアトリエ ～黄昏の空の錬金術士～"
+  },
+  "synonyms": [
+    "Escha & Logy no Atelier: Tasogare no Sora no Renkinjutsushi",
+    "Atelier Escha & Logy ~Alchemists of the Dusk Sky~",
+    "エスカ＆ロジーのアトリエ ～黄昏の空の錬金術士～",
+    "エスカ&ロジーのアトリエ ~黄昏の空の錬金術士~",
+    "Atelier Escha & Logy: Alchemists of the Dusk Sky"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20506-mnrQHxuYhame.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "20506",
+      "url": "https://anilist.co/anime/20506"
+    },
+    "k": {
+      "id": "8091",
+      "url": "https://kitsu.io/anime/8091"
+    },
+    "mal": {
+      "id": "21167",
+      "url": "https://myanimelist.net/anime/21167"
+    },
+    "t": {
+      "id": "60376",
+      "url": "https://trakt.tv/shows/60376"
+    },
+    "tx": {
+      "id": "eschalogy_anime",
+      "url": "https://twitter.com/eschalogy_anime"
+    }
+  }
+}

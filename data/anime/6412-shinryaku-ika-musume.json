@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6412,
+  "slug": "shinryaku-ika-musume",
+  "kind": "anime",
+  "title": "Shinryaku!? Ika Musume",
+  "titles": {
+    "default": "Shinryaku!? Ika Musume",
+    "romaji": "Shinryaku!? Ika Musume",
+    "english": "Squid Girl 2",
+    "native": "侵略!?イカ娘"
+  },
+  "synonyms": [
+    "Shinryaku!? Ika Musume",
+    "Squid Girl 2",
+    "侵略!?イカ娘",
+    "The Invader Comes From the Bottom of the Sea!",
+    "Shinryaku! Ika Musume 2",
+    "Maken-Ki!",
+    "マケン姫っ！",
+    "Maken-Ki! Battling Venus"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10378-hBXI8fXMLBOg.png"
+  ],
+  "references": {
+    "al": {
+      "id": "10378",
+      "url": "https://anilist.co/anime/10378"
+    },
+    "cr": {
+      "id": "squid-girl",
+      "url": "https://www.crunchyroll.com/series/squid-girl"
+    },
+    "k": {
+      "id": "5949",
+      "url": "https://kitsu.io/anime/5949"
+    },
+    "mal": {
+      "id": "10378",
+      "url": "https://myanimelist.net/anime/10378"
+    },
+    "t": {
+      "id": "60297",
+      "url": "https://trakt.tv/shows/60297"
+    }
+  }
+}

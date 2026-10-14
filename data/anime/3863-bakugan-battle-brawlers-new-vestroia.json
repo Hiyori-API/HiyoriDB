@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3863,
+  "slug": "bakugan-battle-brawlers-new-vestroia",
+  "kind": "anime",
+  "title": "Bakugan Battle Brawlers: New Vestroia",
+  "titles": {
+    "default": "Bakugan Battle Brawlers: New Vestroia",
+    "romaji": "Bakugan Battle Brawlers: New Vestroia",
+    "english": "Bakugan: New Vestroia",
+    "native": "爆丸バトルブローラーズ  New Vestroia"
+  },
+  "synonyms": [
+    "Bakugan Battle Brawlers: New Vestroia",
+    "Bakugan: New Vestroia",
+    "爆丸バトルブローラーズ  New Vestroia",
+    "Bakugan: Kampkjemperne - Nye Vestroia",
+    "Bakugan: Nowa Vestroia"
+  ],
+  "type": "tv",
+  "episodes": 52,
+  "status": "finished",
+  "season": "spring",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5337-wg88zuz885Vb.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5337",
+      "url": "https://anilist.co/anime/5337"
+    },
+    "k": {
+      "id": "4062",
+      "url": "https://kitsu.io/anime/4062"
+    },
+    "mal": {
+      "id": "5337",
+      "url": "https://myanimelist.net/anime/5337"
+    },
+    "t": {
+      "id": "33962",
+      "url": "https://trakt.tv/shows/33962"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2840,
+  "slug": "septem-charm-magical-kanan",
+  "kind": "anime",
+  "title": "Septem Charm Magical Kanan",
+  "titles": {
+    "default": "Septem Charm Magical Kanan",
+    "romaji": "Septem Charm Magical Kanan",
+    "native": "Septem Charm まじかるカナン"
+  },
+  "synonyms": [
+    "Septem Charm Magical Kanan",
+    "Septem Charm まじかるカナン",
+    "Steel Angel Kurumi Encore",
+    "Koutetsu Tenshi Kurumi Encore",
+    "鋼鉄天使くるみ 25-28話"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "summer",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3301.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3301",
+      "url": "https://anilist.co/anime/3301"
+    },
+    "k": {
+      "id": "514",
+      "url": "https://kitsu.io/anime/514"
+    },
+    "mal": {
+      "id": "3301",
+      "url": "https://myanimelist.net/anime/3301"
+    }
+  }
+}

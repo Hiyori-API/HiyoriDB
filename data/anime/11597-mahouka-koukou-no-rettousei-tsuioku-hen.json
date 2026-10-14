@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11597,
+  "slug": "mahouka-koukou-no-rettousei-tsuioku-hen",
+  "kind": "anime",
+  "title": "Mahouka Koukou no Rettousei: Tsuioku-hen",
+  "titles": {
+    "default": "Mahouka Koukou no Rettousei: Tsuioku-hen",
+    "romaji": "Mahouka Koukou no Rettousei: Tsuioku-hen",
+    "english": "The Irregular at Magic High School: Reminiscence Arc",
+    "native": "魔法科高校の劣等生 追憶編"
+  },
+  "synonyms": [
+    "Mahouka Koukou no Rettousei: Tsuioku-hen",
+    "The Irregular at Magic High School: Reminiscence Arc",
+    "魔法科高校の劣等生 追憶編",
+    "พี่น้องปริศนาโรงเรียนมหาเวท ภาคย้อนความหลัง",
+    "Непутёвый ученик в школе магии: Воспоминания",
+    "Fullmetal Alchemist: Reflections",
+    "Hagane no Renkinjutsushi: Reflections",
+    "鋼の錬金術師",
+    "FMA: Reflections"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130389-FVlthC6vlJOV.png"
+  ],
+  "references": {
+    "al": {
+      "id": "130389",
+      "url": "https://anilist.co/anime/130389"
+    },
+    "cr": {
+      "id": "series/GRMGDGZVR",
+      "url": "https://www.crunchyroll.com/series/series/GRMGDGZVR"
+    },
+    "k": {
+      "id": "609",
+      "url": "https://kitsu.io/anime/609"
+    },
+    "mal": {
+      "id": "48375",
+      "url": "https://myanimelist.net/anime/48375"
+    },
+    "tx": {
+      "id": "mahouka_anime",
+      "url": "https://twitter.com/mahouka_anime"
+    }
+  }
+}

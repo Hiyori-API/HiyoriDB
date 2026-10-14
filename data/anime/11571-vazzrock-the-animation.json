@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11571,
+  "slug": "vazzrock-the-animation",
+  "kind": "anime",
+  "title": "VAZZROCK THE ANIMATION",
+  "titles": {
+    "default": "VAZZROCK THE ANIMATION",
+    "romaji": "VAZZROCK THE ANIMATION"
+  },
+  "synonyms": [
+    "VAZZROCK THE ANIMATION",
+    "Bleach: Thousand-Year Blood War Arc",
+    "Bleach: Thousand-Year Blood War",
+    "BLEACH 千年血戦篇",
+    "Bleach: Sennen Kessen-hen"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx125910-ygY0iHvnPX0b.png"
+  ],
+  "references": {
+    "al": {
+      "id": "125910",
+      "url": "https://anilist.co/anime/125910"
+    },
+    "cr": {
+      "id": "series/GW4HM75VZ",
+      "url": "https://www.crunchyroll.com/series/series/GW4HM75VZ"
+    },
+    "mal": {
+      "id": "43771",
+      "url": "https://myanimelist.net/anime/43771"
+    },
+    "tx": {
+      "id": "vazzani_info",
+      "url": "https://twitter.com/vazzani_info"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8507,
+  "slug": "flying-witch",
+  "kind": "anime",
+  "title": "Flying Witch",
+  "titles": {
+    "default": "Flying Witch",
+    "romaji": "Flying Witch",
+    "native": "ふらいんぐうぃっち"
+  },
+  "synonyms": [
+    "Flying Witch",
+    "ふらいんぐうぃっち"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21284-vQcCLIWt1o5O.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21284",
+      "url": "https://anilist.co/anime/21284"
+    },
+    "cr": {
+      "id": "flying-witch",
+      "url": "https://www.crunchyroll.com/series/flying-witch"
+    },
+    "mal": {
+      "id": "31376",
+      "url": "https://myanimelist.net/anime/31376"
+    },
+    "tx": {
+      "id": "flying_tv",
+      "url": "https://twitter.com/flying_tv"
+    }
+  }
+}

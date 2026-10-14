@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7864,
+  "slug": "love-es-m-the-animation",
+  "kind": "anime",
+  "title": "Love es M THE ANIMATION",
+  "titles": {
+    "default": "Love es M THE ANIMATION",
+    "romaji": "Love es M THE ANIMATION",
+    "native": "ラブesエム THE ANIMATION"
+  },
+  "synonyms": [
+    "Love es M THE ANIMATION",
+    "ラブesエム THE ANIMATION",
+    "Love SM",
+    "My Mental Choices Are Completely Interfering With My School Romantic Comedy OVA",
+    "Ore no Nounai Sentakushi ga, Gakuen Love Comedy wo Zenryoku de Jama Shiteiru OVA",
+    "俺の脳内選択肢が、学園ラブコメを全力で邪魔している OAD",
+    "NouCome OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21101-swNhwN2VGANa.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21101",
+      "url": "https://anilist.co/anime/21101"
+    },
+    "k": {
+      "id": "8188",
+      "url": "https://kitsu.io/anime/8188"
+    },
+    "mal": {
+      "id": "22901",
+      "url": "https://myanimelist.net/anime/22901"
+    }
+  }
+}

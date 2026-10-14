@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1770,
+  "slug": "yawara-sore-yuke-koshinuke-kids",
+  "kind": "anime",
+  "title": "YAWARA! Sore Yuke Koshinuke Kids!!",
+  "titles": {
+    "default": "YAWARA! Sore Yuke Koshinuke Kids!!",
+    "romaji": "YAWARA! Sore Yuke Koshinuke Kids!!",
+    "native": "YAWARA！ それゆけ腰ぬけキッズ！！"
+  },
+  "synonyms": [
+    "YAWARA! Sore Yuke Koshinuke Kids!!",
+    "YAWARA！ それゆけ腰ぬけキッズ！！",
+    "Yawara! Sore Yuke Koshinuke Kids!!",
+    "Yawara!: Go Get 'Em",
+    "Wimpy Kids!!"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2008.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2008",
+      "url": "https://anilist.co/anime/2008"
+    },
+    "k": {
+      "id": "1807",
+      "url": "https://kitsu.io/anime/1807"
+    },
+    "mal": {
+      "id": "2008",
+      "url": "https://myanimelist.net/anime/2008"
+    }
+  }
+}

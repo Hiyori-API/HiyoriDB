@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4084,
+  "slug": "love-position-halley-densetsu",
+  "kind": "anime",
+  "title": "Love Position Halley Densetsu",
+  "titles": {
+    "default": "Love Position Halley Densetsu",
+    "romaji": "Love Position Halley Densetsu",
+    "native": "ラブ・ポジション　ハレー伝説"
+  },
+  "synonyms": [
+    "Love Position Halley Densetsu",
+    "ラブ・ポジション　ハレー伝説",
+    "Love Position, Legend of the Halley",
+    "Prefectural Earth Defense Force",
+    "Kenritsu Chikyuu Boueigun",
+    "県立地球防衛軍"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5878.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5878",
+      "url": "https://anilist.co/anime/5878"
+    },
+    "k": {
+      "id": "2198",
+      "url": "https://kitsu.io/anime/2198"
+    },
+    "mal": {
+      "id": "5878",
+      "url": "https://myanimelist.net/anime/5878"
+    }
+  }
+}

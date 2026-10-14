@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13649,
+  "slug": "keroro-gunsou",
+  "kind": "anime",
+  "title": "Keroro Gunsou☆",
+  "titles": {
+    "default": "Keroro Gunsou☆",
+    "romaji": "Keroro Gunsou☆",
+    "english": "KERORO☆",
+    "native": "ケロロ軍曹☆"
+  },
+  "synonyms": [
+    "Keroro Gunsou☆",
+    "KERORO☆",
+    "ケロロ軍曹☆",
+    "Sgt. Frog☆",
+    "One Piece",
+    "ONE PIECE",
+    "ワンピース"
+  ],
+  "type": "tv",
+  "status": "airing",
+  "season": "fall",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216557-b72dAqbVEDO7.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "216557",
+      "url": "https://anilist.co/anime/216557"
+    },
+    "cr": {
+      "id": "series/GT00383995/",
+      "url": "https://www.crunchyroll.com/series/series/GT00383995/"
+    },
+    "k": {
+      "id": "12",
+      "url": "https://kitsu.io/anime/12"
+    },
+    "mal": {
+      "id": "63157",
+      "url": "https://myanimelist.net/anime/63157"
+    },
+    "t": {
+      "id": "37696",
+      "url": "https://trakt.tv/shows/37696"
+    }
+  }
+}

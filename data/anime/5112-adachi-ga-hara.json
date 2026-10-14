@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5112,
+  "slug": "adachi-ga-hara",
+  "kind": "anime",
+  "title": "Adachi-ga Hara",
+  "titles": {
+    "default": "Adachi-ga Hara",
+    "romaji": "Adachi-ga Hara",
+    "native": "安達が原"
+  },
+  "synonyms": [
+    "Adachi-ga Hara",
+    "安達が原",
+    "Adachigahara"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8181-ouBIllyhdS2U.png"
+  ],
+  "references": {
+    "al": {
+      "id": "8181",
+      "url": "https://anilist.co/anime/8181"
+    },
+    "k": {
+      "id": "5230",
+      "url": "https://kitsu.io/anime/5230"
+    },
+    "mal": {
+      "id": "8181",
+      "url": "https://myanimelist.net/anime/8181"
+    }
+  }
+}

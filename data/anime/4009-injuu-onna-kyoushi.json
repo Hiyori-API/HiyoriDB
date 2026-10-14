@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4009,
+  "slug": "injuu-onna-kyoushi",
+  "kind": "anime",
+  "title": "Injuu Onna Kyoushi",
+  "titles": {
+    "default": "Injuu Onna Kyoushi",
+    "romaji": "Injuu Onna Kyoushi",
+    "native": "淫獣女教師"
+  },
+  "synonyms": [
+    "Injuu Onna Kyoushi",
+    "淫獣女教師",
+    "School of Darkness",
+    "Ranma ½ Super",
+    "らんま１／２　ＳＵＰＥＲ",
+    "Ranma ½ Super OVA",
+    "Ranma 1/2 Super"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "summer",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5649.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5649",
+      "url": "https://anilist.co/anime/5649"
+    },
+    "k": {
+      "id": "901",
+      "url": "https://kitsu.io/anime/901"
+    },
+    "mal": {
+      "id": "5649",
+      "url": "https://myanimelist.net/anime/5649"
+    }
+  }
+}

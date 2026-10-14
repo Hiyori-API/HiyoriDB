@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5939,
+  "slug": "ookiku-furikabutte-natsu-no-taikai-hen",
+  "kind": "anime",
+  "title": "Ookiku Furikabutte: Natsu no Taikai-hen",
+  "titles": {
+    "default": "Ookiku Furikabutte: Natsu no Taikai-hen",
+    "romaji": "Ookiku Furikabutte: Natsu no Taikai-hen",
+    "english": "Big Windup! 2",
+    "native": "おおきく振りかぶって　〜夏の大会編〜"
+  },
+  "synonyms": [
+    "Ookiku Furikabutte: Natsu no Taikai-hen",
+    "Big Windup! 2",
+    "おおきく振りかぶって　〜夏の大会編〜",
+    "Oofuri",
+    "Swing Big! 2",
+    "Ookiku Furikabutte 2",
+    "Ookiku Furikabutte The Summer Tournament Chapter"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx7720-C0Y3tuXIbCAL.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7720",
+      "url": "https://anilist.co/anime/7720"
+    },
+    "k": {
+      "id": "5095",
+      "url": "https://kitsu.io/anime/5095"
+    },
+    "mal": {
+      "id": "7720",
+      "url": "https://myanimelist.net/anime/7720"
+    },
+    "t": {
+      "id": "45280",
+      "url": "https://trakt.tv/shows/45280"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8432,
+  "slug": "hoopa-no-odemashi-daisakusen",
+  "kind": "anime",
+  "title": "Hoopa no Odemashi Daisakusen!!",
+  "titles": {
+    "default": "Hoopa no Odemashi Daisakusen!!",
+    "romaji": "Hoopa no Odemashi Daisakusen!!",
+    "english": "Pokémon: Hoopa's Surprise Ring Adventures",
+    "native": "フーパのおでまし大作戦!!"
+  },
+  "synonyms": [
+    "Hoopa no Odemashi Daisakusen!!",
+    "Pokémon: Hoopa's Surprise Ring Adventures",
+    "フーパのおでまし大作戦!!",
+    "The Testament of Sister New Devil Specials",
+    "新妹魔王の契約者〈テスタメント〉",
+    "Shinmai Maou no Testament Specials"
+  ],
+  "type": "special",
+  "episodes": 6,
+  "status": "finished",
+  "season": "spring",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n105616-qIBaD1TeVKRo.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "105616",
+      "url": "https://anilist.co/anime/105616"
+    },
+    "mal": {
+      "id": "30686",
+      "url": "https://myanimelist.net/anime/30686"
+    }
+  }
+}

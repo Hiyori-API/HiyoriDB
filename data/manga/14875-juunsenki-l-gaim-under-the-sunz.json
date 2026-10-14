@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14875,
+  "slug": "juunsenki-l-gaim-under-the-sunz",
+  "kind": "manga",
+  "title": "Juunsenki L-Gaim: Under the Sunz",
+  "titles": {
+    "default": "Juunsenki L-Gaim: Under the Sunz"
+  },
+  "synonyms": [
+    "Juunsenki L-Gaim: Under the Sands",
+    "重戦機エルガイム　アンダー・ザ・サンズ",
+    "Fujisan",
+    "富士山",
+    "Fuji-san"
+  ],
+  "type": "manga",
+  "chapters": 7,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b150092-aXnGVlKQL2ve.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2598",
+      "url": "https://anilist.co/anime/2598"
+    },
+    "al_manga": {
+      "id": "2598",
+      "url": "https://anilist.co/manga/2598"
+    }
+  }
+}

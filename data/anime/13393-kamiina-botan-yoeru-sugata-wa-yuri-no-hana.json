@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13393,
+  "slug": "kamiina-botan-yoeru-sugata-wa-yuri-no-hana",
+  "kind": "anime",
+  "title": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana",
+  "titles": {
+    "default": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana",
+    "romaji": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana",
+    "english": "Botan Kamiina Fully Blossoms When Drunk",
+    "native": "上伊那ぼたん、酔へる姿は百合の花"
+  },
+  "synonyms": [
+    "Kamiina Botan, Yoeru Sugata wa Yuri no Hana",
+    "Botan Kamiina Fully Blossoms When Drunk",
+    "上伊那ぼたん、酔へる姿は百合の花",
+    "โบตั๋น คามิอินะ งดงามดุจดอกลิลลี่ยามลอยละล่อง",
+    "Kamiina Botan - Dáng Say Tựa Đoá Bách Hợp",
+    "Ботан Камиина расцветает подшофе",
+    "上伊那牡丹，醉姿如百合",
+    "This Ugly Yet Beautiful World",
+    "Kono Minikuku mo Utsukushii Sekai",
+    "この醜くも美しい世界"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187869-LUn3dyTzuKUq.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "187869",
+      "url": "https://anilist.co/anime/187869"
+    },
+    "cr": {
+      "id": "series/GT00371890/botan-kamiina-fully-blossoms-when-drunk",
+      "url": "https://www.crunchyroll.com/series/series/GT00371890/botan-kamiina-fully-blossoms-when-drunk"
+    },
+    "k": {
+      "id": "124",
+      "url": "https://kitsu.io/anime/124"
+    },
+    "mal": {
+      "id": "61186",
+      "url": "https://myanimelist.net/anime/61186"
+    },
+    "t": {
+      "id": "34001",
+      "url": "https://trakt.tv/shows/34001"
+    }
+  }
+}

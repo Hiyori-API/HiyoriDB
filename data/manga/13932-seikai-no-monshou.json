@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13932,
+  "slug": "seikai-no-monshou",
+  "kind": "manga",
+  "title": "Seikai no Monshou",
+  "titles": {
+    "default": "Seikai no Monshou"
+  },
+  "synonyms": [
+    "The Seikai Trilogy: Crest Of The Stars",
+    "Seikai Trilogy",
+    "星界の紋章",
+    "Seikai no Monshou"
+  ],
+  "type": "manga",
+  "chapters": 25,
+  "volumes": 3,
+  "status": "finished",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30519-QzgfdFWySvCi.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "396",
+      "url": "https://anilist.co/anime/290"
+    },
+    "al_manga": {
+      "id": "396",
+      "url": "https://anilist.co/manga/396"
+    }
+  }
+}

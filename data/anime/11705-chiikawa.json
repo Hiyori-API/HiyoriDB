@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11705,
+  "slug": "chiikawa",
+  "kind": "anime",
+  "title": "Chiikawa",
+  "titles": {
+    "default": "Chiikawa",
+    "romaji": "Chiikawa",
+    "native": "ちいかわ"
+  },
+  "synonyms": [
+    "Chiikawa",
+    "ちいかわ",
+    "Nanka Chiisakute Kawaii Yatsu",
+    "なんか小さくてかわいいやつ",
+    "吉伊卡哇",
+    "Jeonjijeok Dokja Sijeom",
+    "Omniscient Reader's Viewpoint",
+    "전지적 독자 시점"
+  ],
+  "type": "tv",
+  "status": "airing",
+  "season": "spring",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "140842",
+      "url": "https://anilist.co/anime/140842"
+    },
+    "mal": {
+      "id": "50250",
+      "url": "https://myanimelist.net/anime/50250"
+    },
+    "tx": {
+      "id": "anime_chiikawa",
+      "url": "https://twitter.com/anime_chiikawa"
+    }
+  }
+}

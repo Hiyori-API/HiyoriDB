@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15790,
+  "slug": "gakuen-shimai",
+  "kind": "manga",
+  "title": "Gakuen Shimai",
+  "titles": {
+    "default": "Gakuen Shimai"
+  },
+  "synonyms": [
+    "学園姉妹",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "chapters": 1,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/50103.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5214",
+      "url": "https://anilist.co/anime/5214"
+    },
+    "al_manga": {
+      "id": "5214",
+      "url": "https://anilist.co/manga/5214"
+    }
+  }
+}

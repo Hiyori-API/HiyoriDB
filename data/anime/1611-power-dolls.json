@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1611,
+  "slug": "power-dolls",
+  "kind": "anime",
+  "title": "Power Dolls",
+  "titles": {
+    "default": "Power Dolls",
+    "romaji": "Power Dolls",
+    "native": "パワードール"
+  },
+  "synonyms": [
+    "Power Dolls",
+    "パワードール",
+    "Powerdolls: Detachment of Limited Line Services",
+    "Women Of Mass Destruction",
+    "Mutant Turtles: Choujin Densetsu-hen",
+    "ミュータント タートルズ 超人伝説編",
+    "Mutant Turtles: Superman Legend",
+    "Teenage Mutant Ninja Turtles: Legend of the Supermutants",
+    "TMNT"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1820.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1820",
+      "url": "https://anilist.co/anime/1820"
+    },
+    "k": {
+      "id": "948",
+      "url": "https://kitsu.io/anime/948"
+    },
+    "mal": {
+      "id": "1820",
+      "url": "https://myanimelist.net/anime/1820"
+    }
+  }
+}

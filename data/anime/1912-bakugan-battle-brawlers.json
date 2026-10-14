@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1912,
+  "slug": "bakugan-battle-brawlers",
+  "kind": "anime",
+  "title": "Bakugan Battle Brawlers",
+  "titles": {
+    "default": "Bakugan Battle Brawlers",
+    "romaji": "Bakugan Battle Brawlers",
+    "native": "爆丸バトルブローラーズ"
+  },
+  "synonyms": [
+    "Bakugan Battle Brawlers",
+    "爆丸バトルブローラーズ",
+    "Bakugan: Młodzi wojownicy",
+    "Bakugan Gänget"
+  ],
+  "type": "tv",
+  "episodes": 52,
+  "status": "finished",
+  "season": "spring",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2156-z3AqxkRNfxov.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2156",
+      "url": "https://anilist.co/anime/2156"
+    },
+    "k": {
+      "id": "1952",
+      "url": "https://kitsu.io/anime/1952"
+    },
+    "mal": {
+      "id": "2156",
+      "url": "https://myanimelist.net/anime/2156"
+    },
+    "t": {
+      "id": "33962",
+      "url": "https://trakt.tv/shows/33962"
+    },
+    "ttv": {
+      "id": "300007092",
+      "url": "https://tubitv.com/series/300007092"
+    }
+  }
+}

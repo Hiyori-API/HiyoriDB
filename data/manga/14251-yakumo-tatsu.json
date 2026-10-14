@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14251,
+  "slug": "yakumo-tatsu",
+  "kind": "manga",
+  "title": "Yakumo Tatsu",
+  "titles": {
+    "default": "Yakumo Tatsu"
+  },
+  "synonyms": [
+    "Eight Clouds Rising",
+    "팔운성",
+    "八雲立つ",
+    "Yakumo Tatsu",
+    "Hidari no Kei"
+  ],
+  "type": "manga",
+  "chapters": 85,
+  "volumes": 19,
+  "status": "finished",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31707-uGrUIeS5SuHi.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1026",
+      "url": "https://anilist.co/anime/1026"
+    },
+    "al_manga": {
+      "id": "1026",
+      "url": "https://anilist.co/manga/1026"
+    }
+  }
+}

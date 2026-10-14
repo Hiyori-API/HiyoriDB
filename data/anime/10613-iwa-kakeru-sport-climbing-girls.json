@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10613,
+  "slug": "iwa-kakeru-sport-climbing-girls",
+  "kind": "anime",
+  "title": "Iwa Kakeru!: Sport Climbing Girls",
+  "titles": {
+    "default": "Iwa Kakeru!: Sport Climbing Girls",
+    "romaji": "Iwa Kakeru!: Sport Climbing Girls",
+    "english": "Iwakakeru -Sport Climbing Girls-",
+    "native": "いわかける！ -Sport Climbing Girls-"
+  },
+  "synonyms": [
+    "Iwa Kakeru!: Sport Climbing Girls",
+    "Iwakakeru -Sport Climbing Girls-",
+    "いわかける！ -Sport Climbing Girls-",
+    "Please Take My Brother Away 4",
+    "Kuai Ba Wo Ge Daizou 4",
+    "快把我哥带走4",
+    "Take My Brother Away 4",
+    "兄に付ける薬はない！4",
+    "Ani ni Tsukeru Kusuri wa Nai! 4"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx117757-FZgl5V5Ae5Ar.png"
+  ],
+  "references": {
+    "al": {
+      "id": "117757",
+      "url": "https://anilist.co/anime/117757"
+    },
+    "cr": {
+      "id": "iwakakeru-sport-climbing-girls-",
+      "url": "https://www.crunchyroll.com/series/iwakakeru-sport-climbing-girls-"
+    },
+    "mal": {
+      "id": "41783",
+      "url": "https://myanimelist.net/anime/41783"
+    },
+    "nf": {
+      "id": "81403488",
+      "url": "https://www.netflix.com/title/81403488"
+    },
+    "tx": {
+      "id": "iwakakeru_anime",
+      "url": "https://twitter.com/iwakakeru_anime"
+    }
+  }
+}

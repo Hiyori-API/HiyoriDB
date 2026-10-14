@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8860,
+  "slug": "hataraku-otona-no-ren-ai-jijou-the-animation",
+  "kind": "anime",
+  "title": "Hataraku Otona no Ren'ai Jijou THE ANIMATION",
+  "titles": {
+    "default": "Hataraku Otona no Ren'ai Jijou THE ANIMATION",
+    "romaji": "Hataraku Otona no Ren'ai Jijou THE ANIMATION",
+    "native": "働くオトナの恋愛事情 THE ANIMATION"
+  },
+  "synonyms": [
+    "Hataraku Otona no Ren'ai Jijou THE ANIMATION",
+    "働くオトナの恋愛事情 THE ANIMATION",
+    "Circumstances of Love for Working Adults",
+    "Akagami no Shirayuki-hime OVA",
+    "Akagami no Shirayukihime OVA",
+    "Snow White with the Red Hair OVA",
+    "赤髪の白雪姫 ～なんでもない宝物、この頁～",
+    "Akagami no Shirayuki-hime: Nandemonai Takaramono, Kono Page"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97774-3O6d3qgUJmeY.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "97774",
+      "url": "https://anilist.co/anime/97774"
+    },
+    "mal": {
+      "id": "34168",
+      "url": "https://myanimelist.net/anime/34168"
+    }
+  }
+}

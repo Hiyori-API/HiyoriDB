@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2747,
+  "slug": "solty-rei-surechigau-kimochi-de-omoi-au-kokoro-de",
+  "kind": "anime",
+  "title": "Solty Rei: Surechigau Kimochi de, Omoi Au Kokoro de.",
+  "titles": {
+    "default": "Solty Rei: Surechigau Kimochi de, Omoi Au Kokoro de.",
+    "romaji": "Solty Rei: Surechigau Kimochi de, Omoi Au Kokoro de.",
+    "native": "ソルティレイ すれ違うキモチで、想い合うココロで。"
+  },
+  "synonyms": [
+    "Solty Rei: Surechigau Kimochi de, Omoi Au Kokoro de.",
+    "ソルティレイ すれ違うキモチで、想い合うココロで。",
+    "ソルティレイ 特典",
+    "Solty Rei Special",
+    "Solty Rei Extra Episode",
+    "Outlaw Star Pilot",
+    "Seihou Bukyou Outlaw Star Pilot",
+    "Outlaw Star",
+    "星方武侠アウトロースター パイロット版",
+    "Future Hero Next Generation Outlaw Star Pilot"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3138-9gNXOxthWjDR.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3138",
+      "url": "https://anilist.co/anime/3138"
+    },
+    "k": {
+      "id": "367",
+      "url": "https://kitsu.io/anime/367"
+    },
+    "mal": {
+      "id": "3138",
+      "url": "https://myanimelist.net/anime/3138"
+    }
+  }
+}

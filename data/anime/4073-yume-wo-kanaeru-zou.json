@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4073,
+  "slug": "yume-wo-kanaeru-zou",
+  "kind": "anime",
+  "title": "Yume wo Kanaeru Zou",
+  "titles": {
+    "default": "Yume wo Kanaeru Zou",
+    "romaji": "Yume wo Kanaeru Zou",
+    "native": "夢をかなえるゾウ"
+  },
+  "synonyms": [
+    "Yume wo Kanaeru Zou",
+    "夢をかなえるゾウ",
+    "An Elephant Which Grants A Dream"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5841.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5841",
+      "url": "https://anilist.co/anime/5841"
+    },
+    "k": {
+      "id": "4299",
+      "url": "https://kitsu.io/anime/4299"
+    },
+    "mal": {
+      "id": "5841",
+      "url": "https://myanimelist.net/anime/5841"
+    },
+    "t": {
+      "id": "68841",
+      "url": "https://trakt.tv/shows/68841"
+    }
+  }
+}

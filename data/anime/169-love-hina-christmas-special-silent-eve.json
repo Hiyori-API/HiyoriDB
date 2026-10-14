@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 169,
+  "slug": "love-hina-christmas-special-silent-eve",
+  "kind": "anime",
+  "title": "Love Hina Christmas Special: Silent Eve",
+  "titles": {
+    "default": "Love Hina Christmas Special: Silent Eve",
+    "romaji": "Love Hina Christmas Special: Silent Eve",
+    "english": "Love Hina Christmas Movie",
+    "native": "ラブひなクリスマススペシャル 〜サイレント・イヴ〜"
+  },
+  "synonyms": [
+    "Love Hina Christmas Special: Silent Eve",
+    "Love Hina Christmas Movie",
+    "ラブひなクリスマススペシャル 〜サイレント・イヴ〜",
+    "ラブひなクリスマススペシャル ～サイレント・イヴ～"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191-pKngFO6EOiqI.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "191",
+      "url": "https://anilist.co/anime/191"
+    },
+    "k": {
+      "id": "168",
+      "url": "https://kitsu.io/anime/168"
+    },
+    "mal": {
+      "id": "191",
+      "url": "https://myanimelist.net/anime/191"
+    }
+  }
+}

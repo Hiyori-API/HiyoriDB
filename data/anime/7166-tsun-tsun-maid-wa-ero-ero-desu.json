@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7166,
+  "slug": "tsun-tsun-maid-wa-ero-ero-desu",
+  "kind": "anime",
+  "title": "Tsun Tsun Maid wa Ero Ero desu",
+  "titles": {
+    "default": "Tsun Tsun Maid wa Ero Ero desu",
+    "romaji": "Tsun Tsun Maid wa Ero Ero desu",
+    "native": "ツンツンメイドはエロエロです"
+  },
+  "synonyms": [
+    "Tsun Tsun Maid wa Ero Ero desu",
+    "ツンツンメイドはエロエロです",
+    "Hakuouki Reimeiroku Tokuten Disc",
+    "薄桜鬼　黎明録　特典ディスク　"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15841-GxiTfgnQyRW0.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "15841",
+      "url": "https://anilist.co/anime/15841"
+    },
+    "k": {
+      "id": "8422",
+      "url": "https://kitsu.io/anime/8422"
+    },
+    "mal": {
+      "id": "15841",
+      "url": "https://myanimelist.net/anime/15841"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11143,
+  "slug": "cheat-kusushi-no-slow-life-isekai-ni-tsukurou-drugstore",
+  "kind": "anime",
+  "title": "Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore",
+  "titles": {
+    "default": "Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore",
+    "romaji": "Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore",
+    "english": "Drug Store in Another World - The Slow Life of a Cheat Pharmacist",
+    "native": "チート薬師のスローライフ～異世界に作ろうドラッグストア～"
+  },
+  "synonyms": [
+    "Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore",
+    "Drug Store in Another World - The Slow Life of a Cheat Pharmacist",
+    "チート薬師のスローライフ～異世界に作ろうドラッグストア～",
+    "Cheat Pharmicist's Slow Life: Making a Drug Store in Another World",
+    "ชีวิตสโลว์ไลฟ์ของหมอยาสุดโกงเปิดร้านขายยาที่ต่างโลก",
+    "DearS",
+    "ディアーズ"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114302-xfqGNUaK59lQ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "114302",
+      "url": "https://anilist.co/anime/114302"
+    },
+    "cr": {
+      "id": "series/GDKHZEN80",
+      "url": "https://www.crunchyroll.com/series/series/GDKHZEN80"
+    },
+    "k": {
+      "id": "44",
+      "url": "https://kitsu.io/anime/44"
+    },
+    "mal": {
+      "id": "40960",
+      "url": "https://myanimelist.net/anime/40960"
+    },
+    "t": {
+      "id": "61051",
+      "url": "https://trakt.tv/shows/61051"
+    },
+    "tx": {
+      "id": "cheat_kusushi",
+      "url": "https://twitter.com/cheat_kusushi"
+    }
+  }
+}

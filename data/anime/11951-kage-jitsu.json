@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11951,
+  "slug": "kage-jitsu",
+  "kind": "anime",
+  "title": "Kage-Jitsu!",
+  "titles": {
+    "default": "Kage-Jitsu!",
+    "romaji": "Kage-Jitsu!",
+    "english": "Em-Shade! Shorts",
+    "native": "かげじつ！"
+  },
+  "synonyms": [
+    "Kage-Jitsu!",
+    "Em-Shade! Shorts",
+    "かげじつ！",
+    "The Eminence in Shadow Mini Anime",
+    "Kage no Jitsuryokusha ni Naritakute! Mini Anime",
+    "Em-Shade!",
+    "かげじつ!",
+    "Kagejitsu!"
+  ],
+  "type": "ona",
+  "episodes": 17,
+  "status": "finished",
+  "season": "fall",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx156001-jyZ4wEXCaZgL.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "156001",
+      "url": "https://anilist.co/anime/156001"
+    },
+    "mal": {
+      "id": "53406",
+      "url": "https://myanimelist.net/anime/53406"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9493,
+  "slug": "fate-extra-last-encore",
+  "kind": "anime",
+  "title": "Fate/EXTRA Last Encore",
+  "titles": {
+    "default": "Fate/EXTRA Last Encore",
+    "romaji": "Fate/EXTRA Last Encore"
+  },
+  "synonyms": [
+    "Fate/EXTRA Last Encore",
+    "Oblitus Copernican Theory",
+    "Illustrias Geocentric Theory",
+    "פייט/אקסטרה ההדרן האחרון",
+    "Судьба/Дополнение: Последний вызов на бис",
+    "Violet Evergarden",
+    "ヴァイオレット・エヴァーガーデン"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx21717-2gU0L4IvrUVC.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21717",
+      "url": "https://anilist.co/anime/21717"
+    },
+    "mal": {
+      "id": "33047",
+      "url": "https://myanimelist.net/anime/33047"
+    },
+    "nf": {
+      "id": "80185145",
+      "url": "https://www.netflix.com/title/80185145"
+    },
+    "tx": {
+      "id": "FateEXTRA_LE",
+      "url": "https://twitter.com/FateEXTRA_LE"
+    }
+  }
+}

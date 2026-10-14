@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8639,
+  "slug": "a-sized-classmate",
+  "kind": "anime",
+  "title": "A-Sized Classmate",
+  "titles": {
+    "default": "A-Sized Classmate",
+    "romaji": "A-Sized Classmate",
+    "native": "Aサイズ クラスメイト"
+  },
+  "synonyms": [
+    "A-Sized Classmate",
+    "Aサイズ クラスメイト",
+    "A-Sized Classmate Anime Edition",
+    "ニセコイ: OAD",
+    "Nisekoi: OVA"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21576-cpEoDyPSWCJu.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21576",
+      "url": "https://anilist.co/anime/21576"
+    },
+    "mal": {
+      "id": "32484",
+      "url": "https://myanimelist.net/anime/32484"
+    }
+  }
+}

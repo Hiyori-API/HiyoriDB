@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11189,
+  "slug": "bungou-stray-dogs-wan",
+  "kind": "anime",
+  "title": "Bungou Stray Dogs Wan!",
+  "titles": {
+    "default": "Bungou Stray Dogs Wan!",
+    "romaji": "Bungou Stray Dogs Wan!",
+    "english": "Bungo Stray Dogs WAN!",
+    "native": "文豪ストレイドッグス わん！"
+  },
+  "synonyms": [
+    "Bungou Stray Dogs Wan!",
+    "Bungo Stray Dogs WAN!",
+    "文豪ストレイドッグス わん！",
+    "คณะประพันธกรจรจัด โฮ่ง!",
+    "Bunsuto Wan!",
+    "Bungo Stray Dogs Wan!"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120150-hxvcRrYzgP2F.png"
+  ],
+  "references": {
+    "al": {
+      "id": "120150",
+      "url": "https://anilist.co/anime/120150"
+    },
+    "cr": {
+      "id": "bungo-stray-dogs-wan",
+      "url": "https://www.crunchyroll.com/series/bungo-stray-dogs-wan"
+    },
+    "mal": {
+      "id": "42250",
+      "url": "https://myanimelist.net/anime/42250"
+    },
+    "tx": {
+      "id": "bungosd_anime",
+      "url": "https://twitter.com/bungosd_anime"
+    }
+  }
+}

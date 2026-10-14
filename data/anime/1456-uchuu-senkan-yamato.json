@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1456,
+  "slug": "uchuu-senkan-yamato",
+  "kind": "anime",
+  "title": "Uchuu Senkan Yamato",
+  "titles": {
+    "default": "Uchuu Senkan Yamato",
+    "romaji": "Uchuu Senkan Yamato",
+    "english": "Star Blazers: The Quest for Iscandar",
+    "native": "宇宙戦艦ヤマト"
+  },
+  "synonyms": [
+    "Uchuu Senkan Yamato",
+    "Star Blazers: The Quest for Iscandar",
+    "宇宙戦艦ヤマト",
+    "Space Battleship Yamato",
+    "Space Cruiser Yamato",
+    "Star Blazers - Stjernebrigaden",
+    "Stjärnbrigaden",
+    "Patrulha Estelar"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 1974,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx1650-v2eMjvOfnLCc.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1650",
+      "url": "https://anilist.co/anime/1650"
+    },
+    "k": {
+      "id": "1483",
+      "url": "https://kitsu.io/anime/1483"
+    },
+    "mal": {
+      "id": "1650",
+      "url": "https://myanimelist.net/anime/1650"
+    },
+    "t": {
+      "id": "13281",
+      "url": "https://trakt.tv/shows/13281"
+    }
+  }
+}

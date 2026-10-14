@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 612,
+  "slug": "kashimashi-girl-meets-girl",
+  "kind": "anime",
+  "title": "Kashimashi: Girl Meets Girl",
+  "titles": {
+    "default": "Kashimashi: Girl Meets Girl",
+    "romaji": "Kashimashi: Girl Meets Girl",
+    "english": "Girl Meets Girl",
+    "native": "かしまし〜ガール・ミーツ・ガール〜"
+  },
+  "synonyms": [
+    "Kashimashi: Girl Meets Girl",
+    "Girl Meets Girl",
+    "かしまし〜ガール・ミーツ・ガール〜",
+    "Kasimasi: Girl Meets Girl",
+    "Guardian Ninja Mamoru",
+    "Kage kara Mamoru!",
+    "陰からマモル！",
+    "Protect from the Shadows!"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/667.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "667",
+      "url": "https://anilist.co/anime/667"
+    },
+    "k": {
+      "id": "545",
+      "url": "https://kitsu.io/anime/545"
+    },
+    "mal": {
+      "id": "667",
+      "url": "https://myanimelist.net/anime/667"
+    },
+    "t": {
+      "id": "34059",
+      "url": "https://trakt.tv/shows/34059"
+    }
+  }
+}

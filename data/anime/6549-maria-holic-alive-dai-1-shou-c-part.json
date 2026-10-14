@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6549,
+  "slug": "maria-holic-alive-dai-1-shou-c-part",
+  "kind": "anime",
+  "title": "Maria†Holic Alive Dai 1-shou C part",
+  "titles": {
+    "default": "Maria†Holic Alive Dai 1-shou C part",
+    "romaji": "Maria†Holic Alive Dai 1-shou C part",
+    "native": "まりあ†ほりっく あらいぶ 第1章Cパート"
+  },
+  "synonyms": [
+    "Maria†Holic Alive Dai 1-shou C part",
+    "まりあ†ほりっく あらいぶ 第1章Cパート",
+    "Maria†Holic Alive Special",
+    "Maria+Holic 2 Special",
+    "Maria Holic 2 Special",
+    "MariaHolic 2 Special"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10945.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10945",
+      "url": "https://anilist.co/anime/10945"
+    },
+    "k": {
+      "id": "6419",
+      "url": "https://kitsu.io/anime/6419"
+    }
+  }
+}

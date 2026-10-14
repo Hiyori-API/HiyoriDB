@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2081,
+  "slug": "devilman-tanjou-hen",
+  "kind": "anime",
+  "title": "Devilman: Tanjou-hen",
+  "titles": {
+    "default": "Devilman: Tanjou-hen",
+    "romaji": "Devilman: Tanjou-hen",
+    "english": "Devilman: The Birth",
+    "native": "デビルマン 誕生編"
+  },
+  "synonyms": [
+    "Devilman: Tanjou-hen",
+    "Devilman: The Birth",
+    "デビルマン 誕生編",
+    "Devilman - O Nascimento"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2354-f19GQZMwf235.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2354",
+      "url": "https://anilist.co/anime/2354"
+    },
+    "k": {
+      "id": "2133",
+      "url": "https://kitsu.io/anime/2133"
+    },
+    "mal": {
+      "id": "2354",
+      "url": "https://myanimelist.net/anime/2354"
+    }
+  }
+}

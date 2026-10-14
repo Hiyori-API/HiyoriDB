@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11314,
+  "slug": "seven-knights-revolution-eiyuu-no-keishousha",
+  "kind": "anime",
+  "title": "Seven Knights Revolution: Eiyuu no Keishousha",
+  "titles": {
+    "default": "Seven Knights Revolution: Eiyuu no Keishousha",
+    "romaji": "Seven Knights Revolution: Eiyuu no Keishousha",
+    "english": "SEVEN KNIGHTS REVOLUTION: Hero Successor",
+    "native": "セブンナイツ レボリューション -英雄の継承者-"
+  },
+  "synonyms": [
+    "Seven Knights Revolution: Eiyuu no Keishousha",
+    "SEVEN KNIGHTS REVOLUTION: Hero Successor",
+    "セブンナイツ レボリューション -英雄の継承者-",
+    "七骑士：革命 -英雄的继承者-",
+    "เซเว่นไนท์เรโวลูชั่น ผู้สืบทอดแห่งวีรชน",
+    "This Ugly Yet Beautiful World",
+    "Kono Minikuku mo Utsukushii Sekai",
+    "この醜くも美しい世界"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129386-DlNotDtJoSTg.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "129386",
+      "url": "https://anilist.co/anime/129386"
+    },
+    "cr": {
+      "id": "seven-knights-revolution-hero-successor",
+      "url": "https://www.crunchyroll.com/series/seven-knights-revolution-hero-successor"
+    },
+    "k": {
+      "id": "124",
+      "url": "https://kitsu.io/anime/124"
+    },
+    "mal": {
+      "id": "47391",
+      "url": "https://myanimelist.net/anime/47391"
+    },
+    "t": {
+      "id": "34001",
+      "url": "https://trakt.tv/shows/34001"
+    },
+    "tx": {
+      "id": "SenaRevo_anime",
+      "url": "https://twitter.com/SenaRevo_anime"
+    }
+  }
+}

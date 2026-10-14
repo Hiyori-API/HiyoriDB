@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3332,
+  "slug": "kyou-kara-maou-3rd-series",
+  "kind": "anime",
+  "title": "Kyou kara Maou! 3rd Series",
+  "titles": {
+    "default": "Kyou kara Maou! 3rd Series",
+    "romaji": "Kyou kara Maou! 3rd Series",
+    "english": "Kyo Kara Maoh! Season 3",
+    "native": "今日からマ王！第3シリーズ"
+  },
+  "synonyms": [
+    "Kyou kara Maou! 3rd Series",
+    "Kyo Kara Maoh! Season 3",
+    "今日からマ王！第3シリーズ",
+    "Kyou Kara Maou! Dai San Series",
+    "Kyou Kara Maoh! Third Series",
+    "Maruma Third Series",
+    "Kyou Kara Maoh! Season 3"
+  ],
+  "type": "tv",
+  "episodes": 39,
+  "status": "finished",
+  "season": "spring",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4080-TcGSCwBQIN1q.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4080",
+      "url": "https://anilist.co/anime/4080"
+    },
+    "cr": {
+      "id": "kyo-kara-maoh",
+      "url": "https://www.crunchyroll.com/series/kyo-kara-maoh"
+    },
+    "k": {
+      "id": "3452",
+      "url": "https://kitsu.io/anime/3452"
+    },
+    "mal": {
+      "id": "4080",
+      "url": "https://myanimelist.net/anime/4080"
+    },
+    "t": {
+      "id": "62848",
+      "url": "https://trakt.tv/shows/62848"
+    }
+  }
+}

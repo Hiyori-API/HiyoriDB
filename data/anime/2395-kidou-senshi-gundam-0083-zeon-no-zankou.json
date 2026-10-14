@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2395,
+  "slug": "kidou-senshi-gundam-0083-zeon-no-zankou",
+  "kind": "anime",
+  "title": "Kidou Senshi Gundam 0083: Zeon no Zankou",
+  "titles": {
+    "default": "Kidou Senshi Gundam 0083: Zeon no Zankou",
+    "romaji": "Kidou Senshi Gundam 0083: Zeon no Zankou",
+    "english": "Mobile Suit Gundam 0083: The Afterglow Of Zeon",
+    "native": "機動戦士ガンダム0083 －ジオンの残光－"
+  },
+  "synonyms": [
+    "Kidou Senshi Gundam 0083: Zeon no Zankou",
+    "Mobile Suit Gundam 0083: The Afterglow Of Zeon",
+    "機動戦士ガンダム0083 －ジオンの残光－",
+    "Mobile Suit Gundam 0083: Zmierch Zeonu",
+    "Mobile Suit Gundam 0083: The Fading Light of Zeon",
+    "Mobile Suit Gundam 0083: The Last Blitz of Zeon"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2695-5Coii26kubJA.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2695",
+      "url": "https://anilist.co/anime/2695"
+    },
+    "k": {
+      "id": "2457",
+      "url": "https://kitsu.io/anime/2457"
+    },
+    "mal": {
+      "id": "2695",
+      "url": "https://myanimelist.net/anime/2695"
+    }
+  }
+}

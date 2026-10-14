@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13826,
+  "slug": "school-rumble",
+  "kind": "manga",
+  "title": "School Rumble",
+  "titles": {
+    "default": "School Rumble"
+  },
+  "synonyms": [
+    "School Rumble สูตรรักฉบับนักเรียน",
+    "School Rumble",
+    "スクールランブル"
+  ],
+  "type": "manga",
+  "chapters": 345,
+  "volumes": 22,
+  "status": "finished",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30160-aeVOoazhC4xg.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "846",
+      "url": "https://anilist.co/anime/24"
+    },
+    "al_manga": {
+      "id": "846",
+      "url": "https://anilist.co/manga/846"
+    }
+  }
+}

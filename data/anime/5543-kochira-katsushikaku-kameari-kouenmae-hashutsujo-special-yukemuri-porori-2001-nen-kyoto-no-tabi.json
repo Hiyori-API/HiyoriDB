@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5543,
+  "slug": "kochira-katsushikaku-kameari-kouenmae-hashutsujo-special-yukemuri-porori-2001-nen-kyoto-no-tabi",
+  "kind": "anime",
+  "title": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo Special: Yukemuri Porori! 2001-nen - Kyoto no Tabi",
+  "titles": {
+    "default": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo Special: Yukemuri Porori! 2001-nen - Kyoto no Tabi",
+    "romaji": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo Special: Yukemuri Porori! 2001-nen - Kyoto no Tabi",
+    "native": "こちら葛飾区亀有公園前派出所スペシャル 湯けむりポロリ！2001年・京都の旅"
+  },
+  "synonyms": [
+    "Kochira Katsushikaku Kameari Kouenmae Hashutsujo Special: Yukemuri Porori! 2001-nen - Kyoto no Tabi",
+    "こちら葛飾区亀有公園前派出所スペシャル 湯けむりポロリ！2001年・京都の旅",
+    "Kochikame Special 10",
+    "Mahoromatic End Year Special",
+    "まほろまてぃっく",
+    "Mahoromatic Episode 10.5",
+    "Mahoromatic Recap",
+    "Mahoromatic Special",
+    "Mahoromatic: Saimatsu Special"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b145768-LCIU39o2PUt5.png"
+  ],
+  "references": {
+    "al": {
+      "id": "145768",
+      "url": "https://anilist.co/anime/145768"
+    },
+    "k": {
+      "id": "586",
+      "url": "https://kitsu.io/anime/586"
+    },
+    "mal": {
+      "id": "632",
+      "url": "https://myanimelist.net/anime/632"
+    }
+  }
+}

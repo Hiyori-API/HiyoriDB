@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 44,
+  "slug": "d-c-da-capo",
+  "kind": "anime",
+  "title": "D.C.: Da Capo",
+  "titles": {
+    "default": "D.C.: Da Capo",
+    "romaji": "D.C.: Da Capo",
+    "english": "D.C.~Da Capo~",
+    "native": "D.C.～ダ・カーポ～"
+  },
+  "synonyms": [
+    "D.C.: Da Capo",
+    "D.C.~Da Capo~",
+    "D.C.～ダ・カーポ～"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "summer",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx62-llr25zE9LOm1.png"
+  ],
+  "references": {
+    "al": {
+      "id": "62",
+      "url": "https://anilist.co/anime/62"
+    },
+    "k": {
+      "id": "43",
+      "url": "https://kitsu.io/anime/43"
+    },
+    "mal": {
+      "id": "62",
+      "url": "https://myanimelist.net/anime/62"
+    },
+    "t": {
+      "id": "63506",
+      "url": "https://trakt.tv/shows/63506"
+    }
+  }
+}

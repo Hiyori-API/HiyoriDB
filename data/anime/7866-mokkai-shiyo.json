@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7866,
+  "slug": "mokkai-shiyo",
+  "kind": "anime",
+  "title": "Mokkai Shiyo?",
+  "titles": {
+    "default": "Mokkai Shiyo?",
+    "romaji": "Mokkai Shiyo?",
+    "native": "もっかいしよ?"
+  },
+  "synonyms": [
+    "Mokkai Shiyo?",
+    "もっかいしよ?",
+    "Girls & Panzer: Kore ga Hontou no Anzio-sen desu!",
+    "Girls & Panzer: This is the Real Anzio Battle!",
+    "ガールズ&パンツァー　これが本当のアンツィオ戦です！",
+    "Girls und Panzer OVA",
+    "Girls und Panzer: This is the true battle of Anzio!"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21109-kHHb4tsBp9Tx.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21109",
+      "url": "https://anilist.co/anime/21109"
+    },
+    "k": {
+      "id": "7981",
+      "url": "https://kitsu.io/anime/7981"
+    },
+    "mal": {
+      "id": "24357",
+      "url": "https://myanimelist.net/anime/24357"
+    }
+  }
+}

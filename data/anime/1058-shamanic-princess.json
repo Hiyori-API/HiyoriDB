@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1058,
+  "slug": "shamanic-princess",
+  "kind": "anime",
+  "title": "Shamanic Princess",
+  "titles": {
+    "default": "Shamanic Princess",
+    "romaji": "Shamanic Princess",
+    "native": "シャーマニックプリンセス"
+  },
+  "synonyms": [
+    "Shamanic Princess",
+    "シャーマニックプリンセス"
+  ],
+  "type": "ova",
+  "episodes": 6,
+  "status": "finished",
+  "season": "summer",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1182-EbFnXP9CgOdk.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1182",
+      "url": "https://anilist.co/anime/1182"
+    },
+    "cr": {
+      "id": "shamanic-princess",
+      "url": "https://www.crunchyroll.com/series/shamanic-princess"
+    },
+    "k": {
+      "id": "1062",
+      "url": "https://kitsu.io/anime/1062"
+    },
+    "mal": {
+      "id": "1182",
+      "url": "https://myanimelist.net/anime/1182"
+    },
+    "ttv": {
+      "id": "3353",
+      "url": "https://tubitv.com/series/3353"
+    }
+  }
+}

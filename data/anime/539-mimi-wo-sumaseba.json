@@ -1,0 +1,63 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 539,
+  "slug": "mimi-wo-sumaseba",
+  "kind": "anime",
+  "title": "Mimi wo Sumaseba",
+  "titles": {
+    "default": "Mimi wo Sumaseba",
+    "romaji": "Mimi wo Sumaseba",
+    "english": "Whisper of the Heart",
+    "native": "耳をすませば"
+  },
+  "synonyms": [
+    "Mimi wo Sumaseba",
+    "Whisper of the Heart",
+    "耳をすませば",
+    "If You Listen Carefully",
+    "Ghibli Movie 10",
+    "Si tu tends l'oreille",
+    "Stimme des Herzens",
+    "Susurros del Corazón",
+    "Sussurros do Coração",
+    "Sussurri del cuore",
+    "همس القلب",
+    "Szept serca",
+    "I sospiri del mio cuore",
+    "Ο Ψίθυρος της Καρδιάς",
+    "Sydämen kuiskaus",
+    "Om du lyssnar noga",
+    "Murmuris del cor",
+    "Slam Dunk: Hoero Basketman-damashii! Hanamichi to Rukawa no Atsuki Natsu",
+    "スラムダンク 吠えろバスケットマン魂!!花道と流川の熱き夏",
+    "Slam Dunk Movie 4",
+    "Roar Basketman's Soul: Hanamichi and Rukawa's Burning Summer",
+    "Slam Dunk: Hoero Basketman Tamashii!! Hanamichi to Rukawa no Nekki Natsu"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx585-5uq7j2xNNVmN.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "585",
+      "url": "https://anilist.co/anime/585"
+    },
+    "k": {
+      "id": "2268",
+      "url": "https://kitsu.io/anime/2268"
+    },
+    "mal": {
+      "id": "585",
+      "url": "https://myanimelist.net/anime/585"
+    },
+    "nf": {
+      "id": "70045021",
+      "url": "https://www.netflix.com/title/70045021"
+    }
+  }
+}

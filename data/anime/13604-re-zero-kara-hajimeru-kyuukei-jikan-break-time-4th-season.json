@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13604,
+  "slug": "re-zero-kara-hajimeru-kyuukei-jikan-break-time-4th-season",
+  "kind": "anime",
+  "title": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season",
+  "titles": {
+    "default": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season",
+    "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season",
+    "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 4th Season"
+  },
+  "synonyms": [
+    "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season",
+    "Re:ゼロから始める休憩時間(ブレイクタイム) 4th Season",
+    "Re:ZERO ~Starting Break Time From Zero~ Season 4",
+    "Ever Night",
+    "将夜",
+    "Jiang Ye"
+  ],
+  "type": "ona",
+  "episodes": 19,
+  "status": "finished",
+  "season": "spring",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210687-H54G1bTwCBpV.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "210687",
+      "url": "https://anilist.co/anime/210687"
+    },
+    "mal": {
+      "id": "63830",
+      "url": "https://myanimelist.net/anime/63830"
+    }
+  }
+}

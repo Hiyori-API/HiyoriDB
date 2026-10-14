@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4164,
+  "slug": "1-gatsu-ni-wa-christmas",
+  "kind": "anime",
+  "title": "1-gatsu ni wa Christmas",
+  "titles": {
+    "default": "1-gatsu ni wa Christmas",
+    "romaji": "1-gatsu ni wa Christmas",
+    "native": "1月にはChristmas"
+  },
+  "synonyms": [
+    "1-gatsu ni wa Christmas",
+    "1月にはChristmas",
+    "Christmas in January",
+    "Ichigatsu ni wa Christmas"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6060-SHJMkKR8YqhA.png"
+  ],
+  "references": {
+    "al": {
+      "id": "6060",
+      "url": "https://anilist.co/anime/6060"
+    },
+    "k": {
+      "id": "4402",
+      "url": "https://kitsu.io/anime/4402"
+    },
+    "mal": {
+      "id": "6060",
+      "url": "https://myanimelist.net/anime/6060"
+    }
+  }
+}

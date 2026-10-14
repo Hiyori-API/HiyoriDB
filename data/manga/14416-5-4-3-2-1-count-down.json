@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14416,
+  "slug": "5-4-3-2-1-count-down",
+  "kind": "manga",
+  "title": "5-4-3-2-1 COUNT DOWN",
+  "titles": {
+    "default": "5-4-3-2-1 COUNT DOWN"
+  },
+  "synonyms": [
+    "Countdown",
+    "カウントダウン",
+    "Countdown: Sex Bombs",
+    "5-4-3-2-1 COUNT DOWN",
+    "Fushigi Yugi",
+    "Fushigi Yuugi",
+    "ふしぎ遊戯",
+    "Mysterious Play",
+    "Curious Play"
+  ],
+  "type": "manga",
+  "chapters": 11,
+  "volumes": 1,
+  "status": "finished",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b33437-sEfxtjNeFGmV.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1383",
+      "url": "https://anilist.co/anime/1383"
+    },
+    "al_manga": {
+      "id": "1383",
+      "url": "https://anilist.co/manga/1383"
+    }
+  }
+}

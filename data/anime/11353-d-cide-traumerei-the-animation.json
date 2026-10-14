@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11353,
+  "slug": "d-cide-traumerei-the-animation",
+  "kind": "anime",
+  "title": "D_CIDE TRAUMEREI THE ANIMATION",
+  "titles": {
+    "default": "D_CIDE TRAUMEREI THE ANIMATION",
+    "romaji": "D_CIDE TRAUMEREI THE ANIMATION"
+  },
+  "synonyms": [
+    "D_CIDE TRAUMEREI THE ANIMATION",
+    "ディーサイドトロイメライ",
+    "The Curtain Rises",
+    "Opera Girl!",
+    "Kageki Shojo!!",
+    "かげきしょうじょ!!",
+    "Kageki Shoujo!!"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130997-2sNA99siFVhE.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "130997",
+      "url": "https://anilist.co/anime/130997"
+    },
+    "cr": {
+      "id": "series/GXJHM3DZX/d_cide-traumerei-the-animation",
+      "url": "https://www.crunchyroll.com/series/series/GXJHM3DZX/d_cide-traumerei-the-animation"
+    },
+    "mal": {
+      "id": "48470",
+      "url": "https://myanimelist.net/anime/48470"
+    },
+    "tx": {
+      "id": "dctm_pj",
+      "url": "https://twitter.com/dctm_pj"
+    }
+  }
+}

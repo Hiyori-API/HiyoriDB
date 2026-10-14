@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6215,
+  "slug": "hyakka-ryouran-samurai-girls-picture-drama",
+  "kind": "anime",
+  "title": "Hyakka Ryouran: Samurai Girls Picture Drama",
+  "titles": {
+    "default": "Hyakka Ryouran: Samurai Girls Picture Drama",
+    "romaji": "Hyakka Ryouran: Samurai Girls Picture Drama",
+    "english": "Samurai Girls Picture Drama",
+    "native": "百花繚乱繚乱：サムライガールズピクチャードラマ"
+  },
+  "synonyms": [
+    "Hyakka Ryouran: Samurai Girls Picture Drama",
+    "Samurai Girls Picture Drama",
+    "百花繚乱繚乱：サムライガールズピクチャードラマ",
+    "Hyakka Ryouran: Samurai Girls Voiced Manga"
+  ],
+  "type": "special",
+  "episodes": 6,
+  "status": "finished",
+  "season": "fall",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13127.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "13127",
+      "url": "https://anilist.co/anime/13127"
+    },
+    "k": {
+      "id": "6888",
+      "url": "https://kitsu.io/anime/6888"
+    }
+  }
+}

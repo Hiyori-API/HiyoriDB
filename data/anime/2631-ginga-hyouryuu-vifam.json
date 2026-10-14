@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2631,
+  "slug": "ginga-hyouryuu-vifam",
+  "kind": "anime",
+  "title": "Ginga Hyouryuu Vifam",
+  "titles": {
+    "default": "Ginga Hyouryuu Vifam",
+    "romaji": "Ginga Hyouryuu Vifam",
+    "english": "Round Vernian Vifam",
+    "native": "銀河漂流バイファム"
+  },
+  "synonyms": [
+    "Ginga Hyouryuu Vifam",
+    "Round Vernian Vifam",
+    "銀河漂流バイファム",
+    "Space Castaways Vifam",
+    "Galactic Drifter Vifam"
+  ],
+  "type": "tv",
+  "episodes": 46,
+  "status": "finished",
+  "season": "fall",
+  "year": 1983,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2987-OfJdwOIeDgLu.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2987",
+      "url": "https://anilist.co/anime/2987"
+    },
+    "k": {
+      "id": "2701",
+      "url": "https://kitsu.io/anime/2701"
+    },
+    "mal": {
+      "id": "2987",
+      "url": "https://myanimelist.net/anime/2987"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15846,
+  "slug": "canaan",
+  "kind": "manga",
+  "title": "Canaan",
+  "titles": {
+    "default": "Canaan"
+  },
+  "synonyms": [
+    "カナーン",
+    "Canaan",
+    "CANAAN"
+  ],
+  "type": "manga",
+  "chapters": 24,
+  "volumes": 3,
+  "status": "finished",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/15480.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5356",
+      "url": "https://anilist.co/anime/5356"
+    },
+    "al_manga": {
+      "id": "5356",
+      "url": "https://anilist.co/manga/5356"
+    }
+  }
+}

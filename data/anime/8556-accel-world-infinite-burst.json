@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8556,
+  "slug": "accel-world-infinite-burst",
+  "kind": "anime",
+  "title": "Accel World: INFINITE∞BURST",
+  "titles": {
+    "default": "Accel World: INFINITE∞BURST",
+    "romaji": "Accel World: INFINITE∞BURST",
+    "english": "Accel World: Infinite∞Burst",
+    "native": "アクセル・ワールド INFINITE∞BURST（インフィニット・バースト）"
+  },
+  "synonyms": [
+    "Accel World: INFINITE∞BURST",
+    "Accel World: Infinite∞Burst",
+    "アクセル・ワールド INFINITE∞BURST（インフィニット・バースト）",
+    "Big Fish & Begonia",
+    "Da Yu Hai Tang",
+    "大鱼海棠",
+    "Da Hai",
+    "Big Fish & Chinese Flowering Crabapple",
+    "大魚海棠"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21404-2jkb1Gidfb18.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21404",
+      "url": "https://anilist.co/anime/21404"
+    },
+    "k": {
+      "id": "6103",
+      "url": "https://kitsu.io/anime/6103"
+    },
+    "mal": {
+      "id": "31763",
+      "url": "https://myanimelist.net/anime/31763"
+    },
+    "tx": {
+      "id": "accel_world",
+      "url": "https://twitter.com/accel_world"
+    }
+  }
+}

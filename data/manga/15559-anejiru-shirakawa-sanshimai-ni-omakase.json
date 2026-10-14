@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15559,
+  "slug": "anejiru-shirakawa-sanshimai-ni-omakase",
+  "kind": "manga",
+  "title": "Anejiru: Shirakawa Sanshimai ni Omakase",
+  "titles": {
+    "default": "Anejiru: Shirakawa Sanshimai ni Omakase"
+  },
+  "synonyms": [
+    "姉汁～白川三姉妹におまかせ～",
+    "Ladies versus Butlers!",
+    "れでぃ×ばと!",
+    "Redei Bato!",
+    "Redei x Bato",
+    "Ladies vs Butlers!"
+  ],
+  "type": "novel",
+  "volumes": 1,
+  "status": "finished",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/91934-GN9wV7sTT7Wo.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2867",
+      "url": "https://anilist.co/anime/2867"
+    },
+    "al_manga": {
+      "id": "2867",
+      "url": "https://anilist.co/manga/2867"
+    }
+  }
+}

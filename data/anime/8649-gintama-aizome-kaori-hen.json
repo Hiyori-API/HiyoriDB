@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8649,
+  "slug": "gintama-aizome-kaori-hen",
+  "kind": "anime",
+  "title": "Gintamaº: Aizome Kaori-hen",
+  "titles": {
+    "default": "Gintamaº: Aizome Kaori-hen",
+    "romaji": "Gintamaº: Aizome Kaori-hen",
+    "english": "Gintama: Love Incense Arc",
+    "native": "銀魂 愛染香篇"
+  },
+  "synonyms": [
+    "Gintamaº: Aizome Kaori-hen",
+    "Gintama: Love Incense Arc",
+    "銀魂 愛染香篇",
+    "Gintama: Love Potion Arc",
+    "Gintama° OVA",
+    "銀魂　愛染香篇",
+    "Gintama°: Aizome Kaori-hen"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21588-4stDE0RbC9jL.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21588",
+      "url": "https://anilist.co/anime/21588"
+    },
+    "mal": {
+      "id": "32366",
+      "url": "https://myanimelist.net/anime/32366"
+    }
+  }
+}

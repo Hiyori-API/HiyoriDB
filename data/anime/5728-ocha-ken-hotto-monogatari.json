@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5728,
+  "slug": "ocha-ken-hotto-monogatari",
+  "kind": "anime",
+  "title": "Ocha-ken: Hotto Monogatari",
+  "titles": {
+    "default": "Ocha-ken: Hotto Monogatari",
+    "romaji": "Ocha-ken: Hotto Monogatari",
+    "native": "お茶犬 ~「ほっ」とものがたり~"
+  },
+  "synonyms": [
+    "Ocha-ken: Hotto Monogatari",
+    "お茶犬 ~「ほっ」とものがたり~",
+    "Magikano",
+    "マジカノ"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119771-IoIRHw4W8LR8.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "119771",
+      "url": "https://anilist.co/anime/119771"
+    },
+    "cr": {
+      "id": "magikano",
+      "url": "https://www.crunchyroll.com/series/magikano"
+    },
+    "k": {
+      "id": "532",
+      "url": "https://kitsu.io/anime/532"
+    },
+    "mal": {
+      "id": "34358",
+      "url": "https://myanimelist.net/anime/34358"
+    },
+    "t": {
+      "id": "34044",
+      "url": "https://trakt.tv/shows/34044"
+    },
+    "ttv": {
+      "id": "2375",
+      "url": "https://tubitv.com/series/2375"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14705,
+  "slug": "pokonyan",
+  "kind": "manga",
+  "title": "Pokonyan",
+  "titles": {
+    "default": "Pokonyan"
+  },
+  "synonyms": [
+    "Rocky Rackat!",
+    "ポコニャン",
+    "Ryuu no Michi",
+    "リュウの道",
+    "The Road of Ryuu"
+  ],
+  "type": "manga",
+  "volumes": 2,
+  "status": "finished",
+  "year": 1970,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b142903-8FLN3zsX032Q.png"
+  ],
+  "references": {
+    "al": {
+      "id": "6779",
+      "url": "https://anilist.co/anime/6779"
+    },
+    "al_manga": {
+      "id": "6779",
+      "url": "https://anilist.co/manga/6779"
+    }
+  }
+}

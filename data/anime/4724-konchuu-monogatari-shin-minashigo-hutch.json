@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4724,
+  "slug": "konchuu-monogatari-shin-minashigo-hutch",
+  "kind": "anime",
+  "title": "Konchuu Monogatari: Shin Minashigo Hutch",
+  "titles": {
+    "default": "Konchuu Monogatari: Shin Minashigo Hutch",
+    "romaji": "Konchuu Monogatari: Shin Minashigo Hutch",
+    "english": "The New Adventures of Hutch the Honeybee",
+    "native": "昆虫物語　新みなしごハッチ"
+  },
+  "synonyms": [
+    "Konchuu Monogatari: Shin Minashigo Hutch",
+    "The New Adventures of Hutch the Honeybee",
+    "昆虫物語　新みなしごハッチ",
+    "Le nuove avventure dell'Ape Magà",
+    "Starchild Chobin",
+    "Hoshi no Ko Chobin",
+    "星の子チョビン",
+    "Chobin the Star Child"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 1974,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx8139-x2GE5Y4Tr6Lq.png"
+  ],
+  "references": {
+    "al": {
+      "id": "8139",
+      "url": "https://anilist.co/anime/8139"
+    },
+    "k": {
+      "id": "3286",
+      "url": "https://kitsu.io/anime/3286"
+    },
+    "mal": {
+      "id": "8139",
+      "url": "https://myanimelist.net/anime/8139"
+    },
+    "t": {
+      "id": "65786",
+      "url": "https://trakt.tv/shows/65786"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15251,
+  "slug": "phantasmagoria-days",
+  "kind": "manga",
+  "title": "Phantasmagoria Days",
+  "titles": {
+    "default": "Phantasmagoria Days"
+  },
+  "synonyms": [
+    "ファンタスマゴリア デイズ",
+    "Mushrambo",
+    "マシュランボー",
+    "Mashuranboo"
+  ],
+  "type": "manga",
+  "chapters": 12,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b107679-Tb0gAT4y6BT8.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6094",
+      "url": "https://anilist.co/anime/6094"
+    },
+    "al_manga": {
+      "id": "6094",
+      "url": "https://anilist.co/manga/6094"
+    }
+  }
+}

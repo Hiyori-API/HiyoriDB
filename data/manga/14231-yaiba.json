@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14231,
+  "slug": "yaiba",
+  "kind": "manga",
+  "title": "YAIBA",
+  "titles": {
+    "default": "YAIBA"
+  },
+  "synonyms": [
+    "Kenyuu Densetsu Yaiba",
+    "YAIBA ไยบะ",
+    "야이바",
+    "YAIBA: Samurai Legend",
+    "YAIBA",
+    "Vaelber Saga",
+    "ヴェルバーサーガ"
+  ],
+  "type": "manga",
+  "chapters": 255,
+  "volumes": 24,
+  "status": "finished",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b31631-nygEtfnhGNYD.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "199337",
+      "url": "https://anilist.co/anime/2335"
+    },
+    "al_manga": {
+      "id": "199337",
+      "url": "https://anilist.co/manga/199337"
+    }
+  }
+}

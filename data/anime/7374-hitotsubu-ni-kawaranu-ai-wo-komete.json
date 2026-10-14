@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7374,
+  "slug": "hitotsubu-ni-kawaranu-ai-wo-komete",
+  "kind": "anime",
+  "title": "Hitotsubu ni Kawaranu Ai wo Komete",
+  "titles": {
+    "default": "Hitotsubu ni Kawaranu Ai wo Komete",
+    "romaji": "Hitotsubu ni Kawaranu Ai wo Komete",
+    "native": "一粒に変わらぬ愛をこめて"
+  },
+  "synonyms": [
+    "Hitotsubu ni Kawaranu Ai wo Komete",
+    "一粒に変わらぬ愛をこめて",
+    "Morinaga Caramel 100th Anniversary Short",
+    "Picotopia",
+    "ピコトピア",
+    "Pikotopia"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18953.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "18953",
+      "url": "https://anilist.co/anime/18953"
+    },
+    "k": {
+      "id": "8219",
+      "url": "https://kitsu.io/anime/8219"
+    },
+    "mal": {
+      "id": "18953",
+      "url": "https://myanimelist.net/anime/18953"
+    }
+  }
+}

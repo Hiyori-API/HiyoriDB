@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14559,
+  "slug": "one-thousand-and-one-nights",
+  "kind": "manga",
+  "title": "One Thousand and One Nights",
+  "titles": {
+    "default": "One Thousand and One Nights"
+  },
+  "synonyms": [
+    "1001 Nights",
+    "千一夜話",
+    "Mille et une nuits",
+    "One Thousand and One Nights",
+    "천일야화",
+    "Railroad",
+    "레일로드"
+  ],
+  "type": "manga",
+  "chapters": 71,
+  "volumes": 11,
+  "status": "finished",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx35310-A6n6u8Ujr7if.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3914",
+      "url": "https://anilist.co/anime/3914"
+    },
+    "al_manga": {
+      "id": "3914",
+      "url": "https://anilist.co/manga/3914"
+    }
+  }
+}

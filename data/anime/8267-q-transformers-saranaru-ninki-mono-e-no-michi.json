@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8267,
+  "slug": "q-transformers-saranaru-ninki-mono-e-no-michi",
+  "kind": "anime",
+  "title": "Q Transformers: Saranaru Ninki Mono e no Michi",
+  "titles": {
+    "default": "Q Transformers: Saranaru Ninki Mono e no Michi",
+    "romaji": "Q Transformers: Saranaru Ninki Mono e no Michi",
+    "native": "キュートランスフォーマー さらなる人気者への道"
+  },
+  "synonyms": [
+    "Q Transformers: Saranaru Ninki Mono e no Michi",
+    "キュートランスフォーマー さらなる人気者への道",
+    "Wagnaria!!3",
+    "Working!!!",
+    "ワーキング!!!",
+    "Working!! 3rd Season",
+    "Working!! Third Season"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21210-GtgZO73cflV2.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21210",
+      "url": "https://anilist.co/anime/21210"
+    },
+    "k": {
+      "id": "8712",
+      "url": "https://kitsu.io/anime/8712"
+    },
+    "mal": {
+      "id": "30851",
+      "url": "https://myanimelist.net/anime/30851"
+    },
+    "t": {
+      "id": "61012",
+      "url": "https://trakt.tv/shows/61012"
+    }
+  }
+}

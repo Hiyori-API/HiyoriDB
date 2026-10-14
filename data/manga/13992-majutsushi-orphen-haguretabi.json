@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13992,
+  "slug": "majutsushi-orphen-haguretabi",
+  "kind": "manga",
+  "title": "Majutsushi Orphen Haguretabi",
+  "titles": {
+    "default": "Majutsushi Orphen Haguretabi"
+  },
+  "synonyms": [
+    "Sorcerous Stabber Orphen",
+    "Orphen",
+    "魔術士オーフェンはぐれ旅",
+    "Kamikaze Kaito Jeanne",
+    "Kamikaze Kaitou Jeanne",
+    "Phantom Thief Jeanne",
+    "神風怪盗ジャンヌ",
+    "Divine Wind Phantom Thief Jeanne"
+  ],
+  "type": "manga",
+  "chapters": 36,
+  "volumes": 6,
+  "status": "finished",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30699-TIv3LPxoJLi9.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1017",
+      "url": "https://anilist.co/anime/1017"
+    },
+    "al_manga": {
+      "id": "1017",
+      "url": "https://anilist.co/manga/1017"
+    }
+  }
+}

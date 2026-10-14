@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12179,
+  "slug": "hataraku-maou-sama-2nd-season",
+  "kind": "anime",
+  "title": "Hataraku Maou-sama!! 2nd Season",
+  "titles": {
+    "default": "Hataraku Maou-sama!! 2nd Season",
+    "romaji": "Hataraku Maou-sama!! 2nd Season",
+    "english": "The Devil is a Part-Timer! Season 2 Part 2",
+    "native": "はたらく魔王さま！！2nd Season"
+  },
+  "synonyms": [
+    "Hataraku Maou-sama!! 2nd Season",
+    "The Devil is a Part-Timer! Season 2 Part 2",
+    "はたらく魔王さま！！2nd Season",
+    "The Devil is a Part-Timer! Season 3",
+    "Shadow Garden 2nd Season",
+    "The Eminence in Shadow Season 2",
+    "陰の実力者になりたくて！ 2nd Season",
+    "Kage no Jitsuryokusha ni Naritakute! 2nd Season"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2023,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155168-x7TUG4F0HnQy.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "155168",
+      "url": "https://anilist.co/anime/155168"
+    },
+    "cr": {
+      "id": "series/GR75Z5KKY/the-devil-is-a-part-timer",
+      "url": "https://www.crunchyroll.com/series/series/GR75Z5KKY/the-devil-is-a-part-timer"
+    },
+    "mal": {
+      "id": "53200",
+      "url": "https://myanimelist.net/anime/53200"
+    },
+    "tx": {
+      "id": "anime_maousama",
+      "url": "https://twitter.com/anime_maousama"
+    }
+  }
+}

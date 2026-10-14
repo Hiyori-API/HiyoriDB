@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2795,
+  "slug": "minami-ke-okawari",
+  "kind": "anime",
+  "title": "Minami-ke: Okawari",
+  "titles": {
+    "default": "Minami-ke: Okawari",
+    "romaji": "Minami-ke: Okawari",
+    "native": "みなみけ～おかわり～"
+  },
+  "synonyms": [
+    "Minami-ke: Okawari",
+    "みなみけ～おかわり～",
+    "みなみけ 第2期",
+    "Minami-ke 2nd Season",
+    "Minami-ke Okawari",
+    "Minamike: Okawari"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3225-o0alpa3uDh0S.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3225",
+      "url": "https://anilist.co/anime/3225"
+    },
+    "k": {
+      "id": "2868",
+      "url": "https://kitsu.io/anime/2868"
+    },
+    "mal": {
+      "id": "3225",
+      "url": "https://myanimelist.net/anime/3225"
+    },
+    "t": {
+      "id": "55999",
+      "url": "https://trakt.tv/shows/55999"
+    },
+    "tvt": {
+      "id": "minami",
+      "url": "http://www.tv-tokyo.co.jp/anime/minami"
+    }
+  }
+}

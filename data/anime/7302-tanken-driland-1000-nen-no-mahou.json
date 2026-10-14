@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7302,
+  "slug": "tanken-driland-1000-nen-no-mahou",
+  "kind": "anime",
+  "title": "Tanken Driland: 1000-nen no Mahou",
+  "titles": {
+    "default": "Tanken Driland: 1000-nen no Mahou",
+    "romaji": "Tanken Driland: 1000-nen no Mahou",
+    "native": "探検ドリランド-1000年の真宝-"
+  },
+  "synonyms": [
+    "Tanken Driland: 1000-nen no Mahou",
+    "探検ドリランド-1000年の真宝-",
+    "Pretty Rhythm: Rainbow Live",
+    "プリティーリズム・レインボーライブ"
+  ],
+  "type": "tv",
+  "episodes": 51,
+  "status": "finished",
+  "season": "spring",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17969-uAxnH1lqpEMZ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "17969",
+      "url": "https://anilist.co/anime/17969"
+    },
+    "k": {
+      "id": "7618",
+      "url": "https://kitsu.io/anime/7618"
+    },
+    "mal": {
+      "id": "17969",
+      "url": "https://myanimelist.net/anime/17969"
+    },
+    "t": {
+      "id": "67145",
+      "url": "https://trakt.tv/shows/67145"
+    }
+  }
+}

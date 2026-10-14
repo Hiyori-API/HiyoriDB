@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9891,
+  "slug": "one-room-second-season-extra",
+  "kind": "anime",
+  "title": "One Room: Second Season -extra-",
+  "titles": {
+    "default": "One Room: Second Season -extra-",
+    "romaji": "One Room: Second Season -extra-",
+    "native": "One Room セカンドシーズン -extra-"
+  },
+  "synonyms": [
+    "One Room: Second Season -extra-",
+    "One Room セカンドシーズン -extra-",
+    "Asobi Asobase OVA",
+    "Asobi Asobase: Cosplay Contest/To the Future Me",
+    "あそびあそばせ コスプレ大会 / 大人の私へ",
+    "Asobi Asobase: Cosplay Taikai/Otona no Watashi e"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx107298-Y8h5Sd3lRBtM.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "107298",
+      "url": "https://anilist.co/anime/107298"
+    },
+    "mal": {
+      "id": "38789",
+      "url": "https://myanimelist.net/anime/38789"
+    }
+  }
+}

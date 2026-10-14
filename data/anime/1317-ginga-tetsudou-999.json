@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1317,
+  "slug": "ginga-tetsudou-999",
+  "kind": "anime",
+  "title": "Ginga Tetsudou 999",
+  "titles": {
+    "default": "Ginga Tetsudou 999",
+    "romaji": "Ginga Tetsudou 999",
+    "english": "Galaxy Express 999",
+    "native": "銀河鉄道９９９"
+  },
+  "synonyms": [
+    "Ginga Tetsudou 999",
+    "Galaxy Express 999",
+    "銀河鉄道９９９",
+    "GE999",
+    "Ginga Tetsudo 999"
+  ],
+  "type": "tv",
+  "episodes": 113,
+  "status": "finished",
+  "season": "fall",
+  "year": 1978,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1491-XfYiHNYKDR2P.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1491",
+      "url": "https://anilist.co/anime/1491"
+    },
+    "cr": {
+      "id": "galaxy-express-999",
+      "url": "https://www.crunchyroll.com/series/galaxy-express-999"
+    },
+    "k": {
+      "id": "1337",
+      "url": "https://kitsu.io/anime/1337"
+    },
+    "mal": {
+      "id": "1491",
+      "url": "https://myanimelist.net/anime/1491"
+    },
+    "t": {
+      "id": "31571",
+      "url": "https://trakt.tv/shows/31571"
+    },
+    "ttv": {
+      "id": "1834",
+      "url": "https://tubitv.com/series/1834"
+    }
+  }
+}

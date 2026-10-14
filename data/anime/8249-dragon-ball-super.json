@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8249,
+  "slug": "dragon-ball-super",
+  "kind": "anime",
+  "title": "Dragon Ball Super",
+  "titles": {
+    "default": "Dragon Ball Super",
+    "romaji": "Dragon Ball Super",
+    "native": "ドラゴンボール超"
+  },
+  "synonyms": [
+    "Dragon Ball Super",
+    "ドラゴンボール超",
+    "DBS",
+    "Dragonball Super",
+    "דרגון בול סופר",
+    "Драконий жемчуг: Супер",
+    "Dragon Ball Chou",
+    "DB Super",
+    "ドラゴンボール超（スーパー）"
+  ],
+  "type": "tv",
+  "episodes": 131,
+  "status": "finished",
+  "season": "summer",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21175-EH06qlfF8TnB.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21175",
+      "url": "https://anilist.co/anime/21175"
+    },
+    "cr": {
+      "id": "dragon-ball-super",
+      "url": "https://www.crunchyroll.com/series/dragon-ball-super"
+    },
+    "mal": {
+      "id": "30694",
+      "url": "https://myanimelist.net/anime/30694"
+    }
+  }
+}

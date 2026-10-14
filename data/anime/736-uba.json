@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 736,
+  "slug": "uba",
+  "kind": "anime",
+  "title": "Uba",
+  "titles": {
+    "default": "Uba",
+    "romaji": "Uba",
+    "english": "Milk Money",
+    "native": "乳 母"
+  },
+  "synonyms": [
+    "Uba",
+    "Milk Money",
+    "乳 母",
+    "Sandglass of Summer Colors",
+    "Natsu-iro no Sunadokei",
+    "夏色の砂時計",
+    "Hourglass of Summer Colours",
+    "Natsuiro no Sunadokei"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/827.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "827",
+      "url": "https://anilist.co/anime/827"
+    },
+    "k": {
+      "id": "577",
+      "url": "https://kitsu.io/anime/577"
+    },
+    "mal": {
+      "id": "827",
+      "url": "https://myanimelist.net/anime/827"
+    }
+  }
+}

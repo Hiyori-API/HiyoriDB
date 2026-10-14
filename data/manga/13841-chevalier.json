@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13841,
+  "slug": "chevalier",
+  "kind": "manga",
+  "title": "Chevalier",
+  "titles": {
+    "default": "Chevalier"
+  },
+  "synonyms": [
+    "Le Chevalier d'Eon",
+    "シュヴァリエ",
+    "Ladies versus Butlers!",
+    "れでぃ×ばと!",
+    "Redei Bato!",
+    "Redei x Bato",
+    "Ladies vs Butlers!"
+  ],
+  "type": "novel",
+  "chapters": 14,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b53818-Yp5TqFD56voA.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "20461",
+      "url": "https://anilist.co/anime/20461"
+    },
+    "al_manga": {
+      "id": "20461",
+      "url": "https://anilist.co/manga/20461"
+    }
+  }
+}

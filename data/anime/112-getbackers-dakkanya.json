@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 112,
+  "slug": "getbackers-dakkanya",
+  "kind": "anime",
+  "title": "GetBackers: Dakkanya",
+  "titles": {
+    "default": "GetBackers: Dakkanya",
+    "romaji": "GetBackers: Dakkanya",
+    "english": "GetBackers",
+    "native": "GetBackers 奪還屋"
+  },
+  "synonyms": [
+    "GetBackers: Dakkanya",
+    "GetBackers",
+    "GetBackers 奪還屋",
+    "Get Backers",
+    "ゲットバッカーズ",
+    "GetBackers: Recovery Service",
+    "闪灵二人组",
+    "Агентство по возврату утраченного",
+    "Getbackers",
+    "ゲットバッカーズ　奪還屋",
+    "GetBackers: Dakkan'ya"
+  ],
+  "type": "tv",
+  "episodes": 49,
+  "status": "finished",
+  "season": "fall",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132-DBhi3KQASjLU.png"
+  ],
+  "references": {
+    "al": {
+      "id": "132",
+      "url": "https://anilist.co/anime/132"
+    },
+    "k": {
+      "id": "111",
+      "url": "https://kitsu.io/anime/111"
+    },
+    "mal": {
+      "id": "132",
+      "url": "https://myanimelist.net/anime/132"
+    },
+    "t": {
+      "id": "62219",
+      "url": "https://trakt.tv/shows/62219"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11845,
+  "slug": "girigiri-warukunai-watame",
+  "kind": "anime",
+  "title": "Girigiri Warukunai Watame",
+  "titles": {
+    "default": "Girigiri Warukunai Watame",
+    "romaji": "Girigiri Warukunai Watame",
+    "english": "Watame Did Borderline Nothing Wrong",
+    "native": "ギリギリわるくないわため"
+  },
+  "synonyms": [
+    "Girigiri Warukunai Watame",
+    "Watame Did Borderline Nothing Wrong",
+    "ギリギリわるくないわため",
+    "Jeonjijeok Dokja Sijeom",
+    "Omniscient Reader's Viewpoint",
+    "전지적 독자 시점"
+  ],
+  "type": "ona",
+  "status": "airing",
+  "season": "winter",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146004-hH08KAB1yHlN.png"
+  ],
+  "references": {
+    "al": {
+      "id": "146004",
+      "url": "https://anilist.co/anime/146004"
+    },
+    "mal": {
+      "id": "51768",
+      "url": "https://myanimelist.net/anime/51768"
+    }
+  }
+}

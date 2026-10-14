@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2585,
+  "slug": "mokke",
+  "kind": "anime",
+  "title": "Mokke",
+  "titles": {
+    "default": "Mokke",
+    "romaji": "Mokke",
+    "native": "もっけ"
+  },
+  "synonyms": [
+    "Mokke",
+    "もっけ",
+    "Rental Magica",
+    "レンタルマギカ"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "fall",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2931.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2931",
+      "url": "https://anilist.co/anime/2931"
+    },
+    "k": {
+      "id": "2147",
+      "url": "https://kitsu.io/anime/2147"
+    },
+    "mal": {
+      "id": "2931",
+      "url": "https://myanimelist.net/anime/2931"
+    },
+    "t": {
+      "id": "34578",
+      "url": "https://trakt.tv/shows/34578"
+    }
+  }
+}

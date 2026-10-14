@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2646,
+  "slug": "atashin-chi",
+  "kind": "anime",
+  "title": "Atashin'chi",
+  "titles": {
+    "default": "Atashin'chi",
+    "romaji": "Atashin'chi",
+    "native": "あたしンち"
+  },
+  "synonyms": [
+    "Atashin'chi",
+    "あたしンち",
+    "Atashinchi",
+    "My Family"
+  ],
+  "type": "tv",
+  "episodes": 330,
+  "status": "finished",
+  "season": "spring",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3006-XANMoAUZPtcn.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3006",
+      "url": "https://anilist.co/anime/3006"
+    },
+    "k": {
+      "id": "2717",
+      "url": "https://kitsu.io/anime/2717"
+    },
+    "mal": {
+      "id": "3006",
+      "url": "https://myanimelist.net/anime/3006"
+    },
+    "tx": {
+      "id": "atashinchimovie",
+      "url": "https://twitter.com/atashinchimovie"
+    }
+  }
+}

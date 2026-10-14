@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5965,
+  "slug": "shin-koihime-musou-otome-tairan",
+  "kind": "anime",
+  "title": "Shin Koihime†Musou: Otome Tairan",
+  "titles": {
+    "default": "Shin Koihime†Musou: Otome Tairan",
+    "romaji": "Shin Koihime†Musou: Otome Tairan",
+    "english": "Shin Koihime Musou: Otome Tairan",
+    "native": "真恋姫†無双 ~乙女大乱~"
+  },
+  "synonyms": [
+    "Shin Koihime†Musou: Otome Tairan",
+    "Shin Koihime Musou: Otome Tairan",
+    "真恋姫†無双 ~乙女大乱~",
+    "Shin Koihime Musou 2nd Season",
+    "Donzelas Intankáveis 3",
+    "House of Five Leaves",
+    "Saraiya Goyou",
+    "さらい屋 五葉",
+    "Sarai-ya Goyou"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx8057-C3YcDrZMJFfz.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8057",
+      "url": "https://anilist.co/anime/8057"
+    },
+    "cr": {
+      "id": "shin-koihime-musou-otome-tairan",
+      "url": "https://www.crunchyroll.com/series/shin-koihime-musou-otome-tairan"
+    },
+    "k": {
+      "id": "5041",
+      "url": "https://kitsu.io/anime/5041"
+    },
+    "mal": {
+      "id": "8057",
+      "url": "https://myanimelist.net/anime/8057"
+    },
+    "t": {
+      "id": "61102",
+      "url": "https://trakt.tv/shows/61102"
+    }
+  }
+}

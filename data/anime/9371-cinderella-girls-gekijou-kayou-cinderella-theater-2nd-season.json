@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9371,
+  "slug": "cinderella-girls-gekijou-kayou-cinderella-theater-2nd-season",
+  "kind": "anime",
+  "title": "Cinderella Girls Gekijou: Kayou Cinderella Theater 2nd Season",
+  "titles": {
+    "default": "Cinderella Girls Gekijou: Kayou Cinderella Theater 2nd Season",
+    "romaji": "Cinderella Girls Gekijou: Kayou Cinderella Theater 2nd Season",
+    "english": "THE iDOLM@STER CINDERELLA GIRLS Theater 2nd Season (Web)",
+    "native": "シンデレラガールズ劇場 火曜シンデレラシアター"
+  },
+  "synonyms": [
+    "Cinderella Girls Gekijou: Kayou Cinderella Theater 2nd Season",
+    "THE iDOLM@STER CINDERELLA GIRLS Theater 2nd Season (Web)",
+    "シンデレラガールズ劇場 火曜シンデレラシアター",
+    "Cingeki 2 ONA",
+    "The IDOLM@STER Cinderella Girls Gekijou 2 (Game)",
+    "Cinderella Girls Gekijou 2nd Season ONA",
+    "THE IDOLM@STER CINDERELLA GIRLS Theater: Tuesday Cinderella Theater",
+    "シンデレラガールズ劇場 2期 ONA",
+    "Neko Rahmen",
+    "Neko Ramen",
+    "猫ラーメン",
+    "Neko Raamen"
+  ],
+  "type": "ona",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/100225-Tody5v9GQb7k.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "100225",
+      "url": "https://anilist.co/anime/100225"
+    },
+    "k": {
+      "id": "3081",
+      "url": "https://kitsu.io/anime/3081"
+    },
+    "mal": {
+      "id": "36500",
+      "url": "https://myanimelist.net/anime/36500"
+    }
+  }
+}

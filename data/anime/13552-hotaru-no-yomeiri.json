@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13552,
+  "slug": "hotaru-no-yomeiri",
+  "kind": "anime",
+  "title": "Hotaru no Yomeiri",
+  "titles": {
+    "default": "Hotaru no Yomeiri",
+    "romaji": "Hotaru no Yomeiri",
+    "english": "Firefly Wedding",
+    "native": "ホタルの嫁入り"
+  },
+  "synonyms": [
+    "Hotaru no Yomeiri",
+    "Firefly Wedding",
+    "ホタルの嫁入り"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "airing",
+  "season": "fall",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205909-DM0fAzNQulod.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "205909",
+      "url": "https://anilist.co/anime/205909"
+    },
+    "cr": {
+      "id": "series/GT00383999",
+      "url": "https://www.crunchyroll.com/series/series/GT00383999"
+    },
+    "mal": {
+      "id": "63293",
+      "url": "https://myanimelist.net/anime/63293"
+    }
+  }
+}

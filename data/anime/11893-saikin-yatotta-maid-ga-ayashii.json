@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11893,
+  "slug": "saikin-yatotta-maid-ga-ayashii",
+  "kind": "anime",
+  "title": "Saikin Yatotta Maid ga Ayashii",
+  "titles": {
+    "default": "Saikin Yatotta Maid ga Ayashii",
+    "romaji": "Saikin Yatotta Maid ga Ayashii",
+    "english": "The Maid I Hired Recently is Mysterious",
+    "native": "最近雇ったメイドが怪しい"
+  },
+  "synonyms": [
+    "Saikin Yatotta Maid ga Ayashii",
+    "The Maid I Hired Recently is Mysterious",
+    "最近雇ったメイドが怪しい",
+    "Cô Hầu Gái Tôi Mới Thuê Gần Đây Thật Đáng Ngờ",
+    "เมดคนนี้มีพิรุธ",
+    "新來的女傭有點怪",
+    "DanMachi 4th Season",
+    "Is It Wrong That I Want to Meet You in a Dungeon 4th Season",
+    "Is It Wrong to Try to Pick Up Girls in a Dungeon? IV",
+    "ダンジョンに出会いを求めるのは間違っているだろうかⅣ 新章 迷宮篇",
+    "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen"
+  ],
+  "type": "tv",
+  "episodes": 11,
+  "status": "finished",
+  "season": "summer",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx149326-qDJGf7IELKbL.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "149326",
+      "url": "https://anilist.co/anime/149326"
+    },
+    "cr": {
+      "id": "series/GG5H5X092",
+      "url": "https://www.crunchyroll.com/series/series/GG5H5X092"
+    },
+    "mal": {
+      "id": "51837",
+      "url": "https://myanimelist.net/anime/51837"
+    },
+    "tx": {
+      "id": "maidga_ayashii",
+      "url": "https://twitter.com/maidga_ayashii"
+    }
+  }
+}

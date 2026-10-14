@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14898,
+  "slug": "aru-kararu-no-isan",
+  "kind": "manga",
+  "title": "Aru Kararu no Isan",
+  "titles": {
+    "default": "Aru Kararu no Isan"
+  },
+  "synonyms": [
+    "アル・カラルの遺産",
+    "Mai",
+    "Mai, The Psychic Girl",
+    "舞"
+  ],
+  "type": "manga",
+  "volumes": 1,
+  "status": "finished",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b165653-2EgksXlwA43z.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6078",
+      "url": "https://anilist.co/anime/6078"
+    },
+    "al_manga": {
+      "id": "6078",
+      "url": "https://anilist.co/manga/6078"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14424,
+  "slug": "mugen-no-ryvius",
+  "kind": "manga",
+  "title": "Mugen no Ryvius",
+  "titles": {
+    "default": "Mugen no Ryvius"
+  },
+  "synonyms": [
+    "Infinite Ryvius",
+    "無限のリヴァイアス",
+    "Paradise Kiss",
+    "パラダイス・キス",
+    "ParaKiss"
+  ],
+  "type": "manga",
+  "chapters": 10,
+  "volumes": 2,
+  "status": "finished",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b33489-RHwcO7y8MlOz.png"
+  ],
+  "references": {
+    "al": {
+      "id": "593",
+      "url": "https://anilist.co/anime/593"
+    },
+    "al_manga": {
+      "id": "593",
+      "url": "https://anilist.co/manga/593"
+    }
+  }
+}

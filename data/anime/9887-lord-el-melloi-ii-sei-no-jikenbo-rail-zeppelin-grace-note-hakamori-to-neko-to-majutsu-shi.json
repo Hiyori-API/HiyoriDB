@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9887,
+  "slug": "lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note-hakamori-to-neko-to-majutsu-shi",
+  "kind": "anime",
+  "title": "Lord El-Melloi II-sei no Jikenbo: \"Rail Zeppelin\" Grace note - Hakamori to Neko to Majutsu-shi",
+  "titles": {
+    "default": "Lord El-Melloi II-sei no Jikenbo: \"Rail Zeppelin\" Grace note - Hakamori to Neko to Majutsu-shi",
+    "romaji": "Lord El-Melloi II-sei no Jikenbo: \"Rail Zeppelin\" Grace note - Hakamori to Neko to Majutsu-shi",
+    "english": "Lord El-Melloi II's Case Files {Rail Zeppelin} Grace note - A Grave Keeper, a Cat, and a Mage",
+    "native": "ロード・エルメロイⅡ世の事件簿 {魔眼蒐集列車} Grace note 墓守と猫と魔術師"
+  },
+  "synonyms": [
+    "Lord El-Melloi II-sei no Jikenbo: \"Rail Zeppelin\" Grace note - Hakamori to Neko to Majutsu-shi",
+    "Lord El-Melloi II's Case Files {Rail Zeppelin} Grace note - A Grave Keeper, a Cat, and a Mage",
+    "ロード・エルメロイⅡ世の事件簿 {魔眼蒐集列車} Grace note 墓守と猫と魔術師",
+    "Steins,Gate Zero",
+    "Steins",
+    "Gate 0 Special",
+    "Steins;Gate 0: Valentine's of Crystal Polymorphism -Bittersweet Intermedio-",
+    "結晶多形のヴァレンティヌス Bittersweet Intermedio",
+    "Steins;Gate 0: Kesshou Takei no Valentine - Bittersweet Intermedio"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx106862-IFmkASZSrcGw.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "106862",
+      "url": "https://anilist.co/anime/106862"
+    },
+    "cr": {
+      "id": "lord-el-melloi-iis-case-files-rail-zeppelin-grace-note",
+      "url": "https://www.crunchyroll.com/series/lord-el-melloi-iis-case-files-rail-zeppelin-grace-note"
+    },
+    "mal": {
+      "id": "38936",
+      "url": "https://myanimelist.net/anime/38936"
+    },
+    "tx": {
+      "id": "elmelloi_anime",
+      "url": "https://twitter.com/elmelloi_anime"
+    }
+  }
+}

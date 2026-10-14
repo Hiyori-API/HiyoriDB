@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7255,
+  "slug": "futari-wa-milky-holmes",
+  "kind": "anime",
+  "title": "Futari wa Milky Holmes",
+  "titles": {
+    "default": "Futari wa Milky Holmes",
+    "romaji": "Futari wa Milky Holmes",
+    "native": "ふたりはミルキィホームズ"
+  },
+  "synonyms": [
+    "Futari wa Milky Holmes",
+    "ふたりはミルキィホームズ"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17267-NiBrRoEI3RMD.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "17267",
+      "url": "https://anilist.co/anime/17267"
+    },
+    "k": {
+      "id": "7623",
+      "url": "https://kitsu.io/anime/7623"
+    },
+    "mal": {
+      "id": "17267",
+      "url": "https://myanimelist.net/anime/17267"
+    },
+    "t": {
+      "id": "64894",
+      "url": "https://trakt.tv/shows/64894"
+    }
+  }
+}

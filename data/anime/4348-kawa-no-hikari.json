@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4348,
+  "slug": "kawa-no-hikari",
+  "kind": "anime",
+  "title": "Kawa no Hikari",
+  "titles": {
+    "default": "Kawa no Hikari",
+    "romaji": "Kawa no Hikari",
+    "native": "川の光"
+  },
+  "synonyms": [
+    "Kawa no Hikari",
+    "川の光",
+    "Light of the River",
+    "River's Light",
+    "Pikachu's Great Sparking Search!",
+    "Pokemon: Pikachu no Kirakira Daisousaku!",
+    "ピカチュウのキラキラだいそうさく！",
+    "Pocket Monsters: Pikachu no Kirakira Daisousaku"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6554.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6554",
+      "url": "https://anilist.co/anime/6554"
+    },
+    "k": {
+      "id": "4608",
+      "url": "https://kitsu.io/anime/4608"
+    },
+    "mal": {
+      "id": "6554",
+      "url": "https://myanimelist.net/anime/6554"
+    }
+  }
+}

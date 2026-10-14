@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 975,
+  "slug": "kidou-senshi-gundam-iii-meguriai-sora-hen",
+  "kind": "anime",
+  "title": "Kidou Senshi Gundam III: Meguriai Sora-hen",
+  "titles": {
+    "default": "Kidou Senshi Gundam III: Meguriai Sora-hen",
+    "romaji": "Kidou Senshi Gundam III: Meguriai Sora-hen",
+    "english": "Mobile Suit Gundam III: Encounters in Space",
+    "native": "機動戦士ガンダムⅢ　めぐりあい宇宙編"
+  },
+  "synonyms": [
+    "Kidou Senshi Gundam III: Meguriai Sora-hen",
+    "Mobile Suit Gundam III: Encounters in Space",
+    "機動戦士ガンダムⅢ　めぐりあい宇宙編",
+    "Kidou Senshi Gundam III: Meguriai Uchuu-hen",
+    "Haguregumo",
+    "浮浪雲",
+    "Wandering Clouds"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1982,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1092-OYhbgaXa6sPm.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1092",
+      "url": "https://anilist.co/anime/1092"
+    },
+    "k": {
+      "id": "5362",
+      "url": "https://kitsu.io/anime/5362"
+    },
+    "mal": {
+      "id": "1092",
+      "url": "https://myanimelist.net/anime/1092"
+    },
+    "nf": {
+      "id": "70014613",
+      "url": "https://www.netflix.com/title/70014613"
+    },
+    "yt": {
+      "id": "DX_7_8mP3oI",
+      "url": "https://www.youtube.com/watch?v=DX_7_8mP3oI"
+    }
+  }
+}

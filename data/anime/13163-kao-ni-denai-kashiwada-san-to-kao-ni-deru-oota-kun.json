@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13163,
+  "slug": "kao-ni-denai-kashiwada-san-to-kao-ni-deru-oota-kun",
+  "kind": "anime",
+  "title": "Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun",
+  "titles": {
+    "default": "Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun",
+    "romaji": "Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun",
+    "english": "Inexpressive Kashiwada and Expressive Oota",
+    "native": "顔に出ない柏田さんと顔に出る太田君"
+  },
+  "synonyms": [
+    "Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun",
+    "Inexpressive Kashiwada and Expressive Oota",
+    "顔に出ない柏田さんと顔に出る太田君",
+    "Expressionless Face Girl & Emotional Face Boy",
+    "Ring ni Kakero 1",
+    "リングにかけろ１",
+    "Put it all in the Ring"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187940-3ugUhO9h0luh.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "187940",
+      "url": "https://anilist.co/anime/187940"
+    },
+    "cr": {
+      "id": "series/GT00362007/inexpressive-kashiwada-and-expressive-oota",
+      "url": "https://www.crunchyroll.com/series/series/GT00362007/inexpressive-kashiwada-and-expressive-oota"
+    },
+    "k": {
+      "id": "14",
+      "url": "https://kitsu.io/anime/14"
+    },
+    "mal": {
+      "id": "61209",
+      "url": "https://myanimelist.net/anime/61209"
+    },
+    "t": {
+      "id": "69507",
+      "url": "https://trakt.tv/shows/69507"
+    }
+  }
+}

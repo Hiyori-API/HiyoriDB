@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2374,
+  "slug": "doraemon-nobita-no-makai-daibouken",
+  "kind": "anime",
+  "title": "Doraemon: Nobita no Makai Daibouken",
+  "titles": {
+    "default": "Doraemon: Nobita no Makai Daibouken",
+    "romaji": "Doraemon: Nobita no Makai Daibouken",
+    "english": "Doraemon: Nobita's Great Adventure in the World of Magic",
+    "native": "ドラえもん のび太の魔界大冒険"
+  },
+  "synonyms": [
+    "Doraemon: Nobita no Makai Daibouken",
+    "Doraemon: Nobita's Great Adventure in the World of Magic",
+    "ドラえもん のび太の魔界大冒険",
+    "Nagasaki no Kouma",
+    "ながさきの子うま"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1984,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2672.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2672",
+      "url": "https://anilist.co/anime/2672"
+    },
+    "k": {
+      "id": "9471",
+      "url": "https://kitsu.io/anime/9471"
+    },
+    "mal": {
+      "id": "2672",
+      "url": "https://myanimelist.net/anime/2672"
+    }
+  }
+}

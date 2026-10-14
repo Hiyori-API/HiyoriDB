@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2772,
+  "slug": "fortune-quest-l",
+  "kind": "anime",
+  "title": "Fortune Quest L",
+  "titles": {
+    "default": "Fortune Quest L",
+    "romaji": "Fortune Quest L",
+    "native": "フォーチュン·クエストL"
+  },
+  "synonyms": [
+    "Fortune Quest L",
+    "フォーチュン·クエストL",
+    "Fortune Quest TV",
+    "Fortune Quest"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3185-nYLtqNTnh7Q5.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3185",
+      "url": "https://anilist.co/anime/3185"
+    },
+    "k": {
+      "id": "2845",
+      "url": "https://kitsu.io/anime/2845"
+    },
+    "mal": {
+      "id": "3185",
+      "url": "https://myanimelist.net/anime/3185"
+    }
+  }
+}

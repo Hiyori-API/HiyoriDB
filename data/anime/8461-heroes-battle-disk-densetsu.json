@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8461,
+  "slug": "heroes-battle-disk-densetsu",
+  "kind": "anime",
+  "title": "Heroes: Battle Disk Densetsu",
+  "titles": {
+    "default": "Heroes: Battle Disk Densetsu",
+    "romaji": "Heroes: Battle Disk Densetsu",
+    "english": "Heroes: Legend of the Battle Disks",
+    "native": "ヒーローズ ～バトルディスク伝説～"
+  },
+  "synonyms": [
+    "Heroes: Battle Disk Densetsu",
+    "Heroes: Legend of the Battle Disks",
+    "ヒーローズ ～バトルディスク伝説～",
+    "HEROES(ヒーローズ)～Legend of Battle Disks～",
+    "HEROES〜Legend of Battle Disks〜",
+    "Heroes: A Lenda dos Discos de Batalha",
+    "Ninja Slayer From Animation",
+    "ニンジャスレイヤー フロムアニメイシヨン"
+  ],
+  "type": "ona",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b206517-t9hDoGUhCRl0.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "206517",
+      "url": "https://anilist.co/anime/206517"
+    },
+    "k": {
+      "id": "8642",
+      "url": "https://kitsu.io/anime/8642"
+    },
+    "mal": {
+      "id": "51621",
+      "url": "https://myanimelist.net/anime/51621"
+    }
+  }
+}

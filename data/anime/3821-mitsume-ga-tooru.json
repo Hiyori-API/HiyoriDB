@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3821,
+  "slug": "mitsume-ga-tooru",
+  "kind": "anime",
+  "title": "Mitsume ga Tooru",
+  "titles": {
+    "default": "Mitsume ga Tooru",
+    "romaji": "Mitsume ga Tooru",
+    "native": "三つ目がとおる"
+  },
+  "synonyms": [
+    "Mitsume ga Tooru",
+    "三つ目がとおる",
+    "The Three-Eyed One"
+  ],
+  "type": "tv",
+  "episodes": 48,
+  "status": "finished",
+  "season": "fall",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5249-azgs2i5vKwLa.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5249",
+      "url": "https://anilist.co/anime/5249"
+    },
+    "k": {
+      "id": "4011",
+      "url": "https://kitsu.io/anime/4011"
+    },
+    "mal": {
+      "id": "5249",
+      "url": "https://myanimelist.net/anime/5249"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6427,
+  "slug": "ona-2",
+  "kind": "anime",
+  "title": "Ona ×2",
+  "titles": {
+    "default": "Ona ×2",
+    "romaji": "Ona ×2",
+    "english": "Solo Sex",
+    "native": "オナ×2"
+  },
+  "synonyms": [
+    "Ona ×2",
+    "Solo Sex",
+    "オナ×2",
+    "Onanie",
+    "Onax2",
+    "Armored Trooper Votoms: Alone Again",
+    "Soukou Kihei Votoms: Koei Futatabi",
+    "装甲騎兵ボトムズ 孤影再び",
+    "Soko Kihei Votoms: Koei Futatabi",
+    "Armored Trooper VOTOMS: Chirico’s Return"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10424.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10424",
+      "url": "https://anilist.co/anime/10424"
+    },
+    "k": {
+      "id": "5270",
+      "url": "https://kitsu.io/anime/5270"
+    },
+    "mal": {
+      "id": "10424",
+      "url": "https://myanimelist.net/anime/10424"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15006,
+  "slug": "the-hard",
+  "kind": "manga",
+  "title": "The Hard",
+  "titles": {
+    "default": "The Hard"
+  },
+  "synonyms": [
+    "ザ・ハード",
+    "Shouryou Tsukai Elementalors",
+    "精霊使いエレメンタラー",
+    "Elementalors",
+    "Shouryou Tsukai Erementara",
+    "les Elémentalistes"
+  ],
+  "type": "manga",
+  "chapters": 90,
+  "volumes": 17,
+  "status": "finished",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/56125-d9qsUhweY92D.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4522",
+      "url": "https://anilist.co/anime/4522"
+    },
+    "al_manga": {
+      "id": "4522",
+      "url": "https://anilist.co/manga/4522"
+    }
+  }
+}

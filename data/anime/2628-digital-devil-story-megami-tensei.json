@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2628,
+  "slug": "digital-devil-story-megami-tensei",
+  "kind": "anime",
+  "title": "Digital Devil Story: Megami Tensei",
+  "titles": {
+    "default": "Digital Devil Story: Megami Tensei",
+    "romaji": "Digital Devil Story: Megami Tensei",
+    "english": "Digital Devil",
+    "native": "デジタル・デビル物語 女神転生"
+  },
+  "synonyms": [
+    "Digital Devil Story: Megami Tensei",
+    "Digital Devil",
+    "デジタル・デビル物語 女神転生",
+    "デジタル・デビル・ストーリー",
+    "Digital Devil Monogatari",
+    "Digital Devil: Incarnazione infernale",
+    "L'histoire du démon numérique",
+    "Pants no Ana",
+    "パンツの穴",
+    "Pantsu no Ana",
+    "Pants no Ana: Mambo de Ganbo",
+    "Holey Pants: Desire on a Stroll"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2983.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2983",
+      "url": "https://anilist.co/anime/2983"
+    },
+    "k": {
+      "id": "5345",
+      "url": "https://kitsu.io/anime/5345"
+    },
+    "mal": {
+      "id": "2983",
+      "url": "https://myanimelist.net/anime/2983"
+    }
+  }
+}

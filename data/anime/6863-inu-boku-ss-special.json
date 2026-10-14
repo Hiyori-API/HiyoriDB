@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6863,
+  "slug": "inu-boku-ss-special",
+  "kind": "anime",
+  "title": "Inu × Boku SS Special",
+  "titles": {
+    "default": "Inu × Boku SS Special",
+    "romaji": "Inu × Boku SS Special",
+    "english": "Inu X Boku Secret Service Special",
+    "native": "妖狐×僕SS"
+  },
+  "synonyms": [
+    "Inu × Boku SS Special",
+    "Inu X Boku Secret Service Special",
+    "妖狐×僕SS",
+    "Youko x Boku SS Special",
+    "Inu x Boku SS Special"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx13403-ZiDaNcISs95n.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "13403",
+      "url": "https://anilist.co/anime/13403"
+    },
+    "k": {
+      "id": "6954",
+      "url": "https://kitsu.io/anime/6954"
+    },
+    "mal": {
+      "id": "13403",
+      "url": "https://myanimelist.net/anime/13403"
+    }
+  }
+}

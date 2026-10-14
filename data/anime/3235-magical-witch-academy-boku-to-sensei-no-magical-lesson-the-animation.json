@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3235,
+  "slug": "magical-witch-academy-boku-to-sensei-no-magical-lesson-the-animation",
+  "kind": "anime",
+  "title": "MAGICAL WITCH ACADEMY: Boku to Sensei no Magical Lesson - The Animation",
+  "titles": {
+    "default": "MAGICAL WITCH ACADEMY: Boku to Sensei no Magical Lesson - The Animation",
+    "romaji": "MAGICAL WITCH ACADEMY: Boku to Sensei no Magical Lesson - The Animation",
+    "native": "MAGICAL WITCH ACADEMY～ボクと先生のマジカルレッスン～ The Animation"
+  },
+  "synonyms": [
+    "MAGICAL WITCH ACADEMY: Boku to Sensei no Magical Lesson - The Animation",
+    "MAGICAL WITCH ACADEMY～ボクと先生のマジカルレッスン～ The Animation",
+    "Bludgeoning Angel Dokuro-chan 2",
+    "Bokusatsu Tenshi Dokuro-chan 2",
+    "撲殺天使ドクロちゃん2[セカンド]",
+    "Club-To-Death Angel Dokuro-chan 2"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3916.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3916",
+      "url": "https://anilist.co/anime/3916"
+    },
+    "cr": {
+      "id": "series/G6MEX4N4R/bludgeoning-angel-dokuro-chan",
+      "url": "https://www.crunchyroll.com/series/series/G6MEX4N4R/bludgeoning-angel-dokuro-chan"
+    },
+    "k": {
+      "id": "1928",
+      "url": "https://kitsu.io/anime/1928"
+    },
+    "mal": {
+      "id": "3916",
+      "url": "https://myanimelist.net/anime/3916"
+    }
+  }
+}

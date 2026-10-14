@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7969,
+  "slug": "baby-gamba",
+  "kind": "anime",
+  "title": "Baby Gamba",
+  "titles": {
+    "default": "Baby Gamba",
+    "romaji": "Baby Gamba",
+    "native": "ベビーガンバ"
+  },
+  "synonyms": [
+    "Baby Gamba",
+    "ベビーガンバ",
+    "JINSEI -Life Consulting-",
+    "Jinsei",
+    "人生相談テレビアニメーション「人生」",
+    "Life"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b108994-27EKKcOfJA25.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "108994",
+      "url": "https://anilist.co/anime/108994"
+    },
+    "cr": {
+      "id": "series/G5PHNM7G1/jinsei---life-consulting",
+      "url": "https://www.crunchyroll.com/series/series/G5PHNM7G1/jinsei---life-consulting"
+    },
+    "k": {
+      "id": "8157",
+      "url": "https://kitsu.io/anime/8157"
+    },
+    "mal": {
+      "id": "35710",
+      "url": "https://myanimelist.net/anime/35710"
+    },
+    "t": {
+      "id": "77561",
+      "url": "https://trakt.tv/shows/77561"
+    }
+  }
+}

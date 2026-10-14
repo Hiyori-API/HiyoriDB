@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14775,
+  "slug": "esper-mami",
+  "kind": "manga",
+  "title": "Esper Mami",
+  "titles": {
+    "default": "Esper Mami"
+  },
+  "synonyms": [
+    "ESPer Mami",
+    "エスパー魔美",
+    "Esper Mami"
+  ],
+  "type": "manga",
+  "chapters": 62,
+  "volumes": 9,
+  "status": "finished",
+  "year": 1977,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx48046-URMqBAOttP26.png"
+  ],
+  "references": {
+    "al": {
+      "id": "168626",
+      "url": "https://anilist.co/anime/3023"
+    },
+    "al_manga": {
+      "id": "168626",
+      "url": "https://anilist.co/manga/168626"
+    }
+  }
+}

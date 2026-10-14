@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15714,
+  "slug": "onii-chan-no-koto-nanka-zenzen-suki-janain-dakara-ne",
+  "kind": "manga",
+  "title": "Onii-chan no Koto nanka Zenzen Suki Janain Dakara ne!!",
+  "titles": {
+    "default": "Onii-chan no Koto nanka Zenzen Suki Janain Dakara ne!!"
+  },
+  "synonyms": [
+    "Oniichan no Koto Nanka Zenzen Suki ja Nai n da kara ne",
+    "I Don’t Like You At All, Big Brother!!",
+    "お兄ちゃんのことなんかぜんぜん好きじゃないんだからねっ!!",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "chapters": 85,
+  "volumes": 12,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/11793.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10219",
+      "url": "https://anilist.co/anime/9587"
+    },
+    "al_manga": {
+      "id": "10219",
+      "url": "https://anilist.co/manga/10219"
+    }
+  }
+}

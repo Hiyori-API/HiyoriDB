@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5389,
+  "slug": "kochira-katsushikaku-kameari-kouenmae-hashutsujo-special-uwasa-no-kaipan-deka-toujou-buchou-yo-are-ga-paris-no-hi-da-gek",
+  "kind": "anime",
+  "title": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo Special: Uwasa no Kaipan Deka Toujou / Buchou yo! Are ga Paris no Hi da / Gekitotsu! Kami VS Ryoutsu",
+  "titles": {
+    "default": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo Special: Uwasa no Kaipan Deka Toujou / Buchou yo! Are ga Paris no Hi da / Gekitotsu! Kami VS Ryoutsu",
+    "romaji": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo Special: Uwasa no Kaipan Deka Toujou / Buchou yo! Are ga Paris no Hi da / Gekitotsu! Kami VS Ryoutsu",
+    "native": "こちら葛飾区亀有公園前派出所スペシャル 噂の海パン刑事登場／部長よ！あれがパリの灯だ／激突！神VS両津"
+  },
+  "synonyms": [
+    "Kochira Katsushikaku Kameari Kouenmae Hashutsujo Special: Uwasa no Kaipan Deka Toujou / Buchou yo! Are ga Paris no Hi da / Gekitotsu! Kami VS Ryoutsu",
+    "こちら葛飾区亀有公園前派出所スペシャル 噂の海パン刑事登場／部長よ！あれがパリの灯だ／激突！神VS両津",
+    "Kochikame Special 1",
+    "City Hunter: The Motion Picture",
+    "City Hunter: Goodbye My Sweetheart",
+    "シティーハンタースペシャル グッド・バイ・マイ・スイート・ハート"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b145759-fKUsTu2zcFmv.png"
+  ],
+  "references": {
+    "al": {
+      "id": "145759",
+      "url": "https://anilist.co/anime/145759"
+    },
+    "cr": {
+      "id": "city-hunter",
+      "url": "https://www.crunchyroll.com/series/city-hunter"
+    },
+    "k": {
+      "id": "1324",
+      "url": "https://kitsu.io/anime/1324"
+    },
+    "mal": {
+      "id": "1478",
+      "url": "https://myanimelist.net/anime/1478"
+    }
+  }
+}

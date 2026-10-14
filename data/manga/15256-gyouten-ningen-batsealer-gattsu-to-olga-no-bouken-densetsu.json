@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15256,
+  "slug": "gyouten-ningen-batsealer-gattsu-to-olga-no-bouken-densetsu",
+  "kind": "manga",
+  "title": "Gyouten Ningen Batsealer: Gattsu to Olga no Bouken Densetsu",
+  "titles": {
+    "default": "Gyouten Ningen Batsealer: Gattsu to Olga no Bouken Densetsu"
+  },
+  "synonyms": [
+    "仰天人間バトシーラー -ガッツとオルカの冒険伝説-",
+    "Full Moon wo Sagashite",
+    "満月〈フルムーン〉をさがして",
+    "Searching for the Full Moon",
+    "Ginyuu Meika"
+  ],
+  "type": "manga",
+  "chapters": 10,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b159264-WCxvO1f3DONV.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7109",
+      "url": "https://anilist.co/anime/7109"
+    },
+    "al_manga": {
+      "id": "7109",
+      "url": "https://anilist.co/manga/7109"
+    }
+  }
+}

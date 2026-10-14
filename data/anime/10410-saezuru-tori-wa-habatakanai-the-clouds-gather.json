@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10410,
+  "slug": "saezuru-tori-wa-habatakanai-the-clouds-gather",
+  "kind": "anime",
+  "title": "Saezuru Tori wa Habatakanai: The clouds gather",
+  "titles": {
+    "default": "Saezuru Tori wa Habatakanai: The clouds gather",
+    "romaji": "Saezuru Tori wa Habatakanai: The clouds gather",
+    "english": "Twittering Birds Never Fly: The Clouds Gather",
+    "native": "囀る鳥は羽ばたかない The clouds gather"
+  },
+  "synonyms": [
+    "Saezuru Tori wa Habatakanai: The clouds gather",
+    "Twittering Birds Never Fly: The Clouds Gather",
+    "囀る鳥は羽ばたかない The clouds gather",
+    "Pássaro que Canta Não Voa",
+    "Gekijouban Made in Abyss: Fukaki Tamashii no Reimei",
+    "Made in Abyss: Dawn of the Deep Soul",
+    "劇場版メイドインアビス 深き魂の黎明",
+    "Made in Abyss Movie 3: Fukaki Tamashii no Reimei"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109171-gJ51P8kLDxgt.png"
+  ],
+  "references": {
+    "al": {
+      "id": "109171",
+      "url": "https://anilist.co/anime/109171"
+    },
+    "mal": {
+      "id": "39761",
+      "url": "https://myanimelist.net/anime/39761"
+    },
+    "nf": {
+      "id": "81789438",
+      "url": "https://www.netflix.com/title/81789438"
+    },
+    "tx": {
+      "id": "saezuru_anime",
+      "url": "https://twitter.com/saezuru_anime"
+    }
+  }
+}

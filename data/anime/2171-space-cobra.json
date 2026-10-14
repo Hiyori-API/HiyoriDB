@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2171,
+  "slug": "space-cobra",
+  "kind": "anime",
+  "title": "Space Cobra",
+  "titles": {
+    "default": "Space Cobra",
+    "romaji": "Space Cobra",
+    "english": "Space Adventure Cobra",
+    "native": "スペースコブラ"
+  },
+  "synonyms": [
+    "Space Cobra",
+    "Space Adventure Cobra",
+    "スペースコブラ",
+    "Super Agente Cobra",
+    "Cobra"
+  ],
+  "type": "tv",
+  "episodes": 31,
+  "status": "finished",
+  "season": "fall",
+  "year": 1982,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2451-nNs4TE6zKxjW.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2451",
+      "url": "https://anilist.co/anime/2451"
+    },
+    "cr": {
+      "id": "space-adventure-cobra",
+      "url": "https://www.crunchyroll.com/series/space-adventure-cobra"
+    },
+    "k": {
+      "id": "2225",
+      "url": "https://kitsu.io/anime/2225"
+    },
+    "mal": {
+      "id": "2451",
+      "url": "https://myanimelist.net/anime/2451"
+    },
+    "t": {
+      "id": "8834",
+      "url": "https://trakt.tv/shows/8834"
+    },
+    "yt": {
+      "id": "nw6e0p8RgGY",
+      "url": "https://www.youtube.com/watch?v=nw6e0p8RgGY"
+    }
+  }
+}

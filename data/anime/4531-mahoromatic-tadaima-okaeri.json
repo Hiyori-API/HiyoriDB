@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4531,
+  "slug": "mahoromatic-tadaima-okaeri",
+  "kind": "anime",
+  "title": "Mahoromatic: Tadaima◇Okaeri",
+  "titles": {
+    "default": "Mahoromatic: Tadaima◇Okaeri",
+    "romaji": "Mahoromatic: Tadaima◇Okaeri",
+    "english": "Mahoromatic: I'm Home!",
+    "native": "まほろまてぃっく ただいま◇おかえり"
+  },
+  "synonyms": [
+    "Mahoromatic: Tadaima◇Okaeri",
+    "Mahoromatic: I'm Home!",
+    "まほろまてぃっく ただいま◇おかえり",
+    "Taishou Yakyuu Musume. Specials",
+    "大正野球娘。今夜の私は浪漫ちっくストライク",
+    "Taishou Baseball Girls",
+    "Kon-ya no Watashi wa Romantic Strike"
+  ],
+  "type": "special",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n7066-X1tpJDa2j0rH.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7066",
+      "url": "https://anilist.co/anime/7066"
+    },
+    "k": {
+      "id": "5180",
+      "url": "https://kitsu.io/anime/5180"
+    },
+    "mal": {
+      "id": "7066",
+      "url": "https://myanimelist.net/anime/7066"
+    }
+  }
+}

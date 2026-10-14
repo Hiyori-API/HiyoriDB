@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6263,
+  "slug": "hagane-no-renkinjutsushi-milos-no-seinaru-hoshi",
+  "kind": "anime",
+  "title": "Hagane no Renkinjutsushi: Milos no Seinaru Hoshi",
+  "titles": {
+    "default": "Hagane no Renkinjutsushi: Milos no Seinaru Hoshi",
+    "romaji": "Hagane no Renkinjutsushi: Milos no Seinaru Hoshi",
+    "english": "Fullmetal Alchemist: The Sacred Star of Milos",
+    "native": "鋼の錬金術師 嘆きの丘の聖なる星"
+  },
+  "synonyms": [
+    "Hagane no Renkinjutsushi: Milos no Seinaru Hoshi",
+    "Fullmetal Alchemist: The Sacred Star of Milos",
+    "鋼の錬金術師 嘆きの丘の聖なる星",
+    "Fullmetal Alchemist Movie 2",
+    "Hagane no Renkinjutsushi Movie 2",
+    "FMA Movie 2",
+    "Fullmetal Alchemist: La Estrella Sagrada de Milos",
+    "钢之炼金术师 叹息之丘的圣星",
+    "Fullmetal Alchemist – Święta Gwiazda Milos",
+    "Hagane no Renkinjutsushi: Mirosu no Sei-naru Hoshi",
+    "劇場版 鋼の錬金術師 嘆きの丘(ミロス)の聖なる星",
+    "Fullmetal Alchemist: Milos no Seinaru Hoshi"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9135-nPvbvO7QCx7L.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9135",
+      "url": "https://anilist.co/anime/9135"
+    },
+    "k": {
+      "id": "5613",
+      "url": "https://kitsu.io/anime/5613"
+    },
+    "mal": {
+      "id": "9135",
+      "url": "https://myanimelist.net/anime/9135"
+    }
+  }
+}

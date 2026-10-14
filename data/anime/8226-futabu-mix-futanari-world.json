@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8226,
+  "slug": "futabu-mix-futanari-world",
+  "kind": "anime",
+  "title": "Futabu! MIX: Futanari World",
+  "titles": {
+    "default": "Futabu! MIX: Futanari World",
+    "romaji": "Futabu! MIX: Futanari World",
+    "english": "Futabu! Mix: Futanari World",
+    "native": "ふた部! MIX ~ふたなりワールド~"
+  },
+  "synonyms": [
+    "Futabu! MIX: Futanari World",
+    "Futabu! Mix: Futanari World",
+    "ふた部! MIX ~ふたなりワールド~",
+    "Futa Club!",
+    "Saki Biyori Animation",
+    "咲日和 Animation"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21139-0Qv9f6wwNonN.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21139",
+      "url": "https://anilist.co/anime/21139"
+    },
+    "k": {
+      "id": "9563",
+      "url": "https://kitsu.io/anime/9563"
+    },
+    "mal": {
+      "id": "30583",
+      "url": "https://myanimelist.net/anime/30583"
+    }
+  }
+}

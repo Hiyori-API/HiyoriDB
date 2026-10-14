@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 202,
+  "slug": "jigoku-shoujo",
+  "kind": "anime",
+  "title": "Jigoku Shoujo",
+  "titles": {
+    "default": "Jigoku Shoujo",
+    "romaji": "Jigoku Shoujo",
+    "english": "Hell Girl",
+    "native": "地獄少女"
+  },
+  "synonyms": [
+    "Jigoku Shoujo",
+    "Hell Girl",
+    "地獄少女",
+    "Jigoku Shojo",
+    "สัญญามรณะ ธิดาอเวจี ภาคที่ 1",
+    "Sứ giả địa phủ"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx228-J2J1CI4jfyeC.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "228",
+      "url": "https://anilist.co/anime/228"
+    },
+    "k": {
+      "id": "203",
+      "url": "https://kitsu.io/anime/203"
+    },
+    "mal": {
+      "id": "228",
+      "url": "https://myanimelist.net/anime/228"
+    },
+    "t": {
+      "id": "8927",
+      "url": "https://trakt.tv/shows/8927"
+    }
+  }
+}

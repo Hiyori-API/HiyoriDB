@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2389,
+  "slug": "akai-koudan-zillion",
+  "kind": "anime",
+  "title": "Akai Koudan Zillion",
+  "titles": {
+    "default": "Akai Koudan Zillion",
+    "romaji": "Akai Koudan Zillion",
+    "english": "Zillion",
+    "native": "赤い光弾ジリオン"
+  },
+  "synonyms": [
+    "Akai Koudan Zillion",
+    "Zillion",
+    "赤い光弾ジリオン",
+    "Red Photon Zillion"
+  ],
+  "type": "tv",
+  "episodes": 31,
+  "status": "finished",
+  "season": "spring",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2688.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2688",
+      "url": "https://anilist.co/anime/2688"
+    },
+    "k": {
+      "id": "2450",
+      "url": "https://kitsu.io/anime/2450"
+    },
+    "mal": {
+      "id": "2688",
+      "url": "https://myanimelist.net/anime/2688"
+    },
+    "t": {
+      "id": "33953",
+      "url": "https://trakt.tv/shows/33953"
+    }
+  }
+}

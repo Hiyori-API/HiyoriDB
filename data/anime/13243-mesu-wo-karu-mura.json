@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13243,
+  "slug": "mesu-wo-karu-mura",
+  "kind": "anime",
+  "title": "Mesu wo Karu Mura",
+  "titles": {
+    "default": "Mesu wo Karu Mura",
+    "romaji": "Mesu wo Karu Mura",
+    "native": "牝を狩る村"
+  },
+  "synonyms": [
+    "Mesu wo Karu Mura",
+    "牝を狩る村",
+    "Samurai X: Reflection",
+    "Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou-hen",
+    "るろうに剣心 -明治剣客浪漫譚- 星霜編",
+    "Rurouni Kenshin: Seisouhen",
+    "Rurouni Kenshin OVA 2"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198344-LVBMXsAdeHU5.png"
+  ],
+  "references": {
+    "al": {
+      "id": "198344",
+      "url": "https://anilist.co/anime/198344"
+    },
+    "k": {
+      "id": "368",
+      "url": "https://kitsu.io/anime/368"
+    },
+    "mal": {
+      "id": "62537",
+      "url": "https://myanimelist.net/anime/62537"
+    }
+  }
+}

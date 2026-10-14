@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15745,
+  "slug": "nyoro-n-churuya-san",
+  "kind": "manga",
+  "title": "Nyoro-n Churuya-san",
+  "titles": {
+    "default": "Nyoro-n Churuya-san"
+  },
+  "synonyms": [
+    "Nyoron Churuya-san",
+    "にょろーん ちゅるやさん",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "volumes": 1,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/18139.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5957",
+      "url": "https://anilist.co/anime/5957"
+    },
+    "al_manga": {
+      "id": "5957",
+      "url": "https://anilist.co/manga/5957"
+    }
+  }
+}

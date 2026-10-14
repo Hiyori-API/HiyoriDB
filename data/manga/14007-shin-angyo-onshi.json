@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14007,
+  "slug": "shin-angyo-onshi",
+  "kind": "manga",
+  "title": "Shin Angyo Onshi",
+  "titles": {
+    "default": "Shin Angyo Onshi"
+  },
+  "synonyms": [
+    "Phantom Master: Dark Hero from Ruined Empire",
+    "Shin-am Heng-uhsah",
+    "The New Secret Royal Inspector",
+    "Le Nouvel Angyo Onshi",
+    "신암행어사",
+    "Blade of the Phantom Master",
+    "新暗行御史",
+    "Shin Angyo Onshi"
+  ],
+  "type": "manga",
+  "chapters": 75,
+  "volumes": 17,
+  "status": "finished",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30736-vY9gP2Vy6jQU.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "884",
+      "url": "https://anilist.co/anime/884"
+    },
+    "al_manga": {
+      "id": "884",
+      "url": "https://anilist.co/manga/884"
+    }
+  }
+}

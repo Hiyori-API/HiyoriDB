@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6377,
+  "slug": "baby-princess-3d-paradise-0-love",
+  "kind": "anime",
+  "title": "Baby Princess 3D Paradise 0 [Love]",
+  "titles": {
+    "default": "Baby Princess 3D Paradise 0 [Love]",
+    "romaji": "Baby Princess 3D Paradise 0 [Love]",
+    "native": "ベイビー・プリンセス 3Dぱらだいす0[ラブ]"
+  },
+  "synonyms": [
+    "Baby Princess 3D Paradise 0 [Love]",
+    "ベイビー・プリンセス 3Dぱらだいす0[ラブ]",
+    "Baby Princess 2D Paradise Love"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10196.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10196",
+      "url": "https://anilist.co/anime/10196"
+    },
+    "k": {
+      "id": "6071",
+      "url": "https://kitsu.io/anime/6071"
+    },
+    "mal": {
+      "id": "10196",
+      "url": "https://myanimelist.net/anime/10196"
+    }
+  }
+}

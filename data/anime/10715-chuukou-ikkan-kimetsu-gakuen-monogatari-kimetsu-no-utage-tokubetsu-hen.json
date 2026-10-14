@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10715,
+  "slug": "chuukou-ikkan-kimetsu-gakuen-monogatari-kimetsu-no-utage-tokubetsu-hen",
+  "kind": "anime",
+  "title": "Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Kimetsu no Utage Tokubetsu-hen",
+  "titles": {
+    "default": "Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Kimetsu no Utage Tokubetsu-hen",
+    "romaji": "Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Kimetsu no Utage Tokubetsu-hen",
+    "english": "Junior High and High School!! Kimetsu Academy Story: Kimetsu no Utage Special Edition",
+    "native": "中高一貫!!キメツ学園物語 ～鬼滅の宴=特別編=～"
+  },
+  "synonyms": [
+    "Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Kimetsu no Utage Tokubetsu-hen",
+    "Junior High and High School!! Kimetsu Academy Story: Kimetsu no Utage Special Edition",
+    "中高一貫!!キメツ学園物語 ～鬼滅の宴=特別編=～",
+    "Kimetsu Academy: Kimetsu no Utage Special Edition",
+    "Kimetsu Gakuen Monogatari: Demon's Banquet Special Arc",
+    "Chou Henshin Cosprayers Specials",
+    "超変身コス∞プレイヤー"
+  ],
+  "type": "special",
+  "episodes": 3,
+  "status": "finished",
+  "season": "summer",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154541-Q7djLI2ttMp9.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "154541",
+      "url": "https://anilist.co/anime/154541"
+    },
+    "cr": {
+      "id": "series/GNVHKNPP7/junior-high-and-high-school-kimetsu-academy-story",
+      "url": "https://www.crunchyroll.com/series/series/GNVHKNPP7/junior-high-and-high-school-kimetsu-academy-story"
+    },
+    "k": {
+      "id": "687",
+      "url": "https://kitsu.io/anime/687"
+    },
+    "mal": {
+      "id": "48861",
+      "url": "https://myanimelist.net/anime/48861"
+    },
+    "nf": {
+      "id": "81572035",
+      "url": "https://www.netflix.com/title/81572035"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9447,
+  "slug": "chizu-no-nai-bouken",
+  "kind": "anime",
+  "title": "Chizu no Nai Bouken",
+  "titles": {
+    "default": "Chizu no Nai Bouken",
+    "romaji": "Chizu no Nai Bouken",
+    "native": "地図のない冒険"
+  },
+  "synonyms": [
+    "Chizu no Nai Bouken",
+    "地図のない冒険",
+    "Adventure Without a Map",
+    "Our Jury Story",
+    "Bokura no Saibanin Monogatari",
+    "ぼくらの裁判員物語"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119788-M8a37nwddoKe.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "119788",
+      "url": "https://anilist.co/anime/119788"
+    },
+    "k": {
+      "id": "4614",
+      "url": "https://kitsu.io/anime/4614"
+    },
+    "mal": {
+      "id": "35610",
+      "url": "https://myanimelist.net/anime/35610"
+    }
+  }
+}

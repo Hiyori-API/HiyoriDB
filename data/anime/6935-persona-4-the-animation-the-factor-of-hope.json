@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6935,
+  "slug": "persona-4-the-animation-the-factor-of-hope",
+  "kind": "anime",
+  "title": "Persona 4 the Animation: the Factor of Hope",
+  "titles": {
+    "default": "Persona 4 the Animation: the Factor of Hope",
+    "romaji": "Persona 4 the Animation: the Factor of Hope",
+    "english": "Persona 4 The Animation: The Factor of Hope",
+    "native": "ペルソナ4 the Animation -the Factor of Hope-"
+  },
+  "synonyms": [
+    "Persona 4 the Animation: the Factor of Hope",
+    "Persona 4 The Animation: The Factor of Hope",
+    "ペルソナ4 the Animation -the Factor of Hope-",
+    "P4A: The Factor of Hope",
+    "Persona 4 the Animation: The Factor of Hope"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/14267.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "14267",
+      "url": "https://anilist.co/anime/14267"
+    },
+    "k": {
+      "id": "7106",
+      "url": "https://kitsu.io/anime/7106"
+    },
+    "mal": {
+      "id": "14267",
+      "url": "https://myanimelist.net/anime/14267"
+    }
+  }
+}

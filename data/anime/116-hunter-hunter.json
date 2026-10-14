@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 116,
+  "slug": "hunter-hunter",
+  "kind": "anime",
+  "title": "HUNTER×HUNTER",
+  "titles": {
+    "default": "HUNTER×HUNTER",
+    "romaji": "HUNTER×HUNTER",
+    "english": "Hunter x Hunter"
+  },
+  "synonyms": [
+    "HUNTER×HUNTER",
+    "Hunter x Hunter",
+    "ハンターxハンター",
+    "HxH",
+    "全职猎人",
+    "القناص",
+    "HUNTER×HUNTER（ハンター×ハンター）",
+    "Hantā Hantā"
+  ],
+  "type": "tv",
+  "episodes": 62,
+  "status": "finished",
+  "season": "fall",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136-gj0bbCpDNrKG.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "136",
+      "url": "https://anilist.co/anime/136"
+    },
+    "k": {
+      "id": "115",
+      "url": "https://kitsu.io/anime/115"
+    },
+    "mal": {
+      "id": "136",
+      "url": "https://myanimelist.net/anime/136"
+    },
+    "t": {
+      "id": "45698",
+      "url": "https://trakt.tv/shows/45698"
+    }
+  }
+}

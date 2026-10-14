@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4476,
+  "slug": "wolverine",
+  "kind": "anime",
+  "title": "Wolverine",
+  "titles": {
+    "default": "Wolverine",
+    "romaji": "Wolverine",
+    "native": "ウルヴァリン"
+  },
+  "synonyms": [
+    "Wolverine",
+    "ウルヴァリン"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6918.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6918",
+      "url": "https://anilist.co/anime/6918"
+    },
+    "k": {
+      "id": "4785",
+      "url": "https://kitsu.io/anime/4785"
+    },
+    "mal": {
+      "id": "6918",
+      "url": "https://myanimelist.net/anime/6918"
+    },
+    "nf": {
+      "id": "70205687",
+      "url": "https://www.netflix.com/title/70205687"
+    },
+    "t": {
+      "id": "38087",
+      "url": "https://trakt.tv/shows/38087"
+    }
+  }
+}

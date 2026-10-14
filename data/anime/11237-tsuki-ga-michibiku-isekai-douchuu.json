@@ -1,0 +1,58 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11237,
+  "slug": "tsuki-ga-michibiku-isekai-douchuu",
+  "kind": "anime",
+  "title": "Tsuki ga Michibiku Isekai Douchuu",
+  "titles": {
+    "default": "Tsuki ga Michibiku Isekai Douchuu",
+    "romaji": "Tsuki ga Michibiku Isekai Douchuu",
+    "english": "TSUKIMICHI -Moonlit Fantasy-",
+    "native": "月が導く異世界道中"
+  },
+  "synonyms": [
+    "Tsuki ga Michibiku Isekai Douchuu",
+    "TSUKIMICHI -Moonlit Fantasy-",
+    "月が導く異世界道中",
+    "Moon-led Journey Across Another World",
+    "จันทรานำพาสู่ต่างโลก",
+    "月光下的异世界之旅",
+    "Благословлённое лунным светом приключение в другом мире",
+    "DearS",
+    "ディアーズ"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx125206-O2MsOWdW1lVi.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "125206",
+      "url": "https://anilist.co/anime/125206"
+    },
+    "cr": {
+      "id": "series/GZJH3D719/tsukimichi-moonlit-fantasy-",
+      "url": "https://www.crunchyroll.com/series/series/GZJH3D719/tsukimichi-moonlit-fantasy-"
+    },
+    "k": {
+      "id": "44",
+      "url": "https://kitsu.io/anime/44"
+    },
+    "mal": {
+      "id": "43523",
+      "url": "https://myanimelist.net/anime/43523"
+    },
+    "t": {
+      "id": "61051",
+      "url": "https://trakt.tv/shows/61051"
+    },
+    "tx": {
+      "id": "tsukimichi_pr",
+      "url": "https://twitter.com/tsukimichi_pr"
+    }
+  }
+}

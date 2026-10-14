@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1663,
+  "slug": "midnight-eye-gokuu",
+  "kind": "anime",
+  "title": "MIDNIGHT EYE: Gokuu",
+  "titles": {
+    "default": "MIDNIGHT EYE: Gokuu",
+    "romaji": "MIDNIGHT EYE: Gokuu",
+    "english": "Midnight Eye Goku",
+    "native": "MIDNIGHT EYE ゴクウ"
+  },
+  "synonyms": [
+    "MIDNIGHT EYE: Gokuu",
+    "Midnight Eye Goku",
+    "MIDNIGHT EYE ゴクウ",
+    "MIDNIGHT EYE: Goku",
+    "Goku: Midnight Eye",
+    "Midnight Eye: Gokuu",
+    "MIDNIGHT EYE　ゴクウ"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1879-aXajB1HumIY4.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1879",
+      "url": "https://anilist.co/anime/1879"
+    },
+    "ap": {
+      "id": "B07F1PS9X9",
+      "url": "https://www.amazon.com/gp/video/detail/B07F1PS9X9"
+    },
+    "cr": {
+      "id": "midnight-eye-goku",
+      "url": "https://www.crunchyroll.com/series/midnight-eye-goku"
+    },
+    "k": {
+      "id": "1691",
+      "url": "https://kitsu.io/anime/1691"
+    },
+    "mal": {
+      "id": "1879",
+      "url": "https://myanimelist.net/anime/1879"
+    },
+    "ttv": {
+      "id": "4538",
+      "url": "https://tubitv.com/series/4538"
+    }
+  }
+}

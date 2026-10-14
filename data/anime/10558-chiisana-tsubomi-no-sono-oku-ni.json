@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10558,
+  "slug": "chiisana-tsubomi-no-sono-oku-ni",
+  "kind": "anime",
+  "title": "Chiisana Tsubomi no Sono Oku ni...",
+  "titles": {
+    "default": "Chiisana Tsubomi no Sono Oku ni...",
+    "romaji": "Chiisana Tsubomi no Sono Oku ni...",
+    "native": "小さな蕾のその奥に……"
+  },
+  "synonyms": [
+    "Chiisana Tsubomi no Sono Oku ni...",
+    "小さな蕾のその奥に……",
+    "Behind the Small Buds...",
+    "Hitsuji no Uta",
+    "羊のうた",
+    "Lament of the Lamb",
+    "Song Of Ram",
+    "Song of Sheep",
+    "Song of the Sheep",
+    "Sheep's Song"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "spring",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115115-CE8Z8fzSvqaY.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "115115",
+      "url": "https://anilist.co/anime/115115"
+    },
+    "k": {
+      "id": "233",
+      "url": "https://kitsu.io/anime/233"
+    },
+    "mal": {
+      "id": "41236",
+      "url": "https://myanimelist.net/anime/41236"
+    }
+  }
+}

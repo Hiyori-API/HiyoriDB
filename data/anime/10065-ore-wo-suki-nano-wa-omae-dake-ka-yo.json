@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10065,
+  "slug": "ore-wo-suki-nano-wa-omae-dake-ka-yo",
+  "kind": "anime",
+  "title": "Ore wo Suki nano wa Omae dake ka yo",
+  "titles": {
+    "default": "Ore wo Suki nano wa Omae dake ka yo",
+    "romaji": "Ore wo Suki nano wa Omae dake ka yo",
+    "english": "ORESUKI: Are you the only one who loves me?",
+    "native": "俺を好きなのはお前だけかよ"
+  },
+  "synonyms": [
+    "Ore wo Suki nano wa Omae dake ka yo",
+    "ORESUKI: Are you the only one who loves me?",
+    "俺を好きなのはお前だけかよ",
+    "อุตส่าห์มีคนมาชอบทั้งที ทำไมต้องเป็นยัยนี่ด้วยนะ",
+    "Ring ni Kakero 1",
+    "リングにかけろ１",
+    "Put it all in the Ring"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104464-UdOCt3uyA2K9.png"
+  ],
+  "references": {
+    "al": {
+      "id": "104464",
+      "url": "https://anilist.co/anime/104464"
+    },
+    "cr": {
+      "id": "oresuki-are-you-the-only-one-who-loves-me",
+      "url": "https://www.crunchyroll.com/series/oresuki-are-you-the-only-one-who-loves-me"
+    },
+    "k": {
+      "id": "14",
+      "url": "https://kitsu.io/anime/14"
+    },
+    "mal": {
+      "id": "38483",
+      "url": "https://myanimelist.net/anime/38483"
+    },
+    "t": {
+      "id": "69507",
+      "url": "https://trakt.tv/shows/69507"
+    },
+    "tx": {
+      "id": "oresuki_anime",
+      "url": "https://twitter.com/oresuki_anime"
+    }
+  }
+}

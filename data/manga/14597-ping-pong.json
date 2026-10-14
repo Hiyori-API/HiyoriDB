@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14597,
+  "slug": "ping-pong",
+  "kind": "manga",
+  "title": "Ping Pong",
+  "titles": {
+    "default": "Ping Pong"
+  },
+  "synonyms": [
+    "Ping Pong",
+    "ピンポン",
+    "The Life and Times of an Idiot Section Chief",
+    "Kachou Baka Ichidachi",
+    "課長バカ一代",
+    "Kachou Baka Ichidai"
+  ],
+  "type": "manga",
+  "chapters": 55,
+  "volumes": 5,
+  "status": "finished",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx35744-JB0ACECS2Ts2.png"
+  ],
+  "references": {
+    "al": {
+      "id": "20607",
+      "url": "https://anilist.co/anime/20607"
+    },
+    "al_manga": {
+      "id": "20607",
+      "url": "https://anilist.co/manga/20607"
+    }
+  }
+}

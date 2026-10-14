@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 761,
+  "slug": "strawberry-panic",
+  "kind": "anime",
+  "title": "Strawberry Panic",
+  "titles": {
+    "default": "Strawberry Panic",
+    "romaji": "Strawberry Panic",
+    "native": "ストロベリー・パニック"
+  },
+  "synonyms": [
+    "Strawberry Panic",
+    "ストロベリー・パニック",
+    "Strawberry Panic!"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx855-hIqnp64Sovir.png"
+  ],
+  "references": {
+    "al": {
+      "id": "855",
+      "url": "https://anilist.co/anime/855"
+    },
+    "cr": {
+      "id": "strawberry-panic",
+      "url": "https://www.crunchyroll.com/series/strawberry-panic"
+    },
+    "k": {
+      "id": "757",
+      "url": "https://kitsu.io/anime/757"
+    },
+    "mal": {
+      "id": "855",
+      "url": "https://myanimelist.net/anime/855"
+    },
+    "t": {
+      "id": "36001",
+      "url": "https://trakt.tv/shows/36001"
+    },
+    "ttv": {
+      "id": "4809",
+      "url": "https://tubitv.com/series/4809"
+    }
+  }
+}

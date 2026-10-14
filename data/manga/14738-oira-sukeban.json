@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14738,
+  "slug": "oira-sukeban",
+  "kind": "manga",
+  "title": "Oira Sukeban",
+  "titles": {
+    "default": "Oira Sukeban"
+  },
+  "synonyms": [
+    "Delinquent in Drag",
+    "I'm Sukeban",
+    "Sukeban Boy",
+    "おいら女蛮",
+    "Getter Robo",
+    "ゲッターロボ"
+  ],
+  "type": "manga",
+  "chapters": 72,
+  "volumes": 7,
+  "status": "finished",
+  "year": 1974,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx38717-XLxVlPdJwkRi.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2790",
+      "url": "https://anilist.co/anime/2790"
+    },
+    "al_manga": {
+      "id": "2790",
+      "url": "https://anilist.co/manga/2790"
+    }
+  }
+}

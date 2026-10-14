@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15403,
+  "slug": "immoral",
+  "kind": "manga",
+  "title": "IMMORAL",
+  "titles": {
+    "default": "IMMORAL"
+  },
+  "synonyms": [
+    "IMMORAL",
+    "Kizoku to Nessa no Ouji",
+    "The Aristocrat and the Desert Prince",
+    "貴族と熱砂の皇子"
+  ],
+  "type": "novel",
+  "volumes": 1,
+  "status": "finished",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/90874-K61gPqDEXkRv.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6235",
+      "url": "https://anilist.co/anime/6235"
+    },
+    "al_manga": {
+      "id": "6235",
+      "url": "https://anilist.co/manga/6235"
+    }
+  }
+}

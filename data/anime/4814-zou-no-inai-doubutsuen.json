@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4814,
+  "slug": "zou-no-inai-doubutsuen",
+  "kind": "anime",
+  "title": "Zou no Inai Doubutsuen",
+  "titles": {
+    "default": "Zou no Inai Doubutsuen",
+    "romaji": "Zou no Inai Doubutsuen",
+    "native": "象のいない動物園"
+  },
+  "synonyms": [
+    "Zou no Inai Doubutsuen",
+    "象のいない動物園",
+    "Zoo Without an Elephant",
+    "Haguregumo",
+    "浮浪雲",
+    "Wandering Clouds"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1982,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11097.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11097",
+      "url": "https://anilist.co/anime/11097"
+    },
+    "k": {
+      "id": "5362",
+      "url": "https://kitsu.io/anime/5362"
+    },
+    "mal": {
+      "id": "11097",
+      "url": "https://myanimelist.net/anime/11097"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 624,
+  "slug": "otogi-story-tenshi-no-shippo",
+  "kind": "anime",
+  "title": "Otogi Story Tenshi no Shippo",
+  "titles": {
+    "default": "Otogi Story Tenshi no Shippo",
+    "romaji": "Otogi Story Tenshi no Shippo",
+    "english": "Angel Tales",
+    "native": "おとぎストーリー　天使のしっぽ"
+  },
+  "synonyms": [
+    "Otogi Story Tenshi no Shippo",
+    "Angel Tales",
+    "おとぎストーリー　天使のしっぽ",
+    "Angel's Tail",
+    "Fairy Tale Angel Tail",
+    "Angel Tails"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b682-wuntOr51kvZm.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "682",
+      "url": "https://anilist.co/anime/682"
+    },
+    "k": {
+      "id": "623",
+      "url": "https://kitsu.io/anime/623"
+    },
+    "mal": {
+      "id": "682",
+      "url": "https://myanimelist.net/anime/682"
+    },
+    "t": {
+      "id": "34710",
+      "url": "https://trakt.tv/shows/34710"
+    },
+    "ttv": {
+      "id": "300006467",
+      "url": "https://tubitv.com/series/300006466"
+    }
+  }
+}

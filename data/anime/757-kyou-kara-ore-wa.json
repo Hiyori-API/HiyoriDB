@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 757,
+  "slug": "kyou-kara-ore-wa",
+  "kind": "anime",
+  "title": "Kyou kara Ore wa!!",
+  "titles": {
+    "default": "Kyou kara Ore wa!!",
+    "romaji": "Kyou kara Ore wa!!",
+    "native": "今日から俺は!!"
+  },
+  "synonyms": [
+    "Kyou kara Ore wa!!",
+    "今日から俺は!!",
+    "From Today on I am",
+    "From Today I'll",
+    "Due come noi!!",
+    "Kyou Kara Ore Ha!!",
+    "From Today, It's My Turn!!",
+    "今日から俺は！！"
+  ],
+  "type": "ova",
+  "episodes": 10,
+  "status": "finished",
+  "season": "spring",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx851-iuPWbPLMlUgs.png"
+  ],
+  "references": {
+    "al": {
+      "id": "851",
+      "url": "https://anilist.co/anime/851"
+    },
+    "mal": {
+      "id": "851",
+      "url": "https://myanimelist.net/anime/851"
+    }
+  }
+}

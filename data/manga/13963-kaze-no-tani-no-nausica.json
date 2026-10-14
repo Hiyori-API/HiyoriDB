@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13963,
+  "slug": "kaze-no-tani-no-nausica",
+  "kind": "manga",
+  "title": "Kaze no Tani no Nausicaä",
+  "titles": {
+    "default": "Kaze no Tani no Nausicaä"
+  },
+  "synonyms": [
+    "Kaze no Tani no Naushika",
+    "Kaze no Tani no Nausicaa",
+    "Nausicaä do Vale do Vento",
+    "Nausicaä de la Vallée du Vent",
+    "Nausicaä della Valle del vento",
+    "Nausicaä aus dem Tal der Winde",
+    "Nausikaja od Vetrovite doline",
+    "Nausicaä z Doliny Wiatru",
+    "Naušika z Větrného údolí",
+    "Nausicaä of the Valley of the Wind",
+    "風の谷のナウシカ",
+    "Kaze no Tani no Nausicaä",
+    "Naušika z Větrného údol"
+  ],
+  "type": "manga",
+  "chapters": 59,
+  "volumes": 7,
+  "status": "finished",
+  "year": 1982,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30651-xLufeLnDPqpn.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "572",
+      "url": "https://anilist.co/anime/572"
+    },
+    "al_manga": {
+      "id": "572",
+      "url": "https://anilist.co/manga/572"
+    }
+  }
+}

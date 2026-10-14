@@ -1,0 +1,63 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11362,
+  "slug": "jujutsu-kaisen-0",
+  "kind": "anime",
+  "title": "Jujutsu Kaisen 0",
+  "titles": {
+    "default": "Jujutsu Kaisen 0",
+    "romaji": "Jujutsu Kaisen 0",
+    "english": "JUJUTSU KAISEN 0",
+    "native": "呪術廻戦 0"
+  },
+  "synonyms": [
+    "Jujutsu Kaisen 0",
+    "JUJUTSU KAISEN 0",
+    "呪術廻戦 0",
+    "JJK 0",
+    "咒术回战0",
+    "มหาเวทย์ผนึกมาร : ซีโร่",
+    "‎جوجوتسو كايسن 0",
+    "Jujutsu Kaisen Movie",
+    "Магическая битва 0",
+    "Evangelion: 3.0+1.0 Thrice Upon a Time",
+    "Shin Evangelion Gekijouban :||",
+    "シン・エヴァンゲリオン劇場版:||",
+    "Evangelion: 4.0",
+    "Rebuild of Evangelion 4.0"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131573-rpl82vDEDRm6.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "131573",
+      "url": "https://anilist.co/anime/131573"
+    },
+    "cr": {
+      "id": "jujutsu-kaisen",
+      "url": "https://www.crunchyroll.com/series/jujutsu-kaisen"
+    },
+    "k": {
+      "id": "3252",
+      "url": "https://kitsu.io/anime/3252"
+    },
+    "mal": {
+      "id": "48561",
+      "url": "https://myanimelist.net/anime/48561"
+    },
+    "nf": {
+      "id": "81602834",
+      "url": "https://www.netflix.com/title/81602834"
+    },
+    "tx": {
+      "id": "animejujutsu",
+      "url": "https://twitter.com/animejujutsu"
+    }
+  }
+}

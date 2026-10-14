@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13789,
+  "slug": "d-n-angel",
+  "kind": "manga",
+  "title": "D・N・ANGEL",
+  "titles": {
+    "default": "D・N・ANGEL"
+  },
+  "synonyms": [
+    "ディー・エヌ・エンジェル",
+    "D.N. Angel",
+    "DN Angel",
+    "DNAngel",
+    "Demonen Igen",
+    "Ou Magake Again",
+    "OumagaAGAIN",
+    "D.N.Angel",
+    "D・N・ANGEL",
+    "N is for Nishiki",
+    "Protecting The Kanno House"
+  ],
+  "type": "manga",
+  "chapters": 116,
+  "volumes": 20,
+  "status": "finished",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30094-33BqPhZ2HhMh.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "61",
+      "url": "https://anilist.co/anime/61"
+    },
+    "al_manga": {
+      "id": "61",
+      "url": "https://anilist.co/manga/61"
+    }
+  }
+}

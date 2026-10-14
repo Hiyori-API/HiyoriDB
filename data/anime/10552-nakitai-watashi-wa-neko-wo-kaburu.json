@@ -1,0 +1,58 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10552,
+  "slug": "nakitai-watashi-wa-neko-wo-kaburu",
+  "kind": "anime",
+  "title": "Nakitai Watashi wa Neko wo Kaburu",
+  "titles": {
+    "default": "Nakitai Watashi wa Neko wo Kaburu",
+    "romaji": "Nakitai Watashi wa Neko wo Kaburu",
+    "english": "A Whisker Away",
+    "native": "泣きたい私は猫をかぶる"
+  },
+  "synonyms": [
+    "Nakitai Watashi wa Neko wo Kaburu",
+    "A Whisker Away",
+    "泣きたい私は猫をかぶる",
+    "Nakineko",
+    "Amor de Gata",
+    "Loin de moi, près de toi",
+    "Olhos de Gato",
+    "Um ein Schnurrhaar",
+    "Miyo - Un amore felino",
+    "Для тебя я стану кошкой",
+    "Appleseed (Movie)",
+    "アップルシード",
+    "Appleseed (2004)"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114963-QWMbi5ttovSK.png"
+  ],
+  "references": {
+    "al": {
+      "id": "114963",
+      "url": "https://anilist.co/anime/114963"
+    },
+    "k": {
+      "id": "35",
+      "url": "https://kitsu.io/anime/35"
+    },
+    "mal": {
+      "id": "41168",
+      "url": "https://myanimelist.net/anime/41168"
+    },
+    "nf": {
+      "id": "81281872",
+      "url": "https://www.netflix.com/title/81281872"
+    },
+    "tx": {
+      "id": "nakineko_movie",
+      "url": "https://twitter.com/nakineko_movie"
+    }
+  }
+}

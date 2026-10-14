@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1610,
+  "slug": "claymore",
+  "kind": "anime",
+  "title": "CLAYMORE",
+  "titles": {
+    "default": "CLAYMORE",
+    "romaji": "CLAYMORE",
+    "english": "Claymore"
+  },
+  "synonyms": [
+    "CLAYMORE",
+    "Claymore",
+    "クレイモア"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1818-KieLJv0qo3mO.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1818",
+      "url": "https://anilist.co/anime/1818"
+    },
+    "cr": {
+      "id": "claymore",
+      "url": "https://www.crunchyroll.com/series/claymore"
+    },
+    "k": {
+      "id": "1635",
+      "url": "https://kitsu.io/anime/1635"
+    },
+    "mal": {
+      "id": "1818",
+      "url": "https://myanimelist.net/anime/1818"
+    },
+    "t": {
+      "id": "34642",
+      "url": "https://trakt.tv/shows/34642"
+    }
+  }
+}

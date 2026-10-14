@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14969,
+  "slug": "lemon-angel",
+  "kind": "manga",
+  "title": "Lemon Angel",
+  "titles": {
+    "default": "Lemon Angel"
+  },
+  "synonyms": [
+    "Lemon Angel",
+    "レモンエンジェル",
+    "Vaelber Saga",
+    "ヴェルバーサーガ"
+  ],
+  "type": "manga",
+  "chapters": 140,
+  "volumes": 10,
+  "status": "finished",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx117538-WIB0DUgXYT7B.png"
+  ],
+  "references": {
+    "al": {
+      "id": "6065",
+      "url": "https://anilist.co/anime/6065"
+    },
+    "al_manga": {
+      "id": "6065",
+      "url": "https://anilist.co/manga/6065"
+    }
+  }
+}

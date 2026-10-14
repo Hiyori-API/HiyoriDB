@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7016,
+  "slug": "nekomonogatari-kuro",
+  "kind": "anime",
+  "title": "Nekomonogatari (Kuro)",
+  "titles": {
+    "default": "Nekomonogatari (Kuro)",
+    "romaji": "Nekomonogatari (Kuro)",
+    "english": "Nekomonogatari Black",
+    "native": "猫物語（黒）"
+  },
+  "synonyms": [
+    "Nekomonogatari (Kuro)",
+    "Nekomonogatari Black",
+    "猫物語（黒）",
+    "Nekomonogatari Black: Tsubasa Family",
+    "Nekomonogatari: Kuro"
+  ],
+  "type": "tv",
+  "episodes": 4,
+  "status": "finished",
+  "season": "fall",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15689-1Na3FwWgGk8v.png"
+  ],
+  "references": {
+    "al": {
+      "id": "15689",
+      "url": "https://anilist.co/anime/15689"
+    },
+    "cr": {
+      "id": "nekomonogatari-black",
+      "url": "https://www.crunchyroll.com/series/nekomonogatari-black"
+    },
+    "mal": {
+      "id": "15689",
+      "url": "https://myanimelist.net/anime/15689"
+    },
+    "tx": {
+      "id": "nisioisin_anime",
+      "url": "https://twitter.com/nisioisin_anime"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10412,
+  "slug": "eizouken-ni-wa-te-wo-dasu-na",
+  "kind": "anime",
+  "title": "Eizouken ni wa Te wo Dasu na!",
+  "titles": {
+    "default": "Eizouken ni wa Te wo Dasu na!",
+    "romaji": "Eizouken ni wa Te wo Dasu na!",
+    "english": "Keep Your Hands Off Eizouken!",
+    "native": "映像研には手を出すな！"
+  },
+  "synonyms": [
+    "Eizouken ni wa Te wo Dasu na!",
+    "Keep Your Hands Off Eizouken!",
+    "映像研には手を出すな！",
+    "Don't mess with the Motion Picture Club!",
+    "Hands off the Motion Picture Club!",
+    "别对映像研出手！",
+    "Ước mơ sản xuất anime",
+    "Hands off the Motion Pictures Club!",
+    "映像研には手を出すな!"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109298-suwdIUbJEPJx.png"
+  ],
+  "references": {
+    "al": {
+      "id": "109298",
+      "url": "https://anilist.co/anime/109298"
+    },
+    "cr": {
+      "id": "keep-your-hands-off-eizouken",
+      "url": "https://www.crunchyroll.com/series/keep-your-hands-off-eizouken"
+    },
+    "mal": {
+      "id": "39792",
+      "url": "https://myanimelist.net/anime/39792"
+    },
+    "nf": {
+      "id": "81416331",
+      "url": "https://www.netflix.com/title/81416331"
+    },
+    "tx": {
+      "id": "Eizouken_anime",
+      "url": "https://twitter.com/Eizouken_anime"
+    }
+  }
+}

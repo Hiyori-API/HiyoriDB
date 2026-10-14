@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4245,
+  "slug": "joseito",
+  "kind": "anime",
+  "title": "Joseito",
+  "titles": {
+    "default": "Joseito",
+    "romaji": "Joseito",
+    "english": "School Girl",
+    "native": "女生徒"
+  },
+  "synonyms": [
+    "Joseito",
+    "School Girl",
+    "女生徒"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6266.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6266",
+      "url": "https://anilist.co/anime/6266"
+    },
+    "k": {
+      "id": "4495",
+      "url": "https://kitsu.io/anime/4495"
+    },
+    "mal": {
+      "id": "6266",
+      "url": "https://myanimelist.net/anime/6266"
+    }
+  }
+}

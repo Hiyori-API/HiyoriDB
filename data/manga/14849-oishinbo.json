@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14849,
+  "slug": "oishinbo",
+  "kind": "manga",
+  "title": "Oishinbo",
+  "titles": {
+    "default": "Oishinbo"
+  },
+  "synonyms": [
+    "The Gourmet",
+    "Oishinbo",
+    "美味しんぼ",
+    "Five Star Stories",
+    "ファイブスター物語",
+    "FSS",
+    "Five Star Monogatari"
+  ],
+  "type": "manga",
+  "status": "publishing",
+  "year": 1983,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx38820-wWb99ry9W4ya.png"
+  ],
+  "references": {
+    "al": {
+      "id": "217008",
+      "url": "https://anilist.co/anime/1093"
+    },
+    "al_manga": {
+      "id": "217008",
+      "url": "https://anilist.co/manga/217008"
+    }
+  }
+}

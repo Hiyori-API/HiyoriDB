@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14293,
+  "slug": "cat-s-eye",
+  "kind": "manga",
+  "title": "Cat's Eye",
+  "titles": {
+    "default": "Cat's Eye"
+  },
+  "synonyms": [
+    "Cats Eye",
+    "CAT'S EYE 캣츠 아이 완전판",
+    "Cat's Eye",
+    "キャッツ アイ",
+    "キャッツ・アイ"
+  ],
+  "type": "manga",
+  "chapters": 158,
+  "volumes": 18,
+  "status": "finished",
+  "year": 1981,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31932-QSXklPSiF6Br.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "184718",
+      "url": "https://anilist.co/anime/2043"
+    },
+    "al_manga": {
+      "id": "184718",
+      "url": "https://anilist.co/manga/184718"
+    }
+  }
+}

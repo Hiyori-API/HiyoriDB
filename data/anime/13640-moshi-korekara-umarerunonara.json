@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13640,
+  "slug": "moshi-korekara-umarerunonara",
+  "kind": "anime",
+  "title": "Moshi, Korekara Umarerunonara",
+  "titles": {
+    "default": "Moshi, Korekara Umarerunonara",
+    "romaji": "Moshi, Korekara Umarerunonara",
+    "english": "Echo",
+    "native": "もし、これから生まれるのなら"
+  },
+  "synonyms": [
+    "Moshi, Korekara Umarerunonara",
+    "Echo",
+    "もし、これから生まれるのなら",
+    "If We Were to be Born from Now On",
+    "Cowboy Bebop: The Movie",
+    "Cowboy Bebop: Tengoku no Tobira",
+    "Cowboy Bebop: Knockin' on Heaven's Door",
+    "カウボーイビバップ天国の扉"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214068-th35W8qQmycd.png"
+  ],
+  "references": {
+    "al": {
+      "id": "214068",
+      "url": "https://anilist.co/anime/214068"
+    },
+    "k": {
+      "id": "2",
+      "url": "https://kitsu.io/anime/2"
+    },
+    "mal": {
+      "id": "63739",
+      "url": "https://myanimelist.net/anime/63739"
+    }
+  }
+}

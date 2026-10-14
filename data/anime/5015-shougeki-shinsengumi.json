@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5015,
+  "slug": "shougeki-shinsengumi",
+  "kind": "anime",
+  "title": "Shougeki Shinsengumi",
+  "titles": {
+    "default": "Shougeki Shinsengumi",
+    "romaji": "Shougeki Shinsengumi",
+    "native": "笑劇 新選組"
+  },
+  "synonyms": [
+    "Shougeki Shinsengumi",
+    "笑劇 新選組"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10369.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10369",
+      "url": "https://anilist.co/anime/10369"
+    },
+    "k": {
+      "id": "6151",
+      "url": "https://kitsu.io/anime/6151"
+    },
+    "mal": {
+      "id": "10369",
+      "url": "https://myanimelist.net/anime/10369"
+    }
+  }
+}

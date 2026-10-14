@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1703,
+  "slug": "urusei-yatsura-2-beautiful-dreamer",
+  "kind": "anime",
+  "title": "Urusei Yatsura 2: Beautiful Dreamer",
+  "titles": {
+    "default": "Urusei Yatsura 2: Beautiful Dreamer",
+    "romaji": "Urusei Yatsura 2: Beautiful Dreamer",
+    "english": "Urusei Yatsura Movie 2: Beautiful Dreamer",
+    "native": "うる星やつら2 ビューティフル・ドリーマー"
+  },
+  "synonyms": [
+    "Urusei Yatsura 2: Beautiful Dreamer",
+    "Urusei Yatsura Movie 2: Beautiful Dreamer",
+    "うる星やつら2 ビューティフル・ドリーマー"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1984,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1921-YYKPVDPdHXbH.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1921",
+      "url": "https://anilist.co/anime/1921"
+    },
+    "cr": {
+      "id": "series/GG5H5X7DK/Urusei-Yatsura-Movies",
+      "url": "https://www.crunchyroll.com/series/series/GG5H5X7DK/Urusei-Yatsura-Movies"
+    },
+    "k": {
+      "id": "1731",
+      "url": "https://kitsu.io/anime/1731"
+    },
+    "mal": {
+      "id": "1921",
+      "url": "https://myanimelist.net/anime/1921"
+    }
+  }
+}

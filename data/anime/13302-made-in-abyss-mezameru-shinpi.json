@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13302,
+  "slug": "made-in-abyss-mezameru-shinpi",
+  "kind": "anime",
+  "title": "Made in Abyss: Mezameru Shinpi",
+  "titles": {
+    "default": "Made in Abyss: Mezameru Shinpi",
+    "romaji": "Made in Abyss: Mezameru Shinpi",
+    "native": "メイドインアビス 目覚める神秘"
+  },
+  "synonyms": [
+    "Made in Abyss: Mezameru Shinpi",
+    "メイドインアビス 目覚める神秘",
+    "Made In Abyss 3",
+    "Made in Abyss: Awakening Mystery",
+    "Uru in Blue",
+    "Aoki Uru",
+    "蒼きウル",
+    "Blue Uru"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "to_be_aired",
+  "season": "fall",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx160275-cBOWJpcCGeMq.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "160275",
+      "url": "https://anilist.co/anime/160275"
+    },
+    "k": {
+      "id": "8350",
+      "url": "https://kitsu.io/anime/8350"
+    },
+    "mal": {
+      "id": "54250",
+      "url": "https://myanimelist.net/anime/54250"
+    },
+    "tx": {
+      "id": "miabyss_anime",
+      "url": "https://twitter.com/miabyss_anime"
+    }
+  }
+}

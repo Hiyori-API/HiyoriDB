@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8319,
+  "slug": "tokyo-ghoul-pinto",
+  "kind": "anime",
+  "title": "Tokyo Ghoul: [PINTO]",
+  "titles": {
+    "default": "Tokyo Ghoul: [PINTO]",
+    "romaji": "Tokyo Ghoul: [PINTO]",
+    "native": "東京喰種トーキョーグール【PINTO】"
+  },
+  "synonyms": [
+    "Tokyo Ghoul: [PINTO]",
+    "東京喰種トーキョーグール【PINTO】",
+    "Toukyou Kushu: Pinto",
+    "Tokyo Ghoul: Pinto",
+    "東京喰種 トーキョーグール【PINTO】",
+    "Tokyo Ghoul: \"Pinto\""
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21326-Vmunxqzj1umc.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21326",
+      "url": "https://anilist.co/anime/21326"
+    },
+    "cr": {
+      "id": "tokyo-ghoul",
+      "url": "https://www.crunchyroll.com/series/tokyo-ghoul"
+    },
+    "mal": {
+      "id": "31297",
+      "url": "https://myanimelist.net/anime/31297"
+    }
+  }
+}

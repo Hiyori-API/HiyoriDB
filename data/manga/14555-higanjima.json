@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14555,
+  "slug": "higanjima",
+  "kind": "manga",
+  "title": "Higanjima",
+  "titles": {
+    "default": "Higanjima"
+  },
+  "synonyms": [
+    "피안도",
+    "彼岸島",
+    "Fujisan",
+    "富士山",
+    "Fuji-san"
+  ],
+  "type": "manga",
+  "chapters": 330,
+  "volumes": 33,
+  "status": "finished",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx35227-F9bLj2lpfqAo.png"
+  ],
+  "references": {
+    "al": {
+      "id": "97715",
+      "url": "https://anilist.co/anime/97715"
+    },
+    "al_manga": {
+      "id": "97715",
+      "url": "https://anilist.co/manga/97715"
+    }
+  }
+}

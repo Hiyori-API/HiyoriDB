@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2152,
+  "slug": "discipline",
+  "kind": "anime",
+  "title": "Discipline",
+  "titles": {
+    "default": "Discipline",
+    "romaji": "Discipline",
+    "english": "Discipline: The Hentai Academy",
+    "native": "ディシプリン"
+  },
+  "synonyms": [
+    "Discipline",
+    "Discipline: The Hentai Academy",
+    "ディシプリン",
+    "Discipline - The record of a Crusade -",
+    "Joe vs Joe",
+    "Futari no Joe",
+    "ふたりのジョー",
+    "Joe vs. Joe"
+  ],
+  "type": "ova",
+  "episodes": 6,
+  "status": "finished",
+  "season": "spring",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2432.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2432",
+      "url": "https://anilist.co/anime/2432"
+    },
+    "k": {
+      "id": "3548",
+      "url": "https://kitsu.io/anime/3548"
+    },
+    "mal": {
+      "id": "2432",
+      "url": "https://myanimelist.net/anime/2432"
+    }
+  }
+}

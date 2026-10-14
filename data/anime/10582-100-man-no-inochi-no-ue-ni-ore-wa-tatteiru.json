@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10582,
+  "slug": "100-man-no-inochi-no-ue-ni-ore-wa-tatteiru",
+  "kind": "anime",
+  "title": "100-man no Inochi no Ue ni Ore wa Tatteiru",
+  "titles": {
+    "default": "100-man no Inochi no Ue ni Ore wa Tatteiru",
+    "romaji": "100-man no Inochi no Ue ni Ore wa Tatteiru",
+    "english": "I'm Standing on a Million Lives",
+    "native": "100万の命の上に俺は立っている"
+  },
+  "synonyms": [
+    "100-man no Inochi no Ue ni Ore wa Tatteiru",
+    "I'm Standing on a Million Lives",
+    "100万の命の上に俺は立っている",
+    "I'm standing on 1,000,000 lives.",
+    "ข้าก้าวผ่าน 1 ล้านชีวิตเพื่อพิชิตเกมมรณะ",
+    "Haikyu!! TO THE TOP 2nd-cour, Haikyu!! TO THE TOP Part 2",
+    "Haikyu!! To the Top 2nd-cour",
+    "ハイキュー TO THE TOP 第2クール",
+    "Haikyuu!! To the Top Part 2"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116242-JY81Khmbqysn.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "116242",
+      "url": "https://anilist.co/anime/116242"
+    },
+    "cr": {
+      "id": "im-standing-on-a-million-lives",
+      "url": "https://www.crunchyroll.com/series/im-standing-on-a-million-lives"
+    },
+    "mal": {
+      "id": "41380",
+      "url": "https://myanimelist.net/anime/41380"
+    },
+    "nf": {
+      "id": "81341942",
+      "url": "https://www.netflix.com/title/81341942"
+    },
+    "tx": {
+      "id": "mlives_anime",
+      "url": "https://twitter.com/1000000_lives"
+    }
+  }
+}

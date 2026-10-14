@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8151,
+  "slug": "mushishi-tokubetsu-hen-suzu-no-shizuku",
+  "kind": "anime",
+  "title": "Mushishi Tokubetsu-hen: Suzu no Shizuku",
+  "titles": {
+    "default": "Mushishi Tokubetsu-hen: Suzu no Shizuku",
+    "romaji": "Mushishi Tokubetsu-hen: Suzu no Shizuku",
+    "english": "MUSHI-SHI Special: Bell Droplets",
+    "native": "蟲師 特別編「鈴の雫」"
+  },
+  "synonyms": [
+    "Mushishi Tokubetsu-hen: Suzu no Shizuku",
+    "MUSHI-SHI Special: Bell Droplets",
+    "蟲師 特別編「鈴の雫」",
+    "MUSHI-SHI: Drops of Bells",
+    "Code Geass: Akito the Exiled 3 - The Brightness Falls",
+    "Code Geass: Boukoku no Akito 3 - Kagayaku Mono Ten yori Otsu",
+    "Code Geass: Akito the Exiled - The Brightness Falls",
+    "コードギアス 亡国のアキト 第３章「輝くもの天より堕つ」"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21008-6sn1vYneDtPc.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21008",
+      "url": "https://anilist.co/anime/21008"
+    },
+    "cr": {
+      "id": "code-geass-akito-the-exiled",
+      "url": "https://www.crunchyroll.com/series/code-geass-akito-the-exiled"
+    },
+    "k": {
+      "id": "7228",
+      "url": "https://kitsu.io/anime/7228"
+    },
+    "mal": {
+      "id": "28957",
+      "url": "https://myanimelist.net/anime/28957"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8917,
+  "slug": "master-of-torque-3",
+  "kind": "anime",
+  "title": "Master of Torque 3",
+  "titles": {
+    "default": "Master of Torque 3",
+    "romaji": "Master of Torque 3",
+    "native": "マスター・オブ・トルク 3"
+  },
+  "synonyms": [
+    "Master of Torque 3",
+    "マスター・オブ・トルク 3",
+    "Noblesse Episode 0",
+    "Noblesse: Awakening"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b102101-WwLirjf8KkzY.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "102101",
+      "url": "https://anilist.co/anime/102101"
+    },
+    "mal": {
+      "id": "32059",
+      "url": "https://myanimelist.net/anime/32059"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8674,
+  "slug": "uchuu-patrol-luluco",
+  "kind": "anime",
+  "title": "Uchuu Patrol Luluco",
+  "titles": {
+    "default": "Uchuu Patrol Luluco",
+    "romaji": "Uchuu Patrol Luluco",
+    "english": "Space Patrol Luluco",
+    "native": "宇宙パトロールルル子"
+  },
+  "synonyms": [
+    "Uchuu Patrol Luluco",
+    "Space Patrol Luluco",
+    "宇宙パトロールルル子"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21637-6SulVMOqv77m.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21637",
+      "url": "https://anilist.co/anime/21637"
+    },
+    "cr": {
+      "id": "space-patrol-luluco",
+      "url": "https://www.crunchyroll.com/series/space-patrol-luluco"
+    },
+    "mal": {
+      "id": "32681",
+      "url": "https://myanimelist.net/anime/32681"
+    },
+    "tx": {
+      "id": "s_p_luluco",
+      "url": "https://twitter.com/s_p_luluco"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15473,
+  "slug": "gakuen-2-ingyaku-no-zushiki",
+  "kind": "manga",
+  "title": "Gakuen 2: Ingyaku no Zushiki",
+  "titles": {
+    "default": "Gakuen 2: Ingyaku no Zushiki"
+  },
+  "synonyms": [
+    "学園2～淫虐の図式～",
+    "Young Gun Carnaval",
+    "ヤングガン・カルナバル"
+  ],
+  "type": "novel",
+  "volumes": 1,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/97065-p9qx6O2s1jqi.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4816",
+      "url": "https://anilist.co/anime/4816"
+    },
+    "al_manga": {
+      "id": "4816",
+      "url": "https://anilist.co/manga/4816"
+    }
+  }
+}

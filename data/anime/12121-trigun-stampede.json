@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12121,
+  "slug": "trigun-stampede",
+  "kind": "anime",
+  "title": "TRIGUN STAMPEDE",
+  "titles": {
+    "default": "TRIGUN STAMPEDE",
+    "romaji": "TRIGUN STAMPEDE"
+  },
+  "synonyms": [
+    "TRIGUN STAMPEDE",
+    "トライガン スタンピード",
+    "Trigun Stampede"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2023,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151040-9QXRpaprfNmL.png"
+  ],
+  "references": {
+    "al": {
+      "id": "151040",
+      "url": "https://anilist.co/anime/151040"
+    },
+    "cr": {
+      "id": "series/GXJHM3PK5/trigun-stampede",
+      "url": "https://www.crunchyroll.com/series/series/GXJHM3PK5/trigun-stampede"
+    },
+    "mal": {
+      "id": "52093",
+      "url": "https://myanimelist.net/anime/52093"
+    },
+    "tx": {
+      "id": "trigun_anime",
+      "url": "https://twitter.com/trigun_anime"
+    }
+  }
+}

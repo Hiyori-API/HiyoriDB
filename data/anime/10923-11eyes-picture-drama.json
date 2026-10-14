@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10923,
+  "slug": "11eyes-picture-drama",
+  "kind": "anime",
+  "title": "11eyes Picture Drama",
+  "titles": {
+    "default": "11eyes Picture Drama",
+    "romaji": "11eyes Picture Drama",
+    "native": "11eyes 特典"
+  },
+  "synonyms": [
+    "11eyes Picture Drama",
+    "11eyes 特典",
+    "11eyes 映像特典"
+  ],
+  "type": "special",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b110465-88oZom1dkWPY.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "110465",
+      "url": "https://anilist.co/anime/110465"
+    },
+    "k": {
+      "id": "8495",
+      "url": "https://kitsu.io/anime/8495"
+    },
+    "mal": {
+      "id": "20557",
+      "url": "https://myanimelist.net/anime/20557"
+    }
+  }
+}

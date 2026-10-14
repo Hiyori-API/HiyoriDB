@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6851,
+  "slug": "one-off",
+  "kind": "anime",
+  "title": "one off",
+  "titles": {
+    "default": "one off",
+    "romaji": "one off",
+    "native": "わんおふ -one off-"
+  },
+  "synonyms": [
+    "one off",
+    "わんおふ -one off-",
+    "One Off"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "summer",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx13283-ve12LPFa2ddd.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "13283",
+      "url": "https://anilist.co/anime/13283"
+    },
+    "k": {
+      "id": "6932",
+      "url": "https://kitsu.io/anime/6932"
+    },
+    "mal": {
+      "id": "13283",
+      "url": "https://myanimelist.net/anime/13283"
+    }
+  }
+}

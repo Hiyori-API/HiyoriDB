@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14963,
+  "slug": "1-2-paradise",
+  "kind": "manga",
+  "title": "1+2=Paradise",
+  "titles": {
+    "default": "1+2=Paradise"
+  },
+  "synonyms": [
+    "1 + 2 = Paradise",
+    "One Plus Two Equal Paradise",
+    "Ichi tasu Ni wa Paradise",
+    "1+2=パラダイス",
+    "Vaelber Saga",
+    "ヴェルバーサーガ"
+  ],
+  "type": "manga",
+  "chapters": 25,
+  "volumes": 5,
+  "status": "finished",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx88556-c0qJPa4HZ8yR.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2730",
+      "url": "https://anilist.co/anime/2730"
+    },
+    "al_manga": {
+      "id": "2730",
+      "url": "https://anilist.co/manga/2730"
+    }
+  }
+}

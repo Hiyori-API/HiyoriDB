@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1956,
+  "slug": "flutter-of-birds-ii-tenshi-tachi-no-tsubasa",
+  "kind": "anime",
+  "title": "flutter of birds II: Tenshi-tachi no Tsubasa",
+  "titles": {
+    "default": "flutter of birds II: Tenshi-tachi no Tsubasa",
+    "romaji": "flutter of birds II: Tenshi-tachi no Tsubasa",
+    "native": "flutter of birds II 天使たちの翼"
+  },
+  "synonyms": [
+    "flutter of birds II: Tenshi-tachi no Tsubasa",
+    "flutter of birds II 天使たちの翼",
+    "Flutter of Birds 2",
+    "Eiken",
+    "Eiken: Eikenbu yori Ai wo Komete",
+    "エイケン エイケンヴより愛をこめて"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2208.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2208",
+      "url": "https://anilist.co/anime/2208"
+    },
+    "k": {
+      "id": "703",
+      "url": "https://kitsu.io/anime/703"
+    },
+    "mal": {
+      "id": "2208",
+      "url": "https://myanimelist.net/anime/2208"
+    }
+  }
+}

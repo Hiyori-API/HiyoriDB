@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7087,
+  "slug": "lupin-shanshei-pilot",
+  "kind": "anime",
+  "title": "Lupin Shanshei Pilot",
+  "titles": {
+    "default": "Lupin Shanshei Pilot",
+    "romaji": "Lupin Shanshei Pilot",
+    "native": "ルパンしゃんしぇいパイロット版"
+  },
+  "synonyms": [
+    "Lupin Shanshei Pilot",
+    "ルパンしゃんしぇいパイロット版",
+    "The Ambition of Oda Nobuna",
+    "Oda Nobuna no Yabou Recap",
+    "織田信奈の野望 総集編",
+    "Oda Nobuna no Yabou Soshuhen"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b156905-G7FqW7wYdIXS.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "156905",
+      "url": "https://anilist.co/anime/156905"
+    },
+    "k": {
+      "id": "6633",
+      "url": "https://kitsu.io/anime/6633"
+    },
+    "mal": {
+      "id": "31984",
+      "url": "https://myanimelist.net/anime/31984"
+    }
+  }
+}

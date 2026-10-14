@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5304,
+  "slug": "kero-kero-keroppi-no-sora-wo-tobetara",
+  "kind": "anime",
+  "title": "Kero Kero Keroppi no Sora wo Tobetara",
+  "titles": {
+    "default": "Kero Kero Keroppi no Sora wo Tobetara",
+    "romaji": "Kero Kero Keroppi no Sora wo Tobetara",
+    "native": "けろけろけろっぴの空をとべたら"
+  },
+  "synonyms": [
+    "Kero Kero Keroppi no Sora wo Tobetara",
+    "けろけろけろっぴの空をとべたら",
+    "Keroppi in Our Treasure",
+    "Kero Kero Keroppi no Boku-tachi no Takaramono",
+    "けろけろけろっぴのぼくたちのたからもの",
+    "Hello Kitty and Friends: Our Treasure",
+    "Keroppi and Friends: Our Treasure"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b187586-b2xQpSB9VQ8X.png"
+  ],
+  "references": {
+    "al": {
+      "id": "187586",
+      "url": "https://anilist.co/anime/187586"
+    },
+    "k": {
+      "id": "9013",
+      "url": "https://kitsu.io/anime/9013"
+    },
+    "mal": {
+      "id": "22645",
+      "url": "https://myanimelist.net/anime/22645"
+    }
+  }
+}

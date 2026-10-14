@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8309,
+  "slug": "odemashi-komajin-hoopa",
+  "kind": "anime",
+  "title": "Odemashi Komajin Hoopa",
+  "titles": {
+    "default": "Odemashi Komajin Hoopa",
+    "romaji": "Odemashi Komajin Hoopa",
+    "english": "Pokémon: Hoopa—The Mischief Pokémon",
+    "native": "おでまし小魔神フーパ"
+  },
+  "synonyms": [
+    "Odemashi Komajin Hoopa",
+    "Pokémon: Hoopa—The Mischief Pokémon",
+    "おでまし小魔神フーパ",
+    "Gintama': Futon ni Haitte kara Buki Nokoshi ni Kizuite Neru ni Nerenai Toki mo Aru",
+    "銀魂 〜布団に入ってから拭き残しに気付いて寝るに寝れない時もある〜",
+    "Gintama (2015)",
+    "Gintama OAD",
+    "Gintama OVA",
+    "Gintama: Jump Festa 2014 Special"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx21304-AltMcMNyuziw.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21304",
+      "url": "https://anilist.co/anime/21304"
+    },
+    "k": {
+      "id": "8627",
+      "url": "https://kitsu.io/anime/8627"
+    },
+    "mal": {
+      "id": "31168",
+      "url": "https://myanimelist.net/anime/31168"
+    }
+  }
+}

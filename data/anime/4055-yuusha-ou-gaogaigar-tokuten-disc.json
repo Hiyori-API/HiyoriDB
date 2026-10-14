@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4055,
+  "slug": "yuusha-ou-gaogaigar-tokuten-disc",
+  "kind": "anime",
+  "title": "Yuusha-Ou GaoGaiGar: Tokuten Disc",
+  "titles": {
+    "default": "Yuusha-Ou GaoGaiGar: Tokuten Disc",
+    "romaji": "Yuusha-Ou GaoGaiGar: Tokuten Disc",
+    "english": "GaoGaiGar Special",
+    "native": "勇者王ガオガイガー 特典Disc"
+  },
+  "synonyms": [
+    "Yuusha-Ou GaoGaiGar: Tokuten Disc",
+    "GaoGaiGar Special",
+    "勇者王ガオガイガー 特典Disc",
+    "Brave King GaoGaiGar DVD Special",
+    "King of Braves: GaoGaiGar DVD Special",
+    "Yuusha Ou Gaogaigar DVD Tokuten Disc",
+    "GaoGaiGar: Blockaded Numbers Specials"
+  ],
+  "type": "special",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5776.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5776",
+      "url": "https://anilist.co/anime/5776"
+    },
+    "k": {
+      "id": "4273",
+      "url": "https://kitsu.io/anime/4273"
+    },
+    "mal": {
+      "id": "5776",
+      "url": "https://myanimelist.net/anime/5776"
+    }
+  }
+}

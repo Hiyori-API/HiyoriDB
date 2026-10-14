@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14499,
+  "slug": "argento-soma",
+  "kind": "manga",
+  "title": "Argento Soma",
+  "titles": {
+    "default": "Argento Soma"
+  },
+  "synonyms": [
+    "AΠHENTO ΣOMA",
+    "アルジェントソーマ",
+    "Mushrambo",
+    "マシュランボー",
+    "Mashuranboo"
+  ],
+  "type": "manga",
+  "chapters": 6,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx34176-BsoOcGjY5BFF.png"
+  ],
+  "references": {
+    "al": {
+      "id": "285",
+      "url": "https://anilist.co/anime/285"
+    },
+    "al_manga": {
+      "id": "285",
+      "url": "https://anilist.co/manga/285"
+    }
+  }
+}

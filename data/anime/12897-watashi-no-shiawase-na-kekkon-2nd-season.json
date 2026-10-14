@@ -1,0 +1,66 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12897,
+  "slug": "watashi-no-shiawase-na-kekkon-2nd-season",
+  "kind": "anime",
+  "title": "Watashi no Shiawase na Kekkon 2nd Season",
+  "titles": {
+    "default": "Watashi no Shiawase na Kekkon 2nd Season",
+    "romaji": "Watashi no Shiawase na Kekkon 2nd Season",
+    "english": "My Happy Marriage Season 2",
+    "native": "わたしの幸せな結婚 第二期"
+  },
+  "synonyms": [
+    "Watashi no Shiawase na Kekkon 2nd Season",
+    "My Happy Marriage Season 2",
+    "わたしの幸せな結婚 第二期",
+    "WataKon 2",
+    "ขอให้รักเรานี้ได้มีความสุข",
+    "Moje szczęśliwe małżeństwo. Sezon 2",
+    "Hôn nhân hạnh phúc của tôi",
+    "Meu Casamento Feliz",
+    "Il mio matrimonio felice",
+    "Мій щасливий шлюб",
+    "Mi feliz matrimonio",
+    "わた婚２",
+    "Мой счастливый брак 2",
+    "El Hazard: The Alternative World",
+    "異次元の世界エルハザード",
+    "Ijigen no Sekai El Hazard",
+    "Ijigen no Sekai El-Hazard"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169441-DHutDkhkC8EN.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "169441",
+      "url": "https://anilist.co/anime/169441"
+    },
+    "k": {
+      "id": "94",
+      "url": "https://kitsu.io/anime/94"
+    },
+    "mal": {
+      "id": "56701",
+      "url": "https://myanimelist.net/anime/56701"
+    },
+    "nf": {
+      "id": "81564905",
+      "url": "https://www.netflix.com/title/81564905"
+    },
+    "t": {
+      "id": "63711",
+      "url": "https://trakt.tv/shows/63711"
+    },
+    "tx": {
+      "id": "watashino_info",
+      "url": "https://twitter.com/watashino_info"
+    }
+  }
+}

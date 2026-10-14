@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11476,
+  "slug": "getsuyoubi-no-tawawa-2",
+  "kind": "anime",
+  "title": "Getsuyoubi no Tawawa 2",
+  "titles": {
+    "default": "Getsuyoubi no Tawawa 2",
+    "romaji": "Getsuyoubi no Tawawa 2",
+    "english": "Tawawa on Monday 2",
+    "native": "月曜日のたわわ２"
+  },
+  "synonyms": [
+    "Getsuyoubi no Tawawa 2",
+    "Tawawa on Monday 2",
+    "月曜日のたわわ２",
+    "วันจันทร์คือวันดึ๋งดึ๋ง ภาค 2",
+    "Xian Wang de Richang Shenghuo Er",
+    "仙王的日常生活 贰",
+    "不死身な僕の日常 2期",
+    "The Daily Life of the Immortal King 2",
+    "仙王的日常生活 第二季",
+    "Xian Wang de Richang Shenghuo 2"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139449-slF3Yu9q7238.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "139449",
+      "url": "https://anilist.co/anime/139449"
+    },
+    "cr": {
+      "id": "tawawa-on-monday",
+      "url": "https://www.crunchyroll.com/series/tawawa-on-monday"
+    },
+    "mal": {
+      "id": "49854",
+      "url": "https://myanimelist.net/anime/49854"
+    },
+    "tx": {
+      "id": "anime_tawawa2",
+      "url": "https://twitter.com/anime_tawawa2"
+    }
+  }
+}

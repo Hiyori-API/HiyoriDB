@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7921,
+  "slug": "kyonyuu-try-tanki-shuuchuu-chichi-momi-lesson",
+  "kind": "anime",
+  "title": "Kyonyuu Try! -Tanki Shuuchuu Chichi Momi Lesson-",
+  "titles": {
+    "default": "Kyonyuu Try! -Tanki Shuuchuu Chichi Momi Lesson-",
+    "romaji": "Kyonyuu Try! -Tanki Shuuchuu Chichi Momi Lesson-",
+    "native": "巨乳トライ！ -短期集中乳揉みレッスン-"
+  },
+  "synonyms": [
+    "Kyonyuu Try! -Tanki Shuuchuu Chichi Momi Lesson-",
+    "巨乳トライ！ -短期集中乳揉みレッスン-",
+    "Busty Trial!",
+    "Busty Try",
+    "Juuza Engi: Engetsu Sangokuden - Gaiden Youzhou Genya",
+    "十三支演義～偃月三国伝～ 外伝 幽州幻夜",
+    "Juuza Engi: Engetsu Sangokuden OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx21622-nZ30YbPnhk7b.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21622",
+      "url": "https://anilist.co/anime/21622"
+    },
+    "k": {
+      "id": "8334",
+      "url": "https://kitsu.io/anime/8334"
+    },
+    "mal": {
+      "id": "24911",
+      "url": "https://myanimelist.net/anime/24911"
+    }
+  }
+}

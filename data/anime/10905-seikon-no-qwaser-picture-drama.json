@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10905,
+  "slug": "seikon-no-qwaser-picture-drama",
+  "kind": "anime",
+  "title": "Seikon no Qwaser Picture Drama",
+  "titles": {
+    "default": "Seikon no Qwaser Picture Drama",
+    "romaji": "Seikon no Qwaser Picture Drama",
+    "english": "The Qwaser Of Stigmata Picture Drama",
+    "native": "聖痕のクェイサー ピクチャードラマ"
+  },
+  "synonyms": [
+    "Seikon no Qwaser Picture Drama",
+    "The Qwaser Of Stigmata Picture Drama",
+    "聖痕のクェイサー ピクチャードラマ",
+    "Seikon no Quasar Picture Drama"
+  ],
+  "type": "special",
+  "episodes": 16,
+  "status": "finished",
+  "season": "spring",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8668.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8668",
+      "url": "https://anilist.co/anime/8668"
+    },
+    "k": {
+      "id": "5430",
+      "url": "https://kitsu.io/anime/5430"
+    },
+    "mal": {
+      "id": "8668",
+      "url": "https://myanimelist.net/anime/8668"
+    }
+  }
+}

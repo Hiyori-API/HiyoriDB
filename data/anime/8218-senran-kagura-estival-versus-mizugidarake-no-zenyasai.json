@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8218,
+  "slug": "senran-kagura-estival-versus-mizugidarake-no-zenyasai",
+  "kind": "anime",
+  "title": "Senran Kagura ESTIVAL VERSUS: Mizugidarake no Zenyasai",
+  "titles": {
+    "default": "Senran Kagura ESTIVAL VERSUS: Mizugidarake no Zenyasai",
+    "romaji": "Senran Kagura ESTIVAL VERSUS: Mizugidarake no Zenyasai",
+    "english": "Senran Kagura: Estival Versus - Festival Eve Full of Swimsuits",
+    "native": "閃乱カグラ ESTIVAL VERSUS -水着だらけの前夜祭"
+  },
+  "synonyms": [
+    "Senran Kagura ESTIVAL VERSUS: Mizugidarake no Zenyasai",
+    "Senran Kagura: Estival Versus - Festival Eve Full of Swimsuits",
+    "閃乱カグラ ESTIVAL VERSUS -水着だらけの前夜祭",
+    "Witch Craft Works: Takamiya-kun to Imouto no Warudakumi",
+    "ウィッチクラフトワークス 多華宮君と妹の悪巧み",
+    "Witchcraft Works",
+    "Witch Craft Works OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21129-0wokSF6mHpaT.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21129",
+      "url": "https://anilist.co/anime/21129"
+    },
+    "k": {
+      "id": "8257",
+      "url": "https://kitsu.io/anime/8257"
+    },
+    "mal": {
+      "id": "27967",
+      "url": "https://myanimelist.net/anime/27967"
+    }
+  }
+}

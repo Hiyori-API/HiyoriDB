@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11953,
+  "slug": "back-to-you",
+  "kind": "anime",
+  "title": "Back to You",
+  "titles": {
+    "default": "Back to You",
+    "romaji": "Back to You"
+  },
+  "synonyms": [
+    "Back to You",
+    "Dragon Raja Episode 0",
+    "Dragon Raja: An Invitation From a Foreign Land",
+    "龙族",
+    "Long Zu Episode 0"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx156865-dluWWwKbq6Xt.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "156865",
+      "url": "https://anilist.co/anime/156865"
+    },
+    "mal": {
+      "id": "52928",
+      "url": "https://myanimelist.net/anime/52928"
+    },
+    "yt": {
+      "id": "8XKdv2R5FwI",
+      "url": "https://www.youtube.com/watch?v=8XKdv2R5FwI"
+    }
+  }
+}

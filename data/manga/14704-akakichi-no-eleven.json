@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14704,
+  "slug": "akakichi-no-eleven",
+  "kind": "manga",
+  "title": "Akakichi no Eleven",
+  "titles": {
+    "default": "Akakichi no Eleven"
+  },
+  "synonyms": [
+    "Arrivano i Superboys!",
+    "Red-blooded Eleven",
+    "赤き血のイレブン",
+    "Ryuu no Michi",
+    "リュウの道",
+    "The Road of Ryuu"
+  ],
+  "type": "manga",
+  "volumes": 6,
+  "status": "finished",
+  "year": 1970,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx139280-1fXTDN95TQQ9.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2316",
+      "url": "https://anilist.co/anime/2316"
+    },
+    "al_manga": {
+      "id": "2316",
+      "url": "https://anilist.co/manga/2316"
+    }
+  }
+}

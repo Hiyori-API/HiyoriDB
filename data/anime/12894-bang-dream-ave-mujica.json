@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12894,
+  "slug": "bang-dream-ave-mujica",
+  "kind": "anime",
+  "title": "BanG Dream! Ave Mujica",
+  "titles": {
+    "default": "BanG Dream! Ave Mujica",
+    "romaji": "BanG Dream! Ave Mujica",
+    "english": "Ave Mujica - The Die is Cast -"
+  },
+  "synonyms": [
+    "BanG Dream! Ave Mujica",
+    "Ave Mujica - The Die is Cast -",
+    "バンドリ！アヴェムジカ",
+    "El Hazard: The Alternative World",
+    "異次元の世界エルハザード",
+    "Ijigen no Sekai El Hazard",
+    "Ijigen no Sekai El-Hazard"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169295-WxoGTeMbje4T.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "169295",
+      "url": "https://anilist.co/anime/169295"
+    },
+    "cr": {
+      "id": "series/G0XHWM11X/ave-mujica---the-die-is-cast--",
+      "url": "https://www.crunchyroll.com/series/series/G0XHWM11X/ave-mujica---the-die-is-cast--"
+    },
+    "k": {
+      "id": "94",
+      "url": "https://kitsu.io/anime/94"
+    },
+    "mal": {
+      "id": "56653",
+      "url": "https://myanimelist.net/anime/56653"
+    },
+    "t": {
+      "id": "63711",
+      "url": "https://trakt.tv/shows/63711"
+    },
+    "tx": {
+      "id": "BDP_AveMujica",
+      "url": "https://twitter.com/BDP_AveMujica"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13164,
+  "slug": "oideyo-mahou-shoujo-mura-fuhou-senkyo",
+  "kind": "anime",
+  "title": "Oideyo Mahou Shoujo-mura (Fuhou Senkyo)",
+  "titles": {
+    "default": "Oideyo Mahou Shoujo-mura (Fuhou Senkyo)",
+    "romaji": "Oideyo Mahou Shoujo-mura (Fuhou Senkyo)",
+    "native": "おいでよ魔法少女村（不法占拠）"
+  },
+  "synonyms": [
+    "Oideyo Mahou Shoujo-mura (Fuhou Senkyo)",
+    "おいでよ魔法少女村（不法占拠）",
+    "Welcome to Magical Girl Village (illegally occupied)",
+    "Prétear: The New Legend of Snow White",
+    "Shin Shirayuki-hime Densetsu Prétear",
+    "新白雪姫伝説プリーティア",
+    "Shin Shirayuki-hime Densetsu Pretear"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187998-eWArrPyKvfw8.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "187998",
+      "url": "https://anilist.co/anime/187998"
+    },
+    "cr": {
+      "id": "series/GRWE8VK0R/pretear",
+      "url": "https://www.crunchyroll.com/series/series/GRWE8VK0R/pretear"
+    },
+    "k": {
+      "id": "79",
+      "url": "https://kitsu.io/anime/79"
+    },
+    "mal": {
+      "id": "61206",
+      "url": "https://myanimelist.net/anime/61206"
+    },
+    "t": {
+      "id": "42703",
+      "url": "https://trakt.tv/shows/42703"
+    }
+  }
+}

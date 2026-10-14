@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9712,
+  "slug": "hyakuren-no-haou-to-seiyaku-no-valkyria",
+  "kind": "anime",
+  "title": "Hyakuren no Haou to Seiyaku no Valkyria",
+  "titles": {
+    "default": "Hyakuren no Haou to Seiyaku no Valkyria",
+    "romaji": "Hyakuren no Haou to Seiyaku no Valkyria",
+    "english": "The Master of Ragnarök & Blesser of Einherjar",
+    "native": "百錬の覇王と聖約の戦乙女"
+  },
+  "synonyms": [
+    "Hyakuren no Haou to Seiyaku no Valkyria",
+    "The Master of Ragnarök & Blesser of Einherjar",
+    "百錬の覇王と聖約の戦乙女",
+    "The Master of Ragnarok & Blesser of Einherjar",
+    "ราชาอาชาไนยกับวาลคิรีแห่งพันธสัญญา",
+    "High Score Girl",
+    "ハイスコアガール",
+    "Hi Score Girl"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101289-KXJbRU6TWA9N.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101289",
+      "url": "https://anilist.co/anime/101289"
+    },
+    "cr": {
+      "id": "the-master-of-ragnarok-blesser-of-einherjar",
+      "url": "https://www.crunchyroll.com/series/the-master-of-ragnarok-blesser-of-einherjar"
+    },
+    "k": {
+      "id": "8158",
+      "url": "https://kitsu.io/anime/8158"
+    },
+    "mal": {
+      "id": "37446",
+      "url": "https://myanimelist.net/anime/37446"
+    },
+    "nf": {
+      "id": "80997338",
+      "url": "https://www.netflix.com/title/80997338"
+    },
+    "tx": {
+      "id": "hyakuren_anime",
+      "url": "https://twitter.com/hyakuren_anime"
+    }
+  }
+}

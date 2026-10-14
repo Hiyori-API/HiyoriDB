@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7029,
+  "slug": "crash",
+  "kind": "anime",
+  "title": "Crash!",
+  "titles": {
+    "default": "Crash!",
+    "romaji": "Crash!",
+    "native": "クラッシュ！"
+  },
+  "synonyms": [
+    "Crash!",
+    "クラッシュ！",
+    "Ribbon x Oha Suta Specials",
+    "Ribon x Oha Suta Specials"
+  ],
+  "type": "special",
+  "episodes": 3,
+  "status": "finished",
+  "season": "fall",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15893-1zx1IofHLr0o.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "15893",
+      "url": "https://anilist.co/anime/15893"
+    },
+    "k": {
+      "id": "7334",
+      "url": "https://kitsu.io/anime/7334"
+    },
+    "mal": {
+      "id": "15893",
+      "url": "https://myanimelist.net/anime/15893"
+    }
+  }
+}

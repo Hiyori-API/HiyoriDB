@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2208,
+  "slug": "touch-3-kimi-ga-toorisugita-ato-ni-don-t-pass-me-by",
+  "kind": "anime",
+  "title": "Touch 3: Kimi ga Toorisugita Ato ni - DON'T PASS ME BY",
+  "titles": {
+    "default": "Touch 3: Kimi ga Toorisugita Ato ni - DON'T PASS ME BY",
+    "romaji": "Touch 3: Kimi ga Toorisugita Ato ni - DON'T PASS ME BY",
+    "native": "タッチ３ 君が通り過ぎたあとに -DON`T PASS ME BY-"
+  },
+  "synonyms": [
+    "Touch 3: Kimi ga Toorisugita Ato ni - DON'T PASS ME BY",
+    "タッチ３ 君が通り過ぎたあとに -DON`T PASS ME BY-",
+    "Touch 3: After You Passed By",
+    "Touch 3: Kimi ga Toorisugita Ato ni - Don't Pass Me By"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2493.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2493",
+      "url": "https://anilist.co/anime/2493"
+    },
+    "k": {
+      "id": "2263",
+      "url": "https://kitsu.io/anime/2263"
+    },
+    "mal": {
+      "id": "2493",
+      "url": "https://myanimelist.net/anime/2493"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13797,
+  "slug": "cardcaptor-sakura",
+  "kind": "manga",
+  "title": "Cardcaptor Sakura",
+  "titles": {
+    "default": "Cardcaptor Sakura"
+  },
+  "synonyms": [
+    "Card Captor Sakura",
+    "Cardcaptors",
+    "Cardcaptor Sakura: Master of the Clow",
+    "CCS",
+    "Sakura, Cazadora de Cartas",
+    "Sakura, la Caçadora de Cartes",
+    "סאקורה לוכדת הקלפים",
+    "Сакура, собирательница карт",
+    "庫洛魔法使",
+    "카드캡터 사쿠라",
+    "魔卡少女樱",
+    "Cardcaptor Sakura",
+    "カードキャプターさくら"
+  ],
+  "type": "manga",
+  "chapters": 50,
+  "volumes": 12,
+  "status": "finished",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30106-GgFOXeyB70xj.png"
+  ],
+  "references": {
+    "al": {
+      "id": "98554",
+      "url": "https://anilist.co/anime/372"
+    },
+    "al_manga": {
+      "id": "98554",
+      "url": "https://anilist.co/manga/98554"
+    }
+  }
+}

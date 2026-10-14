@@ -1,0 +1,31 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15787,
+  "slug": "yuyushiki",
+  "kind": "manga",
+  "title": "Yuyushiki",
+  "titles": {
+    "default": "Yuyushiki"
+  },
+  "synonyms": [
+    "Yuyu-shiki",
+    "ゆゆ式",
+    "Yuyushiki"
+  ],
+  "type": "manga",
+  "status": "publishing",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx75353-zKd6ohyN3Ts8.png"
+  ],
+  "references": {
+    "al": {
+      "id": "98344",
+      "url": "https://anilist.co/anime/15911"
+    },
+    "al_manga": {
+      "id": "98344",
+      "url": "https://anilist.co/manga/98344"
+    }
+  }
+}

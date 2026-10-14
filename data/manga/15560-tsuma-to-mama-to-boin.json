@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15560,
+  "slug": "tsuma-to-mama-to-boin",
+  "kind": "manga",
+  "title": "Tsuma to Mama to Boin",
+  "titles": {
+    "default": "Tsuma to Mama to Boin"
+  },
+  "synonyms": [
+    "妻とママとボイン",
+    "Ladies versus Butlers!",
+    "れでぃ×ばと!",
+    "Redei Bato!",
+    "Redei x Bato",
+    "Ladies vs Butlers!"
+  ],
+  "type": "novel",
+  "volumes": 1,
+  "status": "finished",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx92032-X9DaBYQ98f7C.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4607",
+      "url": "https://anilist.co/anime/4607"
+    },
+    "al_manga": {
+      "id": "4607",
+      "url": "https://anilist.co/manga/4607"
+    }
+  }
+}

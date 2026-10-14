@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12269,
+  "slug": "fuyu-no-okurimono",
+  "kind": "anime",
+  "title": "Fuyu no Okurimono",
+  "titles": {
+    "default": "Fuyu no Okurimono",
+    "romaji": "Fuyu no Okurimono",
+    "native": "冬のおくりもの"
+  },
+  "synonyms": [
+    "Fuyu no Okurimono",
+    "冬のおくりもの",
+    "Winter Present",
+    "School Days ONA",
+    "スクールデイズ",
+    "School Days"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2023,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx161505-YeKXQA77d0he.png"
+  ],
+  "references": {
+    "al": {
+      "id": "161505",
+      "url": "https://anilist.co/anime/161505"
+    },
+    "k": {
+      "id": "678",
+      "url": "https://kitsu.io/anime/678"
+    },
+    "mal": {
+      "id": "54767",
+      "url": "https://myanimelist.net/anime/54767"
+    },
+    "yt": {
+      "id": "qdTknzp6oPg",
+      "url": "https://www.youtube.com/watch?v=qdTknzp6oPg"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13141,
+  "slug": "ansatsusha-de-aru-ore-no-status-ga-yuusha-yori-mo-akiraka-ni-tsuyoi-no-da-ga",
+  "kind": "anime",
+  "title": "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
+  "titles": {
+    "default": "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
+    "romaji": "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
+    "english": "My Status as an Assassin Obviously Exceeds the Hero’s",
+    "native": "暗殺者である俺のステータスが 勇者よりも明らかに強いのだが"
+  },
+  "synonyms": [
+    "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
+    "My Status as an Assassin Obviously Exceeds the Hero’s",
+    "暗殺者である俺のステータスが 勇者よりも明らかに強いのだが",
+    "Sutetsuyo",
+    "ステつよ",
+    "ถึงเป็นแค่นักฆ่า แต่ดูยังไงข้าก็เทพกว่าผู้กล้าซะอีก",
+    "Rozen Maiden",
+    "ローゼンメイデン"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186794-Ns8xWNdMdOxq.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "186794",
+      "url": "https://anilist.co/anime/186794"
+    },
+    "cr": {
+      "id": "series/G0XHWM1JP/my-status-as-an-assassin-obviously-exceeds-the-heros",
+      "url": "https://www.crunchyroll.com/series/series/G0XHWM1JP/my-status-as-an-assassin-obviously-exceeds-the-heros"
+    },
+    "k": {
+      "id": "45",
+      "url": "https://kitsu.io/anime/45"
+    },
+    "mal": {
+      "id": "61026",
+      "url": "https://myanimelist.net/anime/61026"
+    },
+    "t": {
+      "id": "61847",
+      "url": "https://trakt.tv/shows/61847"
+    }
+  }
+}

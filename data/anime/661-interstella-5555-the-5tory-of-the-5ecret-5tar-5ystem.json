@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 661,
+  "slug": "interstella-5555-the-5tory-of-the-5ecret-5tar-5ystem",
+  "kind": "anime",
+  "title": "Interstella 5555: THE 5TORY OF THE 5ECRET 5TAR 5YSTEM",
+  "titles": {
+    "default": "Interstella 5555: THE 5TORY OF THE 5ECRET 5TAR 5YSTEM",
+    "romaji": "Interstella 5555: THE 5TORY OF THE 5ECRET 5TAR 5YSTEM",
+    "english": "Interstella 5555: The 5tory of the 5ecret 5tar 5ystem",
+    "native": "インターステラ5555：THE 5TORY OF THE 5ECRET 5TAR 5YSTEM"
+  },
+  "synonyms": [
+    "Interstella 5555: THE 5TORY OF THE 5ECRET 5TAR 5YSTEM",
+    "Interstella 5555: The 5tory of the 5ecret 5tar 5ystem",
+    "インターステラ5555：THE 5TORY OF THE 5ECRET 5TAR 5YSTEM",
+    "Interstellar 5555",
+    "インターステラ5555",
+    "RahXephon: Harmonic Convergence",
+    "RahXephon: Pluralitas Concentio",
+    "ラーゼフォン 多元変奏曲",
+    "RahXephon: Tagen Hensoukyoku"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx731-aoWO30cMR4yO.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "731",
+      "url": "https://anilist.co/anime/731"
+    },
+    "k": {
+      "id": "680",
+      "url": "https://kitsu.io/anime/680"
+    },
+    "mal": {
+      "id": "731",
+      "url": "https://myanimelist.net/anime/731"
+    }
+  }
+}

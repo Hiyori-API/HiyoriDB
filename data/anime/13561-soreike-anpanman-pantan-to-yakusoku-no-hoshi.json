@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13561,
+  "slug": "soreike-anpanman-pantan-to-yakusoku-no-hoshi",
+  "kind": "anime",
+  "title": "Soreike! Anpanman: Pantan to Yakusoku no Hoshi",
+  "titles": {
+    "default": "Soreike! Anpanman: Pantan to Yakusoku no Hoshi",
+    "romaji": "Soreike! Anpanman: Pantan to Yakusoku no Hoshi",
+    "native": "それいけ！アンパンマン　パンタンと約束の星"
+  },
+  "synonyms": [
+    "Soreike! Anpanman: Pantan to Yakusoku no Hoshi",
+    "それいけ！アンパンマン　パンタンと約束の星",
+    "Cowboy Bebop: The Movie",
+    "Cowboy Bebop: Tengoku no Tobira",
+    "Cowboy Bebop: Knockin' on Heaven's Door",
+    "カウボーイビバップ天国の扉"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206682-4WTTVkPfiVPh.png"
+  ],
+  "references": {
+    "al": {
+      "id": "206682",
+      "url": "https://anilist.co/anime/206682"
+    },
+    "k": {
+      "id": "2",
+      "url": "https://kitsu.io/anime/2"
+    },
+    "mal": {
+      "id": "63356",
+      "url": "https://myanimelist.net/anime/63356"
+    }
+  }
+}

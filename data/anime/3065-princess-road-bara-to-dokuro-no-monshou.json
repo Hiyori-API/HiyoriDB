@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3065,
+  "slug": "princess-road-bara-to-dokuro-no-monshou",
+  "kind": "anime",
+  "title": "Princess Road: Bara to Dokuro no Monshou",
+  "titles": {
+    "default": "Princess Road: Bara to Dokuro no Monshou",
+    "romaji": "Princess Road: Bara to Dokuro no Monshou",
+    "english": "Erotic Torture Chamber",
+    "native": "プリンセス・ロード 薔薇と髑髏の紋章"
+  },
+  "synonyms": [
+    "Princess Road: Bara to Dokuro no Monshou",
+    "Erotic Torture Chamber",
+    "プリンセス・ロード 薔薇と髑髏の紋章",
+    "Best of Kitty #4 (3)",
+    "Plastic Little",
+    "プラスチックリトル",
+    "Plastic Little: The Adventures of Captain Tita"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3639.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3639",
+      "url": "https://anilist.co/anime/3639"
+    },
+    "k": {
+      "id": "2112",
+      "url": "https://kitsu.io/anime/2112"
+    },
+    "mal": {
+      "id": "3639",
+      "url": "https://myanimelist.net/anime/3639"
+    }
+  }
+}

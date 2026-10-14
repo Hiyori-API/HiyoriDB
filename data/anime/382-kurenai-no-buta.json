@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 382,
+  "slug": "kurenai-no-buta",
+  "kind": "anime",
+  "title": "Kurenai no Buta",
+  "titles": {
+    "default": "Kurenai no Buta",
+    "romaji": "Kurenai no Buta",
+    "english": "Porco Rosso",
+    "native": "紅の豚"
+  },
+  "synonyms": [
+    "Kurenai no Buta",
+    "Porco Rosso",
+    "紅の豚",
+    "The Scarlet Pig",
+    "Szkarłatny pilot",
+    "På Flygande Uppdrag",
+    "Punainen Sika",
+    "På flyvende oppdrag",
+    "Porco Rosso: O Último Herói Romântico",
+    "붉은 돼지"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx416-oO8Tts2dQtuv.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "416",
+      "url": "https://anilist.co/anime/416"
+    },
+    "k": {
+      "id": "380",
+      "url": "https://kitsu.io/anime/380"
+    },
+    "mal": {
+      "id": "416",
+      "url": "https://myanimelist.net/anime/416"
+    },
+    "nf": {
+      "id": "70019060",
+      "url": "https://www.netflix.com/title/70019060"
+    }
+  }
+}

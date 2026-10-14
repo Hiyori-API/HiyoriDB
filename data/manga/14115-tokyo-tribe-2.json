@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14115,
+  "slug": "tokyo-tribe-2",
+  "kind": "manga",
+  "title": "Tokyo Tribe 2",
+  "titles": {
+    "default": "Tokyo Tribe 2"
+  },
+  "synonyms": [
+    "東京暴族 2",
+    "Tokyo Tribes",
+    "Tokyo Tribe 2",
+    "TOKYO TRIBE 2"
+  ],
+  "type": "manga",
+  "volumes": 12,
+  "status": "finished",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b31140-nLPpZC3WQ93G.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1703",
+      "url": "https://anilist.co/anime/1703"
+    },
+    "al_manga": {
+      "id": "1703",
+      "url": "https://anilist.co/manga/1703"
+    }
+  }
+}

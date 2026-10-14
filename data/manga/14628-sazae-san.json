@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14628,
+  "slug": "sazae-san",
+  "kind": "manga",
+  "title": "Sazae-San",
+  "titles": {
+    "default": "Sazae-San"
+  },
+  "synonyms": [
+    "Heisei no Sazae-san",
+    "The Wonderful World of Sazae-san",
+    "The Wonderful World of Sazae-San",
+    "サザエさん",
+    "Renai Soukanzu",
+    "恋愛相姦図",
+    "Renai Sokanzu",
+    "Pink Sweets"
+  ],
+  "type": "manga",
+  "chapters": 6477,
+  "volumes": 45,
+  "status": "finished",
+  "year": 1946,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b43192-lBoylrcHjwWA.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2406",
+      "url": "https://anilist.co/anime/2406"
+    },
+    "al_manga": {
+      "id": "2406",
+      "url": "https://anilist.co/manga/2406"
+    }
+  }
+}

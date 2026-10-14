@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10469,
+  "slug": "assault-lily-bouquet",
+  "kind": "anime",
+  "title": "Assault Lily: BOUQUET",
+  "titles": {
+    "default": "Assault Lily: BOUQUET",
+    "romaji": "Assault Lily: BOUQUET",
+    "english": "Assault Lily BOUQUET",
+    "native": "アサルトリリィ BOUQUET"
+  },
+  "synonyms": [
+    "Assault Lily: BOUQUET",
+    "Assault Lily BOUQUET",
+    "アサルトリリィ BOUQUET",
+    "Букет Штурмовых Лилий",
+    "Rozen Maiden",
+    "ローゼンメイデン"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112479-5EiZWhEK8l0x.png"
+  ],
+  "references": {
+    "al": {
+      "id": "112479",
+      "url": "https://anilist.co/anime/112479"
+    },
+    "cr": {
+      "id": "assault-lily-bouquet",
+      "url": "https://www.crunchyroll.com/series/assault-lily-bouquet"
+    },
+    "k": {
+      "id": "45",
+      "url": "https://kitsu.io/anime/45"
+    },
+    "mal": {
+      "id": "40550",
+      "url": "https://myanimelist.net/anime/40550"
+    },
+    "t": {
+      "id": "61847",
+      "url": "https://trakt.tv/shows/61847"
+    },
+    "tx": {
+      "id": "assaultlily_pj",
+      "url": "https://twitter.com/assaultlily_pj"
+    }
+  }
+}

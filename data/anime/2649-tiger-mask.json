@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2649,
+  "slug": "tiger-mask",
+  "kind": "anime",
+  "title": "Tiger Mask",
+  "titles": {
+    "default": "Tiger Mask",
+    "romaji": "Tiger Mask",
+    "native": "タイガーマスク"
+  },
+  "synonyms": [
+    "Tiger Mask",
+    "タイガーマスク",
+    "Tiger Masken"
+  ],
+  "type": "tv",
+  "episodes": 105,
+  "status": "finished",
+  "season": "fall",
+  "year": 1969,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3009-7bHBgwMpl7TL.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3009",
+      "url": "https://anilist.co/anime/3009"
+    },
+    "k": {
+      "id": "2720",
+      "url": "https://kitsu.io/anime/2720"
+    },
+    "mal": {
+      "id": "3009",
+      "url": "https://myanimelist.net/anime/3009"
+    },
+    "t": {
+      "id": "25002",
+      "url": "https://trakt.tv/shows/25002"
+    }
+  }
+}

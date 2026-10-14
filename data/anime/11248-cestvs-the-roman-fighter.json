@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11248,
+  "slug": "cestvs-the-roman-fighter",
+  "kind": "anime",
+  "title": "Cestvs: The Roman Fighter",
+  "titles": {
+    "default": "Cestvs: The Roman Fighter",
+    "romaji": "Cestvs: The Roman Fighter",
+    "english": "CESTVS -The Roman Fighter-",
+    "native": "セスタス -The Roman Fighter-"
+  },
+  "synonyms": [
+    "Cestvs: The Roman Fighter",
+    "CESTVS -The Roman Fighter-",
+    "セスタス -The Roman Fighter-",
+    "Cestus: The Roman Fighter",
+    "Eighty Six",
+    "86 Eighty-Six",
+    "86―エイティシックス―",
+    "86"
+  ],
+  "type": "tv",
+  "episodes": 11,
+  "status": "finished",
+  "season": "spring",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx125867-M5PDaRNHN3T3.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "125867",
+      "url": "https://anilist.co/anime/125867"
+    },
+    "cr": {
+      "id": "cestvs-the-roman-fighter-",
+      "url": "https://www.crunchyroll.com/series/cestvs-the-roman-fighter-"
+    },
+    "mal": {
+      "id": "43763",
+      "url": "https://myanimelist.net/anime/43763"
+    },
+    "tx": {
+      "id": "cestvs_anime",
+      "url": "https://twitter.com/cestvs_anime"
+    }
+  }
+}

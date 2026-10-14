@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5860,
+  "slug": "teinenpi-shoujo-haiji",
+  "kind": "anime",
+  "title": "Teinenpi Shoujo Haiji",
+  "titles": {
+    "default": "Teinenpi Shoujo Haiji",
+    "romaji": "Teinenpi Shoujo Haiji",
+    "native": "低燃費少女ハイジ"
+  },
+  "synonyms": [
+    "Teinenpi Shoujo Haiji",
+    "低燃費少女ハイジ",
+    "Low Fuel Cost Girl Haiji"
+  ],
+  "type": "ona",
+  "episodes": 8,
+  "status": "finished",
+  "season": "spring",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8176.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8176",
+      "url": "https://anilist.co/anime/8176"
+    },
+    "k": {
+      "id": "5226",
+      "url": "https://kitsu.io/anime/5226"
+    },
+    "mal": {
+      "id": "8176",
+      "url": "https://myanimelist.net/anime/8176"
+    }
+  }
+}

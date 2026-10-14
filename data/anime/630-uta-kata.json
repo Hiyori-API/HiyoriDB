@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 630,
+  "slug": "uta-kata",
+  "kind": "anime",
+  "title": "Uta∽Kata",
+  "titles": {
+    "default": "Uta∽Kata",
+    "romaji": "Uta∽Kata",
+    "english": "Uta∞Kata",
+    "native": "うた∽かた"
+  },
+  "synonyms": [
+    "Uta∽Kata",
+    "Uta∞Kata",
+    "うた∽かた",
+    "Uta-Kata",
+    "Uta~Kata",
+    "One~Song",
+    "Uta Kata",
+    "Utakata",
+    "Uta~Kata,One~Song",
+    "Poem~Piece",
+    "Poem Fragment"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx688-RztDGIBBugvj.png"
+  ],
+  "references": {
+    "al": {
+      "id": "688",
+      "url": "https://anilist.co/anime/688"
+    },
+    "k": {
+      "id": "629",
+      "url": "https://kitsu.io/anime/629"
+    },
+    "mal": {
+      "id": "688",
+      "url": "https://myanimelist.net/anime/688"
+    },
+    "t": {
+      "id": "37376",
+      "url": "https://trakt.tv/shows/37376"
+    },
+    "ttv": {
+      "id": "2417",
+      "url": "https://tubitv.com/series/2417"
+    }
+  }
+}

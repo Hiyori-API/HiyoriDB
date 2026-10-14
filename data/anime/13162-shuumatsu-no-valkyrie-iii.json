@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13162,
+  "slug": "shuumatsu-no-valkyrie-iii",
+  "kind": "anime",
+  "title": "Shuumatsu no Valkyrie III",
+  "titles": {
+    "default": "Shuumatsu no Valkyrie III",
+    "romaji": "Shuumatsu no Valkyrie III",
+    "english": "Record of Ragnarok III",
+    "native": "終末のワルキューレ III"
+  },
+  "synonyms": [
+    "Shuumatsu no Valkyrie III",
+    "Record of Ragnarok III",
+    "終末のワルキューレ III",
+    "Record of Ragnarok Season 3",
+    "終末のワルキューレIII",
+    "Shuumatsu no Walküre III"
+  ],
+  "type": "ona",
+  "episodes": 15,
+  "status": "finished",
+  "season": "fall",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187921-jHCMGThdJtS6.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "187921",
+      "url": "https://anilist.co/anime/187921"
+    },
+    "mal": {
+      "id": "61200",
+      "url": "https://myanimelist.net/anime/61200"
+    }
+  }
+}

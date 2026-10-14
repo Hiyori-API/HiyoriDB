@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4115,
+  "slug": "onegai-my-melody-kirara",
+  "kind": "anime",
+  "title": "Onegai♪My Melody Kirara☆",
+  "titles": {
+    "default": "Onegai♪My Melody Kirara☆",
+    "romaji": "Onegai♪My Melody Kirara☆",
+    "english": "Onegai My Melody Kirara",
+    "native": "おねがい♪マイメロディ きららっ☆"
+  },
+  "synonyms": [
+    "Onegai♪My Melody Kirara☆",
+    "Onegai My Melody Kirara",
+    "おねがい♪マイメロディ きららっ☆",
+    "The Orphans of Simitra",
+    "Porphy no Nagai Tabi",
+    "ポルフィの長い旅",
+    "Porufi no Nagai Tabi",
+    "The Long Journey of Porfy",
+    "The Long Journey of Porfyi",
+    "Porfy's Long Journey"
+  ],
+  "type": "tv",
+  "episodes": 52,
+  "status": "finished",
+  "season": "spring",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5938.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5938",
+      "url": "https://anilist.co/anime/5938"
+    },
+    "k": {
+      "id": "2999",
+      "url": "https://kitsu.io/anime/2999"
+    },
+    "mal": {
+      "id": "5938",
+      "url": "https://myanimelist.net/anime/5938"
+    },
+    "t": {
+      "id": "43599",
+      "url": "https://trakt.tv/shows/43599"
+    }
+  }
+}

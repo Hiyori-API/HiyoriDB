@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6137,
+  "slug": "mecha-afro-kun",
+  "kind": "anime",
+  "title": "Mecha☆Afro-kun",
+  "titles": {
+    "default": "Mecha☆Afro-kun",
+    "romaji": "Mecha☆Afro-kun",
+    "english": "Mecha Afro-kun",
+    "native": "メカ☆アフロくん"
+  },
+  "synonyms": [
+    "Mecha☆Afro-kun",
+    "Mecha Afro-kun",
+    "メカ☆アフロくん",
+    "Votoms Finder Armored Trooperoid",
+    "Votoms Finder",
+    "ボトムズファインダー"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9334.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9334",
+      "url": "https://anilist.co/anime/9334"
+    },
+    "k": {
+      "id": "5269",
+      "url": "https://kitsu.io/anime/5269"
+    },
+    "mal": {
+      "id": "9334",
+      "url": "https://myanimelist.net/anime/9334"
+    }
+  }
+}

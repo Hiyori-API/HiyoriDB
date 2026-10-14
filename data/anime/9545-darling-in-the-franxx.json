@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9545,
+  "slug": "darling-in-the-franxx",
+  "kind": "anime",
+  "title": "Darling in the Franxx",
+  "titles": {
+    "default": "Darling in the Franxx",
+    "romaji": "Darling in the Franxx",
+    "english": "DARLING in the FRANXX",
+    "native": "ダーリン・イン・ザ・フランキス"
+  },
+  "synonyms": [
+    "Darling in the Franxx",
+    "DARLING in the FRANXX",
+    "ダーリン・イン・ザ・フランキス",
+    "DitF",
+    "DarliFra",
+    "Любимый во Франксе",
+    "Darling in the FranXX"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "winter",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx99423-8MBxtwCeHf8B.png"
+  ],
+  "references": {
+    "al": {
+      "id": "99423",
+      "url": "https://anilist.co/anime/99423"
+    },
+    "cr": {
+      "id": "darling-in-the-franxx",
+      "url": "https://www.crunchyroll.com/series/darling-in-the-franxx"
+    },
+    "mal": {
+      "id": "35849",
+      "url": "https://myanimelist.net/anime/35849"
+    },
+    "nf": {
+      "id": "81010668",
+      "url": "https://www.netflix.com/title/81010668"
+    },
+    "tx": {
+      "id": "DARLI_FRA",
+      "url": "https://twitter.com/DARLI_FRA"
+    }
+  }
+}

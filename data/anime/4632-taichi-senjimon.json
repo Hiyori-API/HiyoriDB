@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4632,
+  "slug": "taichi-senjimon",
+  "kind": "anime",
+  "title": "Taichi Senjimon",
+  "titles": {
+    "default": "Taichi Senjimon",
+    "romaji": "Taichi Senjimon",
+    "english": "Tai Chi Chasers",
+    "native": "太極千字文"
+  },
+  "synonyms": [
+    "Taichi Senjimon",
+    "Tai Chi Chasers",
+    "太極千字文",
+    "Tales of Saiunkoku",
+    "Saiunkoku Monogatari 2nd Season",
+    "彩雲国物語 第2シリーズ",
+    "Saiunmono",
+    "Saimono",
+    "Saiunkoku Monogatari Dai 2 Series"
+  ],
+  "type": "tv",
+  "episodes": 39,
+  "status": "finished",
+  "season": "spring",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7522.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7522",
+      "url": "https://anilist.co/anime/7522"
+    },
+    "k": {
+      "id": "1724",
+      "url": "https://kitsu.io/anime/1724"
+    },
+    "mal": {
+      "id": "7522",
+      "url": "https://myanimelist.net/anime/7522"
+    },
+    "t": {
+      "id": "62606",
+      "url": "https://trakt.tv/shows/62606"
+    }
+  }
+}

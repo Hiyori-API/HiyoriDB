@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13741,
+  "slug": "d-gray-man",
+  "kind": "manga",
+  "title": "D.Gray-man",
+  "titles": {
+    "default": "D.Gray-man"
+  },
+  "synonyms": [
+    "D. Gray man",
+    "D. Grayman",
+    "D. Gray-man",
+    "DGM",
+    "Dグレ",
+    "디 그레이맨",
+    "驱魔少年",
+    "D.Gray-man",
+    "ディー・グレイマン",
+    "D.Grey-man"
+  ],
+  "type": "manga",
+  "status": "publishing",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30024-UUUz8xxkt8pc.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21558",
+      "url": "https://anilist.co/anime/1482"
+    },
+    "al_manga": {
+      "id": "21558",
+      "url": "https://anilist.co/manga/21558"
+    }
+  }
+}

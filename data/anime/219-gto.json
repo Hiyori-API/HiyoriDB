@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 219,
+  "slug": "gto",
+  "kind": "anime",
+  "title": "GTO",
+  "titles": {
+    "default": "GTO",
+    "romaji": "GTO",
+    "english": "GTO: Great Teacher Onizuka"
+  },
+  "synonyms": [
+    "GTO",
+    "GTO: Great Teacher Onizuka",
+    "グレート・ティーチャー・オニヅカ",
+    "GTO - The Animation",
+    "Great Teacher Onizuka"
+  ],
+  "type": "tv",
+  "episodes": 43,
+  "status": "finished",
+  "season": "summer",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx245-NcQAyTipUMeO.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "245",
+      "url": "https://anilist.co/anime/245"
+    },
+    "cr": {
+      "id": "gto-the-animation",
+      "url": "https://www.crunchyroll.com/series/gto-the-animation"
+    },
+    "k": {
+      "id": "220",
+      "url": "https://kitsu.io/anime/220"
+    },
+    "mal": {
+      "id": "245",
+      "url": "https://myanimelist.net/anime/245"
+    },
+    "t": {
+      "id": "60954",
+      "url": "https://trakt.tv/shows/60954"
+    }
+  }
+}

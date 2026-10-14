@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14586,
+  "slug": "nurarihyon-no-mago",
+  "kind": "manga",
+  "title": "Nurarihyon no Mago",
+  "titles": {
+    "default": "Nurarihyon no Mago"
+  },
+  "synonyms": [
+    "Grandchild of Nurari Hyon",
+    "The Grandson of Nurarihyon",
+    "Nura: El Señor de los Yokai",
+    "Nura - Le seigneur des Yôkai",
+    "I Signori dei Mostri",
+    "누라리횬의 손자",
+    "Nura - Herr der Yokai",
+    "Nura: Rise of the Yokai Clan",
+    "ぬらりひょんの孫",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "chapters": 218,
+  "volumes": 25,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx35664-BYHsN6UtyYJH.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10049",
+      "url": "https://anilist.co/anime/7592"
+    },
+    "al_manga": {
+      "id": "10049",
+      "url": "https://anilist.co/manga/10049"
+    }
+  }
+}

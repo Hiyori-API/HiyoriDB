@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5099,
+  "slug": "fukuyama-gekijou-natsu-no-himitsu",
+  "kind": "anime",
+  "title": "Fukuyama Gekijou: Natsu no Himitsu",
+  "titles": {
+    "default": "Fukuyama Gekijou: Natsu no Himitsu",
+    "romaji": "Fukuyama Gekijou: Natsu no Himitsu",
+    "native": "ふくやま劇場 なつのひみつ"
+  },
+  "synonyms": [
+    "Fukuyama Gekijou: Natsu no Himitsu",
+    "ふくやま劇場 なつのひみつ",
+    "うさぎのきょうだい",
+    "なつのひみつ",
+    "不思議な妖精",
+    "へのへの",
+    "KURO",
+    "パンクうさぎのダンス",
+    "学期末清掃大会",
+    "おりがみひめ",
+    "Violence Jack: Hell's Wind",
+    "Violence Jack: Hell's Wind-hen",
+    "バイオレンス ジャック 〜ヘルスウインド編〜",
+    "Violence Jack 3",
+    "Violence Jack: Hell's Wind Hen",
+    "Violence Jack: Hell's Wind Arc"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b108054-aByfBoKqAKni.png"
+  ],
+  "references": {
+    "al": {
+      "id": "108054",
+      "url": "https://anilist.co/anime/108054"
+    },
+    "k": {
+      "id": "1198",
+      "url": "https://kitsu.io/anime/1198"
+    },
+    "mal": {
+      "id": "23975",
+      "url": "https://myanimelist.net/anime/23975"
+    }
+  }
+}

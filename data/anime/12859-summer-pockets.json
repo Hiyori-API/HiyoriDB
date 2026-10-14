@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12859,
+  "slug": "summer-pockets",
+  "kind": "anime",
+  "title": "Summer Pockets",
+  "titles": {
+    "default": "Summer Pockets",
+    "romaji": "Summer Pockets"
+  },
+  "synonyms": [
+    "Summer Pockets",
+    "サマーポケッツ",
+    "Samapoke",
+    "サマポケ",
+    "Aishiteruze Baby★★",
+    "愛してるぜ ベイベ★★",
+    "Aishiteru ze Baby",
+    "Love You Baby",
+    "Babe",
+    "My Love",
+    "I Love You",
+    "Baby"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143200-42OaDCS6VEy3.png"
+  ],
+  "references": {
+    "al": {
+      "id": "143200",
+      "url": "https://anilist.co/anime/143200"
+    },
+    "cr": {
+      "id": "series/G0XHWM17X/summer-pockets",
+      "url": "https://www.crunchyroll.com/series/series/G0XHWM17X/summer-pockets"
+    },
+    "k": {
+      "id": "81",
+      "url": "https://kitsu.io/anime/81"
+    },
+    "mal": {
+      "id": "50694",
+      "url": "https://myanimelist.net/anime/50694"
+    },
+    "t": {
+      "id": "33925",
+      "url": "https://trakt.tv/shows/33925"
+    }
+  }
+}

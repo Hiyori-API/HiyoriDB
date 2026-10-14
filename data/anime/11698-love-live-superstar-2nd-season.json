@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11698,
+  "slug": "love-live-superstar-2nd-season",
+  "kind": "anime",
+  "title": "Love Live! Superstar!! 2nd Season",
+  "titles": {
+    "default": "Love Live! Superstar!! 2nd Season",
+    "romaji": "Love Live! Superstar!! 2nd Season",
+    "english": "Love Live! Superstar!! Season 2",
+    "native": "ラブライブ!スーパースター!! 2期"
+  },
+  "synonyms": [
+    "Love Live! Superstar!! 2nd Season",
+    "Love Live! Superstar!! Season 2",
+    "ラブライブ!スーパースター!! 2期",
+    "Лав Лайв! Суперзвезда!! 2",
+    "ラブライブ！スーパースター!!"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140642-uENjMoTQqPoO.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "140642",
+      "url": "https://anilist.co/anime/140642"
+    },
+    "cr": {
+      "id": "series/G3KHEVPWE/love-live-superstar",
+      "url": "https://www.crunchyroll.com/series/series/G3KHEVPWE/love-live-superstar"
+    },
+    "mal": {
+      "id": "50203",
+      "url": "https://myanimelist.net/anime/50203"
+    },
+    "tx": {
+      "id": "LoveLive_staff",
+      "url": "https://twitter.com/LoveLive_staff"
+    }
+  }
+}

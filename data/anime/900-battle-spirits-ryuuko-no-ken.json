@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 900,
+  "slug": "battle-spirits-ryuuko-no-ken",
+  "kind": "anime",
+  "title": "Battle Spirits: Ryuuko no Ken",
+  "titles": {
+    "default": "Battle Spirits: Ryuuko no Ken",
+    "romaji": "Battle Spirits: Ryuuko no Ken",
+    "english": "Art of Fighting",
+    "native": "バトルスピリッツ　龍虎の拳"
+  },
+  "synonyms": [
+    "Battle Spirits: Ryuuko no Ken",
+    "Art of Fighting",
+    "バトルスピリッツ　龍虎の拳",
+    "Battle Spirits: Dragon Tiger Fist",
+    "Battle Spirits: Ryoko no Ken"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1009.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1009",
+      "url": "https://anilist.co/anime/1009"
+    },
+    "k": {
+      "id": "899",
+      "url": "https://kitsu.io/anime/899"
+    },
+    "mal": {
+      "id": "1009",
+      "url": "https://myanimelist.net/anime/1009"
+    }
+  }
+}

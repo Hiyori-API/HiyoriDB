@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6709,
+  "slug": "nisemonogatari",
+  "kind": "anime",
+  "title": "Nisemonogatari",
+  "titles": {
+    "default": "Nisemonogatari",
+    "romaji": "Nisemonogatari",
+    "native": "偽物語"
+  },
+  "synonyms": [
+    "Nisemonogatari",
+    "偽物語",
+    "Fake Tale",
+    "Истории подделок",
+    "ปกรณัมของเทียม",
+    "Impostory"
+  ],
+  "type": "tv",
+  "episodes": 11,
+  "status": "finished",
+  "season": "winter",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11597-x2vd4KSHcI1S.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11597",
+      "url": "https://anilist.co/anime/11597"
+    },
+    "cr": {
+      "id": "nisemonogatari",
+      "url": "https://www.crunchyroll.com/series/nisemonogatari"
+    },
+    "k": {
+      "id": "6546",
+      "url": "https://kitsu.io/anime/6546"
+    },
+    "mal": {
+      "id": "11597",
+      "url": "https://myanimelist.net/anime/11597"
+    },
+    "t": {
+      "id": "45938",
+      "url": "https://trakt.tv/shows/45938"
+    },
+    "tx": {
+      "id": "nisioisin_anime",
+      "url": "https://twitter.com/nisioisin_anime"
+    }
+  }
+}

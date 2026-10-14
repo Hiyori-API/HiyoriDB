@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15647,
+  "slug": "c",
+  "kind": "manga",
+  "title": "C³",
+  "titles": {
+    "default": "C³"
+  },
+  "synonyms": [
+    "C3",
+    "C Cube",
+    "C^3",
+    "C³ - CubexCursedxCurious",
+    "C³",
+    "C3-シーキューブ-",
+    "Decoration Disorder Disconnection",
+    "デコレーション・ディスオーダー・ディスコネクション",
+    "DDD"
+  ],
+  "type": "novel",
+  "chapters": 106,
+  "volumes": 17,
+  "status": "finished",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx55197-xHkCw7a8BaCR.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10578",
+      "url": "https://anilist.co/anime/10578"
+    },
+    "al_manga": {
+      "id": "10578",
+      "url": "https://anilist.co/manga/10578"
+    }
+  }
+}

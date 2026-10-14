@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15653,
+  "slug": "noblesse",
+  "kind": "manga",
+  "title": "Noblesse",
+  "titles": {
+    "default": "Noblesse"
+  },
+  "synonyms": [
+    "大貴族",
+    "โนเบลส",
+    "Noblesse",
+    "노블레스",
+    "Kataomoi no Mukougawa",
+    "片想いの向こう側",
+    "Kataomoi no Mukou Gawa",
+    "Ano Kado o Magareba",
+    "Tenshi ga Kuretamono",
+    "Bitou na Koi",
+    "Kimi to Natsu no Aizu"
+  ],
+  "type": "manga",
+  "chapters": 544,
+  "status": "finished",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx59983-cfSjrRxuAlAD.png"
+  ],
+  "references": {
+    "al": {
+      "id": "116005",
+      "url": "https://anilist.co/anime/21629"
+    },
+    "al_manga": {
+      "id": "116005",
+      "url": "https://anilist.co/manga/116005"
+    }
+  }
+}

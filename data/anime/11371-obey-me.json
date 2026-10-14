@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11371,
+  "slug": "obey-me",
+  "kind": "anime",
+  "title": "Obey Me!",
+  "titles": {
+    "default": "Obey Me!",
+    "romaji": "Obey Me!"
+  },
+  "synonyms": [
+    "Obey Me!",
+    "おべいみー",
+    "Saishuu Shiken Kujira",
+    "最終試験くじら",
+    "Final Examination Kujira"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131880-LVei71RpRj7i.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "131880",
+      "url": "https://anilist.co/anime/131880"
+    },
+    "cr": {
+      "id": "obey-me",
+      "url": "https://www.crunchyroll.com/series/obey-me"
+    },
+    "k": {
+      "id": "2685",
+      "url": "https://kitsu.io/anime/2685"
+    },
+    "mal": {
+      "id": "48641",
+      "url": "https://myanimelist.net/anime/48641"
+    },
+    "tx": {
+      "id": "ObeyMeOfficial1",
+      "url": "https://twitter.com/ObeyMeOfficial1"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3955,
+  "slug": "nijuusou-wana-ni-ochita-onnatachi",
+  "kind": "anime",
+  "title": "Nijuusou: Wana ni Ochita Onnatachi",
+  "titles": {
+    "default": "Nijuusou: Wana ni Ochita Onnatachi",
+    "romaji": "Nijuusou: Wana ni Ochita Onnatachi",
+    "native": "二重奏　~罠に落ちた女たち~"
+  },
+  "synonyms": [
+    "Nijuusou: Wana ni Ochita Onnatachi",
+    "二重奏　~罠に落ちた女たち~",
+    "Megami Kouhosei Special Curriculum",
+    "女神候補生 スペシャルカリキュラム",
+    "Candidate for Goddess OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5559.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5559",
+      "url": "https://anilist.co/anime/5559"
+    },
+    "cr": {
+      "id": "pilot-candidate",
+      "url": "https://www.crunchyroll.com/series/pilot-candidate"
+    },
+    "k": {
+      "id": "787",
+      "url": "https://kitsu.io/anime/787"
+    },
+    "mal": {
+      "id": "5559",
+      "url": "https://myanimelist.net/anime/5559"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3942,
+  "slug": "ecchi-de-happy-pin-pin-pin",
+  "kind": "anime",
+  "title": "Ecchi de Happy! Pin! Pin! Pin!",
+  "titles": {
+    "default": "Ecchi de Happy! Pin! Pin! Pin!",
+    "romaji": "Ecchi de Happy! Pin! Pin! Pin!",
+    "native": "エッチでハッピー!ピン!ピン!ピン!"
+  },
+  "synonyms": [
+    "Ecchi de Happy! Pin! Pin! Pin!",
+    "エッチでハッピー!ピン!ピン!ピン!",
+    "Spirit of Wonder: China-san no Yuuutsu",
+    "ザスピリットオブワンダー - チャイナさんの憂鬱",
+    "China-san no Yutsu ~ The Spirit of Wonder",
+    "Spirit of Wonder: Miss China's Ring",
+    "Spirit of Wonder: Miss China's Melancholy"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5546.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5546",
+      "url": "https://anilist.co/anime/5546"
+    },
+    "k": {
+      "id": "2195",
+      "url": "https://kitsu.io/anime/2195"
+    },
+    "mal": {
+      "id": "5546",
+      "url": "https://myanimelist.net/anime/5546"
+    }
+  }
+}

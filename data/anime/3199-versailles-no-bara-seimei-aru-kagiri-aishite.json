@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3199,
+  "slug": "versailles-no-bara-seimei-aru-kagiri-aishite",
+  "kind": "anime",
+  "title": "Versailles no Bara: Seimei Aru Kagiri Aishite",
+  "titles": {
+    "default": "Versailles no Bara: Seimei Aru Kagiri Aishite",
+    "romaji": "Versailles no Bara: Seimei Aru Kagiri Aishite",
+    "native": "ベルサイユのばら 生命あるかぎり愛して"
+  },
+  "synonyms": [
+    "Versailles no Bara: Seimei Aru Kagiri Aishite",
+    "ベルサイユのばら 生命あるかぎり愛して",
+    "The Rose of Versailles: I'll Love You As Long As I Live",
+    "Lady Oscar: Uma Aventura Maravilhosa",
+    "Nat-chan no Akai Tebukuro",
+    "なっちゃんの赤いてぶくろ"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3868.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3868",
+      "url": "https://anilist.co/anime/3868"
+    },
+    "k": {
+      "id": "9483",
+      "url": "https://kitsu.io/anime/9483"
+    },
+    "mal": {
+      "id": "3868",
+      "url": "https://myanimelist.net/anime/3868"
+    }
+  }
+}

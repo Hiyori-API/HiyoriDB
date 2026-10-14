@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2750,
+  "slug": "megumi-no-daigo-kajiba-no-baka-yarou",
+  "kind": "anime",
+  "title": "Megumi no Daigo: Kajiba no Baka Yarou",
+  "titles": {
+    "default": "Megumi no Daigo: Kajiba no Baka Yarou",
+    "romaji": "Megumi no Daigo: Kajiba no Baka Yarou",
+    "english": "Daigo of Fire Company",
+    "native": "め組の大吾 火事場のバカヤロー"
+  },
+  "synonyms": [
+    "Megumi no Daigo: Kajiba no Baka Yarou",
+    "Daigo of Fire Company",
+    "め組の大吾 火事場のバカヤロー",
+    "Megumi no Daigo",
+    "Me-gumi no Daigo",
+    "Me gumi no Daigo: Kajiba no Baka Yarou"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3147.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3147",
+      "url": "https://anilist.co/anime/3147"
+    },
+    "k": {
+      "id": "2823",
+      "url": "https://kitsu.io/anime/2823"
+    },
+    "mal": {
+      "id": "3147",
+      "url": "https://myanimelist.net/anime/3147"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9006,
+  "slug": "clockwork-planet",
+  "kind": "anime",
+  "title": "Clockwork Planet",
+  "titles": {
+    "default": "Clockwork Planet",
+    "romaji": "Clockwork Planet",
+    "native": "クロックワーク・プラネット"
+  },
+  "synonyms": [
+    "Clockwork Planet",
+    "クロックワーク・プラネット",
+    "Attack on Titan Season 2",
+    "Shingeki no Kyojin Season 2",
+    "進撃の巨人 Season 2"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx21563-TNf6EshJCy5l.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21563",
+      "url": "https://anilist.co/anime/21563"
+    },
+    "cr": {
+      "id": "clockwork-planet",
+      "url": "https://www.crunchyroll.com/series/clockwork-planet"
+    },
+    "k": {
+      "id": "8671",
+      "url": "https://kitsu.io/anime/8671"
+    },
+    "mal": {
+      "id": "32407",
+      "url": "https://myanimelist.net/anime/32407"
+    },
+    "t": {
+      "id": "1420",
+      "url": "https://trakt.tv/shows/1420"
+    },
+    "tx": {
+      "id": "ClockworkAnime",
+      "url": "https://twitter.com/ClockworkAnime"
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3866,
+  "slug": "monkey-punch-manga-katsudou-dai-shashin",
+  "kind": "anime",
+  "title": "Monkey Punch Manga Katsudou Dai Shashin",
+  "titles": {
+    "default": "Monkey Punch Manga Katsudou Dai Shashin",
+    "romaji": "Monkey Punch Manga Katsudou Dai Shashin",
+    "english": "Mankatsu",
+    "native": "モンキー・パンチ　漫画活動大写真"
+  },
+  "synonyms": [
+    "Monkey Punch Manga Katsudou Dai Shashin",
+    "Mankatsu",
+    "モンキー・パンチ　漫画活動大写真",
+    "Monkey Punch: Manga Great Moving Picture",
+    "Ninja Nonsense",
+    "Ninin ga Shinobuden",
+    "ニニンがシノブ伝",
+    "2x2=Shinobuden",
+    "2x2 Shinobuden",
+    "2 X 2 = The Legend of Shinobu",
+    "Ninin ga Shinobuden: The Nonsense Kunoichi Fiction",
+    "Nin x Nin = Shinobuden"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5343-NMxhC6RgdALS.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5343",
+      "url": "https://anilist.co/anime/5343"
+    },
+    "cr": {
+      "id": "ninja-nonsense",
+      "url": "https://www.crunchyroll.com/series/ninja-nonsense"
+    },
+    "k": {
+      "id": "204",
+      "url": "https://kitsu.io/anime/204"
+    },
+    "mal": {
+      "id": "5343",
+      "url": "https://myanimelist.net/anime/5343"
+    },
+    "t": {
+      "id": "63601",
+      "url": "https://trakt.tv/shows/63601"
+    }
+  }
+}

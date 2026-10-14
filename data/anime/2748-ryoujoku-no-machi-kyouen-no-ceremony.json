@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2748,
+  "slug": "ryoujoku-no-machi-kyouen-no-ceremony",
+  "kind": "anime",
+  "title": "Ryoujoku no Machi: Kyouen no Ceremony",
+  "titles": {
+    "default": "Ryoujoku no Machi: Kyouen no Ceremony",
+    "romaji": "Ryoujoku no Machi: Kyouen no Ceremony",
+    "english": "City of Sin",
+    "native": "凌辱の都市 ～狂宴のセレモニー～"
+  },
+  "synonyms": [
+    "Ryoujoku no Machi: Kyouen no Ceremony",
+    "City of Sin",
+    "凌辱の都市 ～狂宴のセレモニー～",
+    "Afro-Ken",
+    "アフロ犬"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3140.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3140",
+      "url": "https://anilist.co/anime/3140"
+    },
+    "k": {
+      "id": "2552",
+      "url": "https://kitsu.io/anime/2552"
+    },
+    "mal": {
+      "id": "3140",
+      "url": "https://myanimelist.net/anime/3140"
+    }
+  }
+}

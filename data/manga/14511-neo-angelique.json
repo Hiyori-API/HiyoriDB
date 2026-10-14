@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14511,
+  "slug": "neo-angelique",
+  "kind": "manga",
+  "title": "Neo Angelique",
+  "titles": {
+    "default": "Neo Angelique"
+  },
+  "synonyms": [
+    "ネオアンジェリーク",
+    "Love Makes People Grow",
+    "Hito wa Ai wo Tabete Sodatsu",
+    "人は愛を食べて育つ",
+    "Eat Love and Grow",
+    "Hito wa ai o tabete sodatsu"
+  ],
+  "type": "manga",
+  "chapters": 24,
+  "volumes": 5,
+  "status": "finished",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx34343-hBXJd5EcKYrO.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3615",
+      "url": "https://anilist.co/anime/3615"
+    },
+    "al_manga": {
+      "id": "3615",
+      "url": "https://anilist.co/manga/3615"
+    }
+  }
+}

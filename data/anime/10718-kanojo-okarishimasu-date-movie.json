@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10718,
+  "slug": "kanojo-okarishimasu-date-movie",
+  "kind": "anime",
+  "title": "Kanojo, Okarishimasu: Date Movie",
+  "titles": {
+    "default": "Kanojo, Okarishimasu: Date Movie",
+    "romaji": "Kanojo, Okarishimasu: Date Movie",
+    "native": "彼女、お借りします デートムービー"
+  },
+  "synonyms": [
+    "Kanojo, Okarishimasu: Date Movie",
+    "彼女、お借りします デートムービー",
+    "Rent-a-Girlfriend: Date Movie",
+    "KanoKari: Date Movie",
+    "我才不是恶毒女配",
+    "Spicy Girl",
+    "麻辣女配",
+    "Ma La Nu Pei"
+  ],
+  "type": "ona",
+  "episodes": 32,
+  "status": "finished",
+  "season": "summer",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162800-WYuKTx8iBwHB.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "162800",
+      "url": "https://anilist.co/anime/162800"
+    },
+    "mal": {
+      "id": "51135",
+      "url": "https://myanimelist.net/anime/51135"
+    }
+  }
+}

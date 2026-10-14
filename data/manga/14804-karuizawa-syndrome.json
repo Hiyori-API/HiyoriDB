@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14804,
+  "slug": "karuizawa-syndrome",
+  "kind": "manga",
+  "title": "Karuizawa Syndrome",
+  "titles": {
+    "default": "Karuizawa Syndrome"
+  },
+  "synonyms": [
+    "Karuizawa Syndrome",
+    "軽井沢シンドローム",
+    "Maison Ikkoku",
+    "めぞん一刻"
+  ],
+  "type": "manga",
+  "chapters": 101,
+  "volumes": 9,
+  "status": "finished",
+  "year": 1980,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx42580-g0hTSIAEe7rg.png"
+  ],
+  "references": {
+    "al": {
+      "id": "6366",
+      "url": "https://anilist.co/anime/6366"
+    },
+    "al_manga": {
+      "id": "6366",
+      "url": "https://anilist.co/manga/6366"
+    }
+  }
+}

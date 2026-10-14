@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2545,
+  "slug": "bakunyuu-oyako",
+  "kind": "anime",
+  "title": "Bakunyuu Oyako",
+  "titles": {
+    "default": "Bakunyuu Oyako",
+    "romaji": "Bakunyuu Oyako",
+    "english": "Anyone You Can Do... I Can Do Better!",
+    "native": "爆乳母娘"
+  },
+  "synonyms": [
+    "Bakunyuu Oyako",
+    "Anyone You Can Do... I Can Do Better!",
+    "爆乳母娘",
+    "Explosive Bust Mother and Daughter",
+    "Bomb Milk Mom and Daughter",
+    "Busty Mom and Daughter",
+    "Tokyo Daigaku Monogatari",
+    "東京大学物語",
+    "Tokyo University Story"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2871-qCEIzRSNdiSd.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2871",
+      "url": "https://anilist.co/anime/2871"
+    },
+    "k": {
+      "id": "943",
+      "url": "https://kitsu.io/anime/943"
+    },
+    "mal": {
+      "id": "2871",
+      "url": "https://myanimelist.net/anime/2871"
+    }
+  }
+}

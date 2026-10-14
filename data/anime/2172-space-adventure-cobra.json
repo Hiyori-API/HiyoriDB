@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2172,
+  "slug": "space-adventure-cobra",
+  "kind": "anime",
+  "title": "SPACE ADVENTURE Cobra",
+  "titles": {
+    "default": "SPACE ADVENTURE Cobra",
+    "romaji": "SPACE ADVENTURE Cobra",
+    "english": "Space Adventure Cobra: The Movie",
+    "native": "SPACE ADVENTURE コブラ"
+  },
+  "synonyms": [
+    "SPACE ADVENTURE Cobra",
+    "Space Adventure Cobra: The Movie",
+    "SPACE ADVENTURE コブラ",
+    "Cobra Gekijoban",
+    "Space Adventure Cobra",
+    "Cobra Gekijouban",
+    "Cobra Space Adventure"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1982,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2452-i3EvWxRFphBI.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2452",
+      "url": "https://anilist.co/anime/2452"
+    },
+    "k": {
+      "id": "2226",
+      "url": "https://kitsu.io/anime/2226"
+    },
+    "mal": {
+      "id": "2452",
+      "url": "https://myanimelist.net/anime/2452"
+    }
+  }
+}

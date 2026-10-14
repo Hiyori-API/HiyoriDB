@@ -1,0 +1,60 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9136,
+  "slug": "oushitsu-kyoushi-heine",
+  "kind": "anime",
+  "title": "Oushitsu Kyoushi Heine",
+  "titles": {
+    "default": "Oushitsu Kyoushi Heine",
+    "romaji": "Oushitsu Kyoushi Heine",
+    "english": "The Royal Tutor",
+    "native": "王室教師ハイネ"
+  },
+  "synonyms": [
+    "Oushitsu Kyoushi Heine",
+    "The Royal Tutor",
+    "王室教師ハイネ",
+    "Oushitsu Kyoushi Haine",
+    "Attack on Titan Season 2",
+    "Shingeki no Kyojin Season 2",
+    "進撃の巨人 Season 2"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx97932-mIhBEmGhR6uB.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "97932",
+      "url": "https://anilist.co/anime/97932"
+    },
+    "cr": {
+      "id": "the-royal-tutor",
+      "url": "https://www.crunchyroll.com/series/the-royal-tutor"
+    },
+    "k": {
+      "id": "8671",
+      "url": "https://kitsu.io/anime/8671"
+    },
+    "mal": {
+      "id": "34262",
+      "url": "https://myanimelist.net/anime/34262"
+    },
+    "nf": {
+      "id": "80238009",
+      "url": "https://www.netflix.com/title/80238009"
+    },
+    "t": {
+      "id": "1420",
+      "url": "https://trakt.tv/shows/1420"
+    },
+    "tx": {
+      "id": "heine_PR",
+      "url": "https://twitter.com/heine_PR"
+    }
+  }
+}

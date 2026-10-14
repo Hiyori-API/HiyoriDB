@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1693,
+  "slug": "top-wo-nerae-top-wo-nerae-2-gattai-movie",
+  "kind": "anime",
+  "title": "Top wo Nerae! & Top wo Nerae 2! Gattai Movie!!",
+  "titles": {
+    "default": "Top wo Nerae! & Top wo Nerae 2! Gattai Movie!!",
+    "romaji": "Top wo Nerae! & Top wo Nerae 2! Gattai Movie!!",
+    "native": "トップをねらえ！＆トップをねらえ２！合体劇場版!!"
+  },
+  "synonyms": [
+    "Top wo Nerae! & Top wo Nerae 2! Gattai Movie!!",
+    "トップをねらえ！＆トップをねらえ２！合体劇場版!!",
+    "Gunbuster vs. Diebuster",
+    "Top wo Nerae! Gekijouban",
+    "Diebuster Movie (2006)",
+    "DieBuster Movie",
+    "Gunbuster Movie",
+    "Top wo Nerae!",
+    "Gunbuster 2 Movie",
+    "Top wo Nerae! 2 Movie"
+  ],
+  "type": "movie",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1911-nVl9IQnszHAN.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1911",
+      "url": "https://anilist.co/anime/1911"
+    },
+    "k": {
+      "id": "1721",
+      "url": "https://kitsu.io/anime/1721"
+    },
+    "mal": {
+      "id": "1911",
+      "url": "https://myanimelist.net/anime/1911"
+    }
+  }
+}

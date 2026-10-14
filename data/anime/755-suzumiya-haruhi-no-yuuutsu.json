@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 755,
+  "slug": "suzumiya-haruhi-no-yuuutsu",
+  "kind": "anime",
+  "title": "Suzumiya Haruhi no Yuuutsu",
+  "titles": {
+    "default": "Suzumiya Haruhi no Yuuutsu",
+    "romaji": "Suzumiya Haruhi no Yuuutsu",
+    "english": "The Melancholy of Haruhi Suzumiya",
+    "native": "涼宮ハルヒの憂鬱"
+  },
+  "synonyms": [
+    "Suzumiya Haruhi no Yuuutsu",
+    "The Melancholy of Haruhi Suzumiya",
+    "涼宮ハルヒの憂鬱",
+    "La Malinconia Di Haruhi Suzumiya",
+    "凉宫春日的忧郁",
+    "La mélancolie de Haruhi Suzumiya",
+    "Меланхолия Харухи Судзумии",
+    "Melancholia Haruhi Suzumiyi"
+  ],
+  "type": "tv",
+  "episodes": 14,
+  "status": "finished",
+  "season": "spring",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx849-wQM3GqLvl62P.png"
+  ],
+  "references": {
+    "al": {
+      "id": "849",
+      "url": "https://anilist.co/anime/849"
+    },
+    "cr": {
+      "id": "the-melancholy-of-haruhi-suzumiya",
+      "url": "https://www.crunchyroll.com/series/the-melancholy-of-haruhi-suzumiya"
+    },
+    "k": {
+      "id": "751",
+      "url": "https://kitsu.io/anime/751"
+    },
+    "mal": {
+      "id": "849",
+      "url": "https://myanimelist.net/anime/849"
+    },
+    "nf": {
+      "id": "81056036",
+      "url": "https://www.netflix.com/title/81056036"
+    },
+    "t": {
+      "id": "60988",
+      "url": "https://trakt.tv/shows/60988"
+    }
+  }
+}

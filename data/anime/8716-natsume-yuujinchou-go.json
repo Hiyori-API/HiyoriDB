@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8716,
+  "slug": "natsume-yuujinchou-go",
+  "kind": "anime",
+  "title": "Natsume Yuujinchou Go",
+  "titles": {
+    "default": "Natsume Yuujinchou Go",
+    "romaji": "Natsume Yuujinchou Go",
+    "english": "Natsume's Book of Friends Season 5",
+    "native": "夏目友人帳 伍"
+  },
+  "synonyms": [
+    "Natsume Yuujinchou Go",
+    "Natsume's Book of Friends Season 5",
+    "夏目友人帳 伍",
+    "Natsume's Book of Friends Five",
+    "Natsume Yuujinchou Season 5"
+  ],
+  "type": "tv",
+  "episodes": 11,
+  "status": "finished",
+  "season": "fall",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21710-Y20fKQviC3hL.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21710",
+      "url": "https://anilist.co/anime/21710"
+    },
+    "cr": {
+      "id": "series/GRE5XQJV6/natsumes-book-of-friends",
+      "url": "https://www.crunchyroll.com/series/series/GRE5XQJV6/natsumes-book-of-friends"
+    },
+    "mal": {
+      "id": "32983",
+      "url": "https://myanimelist.net/anime/32983"
+    },
+    "nf": {
+      "id": "81032481",
+      "url": "https://www.netflix.com/title/81032481"
+    },
+    "tx": {
+      "id": "NatsumeYujincho",
+      "url": "https://twitter.com/NatsumeYujincho"
+    }
+  }
+}

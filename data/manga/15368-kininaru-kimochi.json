@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15368,
+  "slug": "kininaru-kimochi",
+  "kind": "manga",
+  "title": "Kininaru Kimochi",
+  "titles": {
+    "default": "Kininaru Kimochi"
+  },
+  "synonyms": [
+    "キニナルキモチ",
+    "xxxHOLiC",
+    "xxxHolic Rou",
+    "xxxHolic Cage",
+    "xxxHolic•Rou"
+  ],
+  "type": "manga",
+  "chapters": 12,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159587-J8rNeJr6yI9G.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3350",
+      "url": "https://anilist.co/anime/3350"
+    },
+    "al_manga": {
+      "id": "3350",
+      "url": "https://anilist.co/manga/3350"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13168,
+  "slug": "mikata-ga-yowasugite-hojo-mahou-ni-tesshiteita-kyuutei-mahoushi-tsuihou-sarete-saikyou-wo-mezasu",
+  "kind": "anime",
+  "title": "Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu",
+  "titles": {
+    "default": "Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu",
+    "romaji": "Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu",
+    "english": "The Banished Court Magician Aims to Become the Strongest",
+    "native": "味方が弱すぎて補助魔法に徹していた宮廷魔法師、追放されて最強を目指す"
+  },
+  "synonyms": [
+    "Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu",
+    "The Banished Court Magician Aims to Become the Strongest",
+    "味方が弱すぎて補助魔法に徹していた宮廷魔法師、追放されて最強を目指す",
+    "Story of Lasting Period A Court Magician, Who Was Focused On Supportive Magic Because His Allies Were Too Weak, Aims To Become The Strongest After Being Banished",
+    "Story of Lasting Period",
+    "Hojo Maho",
+    "จอมเวทสายซัพพอร์ตมันไม่รุ่ง ก็มุ่งสู่จอมเวทสุดแกร่งมันซะเลย",
+    "Rozen Maiden",
+    "ローゼンメイデン"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188487-kkeu3cMpHtup.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "188487",
+      "url": "https://anilist.co/anime/188487"
+    },
+    "cr": {
+      "id": "series/GT00364918/the-banished-court-magician-aims-to-become-the-strongest",
+      "url": "https://www.crunchyroll.com/series/series/GT00364918/the-banished-court-magician-aims-to-become-the-strongest"
+    },
+    "k": {
+      "id": "45",
+      "url": "https://kitsu.io/anime/45"
+    },
+    "mal": {
+      "id": "61276",
+      "url": "https://myanimelist.net/anime/61276"
+    },
+    "t": {
+      "id": "61847",
+      "url": "https://trakt.tv/shows/61847"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4611,
+  "slug": "mini-moni-yaru-no-da-pyon",
+  "kind": "anime",
+  "title": "Mini Moni Yaru no da Pyon!",
+  "titles": {
+    "default": "Mini Moni Yaru no da Pyon!",
+    "romaji": "Mini Moni Yaru no da Pyon!",
+    "native": "ミニモニ。やるのだぴょん"
+  },
+  "synonyms": [
+    "Mini Moni Yaru no da Pyon!",
+    "ミニモニ。やるのだぴょん"
+  ],
+  "type": "tv",
+  "episodes": 66,
+  "status": "finished",
+  "season": "summer",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7452.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7452",
+      "url": "https://anilist.co/anime/7452"
+    },
+    "k": {
+      "id": "4978",
+      "url": "https://kitsu.io/anime/4978"
+    },
+    "mal": {
+      "id": "7452",
+      "url": "https://myanimelist.net/anime/7452"
+    }
+  }
+}

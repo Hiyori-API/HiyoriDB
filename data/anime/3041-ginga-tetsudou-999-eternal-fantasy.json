@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3041,
+  "slug": "ginga-tetsudou-999-eternal-fantasy",
+  "kind": "anime",
+  "title": "Ginga Tetsudou 999: Eternal Fantasy",
+  "titles": {
+    "default": "Ginga Tetsudou 999: Eternal Fantasy",
+    "romaji": "Ginga Tetsudou 999: Eternal Fantasy",
+    "english": "Galaxy Express 999: Eternal Fantasy",
+    "native": "銀河鉄道９９９ エターナルファンタジー"
+  },
+  "synonyms": [
+    "Ginga Tetsudou 999: Eternal Fantasy",
+    "Galaxy Express 999: Eternal Fantasy",
+    "銀河鉄道９９９ エターナルファンタジー",
+    "Case Closed: The Fourteenth Target",
+    "Meitantei Conan: Jyuuyonbanme no Target",
+    "Detective Conan Movie 02: The Fourteenth Target",
+    "名探偵コナン １４番目の標的"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3602-uA6eNxVDPKzp.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3602",
+      "url": "https://anilist.co/anime/3602"
+    },
+    "k": {
+      "id": "697",
+      "url": "https://kitsu.io/anime/697"
+    },
+    "mal": {
+      "id": "3602",
+      "url": "https://myanimelist.net/anime/3602"
+    }
+  }
+}

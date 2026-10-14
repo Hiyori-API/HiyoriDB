@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13060,
+  "slug": "ballpark-de-tsukamaete",
+  "kind": "anime",
+  "title": "Ballpark de Tsukamaete!",
+  "titles": {
+    "default": "Ballpark de Tsukamaete!",
+    "romaji": "Ballpark de Tsukamaete!",
+    "english": "Catch Me at the Ballpark!",
+    "native": "ボールパークでつかまえて！"
+  },
+  "synonyms": [
+    "Ballpark de Tsukamaete!",
+    "Catch Me at the Ballpark!",
+    "ボールパークでつかまえて！",
+    "The Catcher in the Ballpark!",
+    "This Ugly Yet Beautiful World",
+    "Kono Minikuku mo Utsukushii Sekai",
+    "この醜くも美しい世界"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184279-dw02k4DPxwGz.png"
+  ],
+  "references": {
+    "al": {
+      "id": "184279",
+      "url": "https://anilist.co/anime/184279"
+    },
+    "cr": {
+      "id": "series/GVDHX85EQ/catch-me-at-the-ballpark",
+      "url": "https://www.crunchyroll.com/series/series/GVDHX85EQ/catch-me-at-the-ballpark"
+    },
+    "k": {
+      "id": "124",
+      "url": "https://kitsu.io/anime/124"
+    },
+    "mal": {
+      "id": "60293",
+      "url": "https://myanimelist.net/anime/60293"
+    },
+    "t": {
+      "id": "34001",
+      "url": "https://trakt.tv/shows/34001"
+    }
+  }
+}

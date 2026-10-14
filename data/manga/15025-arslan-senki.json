@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15025,
+  "slug": "arslan-senki",
+  "kind": "manga",
+  "title": "Arslan Senki",
+  "titles": {
+    "default": "Arslan Senki"
+  },
+  "synonyms": [
+    "The Heroic Legend of Arslan",
+    "アルスラーン戦記",
+    "Baby & Me",
+    "Akachan to Boku",
+    "赤ちゃんと僕",
+    "AkaBoku",
+    "Baby and Me",
+    "Time Limit",
+    "Secret Boy ni Tee Dasuna!!",
+    "Baka de Karukute Wagamama de",
+    "Natsu to Kimi no Irradiation"
+  ],
+  "type": "manga",
+  "volumes": 13,
+  "status": "finished",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b81235-HivfdljXfDre.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1762",
+      "url": "https://anilist.co/anime/1762"
+    },
+    "al_manga": {
+      "id": "1762",
+      "url": "https://anilist.co/manga/1762"
+    }
+  }
+}

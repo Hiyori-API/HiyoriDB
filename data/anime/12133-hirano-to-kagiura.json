@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12133,
+  "slug": "hirano-to-kagiura",
+  "kind": "anime",
+  "title": "Hirano to Kagiura",
+  "titles": {
+    "default": "Hirano to Kagiura",
+    "romaji": "Hirano to Kagiura",
+    "native": "平野と鍵浦"
+  },
+  "synonyms": [
+    "Hirano to Kagiura",
+    "平野と鍵浦",
+    "Hirano and Kagiura",
+    "ฮิราโนะกับคางิอุระ",
+    "Hikaru no Go: Journey to the North Star Cup",
+    "ヒカルの碁 北斗杯への道",
+    "Hikaru no Go: Kita Hokuto Hai e no Michi"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2023,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152122-3HqUW1ffbsG8.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "152122",
+      "url": "https://anilist.co/anime/152122"
+    },
+    "cr": {
+      "id": "watch/G9DUE5P8P/sasaki-and-miyano-graduation",
+      "url": "https://www.crunchyroll.com/series/watch/G9DUE5P8P/sasaki-and-miyano-graduation"
+    },
+    "k": {
+      "id": "593",
+      "url": "https://kitsu.io/anime/593"
+    },
+    "mal": {
+      "id": "52364",
+      "url": "https://myanimelist.net/anime/52364"
+    },
+    "tx": {
+      "id": "sasamiya_anime",
+      "url": "https://twitter.com/sasamiya_anime"
+    }
+  }
+}

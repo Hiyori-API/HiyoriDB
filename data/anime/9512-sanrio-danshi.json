@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9512,
+  "slug": "sanrio-danshi",
+  "kind": "anime",
+  "title": "Sanrio Danshi",
+  "titles": {
+    "default": "Sanrio Danshi",
+    "romaji": "Sanrio Danshi",
+    "english": "SANRIO BOYS",
+    "native": "サンリオ男子"
+  },
+  "synonyms": [
+    "Sanrio Danshi",
+    "SANRIO BOYS",
+    "サンリオ男子",
+    "High Score Girl",
+    "ハイスコアガール",
+    "Hi Score Girl"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98217-DWbR4bvaa65O.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98217",
+      "url": "https://anilist.co/anime/98217"
+    },
+    "cr": {
+      "id": "sanrio-boys",
+      "url": "https://www.crunchyroll.com/series/sanrio-boys"
+    },
+    "k": {
+      "id": "8158",
+      "url": "https://kitsu.io/anime/8158"
+    },
+    "mal": {
+      "id": "34839",
+      "url": "https://myanimelist.net/anime/34839"
+    },
+    "nf": {
+      "id": "80997338",
+      "url": "https://www.netflix.com/title/80997338"
+    },
+    "tx": {
+      "id": "Sdan_Anime",
+      "url": "https://twitter.com/Sdan_Anime"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7359,
+  "slug": "joshikousei-no-koshitsuki",
+  "kind": "anime",
+  "title": "Joshikousei no Koshitsuki",
+  "titles": {
+    "default": "Joshikousei no Koshitsuki",
+    "romaji": "Joshikousei no Koshitsuki",
+    "native": "女子高生の腰つき"
+  },
+  "synonyms": [
+    "Joshikousei no Koshitsuki",
+    "女子高生の腰つき",
+    "Haré+Guu Deluxe",
+    "Jungle wa Itsumo Hare nochi Guu Deluxe",
+    "ジャングルはいつもハレのちグゥ　デラックス",
+    "Jungle wa Itsumo Haré nochi Guu Deluxe",
+    "Jungle wa Itsumo Hale Nochi Guu Deluxe",
+    "Hare+Guu Deluxe"
+  ],
+  "type": "ova",
+  "episodes": 6,
+  "status": "finished",
+  "season": "summer",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18691.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "18691",
+      "url": "https://anilist.co/anime/18691"
+    },
+    "k": {
+      "id": "229",
+      "url": "https://kitsu.io/anime/229"
+    },
+    "mal": {
+      "id": "18691",
+      "url": "https://myanimelist.net/anime/18691"
+    }
+  }
+}

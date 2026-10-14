@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2914,
+  "slug": "injuu-vs-onna-spy",
+  "kind": "anime",
+  "title": "Injuu VS Onna Spy",
+  "titles": {
+    "default": "Injuu VS Onna Spy",
+    "romaji": "Injuu VS Onna Spy",
+    "english": "Spy of Darkness",
+    "native": "淫獣VS女スパイ"
+  },
+  "synonyms": [
+    "Injuu VS Onna Spy",
+    "Spy of Darkness",
+    "淫獣VS女スパイ",
+    "Psycho Diver: Soul Siren",
+    "Psycho Diver: Mashou Bosatsu",
+    "サイコダイバー 魔性菩薩",
+    "Psycho Diver Masei Rakuryu"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3428.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3428",
+      "url": "https://anilist.co/anime/3428"
+    },
+    "k": {
+      "id": "1587",
+      "url": "https://kitsu.io/anime/1587"
+    },
+    "mal": {
+      "id": "3428",
+      "url": "https://myanimelist.net/anime/3428"
+    }
+  }
+}

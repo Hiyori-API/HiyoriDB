@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7954,
+  "slug": "naze-nani-witch-craft-works",
+  "kind": "anime",
+  "title": "Naze Nani!? Witch Craft Works",
+  "titles": {
+    "default": "Naze Nani!? Witch Craft Works",
+    "romaji": "Naze Nani!? Witch Craft Works",
+    "native": "なぜなに！？うぃっちくらふとわ～くす"
+  },
+  "synonyms": [
+    "Naze Nani!? Witch Craft Works",
+    "なぜなに！？うぃっちくらふとわ～くす",
+    "Witchcraft Works Specials",
+    "Witch Craft Works Specials",
+    "No Game No Life Specials",
+    "ノーゲーム・ノーライフ ミニ",
+    "NGNL Specials"
+  ],
+  "type": "special",
+  "episodes": 6,
+  "status": "finished",
+  "season": "spring",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102716-71WbZU4Ip8Le.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "102716",
+      "url": "https://anilist.co/anime/102716"
+    },
+    "k": {
+      "id": "8534",
+      "url": "https://kitsu.io/anime/8534"
+    },
+    "mal": {
+      "id": "23487",
+      "url": "https://myanimelist.net/anime/23487"
+    }
+  }
+}

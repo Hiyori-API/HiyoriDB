@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15379,
+  "slug": "tentai-senshi-sunred",
+  "kind": "manga",
+  "title": "Tentai Senshi Sunred",
+  "titles": {
+    "default": "Tentai Senshi Sunred"
+  },
+  "synonyms": [
+    "Tentai Senshi Sanreddo",
+    "Astro Fighter Sunred",
+    "天体戦士サンレッド",
+    "Railroad",
+    "레일로드"
+  ],
+  "type": "manga",
+  "chapters": 248,
+  "volumes": 20,
+  "status": "finished",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12552.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6582",
+      "url": "https://anilist.co/anime/5005"
+    },
+    "al_manga": {
+      "id": "6582",
+      "url": "https://anilist.co/manga/6582"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7054,
+  "slug": "inferno-cop",
+  "kind": "anime",
+  "title": "Inferno Cop",
+  "titles": {
+    "default": "Inferno Cop",
+    "romaji": "Inferno Cop",
+    "native": "インフェルノコップ"
+  },
+  "synonyms": [
+    "Inferno Cop",
+    "インフェルノコップ"
+  ],
+  "type": "ona",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16774-g0jMpCk2DX9N.png"
+  ],
+  "references": {
+    "al": {
+      "id": "16774",
+      "url": "https://anilist.co/anime/16774"
+    },
+    "cr": {
+      "id": "inferno-cop",
+      "url": "https://www.crunchyroll.com/series/inferno-cop"
+    },
+    "k": {
+      "id": "7511",
+      "url": "https://kitsu.io/anime/7511"
+    },
+    "mal": {
+      "id": "16774",
+      "url": "https://myanimelist.net/anime/16774"
+    },
+    "yt": {
+      "id": "gy0E-1MD0bw",
+      "url": "https://www.youtube.com/watch?v=gy0E-1MD0bw"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1860,
+  "slug": "silent-m-bius-the-motion-picture",
+  "kind": "anime",
+  "title": "Silent Möbius: THE MOTION PICTURE",
+  "titles": {
+    "default": "Silent Möbius: THE MOTION PICTURE",
+    "romaji": "Silent Möbius: THE MOTION PICTURE",
+    "english": "Silent Möbius: The Motion Picture",
+    "native": "サイレントメビウスTHE MOTION PICTURE"
+  },
+  "synonyms": [
+    "Silent Möbius: THE MOTION PICTURE",
+    "Silent Möbius: The Motion Picture",
+    "サイレントメビウスTHE MOTION PICTURE",
+    "Silent Mobius: THE MOTION PICTURE",
+    "サイレントメビウス／THE MOTION PICTURE"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2099-Yrx7o7wUJqnO.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2099",
+      "url": "https://anilist.co/anime/2099"
+    },
+    "k": {
+      "id": "1898",
+      "url": "https://kitsu.io/anime/1898"
+    },
+    "mal": {
+      "id": "2099",
+      "url": "https://myanimelist.net/anime/2099"
+    }
+  }
+}

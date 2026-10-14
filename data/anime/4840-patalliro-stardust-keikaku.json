@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4840,
+  "slug": "patalliro-stardust-keikaku",
+  "kind": "anime",
+  "title": "Patalliro! Stardust Keikaku",
+  "titles": {
+    "default": "Patalliro! Stardust Keikaku",
+    "romaji": "Patalliro! Stardust Keikaku",
+    "native": "パタリロ！スターダスト計画"
+  },
+  "synonyms": [
+    "Patalliro! Stardust Keikaku",
+    "パタリロ！スターダスト計画",
+    "Pataliro! Stardust Program"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1983,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12663.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12663",
+      "url": "https://anilist.co/anime/12663"
+    },
+    "k": {
+      "id": "6783",
+      "url": "https://kitsu.io/anime/6783"
+    },
+    "mal": {
+      "id": "12663",
+      "url": "https://myanimelist.net/anime/12663"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13658,
+  "slug": "meitantei-conan-30-gou-satsujin-jiken",
+  "kind": "anime",
+  "title": "Meitantei Conan: 30-Gou Satsujin Jiken",
+  "titles": {
+    "default": "Meitantei Conan: 30-Gou Satsujin Jiken",
+    "romaji": "Meitantei Conan: 30-Gou Satsujin Jiken",
+    "native": "名探偵コナン 30号殺人事件"
+  },
+  "synonyms": [
+    "Meitantei Conan: 30-Gou Satsujin Jiken",
+    "名探偵コナン 30号殺人事件",
+    "Detective Conan: The Counterfeit Case of Ultra 30",
+    "Evangelion Shinsaku Tanpen Animation",
+    "Evangelion Broadcast 30th Anniversary Special Performance",
+    "Evangelion 30th Anniversary Special",
+    "エヴァンゲリオン 放送30周年記念特別興行",
+    "Evangelion: Housou 30-shuunen Kinen Tokubetsu Kougyou"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217126-HRn0NsNpeUBb.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "217126",
+      "url": "https://anilist.co/anime/217126"
+    },
+    "cr": {
+      "id": "watch/GMEE00390308JAJP/detective-conan-the-counterfeit-case-of-ultra-30",
+      "url": "https://www.crunchyroll.com/series/watch/GMEE00390308JAJP/detective-conan-the-counterfeit-case-of-ultra-30"
+    },
+    "mal": {
+      "id": "64913",
+      "url": "https://myanimelist.net/anime/64913"
+    },
+    "tx": {
+      "id": "conan_anime1000",
+      "url": "https://twitter.com/conan_anime1000"
+    }
+  }
+}

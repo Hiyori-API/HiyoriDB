@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13680,
+  "slug": "tenkaichi-nihon-saikyou-bugeisha-ketteisen",
+  "kind": "anime",
+  "title": "Tenkaichi: Nihon Saikyou Bugeisha Ketteisen",
+  "titles": {
+    "default": "Tenkaichi: Nihon Saikyou Bugeisha Ketteisen",
+    "romaji": "Tenkaichi: Nihon Saikyou Bugeisha Ketteisen",
+    "native": "テンカイチ　日本最強武芸者決定戦"
+  },
+  "synonyms": [
+    "Tenkaichi: Nihon Saikyou Bugeisha Ketteisen",
+    "テンカイチ　日本最強武芸者決定戦",
+    "Despera",
+    "ですぺら",
+    "Desupera"
+  ],
+  "type": "tv",
+  "status": "to_be_aired",
+  "season": "spring",
+  "year": 2027,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx193296-jbZOdDKmrIVO.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "193296",
+      "url": "https://anilist.co/anime/193296"
+    },
+    "k": {
+      "id": "4584",
+      "url": "https://kitsu.io/anime/4584"
+    },
+    "mal": {
+      "id": "61461",
+      "url": "https://myanimelist.net/anime/61461"
+    }
+  }
+}

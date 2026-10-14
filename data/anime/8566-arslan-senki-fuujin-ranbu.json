@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8566,
+  "slug": "arslan-senki-fuujin-ranbu",
+  "kind": "anime",
+  "title": "Arslan Senki: Fuujin Ranbu",
+  "titles": {
+    "default": "Arslan Senki: Fuujin Ranbu",
+    "romaji": "Arslan Senki: Fuujin Ranbu",
+    "english": "The Heroic Legend of Arslan: Dust Storm Dance",
+    "native": "アルスラーン戦記 風塵乱舞"
+  },
+  "synonyms": [
+    "Arslan Senki: Fuujin Ranbu",
+    "The Heroic Legend of Arslan: Dust Storm Dance",
+    "アルスラーン戦記 風塵乱舞",
+    "アルスラーン戦記  風塵乱舞",
+    "Arslan Senki (TV): Fuujin Ranbu"
+  ],
+  "type": "tv",
+  "episodes": 8,
+  "status": "finished",
+  "season": "summer",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21424-B87p1XofzerH.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21424",
+      "url": "https://anilist.co/anime/21424"
+    },
+    "mal": {
+      "id": "31821",
+      "url": "https://myanimelist.net/anime/31821"
+    },
+    "tx": {
+      "id": "arslan_anime",
+      "url": "https://twitter.com/arslan_anime"
+    }
+  }
+}

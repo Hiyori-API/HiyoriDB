@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13919,
+  "slug": "planetes",
+  "kind": "manga",
+  "title": "Planetes",
+  "titles": {
+    "default": "Planetes"
+  },
+  "synonyms": [
+    "Red Star/White Ball",
+    "ΠΛΑΝΗΤΕΣ",
+    "Странники",
+    "Блукальці",
+    "Planetes",
+    "プラネテス",
+    "Paradise Kiss",
+    "パラダイス・キス",
+    "ParaKiss"
+  ],
+  "type": "manga",
+  "chapters": 28,
+  "volumes": 4,
+  "status": "finished",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30481-kHrCeVC8e0wR.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "329",
+      "url": "https://anilist.co/anime/329"
+    },
+    "al_manga": {
+      "id": "329",
+      "url": "https://anilist.co/manga/329"
+    }
+  }
+}

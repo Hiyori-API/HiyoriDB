@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4477,
+  "slug": "x-men",
+  "kind": "anime",
+  "title": "X-Men",
+  "titles": {
+    "default": "X-Men",
+    "romaji": "X-Men",
+    "native": "エックスメン"
+  },
+  "synonyms": [
+    "X-Men",
+    "エックスメン"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6919.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6919",
+      "url": "https://anilist.co/anime/6919"
+    },
+    "k": {
+      "id": "4786",
+      "url": "https://kitsu.io/anime/4786"
+    },
+    "mal": {
+      "id": "6919",
+      "url": "https://myanimelist.net/anime/6919"
+    },
+    "nf": {
+      "id": "70205688",
+      "url": "https://www.netflix.com/title/70205688"
+    },
+    "t": {
+      "id": "62401",
+      "url": "https://trakt.tv/shows/62401"
+    }
+  }
+}

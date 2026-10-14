@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8407,
+  "slug": "chou-kidou-gaiku-kashiwa-no-ha",
+  "kind": "anime",
+  "title": "Chou Kidou Gaiku: KASHIWA-NO-HA",
+  "titles": {
+    "default": "Chou Kidou Gaiku: KASHIWA-NO-HA",
+    "romaji": "Chou Kidou Gaiku: KASHIWA-NO-HA",
+    "native": "超機動街区 KASHIWA-NO-HA"
+  },
+  "synonyms": [
+    "Chou Kidou Gaiku: KASHIWA-NO-HA",
+    "超機動街区 KASHIWA-NO-HA",
+    "A linchpin",
+    "カナメヲ",
+    "Kanamewo"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/99001-SagTEm09bKFi.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "99001",
+      "url": "https://anilist.co/anime/99001"
+    },
+    "mal": {
+      "id": "31749",
+      "url": "https://myanimelist.net/anime/31749"
+    }
+  }
+}

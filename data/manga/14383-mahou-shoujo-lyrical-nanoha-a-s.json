@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14383,
+  "slug": "mahou-shoujo-lyrical-nanoha-a-s",
+  "kind": "manga",
+  "title": "Mahou Shoujo Lyrical Nanoha A's",
+  "titles": {
+    "default": "Mahou Shoujo Lyrical Nanoha A's"
+  },
+  "synonyms": [
+    "Magical Girl Lyrical Nanoha A's",
+    "魔法少女リリカルなのはＡ’ｓ",
+    "Renai Soukanzu",
+    "恋愛相姦図",
+    "Renai Sokanzu",
+    "Pink Sweets"
+  ],
+  "type": "manga",
+  "chapters": 7,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3236.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "77",
+      "url": "https://anilist.co/anime/77"
+    },
+    "al_manga": {
+      "id": "77",
+      "url": "https://anilist.co/manga/77"
+    }
+  }
+}

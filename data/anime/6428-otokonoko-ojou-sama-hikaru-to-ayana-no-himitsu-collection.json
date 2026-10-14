@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6428,
+  "slug": "otokonoko-ojou-sama-hikaru-to-ayana-no-himitsu-collection",
+  "kind": "anime",
+  "title": "Otokonoko Ojou-sama! Hikaru to Ayana no Himitsu Collection",
+  "titles": {
+    "default": "Otokonoko Ojou-sama! Hikaru to Ayana no Himitsu Collection",
+    "romaji": "Otokonoko Ojou-sama! Hikaru to Ayana no Himitsu Collection",
+    "native": "オトコの娘お嬢様っ 光と綾奈の秘密コレクション"
+  },
+  "synonyms": [
+    "Otokonoko Ojou-sama! Hikaru to Ayana no Himitsu Collection",
+    "オトコの娘お嬢様っ 光と綾奈の秘密コレクション",
+    "Otoko no ko Ojou-sama!",
+    "Otoko no Ko Ojousama",
+    "A Boy and His Mistress! Hikaru and Ayana's Secret Collection",
+    "Crossdresser and Princess",
+    "Cat Planet Cuties: Come Drop By",
+    "Asobi ni Iku yo!: Asobi ni Oide",
+    "あそびにいくヨ! あそびにおいで",
+    "Asobi ni Ikuyo! OVA",
+    "Let's Go Play! OVA",
+    "Asobi ni Ikuyo: Bombshells from the Sky OVA",
+    "Cat Planet Cuties OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b10429-IqpKTUNNhWRO.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10429",
+      "url": "https://anilist.co/anime/10429"
+    },
+    "k": {
+      "id": "5811",
+      "url": "https://kitsu.io/anime/5811"
+    },
+    "mal": {
+      "id": "10429",
+      "url": "https://myanimelist.net/anime/10429"
+    }
+  }
+}

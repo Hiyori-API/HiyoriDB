@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7785,
+  "slug": "kaitou-joker",
+  "kind": "anime",
+  "title": "Kaitou Joker",
+  "titles": {
+    "default": "Kaitou Joker",
+    "romaji": "Kaitou Joker",
+    "english": "Mysterious Joker",
+    "native": "怪盗ジョーカー"
+  },
+  "synonyms": [
+    "Kaitou Joker",
+    "Mysterious Joker",
+    "怪盗ジョーカー",
+    "JOKER",
+    "Amagi Brilliant Park",
+    "甘城ブリリアントパーク",
+    "Amaburi"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b20818-DRExjAjTXjRh.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "20818",
+      "url": "https://anilist.co/anime/20818"
+    },
+    "cr": {
+      "id": "joker",
+      "url": "https://www.crunchyroll.com/series/joker"
+    },
+    "k": {
+      "id": "8259",
+      "url": "https://kitsu.io/anime/8259"
+    },
+    "mal": {
+      "id": "24909",
+      "url": "https://myanimelist.net/anime/24909"
+    },
+    "t": {
+      "id": "77967",
+      "url": "https://trakt.tv/shows/77967"
+    },
+    "tx": {
+      "id": "mjoker_anime",
+      "url": "https://twitter.com/mjoker_anime"
+    }
+  }
+}

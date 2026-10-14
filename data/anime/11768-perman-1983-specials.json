@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11768,
+  "slug": "perman-1983-specials",
+  "kind": "anime",
+  "title": "Perman (1983) Specials",
+  "titles": {
+    "default": "Perman (1983) Specials",
+    "romaji": "Perman (1983) Specials",
+    "native": "パーマン (1983)"
+  },
+  "synonyms": [
+    "Perman (1983) Specials",
+    "パーマン (1983)",
+    "Perman Copy World no Nazo",
+    "Perman All Hyakka",
+    "Bird Sei e no Michi",
+    "Paaman: Copy World no Nazo",
+    "Perman: Copy World no Nazo"
+  ],
+  "type": "special",
+  "episodes": 3,
+  "status": "finished",
+  "season": "summer",
+  "year": 1983,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187218-siBNE5lFGQCG.png"
+  ],
+  "references": {
+    "al": {
+      "id": "187218",
+      "url": "https://anilist.co/anime/187218"
+    },
+    "mal": {
+      "id": "30646",
+      "url": "https://myanimelist.net/anime/30646"
+    }
+  }
+}

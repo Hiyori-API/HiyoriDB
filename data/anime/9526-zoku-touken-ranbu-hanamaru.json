@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9526,
+  "slug": "zoku-touken-ranbu-hanamaru",
+  "kind": "anime",
+  "title": "Zoku Touken Ranbu: Hanamaru",
+  "titles": {
+    "default": "Zoku Touken Ranbu: Hanamaru",
+    "romaji": "Zoku Touken Ranbu: Hanamaru",
+    "english": "Touken Ranbu: Hanamaru 2",
+    "native": "続刀剣乱舞-花丸-"
+  },
+  "synonyms": [
+    "Zoku Touken Ranbu: Hanamaru",
+    "Touken Ranbu: Hanamaru 2",
+    "続刀剣乱舞-花丸-",
+    "High Score Girl",
+    "ハイスコアガール",
+    "Hi Score Girl"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98520-R33zIZW34dnm.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98520",
+      "url": "https://anilist.co/anime/98520"
+    },
+    "cr": {
+      "id": "touken-ranbu-hanamaru",
+      "url": "https://www.crunchyroll.com/series/touken-ranbu-hanamaru"
+    },
+    "k": {
+      "id": "8158",
+      "url": "https://kitsu.io/anime/8158"
+    },
+    "mal": {
+      "id": "34863",
+      "url": "https://myanimelist.net/anime/34863"
+    },
+    "nf": {
+      "id": "80997338",
+      "url": "https://www.netflix.com/title/80997338"
+    },
+    "tx": {
+      "id": "touken_hanamaru",
+      "url": "https://twitter.com/touken_hanamaru"
+    }
+  }
+}

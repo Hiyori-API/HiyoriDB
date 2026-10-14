@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11152,
+  "slug": "saezuru-tori-wa-habatakanai-don-t-stay-gold",
+  "kind": "anime",
+  "title": "Saezuru Tori wa Habatakanai: Don't stay gold",
+  "titles": {
+    "default": "Saezuru Tori wa Habatakanai: Don't stay gold",
+    "romaji": "Saezuru Tori wa Habatakanai: Don't stay gold",
+    "english": "Twittering Birds Never Fly: Don't Stay Gold",
+    "native": "囀る鳥は羽ばたかない Don't stay gold"
+  },
+  "synonyms": [
+    "Saezuru Tori wa Habatakanai: Don't stay gold",
+    "Twittering Birds Never Fly: Don't Stay Gold",
+    "囀る鳥は羽ばたかない Don't stay gold",
+    "Saezuru Tori wa Habatakanai OVA",
+    "Twittering Birds Never Fly OVA",
+    "Don't Stay Gold",
+    "Saezuru Tori wa Habatakanai: Don't Stay Gold"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115567-iVP26dCe4Vwo.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "115567",
+      "url": "https://anilist.co/anime/115567"
+    },
+    "mal": {
+      "id": "41290",
+      "url": "https://myanimelist.net/anime/41290"
+    }
+  }
+}

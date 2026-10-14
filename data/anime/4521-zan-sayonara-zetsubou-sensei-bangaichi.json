@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4521,
+  "slug": "zan-sayonara-zetsubou-sensei-bangaichi",
+  "kind": "anime",
+  "title": "Zan Sayonara Zetsubou Sensei Bangaichi",
+  "titles": {
+    "default": "Zan Sayonara Zetsubou Sensei Bangaichi",
+    "romaji": "Zan Sayonara Zetsubou Sensei Bangaichi",
+    "native": "懺さよなら絶望先生 番外地"
+  },
+  "synonyms": [
+    "Zan Sayonara Zetsubou Sensei Bangaichi",
+    "懺さよなら絶望先生 番外地",
+    "Zan Sayonara Zetsubou Sensei OVA",
+    "Zan Sayonara Zetsubou Sensei No Man's Land",
+    "ZSZSB"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx7044-tFcFVLq3OXWv.png"
+  ],
+  "references": {
+    "al": {
+      "id": "7044",
+      "url": "https://anilist.co/anime/7044"
+    },
+    "k": {
+      "id": "4847",
+      "url": "https://kitsu.io/anime/4847"
+    },
+    "mal": {
+      "id": "7044",
+      "url": "https://myanimelist.net/anime/7044"
+    }
+  }
+}

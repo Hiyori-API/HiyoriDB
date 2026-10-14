@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11311,
+  "slug": "shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei",
+  "kind": "anime",
+  "title": "Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei",
+  "titles": {
+    "default": "Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei",
+    "romaji": "Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei",
+    "english": "The Fruit of Evolution: Before I Knew It, My Life Had It Made",
+    "native": "進化の実～知らないうちに勝ち組人生～"
+  },
+  "synonyms": [
+    "Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei",
+    "The Fruit of Evolution: Before I Knew It, My Life Had It Made",
+    "進化の実～知らないうちに勝ち組人生～",
+    "ผลไม้วิวัฒนาการ: ชีวิตผู้ชนะแบบไม่ทันตั้งตัว",
+    "Rozen Maiden",
+    "ローゼンメイデン"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129068-HlY1UqLyrbmB.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "129068",
+      "url": "https://anilist.co/anime/129068"
+    },
+    "cr": {
+      "id": "series/G9VHN9DDX/the-fruit-of-evolution-before-i-knew-it-my-life-had-it-made",
+      "url": "https://www.crunchyroll.com/series/series/G9VHN9DDX/the-fruit-of-evolution-before-i-knew-it-my-life-had-it-made"
+    },
+    "k": {
+      "id": "45",
+      "url": "https://kitsu.io/anime/45"
+    },
+    "mal": {
+      "id": "46985",
+      "url": "https://myanimelist.net/anime/46985"
+    },
+    "t": {
+      "id": "61847",
+      "url": "https://trakt.tv/shows/61847"
+    },
+    "tx": {
+      "id": "shinkanomianime",
+      "url": "https://twitter.com/shinkanomianime"
+    }
+  }
+}

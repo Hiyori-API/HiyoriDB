@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 653,
+  "slug": "princess-tutu",
+  "kind": "anime",
+  "title": "Princess Tutu",
+  "titles": {
+    "default": "Princess Tutu",
+    "romaji": "Princess Tutu",
+    "native": "プリンセスチュチュ"
+  },
+  "synonyms": [
+    "Princess Tutu",
+    "プリンセスチュチュ"
+  ],
+  "type": "tv",
+  "episodes": 38,
+  "status": "finished",
+  "season": "summer",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx721-9tJpM47RBPJm.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "721",
+      "url": "https://anilist.co/anime/721"
+    },
+    "k": {
+      "id": "650",
+      "url": "https://kitsu.io/anime/650"
+    },
+    "mal": {
+      "id": "721",
+      "url": "https://myanimelist.net/anime/721"
+    },
+    "t": {
+      "id": "33985",
+      "url": "https://trakt.tv/shows/33985"
+    }
+  }
+}

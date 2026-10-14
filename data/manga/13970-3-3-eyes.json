@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13970,
+  "slug": "3-3-eyes",
+  "kind": "manga",
+  "title": "3×3 EYES",
+  "titles": {
+    "default": "3×3 EYES"
+  },
+  "synonyms": [
+    "Sazan Eyes",
+    "3×3 Eyes - Cô bé ba mắt",
+    "3x3 Occhi",
+    "Trinetra",
+    "3x3 Augen",
+    "3x3 Eyes",
+    "3×3 EYES"
+  ],
+  "type": "manga",
+  "chapters": 577,
+  "volumes": 40,
+  "status": "finished",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30662-KyqAx9ki5jBx.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1225",
+      "url": "https://anilist.co/anime/300"
+    },
+    "al_manga": {
+      "id": "1225",
+      "url": "https://anilist.co/manga/1225"
+    }
+  }
+}

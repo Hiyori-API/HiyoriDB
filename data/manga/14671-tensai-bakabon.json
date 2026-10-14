@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14671,
+  "slug": "tensai-bakabon",
+  "kind": "manga",
+  "title": "Tensai Bakabon",
+  "titles": {
+    "default": "Tensai Bakabon"
+  },
+  "synonyms": [
+    "Genius Idiot",
+    "The Genius Bakabon",
+    "天才バカボン",
+    "Lupin III",
+    "Lupin Sansei",
+    "Lupin the 3rd",
+    "ルパン三世"
+  ],
+  "type": "manga",
+  "volumes": 38,
+  "status": "finished",
+  "year": 1967,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b53322-xFfRIgd1jasK.png"
+  ],
+  "references": {
+    "al": {
+      "id": "6468",
+      "url": "https://anilist.co/anime/10607"
+    },
+    "al_manga": {
+      "id": "6468",
+      "url": "https://anilist.co/manga/6468"
+    }
+  }
+}

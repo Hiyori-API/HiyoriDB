@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9720,
+  "slug": "irozuku-sekai-no-ashita-kara",
+  "kind": "anime",
+  "title": "Irozuku Sekai no Ashita kara",
+  "titles": {
+    "default": "Irozuku Sekai no Ashita kara",
+    "romaji": "Irozuku Sekai no Ashita kara",
+    "english": "IRODUKU: The World in Colors",
+    "native": "色づく世界の明日から"
+  },
+  "synonyms": [
+    "Irozuku Sekai no Ashita kara",
+    "IRODUKU: The World in Colors",
+    "色づく世界の明日から",
+    "So Many Colors In The Future What A Wonderful World",
+    "Iroduku",
+    "IRODUKU: O Mundo em Cores",
+    "IRODUKU: Le Monde en couleur",
+    "IRODUKU: El mundo en colores",
+    "Iroduku: The World in Colors"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101316-yI1ZvMrsDUn9.png"
+  ],
+  "references": {
+    "al": {
+      "id": "101316",
+      "url": "https://anilist.co/anime/101316"
+    },
+    "mal": {
+      "id": "37497",
+      "url": "https://myanimelist.net/anime/37497"
+    },
+    "tx": {
+      "id": "iroduku_anime",
+      "url": "https://twitter.com/iroduku_anime"
+    }
+  }
+}

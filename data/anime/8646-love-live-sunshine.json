@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8646,
+  "slug": "love-live-sunshine",
+  "kind": "anime",
+  "title": "Love Live! Sunshine!!",
+  "titles": {
+    "default": "Love Live! Sunshine!!",
+    "romaji": "Love Live! Sunshine!!",
+    "native": "ラブライブ！サンシャイン!!"
+  },
+  "synonyms": [
+    "Love Live! Sunshine!!",
+    "ラブライブ！サンシャイン!!",
+    "Love Live! School Idol Project Sunshine!!",
+    "Love Live! School Idol Project: Sunshine!!"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21584-AhHXXC6jvtTX.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21584",
+      "url": "https://anilist.co/anime/21584"
+    },
+    "cr": {
+      "id": "love-live-sunshine",
+      "url": "https://www.crunchyroll.com/series/love-live-sunshine"
+    },
+    "mal": {
+      "id": "32526",
+      "url": "https://myanimelist.net/anime/32526"
+    },
+    "ttv": {
+      "id": "2167",
+      "url": "https://tubitv.com/series/2167"
+    },
+    "tx": {
+      "id": "LoveLive_staff",
+      "url": "https://twitter.com/LoveLive_staff"
+    }
+  }
+}

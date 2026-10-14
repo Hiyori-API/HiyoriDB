@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3204,
+  "slug": "mahoutsukai-sally-2",
+  "kind": "anime",
+  "title": "Mahoutsukai Sally 2",
+  "titles": {
+    "default": "Mahoutsukai Sally 2",
+    "romaji": "Mahoutsukai Sally 2",
+    "native": "魔法使いサリー２"
+  },
+  "synonyms": [
+    "Mahoutsukai Sally 2",
+    "魔法使いサリー２",
+    "Mahoutsukai Sally",
+    "Sally the Witch"
+  ],
+  "type": "tv",
+  "episodes": 88,
+  "status": "finished",
+  "season": "fall",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3875.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3875",
+      "url": "https://anilist.co/anime/3875"
+    },
+    "k": {
+      "id": "3315",
+      "url": "https://kitsu.io/anime/3315"
+    },
+    "mal": {
+      "id": "3875",
+      "url": "https://myanimelist.net/anime/3875"
+    }
+  }
+}

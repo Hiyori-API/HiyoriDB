@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10162,
+  "slug": "hello-wego",
+  "kind": "anime",
+  "title": "Hello WeGo!",
+  "titles": {
+    "default": "Hello WeGo!",
+    "romaji": "Hello WeGo!"
+  },
+  "synonyms": [
+    "Hello WeGo!",
+    "2019 Young Animator Training Project",
+    "Anime Mirai 2019",
+    "Anime Tamago 2019",
+    "Fate/stay night Movie: Heaven's Feel 2",
+    "Fate/stay night: Heaven's Feel - II. Lost Butterfly",
+    "劇場版「Fate/stay night [Heaven's Feel] II.lost butterfly」",
+    "Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx107859-NvfntMqxzjRI.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "107859",
+      "url": "https://anilist.co/anime/107859"
+    },
+    "mal": {
+      "id": "38011",
+      "url": "https://myanimelist.net/anime/38011"
+    }
+  }
+}

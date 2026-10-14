@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9073,
+  "slug": "isekai-shokudou",
+  "kind": "anime",
+  "title": "Isekai Shokudou",
+  "titles": {
+    "default": "Isekai Shokudou",
+    "romaji": "Isekai Shokudou",
+    "english": "Restaurant to Another World",
+    "native": "異世界食堂"
+  },
+  "synonyms": [
+    "Isekai Shokudou",
+    "Restaurant to Another World",
+    "異世界食堂",
+    "异世界食堂",
+    "ร้านอาหารต่างโลก"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx97617-TmRRraupfbT5.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "97617",
+      "url": "https://anilist.co/anime/97617"
+    },
+    "cr": {
+      "id": "restaurant-to-another-world",
+      "url": "https://www.crunchyroll.com/series/restaurant-to-another-world"
+    },
+    "mal": {
+      "id": "34012",
+      "url": "https://myanimelist.net/anime/34012"
+    },
+    "nf": {
+      "id": "80993368",
+      "url": "https://www.netflix.com/title/80993368"
+    },
+    "tx": {
+      "id": "nekoya_PR",
+      "url": "https://twitter.com/nekoya_PR"
+    }
+  }
+}

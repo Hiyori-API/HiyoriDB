@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2908,
+  "slug": "shigofumi",
+  "kind": "anime",
+  "title": "Shigofumi",
+  "titles": {
+    "default": "Shigofumi",
+    "romaji": "Shigofumi",
+    "native": "シゴフミ"
+  },
+  "synonyms": [
+    "Shigofumi",
+    "シゴフミ",
+    "Shigofumi: Stories of Last Letter",
+    "Shigofumi: Letters from the Departed"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3420-ZHbQqYUJCcUn.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3420",
+      "url": "https://anilist.co/anime/3420"
+    },
+    "k": {
+      "id": "2996",
+      "url": "https://kitsu.io/anime/2996"
+    },
+    "mal": {
+      "id": "3420",
+      "url": "https://myanimelist.net/anime/3420"
+    },
+    "t": {
+      "id": "63721",
+      "url": "https://trakt.tv/shows/63721"
+    }
+  }
+}

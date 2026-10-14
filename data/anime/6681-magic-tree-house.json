@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6681,
+  "slug": "magic-tree-house",
+  "kind": "anime",
+  "title": "Magic Tree House",
+  "titles": {
+    "default": "Magic Tree House",
+    "romaji": "Magic Tree House",
+    "native": "マジック・ツリーハウス"
+  },
+  "synonyms": [
+    "Magic Tree House",
+    "マジック・ツリーハウス"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10690-WgEwXgZjRkNE.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10690",
+      "url": "https://anilist.co/anime/10690"
+    },
+    "k": {
+      "id": "6296",
+      "url": "https://kitsu.io/anime/6296"
+    },
+    "mal": {
+      "id": "10690",
+      "url": "https://myanimelist.net/anime/10690"
+    }
+  }
+}

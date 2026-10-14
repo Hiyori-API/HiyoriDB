@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15621,
+  "slug": "giant-killing",
+  "kind": "manga",
+  "title": "GIANT KILLING",
+  "titles": {
+    "default": "GIANT KILLING"
+  },
+  "synonyms": [
+    "逆轉監督-GIANT KILLING",
+    "Giant Killing",
+    "GIANT KILLING",
+    "Don't Be Cruel",
+    "Hidoku Shinaide",
+    "酷くしないで",
+    "Treat me gently",
+    "Please, Don't be Coldhearted",
+    "Please, After School Secret",
+    "Wagamama mo Aishite",
+    "Love the Selfish, Too",
+    "Hindered by Underwear",
+    "Don't Take Off the Sailor Uniform, Please",
+    "Don't be Cruel",
+    "Please",
+    "Don't be Coldhearted",
+    "After School Secret",
+    "Love the Selfish",
+    "Too",
+    "Don't Take Off the Sailor Uniform"
+  ],
+  "type": "manga",
+  "status": "publishing",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx43897-nWNzhEW9ibIf.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7661",
+      "url": "https://anilist.co/anime/7661"
+    },
+    "al_manga": {
+      "id": "7661",
+      "url": "https://anilist.co/manga/7661"
+    }
+  }
+}

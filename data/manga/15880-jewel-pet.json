@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15880,
+  "slug": "jewel-pet",
+  "kind": "manga",
+  "title": "Jewel Pet",
+  "titles": {
+    "default": "Jewel Pet"
+  },
+  "synonyms": [
+    "JewelPet",
+    "ジュエルペット",
+    "Simple Knot Loafers",
+    "シンプルノットローファー",
+    "Shinpuru Notto Rofa",
+    "Shinpuru Notto Roofaa",
+    "Simple Not Loafer"
+  ],
+  "type": "manga",
+  "volumes": 1,
+  "status": "finished",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/19898.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6008",
+      "url": "https://anilist.co/anime/6008"
+    },
+    "al_manga": {
+      "id": "6008",
+      "url": "https://anilist.co/manga/6008"
+    }
+  }
+}

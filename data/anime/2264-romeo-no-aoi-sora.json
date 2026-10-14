@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2264,
+  "slug": "romeo-no-aoi-sora",
+  "kind": "anime",
+  "title": "Romeo no Aoi Sora",
+  "titles": {
+    "default": "Romeo no Aoi Sora",
+    "romaji": "Romeo no Aoi Sora",
+    "english": "Romeo's Blue Skies",
+    "native": "ロミオの青い空"
+  },
+  "synonyms": [
+    "Romeo no Aoi Sora",
+    "Romeo's Blue Skies",
+    "ロミオの青い空",
+    "Sekai Meisaku Gekijou",
+    "Romio no Aoi Sora",
+    "World Masterpiece Theater",
+    "WMT",
+    "Die schwarzen Brüder",
+    "عهد الاصدقاء",
+    "Spicchi di cielo tra baffi di fumo",
+    "Romeo and the Black Brothers"
+  ],
+  "type": "tv",
+  "episodes": 33,
+  "status": "finished",
+  "season": "winter",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2559-JURloxu6nxV8.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2559",
+      "url": "https://anilist.co/anime/2559"
+    },
+    "k": {
+      "id": "2324",
+      "url": "https://kitsu.io/anime/2324"
+    },
+    "mal": {
+      "id": "2559",
+      "url": "https://myanimelist.net/anime/2559"
+    },
+    "t": {
+      "id": "43962",
+      "url": "https://trakt.tv/shows/43962"
+    }
+  }
+}

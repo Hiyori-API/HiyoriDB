@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4735,
+  "slug": "ufo-senshi-dai-apolon-ii",
+  "kind": "anime",
+  "title": "UFO Senshi Dai Apolon II",
+  "titles": {
+    "default": "UFO Senshi Dai Apolon II",
+    "romaji": "UFO Senshi Dai Apolon II",
+    "native": "UFO戦士ダイアポロンII"
+  },
+  "synonyms": [
+    "UFO Senshi Dai Apolon II",
+    "UFO戦士ダイアポロンII",
+    "UFO Warrior Dai Apolon 2",
+    "Shadow World 2",
+    "UFO Senshi Dai Apolon 2"
+  ],
+  "type": "tv",
+  "episodes": 21,
+  "status": "finished",
+  "season": "fall",
+  "year": 1976,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10815.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10815",
+      "url": "https://anilist.co/anime/10815"
+    },
+    "k": {
+      "id": "6365",
+      "url": "https://kitsu.io/anime/6365"
+    },
+    "mal": {
+      "id": "10815",
+      "url": "https://myanimelist.net/anime/10815"
+    }
+  }
+}

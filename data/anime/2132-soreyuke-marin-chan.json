@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2132,
+  "slug": "soreyuke-marin-chan",
+  "kind": "anime",
+  "title": "Soreyuke Marin-chan",
+  "titles": {
+    "default": "Soreyuke Marin-chan",
+    "romaji": "Soreyuke Marin-chan",
+    "native": "それゆけまりんちゃん"
+  },
+  "synonyms": [
+    "Soreyuke Marin-chan",
+    "それゆけまりんちゃん",
+    "Marine A Go-Go",
+    "Angelique: Seichi yori Ai wo Komete",
+    "アンジェリーク　聖地より愛をこめて",
+    "Angelique: From the Sanctuary with Love",
+    "Angelique OVA2"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "winter",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2410.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2410",
+      "url": "https://anilist.co/anime/2410"
+    },
+    "k": {
+      "id": "2300",
+      "url": "https://kitsu.io/anime/2300"
+    },
+    "mal": {
+      "id": "2410",
+      "url": "https://myanimelist.net/anime/2410"
+    }
+  }
+}

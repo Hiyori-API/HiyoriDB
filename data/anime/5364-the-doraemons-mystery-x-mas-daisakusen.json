@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5364,
+  "slug": "the-doraemons-mystery-x-mas-daisakusen",
+  "kind": "anime",
+  "title": "The☆Doraemons: Mystery X'mas Daisakusen",
+  "titles": {
+    "default": "The☆Doraemons: Mystery X'mas Daisakusen",
+    "romaji": "The☆Doraemons: Mystery X'mas Daisakusen",
+    "native": "ザ☆ドラえもんズ ミステリーX'マス大作戦"
+  },
+  "synonyms": [
+    "The☆Doraemons: Mystery X'mas Daisakusen",
+    "ザ☆ドラえもんズ ミステリーX'マス大作戦",
+    "X'マスだよ！ドラえもん＆ドラえもんズ超スペシャル！",
+    "It's Christmas! Doraemon & Doraemons Super Special",
+    "X'mas da yo! Doraemon & Doraemons Chou Special!!",
+    "Bavel's Book",
+    "Bavel no Hon",
+    "バベルの本"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b196061-RYLrH1E19vxr.png"
+  ],
+  "references": {
+    "al": {
+      "id": "196061",
+      "url": "https://anilist.co/anime/196061"
+    },
+    "k": {
+      "id": "3617",
+      "url": "https://kitsu.io/anime/3617"
+    },
+    "mal": {
+      "id": "54105",
+      "url": "https://myanimelist.net/anime/54105"
+    }
+  }
+}

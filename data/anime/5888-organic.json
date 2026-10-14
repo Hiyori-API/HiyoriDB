@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5888,
+  "slug": "organic",
+  "kind": "anime",
+  "title": "Organic",
+  "titles": {
+    "default": "Organic",
+    "romaji": "Organic",
+    "native": "オーガニック"
+  },
+  "synonyms": [
+    "Organic",
+    "オーガニック"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13519.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "13519",
+      "url": "https://anilist.co/anime/13519"
+    },
+    "k": {
+      "id": "6987",
+      "url": "https://kitsu.io/anime/6987"
+    },
+    "mal": {
+      "id": "13519",
+      "url": "https://myanimelist.net/anime/13519"
+    }
+  }
+}

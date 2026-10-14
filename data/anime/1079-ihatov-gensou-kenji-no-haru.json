@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1079,
+  "slug": "ihatov-gensou-kenji-no-haru",
+  "kind": "anime",
+  "title": "Ihatov Gensou: Kenji no Haru",
+  "titles": {
+    "default": "Ihatov Gensou: Kenji no Haru",
+    "romaji": "Ihatov Gensou: Kenji no Haru",
+    "english": "Spring and Chaos",
+    "native": "イーハトーブ幻想 Kenjiの春"
+  },
+  "synonyms": [
+    "Ihatov Gensou: Kenji no Haru",
+    "Spring and Chaos",
+    "イーハトーブ幻想 Kenjiの春",
+    "Kenji's Spring",
+    "Bavel's Book",
+    "Bavel no Hon",
+    "バベルの本"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1206-RYljr0DePi1W.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1206",
+      "url": "https://anilist.co/anime/1206"
+    },
+    "k": {
+      "id": "3617",
+      "url": "https://kitsu.io/anime/3617"
+    },
+    "mal": {
+      "id": "1206",
+      "url": "https://myanimelist.net/anime/1206"
+    }
+  }
+}

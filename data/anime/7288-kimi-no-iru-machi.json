@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7288,
+  "slug": "kimi-no-iru-machi",
+  "kind": "anime",
+  "title": "Kimi no Iru Machi",
+  "titles": {
+    "default": "Kimi no Iru Machi",
+    "romaji": "Kimi no Iru Machi",
+    "english": "A Town Where You Live",
+    "native": "君のいる町"
+  },
+  "synonyms": [
+    "Kimi no Iru Machi",
+    "A Town Where You Live",
+    "君のいる町",
+    "KINMOZA!",
+    "Kiniro Mosaic",
+    "きんいろモザイク",
+    "Kinmosa",
+    "Golden Mosaic"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17741-0PUdx0BSMot6.png"
+  ],
+  "references": {
+    "al": {
+      "id": "17741",
+      "url": "https://anilist.co/anime/17741"
+    },
+    "cr": {
+      "id": "kinmoza",
+      "url": "https://www.crunchyroll.com/series/kinmoza"
+    },
+    "k": {
+      "id": "7501",
+      "url": "https://kitsu.io/anime/7501"
+    },
+    "mal": {
+      "id": "17741",
+      "url": "https://myanimelist.net/anime/17741"
+    },
+    "t": {
+      "id": "70751",
+      "url": "https://trakt.tv/shows/70751"
+    },
+    "tx": {
+      "id": "anime_kimimachi",
+      "url": "https://twitter.com/anime_kimimachi"
+    }
+  }
+}

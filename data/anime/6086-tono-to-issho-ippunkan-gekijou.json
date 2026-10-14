@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6086,
+  "slug": "tono-to-issho-ippunkan-gekijou",
+  "kind": "anime",
+  "title": "Tono to Issho: Ippunkan Gekijou",
+  "titles": {
+    "default": "Tono to Issho: Ippunkan Gekijou",
+    "romaji": "Tono to Issho: Ippunkan Gekijou",
+    "english": "My Lord and Me",
+    "native": "殿といっしょ 1分間劇場"
+  },
+  "synonyms": [
+    "Tono to Issho: Ippunkan Gekijou",
+    "My Lord and Me",
+    "殿といっしょ 1分間劇場",
+    "Tono to Issho TV"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8961.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8961",
+      "url": "https://anilist.co/anime/8961"
+    },
+    "cr": {
+      "id": "tono-to-issho",
+      "url": "https://www.crunchyroll.com/series/tono-to-issho"
+    },
+    "k": {
+      "id": "5553",
+      "url": "https://kitsu.io/anime/5553"
+    },
+    "mal": {
+      "id": "8961",
+      "url": "https://myanimelist.net/anime/8961"
+    },
+    "t": {
+      "id": "36573",
+      "url": "https://trakt.tv/shows/36573"
+    }
+  }
+}

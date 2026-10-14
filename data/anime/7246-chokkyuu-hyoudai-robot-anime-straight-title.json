@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7246,
+  "slug": "chokkyuu-hyoudai-robot-anime-straight-title",
+  "kind": "anime",
+  "title": "Chokkyuu Hyoudai Robot Anime: STRAIGHT TITLE",
+  "titles": {
+    "default": "Chokkyuu Hyoudai Robot Anime: STRAIGHT TITLE",
+    "romaji": "Chokkyuu Hyoudai Robot Anime: STRAIGHT TITLE",
+    "english": "Straight Title Robot Anime",
+    "native": "直球表題 ロボットアニメ-STRAIGHT TITLE-"
+  },
+  "synonyms": [
+    "Chokkyuu Hyoudai Robot Anime: STRAIGHT TITLE",
+    "Straight Title Robot Anime",
+    "直球表題 ロボットアニメ-STRAIGHT TITLE-",
+    "Chokkyuu Hyoudai Robot Anime: Straight Title"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17127.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "17127",
+      "url": "https://anilist.co/anime/17127"
+    },
+    "cr": {
+      "id": "straight-title-robot-anime",
+      "url": "https://www.crunchyroll.com/series/straight-title-robot-anime"
+    },
+    "k": {
+      "id": "7589",
+      "url": "https://kitsu.io/anime/7589"
+    },
+    "mal": {
+      "id": "17127",
+      "url": "https://myanimelist.net/anime/17127"
+    },
+    "t": {
+      "id": "69764",
+      "url": "https://trakt.tv/shows/69764"
+    }
+  }
+}

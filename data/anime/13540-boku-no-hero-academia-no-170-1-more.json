@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13540,
+  "slug": "boku-no-hero-academia-no-170-1-more",
+  "kind": "anime",
+  "title": "Boku no Hero Academia No. 170+1: More",
+  "titles": {
+    "default": "Boku no Hero Academia No. 170+1: More",
+    "romaji": "Boku no Hero Academia No. 170+1: More",
+    "english": "My Hero Academia More",
+    "native": "僕のヒーローアカデミア No. 170+1 「More」"
+  },
+  "synonyms": [
+    "Boku no Hero Academia No. 170+1: More",
+    "My Hero Academia More",
+    "僕のヒーローアカデミア No. 170+1 「More」",
+    "My Hero Academia No. 170+1: “More”",
+    "Isekai Office Worker: The Other World's Books Depend on the Bean Counter Special",
+    "Isekai Office Worker: The Other World's Books Depend on the Bean Counter - I Let My Thoughts Wander",
+    "異世界の沙汰は社畜次第 OVA 「思いを馳せました」",
+    "Isekai no Sata wa Shachiku Shidai: Omoi wo Hasemashita"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204356-RNYmxUVVz3Z2.png"
+  ],
+  "references": {
+    "al": {
+      "id": "204356",
+      "url": "https://anilist.co/anime/204356"
+    },
+    "cr": {
+      "id": "series/G6NQ5DWZ6/my-hero-academia",
+      "url": "https://www.crunchyroll.com/series/series/G6NQ5DWZ6/my-hero-academia"
+    },
+    "mal": {
+      "id": "63130",
+      "url": "https://myanimelist.net/anime/63130"
+    }
+  }
+}

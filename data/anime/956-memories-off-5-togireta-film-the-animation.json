@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 956,
+  "slug": "memories-off-5-togireta-film-the-animation",
+  "kind": "anime",
+  "title": "Memories Off 5: Togireta Film THE ANIMATION",
+  "titles": {
+    "default": "Memories Off 5: Togireta Film THE ANIMATION",
+    "romaji": "Memories Off 5: Togireta Film THE ANIMATION",
+    "native": "Memories Off #5 とぎれたフィルム THE ANIMATION"
+  },
+  "synonyms": [
+    "Memories Off 5: Togireta Film THE ANIMATION",
+    "Memories Off #5 とぎれたフィルム THE ANIMATION",
+    "Memories Off #5",
+    "Memories Off #5 The Broken Off Film",
+    "Memories Off #5 Togireta Film",
+    "Memories Off #5 Togireta Film The Animation"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1071.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1071",
+      "url": "https://anilist.co/anime/1071"
+    },
+    "k": {
+      "id": "958",
+      "url": "https://kitsu.io/anime/958"
+    },
+    "mal": {
+      "id": "1071",
+      "url": "https://myanimelist.net/anime/1071"
+    }
+  }
+}

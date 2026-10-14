@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14557,
+  "slug": "sakigake-otokojuku",
+  "kind": "manga",
+  "title": "Sakigake!! Otokojuku",
+  "titles": {
+    "default": "Sakigake!! Otokojuku"
+  },
+  "synonyms": [
+    "Charge!! Men's School",
+    "魁!!男塾",
+    "Mai",
+    "Mai, The Psychic Girl",
+    "舞"
+  ],
+  "type": "manga",
+  "chapters": 314,
+  "volumes": 34,
+  "status": "finished",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx35254-SMWmBJgRWcxn.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "171601",
+      "url": "https://anilist.co/anime/2903"
+    },
+    "al_manga": {
+      "id": "171601",
+      "url": "https://anilist.co/manga/171601"
+    }
+  }
+}

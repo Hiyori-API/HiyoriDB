@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13083,
+  "slug": "masuda-kousuke-gekijou-gag-manga-biyori-go",
+  "kind": "anime",
+  "title": "Masuda Kousuke Gekijou Gag Manga Biyori GO",
+  "titles": {
+    "default": "Masuda Kousuke Gekijou Gag Manga Biyori GO",
+    "romaji": "Masuda Kousuke Gekijou Gag Manga Biyori GO",
+    "english": "Gag Manga Biyori GO",
+    "native": "増田こうすけ劇場 ギャグマンガ日和GO"
+  },
+  "synonyms": [
+    "Masuda Kousuke Gekijou Gag Manga Biyori GO",
+    "Gag Manga Biyori GO",
+    "増田こうすけ劇場 ギャグマンガ日和GO",
+    "𝗚𝗮𝗴 𝗠𝗮𝗻𝗴𝗮 𝗕𝗶𝘆𝗼𝗿𝗶 𝗚𝗢",
+    "This Ugly Yet Beautiful World",
+    "Kono Minikuku mo Utsukushii Sekai",
+    "この醜くも美しい世界"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185259-h5AnqAcoKH6d.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "185259",
+      "url": "https://anilist.co/anime/185259"
+    },
+    "k": {
+      "id": "124",
+      "url": "https://kitsu.io/anime/124"
+    },
+    "mal": {
+      "id": "60446",
+      "url": "https://myanimelist.net/anime/60446"
+    },
+    "t": {
+      "id": "34001",
+      "url": "https://trakt.tv/shows/34001"
+    }
+  }
+}

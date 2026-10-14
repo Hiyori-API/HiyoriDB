@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15857,
+  "slug": "gakuen-babysitters",
+  "kind": "manga",
+  "title": "Gakuen Babysitters",
+  "titles": {
+    "default": "Gakuen Babysitters"
+  },
+  "synonyms": [
+    "Anh chàng bảo mẫu",
+    "นักเรียนพี่เลี้ยงเด็ก",
+    "School Babysitters",
+    "学園ベビーシッターズ",
+    "Gakuen Babysitters"
+  ],
+  "type": "manga",
+  "status": "publishing",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx46922-tdLvDn26ha2n.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "102969",
+      "url": "https://anilist.co/anime/98503"
+    },
+    "al_manga": {
+      "id": "102969",
+      "url": "https://anilist.co/manga/102969"
+    }
+  }
+}

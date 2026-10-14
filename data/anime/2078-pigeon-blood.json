@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2078,
+  "slug": "pigeon-blood",
+  "kind": "anime",
+  "title": "Pigeon Blood",
+  "titles": {
+    "default": "Pigeon Blood",
+    "romaji": "Pigeon Blood",
+    "native": "ピジョンブラッド"
+  },
+  "synonyms": [
+    "Pigeon Blood",
+    "ピジョンブラッド",
+    "Eiken",
+    "Eiken: Eikenbu yori Ai wo Komete",
+    "エイケン エイケンヴより愛をこめて"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2351.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2351",
+      "url": "https://anilist.co/anime/2351"
+    },
+    "k": {
+      "id": "703",
+      "url": "https://kitsu.io/anime/703"
+    },
+    "mal": {
+      "id": "2351",
+      "url": "https://myanimelist.net/anime/2351"
+    }
+  }
+}

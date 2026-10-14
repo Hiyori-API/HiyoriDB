@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3882,
+  "slug": "nekketsu-saikyou-go-saurer",
+  "kind": "anime",
+  "title": "Nekketsu Saikyou Go-Saurer",
+  "titles": {
+    "default": "Nekketsu Saikyou Go-Saurer",
+    "romaji": "Nekketsu Saikyou Go-Saurer",
+    "english": "Hot-Blooded Strongest Go-Saurer",
+    "native": "熱血最強ゴウザウラー"
+  },
+  "synonyms": [
+    "Nekketsu Saikyou Go-Saurer",
+    "Hot-Blooded Strongest Go-Saurer",
+    "熱血最強ゴウザウラー",
+    "Nekketsu Saikyou Gosaurer",
+    "Matchless Passion Gozaurer",
+    "Eldran series #3"
+  ],
+  "type": "tv",
+  "episodes": 51,
+  "status": "finished",
+  "season": "spring",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5395-z8hTWfe2jagh.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5395",
+      "url": "https://anilist.co/anime/5395"
+    },
+    "k": {
+      "id": "4082",
+      "url": "https://kitsu.io/anime/4082"
+    },
+    "mal": {
+      "id": "5395",
+      "url": "https://myanimelist.net/anime/5395"
+    }
+  }
+}

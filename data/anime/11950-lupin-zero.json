@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11950,
+  "slug": "lupin-zero",
+  "kind": "anime",
+  "title": "LUPIN ZERO",
+  "titles": {
+    "default": "LUPIN ZERO",
+    "romaji": "LUPIN ZERO",
+    "english": "Lupin ZERO",
+    "native": "ルパンゼロ"
+  },
+  "synonyms": [
+    "LUPIN ZERO",
+    "Lupin ZERO",
+    "ルパンゼロ",
+    "The Wings of Rean",
+    "Rean no Tsubasa",
+    "リーンの翼"
+  ],
+  "type": "ona",
+  "episodes": 6,
+  "status": "finished",
+  "season": "fall",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155925-FWI4G2QSweAz.png"
+  ],
+  "references": {
+    "al": {
+      "id": "155925",
+      "url": "https://anilist.co/anime/155925"
+    },
+    "cr": {
+      "id": "series/G9VHN91PJ/lupin-zero",
+      "url": "https://www.crunchyroll.com/series/series/G9VHN91PJ/lupin-zero"
+    },
+    "k": {
+      "id": "531",
+      "url": "https://kitsu.io/anime/531"
+    },
+    "mal": {
+      "id": "53414",
+      "url": "https://myanimelist.net/anime/53414"
+    },
+    "tx": {
+      "id": "lupin_zero",
+      "url": "https://twitter.com/lupin_zero"
+    }
+  }
+}

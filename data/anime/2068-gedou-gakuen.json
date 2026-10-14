@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2068,
+  "slug": "gedou-gakuen",
+  "kind": "anime",
+  "title": "Gedou Gakuen",
+  "titles": {
+    "default": "Gedou Gakuen",
+    "romaji": "Gedou Gakuen",
+    "english": "Nightmare Campus",
+    "native": "外道学園"
+  },
+  "synonyms": [
+    "Gedou Gakuen",
+    "Nightmare Campus",
+    "外道学園",
+    "Gendou Gakuen",
+    "Heretical Campus",
+    "Shippuu! Iron Leaguer: Silver no Hata no Moto ni",
+    "疾風! アイアンリーガー 銀光の旗の下に",
+    "Shippu Iron Leaguer OVA",
+    "Hurricane! Iron Leaguer OVA"
+  ],
+  "type": "ova",
+  "episodes": 5,
+  "status": "finished",
+  "season": "fall",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2340-eYiwbAdNDteO.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2340",
+      "url": "https://anilist.co/anime/2340"
+    },
+    "k": {
+      "id": "6968",
+      "url": "https://kitsu.io/anime/6968"
+    },
+    "mal": {
+      "id": "2340",
+      "url": "https://myanimelist.net/anime/2340"
+    }
+  }
+}

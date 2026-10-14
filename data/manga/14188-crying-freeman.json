@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14188,
+  "slug": "crying-freeman",
+  "kind": "manga",
+  "title": "Crying Freeman",
+  "titles": {
+    "default": "Crying Freeman"
+  },
+  "synonyms": [
+    "Crying Freeman - Plačící drak",
+    "Crying Freeman",
+    "クライングフリーマン"
+  ],
+  "type": "manga",
+  "chapters": 103,
+  "volumes": 9,
+  "status": "finished",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31449-MbxjAczEE74A.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1153",
+      "url": "https://anilist.co/anime/1153"
+    },
+    "al_manga": {
+      "id": "1153",
+      "url": "https://anilist.co/manga/1153"
+    }
+  }
+}

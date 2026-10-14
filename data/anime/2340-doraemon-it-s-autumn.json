@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2340,
+  "slug": "doraemon-it-s-autumn",
+  "kind": "anime",
+  "title": "Doraemon: It's Autumn!",
+  "titles": {
+    "default": "Doraemon: It's Autumn!",
+    "romaji": "Doraemon: It's Autumn!",
+    "native": "秋だ！一番ドラえもん祭り"
+  },
+  "synonyms": [
+    "Doraemon: It's Autumn!",
+    "秋だ！一番ドラえもん祭り",
+    "Aki da! Ichiban Doraemon Matsuri"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2637.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2637",
+      "url": "https://anilist.co/anime/2637"
+    },
+    "k": {
+      "id": "2401",
+      "url": "https://kitsu.io/anime/2401"
+    },
+    "mal": {
+      "id": "2637",
+      "url": "https://myanimelist.net/anime/2637"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7185,
+  "slug": "kick-heart",
+  "kind": "anime",
+  "title": "Kick-Heart",
+  "titles": {
+    "default": "Kick-Heart",
+    "romaji": "Kick-Heart",
+    "native": "キックハート"
+  },
+  "synonyms": [
+    "Kick-Heart",
+    "キックハート",
+    "KICK-HEART"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16149-n8nzp5FIUEwG.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "16149",
+      "url": "https://anilist.co/anime/16149"
+    },
+    "k": {
+      "id": "7378",
+      "url": "https://kitsu.io/anime/7378"
+    },
+    "mal": {
+      "id": "16149",
+      "url": "https://myanimelist.net/anime/16149"
+    }
+  }
+}

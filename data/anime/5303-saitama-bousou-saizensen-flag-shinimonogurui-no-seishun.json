@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5303,
+  "slug": "saitama-bousou-saizensen-flag-shinimonogurui-no-seishun",
+  "kind": "anime",
+  "title": "Saitama Bousou Saizensen Flag! Shinimonogurui no Seishun!!",
+  "titles": {
+    "default": "Saitama Bousou Saizensen Flag! Shinimonogurui no Seishun!!",
+    "romaji": "Saitama Bousou Saizensen Flag! Shinimonogurui no Seishun!!",
+    "native": "埼玉暴走最前線 フラッグ! 死にものぐるいの青春!!"
+  },
+  "synonyms": [
+    "Saitama Bousou Saizensen Flag! Shinimonogurui no Seishun!!",
+    "埼玉暴走最前線 フラッグ! 死にものぐるいの青春!!"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b181864-PQlXoJPaLXYs.png"
+  ],
+  "references": {
+    "al": {
+      "id": "181864",
+      "url": "https://anilist.co/anime/181864"
+    },
+    "k": {
+      "id": "9562",
+      "url": "https://kitsu.io/anime/9562"
+    },
+    "mal": {
+      "id": "23593",
+      "url": "https://myanimelist.net/anime/23593"
+    }
+  }
+}

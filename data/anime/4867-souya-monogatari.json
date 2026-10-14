@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4867,
+  "slug": "souya-monogatari",
+  "kind": "anime",
+  "title": "Souya Monogatari",
+  "titles": {
+    "default": "Souya Monogatari",
+    "romaji": "Souya Monogatari",
+    "native": "宗谷物語"
+  },
+  "synonyms": [
+    "Souya Monogatari",
+    "宗谷物語",
+    "Soya Monogatari"
+  ],
+  "type": "tv",
+  "episodes": 21,
+  "status": "finished",
+  "season": "winter",
+  "year": 1984,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17619.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "17619",
+      "url": "https://anilist.co/anime/17619"
+    },
+    "k": {
+      "id": "9634",
+      "url": "https://kitsu.io/anime/9634"
+    },
+    "mal": {
+      "id": "17619",
+      "url": "https://myanimelist.net/anime/17619"
+    }
+  }
+}

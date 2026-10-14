@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9182,
+  "slug": "aho-girl",
+  "kind": "anime",
+  "title": "Aho-Girl",
+  "titles": {
+    "default": "Aho-Girl",
+    "romaji": "Aho-Girl",
+    "english": "AHO-GIRL",
+    "native": "アホガール"
+  },
+  "synonyms": [
+    "Aho-Girl",
+    "AHO-GIRL",
+    "アホガール",
+    "Ahogaru: Clueless Girl",
+    "Tsuredure Children",
+    "徒然チルドレン",
+    "Tsurezure Children"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b98251-6miVBNYEXzaF.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98251",
+      "url": "https://anilist.co/anime/98251"
+    },
+    "cr": {
+      "id": "aho-girl",
+      "url": "https://www.crunchyroll.com/series/aho-girl"
+    },
+    "mal": {
+      "id": "34881",
+      "url": "https://myanimelist.net/anime/34881"
+    },
+    "tx": {
+      "id": "ahogirl_anime",
+      "url": "https://twitter.com/ahogirl_anime"
+    }
+  }
+}

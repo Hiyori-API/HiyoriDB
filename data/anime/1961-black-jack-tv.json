@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1961,
+  "slug": "black-jack-tv",
+  "kind": "anime",
+  "title": "Black Jack (TV)",
+  "titles": {
+    "default": "Black Jack (TV)",
+    "romaji": "Black Jack (TV)",
+    "native": "ブラックジャック"
+  },
+  "synonyms": [
+    "Black Jack (TV)",
+    "ブラックジャック",
+    "Black Jack 2004"
+  ],
+  "type": "tv",
+  "episodes": 61,
+  "status": "finished",
+  "season": "fall",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2213-wemXPc8z0r6a.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2213",
+      "url": "https://anilist.co/anime/2213"
+    },
+    "mal": {
+      "id": "2213",
+      "url": "https://myanimelist.net/anime/2213"
+    },
+    "ttv": {
+      "id": "4135",
+      "url": "https://tubitv.com/series/4135"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9433,
+  "slug": "ani-para-anata-no-hero-wa-dare-desu-ka",
+  "kind": "anime",
+  "title": "ANI × PARA: Anata no Hero wa Dare desu ka",
+  "titles": {
+    "default": "ANI × PARA: Anata no Hero wa Dare desu ka",
+    "romaji": "ANI × PARA: Anata no Hero wa Dare desu ka",
+    "english": "Animation × Paralympic: Who Is Your Hero?",
+    "native": "アニ×パラ〜あなたのヒーローは誰ですか〜"
+  },
+  "synonyms": [
+    "ANI × PARA: Anata no Hero wa Dare desu ka",
+    "Animation × Paralympic: Who Is Your Hero?",
+    "アニ×パラ〜あなたのヒーローは誰ですか〜",
+    "Shinobumonogatari",
+    "Yoimonogatari",
+    "Amarimonogatari",
+    "Ougimonogatari",
+    "Shinomonogatari",
+    "〈物語〉シリーズ モンスターシーズン",
+    "Monogatari Series: Monster Season"
+  ],
+  "type": "special",
+  "status": "airing",
+  "season": "fall",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b110694-h0RmA1JtT14f.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "110694",
+      "url": "https://anilist.co/anime/110694"
+    },
+    "mal": {
+      "id": "37290",
+      "url": "https://myanimelist.net/anime/37290"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3602,
+  "slug": "himitsu-kessha-taka-no-tsume",
+  "kind": "anime",
+  "title": "Himitsu Kessha Taka no Tsume",
+  "titles": {
+    "default": "Himitsu Kessha Taka no Tsume",
+    "romaji": "Himitsu Kessha Taka no Tsume",
+    "native": "秘密結社 鷹の爪"
+  },
+  "synonyms": [
+    "Himitsu Kessha Taka no Tsume",
+    "秘密結社 鷹の爪",
+    "Eagle Talon",
+    "Himitsukessha Taka no Tsume",
+    "The Frogman Show",
+    "Jyu-Oh-Sei: Planet of the Beast King",
+    "Jyu Oh Sei",
+    "獣王星",
+    "Juuousei"
+  ],
+  "type": "tv",
+  "episodes": 11,
+  "status": "finished",
+  "season": "spring",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4737-Kb26G8VE1xxC.png"
+  ],
+  "references": {
+    "al": {
+      "id": "4737",
+      "url": "https://anilist.co/anime/4737"
+    },
+    "cr": {
+      "id": "jyu-oh-sei",
+      "url": "https://www.crunchyroll.com/series/jyu-oh-sei"
+    },
+    "k": {
+      "id": "845",
+      "url": "https://kitsu.io/anime/845"
+    },
+    "mal": {
+      "id": "4737",
+      "url": "https://myanimelist.net/anime/4737"
+    },
+    "t": {
+      "id": "31562",
+      "url": "https://trakt.tv/shows/31562"
+    }
+  }
+}

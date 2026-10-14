@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15148,
+  "slug": "jigoku-koushien",
+  "kind": "manga",
+  "title": "Jigoku Koushien",
+  "titles": {
+    "default": "Jigoku Koushien"
+  },
+  "synonyms": [
+    "Battlefield Baseball",
+    "地獄甲子園",
+    "The Life and Times of an Idiot Section Chief",
+    "Kachou Baka Ichidachi",
+    "課長バカ一代",
+    "Kachou Baka Ichidai"
+  ],
+  "type": "manga",
+  "chapters": 10,
+  "volumes": 2,
+  "status": "finished",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx127829-OH5ranTZ3d2M.png"
+  ],
+  "references": {
+    "al": {
+      "id": "127796",
+      "url": "https://anilist.co/anime/127796"
+    },
+    "al_manga": {
+      "id": "127796",
+      "url": "https://anilist.co/manga/127796"
+    }
+  }
+}

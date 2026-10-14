@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4629,
+  "slug": "knyacki",
+  "kind": "anime",
+  "title": "KNYACKI!",
+  "titles": {
+    "default": "KNYACKI!",
+    "romaji": "KNYACKI!",
+    "native": "ニャッキ！"
+  },
+  "synonyms": [
+    "KNYACKI!",
+    "ニャッキ！",
+    "Petit Petit Animation",
+    "Mobile Suit Gundam Wing",
+    "Shin Kidou Senki Gundam Wing",
+    "新機動戦記ガンダムW",
+    "New Mobile Report Gundam Wing"
+  ],
+  "type": "tv",
+  "episodes": 49,
+  "status": "finished",
+  "season": "spring",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b7505-KgAvY4ugIbD7.png"
+  ],
+  "references": {
+    "al": {
+      "id": "7505",
+      "url": "https://anilist.co/anime/7505"
+    },
+    "cr": {
+      "id": "mobile-suit-gundam-wing",
+      "url": "https://www.crunchyroll.com/series/mobile-suit-gundam-wing"
+    },
+    "k": {
+      "id": "69",
+      "url": "https://kitsu.io/anime/69"
+    },
+    "mal": {
+      "id": "7505",
+      "url": "https://myanimelist.net/anime/7505"
+    },
+    "t": {
+      "id": "21629",
+      "url": "https://trakt.tv/shows/21629"
+    }
+  }
+}

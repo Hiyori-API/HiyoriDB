@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3372,
+  "slug": "kounai-shasei",
+  "kind": "anime",
+  "title": "Kounai Shasei",
+  "titles": {
+    "default": "Kounai Shasei",
+    "romaji": "Kounai Shasei",
+    "english": "Tales of Titillation",
+    "native": "校内写生"
+  },
+  "synonyms": [
+    "Kounai Shasei",
+    "Tales of Titillation",
+    "校内写生",
+    "The Tales Trilogy",
+    "Pictures from High School",
+    "Schoolyard Sketches",
+    "Tales of Misbehavior",
+    "Tales of Sintillation",
+    "Yagami-kun no Katei no Jijou",
+    "八神くんの家庭の事情",
+    "Yagami's Family Affairs",
+    "Yagami-kun's Family Affairs"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "spring",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4164.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4164",
+      "url": "https://anilist.co/anime/4164"
+    },
+    "k": {
+      "id": "3670",
+      "url": "https://kitsu.io/anime/3670"
+    },
+    "mal": {
+      "id": "4164",
+      "url": "https://myanimelist.net/anime/4164"
+    }
+  }
+}

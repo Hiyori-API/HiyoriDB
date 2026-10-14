@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8906,
+  "slug": "usakame-special",
+  "kind": "anime",
+  "title": "Usakame Special",
+  "titles": {
+    "default": "Usakame Special",
+    "romaji": "Usakame Special",
+    "native": "うさかめ"
+  },
+  "synonyms": [
+    "Usakame Special",
+    "うさかめ",
+    "Seikai no Senki Special",
+    "星界の戦旗 特別編",
+    "Seikai no Senki Movie",
+    "Battle Flag of the Stars Special Edition",
+    "Seikai no Senki Tokubetsuhen"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100176-VjcQcSMpudLw.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "100176",
+      "url": "https://anilist.co/anime/100176"
+    },
+    "k": {
+      "id": "366",
+      "url": "https://kitsu.io/anime/366"
+    },
+    "mal": {
+      "id": "34615",
+      "url": "https://myanimelist.net/anime/34615"
+    }
+  }
+}

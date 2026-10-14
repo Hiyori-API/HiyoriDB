@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8237,
+  "slug": "kuro-no-kyoushitsu",
+  "kind": "anime",
+  "title": "Kuro no Kyoushitsu",
+  "titles": {
+    "default": "Kuro no Kyoushitsu",
+    "romaji": "Kuro no Kyoushitsu",
+    "native": "黒の教室"
+  },
+  "synonyms": [
+    "Kuro no Kyoushitsu",
+    "黒の教室",
+    "Hyakka Ryouran: Samurai After",
+    "百花繚乱 サムライアフター",
+    "Hyakka Ryouran OVA"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21153-ee5nMvDJmNK5.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21153",
+      "url": "https://anilist.co/anime/21153"
+    },
+    "k": {
+      "id": "8795",
+      "url": "https://kitsu.io/anime/8795"
+    },
+    "mal": {
+      "id": "30242",
+      "url": "https://myanimelist.net/anime/30242"
+    }
+  }
+}

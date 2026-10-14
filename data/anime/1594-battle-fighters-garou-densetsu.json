@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1594,
+  "slug": "battle-fighters-garou-densetsu",
+  "kind": "anime",
+  "title": "Battle Fighters Garou Densetsu",
+  "titles": {
+    "default": "Battle Fighters Garou Densetsu",
+    "romaji": "Battle Fighters Garou Densetsu",
+    "english": "Fatal Fury: Legend of the Hungry Wolf",
+    "native": "バトルファイターズ餓狼伝説"
+  },
+  "synonyms": [
+    "Battle Fighters Garou Densetsu",
+    "Fatal Fury: Legend of the Hungry Wolf",
+    "バトルファイターズ餓狼伝説",
+    "Boyfriend",
+    "ボ～イ フレンド"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1799-nZs7IrPWf2cz.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1799",
+      "url": "https://anilist.co/anime/1799"
+    },
+    "cr": {
+      "id": "fatal-fury-ova",
+      "url": "https://www.crunchyroll.com/series/fatal-fury-ova"
+    },
+    "k": {
+      "id": "6179",
+      "url": "https://kitsu.io/anime/6179"
+    },
+    "mal": {
+      "id": "1799",
+      "url": "https://myanimelist.net/anime/1799"
+    }
+  }
+}

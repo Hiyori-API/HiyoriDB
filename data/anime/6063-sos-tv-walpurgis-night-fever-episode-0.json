@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6063,
+  "slug": "sos-tv-walpurgis-night-fever-episode-0",
+  "kind": "anime",
+  "title": "SOS TV Walpurgis Night Fever Episode 0",
+  "titles": {
+    "default": "SOS TV Walpurgis Night Fever Episode 0",
+    "romaji": "SOS TV Walpurgis Night Fever Episode 0",
+    "native": "ワルプルギスナイトフィーバー"
+  },
+  "synonyms": [
+    "SOS TV Walpurgis Night Fever Episode 0",
+    "ワルプルギスナイトフィーバー",
+    "SOS TV Warupurgis Night Fever Episode 0"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8710.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8710",
+      "url": "https://anilist.co/anime/8710"
+    },
+    "k": {
+      "id": "5453",
+      "url": "https://kitsu.io/anime/5453"
+    },
+    "mal": {
+      "id": "8710",
+      "url": "https://myanimelist.net/anime/8710"
+    }
+  }
+}

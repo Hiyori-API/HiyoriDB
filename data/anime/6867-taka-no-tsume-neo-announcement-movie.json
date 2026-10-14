@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6867,
+  "slug": "taka-no-tsume-neo-announcement-movie",
+  "kind": "anime",
+  "title": "Taka no Tsume NEO Announcement Movie",
+  "titles": {
+    "default": "Taka no Tsume NEO Announcement Movie",
+    "romaji": "Taka no Tsume NEO Announcement Movie",
+    "native": "鷹の爪NEO　予告ムービー"
+  },
+  "synonyms": [
+    "Taka no Tsume NEO Announcement Movie",
+    "鷹の爪NEO　予告ムービー",
+    "Eagle Talon NEO Announcement Movie"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13435.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "13435",
+      "url": "https://anilist.co/anime/13435"
+    },
+    "k": {
+      "id": "6965",
+      "url": "https://kitsu.io/anime/6965"
+    },
+    "mal": {
+      "id": "13435",
+      "url": "https://myanimelist.net/anime/13435"
+    }
+  }
+}

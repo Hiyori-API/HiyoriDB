@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13827,
+  "slug": "brigadoon-marin-to-melan",
+  "kind": "manga",
+  "title": "BRIGADOON: Marin to Melan",
+  "titles": {
+    "default": "BRIGADOON: Marin to Melan"
+  },
+  "synonyms": [
+    "Brigadoon Marin to Melan",
+    "Brigadoon Marin and Melan",
+    "ＢＲＩＧＡＤＯＯＮ　まりんとメラン",
+    "Brigadoon",
+    "BRIGADOON まりんとメラン",
+    "Brigadoon: Marin to Melan"
+  ],
+  "type": "manga",
+  "chapters": 10,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30161-3jXAHdJ5adUD.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1450",
+      "url": "https://anilist.co/anime/1450"
+    },
+    "al_manga": {
+      "id": "1450",
+      "url": "https://anilist.co/manga/1450"
+    }
+  }
+}

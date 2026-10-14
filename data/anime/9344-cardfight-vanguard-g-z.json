@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9344,
+  "slug": "cardfight-vanguard-g-z",
+  "kind": "anime",
+  "title": "Cardfight!! Vanguard G: Z",
+  "titles": {
+    "default": "Cardfight!! Vanguard G: Z",
+    "romaji": "Cardfight!! Vanguard G: Z",
+    "native": "カードファイト!! ヴァンガードG Z"
+  },
+  "synonyms": [
+    "Cardfight!! Vanguard G: Z",
+    "カードファイト!! ヴァンガードG Z",
+    "The Magician's Bride",
+    "Mahoyome",
+    "The Ancient Magus' Bride",
+    "魔法使いの嫁",
+    "Mahoutsukai no Yome"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "fall",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99733-zNn5GmCShML5.png"
+  ],
+  "references": {
+    "al": {
+      "id": "99733",
+      "url": "https://anilist.co/anime/99733"
+    },
+    "mal": {
+      "id": "36022",
+      "url": "https://myanimelist.net/anime/36022"
+    }
+  }
+}

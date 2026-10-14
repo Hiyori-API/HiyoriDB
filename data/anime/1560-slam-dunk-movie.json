@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1560,
+  "slug": "slam-dunk-movie",
+  "kind": "anime",
+  "title": "SLAM DUNK (Movie)",
+  "titles": {
+    "default": "SLAM DUNK (Movie)",
+    "romaji": "SLAM DUNK (Movie)",
+    "english": "Slam Dunk Movie 1"
+  },
+  "synonyms": [
+    "SLAM DUNK (Movie)",
+    "Slam Dunk Movie 1",
+    "スラムダンク (1994)",
+    "สแลมดังก์ เดอะ มูฟวี่ อดีตรัก คู่ปรับเก่า และบาสเกตบอล",
+    "Crayon Shin-chan Movie 02: Buriburi Oukoku no Hihou",
+    "クレヨンしんちゃん ブリブリ王国の秘宝",
+    "Eiga Crayon Shin-chan: Buriburi Oukoku no Hihou",
+    "Crayon Shin-chan: The Secret Treasure of Buri Buri Kingdom"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1764-8AxfOVdCcMr0.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1764",
+      "url": "https://anilist.co/anime/1764"
+    },
+    "k": {
+      "id": "3226",
+      "url": "https://kitsu.io/anime/3226"
+    },
+    "mal": {
+      "id": "1764",
+      "url": "https://myanimelist.net/anime/1764"
+    }
+  }
+}

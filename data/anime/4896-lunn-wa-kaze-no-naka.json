@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4896,
+  "slug": "lunn-wa-kaze-no-naka",
+  "kind": "anime",
+  "title": "Lunn wa Kaze no Naka",
+  "titles": {
+    "default": "Lunn wa Kaze no Naka",
+    "romaji": "Lunn wa Kaze no Naka",
+    "native": "るんは風の中"
+  },
+  "synonyms": [
+    "Lunn wa Kaze no Naka",
+    "るんは風の中",
+    "Lunn Flies into the Wind"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/14247.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "14247",
+      "url": "https://anilist.co/anime/14247"
+    },
+    "k": {
+      "id": "7103",
+      "url": "https://kitsu.io/anime/7103"
+    },
+    "mal": {
+      "id": "14247",
+      "url": "https://myanimelist.net/anime/14247"
+    }
+  }
+}

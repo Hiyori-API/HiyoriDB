@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15853,
+  "slug": "ore-sama-kingdom",
+  "kind": "manga",
+  "title": "Ore-sama Kingdom",
+  "titles": {
+    "default": "Ore-sama Kingdom"
+  },
+  "synonyms": [
+    "Kings of My Love",
+    "オレ様キングダム",
+    "Simple Knot Loafers",
+    "シンプルノットローファー",
+    "Shinpuru Notto Rofa",
+    "Shinpuru Notto Roofaa",
+    "Simple Not Loafer"
+  ],
+  "type": "manga",
+  "chapters": 64,
+  "volumes": 12,
+  "status": "finished",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx46583-XILRmq0sgEAv.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9943",
+      "url": "https://anilist.co/anime/9943"
+    },
+    "al_manga": {
+      "id": "9943",
+      "url": "https://anilist.co/manga/9943"
+    }
+  }
+}

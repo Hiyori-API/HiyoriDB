@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6106,
+  "slug": "beelzebub-hirotta-akachan-wa-daimaou",
+  "kind": "anime",
+  "title": "Beelzebub: Hirotta Akachan wa Daimaou!?",
+  "titles": {
+    "default": "Beelzebub: Hirotta Akachan wa Daimaou!?",
+    "romaji": "Beelzebub: Hirotta Akachan wa Daimaou!?",
+    "native": "べるぜバブ 拾った赤ちゃんは大魔王!?"
+  },
+  "synonyms": [
+    "Beelzebub: Hirotta Akachan wa Daimaou!?",
+    "べるぜバブ 拾った赤ちゃんは大魔王!?",
+    "Beelzebub Jump Super Anime Tour Special",
+    "Beelzebub: Jump Festa 2010 Special"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9120.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9120",
+      "url": "https://anilist.co/anime/9120"
+    },
+    "k": {
+      "id": "5608",
+      "url": "https://kitsu.io/anime/5608"
+    },
+    "mal": {
+      "id": "9120",
+      "url": "https://myanimelist.net/anime/9120"
+    }
+  }
+}

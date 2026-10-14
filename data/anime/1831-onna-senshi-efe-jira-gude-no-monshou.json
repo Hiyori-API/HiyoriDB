@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1831,
+  "slug": "onna-senshi-efe-jira-gude-no-monshou",
+  "kind": "anime",
+  "title": "Onna Senshi Efe & Jira: Gude no Monshou",
+  "titles": {
+    "default": "Onna Senshi Efe & Jira: Gude no Monshou",
+    "romaji": "Onna Senshi Efe & Jira: Gude no Monshou",
+    "english": "Gude Crest: The Emblem of Gude",
+    "native": "女戦士エフェ&ジーラ グーデの紋章"
+  },
+  "synonyms": [
+    "Onna Senshi Efe & Jira: Gude no Monshou",
+    "Gude Crest: The Emblem of Gude",
+    "女戦士エフェ&ジーラ グーデの紋章",
+    "Jun and Sarah: Sacrifice of the Evil Spirit",
+    "City Hunter: Million Dollar Conspiracy",
+    "City Hunter: Hyakuman Dollar no Inbou",
+    "シティーハンター 百万ドルの陰謀",
+    "City Hunter: Hyakuman Doru no Inbou",
+    "City Hunter: $1,000,000 Conspiracy",
+    "City Hunter: Plot of $1,000,000",
+    "City Hunter: $1",
+    "000",
+    "000 Conspiracy",
+    "City Hunter: Plot of $1"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2069-OGiJ7sQXSly1.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2069",
+      "url": "https://anilist.co/anime/2069"
+    },
+    "cr": {
+      "id": "city-hunter",
+      "url": "https://www.crunchyroll.com/series/city-hunter"
+    },
+    "k": {
+      "id": "1322",
+      "url": "https://kitsu.io/anime/1322"
+    },
+    "mal": {
+      "id": "2069",
+      "url": "https://myanimelist.net/anime/2069"
+    }
+  }
+}

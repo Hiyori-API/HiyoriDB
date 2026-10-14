@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6048,
+  "slug": "mayoi-neko-overrun-specials",
+  "kind": "anime",
+  "title": "Mayoi Neko Overrun! Specials",
+  "titles": {
+    "default": "Mayoi Neko Overrun! Specials",
+    "romaji": "Mayoi Neko Overrun! Specials",
+    "native": "迷い猫ねこねこ劇場"
+  },
+  "synonyms": [
+    "Mayoi Neko Overrun! Specials",
+    "迷い猫ねこねこ劇場",
+    "Mayoi Neko Neko Neko Gekijou",
+    "Mayoi Neko Neko Neko Gekijo",
+    "Stray Cats Cats Cats Theater",
+    "Broken Blade Picture Drama",
+    "Break Blade Picture Drama",
+    "ブレイクブレイド ピクチャードラマ",
+    "Breaker Blade Picture Drama"
+  ],
+  "type": "special",
+  "episodes": 6,
+  "status": "finished",
+  "season": "summer",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8599.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8599",
+      "url": "https://anilist.co/anime/8599"
+    },
+    "k": {
+      "id": "5417",
+      "url": "https://kitsu.io/anime/5417"
+    },
+    "mal": {
+      "id": "8599",
+      "url": "https://myanimelist.net/anime/8599"
+    }
+  }
+}

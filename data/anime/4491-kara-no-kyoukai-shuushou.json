@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4491,
+  "slug": "kara-no-kyoukai-shuushou",
+  "kind": "anime",
+  "title": "Kara no Kyoukai: Shuushou",
+  "titles": {
+    "default": "Kara no Kyoukai: Shuushou",
+    "romaji": "Kara no Kyoukai: Shuushou",
+    "english": "the Garden of sinners Chapter 8: The Final Chapter",
+    "native": "空の境界 終章"
+  },
+  "synonyms": [
+    "Kara no Kyoukai: Shuushou",
+    "the Garden of sinners Chapter 8: The Final Chapter",
+    "空の境界 終章",
+    "The Garden of Sinners: Epilogue",
+    "Armored Trooper Votoms: Alone Again",
+    "Soukou Kihei Votoms: Koei Futatabi",
+    "装甲騎兵ボトムズ 孤影再び",
+    "Soko Kihei Votoms: Koei Futatabi",
+    "Armored Trooper VOTOMS: Chirico’s Return"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6954-uMdvQ3Vy74Oa.png"
+  ],
+  "references": {
+    "al": {
+      "id": "6954",
+      "url": "https://anilist.co/anime/6954"
+    },
+    "cr": {
+      "id": "the-garden-of-sinners/episode-8-epilogue-763085",
+      "url": "https://www.crunchyroll.com/series/the-garden-of-sinners/episode-8-epilogue-763085"
+    },
+    "k": {
+      "id": "5270",
+      "url": "https://kitsu.io/anime/5270"
+    },
+    "mal": {
+      "id": "6954",
+      "url": "https://myanimelist.net/anime/6954"
+    }
+  }
+}

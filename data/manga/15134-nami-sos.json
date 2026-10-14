@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15134,
+  "slug": "nami-sos",
+  "kind": "manga",
+  "title": "Nami SOS!",
+  "titles": {
+    "default": "Nami SOS!"
+  },
+  "synonyms": [
+    "Nami SOS! - Incubi Hunter Nami First Battle",
+    "Nami SOS! - Keiko & Chisato Hen",
+    "Nami SOS! 5 Girls",
+    "Nami SOS! Naoko Black Bird",
+    "Nami SOS! Inma Hunters",
+    "Sexy Sailor Soldiers",
+    "奈美SOS！",
+    "Kare Kano: His and Her Circumstances",
+    "Kareshi Kanojo no Jijou",
+    "彼氏彼女の事情",
+    "His and Hers",
+    "The Tiger and the Chameleon: A Promise for One Week",
+    "Ashita Mata Mori de Aou ne",
+    "Meet Me Again Tomorrow in the Forest",
+    "KKNJ",
+    "Abareru Ousama",
+    "The Raging King"
+  ],
+  "type": "manga",
+  "chapters": 7,
+  "volumes": 1,
+  "status": "finished",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx181500-H02tReFvPZLA.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3402",
+      "url": "https://anilist.co/anime/3402"
+    },
+    "al_manga": {
+      "id": "3402",
+      "url": "https://anilist.co/manga/3402"
+    }
+  }
+}

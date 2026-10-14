@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7810,
+  "slug": "meitantei-conan-edogawa-conan-shissou-jiken-shijou-saiaku-no-futsukakan",
+  "kind": "anime",
+  "title": "Meitantei Conan: Edogawa Conan Shissou Jiken - Shijou Saiaku no Futsukakan",
+  "titles": {
+    "default": "Meitantei Conan: Edogawa Conan Shissou Jiken - Shijou Saiaku no Futsukakan",
+    "romaji": "Meitantei Conan: Edogawa Conan Shissou Jiken - Shijou Saiaku no Futsukakan",
+    "english": "The Disappearance of Conan Edogawa: The Worst Two Days in History",
+    "native": "名探偵コナン 江戸川コナン失踪事件～史上最悪の二日間～"
+  },
+  "synonyms": [
+    "Meitantei Conan: Edogawa Conan Shissou Jiken - Shijou Saiaku no Futsukakan",
+    "The Disappearance of Conan Edogawa: The Worst Two Days in History",
+    "名探偵コナン 江戸川コナン失踪事件～史上最悪の二日間～",
+    "Detektiv Conan: Special - Das Verschwinden des Conan Edogawa",
+    "Edogawa Conan Shissou Jiken: Shijou Saiaku no Futsukakan"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20878-p6VBv7uw1QFV.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "20878",
+      "url": "https://anilist.co/anime/20878"
+    },
+    "k": {
+      "id": "8179",
+      "url": "https://kitsu.io/anime/8179"
+    },
+    "mal": {
+      "id": "21867",
+      "url": "https://myanimelist.net/anime/21867"
+    }
+  }
+}

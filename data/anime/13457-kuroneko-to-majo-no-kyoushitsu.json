@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13457,
+  "slug": "kuroneko-to-majo-no-kyoushitsu",
+  "kind": "anime",
+  "title": "Kuroneko to Majo no Kyoushitsu",
+  "titles": {
+    "default": "Kuroneko to Majo no Kyoushitsu",
+    "romaji": "Kuroneko to Majo no Kyoushitsu",
+    "english": "The Classroom of the Black Cat and a Witch",
+    "native": "黒猫と魔女の教室"
+  },
+  "synonyms": [
+    "Kuroneko to Majo no Kyoushitsu",
+    "The Classroom of the Black Cat and a Witch",
+    "黒猫と魔女の教室",
+    "The Classroom of a Black Cat and a Witch",
+    "Чёрная кошка и класс ведьм",
+    "Honey and Clover",
+    "Hachimitsu to Clover",
+    "ハチミツとクローバー",
+    "HachiKuro",
+    "Honey & Clover"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "spring",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196974-mZk1uyrx0XNx.png"
+  ],
+  "references": {
+    "al": {
+      "id": "196974",
+      "url": "https://anilist.co/anime/196974"
+    },
+    "cr": {
+      "id": "series/GT00374357/the-classroom-of-a-black-cat-and-a-witch",
+      "url": "https://www.crunchyroll.com/series/series/GT00374357/the-classroom-of-a-black-cat-and-a-witch"
+    },
+    "k": {
+      "id": "7",
+      "url": "https://kitsu.io/anime/7"
+    },
+    "mal": {
+      "id": "62171",
+      "url": "https://myanimelist.net/anime/62171"
+    },
+    "t": {
+      "id": "35263",
+      "url": "https://trakt.tv/shows/35263"
+    }
+  }
+}

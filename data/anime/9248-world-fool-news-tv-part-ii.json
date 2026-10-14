@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9248,
+  "slug": "world-fool-news-tv-part-ii",
+  "kind": "anime",
+  "title": "World Fool News (TV) Part II",
+  "titles": {
+    "default": "World Fool News (TV) Part II",
+    "romaji": "World Fool News (TV) Part II",
+    "native": "ワールドフールニュース Part Ⅱ"
+  },
+  "synonyms": [
+    "World Fool News (TV) Part II",
+    "ワールドフールニュース Part Ⅱ",
+    "Attack on Titan Season 2",
+    "Shingeki no Kyojin Season 2",
+    "進撃の巨人 Season 2"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98553-bQGzkCBE5yUi.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98553",
+      "url": "https://anilist.co/anime/98553"
+    },
+    "cr": {
+      "id": "world-fool-news",
+      "url": "https://www.crunchyroll.com/series/world-fool-news"
+    },
+    "k": {
+      "id": "8671",
+      "url": "https://kitsu.io/anime/8671"
+    },
+    "mal": {
+      "id": "35332",
+      "url": "https://myanimelist.net/anime/35332"
+    },
+    "t": {
+      "id": "1420",
+      "url": "https://trakt.tv/shows/1420"
+    }
+  }
+}

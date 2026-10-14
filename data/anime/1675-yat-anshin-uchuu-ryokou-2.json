@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1675,
+  "slug": "yat-anshin-uchuu-ryokou-2",
+  "kind": "anime",
+  "title": "YAT Anshin! Uchuu Ryokou 2",
+  "titles": {
+    "default": "YAT Anshin! Uchuu Ryokou 2",
+    "romaji": "YAT Anshin! Uchuu Ryokou 2",
+    "native": "ＹＡＴ　安心！宇宙旅行 2"
+  },
+  "synonyms": [
+    "YAT Anshin! Uchuu Ryokou 2",
+    "ＹＡＴ　安心！宇宙旅行 2",
+    "YAT Anshin! Luxury Space Tours 2"
+  ],
+  "type": "tv",
+  "episodes": 25,
+  "status": "finished",
+  "season": "spring",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1892.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1892",
+      "url": "https://anilist.co/anime/1892"
+    },
+    "k": {
+      "id": "1702",
+      "url": "https://kitsu.io/anime/1702"
+    },
+    "mal": {
+      "id": "1892",
+      "url": "https://myanimelist.net/anime/1892"
+    }
+  }
+}

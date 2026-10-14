@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14765,
+  "slug": "makoto-chan",
+  "kind": "manga",
+  "title": "Makoto-chan",
+  "titles": {
+    "default": "Makoto-chan"
+  },
+  "synonyms": [
+    "まことちゃん",
+    "Shin Kyojin no Hoshi",
+    "新巨人の星"
+  ],
+  "type": "manga",
+  "chapters": 211,
+  "volumes": 24,
+  "status": "finished",
+  "year": 1976,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx56146-RDjBfqWEur8O.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8372",
+      "url": "https://anilist.co/anime/8372"
+    },
+    "al_manga": {
+      "id": "8372",
+      "url": "https://anilist.co/manga/8372"
+    }
+  }
+}

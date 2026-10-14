@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 365,
+  "slug": "seikai-no-senki",
+  "kind": "anime",
+  "title": "Seikai no Senki",
+  "titles": {
+    "default": "Seikai no Senki",
+    "romaji": "Seikai no Senki",
+    "english": "Banner of the Stars",
+    "native": "星界の戦旗"
+  },
+  "synonyms": [
+    "Seikai no Senki",
+    "Banner of the Stars",
+    "星界の戦旗",
+    "Battle Flag of the Stars"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx396-Lgdv4FWS5c1J.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "396",
+      "url": "https://anilist.co/anime/396"
+    },
+    "k": {
+      "id": "363",
+      "url": "https://kitsu.io/anime/363"
+    },
+    "mal": {
+      "id": "396",
+      "url": "https://myanimelist.net/anime/396"
+    },
+    "t": {
+      "id": "26093",
+      "url": "https://trakt.tv/shows/26093"
+    }
+  }
+}

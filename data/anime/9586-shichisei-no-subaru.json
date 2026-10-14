@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9586,
+  "slug": "shichisei-no-subaru",
+  "kind": "anime",
+  "title": "Shichisei no Subaru",
+  "titles": {
+    "default": "Shichisei no Subaru",
+    "romaji": "Shichisei no Subaru",
+    "english": "Seven Senses of the Re'Union",
+    "native": "七星のスバル"
+  },
+  "synonyms": [
+    "Shichisei no Subaru",
+    "Seven Senses of the Re'Union",
+    "七星のスバル",
+    "Sete Sentidos da Re-União",
+    "Siete Sentidos de la re'unión",
+    "High Score Girl",
+    "ハイスコアガール",
+    "Hi Score Girl"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx100085-vlkcAE221VeM.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "100085",
+      "url": "https://anilist.co/anime/100085"
+    },
+    "k": {
+      "id": "8158",
+      "url": "https://kitsu.io/anime/8158"
+    },
+    "mal": {
+      "id": "36316",
+      "url": "https://myanimelist.net/anime/36316"
+    },
+    "nf": {
+      "id": "80997338",
+      "url": "https://www.netflix.com/title/80997338"
+    },
+    "tx": {
+      "id": "7subaru_anime",
+      "url": "https://twitter.com/7subaru_anime"
+    }
+  }
+}

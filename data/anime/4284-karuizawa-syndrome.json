@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4284,
+  "slug": "karuizawa-syndrome",
+  "kind": "anime",
+  "title": "Karuizawa Syndrome",
+  "titles": {
+    "default": "Karuizawa Syndrome",
+    "romaji": "Karuizawa Syndrome",
+    "native": "軽井沢シンドローム"
+  },
+  "synonyms": [
+    "Karuizawa Syndrome",
+    "軽井沢シンドローム",
+    "Magical Princess Minky Momo: La Ronde in my Dream",
+    "Mahou no Princess Minky Momo: Yume no Naka no Rondo",
+    "魔法のプリンセス ミンキーモモ夢の中の輪舞",
+    "Gigi and the Fountain of Youth"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6366-VoxonYyjXfKx.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6366",
+      "url": "https://anilist.co/anime/6366"
+    },
+    "k": {
+      "id": "2058",
+      "url": "https://kitsu.io/anime/2058"
+    },
+    "mal": {
+      "id": "6366",
+      "url": "https://myanimelist.net/anime/6366"
+    }
+  }
+}

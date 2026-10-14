@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1665,
+  "slug": "sasami-mahou-shoujo-club",
+  "kind": "anime",
+  "title": "Sasami☆Mahou Shoujo Club",
+  "titles": {
+    "default": "Sasami☆Mahou Shoujo Club",
+    "romaji": "Sasami☆Mahou Shoujo Club",
+    "english": "Sasami Magical Girls Club",
+    "native": "砂沙美☆魔法少女クラブ"
+  },
+  "synonyms": [
+    "Sasami☆Mahou Shoujo Club",
+    "Sasami Magical Girls Club",
+    "砂沙美☆魔法少女クラブ",
+    "Sasami: Maho Shojo Club",
+    "Gakuen Heaven",
+    "学園ヘヴン",
+    "Boy's Love Scramble"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1881.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1881",
+      "url": "https://anilist.co/anime/1881"
+    },
+    "cr": {
+      "id": "sasami-magical-girls-club",
+      "url": "https://www.crunchyroll.com/series/sasami-magical-girls-club"
+    },
+    "k": {
+      "id": "752",
+      "url": "https://kitsu.io/anime/752"
+    },
+    "mal": {
+      "id": "1881",
+      "url": "https://myanimelist.net/anime/1881"
+    },
+    "t": {
+      "id": "8753",
+      "url": "https://trakt.tv/shows/8753"
+    }
+  }
+}

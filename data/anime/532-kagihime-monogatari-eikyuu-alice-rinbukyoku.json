@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 532,
+  "slug": "kagihime-monogatari-eikyuu-alice-rinbukyoku",
+  "kind": "anime",
+  "title": "Kagihime Monogatari: Eikyuu Alice Rinbukyoku",
+  "titles": {
+    "default": "Kagihime Monogatari: Eikyuu Alice Rinbukyoku",
+    "romaji": "Kagihime Monogatari: Eikyuu Alice Rinbukyoku",
+    "english": "Key Princess Story Eternal Alice Rondo",
+    "native": "鍵姫物語 永久アリス輪舞曲"
+  },
+  "synonyms": [
+    "Kagihime Monogatari: Eikyuu Alice Rinbukyoku",
+    "Key Princess Story Eternal Alice Rondo",
+    "鍵姫物語 永久アリス輪舞曲",
+    "Kagihime",
+    "Kagihime Monogatari Eikyuu Alice Rondo",
+    "Kagihime Monogatari - Eikyuu Alice Rondo",
+    "Kagihime Monogatari Eikyuu Alice Rinbukyoku"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx577-USleBujE1aLO.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "577",
+      "url": "https://anilist.co/anime/577"
+    },
+    "k": {
+      "id": "533",
+      "url": "https://kitsu.io/anime/533"
+    },
+    "mal": {
+      "id": "577",
+      "url": "https://myanimelist.net/anime/577"
+    },
+    "t": {
+      "id": "67301",
+      "url": "https://trakt.tv/shows/67301"
+    }
+  }
+}

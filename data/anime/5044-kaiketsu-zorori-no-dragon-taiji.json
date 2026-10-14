@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5044,
+  "slug": "kaiketsu-zorori-no-dragon-taiji",
+  "kind": "anime",
+  "title": "Kaiketsu Zorori no Dragon Taiji",
+  "titles": {
+    "default": "Kaiketsu Zorori no Dragon Taiji",
+    "romaji": "Kaiketsu Zorori no Dragon Taiji",
+    "native": "かいけつゾロリ"
+  },
+  "synonyms": [
+    "Kaiketsu Zorori no Dragon Taiji",
+    "かいけつゾロリ",
+    "Kaiketsu Zorori OVA",
+    "Dog Soldier",
+    "ドッグソルジャー",
+    "Dog Soldier: Shadows of the Past"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b182548-jnMUmBFP0ng2.png"
+  ],
+  "references": {
+    "al": {
+      "id": "182548",
+      "url": "https://anilist.co/anime/182548"
+    },
+    "k": {
+      "id": "2100",
+      "url": "https://kitsu.io/anime/2100"
+    },
+    "mal": {
+      "id": "35538",
+      "url": "https://myanimelist.net/anime/35538"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8686,
+  "slug": "koinaka-koinaka-de-hatsukoi-nakadashi-sexual-life-the-animation",
+  "kind": "anime",
+  "title": "Koinaka: Koinaka de Hatsukoi × Nakadashi Sexual Life THE ANIMATION",
+  "titles": {
+    "default": "Koinaka: Koinaka de Hatsukoi × Nakadashi Sexual Life THE ANIMATION",
+    "romaji": "Koinaka: Koinaka de Hatsukoi × Nakadashi Sexual Life THE ANIMATION",
+    "native": "こいなか -小田舎で初恋×中出しセクシャルライフ- THE ANIMATION"
+  },
+  "synonyms": [
+    "Koinaka: Koinaka de Hatsukoi × Nakadashi Sexual Life THE ANIMATION",
+    "こいなか -小田舎で初恋×中出しセクシャルライフ- THE ANIMATION",
+    "Haikyuu!! Jump Festa 2015 Special",
+    "Haikyuu!! OVA",
+    "Haikyuu!! vs. Failing Grade",
+    "Haikyu!!: VS \"Failing Marks\"",
+    "ハイキュー!! VS\"赤点\"",
+    "Haikyuu!! vs. \"Akaten\""
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21656-dspx9g9OBNJO.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21656",
+      "url": "https://anilist.co/anime/21656"
+    },
+    "mal": {
+      "id": "32620",
+      "url": "https://myanimelist.net/anime/32620"
+    }
+  }
+}

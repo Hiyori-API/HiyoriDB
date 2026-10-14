@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8904,
+  "slug": "chuuko-video-ya-no-onna-tenin-x",
+  "kind": "anime",
+  "title": "Chuuko Video-ya no Onna Tenin X",
+  "titles": {
+    "default": "Chuuko Video-ya no Onna Tenin X",
+    "romaji": "Chuuko Video-ya no Onna Tenin X",
+    "native": "中古ビデオ屋の女店員 Ｘ"
+  },
+  "synonyms": [
+    "Chuuko Video-ya no Onna Tenin X",
+    "中古ビデオ屋の女店員 Ｘ",
+    "Chuuko Video-ya no Onna Ten'in X",
+    "Used Video Shop's Female Shop Clerk X",
+    "Catblue Dynamite",
+    "Catblue: Dynamite",
+    "キャットブルー：ダイナマイト"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/99112-uoetivSvLxWS.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "99112",
+      "url": "https://anilist.co/anime/99112"
+    },
+    "k": {
+      "id": "1645",
+      "url": "https://kitsu.io/anime/1645"
+    },
+    "mal": {
+      "id": "34409",
+      "url": "https://myanimelist.net/anime/34409"
+    },
+    "yt": {
+      "id": "u1Ou7oClL40",
+      "url": "https://www.youtube.com/watch?v=u1Ou7oClL40"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14371,
+  "slug": "chicchana-yukitsukai-sugar",
+  "kind": "manga",
+  "title": "Chicchana Yukitsukai Sugar",
+  "titles": {
+    "default": "Chicchana Yukitsukai Sugar"
+  },
+  "synonyms": [
+    "ちっちゃな雪使いシュガ",
+    "Chiccha na Yukitsukai Sugar",
+    "Tiny Snow Fairy Sugar",
+    "A Little Snow Fairy Sugar",
+    "Full Moon wo Sagashite",
+    "満月〈フルムーン〉をさがして",
+    "Searching for the Full Moon",
+    "Ginyuu Meika"
+  ],
+  "type": "manga",
+  "chapters": 14,
+  "volumes": 3,
+  "status": "finished",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3167.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "831",
+      "url": "https://anilist.co/anime/831"
+    },
+    "al_manga": {
+      "id": "831",
+      "url": "https://anilist.co/manga/831"
+    }
+  }
+}

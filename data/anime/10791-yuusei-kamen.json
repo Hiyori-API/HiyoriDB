@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10791,
+  "slug": "yuusei-kamen",
+  "kind": "anime",
+  "title": "Yuusei Kamen",
+  "titles": {
+    "default": "Yuusei Kamen",
+    "romaji": "Yuusei Kamen",
+    "native": "遊星仮面"
+  },
+  "synonyms": [
+    "Yuusei Kamen",
+    "遊星仮面",
+    "Asteroid Mask",
+    "Planetary Mask"
+  ],
+  "type": "tv",
+  "episodes": 39,
+  "status": "finished",
+  "season": "summer",
+  "year": 1966,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12767-nrjx6z9FEoPZ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "12767",
+      "url": "https://anilist.co/anime/12767"
+    },
+    "k": {
+      "id": "6808",
+      "url": "https://kitsu.io/anime/6808"
+    },
+    "mal": {
+      "id": "12767",
+      "url": "https://myanimelist.net/anime/12767"
+    }
+  }
+}

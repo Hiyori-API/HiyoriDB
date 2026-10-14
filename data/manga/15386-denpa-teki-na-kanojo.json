@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15386,
+  "slug": "denpa-teki-na-kanojo",
+  "kind": "manga",
+  "title": "Denpa Teki na Kanojo",
+  "titles": {
+    "default": "Denpa Teki na Kanojo"
+  },
+  "synonyms": [
+    "Denpateki na Kanojo",
+    "Electromagnetic Girlfriend",
+    "Electromagnetic-like Girlfriend",
+    "電波的な彼女",
+    "Denpa-teki na Kanojo"
+  ],
+  "type": "novel",
+  "chapters": 21,
+  "volumes": 3,
+  "status": "finished",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx47992-7gFZ0zXoMhpV.png"
+  ],
+  "references": {
+    "al": {
+      "id": "5177",
+      "url": "https://anilist.co/anime/5177"
+    },
+    "al_manga": {
+      "id": "5177",
+      "url": "https://anilist.co/manga/5177"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11757,
+  "slug": "kick-no-oni-1971",
+  "kind": "anime",
+  "title": "Kick no Oni (1971)",
+  "titles": {
+    "default": "Kick no Oni (1971)",
+    "romaji": "Kick no Oni (1971)",
+    "native": "キックの鬼 (1971)"
+  },
+  "synonyms": [
+    "Kick no Oni (1971)",
+    "キックの鬼 (1971)"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1971,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19683.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "19683",
+      "url": "https://anilist.co/anime/19683"
+    },
+    "k": {
+      "id": "9380",
+      "url": "https://kitsu.io/anime/9380"
+    },
+    "mal": {
+      "id": "19683",
+      "url": "https://myanimelist.net/anime/19683"
+    }
+  }
+}

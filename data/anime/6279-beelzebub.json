@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6279,
+  "slug": "beelzebub",
+  "kind": "anime",
+  "title": "Beelzebub",
+  "titles": {
+    "default": "Beelzebub",
+    "romaji": "Beelzebub",
+    "native": "べるぜバブ"
+  },
+  "synonyms": [
+    "Beelzebub",
+    "べるぜバブ"
+  ],
+  "type": "tv",
+  "episodes": 60,
+  "status": "finished",
+  "season": "winter",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx9513-is6YiSgKbyQX.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9513",
+      "url": "https://anilist.co/anime/9513"
+    },
+    "cr": {
+      "id": "beelzebub",
+      "url": "https://www.crunchyroll.com/series/beelzebub"
+    },
+    "k": {
+      "id": "5766",
+      "url": "https://kitsu.io/anime/5766"
+    },
+    "mal": {
+      "id": "9513",
+      "url": "https://myanimelist.net/anime/9513"
+    },
+    "t": {
+      "id": "61109",
+      "url": "https://trakt.tv/shows/61109"
+    }
+  }
+}

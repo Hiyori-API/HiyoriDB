@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3302,
+  "slug": "the-idolm-ster-live-for-you",
+  "kind": "anime",
+  "title": "The Idolm@ster: Live for You!",
+  "titles": {
+    "default": "The Idolm@ster: Live for You!",
+    "romaji": "The Idolm@ster: Live for You!",
+    "native": "アイドルマスター ライブフォーユー!"
+  },
+  "synonyms": [
+    "The Idolm@ster: Live for You!",
+    "アイドルマスター ライブフォーユー!",
+    "The Idolmaster: Live for You!",
+    "The iDOLM@STER Live For You!",
+    "The Idolmaster Live For You!"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4033.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4033",
+      "url": "https://anilist.co/anime/4033"
+    },
+    "k": {
+      "id": "3422",
+      "url": "https://kitsu.io/anime/3422"
+    },
+    "mal": {
+      "id": "4033",
+      "url": "https://myanimelist.net/anime/4033"
+    }
+  }
+}

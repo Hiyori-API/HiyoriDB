@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15288,
+  "slug": "nijuu-mensou-no-musume",
+  "kind": "manga",
+  "title": "Nijuu Mensou no Musume",
+  "titles": {
+    "default": "Nijuu Mensou no Musume"
+  },
+  "synonyms": [
+    "Nijuu Mensou no Musume: Utsushiyo no Musume",
+    "The Daughter of 20 Faces",
+    "The Daughter of Twenty Faces",
+    "Chiko",
+    "Daughter of Twenty Faces",
+    "二十面相の娘",
+    "Fujisan",
+    "富士山",
+    "Fuji-san"
+  ],
+  "type": "manga",
+  "chapters": 47,
+  "volumes": 8,
+  "status": "finished",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/8597.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3673",
+      "url": "https://anilist.co/anime/3673"
+    },
+    "al_manga": {
+      "id": "3673",
+      "url": "https://anilist.co/manga/3673"
+    }
+  }
+}

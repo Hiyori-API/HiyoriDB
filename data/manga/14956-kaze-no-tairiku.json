@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14956,
+  "slug": "kaze-no-tairiku",
+  "kind": "manga",
+  "title": "Kaze no Tairiku",
+  "titles": {
+    "default": "Kaze no Tairiku"
+  },
+  "synonyms": [
+    "The Weathering Continent",
+    "風の大陸",
+    "Kidou Senshi Gundam: Gyakushuu no Char - Beltorchika's Children",
+    "機動戦士ガンダム 逆襲のシャア ベルトーチカ・チルドレン",
+    "Mobile Suit Gundam: Char's Counterattack - Beltorchika's Children"
+  ],
+  "type": "novel",
+  "chapters": 66,
+  "volumes": 28,
+  "status": "finished",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx39823-DzaIbKngiwbu.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1777",
+      "url": "https://anilist.co/anime/1777"
+    },
+    "al_manga": {
+      "id": "1777",
+      "url": "https://anilist.co/manga/1777"
+    }
+  }
+}

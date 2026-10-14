@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7220,
+  "slug": "pikachu-to-eevee-friends",
+  "kind": "anime",
+  "title": "Pikachu to Eevee Friends",
+  "titles": {
+    "default": "Pikachu to Eevee Friends",
+    "romaji": "Pikachu to Eevee Friends",
+    "english": "Pokémon: Eevee & Friends",
+    "native": "ピカチュウとイーブイフレンズ"
+  },
+  "synonyms": [
+    "Pikachu to Eevee Friends",
+    "Pokémon: Eevee & Friends",
+    "ピカチュウとイーブイフレンズ",
+    "Pikachu Short 25",
+    "Pokemon: Eevee & Friends",
+    "Pokemon: Mewtwo - Prologue to Awakening",
+    "Pokemon: Mewtwo - Kakusei e no Prologue",
+    "ミュウツー ~覚醒への序章[プロローグ]～",
+    "Mewtwo: Kakusei he no Prologue"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16678.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "16678",
+      "url": "https://anilist.co/anime/16678"
+    },
+    "k": {
+      "id": "7789",
+      "url": "https://kitsu.io/anime/7789"
+    },
+    "mal": {
+      "id": "16678",
+      "url": "https://myanimelist.net/anime/16678"
+    }
+  }
+}

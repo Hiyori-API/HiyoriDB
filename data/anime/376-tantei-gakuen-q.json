@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 376,
+  "slug": "tantei-gakuen-q",
+  "kind": "anime",
+  "title": "Tantei Gakuen Q",
+  "titles": {
+    "default": "Tantei Gakuen Q",
+    "romaji": "Tantei Gakuen Q",
+    "english": "Detective School Q",
+    "native": "探偵学園Q"
+  },
+  "synonyms": [
+    "Tantei Gakuen Q",
+    "Detective School Q",
+    "探偵学園Q",
+    "Detective Academy Q"
+  ],
+  "type": "tv",
+  "episodes": 45,
+  "status": "finished",
+  "season": "spring",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx407-W9afaUJfEsoR.png"
+  ],
+  "references": {
+    "al": {
+      "id": "407",
+      "url": "https://anilist.co/anime/407"
+    },
+    "k": {
+      "id": "374",
+      "url": "https://kitsu.io/anime/374"
+    },
+    "mal": {
+      "id": "407",
+      "url": "https://myanimelist.net/anime/407"
+    },
+    "t": {
+      "id": "65069",
+      "url": "https://trakt.tv/shows/65069"
+    }
+  }
+}

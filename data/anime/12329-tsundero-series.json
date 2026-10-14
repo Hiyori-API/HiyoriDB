@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12329,
+  "slug": "tsundero-series",
+  "kind": "anime",
+  "title": "Tsundero Series",
+  "titles": {
+    "default": "Tsundero Series",
+    "romaji": "Tsundero Series",
+    "native": "ツンデロシリーズ"
+  },
+  "synonyms": [
+    "Tsundero Series",
+    "ツンデロシリーズ",
+    "Haré+Guu Deluxe",
+    "Jungle wa Itsumo Hare nochi Guu Deluxe",
+    "ジャングルはいつもハレのちグゥ　デラックス",
+    "Jungle wa Itsumo Haré nochi Guu Deluxe",
+    "Jungle wa Itsumo Hale Nochi Guu Deluxe",
+    "Hare+Guu Deluxe"
+  ],
+  "type": "ova",
+  "episodes": 6,
+  "status": "finished",
+  "season": "summer",
+  "year": 2023,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165321-m5iPdwzxFdbQ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "165321",
+      "url": "https://anilist.co/anime/165321"
+    },
+    "k": {
+      "id": "229",
+      "url": "https://kitsu.io/anime/229"
+    },
+    "mal": {
+      "id": "55524",
+      "url": "https://myanimelist.net/anime/55524"
+    }
+  }
+}

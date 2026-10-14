@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3214,
+  "slug": "super-mario-brothers-peach-hime-kyuushutsu-daisakusen",
+  "kind": "anime",
+  "title": "Super Mario Brothers: Peach-hime Kyuushutsu Daisakusen!",
+  "titles": {
+    "default": "Super Mario Brothers: Peach-hime Kyuushutsu Daisakusen!",
+    "romaji": "Super Mario Brothers: Peach-hime Kyuushutsu Daisakusen!",
+    "native": "スーパーマリオブラザーズ　ピーチ姫救出大作戦!"
+  },
+  "synonyms": [
+    "Super Mario Brothers: Peach-hime Kyuushutsu Daisakusen!",
+    "スーパーマリオブラザーズ　ピーチ姫救出大作戦!",
+    "Super Mario Bros.: The Great Mission to Rescue Princess Peach!",
+    "スーパーマリオブラザーズ ピーチひめきゅうしゅつだいさくせん!",
+    "Super Mario Brothers: Great Mission to Rescue Princess Peach",
+    "Super Mario Brothers: Peach-hime Kyuushutsu Dai Sakusen"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3886-WYh9WeSnxEhm.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3886",
+      "url": "https://anilist.co/anime/3886"
+    },
+    "k": {
+      "id": "3326",
+      "url": "https://kitsu.io/anime/3326"
+    },
+    "mal": {
+      "id": "3886",
+      "url": "https://myanimelist.net/anime/3886"
+    }
+  }
+}

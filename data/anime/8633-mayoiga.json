@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8633,
+  "slug": "mayoiga",
+  "kind": "anime",
+  "title": "Mayoiga",
+  "titles": {
+    "default": "Mayoiga",
+    "romaji": "Mayoiga",
+    "english": "The Lost Village",
+    "native": "迷家-マヨイガ-"
+  },
+  "synonyms": [
+    "Mayoiga",
+    "The Lost Village",
+    "迷家-マヨイガ-",
+    "Literary Stray Dogs",
+    "BSD",
+    "Bungo Stray Dogs",
+    "文豪ストレイドッグス",
+    "Bungou Stray Dogs"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21567-G0fAjdtoCsZz.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21567",
+      "url": "https://anilist.co/anime/21567"
+    },
+    "cr": {
+      "id": "the-lost-village",
+      "url": "https://www.crunchyroll.com/series/the-lost-village"
+    },
+    "mal": {
+      "id": "32438",
+      "url": "https://myanimelist.net/anime/32438"
+    },
+    "tx": {
+      "id": "mayoiga_project",
+      "url": "https://twitter.com/mayoiga_project"
+    }
+  }
+}

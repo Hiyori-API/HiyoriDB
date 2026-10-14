@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8517,
+  "slug": "wagamama-high-spec",
+  "kind": "anime",
+  "title": "Wagamama High Spec",
+  "titles": {
+    "default": "Wagamama High Spec",
+    "romaji": "Wagamama High Spec",
+    "native": "ワガママハイスペック"
+  },
+  "synonyms": [
+    "Wagamama High Spec",
+    "ワガママハイスペック",
+    "Tanaka-kun is Always Listless",
+    "田中くんはいつもけだるげ",
+    "Tanaka-kun wa Itsumo Kedaruge"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21302-xKQKvqQdOoMF.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21302",
+      "url": "https://anilist.co/anime/21302"
+    },
+    "cr": {
+      "id": "wagamama-high-spec",
+      "url": "https://www.crunchyroll.com/series/wagamama-high-spec"
+    },
+    "mal": {
+      "id": "31439",
+      "url": "https://myanimelist.net/anime/31439"
+    },
+    "tx": {
+      "id": "wagamamahs",
+      "url": "https://twitter.com/wagamamahs"
+    }
+  }
+}

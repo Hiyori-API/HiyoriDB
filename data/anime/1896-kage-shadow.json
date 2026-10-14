@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1896,
+  "slug": "kage-shadow",
+  "kind": "anime",
+  "title": "Kage: Shadow",
+  "titles": {
+    "default": "Kage: Shadow",
+    "romaji": "Kage: Shadow",
+    "english": "Shadow",
+    "native": "影Shadow"
+  },
+  "synonyms": [
+    "Kage: Shadow",
+    "Shadow",
+    "影Shadow",
+    "Hyper Shinobi Animation: Shadow",
+    "Memories Off 3.5",
+    "Memories Off 3.5 [メモリーズオフ3.5]",
+    "MOFF3.5"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "spring",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2138.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2138",
+      "url": "https://anilist.co/anime/2138"
+    },
+    "k": {
+      "id": "330",
+      "url": "https://kitsu.io/anime/330"
+    },
+    "mal": {
+      "id": "2138",
+      "url": "https://myanimelist.net/anime/2138"
+    }
+  }
+}

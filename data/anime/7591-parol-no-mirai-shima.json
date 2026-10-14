@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7591,
+  "slug": "parol-no-mirai-shima",
+  "kind": "anime",
+  "title": "Parol no Mirai Shima",
+  "titles": {
+    "default": "Parol no Mirai Shima",
+    "romaji": "Parol no Mirai Shima",
+    "english": "Paroru's Future Island",
+    "native": "パロルのみらい島"
+  },
+  "synonyms": [
+    "Parol no Mirai Shima",
+    "Paroru's Future Island",
+    "パロルのみらい島",
+    "Paroru no Miraijima",
+    "Paro no Mirai Shima",
+    "Wakate Animator Ikusei Project",
+    "2014 Young Animator Training Project",
+    "Anime Mirai 2014",
+    "Shimajirou to Kujira no Uta",
+    "しまじろうと くじらのうた"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20502-etjZg6Mp7yPu.png"
+  ],
+  "references": {
+    "al": {
+      "id": "20502",
+      "url": "https://anilist.co/anime/20502"
+    },
+    "k": {
+      "id": "8288",
+      "url": "https://kitsu.io/anime/8288"
+    },
+    "mal": {
+      "id": "20961",
+      "url": "https://myanimelist.net/anime/20961"
+    }
+  }
+}

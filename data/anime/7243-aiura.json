@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7243,
+  "slug": "aiura",
+  "kind": "anime",
+  "title": "Aiura",
+  "titles": {
+    "default": "Aiura",
+    "romaji": "Aiura",
+    "english": "AIURA",
+    "native": "あいうら"
+  },
+  "synonyms": [
+    "Aiura",
+    "AIURA",
+    "あいうら"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17082-aibgI1fdiFzS.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "17082",
+      "url": "https://anilist.co/anime/17082"
+    },
+    "cr": {
+      "id": "aiura",
+      "url": "https://www.crunchyroll.com/series/aiura"
+    },
+    "k": {
+      "id": "7576",
+      "url": "https://kitsu.io/anime/7576"
+    },
+    "mal": {
+      "id": "17082",
+      "url": "https://myanimelist.net/anime/17082"
+    },
+    "t": {
+      "id": "70107",
+      "url": "https://trakt.tv/shows/70107"
+    },
+    "tvt": {
+      "id": "aiura",
+      "url": "http://www.tv-tokyo.co.jp/anime/aiura"
+    }
+  }
+}

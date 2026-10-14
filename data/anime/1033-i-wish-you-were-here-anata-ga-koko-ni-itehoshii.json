@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1033,
+  "slug": "i-wish-you-were-here-anata-ga-koko-ni-itehoshii",
+  "kind": "anime",
+  "title": "i -wish you were here-: Anata ga Koko ni Itehoshii",
+  "titles": {
+    "default": "i -wish you were here-: Anata ga Koko ni Itehoshii",
+    "romaji": "i -wish you were here-: Anata ga Koko ni Itehoshii",
+    "english": "Zaion: I Wish You Were Here",
+    "native": "i -wish you were here- ～あなたがここにいてほしい～"
+  },
+  "synonyms": [
+    "i -wish you were here-: Anata ga Koko ni Itehoshii",
+    "Zaion: I Wish You Were Here",
+    "i -wish you were here- ～あなたがここにいてほしい～",
+    "Anata ga Koko ni Itehoshii",
+    "i-wish you were here - vorrei tu fossi qui",
+    "I: Wish You Were Here"
+  ],
+  "type": "tv",
+  "episodes": 4,
+  "status": "finished",
+  "season": "fall",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1156-HrJ2pcXYZ4QI.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1156",
+      "url": "https://anilist.co/anime/1156"
+    },
+    "cr": {
+      "id": "series/GREXH8DQ2/zaion-i-wish-you-were-here",
+      "url": "https://www.crunchyroll.com/series/series/GREXH8DQ2/zaion-i-wish-you-were-here"
+    },
+    "k": {
+      "id": "1037",
+      "url": "https://kitsu.io/anime/1037"
+    },
+    "mal": {
+      "id": "1156",
+      "url": "https://myanimelist.net/anime/1156"
+    },
+    "t": {
+      "id": "37403",
+      "url": "https://trakt.tv/shows/37403"
+    }
+  }
+}

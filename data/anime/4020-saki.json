@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4020,
+  "slug": "saki",
+  "kind": "anime",
+  "title": "Saki",
+  "titles": {
+    "default": "Saki",
+    "romaji": "Saki",
+    "native": "咲-Saki-"
+  },
+  "synonyms": [
+    "Saki",
+    "咲-Saki-"
+  ],
+  "type": "tv",
+  "episodes": 25,
+  "status": "finished",
+  "season": "spring",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5671-XVYut4FxhrLQ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "5671",
+      "url": "https://anilist.co/anime/5671"
+    },
+    "cr": {
+      "id": "saki",
+      "url": "https://www.crunchyroll.com/series/saki"
+    },
+    "k": {
+      "id": "4235",
+      "url": "https://kitsu.io/anime/4235"
+    },
+    "mal": {
+      "id": "5671",
+      "url": "https://myanimelist.net/anime/5671"
+    },
+    "t": {
+      "id": "61994",
+      "url": "https://trakt.tv/shows/61994"
+    }
+  }
+}

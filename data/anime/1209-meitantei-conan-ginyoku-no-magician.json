@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1209,
+  "slug": "meitantei-conan-ginyoku-no-magician",
+  "kind": "anime",
+  "title": "Meitantei Conan: Ginyoku no Magician",
+  "titles": {
+    "default": "Meitantei Conan: Ginyoku no Magician",
+    "romaji": "Meitantei Conan: Ginyoku no Magician",
+    "english": "Detective Conan: Magician of the Silver Sky",
+    "native": "名探偵コナン 銀翼の奇術師[マジシャン]"
+  },
+  "synonyms": [
+    "Meitantei Conan: Ginyoku no Magician",
+    "Detective Conan: Magician of the Silver Sky",
+    "名探偵コナン 銀翼の奇術師[マジシャン]",
+    "Detective Conan: Ginyoku no Magician",
+    "Meitantei Conan Movie 08: Ginyoku no Magician",
+    "Detektiv Conan: Der Magier mit den Silberschwingen",
+    "Detective Conan Movie 08: Il mago del cielo d’argento",
+    "Détective Conan : Le Magicien du ciel argenté",
+    "Case Closed: Magician of the Silver Sky",
+    "Case Closed Movie 08: Magician of the Silver Sky",
+    "Detective Conan Movie 08: Magician of the Silver Sky"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1367-cJLBjSfqBmRY.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1367",
+      "url": "https://anilist.co/anime/1367"
+    },
+    "k": {
+      "id": "1221",
+      "url": "https://kitsu.io/anime/1221"
+    },
+    "mal": {
+      "id": "1367",
+      "url": "https://myanimelist.net/anime/1367"
+    }
+  }
+}

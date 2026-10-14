@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1564,
+  "slug": "kikaider-01-the-animation",
+  "kind": "anime",
+  "title": "Kikaider 01: THE ANIMATION",
+  "titles": {
+    "default": "Kikaider 01: THE ANIMATION",
+    "romaji": "Kikaider 01: THE ANIMATION",
+    "english": "Kikaider 01: The Animation",
+    "native": "キカイダー０１　THE ANIMATION"
+  },
+  "synonyms": [
+    "Kikaider 01: THE ANIMATION",
+    "Kikaider 01: The Animation",
+    "キカイダー０１　THE ANIMATION",
+    "Kikaider 01 The Animation"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "fall",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1768-08RsqveSXvU3.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1768",
+      "url": "https://anilist.co/anime/1768"
+    },
+    "k": {
+      "id": "1588",
+      "url": "https://kitsu.io/anime/1588"
+    },
+    "mal": {
+      "id": "1768",
+      "url": "https://myanimelist.net/anime/1768"
+    }
+  }
+}

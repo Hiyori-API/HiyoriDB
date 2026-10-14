@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8253,
+  "slug": "hacka-doll-the-animation",
+  "kind": "anime",
+  "title": "Hacka Doll: THE Animation",
+  "titles": {
+    "default": "Hacka Doll: THE Animation",
+    "romaji": "Hacka Doll: THE Animation",
+    "english": "Hackadoll the Animation",
+    "native": "ハッカドール THE あにめーしょん"
+  },
+  "synonyms": [
+    "Hacka Doll: THE Animation",
+    "Hackadoll the Animation",
+    "ハッカドール THE あにめーしょん",
+    "Noragami Aragoto",
+    "ノラガミ ARAGOTO"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21182-C6UGCr3h53nz.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21182",
+      "url": "https://anilist.co/anime/21182"
+    },
+    "cr": {
+      "id": "hackadoll",
+      "url": "https://www.crunchyroll.com/series/hackadoll"
+    },
+    "mal": {
+      "id": "30721",
+      "url": "https://myanimelist.net/anime/30721"
+    },
+    "tx": {
+      "id": "Hackadoll_anime",
+      "url": "https://twitter.com/Hackadoll_anime"
+    }
+  }
+}

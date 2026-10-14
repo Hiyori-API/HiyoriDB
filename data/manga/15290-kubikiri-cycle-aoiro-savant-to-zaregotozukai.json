@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15290,
+  "slug": "kubikiri-cycle-aoiro-savant-to-zaregotozukai",
+  "kind": "manga",
+  "title": "Kubikiri Cycle: Aoiro Savant to Zaregotozukai",
+  "titles": {
+    "default": "Kubikiri Cycle: Aoiro Savant to Zaregotozukai"
+  },
+  "synonyms": [
+    "Decapitation: Kubikiri Cycle - The Blue Savant and The Nonsense User",
+    "Lời nói đùa",
+    "Zaregoto Series",
+    "วัฏสังหารแห่งการบั่นคอ รหัสคดีไร้สาระ",
+    "Vòng xoáy chặt đầu: Bác học màu lam và kẻ thích bông đùa",
+    "Decapitation: Kubikiri Cycle",
+    "クビキリサイクル　青色サヴァンと戯言遣い",
+    "Devil May Cry",
+    "デビル メイ クライ",
+    "DMC",
+    "Devil May Cry 2"
+  ],
+  "type": "novel",
+  "chapters": 9,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx39726-L3YnCwitbJdE.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21803",
+      "url": "https://anilist.co/anime/21803"
+    },
+    "al_manga": {
+      "id": "21803",
+      "url": "https://anilist.co/manga/21803"
+    }
+  }
+}

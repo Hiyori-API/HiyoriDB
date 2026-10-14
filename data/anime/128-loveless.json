@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 128,
+  "slug": "loveless",
+  "kind": "anime",
+  "title": "LOVELESS",
+  "titles": {
+    "default": "LOVELESS",
+    "romaji": "LOVELESS",
+    "english": "Loveless"
+  },
+  "synonyms": [
+    "LOVELESS",
+    "Loveless",
+    "LL",
+    "ラブレス"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx149-6QGLHgJc8gum.png"
+  ],
+  "references": {
+    "al": {
+      "id": "149",
+      "url": "https://anilist.co/anime/149"
+    },
+    "k": {
+      "id": "127",
+      "url": "https://kitsu.io/anime/127"
+    },
+    "mal": {
+      "id": "149",
+      "url": "https://myanimelist.net/anime/149"
+    },
+    "t": {
+      "id": "61802",
+      "url": "https://trakt.tv/shows/61802"
+    }
+  }
+}

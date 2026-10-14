@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1024,
+  "slug": "tenchi-muyou-ryououki-dai-3-ki-plus-1",
+  "kind": "anime",
+  "title": "Tenchi Muyou! Ryououki Dai 3-ki Plus 1",
+  "titles": {
+    "default": "Tenchi Muyou! Ryououki Dai 3-ki Plus 1",
+    "romaji": "Tenchi Muyou! Ryououki Dai 3-ki Plus 1",
+    "english": "Tenchi Muyo! Ryo-Ohki: Final Confrontations",
+    "native": "天地無用! 魎皇鬼 第3期プラス1"
+  },
+  "synonyms": [
+    "Tenchi Muyou! Ryououki Dai 3-ki Plus 1",
+    "Tenchi Muyo! Ryo-Ohki: Final Confrontations",
+    "天地無用! 魎皇鬼 第3期プラス1",
+    "Pale Cocoon",
+    "ペイル・コクーン",
+    "Aoi Tamago"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1147.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1147",
+      "url": "https://anilist.co/anime/1147"
+    },
+    "k": {
+      "id": "691",
+      "url": "https://kitsu.io/anime/691"
+    },
+    "mal": {
+      "id": "1147",
+      "url": "https://myanimelist.net/anime/1147"
+    }
+  }
+}

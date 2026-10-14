@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2377,
+  "slug": "doraemon-nobita-to-ginga-express",
+  "kind": "anime",
+  "title": "Doraemon: Nobita to Ginga Express",
+  "titles": {
+    "default": "Doraemon: Nobita to Ginga Express",
+    "romaji": "Doraemon: Nobita to Ginga Express",
+    "english": "Doraemon: Nobita's Galactic Express",
+    "native": "ドラえもん のび太と銀河超特急(エクスプレス)"
+  },
+  "synonyms": [
+    "Doraemon: Nobita to Ginga Express",
+    "Doraemon: Nobita's Galactic Express",
+    "ドラえもん のび太と銀河超特急(エクスプレス)",
+    "Bad Badtz-Maru no Ore no Pochi wa Sekaiichi",
+    "バッドばつ丸のオレのポチは世界一"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2675-Jth4VYAgu6lM.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2675",
+      "url": "https://anilist.co/anime/2675"
+    },
+    "k": {
+      "id": "8962",
+      "url": "https://kitsu.io/anime/8962"
+    },
+    "mal": {
+      "id": "2675",
+      "url": "https://myanimelist.net/anime/2675"
+    }
+  }
+}

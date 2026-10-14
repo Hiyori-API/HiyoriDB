@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13847,
+  "slug": "ikebukuro-west-gate-park",
+  "kind": "manga",
+  "title": "Ikebukuro West Gate Park",
+  "titles": {
+    "default": "Ikebukuro West Gate Park"
+  },
+  "synonyms": [
+    "IWGP",
+    "IWGP - Ikebukuro West Gate Park",
+    "池袋ウエストゲートパーク",
+    "Full Moon wo Sagashite",
+    "満月〈フルムーン〉をさがして",
+    "Searching for the Full Moon",
+    "Ginyuu Meika"
+  ],
+  "type": "manga",
+  "chapters": 36,
+  "volumes": 4,
+  "status": "finished",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30258-Q82XRwRY8bOb.png"
+  ],
+  "references": {
+    "al": {
+      "id": "111324",
+      "url": "https://anilist.co/anime/111324"
+    },
+    "al_manga": {
+      "id": "111324",
+      "url": "https://anilist.co/manga/111324"
+    }
+  }
+}

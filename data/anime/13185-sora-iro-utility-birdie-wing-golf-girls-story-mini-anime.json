@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13185,
+  "slug": "sora-iro-utility-birdie-wing-golf-girls-story-mini-anime",
+  "kind": "anime",
+  "title": "Sora-iro Utility × BIRDIE WING: Golf Girls' Story Mini Anime",
+  "titles": {
+    "default": "Sora-iro Utility × BIRDIE WING: Golf Girls' Story Mini Anime",
+    "romaji": "Sora-iro Utility × BIRDIE WING: Golf Girls' Story Mini Anime",
+    "native": "空色ユーティリティ × BIRDIE WING スペシャルコラボ ミニアニメ"
+  },
+  "synonyms": [
+    "Sora-iro Utility × BIRDIE WING: Golf Girls' Story Mini Anime",
+    "空色ユーティリティ × BIRDIE WING スペシャルコラボ ミニアニメ",
+    "A Record of Mortal's Journey to Immortality: Director's Cut",
+    "凡人修仙传 虚天战纪",
+    "Fanren Xiu Xian Zhuan: Xu Tian Zhan Ji"
+  ],
+  "type": "ona",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189893-7T1pZjLbwEie.png"
+  ],
+  "references": {
+    "al": {
+      "id": "189893",
+      "url": "https://anilist.co/anime/189893"
+    },
+    "mal": {
+      "id": "60984",
+      "url": "https://myanimelist.net/anime/60984"
+    },
+    "yt": {
+      "id": "EeWMDOGCDy0",
+      "url": "https://www.youtube.com/watch?v=Kg-DD21FAFE"
+    }
+  }
+}

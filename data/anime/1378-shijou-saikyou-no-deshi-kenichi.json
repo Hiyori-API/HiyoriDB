@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1378,
+  "slug": "shijou-saikyou-no-deshi-kenichi",
+  "kind": "anime",
+  "title": "Shijou Saikyou no Deshi Kenichi",
+  "titles": {
+    "default": "Shijou Saikyou no Deshi Kenichi",
+    "romaji": "Shijou Saikyou no Deshi Kenichi",
+    "english": "Kenichi: The Mightiest Disciple",
+    "native": "史上最強の弟子 ケンイチ"
+  },
+  "synonyms": [
+    "Shijou Saikyou no Deshi Kenichi",
+    "Kenichi: The Mightiest Disciple",
+    "史上最強の弟子 ケンイチ",
+    "History's Strongest Disciple Kenichi",
+    "Ken'ichi, el discípulo más fuerte de la historia",
+    "Kenichi: O Discípulo Mais Forte",
+    "KenIchi: The Mightiest Disciple"
+  ],
+  "type": "tv",
+  "episodes": 50,
+  "status": "finished",
+  "season": "fall",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1559-7ZlyZxtBNo8g.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1559",
+      "url": "https://anilist.co/anime/1559"
+    },
+    "cr": {
+      "id": "kenichi-the-mightiest-disciple",
+      "url": "https://www.crunchyroll.com/series/kenichi-the-mightiest-disciple"
+    },
+    "k": {
+      "id": "1399",
+      "url": "https://kitsu.io/anime/1399"
+    },
+    "mal": {
+      "id": "1559",
+      "url": "https://myanimelist.net/anime/1559"
+    },
+    "t": {
+      "id": "37427",
+      "url": "https://trakt.tv/shows/37427"
+    },
+    "ttv": {
+      "id": "300006194",
+      "url": "https://tubitv.com/series/300006194"
+    }
+  }
+}

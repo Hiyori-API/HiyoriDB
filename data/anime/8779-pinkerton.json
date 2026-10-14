@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8779,
+  "slug": "pinkerton",
+  "kind": "anime",
+  "title": "PINKERTON",
+  "titles": {
+    "default": "PINKERTON",
+    "romaji": "PINKERTON"
+  },
+  "synonyms": [
+    "PINKERTON",
+    "The Magician's Bride",
+    "Mahoyome",
+    "The Ancient Magus' Bride: Those Awaiting a Star",
+    "魔法使いの嫁 星待つひと",
+    "Mahoutsukai no Yome: Hoshi Matsu Hito"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "summer",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21805-MWredTlhki1o.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21805",
+      "url": "https://anilist.co/anime/21805"
+    },
+    "mal": {
+      "id": "33291",
+      "url": "https://myanimelist.net/anime/33291"
+    }
+  }
+}

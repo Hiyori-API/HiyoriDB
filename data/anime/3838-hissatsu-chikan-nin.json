@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3838,
+  "slug": "hissatsu-chikan-nin",
+  "kind": "anime",
+  "title": "Hissatsu Chikan Nin",
+  "titles": {
+    "default": "Hissatsu Chikan Nin",
+    "romaji": "Hissatsu Chikan Nin",
+    "english": "The Last Train To Gropesville",
+    "native": "必殺痴漢人"
+  },
+  "synonyms": [
+    "Hissatsu Chikan Nin",
+    "The Last Train To Gropesville",
+    "必殺痴漢人",
+    "Switch",
+    "スイッチ"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5281.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5281",
+      "url": "https://anilist.co/anime/5281"
+    },
+    "k": {
+      "id": "3115",
+      "url": "https://kitsu.io/anime/3115"
+    },
+    "mal": {
+      "id": "5281",
+      "url": "https://myanimelist.net/anime/5281"
+    }
+  }
+}

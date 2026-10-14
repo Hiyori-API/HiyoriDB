@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 96,
+  "slug": "shinpi-no-sekai-el-hazard-tv",
+  "kind": "anime",
+  "title": "Shinpi no Sekai El Hazard (TV)",
+  "titles": {
+    "default": "Shinpi no Sekai El Hazard (TV)",
+    "romaji": "Shinpi no Sekai El Hazard (TV)",
+    "english": "El Hazard: The Wanderers",
+    "native": "神秘の世界エルハザード (TV)"
+  },
+  "synonyms": [
+    "Shinpi no Sekai El Hazard (TV)",
+    "El Hazard: The Wanderers",
+    "神秘の世界エルハザード (TV)",
+    "Shinpi no Sekai Eru Hazaado",
+    "Shinpi no Sekai El-Hazard",
+    "El-Hazard: The Wanderers",
+    "神秘の世界エルハザード",
+    "Shinpi no Sekai El-Hazard TV"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116-JdDCxwMpLRQV.png"
+  ],
+  "references": {
+    "al": {
+      "id": "116",
+      "url": "https://anilist.co/anime/116"
+    },
+    "cr": {
+      "id": "el-hazard-the-wanderers",
+      "url": "https://www.crunchyroll.com/series/el-hazard-the-wanderers"
+    },
+    "k": {
+      "id": "95",
+      "url": "https://kitsu.io/anime/95"
+    },
+    "mal": {
+      "id": "116",
+      "url": "https://myanimelist.net/anime/116"
+    },
+    "t": {
+      "id": "63735",
+      "url": "https://trakt.tv/shows/63735"
+    }
+  }
+}

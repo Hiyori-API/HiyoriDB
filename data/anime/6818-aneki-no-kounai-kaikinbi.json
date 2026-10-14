@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6818,
+  "slug": "aneki-no-kounai-kaikinbi",
+  "kind": "anime",
+  "title": "Aneki no Kounai Kaikinbi",
+  "titles": {
+    "default": "Aneki no Kounai Kaikinbi",
+    "romaji": "Aneki no Kounai Kaikinbi",
+    "english": "The Day My Sister Let Me Use Her Mouth",
+    "native": "アネキの口内解禁日"
+  },
+  "synonyms": [
+    "Aneki no Kounai Kaikinbi",
+    "The Day My Sister Let Me Use Her Mouth",
+    "アネキの口内解禁日",
+    "The Elder Sister's Free Oral Day",
+    "Minori Scramble!",
+    "みのりスクランブル!"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13019.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "13019",
+      "url": "https://anilist.co/anime/13019"
+    },
+    "k": {
+      "id": "5773",
+      "url": "https://kitsu.io/anime/5773"
+    },
+    "mal": {
+      "id": "13019",
+      "url": "https://myanimelist.net/anime/13019"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2933,
+  "slug": "candy-boy-side-story-for-archive",
+  "kind": "anime",
+  "title": "Candy☆Boy: Side Story For Archive",
+  "titles": {
+    "default": "Candy☆Boy: Side Story For Archive",
+    "romaji": "Candy☆Boy: Side Story For Archive"
+  },
+  "synonyms": [
+    "Candy☆Boy: Side Story For Archive",
+    "Candy Boy Episode 0"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3456.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3456",
+      "url": "https://anilist.co/anime/3456"
+    },
+    "k": {
+      "id": "3022",
+      "url": "https://kitsu.io/anime/3022"
+    },
+    "mal": {
+      "id": "3456",
+      "url": "https://myanimelist.net/anime/3456"
+    }
+  }
+}

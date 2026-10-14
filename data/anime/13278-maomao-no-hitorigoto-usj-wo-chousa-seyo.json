@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13278,
+  "slug": "maomao-no-hitorigoto-usj-wo-chousa-seyo",
+  "kind": "anime",
+  "title": "Maomao no Hitorigoto: USJ wo Chousa Seyo!",
+  "titles": {
+    "default": "Maomao no Hitorigoto: USJ wo Chousa Seyo!",
+    "romaji": "Maomao no Hitorigoto: USJ wo Chousa Seyo!",
+    "native": "猫猫のひとりごと ～USJを調査せよ！～"
+  },
+  "synonyms": [
+    "Maomao no Hitorigoto: USJ wo Chousa Seyo!",
+    "猫猫のひとりごと ～USJを調査せよ！～",
+    "『薬屋のひとりごと』×ユニバーサルスタジオジャパン",
+    "\"Kusuriya no Hitorigoto\" x Universal Studios Japan",
+    "Sexy Commando Gaiden: Sugoiyo!! Masaru-san Specials",
+    "セクシーコマンドー外伝 すごいよ!! マサルさん",
+    "Sexy Commando Gaiden: Sugoiyo!! Masaru-san - Learn It in 2 Days",
+    "Sexy Commando Side Story: Amazing! Masaru"
+  ],
+  "type": "special",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206349-RzDGDKhWPiMN.png"
+  ],
+  "references": {
+    "al": {
+      "id": "206349",
+      "url": "https://anilist.co/anime/206349"
+    },
+    "k": {
+      "id": "902",
+      "url": "https://kitsu.io/anime/902"
+    },
+    "mal": {
+      "id": "61876",
+      "url": "https://myanimelist.net/anime/61876"
+    }
+  }
+}

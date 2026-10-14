@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13895,
+  "slug": "yamato-nadeshiko-shichi-henge",
+  "kind": "manga",
+  "title": "Yamato Nadeshiko Shichi Henge♥",
+  "titles": {
+    "default": "Yamato Nadeshiko Shichi Henge♥"
+  },
+  "synonyms": [
+    "My Fair Lady",
+    "Sunako of Many Forms",
+    "Perfect Girl Evolution",
+    "The Seven Metamorphoses of Yamato Nadeshiko",
+    "Семь обличий идеальной девушки",
+    "完美小姐進化論",
+    "The Wallflower: Yamatonadeshiko Shichihenge",
+    "ヤマトナデシコ七変化♥",
+    "Yamato Nadeshiko Shichihenge♥",
+    "Yamato Nadeshiko Shichi Henge",
+    "YamaNade"
+  ],
+  "type": "manga",
+  "chapters": 153,
+  "volumes": 36,
+  "status": "finished",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30422-bKZintQwS6tn.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1562",
+      "url": "https://anilist.co/anime/1562"
+    },
+    "al_manga": {
+      "id": "1562",
+      "url": "https://anilist.co/manga/1562"
+    }
+  }
+}

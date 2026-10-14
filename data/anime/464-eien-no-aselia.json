@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 464,
+  "slug": "eien-no-aselia",
+  "kind": "anime",
+  "title": "Eien no Aselia",
+  "titles": {
+    "default": "Eien no Aselia",
+    "romaji": "Eien no Aselia",
+    "english": "The Eternal Aseria",
+    "native": "永遠のアセリア"
+  },
+  "synonyms": [
+    "Eien no Aselia",
+    "The Eternal Aseria",
+    "永遠のアセリア",
+    "Eien no Aseria: The Spirit of Eternity Sword",
+    "Prayers",
+    "プレイヤーズ"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/503.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "503",
+      "url": "https://anilist.co/anime/503"
+    },
+    "k": {
+      "id": "2229",
+      "url": "https://kitsu.io/anime/2229"
+    },
+    "mal": {
+      "id": "503",
+      "url": "https://myanimelist.net/anime/503"
+    }
+  }
+}

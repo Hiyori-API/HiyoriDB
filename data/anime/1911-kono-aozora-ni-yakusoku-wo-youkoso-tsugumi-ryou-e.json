@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1911,
+  "slug": "kono-aozora-ni-yakusoku-wo-youkoso-tsugumi-ryou-e",
+  "kind": "anime",
+  "title": "Kono Aozora ni Yakusoku wo: Youkoso Tsugumi Ryou e",
+  "titles": {
+    "default": "Kono Aozora ni Yakusoku wo: Youkoso Tsugumi Ryou e",
+    "romaji": "Kono Aozora ni Yakusoku wo: Youkoso Tsugumi Ryou e",
+    "native": "この青空に約束を― 〜ようこそつぐみ寮へ〜"
+  },
+  "synonyms": [
+    "Kono Aozora ni Yakusoku wo: Youkoso Tsugumi Ryou e",
+    "この青空に約束を― 〜ようこそつぐみ寮へ〜",
+    "この青空に約束を― ～ようこそつぐみ寮へ～"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2155.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2155",
+      "url": "https://anilist.co/anime/2155"
+    },
+    "cr": {
+      "id": "kono-aozora-ni-yakusoku-wo",
+      "url": "https://www.crunchyroll.com/series/kono-aozora-ni-yakusoku-wo"
+    },
+    "k": {
+      "id": "1951",
+      "url": "https://kitsu.io/anime/1951"
+    },
+    "mal": {
+      "id": "2155",
+      "url": "https://myanimelist.net/anime/2155"
+    },
+    "t": {
+      "id": "64073",
+      "url": "https://trakt.tv/shows/64073"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15391,
+  "slug": "to-heart-remember-my-memories",
+  "kind": "manga",
+  "title": "To Heart ~remember my memories~",
+  "titles": {
+    "default": "To Heart ~remember my memories~"
+  },
+  "synonyms": [
+    "To Heart - Remember My Memories",
+    "ToHeart Remember My Memories",
+    "To Heart Remember my memories",
+    "トゥハート ~remember my memories~",
+    "Railroad",
+    "레일로드"
+  ],
+  "type": "manga",
+  "volumes": 1,
+  "status": "finished",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/21258.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "685",
+      "url": "https://anilist.co/anime/685"
+    },
+    "al_manga": {
+      "id": "685",
+      "url": "https://anilist.co/manga/685"
+    }
+  }
+}

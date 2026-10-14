@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13974,
+  "slug": "appleseed",
+  "kind": "manga",
+  "title": "Appleseed",
+  "titles": {
+    "default": "Appleseed"
+  },
+  "synonyms": [
+    "Appleseed",
+    "アップルシード",
+    "アップルシ－ド"
+  ],
+  "type": "manga",
+  "chapters": 25,
+  "volumes": 4,
+  "status": "finished",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30668-vAyzUEvRet1u.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "54",
+      "url": "https://anilist.co/anime/937"
+    },
+    "al_manga": {
+      "id": "54",
+      "url": "https://anilist.co/manga/54"
+    }
+  }
+}

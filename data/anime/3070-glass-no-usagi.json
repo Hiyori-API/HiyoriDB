@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3070,
+  "slug": "glass-no-usagi",
+  "kind": "anime",
+  "title": "Glass no Usagi",
+  "titles": {
+    "default": "Glass no Usagi",
+    "romaji": "Glass no Usagi",
+    "english": "Glass Rabbit",
+    "native": "ガラスのうさぎ"
+  },
+  "synonyms": [
+    "Glass no Usagi",
+    "Glass Rabbit",
+    "ガラスのうさぎ",
+    "Garasu no Usagi",
+    "Arashi no Yoru ni",
+    "あらしのよるに",
+    "In the Night of the Storm",
+    "On A Stormy Night",
+    "Stormy Night"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3646-Av6USwgF6gJE.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3646",
+      "url": "https://anilist.co/anime/3646"
+    },
+    "k": {
+      "id": "1767",
+      "url": "https://kitsu.io/anime/1767"
+    },
+    "mal": {
+      "id": "3646",
+      "url": "https://myanimelist.net/anime/3646"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10352,
+  "slug": "made-in-abyss-fukaki-tamashii-no-reimei",
+  "kind": "anime",
+  "title": "Made in Abyss: Fukaki Tamashii no Reimei",
+  "titles": {
+    "default": "Made in Abyss: Fukaki Tamashii no Reimei",
+    "romaji": "Made in Abyss: Fukaki Tamashii no Reimei",
+    "english": "Made in Abyss: Dawn of the Deep Soul",
+    "native": "メイドインアビス 深き魂の黎明"
+  },
+  "synonyms": [
+    "Made in Abyss: Fukaki Tamashii no Reimei",
+    "Made in Abyss: Dawn of the Deep Soul",
+    "メイドインアビス 深き魂の黎明",
+    "Made in Abyss: Dawn of a Deep Soul",
+    "Arion",
+    "ネオ・ヒロイック・ファンタジア　アリオン",
+    "Neo Heroic Fantasia Arion"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100643-fPH9OgEKKvcI.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "100643",
+      "url": "https://anilist.co/anime/100643"
+    },
+    "k": {
+      "id": "706",
+      "url": "https://kitsu.io/anime/706"
+    },
+    "mal": {
+      "id": "36862",
+      "url": "https://myanimelist.net/anime/36862"
+    },
+    "tx": {
+      "id": "miabyss_anime",
+      "url": "https://twitter.com/miabyss_anime"
+    }
+  }
+}

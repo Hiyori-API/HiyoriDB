@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11789,
+  "slug": "yanase-takashi-m-rchen-gekijou",
+  "kind": "anime",
+  "title": "Yanase Takashi Märchen Gekijou",
+  "titles": {
+    "default": "Yanase Takashi Märchen Gekijou",
+    "romaji": "Yanase Takashi Märchen Gekijou",
+    "native": "やなせたかしメルヘン劇場"
+  },
+  "synonyms": [
+    "Yanase Takashi Märchen Gekijou",
+    "やなせたかしメルヘン劇場",
+    "Yanase Takashi Maerchen Gekijou"
+  ],
+  "type": "ova",
+  "episodes": 30,
+  "status": "finished",
+  "season": "spring",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17471.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "17471",
+      "url": "https://anilist.co/anime/17471"
+    },
+    "k": {
+      "id": "9700",
+      "url": "https://kitsu.io/anime/9700"
+    },
+    "mal": {
+      "id": "17471",
+      "url": "https://myanimelist.net/anime/17471"
+    }
+  }
+}

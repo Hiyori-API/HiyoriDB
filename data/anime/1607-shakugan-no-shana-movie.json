@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1607,
+  "slug": "shakugan-no-shana-movie",
+  "kind": "anime",
+  "title": "Shakugan no Shana Movie",
+  "titles": {
+    "default": "Shakugan no Shana Movie",
+    "romaji": "Shakugan no Shana Movie",
+    "english": "Shakugan no Shana: The Movie",
+    "native": "劇場版 灼眼のシャナ"
+  },
+  "synonyms": [
+    "Shakugan no Shana Movie",
+    "Shakugan no Shana: The Movie",
+    "劇場版 灼眼のシャナ",
+    "Gekijouban Shakugan no Shana",
+    "ชานะ นักรบเนตรอัคคี เดอะ มูฟวี่",
+    "Hoả nhãn của Shana (Movie)"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1815-M8GPrlO01336.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1815",
+      "url": "https://anilist.co/anime/1815"
+    },
+    "cr": {
+      "id": "shakugan-no-shana",
+      "url": "https://www.crunchyroll.com/series/shakugan-no-shana"
+    },
+    "k": {
+      "id": "1632",
+      "url": "https://kitsu.io/anime/1632"
+    },
+    "mal": {
+      "id": "1815",
+      "url": "https://myanimelist.net/anime/1815"
+    }
+  }
+}

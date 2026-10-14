@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2572,
+  "slug": "chikyuu-ga-ugoita-hi",
+  "kind": "anime",
+  "title": "Chikyuu ga Ugoita Hi",
+  "titles": {
+    "default": "Chikyuu ga Ugoita Hi",
+    "romaji": "Chikyuu ga Ugoita Hi",
+    "english": "The Day the Earth Moved",
+    "native": "地球が動いた日"
+  },
+  "synonyms": [
+    "Chikyuu ga Ugoita Hi",
+    "The Day the Earth Moved",
+    "地球が動いた日"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2915.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2915",
+      "url": "https://anilist.co/anime/2915"
+    },
+    "k": {
+      "id": "2642",
+      "url": "https://kitsu.io/anime/2642"
+    },
+    "mal": {
+      "id": "2915",
+      "url": "https://myanimelist.net/anime/2915"
+    }
+  }
+}

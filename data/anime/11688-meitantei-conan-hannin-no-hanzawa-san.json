@@ -1,0 +1,62 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11688,
+  "slug": "meitantei-conan-hannin-no-hanzawa-san",
+  "kind": "anime",
+  "title": "Meitantei Conan: Hannin no Hanzawa-san",
+  "titles": {
+    "default": "Meitantei Conan: Hannin no Hanzawa-san",
+    "romaji": "Meitantei Conan: Hannin no Hanzawa-san",
+    "english": "Detective Conan: The Culprit Hanzawa",
+    "native": "名探偵コナン 犯人の犯沢さん"
+  },
+  "synonyms": [
+    "Meitantei Conan: Hannin no Hanzawa-san",
+    "Detective Conan: The Culprit Hanzawa",
+    "名探偵コナン 犯人の犯沢さん",
+    "Case Closed: Hanzawa the Criminal",
+    "Hanzawa the Criminal",
+    "ยอดนักสืบจิ๋วโคนัน ภาค ฮันซาวะ ตัวร้ายสุดโหด",
+    "Detective Conan: Hanzawa the Criminal",
+    "Detektyw Conan: Łotrzyk Hanzawa",
+    "Salapoliisi Conan: Hämärä tyyppi Hanzawa",
+    "Detetive Conan: Hanzawa, o Culpado",
+    "Ring ni Kakero 1",
+    "リングにかけろ１",
+    "Put it all in the Ring"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140005-BMmsl94sUPsw.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "140005",
+      "url": "https://anilist.co/anime/140005"
+    },
+    "k": {
+      "id": "14",
+      "url": "https://kitsu.io/anime/14"
+    },
+    "mal": {
+      "id": "50010",
+      "url": "https://myanimelist.net/anime/50010"
+    },
+    "nf": {
+      "id": "81313291",
+      "url": "https://www.netflix.com/title/81313291"
+    },
+    "t": {
+      "id": "69507",
+      "url": "https://trakt.tv/shows/69507"
+    },
+    "tx": {
+      "id": "hanzawasan_file",
+      "url": "https://twitter.com/hanzawasan_file"
+    }
+  }
+}

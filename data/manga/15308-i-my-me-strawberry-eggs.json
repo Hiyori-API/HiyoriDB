@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15308,
+  "slug": "i-my-me-strawberry-eggs",
+  "kind": "manga",
+  "title": "I My Me! Strawberry Eggs",
+  "titles": {
+    "default": "I My Me! Strawberry Eggs"
+  },
+  "synonyms": [
+    "あぃまぃみぃ！ストロベリ・エッグ",
+    "Fujisan",
+    "富士山",
+    "Fuji-san"
+  ],
+  "type": "manga",
+  "chapters": 3,
+  "status": "finished",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/92015-whqkpUYk520a.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "509",
+      "url": "https://anilist.co/anime/509"
+    },
+    "al_manga": {
+      "id": "509",
+      "url": "https://anilist.co/manga/509"
+    }
+  }
+}

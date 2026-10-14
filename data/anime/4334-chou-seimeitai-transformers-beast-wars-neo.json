@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4334,
+  "slug": "chou-seimeitai-transformers-beast-wars-neo",
+  "kind": "anime",
+  "title": "Chou Seimeitai Transformers Beast Wars Neo",
+  "titles": {
+    "default": "Chou Seimeitai Transformers Beast Wars Neo",
+    "romaji": "Chou Seimeitai Transformers Beast Wars Neo",
+    "native": "超生命体トランスフォーマー ビーストウォーズ・ネオ"
+  },
+  "synonyms": [
+    "Chou Seimeitai Transformers Beast Wars Neo",
+    "超生命体トランスフォーマー ビーストウォーズ・ネオ",
+    "Transformers: Beast Wars Neo",
+    "Beast Wars Neo"
+  ],
+  "type": "tv",
+  "episodes": 35,
+  "status": "finished",
+  "season": "winter",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6511-AU8swbIbgNHZ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6511",
+      "url": "https://anilist.co/anime/6511"
+    },
+    "k": {
+      "id": "4587",
+      "url": "https://kitsu.io/anime/4587"
+    },
+    "mal": {
+      "id": "6511",
+      "url": "https://myanimelist.net/anime/6511"
+    },
+    "t": {
+      "id": "11775",
+      "url": "https://trakt.tv/shows/11775"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13149,
+  "slug": "princess-connect-michibiki-no-hatsuhana-fiore-storia",
+  "kind": "anime",
+  "title": "Princess Connect! Michibiki no Hatsuhana: Fiore Storia",
+  "titles": {
+    "default": "Princess Connect! Michibiki no Hatsuhana: Fiore Storia",
+    "romaji": "Princess Connect! Michibiki no Hatsuhana: Fiore Storia",
+    "native": "プリンセスコネクト！ 導きの初花　- Fiore Storia -"
+  },
+  "synonyms": [
+    "Princess Connect! Michibiki no Hatsuhana: Fiore Storia",
+    "プリンセスコネクト！ 導きの初花　- Fiore Storia -",
+    "プリンセスコネクト！ 導きの初花 - Fiore Storia -"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187236-tFSyyAliXxLH.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "187236",
+      "url": "https://anilist.co/anime/187236"
+    },
+    "mal": {
+      "id": "60987",
+      "url": "https://myanimelist.net/anime/60987"
+    },
+    "yt": {
+      "id": "lDxF3SSvwhc",
+      "url": "https://www.youtube.com/watch?v=lDxF3SSvwhc"
+    }
+  }
+}

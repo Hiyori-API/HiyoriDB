@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2860,
+  "slug": "school-days-magical-heart-kokoro-chan",
+  "kind": "anime",
+  "title": "School Days: Magical Heart☆Kokoro-chan",
+  "titles": {
+    "default": "School Days: Magical Heart☆Kokoro-chan",
+    "romaji": "School Days: Magical Heart☆Kokoro-chan",
+    "native": "School Days ～マジカルハート☆こころちゃん～"
+  },
+  "synonyms": [
+    "School Days: Magical Heart☆Kokoro-chan",
+    "School Days ～マジカルハート☆こころちゃん～",
+    "School Days: Magical Heart Kokoro-chan"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3328-UwxAv4wq5o08.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3328",
+      "url": "https://anilist.co/anime/3328"
+    },
+    "k": {
+      "id": "2940",
+      "url": "https://kitsu.io/anime/2940"
+    },
+    "mal": {
+      "id": "3328",
+      "url": "https://myanimelist.net/anime/3328"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3625,
+  "slug": "kawarazaki-ke-no-ichizoku-2",
+  "kind": "anime",
+  "title": "Kawarazaki-ke no Ichizoku 2",
+  "titles": {
+    "default": "Kawarazaki-ke no Ichizoku 2",
+    "romaji": "Kawarazaki-ke no Ichizoku 2",
+    "native": "河原崎家の一族2"
+  },
+  "synonyms": [
+    "Kawarazaki-ke no Ichizoku 2",
+    "河原崎家の一族2",
+    "Wolf's Rain OVA",
+    "ウルフズ・レイン"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "winter",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4803.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4803",
+      "url": "https://anilist.co/anime/4803"
+    },
+    "k": {
+      "id": "913",
+      "url": "https://kitsu.io/anime/913"
+    },
+    "mal": {
+      "id": "4803",
+      "url": "https://myanimelist.net/anime/4803"
+    }
+  }
+}

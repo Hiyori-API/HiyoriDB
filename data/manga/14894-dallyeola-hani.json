@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14894,
+  "slug": "dallyeola-hani",
+  "kind": "manga",
+  "title": "Dallyeola Hani",
+  "titles": {
+    "default": "Dallyeola Hani"
+  },
+  "synonyms": [
+    "Run Hani",
+    "달려라 하니",
+    "Mai",
+    "Mai, The Psychic Girl",
+    "舞"
+  ],
+  "type": "manga",
+  "chapters": 30,
+  "volumes": 5,
+  "status": "finished",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b129703-oaJPXeatUJZM.png"
+  ],
+  "references": {
+    "al": {
+      "id": "17893",
+      "url": "https://anilist.co/anime/17092"
+    },
+    "al_manga": {
+      "id": "17893",
+      "url": "https://anilist.co/manga/17893"
+    }
+  }
+}

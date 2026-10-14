@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10005,
+  "slug": "yuru-yuri",
+  "kind": "anime",
+  "title": "Yuru Yuri,",
+  "titles": {
+    "default": "Yuru Yuri,",
+    "romaji": "Yuru Yuri,",
+    "native": "ゆるゆり、"
+  },
+  "synonyms": [
+    "Yuru Yuri,",
+    "ゆるゆり、",
+    "YuruYuri 10",
+    "Yuru Yuri Ten",
+    "Yuru Yuri 10th Anniversary Animation",
+    "YRYR 10th",
+    "ゆるゆり OVA (2019)",
+    "Onegai☆Teacher: Himitsu na Futari",
+    "おねがい☆ティーチャー ヒミツなふたり",
+    "Onegai Sensei",
+    "Please Teacher! OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx102090-unOFHc0pmYAr.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "102090",
+      "url": "https://anilist.co/anime/102090"
+    },
+    "k": {
+      "id": "406",
+      "url": "https://kitsu.io/anime/406"
+    },
+    "mal": {
+      "id": "37773",
+      "url": "https://myanimelist.net/anime/37773"
+    },
+    "tx": {
+      "id": "anime_yuruyuri",
+      "url": "https://twitter.com/anime_yuruyuri"
+    }
+  }
+}

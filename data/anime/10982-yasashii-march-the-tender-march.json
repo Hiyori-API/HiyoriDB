@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10982,
+  "slug": "yasashii-march-the-tender-march",
+  "kind": "anime",
+  "title": "Yasashii March: The Tender March",
+  "titles": {
+    "default": "Yasashii March: The Tender March",
+    "romaji": "Yasashii March: The Tender March",
+    "native": "やさしいマーチ-The Tender March-"
+  },
+  "synonyms": [
+    "Yasashii March: The Tender March",
+    "やさしいマーチ-The Tender March-",
+    "Just Awake"
+  ],
+  "type": "music",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17010-uRcXFemC10s5.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "17010",
+      "url": "https://anilist.co/anime/17010"
+    },
+    "k": {
+      "id": "8840",
+      "url": "https://kitsu.io/anime/8840"
+    },
+    "mal": {
+      "id": "17010",
+      "url": "https://myanimelist.net/anime/17010"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2248,
+  "slug": "robin-hood-no-daibouken",
+  "kind": "anime",
+  "title": "Robin Hood no Daibouken",
+  "titles": {
+    "default": "Robin Hood no Daibouken",
+    "romaji": "Robin Hood no Daibouken",
+    "english": "The Great Adventures of Robin Hood",
+    "native": "ロビンフッドの大冒険"
+  },
+  "synonyms": [
+    "Robin Hood no Daibouken",
+    "The Great Adventures of Robin Hood",
+    "ロビンフッドの大冒険",
+    "Les Aventures de Robin des Bois"
+  ],
+  "type": "tv",
+  "episodes": 52,
+  "status": "finished",
+  "season": "summer",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2543-60SVluvBkiC8.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2543",
+      "url": "https://anilist.co/anime/2543"
+    },
+    "k": {
+      "id": "2308",
+      "url": "https://kitsu.io/anime/2308"
+    },
+    "mal": {
+      "id": "2543",
+      "url": "https://myanimelist.net/anime/2543"
+    },
+    "t": {
+      "id": "37420",
+      "url": "https://trakt.tv/shows/37420"
+    }
+  }
+}

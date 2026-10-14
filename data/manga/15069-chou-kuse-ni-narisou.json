@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15069,
+  "slug": "chou-kuse-ni-narisou",
+  "kind": "manga",
+  "title": "Chou: Kuse ni Narisou",
+  "titles": {
+    "default": "Chou: Kuse ni Narisou"
+  },
+  "synonyms": [
+    "Super! I'll Make A Habit Of It",
+    "超　くせになりそう",
+    "Dismember",
+    "Kaitai",
+    "解体"
+  ],
+  "type": "manga",
+  "chapters": 20,
+  "volumes": 4,
+  "status": "finished",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx57819-ZUCCvIgLzEVX.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2771",
+      "url": "https://anilist.co/anime/2771"
+    },
+    "al_manga": {
+      "id": "2771",
+      "url": "https://anilist.co/manga/2771"
+    }
+  }
+}

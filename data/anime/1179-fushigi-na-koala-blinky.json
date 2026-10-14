@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1179,
+  "slug": "fushigi-na-koala-blinky",
+  "kind": "anime",
+  "title": "Fushigi na Koala Blinky",
+  "titles": {
+    "default": "Fushigi na Koala Blinky",
+    "romaji": "Fushigi na Koala Blinky",
+    "english": "Noozles",
+    "native": "ふしぎなコアラ ブリンキー"
+  },
+  "synonyms": [
+    "Fushigi na Koala Blinky",
+    "Noozles",
+    "ふしぎなコアラ ブリンキー",
+    "Brinky and Printy",
+    "Blinky the Wonderful Koala"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "summer",
+  "year": 1984,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1333.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1333",
+      "url": "https://anilist.co/anime/1333"
+    },
+    "k": {
+      "id": "1189",
+      "url": "https://kitsu.io/anime/1189"
+    },
+    "mal": {
+      "id": "1333",
+      "url": "https://myanimelist.net/anime/1333"
+    }
+  }
+}

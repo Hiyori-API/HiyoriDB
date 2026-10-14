@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11594,
+  "slug": "kage-no-jitsuryokusha-ni-naritakute",
+  "kind": "anime",
+  "title": "Kage no Jitsuryokusha ni Naritakute!",
+  "titles": {
+    "default": "Kage no Jitsuryokusha ni Naritakute!",
+    "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+    "english": "The Eminence in Shadow",
+    "native": "陰の実力者になりたくて！"
+  },
+  "synonyms": [
+    "Kage no Jitsuryokusha ni Naritakute!",
+    "The Eminence in Shadow",
+    "陰の実力者になりたくて！",
+    "To Be a Power in the Shadows!",
+    "ชีวิตไม่ต้องเด่น ขอแค่เป็นเทพในเงา",
+    "Un giorno sarò l'eminenza grigia",
+    "TEIS",
+    "Кардинал теней",
+    "Shadow Garden"
+  ],
+  "type": "tv",
+  "episodes": 20,
+  "status": "finished",
+  "season": "fall",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130298-YMdcKHytpWNH.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "130298",
+      "url": "https://anilist.co/anime/130298"
+    },
+    "mal": {
+      "id": "48316",
+      "url": "https://myanimelist.net/anime/48316"
+    },
+    "nf": {
+      "id": "81642096",
+      "url": "https://www.netflix.com/title/81642096"
+    },
+    "tx": {
+      "id": "Shadowgarden_PR",
+      "url": "https://twitter.com/Shadowgarden_PR"
+    }
+  }
+}

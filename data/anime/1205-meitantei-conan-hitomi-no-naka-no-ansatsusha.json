@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1205,
+  "slug": "meitantei-conan-hitomi-no-naka-no-ansatsusha",
+  "kind": "anime",
+  "title": "Meitantei Conan: Hitomi no Naka no Ansatsusha",
+  "titles": {
+    "default": "Meitantei Conan: Hitomi no Naka no Ansatsusha",
+    "romaji": "Meitantei Conan: Hitomi no Naka no Ansatsusha",
+    "english": "Detective Conan: Captured in Her Eyes",
+    "native": "名探偵コナン　瞳の中の暗殺者"
+  },
+  "synonyms": [
+    "Meitantei Conan: Hitomi no Naka no Ansatsusha",
+    "Detective Conan: Captured in Her Eyes",
+    "名探偵コナン　瞳の中の暗殺者",
+    "Detective Conan Movie 04: Captured in Her Eyes",
+    "Meitantei Conan Movie 04: Hitomi no Naka no Ansatsusha",
+    "Detektiv Conan: Der Killer in ihren Augen",
+    "Detective Conan Movie 04: Solo nei suoi occhi",
+    "Détective Conan : Mémoire assassine",
+    "Case Closed: Captured In Her Eyes",
+    "Case Closed Movie 4: Captured In Her Eyes",
+    "瞳の中の暗殺者",
+    "Detective Conan Movie 4"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1363-KeaIofC3kYaZ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1363",
+      "url": "https://anilist.co/anime/1363"
+    },
+    "k": {
+      "id": "1217",
+      "url": "https://kitsu.io/anime/1217"
+    },
+    "mal": {
+      "id": "1363",
+      "url": "https://myanimelist.net/anime/1363"
+    }
+  }
+}

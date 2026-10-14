@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13588,
+  "slug": "mahou-no-shimai-luluttolilly-part-2",
+  "kind": "anime",
+  "title": "Mahou no Shimai LuluttoLilly Part 2",
+  "titles": {
+    "default": "Mahou no Shimai LuluttoLilly Part 2",
+    "romaji": "Mahou no Shimai LuluttoLilly Part 2",
+    "english": "Magical Sisters LuluttoLilly Part 2",
+    "native": "魔法の姉妹ルルットリリィ 第2クール"
+  },
+  "synonyms": [
+    "Mahou no Shimai LuluttoLilly Part 2",
+    "Magical Sisters LuluttoLilly Part 2",
+    "魔法の姉妹ルルットリリィ 第2クール",
+    "るるりり",
+    "MSLL",
+    "Sore Ike! Anpanman",
+    "それいけ!アンパンマン",
+    "Soreike! Anpanman",
+    "Go! Anpanman",
+    "Anpanman TV"
+  ],
+  "type": "tv",
+  "status": "airing",
+  "season": "fall",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209032-R0gP5IFdk7Vd.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "209032",
+      "url": "https://anilist.co/anime/209032"
+    },
+    "k": {
+      "id": "1766",
+      "url": "https://kitsu.io/anime/1766"
+    },
+    "mal": {
+      "id": "63667",
+      "url": "https://myanimelist.net/anime/63667"
+    },
+    "t": {
+      "id": "56034",
+      "url": "https://trakt.tv/shows/56034"
+    }
+  }
+}

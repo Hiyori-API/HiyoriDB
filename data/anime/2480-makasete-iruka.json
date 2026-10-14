@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2480,
+  "slug": "makasete-iruka",
+  "kind": "anime",
+  "title": "Makasete Iruka!",
+  "titles": {
+    "default": "Makasete Iruka!",
+    "romaji": "Makasete Iruka!",
+    "english": "Grrl Power",
+    "native": "まかせてイルか!"
+  },
+  "synonyms": [
+    "Makasete Iruka!",
+    "Grrl Power",
+    "まかせてイルか!",
+    "Grrl Power!",
+    "Kishin Houkou Demonbane",
+    "機神咆吼デモンベイン",
+    "Demonbane OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2791-Dw11FXgw2Hf4.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2791",
+      "url": "https://anilist.co/anime/2791"
+    },
+    "k": {
+      "id": "688",
+      "url": "https://kitsu.io/anime/688"
+    },
+    "mal": {
+      "id": "2791",
+      "url": "https://myanimelist.net/anime/2791"
+    }
+  }
+}

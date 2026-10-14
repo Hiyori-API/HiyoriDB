@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8878,
+  "slug": "gravity-daze-the-animation-ouverture",
+  "kind": "anime",
+  "title": "GRAVITY DAZE The Animation: Ouverture",
+  "titles": {
+    "default": "GRAVITY DAZE The Animation: Ouverture",
+    "romaji": "GRAVITY DAZE The Animation: Ouverture",
+    "english": "Gravity Rush: The Animation - Overture",
+    "native": "GRAVITY DAZE The Animation ~Ouverture~"
+  },
+  "synonyms": [
+    "GRAVITY DAZE The Animation: Ouverture",
+    "Gravity Rush: The Animation - Overture",
+    "GRAVITY DAZE The Animation ~Ouverture~",
+    "Trick or Alice",
+    "トリック・オア・アリス"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b98004-r3sMTUbeKoLl.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98004",
+      "url": "https://anilist.co/anime/98004"
+    },
+    "k": {
+      "id": "8100",
+      "url": "https://kitsu.io/anime/8100"
+    },
+    "mal": {
+      "id": "33697",
+      "url": "https://myanimelist.net/anime/33697"
+    }
+  }
+}

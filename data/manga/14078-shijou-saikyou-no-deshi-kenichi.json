@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14078,
+  "slug": "shijou-saikyou-no-deshi-kenichi",
+  "kind": "manga",
+  "title": "Shijou Saikyou no Deshi Kenichi",
+  "titles": {
+    "default": "Shijou Saikyou no Deshi Kenichi"
+  },
+  "synonyms": [
+    "History's Strongest Disciple Kenichi",
+    "Kenichi: The Mightiest Disciple",
+    "史上最強の弟子ケンイチ",
+    "Fujisan",
+    "富士山",
+    "Fuji-san"
+  ],
+  "type": "manga",
+  "chapters": 584,
+  "volumes": 61,
+  "status": "finished",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30988-JvtSyVVWqHUn.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101928",
+      "url": "https://anilist.co/anime/11813"
+    },
+    "al_manga": {
+      "id": "101928",
+      "url": "https://anilist.co/manga/101928"
+    }
+  }
+}

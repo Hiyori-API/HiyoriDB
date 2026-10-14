@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8247,
+  "slug": "namaiki-kissuisou-e-youkoso-the-animation",
+  "kind": "anime",
+  "title": "Namaiki: Kissuisou e Youkoso! - THE ANIMATION",
+  "titles": {
+    "default": "Namaiki: Kissuisou e Youkoso! - THE ANIMATION",
+    "romaji": "Namaiki: Kissuisou e Youkoso! - THE ANIMATION",
+    "native": "なまイキ ~生粋荘へようこそ!~ THE ANIMATION"
+  },
+  "synonyms": [
+    "Namaiki: Kissuisou e Youkoso! - THE ANIMATION",
+    "なまイキ ~生粋荘へようこそ!~ THE ANIMATION",
+    "Haiyore! Nyaruko-san F",
+    "這いよれ！ニャル子さんF"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21168-cFkOvepbgbdj.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21168",
+      "url": "https://anilist.co/anime/21168"
+    },
+    "k": {
+      "id": "8881",
+      "url": "https://kitsu.io/anime/8881"
+    },
+    "mal": {
+      "id": "29808",
+      "url": "https://myanimelist.net/anime/29808"
+    }
+  }
+}

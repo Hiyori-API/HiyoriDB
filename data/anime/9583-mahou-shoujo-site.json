@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9583,
+  "slug": "mahou-shoujo-site",
+  "kind": "anime",
+  "title": "Mahou Shoujo Site",
+  "titles": {
+    "default": "Mahou Shoujo Site",
+    "romaji": "Mahou Shoujo Site",
+    "english": "MAGICAL GIRL SITE",
+    "native": "魔法少女サイト"
+  },
+  "synonyms": [
+    "Mahou Shoujo Site",
+    "MAGICAL GIRL SITE",
+    "魔法少女サイト",
+    "Garota Mágica .Com",
+    "High Score Girl",
+    "ハイスコアガール",
+    "Hi Score Girl"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100010-FCSVBvRZ6Ifl.png"
+  ],
+  "references": {
+    "al": {
+      "id": "100010",
+      "url": "https://anilist.co/anime/100010"
+    },
+    "k": {
+      "id": "8158",
+      "url": "https://kitsu.io/anime/8158"
+    },
+    "mal": {
+      "id": "36266",
+      "url": "https://myanimelist.net/anime/36266"
+    },
+    "nf": {
+      "id": "80997338",
+      "url": "https://www.netflix.com/title/80997338"
+    },
+    "tx": {
+      "id": "MGSanime",
+      "url": "https://twitter.com/MGSanime"
+    }
+  }
+}

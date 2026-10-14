@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 925,
+  "slug": "kashou-no-tsuki-aki-kyougen",
+  "kind": "anime",
+  "title": "Kashou no Tsuki: Aki Kyougen",
+  "titles": {
+    "default": "Kashou no Tsuki: Aki Kyougen",
+    "romaji": "Kashou no Tsuki: Aki Kyougen",
+    "native": "火宵の月～秋狂言～"
+  },
+  "synonyms": [
+    "Kashou no Tsuki: Aki Kyougen",
+    "火宵の月～秋狂言～",
+    "Kasho no Tsuki",
+    "Hiyoi no Tsuki",
+    "Moon of The Fiery Night",
+    "火宵の月 ~秋狂言~",
+    "Kashou no Tsuki"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n1036-C4U80jVaq9u8.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1036",
+      "url": "https://anilist.co/anime/1036"
+    },
+    "k": {
+      "id": "926",
+      "url": "https://kitsu.io/anime/926"
+    },
+    "mal": {
+      "id": "1036",
+      "url": "https://myanimelist.net/anime/1036"
+    }
+  }
+}

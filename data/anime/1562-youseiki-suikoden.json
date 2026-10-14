@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1562,
+  "slug": "youseiki-suikoden",
+  "kind": "anime",
+  "title": "Youseiki Suikoden",
+  "titles": {
+    "default": "Youseiki Suikoden",
+    "romaji": "Youseiki Suikoden",
+    "english": "Suikoden Demon Century",
+    "native": "妖世紀水滸伝"
+  },
+  "synonyms": [
+    "Youseiki Suikoden",
+    "Suikoden Demon Century",
+    "妖世紀水滸伝",
+    "Suikoden - Demon Century: Le siècle de l'enfer",
+    "Art of Fighting",
+    "Battle Spirits: Ryuuko no Ken",
+    "バトルスピリッツ　龍虎の拳",
+    "Battle Spirits: Dragon Tiger Fist",
+    "Battle Spirits: Ryoko no Ken"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1766.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1766",
+      "url": "https://anilist.co/anime/1766"
+    },
+    "k": {
+      "id": "899",
+      "url": "https://kitsu.io/anime/899"
+    },
+    "mal": {
+      "id": "1766",
+      "url": "https://myanimelist.net/anime/1766"
+    }
+  }
+}

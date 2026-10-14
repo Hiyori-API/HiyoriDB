@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1089,
+  "slug": "seikimatsu-darling",
+  "kind": "anime",
+  "title": "Seikimatsu★Darling",
+  "titles": {
+    "default": "Seikimatsu★Darling",
+    "romaji": "Seikimatsu★Darling",
+    "native": "世紀末★ダーリン"
+  },
+  "synonyms": [
+    "Seikimatsu★Darling",
+    "世紀末★ダーリン",
+    "Seikimatsu Darling",
+    "End of Century - Darling"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1217.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1217",
+      "url": "https://anilist.co/anime/1217"
+    },
+    "k": {
+      "id": "1094",
+      "url": "https://kitsu.io/anime/1094"
+    },
+    "mal": {
+      "id": "1217",
+      "url": "https://myanimelist.net/anime/1217"
+    }
+  }
+}

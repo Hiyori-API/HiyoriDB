@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9484,
+  "slug": "lalala-lala-chan-uchuu-ni-muchuu",
+  "kind": "anime",
+  "title": "Lalala Lala-chan ★Uchuu ni Muchuu★",
+  "titles": {
+    "default": "Lalala Lala-chan ★Uchuu ni Muchuu★",
+    "romaji": "Lalala Lala-chan ★Uchuu ni Muchuu★",
+    "native": "ラララ ララちゃん ★ウチュ～にムチュ～★"
+  },
+  "synonyms": [
+    "Lalala Lala-chan ★Uchuu ni Muchuu★",
+    "ラララ ララちゃん ★ウチュ～にムチュ～★",
+    "Country of Jewels",
+    "Land of the Lustrous",
+    "宝石の国",
+    "Houseki no Kuni"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189723-KWvkPtZDK3on.png"
+  ],
+  "references": {
+    "al": {
+      "id": "189723",
+      "url": "https://anilist.co/anime/189723"
+    },
+    "mal": {
+      "id": "36486",
+      "url": "https://myanimelist.net/anime/36486"
+    }
+  }
+}

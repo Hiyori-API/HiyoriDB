@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4246,
+  "slug": "eko-eko-azaraku",
+  "kind": "anime",
+  "title": "Eko Eko Azaraku",
+  "titles": {
+    "default": "Eko Eko Azaraku",
+    "romaji": "Eko Eko Azaraku",
+    "native": "エコエコアザラク"
+  },
+  "synonyms": [
+    "Eko Eko Azaraku",
+    "エコエコアザラク",
+    "Eko Eko Azarak"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6267-0Tk4rfEJv3UW.png"
+  ],
+  "references": {
+    "al": {
+      "id": "6267",
+      "url": "https://anilist.co/anime/6267"
+    },
+    "k": {
+      "id": "4496",
+      "url": "https://kitsu.io/anime/4496"
+    },
+    "mal": {
+      "id": "6267",
+      "url": "https://myanimelist.net/anime/6267"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10803,
+  "slug": "attack-no-1-namida-no-sekai-senshuken",
+  "kind": "anime",
+  "title": "Attack No.1: Namida no Sekai Senshuken",
+  "titles": {
+    "default": "Attack No.1: Namida no Sekai Senshuken",
+    "romaji": "Attack No.1: Namida no Sekai Senshuken",
+    "native": "アタックNo.1 涙の世界選手権"
+  },
+  "synonyms": [
+    "Attack No.1: Namida no Sekai Senshuken",
+    "アタックNo.1 涙の世界選手権",
+    "Attack No.1 Movie 3"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1970,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9166.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9166",
+      "url": "https://anilist.co/anime/9166"
+    },
+    "k": {
+      "id": "5620",
+      "url": "https://kitsu.io/anime/5620"
+    },
+    "mal": {
+      "id": "9166",
+      "url": "https://myanimelist.net/anime/9166"
+    }
+  }
+}

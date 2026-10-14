@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6985,
+  "slug": "tabisuru-nuigurumi-traveling-daru",
+  "kind": "anime",
+  "title": "Tabisuru Nuigurumi: Traveling Daru",
+  "titles": {
+    "default": "Tabisuru Nuigurumi: Traveling Daru",
+    "romaji": "Tabisuru Nuigurumi: Traveling Daru",
+    "english": "Traveling Daru",
+    "native": "旅するぬいぐるみ ~Traveling Daru~"
+  },
+  "synonyms": [
+    "Tabisuru Nuigurumi: Traveling Daru",
+    "Traveling Daru",
+    "旅するぬいぐるみ ~Traveling Daru~"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15077.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "15077",
+      "url": "https://anilist.co/anime/15077"
+    },
+    "cr": {
+      "id": "traveling-daru",
+      "url": "https://www.crunchyroll.com/series/traveling-daru"
+    },
+    "k": {
+      "id": "7208",
+      "url": "https://kitsu.io/anime/7208"
+    },
+    "mal": {
+      "id": "15077",
+      "url": "https://myanimelist.net/anime/15077"
+    }
+  }
+}

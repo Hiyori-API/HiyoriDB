@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 243,
+  "slug": "hellsing",
+  "kind": "anime",
+  "title": "HELLSING",
+  "titles": {
+    "default": "HELLSING",
+    "romaji": "HELLSING",
+    "english": "Hellsing"
+  },
+  "synonyms": [
+    "HELLSING",
+    "Hellsing",
+    "ヘルシング",
+    "Хеллсинг",
+    "Hellsing [ヘルシング]"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b270-S2ProngvO6BU.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "270",
+      "url": "https://anilist.co/anime/270"
+    },
+    "cr": {
+      "id": "hellsing",
+      "url": "https://www.crunchyroll.com/series/hellsing"
+    },
+    "k": {
+      "id": "245",
+      "url": "https://kitsu.io/anime/245"
+    },
+    "mal": {
+      "id": "270",
+      "url": "https://myanimelist.net/anime/270"
+    },
+    "t": {
+      "id": "16759",
+      "url": "https://trakt.tv/shows/16759"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1824,
+  "slug": "gall-force-3-stardust-war",
+  "kind": "anime",
+  "title": "Gall Force 3: Stardust War",
+  "titles": {
+    "default": "Gall Force 3: Stardust War",
+    "romaji": "Gall Force 3: Stardust War",
+    "native": "ガルフォース3"
+  },
+  "synonyms": [
+    "Gall Force 3: Stardust War",
+    "ガルフォース3",
+    "ガルフォース3 スターダスト・ウォー"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2062-XIYZa1c9Gb5k.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2062",
+      "url": "https://anilist.co/anime/2062"
+    },
+    "k": {
+      "id": "1861",
+      "url": "https://kitsu.io/anime/1861"
+    },
+    "mal": {
+      "id": "2062",
+      "url": "https://myanimelist.net/anime/2062"
+    }
+  }
+}

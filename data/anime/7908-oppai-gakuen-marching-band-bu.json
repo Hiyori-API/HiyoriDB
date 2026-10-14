@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7908,
+  "slug": "oppai-gakuen-marching-band-bu",
+  "kind": "anime",
+  "title": "Oppai Gakuen Marching Band-bu!",
+  "titles": {
+    "default": "Oppai Gakuen Marching Band-bu!",
+    "romaji": "Oppai Gakuen Marching Band-bu!",
+    "native": "おっぱい学園マーチングバンド部!"
+  },
+  "synonyms": [
+    "Oppai Gakuen Marching Band-bu!",
+    "おっぱい学園マーチングバンド部!",
+    "Boobs Academy Marching Band Club",
+    "Kanojo ga Flag wo Oraretara: Christmas? Sonna Mono ga Boku ni Tsuuyou Suru to Omou no ka?",
+    "彼女がフラグをおられたら クリスマス? そんな物が僕に通用すると思うのか?",
+    "Kanojo ga Flag wo Oraretara OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21539-0cDRwfe7VUiT.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21539",
+      "url": "https://anilist.co/anime/21539"
+    },
+    "k": {
+      "id": "8705",
+      "url": "https://kitsu.io/anime/8705"
+    },
+    "mal": {
+      "id": "25923",
+      "url": "https://myanimelist.net/anime/25923"
+    }
+  }
+}

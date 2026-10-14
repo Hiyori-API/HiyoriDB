@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10122,
+  "slug": "seikatsu-shuukan-the-animation",
+  "kind": "anime",
+  "title": "Seikatsu Shuukan THE ANIMATION",
+  "titles": {
+    "default": "Seikatsu Shuukan THE ANIMATION",
+    "romaji": "Seikatsu Shuukan THE ANIMATION",
+    "native": "性活週間 THE ANIMATION"
+  },
+  "synonyms": [
+    "Seikatsu Shuukan THE ANIMATION",
+    "性活週間 THE ANIMATION",
+    "Ero Manga Sensei: Imouto to Akazu no Ma OVA",
+    "Eromanga Sensei OVA",
+    "エロマンガ先生 OVA",
+    "Eromanga-sensei OVA"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx106578-5HKQ8cE6NliE.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "106578",
+      "url": "https://anilist.co/anime/106578"
+    },
+    "mal": {
+      "id": "38866",
+      "url": "https://myanimelist.net/anime/38866"
+    }
+  }
+}

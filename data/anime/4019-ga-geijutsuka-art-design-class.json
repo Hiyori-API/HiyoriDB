@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4019,
+  "slug": "ga-geijutsuka-art-design-class",
+  "kind": "anime",
+  "title": "GA: Geijutsuka Art Design Class",
+  "titles": {
+    "default": "GA: Geijutsuka Art Design Class",
+    "romaji": "GA: Geijutsuka Art Design Class",
+    "english": "GA Geijutsuka Art Design Class",
+    "native": "GA 芸術科アートデザインクラス"
+  },
+  "synonyms": [
+    "GA: Geijutsuka Art Design Class",
+    "GA Geijutsuka Art Design Class",
+    "GA 芸術科アートデザインクラス",
+    "GA: ADC",
+    "GA Art Design Class",
+    "ก๊วนป่วนโรงเรียนศิลป์"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5670-hv1JNT30N45a.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5670",
+      "url": "https://anilist.co/anime/5670"
+    },
+    "cr": {
+      "id": "ga-geijutsuka-art-design-class",
+      "url": "https://www.crunchyroll.com/series/ga-geijutsuka-art-design-class"
+    },
+    "k": {
+      "id": "4234",
+      "url": "https://kitsu.io/anime/4234"
+    },
+    "mal": {
+      "id": "5670",
+      "url": "https://myanimelist.net/anime/5670"
+    },
+    "t": {
+      "id": "37394",
+      "url": "https://trakt.tv/shows/37394"
+    }
+  }
+}

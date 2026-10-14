@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2921,
+  "slug": "miimu-iro-iro-yume-no-tabi",
+  "kind": "anime",
+  "title": "Miimu Iro Iro Yume no Tabi",
+  "titles": {
+    "default": "Miimu Iro Iro Yume no Tabi",
+    "romaji": "Miimu Iro Iro Yume no Tabi",
+    "english": "The Many Dream Journeys of Meme",
+    "native": "ミームいろいろ夢の旅"
+  },
+  "synonyms": [
+    "Miimu Iro Iro Yume no Tabi",
+    "The Many Dream Journeys of Meme",
+    "ミームいろいろ夢の旅",
+    "The Traveller of Many Dreams",
+    "Mimu",
+    "Ordy ou les Grandes Découvertes",
+    "Meme Iroiro Yume no Tabi",
+    "Discoveries Unlimited"
+  ],
+  "type": "tv",
+  "episodes": 127,
+  "status": "finished",
+  "season": "spring",
+  "year": 1983,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3436.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3436",
+      "url": "https://anilist.co/anime/3436"
+    },
+    "k": {
+      "id": "3009",
+      "url": "https://kitsu.io/anime/3009"
+    },
+    "mal": {
+      "id": "3436",
+      "url": "https://myanimelist.net/anime/3436"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5540,
+  "slug": "sore-ike-anpanman-gomira-no-hoshi",
+  "kind": "anime",
+  "title": "Sore Ike! Anpanman: Gomira no Hoshi",
+  "titles": {
+    "default": "Sore Ike! Anpanman: Gomira no Hoshi",
+    "romaji": "Sore Ike! Anpanman: Gomira no Hoshi",
+    "native": "それいけ!アンパンマン ゴミラの星"
+  },
+  "synonyms": [
+    "Sore Ike! Anpanman: Gomira no Hoshi",
+    "それいけ!アンパンマン ゴミラの星"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b121837-dSi7JljzcneD.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "121837",
+      "url": "https://anilist.co/anime/121837"
+    },
+    "k": {
+      "id": "9611",
+      "url": "https://kitsu.io/anime/9611"
+    },
+    "mal": {
+      "id": "21947",
+      "url": "https://myanimelist.net/anime/21947"
+    }
+  }
+}

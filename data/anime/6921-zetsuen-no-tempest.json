@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6921,
+  "slug": "zetsuen-no-tempest",
+  "kind": "anime",
+  "title": "Zetsuen no Tempest",
+  "titles": {
+    "default": "Zetsuen no Tempest",
+    "romaji": "Zetsuen no Tempest",
+    "english": "Blast of Tempest",
+    "native": "絶園のテンペスト"
+  },
+  "synonyms": [
+    "Zetsuen no Tempest",
+    "Blast of Tempest",
+    "絶園のテンペスト",
+    "Zetsuen no Tempest: The Civilization Blaster",
+    "絶園のテンペスト ~THE CIVILIZATION BLASTER~",
+    "Penghancuran Peradaban",
+    "Muv-Luv Alternative: Total Eclipse",
+    "マブラヴ オルタネイティヴ トータル・イクリプス",
+    "MuvLuv Alternative Total Eclipse",
+    "MLA TE"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "fall",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14075-EIJcGXq5hd9O.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "14075",
+      "url": "https://anilist.co/anime/14075"
+    },
+    "cr": {
+      "id": "blast-of-tempest",
+      "url": "https://www.crunchyroll.com/series/blast-of-tempest"
+    },
+    "k": {
+      "id": "6442",
+      "url": "https://kitsu.io/anime/6442"
+    },
+    "mal": {
+      "id": "14075",
+      "url": "https://myanimelist.net/anime/14075"
+    },
+    "t": {
+      "id": "66989",
+      "url": "https://trakt.tv/shows/66989"
+    }
+  }
+}

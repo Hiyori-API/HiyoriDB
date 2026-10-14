@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11332,
+  "slug": "ore-tsushima",
+  "kind": "anime",
+  "title": "Ore, Tsushima",
+  "titles": {
+    "default": "Ore, Tsushima",
+    "romaji": "Ore, Tsushima",
+    "english": "I, Tsushima",
+    "native": "俺、つしま"
+  },
+  "synonyms": [
+    "Ore, Tsushima",
+    "I, Tsushima",
+    "俺、つしま",
+    "I'm Tsushima the Cat",
+    "เรียกข้าว่าสึชิมะ",
+    "DearS",
+    "ディアーズ"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130392-4Wpdaq4W5XMB.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "130392",
+      "url": "https://anilist.co/anime/130392"
+    },
+    "cr": {
+      "id": "series/GRZXD528Y/dears",
+      "url": "https://www.crunchyroll.com/series/series/GRZXD528Y/dears"
+    },
+    "k": {
+      "id": "44",
+      "url": "https://kitsu.io/anime/44"
+    },
+    "mal": {
+      "id": "48252",
+      "url": "https://myanimelist.net/anime/48252"
+    },
+    "t": {
+      "id": "61051",
+      "url": "https://trakt.tv/shows/61051"
+    },
+    "tx": {
+      "id": "tsushima_anime",
+      "url": "https://twitter.com/tsushima_anime"
+    }
+  }
+}

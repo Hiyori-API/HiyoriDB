@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14471,
+  "slug": "vampire-hunter-d",
+  "kind": "manga",
+  "title": "Vampire Hunter D",
+  "titles": {
+    "default": "Vampire Hunter D"
+  },
+  "synonyms": [
+    "Hideyuki Kikuchi's Vampire Hunter D",
+    "Vampire Hunter D",
+    "バンパイアハンターD",
+    "Gekiryuuchi",
+    "激流血～OVER BLEED～",
+    "Over Bleed"
+  ],
+  "type": "manga",
+  "chapters": 8,
+  "volumes": 8,
+  "status": "finished",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3988.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "732",
+      "url": "https://anilist.co/anime/732"
+    },
+    "al_manga": {
+      "id": "732",
+      "url": "https://anilist.co/manga/732"
+    }
+  }
+}

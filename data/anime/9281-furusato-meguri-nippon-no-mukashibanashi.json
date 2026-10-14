@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9281,
+  "slug": "furusato-meguri-nippon-no-mukashibanashi",
+  "kind": "anime",
+  "title": "Furusato Meguri Nippon no Mukashibanashi",
+  "titles": {
+    "default": "Furusato Meguri Nippon no Mukashibanashi",
+    "romaji": "Furusato Meguri Nippon no Mukashibanashi",
+    "native": "ふるさとめぐり 日本の昔ばなし"
+  },
+  "synonyms": [
+    "Furusato Meguri Nippon no Mukashibanashi",
+    "ふるさとめぐり 日本の昔ばなし",
+    "∀ Gundam",
+    "Turn A Gundam",
+    "∀ガンダム",
+    "Mobile Suit Gundam Turn A"
+  ],
+  "type": "tv",
+  "episodes": 50,
+  "status": "finished",
+  "season": "spring",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98751-4LROCk2XjbN2.png"
+  ],
+  "references": {
+    "al": {
+      "id": "98751",
+      "url": "https://anilist.co/anime/98751"
+    },
+    "cr": {
+      "id": "folktales-from-japan",
+      "url": "https://www.crunchyroll.com/series/folktales-from-japan"
+    },
+    "k": {
+      "id": "74",
+      "url": "https://kitsu.io/anime/74"
+    },
+    "mal": {
+      "id": "35303",
+      "url": "https://myanimelist.net/anime/35303"
+    },
+    "t": {
+      "id": "37388",
+      "url": "https://trakt.tv/shows/37388"
+    },
+    "tvt": {
+      "id": "mukashibanashi",
+      "url": "http://www.tv-tokyo.co.jp/anime/mukashibanashi"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14277,
+  "slug": "captain-tsubasa-road-to-2002",
+  "kind": "manga",
+  "title": "Captain Tsubasa ROAD TO 2002",
+  "titles": {
+    "default": "Captain Tsubasa ROAD TO 2002"
+  },
+  "synonyms": [
+    "キャプテン翼 ROAD TO 2002→ GO FOR 2006",
+    "Captain Tsubasa: Road to 2002 - Go for 2006",
+    "Zasetsu no Hate no Taiyo: Hyuga Kojiro Monogatari in Italy",
+    "キャプテン翼 ROAD TO 2002",
+    "Full Moon wo Sagashite",
+    "満月〈フルムーン〉をさがして",
+    "Searching for the Full Moon",
+    "Ginyuu Meika"
+  ],
+  "type": "manga",
+  "chapters": 149,
+  "volumes": 15,
+  "status": "finished",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx31791-yhxyOrs8mQlI.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1614",
+      "url": "https://anilist.co/anime/1614"
+    },
+    "al_manga": {
+      "id": "1614",
+      "url": "https://anilist.co/manga/1614"
+    }
+  }
+}

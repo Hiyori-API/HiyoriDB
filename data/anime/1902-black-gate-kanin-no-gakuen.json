@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1902,
+  "slug": "black-gate-kanin-no-gakuen",
+  "kind": "anime",
+  "title": "Black Gate: Kanin no Gakuen",
+  "titles": {
+    "default": "Black Gate: Kanin no Gakuen",
+    "romaji": "Black Gate: Kanin no Gakuen",
+    "native": "ブラックゲート 姦淫の学園"
+  },
+  "synonyms": [
+    "Black Gate: Kanin no Gakuen",
+    "ブラックゲート 姦淫の学園",
+    "Tokyo Daigaku Monogatari",
+    "東京大学物語",
+    "Tokyo University Story"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2145.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2145",
+      "url": "https://anilist.co/anime/2145"
+    },
+    "k": {
+      "id": "943",
+      "url": "https://kitsu.io/anime/943"
+    },
+    "mal": {
+      "id": "2145",
+      "url": "https://myanimelist.net/anime/2145"
+    }
+  }
+}

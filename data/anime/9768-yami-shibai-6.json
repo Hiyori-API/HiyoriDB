@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9768,
+  "slug": "yami-shibai-6",
+  "kind": "anime",
+  "title": "Yami Shibai 6",
+  "titles": {
+    "default": "Yami Shibai 6",
+    "romaji": "Yami Shibai 6",
+    "english": "Theatre of Darkness: Yamishibai 6",
+    "native": "闇芝居 6"
+  },
+  "synonyms": [
+    "Yami Shibai 6",
+    "Theatre of Darkness: Yamishibai 6",
+    "闇芝居 6",
+    "Yamishibai: Japanese Ghost Stories 6",
+    "เรื่องเล่าผีญี่ปุ่น ภาค 6",
+    "Overlord III",
+    "オーバーロードⅢ"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101743-Kea2WPoNUNSu.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101743",
+      "url": "https://anilist.co/anime/101743"
+    },
+    "cr": {
+      "id": "theatre-of-darkness-yamishibai",
+      "url": "https://www.crunchyroll.com/series/theatre-of-darkness-yamishibai"
+    },
+    "mal": {
+      "id": "37893",
+      "url": "https://myanimelist.net/anime/37893"
+    },
+    "tvt": {
+      "id": "yamishibai6",
+      "url": "http://www.tv-tokyo.co.jp/anime/yamishibai6"
+    }
+  }
+}

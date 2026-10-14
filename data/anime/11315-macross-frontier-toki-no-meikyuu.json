@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11315,
+  "slug": "macross-frontier-toki-no-meikyuu",
+  "kind": "anime",
+  "title": "Macross Frontier: Toki no Meikyuu",
+  "titles": {
+    "default": "Macross Frontier: Toki no Meikyuu",
+    "romaji": "Macross Frontier: Toki no Meikyuu",
+    "english": "Macross Frontier: Labyrinth of Time",
+    "native": "劇場短編マクロスF ～時の迷宮～"
+  },
+  "synonyms": [
+    "Macross Frontier: Toki no Meikyuu",
+    "Macross Frontier: Labyrinth of Time",
+    "劇場短編マクロスF ～時の迷宮～",
+    "Gekijou Tanpen Macross F: Toki no Meikyuu",
+    "Macross F",
+    "劇場短編マクロスfrontier~時の迷宮~",
+    "Gekijou Tanpen Macross Frontier: Toki no Meikyuu"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129549-sWCeTfeFW144.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "129549",
+      "url": "https://anilist.co/anime/129549"
+    },
+    "mal": {
+      "id": "47409",
+      "url": "https://myanimelist.net/anime/47409"
+    }
+  }
+}

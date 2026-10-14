@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8993,
+  "slug": "fairy-tail-dragon-cry",
+  "kind": "anime",
+  "title": "FAIRY TAIL: DRAGON CRY",
+  "titles": {
+    "default": "FAIRY TAIL: DRAGON CRY",
+    "romaji": "FAIRY TAIL: DRAGON CRY",
+    "english": "Fairy Tail: Dragon Cry",
+    "native": "劇場版 FAIRY TAIL -DRAGON CRY-"
+  },
+  "synonyms": [
+    "FAIRY TAIL: DRAGON CRY",
+    "Fairy Tail: Dragon Cry",
+    "劇場版 FAIRY TAIL -DRAGON CRY-",
+    "Fairy Tail Movie 2: Dragon Cry",
+    "Fairy Tail the Movie: Dragon Cry",
+    "Gekijouban Fairy Tail: Dragon Cry",
+    "Fairy Tail the Movie 2: Dragon Cry",
+    "劇場版 FAIRY TAIL 『DRAGON CRY』"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21191-btDjdLVHzVQp.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21191",
+      "url": "https://anilist.co/anime/21191"
+    },
+    "cr": {
+      "id": "fairy-tail-movies",
+      "url": "https://www.crunchyroll.com/series/fairy-tail-movies"
+    },
+    "mal": {
+      "id": "30778",
+      "url": "https://myanimelist.net/anime/30778"
+    },
+    "tx": {
+      "id": "FAIRYTAIL_DC",
+      "url": "https://twitter.com/FAIRYTAIL_DC"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8938,
+  "slug": "cheer-danshi-ova",
+  "kind": "anime",
+  "title": "Cheer Danshi!! OVA",
+  "titles": {
+    "default": "Cheer Danshi!! OVA",
+    "romaji": "Cheer Danshi!! OVA",
+    "native": "チア男子!! OVA"
+  },
+  "synonyms": [
+    "Cheer Danshi!! OVA",
+    "チア男子!! OVA",
+    "MonMusu OVA",
+    "Monster Musume: Everyday Life with Monster Girls OVA",
+    "モンスター娘のいる日常 OVA",
+    "Monster Musume no Iru Nichijou OVA"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx107175-8V3MZXwvFTzT.png"
+  ],
+  "references": {
+    "al": {
+      "id": "107175",
+      "url": "https://anilist.co/anime/107175"
+    },
+    "mal": {
+      "id": "34548",
+      "url": "https://myanimelist.net/anime/34548"
+    }
+  }
+}

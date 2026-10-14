@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12821,
+  "slug": "prima-rabbit",
+  "kind": "anime",
+  "title": "Prima Rabbit",
+  "titles": {
+    "default": "Prima Rabbit",
+    "romaji": "Prima Rabbit",
+    "native": "プリマ・らびっと"
+  },
+  "synonyms": [
+    "Prima Rabbit",
+    "プリマ・らびっと",
+    "Our Jury Story",
+    "Bokura no Saibanin Monogatari",
+    "ぼくらの裁判員物語"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2024,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b183795-DVEafAYZQCUL.png"
+  ],
+  "references": {
+    "al": {
+      "id": "183795",
+      "url": "https://anilist.co/anime/183795"
+    },
+    "k": {
+      "id": "4614",
+      "url": "https://kitsu.io/anime/4614"
+    },
+    "mal": {
+      "id": "58758",
+      "url": "https://myanimelist.net/anime/58758"
+    },
+    "yt": {
+      "id": "PkiydEPaiX0",
+      "url": "https://www.youtube.com/watch?v=PkiydEPaiX0"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7499,
+  "slug": "girls-und-panzer-heartful-tank-disc-fushou-akiyama-yukari-no-sensha-kouza",
+  "kind": "anime",
+  "title": "Girls und Panzer Heartful Tank Disc: Fushou Akiyama Yukari no Sensha Kouza",
+  "titles": {
+    "default": "Girls und Panzer Heartful Tank Disc: Fushou Akiyama Yukari no Sensha Kouza",
+    "romaji": "Girls und Panzer Heartful Tank Disc: Fushou Akiyama Yukari no Sensha Kouza",
+    "native": "ガールズ＆パンツァー　ハートフル タンク ディスク: 不肖 秋山優花里の戦車道講座"
+  },
+  "synonyms": [
+    "Girls und Panzer Heartful Tank Disc: Fushou Akiyama Yukari no Sensha Kouza",
+    "ガールズ＆パンツァー　ハートフル タンク ディスク: 不肖 秋山優花里の戦車道講座",
+    "Gargantia on the Verdurous Planet: Specials",
+    "Suisei no Gargantia Specials",
+    "翠星のガルガンティア 完全新作",
+    "Suisei no Gargantia Episode 14",
+    "Suisei no Gargantia Episode 15"
+  ],
+  "type": "special",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b154147-5f3XREOe2xh4.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "154147",
+      "url": "https://anilist.co/anime/154147"
+    },
+    "cr": {
+      "id": "gargantia-on-the-verdurous-planet",
+      "url": "https://www.crunchyroll.com/series/gargantia-on-the-verdurous-planet"
+    },
+    "k": {
+      "id": "7872",
+      "url": "https://kitsu.io/anime/7872"
+    },
+    "mal": {
+      "id": "29853",
+      "url": "https://myanimelist.net/anime/29853"
+    }
+  }
+}

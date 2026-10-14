@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4102,
+  "slug": "utsunomiko-tenjou-hen",
+  "kind": "anime",
+  "title": "Utsunomiko: Tenjou-hen",
+  "titles": {
+    "default": "Utsunomiko: Tenjou-hen",
+    "romaji": "Utsunomiko: Tenjou-hen",
+    "native": "宇宙皇子 天上篇"
+  },
+  "synonyms": [
+    "Utsunomiko: Tenjou-hen",
+    "宇宙皇子 天上篇",
+    "Utsunomiko OAV",
+    "Utsu no Miko 2",
+    "Utsunomiko: Heaven Chapter"
+  ],
+  "type": "ova",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5923.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5923",
+      "url": "https://anilist.co/anime/5923"
+    },
+    "k": {
+      "id": "4340",
+      "url": "https://kitsu.io/anime/4340"
+    },
+    "mal": {
+      "id": "5923",
+      "url": "https://myanimelist.net/anime/5923"
+    }
+  }
+}

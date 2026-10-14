@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4309,
+  "slug": "saiyuki-reload-urasai",
+  "kind": "anime",
+  "title": "Saiyuki RELOAD Urasai",
+  "titles": {
+    "default": "Saiyuki RELOAD Urasai",
+    "romaji": "Saiyuki RELOAD Urasai",
+    "native": "最遊記RELOAD うら最"
+  },
+  "synonyms": [
+    "Saiyuki RELOAD Urasai",
+    "最遊記RELOAD うら最",
+    "Saiyuki Urasai",
+    "Saiyuki Reload Urasai"
+  ],
+  "type": "special",
+  "episodes": 24,
+  "status": "finished",
+  "season": "winter",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6434.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6434",
+      "url": "https://anilist.co/anime/6434"
+    },
+    "k": {
+      "id": "4560",
+      "url": "https://kitsu.io/anime/4560"
+    },
+    "mal": {
+      "id": "6434",
+      "url": "https://myanimelist.net/anime/6434"
+    }
+  }
+}

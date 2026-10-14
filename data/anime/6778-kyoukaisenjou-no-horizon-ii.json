@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6778,
+  "slug": "kyoukaisenjou-no-horizon-ii",
+  "kind": "anime",
+  "title": "Kyoukaisenjou no Horizon II",
+  "titles": {
+    "default": "Kyoukaisenjou no Horizon II",
+    "romaji": "Kyoukaisenjou no Horizon II",
+    "english": "Horizon in the Middle of Nowhere II",
+    "native": "境界線上のホライゾンII"
+  },
+  "synonyms": [
+    "Kyoukaisenjou no Horizon II",
+    "Horizon in the Middle of Nowhere II",
+    "境界線上のホライゾンII",
+    "Horizon on the Middle of Nowhere II",
+    "Kyoukai Senjou no Horizon 2"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12487-oCAnVYvqngdj.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12487",
+      "url": "https://anilist.co/anime/12487"
+    },
+    "k": {
+      "id": "6746",
+      "url": "https://kitsu.io/anime/6746"
+    },
+    "mal": {
+      "id": "12487",
+      "url": "https://myanimelist.net/anime/12487"
+    },
+    "t": {
+      "id": "64429",
+      "url": "https://trakt.tv/shows/64429"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13879,
+  "slug": "initial-d",
+  "kind": "manga",
+  "title": "Initial D",
+  "titles": {
+    "default": "Initial D"
+  },
+  "synonyms": [
+    "INITIAL D ถนนสายนี้ข้าจอง",
+    "Initial D",
+    "頭文字D",
+    "Kashiramoji D"
+  ],
+  "type": "manga",
+  "chapters": 725,
+  "volumes": 48,
+  "status": "finished",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx30375-YFIIOwp5kSqW.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "821",
+      "url": "https://anilist.co/anime/185"
+    },
+    "al_manga": {
+      "id": "821",
+      "url": "https://anilist.co/manga/821"
+    }
+  }
+}

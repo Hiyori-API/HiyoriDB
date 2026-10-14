@@ -1,0 +1,60 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12543,
+  "slug": "wind-breaker",
+  "kind": "anime",
+  "title": "WIND BREAKER",
+  "titles": {
+    "default": "WIND BREAKER",
+    "romaji": "WIND BREAKER"
+  },
+  "synonyms": [
+    "WIND BREAKER",
+    "WB",
+    "ウィンブレ",
+    "WBK",
+    "ウィンドブレイカー",
+    "Prétear: The New Legend of Snow White",
+    "Shin Shirayuki-hime Densetsu Prétear",
+    "新白雪姫伝説プリーティア",
+    "Shin Shirayuki-hime Densetsu Pretear"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2024,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163270-wboZJp0ybwVK.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "163270",
+      "url": "https://anilist.co/anime/163270"
+    },
+    "cr": {
+      "id": "series/G3KHEVDPE/wind-breaker",
+      "url": "https://www.crunchyroll.com/series/series/G3KHEVDPE/wind-breaker"
+    },
+    "k": {
+      "id": "79",
+      "url": "https://kitsu.io/anime/79"
+    },
+    "mal": {
+      "id": "54900",
+      "url": "https://myanimelist.net/anime/54900"
+    },
+    "nf": {
+      "id": "81771389",
+      "url": "https://www.netflix.com/title/81771389"
+    },
+    "t": {
+      "id": "42703",
+      "url": "https://trakt.tv/shows/42703"
+    },
+    "tx": {
+      "id": "winbre_sakura",
+      "url": "https://twitter.com/winbre_sakura"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5216,
+  "slug": "dragon-ball-z-kyokugen-battle-sandai-super-saiyajin-special",
+  "kind": "anime",
+  "title": "Dragon Ball Z: Kyokugen Battle!! Sandai Super Saiyajin Special",
+  "titles": {
+    "default": "Dragon Ball Z: Kyokugen Battle!! Sandai Super Saiyajin Special",
+    "romaji": "Dragon Ball Z: Kyokugen Battle!! Sandai Super Saiyajin Special",
+    "native": "ドラゴンボールＺ　極限バトル！！三大超サイヤ人　スペシャル"
+  },
+  "synonyms": [
+    "Dragon Ball Z: Kyokugen Battle!! Sandai Super Saiyajin Special",
+    "ドラゴンボールＺ　極限バトル！！三大超サイヤ人　スペシャル",
+    "Dragon Ball Z: Extreme Battle!! The Three Great Super Saiyans – Special",
+    "Dragon Ball Z: Summer Vacation Special",
+    "Dragon Ball Z: Movie Overview Special",
+    "Драконий жемчуг Зет: Летний спецвыпуск",
+    "Lupin the Third: Bank of Liberty",
+    "Lupin III: Russia yori Ai wo Komete",
+    "Lupin III: Bank of Liberty",
+    "ルパン三世『ロシアより愛をこめて』",
+    "Lupin Sansei: Russia Yori Ai o Komete",
+    "Lupin III: From Russia With Love"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx138864-46d7SxpKqiGe.png"
+  ],
+  "references": {
+    "al": {
+      "id": "138864",
+      "url": "https://anilist.co/anime/138864"
+    },
+    "k": {
+      "id": "1273",
+      "url": "https://kitsu.io/anime/1273"
+    },
+    "mal": {
+      "id": "22695",
+      "url": "https://myanimelist.net/anime/22695"
+    }
+  }
+}

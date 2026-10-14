@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13061,
+  "slug": "kaijuu-sekai-seifuku",
+  "kind": "anime",
+  "title": "Kaijuu Sekai Seifuku",
+  "titles": {
+    "default": "Kaijuu Sekai Seifuku",
+    "romaji": "Kaijuu Sekai Seifuku",
+    "native": "かいじゅうせかいせいふく"
+  },
+  "synonyms": [
+    "Kaijuu Sekai Seifuku",
+    "かいじゅうせかいせいふく",
+    "Tiny Dragons Rule the World",
+    "∀ Gundam",
+    "Turn A Gundam",
+    "∀ガンダム",
+    "Mobile Suit Gundam Turn A"
+  ],
+  "type": "tv",
+  "episodes": 50,
+  "status": "finished",
+  "season": "spring",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184289-v85FJN0O4S1j.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "184289",
+      "url": "https://anilist.co/anime/184289"
+    },
+    "k": {
+      "id": "74",
+      "url": "https://kitsu.io/anime/74"
+    },
+    "mal": {
+      "id": "60070",
+      "url": "https://myanimelist.net/anime/60070"
+    },
+    "t": {
+      "id": "37388",
+      "url": "https://trakt.tv/shows/37388"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12011,
+  "slug": "goblin-slayer-ii",
+  "kind": "anime",
+  "title": "Goblin Slayer II",
+  "titles": {
+    "default": "Goblin Slayer II",
+    "romaji": "Goblin Slayer II",
+    "english": "GOBLIN SLAYER II",
+    "native": "ゴブリンスレイヤーⅡ"
+  },
+  "synonyms": [
+    "Goblin Slayer II",
+    "GOBLIN SLAYER II",
+    "ゴブリンスレイヤーⅡ",
+    "ก็อบลิน สเลเยอร์ ภาค 2",
+    "Rozen Maiden",
+    "ローゼンメイデン"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2023,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129188-zWPBGutZXgjZ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "129188",
+      "url": "https://anilist.co/anime/129188"
+    },
+    "cr": {
+      "id": "series/G6VDMN306/goblin-slayer",
+      "url": "https://www.crunchyroll.com/series/series/G6VDMN306/goblin-slayer"
+    },
+    "k": {
+      "id": "45",
+      "url": "https://kitsu.io/anime/45"
+    },
+    "mal": {
+      "id": "47160",
+      "url": "https://myanimelist.net/anime/47160"
+    },
+    "t": {
+      "id": "61847",
+      "url": "https://trakt.tv/shows/61847"
+    },
+    "tx": {
+      "id": "GoblinSlayer_GA",
+      "url": "https://twitter.com/GoblinSlayer_GA"
+    }
+  }
+}

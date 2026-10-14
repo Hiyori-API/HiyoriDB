@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15169,
+  "slug": "battle-athletes-daiundoukai",
+  "kind": "manga",
+  "title": "Battle Athletes Daiundoukai",
+  "titles": {
+    "default": "Battle Athletes Daiundoukai"
+  },
+  "synonyms": [
+    "Battle Athletes Victory",
+    "バトルアスリーテス大運動会",
+    "Kamikaze Kaito Jeanne",
+    "Kamikaze Kaitou Jeanne",
+    "Phantom Thief Jeanne",
+    "神風怪盗ジャンヌ",
+    "Divine Wind Phantom Thief Jeanne"
+  ],
+  "type": "manga",
+  "chapters": 22,
+  "volumes": 4,
+  "status": "finished",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/41701.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1186",
+      "url": "https://anilist.co/anime/1185"
+    },
+    "al_manga": {
+      "id": "1186",
+      "url": "https://anilist.co/manga/1186"
+    }
+  }
+}

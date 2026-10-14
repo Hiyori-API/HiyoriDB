@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9243,
+  "slug": "zton-jingai-animation-a-beautiful-greed-nulu-nulu",
+  "kind": "anime",
+  "title": "Zton Jingai Animation: A Beautiful Greed Nulu Nulu",
+  "titles": {
+    "default": "Zton Jingai Animation: A Beautiful Greed Nulu Nulu",
+    "romaji": "Zton Jingai Animation: A Beautiful Greed Nulu Nulu",
+    "native": "Zトン人外アニメーション A Beautiful Greed Nulu Nulu"
+  },
+  "synonyms": [
+    "Zton Jingai Animation: A Beautiful Greed Nulu Nulu",
+    "Zトン人外アニメーション A Beautiful Greed Nulu Nulu",
+    "Z-ton Jingai Animation: A Beautiful Greed Nulu Nulu",
+    "New Game! OVA: My First Time on a Company Vacation...",
+    "New Game Episode 13",
+    "NEW GAME! 私、社員旅行って初めてなので…",
+    "New Game! Watashi, Shain Ryokou tte Hajimete nanode..."
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98528-Jd8RwFB9U67T.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98528",
+      "url": "https://anilist.co/anime/98528"
+    },
+    "mal": {
+      "id": "35592",
+      "url": "https://myanimelist.net/anime/35592"
+    }
+  }
+}

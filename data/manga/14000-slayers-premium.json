@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14000,
+  "slug": "slayers-premium",
+  "kind": "manga",
+  "title": "Slayers Premium",
+  "titles": {
+    "default": "Slayers Premium"
+  },
+  "synonyms": [
+    "Slayers Puremiamu",
+    "スレイヤーズぷれみあむ",
+    "Slayers Premium"
+  ],
+  "type": "manga",
+  "chapters": 5,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30717-2sn1K2AREmVC.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "866",
+      "url": "https://anilist.co/anime/866"
+    },
+    "al_manga": {
+      "id": "866",
+      "url": "https://anilist.co/manga/866"
+    }
+  }
+}

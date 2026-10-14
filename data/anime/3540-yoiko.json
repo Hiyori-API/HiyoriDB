@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3540,
+  "slug": "yoiko",
+  "kind": "anime",
+  "title": "Yoiko",
+  "titles": {
+    "default": "Yoiko",
+    "romaji": "Yoiko",
+    "native": "よいこ"
+  },
+  "synonyms": [
+    "Yoiko",
+    "よいこ"
+  ],
+  "type": "tv",
+  "episodes": 20,
+  "status": "finished",
+  "season": "fall",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4591.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4591",
+      "url": "https://anilist.co/anime/4591"
+    },
+    "k": {
+      "id": "3699",
+      "url": "https://kitsu.io/anime/3699"
+    },
+    "mal": {
+      "id": "4591",
+      "url": "https://myanimelist.net/anime/4591"
+    },
+    "t": {
+      "id": "34545",
+      "url": "https://trakt.tv/shows/34545"
+    }
+  }
+}

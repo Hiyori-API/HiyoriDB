@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8254,
+  "slug": "obake-no-dokurou",
+  "kind": "anime",
+  "title": "Obake no Dokurou",
+  "titles": {
+    "default": "Obake no Dokurou",
+    "romaji": "Obake no Dokurou",
+    "native": "オバケのどくろう"
+  },
+  "synonyms": [
+    "Obake no Dokurou",
+    "オバケのどくろう",
+    "Dokuro the Ghost",
+    "Master of Torque 2",
+    "マスター・オブ・トルク2",
+    "Master of Torque 2nd Season"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21185-VKl9bJb4eQSJ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21185",
+      "url": "https://anilist.co/anime/21185"
+    },
+    "k": {
+      "id": "8682",
+      "url": "https://kitsu.io/anime/8682"
+    },
+    "mal": {
+      "id": "30324",
+      "url": "https://myanimelist.net/anime/30324"
+    },
+    "yt": {
+      "id": "LAqk8qM1ZPY",
+      "url": "https://www.youtube.com/watch?v=LAqk8qM1ZPY"
+    }
+  }
+}

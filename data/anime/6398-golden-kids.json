@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6398,
+  "slug": "golden-kids",
+  "kind": "anime",
+  "title": "Golden★Kids",
+  "titles": {
+    "default": "Golden★Kids",
+    "romaji": "Golden★Kids",
+    "native": "ゴールデン★キッズ"
+  },
+  "synonyms": [
+    "Golden★Kids",
+    "ゴールデン★キッズ"
+  ],
+  "type": "ona",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10323.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10323",
+      "url": "https://anilist.co/anime/10323"
+    },
+    "k": {
+      "id": "6127",
+      "url": "https://kitsu.io/anime/6127"
+    },
+    "mal": {
+      "id": "10323",
+      "url": "https://myanimelist.net/anime/10323"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3231,
+  "slug": "rejuvenation",
+  "kind": "anime",
+  "title": "Rejuvenation",
+  "titles": {
+    "default": "Rejuvenation",
+    "romaji": "Rejuvenation",
+    "english": "Sacrilege",
+    "native": "回春"
+  },
+  "synonyms": [
+    "Rejuvenation",
+    "Sacrilege",
+    "回春",
+    "Kaishun",
+    "Angelique: Shiroi Tsubasa no Memoire",
+    "アンジェリーク　～白い翼のメモワール～",
+    "Angelique: White Wing Memoirs",
+    "Angelique OVA 1"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3912.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3912",
+      "url": "https://anilist.co/anime/3912"
+    },
+    "k": {
+      "id": "2301",
+      "url": "https://kitsu.io/anime/2301"
+    },
+    "mal": {
+      "id": "3912",
+      "url": "https://myanimelist.net/anime/3912"
+    }
+  }
+}

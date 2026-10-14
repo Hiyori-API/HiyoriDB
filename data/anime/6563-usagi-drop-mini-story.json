@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6563,
+  "slug": "usagi-drop-mini-story",
+  "kind": "anime",
+  "title": "Usagi Drop Mini Story",
+  "titles": {
+    "default": "Usagi Drop Mini Story",
+    "romaji": "Usagi Drop Mini Story",
+    "english": "Bunny Drop Specials",
+    "native": "うさぎドロップ ミニストーリー"
+  },
+  "synonyms": [
+    "Usagi Drop Mini Story",
+    "Bunny Drop Specials",
+    "うさぎドロップ ミニストーリー",
+    "Usagi Drop Specials",
+    "Bunny Drop",
+    "うさぎドロップ"
+  ],
+  "type": "special",
+  "episodes": 4,
+  "status": "finished",
+  "season": "fall",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11113.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11113",
+      "url": "https://anilist.co/anime/11113"
+    },
+    "k": {
+      "id": "6463",
+      "url": "https://kitsu.io/anime/6463"
+    },
+    "mal": {
+      "id": "11113",
+      "url": "https://myanimelist.net/anime/11113"
+    }
+  }
+}

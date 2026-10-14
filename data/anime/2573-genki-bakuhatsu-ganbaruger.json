@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2573,
+  "slug": "genki-bakuhatsu-ganbaruger",
+  "kind": "anime",
+  "title": "Genki Bakuhatsu Ganbaruger",
+  "titles": {
+    "default": "Genki Bakuhatsu Ganbaruger",
+    "romaji": "Genki Bakuhatsu Ganbaruger",
+    "english": "Energetic Bomb Ganbaruger",
+    "native": "元気爆発ガンバルガー"
+  },
+  "synonyms": [
+    "Genki Bakuhatsu Ganbaruger",
+    "Energetic Bomb Ganbaruger",
+    "元気爆発ガンバルガー",
+    "Genki Bakuhatsu Ganbarugar",
+    "Rocket Kidz Ganbarugar",
+    "Eldran series #2"
+  ],
+  "type": "tv",
+  "episodes": 47,
+  "status": "finished",
+  "season": "spring",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2916-La4bix1LGQa7.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2916",
+      "url": "https://anilist.co/anime/2916"
+    },
+    "k": {
+      "id": "2643",
+      "url": "https://kitsu.io/anime/2643"
+    },
+    "mal": {
+      "id": "2916",
+      "url": "https://myanimelist.net/anime/2916"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6535,
+  "slug": "euphoria",
+  "kind": "anime",
+  "title": "euphoria",
+  "titles": {
+    "default": "euphoria",
+    "romaji": "euphoria"
+  },
+  "synonyms": [
+    "euphoria",
+    "ユーフォリア",
+    "Katte ni Kaizou",
+    "かってに改蔵",
+    "Katteni Kaizou"
+  ],
+  "type": "ova",
+  "episodes": 6,
+  "status": "finished",
+  "season": "winter",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10851-FNTzFO5BJfPP.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10851",
+      "url": "https://anilist.co/anime/10851"
+    },
+    "k": {
+      "id": "6069",
+      "url": "https://kitsu.io/anime/6069"
+    },
+    "mal": {
+      "id": "10851",
+      "url": "https://myanimelist.net/anime/10851"
+    }
+  }
+}

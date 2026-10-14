@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7138,
+  "slug": "code-geass-boukoku-no-akito-2-hikisakareshi-yokuryuu",
+  "kind": "anime",
+  "title": "Code Geass: Boukoku no Akito 2 - Hikisakareshi Yokuryuu",
+  "titles": {
+    "default": "Code Geass: Boukoku no Akito 2 - Hikisakareshi Yokuryuu",
+    "romaji": "Code Geass: Boukoku no Akito 2 - Hikisakareshi Yokuryuu",
+    "english": "Code Geass: Akito the Exiled - The Wyvern Divided",
+    "native": "コードギアス 亡国のアキト 第2章 引き裂かれし翼竜"
+  },
+  "synonyms": [
+    "Code Geass: Boukoku no Akito 2 - Hikisakareshi Yokuryuu",
+    "Code Geass: Akito the Exiled - The Wyvern Divided",
+    "コードギアス 亡国のアキト 第2章 引き裂かれし翼竜",
+    "Code Geass: Akito the Exiled – Wiwerna na rozdrożu",
+    "Code Geass: Akito the Exiled 2 - The Torn-Up Wyvern",
+    "コードギアス 亡国のアキト 第２章「引き裂かれし翼竜」"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15197-edOzRqxHnJrd.png"
+  ],
+  "references": {
+    "al": {
+      "id": "15197",
+      "url": "https://anilist.co/anime/15197"
+    },
+    "cr": {
+      "id": "code-geass-akito-the-exiled",
+      "url": "https://www.crunchyroll.com/series/code-geass-akito-the-exiled"
+    },
+    "k": {
+      "id": "7227",
+      "url": "https://kitsu.io/anime/7227"
+    },
+    "mal": {
+      "id": "15197",
+      "url": "https://myanimelist.net/anime/15197"
+    },
+    "tx": {
+      "id": "geassproject",
+      "url": "https://twitter.com/geassproject"
+    }
+  }
+}

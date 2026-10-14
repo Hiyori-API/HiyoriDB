@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3938,
+  "slug": "telepathist-ai-q315-saiko",
+  "kind": "anime",
+  "title": "Telepathist AI Q315 Saiko",
+  "titles": {
+    "default": "Telepathist AI Q315 Saiko",
+    "romaji": "Telepathist AI Q315 Saiko",
+    "native": "テレパシスト愛Q315(サイコ)"
+  },
+  "synonyms": [
+    "Telepathist AI Q315 Saiko",
+    "テレパシスト愛Q315(サイコ)",
+    "The Telepathist Ai-Q Saiko",
+    "IQ Psycho",
+    "Synphony Yume Monogatari",
+    "Mahou no Tenshi Creamy Mami: Long Goodbye",
+    "魔法の天使クリィミーマミ　ロング・グッドバイ"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5542.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5542",
+      "url": "https://anilist.co/anime/5542"
+    },
+    "k": {
+      "id": "1845",
+      "url": "https://kitsu.io/anime/1845"
+    },
+    "mal": {
+      "id": "5542",
+      "url": "https://myanimelist.net/anime/5542"
+    }
+  }
+}

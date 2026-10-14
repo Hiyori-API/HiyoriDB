@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4962,
+  "slug": "dougram-vs-round-facer",
+  "kind": "anime",
+  "title": "DOUGRAM vs ROUND-FACER",
+  "titles": {
+    "default": "DOUGRAM vs ROUND-FACER",
+    "romaji": "DOUGRAM vs ROUND-FACER"
+  },
+  "synonyms": [
+    "DOUGRAM vs ROUND-FACER",
+    "太陽の牙ダグラム: DOUGRAM vs ROUND-FACER",
+    "Dagram vs. Round-Facer"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18795.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "18795",
+      "url": "https://anilist.co/anime/18795"
+    },
+    "k": {
+      "id": "8931",
+      "url": "https://kitsu.io/anime/8931"
+    },
+    "mal": {
+      "id": "18795",
+      "url": "https://myanimelist.net/anime/18795"
+    }
+  }
+}

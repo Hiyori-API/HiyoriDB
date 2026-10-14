@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9245,
+  "slug": "aikatsu-stars-hoshi-no-tsubasa",
+  "kind": "anime",
+  "title": "Aikatsu Stars! Hoshi no Tsubasa",
+  "titles": {
+    "default": "Aikatsu Stars! Hoshi no Tsubasa",
+    "romaji": "Aikatsu Stars! Hoshi no Tsubasa",
+    "native": "アイカツスターズ！ 星のツバサ"
+  },
+  "synonyms": [
+    "Aikatsu Stars! Hoshi no Tsubasa",
+    "アイカツスターズ！ 星のツバサ",
+    "∀ Gundam",
+    "Turn A Gundam",
+    "∀ガンダム",
+    "Mobile Suit Gundam Turn A"
+  ],
+  "type": "tv",
+  "episodes": 50,
+  "status": "finished",
+  "season": "spring",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98542-162BDdw7OZ1p.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98542",
+      "url": "https://anilist.co/anime/98542"
+    },
+    "k": {
+      "id": "74",
+      "url": "https://kitsu.io/anime/74"
+    },
+    "mal": {
+      "id": "95",
+      "url": "https://myanimelist.net/anime/95"
+    },
+    "t": {
+      "id": "37388",
+      "url": "https://trakt.tv/shows/37388"
+    }
+  }
+}

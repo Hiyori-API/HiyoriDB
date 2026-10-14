@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10907,
+  "slug": "potekko-babies",
+  "kind": "anime",
+  "title": "Potekko Babies",
+  "titles": {
+    "default": "Potekko Babies",
+    "romaji": "Potekko Babies",
+    "native": "ポテッコベイビーズ"
+  },
+  "synonyms": [
+    "Potekko Babies",
+    "ポテッコベイビーズ",
+    "Potecco Babies"
+  ],
+  "type": "ona",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8958.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8958",
+      "url": "https://anilist.co/anime/8958"
+    },
+    "k": {
+      "id": "5550",
+      "url": "https://kitsu.io/anime/5550"
+    },
+    "mal": {
+      "id": "8958",
+      "url": "https://myanimelist.net/anime/8958"
+    },
+    "yt": {
+      "id": "yjmC0RWGynU",
+      "url": "https://www.youtube.com/watch?v=yjmC0RWGynU"
+    }
+  }
+}

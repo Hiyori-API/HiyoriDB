@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2474,
+  "slug": "oz",
+  "kind": "anime",
+  "title": "OZ",
+  "titles": {
+    "default": "OZ",
+    "romaji": "OZ",
+    "native": "オズ"
+  },
+  "synonyms": [
+    "OZ",
+    "オズ"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2785-cQcKJawWcBKz.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2785",
+      "url": "https://anilist.co/anime/2785"
+    },
+    "k": {
+      "id": "2541",
+      "url": "https://kitsu.io/anime/2541"
+    },
+    "mal": {
+      "id": "2785",
+      "url": "https://myanimelist.net/anime/2785"
+    }
+  }
+}

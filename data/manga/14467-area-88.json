@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14467,
+  "slug": "area-88",
+  "kind": "manga",
+  "title": "Area 88",
+  "titles": {
+    "default": "Area 88"
+  },
+  "synonyms": [
+    "Area 88",
+    "エリア88",
+    "Sobakasu no Shounen",
+    "そばかすの少年",
+    "Freckles"
+  ],
+  "type": "manga",
+  "chapters": 172,
+  "volumes": 23,
+  "status": "finished",
+  "year": 1979,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33965-MQiWavgJWOin.png"
+  ],
+  "references": {
+    "al": {
+      "id": "98129",
+      "url": "https://anilist.co/anime/284"
+    },
+    "al_manga": {
+      "id": "98129",
+      "url": "https://anilist.co/manga/98129"
+    }
+  }
+}

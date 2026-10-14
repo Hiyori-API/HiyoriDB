@@ -1,0 +1,59 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8197,
+  "slug": "monster-musume-no-iru-nichijou",
+  "kind": "anime",
+  "title": "Monster Musume no Iru Nichijou",
+  "titles": {
+    "default": "Monster Musume no Iru Nichijou",
+    "romaji": "Monster Musume no Iru Nichijou",
+    "english": "Monster Musume: Everyday Life With Monster Girls",
+    "native": "モンスター娘のいる日常"
+  },
+  "synonyms": [
+    "Monster Musume no Iru Nichijou",
+    "Monster Musume: Everyday Life With Monster Girls",
+    "モンスター娘のいる日常",
+    "MonMusu",
+    "Die Monster Mädchen",
+    "บันทึกอุ่นรักสาวมอนสเตอร์",
+    "School-Live!",
+    "Gakkou Gurashi!",
+    "がっこうぐらし！",
+    "School Live!"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21093-fVFDznAnJZmL.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21093",
+      "url": "https://anilist.co/anime/21093"
+    },
+    "cr": {
+      "id": "school-live",
+      "url": "https://www.crunchyroll.com/series/school-live"
+    },
+    "k": {
+      "id": "8644",
+      "url": "https://kitsu.io/anime/8644"
+    },
+    "mal": {
+      "id": "30307",
+      "url": "https://myanimelist.net/anime/30307"
+    },
+    "t": {
+      "id": "79365",
+      "url": "https://trakt.tv/shows/79365"
+    },
+    "tx": {
+      "id": "monmusu_tv",
+      "url": "https://twitter.com/monmusu_tv"
+    }
+  }
+}

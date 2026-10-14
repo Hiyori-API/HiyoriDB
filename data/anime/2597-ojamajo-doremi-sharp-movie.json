@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2597,
+  "slug": "ojamajo-doremi-sharp-movie",
+  "kind": "anime",
+  "title": "Ojamajo Doremi Sharp (Movie)",
+  "titles": {
+    "default": "Ojamajo Doremi Sharp (Movie)",
+    "romaji": "Ojamajo Doremi Sharp (Movie)",
+    "native": "おジャ魔女どれみ♯ (映画)"
+  },
+  "synonyms": [
+    "Ojamajo Doremi Sharp (Movie)",
+    "おジャ魔女どれみ♯ (映画)",
+    "Ojamajo Doremi # Movie",
+    "Useless Witch Doremi Sharp",
+    "Bothersome Witch Doremi Sharp",
+    "Ojamjo Doremi #: Pop and the Queen's Cursed Rose",
+    "Ojamajo Doremi Sharp Movie",
+    "おジャ魔女どれみ♯"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2947-XbN3W5mNoq5z.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2947",
+      "url": "https://anilist.co/anime/2947"
+    },
+    "k": {
+      "id": "2668",
+      "url": "https://kitsu.io/anime/2668"
+    },
+    "mal": {
+      "id": "2947",
+      "url": "https://myanimelist.net/anime/2947"
+    },
+    "tx": {
+      "id": "Doremi_staff",
+      "url": "https://twitter.com/Doremi_staff"
+    }
+  }
+}

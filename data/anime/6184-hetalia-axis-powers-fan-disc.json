@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6184,
+  "slug": "hetalia-axis-powers-fan-disc",
+  "kind": "anime",
+  "title": "Hetalia Axis Powers Fan Disc",
+  "titles": {
+    "default": "Hetalia Axis Powers Fan Disc",
+    "romaji": "Hetalia Axis Powers Fan Disc",
+    "native": "ヘタリア Axis Powers ファンディスク"
+  },
+  "synonyms": [
+    "Hetalia Axis Powers Fan Disc",
+    "ヘタリア Axis Powers ファンディスク"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "spring",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9865.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9865",
+      "url": "https://anilist.co/anime/9865"
+    },
+    "k": {
+      "id": "5909",
+      "url": "https://kitsu.io/anime/5909"
+    },
+    "mal": {
+      "id": "9865",
+      "url": "https://myanimelist.net/anime/9865"
+    }
+  }
+}

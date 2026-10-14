@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10104,
+  "slug": "cinderella-girls-gekijou-climax-season",
+  "kind": "anime",
+  "title": "Cinderella Girls Gekijou CLIMAX SEASON",
+  "titles": {
+    "default": "Cinderella Girls Gekijou CLIMAX SEASON",
+    "romaji": "Cinderella Girls Gekijou CLIMAX SEASON",
+    "native": "アイドルマスター シンデレラガールズ劇場CLIMAX SEASON"
+  },
+  "synonyms": [
+    "Cinderella Girls Gekijou CLIMAX SEASON",
+    "アイドルマスター シンデレラガールズ劇場CLIMAX SEASON",
+    "Cinderella Girls Gekijou 4th Season",
+    "Cingeki",
+    "Mobile Suit Gundam: The Origin (TV)",
+    "Mobile Suit Gundam: The Origin - Advent of the Red Comet",
+    "機動戦士ガンダム THE ORIGIN 前夜 赤い彗星",
+    "Kidou Senshi Gundam: The Origin - Zenya Akai Suisei"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b105962-ftNGhs8OKPD7.png"
+  ],
+  "references": {
+    "al": {
+      "id": "105962",
+      "url": "https://anilist.co/anime/105962"
+    },
+    "mal": {
+      "id": "38767",
+      "url": "https://myanimelist.net/anime/38767"
+    },
+    "tx": {
+      "id": "cingeki_anime",
+      "url": "https://twitter.com/cingeki_anime"
+    }
+  }
+}

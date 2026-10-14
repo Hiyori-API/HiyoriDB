@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6689,
+  "slug": "inu-boku-ss",
+  "kind": "anime",
+  "title": "Inu × Boku SS",
+  "titles": {
+    "default": "Inu × Boku SS",
+    "romaji": "Inu × Boku SS",
+    "english": "Inu X Boku Secret Service",
+    "native": "妖狐×僕SS"
+  },
+  "synonyms": [
+    "Inu × Boku SS",
+    "Inu X Boku Secret Service",
+    "妖狐×僕SS",
+    "Youko x Boku SS",
+    "Inu x Boku SS"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11013-EBA11hztD2yi.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11013",
+      "url": "https://anilist.co/anime/11013"
+    },
+    "cr": {
+      "id": "inu-x-boku-secret-service",
+      "url": "https://www.crunchyroll.com/series/inu-x-boku-secret-service"
+    },
+    "k": {
+      "id": "6439",
+      "url": "https://kitsu.io/anime/6439"
+    },
+    "mal": {
+      "id": "11013",
+      "url": "https://myanimelist.net/anime/11013"
+    },
+    "t": {
+      "id": "45034",
+      "url": "https://trakt.tv/shows/45034"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15812,
+  "slug": "kizumonogatari",
+  "kind": "manga",
+  "title": "Kizumonogatari",
+  "titles": {
+    "default": "Kizumonogatari"
+  },
+  "synonyms": [
+    "Koyomi Vamp",
+    "Kizumonogatari - La Légende de Kiss-Shot",
+    "Kizumonogatari: Wound Tale",
+    "傷物語",
+    "Kaichou no Joker",
+    "会長の切り札",
+    "Kaichou no Kirifuda"
+  ],
+  "type": "novel",
+  "chapters": 18,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx143701-JltoJEa9GLAS.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "181970",
+      "url": "https://anilist.co/anime/9260"
+    },
+    "al_manga": {
+      "id": "181970",
+      "url": "https://anilist.co/manga/181970"
+    }
+  }
+}

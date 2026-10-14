@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6850,
+  "slug": "shinryaku-ika-musume-ova",
+  "kind": "anime",
+  "title": "Shinryaku!! Ika Musume OVA",
+  "titles": {
+    "default": "Shinryaku!! Ika Musume OVA",
+    "romaji": "Shinryaku!! Ika Musume OVA",
+    "english": "Squid Girl OVA",
+    "native": "侵略!!イカ娘 OVA"
+  },
+  "synonyms": [
+    "Shinryaku!! Ika Musume OVA",
+    "Squid Girl OVA",
+    "侵略!!イカ娘 OVA",
+    "Shinryaku! Ika Musume OVA",
+    "The Invader Comes From the Bottom of the Sea! OVA",
+    "Shinryaku!! Ika Musume",
+    "侵略!!イカ娘",
+    "Shinryaku! Ika Musume OAD"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "summer",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13267.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "13267",
+      "url": "https://anilist.co/anime/13267"
+    },
+    "cr": {
+      "id": "squid-girl",
+      "url": "https://www.crunchyroll.com/series/squid-girl"
+    },
+    "k": {
+      "id": "6929",
+      "url": "https://kitsu.io/anime/6929"
+    },
+    "mal": {
+      "id": "13267",
+      "url": "https://myanimelist.net/anime/13267"
+    }
+  }
+}

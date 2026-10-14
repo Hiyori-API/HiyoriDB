@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7883,
+  "slug": "sei-brunehilde-gakuen-shoujo-kishidan-to-junpaku-no-panty-the-animation",
+  "kind": "anime",
+  "title": "Sei Brunehilde Gakuen Shoujo Kishidan to Junpaku no Panty THE ANIMATION",
+  "titles": {
+    "default": "Sei Brunehilde Gakuen Shoujo Kishidan to Junpaku no Panty THE ANIMATION",
+    "romaji": "Sei Brunehilde Gakuen Shoujo Kishidan to Junpaku no Panty THE ANIMATION",
+    "native": "聖ブリュンヒルデ学園 少女騎士団と純白のパンティ THE ANIMATION"
+  },
+  "synonyms": [
+    "Sei Brunehilde Gakuen Shoujo Kishidan to Junpaku no Panty THE ANIMATION",
+    "聖ブリュンヒルデ学園 少女騎士団と純白のパンティ THE ANIMATION",
+    "Choujigen Game Neptune The Animation OVA",
+    "超次元ゲイム ネプテューヌ THE ANIMATION",
+    "Choujigen Game Neptune: The Animation Episode 13",
+    "Kami Jigen Game Neptune V OVA",
+    "Hyperdimension Neptunia Victory OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21215-96NIlPl0yV4L.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21215",
+      "url": "https://anilist.co/anime/21215"
+    },
+    "k": {
+      "id": "8071",
+      "url": "https://kitsu.io/anime/8071"
+    },
+    "mal": {
+      "id": "28157",
+      "url": "https://myanimelist.net/anime/28157"
+    }
+  }
+}

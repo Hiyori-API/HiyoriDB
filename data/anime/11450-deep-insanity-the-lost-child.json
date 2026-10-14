@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11450,
+  "slug": "deep-insanity-the-lost-child",
+  "kind": "anime",
+  "title": "Deep Insanity: THE LOST CHILD",
+  "titles": {
+    "default": "Deep Insanity: THE LOST CHILD",
+    "romaji": "Deep Insanity: THE LOST CHILD",
+    "english": "Deep Insanity THE LOST CHILD"
+  },
+  "synonyms": [
+    "Deep Insanity: THE LOST CHILD",
+    "Deep Insanity THE LOST CHILD",
+    "ディープインサニティ ザ・ロストチャイルド",
+    "Ring ni Kakero 1",
+    "リングにかけろ１",
+    "Put it all in the Ring"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136947-ZtUWswedpbR6.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "136947",
+      "url": "https://anilist.co/anime/136947"
+    },
+    "cr": {
+      "id": "deep-insanity-the-lost-child",
+      "url": "https://www.crunchyroll.com/series/deep-insanity-the-lost-child"
+    },
+    "k": {
+      "id": "14",
+      "url": "https://kitsu.io/anime/14"
+    },
+    "mal": {
+      "id": "49292",
+      "url": "https://myanimelist.net/anime/49292"
+    },
+    "t": {
+      "id": "69507",
+      "url": "https://trakt.tv/shows/69507"
+    },
+    "tx": {
+      "id": "deepinsanity_pj",
+      "url": "https://twitter.com/deepinsanity_pj"
+    }
+  }
+}

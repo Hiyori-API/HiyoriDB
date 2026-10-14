@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7784,
+  "slug": "donten-ni-warau",
+  "kind": "anime",
+  "title": "Donten ni Warau",
+  "titles": {
+    "default": "Donten ni Warau",
+    "romaji": "Donten ni Warau",
+    "english": "Laughing Under the Clouds",
+    "native": "曇天に笑う"
+  },
+  "synonyms": [
+    "Donten ni Warau",
+    "Laughing Under the Clouds",
+    "曇天に笑う",
+    "Butty Laugh",
+    "Unterm Wollkenhimmel: Laughing Under the Clouds – Gaiden",
+    "Cloudy Laugh"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20817-aGLuN5TIVAgT.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "20817",
+      "url": "https://anilist.co/anime/20817"
+    },
+    "cr": {
+      "id": "laughing-under-the-clouds",
+      "url": "https://www.crunchyroll.com/series/laughing-under-the-clouds"
+    },
+    "k": {
+      "id": "7907",
+      "url": "https://kitsu.io/anime/7907"
+    },
+    "mal": {
+      "id": "21743",
+      "url": "https://myanimelist.net/anime/21743"
+    }
+  }
+}

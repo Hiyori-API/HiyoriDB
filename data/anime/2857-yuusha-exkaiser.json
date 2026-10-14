@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2857,
+  "slug": "yuusha-exkaiser",
+  "kind": "anime",
+  "title": "Yuusha Exkaiser",
+  "titles": {
+    "default": "Yuusha Exkaiser",
+    "romaji": "Yuusha Exkaiser",
+    "native": "勇者エクスカイザー"
+  },
+  "synonyms": [
+    "Yuusha Exkaiser",
+    "勇者エクスカイザー",
+    "Brave Exkaiser",
+    "The Brave Fighter Exkizer"
+  ],
+  "type": "tv",
+  "episodes": 48,
+  "status": "finished",
+  "season": "winter",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3325-dKd9P6UBvtCR.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3325",
+      "url": "https://anilist.co/anime/3325"
+    },
+    "k": {
+      "id": "2937",
+      "url": "https://kitsu.io/anime/2937"
+    },
+    "mal": {
+      "id": "3325",
+      "url": "https://myanimelist.net/anime/3325"
+    }
+  }
+}

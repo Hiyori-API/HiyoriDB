@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14787,
+  "slug": "t-p-bon",
+  "kind": "manga",
+  "title": "T・P Bon",
+  "titles": {
+    "default": "T・P Bon"
+  },
+  "synonyms": [
+    "Time Patrol Bon",
+    "タイム・パトロールぼん",
+    "T・Pぼん",
+    "Renai Soukanzu",
+    "恋愛相姦図",
+    "Renai Sokanzu",
+    "Pink Sweets"
+  ],
+  "type": "manga",
+  "chapters": 35,
+  "volumes": 5,
+  "status": "discontinued",
+  "year": 1978,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b169928-JYICA0Rg52SV.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "169930",
+      "url": "https://anilist.co/anime/12529"
+    },
+    "al_manga": {
+      "id": "169930",
+      "url": "https://anilist.co/manga/169930"
+    }
+  }
+}

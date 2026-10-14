@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10199,
+  "slug": "ojamajo-doremi-owarai-gekijou",
+  "kind": "anime",
+  "title": "Ojamajo Doremi: Owarai Gekijou",
+  "titles": {
+    "default": "Ojamajo Doremi: Owarai Gekijou",
+    "romaji": "Ojamajo Doremi: Owarai Gekijou",
+    "native": "おジャ魔女どれみ お笑い劇場"
+  },
+  "synonyms": [
+    "Ojamajo Doremi: Owarai Gekijou",
+    "おジャ魔女どれみ お笑い劇場"
+  ],
+  "type": "ona",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108726-8aiz7qemokoO.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "108726",
+      "url": "https://anilist.co/anime/108726"
+    },
+    "mal": {
+      "id": "39588",
+      "url": "https://myanimelist.net/anime/39588"
+    },
+    "tx": {
+      "id": "doremi_staff",
+      "url": "https://twitter.com/doremi_staff"
+    }
+  }
+}

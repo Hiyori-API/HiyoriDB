@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11179,
+  "slug": "ore-dake-haireru-kakushi-dungeon",
+  "kind": "anime",
+  "title": "Ore dake Haireru Kakushi Dungeon",
+  "titles": {
+    "default": "Ore dake Haireru Kakushi Dungeon",
+    "romaji": "Ore dake Haireru Kakushi Dungeon",
+    "english": "The Hidden Dungeon Only I Can Enter",
+    "native": "俺だけ入れる隠しダンジョン"
+  },
+  "synonyms": [
+    "Ore dake Haireru Kakushi Dungeon",
+    "The Hidden Dungeon Only I Can Enter",
+    "俺だけ入れる隠しダンジョン",
+    "Special training in the Secret Dungeon!",
+    "ดันเจี้ยนที่มีแต่ข้าเท่านั้นที่เข้าได้ ～แอบฝึกปรืนจนบรรลุสู่สุดแกร่ง～",
+    "Non Non Biyori 3rd Season",
+    "Non Non Biyori Third Season",
+    "Non Non Biyori Nonstop",
+    "のんのんびより のんすとっぷ"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118375-95ClbAh2EQMD.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "118375",
+      "url": "https://anilist.co/anime/118375"
+    },
+    "cr": {
+      "id": "the-hidden-dungeon-only-i-can-enter",
+      "url": "https://www.crunchyroll.com/series/the-hidden-dungeon-only-i-can-enter"
+    },
+    "mal": {
+      "id": "41899",
+      "url": "https://myanimelist.net/anime/41899"
+    },
+    "tx": {
+      "id": "kakushidungeon",
+      "url": "https://twitter.com/kakushidungeon"
+    }
+  }
+}

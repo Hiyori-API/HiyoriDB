@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14461,
+  "slug": "mizuiro-jidai",
+  "kind": "manga",
+  "title": "Mizuiro Jidai",
+  "titles": {
+    "default": "Mizuiro Jidai"
+  },
+  "synonyms": [
+    "Aqua Age",
+    "The Blue-Green Years",
+    "Temi d'amore",
+    "水色時代",
+    "Baby & Me",
+    "Akachan to Boku",
+    "赤ちゃんと僕",
+    "AkaBoku",
+    "Baby and Me",
+    "Time Limit",
+    "Secret Boy ni Tee Dasuna!!",
+    "Baka de Karukute Wagamama de",
+    "Natsu to Kimi no Irradiation"
+  ],
+  "type": "manga",
+  "chapters": 46,
+  "volumes": 7,
+  "status": "finished",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33886-F7WCyerUs2Hz.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1040",
+      "url": "https://anilist.co/anime/1040"
+    },
+    "al_manga": {
+      "id": "1040",
+      "url": "https://anilist.co/manga/1040"
+    }
+  }
+}

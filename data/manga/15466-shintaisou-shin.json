@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15466,
+  "slug": "shintaisou-shin",
+  "kind": "manga",
+  "title": "Shintaisou: Shin",
+  "titles": {
+    "default": "Shintaisou: Shin"
+  },
+  "synonyms": [
+    "新体操（真）",
+    "Young Gun Carnaval",
+    "ヤングガン・カルナバル"
+  ],
+  "type": "novel",
+  "volumes": 2,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/90990-fRJndoIUHlhC.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1632",
+      "url": "https://anilist.co/anime/1632"
+    },
+    "al_manga": {
+      "id": "1632",
+      "url": "https://anilist.co/manga/1632"
+    }
+  }
+}

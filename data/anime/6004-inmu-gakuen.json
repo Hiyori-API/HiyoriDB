@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6004,
+  "slug": "inmu-gakuen",
+  "kind": "anime",
+  "title": "Inmu Gakuen",
+  "titles": {
+    "default": "Inmu Gakuen",
+    "romaji": "Inmu Gakuen",
+    "native": "淫夢学園"
+  },
+  "synonyms": [
+    "Inmu Gakuen",
+    "淫夢学園",
+    "Inmu Gakuen: In Yume ni Torawareta Bijin Shimai",
+    "Dame... Konna ni Nacchau no wa Yume no Naka Dake nano...!",
+    "Chi's Sweet Home OVA",
+    "チーズスイートホーム チーとコッチ, 出会う.",
+    "Chii's Sweet Home",
+    "Chi's Sweet Home: Chi to Kocchi",
+    "Deau."
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8290.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8290",
+      "url": "https://anilist.co/anime/8290"
+    },
+    "k": {
+      "id": "5166",
+      "url": "https://kitsu.io/anime/5166"
+    },
+    "mal": {
+      "id": "8290",
+      "url": "https://myanimelist.net/anime/8290"
+    }
+  }
+}

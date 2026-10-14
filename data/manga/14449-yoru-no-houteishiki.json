@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14449,
+  "slug": "yoru-no-houteishiki",
+  "kind": "manga",
+  "title": "Yoru no Houteishiki",
+  "titles": {
+    "default": "Yoru no Houteishiki"
+  },
+  "synonyms": [
+    "Azuki Kurenai - Equation of the Night",
+    "Equation of the Night",
+    "夜の方程式",
+    "Mushrambo",
+    "マシュランボー",
+    "Mashuranboo"
+  ],
+  "type": "manga",
+  "chapters": 8,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3805.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3048",
+      "url": "https://anilist.co/anime/3048"
+    },
+    "al_manga": {
+      "id": "3048",
+      "url": "https://anilist.co/manga/3048"
+    }
+  }
+}

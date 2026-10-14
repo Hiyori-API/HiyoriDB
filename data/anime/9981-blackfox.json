@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9981,
+  "slug": "blackfox",
+  "kind": "anime",
+  "title": "BLACKFOX",
+  "titles": {
+    "default": "BLACKFOX",
+    "romaji": "BLACKFOX"
+  },
+  "synonyms": [
+    "BLACKFOX",
+    "Black Fox",
+    "ブラックフォックス",
+    "Cencoroll 2",
+    "センコロール"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101317-WZpZb6FNXF29.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101317",
+      "url": "https://anilist.co/anime/101317"
+    },
+    "cr": {
+      "id": "blackfox",
+      "url": "https://www.crunchyroll.com/series/blackfox"
+    },
+    "k": {
+      "id": "5749",
+      "url": "https://kitsu.io/anime/5749"
+    },
+    "mal": {
+      "id": "37498",
+      "url": "https://myanimelist.net/anime/37498"
+    },
+    "tx": {
+      "id": "blackfox_anime",
+      "url": "https://twitter.com/blackfox_anime"
+    }
+  }
+}

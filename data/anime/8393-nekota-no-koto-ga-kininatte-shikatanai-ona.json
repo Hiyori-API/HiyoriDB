@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8393,
+  "slug": "nekota-no-koto-ga-kininatte-shikatanai-ona",
+  "kind": "anime",
+  "title": "Nekota no Koto ga Kininatte Shikatanai. (ONA)",
+  "titles": {
+    "default": "Nekota no Koto ga Kininatte Shikatanai. (ONA)",
+    "romaji": "Nekota no Koto ga Kininatte Shikatanai. (ONA)",
+    "native": "猫田のことが気になって仕方ない。"
+  },
+  "synonyms": [
+    "Nekota no Koto ga Kininatte Shikatanai. (ONA)",
+    "猫田のことが気になって仕方ない。",
+    "Ribon x Oha Suta Specials",
+    "Mobile Suit Gundam Thunderbolt",
+    "機動戦士ガンダム サンダーボルト",
+    "Kidou Senshi Gundam Thunderbolt"
+  ],
+  "type": "ona",
+  "episodes": 4,
+  "status": "finished",
+  "season": "spring",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21881-YpV0ZNWkeip1.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21881",
+      "url": "https://anilist.co/anime/21881"
+    },
+    "mal": {
+      "id": "30842",
+      "url": "https://myanimelist.net/anime/30842"
+    }
+  }
+}

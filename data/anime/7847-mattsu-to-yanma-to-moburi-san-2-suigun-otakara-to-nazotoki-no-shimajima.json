@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7847,
+  "slug": "mattsu-to-yanma-to-moburi-san-2-suigun-otakara-to-nazotoki-no-shimajima",
+  "kind": "anime",
+  "title": "Mattsu to Yanma to Moburi-san 2: Suigun Otakara to Nazotoki no Shimajima",
+  "titles": {
+    "default": "Mattsu to Yanma to Moburi-san 2: Suigun Otakara to Nazotoki no Shimajima",
+    "romaji": "Mattsu to Yanma to Moburi-san 2: Suigun Otakara to Nazotoki no Shimajima",
+    "english": "Mattsu, Yamma and Moburi - The Naval Treasure and Riddle Island",
+    "native": "マッツとヤンマとモブリさん2 ―水軍お宝と謎解きの島々―"
+  },
+  "synonyms": [
+    "Mattsu to Yanma to Moburi-san 2: Suigun Otakara to Nazotoki no Shimajima",
+    "Mattsu, Yamma and Moburi - The Naval Treasure and Riddle Island",
+    "マッツとヤンマとモブリさん2 ―水軍お宝と謎解きの島々―",
+    "ポケットモンスター オメガルビー・アルファサファイア』 メガスペシャルアニメーション",
+    "Pokemon Omega Ruby & Alpha Sapphire: Mega Special Animation"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20976-twmK1eudsggB.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "20976",
+      "url": "https://anilist.co/anime/20976"
+    },
+    "mal": {
+      "id": "27951",
+      "url": "https://myanimelist.net/anime/27951"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13814,
+  "slug": "tokyo-babylon",
+  "kind": "manga",
+  "title": "Tokyo BABYLON",
+  "titles": {
+    "default": "Tokyo BABYLON"
+  },
+  "synonyms": [
+    "Tokyo Babylon: A Save Tokyo City Story",
+    "도쿄 Babylon (도쿄 바빌론)",
+    "Tokyo Babylon",
+    "東京 BABYLON"
+  ],
+  "type": "manga",
+  "chapters": 18,
+  "volumes": 7,
+  "status": "finished",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30133-sR52jjzieDTp.png"
+  ],
+  "references": {
+    "al": {
+      "id": "125369",
+      "url": "https://anilist.co/anime/1043"
+    },
+    "al_manga": {
+      "id": "125369",
+      "url": "https://anilist.co/manga/125369"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15185,
+  "slug": "one-outs",
+  "kind": "manga",
+  "title": "One Outs",
+  "titles": {
+    "default": "One Outs"
+  },
+  "synonyms": [
+    "ONE OUTS Nobody wins, but I!",
+    "ワンナウツ",
+    "Love Hina",
+    "ラブひな"
+  ],
+  "type": "manga",
+  "chapters": 176,
+  "volumes": 20,
+  "status": "finished",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx41327-ayO3EwG9Hcgk.png"
+  ],
+  "references": {
+    "al": {
+      "id": "5040",
+      "url": "https://anilist.co/anime/5040"
+    },
+    "al_manga": {
+      "id": "5040",
+      "url": "https://anilist.co/manga/5040"
+    }
+  }
+}

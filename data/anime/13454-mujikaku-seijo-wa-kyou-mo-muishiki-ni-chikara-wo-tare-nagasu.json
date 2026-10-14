@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13454,
+  "slug": "mujikaku-seijo-wa-kyou-mo-muishiki-ni-chikara-wo-tare-nagasu",
+  "kind": "anime",
+  "title": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu",
+  "titles": {
+    "default": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu",
+    "romaji": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu",
+    "english": "The Oblivious Saint Can't Contain Her Power",
+    "native": "無自覚聖女は今日も無意識に力を垂れ流す"
+  },
+  "synonyms": [
+    "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu",
+    "The Oblivious Saint Can't Contain Her Power",
+    "無自覚聖女は今日も無意識に力を垂れ流す",
+    "The Oblivious Saint Can't Contain Her Power Glossary",
+    "DearS",
+    "ディアーズ"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196219-imvC0rbk4VzH.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "196219",
+      "url": "https://anilist.co/anime/196219"
+    },
+    "cr": {
+      "id": "series/GT00378125/",
+      "url": "https://www.crunchyroll.com/series/series/GT00378125/"
+    },
+    "k": {
+      "id": "44",
+      "url": "https://kitsu.io/anime/44"
+    },
+    "mal": {
+      "id": "62080",
+      "url": "https://myanimelist.net/anime/62080"
+    },
+    "t": {
+      "id": "61051",
+      "url": "https://trakt.tv/shows/61051"
+    }
+  }
+}

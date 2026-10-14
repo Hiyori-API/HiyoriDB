@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9171,
+  "slug": "keppeki-danshi-aoyama-kun",
+  "kind": "anime",
+  "title": "Keppeki Danshi! Aoyama-kun",
+  "titles": {
+    "default": "Keppeki Danshi! Aoyama-kun",
+    "romaji": "Keppeki Danshi! Aoyama-kun",
+    "english": "Clean Freak! Aoyama kun",
+    "native": "潔癖男子! 青山くん"
+  },
+  "synonyms": [
+    "Keppeki Danshi! Aoyama-kun",
+    "Clean Freak! Aoyama kun",
+    "潔癖男子! 青山くん",
+    "Cleanliness Boy! Aoyama-kun",
+    "Clean Freak! Aoyama-kun",
+    "潔癖男子！青山くん"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98205-C94S2Cqj4lL2.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98205",
+      "url": "https://anilist.co/anime/98205"
+    },
+    "cr": {
+      "id": "clean-freak-aoyama-kun",
+      "url": "https://www.crunchyroll.com/series/clean-freak-aoyama-kun"
+    },
+    "mal": {
+      "id": "34825",
+      "url": "https://myanimelist.net/anime/34825"
+    },
+    "tx": {
+      "id": "megane_sinsi_z",
+      "url": "https://twitter.com/megane_sinsi_z"
+    }
+  }
+}

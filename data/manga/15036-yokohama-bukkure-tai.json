@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15036,
+  "slug": "yokohama-bukkure-tai",
+  "kind": "manga",
+  "title": "Yokohama Bukkure Tai",
+  "titles": {
+    "default": "Yokohama Bukkure Tai"
+  },
+  "synonyms": [
+    "横浜ばっくれ隊",
+    "Baby & Me",
+    "Akachan to Boku",
+    "赤ちゃんと僕",
+    "AkaBoku",
+    "Baby and Me",
+    "Time Limit",
+    "Secret Boy ni Tee Dasuna!!",
+    "Baka de Karukute Wagamama de",
+    "Natsu to Kimi no Irradiation"
+  ],
+  "type": "manga",
+  "volumes": 8,
+  "status": "finished",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx162353-z5kffZz7Y9qV.png"
+  ],
+  "references": {
+    "al": {
+      "id": "105080",
+      "url": "https://anilist.co/anime/105080"
+    },
+    "al_manga": {
+      "id": "105080",
+      "url": "https://anilist.co/manga/105080"
+    }
+  }
+}

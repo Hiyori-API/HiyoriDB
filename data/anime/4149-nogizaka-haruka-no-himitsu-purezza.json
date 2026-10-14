@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4149,
+  "slug": "nogizaka-haruka-no-himitsu-purezza",
+  "kind": "anime",
+  "title": "Nogizaka Haruka no Himitsu: Purezza",
+  "titles": {
+    "default": "Nogizaka Haruka no Himitsu: Purezza",
+    "romaji": "Nogizaka Haruka no Himitsu: Purezza",
+    "english": "Haruka Nogizaka's Secret: Purezza",
+    "native": "乃木坂春香の秘密ぴゃあれっつぁ"
+  },
+  "synonyms": [
+    "Nogizaka Haruka no Himitsu: Purezza",
+    "Haruka Nogizaka's Secret: Purezza",
+    "乃木坂春香の秘密ぴゃあれっつぁ",
+    "Nogizaka Haruka no Himitsu 2",
+    "Haruka Nogizaka's Secret: Purity"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6023-U6SV5hnnDyBf.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6023",
+      "url": "https://anilist.co/anime/6023"
+    },
+    "cr": {
+      "id": "nogizaka-haruka-no-himitsu-purezza-",
+      "url": "https://www.crunchyroll.com/series/nogizaka-haruka-no-himitsu-purezza-"
+    },
+    "k": {
+      "id": "4387",
+      "url": "https://kitsu.io/anime/4387"
+    },
+    "mal": {
+      "id": "6023",
+      "url": "https://myanimelist.net/anime/6023"
+    },
+    "t": {
+      "id": "61392",
+      "url": "https://trakt.tv/shows/61392"
+    }
+  }
+}

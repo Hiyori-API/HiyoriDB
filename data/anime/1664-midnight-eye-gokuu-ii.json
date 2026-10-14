@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1664,
+  "slug": "midnight-eye-gokuu-ii",
+  "kind": "anime",
+  "title": "MIDNIGHT EYE: Gokuu II",
+  "titles": {
+    "default": "MIDNIGHT EYE: Gokuu II",
+    "romaji": "MIDNIGHT EYE: Gokuu II",
+    "english": "Midnight Eye Goku II",
+    "native": "MIDNIGHT EYE ゴクウII"
+  },
+  "synonyms": [
+    "MIDNIGHT EYE: Gokuu II",
+    "Midnight Eye Goku II",
+    "MIDNIGHT EYE ゴクウII",
+    "MIDNIGHT EYE: Goku II",
+    "Goku II: Midnight Eye",
+    "Midnight Eye: Gokuu II",
+    "MIDNIGHT EYE　ゴクウII"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1880.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1880",
+      "url": "https://anilist.co/anime/1880"
+    },
+    "ap": {
+      "id": "B07F1PS9X9",
+      "url": "https://www.amazon.com/gp/video/detail/B07F1PS9X9"
+    },
+    "cr": {
+      "id": "midnight-eye-goku",
+      "url": "https://www.crunchyroll.com/series/midnight-eye-goku"
+    },
+    "k": {
+      "id": "1692",
+      "url": "https://kitsu.io/anime/1692"
+    },
+    "mal": {
+      "id": "1880",
+      "url": "https://myanimelist.net/anime/1880"
+    },
+    "ttv": {
+      "id": "4538",
+      "url": "https://tubitv.com/series/4538"
+    }
+  }
+}

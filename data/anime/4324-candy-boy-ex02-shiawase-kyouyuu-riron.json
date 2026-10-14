@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4324,
+  "slug": "candy-boy-ex02-shiawase-kyouyuu-riron",
+  "kind": "anime",
+  "title": "Candy☆Boy EX02 - Shiawase Kyouyuu Riron",
+  "titles": {
+    "default": "Candy☆Boy EX02 - Shiawase Kyouyuu Riron",
+    "romaji": "Candy☆Boy EX02 - Shiawase Kyouyuu Riron",
+    "english": "Candy☆Boy EX02 - Theory of Happiness Sharing",
+    "native": "Candy☆Boy EX02 - シアワセキョウユウリロン"
+  },
+  "synonyms": [
+    "Candy☆Boy EX02 - Shiawase Kyouyuu Riron",
+    "Candy☆Boy EX02 - Theory of Happiness Sharing",
+    "Candy☆Boy EX02 - シアワセキョウユウリロン",
+    "Candy Boy Extra Episode",
+    "Candy Boy Episode 8",
+    "Candy Boy Episode: EX02 - Shiawase Kyouyuu Riron",
+    "Candy boy episode: EX02 「シアワセキョウユウリロン」",
+    "Candy Boy EX02",
+    "Theory of Happiness Sharing"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6479.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6479",
+      "url": "https://anilist.co/anime/6479"
+    },
+    "k": {
+      "id": "4575",
+      "url": "https://kitsu.io/anime/4575"
+    },
+    "mal": {
+      "id": "6479",
+      "url": "https://myanimelist.net/anime/6479"
+    }
+  }
+}

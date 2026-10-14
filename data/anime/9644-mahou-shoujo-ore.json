@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9644,
+  "slug": "mahou-shoujo-ore",
+  "kind": "anime",
+  "title": "Mahou Shoujo Ore",
+  "titles": {
+    "default": "Mahou Shoujo Ore",
+    "romaji": "Mahou Shoujo Ore",
+    "english": "Magical Girl Ore",
+    "native": "魔法少女 俺"
+  },
+  "synonyms": [
+    "Mahou Shoujo Ore",
+    "Magical Girl Ore",
+    "魔法少女 俺",
+    "Magical Girl Boy",
+    "High Score Girl",
+    "ハイスコアガール",
+    "Hi Score Girl"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx100715-YP2B8SeGFtYO.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "100715",
+      "url": "https://anilist.co/anime/100715"
+    },
+    "cr": {
+      "id": "magical-girl-ore",
+      "url": "https://www.crunchyroll.com/series/magical-girl-ore"
+    },
+    "k": {
+      "id": "8158",
+      "url": "https://kitsu.io/anime/8158"
+    },
+    "mal": {
+      "id": "36902",
+      "url": "https://myanimelist.net/anime/36902"
+    },
+    "nf": {
+      "id": "80997338",
+      "url": "https://www.netflix.com/title/80997338"
+    },
+    "tx": {
+      "id": "magicalgirl_ore",
+      "url": "https://twitter.com/magicalgirl_ore"
+    }
+  }
+}

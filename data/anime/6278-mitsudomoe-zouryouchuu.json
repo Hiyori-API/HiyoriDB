@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6278,
+  "slug": "mitsudomoe-zouryouchuu",
+  "kind": "anime",
+  "title": "Mitsudomoe Zouryouchuu!",
+  "titles": {
+    "default": "Mitsudomoe Zouryouchuu!",
+    "romaji": "Mitsudomoe Zouryouchuu!",
+    "native": "みつどもえ増量中！"
+  },
+  "synonyms": [
+    "Mitsudomoe Zouryouchuu!",
+    "みつどもえ増量中！",
+    "Mitsudomoe Dai Ni Ki",
+    "Mitsudomoe 2-ki"
+  ],
+  "type": "tv",
+  "episodes": 8,
+  "status": "finished",
+  "season": "winter",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9510-RRAZDoMjI5wV.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9510",
+      "url": "https://anilist.co/anime/9510"
+    },
+    "cr": {
+      "id": "mitsudomoe",
+      "url": "https://www.crunchyroll.com/series/mitsudomoe"
+    },
+    "k": {
+      "id": "5765",
+      "url": "https://kitsu.io/anime/5765"
+    },
+    "mal": {
+      "id": "9510",
+      "url": "https://myanimelist.net/anime/9510"
+    },
+    "t": {
+      "id": "35379",
+      "url": "https://trakt.tv/shows/35379"
+    }
+  }
+}

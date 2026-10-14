@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10677,
+  "slug": "otmgirls-no-yokiyoki-channel",
+  "kind": "anime",
+  "title": "OTMGirls no YOKIYOKI Channel",
+  "titles": {
+    "default": "OTMGirls no YOKIYOKI Channel",
+    "romaji": "OTMGirls no YOKIYOKI Channel",
+    "native": "OTMGirlsのよきよきチャンネル"
+  },
+  "synonyms": [
+    "OTMGirls no YOKIYOKI Channel",
+    "OTMGirlsのよきよきチャンネル",
+    "Official Channel of OTMGirls",
+    "OTMGirls' Good Channel",
+    "Good Channel of OTMGirls",
+    "There's a Pit in My Senior Martial Brother's Brain 2",
+    "Our Big Brother's Mind Has A Problem 2",
+    "Wo Jia Da Shixiong Naozi You Keng 2nd Season",
+    "What's Wrong with My Big Brother 2nd Season",
+    "我家大师兄是个反派",
+    "Wo Jia Da Shixiong Shi Ge Fanpai"
+  ],
+  "type": "ona",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124960-8pHA2k0lNBZt.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "124960",
+      "url": "https://anilist.co/anime/124960"
+    },
+    "mal": {
+      "id": "43769",
+      "url": "https://myanimelist.net/anime/43769"
+    }
+  }
+}

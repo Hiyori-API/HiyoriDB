@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4266,
+  "slug": "kinnikuman-ii-sei",
+  "kind": "anime",
+  "title": "Kinnikuman II Sei",
+  "titles": {
+    "default": "Kinnikuman II Sei",
+    "romaji": "Kinnikuman II Sei",
+    "native": "キン肉マンII世"
+  },
+  "synonyms": [
+    "Kinnikuman II Sei",
+    "キン肉マンII世",
+    "Kinnikuman 2nd Generation",
+    "Kinnikuman Nisei: Second Generations",
+    "Kinnikuman II Sei: Second Generations"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6310.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6310",
+      "url": "https://anilist.co/anime/6310"
+    },
+    "k": {
+      "id": "4515",
+      "url": "https://kitsu.io/anime/4515"
+    },
+    "mal": {
+      "id": "6310",
+      "url": "https://myanimelist.net/anime/6310"
+    }
+  }
+}

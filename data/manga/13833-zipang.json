@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13833,
+  "slug": "zipang",
+  "kind": "manga",
+  "title": "Zipang",
+  "titles": {
+    "default": "Zipang"
+  },
+  "synonyms": [
+    "지팡구",
+    "ジパング",
+    "Zipang"
+  ],
+  "type": "manga",
+  "chapters": 422,
+  "volumes": 43,
+  "status": "finished",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30191-q5RdeIA88D9r.png"
+  ],
+  "references": {
+    "al": {
+      "id": "29",
+      "url": "https://anilist.co/anime/29"
+    },
+    "al_manga": {
+      "id": "29",
+      "url": "https://anilist.co/manga/29"
+    }
+  }
+}

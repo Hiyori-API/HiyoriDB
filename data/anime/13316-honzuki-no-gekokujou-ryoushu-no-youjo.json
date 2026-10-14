@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13316,
+  "slug": "honzuki-no-gekokujou-ryoushu-no-youjo",
+  "kind": "anime",
+  "title": "Honzuki no Gekokujou: Ryoushu no Youjo",
+  "titles": {
+    "default": "Honzuki no Gekokujou: Ryoushu no Youjo",
+    "romaji": "Honzuki no Gekokujou: Ryoushu no Youjo",
+    "english": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
+    "native": "本好きの下剋上 領主の養女"
+  },
+  "synonyms": [
+    "Honzuki no Gekokujou: Ryoushu no Youjo",
+    "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
+    "本好きの下剋上 領主の養女",
+    "Ascendance of a Bookworm Season 4",
+    "本好きの下剋上 司書になるためには手段を選んでいられません 第4期",
+    "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season",
+    "Trinity Blood",
+    "トリニティ・ブラッド"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "spring",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171110-7zOdInS6DQNL.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "171110",
+      "url": "https://anilist.co/anime/171110"
+    },
+    "cr": {
+      "id": "series/G6793XKZY/ascendance-of-a-bookworm",
+      "url": "https://www.crunchyroll.com/series/series/G6793XKZY/ascendance-of-a-bookworm"
+    },
+    "k": {
+      "id": "18",
+      "url": "https://kitsu.io/anime/18"
+    },
+    "mal": {
+      "id": "57466",
+      "url": "https://myanimelist.net/anime/57466"
+    },
+    "t": {
+      "id": "42864",
+      "url": "https://trakt.tv/shows/42864"
+    },
+    "tx": {
+      "id": "anime_booklove",
+      "url": "https://twitter.com/anime_booklove"
+    }
+  }
+}

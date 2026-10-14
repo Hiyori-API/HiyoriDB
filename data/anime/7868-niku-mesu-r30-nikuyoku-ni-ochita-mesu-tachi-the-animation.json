@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7868,
+  "slug": "niku-mesu-r30-nikuyoku-ni-ochita-mesu-tachi-the-animation",
+  "kind": "anime",
+  "title": "Niku Mesu R30: Nikuyoku ni Ochita Mesu-tachi THE ANIMATION",
+  "titles": {
+    "default": "Niku Mesu R30: Nikuyoku ni Ochita Mesu-tachi THE ANIMATION",
+    "romaji": "Niku Mesu R30: Nikuyoku ni Ochita Mesu-tachi THE ANIMATION",
+    "native": "肉牝R30 ~肉欲に堕ちた牝たち~ THE ANIMATION"
+  },
+  "synonyms": [
+    "Niku Mesu R30: Nikuyoku ni Ochita Mesu-tachi THE ANIMATION",
+    "肉牝R30 ~肉欲に堕ちた牝たち~ THE ANIMATION",
+    "Sex Animal R30 ~Whores drowned in their carnal desires~",
+    "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!: Motenaishi, Nazomeite Miru",
+    "私がモテないのはどう考えてもお前らが悪い! 未放送第13話",
+    "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui! Episode 13",
+    "Watamote OVA",
+    "Watamote Episode 13"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21117-acWyXuKgALGj.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21117",
+      "url": "https://anilist.co/anime/21117"
+    },
+    "k": {
+      "id": "7991",
+      "url": "https://kitsu.io/anime/7991"
+    },
+    "mal": {
+      "id": "25669",
+      "url": "https://myanimelist.net/anime/25669"
+    }
+  }
+}

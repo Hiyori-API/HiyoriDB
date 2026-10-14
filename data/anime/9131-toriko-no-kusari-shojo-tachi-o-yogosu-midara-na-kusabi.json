@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9131,
+  "slug": "toriko-no-kusari-shojo-tachi-o-yogosu-midara-na-kusabi",
+  "kind": "anime",
+  "title": "Toriko no Kusari: Shojo-tachi o Yogosu Midara na Kusabi",
+  "titles": {
+    "default": "Toriko no Kusari: Shojo-tachi o Yogosu Midara na Kusabi",
+    "romaji": "Toriko no Kusari: Shojo-tachi o Yogosu Midara na Kusabi",
+    "native": "虜ノ鎖~処女たちを穢す淫らな楔~"
+  },
+  "synonyms": [
+    "Toriko no Kusari: Shojo-tachi o Yogosu Midara na Kusabi",
+    "虜ノ鎖~処女たちを穢す淫らな楔~",
+    "Chains of the Slaves",
+    "Gravitation: Lyrics of Love",
+    "グラビテーション"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx97913-RUwJPby6l7C4.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "97913",
+      "url": "https://anilist.co/anime/97913"
+    },
+    "k": {
+      "id": "466",
+      "url": "https://kitsu.io/anime/466"
+    },
+    "mal": {
+      "id": "34529",
+      "url": "https://myanimelist.net/anime/34529"
+    }
+  }
+}

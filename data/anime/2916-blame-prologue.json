@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2916,
+  "slug": "blame-prologue",
+  "kind": "anime",
+  "title": "Blame! Prologue",
+  "titles": {
+    "default": "Blame! Prologue",
+    "romaji": "Blame! Prologue"
+  },
+  "synonyms": [
+    "Blame! Prologue",
+    "BLAME! (2007)"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx3430-ILujPl9574pZ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3430",
+      "url": "https://anilist.co/anime/3430"
+    },
+    "k": {
+      "id": "3004",
+      "url": "https://kitsu.io/anime/3004"
+    },
+    "mal": {
+      "id": "3430",
+      "url": "https://myanimelist.net/anime/3430"
+    }
+  }
+}

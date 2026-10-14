@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 839,
+  "slug": "inukami",
+  "kind": "anime",
+  "title": "Inukami!",
+  "titles": {
+    "default": "Inukami!",
+    "romaji": "Inukami!",
+    "native": "いぬかみっ!"
+  },
+  "synonyms": [
+    "Inukami!",
+    "いぬかみっ!",
+    "Dog Gods!"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx940-dyqGkqASU6Gq.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "940",
+      "url": "https://anilist.co/anime/940"
+    },
+    "cr": {
+      "id": "inukami",
+      "url": "https://www.crunchyroll.com/series/inukami"
+    },
+    "k": {
+      "id": "836",
+      "url": "https://kitsu.io/anime/836"
+    },
+    "mal": {
+      "id": "940",
+      "url": "https://myanimelist.net/anime/940"
+    },
+    "t": {
+      "id": "34659",
+      "url": "https://trakt.tv/shows/34659"
+    }
+  }
+}

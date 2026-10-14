@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12357,
+  "slug": "good-night-world",
+  "kind": "anime",
+  "title": "Good Night World",
+  "titles": {
+    "default": "Good Night World",
+    "romaji": "Good Night World",
+    "english": "GOOD NIGHT WORLD",
+    "native": "グッド・ナイト・ワールド"
+  },
+  "synonyms": [
+    "Good Night World",
+    "GOOD NIGHT WORLD",
+    "グッド・ナイト・ワールド",
+    "Добраніч, світе",
+    "Boa Noite, Mundo",
+    "Καληνύχτα, Κόσμε",
+    "Noapte bună, lume!",
+    "Buenas noches, mundo",
+    "กู๊ดไนท์ เวิลด์",
+    "굿 나이트 월드",
+    "تصبح على خير أيها العالم"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2023,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx167820-RO0nRXw7fcpu.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "167820",
+      "url": "https://anilist.co/anime/167820"
+    },
+    "mal": {
+      "id": "56146",
+      "url": "https://myanimelist.net/anime/56146"
+    },
+    "nf": {
+      "id": "81340213",
+      "url": "https://www.netflix.com/title/81340213"
+    },
+    "tx": {
+      "id": "GNW_anime",
+      "url": "https://twitter.com/GNW_anime"
+    }
+  }
+}

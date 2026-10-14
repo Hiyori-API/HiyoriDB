@@ -1,0 +1,58 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8345,
+  "slug": "hibike-euphonium-kakedasu-monaka",
+  "kind": "anime",
+  "title": "Hibike! Euphonium: Kakedasu Monaka",
+  "titles": {
+    "default": "Hibike! Euphonium: Kakedasu Monaka",
+    "romaji": "Hibike! Euphonium: Kakedasu Monaka",
+    "english": "Sound! Euphonium: Ready, Set, Monaka",
+    "native": "響け！ユーフォニアム 番外編 かけだすモナカ"
+  },
+  "synonyms": [
+    "Hibike! Euphonium: Kakedasu Monaka",
+    "Sound! Euphonium: Ready, Set, Monaka",
+    "響け！ユーフォニアム 番外編 かけだすモナカ",
+    "Hibike! Euphonium: Fonce, Monaka",
+    "Sound! Euphonium Episode 14",
+    "Witch Craft Works: Takamiya-kun to Imouto no Warudakumi",
+    "ウィッチクラフトワークス 多華宮君と妹の悪巧み",
+    "Witchcraft Works",
+    "Witch Craft Works OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21376-MwAfybEhcdZf.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21376",
+      "url": "https://anilist.co/anime/21376"
+    },
+    "cr": {
+      "id": "sound-euphonium",
+      "url": "https://www.crunchyroll.com/series/sound-euphonium"
+    },
+    "k": {
+      "id": "8257",
+      "url": "https://kitsu.io/anime/8257"
+    },
+    "mal": {
+      "id": "31665",
+      "url": "https://myanimelist.net/anime/31665"
+    },
+    "tx": {
+      "id": "anime_eupho",
+      "url": "https://twitter.com/anime_eupho"
+    },
+    "yt": {
+      "id": "KyoaniChann",
+      "url": "https://www.youtube.com/watch?v=KyoaniChann"
+    }
+  }
+}

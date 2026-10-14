@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15289,
+  "slug": "landreaall",
+  "kind": "manga",
+  "title": "Landreaall",
+  "titles": {
+    "default": "Landreaall"
+  },
+  "synonyms": [
+    "Landreall",
+    "ランドリオール",
+    "Strawberry Marshmallow",
+    "Ichigo Mashimaro",
+    "苺ましまろ"
+  ],
+  "type": "manga",
+  "status": "publishing",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx38751-1SeWQcAMiBNZ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "97674",
+      "url": "https://anilist.co/anime/97674"
+    },
+    "al_manga": {
+      "id": "97674",
+      "url": "https://anilist.co/manga/97674"
+    }
+  }
+}

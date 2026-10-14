@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10774,
+  "slug": "leatherman",
+  "kind": "anime",
+  "title": "Leatherman",
+  "titles": {
+    "default": "Leatherman",
+    "romaji": "Leatherman",
+    "native": "レザーマン"
+  },
+  "synonyms": [
+    "Leatherman",
+    "レザーマン",
+    "Sexbomb",
+    "Medaka no Gakkou",
+    "めだかの学校",
+    "Killifish School"
+  ],
+  "type": "ova",
+  "episodes": 5,
+  "status": "finished",
+  "season": "fall",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3378.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3378",
+      "url": "https://anilist.co/anime/3378"
+    },
+    "k": {
+      "id": "5769",
+      "url": "https://kitsu.io/anime/5769"
+    },
+    "mal": {
+      "id": "3378",
+      "url": "https://myanimelist.net/anime/3378"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7092,
+  "slug": "coppelion",
+  "kind": "anime",
+  "title": "Coppelion",
+  "titles": {
+    "default": "Coppelion",
+    "romaji": "Coppelion",
+    "native": "コッペリオン"
+  },
+  "synonyms": [
+    "Coppelion",
+    "コッペリオン"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9479-6Y7eko7qxSDS.png"
+  ],
+  "references": {
+    "al": {
+      "id": "9479",
+      "url": "https://anilist.co/anime/9479"
+    },
+    "k": {
+      "id": "5746",
+      "url": "https://kitsu.io/anime/5746"
+    },
+    "mal": {
+      "id": "9479",
+      "url": "https://myanimelist.net/anime/9479"
+    },
+    "t": {
+      "id": "72043",
+      "url": "https://trakt.tv/shows/72043"
+    }
+  }
+}

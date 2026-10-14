@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11358,
+  "slug": "powerful-pro-yakyuu-powerful-koukou-hen",
+  "kind": "anime",
+  "title": "Powerful Pro Yakyuu: Powerful Koukou-hen",
+  "titles": {
+    "default": "Powerful Pro Yakyuu: Powerful Koukou-hen",
+    "romaji": "Powerful Pro Yakyuu: Powerful Koukou-hen",
+    "native": "パワフルプロ野球 パワフル高校編"
+  },
+  "synonyms": [
+    "Powerful Pro Yakyuu: Powerful Koukou-hen",
+    "パワフルプロ野球 パワフル高校編",
+    "Fanren Xiu Xian Zhuan Special",
+    "A Record of a Mortal's Journey to Immortality Special",
+    "A Mortal's Journey Special",
+    "Fanren Xiu Xian Chuan",
+    "RMJI",
+    "凡人修仙传 特别篇 燕家堡大战",
+    "Fanren Xiu Xian Zhuan: Yan Jia Bao Dazhan"
+  ],
+  "type": "ona",
+  "episodes": 4,
+  "status": "finished",
+  "season": "winter",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131118-T0uVp5pmrZpg.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "131118",
+      "url": "https://anilist.co/anime/131118"
+    },
+    "mal": {
+      "id": "48452",
+      "url": "https://myanimelist.net/anime/48452"
+    }
+  }
+}

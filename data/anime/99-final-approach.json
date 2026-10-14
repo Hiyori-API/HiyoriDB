@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 99,
+  "slug": "final-approach",
+  "kind": "anime",
+  "title": "Final Approach",
+  "titles": {
+    "default": "Final Approach",
+    "romaji": "Final Approach",
+    "native": "Φなる・あぷろーち"
+  },
+  "synonyms": [
+    "Final Approach",
+    "Φなる・あぷろーち",
+    "Phinal Approach",
+    "φなる・あぷろーち"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119-OitBgnCg8T7c.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "119",
+      "url": "https://anilist.co/anime/119"
+    },
+    "k": {
+      "id": "98",
+      "url": "https://kitsu.io/anime/98"
+    },
+    "mal": {
+      "id": "119",
+      "url": "https://myanimelist.net/anime/119"
+    },
+    "t": {
+      "id": "63590",
+      "url": "https://trakt.tv/shows/63590"
+    }
+  }
+}

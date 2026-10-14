@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9190,
+  "slug": "ichinen-buri-no-the-animation",
+  "kind": "anime",
+  "title": "Ichinen Buri no THE ANIMATION",
+  "titles": {
+    "default": "Ichinen Buri no THE ANIMATION",
+    "romaji": "Ichinen Buri no THE ANIMATION",
+    "native": "一年ぶりの THE ANIMATION"
+  },
+  "synonyms": [
+    "Ichinen Buri no THE ANIMATION",
+    "一年ぶりの THE ANIMATION",
+    "New Game! OVA: My First Time on a Company Vacation...",
+    "New Game Episode 13",
+    "NEW GAME! 私、社員旅行って初めてなので…",
+    "New Game! Watashi, Shain Ryokou tte Hajimete nanode..."
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98307-1fJw1lKINOJt.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98307",
+      "url": "https://anilist.co/anime/98307"
+    },
+    "mal": {
+      "id": "34937",
+      "url": "https://myanimelist.net/anime/34937"
+    }
+  }
+}

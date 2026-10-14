@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1987,
+  "slug": "seraphim-call",
+  "kind": "anime",
+  "title": "Seraphim Call",
+  "titles": {
+    "default": "Seraphim Call",
+    "romaji": "Seraphim Call",
+    "native": "セラフィムコール"
+  },
+  "synonyms": [
+    "Seraphim Call",
+    "セラフィムコール"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2245-C4byesmWDtjb.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2245",
+      "url": "https://anilist.co/anime/2245"
+    },
+    "k": {
+      "id": "2034",
+      "url": "https://kitsu.io/anime/2034"
+    },
+    "mal": {
+      "id": "2245",
+      "url": "https://myanimelist.net/anime/2245"
+    },
+    "t": {
+      "id": "43715",
+      "url": "https://trakt.tv/shows/43715"
+    }
+  }
+}

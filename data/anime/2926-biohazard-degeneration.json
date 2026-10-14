@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2926,
+  "slug": "biohazard-degeneration",
+  "kind": "anime",
+  "title": "Biohazard: Degeneration",
+  "titles": {
+    "default": "Biohazard: Degeneration",
+    "romaji": "Biohazard: Degeneration",
+    "english": "Resident Evil: Degeneration",
+    "native": "バイオハザード ディジェネレーション"
+  },
+  "synonyms": [
+    "Biohazard: Degeneration",
+    "Resident Evil: Degeneration",
+    "バイオハザード ディジェネレーション",
+    "Resident Evil: Degeneracja",
+    "Resident Evil: Degeneração"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3446-XRV0WtztbCSq.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3446",
+      "url": "https://anilist.co/anime/3446"
+    },
+    "k": {
+      "id": "3015",
+      "url": "https://kitsu.io/anime/3015"
+    },
+    "mal": {
+      "id": "3446",
+      "url": "https://myanimelist.net/anime/3446"
+    }
+  }
+}

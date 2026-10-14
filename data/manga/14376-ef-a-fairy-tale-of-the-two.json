@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14376,
+  "slug": "ef-a-fairy-tale-of-the-two",
+  "kind": "manga",
+  "title": "ef: A Fairy Tale of the Two.",
+  "titles": {
+    "default": "ef: A Fairy Tale of the Two."
+  },
+  "synonyms": [
+    "ef: A Fairy Tale of the Two.",
+    "Guardian Dog"
+  ],
+  "type": "manga",
+  "chapters": 63,
+  "volumes": 10,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b33203-il464Nqbisfd.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4789",
+      "url": "https://anilist.co/anime/2924"
+    },
+    "al_manga": {
+      "id": "4789",
+      "url": "https://anilist.co/manga/4789"
+    }
+  }
+}

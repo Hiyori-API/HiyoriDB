@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13078,
+  "slug": "yami-shibai-14",
+  "kind": "anime",
+  "title": "Yami Shibai 14",
+  "titles": {
+    "default": "Yami Shibai 14",
+    "romaji": "Yami Shibai 14",
+    "english": "Theatre of Darkness: Yamishibai 14",
+    "native": "闇芝居 十四期"
+  },
+  "synonyms": [
+    "Yami Shibai 14",
+    "Theatre of Darkness: Yamishibai 14",
+    "闇芝居 十四期",
+    "Yamishibai: Japanese Ghost Stories Fourteenth Season",
+    "El Hazard: The Alternative World",
+    "異次元の世界エルハザード",
+    "Ijigen no Sekai El Hazard",
+    "Ijigen no Sekai El-Hazard"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185088-pY2KxbG0KIoO.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "185088",
+      "url": "https://anilist.co/anime/185088"
+    },
+    "cr": {
+      "id": "series/G6WEM1V36/theatre-of-darkness-yamishibai",
+      "url": "https://www.crunchyroll.com/series/series/G6WEM1V36/theatre-of-darkness-yamishibai"
+    },
+    "k": {
+      "id": "94",
+      "url": "https://kitsu.io/anime/94"
+    },
+    "mal": {
+      "id": "60410",
+      "url": "https://myanimelist.net/anime/60410"
+    },
+    "t": {
+      "id": "63711",
+      "url": "https://trakt.tv/shows/63711"
+    },
+    "tvt": {
+      "id": "yamishibai14",
+      "url": "http://www.tv-tokyo.co.jp/anime/yamishibai14"
+    }
+  }
+}

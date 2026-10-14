@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13250,
+  "slug": "sylvanian-families-freya-no-wonder-days",
+  "kind": "anime",
+  "title": "Sylvanian Families: Freya no Wonder Days",
+  "titles": {
+    "default": "Sylvanian Families: Freya no Wonder Days",
+    "romaji": "Sylvanian Families: Freya no Wonder Days",
+    "native": "シルバニアファミリー フレアのワンダーデイズ"
+  },
+  "synonyms": [
+    "Sylvanian Families: Freya no Wonder Days",
+    "シルバニアファミリー フレアのワンダーデイズ",
+    "Ring ni Kakero 1",
+    "リングにかけろ１",
+    "Put it all in the Ring"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198921-NMVQx7KSCnTd.png"
+  ],
+  "references": {
+    "al": {
+      "id": "198921",
+      "url": "https://anilist.co/anime/198921"
+    },
+    "k": {
+      "id": "14",
+      "url": "https://kitsu.io/anime/14"
+    },
+    "mal": {
+      "id": "62504",
+      "url": "https://myanimelist.net/anime/62504"
+    },
+    "t": {
+      "id": "69507",
+      "url": "https://trakt.tv/shows/69507"
+    }
+  }
+}

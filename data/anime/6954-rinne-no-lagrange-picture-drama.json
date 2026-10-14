@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6954,
+  "slug": "rinne-no-lagrange-picture-drama",
+  "kind": "anime",
+  "title": "Rinne no Lagrange Picture Drama",
+  "titles": {
+    "default": "Rinne no Lagrange Picture Drama",
+    "romaji": "Rinne no Lagrange Picture Drama",
+    "native": "輪廻のラグランジェ ピクチャードラマ"
+  },
+  "synonyms": [
+    "Rinne no Lagrange Picture Drama",
+    "輪廻のラグランジェ ピクチャードラマ",
+    "Rinne no Lagrange Specials",
+    "Lagrange: The Flower of Rin-ne Specials",
+    "Daily Lives of High School Boys Specials",
+    "Danshi Koukousei no Nichijou Specials",
+    "男子高校生の日常"
+  ],
+  "type": "special",
+  "episodes": 6,
+  "status": "finished",
+  "season": "spring",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/14583.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "14583",
+      "url": "https://anilist.co/anime/14583"
+    },
+    "k": {
+      "id": "6839",
+      "url": "https://kitsu.io/anime/6839"
+    },
+    "mal": {
+      "id": "14583",
+      "url": "https://myanimelist.net/anime/14583"
+    }
+  }
+}

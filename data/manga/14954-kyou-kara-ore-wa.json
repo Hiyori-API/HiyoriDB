@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14954,
+  "slug": "kyou-kara-ore-wa",
+  "kind": "manga",
+  "title": "Kyou kara Ore wa!!",
+  "titles": {
+    "default": "Kyou kara Ore wa!!"
+  },
+  "synonyms": [
+    "Kyoukara Ore Wa!!",
+    "Kyoukara Ore Wa!",
+    "Today",
+    "It's My Turn!!",
+    "Due come noi!!",
+    "今日から俺は！！",
+    "Vaelber Saga",
+    "ヴェルバーサーガ"
+  ],
+  "type": "manga",
+  "chapters": 366,
+  "volumes": 38,
+  "status": "finished",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx36812-Cavpx8IJ0kwL.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "851",
+      "url": "https://anilist.co/anime/851"
+    },
+    "al_manga": {
+      "id": "851",
+      "url": "https://anilist.co/manga/851"
+    }
+  }
+}

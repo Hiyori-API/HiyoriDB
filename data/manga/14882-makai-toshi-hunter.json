@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14882,
+  "slug": "makai-toshi-hunter",
+  "kind": "manga",
+  "title": "Makai Toshi Hunter",
+  "titles": {
+    "default": "Makai Toshi Hunter"
+  },
+  "synonyms": [
+    "Hell City Hunter",
+    "Monster City Hunter",
+    "Demon City Hunter",
+    "魔界都市ハンター",
+    "Makai Toshi Hunter"
+  ],
+  "type": "manga",
+  "chapters": 156,
+  "volumes": 17,
+  "status": "finished",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx46349-f4CxOmCjsHuV.png"
+  ],
+  "references": {
+    "al": {
+      "id": "499",
+      "url": "https://anilist.co/anime/499"
+    },
+    "al_manga": {
+      "id": "499",
+      "url": "https://anilist.co/manga/499"
+    }
+  }
+}

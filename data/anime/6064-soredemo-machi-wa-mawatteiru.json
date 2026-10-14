@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6064,
+  "slug": "soredemo-machi-wa-mawatteiru",
+  "kind": "anime",
+  "title": "Soredemo Machi wa Mawatteiru",
+  "titles": {
+    "default": "Soredemo Machi wa Mawatteiru",
+    "romaji": "Soredemo Machi wa Mawatteiru",
+    "english": "And Yet The Town Moves",
+    "native": "それでも町は廻っている"
+  },
+  "synonyms": [
+    "Soredemo Machi wa Mawatteiru",
+    "And Yet The Town Moves",
+    "それでも町は廻っている",
+    "SoreMachi",
+    "それ町"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx8726-PX1AiBJxOzyo.png"
+  ],
+  "references": {
+    "al": {
+      "id": "8726",
+      "url": "https://anilist.co/anime/8726"
+    },
+    "k": {
+      "id": "5462",
+      "url": "https://kitsu.io/anime/5462"
+    },
+    "mal": {
+      "id": "8726",
+      "url": "https://myanimelist.net/anime/8726"
+    },
+    "t": {
+      "id": "36945",
+      "url": "https://trakt.tv/shows/36945"
+    }
+  }
+}

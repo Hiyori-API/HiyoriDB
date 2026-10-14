@@ -1,0 +1,58 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11673,
+  "slug": "kimi-wo-aishita-hitori-no-boku-e",
+  "kind": "anime",
+  "title": "Kimi wo Aishita Hitori no Boku e",
+  "titles": {
+    "default": "Kimi wo Aishita Hitori no Boku e",
+    "romaji": "Kimi wo Aishita Hitori no Boku e",
+    "english": "To Me, The One Who Loved You",
+    "native": "君を愛したひとりの僕へ"
+  },
+  "synonyms": [
+    "Kimi wo Aishita Hitori no Boku e",
+    "To Me, The One Who Loved You",
+    "君を愛したひとりの僕へ",
+    "Nhắn gửi một tôi, người đã yêu em",
+    "KimiAi",
+    "Samurai X: The Motion Picture",
+    "Rurouni Kenshin: Meiji Kenkaku Romantan - Ishinshishi e no Chinkonka",
+    "るろうに剣心 -明治剣客浪漫譚- 維新志士への鎮魂歌",
+    "Rurouni Kenshin: Ishinshishi e no Requiem",
+    "Kenshin - Samurai X",
+    "Rurouni Kenshin Movie",
+    "Rurouni Kenshin - Requiem for the Restoration Royalists",
+    "Rurouni Kenshin: Meiji Kenkaku Romantan - Ishinshishi e no Requiem"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139311-5iHY459iwQ46.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "139311",
+      "url": "https://anilist.co/anime/139311"
+    },
+    "cr": {
+      "id": "to-me-the-one-who-loved-you",
+      "url": "https://www.crunchyroll.com/series/to-me-the-one-who-loved-you"
+    },
+    "k": {
+      "id": "28",
+      "url": "https://kitsu.io/anime/28"
+    },
+    "mal": {
+      "id": "49835",
+      "url": "https://myanimelist.net/anime/49835"
+    },
+    "tx": {
+      "id": "kimiai_movie",
+      "url": "https://twitter.com/kimiai_movie"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13943,
+  "slug": "kodomo-no-jikan",
+  "kind": "manga",
+  "title": "Kodomo no Jikan",
+  "titles": {
+    "default": "Kodomo no Jikan"
+  },
+  "synonyms": [
+    "A Child's Time",
+    "Kojika",
+    "Nymphet",
+    "Kodomo no Jikan",
+    "こどものじかん"
+  ],
+  "type": "manga",
+  "chapters": 93,
+  "volumes": 13,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx30582-YvVkjMplMxPz.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4195",
+      "url": "https://anilist.co/anime/2403"
+    },
+    "al_manga": {
+      "id": "4195",
+      "url": "https://anilist.co/manga/4195"
+    }
+  }
+}

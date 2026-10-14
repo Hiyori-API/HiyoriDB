@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2257,
+  "slug": "tetsuko-no-tabi",
+  "kind": "anime",
+  "title": "Tetsuko no Tabi",
+  "titles": {
+    "default": "Tetsuko no Tabi",
+    "romaji": "Tetsuko no Tabi",
+    "native": "鉄子の旅"
+  },
+  "synonyms": [
+    "Tetsuko no Tabi",
+    "鉄子の旅",
+    "Tetsuko's Travels",
+    "Tetsuko's Trip",
+    "Baccano!",
+    "バッカーノ！"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2552.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2552",
+      "url": "https://anilist.co/anime/2552"
+    },
+    "k": {
+      "id": "2039",
+      "url": "https://kitsu.io/anime/2039"
+    },
+    "mal": {
+      "id": "2552",
+      "url": "https://myanimelist.net/anime/2552"
+    },
+    "t": {
+      "id": "33974",
+      "url": "https://trakt.tv/shows/33974"
+    }
+  }
+}

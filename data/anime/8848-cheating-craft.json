@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8848,
+  "slug": "cheating-craft",
+  "kind": "anime",
+  "title": "Cheating Craft",
+  "titles": {
+    "default": "Cheating Craft",
+    "romaji": "Cheating Craft",
+    "native": "チーティングクラフト"
+  },
+  "synonyms": [
+    "Cheating Craft",
+    "チーティングクラフト",
+    "作弊艺术",
+    "Zuobi Yishu",
+    "一课一练",
+    "Yike Yilian",
+    "One Lesson One Fight",
+    "Kiss Him, Not Me!",
+    "私がモテてどうすんだ",
+    "Watashi ga Motete Dousunda"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/97609-qSAaN9XbRQjj.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "97609",
+      "url": "https://anilist.co/anime/97609"
+    },
+    "cr": {
+      "id": "cheating-craft",
+      "url": "https://www.crunchyroll.com/series/cheating-craft"
+    },
+    "mal": {
+      "id": "33771",
+      "url": "https://myanimelist.net/anime/33771"
+    },
+    "tx": {
+      "id": "cheatingcraft",
+      "url": "https://twitter.com/cheatingcraft"
+    }
+  }
+}

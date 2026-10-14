@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11595,
+  "slug": "toku-touken-ranbu-hanamaru-setsugetsuka",
+  "kind": "anime",
+  "title": "Toku: Touken Ranbu - Hanamaru - Setsugetsuka",
+  "titles": {
+    "default": "Toku: Touken Ranbu - Hanamaru - Setsugetsuka",
+    "romaji": "Toku: Touken Ranbu - Hanamaru - Setsugetsuka",
+    "english": "TOUKEN RANBU HANAMARU Season 3",
+    "native": "特『刀剣乱舞-花丸-』～雪月華～"
+  },
+  "synonyms": [
+    "Toku: Touken Ranbu - Hanamaru - Setsugetsuka",
+    "TOUKEN RANBU HANAMARU Season 3",
+    "特『刀剣乱舞-花丸-』～雪月華～",
+    "Touken Ranbu - Hanamaru Season 3"
+  ],
+  "type": "movie",
+  "episodes": 3,
+  "status": "finished",
+  "season": "spring",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130305-0w7nqQBAJEQf.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "130305",
+      "url": "https://anilist.co/anime/130305"
+    },
+    "cr": {
+      "id": "series/GY5VEEK5Y/touken-ranbu---hanamaru",
+      "url": "https://www.crunchyroll.com/series/series/GY5VEEK5Y/touken-ranbu---hanamaru"
+    },
+    "mal": {
+      "id": "47777",
+      "url": "https://myanimelist.net/anime/47777"
+    },
+    "tx": {
+      "id": "touken_hanamaru",
+      "url": "https://twitter.com/touken_hanamaru"
+    }
+  }
+}

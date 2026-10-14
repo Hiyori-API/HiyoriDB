@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 819,
+  "slug": "ginga-densetsu-weed",
+  "kind": "anime",
+  "title": "Ginga Densetsu Weed",
+  "titles": {
+    "default": "Ginga Densetsu Weed",
+    "romaji": "Ginga Densetsu Weed",
+    "native": "銀牙伝説ウィード"
+  },
+  "synonyms": [
+    "Ginga Densetsu Weed",
+    "銀牙伝説ウィード",
+    "Ginga Legend Weed",
+    "Ginga Densetsu Weed - Hopeanuolen poika",
+    "銀牙傳說WEED",
+    "Ginga Densetsu Weed - Silver Fang's Søn",
+    "Ginga Densetsu Weed - Silver Fang's Son",
+    "Silver Fang Legend Weed"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/915-Y7tGnj7BJVZq.png"
+  ],
+  "references": {
+    "al": {
+      "id": "915",
+      "url": "https://anilist.co/anime/915"
+    },
+    "k": {
+      "id": "815",
+      "url": "https://kitsu.io/anime/815"
+    },
+    "mal": {
+      "id": "915",
+      "url": "https://myanimelist.net/anime/915"
+    },
+    "t": {
+      "id": "63979",
+      "url": "https://trakt.tv/shows/63979"
+    }
+  }
+}

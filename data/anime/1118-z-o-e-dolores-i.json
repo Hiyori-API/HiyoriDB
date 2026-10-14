@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1118,
+  "slug": "z-o-e-dolores-i",
+  "kind": "anime",
+  "title": "Z.O.E Dolores,i",
+  "titles": {
+    "default": "Z.O.E Dolores,i",
+    "romaji": "Z.O.E Dolores,i",
+    "english": "Z.O.E Dolores, i"
+  },
+  "synonyms": [
+    "Z.O.E Dolores,i",
+    "Z.O.E Dolores, i",
+    "ZOE: Dolores",
+    "Zone of the Enders Dolores, I",
+    "Zone of the Enders: Dolores",
+    "Zone of the Enders: Dolores, I",
+    "I",
+    "Z.O.E Dolores"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1249-RuQ5oY6NQyFq.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1249",
+      "url": "https://anilist.co/anime/1249"
+    },
+    "k": {
+      "id": "1124",
+      "url": "https://kitsu.io/anime/1124"
+    },
+    "mal": {
+      "id": "1249",
+      "url": "https://myanimelist.net/anime/1249"
+    },
+    "t": {
+      "id": "30891",
+      "url": "https://trakt.tv/shows/30891"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1399,
+  "slug": "mouryou-senki-madara",
+  "kind": "anime",
+  "title": "Mouryou Senki MADARA",
+  "titles": {
+    "default": "Mouryou Senki MADARA",
+    "romaji": "Mouryou Senki MADARA",
+    "native": "魍魎戦記 MADARA[摩陀羅]"
+  },
+  "synonyms": [
+    "Mouryou Senki MADARA",
+    "魍魎戦記 MADARA[摩陀羅]",
+    "Madara",
+    "Mouryou Senki Madara"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1580-fuRq024Jnd8U.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1580",
+      "url": "https://anilist.co/anime/1580"
+    },
+    "k": {
+      "id": "1420",
+      "url": "https://kitsu.io/anime/1420"
+    },
+    "mal": {
+      "id": "1580",
+      "url": "https://myanimelist.net/anime/1580"
+    }
+  }
+}

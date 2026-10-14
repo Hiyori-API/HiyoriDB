@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5468,
+  "slug": "shouta-no-sushi-kokoro-ni-hibiku-shari-no-aji",
+  "kind": "anime",
+  "title": "Shouta no Sushi: Kokoro ni Hibiku Shari no Aji",
+  "titles": {
+    "default": "Shouta no Sushi: Kokoro ni Hibiku Shari no Aji",
+    "romaji": "Shouta no Sushi: Kokoro ni Hibiku Shari no Aji",
+    "native": "将太の寿司 心にひびくシャリの味"
+  },
+  "synonyms": [
+    "Shouta no Sushi: Kokoro ni Hibiku Shari no Aji",
+    "将太の寿司 心にひびくシャリの味",
+    "Shouta's Sushi",
+    "Dual Parallel! Trouble Adventures Special",
+    "デュアル！ぱられルンルン物語「ファイナル・フロンティア」",
+    "Dual! Parallel Trouble Adventures Special",
+    "Dual! Paralle Lunlun Monogatari Special",
+    "Final Frontier"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126892-Wwyzx4GVmqMO.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "126892",
+      "url": "https://anilist.co/anime/126892"
+    },
+    "k": {
+      "id": "883",
+      "url": "https://kitsu.io/anime/883"
+    },
+    "mal": {
+      "id": "27963",
+      "url": "https://myanimelist.net/anime/27963"
+    }
+  }
+}

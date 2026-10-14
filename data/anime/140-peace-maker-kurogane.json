@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 140,
+  "slug": "peace-maker-kurogane",
+  "kind": "anime",
+  "title": "PEACE MAKER Kurogane",
+  "titles": {
+    "default": "PEACE MAKER Kurogane",
+    "romaji": "PEACE MAKER Kurogane",
+    "english": "Peacemaker",
+    "native": "PEACE MAKER 鐵"
+  },
+  "synonyms": [
+    "PEACE MAKER Kurogane",
+    "Peacemaker",
+    "PEACE MAKER 鐵",
+    "ピースメーカー クロガネ",
+    "PMK",
+    "Peace Maker Kurogane",
+    "Peacemaker Kurogane"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "fall",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx161-oa4X4lL0KUO4.png"
+  ],
+  "references": {
+    "al": {
+      "id": "161",
+      "url": "https://anilist.co/anime/161"
+    },
+    "cr": {
+      "id": "peacemaker",
+      "url": "https://www.crunchyroll.com/series/peacemaker"
+    },
+    "k": {
+      "id": "139",
+      "url": "https://kitsu.io/anime/139"
+    },
+    "mal": {
+      "id": "161",
+      "url": "https://myanimelist.net/anime/161"
+    },
+    "t": {
+      "id": "21687",
+      "url": "https://trakt.tv/shows/21687"
+    }
+  }
+}

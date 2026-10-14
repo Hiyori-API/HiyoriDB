@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 172,
+  "slug": "macross-zero",
+  "kind": "anime",
+  "title": "Macross Zero",
+  "titles": {
+    "default": "Macross Zero",
+    "romaji": "Macross Zero",
+    "native": "マクロス ゼロ"
+  },
+  "synonyms": [
+    "Macross Zero",
+    "マクロス ゼロ",
+    "Sweat Punch",
+    "スウェットパンチ",
+    "Deep Imagination",
+    "Dan Petory Kyoushu no Yuutsu",
+    "Professor Dan Petry's Blues",
+    "End of the World",
+    "Kigeki",
+    "Comedy",
+    "Higan",
+    "Beyond",
+    "Garakuta no Machi",
+    "Junk Town"
+  ],
+  "type": "ova",
+  "episodes": 5,
+  "status": "finished",
+  "season": "winter",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194-WGTjEMUnjGaW.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "194",
+      "url": "https://anilist.co/anime/194"
+    },
+    "k": {
+      "id": "959",
+      "url": "https://kitsu.io/anime/959"
+    },
+    "mal": {
+      "id": "194",
+      "url": "https://myanimelist.net/anime/194"
+    }
+  }
+}

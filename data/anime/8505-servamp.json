@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8505,
+  "slug": "servamp",
+  "kind": "anime",
+  "title": "SERVAMP",
+  "titles": {
+    "default": "SERVAMP",
+    "romaji": "SERVAMP"
+  },
+  "synonyms": [
+    "SERVAMP",
+    "サーヴァンプ",
+    "Handa-kun",
+    "はんだくん"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21269-NU0MR6HcefqO.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21269",
+      "url": "https://anilist.co/anime/21269"
+    },
+    "cr": {
+      "id": "servamp",
+      "url": "https://www.crunchyroll.com/series/servamp"
+    },
+    "mal": {
+      "id": "31229",
+      "url": "https://myanimelist.net/anime/31229"
+    },
+    "tx": {
+      "id": "anime_servamp",
+      "url": "https://twitter.com/anime_servamp"
+    }
+  }
+}

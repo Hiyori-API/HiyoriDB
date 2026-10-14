@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5118,
+  "slug": "eiyuu-gaiden-mozaicka",
+  "kind": "anime",
+  "title": "Eiyuu Gaiden Mozaicka",
+  "titles": {
+    "default": "Eiyuu Gaiden Mozaicka",
+    "romaji": "Eiyuu Gaiden Mozaicka",
+    "native": "英雄凱伝モザイカ"
+  },
+  "synonyms": [
+    "Eiyuu Gaiden Mozaicka",
+    "英雄凱伝モザイカ",
+    "Mozaika"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "fall",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8855.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8855",
+      "url": "https://anilist.co/anime/8855"
+    },
+    "k": {
+      "id": "5511",
+      "url": "https://kitsu.io/anime/5511"
+    },
+    "mal": {
+      "id": "8855",
+      "url": "https://myanimelist.net/anime/8855"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6,
+  "slug": "eyeshield-21",
+  "kind": "anime",
+  "title": "Eyeshield 21",
+  "titles": {
+    "default": "Eyeshield 21",
+    "romaji": "Eyeshield 21",
+    "native": "アイシールド21"
+  },
+  "synonyms": [
+    "Eyeshield 21",
+    "アイシールド21",
+    "Eyeshield21"
+  ],
+  "type": "tv",
+  "episodes": 145,
+  "status": "finished",
+  "season": "spring",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15-A4F2t0TgWoi4.png"
+  ],
+  "references": {
+    "al": {
+      "id": "15",
+      "url": "https://anilist.co/anime/15"
+    },
+    "cr": {
+      "id": "eyeshield-21",
+      "url": "https://www.crunchyroll.com/series/eyeshield-21"
+    },
+    "k": {
+      "id": "6",
+      "url": "https://kitsu.io/anime/6"
+    },
+    "mal": {
+      "id": "15",
+      "url": "https://myanimelist.net/anime/15"
+    },
+    "t": {
+      "id": "31598",
+      "url": "https://trakt.tv/shows/31598"
+    }
+  }
+}

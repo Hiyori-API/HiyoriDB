@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14157,
+  "slug": "gunsmith-cats",
+  "kind": "manga",
+  "title": "Gunsmith Cats",
+  "titles": {
+    "default": "Gunsmith Cats"
+  },
+  "synonyms": [
+    "건스미스 캣츠",
+    "Gunsmith Cats",
+    "ガンスミスキャッツ",
+    "Shouryou Tsukai Elementalors",
+    "精霊使いエレメンタラー",
+    "Elementalors",
+    "Shouryou Tsukai Erementara",
+    "les Elémentalistes"
+  ],
+  "type": "manga",
+  "chapters": 75,
+  "volumes": 8,
+  "status": "finished",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31319-8Ykl1NYqaX6r.png"
+  ],
+  "references": {
+    "al": {
+      "id": "650",
+      "url": "https://anilist.co/anime/650"
+    },
+    "al_manga": {
+      "id": "650",
+      "url": "https://anilist.co/manga/650"
+    }
+  }
+}

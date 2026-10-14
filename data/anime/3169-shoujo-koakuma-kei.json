@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3169,
+  "slug": "shoujo-koakuma-kei",
+  "kind": "anime",
+  "title": "Shoujo Koakuma Kei",
+  "titles": {
+    "default": "Shoujo Koakuma Kei",
+    "romaji": "Shoujo Koakuma Kei",
+    "english": "Shojyo Koakuma Kei: The Writhing Women",
+    "native": "少女小悪魔系 -蠢く女たち-"
+  },
+  "synonyms": [
+    "Shoujo Koakuma Kei",
+    "Shojyo Koakuma Kei: The Writhing Women",
+    "少女小悪魔系 -蠢く女たち-",
+    "Ultra Maniac OVA",
+    "ウルトラマニアック",
+    "Tokimeki Fushigi Diary: Ultra Maniac"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3824.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3824",
+      "url": "https://anilist.co/anime/3824"
+    },
+    "k": {
+      "id": "156",
+      "url": "https://kitsu.io/anime/156"
+    },
+    "mal": {
+      "id": "3824",
+      "url": "https://myanimelist.net/anime/3824"
+    }
+  }
+}

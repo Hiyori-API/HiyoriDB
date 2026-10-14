@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11305,
+  "slug": "blue-period",
+  "kind": "anime",
+  "title": "Blue Period",
+  "titles": {
+    "default": "Blue Period",
+    "romaji": "Blue Period",
+    "native": "ブルーピリオド"
+  },
+  "synonyms": [
+    "Blue Period",
+    "ブルーピリオド",
+    "Periodo Azul",
+    "Голубой период",
+    "Блакитний період",
+    "Xian Wang de Richang Shenghuo Er",
+    "仙王的日常生活 贰",
+    "不死身な僕の日常 2期",
+    "The Daily Life of the Immortal King 2",
+    "仙王的日常生活 第二季",
+    "Xian Wang de Richang Shenghuo 2"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128705-LqIWVpiwDlDc.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "128705",
+      "url": "https://anilist.co/anime/128705"
+    },
+    "mal": {
+      "id": "46352",
+      "url": "https://myanimelist.net/anime/46352"
+    },
+    "nf": {
+      "id": "81318842",
+      "url": "https://www.netflix.com/title/81318842"
+    },
+    "tx": {
+      "id": "blueperiod_pr",
+      "url": "https://twitter.com/blueperiod_pr"
+    }
+  }
+}

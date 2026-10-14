@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15449,
+  "slug": "steam-boy",
+  "kind": "manga",
+  "title": "Steam Boy",
+  "titles": {
+    "default": "Steam Boy"
+  },
+  "synonyms": [
+    "SteamBoy",
+    "Steam Boy",
+    "スチームボーイ",
+    "Renai Soukanzu",
+    "恋愛相姦図",
+    "Renai Sokanzu",
+    "Pink Sweets"
+  ],
+  "type": "manga",
+  "chapters": 14,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/18606.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "565",
+      "url": "https://anilist.co/anime/565"
+    },
+    "al_manga": {
+      "id": "565",
+      "url": "https://anilist.co/manga/565"
+    }
+  }
+}

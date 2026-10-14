@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1287,
+  "slug": "key-the-metal-idol",
+  "kind": "anime",
+  "title": "KEY THE METAL IDOL",
+  "titles": {
+    "default": "KEY THE METAL IDOL",
+    "romaji": "KEY THE METAL IDOL",
+    "english": "Key the Metal Idol"
+  },
+  "synonyms": [
+    "KEY THE METAL IDOL",
+    "Key the Metal Idol"
+  ],
+  "type": "ova",
+  "episodes": 15,
+  "status": "finished",
+  "season": "winter",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1457-2fMgN8MtD4mZ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1457",
+      "url": "https://anilist.co/anime/1457"
+    },
+    "cr": {
+      "id": "key-the-metal-idol",
+      "url": "https://www.crunchyroll.com/series/key-the-metal-idol"
+    },
+    "k": {
+      "id": "1307",
+      "url": "https://kitsu.io/anime/1307"
+    },
+    "mal": {
+      "id": "1457",
+      "url": "https://myanimelist.net/anime/1457"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6133,
+  "slug": "yubisaki-annainin-shirudaku-settai-okawari-sanhaime",
+  "kind": "anime",
+  "title": "Yubisaki Annainin Shirudaku Settai Okawari Sanhaime",
+  "titles": {
+    "default": "Yubisaki Annainin Shirudaku Settai Okawari Sanhaime",
+    "romaji": "Yubisaki Annainin Shirudaku Settai Okawari Sanhaime",
+    "english": "SEX SALON",
+    "native": "指先案内人 汁だく接待 おかわり三杯目"
+  },
+  "synonyms": [
+    "Yubisaki Annainin Shirudaku Settai Okawari Sanhaime",
+    "SEX SALON",
+    "指先案内人 汁だく接待 おかわり三杯目",
+    "Yozakura Quartet: Hoshi no Umi",
+    "夜桜四重奏 ～ホシノウミ～"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "fall",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9326.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9326",
+      "url": "https://anilist.co/anime/9326"
+    },
+    "k": {
+      "id": "5343",
+      "url": "https://kitsu.io/anime/5343"
+    },
+    "mal": {
+      "id": "9326",
+      "url": "https://myanimelist.net/anime/9326"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 280,
+  "slug": "kerokko-demetan",
+  "kind": "anime",
+  "title": "Kerokko Demetan",
+  "titles": {
+    "default": "Kerokko Demetan",
+    "romaji": "Kerokko Demetan",
+    "native": "けろっこデメタン"
+  },
+  "synonyms": [
+    "Kerokko Demetan",
+    "けろっこデメタン",
+    "Demetan Croaker",
+    "The Boy Frog",
+    "The Brave Frog",
+    "Demetan, der Froschjunge",
+    "Abenteuer am Regenbogenteich",
+    "Eventyret i Regnbuedammen",
+    "Démétan la Petite Grenouille",
+    "La banda dei ranocchi",
+    "Adventures On Rainbow Pond",
+    "The Brave Frog's Greatest Adventure"
+  ],
+  "type": "tv",
+  "episodes": 39,
+  "status": "finished",
+  "season": "winter",
+  "year": 1973,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/307.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "307",
+      "url": "https://anilist.co/anime/307"
+    },
+    "k": {
+      "id": "9016",
+      "url": "https://kitsu.io/anime/9016"
+    },
+    "mal": {
+      "id": "307",
+      "url": "https://myanimelist.net/anime/307"
+    }
+  }
+}

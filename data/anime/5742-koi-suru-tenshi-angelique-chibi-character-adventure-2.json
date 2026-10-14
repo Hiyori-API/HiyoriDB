@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5742,
+  "slug": "koi-suru-tenshi-angelique-chibi-character-adventure-2",
+  "kind": "anime",
+  "title": "Koi Suru Tenshi Angelique: Chibi Character Adventure 2",
+  "titles": {
+    "default": "Koi Suru Tenshi Angelique: Chibi Character Adventure 2",
+    "romaji": "Koi Suru Tenshi Angelique: Chibi Character Adventure 2",
+    "english": "Loving Angel Angelique Chibi Adventure Special 2",
+    "native": "恋する天使アンジェリーク ちびキャラAdventure 2"
+  },
+  "synonyms": [
+    "Koi Suru Tenshi Angelique: Chibi Character Adventure 2",
+    "Loving Angel Angelique Chibi Adventure Special 2",
+    "恋する天使アンジェリーク ちびキャラAdventure 2",
+    "Angelique Chibi Omake 2",
+    "Koisuru Tenshi Angelique: Chibi Character Adventure 2",
+    "Koi Suru Tenshi Angelique"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8180.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8180",
+      "url": "https://anilist.co/anime/8180"
+    },
+    "k": {
+      "id": "5229",
+      "url": "https://kitsu.io/anime/5229"
+    },
+    "mal": {
+      "id": "8180",
+      "url": "https://myanimelist.net/anime/8180"
+    }
+  }
+}

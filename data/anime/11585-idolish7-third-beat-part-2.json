@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11585,
+  "slug": "idolish7-third-beat-part-2",
+  "kind": "anime",
+  "title": "IDOLiSH7: Third BEAT! Part 2",
+  "titles": {
+    "default": "IDOLiSH7: Third BEAT! Part 2",
+    "romaji": "IDOLiSH7: Third BEAT! Part 2",
+    "english": "IDOLiSH7 Third BEAT! Part 2",
+    "native": "アイドリッシュセブン Third BEAT! 第2クール"
+  },
+  "synonyms": [
+    "IDOLiSH7: Third BEAT! Part 2",
+    "IDOLiSH7 Third BEAT! Part 2",
+    "アイドリッシュセブン Third BEAT! 第2クール",
+    "アイドリッシュセブン",
+    "IDOLiSH7 Third Beat! Part 2"
+  ],
+  "type": "tv",
+  "episodes": 17,
+  "status": "finished",
+  "season": "fall",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128890-gx7O2sOT2tFy.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "128890",
+      "url": "https://anilist.co/anime/128890"
+    },
+    "cr": {
+      "id": "series/GRE50NQV6/idolish7",
+      "url": "https://www.crunchyroll.com/series/series/GRE50NQV6/idolish7"
+    },
+    "mal": {
+      "id": "46654",
+      "url": "https://myanimelist.net/anime/46654"
+    },
+    "tx": {
+      "id": "ID7_anime",
+      "url": "https://twitter.com/ID7_anime"
+    }
+  }
+}

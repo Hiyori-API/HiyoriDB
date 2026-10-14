@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3649,
+  "slug": "hinadori-no-saezuri",
+  "kind": "anime",
+  "title": "Hinadori no Saezuri",
+  "titles": {
+    "default": "Hinadori no Saezuri",
+    "romaji": "Hinadori no Saezuri",
+    "english": "Maiden of Deliverance",
+    "native": "雛鳥の囀"
+  },
+  "synonyms": [
+    "Hinadori no Saezuri",
+    "Maiden of Deliverance",
+    "雛鳥の囀",
+    "Song of the Baby Bird",
+    "Maetel Legend",
+    "メーテルレジェンド"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4848.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4848",
+      "url": "https://anilist.co/anime/4848"
+    },
+    "k": {
+      "id": "1341",
+      "url": "https://kitsu.io/anime/1341"
+    },
+    "mal": {
+      "id": "4848",
+      "url": "https://myanimelist.net/anime/4848"
+    }
+  }
+}

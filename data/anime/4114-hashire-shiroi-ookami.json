@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4114,
+  "slug": "hashire-shiroi-ookami",
+  "kind": "anime",
+  "title": "Hashire! Shiroi Ookami",
+  "titles": {
+    "default": "Hashire! Shiroi Ookami",
+    "romaji": "Hashire! Shiroi Ookami",
+    "english": "White Fang",
+    "native": "走れ! 白いオオカミ"
+  },
+  "synonyms": [
+    "Hashire! Shiroi Ookami",
+    "White Fang",
+    "走れ! 白いオオカミ",
+    "Run! White Wolf",
+    "Flight of the White Wolf",
+    "Hashire Shiroi Okami",
+    "Le Loup Blanc"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5936.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5936",
+      "url": "https://anilist.co/anime/5936"
+    },
+    "k": {
+      "id": "4352",
+      "url": "https://kitsu.io/anime/4352"
+    },
+    "mal": {
+      "id": "5936",
+      "url": "https://myanimelist.net/anime/5936"
+    }
+  }
+}

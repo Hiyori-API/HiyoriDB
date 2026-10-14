@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14114,
+  "slug": "dorohedoro",
+  "kind": "manga",
+  "title": "Dorohedoro",
+  "titles": {
+    "default": "Dorohedoro"
+  },
+  "synonyms": [
+    "דורוהדורו",
+    "도로헤도로",
+    "Дорохедоро",
+    "Dorohedoro",
+    "ドロヘドロ",
+    "Mushrambo",
+    "マシュランボー",
+    "Mashuranboo"
+  ],
+  "type": "manga",
+  "chapters": 191,
+  "volumes": 23,
+  "status": "finished",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31133-Jx6map3Oidz1.png"
+  ],
+  "references": {
+    "al": {
+      "id": "212618",
+      "url": "https://anilist.co/anime/105228"
+    },
+    "al_manga": {
+      "id": "212618",
+      "url": "https://anilist.co/manga/212618"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3727,
+  "slug": "8-man",
+  "kind": "anime",
+  "title": "8 Man",
+  "titles": {
+    "default": "8 Man",
+    "romaji": "8 Man",
+    "native": "エイトマン"
+  },
+  "synonyms": [
+    "8 Man",
+    "エイトマン",
+    "Eight Man",
+    "Tobor the Eighth Man",
+    "O Oitavo Homem",
+    "El Octavo Hombre",
+    "Eightman",
+    "Eitoman",
+    "8man"
+  ],
+  "type": "tv",
+  "episodes": 56,
+  "status": "finished",
+  "season": "fall",
+  "year": 1963,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5052-fsrQbKbJqNfS.png"
+  ],
+  "references": {
+    "al": {
+      "id": "5052",
+      "url": "https://anilist.co/anime/5052"
+    },
+    "k": {
+      "id": "3906",
+      "url": "https://kitsu.io/anime/3906"
+    },
+    "mal": {
+      "id": "5052",
+      "url": "https://myanimelist.net/anime/5052"
+    },
+    "t": {
+      "id": "25623",
+      "url": "https://trakt.tv/shows/25623"
+    }
+  }
+}

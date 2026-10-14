@@ -1,0 +1,58 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8091,
+  "slug": "durarara-2-ten",
+  "kind": "anime",
+  "title": "Durarara!!×2 Ten",
+  "titles": {
+    "default": "Durarara!!×2 Ten",
+    "romaji": "Durarara!!×2 Ten",
+    "english": "Durarara!! X2 The Second Arc",
+    "native": "デュラララ!!×２ 転"
+  },
+  "synonyms": [
+    "Durarara!!×2 Ten",
+    "Durarara!! X2 The Second Arc",
+    "デュラララ!!×２ 転",
+    "DRRR!! 2 Ten",
+    "דורארארה!!2x תפנית",
+    "Sky Wizards Academy",
+    "Kuusen Madoushi Kouhosei no Kyoukan",
+    "空戦魔導士候補生の教官",
+    "The Instructor of Aerial Combat Wizard Candidates"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20879-IqgXMXuUMvRM.png"
+  ],
+  "references": {
+    "al": {
+      "id": "20879",
+      "url": "https://anilist.co/anime/20879"
+    },
+    "cr": {
+      "id": "series/GR4980206/sky-wizards-academy",
+      "url": "https://www.crunchyroll.com/series/series/GR4980206/sky-wizards-academy"
+    },
+    "k": {
+      "id": "8650",
+      "url": "https://kitsu.io/anime/8650"
+    },
+    "mal": {
+      "id": "27831",
+      "url": "https://myanimelist.net/anime/27831"
+    },
+    "t": {
+      "id": "80581",
+      "url": "https://trakt.tv/shows/80581"
+    },
+    "tx": {
+      "id": "drrr_anime",
+      "url": "https://twitter.com/drrr_anime"
+    }
+  }
+}

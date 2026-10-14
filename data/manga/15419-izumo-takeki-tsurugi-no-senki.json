@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15419,
+  "slug": "izumo-takeki-tsurugi-no-senki",
+  "kind": "manga",
+  "title": "IZUMO: Takeki Tsurugi no Senki",
+  "titles": {
+    "default": "IZUMO: Takeki Tsurugi no Senki"
+  },
+  "synonyms": [
+    "Izumo 2",
+    "Izumo: Flash of a Brave Sword",
+    "IZUMO 猛き剣の閃記",
+    "Railroad",
+    "레일로드"
+  ],
+  "type": "manga",
+  "chapters": 11,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b178725-puvcbFRiGVkQ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2523",
+      "url": "https://anilist.co/anime/2523"
+    },
+    "al_manga": {
+      "id": "2523",
+      "url": "https://anilist.co/manga/2523"
+    }
+  }
+}

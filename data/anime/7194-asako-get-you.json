@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7194,
+  "slug": "asako-get-you",
+  "kind": "anime",
+  "title": "Asako Get You!!",
+  "titles": {
+    "default": "Asako Get You!!",
+    "romaji": "Asako Get You!!",
+    "native": "あさこげっちゅ!!"
+  },
+  "synonyms": [
+    "Asako Get You!!",
+    "あさこげっちゅ!!",
+    "Chitose Get You!! OVA",
+    "Chitose Get You!! OVA (2013)"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16319.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "16319",
+      "url": "https://anilist.co/anime/16319"
+    },
+    "k": {
+      "id": "7405",
+      "url": "https://kitsu.io/anime/7405"
+    },
+    "mal": {
+      "id": "16319",
+      "url": "https://myanimelist.net/anime/16319"
+    }
+  }
+}

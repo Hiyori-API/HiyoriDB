@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3198,
+  "slug": "kuro-ga-ita-natsu",
+  "kind": "anime",
+  "title": "Kuro ga Ita Natsu",
+  "titles": {
+    "default": "Kuro ga Ita Natsu",
+    "romaji": "Kuro ga Ita Natsu",
+    "native": "クロがいた夏"
+  },
+  "synonyms": [
+    "Kuro ga Ita Natsu",
+    "クロがいた夏",
+    "Summer With Kuro",
+    "Sore Ike! Anpanman: Omusubiman",
+    "それいけ! アンパンマン おむすびまん"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3866.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3866",
+      "url": "https://anilist.co/anime/3866"
+    },
+    "k": {
+      "id": "9623",
+      "url": "https://kitsu.io/anime/9623"
+    },
+    "mal": {
+      "id": "3866",
+      "url": "https://myanimelist.net/anime/3866"
+    }
+  }
+}

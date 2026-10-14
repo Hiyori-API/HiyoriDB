@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 610,
+  "slug": "jojo-no-kimyou-na-bouken-2000",
+  "kind": "anime",
+  "title": "JoJo no Kimyou na Bouken (2000)",
+  "titles": {
+    "default": "JoJo no Kimyou na Bouken (2000)",
+    "romaji": "JoJo no Kimyou na Bouken (2000)",
+    "english": "JoJo's Bizarre Adventure (2000)",
+    "native": "ジョジョの奇妙な冒険 (2000)"
+  },
+  "synonyms": [
+    "JoJo no Kimyou na Bouken (2000)",
+    "JoJo's Bizarre Adventure (2000)",
+    "ジョジョの奇妙な冒険 (2000)",
+    "JoJo no Kimyou na Bouken: Adventure",
+    "ジョジョの奇妙な冒険 ADVENTURE"
+  ],
+  "type": "ova",
+  "episodes": 7,
+  "status": "finished",
+  "season": "spring",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx665-216kNqSxrQhN.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "665",
+      "url": "https://anilist.co/anime/665"
+    },
+    "k": {
+      "id": "7730",
+      "url": "https://kitsu.io/anime/7730"
+    },
+    "mal": {
+      "id": "665",
+      "url": "https://myanimelist.net/anime/665"
+    },
+    "t": {
+      "id": "60416",
+      "url": "https://trakt.tv/shows/60416"
+    }
+  }
+}

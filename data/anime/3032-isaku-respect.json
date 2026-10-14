@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3032,
+  "slug": "isaku-respect",
+  "kind": "anime",
+  "title": "Isaku: Respect",
+  "titles": {
+    "default": "Isaku: Respect",
+    "romaji": "Isaku: Respect",
+    "native": "遺作 ～Respect～"
+  },
+  "synonyms": [
+    "Isaku: Respect",
+    "遺作 ～Respect～",
+    "Angelique: Seichi yori Ai wo Komete",
+    "アンジェリーク　聖地より愛をこめて",
+    "Angelique: From the Sanctuary with Love",
+    "Angelique OVA2"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "winter",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3587.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3587",
+      "url": "https://anilist.co/anime/3587"
+    },
+    "k": {
+      "id": "2300",
+      "url": "https://kitsu.io/anime/2300"
+    },
+    "mal": {
+      "id": "3587",
+      "url": "https://myanimelist.net/anime/3587"
+    }
+  }
+}

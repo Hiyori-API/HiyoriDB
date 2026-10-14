@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6393,
+  "slug": "shin-koihime-musou-otome-tairan-ova",
+  "kind": "anime",
+  "title": "Shin Koihime†Musou: Otome Tairan OVA",
+  "titles": {
+    "default": "Shin Koihime†Musou: Otome Tairan OVA",
+    "romaji": "Shin Koihime†Musou: Otome Tairan OVA",
+    "native": "真・恋姫†無双〜乙女大乱〜 †あわわっDVD第七巻はOVAすぺしゃるです〜†"
+  },
+  "synonyms": [
+    "Shin Koihime†Musou: Otome Tairan OVA",
+    "真・恋姫†無双〜乙女大乱〜 †あわわっDVD第七巻はOVAすぺしゃるです〜†"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10297.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10297",
+      "url": "https://anilist.co/anime/10297"
+    },
+    "k": {
+      "id": "6117",
+      "url": "https://kitsu.io/anime/6117"
+    },
+    "mal": {
+      "id": "10297",
+      "url": "https://myanimelist.net/anime/10297"
+    }
+  }
+}

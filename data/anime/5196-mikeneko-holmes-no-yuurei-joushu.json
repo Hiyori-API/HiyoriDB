@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5196,
+  "slug": "mikeneko-holmes-no-yuurei-joushu",
+  "kind": "anime",
+  "title": "Mikeneko Holmes no Yuurei Joushu",
+  "titles": {
+    "default": "Mikeneko Holmes no Yuurei Joushu",
+    "romaji": "Mikeneko Holmes no Yuurei Joushu",
+    "native": "三毛猫ホームズの幽霊城主"
+  },
+  "synonyms": [
+    "Mikeneko Holmes no Yuurei Joushu",
+    "三毛猫ホームズの幽霊城主"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b12259-FIQvRLgLg8lr.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12259",
+      "url": "https://anilist.co/anime/12259"
+    },
+    "k": {
+      "id": "6696",
+      "url": "https://kitsu.io/anime/6696"
+    },
+    "mal": {
+      "id": "12259",
+      "url": "https://myanimelist.net/anime/12259"
+    }
+  }
+}

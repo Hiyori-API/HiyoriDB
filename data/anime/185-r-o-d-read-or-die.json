@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 185,
+  "slug": "r-o-d-read-or-die",
+  "kind": "anime",
+  "title": "R.O.D -READ OR DIE-",
+  "titles": {
+    "default": "R.O.D -READ OR DIE-",
+    "romaji": "R.O.D -READ OR DIE-",
+    "english": "R.O.D - READ OR DIE"
+  },
+  "synonyms": [
+    "R.O.D -READ OR DIE-",
+    "R.O.D - READ OR DIE",
+    "リード・オア・ダイ",
+    "ROD OVA",
+    "R.O.D - Read or Die",
+    "R.O.D OVA",
+    "R.O.D リード・オア・ダイ",
+    "ROD",
+    "Read or Die",
+    "Read or Die OVA",
+    "R.O.D."
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "spring",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208-yOpLH6XOw2sc.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "208",
+      "url": "https://anilist.co/anime/208"
+    },
+    "k": {
+      "id": "184",
+      "url": "https://kitsu.io/anime/184"
+    },
+    "mal": {
+      "id": "208",
+      "url": "https://myanimelist.net/anime/208"
+    }
+  }
+}

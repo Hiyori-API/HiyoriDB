@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1579,
+  "slug": "injuu-nerawareta-hanayome",
+  "kind": "anime",
+  "title": "Injuu Nerawareta Hanayome",
+  "titles": {
+    "default": "Injuu Nerawareta Hanayome",
+    "romaji": "Injuu Nerawareta Hanayome",
+    "english": "Bride of Darkness",
+    "native": "淫獣　ねらわれた花嫁"
+  },
+  "synonyms": [
+    "Injuu Nerawareta Hanayome",
+    "Bride of Darkness",
+    "淫獣　ねらわれた花嫁",
+    "Gravitation: Lyrics of Love",
+    "グラビテーション"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1784.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1784",
+      "url": "https://anilist.co/anime/1784"
+    },
+    "k": {
+      "id": "466",
+      "url": "https://kitsu.io/anime/466"
+    },
+    "mal": {
+      "id": "1784",
+      "url": "https://myanimelist.net/anime/1784"
+    }
+  }
+}

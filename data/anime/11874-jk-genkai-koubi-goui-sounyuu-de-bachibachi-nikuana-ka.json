@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11874,
+  "slug": "jk-genkai-koubi-goui-sounyuu-de-bachibachi-nikuana-ka",
+  "kind": "anime",
+  "title": "JK Genkai Koubi: Goui Sounyuu de Bachibachi Nikuana-ka",
+  "titles": {
+    "default": "JK Genkai Koubi: Goui Sounyuu de Bachibachi Nikuana-ka",
+    "romaji": "JK Genkai Koubi: Goui Sounyuu de Bachibachi Nikuana-ka",
+    "native": "J〇限界交尾～合意挿入でバチバチ肉穴化～"
+  },
+  "synonyms": [
+    "JK Genkai Koubi: Goui Sounyuu de Bachibachi Nikuana-ka",
+    "J〇限界交尾～合意挿入でバチバチ肉穴化～",
+    "J* Genkai Koubi: Goui Sounyuu de Bachibachi Niku Anaka",
+    "Moriarty the Patriot OVA",
+    "憂国のモリアーティ",
+    "Yuukoku no Moriarty OVA"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx147287-Qfo3ki3VZaV5.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "147287",
+      "url": "https://anilist.co/anime/147287"
+    },
+    "mal": {
+      "id": "51736",
+      "url": "https://myanimelist.net/anime/51736"
+    }
+  }
+}

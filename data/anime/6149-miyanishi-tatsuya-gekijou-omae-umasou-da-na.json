@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6149,
+  "slug": "miyanishi-tatsuya-gekijou-omae-umasou-da-na",
+  "kind": "anime",
+  "title": "Miyanishi Tatsuya Gekijou: Omae Umasou da na",
+  "titles": {
+    "default": "Miyanishi Tatsuya Gekijou: Omae Umasou da na",
+    "romaji": "Miyanishi Tatsuya Gekijou: Omae Umasou da na",
+    "native": "宮西達也劇場 おまえうまそうだな"
+  },
+  "synonyms": [
+    "Miyanishi Tatsuya Gekijou: Omae Umasou da na",
+    "宮西達也劇場 おまえうまそうだな",
+    "You Are Umasou"
+  ],
+  "type": "tv",
+  "episodes": 20,
+  "status": "finished",
+  "season": "fall",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9395-KLyG4csLDNOU.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9395",
+      "url": "https://anilist.co/anime/9395"
+    },
+    "k": {
+      "id": "5720",
+      "url": "https://kitsu.io/anime/5720"
+    },
+    "mal": {
+      "id": "9395",
+      "url": "https://myanimelist.net/anime/9395"
+    },
+    "t": {
+      "id": "66260",
+      "url": "https://trakt.tv/shows/66260"
+    }
+  }
+}

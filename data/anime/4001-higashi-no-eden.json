@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4001,
+  "slug": "higashi-no-eden",
+  "kind": "anime",
+  "title": "Higashi no Eden",
+  "titles": {
+    "default": "Higashi no Eden",
+    "romaji": "Higashi no Eden",
+    "english": "Eden of the East",
+    "native": "東のエデン"
+  },
+  "synonyms": [
+    "Higashi no Eden",
+    "Eden of the East",
+    "東のエデン",
+    "Eden of The East"
+  ],
+  "type": "tv",
+  "episodes": 11,
+  "status": "finished",
+  "season": "spring",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5630-l1YM9YDO8tpt.png"
+  ],
+  "references": {
+    "al": {
+      "id": "5630",
+      "url": "https://anilist.co/anime/5630"
+    },
+    "cr": {
+      "id": "eden-of-the-east",
+      "url": "https://www.crunchyroll.com/series/eden-of-the-east"
+    },
+    "k": {
+      "id": "4211",
+      "url": "https://kitsu.io/anime/4211"
+    },
+    "mal": {
+      "id": "5630",
+      "url": "https://myanimelist.net/anime/5630"
+    },
+    "t": {
+      "id": "21649",
+      "url": "https://trakt.tv/shows/21649"
+    },
+    "ttv": {
+      "id": "2269",
+      "url": "https://tubitv.com/series/2269"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10261,
+  "slug": "annyeong-tyrano-yeong-wonhi-hamkke",
+  "kind": "anime",
+  "title": "Annyeong, Tyrano: Yeong-wonhi, Hamkke",
+  "titles": {
+    "default": "Annyeong, Tyrano: Yeong-wonhi, Hamkke",
+    "romaji": "Annyeong, Tyrano: Yeong-wonhi, Hamkke",
+    "native": "안녕, 티라노: 영원히, 함께"
+  },
+  "synonyms": [
+    "Annyeong, Tyrano: Yeong-wonhi, Hamkke",
+    "안녕, 티라노: 영원히, 함께",
+    "さよなら、ティラノ",
+    "Sayonara, Tyrano",
+    "你好霸王龙",
+    "My Tyrano: Together, Forever",
+    "Cencoroll 2",
+    "センコロール"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx111015-gvy2xfCXwnlX.png"
+  ],
+  "references": {
+    "al": {
+      "id": "111015",
+      "url": "https://anilist.co/anime/111015"
+    },
+    "k": {
+      "id": "5749",
+      "url": "https://kitsu.io/anime/5749"
+    },
+    "mal": {
+      "id": "41190",
+      "url": "https://myanimelist.net/anime/41190"
+    },
+    "tx": {
+      "id": "sayonaratyrano",
+      "url": "https://twitter.com/sayonaratyrano"
+    }
+  }
+}

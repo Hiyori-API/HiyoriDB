@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6620,
+  "slug": "kyokugen-dasshutsu-adv-zennin-shibou-desu-promotion-anime",
+  "kind": "anime",
+  "title": "Kyokugen Dasshutsu ADV: Zennin Shibou Desu Promotion Anime",
+  "titles": {
+    "default": "Kyokugen Dasshutsu ADV: Zennin Shibou Desu Promotion Anime",
+    "romaji": "Kyokugen Dasshutsu ADV: Zennin Shibou Desu Promotion Anime",
+    "english": "Zero Escape: Virtue's Last Reward Special OVA",
+    "native": "極限脱出ADV 善人シボウデス プロモーションアニメ"
+  },
+  "synonyms": [
+    "Kyokugen Dasshutsu ADV: Zennin Shibou Desu Promotion Anime",
+    "Zero Escape: Virtue's Last Reward Special OVA",
+    "極限脱出ADV 善人シボウデス プロモーションアニメ",
+    "Extreme Escape Adventure: Good People Die Prologue",
+    "Zero Escape: Virtue's Last Reward",
+    "Kyokugen Dasshutsu ADV: Zennin Shibou Desu Prologue",
+    "Kyokugen Dasshutsu Adv: Zennin Shibou Desu Prologue",
+    "Kyokugen Dasshutsu ADV: Zennin Shibou Death"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12433-3SOe6yFDEpxu.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12433",
+      "url": "https://anilist.co/anime/12433"
+    },
+    "k": {
+      "id": "6730",
+      "url": "https://kitsu.io/anime/6730"
+    },
+    "mal": {
+      "id": "12433",
+      "url": "https://myanimelist.net/anime/12433"
+    }
+  }
+}

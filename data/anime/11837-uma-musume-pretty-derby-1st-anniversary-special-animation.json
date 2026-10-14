@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11837,
+  "slug": "uma-musume-pretty-derby-1st-anniversary-special-animation",
+  "kind": "anime",
+  "title": "Uma Musume: Pretty Derby - 1st Anniversary Special Animation",
+  "titles": {
+    "default": "Uma Musume: Pretty Derby - 1st Anniversary Special Animation",
+    "romaji": "Uma Musume: Pretty Derby - 1st Anniversary Special Animation",
+    "english": "Umamusume: Pretty Derby - 1st Anniversary Special Animation",
+    "native": "ウマ娘 プリティーダービー 1st Anniversary Special Animation"
+  },
+  "synonyms": [
+    "Uma Musume: Pretty Derby - 1st Anniversary Special Animation",
+    "Umamusume: Pretty Derby - 1st Anniversary Special Animation",
+    "ウマ娘 プリティーダービー 1st Anniversary Special Animation",
+    "Uma Musume: Pretty Derby 1st Anniversary PV"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145608-beRhL5C0aO5V.png"
+  ],
+  "references": {
+    "al": {
+      "id": "145608",
+      "url": "https://anilist.co/anime/145608"
+    },
+    "mal": {
+      "id": "51225",
+      "url": "https://myanimelist.net/anime/51225"
+    },
+    "tx": {
+      "id": "uma_musu",
+      "url": "https://twitter.com/uma_musu"
+    },
+    "yt": {
+      "id": "2Twq0EWKPQI",
+      "url": "https://www.youtube.com/watch?v=RKVWLnVqnP0"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10879,
+  "slug": "dennou-sentai-voogie-s-angel-forever-and-ever",
+  "kind": "anime",
+  "title": "Dennou Sentai Voogie's★Angel: FOREVER AND EVER",
+  "titles": {
+    "default": "Dennou Sentai Voogie's★Angel: FOREVER AND EVER",
+    "romaji": "Dennou Sentai Voogie's★Angel: FOREVER AND EVER",
+    "native": "電脳戦隊ヴギィ'ズ★エンジェル FOREVER AND EVER"
+  },
+  "synonyms": [
+    "Dennou Sentai Voogie's★Angel: FOREVER AND EVER",
+    "電脳戦隊ヴギィ'ズ★エンジェル FOREVER AND EVER",
+    "電脳戦隊 VOOGIE`s ANGEL FOREVER AND EVER",
+    "Dennou Sentai Voogie's★Angel: Forever and Ever"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17131.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "17131",
+      "url": "https://anilist.co/anime/17131"
+    },
+    "k": {
+      "id": "7590",
+      "url": "https://kitsu.io/anime/7590"
+    },
+    "mal": {
+      "id": "17131",
+      "url": "https://myanimelist.net/anime/17131"
+    }
+  }
+}

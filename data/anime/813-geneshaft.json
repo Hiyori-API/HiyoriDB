@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 813,
+  "slug": "geneshaft",
+  "kind": "anime",
+  "title": "Geneshaft",
+  "titles": {
+    "default": "Geneshaft",
+    "romaji": "Geneshaft",
+    "english": "Gene Shaft",
+    "native": "ジーンシャフト"
+  },
+  "synonyms": [
+    "Geneshaft",
+    "Gene Shaft",
+    "ジーンシャフト"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/909.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "909",
+      "url": "https://anilist.co/anime/909"
+    },
+    "k": {
+      "id": "809",
+      "url": "https://kitsu.io/anime/809"
+    },
+    "mal": {
+      "id": "909",
+      "url": "https://myanimelist.net/anime/909"
+    },
+    "t": {
+      "id": "42512",
+      "url": "https://trakt.tv/shows/42512"
+    },
+    "ttv": {
+      "id": "300008845",
+      "url": "https://tubitv.com/series/1959"
+    }
+  }
+}

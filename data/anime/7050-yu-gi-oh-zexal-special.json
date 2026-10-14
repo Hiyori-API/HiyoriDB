@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7050,
+  "slug": "yu-gi-oh-zexal-special",
+  "kind": "anime",
+  "title": "Yu☆Gi☆Oh! ZEXAL Special",
+  "titles": {
+    "default": "Yu☆Gi☆Oh! ZEXAL Special",
+    "romaji": "Yu☆Gi☆Oh! ZEXAL Special",
+    "native": "めざせ世界一!「遊☆戯☆王ZEXAL」内村航平選手も出るよスペシャル"
+  },
+  "synonyms": [
+    "Yu☆Gi☆Oh! ZEXAL Special",
+    "めざせ世界一!「遊☆戯☆王ZEXAL」内村航平選手も出るよスペシャル",
+    "Yugioh",
+    "Yuu Gi Ou! Zexal Special",
+    "Yu☆Gi☆Oh! Zexal Second: Midokoro Tenkomori Special",
+    "遊☆戯☆王ZEXAL -ゼアル- II 第81.5話  「みどころてんこ盛りスペシャル」",
+    "Yu-Gi-Oh! Zexal II Episode 8.5",
+    "Episode 81.5",
+    "Yu-Gi-Oh! Zexal 2nd Recap",
+    "Yuu Gi Ou!"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16574.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "16574",
+      "url": "https://anilist.co/anime/16574"
+    },
+    "k": {
+      "id": "7466",
+      "url": "https://kitsu.io/anime/7466"
+    },
+    "mal": {
+      "id": "16574",
+      "url": "https://myanimelist.net/anime/16574"
+    }
+  }
+}

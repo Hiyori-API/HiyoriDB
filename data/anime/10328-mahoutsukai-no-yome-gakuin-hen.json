@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10328,
+  "slug": "mahoutsukai-no-yome-gakuin-hen",
+  "kind": "anime",
+  "title": "Mahoutsukai no Yome: Gakuin-hen",
+  "titles": {
+    "default": "Mahoutsukai no Yome: Gakuin-hen",
+    "romaji": "Mahoutsukai no Yome: Gakuin-hen",
+    "native": "魔法使いの嫁 学院篇"
+  },
+  "synonyms": [
+    "Mahoutsukai no Yome: Gakuin-hen",
+    "魔法使いの嫁 学院篇",
+    "The Ancient Magus' Bride",
+    "School Days ONA",
+    "スクールデイズ",
+    "School Days"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124337-fRm5YpIp9qqg.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "124337",
+      "url": "https://anilist.co/anime/124337"
+    },
+    "k": {
+      "id": "678",
+      "url": "https://kitsu.io/anime/678"
+    },
+    "mal": {
+      "id": "40134",
+      "url": "https://myanimelist.net/anime/40134"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6662,
+  "slug": "gothicmade-hana-no-utame",
+  "kind": "anime",
+  "title": "Gothicmade: Hana no Utame",
+  "titles": {
+    "default": "Gothicmade: Hana no Utame",
+    "romaji": "Gothicmade: Hana no Utame",
+    "native": "ゴティックメード 花の詩女（うため）"
+  },
+  "synonyms": [
+    "Gothicmade: Hana no Utame",
+    "ゴティックメード 花の詩女（うため）",
+    "GOTHICMADE -ゴティックメード 花の詩女-"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx7781-mosGXPP1Dde7.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7781",
+      "url": "https://anilist.co/anime/7781"
+    },
+    "k": {
+      "id": "5120",
+      "url": "https://kitsu.io/anime/5120"
+    },
+    "mal": {
+      "id": "7781",
+      "url": "https://myanimelist.net/anime/7781"
+    }
+  }
+}

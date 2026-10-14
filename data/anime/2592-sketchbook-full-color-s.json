@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2592,
+  "slug": "sketchbook-full-color-s",
+  "kind": "anime",
+  "title": "Sketchbook: full color's",
+  "titles": {
+    "default": "Sketchbook: full color's",
+    "romaji": "Sketchbook: full color's",
+    "english": "Sketch Book ~full color'S~",
+    "native": "スケッチブック 〜full color's〜"
+  },
+  "synonyms": [
+    "Sketchbook: full color's",
+    "Sketch Book ~full color'S~",
+    "スケッチブック 〜full color's〜",
+    "D.C.II: Da Capo II",
+    "D.C.II ～ダ・カーポII～"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2942-vxdVXaBnXIza.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2942",
+      "url": "https://anilist.co/anime/2942"
+    },
+    "cr": {
+      "id": "sketchbook-full-colors",
+      "url": "https://www.crunchyroll.com/series/sketchbook-full-colors"
+    },
+    "k": {
+      "id": "2359",
+      "url": "https://kitsu.io/anime/2359"
+    },
+    "mal": {
+      "id": "2942",
+      "url": "https://myanimelist.net/anime/2942"
+    },
+    "t": {
+      "id": "63507",
+      "url": "https://trakt.tv/shows/63507"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14684,
+  "slug": "otoko-ippiki-gaki-daishou",
+  "kind": "manga",
+  "title": "Otoko Ippiki Gaki Daishou",
+  "titles": {
+    "default": "Otoko Ippiki Gaki Daishou"
+  },
+  "synonyms": [
+    "An Exemplary Gang Leader",
+    "A Shining Example of Gang Leader",
+    "男一匹ガキ大将",
+    "Tiger Mask",
+    "タイガーマスク"
+  ],
+  "type": "manga",
+  "chapters": 160,
+  "volumes": 20,
+  "status": "finished",
+  "year": 1968,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx95190-85H8fZwc8vfR.png"
+  ],
+  "references": {
+    "al": {
+      "id": "17467",
+      "url": "https://anilist.co/anime/17467"
+    },
+    "al_manga": {
+      "id": "17467",
+      "url": "https://anilist.co/manga/17467"
+    }
+  }
+}

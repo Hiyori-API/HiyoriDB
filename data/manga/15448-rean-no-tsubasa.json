@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15448,
+  "slug": "rean-no-tsubasa",
+  "kind": "manga",
+  "title": "Rean no Tsubasa",
+  "titles": {
+    "default": "Rean no Tsubasa"
+  },
+  "synonyms": [
+    "The Wings of Rean",
+    "Rin no Tsubasa",
+    "リーンの翼",
+    "Renai Soukanzu",
+    "恋愛相姦図",
+    "Renai Sokanzu",
+    "Pink Sweets"
+  ],
+  "type": "manga",
+  "chapters": 15,
+  "volumes": 3,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/17273.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "574",
+      "url": "https://anilist.co/anime/574"
+    },
+    "al_manga": {
+      "id": "574",
+      "url": "https://anilist.co/manga/574"
+    }
+  }
+}

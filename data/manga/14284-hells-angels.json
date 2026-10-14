@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14284,
+  "slug": "hells-angels",
+  "kind": "manga",
+  "title": "HELLS ANGELS",
+  "titles": {
+    "default": "HELLS ANGELS"
+  },
+  "synonyms": [
+    "Hell's Angels",
+    "ヘルズエンジェルス",
+    "HELLS ANGELS",
+    "Fujisan",
+    "富士山",
+    "Fuji-san"
+  ],
+  "type": "manga",
+  "chapters": 21,
+  "volumes": 3,
+  "status": "finished",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31853-V2yF9cthDvmr.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4983",
+      "url": "https://anilist.co/anime/4983"
+    },
+    "al_manga": {
+      "id": "4983",
+      "url": "https://anilist.co/manga/4983"
+    }
+  }
+}

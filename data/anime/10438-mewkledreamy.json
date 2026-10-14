@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10438,
+  "slug": "mewkledreamy",
+  "kind": "anime",
+  "title": "Mewkledreamy",
+  "titles": {
+    "default": "Mewkledreamy",
+    "romaji": "Mewkledreamy",
+    "native": "ミュークルドリーミー"
+  },
+  "synonyms": [
+    "Mewkledreamy",
+    "ミュークルドリーミー"
+  ],
+  "type": "tv",
+  "episodes": 48,
+  "status": "finished",
+  "season": "spring",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx111310-KTLldElz3BSp.png"
+  ],
+  "references": {
+    "al": {
+      "id": "111310",
+      "url": "https://anilist.co/anime/111310"
+    },
+    "mal": {
+      "id": "40327",
+      "url": "https://myanimelist.net/anime/40327"
+    },
+    "tx": {
+      "id": "mewkle_a",
+      "url": "https://twitter.com/mewkle_a"
+    }
+  }
+}

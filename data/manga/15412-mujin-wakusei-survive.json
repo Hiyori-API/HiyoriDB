@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15412,
+  "slug": "mujin-wakusei-survive",
+  "kind": "manga",
+  "title": "Mujin Wakusei Survive",
+  "titles": {
+    "default": "Mujin Wakusei Survive"
+  },
+  "synonyms": [
+    "Uninhabited Planet Survive",
+    "Planet Survival",
+    "無人惑星サヴァイヴ",
+    "Railroad",
+    "레일로드"
+  ],
+  "type": "manga",
+  "volumes": 2,
+  "status": "finished",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b117993-MSmIBgw1BbDE.png"
+  ],
+  "references": {
+    "al": {
+      "id": "709",
+      "url": "https://anilist.co/anime/709"
+    },
+    "al_manga": {
+      "id": "709",
+      "url": "https://anilist.co/manga/709"
+    }
+  }
+}

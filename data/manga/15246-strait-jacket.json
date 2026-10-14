@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15246,
+  "slug": "strait-jacket",
+  "kind": "manga",
+  "title": "Strait Jacket",
+  "titles": {
+    "default": "Strait Jacket"
+  },
+  "synonyms": [
+    "ストレイト・ジャケット",
+    "Maburaho",
+    "まぶらほ",
+    "Maburaho Tanpen"
+  ],
+  "type": "novel",
+  "volumes": 11,
+  "status": "finished",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/87956-SJoOjAyllyKq.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3086",
+      "url": "https://anilist.co/anime/3086"
+    },
+    "al_manga": {
+      "id": "3086",
+      "url": "https://anilist.co/manga/3086"
+    }
+  }
+}

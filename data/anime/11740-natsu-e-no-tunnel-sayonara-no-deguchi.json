@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11740,
+  "slug": "natsu-e-no-tunnel-sayonara-no-deguchi",
+  "kind": "anime",
+  "title": "Natsu e no Tunnel, Sayonara no Deguchi",
+  "titles": {
+    "default": "Natsu e no Tunnel, Sayonara no Deguchi",
+    "romaji": "Natsu e no Tunnel, Sayonara no Deguchi",
+    "english": "The Tunnel to Summer, the Exit of Goodbyes",
+    "native": "夏へのトンネル、さよならの出口"
+  },
+  "synonyms": [
+    "Natsu e no Tunnel, Sayonara no Deguchi",
+    "The Tunnel to Summer, the Exit of Goodbyes",
+    "夏へのトンネル、さよならの出口",
+    "คำจากลาของคิมหันต์ ณ ปลายอุโมงค์",
+    "Natsuton",
+    "El túnel de los deseos",
+    "Đường hầm tới mùa hạ, lối thoát của biệt ly",
+    "Aim for the Ace! (1979)",
+    "Ace wo Nerae! (1979)",
+    "エースをねらえ！",
+    "Ace o Nerae: Theatrical Version",
+    "Aim for the Ace! Movie",
+    "Aim for the Best!",
+    "Jump High Hiromi!"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142769-kNyyqpwC9gGV.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "142769",
+      "url": "https://anilist.co/anime/142769"
+    },
+    "k": {
+      "id": "283",
+      "url": "https://kitsu.io/anime/283"
+    },
+    "mal": {
+      "id": "50593",
+      "url": "https://myanimelist.net/anime/50593"
+    },
+    "tx": {
+      "id": "natsuton_anime",
+      "url": "https://twitter.com/natsuton_anime"
+    }
+  }
+}

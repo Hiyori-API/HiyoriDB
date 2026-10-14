@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15671,
+  "slug": "keitai-shoujo-triangle-spirits",
+  "kind": "manga",
+  "title": "Keitai Shoujo: Triangle Spirits",
+  "titles": {
+    "default": "Keitai Shoujo: Triangle Spirits"
+  },
+  "synonyms": [
+    "ケータイ少女～トライアングルスピリッツ～",
+    "MM!",
+    "えむえむっ!",
+    "MM Group",
+    "Emu Emu!"
+  ],
+  "type": "novel",
+  "chapters": 7,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/97167-nYpQNYsiMpv4.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1725",
+      "url": "https://anilist.co/anime/1725"
+    },
+    "al_manga": {
+      "id": "1725",
+      "url": "https://anilist.co/manga/1725"
+    }
+  }
+}

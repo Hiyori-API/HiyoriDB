@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13370,
+  "slug": "yowa-yowa-sensei",
+  "kind": "anime",
+  "title": "Yowa Yowa Sensei",
+  "titles": {
+    "default": "Yowa Yowa Sensei",
+    "romaji": "Yowa Yowa Sensei",
+    "english": "Yowayowa Sensei",
+    "native": "よわよわ先生"
+  },
+  "synonyms": [
+    "Yowa Yowa Sensei",
+    "Yowayowa Sensei",
+    "よわよわ先生",
+    "YowaYowa Teacher",
+    "คุณครูมาดหลอน หัวใจอ่อนแอ",
+    "This Ugly Yet Beautiful World",
+    "Kono Minikuku mo Utsukushii Sekai",
+    "この醜くも美しい世界"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185211-ewfgT5Cn99k0.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "185211",
+      "url": "https://anilist.co/anime/185211"
+    },
+    "k": {
+      "id": "124",
+      "url": "https://kitsu.io/anime/124"
+    },
+    "mal": {
+      "id": "60444",
+      "url": "https://myanimelist.net/anime/60444"
+    },
+    "t": {
+      "id": "34001",
+      "url": "https://trakt.tv/shows/34001"
+    }
+  }
+}

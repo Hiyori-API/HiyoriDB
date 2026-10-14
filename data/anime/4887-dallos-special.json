@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4887,
+  "slug": "dallos-special",
+  "kind": "anime",
+  "title": "Dallos Special",
+  "titles": {
+    "default": "Dallos Special",
+    "romaji": "Dallos Special",
+    "native": "ダロス Special"
+  },
+  "synonyms": [
+    "Dallos Special",
+    "ダロス Special"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b10313-hSVoi1doYKFx.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10313",
+      "url": "https://anilist.co/anime/10313"
+    },
+    "k": {
+      "id": "6124",
+      "url": "https://kitsu.io/anime/6124"
+    },
+    "mal": {
+      "id": "10313",
+      "url": "https://myanimelist.net/anime/10313"
+    }
+  }
+}

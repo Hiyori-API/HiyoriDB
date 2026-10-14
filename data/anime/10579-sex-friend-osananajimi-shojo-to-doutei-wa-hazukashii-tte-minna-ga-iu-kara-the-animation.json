@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10579,
+  "slug": "sex-friend-osananajimi-shojo-to-doutei-wa-hazukashii-tte-minna-ga-iu-kara-the-animation",
+  "kind": "anime",
+  "title": "Sex Friend Osananajimi: Shojo to Doutei wa Hazukashii tte Minna ga Iu kara - The Animation",
+  "titles": {
+    "default": "Sex Friend Osananajimi: Shojo to Doutei wa Hazukashii tte Minna ga Iu kara - The Animation",
+    "romaji": "Sex Friend Osananajimi: Shojo to Doutei wa Hazukashii tte Minna ga Iu kara - The Animation",
+    "native": "セクフレ幼馴染 ~処女と童貞は恥ずかしいってみんなが言うから~ The Animation"
+  },
+  "synonyms": [
+    "Sex Friend Osananajimi: Shojo to Doutei wa Hazukashii tte Minna ga Iu kara - The Animation",
+    "セクフレ幼馴染 ~処女と童貞は恥ずかしいってみんなが言うから~ The Animation",
+    "SexFri Osananajimi: Shojo to Doutei wa Hazukashii tte Minna ga Iu kara - The Animation",
+    "Since Everyone Says Being a Virgin is Embarrassing My Childhood Friend is My Sex Friend",
+    "Childhood friend is a fuck buddy.",
+    "Bokutachi wa Benkyou ga Dekinai! OVA",
+    "We Never Learn! OVA",
+    "We Never Learn: BOKUBEN - The Church Bells Bless [X]",
+    "ぼくたちは勉強ができない！「チャペルの鐘は[X]を祝福する」",
+    "Bokutachi wa Benkyou ga Dekinai! Chapel no Kane wa [X] wo Shukufuku Suru"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116181-fhubvB4HmedO.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "116181",
+      "url": "https://anilist.co/anime/116181"
+    },
+    "mal": {
+      "id": "41370",
+      "url": "https://myanimelist.net/anime/41370"
+    }
+  }
+}

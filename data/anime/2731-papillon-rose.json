@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2731,
+  "slug": "papillon-rose",
+  "kind": "anime",
+  "title": "Papillon Rose",
+  "titles": {
+    "default": "Papillon Rose",
+    "romaji": "Papillon Rose",
+    "native": "パピヨンローゼ"
+  },
+  "synonyms": [
+    "Papillon Rose",
+    "パピヨンローゼ",
+    "Papillon Rose: New Season",
+    "Looking Up At The Half-Moon",
+    "Hanbun no Tsuki ga Noboru Sora",
+    "半分の月がのぼる空",
+    "Hantsuki"
+  ],
+  "type": "tv",
+  "episodes": 6,
+  "status": "finished",
+  "season": "winter",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3112.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3112",
+      "url": "https://anilist.co/anime/3112"
+    },
+    "k": {
+      "id": "542",
+      "url": "https://kitsu.io/anime/542"
+    },
+    "mal": {
+      "id": "3112",
+      "url": "https://myanimelist.net/anime/3112"
+    },
+    "t": {
+      "id": "34597",
+      "url": "https://trakt.tv/shows/34597"
+    }
+  }
+}

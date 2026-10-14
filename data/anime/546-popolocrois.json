@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 546,
+  "slug": "popolocrois",
+  "kind": "anime",
+  "title": "Popolocrois",
+  "titles": {
+    "default": "Popolocrois",
+    "romaji": "Popolocrois",
+    "native": "ポポロクロイス"
+  },
+  "synonyms": [
+    "Popolocrois",
+    "ポポロクロイス",
+    "Popolocrois Monogatari - Hajimari no Bouken",
+    "PopoloCrois"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/592.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "592",
+      "url": "https://anilist.co/anime/592"
+    },
+    "k": {
+      "id": "547",
+      "url": "https://kitsu.io/anime/547"
+    },
+    "mal": {
+      "id": "592",
+      "url": "https://myanimelist.net/anime/592"
+    },
+    "t": {
+      "id": "23686",
+      "url": "https://trakt.tv/shows/23686"
+    }
+  }
+}

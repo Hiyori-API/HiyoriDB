@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7312,
+  "slug": "servant-service",
+  "kind": "anime",
+  "title": "Servant × Service",
+  "titles": {
+    "default": "Servant × Service",
+    "romaji": "Servant × Service",
+    "english": "Servant x Service",
+    "native": "サーバント×サービス"
+  },
+  "synonyms": [
+    "Servant × Service",
+    "Servant x Service",
+    "サーバント×サービス",
+    "Love Lab",
+    "恋愛ラボ",
+    "Renai Lab"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18119-L4l1JsqrzATj.png"
+  ],
+  "references": {
+    "al": {
+      "id": "18119",
+      "url": "https://anilist.co/anime/18119"
+    },
+    "cr": {
+      "id": "servant-x-service",
+      "url": "https://www.crunchyroll.com/series/servant-x-service"
+    },
+    "k": {
+      "id": "7410",
+      "url": "https://kitsu.io/anime/7410"
+    },
+    "mal": {
+      "id": "18119",
+      "url": "https://myanimelist.net/anime/18119"
+    },
+    "t": {
+      "id": "70755",
+      "url": "https://trakt.tv/shows/70755"
+    }
+  }
+}

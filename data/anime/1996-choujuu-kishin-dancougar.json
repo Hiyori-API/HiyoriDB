@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1996,
+  "slug": "choujuu-kishin-dancougar",
+  "kind": "anime",
+  "title": "Choujuu Kishin Dancougar",
+  "titles": {
+    "default": "Choujuu Kishin Dancougar",
+    "romaji": "Choujuu Kishin Dancougar",
+    "english": "Dancouga: Super Beast Machine God",
+    "native": "超獣機神ダンクーガ"
+  },
+  "synonyms": [
+    "Choujuu Kishin Dancougar",
+    "Dancouga: Super Beast Machine God",
+    "超獣機神ダンクーガ",
+    "Dancougar - Super Beast Machine God",
+    "Super Bestial Machine God Dancougar"
+  ],
+  "type": "tv",
+  "episodes": 38,
+  "status": "finished",
+  "season": "spring",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2255.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2255",
+      "url": "https://anilist.co/anime/2255"
+    },
+    "cr": {
+      "id": "dancouga-super-beast-machine-god",
+      "url": "https://www.crunchyroll.com/series/dancouga-super-beast-machine-god"
+    },
+    "k": {
+      "id": "2043",
+      "url": "https://kitsu.io/anime/2043"
+    },
+    "mal": {
+      "id": "2255",
+      "url": "https://myanimelist.net/anime/2255"
+    },
+    "t": {
+      "id": "9430",
+      "url": "https://trakt.tv/shows/9430"
+    }
+  }
+}

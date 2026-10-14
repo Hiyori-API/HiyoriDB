@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3562,
+  "slug": "seihou-bukyou-outlaw-star-pilot",
+  "kind": "anime",
+  "title": "Seihou Bukyou Outlaw Star Pilot",
+  "titles": {
+    "default": "Seihou Bukyou Outlaw Star Pilot",
+    "romaji": "Seihou Bukyou Outlaw Star Pilot",
+    "english": "Outlaw Star Pilot",
+    "native": "星方武侠アウトロースター"
+  },
+  "synonyms": [
+    "Seihou Bukyou Outlaw Star Pilot",
+    "Outlaw Star Pilot",
+    "星方武侠アウトロースター",
+    "Future Hero Next Generation Outlaw Star Pilot",
+    "Tengen Toppa Gurren Lagann: Mitee Mono wa Miteen da!!",
+    "天元突破 グレンラガン  見てえものは見てえんだ!!",
+    "Tengen Toppa Gurren Lagann Episode 6",
+    "Tengen Toppa Gurren Lagann Special",
+    "TTGL Special"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4650.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4650",
+      "url": "https://anilist.co/anime/4650"
+    },
+    "k": {
+      "id": "2950",
+      "url": "https://kitsu.io/anime/2950"
+    },
+    "mal": {
+      "id": "4650",
+      "url": "https://myanimelist.net/anime/4650"
+    }
+  }
+}

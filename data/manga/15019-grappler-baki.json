@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15019,
+  "slug": "grappler-baki",
+  "kind": "manga",
+  "title": "Grappler Baki",
+  "titles": {
+    "default": "Grappler Baki"
+  },
+  "synonyms": [
+    "Baki the Grappler",
+    "グラップラー刃牙",
+    "Baby & Me",
+    "Akachan to Boku",
+    "赤ちゃんと僕",
+    "AkaBoku",
+    "Baby and Me",
+    "Time Limit",
+    "Secret Boy ni Tee Dasuna!!",
+    "Baka de Karukute Wagamama de",
+    "Natsu to Kimi no Irradiation"
+  ],
+  "type": "manga",
+  "chapters": 371,
+  "volumes": 42,
+  "status": "finished",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx41425-h4goOXcXI7yY.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1859",
+      "url": "https://anilist.co/anime/287"
+    },
+    "al_manga": {
+      "id": "1859",
+      "url": "https://anilist.co/manga/1859"
+    }
+  }
+}

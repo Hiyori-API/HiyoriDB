@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11734,
+  "slug": "golden-kamuy-4th-season",
+  "kind": "anime",
+  "title": "Golden Kamuy 4th Season",
+  "titles": {
+    "default": "Golden Kamuy 4th Season",
+    "romaji": "Golden Kamuy 4th Season",
+    "english": "Golden Kamuy Season 4",
+    "native": "ゴールデンカムイ 第四期"
+  },
+  "synonyms": [
+    "Golden Kamuy 4th Season",
+    "Golden Kamuy Season 4",
+    "ゴールデンカムイ 第四期",
+    "Gunslinger Girl",
+    "ガンスリンガー・ガール",
+    "Gunslinger Girls"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142343-o8gkjIF434qZ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "142343",
+      "url": "https://anilist.co/anime/142343"
+    },
+    "cr": {
+      "id": "series/GY8DWQN5Y/golden-kamuy",
+      "url": "https://www.crunchyroll.com/series/series/GY8DWQN5Y/golden-kamuy"
+    },
+    "k": {
+      "id": "113",
+      "url": "https://kitsu.io/anime/113"
+    },
+    "mal": {
+      "id": "50528",
+      "url": "https://myanimelist.net/anime/50528"
+    },
+    "t": {
+      "id": "31593",
+      "url": "https://trakt.tv/shows/31593"
+    },
+    "tx": {
+      "id": "kamuy_anime",
+      "url": "https://twitter.com/kamuy_anime"
+    }
+  }
+}

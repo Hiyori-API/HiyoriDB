@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15095,
+  "slug": "double-hard",
+  "kind": "manga",
+  "title": "Double Hard",
+  "titles": {
+    "default": "Double Hard"
+  },
+  "synonyms": [
+    "ダブル・ハード",
+    "Yokohama Kaidashi Kikou",
+    "ヨコハマ買い出し紀行",
+    "Yokohama Shopping Log",
+    "Yokohama Shopping Trip",
+    "Touge"
+  ],
+  "type": "manga",
+  "volumes": 30,
+  "status": "finished",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx51481-fF4PO60Vv1WZ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "102100",
+      "url": "https://anilist.co/anime/102100"
+    },
+    "al_manga": {
+      "id": "102100",
+      "url": "https://anilist.co/manga/102100"
+    }
+  }
+}

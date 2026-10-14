@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3492,
+  "slug": "super-sexy-android",
+  "kind": "anime",
+  "title": "Super Sexy Android",
+  "titles": {
+    "default": "Super Sexy Android",
+    "romaji": "Super Sexy Android",
+    "native": "恥宮のアンドローラ"
+  },
+  "synonyms": [
+    "Super Sexy Android",
+    "恥宮のアンドローラ",
+    "Shame Shrine Andorora",
+    "Shameshrine Andorora",
+    "Good Morning Call",
+    "グッドモーニング・コール"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4493.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4493",
+      "url": "https://anilist.co/anime/4493"
+    },
+    "k": {
+      "id": "945",
+      "url": "https://kitsu.io/anime/945"
+    },
+    "mal": {
+      "id": "4493",
+      "url": "https://myanimelist.net/anime/4493"
+    }
+  }
+}

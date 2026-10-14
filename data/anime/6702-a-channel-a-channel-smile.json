@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6702,
+  "slug": "a-channel-a-channel-smile",
+  "kind": "anime",
+  "title": "A-Channel: A-Channel+smile",
+  "titles": {
+    "default": "A-Channel: A-Channel+smile",
+    "romaji": "A-Channel: A-Channel+smile",
+    "native": "Aチャンネル +smile"
+  },
+  "synonyms": [
+    "A-Channel: A-Channel+smile",
+    "Aチャンネル +smile",
+    "A-Channel OVA",
+    "A-Channel+smile",
+    "Aチャンネル+smile（プラス スマイル）"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b11339-bd4ij4OyQQfy.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11339",
+      "url": "https://anilist.co/anime/11339"
+    },
+    "k": {
+      "id": "6495",
+      "url": "https://kitsu.io/anime/6495"
+    },
+    "mal": {
+      "id": "11339",
+      "url": "https://myanimelist.net/anime/11339"
+    }
+  }
+}

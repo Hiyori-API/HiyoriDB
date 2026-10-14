@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2368,
+  "slug": "doraemon-nobita-no-nippon-tanjou",
+  "kind": "anime",
+  "title": "Doraemon: Nobita no Nippon Tanjou",
+  "titles": {
+    "default": "Doraemon: Nobita no Nippon Tanjou",
+    "romaji": "Doraemon: Nobita no Nippon Tanjou",
+    "english": "Doraemon: Nobita at the Birth of Japan",
+    "native": "ドラえもん のび太の日本誕生"
+  },
+  "synonyms": [
+    "Doraemon: Nobita no Nippon Tanjou",
+    "Doraemon: Nobita at the Birth of Japan",
+    "ドラえもん のび太の日本誕生",
+    "Doraemon the Movie: Nobita and the Birth of Japan",
+    "Doraemon Movie 10: Nobita no Nippon Tanjou",
+    "映画 ドラえもん のび太の日本誕生"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2666-f0EGXLLgYU1a.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2666",
+      "url": "https://anilist.co/anime/2666"
+    },
+    "k": {
+      "id": "2429",
+      "url": "https://kitsu.io/anime/2429"
+    },
+    "mal": {
+      "id": "2666",
+      "url": "https://myanimelist.net/anime/2666"
+    }
+  }
+}

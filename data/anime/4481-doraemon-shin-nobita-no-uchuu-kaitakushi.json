@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4481,
+  "slug": "doraemon-shin-nobita-no-uchuu-kaitakushi",
+  "kind": "anime",
+  "title": "Doraemon: Shin Nobita no Uchuu Kaitakushi",
+  "titles": {
+    "default": "Doraemon: Shin Nobita no Uchuu Kaitakushi",
+    "romaji": "Doraemon: Shin Nobita no Uchuu Kaitakushi",
+    "english": "Doraemon: The New Record of Nobita - Spaceblazer",
+    "native": "ドラえもん 新・のび太の宇宙開拓史"
+  },
+  "synonyms": [
+    "Doraemon: Shin Nobita no Uchuu Kaitakushi",
+    "Doraemon: The New Record of Nobita - Spaceblazer",
+    "ドラえもん 新・のび太の宇宙開拓史",
+    "Doraemon The Hero 2009",
+    "Pleasant Goat and Big Big Wolf: The Super Snail Adventure",
+    "Xi Yang Yang Yu Hui Tai Lang: Zhi Niu Qi Chong Tian",
+    "喜羊羊與灰太狼之牛氣衝天",
+    "Pleasant Goat and Big Big Wolf Movie 1: The Super Snail Adventure"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6930-dLrlZQJH4QOp.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6930",
+      "url": "https://anilist.co/anime/6930"
+    },
+    "k": {
+      "id": "4451",
+      "url": "https://kitsu.io/anime/4451"
+    },
+    "mal": {
+      "id": "6930",
+      "url": "https://myanimelist.net/anime/6930"
+    }
+  }
+}

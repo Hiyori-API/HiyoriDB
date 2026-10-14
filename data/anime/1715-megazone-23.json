@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1715,
+  "slug": "megazone-23",
+  "kind": "anime",
+  "title": "Megazone 23",
+  "titles": {
+    "default": "Megazone 23",
+    "romaji": "Megazone 23",
+    "native": "メガゾーン23"
+  },
+  "synonyms": [
+    "Megazone 23",
+    "メガゾーン23",
+    "Megazone 23 Part II",
+    "Robotech: The Untold Story (U.S.)",
+    "Megazone 23 Part III"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx1935-rEaYG766b8tp.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1935",
+      "url": "https://anilist.co/anime/1935"
+    },
+    "k": {
+      "id": "1744",
+      "url": "https://kitsu.io/anime/1744"
+    },
+    "mal": {
+      "id": "1935",
+      "url": "https://myanimelist.net/anime/1935"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6521,
+  "slug": "un-go",
+  "kind": "anime",
+  "title": "UN-GO",
+  "titles": {
+    "default": "UN-GO",
+    "romaji": "UN-GO",
+    "native": "UN-GO アン ゴ"
+  },
+  "synonyms": [
+    "UN-GO",
+    "UN-GO アン ゴ",
+    "Un Go",
+    "Ungo",
+    "Un-Go"
+  ],
+  "type": "tv",
+  "episodes": 11,
+  "status": "finished",
+  "season": "fall",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10798-C8caHKEm5uTa.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10798",
+      "url": "https://anilist.co/anime/10798"
+    },
+    "mal": {
+      "id": "10798",
+      "url": "https://myanimelist.net/anime/10798"
+    }
+  }
+}

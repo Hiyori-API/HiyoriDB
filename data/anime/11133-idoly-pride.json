@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11133,
+  "slug": "idoly-pride",
+  "kind": "anime",
+  "title": "IDOLY PRIDE",
+  "titles": {
+    "default": "IDOLY PRIDE",
+    "romaji": "IDOLY PRIDE",
+    "english": "Idoly Pride"
+  },
+  "synonyms": [
+    "IDOLY PRIDE",
+    "Idoly Pride",
+    "ไอดอลลีไพรด์"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113814-HvgpmDKpgHql.png"
+  ],
+  "references": {
+    "al": {
+      "id": "113814",
+      "url": "https://anilist.co/anime/113814"
+    },
+    "cr": {
+      "id": "idoly-pride",
+      "url": "https://www.crunchyroll.com/series/idoly-pride"
+    },
+    "mal": {
+      "id": "40842",
+      "url": "https://myanimelist.net/anime/40842"
+    },
+    "tx": {
+      "id": "idolypride",
+      "url": "https://twitter.com/idolypride"
+    }
+  }
+}

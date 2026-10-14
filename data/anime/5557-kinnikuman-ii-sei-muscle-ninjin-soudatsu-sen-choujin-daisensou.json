@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5557,
+  "slug": "kinnikuman-ii-sei-muscle-ninjin-soudatsu-sen-choujin-daisensou",
+  "kind": "anime",
+  "title": "Kinnikuman II Sei Muscle: Ninjin Soudatsu sen! Choujin Daisensou",
+  "titles": {
+    "default": "Kinnikuman II Sei Muscle: Ninjin Soudatsu sen! Choujin Daisensou",
+    "romaji": "Kinnikuman II Sei Muscle: Ninjin Soudatsu sen! Choujin Daisensou",
+    "native": "キン肉マンII世 マッスル人参争奪！ 超人大戦争"
+  },
+  "synonyms": [
+    "Kinnikuman II Sei Muscle: Ninjin Soudatsu sen! Choujin Daisensou",
+    "キン肉マンII世 マッスル人参争奪！ 超人大戦争",
+    "Kinnikuman II: Muscle-Man Competition! Great War",
+    "Kinnikuman Second Generations: Muscle-Man Competition! Great War",
+    "Massuru Ninjin Soudatsu! Choujin Dai Sensou",
+    "Muscle Ginseng Competition! The Great Choujin War",
+    "Kinnikuman II Sei: Muscle Ninjin Soudatsu sen! Choujin Daisensou",
+    "Ultimate Muscle",
+    "Kinnikuman Nisei"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b12279-lowcA3dmSJQh.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12279",
+      "url": "https://anilist.co/anime/12279"
+    },
+    "k": {
+      "id": "6698",
+      "url": "https://kitsu.io/anime/6698"
+    },
+    "mal": {
+      "id": "12279",
+      "url": "https://myanimelist.net/anime/12279"
+    }
+  }
+}

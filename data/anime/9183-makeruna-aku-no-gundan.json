@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9183,
+  "slug": "makeruna-aku-no-gundan",
+  "kind": "anime",
+  "title": "Makeruna!! Aku no Gundan!",
+  "titles": {
+    "default": "Makeruna!! Aku no Gundan!",
+    "romaji": "Makeruna!! Aku no Gundan!",
+    "native": "まけるな!! あくのぐんだん！"
+  },
+  "synonyms": [
+    "Makeruna!! Aku no Gundan!",
+    "まけるな!! あくのぐんだん！",
+    "Attack on Titan Season 2",
+    "Shingeki no Kyojin Season 2",
+    "進撃の巨人 Season 2"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98252-TVb9nwKoOUAs.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98252",
+      "url": "https://anilist.co/anime/98252"
+    },
+    "cr": {
+      "id": "makeruna-aku-no-gundan",
+      "url": "https://www.crunchyroll.com/series/makeruna-aku-no-gundan"
+    },
+    "k": {
+      "id": "8671",
+      "url": "https://kitsu.io/anime/8671"
+    },
+    "mal": {
+      "id": "34888",
+      "url": "https://myanimelist.net/anime/34888"
+    },
+    "t": {
+      "id": "1420",
+      "url": "https://trakt.tv/shows/1420"
+    },
+    "tx": {
+      "id": "akunogundan",
+      "url": "https://twitter.com/akunogundan"
+    }
+  }
+}

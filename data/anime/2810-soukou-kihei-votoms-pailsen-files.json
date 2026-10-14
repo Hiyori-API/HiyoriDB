@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2810,
+  "slug": "soukou-kihei-votoms-pailsen-files",
+  "kind": "anime",
+  "title": "Soukou Kihei Votoms: Pailsen Files",
+  "titles": {
+    "default": "Soukou Kihei Votoms: Pailsen Files",
+    "romaji": "Soukou Kihei Votoms: Pailsen Files",
+    "english": "Armored Trooper Votoms: Pailsen Files",
+    "native": "装甲騎兵ボトムズ ペールゼン・ファイルズ"
+  },
+  "synonyms": [
+    "Soukou Kihei Votoms: Pailsen Files",
+    "Armored Trooper Votoms: Pailsen Files",
+    "装甲騎兵ボトムズ ペールゼン・ファイルズ"
+  ],
+  "type": "ova",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3256.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3256",
+      "url": "https://anilist.co/anime/3256"
+    },
+    "k": {
+      "id": "2887",
+      "url": "https://kitsu.io/anime/2887"
+    },
+    "mal": {
+      "id": "3256",
+      "url": "https://myanimelist.net/anime/3256"
+    }
+  }
+}

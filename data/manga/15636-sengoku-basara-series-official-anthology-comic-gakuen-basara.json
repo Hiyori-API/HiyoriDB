@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15636,
+  "slug": "sengoku-basara-series-official-anthology-comic-gakuen-basara",
+  "kind": "manga",
+  "title": "Sengoku BASARA Series Official Anthology Comic: Gakuen BASARA",
+  "titles": {
+    "default": "Sengoku BASARA Series Official Anthology Comic: Gakuen BASARA"
+  },
+  "synonyms": [
+    "Gakuen Basara 2 Official Anthology Comic",
+    "戦国BASARA2オフィシャルアンソロジーコミック",
+    "戦国BASARAシリーズ オフィシャルアンソロジーコミック 学園BASARA",
+    "Sengoku Basara 2",
+    "Sengoku Basara: Samurai Legends",
+    "戦国BASARA2"
+  ],
+  "type": "manga",
+  "chapters": 6,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx50206-VRiJyOjPLB1b.png"
+  ],
+  "references": {
+    "al": {
+      "id": "101470",
+      "url": "https://anilist.co/anime/101470"
+    },
+    "al_manga": {
+      "id": "101470",
+      "url": "https://anilist.co/manga/101470"
+    }
+  }
+}

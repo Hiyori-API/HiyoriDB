@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4265,
+  "slug": "life-no-color",
+  "kind": "anime",
+  "title": "Life no Color",
+  "titles": {
+    "default": "Life no Color",
+    "romaji": "Life no Color"
+  },
+  "synonyms": [
+    "Life no Color",
+    "LIFE NO COLOR"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6305.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6305",
+      "url": "https://anilist.co/anime/6305"
+    },
+    "k": {
+      "id": "4514",
+      "url": "https://kitsu.io/anime/4514"
+    },
+    "mal": {
+      "id": "6305",
+      "url": "https://myanimelist.net/anime/6305"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 774,
+  "slug": "slayers-return",
+  "kind": "anime",
+  "title": "Slayers RETURN",
+  "titles": {
+    "default": "Slayers RETURN",
+    "romaji": "Slayers RETURN",
+    "native": "スレイヤーズRETURN"
+  },
+  "synonyms": [
+    "Slayers RETURN",
+    "スレイヤーズRETURN",
+    "Slayers Movie 2",
+    "Slayers Return"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx869-QTbtFWkoKzWl.png"
+  ],
+  "references": {
+    "al": {
+      "id": "869",
+      "url": "https://anilist.co/anime/869"
+    },
+    "k": {
+      "id": "770",
+      "url": "https://kitsu.io/anime/770"
+    },
+    "mal": {
+      "id": "869",
+      "url": "https://myanimelist.net/anime/869"
+    }
+  }
+}

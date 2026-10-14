@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8409,
+  "slug": "doraemon-nobita-no-space-heroes",
+  "kind": "anime",
+  "title": "Doraemon: Nobita no Space Heroes",
+  "titles": {
+    "default": "Doraemon: Nobita no Space Heroes",
+    "romaji": "Doraemon: Nobita no Space Heroes",
+    "native": "ドラえもん のび太の宇宙英雄記"
+  },
+  "synonyms": [
+    "Doraemon: Nobita no Space Heroes",
+    "ドラえもん のび太の宇宙英雄記",
+    "Doraemon Movie 35: Nobita no Space Heroes",
+    "映画 ドラえもん のび太の宇宙英雄記[スペースヒーローズ]",
+    "Doraemon: Nobita no Uchuu Eiyuuki",
+    "Doraemon: Nobita's Space Heroes"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100291-it9jcpdWucA3.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "100291",
+      "url": "https://anilist.co/anime/100291"
+    },
+    "k": {
+      "id": "8900",
+      "url": "https://kitsu.io/anime/8900"
+    },
+    "mal": {
+      "id": "25383",
+      "url": "https://myanimelist.net/anime/25383"
+    }
+  }
+}

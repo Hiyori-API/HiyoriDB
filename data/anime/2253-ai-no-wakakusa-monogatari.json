@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2253,
+  "slug": "ai-no-wakakusa-monogatari",
+  "kind": "anime",
+  "title": "Ai no Wakakusa Monogatari",
+  "titles": {
+    "default": "Ai no Wakakusa Monogatari",
+    "romaji": "Ai no Wakakusa Monogatari",
+    "english": "Tales of Little Women",
+    "native": "愛の若草物語"
+  },
+  "synonyms": [
+    "Ai no Wakakusa Monogatari",
+    "Tales of Little Women",
+    "愛の若草物語",
+    "Sekai Meisaku Gekijou",
+    "World Masterpiece Theater",
+    "WMT"
+  ],
+  "type": "tv",
+  "episodes": 48,
+  "status": "finished",
+  "season": "winter",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2548-hTF8lyM7Tqq3.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2548",
+      "url": "https://anilist.co/anime/2548"
+    },
+    "ap": {
+      "id": "B076MCTL9J",
+      "url": "https://www.amazon.com/gp/video/detail/B076MCTL9J"
+    },
+    "k": {
+      "id": "2313",
+      "url": "https://kitsu.io/anime/2313"
+    },
+    "mal": {
+      "id": "2548",
+      "url": "https://myanimelist.net/anime/2548"
+    },
+    "t": {
+      "id": "21517",
+      "url": "https://trakt.tv/shows/21517"
+    }
+  }
+}

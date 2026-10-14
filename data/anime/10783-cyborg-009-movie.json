@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10783,
+  "slug": "cyborg-009-movie",
+  "kind": "anime",
+  "title": "Cyborg 009 (Movie)",
+  "titles": {
+    "default": "Cyborg 009 (Movie)",
+    "romaji": "Cyborg 009 (Movie)",
+    "english": "Cyborg 009",
+    "native": "サイボーグ009"
+  },
+  "synonyms": [
+    "Cyborg 009 (Movie)",
+    "Cyborg 009",
+    "サイボーグ009"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1966,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6872-yvxqZqLuVOZh.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6872",
+      "url": "https://anilist.co/anime/6872"
+    },
+    "k": {
+      "id": "7869",
+      "url": "https://kitsu.io/anime/7869"
+    },
+    "mal": {
+      "id": "6872",
+      "url": "https://myanimelist.net/anime/6872"
+    }
+  }
+}

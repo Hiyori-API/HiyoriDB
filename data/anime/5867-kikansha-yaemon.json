@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5867,
+  "slug": "kikansha-yaemon",
+  "kind": "anime",
+  "title": "Kikansha Yaemon",
+  "titles": {
+    "default": "Kikansha Yaemon",
+    "romaji": "Kikansha Yaemon",
+    "native": "きかんしゃやえもん"
+  },
+  "synonyms": [
+    "Kikansha Yaemon",
+    "きかんしゃやえもん"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8492.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8492",
+      "url": "https://anilist.co/anime/8492"
+    },
+    "k": {
+      "id": "5357",
+      "url": "https://kitsu.io/anime/5357"
+    },
+    "mal": {
+      "id": "8492",
+      "url": "https://myanimelist.net/anime/8492"
+    }
+  }
+}

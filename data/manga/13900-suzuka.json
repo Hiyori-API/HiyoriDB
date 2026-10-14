@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13900,
+  "slug": "suzuka",
+  "kind": "manga",
+  "title": "Suzuka",
+  "titles": {
+    "default": "Suzuka"
+  },
+  "synonyms": [
+    "Love Mate",
+    "Suzukaze",
+    "Suzuka",
+    "涼風"
+  ],
+  "type": "manga",
+  "chapters": 166,
+  "volumes": 18,
+  "status": "finished",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30430-xS9gikdcJoRE.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "390",
+      "url": "https://anilist.co/anime/390"
+    },
+    "al_manga": {
+      "id": "390",
+      "url": "https://anilist.co/manga/390"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5943,
+  "slug": "sono-hanabira-ni-kuchizuke-wo-anata-to-koibito-tsunagi",
+  "kind": "anime",
+  "title": "Sono Hanabira ni Kuchizuke wo: Anata to Koibito Tsunagi",
+  "titles": {
+    "default": "Sono Hanabira ni Kuchizuke wo: Anata to Koibito Tsunagi",
+    "romaji": "Sono Hanabira ni Kuchizuke wo: Anata to Koibito Tsunagi",
+    "english": "A Kiss For The Petals - Joined in Love with You",
+    "native": "その花びらにくちづけを　あなたと恋人つなぎ"
+  },
+  "synonyms": [
+    "Sono Hanabira ni Kuchizuke wo: Anata to Koibito Tsunagi",
+    "A Kiss For The Petals - Joined in Love with You",
+    "その花びらにくちづけを　あなたと恋人つなぎ",
+    "Sono Hanabira ni Kuchizuke o: Anata to Koibito Tsunagi",
+    "A Kiss for the Petals: Joined in Love with You",
+    "Moyashimon CGI Anime",
+    "もやしもん",
+    "Tales of Agriculture CGI Anime"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7748.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7748",
+      "url": "https://anilist.co/anime/7748"
+    },
+    "k": {
+      "id": "5658",
+      "url": "https://kitsu.io/anime/5658"
+    },
+    "mal": {
+      "id": "7748",
+      "url": "https://myanimelist.net/anime/7748"
+    }
+  }
+}

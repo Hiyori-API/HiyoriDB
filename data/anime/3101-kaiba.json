@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3101,
+  "slug": "kaiba",
+  "kind": "anime",
+  "title": "Kaiba",
+  "titles": {
+    "default": "Kaiba",
+    "romaji": "Kaiba",
+    "native": "カイバ"
+  },
+  "synonyms": [
+    "Kaiba",
+    "カイバ"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3701-ooD3N9dD2rqa.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3701",
+      "url": "https://anilist.co/anime/3701"
+    },
+    "cr": {
+      "id": "kaiba",
+      "url": "https://www.crunchyroll.com/series/kaiba"
+    },
+    "k": {
+      "id": "3201",
+      "url": "https://kitsu.io/anime/3201"
+    },
+    "mal": {
+      "id": "3701",
+      "url": "https://myanimelist.net/anime/3701"
+    },
+    "t": {
+      "id": "34598",
+      "url": "https://trakt.tv/shows/34598"
+    },
+    "ttv": {
+      "id": "300005239",
+      "url": "https://tubitv.com/series/300005239"
+    }
+  }
+}

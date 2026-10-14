@@ -1,0 +1,63 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7183,
+  "slug": "nagi-no-asukara",
+  "kind": "anime",
+  "title": "Nagi no Asukara",
+  "titles": {
+    "default": "Nagi no Asukara",
+    "romaji": "Nagi no Asukara",
+    "english": "A Lull in the Sea",
+    "native": "凪のあすから"
+  },
+  "synonyms": [
+    "Nagi no Asukara",
+    "A Lull in the Sea",
+    "凪のあすから",
+    "NagiAsu",
+    "Nagi no Asu Kara: Calmaria do Mar",
+    "Nagi no Asukara: Calma en el mar",
+    "From a calm tomorrow",
+    "Nagi no Asu Kara",
+    "Earth color of a calm",
+    "Nagiasu"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16067-CFX0g435pLob.png"
+  ],
+  "references": {
+    "al": {
+      "id": "16067",
+      "url": "https://anilist.co/anime/16067"
+    },
+    "cr": {
+      "id": "nagi-no-asukara-nagi-asu-a-lull-in-the-sea",
+      "url": "https://www.crunchyroll.com/series/nagi-no-asukara-nagi-asu-a-lull-in-the-sea"
+    },
+    "k": {
+      "id": "7370",
+      "url": "https://kitsu.io/anime/7370"
+    },
+    "mal": {
+      "id": "16067",
+      "url": "https://myanimelist.net/anime/16067"
+    },
+    "nf": {
+      "id": "80132218",
+      "url": "https://www.netflix.com/title/80132218"
+    },
+    "t": {
+      "id": "72027",
+      "url": "https://trakt.tv/shows/72027"
+    },
+    "tx": {
+      "id": "naginoasukara",
+      "url": "https://twitter.com/naginoasukara"
+    }
+  }
+}

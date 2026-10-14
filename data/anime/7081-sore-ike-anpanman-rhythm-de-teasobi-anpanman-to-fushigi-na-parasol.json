@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7081,
+  "slug": "sore-ike-anpanman-rhythm-de-teasobi-anpanman-to-fushigi-na-parasol",
+  "kind": "anime",
+  "title": "Sore Ike! Anpanman: Rhythm de Teasobi - Anpanman to Fushigi na Parasol",
+  "titles": {
+    "default": "Sore Ike! Anpanman: Rhythm de Teasobi - Anpanman to Fushigi na Parasol",
+    "romaji": "Sore Ike! Anpanman: Rhythm de Teasobi - Anpanman to Fushigi na Parasol",
+    "native": "それいけ!アンパンマン リズムでてあそび アンパンマンとふしぎなパラソル"
+  },
+  "synonyms": [
+    "Sore Ike! Anpanman: Rhythm de Teasobi - Anpanman to Fushigi na Parasol",
+    "それいけ!アンパンマン リズムでてあそび アンパンマンとふしぎなパラソル"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b121823-UmNsGPBz4bzO.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "121823",
+      "url": "https://anilist.co/anime/121823"
+    },
+    "k": {
+      "id": "9626",
+      "url": "https://kitsu.io/anime/9626"
+    },
+    "mal": {
+      "id": "27683",
+      "url": "https://myanimelist.net/anime/27683"
+    }
+  }
+}

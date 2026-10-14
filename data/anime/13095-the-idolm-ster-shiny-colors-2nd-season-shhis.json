@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13095,
+  "slug": "the-idolm-ster-shiny-colors-2nd-season-shhis",
+  "kind": "anime",
+  "title": "The iDOLM@STER: Shiny Colors 2nd season - SHHis",
+  "titles": {
+    "default": "The iDOLM@STER: Shiny Colors 2nd season - SHHis",
+    "romaji": "The iDOLM@STER: Shiny Colors 2nd season - SHHis",
+    "native": "アイドルマスター シャイニーカラーズ 2nd season SHHis"
+  },
+  "synonyms": [
+    "The iDOLM@STER: Shiny Colors 2nd season - SHHis",
+    "アイドルマスター シャイニーカラーズ 2nd season SHHis",
+    "SK Eight",
+    "Skate",
+    "SK8 the Infinity Extra Part",
+    "OVA「SK∞ エスケーエイト EXTRA PART」",
+    "SK∞ OVA: Extra Part"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185612-k7OiD1ocpHMC.png"
+  ],
+  "references": {
+    "al": {
+      "id": "185612",
+      "url": "https://anilist.co/anime/185612"
+    },
+    "mal": {
+      "id": "60045",
+      "url": "https://myanimelist.net/anime/60045"
+    }
+  }
+}

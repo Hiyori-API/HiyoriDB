@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11648,
+  "slug": "non-non-biyori-nonstop-bukatsu-wo-ganbatta",
+  "kind": "anime",
+  "title": "Non Non Biyori: Nonstop - Bukatsu wo Ganbatta",
+  "titles": {
+    "default": "Non Non Biyori: Nonstop - Bukatsu wo Ganbatta",
+    "romaji": "Non Non Biyori: Nonstop - Bukatsu wo Ganbatta",
+    "english": "Non Non Biyori Nonstop: Our Club Worked Hard",
+    "native": "のんのんびより のんすとっぷ 部活をがんばった"
+  },
+  "synonyms": [
+    "Non Non Biyori: Nonstop - Bukatsu wo Ganbatta",
+    "Non Non Biyori Nonstop: Our Club Worked Hard",
+    "のんのんびより のんすとっぷ 部活をがんばった",
+    "Non Non Biyori: Nonstop OVA",
+    "のんのんびより のんすとっぷ OAD",
+    "Voices of a Distant Star",
+    "Hoshi no Koe",
+    "ほしのこえ"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137337-5iTk3YEYoZyS.png"
+  ],
+  "references": {
+    "al": {
+      "id": "137337",
+      "url": "https://anilist.co/anime/137337"
+    },
+    "cr": {
+      "id": "voices-of-a-distant-star",
+      "url": "https://www.crunchyroll.com/series/voices-of-a-distant-star"
+    },
+    "k": {
+      "id": "231",
+      "url": "https://kitsu.io/anime/231"
+    },
+    "mal": {
+      "id": "49521",
+      "url": "https://myanimelist.net/anime/49521"
+    },
+    "tx": {
+      "id": "nonnontv",
+      "url": "https://twitter.com/nonnontv"
+    }
+  }
+}

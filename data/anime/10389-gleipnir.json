@@ -1,0 +1,59 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10389,
+  "slug": "gleipnir",
+  "kind": "anime",
+  "title": "Gleipnir",
+  "titles": {
+    "default": "Gleipnir",
+    "romaji": "Gleipnir",
+    "native": "グレイプニル"
+  },
+  "synonyms": [
+    "Gleipnir",
+    "グレイプニル",
+    "格莱普尼尔",
+    "Prétear: The New Legend of Snow White",
+    "Shin Shirayuki-hime Densetsu Prétear",
+    "新白雪姫伝説プリーティア",
+    "Shin Shirayuki-hime Densetsu Pretear"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108241-Mc28QvkdUkfp.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "108241",
+      "url": "https://anilist.co/anime/108241"
+    },
+    "cr": {
+      "id": "gleipnir",
+      "url": "https://www.crunchyroll.com/series/gleipnir"
+    },
+    "k": {
+      "id": "79",
+      "url": "https://kitsu.io/anime/79"
+    },
+    "mal": {
+      "id": "39463",
+      "url": "https://myanimelist.net/anime/39463"
+    },
+    "nf": {
+      "id": "81263648",
+      "url": "https://www.netflix.com/title/81263648"
+    },
+    "t": {
+      "id": "42703",
+      "url": "https://trakt.tv/shows/42703"
+    },
+    "tx": {
+      "id": "gleipnir_anime",
+      "url": "https://twitter.com/gleipnir_anime"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10885,
+  "slug": "gregory-horror-show-the-bloody-karte",
+  "kind": "anime",
+  "title": "Gregory Horror Show: The Bloody Karte",
+  "titles": {
+    "default": "Gregory Horror Show: The Bloody Karte",
+    "romaji": "Gregory Horror Show: The Bloody Karte",
+    "native": "グレゴリーホラーショー - The Bloody Karte"
+  },
+  "synonyms": [
+    "Gregory Horror Show: The Bloody Karte",
+    "グレゴリーホラーショー - The Bloody Karte"
+  ],
+  "type": "special",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12485.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12485",
+      "url": "https://anilist.co/anime/12485"
+    },
+    "k": {
+      "id": "6745",
+      "url": "https://kitsu.io/anime/6745"
+    },
+    "mal": {
+      "id": "12485",
+      "url": "https://myanimelist.net/anime/12485"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5331,
+  "slug": "dokkan-robotendon",
+  "kind": "anime",
+  "title": "Dokkan! Robotendon",
+  "titles": {
+    "default": "Dokkan! Robotendon",
+    "romaji": "Dokkan! Robotendon",
+    "native": "ドッカン! ロボ天どん"
+  },
+  "synonyms": [
+    "Dokkan! Robotendon",
+    "ドッカン! ロボ天どん"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b182145-SYtsgxyX41PH.png"
+  ],
+  "references": {
+    "al": {
+      "id": "182145",
+      "url": "https://anilist.co/anime/182145"
+    },
+    "k": {
+      "id": "9244",
+      "url": "https://kitsu.io/anime/9244"
+    },
+    "mal": {
+      "id": "21485",
+      "url": "https://myanimelist.net/anime/21485"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13731,
+  "slug": "groove-adventure-rave",
+  "kind": "manga",
+  "title": "Groove Adventure Rave",
+  "titles": {
+    "default": "Groove Adventure Rave"
+  },
+  "synonyms": [
+    "Thánh thạch RAVE",
+    "Rave Master",
+    "レイヴ",
+    "Rave",
+    "RAVE",
+    "Rave: The Groove Adventure"
+  ],
+  "type": "manga",
+  "chapters": 298,
+  "volumes": 35,
+  "status": "finished",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx30014-Q7yKgaHVVmUg.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "246",
+      "url": "https://anilist.co/anime/246"
+    },
+    "al_manga": {
+      "id": "246",
+      "url": "https://anilist.co/manga/246"
+    }
+  }
+}

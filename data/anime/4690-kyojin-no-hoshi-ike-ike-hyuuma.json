@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4690,
+  "slug": "kyojin-no-hoshi-ike-ike-hyuuma",
+  "kind": "anime",
+  "title": "Kyojin no Hoshi: Ike Ike Hyuuma",
+  "titles": {
+    "default": "Kyojin no Hoshi: Ike Ike Hyuuma",
+    "romaji": "Kyojin no Hoshi: Ike Ike Hyuuma",
+    "native": "巨人の星 行け行け飛雄馬"
+  },
+  "synonyms": [
+    "Kyojin no Hoshi: Ike Ike Hyuuma",
+    "巨人の星 行け行け飛雄馬"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1969,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17443-R80j0dnwOiWl.png"
+  ],
+  "references": {
+    "al": {
+      "id": "17443",
+      "url": "https://anilist.co/anime/17443"
+    },
+    "k": {
+      "id": "9415",
+      "url": "https://kitsu.io/anime/9415"
+    },
+    "mal": {
+      "id": "17443",
+      "url": "https://myanimelist.net/anime/17443"
+    }
+  }
+}

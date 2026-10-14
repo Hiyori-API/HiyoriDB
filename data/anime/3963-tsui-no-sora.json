@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3963,
+  "slug": "tsui-no-sora",
+  "kind": "anime",
+  "title": "Tsui no Sora",
+  "titles": {
+    "default": "Tsui no Sora",
+    "romaji": "Tsui no Sora",
+    "native": "終ノ空"
+  },
+  "synonyms": [
+    "Tsui no Sora",
+    "終ノ空",
+    "End Sky",
+    "Ultra Maniac OVA",
+    "ウルトラマニアック",
+    "Tokimeki Fushigi Diary: Ultra Maniac"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5569.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5569",
+      "url": "https://anilist.co/anime/5569"
+    },
+    "k": {
+      "id": "156",
+      "url": "https://kitsu.io/anime/156"
+    },
+    "mal": {
+      "id": "5569",
+      "url": "https://myanimelist.net/anime/5569"
+    }
+  }
+}

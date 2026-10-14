@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14866,
+  "slug": "heart-cocktail",
+  "kind": "manga",
+  "title": "Heart Cocktail",
+  "titles": {
+    "default": "Heart Cocktail"
+  },
+  "synonyms": [
+    "ハートカクテル",
+    "Kuro no Kumikyoku",
+    "黒の組曲",
+    "Tenshi wa Yami ni Hohoemu",
+    "Bell ga Nattara",
+    "Cole",
+    "Linda",
+    "Violet"
+  ],
+  "type": "manga",
+  "volumes": 11,
+  "status": "finished",
+  "year": 1983,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx212866-V4LQ3fSHi3LV.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "103376",
+      "url": "https://anilist.co/anime/103376"
+    },
+    "al_manga": {
+      "id": "103376",
+      "url": "https://anilist.co/manga/103376"
+    }
+  }
+}

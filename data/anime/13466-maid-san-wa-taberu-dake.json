@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13466,
+  "slug": "maid-san-wa-taberu-dake",
+  "kind": "anime",
+  "title": "Maid-san wa Taberu dake",
+  "titles": {
+    "default": "Maid-san wa Taberu dake",
+    "romaji": "Maid-san wa Taberu dake",
+    "english": "The Food Diary of Miss Maid",
+    "native": "メイドさんは食べるだけ"
+  },
+  "synonyms": [
+    "Maid-san wa Taberu dake",
+    "The Food Diary of Miss Maid",
+    "メイドさんは食べるだけ",
+    "メイ食べ",
+    "Гастрономические заметки горничной",
+    "Xingchen Bian Final Season",
+    "Stellar Transformation 7th Season",
+    "Xingchen Bian 7th Season",
+    "星辰变 第7季",
+    "星辰变 天尊之战",
+    "Xingchen Bian: Tianzun Zhi Zhan",
+    "Xing Chen Bian 7th Season",
+    "Legend of Immortals 7th Season",
+    "Stellar Transformation Final Season",
+    "星辰变 最终季",
+    "Xingchen Bian: Zuizhong Ji"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197868-sm5jcjPKWhNL.png"
+  ],
+  "references": {
+    "al": {
+      "id": "197868",
+      "url": "https://anilist.co/anime/197868"
+    },
+    "cr": {
+      "id": "series/GT00375170/the-food-diary-of-miss-maid",
+      "url": "https://www.crunchyroll.com/series/series/GT00375170/the-food-diary-of-miss-maid"
+    },
+    "mal": {
+      "id": "62342",
+      "url": "https://myanimelist.net/anime/62342"
+    }
+  }
+}

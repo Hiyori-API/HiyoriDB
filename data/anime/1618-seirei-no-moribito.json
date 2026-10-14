@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1618,
+  "slug": "seirei-no-moribito",
+  "kind": "anime",
+  "title": "Seirei no Moribito",
+  "titles": {
+    "default": "Seirei no Moribito",
+    "romaji": "Seirei no Moribito",
+    "english": "Moribito: Guardian of the Spirit",
+    "native": "精霊の守り人"
+  },
+  "synonyms": [
+    "Seirei no Moribito",
+    "Moribito: Guardian of the Spirit",
+    "精霊の守り人",
+    "Guardian of the Sacred Spirit",
+    "Moribito - Guardian of the Spirit"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1827-snIp62SY7ZFK.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1827",
+      "url": "https://anilist.co/anime/1827"
+    },
+    "k": {
+      "id": "1644",
+      "url": "https://kitsu.io/anime/1644"
+    },
+    "mal": {
+      "id": "1827",
+      "url": "https://myanimelist.net/anime/1827"
+    },
+    "t": {
+      "id": "61350",
+      "url": "https://trakt.tv/shows/61350"
+    }
+  }
+}

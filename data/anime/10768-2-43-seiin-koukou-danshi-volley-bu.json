@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10768,
+  "slug": "2-43-seiin-koukou-danshi-volley-bu",
+  "kind": "anime",
+  "title": "2.43: Seiin Koukou Danshi Volley-bu",
+  "titles": {
+    "default": "2.43: Seiin Koukou Danshi Volley-bu",
+    "romaji": "2.43: Seiin Koukou Danshi Volley-bu",
+    "english": "2.43: Seiin High School Boys Volleyball Team",
+    "native": "2.43 清陰高校男子バレー部"
+  },
+  "synonyms": [
+    "2.43: Seiin Koukou Danshi Volley-bu",
+    "2.43: Seiin High School Boys Volleyball Team",
+    "2.43 清陰高校男子バレー部",
+    "2.43 세인고교 남자 배구부",
+    "Jakusha Character Tomozaki-kun",
+    "The Low Tier Character \"Tomozaki-kun\"",
+    "Bottom-Tier Character Tomozaki",
+    "弱キャラ友崎くん",
+    "Jaku-Chara Tomozaki-kun"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113231-R7qcGbDQgwBZ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "113231",
+      "url": "https://anilist.co/anime/113231"
+    },
+    "cr": {
+      "id": "243-seiin-high-school-boys-volleyball-team",
+      "url": "https://www.crunchyroll.com/series/243-seiin-high-school-boys-volleyball-team"
+    },
+    "mal": {
+      "id": "40679",
+      "url": "https://myanimelist.net/anime/40679"
+    },
+    "tx": {
+      "id": "243anime",
+      "url": "https://twitter.com/243anime"
+    }
+  }
+}

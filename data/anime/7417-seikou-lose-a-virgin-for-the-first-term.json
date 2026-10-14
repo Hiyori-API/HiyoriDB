@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7417,
+  "slug": "seikou-lose-a-virgin-for-the-first-term",
+  "kind": "anime",
+  "title": "Seikou! Lose A Virgin For The First Term",
+  "titles": {
+    "default": "Seikou! Lose A Virgin For The First Term",
+    "romaji": "Seikou! Lose A Virgin For The First Term",
+    "native": "せいこう! ~Lose A Virgin For The First Term~"
+  },
+  "synonyms": [
+    "Seikou! Lose A Virgin For The First Term",
+    "せいこう! ~Lose A Virgin For The First Term~",
+    "Blood Lad OVA",
+    "Blood Lad: Wagahai wa Neko de wa Nai",
+    "ブラッドラッド 我輩は猫ではない"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19633-jcVEBfTuJFQu.png"
+  ],
+  "references": {
+    "al": {
+      "id": "19633",
+      "url": "https://anilist.co/anime/19633"
+    },
+    "k": {
+      "id": "7724",
+      "url": "https://kitsu.io/anime/7724"
+    },
+    "mal": {
+      "id": "19633",
+      "url": "https://myanimelist.net/anime/19633"
+    },
+    "t": {
+      "id": "57206",
+      "url": "https://trakt.tv/shows/57206"
+    }
+  }
+}

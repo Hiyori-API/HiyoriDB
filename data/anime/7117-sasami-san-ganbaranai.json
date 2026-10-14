@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7117,
+  "slug": "sasami-san-ganbaranai",
+  "kind": "anime",
+  "title": "Sasami-san@Ganbaranai",
+  "titles": {
+    "default": "Sasami-san@Ganbaranai",
+    "romaji": "Sasami-san@Ganbaranai",
+    "native": "ささみさん@がんばらない"
+  },
+  "synonyms": [
+    "Sasami-san@Ganbaranai",
+    "ささみさん@がんばらない",
+    "Sasami-san at Ganbaranai",
+    "Sasami-san@Unmotivated"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14515-sKyS4qxbaS7y.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "14515",
+      "url": "https://anilist.co/anime/14515"
+    },
+    "k": {
+      "id": "7130",
+      "url": "https://kitsu.io/anime/7130"
+    },
+    "mal": {
+      "id": "14515",
+      "url": "https://myanimelist.net/anime/14515"
+    },
+    "t": {
+      "id": "68740",
+      "url": "https://trakt.tv/shows/68740"
+    }
+  }
+}

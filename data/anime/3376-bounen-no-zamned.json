@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3376,
+  "slug": "bounen-no-zamned",
+  "kind": "anime",
+  "title": "Bounen no Zamned",
+  "titles": {
+    "default": "Bounen no Zamned",
+    "romaji": "Bounen no Zamned",
+    "english": "Xam'd: Lost Memories",
+    "native": "亡念のザムド"
+  },
+  "synonyms": [
+    "Bounen no Zamned",
+    "Xam'd: Lost Memories",
+    "亡念のザムド",
+    "Bonen no Xamdou",
+    "Bonen no Zamudo",
+    "Bounen no Zamudo",
+    "Bounen no Xamdou"
+  ],
+  "type": "ona",
+  "episodes": 26,
+  "status": "finished",
+  "season": "summer",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4177-olqlJzn1DNN0.png"
+  ],
+  "references": {
+    "al": {
+      "id": "4177",
+      "url": "https://anilist.co/anime/4177"
+    },
+    "k": {
+      "id": "3503",
+      "url": "https://kitsu.io/anime/3503"
+    },
+    "mal": {
+      "id": "4177",
+      "url": "https://myanimelist.net/anime/4177"
+    }
+  }
+}

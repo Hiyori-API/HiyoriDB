@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9919,
+  "slug": "hakyuu-houshin-engi-kou-ke-no-chi",
+  "kind": "anime",
+  "title": "Hakyuu Houshin Engi: Kou-ke no Chi",
+  "titles": {
+    "default": "Hakyuu Houshin Engi: Kou-ke no Chi",
+    "romaji": "Hakyuu Houshin Engi: Kou-ke no Chi",
+    "english": "HAKYU HOSHIN ENGI: The Blood of the Koh Family",
+    "native": "覇穹 封神演義 スペシャル・エピソード「黄家の血」"
+  },
+  "synonyms": [
+    "Hakyuu Houshin Engi: Kou-ke no Chi",
+    "HAKYU HOSHIN ENGI: The Blood of the Koh Family",
+    "覇穹 封神演義 スペシャル・エピソード「黄家の血」",
+    "HAKYU HOSHIN ENGI Episode 24",
+    "Onegai☆Teacher: Himitsu na Futari",
+    "おねがい☆ティーチャー ヒミツなふたり",
+    "Onegai Sensei",
+    "Please Teacher! OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143303-0yZiBBjhmQJ5.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "143303",
+      "url": "https://anilist.co/anime/143303"
+    },
+    "cr": {
+      "id": "hakyu-hoshin-engi",
+      "url": "https://www.crunchyroll.com/series/hakyu-hoshin-engi"
+    },
+    "k": {
+      "id": "406",
+      "url": "https://kitsu.io/anime/406"
+    },
+    "mal": {
+      "id": "38650",
+      "url": "https://myanimelist.net/anime/38650"
+    }
+  }
+}

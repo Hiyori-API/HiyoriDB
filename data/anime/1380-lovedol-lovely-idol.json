@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1380,
+  "slug": "lovedol-lovely-idol",
+  "kind": "anime",
+  "title": "Lovedol: Lovely Idol",
+  "titles": {
+    "default": "Lovedol: Lovely Idol",
+    "romaji": "Lovedol: Lovely Idol",
+    "english": "Lovely Idol",
+    "native": "らぶドル～Lovely Idol～"
+  },
+  "synonyms": [
+    "Lovedol: Lovely Idol",
+    "Lovely Idol",
+    "らぶドル～Lovely Idol～"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1561.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1561",
+      "url": "https://anilist.co/anime/1561"
+    },
+    "k": {
+      "id": "1401",
+      "url": "https://kitsu.io/anime/1401"
+    },
+    "mal": {
+      "id": "1561",
+      "url": "https://myanimelist.net/anime/1561"
+    },
+    "t": {
+      "id": "66307",
+      "url": "https://trakt.tv/shows/66307"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8285,
+  "slug": "shinmai-maou-no-testament-toujou-basara-no-hard-sweet-na-nichijou",
+  "kind": "anime",
+  "title": "Shinmai Maou no Testament: Toujou Basara no Hard Sweet na Nichijou",
+  "titles": {
+    "default": "Shinmai Maou no Testament: Toujou Basara no Hard Sweet na Nichijou",
+    "romaji": "Shinmai Maou no Testament: Toujou Basara no Hard Sweet na Nichijou",
+    "english": "The Testament of Sister New Devil: Tojo Basara's Hard, Sweet Daily Life",
+    "native": "新妹魔王の契約者 東城刃更のハードスウィートな日常"
+  },
+  "synonyms": [
+    "Shinmai Maou no Testament: Toujou Basara no Hard Sweet na Nichijou",
+    "The Testament of Sister New Devil: Tojo Basara's Hard, Sweet Daily Life",
+    "新妹魔王の契約者 東城刃更のハードスウィートな日常",
+    "Shinmai Maou no Keiyakusha OVA",
+    "The Testament of Sister New Devil OVA",
+    "Shinmai Maou no Keiyakusha: Toujou Basara no Hard Sweet na Nichijou",
+    "Witch Craft Works: Takamiya-kun to Imouto no Warudakumi",
+    "ウィッチクラフトワークス 多華宮君と妹の悪巧み",
+    "Witchcraft Works",
+    "Witch Craft Works OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21247-rLeBLBb78aUQ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21247",
+      "url": "https://anilist.co/anime/21247"
+    },
+    "k": {
+      "id": "8257",
+      "url": "https://kitsu.io/anime/8257"
+    },
+    "mal": {
+      "id": "29027",
+      "url": "https://myanimelist.net/anime/29027"
+    }
+  }
+}

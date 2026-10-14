@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6658,
+  "slug": "nyuugaku-junbi-dvd-ren-no-yume-to-suteki-na-christmas-present",
+  "kind": "anime",
+  "title": "Nyuugaku Junbi DVD: Ren no Yume to Suteki na Christmas Present",
+  "titles": {
+    "default": "Nyuugaku Junbi DVD: Ren no Yume to Suteki na Christmas Present",
+    "romaji": "Nyuugaku Junbi DVD: Ren no Yume to Suteki na Christmas Present",
+    "native": "にゅうがくじゅんびDVD れんの ゆめと すてきな クリスマスプレゼント"
+  },
+  "synonyms": [
+    "Nyuugaku Junbi DVD: Ren no Yume to Suteki na Christmas Present",
+    "にゅうがくじゅんびDVD れんの ゆめと すてきな クリスマスプレゼント",
+    "Armored Trooper Votoms: Alone Again",
+    "Soukou Kihei Votoms: Koei Futatabi",
+    "装甲騎兵ボトムズ 孤影再び",
+    "Soko Kihei Votoms: Koei Futatabi",
+    "Armored Trooper VOTOMS: Chirico’s Return"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b206863-48tci6WAqMZ4.png"
+  ],
+  "references": {
+    "al": {
+      "id": "206863",
+      "url": "https://anilist.co/anime/206863"
+    },
+    "k": {
+      "id": "5270",
+      "url": "https://kitsu.io/anime/5270"
+    },
+    "mal": {
+      "id": "54418",
+      "url": "https://myanimelist.net/anime/54418"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13807,
+  "slug": "kobato",
+  "kind": "manga",
+  "title": "Kobato.",
+  "titles": {
+    "default": "Kobato."
+  },
+  "synonyms": [
+    "Kobato",
+    "奇蹟少女KOBATO",
+    "코바토",
+    "Kobato.",
+    "こばと。"
+  ],
+  "type": "manga",
+  "chapters": 40,
+  "volumes": 6,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30118-c0SSjJUGZXr8.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5678",
+      "url": "https://anilist.co/anime/5678"
+    },
+    "al_manga": {
+      "id": "5678",
+      "url": "https://anilist.co/manga/5678"
+    }
+  }
+}

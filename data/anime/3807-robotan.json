@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3807,
+  "slug": "robotan",
+  "kind": "anime",
+  "title": "Robotan",
+  "titles": {
+    "default": "Robotan",
+    "romaji": "Robotan",
+    "native": "ロボタン"
+  },
+  "synonyms": [
+    "Robotan",
+    "ロボタン",
+    "Robotan (1986)"
+  ],
+  "type": "tv",
+  "episodes": 33,
+  "status": "finished",
+  "season": "winter",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5223-6Bp0PQICE7oO.png"
+  ],
+  "references": {
+    "al": {
+      "id": "5223",
+      "url": "https://anilist.co/anime/5223"
+    },
+    "k": {
+      "id": "3996",
+      "url": "https://kitsu.io/anime/3996"
+    },
+    "mal": {
+      "id": "5223",
+      "url": "https://myanimelist.net/anime/5223"
+    }
+  }
+}

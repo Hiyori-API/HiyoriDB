@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15698,
+  "slug": "persona-4",
+  "kind": "manga",
+  "title": "Persona 4",
+  "titles": {
+    "default": "Persona 4"
+  },
+  "synonyms": [
+    "Shin Megami Tensei: Persona 4",
+    "P4",
+    "Persona 4",
+    "ペルソナ4",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "chapters": 67,
+  "volumes": 13,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx40580-WkjbJWFwx3nO.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "14267",
+      "url": "https://anilist.co/anime/10588"
+    },
+    "al_manga": {
+      "id": "14267",
+      "url": "https://anilist.co/manga/14267"
+    }
+  }
+}

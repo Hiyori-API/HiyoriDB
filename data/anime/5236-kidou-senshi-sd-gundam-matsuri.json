@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5236,
+  "slug": "kidou-senshi-sd-gundam-matsuri",
+  "kind": "anime",
+  "title": "Kidou Senshi SD Gundam Matsuri",
+  "titles": {
+    "default": "Kidou Senshi SD Gundam Matsuri",
+    "romaji": "Kidou Senshi SD Gundam Matsuri",
+    "native": "機動戦士SDガンダムまつり"
+  },
+  "synonyms": [
+    "Kidou Senshi SD Gundam Matsuri",
+    "機動戦士SDガンダムまつり",
+    "SD Gundam Festival",
+    "Mobile Suit SD Gundam Festival"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9098.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9098",
+      "url": "https://anilist.co/anime/9098"
+    },
+    "k": {
+      "id": "5602",
+      "url": "https://kitsu.io/anime/5602"
+    },
+    "mal": {
+      "id": "9098",
+      "url": "https://myanimelist.net/anime/9098"
+    }
+  }
+}

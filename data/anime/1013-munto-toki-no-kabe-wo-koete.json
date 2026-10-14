@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1013,
+  "slug": "munto-toki-no-kabe-wo-koete",
+  "kind": "anime",
+  "title": "MUNTO: Toki no Kabe wo Koete",
+  "titles": {
+    "default": "MUNTO: Toki no Kabe wo Koete",
+    "romaji": "MUNTO: Toki no Kabe wo Koete",
+    "english": "Munto 2: Beyond the Walls of Time",
+    "native": "MUNTO 時の壁を越えて"
+  },
+  "synonyms": [
+    "MUNTO: Toki no Kabe wo Koete",
+    "Munto 2: Beyond the Walls of Time",
+    "MUNTO 時の壁を越えて",
+    "Munto: Toki no Kabe wo Koete"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1135.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1135",
+      "url": "https://anilist.co/anime/1135"
+    },
+    "k": {
+      "id": "1016",
+      "url": "https://kitsu.io/anime/1016"
+    },
+    "mal": {
+      "id": "1135",
+      "url": "https://myanimelist.net/anime/1135"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1640,
+  "slug": "haou-taikei-ryuu-knight-adeu-legend",
+  "kind": "anime",
+  "title": "Haou Taikei Ryuu Knight: Adeu Legend",
+  "titles": {
+    "default": "Haou Taikei Ryuu Knight: Adeu Legend",
+    "romaji": "Haou Taikei Ryuu Knight: Adeu Legend",
+    "english": "Lord of Lords Ryu Knight: Adeu's Legend",
+    "native": "覇王大系リューナイト アデュー・レジェンド"
+  },
+  "synonyms": [
+    "Haou Taikei Ryuu Knight: Adeu Legend",
+    "Lord of Lords Ryu Knight: Adeu's Legend",
+    "覇王大系リューナイト アデュー・レジェンド",
+    "Lord of Lords Adeu's Legend OVA",
+    "Haou Daikei Ryuu Knight: Adeu Legend"
+  ],
+  "type": "ova",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1849-SVbscsOYFhhE.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1849",
+      "url": "https://anilist.co/anime/1849"
+    },
+    "k": {
+      "id": "1666",
+      "url": "https://kitsu.io/anime/1666"
+    },
+    "mal": {
+      "id": "1849",
+      "url": "https://myanimelist.net/anime/1849"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1946,
+  "slug": "genmu-senki-leda",
+  "kind": "anime",
+  "title": "Genmu Senki Leda",
+  "titles": {
+    "default": "Genmu Senki Leda",
+    "romaji": "Genmu Senki Leda",
+    "english": "Leda: The Fantastic Adventure of Yohko",
+    "native": "幻夢戦記レダ"
+  },
+  "synonyms": [
+    "Genmu Senki Leda",
+    "Leda: The Fantastic Adventure of Yohko",
+    "幻夢戦記レダ",
+    "Leda the War of the Dreams",
+    "Leda",
+    "Mahou no Tenshi Creamy Mami: Long Goodbye",
+    "魔法の天使クリィミーマミ　ロング・グッドバイ"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx2196-VxPEMgvBEx3c.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2196",
+      "url": "https://anilist.co/anime/2196"
+    },
+    "k": {
+      "id": "1845",
+      "url": "https://kitsu.io/anime/1845"
+    },
+    "mal": {
+      "id": "2196",
+      "url": "https://myanimelist.net/anime/2196"
+    }
+  }
+}

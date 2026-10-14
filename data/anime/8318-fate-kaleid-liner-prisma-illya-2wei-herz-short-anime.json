@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8318,
+  "slug": "fate-kaleid-liner-prisma-illya-2wei-herz-short-anime",
+  "kind": "anime",
+  "title": "Fate/kaleid liner Prisma☆Illya 2wei Herz! Short Anime",
+  "titles": {
+    "default": "Fate/kaleid liner Prisma☆Illya 2wei Herz! Short Anime",
+    "romaji": "Fate/kaleid liner Prisma☆Illya 2wei Herz! Short Anime",
+    "native": "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ ヘルツ！ ショートアニメ"
+  },
+  "synonyms": [
+    "Fate/kaleid liner Prisma☆Illya 2wei Herz! Short Anime",
+    "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ ヘルツ！ ショートアニメ",
+    "Fate/kaleid liner Prisma☆Illya 2wei Herz! Specials",
+    "Fate/Kaleid Liner Prisma Illya 2Wei Herz! Shorts",
+    "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ ヘルツ！ショートアニメ"
+  ],
+  "type": "special",
+  "episodes": 5,
+  "status": "finished",
+  "season": "fall",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21325-6HDvo0TFwWPr.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21325",
+      "url": "https://anilist.co/anime/21325"
+    },
+    "mal": {
+      "id": "31056",
+      "url": "https://myanimelist.net/anime/31056"
+    }
+  }
+}

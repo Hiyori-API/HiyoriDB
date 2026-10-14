@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2487,
+  "slug": "hatsu-inu-the-animation",
+  "kind": "anime",
+  "title": "Hatsu Inu the Animation",
+  "titles": {
+    "default": "Hatsu Inu the Animation",
+    "romaji": "Hatsu Inu the Animation",
+    "native": "初犬 the Animation"
+  },
+  "synonyms": [
+    "Hatsu Inu the Animation",
+    "初犬 the Animation",
+    "Hatsuinu The Animation",
+    "Strange Kind of Woman",
+    "Sousei no Aquarion OVA",
+    "ＯＶＡ『創星のアクエリオン』",
+    "Genesis of Aquarion OVA",
+    "Sousei no Aquarion: Uragiri no Tsubasa",
+    "Sousei no Aquarion: Taiyou no Tsubasa"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2798.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2798",
+      "url": "https://anilist.co/anime/2798"
+    },
+    "k": {
+      "id": "1965",
+      "url": "https://kitsu.io/anime/1965"
+    },
+    "mal": {
+      "id": "2798",
+      "url": "https://myanimelist.net/anime/2798"
+    }
+  }
+}

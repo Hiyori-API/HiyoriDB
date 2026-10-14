@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15500,
+  "slug": "otome-youkai-zakuro",
+  "kind": "manga",
+  "title": "Otome Youkai Zakuro",
+  "titles": {
+    "default": "Otome Youkai Zakuro"
+  },
+  "synonyms": [
+    "Female Demon Zakuro",
+    "Girl Demon Zakuro",
+    "Maiden Demon Zakuro",
+    "Maiden Spirit Zakuro",
+    "おとめ妖怪ざくろ",
+    "The Kurosagi Corpse Delivery Service",
+    "Kurosagi Shitai Takuhaibin",
+    "黒鷺死体宅配便"
+  ],
+  "type": "manga",
+  "status": "publishing",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx39084-gdC3SwD6Cu5j.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8476",
+      "url": "https://anilist.co/anime/8476"
+    },
+    "al_manga": {
+      "id": "8476",
+      "url": "https://anilist.co/manga/8476"
+    }
+  }
+}

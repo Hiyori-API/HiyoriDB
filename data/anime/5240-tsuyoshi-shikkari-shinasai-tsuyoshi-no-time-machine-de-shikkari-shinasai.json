@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5240,
+  "slug": "tsuyoshi-shikkari-shinasai-tsuyoshi-no-time-machine-de-shikkari-shinasai",
+  "kind": "anime",
+  "title": "Tsuyoshi Shikkari Shinasai: Tsuyoshi no Time Machine de Shikkari Shinasai",
+  "titles": {
+    "default": "Tsuyoshi Shikkari Shinasai: Tsuyoshi no Time Machine de Shikkari Shinasai",
+    "romaji": "Tsuyoshi Shikkari Shinasai: Tsuyoshi no Time Machine de Shikkari Shinasai",
+    "native": "ツヨシしっかりしなさい ツヨシのタイムマシーンでしっかりしなさい"
+  },
+  "synonyms": [
+    "Tsuyoshi Shikkari Shinasai: Tsuyoshi no Time Machine de Shikkari Shinasai",
+    "ツヨシしっかりしなさい ツヨシのタイムマシーンでしっかりしなさい"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10943.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10943",
+      "url": "https://anilist.co/anime/10943"
+    },
+    "k": {
+      "id": "6418",
+      "url": "https://kitsu.io/anime/6418"
+    },
+    "mal": {
+      "id": "10943",
+      "url": "https://myanimelist.net/anime/10943"
+    }
+  }
+}

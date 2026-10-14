@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10382,
+  "slug": "kyokou-suiri",
+  "kind": "anime",
+  "title": "Kyokou Suiri",
+  "titles": {
+    "default": "Kyokou Suiri",
+    "romaji": "Kyokou Suiri",
+    "english": "In/Spectre",
+    "native": "虚構推理"
+  },
+  "synonyms": [
+    "Kyokou Suiri",
+    "In/Spectre",
+    "虚構推理",
+    "虚构推理",
+    "ไขปมปริศนาภูต",
+    "Ложные выводы"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx107201-zQYOPotwmSXO.png"
+  ],
+  "references": {
+    "al": {
+      "id": "107201",
+      "url": "https://anilist.co/anime/107201"
+    },
+    "cr": {
+      "id": "inspectre",
+      "url": "https://www.crunchyroll.com/series/inspectre"
+    },
+    "mal": {
+      "id": "39017",
+      "url": "https://myanimelist.net/anime/39017"
+    },
+    "tx": {
+      "id": "kyokou_suiri",
+      "url": "https://twitter.com/kyokou_suiri"
+    }
+  }
+}

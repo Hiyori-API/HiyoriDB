@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15253,
+  "slug": "princess-memory",
+  "kind": "manga",
+  "title": "Princess Memory",
+  "titles": {
+    "default": "Princess Memory"
+  },
+  "synonyms": [
+    "プリンセスメモリー",
+    "Maburaho",
+    "まぶらほ",
+    "Maburaho Tanpen"
+  ],
+  "type": "novel",
+  "volumes": 1,
+  "status": "finished",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx121366-RQq7IzaGyqyG.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1402",
+      "url": "https://anilist.co/anime/1402"
+    },
+    "al_manga": {
+      "id": "1402",
+      "url": "https://anilist.co/manga/1402"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5903,
+  "slug": "jigoku-koushien",
+  "kind": "anime",
+  "title": "Jigoku Koushien",
+  "titles": {
+    "default": "Jigoku Koushien",
+    "romaji": "Jigoku Koushien",
+    "native": "地獄甲子園"
+  },
+  "synonyms": [
+    "Jigoku Koushien",
+    "地獄甲子園",
+    "Battlefield Baseball",
+    "Hayate no Gotoku!!: Atsu ga Natsuize - Mizugi-hen!",
+    "ハヤテのごとく!! アツがナツいぜ 水着編!",
+    "Hayate the Combat Butler!! Episode 0",
+    "Hayate no Gotoku!! OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b127796-MFIT9AYqyt2Z.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "127796",
+      "url": "https://anilist.co/anime/127796"
+    },
+    "k": {
+      "id": "4133",
+      "url": "https://kitsu.io/anime/4133"
+    },
+    "mal": {
+      "id": "28489",
+      "url": "https://myanimelist.net/anime/28489"
+    }
+  }
+}

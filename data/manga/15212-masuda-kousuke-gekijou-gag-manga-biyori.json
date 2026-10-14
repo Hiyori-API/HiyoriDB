@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15212,
+  "slug": "masuda-kousuke-gekijou-gag-manga-biyori",
+  "kind": "manga",
+  "title": "Masuda Kousuke Gekijou: Gag Manga Biyori",
+  "titles": {
+    "default": "Masuda Kousuke Gekijou: Gag Manga Biyori"
+  },
+  "synonyms": [
+    "Gyagu Manga Biyori",
+    "Gag Manga Biyori",
+    "増田こうすけ劇場 ギャグマンガ日和",
+    "Paradise Kiss",
+    "パラダイス・キス",
+    "ParaKiss"
+  ],
+  "type": "manga",
+  "chapters": 352,
+  "volumes": 15,
+  "status": "finished",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx38584-Ww1dMmwgVsCu.png"
+  ],
+  "references": {
+    "al": {
+      "id": "185259",
+      "url": "https://anilist.co/anime/2518"
+    },
+    "al_manga": {
+      "id": "185259",
+      "url": "https://anilist.co/manga/185259"
+    }
+  }
+}

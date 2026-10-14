@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14524,
+  "slug": "akagami-no-shirayuki-hime",
+  "kind": "manga",
+  "title": "Akagami no Shirayuki-hime",
+  "titles": {
+    "default": "Akagami no Shirayuki-hime"
+  },
+  "synonyms": [
+    "Akagami no Shirayukihime",
+    "Red-haired Snow White",
+    "Hachigatsu no Shikisai",
+    "Bokura wo Tsunaide",
+    "Four-season Color of August",
+    "Bind Us",
+    "La Blancanieves Pelirroja",
+    "Shirayuki. Śnieżka o czerwonych włosach",
+    "Natsuyasumi 00 Nichime",
+    "สโนไวท์ผมแดง",
+    "Bạch tuyết tóc đỏ",
+    "Shirayuki aux cheveux rouges",
+    "Snow White with the Red Hair",
+    "赤髪の白雪姫",
+    "The Kurosagi Corpse Delivery Service",
+    "Kurosagi Shitai Takuhaibin",
+    "黒鷺死体宅配便"
+  ],
+  "type": "manga",
+  "status": "publishing",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx34571-uRvqh90mPuGS.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21313",
+      "url": "https://anilist.co/anime/21058"
+    },
+    "al_manga": {
+      "id": "21313",
+      "url": "https://anilist.co/manga/21313"
+    }
+  }
+}

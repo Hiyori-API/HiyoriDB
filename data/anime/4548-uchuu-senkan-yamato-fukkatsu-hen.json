@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4548,
+  "slug": "uchuu-senkan-yamato-fukkatsu-hen",
+  "kind": "anime",
+  "title": "Uchuu Senkan Yamato: Fukkatsu-hen",
+  "titles": {
+    "default": "Uchuu Senkan Yamato: Fukkatsu-hen",
+    "romaji": "Uchuu Senkan Yamato: Fukkatsu-hen",
+    "english": "Space Battleship Yamato Resurrection",
+    "native": "宇宙戦艦ヤマト 復活篇"
+  },
+  "synonyms": [
+    "Uchuu Senkan Yamato: Fukkatsu-hen",
+    "Space Battleship Yamato Resurrection",
+    "宇宙戦艦ヤマト 復活篇",
+    "Space Battleship Yamato: Rebirth Chapter",
+    "Space Battleship Yamato: Revival"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b7144-7R8gYim1XPaC.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7144",
+      "url": "https://anilist.co/anime/7144"
+    },
+    "k": {
+      "id": "4878",
+      "url": "https://kitsu.io/anime/4878"
+    },
+    "mal": {
+      "id": "7144",
+      "url": "https://myanimelist.net/anime/7144"
+    }
+  }
+}

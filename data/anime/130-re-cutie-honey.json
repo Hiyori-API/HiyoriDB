@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 130,
+  "slug": "re-cutie-honey",
+  "kind": "anime",
+  "title": "Re: Cutie Honey",
+  "titles": {
+    "default": "Re: Cutie Honey",
+    "romaji": "Re: Cutie Honey",
+    "native": "Re:キューティーハニー"
+  },
+  "synonyms": [
+    "Re: Cutie Honey",
+    "Re:キューティーハニー",
+    "Re: Cutey Honey"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "summer",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151-QxUNuq82t7XK.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "151",
+      "url": "https://anilist.co/anime/151"
+    },
+    "k": {
+      "id": "129",
+      "url": "https://kitsu.io/anime/129"
+    },
+    "mal": {
+      "id": "151",
+      "url": "https://myanimelist.net/anime/151"
+    }
+  }
+}

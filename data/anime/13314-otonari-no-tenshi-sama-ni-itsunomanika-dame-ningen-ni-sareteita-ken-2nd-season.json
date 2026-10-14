@@ -1,0 +1,62 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13314,
+  "slug": "otonari-no-tenshi-sama-ni-itsunomanika-dame-ningen-ni-sareteita-ken-2nd-season",
+  "kind": "anime",
+  "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season",
+  "titles": {
+    "default": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season",
+    "romaji": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season",
+    "english": "The Angel Next Door Spoils Me Rotten2",
+    "native": "お隣の天使様にいつの間にか駄目人間にされていた件 第2期"
+  },
+  "synonyms": [
+    "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season",
+    "The Angel Next Door Spoils Me Rotten2",
+    "お隣の天使様にいつの間にか駄目人間にされていた件 第2期",
+    "The Angel Next Door Spoils Me Rotten Season 2",
+    "ขาดคุณนางฟ้าข้างห้องไป ผมคงมีชีวิตต่อไปไม่ได้อีกแล้ว2",
+    "Meu Anjo de Vizinha Me Mima Demais 2",
+    "Chouchouté par l’ange d’à côté saison 2",
+    "Ангел по соседству меня балует 2",
+    "關於我在無意間被隔壁的天使變成廢柴這件事",
+    "Aku Dimanjakan Tetanggaku yang Seperti Malaikat",
+    "This Ugly Yet Beautiful World",
+    "Kono Minikuku mo Utsukushii Sekai",
+    "この醜くも美しい世界"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170019-djbN0b934MhE.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "170019",
+      "url": "https://anilist.co/anime/170019"
+    },
+    "cr": {
+      "id": "series/G9VHN91DJ/the-angel-next-door-spoils-me-rotten",
+      "url": "https://www.crunchyroll.com/series/series/G9VHN91DJ/the-angel-next-door-spoils-me-rotten"
+    },
+    "k": {
+      "id": "124",
+      "url": "https://kitsu.io/anime/124"
+    },
+    "mal": {
+      "id": "56876",
+      "url": "https://myanimelist.net/anime/56876"
+    },
+    "t": {
+      "id": "34001",
+      "url": "https://trakt.tv/shows/34001"
+    },
+    "tx": {
+      "id": "tenshisama_PR",
+      "url": "https://twitter.com/tenshisama_PR"
+    }
+  }
+}

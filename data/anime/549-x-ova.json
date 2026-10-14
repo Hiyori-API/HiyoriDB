@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 549,
+  "slug": "x-ova",
+  "kind": "anime",
+  "title": "X OVA",
+  "titles": {
+    "default": "X OVA",
+    "romaji": "X OVA",
+    "native": "エックス"
+  },
+  "synonyms": [
+    "X OVA",
+    "エックス",
+    "X - Yochou",
+    "X OVA: Episode 0",
+    "X - An Omen",
+    "X: An Omen",
+    "X -エックス-第零話 予兆"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/595.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "595",
+      "url": "https://anilist.co/anime/595"
+    },
+    "k": {
+      "id": "550",
+      "url": "https://kitsu.io/anime/550"
+    },
+    "mal": {
+      "id": "595",
+      "url": "https://myanimelist.net/anime/595"
+    }
+  }
+}

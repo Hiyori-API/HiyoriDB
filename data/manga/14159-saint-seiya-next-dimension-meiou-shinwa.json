@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14159,
+  "slug": "saint-seiya-next-dimension-meiou-shinwa",
+  "kind": "manga",
+  "title": "Saint Seiya: NEXT DIMENSION - Meiou Shinwa",
+  "titles": {
+    "default": "Saint Seiya: NEXT DIMENSION - Meiou Shinwa"
+  },
+  "synonyms": [
+    "Saint Seiya: Next Dimension - The Myth of Hades",
+    "Os Cavaleiros do Zodíaco: Next Dimension - A Saga de Hades",
+    "聖闘士星矢 NEXT DIMENSION 冥王神話",
+    "The Pain in My Heart",
+    "Boku no Mune ga Itakutemo - Glass",
+    "ぼくの胸が痛くても GLASS"
+  ],
+  "type": "manga",
+  "chapters": 121,
+  "volumes": 16,
+  "status": "finished",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31322-fqZMU9R5gp6M.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1259",
+      "url": "https://anilist.co/anime/1259"
+    },
+    "al_manga": {
+      "id": "1259",
+      "url": "https://anilist.co/manga/1259"
+    }
+  }
+}

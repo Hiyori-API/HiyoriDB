@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4407,
+  "slug": "natsu-no-arashi-akinai-chuu",
+  "kind": "anime",
+  "title": "Natsu no Arashi!: Akinai-chuu",
+  "titles": {
+    "default": "Natsu no Arashi!: Akinai-chuu",
+    "romaji": "Natsu no Arashi!: Akinai-chuu",
+    "english": "Natsu no Arashi! Season 2",
+    "native": "夏のあらし! 〜春夏冬中〜"
+  },
+  "synonyms": [
+    "Natsu no Arashi!: Akinai-chuu",
+    "Natsu no Arashi! Season 2",
+    "夏のあらし! 〜春夏冬中〜",
+    "Natsu no Arashi! 2",
+    "Summer Storm! Open for Business",
+    "Heaven's Lost Property",
+    "Sora no Otoshimono",
+    "そらのおとしもの",
+    "Lost Property of the Sky",
+    "Misplaced by Heaven"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6712-Ij76UPxFEuDC.png"
+  ],
+  "references": {
+    "al": {
+      "id": "6712",
+      "url": "https://anilist.co/anime/6712"
+    },
+    "cr": {
+      "id": "natsu-no-arashi-",
+      "url": "https://www.crunchyroll.com/series/natsu-no-arashi-"
+    },
+    "k": {
+      "id": "4363",
+      "url": "https://kitsu.io/anime/4363"
+    },
+    "mal": {
+      "id": "6712",
+      "url": "https://myanimelist.net/anime/6712"
+    },
+    "t": {
+      "id": "37279",
+      "url": "https://trakt.tv/shows/37279"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14368,
+  "slug": "o-i-ryoma",
+  "kind": "manga",
+  "title": "O~i!  Ryoma",
+  "titles": {
+    "default": "O~i!  Ryoma"
+  },
+  "synonyms": [
+    "Hey! Ryouma",
+    "Ooi! Ryouma",
+    "Oi! Ryouma",
+    "お～い！竜馬",
+    "Ranma ½",
+    "Ranma 1/2",
+    "らんま½"
+  ],
+  "type": "manga",
+  "volumes": 23,
+  "status": "finished",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx33146-Qylt2TfCyNcD.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8415",
+      "url": "https://anilist.co/anime/8415"
+    },
+    "al_manga": {
+      "id": "8415",
+      "url": "https://anilist.co/manga/8415"
+    }
+  }
+}

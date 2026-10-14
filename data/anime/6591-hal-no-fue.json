@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6591,
+  "slug": "hal-no-fue",
+  "kind": "anime",
+  "title": "Hal no Fue",
+  "titles": {
+    "default": "Hal no Fue",
+    "romaji": "Hal no Fue",
+    "english": "Hal's Flute",
+    "native": "ハルのふえ"
+  },
+  "synonyms": [
+    "Hal no Fue",
+    "Hal's Flute",
+    "ハルのふえ"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b11673-gwUbQMw6WjUv.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11673",
+      "url": "https://anilist.co/anime/11673"
+    },
+    "k": {
+      "id": "6558",
+      "url": "https://kitsu.io/anime/6558"
+    },
+    "mal": {
+      "id": "11673",
+      "url": "https://myanimelist.net/anime/11673"
+    }
+  }
+}

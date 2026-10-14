@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15209,
+  "slug": "photon",
+  "kind": "manga",
+  "title": "Photon",
+  "titles": {
+    "default": "Photon"
+  },
+  "synonyms": [
+    "フォトン",
+    "Love Hina",
+    "ラブひな"
+  ],
+  "type": "manga",
+  "volumes": 3,
+  "status": "finished",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b186242-OZd5bgpmOOR1.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1944",
+      "url": "https://anilist.co/anime/1944"
+    },
+    "al_manga": {
+      "id": "1944",
+      "url": "https://anilist.co/manga/1944"
+    }
+  }
+}

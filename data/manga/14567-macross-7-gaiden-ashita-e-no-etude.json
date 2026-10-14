@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14567,
+  "slug": "macross-7-gaiden-ashita-e-no-etude",
+  "kind": "manga",
+  "title": "Macross 7 Gaiden: Ashita e no Etude",
+  "titles": {
+    "default": "Macross 7 Gaiden: Ashita e no Etude"
+  },
+  "synonyms": [
+    "Etude to Tomorrow",
+    "マクロス7外伝 明日へのエチュード",
+    "Hidari Te",
+    "左手",
+    "Left Hand",
+    "HidariTe"
+  ],
+  "type": "one_shot",
+  "chapters": 1,
+  "status": "finished",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx198351-NCi5hRGkdtch.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1397",
+      "url": "https://anilist.co/anime/1397"
+    },
+    "al_manga": {
+      "id": "1397",
+      "url": "https://anilist.co/manga/1397"
+    }
+  }
+}

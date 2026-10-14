@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10095,
+  "slug": "diamond-no-ace-act-ii",
+  "kind": "anime",
+  "title": "Diamond no Ace act II",
+  "titles": {
+    "default": "Diamond no Ace act II",
+    "romaji": "Diamond no Ace act II",
+    "english": "Ace of the Diamond act II",
+    "native": "ダイヤのA actⅡ"
+  },
+  "synonyms": [
+    "Diamond no Ace act II",
+    "Ace of the Diamond act II",
+    "ダイヤのA actⅡ",
+    "Daiya no Ace: Act II",
+    "Ace of Diamond Act II",
+    "ダイヤのA[エース] actII",
+    "Diamond no Ace: Act II"
+  ],
+  "type": "tv",
+  "episodes": 52,
+  "status": "finished",
+  "season": "spring",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx105749-bbqFNGq0r6mS.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "105749",
+      "url": "https://anilist.co/anime/105749"
+    },
+    "cr": {
+      "id": "ace-of-the-diamond",
+      "url": "https://www.crunchyroll.com/series/ace-of-the-diamond"
+    },
+    "mal": {
+      "id": "38731",
+      "url": "https://myanimelist.net/anime/38731"
+    },
+    "tx": {
+      "id": "diaace_anime",
+      "url": "https://twitter.com/diaace_anime"
+    }
+  }
+}

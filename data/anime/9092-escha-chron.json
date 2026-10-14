@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9092,
+  "slug": "escha-chron",
+  "kind": "anime",
+  "title": "Escha Chron",
+  "titles": {
+    "default": "Escha Chron",
+    "romaji": "Escha Chron",
+    "native": "エスカクロン"
+  },
+  "synonyms": [
+    "Escha Chron",
+    "エスカクロン",
+    "Gravitation: Lyrics of Love",
+    "グラビテーション"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b97707-fBl11n3Z8h5s.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "97707",
+      "url": "https://anilist.co/anime/97707"
+    },
+    "k": {
+      "id": "466",
+      "url": "https://kitsu.io/anime/466"
+    },
+    "mal": {
+      "id": "34208",
+      "url": "https://myanimelist.net/anime/34208"
+    },
+    "tx": {
+      "id": "escha_chron",
+      "url": "https://twitter.com/escha_chron"
+    }
+  }
+}

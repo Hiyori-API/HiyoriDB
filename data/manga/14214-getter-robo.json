@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14214,
+  "slug": "getter-robo",
+  "kind": "manga",
+  "title": "Getter Robo",
+  "titles": {
+    "default": "Getter Robo"
+  },
+  "synonyms": [
+    "ゲッターロボ",
+    "Getter Robo"
+  ],
+  "type": "manga",
+  "chapters": 15,
+  "volumes": 4,
+  "status": "finished",
+  "year": 1974,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b31551-4bEAZv8P70Iq.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2978",
+      "url": "https://anilist.co/anime/938"
+    },
+    "al_manga": {
+      "id": "2978",
+      "url": "https://anilist.co/manga/2978"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4025,
+  "slug": "summer-wars",
+  "kind": "anime",
+  "title": "Summer Wars",
+  "titles": {
+    "default": "Summer Wars",
+    "romaji": "Summer Wars",
+    "native": "サマーウォーズ"
+  },
+  "synonyms": [
+    "Summer Wars",
+    "サマーウォーズ",
+    "Guerras de Verão",
+    "Cuộc Chiến Mùa Hè"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5681-3DmxUVn3grD0.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5681",
+      "url": "https://anilist.co/anime/5681"
+    },
+    "k": {
+      "id": "4241",
+      "url": "https://kitsu.io/anime/4241"
+    },
+    "mal": {
+      "id": "5681",
+      "url": "https://myanimelist.net/anime/5681"
+    }
+  }
+}

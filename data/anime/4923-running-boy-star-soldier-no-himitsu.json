@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4923,
+  "slug": "running-boy-star-soldier-no-himitsu",
+  "kind": "anime",
+  "title": "RUNNING Boy: Star Soldier no Himitsu",
+  "titles": {
+    "default": "RUNNING Boy: Star Soldier no Himitsu",
+    "romaji": "RUNNING Boy: Star Soldier no Himitsu",
+    "native": "RUNNING Boy スターソルジャーの秘密"
+  },
+  "synonyms": [
+    "RUNNING Boy: Star Soldier no Himitsu",
+    "RUNNING Boy スターソルジャーの秘密",
+    "Running Boy: Secrets Of Star Soldier",
+    "Running Boy: Star Soldier no Himitsu"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10653-Quc4n4jbAkH6.png"
+  ],
+  "references": {
+    "al": {
+      "id": "10653",
+      "url": "https://anilist.co/anime/10653"
+    },
+    "k": {
+      "id": "6281",
+      "url": "https://kitsu.io/anime/6281"
+    },
+    "mal": {
+      "id": "10653",
+      "url": "https://myanimelist.net/anime/10653"
+    }
+  }
+}

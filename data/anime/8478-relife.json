@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8478,
+  "slug": "relife",
+  "kind": "anime",
+  "title": "ReLIFE",
+  "titles": {
+    "default": "ReLIFE",
+    "romaji": "ReLIFE"
+  },
+  "synonyms": [
+    "ReLIFE",
+    "リライフ",
+    "Повторная жизнь",
+    "Enmusubi no Youko-chan 3rd Season",
+    "縁結びの妖狐ちゃん 3rd Season",
+    "狐妖小红娘 第三季",
+    "Huyao Xiao Hongniang 3rd Season",
+    "Fox Spirit Matchmaker 3rd Season",
+    "狐妖小红娘3 月红篇",
+    "Huyao Xiao Hongniang 3: Yue Hong Pian"
+  ],
+  "type": "ona",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21049-4AHSLeiDE9eg.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21049",
+      "url": "https://anilist.co/anime/21049"
+    },
+    "cr": {
+      "id": "relife",
+      "url": "https://www.crunchyroll.com/series/relife"
+    },
+    "mal": {
+      "id": "30015",
+      "url": "https://myanimelist.net/anime/30015"
+    },
+    "tx": {
+      "id": "ReLIFE_anime",
+      "url": "https://twitter.com/ReLIFE_anime"
+    }
+  }
+}

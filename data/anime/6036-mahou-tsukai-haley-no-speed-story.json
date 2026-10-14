@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6036,
+  "slug": "mahou-tsukai-haley-no-speed-story",
+  "kind": "anime",
+  "title": "Mahou Tsukai Haley no Speed Story",
+  "titles": {
+    "default": "Mahou Tsukai Haley no Speed Story",
+    "romaji": "Mahou Tsukai Haley no Speed Story",
+    "native": "魔法使いハーレイのスピードストーリー"
+  },
+  "synonyms": [
+    "Mahou Tsukai Haley no Speed Story",
+    "魔法使いハーレイのスピードストーリー",
+    "Il fantastico viaggio di Haley",
+    "Mahoutsukai Haley no Speed Story"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8495.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8495",
+      "url": "https://anilist.co/anime/8495"
+    },
+    "k": {
+      "id": "5360",
+      "url": "https://kitsu.io/anime/5360"
+    },
+    "mal": {
+      "id": "8495",
+      "url": "https://myanimelist.net/anime/8495"
+    }
+  }
+}

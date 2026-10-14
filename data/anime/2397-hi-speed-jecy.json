@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2397,
+  "slug": "hi-speed-jecy",
+  "kind": "anime",
+  "title": "Hi-Speed Jecy",
+  "titles": {
+    "default": "Hi-Speed Jecy",
+    "romaji": "Hi-Speed Jecy",
+    "native": "ハイスピード・ジェシー"
+  },
+  "synonyms": [
+    "Hi-Speed Jecy",
+    "ハイスピード・ジェシー",
+    "Ace wo Nerae!: Final Stage",
+    "「エースをねらえ！」 —ファイナル・ステージ—",
+    "Ace O Nerae! OVA 2",
+    "Aim for the Ace: Final Stage"
+  ],
+  "type": "ova",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2697-pmwlHVJf3R7k.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2697",
+      "url": "https://anilist.co/anime/2697"
+    },
+    "k": {
+      "id": "282",
+      "url": "https://kitsu.io/anime/282"
+    },
+    "mal": {
+      "id": "2697",
+      "url": "https://myanimelist.net/anime/2697"
+    }
+  }
+}

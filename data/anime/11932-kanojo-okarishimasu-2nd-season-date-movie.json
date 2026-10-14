@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11932,
+  "slug": "kanojo-okarishimasu-2nd-season-date-movie",
+  "kind": "anime",
+  "title": "Kanojo, Okarishimasu 2nd Season: Date Movie",
+  "titles": {
+    "default": "Kanojo, Okarishimasu 2nd Season: Date Movie",
+    "romaji": "Kanojo, Okarishimasu 2nd Season: Date Movie",
+    "native": "彼女、お借りします 第2期 デートムービー"
+  },
+  "synonyms": [
+    "Kanojo, Okarishimasu 2nd Season: Date Movie",
+    "彼女、お借りします 第2期 デートムービー",
+    "Rent-a-Girlfriend 2nd Season: Date Movie",
+    "KanoKari 2nd Season: Date Movie",
+    "Dalisi Rizhi 2",
+    "The Journal of Dali Temple 2",
+    "White Cat Legend Season 2",
+    "大理寺日志 第2季",
+    "Da Li Si Rizhi 2nd Season"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154176-f98GtCnYEAbY.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "154176",
+      "url": "https://anilist.co/anime/154176"
+    },
+    "mal": {
+      "id": "52289",
+      "url": "https://myanimelist.net/anime/52289"
+    },
+    "tx": {
+      "id": "kanokari_anime",
+      "url": "https://twitter.com/kanokari_anime"
+    }
+  }
+}

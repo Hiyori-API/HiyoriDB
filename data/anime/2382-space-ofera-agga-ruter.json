@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2382,
+  "slug": "space-ofera-agga-ruter",
+  "kind": "anime",
+  "title": "Space Ofera Agga Ruter",
+  "titles": {
+    "default": "Space Ofera Agga Ruter",
+    "romaji": "Space Ofera Agga Ruter",
+    "english": "Spaceship Agga Ruter",
+    "native": "Space Ofera アッガ・ルター"
+  },
+  "synonyms": [
+    "Space Ofera Agga Ruter",
+    "Spaceship Agga Ruter",
+    "Space Ofera アッガ・ルター",
+    "Agga Ruta",
+    "Agga Rutta",
+    "Spaceship Agga Reuter",
+    "Blue Submarine No. 6",
+    "Ao no 6-gou",
+    "青の6号",
+    "Ao no 6-go",
+    "Ao no Rokugou",
+    "Ao no Rokugo"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "fall",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2681.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2681",
+      "url": "https://anilist.co/anime/2681"
+    },
+    "cr": {
+      "id": "blue-submarine-no-6",
+      "url": "https://www.crunchyroll.com/series/blue-submarine-no-6"
+    },
+    "k": {
+      "id": "941",
+      "url": "https://kitsu.io/anime/941"
+    },
+    "mal": {
+      "id": "2681",
+      "url": "https://myanimelist.net/anime/2681"
+    },
+    "ttv": {
+      "id": "1997",
+      "url": "https://tubitv.com/series/1997"
+    }
+  }
+}

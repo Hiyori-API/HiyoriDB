@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9625,
+  "slug": "gd-men",
+  "kind": "anime",
+  "title": "gd Men",
+  "titles": {
+    "default": "gd Men",
+    "romaji": "gd Men",
+    "english": "gdgd men's party",
+    "native": "gdメン（ぐだメン）"
+  },
+  "synonyms": [
+    "gd Men",
+    "gdgd men's party",
+    "gdメン（ぐだメン）",
+    "gude men's party",
+    "gd men's party",
+    "Guda Men",
+    "PPTP",
+    "Poptepipic",
+    "Pop Team Epic",
+    "ポプテピピック",
+    "Poputepipikku"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100527-VCJUxvBBtvB7.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "100527",
+      "url": "https://anilist.co/anime/100527"
+    },
+    "cr": {
+      "id": "gdgd-mens-party",
+      "url": "https://www.crunchyroll.com/series/gdgd-mens-party"
+    },
+    "mal": {
+      "id": "36797",
+      "url": "https://myanimelist.net/anime/36797"
+    },
+    "tx": {
+      "id": "gdmen2018",
+      "url": "https://twitter.com/gdmen2018"
+    }
+  }
+}

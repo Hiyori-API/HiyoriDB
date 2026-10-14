@@ -1,0 +1,60 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13016,
+  "slug": "uma-musume-cinderella-gray",
+  "kind": "anime",
+  "title": "Uma Musume: Cinderella Gray",
+  "titles": {
+    "default": "Uma Musume: Cinderella Gray",
+    "romaji": "Uma Musume: Cinderella Gray",
+    "english": "Umamusume: Cinderella Gray",
+    "native": "ウマ娘 シンデレラグレイ"
+  },
+  "synonyms": [
+    "Uma Musume: Cinderella Gray",
+    "Umamusume: Cinderella Gray",
+    "ウマ娘 シンデレラグレイ",
+    "Prétear: The New Legend of Snow White",
+    "Shin Shirayuki-hime Densetsu Prétear",
+    "新白雪姫伝説プリーティア",
+    "Shin Shirayuki-hime Densetsu Pretear"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180516-lebpoKLkw6E3.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "180516",
+      "url": "https://anilist.co/anime/180516"
+    },
+    "cr": {
+      "id": "series/GRWE8VK0R/pretear",
+      "url": "https://www.crunchyroll.com/series/series/GRWE8VK0R/pretear"
+    },
+    "k": {
+      "id": "79",
+      "url": "https://kitsu.io/anime/79"
+    },
+    "mal": {
+      "id": "59636",
+      "url": "https://myanimelist.net/anime/59636"
+    },
+    "nf": {
+      "id": "82030222",
+      "url": "https://www.netflix.com/title/82030222"
+    },
+    "t": {
+      "id": "42703",
+      "url": "https://trakt.tv/shows/42703"
+    },
+    "ttv": {
+      "id": "300018619",
+      "url": "https://tubitv.com/series/300018619"
+    }
+  }
+}

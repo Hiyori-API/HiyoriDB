@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12195,
+  "slug": "hidari-pilot-film",
+  "kind": "anime",
+  "title": "HIDARI (Pilot Film)",
+  "titles": {
+    "default": "HIDARI (Pilot Film)",
+    "romaji": "HIDARI (Pilot Film)",
+    "native": "左 パイロット・フィルム"
+  },
+  "synonyms": [
+    "HIDARI (Pilot Film)",
+    "左 パイロット・フィルム",
+    "The Princess of Yoshino",
+    "Yoshino no Hime",
+    "吉野の姫制"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2023,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx156059-I51vKb3Fskt1.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "156059",
+      "url": "https://anilist.co/anime/156059"
+    },
+    "k": {
+      "id": "3727",
+      "url": "https://kitsu.io/anime/3727"
+    },
+    "mal": {
+      "id": "55191",
+      "url": "https://myanimelist.net/anime/55191"
+    },
+    "tx": {
+      "id": "hidari_movie",
+      "url": "https://twitter.com/hidari_movie"
+    },
+    "yt": {
+      "id": "DpefYPLH67A",
+      "url": "https://www.youtube.com/watch?v=DpefYPLH67A"
+    }
+  }
+}

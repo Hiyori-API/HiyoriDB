@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5004,
+  "slug": "anime-rakugo-kan",
+  "kind": "anime",
+  "title": "Anime Rakugo Kan",
+  "titles": {
+    "default": "Anime Rakugo Kan",
+    "romaji": "Anime Rakugo Kan",
+    "native": "アニメ落語館"
+  },
+  "synonyms": [
+    "Anime Rakugo Kan",
+    "アニメ落語館",
+    "The Guyver: Bio-Booster Armor",
+    "Kyoushoku Soukou Guyver (1989)",
+    "強殖装甲ガイバー",
+    "Bio-Booster Armor Guyver",
+    "The Guyver",
+    "Гайвер",
+    "Guyver: The Bio-boosted Armor"
+  ],
+  "type": "ova",
+  "episodes": 6,
+  "status": "finished",
+  "season": "fall",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8723.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8723",
+      "url": "https://anilist.co/anime/8723"
+    },
+    "k": {
+      "id": "1191",
+      "url": "https://kitsu.io/anime/1191"
+    },
+    "mal": {
+      "id": "8723",
+      "url": "https://myanimelist.net/anime/8723"
+    }
+  }
+}

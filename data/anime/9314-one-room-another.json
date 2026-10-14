@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9314,
+  "slug": "one-room-another",
+  "kind": "anime",
+  "title": "One Room: another",
+  "titles": {
+    "default": "One Room: another",
+    "romaji": "One Room: another",
+    "native": "ワンルーム -another-"
+  },
+  "synonyms": [
+    "One Room: another",
+    "ワンルーム -another-",
+    "One Room Special",
+    "One Room Episode 13",
+    "New Game! OVA: My First Time on a Company Vacation...",
+    "New Game Episode 13",
+    "NEW GAME! 私、社員旅行って初めてなので…",
+    "New Game! Watashi, Shain Ryokou tte Hajimete nanode..."
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99054-FHBbtrk85vb8.png"
+  ],
+  "references": {
+    "al": {
+      "id": "99054",
+      "url": "https://anilist.co/anime/99054"
+    },
+    "mal": {
+      "id": "34733",
+      "url": "https://myanimelist.net/anime/34733"
+    },
+    "tx": {
+      "id": "anime_one_room",
+      "url": "https://twitter.com/anime_one_room"
+    }
+  }
+}

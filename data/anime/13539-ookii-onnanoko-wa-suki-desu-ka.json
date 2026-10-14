@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13539,
+  "slug": "ookii-onnanoko-wa-suki-desu-ka",
+  "kind": "anime",
+  "title": "Ookii Onnanoko wa Suki desu ka?",
+  "titles": {
+    "default": "Ookii Onnanoko wa Suki desu ka?",
+    "romaji": "Ookii Onnanoko wa Suki desu ka?",
+    "english": "Do You Like Big Girls?",
+    "native": "大きい女の子は好きですか？"
+  },
+  "synonyms": [
+    "Ookii Onnanoko wa Suki desu ka?",
+    "Do You Like Big Girls?",
+    "大きい女の子は好きですか？",
+    "This Ugly Yet Beautiful World",
+    "Kono Minikuku mo Utsukushii Sekai",
+    "この醜くも美しい世界"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204319-qhw2yBXBUgJT.png"
+  ],
+  "references": {
+    "al": {
+      "id": "204319",
+      "url": "https://anilist.co/anime/204319"
+    },
+    "k": {
+      "id": "124",
+      "url": "https://kitsu.io/anime/124"
+    },
+    "mal": {
+      "id": "63248",
+      "url": "https://myanimelist.net/anime/63248"
+    },
+    "t": {
+      "id": "34001",
+      "url": "https://trakt.tv/shows/34001"
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11132,
+  "slug": "ousama-ranking",
+  "kind": "anime",
+  "title": "Ousama Ranking",
+  "titles": {
+    "default": "Ousama Ranking",
+    "romaji": "Ousama Ranking",
+    "english": "Ranking of Kings",
+    "native": "王様ランキング"
+  },
+  "synonyms": [
+    "Ousama Ranking",
+    "Ranking of Kings",
+    "王様ランキング",
+    "King Ranking",
+    "อันดับพระราชา",
+    "تصنيف الملوك",
+    "國王排名",
+    "Black Cat",
+    "ブラックキャット"
+  ],
+  "type": "tv",
+  "episodes": 23,
+  "status": "finished",
+  "season": "fall",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113717-9sNnN8WRgK15.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "113717",
+      "url": "https://anilist.co/anime/113717"
+    },
+    "cr": {
+      "id": "series/G79H23W70/ranking-of-kings",
+      "url": "https://www.crunchyroll.com/series/series/G79H23W70/ranking-of-kings"
+    },
+    "k": {
+      "id": "49",
+      "url": "https://kitsu.io/anime/49"
+    },
+    "mal": {
+      "id": "40834",
+      "url": "https://myanimelist.net/anime/40834"
+    },
+    "t": {
+      "id": "33918",
+      "url": "https://trakt.tv/shows/33918"
+    },
+    "tx": {
+      "id": "osama_ranking",
+      "url": "https://twitter.com/osama_ranking"
+    }
+  }
+}

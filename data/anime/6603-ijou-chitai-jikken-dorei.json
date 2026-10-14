@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6603,
+  "slug": "ijou-chitai-jikken-dorei",
+  "kind": "anime",
+  "title": "Ijou Chitai: Jikken Dorei",
+  "titles": {
+    "default": "Ijou Chitai: Jikken Dorei",
+    "romaji": "Ijou Chitai: Jikken Dorei",
+    "native": "異常痴態 実験奴隷"
+  },
+  "synonyms": [
+    "Ijou Chitai: Jikken Dorei",
+    "異常痴態 実験奴隷",
+    "Special Sexuation Experimental Slave",
+    "Baka & Test - Summon the Beasts OVA",
+    "Baka to Test to Shoukanjuu: Matsuri",
+    "バカとテストと召喚獣 ～祭～",
+    "Baka to Test to Shoukanjuu OVA",
+    "Baka to Test to Shokanju OVA",
+    "The Idiot",
+    "the Tests",
+    "and the Summoned Creatures OVA",
+    "Baka and Test: Summon the Beasts OVA"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11815.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11815",
+      "url": "https://anilist.co/anime/11815"
+    },
+    "k": {
+      "id": "5745",
+      "url": "https://kitsu.io/anime/5745"
+    },
+    "mal": {
+      "id": "11815",
+      "url": "https://myanimelist.net/anime/11815"
+    }
+  }
+}

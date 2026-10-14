@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3438,
+  "slug": "hitou-meguri-the-animation",
+  "kind": "anime",
+  "title": "Hitou Meguri: The Animation",
+  "titles": {
+    "default": "Hitou Meguri: The Animation",
+    "romaji": "Hitou Meguri: The Animation",
+    "native": "秘湯めぐり　Rape.1「若女将、拉致る」 初回限定版"
+  },
+  "synonyms": [
+    "Hitou Meguri: The Animation",
+    "秘湯めぐり　Rape.1「若女将、拉致る」 初回限定版",
+    "Hito Meguri The Animation Rape. 1",
+    "Rec Special",
+    "Rec Episode 7.5",
+    "Rec: The Unforgiven",
+    "レック 許されざる者",
+    "Rec: Yurusarezarumono"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4365-ld0HHm6SjAIs.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4365",
+      "url": "https://anilist.co/anime/4365"
+    },
+    "mal": {
+      "id": "4365",
+      "url": "https://myanimelist.net/anime/4365"
+    }
+  }
+}

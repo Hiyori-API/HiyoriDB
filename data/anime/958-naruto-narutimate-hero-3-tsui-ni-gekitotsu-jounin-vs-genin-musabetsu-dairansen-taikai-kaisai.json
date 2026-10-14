@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 958,
+  "slug": "naruto-narutimate-hero-3-tsui-ni-gekitotsu-jounin-vs-genin-musabetsu-dairansen-taikai-kaisai",
+  "kind": "anime",
+  "title": "NARUTO: Narutimate Hero 3: Tsui ni Gekitotsu! Jounin VS Genin!! Musabetsu Dairansen Taikai Kaisai!!",
+  "titles": {
+    "default": "NARUTO: Narutimate Hero 3: Tsui ni Gekitotsu! Jounin VS Genin!! Musabetsu Dairansen Taikai Kaisai!!",
+    "romaji": "NARUTO: Narutimate Hero 3: Tsui ni Gekitotsu! Jounin VS Genin!! Musabetsu Dairansen Taikai Kaisai!!",
+    "native": "NARUTO -ナルト- ナルティメットヒーロー3 ついに激突! 上忍VS下忍!! 無差別大乱戦大会開催!!"
+  },
+  "synonyms": [
+    "NARUTO: Narutimate Hero 3: Tsui ni Gekitotsu! Jounin VS Genin!! Musabetsu Dairansen Taikai Kaisai!!",
+    "NARUTO -ナルト- ナルティメットヒーロー3 ついに激突! 上忍VS下忍!! 無差別大乱戦大会開催!!",
+    "Naruto Narutimate Hero 3 OVA",
+    "Naruto: Finally a Clash!! Jounin vs. Genin!",
+    "Hellsing I: Digest for Freaks",
+    "HELLSING I OVA DIGEST FOR FREAKS",
+    "Hellsing I OVA: Digest for Fleaks"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1074.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1074",
+      "url": "https://anilist.co/anime/1074"
+    },
+    "k": {
+      "id": "4782",
+      "url": "https://kitsu.io/anime/4782"
+    },
+    "mal": {
+      "id": "1074",
+      "url": "https://myanimelist.net/anime/1074"
+    }
+  }
+}

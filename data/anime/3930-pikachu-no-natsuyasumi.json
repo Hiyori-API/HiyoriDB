@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3930,
+  "slug": "pikachu-no-natsuyasumi",
+  "kind": "anime",
+  "title": "Pikachu no Natsuyasumi",
+  "titles": {
+    "default": "Pikachu no Natsuyasumi",
+    "romaji": "Pikachu no Natsuyasumi",
+    "english": "Pokémon: Pikachu's Vacation",
+    "native": "ピカチュウのなつやすみ"
+  },
+  "synonyms": [
+    "Pikachu no Natsuyasumi",
+    "Pokémon: Pikachu's Vacation",
+    "ピカチュウのなつやすみ",
+    "Pocket Monsters: Pikachu no Natsuyasumi",
+    "Pikachu Short 1",
+    "Pokémon: Pikachu's Summer Vacation",
+    "Pokemon: Pikachus Ferie",
+    "Pikachus semester",
+    "Seikimatsu Leader Gaiden Takeshi!",
+    "世紀末リーダー外伝たけし！"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5526-H6YvOJIJxU4q.png"
+  ],
+  "references": {
+    "al": {
+      "id": "5526",
+      "url": "https://anilist.co/anime/5526"
+    },
+    "k": {
+      "id": "7392",
+      "url": "https://kitsu.io/anime/7392"
+    },
+    "mal": {
+      "id": "5526",
+      "url": "https://myanimelist.net/anime/5526"
+    }
+  }
+}

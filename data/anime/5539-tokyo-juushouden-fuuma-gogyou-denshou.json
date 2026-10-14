@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5539,
+  "slug": "tokyo-juushouden-fuuma-gogyou-denshou",
+  "kind": "anime",
+  "title": "Tokyo Juushouden: Fuuma Gogyou Denshou",
+  "titles": {
+    "default": "Tokyo Juushouden: Fuuma Gogyou Denshou",
+    "romaji": "Tokyo Juushouden: Fuuma Gogyou Denshou",
+    "english": "10 Tokyo Warriors: The Final Battle",
+    "native": "倒凶十将伝 封魔五行伝承"
+  },
+  "synonyms": [
+    "Tokyo Juushouden: Fuuma Gogyou Denshou",
+    "10 Tokyo Warriors: The Final Battle",
+    "倒凶十将伝 封魔五行伝承",
+    "10 Tokyo Warriors (2001)"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "summer",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119939-eDWvXquUMHoz.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "119939",
+      "url": "https://anilist.co/anime/119939"
+    },
+    "k": {
+      "id": "9677",
+      "url": "https://kitsu.io/anime/9677"
+    },
+    "mal": {
+      "id": "25591",
+      "url": "https://myanimelist.net/anime/25591"
+    }
+  }
+}

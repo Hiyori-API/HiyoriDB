@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6840,
+  "slug": "guskou-budori-no-denki-2012",
+  "kind": "anime",
+  "title": "Guskou Budori no Denki (2012)",
+  "titles": {
+    "default": "Guskou Budori no Denki (2012)",
+    "romaji": "Guskou Budori no Denki (2012)",
+    "english": "The Life of Budori Gusuko",
+    "native": "グスコーブドリの伝記"
+  },
+  "synonyms": [
+    "Guskou Budori no Denki (2012)",
+    "The Life of Budori Gusuko",
+    "グスコーブドリの伝記",
+    "Gusukobudori no Denki",
+    "Biography of Gusuko Budori",
+    "The Life of Guskou Budori",
+    "La leyenda de Budori Gusuko"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13215.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "13215",
+      "url": "https://anilist.co/anime/13215"
+    },
+    "k": {
+      "id": "6912",
+      "url": "https://kitsu.io/anime/6912"
+    },
+    "mal": {
+      "id": "13215",
+      "url": "https://myanimelist.net/anime/13215"
+    }
+  }
+}

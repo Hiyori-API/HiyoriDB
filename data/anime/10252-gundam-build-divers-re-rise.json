@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10252,
+  "slug": "gundam-build-divers-re-rise",
+  "kind": "anime",
+  "title": "Gundam Build Divers Re:RISE",
+  "titles": {
+    "default": "Gundam Build Divers Re:RISE",
+    "romaji": "Gundam Build Divers Re:RISE",
+    "native": "ガンダムビルドダイバーズRe:RISE"
+  },
+  "synonyms": [
+    "Gundam Build Divers Re:RISE",
+    "ガンダムビルドダイバーズRe:RISE",
+    "GUNDAM BUILD DIVERS Re:RISE",
+    "Gundam Build Divers Re:Rise"
+  ],
+  "type": "ona",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110786-fkPT1rFx9VFU.png"
+  ],
+  "references": {
+    "al": {
+      "id": "110786",
+      "url": "https://anilist.co/anime/110786"
+    },
+    "cr": {
+      "id": "gundam-build-divers",
+      "url": "https://www.crunchyroll.com/series/gundam-build-divers"
+    },
+    "mal": {
+      "id": "40192",
+      "url": "https://myanimelist.net/anime/40192"
+    },
+    "tx": {
+      "id": "gundambd",
+      "url": "https://twitter.com/gundambd"
+    }
+  }
+}

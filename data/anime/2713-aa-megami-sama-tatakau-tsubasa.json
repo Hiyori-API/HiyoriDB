@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2713,
+  "slug": "aa-megami-sama-tatakau-tsubasa",
+  "kind": "anime",
+  "title": "Aa! Megami-sama!: Tatakau Tsubasa",
+  "titles": {
+    "default": "Aa! Megami-sama!: Tatakau Tsubasa",
+    "romaji": "Aa! Megami-sama!: Tatakau Tsubasa",
+    "english": "Oh! My Goddess: Fighting Wings",
+    "native": "ああっ女神さまっ 闘う翼"
+  },
+  "synonyms": [
+    "Aa! Megami-sama!: Tatakau Tsubasa",
+    "Oh! My Goddess: Fighting Wings",
+    "ああっ女神さまっ 闘う翼",
+    "Ah! My Goddess: Tatakau Tsubasa",
+    "Ah! My Goddess: Fighting wings"
+  ],
+  "type": "special",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3090-B3LjppvhoMqm.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3090",
+      "url": "https://anilist.co/anime/3090"
+    },
+    "k": {
+      "id": "2786",
+      "url": "https://kitsu.io/anime/2786"
+    },
+    "mal": {
+      "id": "3090",
+      "url": "https://myanimelist.net/anime/3090"
+    }
+  }
+}

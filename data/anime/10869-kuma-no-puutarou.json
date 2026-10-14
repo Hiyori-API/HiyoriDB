@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10869,
+  "slug": "kuma-no-puutarou",
+  "kind": "anime",
+  "title": "Kuma no Puutarou",
+  "titles": {
+    "default": "Kuma no Puutarou",
+    "romaji": "Kuma no Puutarou",
+    "native": "クマのプー太郎"
+  },
+  "synonyms": [
+    "Kuma no Puutarou",
+    "クマのプー太郎",
+    "Puutarou the Bear"
+  ],
+  "type": "tv",
+  "episodes": 30,
+  "status": "finished",
+  "season": "spring",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11197.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11197",
+      "url": "https://anilist.co/anime/11197"
+    },
+    "k": {
+      "id": "6472",
+      "url": "https://kitsu.io/anime/6472"
+    },
+    "mal": {
+      "id": "11197",
+      "url": "https://myanimelist.net/anime/11197"
+    }
+  }
+}

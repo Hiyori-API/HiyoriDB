@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 228,
+  "slug": "jungle-wa-itsumo-hare-nochi-guu-deluxe",
+  "kind": "anime",
+  "title": "Jungle wa Itsumo Hare nochi Guu Deluxe",
+  "titles": {
+    "default": "Jungle wa Itsumo Hare nochi Guu Deluxe",
+    "romaji": "Jungle wa Itsumo Hare nochi Guu Deluxe",
+    "english": "Haré+Guu Deluxe",
+    "native": "ジャングルはいつもハレのちグゥ　デラックス"
+  },
+  "synonyms": [
+    "Jungle wa Itsumo Hare nochi Guu Deluxe",
+    "Haré+Guu Deluxe",
+    "ジャングルはいつもハレのちグゥ　デラックス",
+    "Jungle wa Itsumo Hale Nochi Guu Deluxe",
+    "Hare+Guu Deluxe",
+    "Jungle wa Itsumo Haré nochi Guu Deluxe"
+  ],
+  "type": "ova",
+  "episodes": 6,
+  "status": "finished",
+  "season": "summer",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/254.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "254",
+      "url": "https://anilist.co/anime/254"
+    },
+    "k": {
+      "id": "229",
+      "url": "https://kitsu.io/anime/229"
+    },
+    "mal": {
+      "id": "254",
+      "url": "https://myanimelist.net/anime/254"
+    }
+  }
+}

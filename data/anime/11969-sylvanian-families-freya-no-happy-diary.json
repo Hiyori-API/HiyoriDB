@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11969,
+  "slug": "sylvanian-families-freya-no-happy-diary",
+  "kind": "anime",
+  "title": "Sylvanian Families: Freya no Happy Diary",
+  "titles": {
+    "default": "Sylvanian Families: Freya no Happy Diary",
+    "romaji": "Sylvanian Families: Freya no Happy Diary",
+    "english": "Sylvanian Families: Freya's Happy Diary",
+    "native": "シルバニアファミリー フレアのハッピーダイアリー"
+  },
+  "synonyms": [
+    "Sylvanian Families: Freya no Happy Diary",
+    "Sylvanian Families: Freya's Happy Diary",
+    "シルバニアファミリー フレアのハッピーダイアリー",
+    "Sylvanian Families: Flare no Happy Diary",
+    "Leśna rodzina: Pamiętnik Frei",
+    "Ring ni Kakero 1",
+    "リングにかけろ１",
+    "Put it all in the Ring"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b168559-YmqUssdAAFFT.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "168559",
+      "url": "https://anilist.co/anime/168559"
+    },
+    "k": {
+      "id": "14",
+      "url": "https://kitsu.io/anime/14"
+    },
+    "mal": {
+      "id": "52964",
+      "url": "https://myanimelist.net/anime/52964"
+    },
+    "t": {
+      "id": "69507",
+      "url": "https://trakt.tv/shows/69507"
+    }
+  }
+}

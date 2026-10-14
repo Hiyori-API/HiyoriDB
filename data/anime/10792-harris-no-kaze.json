@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10792,
+  "slug": "harris-no-kaze",
+  "kind": "anime",
+  "title": "Harris no Kaze",
+  "titles": {
+    "default": "Harris no Kaze",
+    "romaji": "Harris no Kaze",
+    "native": "ハリスの旋風"
+  },
+  "synonyms": [
+    "Harris no Kaze",
+    "ハリスの旋風",
+    "Harisu no Senpou",
+    "Harisu no Tsumujikaze",
+    "Harisu no Kaze"
+  ],
+  "type": "tv",
+  "episodes": 70,
+  "status": "finished",
+  "season": "spring",
+  "year": 1966,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17667-AQsdMKsVg48D.png"
+  ],
+  "references": {
+    "al": {
+      "id": "17667",
+      "url": "https://anilist.co/anime/17667"
+    },
+    "k": {
+      "id": "9300",
+      "url": "https://kitsu.io/anime/9300"
+    },
+    "mal": {
+      "id": "17667",
+      "url": "https://myanimelist.net/anime/17667"
+    }
+  }
+}

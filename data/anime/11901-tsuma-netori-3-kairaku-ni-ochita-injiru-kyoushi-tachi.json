@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11901,
+  "slug": "tsuma-netori-3-kairaku-ni-ochita-injiru-kyoushi-tachi",
+  "kind": "anime",
+  "title": "Tsuma Netori 3: Kairaku ni Ochita Injiru Kyoushi-tachi",
+  "titles": {
+    "default": "Tsuma Netori 3: Kairaku ni Ochita Injiru Kyoushi-tachi",
+    "romaji": "Tsuma Netori 3: Kairaku ni Ochita Injiru Kyoushi-tachi",
+    "native": "妻ネトリ3～快楽に堕ちた淫汁教師たち～"
+  },
+  "synonyms": [
+    "Tsuma Netori 3: Kairaku ni Ochita Injiru Kyoushi-tachi",
+    "妻ネトリ3～快楽に堕ちた淫汁教師たち～",
+    "Hoshi of Girls' Garden",
+    "Hoshi of the Garden of Girls",
+    "The Star of Girls' Garden",
+    "女の園の星",
+    "Onna no Sono no Hoshi"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151018-QiUJ3sYAian5.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "151018",
+      "url": "https://anilist.co/anime/151018"
+    },
+    "mal": {
+      "id": "53229",
+      "url": "https://myanimelist.net/anime/53229"
+    }
+  }
+}

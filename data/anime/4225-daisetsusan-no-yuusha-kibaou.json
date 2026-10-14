@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4225,
+  "slug": "daisetsusan-no-yuusha-kibaou",
+  "kind": "anime",
+  "title": "Daisetsusan no Yuusha Kibaou",
+  "titles": {
+    "default": "Daisetsusan no Yuusha Kibaou",
+    "romaji": "Daisetsusan no Yuusha Kibaou",
+    "english": "King Fang",
+    "native": "大雪山の勇者 牙王"
+  },
+  "synonyms": [
+    "Daisetsusan no Yuusha Kibaou",
+    "King Fang",
+    "大雪山の勇者 牙王",
+    "Oyuki Yama no Yuusha Haou",
+    "Daisetsuzan no Yuusha Kibaou",
+    "Captain Future: Kareinaru Taiyokei Race",
+    "キャプテンフューチャー・華麗なる太陽系レース",
+    "Captain Future Kareinaru Taiyoukei Race",
+    "Captain Future: The Great Race in the Solar System"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1978,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6202-pbnXhwDXHplV.png"
+  ],
+  "references": {
+    "al": {
+      "id": "6202",
+      "url": "https://anilist.co/anime/6202"
+    },
+    "k": {
+      "id": "3656",
+      "url": "https://kitsu.io/anime/3656"
+    },
+    "mal": {
+      "id": "6202",
+      "url": "https://myanimelist.net/anime/6202"
+    }
+  }
+}

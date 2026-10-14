@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6801,
+  "slug": "shakugan-no-shana-iii-final-specials",
+  "kind": "anime",
+  "title": "Shakugan no Shana III (Final) Specials",
+  "titles": {
+    "default": "Shakugan no Shana III (Final) Specials",
+    "romaji": "Shakugan no Shana III (Final) Specials",
+    "native": "灼眼のシャナたん ふぁいなるですとらくしょん"
+  },
+  "synonyms": [
+    "Shakugan no Shana III (Final) Specials",
+    "灼眼のシャナたん ふぁいなるですとらくしょん",
+    "Shakugan no Shana-tan: Final Destruction",
+    "Shakugan no Shana-tan III",
+    "灼眼のシャナたん　ふぁいなるですとらくしょん"
+  ],
+  "type": "special",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12823.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12823",
+      "url": "https://anilist.co/anime/12823"
+    },
+    "k": {
+      "id": "6822",
+      "url": "https://kitsu.io/anime/6822"
+    },
+    "mal": {
+      "id": "12823",
+      "url": "https://myanimelist.net/anime/12823"
+    }
+  }
+}

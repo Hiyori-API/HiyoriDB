@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15722,
+  "slug": "aki-sora",
+  "kind": "manga",
+  "title": "Aki-Sora",
+  "titles": {
+    "default": "Aki-Sora"
+  },
+  "synonyms": [
+    "Aki Sora",
+    "Akisora",
+    "あきそら",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "chapters": 31,
+  "volumes": 6,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx42629-6OM3A2AsnrdP.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8577",
+      "url": "https://anilist.co/anime/6987"
+    },
+    "al_manga": {
+      "id": "8577",
+      "url": "https://anilist.co/manga/8577"
+    }
+  }
+}

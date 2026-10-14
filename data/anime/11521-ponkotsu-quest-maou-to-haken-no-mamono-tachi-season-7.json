@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11521,
+  "slug": "ponkotsu-quest-maou-to-haken-no-mamono-tachi-season-7",
+  "kind": "anime",
+  "title": "Ponkotsu Quest: Maou to Haken no Mamono-tachi Season 7",
+  "titles": {
+    "default": "Ponkotsu Quest: Maou to Haken no Mamono-tachi Season 7",
+    "romaji": "Ponkotsu Quest: Maou to Haken no Mamono-tachi Season 7",
+    "native": "ポンコツクエスト〜魔王と派遣の魔物たち〜 シーズン7"
+  },
+  "synonyms": [
+    "Ponkotsu Quest: Maou to Haken no Mamono-tachi Season 7",
+    "ポンコツクエスト〜魔王と派遣の魔物たち〜 シーズン7",
+    "JoJo's Bizarre Adventure Part 6: Stone Ocean",
+    "JoJo's Bizarre Adventure: Stone Ocean",
+    "ジョジョの奇妙な冒険 ストーンオーシャン",
+    "JoJo no Kimyou na Bouken Part 6: Stone Ocean"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b177230-SbVtkXlHcgKb.png"
+  ],
+  "references": {
+    "al": {
+      "id": "177230",
+      "url": "https://anilist.co/anime/177230"
+    },
+    "mal": {
+      "id": "48661",
+      "url": "https://myanimelist.net/anime/48661"
+    }
+  }
+}

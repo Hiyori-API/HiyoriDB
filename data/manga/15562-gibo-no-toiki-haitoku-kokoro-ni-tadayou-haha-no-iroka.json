@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15562,
+  "slug": "gibo-no-toiki-haitoku-kokoro-ni-tadayou-haha-no-iroka",
+  "kind": "manga",
+  "title": "Gibo no Toiki: Haitoku Kokoro ni Tadayou Haha no Iroka",
+  "titles": {
+    "default": "Gibo no Toiki: Haitoku Kokoro ni Tadayou Haha no Iroka"
+  },
+  "synonyms": [
+    "義母の吐息~背徳心漂う母の色香~",
+    "Ladies versus Butlers!",
+    "れでぃ×ばと!",
+    "Redei Bato!",
+    "Redei x Bato",
+    "Ladies vs Butlers!"
+  ],
+  "type": "novel",
+  "volumes": 1,
+  "status": "finished",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/93861-hg1i7pmLXrxH.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3286",
+      "url": "https://anilist.co/anime/3286"
+    },
+    "al_manga": {
+      "id": "3286",
+      "url": "https://anilist.co/manga/3286"
+    }
+  }
+}

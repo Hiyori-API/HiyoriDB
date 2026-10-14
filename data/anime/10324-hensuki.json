@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10324,
+  "slug": "hensuki",
+  "kind": "anime",
+  "title": "Hensuki▽",
+  "titles": {
+    "default": "Hensuki▽",
+    "romaji": "Hensuki▽",
+    "native": "変好き▽"
+  },
+  "synonyms": [
+    "Hensuki▽",
+    "変好き▽",
+    "DearS",
+    "ディアーズ"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121043-tKiAftJvnEaM.png"
+  ],
+  "references": {
+    "al": {
+      "id": "121043",
+      "url": "https://anilist.co/anime/121043"
+    },
+    "cr": {
+      "id": "series/GRZXD528Y/dears",
+      "url": "https://www.crunchyroll.com/series/series/GRZXD528Y/dears"
+    },
+    "k": {
+      "id": "44",
+      "url": "https://kitsu.io/anime/44"
+    },
+    "mal": {
+      "id": "49871",
+      "url": "https://myanimelist.net/anime/49871"
+    },
+    "t": {
+      "id": "61051",
+      "url": "https://trakt.tv/shows/61051"
+    },
+    "tx": {
+      "id": "hensuki_anime",
+      "url": "https://twitter.com/hensuki_anime"
+    }
+  }
+}

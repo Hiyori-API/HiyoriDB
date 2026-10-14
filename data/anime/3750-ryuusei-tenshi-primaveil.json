@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3750,
+  "slug": "ryuusei-tenshi-primaveil",
+  "kind": "anime",
+  "title": "Ryuusei Tenshi Primaveil",
+  "titles": {
+    "default": "Ryuusei Tenshi Primaveil",
+    "romaji": "Ryuusei Tenshi Primaveil",
+    "native": "流聖天使プリマヴェール"
+  },
+  "synonyms": [
+    "Ryuusei Tenshi Primaveil",
+    "流聖天使プリマヴェール",
+    "Ryusei Tenshi Primaveil",
+    "Ar Tonelico: Sekai no Owari de Utai Tsuzukeru Shoujo",
+    "アルトネリコ 世界の終わりで詩い続ける少女",
+    "Ar Tonelico: The Girl Who Sings at the End of the World"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5108.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5108",
+      "url": "https://anilist.co/anime/5108"
+    },
+    "k": {
+      "id": "1080",
+      "url": "https://kitsu.io/anime/1080"
+    },
+    "mal": {
+      "id": "5108",
+      "url": "https://myanimelist.net/anime/5108"
+    }
+  }
+}

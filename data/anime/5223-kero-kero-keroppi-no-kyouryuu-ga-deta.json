@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5223,
+  "slug": "kero-kero-keroppi-no-kyouryuu-ga-deta",
+  "kind": "anime",
+  "title": "Kero Kero Keroppi no Kyouryuu ga Deta",
+  "titles": {
+    "default": "Kero Kero Keroppi no Kyouryuu ga Deta",
+    "romaji": "Kero Kero Keroppi no Kyouryuu ga Deta",
+    "native": "けろけろけろっぴの恐竜がでた"
+  },
+  "synonyms": [
+    "Kero Kero Keroppi no Kyouryuu ga Deta",
+    "けろけろけろっぴの恐竜がでた",
+    "Hello Kitty no London ni Orita Uchuujin",
+    "ハローキティのロンドンにおりた宇宙人"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b187585-Y3PNhopGypuU.png"
+  ],
+  "references": {
+    "al": {
+      "id": "187585",
+      "url": "https://anilist.co/anime/187585"
+    },
+    "k": {
+      "id": "9309",
+      "url": "https://kitsu.io/anime/9309"
+    },
+    "mal": {
+      "id": "22643",
+      "url": "https://myanimelist.net/anime/22643"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12248,
+  "slug": "ijiranaide-nagatoro-san-2nd-attack-mini-anime",
+  "kind": "anime",
+  "title": "Ijiranaide, Nagatoro-san 2nd Attack Mini Anime",
+  "titles": {
+    "default": "Ijiranaide, Nagatoro-san 2nd Attack Mini Anime",
+    "romaji": "Ijiranaide, Nagatoro-san 2nd Attack Mini Anime",
+    "native": "イジらないで、長瀞さん 2nd Attack ミニアニメ"
+  },
+  "synonyms": [
+    "Ijiranaide, Nagatoro-san 2nd Attack Mini Anime",
+    "イジらないで、長瀞さん 2nd Attack ミニアニメ",
+    "DON'T TOY WITH ME, MISS NAGATORO 2nd Attack Mini Anime",
+    "Painting Rivers and Lakes 6, Hua Jiang Hu: Bu Liang Ren 6th Season",
+    "画江湖之不良人 第六季",
+    "The Degenerate-Drawing Jianghu 6",
+    "画江湖之不良人 VI",
+    "Hua Jianghu: Bu Liang Ren VI"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2023,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx160054-VL6rkyfDKPej.png"
+  ],
+  "references": {
+    "al": {
+      "id": "160054",
+      "url": "https://anilist.co/anime/160054"
+    },
+    "mal": {
+      "id": "54133",
+      "url": "https://myanimelist.net/anime/54133"
+    }
+  }
+}

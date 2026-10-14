@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7986,
+  "slug": "hakusai-anime-bangai-hen",
+  "kind": "anime",
+  "title": "Hakusai Anime Bangai-hen",
+  "titles": {
+    "default": "Hakusai Anime Bangai-hen",
+    "romaji": "Hakusai Anime Bangai-hen",
+    "native": "白菜アニメ番外編"
+  },
+  "synonyms": [
+    "Hakusai Anime Bangai-hen",
+    "白菜アニメ番外編",
+    "Hakusai Anime Special",
+    "Toukiden Kiwami",
+    "討鬼伝 極"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b129866-n8L0Gyn6VYJY.png"
+  ],
+  "references": {
+    "al": {
+      "id": "129866",
+      "url": "https://anilist.co/anime/129866"
+    },
+    "k": {
+      "id": "9102",
+      "url": "https://kitsu.io/anime/9102"
+    },
+    "mal": {
+      "id": "31255",
+      "url": "https://myanimelist.net/anime/31255"
+    }
+  }
+}

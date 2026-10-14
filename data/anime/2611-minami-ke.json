@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2611,
+  "slug": "minami-ke",
+  "kind": "anime",
+  "title": "Minami-ke",
+  "titles": {
+    "default": "Minami-ke",
+    "romaji": "Minami-ke",
+    "native": "みなみけ"
+  },
+  "synonyms": [
+    "Minami-ke",
+    "みなみけ",
+    "Minamike",
+    "The Minami Family",
+    "Kenkou Zenrakei Suieibu Umishou",
+    "ケンコー全裸系水泳部 ウミショー",
+    "Kenkoo Zenrakei Suieibu Umishou",
+    "Umisho High School Naked Swimming Club",
+    "Umisho",
+    "Kenkou Zenra-kei Suiei-bu Umishou",
+    "Kenkoo Zenra-kei Suiei-bu Umishou"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2963-JxvWsnzcs4IP.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2963",
+      "url": "https://anilist.co/anime/2963"
+    },
+    "k": {
+      "id": "2366",
+      "url": "https://kitsu.io/anime/2366"
+    },
+    "mal": {
+      "id": "2963",
+      "url": "https://myanimelist.net/anime/2963"
+    },
+    "t": {
+      "id": "61991",
+      "url": "https://trakt.tv/shows/61991"
+    },
+    "tvt": {
+      "id": "minami",
+      "url": "http://www.tv-tokyo.co.jp/anime/minami"
+    }
+  }
+}

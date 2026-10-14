@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 158,
+  "slug": "vandread",
+  "kind": "anime",
+  "title": "Vandread",
+  "titles": {
+    "default": "Vandread",
+    "romaji": "Vandread",
+    "native": "ヴァンドレッド"
+  },
+  "synonyms": [
+    "Vandread",
+    "ヴァンドレッド",
+    "Vandread Stage One",
+    "Vandread First Stage"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180-67CAKcXsjpUt.png"
+  ],
+  "references": {
+    "al": {
+      "id": "180",
+      "url": "https://anilist.co/anime/180"
+    },
+    "cr": {
+      "id": "vandread",
+      "url": "https://www.crunchyroll.com/series/vandread"
+    },
+    "k": {
+      "id": "157",
+      "url": "https://kitsu.io/anime/157"
+    },
+    "mal": {
+      "id": "180",
+      "url": "https://myanimelist.net/anime/180"
+    },
+    "t": {
+      "id": "8817",
+      "url": "https://trakt.tv/shows/8817"
+    },
+    "ttv": {
+      "id": "2373",
+      "url": "https://tubitv.com/series/2373"
+    }
+  }
+}

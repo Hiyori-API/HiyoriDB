@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1017,
+  "slug": "monkey-magic",
+  "kind": "anime",
+  "title": "Monkey Magic",
+  "titles": {
+    "default": "Monkey Magic",
+    "romaji": "Monkey Magic",
+    "native": "モンキーマジック"
+  },
+  "synonyms": [
+    "Monkey Magic",
+    "モンキーマジック",
+    "St. Luminous Mission High School",
+    "Saint Luminous Jogakuin",
+    "聖ルミナス女学院",
+    "Sei Luminous Jogakuin"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1139-9e9yysMTiwYo.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1139",
+      "url": "https://anilist.co/anime/1139"
+    },
+    "k": {
+      "id": "2537",
+      "url": "https://kitsu.io/anime/2537"
+    },
+    "mal": {
+      "id": "1139",
+      "url": "https://myanimelist.net/anime/1139"
+    },
+    "t": {
+      "id": "30472",
+      "url": "https://trakt.tv/shows/30472"
+    }
+  }
+}

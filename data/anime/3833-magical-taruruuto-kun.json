@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3833,
+  "slug": "magical-taruruuto-kun",
+  "kind": "anime",
+  "title": "Magical★Taruruuto-kun",
+  "titles": {
+    "default": "Magical★Taruruuto-kun",
+    "romaji": "Magical★Taruruuto-kun",
+    "native": "まじかる★タルるートくん"
+  },
+  "synonyms": [
+    "Magical★Taruruuto-kun",
+    "まじかる★タルるートくん",
+    "Magical Taruruto-kun",
+    "Magical Taluluto",
+    "まじかる☆タルるートくん"
+  ],
+  "type": "tv",
+  "episodes": 87,
+  "status": "finished",
+  "season": "fall",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5274-9t32d2unpckV.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5274",
+      "url": "https://anilist.co/anime/5274"
+    },
+    "k": {
+      "id": "4027",
+      "url": "https://kitsu.io/anime/4027"
+    },
+    "mal": {
+      "id": "5274",
+      "url": "https://myanimelist.net/anime/5274"
+    }
+  }
+}

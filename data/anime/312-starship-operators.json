@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 312,
+  "slug": "starship-operators",
+  "kind": "anime",
+  "title": "Starship Operators",
+  "titles": {
+    "default": "Starship Operators",
+    "romaji": "Starship Operators",
+    "native": "スターシップ・オペレーターズ"
+  },
+  "synonyms": [
+    "Starship Operators",
+    "スターシップ・オペレーターズ"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/342.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "342",
+      "url": "https://anilist.co/anime/342"
+    },
+    "k": {
+      "id": "309",
+      "url": "https://kitsu.io/anime/309"
+    },
+    "mal": {
+      "id": "342",
+      "url": "https://myanimelist.net/anime/342"
+    },
+    "t": {
+      "id": "34641",
+      "url": "https://trakt.tv/shows/34641"
+    }
+  }
+}

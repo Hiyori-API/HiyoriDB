@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14466,
+  "slug": "kami-no-shizuku",
+  "kind": "manga",
+  "title": "Kami no Shizuku",
+  "titles": {
+    "default": "Kami no Shizuku"
+  },
+  "synonyms": [
+    "Les Gouttes de Dieu",
+    "The Drops of God",
+    "神の雫",
+    "Railroad",
+    "레일로드"
+  ],
+  "type": "manga",
+  "chapters": 439,
+  "volumes": 44,
+  "status": "finished",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3964.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "202508",
+      "url": "https://anilist.co/anime/202508"
+    },
+    "al_manga": {
+      "id": "202508",
+      "url": "https://anilist.co/manga/202508"
+    }
+  }
+}

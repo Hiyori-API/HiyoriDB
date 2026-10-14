@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6936,
+  "slug": "chitose-get-you",
+  "kind": "anime",
+  "title": "Chitose Get You!!",
+  "titles": {
+    "default": "Chitose Get You!!",
+    "romaji": "Chitose Get You!!",
+    "english": "Chitose Get You!",
+    "native": "ちとせげっちゅ!!"
+  },
+  "synonyms": [
+    "Chitose Get You!!",
+    "Chitose Get You!",
+    "ちとせげっちゅ!!",
+    "Bodacious Space Pirates",
+    "Mouretsu Pirates",
+    "モーレツ宇宙海賊",
+    "Mouretsu Uchuu Kaizoku",
+    "Miniskirt Pirates",
+    "Moretsu Uchuu Kaizoku"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "summer",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b14277-3CvgX3gflFv4.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "14277",
+      "url": "https://anilist.co/anime/14277"
+    },
+    "cr": {
+      "id": "chitose-get-you",
+      "url": "https://www.crunchyroll.com/series/chitose-get-you"
+    },
+    "k": {
+      "id": "5531",
+      "url": "https://kitsu.io/anime/5531"
+    },
+    "mal": {
+      "id": "14277",
+      "url": "https://myanimelist.net/anime/14277"
+    },
+    "t": {
+      "id": "42277",
+      "url": "https://trakt.tv/shows/42277"
+    }
+  }
+}

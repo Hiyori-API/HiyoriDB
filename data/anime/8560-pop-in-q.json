@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8560,
+  "slug": "pop-in-q",
+  "kind": "anime",
+  "title": "Pop in Q",
+  "titles": {
+    "default": "Pop in Q",
+    "romaji": "Pop in Q",
+    "native": "ポッピンQ"
+  },
+  "synonyms": [
+    "Pop in Q",
+    "ポッピンQ",
+    "file(N): project PQ",
+    "Popin Q",
+    "In This Corner of the World",
+    "Kono Sekai no Katasumi ni",
+    "この世界の片隅に",
+    "To All the Corners of the World"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21412-YDE1DB7WJebN.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21412",
+      "url": "https://anilist.co/anime/21412"
+    },
+    "cr": {
+      "id": "series/GNVHKN9PW/in-this-corner-and-other-corners-of-the-world",
+      "url": "https://www.crunchyroll.com/series/series/GNVHKN9PW/in-this-corner-and-other-corners-of-the-world"
+    },
+    "k": {
+      "id": "7234",
+      "url": "https://kitsu.io/anime/7234"
+    },
+    "mal": {
+      "id": "30695",
+      "url": "https://myanimelist.net/anime/30695"
+    },
+    "nf": {
+      "id": "80192244",
+      "url": "https://www.netflix.com/title/80192244"
+    },
+    "tx": {
+      "id": "POPIN_Q_staff",
+      "url": "https://twitter.com/POPIN_Q_staff"
+    }
+  }
+}

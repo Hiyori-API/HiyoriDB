@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14454,
+  "slug": "warau-kangofu",
+  "kind": "manga",
+  "title": "Warau Kangofu",
+  "titles": {
+    "default": "Warau Kangofu"
+  },
+  "synonyms": [
+    "Smile Nurse",
+    "Smiling Nurse",
+    "My Librarian",
+    "Stupid Siblings",
+    "Lustful Laughing Nurse",
+    "淫笑う看護婦",
+    "Renai Soukanzu",
+    "恋愛相姦図",
+    "Renai Sokanzu",
+    "Pink Sweets"
+  ],
+  "type": "manga",
+  "chapters": 11,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33823-gZu3FAnJuCEk.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3636",
+      "url": "https://anilist.co/anime/3636"
+    },
+    "al_manga": {
+      "id": "3636",
+      "url": "https://anilist.co/manga/3636"
+    }
+  }
+}

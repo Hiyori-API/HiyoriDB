@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8631,
+  "slug": "the-idolm-ster-cinderella-girls-anytime-anywhere-with-cinderella",
+  "kind": "anime",
+  "title": "THE IDOLM@STER Cinderella Girls: Anytime, Anywhere with Cinderella.",
+  "titles": {
+    "default": "THE IDOLM@STER Cinderella Girls: Anytime, Anywhere with Cinderella.",
+    "romaji": "THE IDOLM@STER Cinderella Girls: Anytime, Anywhere with Cinderella.",
+    "native": "アイドルマスター シンデレラガールズ Anytime, Anywhere with Cinderella."
+  },
+  "synonyms": [
+    "THE IDOLM@STER Cinderella Girls: Anytime, Anywhere with Cinderella.",
+    "アイドルマスター シンデレラガールズ Anytime, Anywhere with Cinderella.",
+    "The Idolmaster: Cinderella Girls - Anytime",
+    "Anywhere with Cinderella.",
+    "The iDOLM@STER Cinderella Girls Special",
+    "The iDOLM@STER Cinderella Girls Episode 26",
+    "THE IDOLM@STER CINDERELLA GIRLS: Anytime, Anywhere with Cinderella.",
+    "アイドルマスター シンデレラガールズ 第26話「Anytime, Anywhere with Cinderella.」",
+    "The iDOLM@STER Cinderella Girls: Anytime, Anywhere with Cinderella."
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21564-3NVEd5vlIU5a.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21564",
+      "url": "https://anilist.co/anime/21564"
+    },
+    "mal": {
+      "id": "32174",
+      "url": "https://myanimelist.net/anime/32174"
+    },
+    "tx": {
+      "id": "imas_anime",
+      "url": "https://twitter.com/imas_anime"
+    }
+  }
+}

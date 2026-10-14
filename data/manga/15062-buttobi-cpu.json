@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15062,
+  "slug": "buttobi-cpu",
+  "kind": "manga",
+  "title": "Buttobi!! CPU",
+  "titles": {
+    "default": "Buttobi!! CPU"
+  },
+  "synonyms": [
+    "I Dream of Mimi",
+    "Buttobi CPU",
+    "ぶっとび!! CPU",
+    "Dismember",
+    "Kaitai",
+    "解体"
+  ],
+  "type": "manga",
+  "chapters": 34,
+  "volumes": 3,
+  "status": "finished",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx38404-9yxn8fRm9NuI.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "458",
+      "url": "https://anilist.co/anime/458"
+    },
+    "al_manga": {
+      "id": "458",
+      "url": "https://anilist.co/manga/458"
+    }
+  }
+}

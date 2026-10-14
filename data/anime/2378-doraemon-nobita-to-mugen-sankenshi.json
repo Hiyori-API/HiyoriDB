@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2378,
+  "slug": "doraemon-nobita-to-mugen-sankenshi",
+  "kind": "anime",
+  "title": "Doraemon: Nobita to Mugen Sankenshi",
+  "titles": {
+    "default": "Doraemon: Nobita to Mugen Sankenshi",
+    "romaji": "Doraemon: Nobita to Mugen Sankenshi",
+    "english": "Doraemon: Nobita's Fantastical Three Musketeers",
+    "native": "ドラえもん のび太と夢幻三剣士"
+  },
+  "synonyms": [
+    "Doraemon: Nobita to Mugen Sankenshi",
+    "Doraemon: Nobita's Fantastical Three Musketeers",
+    "ドラえもん のび太と夢幻三剣士",
+    "Doraemon: Nobita's 3 Magical Swordsmen",
+    "Dorami-chan: A Blue Straw Hat",
+    "ドラミちゃん 青いストローハット",
+    "Dorami-chan: Aoi Straw Hat"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2676-iDXA4qLWtSmY.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2676",
+      "url": "https://anilist.co/anime/2676"
+    },
+    "k": {
+      "id": "2406",
+      "url": "https://kitsu.io/anime/2406"
+    },
+    "mal": {
+      "id": "2676",
+      "url": "https://myanimelist.net/anime/2676"
+    }
+  }
+}

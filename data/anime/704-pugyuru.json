@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 704,
+  "slug": "pugyuru",
+  "kind": "anime",
+  "title": "Pugyuru",
+  "titles": {
+    "default": "Pugyuru",
+    "romaji": "Pugyuru",
+    "native": "ぷぎゅる"
+  },
+  "synonyms": [
+    "Pugyuru",
+    "ぷぎゅる"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b786-8c8B04ThUvIp.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "786",
+      "url": "https://anilist.co/anime/786"
+    },
+    "k": {
+      "id": "702",
+      "url": "https://kitsu.io/anime/702"
+    },
+    "mal": {
+      "id": "786",
+      "url": "https://myanimelist.net/anime/786"
+    },
+    "t": {
+      "id": "34553",
+      "url": "https://trakt.tv/shows/34553"
+    }
+  }
+}

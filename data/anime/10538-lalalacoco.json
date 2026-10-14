@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10538,
+  "slug": "lalalacoco",
+  "kind": "anime",
+  "title": "LALALACOCO",
+  "titles": {
+    "default": "LALALACOCO",
+    "romaji": "LALALACOCO"
+  },
+  "synonyms": [
+    "LALALACOCO",
+    "Haikyuu!! (2020)",
+    "Haikyuu!! Fourth Season",
+    "Haikyuu!! 4th Season",
+    "Haikyu!! To the Top",
+    "ハイキュー!! TO THE TOP",
+    "Haikyuu!! To the Top"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b114656-pBzIXwe35hOk.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "114656",
+      "url": "https://anilist.co/anime/114656"
+    },
+    "mal": {
+      "id": "40953",
+      "url": "https://myanimelist.net/anime/40953"
+    }
+  }
+}

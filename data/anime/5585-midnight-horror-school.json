@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5585,
+  "slug": "midnight-horror-school",
+  "kind": "anime",
+  "title": "Midnight Horror School",
+  "titles": {
+    "default": "Midnight Horror School",
+    "romaji": "Midnight Horror School",
+    "native": "ミッドナイトホラースクール"
+  },
+  "synonyms": [
+    "Midnight Horror School",
+    "ミッドナイトホラースクール"
+  ],
+  "type": "tv",
+  "episodes": 52,
+  "status": "finished",
+  "season": "fall",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7751.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7751",
+      "url": "https://anilist.co/anime/7751"
+    },
+    "k": {
+      "id": "5108",
+      "url": "https://kitsu.io/anime/5108"
+    },
+    "mal": {
+      "id": "7751",
+      "url": "https://myanimelist.net/anime/7751"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9294,
+  "slug": "kabukibu-oogiri-chiyokoreito-kassen",
+  "kind": "anime",
+  "title": "Kabukibu!: Oogiri - Chiyokoreito Kassen",
+  "titles": {
+    "default": "Kabukibu!: Oogiri - Chiyokoreito Kassen",
+    "romaji": "Kabukibu!: Oogiri - Chiyokoreito Kassen",
+    "native": "カブキブ！ 大喜利「ちよこれいと合戦」"
+  },
+  "synonyms": [
+    "Kabukibu!: Oogiri - Chiyokoreito Kassen",
+    "カブキブ！ 大喜利「ちよこれいと合戦」",
+    "Seikai no Senki Special",
+    "星界の戦旗 特別編",
+    "Seikai no Senki Movie",
+    "Battle Flag of the Stars Special Edition",
+    "Seikai no Senki Tokubetsuhen"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98851-5vhdsL7ppqAZ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98851",
+      "url": "https://anilist.co/anime/98851"
+    },
+    "k": {
+      "id": "366",
+      "url": "https://kitsu.io/anime/366"
+    },
+    "mal": {
+      "id": "35416",
+      "url": "https://myanimelist.net/anime/35416"
+    },
+    "tx": {
+      "id": "kabukibu",
+      "url": "https://twitter.com/kabukibu"
+    }
+  }
+}

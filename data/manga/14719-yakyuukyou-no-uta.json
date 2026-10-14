@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14719,
+  "slug": "yakyuukyou-no-uta",
+  "kind": "manga",
+  "title": "Yakyuukyou no Uta",
+  "titles": {
+    "default": "Yakyuukyou no Uta"
+  },
+  "synonyms": [
+    "Song of Baseball Enthusiasts",
+    "野球狂之詩",
+    "野球狂の詩",
+    "Rose of Versailles",
+    "Versailles no Bara",
+    "ベルサイユのばら",
+    "Berusaiyu no Bara",
+    "Lady Oscar"
+  ],
+  "type": "manga",
+  "chapters": 114,
+  "volumes": 17,
+  "status": "finished",
+  "year": 1972,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx93252-G79rMdhSMJc3.png"
+  ],
+  "references": {
+    "al": {
+      "id": "10554",
+      "url": "https://anilist.co/anime/10554"
+    },
+    "al_manga": {
+      "id": "10554",
+      "url": "https://anilist.co/manga/10554"
+    }
+  }
+}

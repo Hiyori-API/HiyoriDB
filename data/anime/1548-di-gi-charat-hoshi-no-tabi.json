@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1548,
+  "slug": "di-gi-charat-hoshi-no-tabi",
+  "kind": "anime",
+  "title": "Di Gi Charat: Hoshi no Tabi",
+  "titles": {
+    "default": "Di Gi Charat: Hoshi no Tabi",
+    "romaji": "Di Gi Charat: Hoshi no Tabi",
+    "english": "Di Gi Charat: A Trip To The Planet",
+    "native": "劇場版 Di Gi Charat 星の旅"
+  },
+  "synonyms": [
+    "Di Gi Charat: Hoshi no Tabi",
+    "Di Gi Charat: A Trip To The Planet",
+    "劇場版 Di Gi Charat 星の旅",
+    "Di Gi Charat: The Movie",
+    "Di Gi Charat Movie: A Trip To The Planet",
+    "劇場版　Di Gi Charat[デ・ジ・キャラット]　星の旅",
+    "Gekijouban Di Gi Charat: Hoshi no Tabi",
+    "DiGi Charat Movie: A Trip To The Planet",
+    "DiGi Charat Hoshi no Tabi"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1752.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1752",
+      "url": "https://anilist.co/anime/1752"
+    },
+    "k": {
+      "id": "1572",
+      "url": "https://kitsu.io/anime/1572"
+    },
+    "mal": {
+      "id": "1752",
+      "url": "https://myanimelist.net/anime/1752"
+    }
+  }
+}

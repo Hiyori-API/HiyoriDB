@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7489,
+  "slug": "himitsukessha-taka-no-tsume-glass-no-kamen-desu-ga",
+  "kind": "anime",
+  "title": "Himitsukessha Taka no Tsume × Glass no Kamen Desu ga",
+  "titles": {
+    "default": "Himitsukessha Taka no Tsume × Glass no Kamen Desu ga",
+    "romaji": "Himitsukessha Taka no Tsume × Glass no Kamen Desu ga",
+    "native": "秘密結社鷹の爪×ガラスの仮面ですが"
+  },
+  "synonyms": [
+    "Himitsukessha Taka no Tsume × Glass no Kamen Desu ga",
+    "秘密結社鷹の爪×ガラスの仮面ですが",
+    "Koutetsu no Vendetta Episode 0",
+    "鋼鉄のヴァンデッタ",
+    "Iron Vendetta",
+    "Koutetsu no Vandetta"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115765-fw9tspjNYgNK.png"
+  ],
+  "references": {
+    "al": {
+      "id": "115765",
+      "url": "https://anilist.co/anime/115765"
+    },
+    "k": {
+      "id": "9164",
+      "url": "https://kitsu.io/anime/9164"
+    },
+    "mal": {
+      "id": "35612",
+      "url": "https://myanimelist.net/anime/35612"
+    }
+  }
+}

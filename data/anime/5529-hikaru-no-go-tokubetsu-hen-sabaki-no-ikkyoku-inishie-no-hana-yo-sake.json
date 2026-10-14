@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5529,
+  "slug": "hikaru-no-go-tokubetsu-hen-sabaki-no-ikkyoku-inishie-no-hana-yo-sake",
+  "kind": "anime",
+  "title": "Hikaru no Go: Tokubetsu-hen - Sabaki no Ikkyoku! Inishie no Hana yo Sake!!",
+  "titles": {
+    "default": "Hikaru no Go: Tokubetsu-hen - Sabaki no Ikkyoku! Inishie no Hana yo Sake!!",
+    "romaji": "Hikaru no Go: Tokubetsu-hen - Sabaki no Ikkyoku! Inishie no Hana yo Sake!!",
+    "english": "Hikaru no Go Special",
+    "native": "ヒカルの碁 特別編 - 裁きの一局! いにしえの華よ咲け!!"
+  },
+  "synonyms": [
+    "Hikaru no Go: Tokubetsu-hen - Sabaki no Ikkyoku! Inishie no Hana yo Sake!!",
+    "Hikaru no Go Special",
+    "ヒカルの碁 特別編 - 裁きの一局! いにしえの華よ咲け!!",
+    "Match of Justice! The Ancient Flower Blooms!!",
+    "Kai Doh Maru",
+    "怪童丸",
+    "Kaidoumaru",
+    "Kaidomaru"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10765-F5U00ZFPoTXg.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10765",
+      "url": "https://anilist.co/anime/10765"
+    },
+    "k": {
+      "id": "1457",
+      "url": "https://kitsu.io/anime/1457"
+    },
+    "mal": {
+      "id": "10765",
+      "url": "https://myanimelist.net/anime/10765"
+    }
+  }
+}

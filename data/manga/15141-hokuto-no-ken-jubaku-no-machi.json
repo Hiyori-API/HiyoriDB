@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15141,
+  "slug": "hokuto-no-ken-jubaku-no-machi",
+  "kind": "manga",
+  "title": "Hokuto no Ken: Jubaku no Machi",
+  "titles": {
+    "default": "Hokuto no Ken: Jubaku no Machi"
+  },
+  "synonyms": [
+    "Fist of the North Star - The Cursed City",
+    "小説 北斗の拳 呪縛の街",
+    "小説・北斗の拳 呪縛の街",
+    "Yumegari",
+    "夢狩り",
+    "Clamp Gakuen Denki Bunko",
+    "The Dream Catcher"
+  ],
+  "type": "novel",
+  "volumes": 1,
+  "status": "finished",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b53288-ovXs3rRvCtVC.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1357",
+      "url": "https://anilist.co/anime/1357"
+    },
+    "al_manga": {
+      "id": "1357",
+      "url": "https://anilist.co/manga/1357"
+    }
+  }
+}

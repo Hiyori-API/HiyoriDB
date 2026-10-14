@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14194,
+  "slug": "glass-no-kamen",
+  "kind": "manga",
+  "title": "Glass no Kamen",
+  "titles": {
+    "default": "Glass no Kamen"
+  },
+  "synonyms": [
+    "The Glass Mask",
+    "Glass Mask",
+    "Il grande sogno di Maya",
+    "Topeng Kaca",
+    "ガラスの仮面",
+    "Berserk",
+    "ベルセルク",
+    "Berserk: The Prototype"
+  ],
+  "type": "manga",
+  "status": "publishing",
+  "year": 1975,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31469-xYQ8kWQynM7n.png"
+  ],
+  "references": {
+    "al": {
+      "id": "168581",
+      "url": "https://anilist.co/anime/3734"
+    },
+    "al_manga": {
+      "id": "168581",
+      "url": "https://anilist.co/manga/168581"
+    }
+  }
+}

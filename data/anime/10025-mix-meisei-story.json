@@ -1,0 +1,62 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10025,
+  "slug": "mix-meisei-story",
+  "kind": "anime",
+  "title": "MIX: MEISEI STORY",
+  "titles": {
+    "default": "MIX: MEISEI STORY",
+    "romaji": "MIX: MEISEI STORY",
+    "english": "MIX",
+    "native": "MIX MEISEI STORY"
+  },
+  "synonyms": [
+    "MIX: MEISEI STORY",
+    "MIX",
+    "MIX MEISEI STORY",
+    "ミックス",
+    "Honey and Clover",
+    "Hachimitsu to Clover",
+    "ハチミツとクローバー",
+    "HachiKuro",
+    "Honey & Clover"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "spring",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103555-YMLK0Feq3DmS.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "103555",
+      "url": "https://anilist.co/anime/103555"
+    },
+    "ap": {
+      "id": "B07RNJTR9S",
+      "url": "https://www.amazon.com/gp/video/detail/B07RNJTR9S"
+    },
+    "cr": {
+      "id": "series/GY9VK9PWR/mix-meisei-story",
+      "url": "https://www.crunchyroll.com/series/series/GY9VK9PWR/mix-meisei-story"
+    },
+    "k": {
+      "id": "7",
+      "url": "https://kitsu.io/anime/7"
+    },
+    "mal": {
+      "id": "38098",
+      "url": "https://myanimelist.net/anime/38098"
+    },
+    "t": {
+      "id": "35263",
+      "url": "https://trakt.tv/shows/35263"
+    },
+    "tx": {
+      "id": "mix_ytvanime",
+      "url": "https://twitter.com/mix_ytvanime"
+    }
+  }
+}

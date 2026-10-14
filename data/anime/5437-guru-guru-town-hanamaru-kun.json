@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5437,
+  "slug": "guru-guru-town-hanamaru-kun",
+  "kind": "anime",
+  "title": "Guru Guru Town Hanamaru-kun",
+  "titles": {
+    "default": "Guru Guru Town Hanamaru-kun",
+    "romaji": "Guru Guru Town Hanamaru-kun",
+    "native": "ぐるぐるタウン　はなまるくん"
+  },
+  "synonyms": [
+    "Guru Guru Town Hanamaru-kun",
+    "ぐるぐるタウン　はなまるくん"
+  ],
+  "type": "tv",
+  "episodes": 101,
+  "status": "finished",
+  "season": "fall",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8195.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8195",
+      "url": "https://anilist.co/anime/8195"
+    },
+    "k": {
+      "id": "5240",
+      "url": "https://kitsu.io/anime/5240"
+    },
+    "mal": {
+      "id": "8195",
+      "url": "https://myanimelist.net/anime/8195"
+    }
+  }
+}

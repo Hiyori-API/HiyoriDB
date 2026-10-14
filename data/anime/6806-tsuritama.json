@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6806,
+  "slug": "tsuritama",
+  "kind": "anime",
+  "title": "Tsuritama",
+  "titles": {
+    "default": "Tsuritama",
+    "romaji": "Tsuritama",
+    "native": "つり球"
+  },
+  "synonyms": [
+    "Tsuritama",
+    "つり球",
+    "tsuritama",
+    "Fishing Ball"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12883-AjuWBGy1xd4e.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12883",
+      "url": "https://anilist.co/anime/12883"
+    },
+    "cr": {
+      "id": "tsuritama",
+      "url": "https://www.crunchyroll.com/series/tsuritama"
+    },
+    "k": {
+      "id": "6836",
+      "url": "https://kitsu.io/anime/6836"
+    },
+    "mal": {
+      "id": "12883",
+      "url": "https://myanimelist.net/anime/12883"
+    },
+    "t": {
+      "id": "45035",
+      "url": "https://trakt.tv/shows/45035"
+    }
+  }
+}

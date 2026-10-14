@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12767,
+  "slug": "tsuma-netori-rei-boku-no-ayamachi-kanojo-no-sentaku",
+  "kind": "anime",
+  "title": "Tsuma Netori Rei: Boku no Ayamachi Kanojo no Sentaku",
+  "titles": {
+    "default": "Tsuma Netori Rei: Boku no Ayamachi Kanojo no Sentaku",
+    "romaji": "Tsuma Netori Rei: Boku no Ayamachi Kanojo no Sentaku",
+    "native": "妻ネトリ 零 ～僕の過ち 彼女の選択～"
+  },
+  "synonyms": [
+    "Tsuma Netori Rei: Boku no Ayamachi Kanojo no Sentaku",
+    "妻ネトリ 零 ～僕の過ち 彼女の選択～",
+    "Catblue Dynamite",
+    "Catblue: Dynamite",
+    "キャットブルー：ダイナマイト"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2024,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177376-xzrWjApXBnT5.png"
+  ],
+  "references": {
+    "al": {
+      "id": "177376",
+      "url": "https://anilist.co/anime/177376"
+    },
+    "k": {
+      "id": "1645",
+      "url": "https://kitsu.io/anime/1645"
+    },
+    "mal": {
+      "id": "60182",
+      "url": "https://myanimelist.net/anime/60182"
+    }
+  }
+}

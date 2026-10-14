@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11212,
+  "slug": "kai-byoui-ramune",
+  "kind": "anime",
+  "title": "Kai Byoui Ramune",
+  "titles": {
+    "default": "Kai Byoui Ramune",
+    "romaji": "Kai Byoui Ramune",
+    "english": "Dr. Ramune -Mysterious Disease Specialist-",
+    "native": "怪病医ラムネ"
+  },
+  "synonyms": [
+    "Kai Byoui Ramune",
+    "Dr. Ramune -Mysterious Disease Specialist-",
+    "怪病医ラムネ",
+    "รามูเนะ หมอโรคพิสดาร",
+    "Dr. Ramune: Mysterious Disease Specialist"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx123779-AbSom3C7nPQn.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "123779",
+      "url": "https://anilist.co/anime/123779"
+    },
+    "cr": {
+      "id": "dr-ramune-mysterious-disease-specialist-",
+      "url": "https://www.crunchyroll.com/series/dr-ramune-mysterious-disease-specialist-"
+    },
+    "mal": {
+      "id": "42822",
+      "url": "https://myanimelist.net/anime/42822"
+    },
+    "tx": {
+      "id": "dr_ramune",
+      "url": "https://twitter.com/dr_ramune"
+    }
+  }
+}

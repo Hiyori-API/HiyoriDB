@@ -1,0 +1,64 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11163,
+  "slug": "tensei-shitara-slime-datta-ken-2nd-season-part-2",
+  "kind": "anime",
+  "title": "Tensei Shitara Slime Datta Ken 2nd Season Part 2",
+  "titles": {
+    "default": "Tensei Shitara Slime Datta Ken 2nd Season Part 2",
+    "romaji": "Tensei Shitara Slime Datta Ken 2nd Season Part 2",
+    "english": "That Time I Got Reincarnated as a Slime Season 2 Part 2",
+    "native": "転生したらスライムだった件 第2期 第2クール"
+  },
+  "synonyms": [
+    "Tensei Shitara Slime Datta Ken 2nd Season Part 2",
+    "That Time I Got Reincarnated as a Slime Season 2 Part 2",
+    "転生したらスライムだった件 第2期 第2クール",
+    "Tensura 2",
+    "关于我转生变成史莱姆这档事第二季（下半）",
+    "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว ภาค 2 พาร์ท 2",
+    "Moi, quand je me réincarne en Slime Saison 2 Partie 2",
+    "О моём перерождении в слизь 2",
+    "転スラ 2",
+    "DearS",
+    "ディアーズ"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116742-jn0dW23ftehq.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "116742",
+      "url": "https://anilist.co/anime/116742"
+    },
+    "cr": {
+      "id": "that-time-i-got-reincarnated-as-a-slime",
+      "url": "https://www.crunchyroll.com/series/that-time-i-got-reincarnated-as-a-slime"
+    },
+    "k": {
+      "id": "44",
+      "url": "https://kitsu.io/anime/44"
+    },
+    "mal": {
+      "id": "41487",
+      "url": "https://myanimelist.net/anime/41487"
+    },
+    "nf": {
+      "id": "81028712",
+      "url": "https://www.netflix.com/title/81028712"
+    },
+    "t": {
+      "id": "61051",
+      "url": "https://trakt.tv/shows/61051"
+    },
+    "tx": {
+      "id": "SlimeAnimePT",
+      "url": "https://twitter.com/ten_sura_anime"
+    }
+  }
+}

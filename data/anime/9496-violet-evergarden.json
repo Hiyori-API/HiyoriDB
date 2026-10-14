@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9496,
+  "slug": "violet-evergarden",
+  "kind": "anime",
+  "title": "Violet Evergarden",
+  "titles": {
+    "default": "Violet Evergarden",
+    "romaji": "Violet Evergarden",
+    "native": "ヴァイオレット・エヴァーガーデン"
+  },
+  "synonyms": [
+    "Violet Evergarden",
+    "ヴァイオレット・エヴァーガーデン",
+    "ויולט אברגרדן",
+    "فيوليت",
+    "紫罗兰永恒花园"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21827-ubzq619ZA2E9.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21827",
+      "url": "https://anilist.co/anime/21827"
+    },
+    "mal": {
+      "id": "33352",
+      "url": "https://myanimelist.net/anime/33352"
+    },
+    "nf": {
+      "id": "80182123",
+      "url": "https://www.netflix.com/title/80182123"
+    },
+    "tx": {
+      "id": "Violet_Letter",
+      "url": "https://twitter.com/Violet_Letter"
+    }
+  }
+}

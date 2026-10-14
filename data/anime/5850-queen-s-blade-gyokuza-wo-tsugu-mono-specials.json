@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5850,
+  "slug": "queen-s-blade-gyokuza-wo-tsugu-mono-specials",
+  "kind": "anime",
+  "title": "Queen's Blade: Gyokuza wo Tsugu Mono Specials",
+  "titles": {
+    "default": "Queen's Blade: Gyokuza wo Tsugu Mono Specials",
+    "romaji": "Queen's Blade: Gyokuza wo Tsugu Mono Specials",
+    "english": "Queen's Blade 2: The Evil Eye Specials",
+    "native": "クイーンズブレイド 玉座を継ぐ者"
+  },
+  "synonyms": [
+    "Queen's Blade: Gyokuza wo Tsugu Mono Specials",
+    "Queen's Blade 2: The Evil Eye Specials",
+    "クイーンズブレイド 玉座を継ぐ者",
+    "Queen's Blade 2 Specials",
+    "Queen's Blade: The Successor of the Throne Specials",
+    "Queen's Blade: Gyokuza wo Tsugumono Specials",
+    "Queen's Blade and the Evil Eye Specials",
+    "Queen's Blade: Inheritor of the Throne Specials",
+    "Queen's Blade: The Exiled Virgin",
+    "Queen's Blade: Rurou no Senshi Specials",
+    "クイーンズブレイド 流浪の戦士",
+    "Queen's Blade Specials"
+  ],
+  "type": "special",
+  "episodes": 6,
+  "status": "finished",
+  "season": "winter",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7740.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7740",
+      "url": "https://anilist.co/anime/7740"
+    },
+    "k": {
+      "id": "3759",
+      "url": "https://kitsu.io/anime/3759"
+    },
+    "mal": {
+      "id": "7740",
+      "url": "https://myanimelist.net/anime/7740"
+    }
+  }
+}

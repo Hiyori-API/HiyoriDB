@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8846,
+  "slug": "3-nen-d-gumi-glass-no-kamen",
+  "kind": "anime",
+  "title": "3-nen D-gumi Glass no Kamen",
+  "titles": {
+    "default": "3-nen D-gumi Glass no Kamen",
+    "romaji": "3-nen D-gumi Glass no Kamen",
+    "english": "The Glass Mask Year 3 Class D",
+    "native": "３ねんＤぐみガラスの仮面"
+  },
+  "synonyms": [
+    "3-nen D-gumi Glass no Kamen",
+    "The Glass Mask Year 3 Class D",
+    "３ねんＤぐみガラスの仮面",
+    "3rd Year Class D Glass Mask",
+    "Flip Flappers",
+    "フリップフラッパーズ"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/97589-REUlrPFEJIvn.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "97589",
+      "url": "https://anilist.co/anime/97589"
+    },
+    "cr": {
+      "id": "the-glass-mask-year-3-class-d",
+      "url": "https://www.crunchyroll.com/series/the-glass-mask-year-3-class-d"
+    },
+    "mal": {
+      "id": "33975",
+      "url": "https://myanimelist.net/anime/33975"
+    }
+  }
+}

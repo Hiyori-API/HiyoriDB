@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8726,
+  "slug": "kingsglaive-final-fantasy-xv",
+  "kind": "anime",
+  "title": "Kingsglaive Final Fantasy XV",
+  "titles": {
+    "default": "Kingsglaive Final Fantasy XV",
+    "romaji": "Kingsglaive Final Fantasy XV"
+  },
+  "synonyms": [
+    "Kingsglaive Final Fantasy XV",
+    "Final Fantasy XV: Gwardia królewska",
+    "Big Fish & Begonia",
+    "Da Yu Hai Tang",
+    "大鱼海棠",
+    "Da Hai",
+    "Big Fish & Chinese Flowering Crabapple",
+    "大魚海棠"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21729-dmAZg7PgJuwj.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21729",
+      "url": "https://anilist.co/anime/21729"
+    },
+    "k": {
+      "id": "6103",
+      "url": "https://kitsu.io/anime/6103"
+    },
+    "mal": {
+      "id": "33082",
+      "url": "https://myanimelist.net/anime/33082"
+    },
+    "tx": {
+      "id": "kingsglaive",
+      "url": "https://twitter.com/kingsglaive"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3221,
+  "slug": "ougon-bat",
+  "kind": "anime",
+  "title": "Ougon Bat",
+  "titles": {
+    "default": "Ougon Bat",
+    "romaji": "Ougon Bat",
+    "english": "Golden Bat",
+    "native": "黄金バット"
+  },
+  "synonyms": [
+    "Ougon Bat",
+    "Golden Bat",
+    "黄金バット",
+    "Fantomas",
+    "Ogon Bat",
+    "Phantaman",
+    "Fantaman",
+    "Fantomas: O Guerreiro da Justiça"
+  ],
+  "type": "tv",
+  "episodes": 52,
+  "status": "finished",
+  "season": "spring",
+  "year": 1967,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3900.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3900",
+      "url": "https://anilist.co/anime/3900"
+    },
+    "k": {
+      "id": "3333",
+      "url": "https://kitsu.io/anime/3333"
+    },
+    "mal": {
+      "id": "3900",
+      "url": "https://myanimelist.net/anime/3900"
+    }
+  }
+}

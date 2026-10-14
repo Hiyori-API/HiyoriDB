@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9955,
+  "slug": "kemono-friends-2",
+  "kind": "anime",
+  "title": "Kemono Friends 2",
+  "titles": {
+    "default": "Kemono Friends 2",
+    "romaji": "Kemono Friends 2",
+    "native": "けものフレンズ 2"
+  },
+  "synonyms": [
+    "Kemono Friends 2",
+    "けものフレンズ 2",
+    "Forest of Piano Second Season",
+    "ピアノの森 第2シリーズ",
+    "Piano no Mori (TV) 2nd Season"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx99624-E3pSM9JgOGVc.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "99624",
+      "url": "https://anilist.co/anime/99624"
+    },
+    "cr": {
+      "id": "kemono-friends",
+      "url": "https://www.crunchyroll.com/series/kemono-friends"
+    },
+    "mal": {
+      "id": "35313",
+      "url": "https://myanimelist.net/anime/35313"
+    },
+    "tx": {
+      "id": "kemo_project",
+      "url": "https://twitter.com/kemo_project"
+    }
+  }
+}

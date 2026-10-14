@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7352,
+  "slug": "chokotan",
+  "kind": "anime",
+  "title": "Chokotan!",
+  "titles": {
+    "default": "Chokotan!",
+    "romaji": "Chokotan!",
+    "native": "チョコタン!"
+  },
+  "synonyms": [
+    "Chokotan!",
+    "チョコタン!",
+    "Chocotan!",
+    "Angel's Drop",
+    "Tenshi no Drop",
+    "天使のどろっぷ",
+    "Tenshi no Doroppu",
+    "Angel Drops"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18599.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "18599",
+      "url": "https://anilist.co/anime/18599"
+    },
+    "k": {
+      "id": "7428",
+      "url": "https://kitsu.io/anime/7428"
+    },
+    "mal": {
+      "id": "18599",
+      "url": "https://myanimelist.net/anime/18599"
+    }
+  }
+}

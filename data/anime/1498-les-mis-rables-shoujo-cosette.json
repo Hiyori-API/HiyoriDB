@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1498,
+  "slug": "les-mis-rables-shoujo-cosette",
+  "kind": "anime",
+  "title": "Les Misérables: Shoujo Cosette",
+  "titles": {
+    "default": "Les Misérables: Shoujo Cosette",
+    "romaji": "Les Misérables: Shoujo Cosette",
+    "native": "レ・ミゼラブル 少女コゼット"
+  },
+  "synonyms": [
+    "Les Misérables: Shoujo Cosette",
+    "レ・ミゼラブル 少女コゼット",
+    "Les Miserables: Shoujo Cosette"
+  ],
+  "type": "tv",
+  "episodes": 52,
+  "status": "finished",
+  "season": "winter",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1695-etz4t9yoXO19.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1695",
+      "url": "https://anilist.co/anime/1695"
+    },
+    "k": {
+      "id": "1523",
+      "url": "https://kitsu.io/anime/1523"
+    },
+    "mal": {
+      "id": "1695",
+      "url": "https://myanimelist.net/anime/1695"
+    },
+    "t": {
+      "id": "62687",
+      "url": "https://trakt.tv/shows/62687"
+    }
+  }
+}

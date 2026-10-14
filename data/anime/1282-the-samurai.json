@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1282,
+  "slug": "the-samurai",
+  "kind": "anime",
+  "title": "The Samurai",
+  "titles": {
+    "default": "The Samurai",
+    "romaji": "The Samurai",
+    "native": "ザ・サムライ"
+  },
+  "synonyms": [
+    "The Samurai",
+    "ザ・サムライ"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1452.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1452",
+      "url": "https://anilist.co/anime/1452"
+    },
+    "k": {
+      "id": "1302",
+      "url": "https://kitsu.io/anime/1302"
+    },
+    "mal": {
+      "id": "1452",
+      "url": "https://myanimelist.net/anime/1452"
+    }
+  }
+}

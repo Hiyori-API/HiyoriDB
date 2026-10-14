@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1756,
+  "slug": "wakusei-robo-danguard-ace",
+  "kind": "anime",
+  "title": "Wakusei Robo Danguard Ace",
+  "titles": {
+    "default": "Wakusei Robo Danguard Ace",
+    "romaji": "Wakusei Robo Danguard Ace",
+    "english": "Dangard Ace",
+    "native": "惑星ロボ ダンガードA[エース]"
+  },
+  "synonyms": [
+    "Wakusei Robo Danguard Ace",
+    "Dangard Ace",
+    "惑星ロボ ダンガードA[エース]",
+    "Planetary Robo Dangard A",
+    "Planet Robot Dangard Ace"
+  ],
+  "type": "tv",
+  "episodes": 56,
+  "status": "finished",
+  "season": "spring",
+  "year": 1977,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1986.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1986",
+      "url": "https://anilist.co/anime/1986"
+    },
+    "k": {
+      "id": "1788",
+      "url": "https://kitsu.io/anime/1788"
+    },
+    "mal": {
+      "id": "1986",
+      "url": "https://myanimelist.net/anime/1986"
+    },
+    "t": {
+      "id": "9571",
+      "url": "https://trakt.tv/shows/9571"
+    }
+  }
+}

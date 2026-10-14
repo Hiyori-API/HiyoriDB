@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 811,
+  "slug": "princess-princess",
+  "kind": "anime",
+  "title": "Princess Princess",
+  "titles": {
+    "default": "Princess Princess",
+    "romaji": "Princess Princess",
+    "native": "プリンセス・プリンセス"
+  },
+  "synonyms": [
+    "Princess Princess",
+    "プリンセス・プリンセス",
+    "PuriPuri",
+    "PriPri"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx907-jSyaYDauPpRT.png"
+  ],
+  "references": {
+    "al": {
+      "id": "907",
+      "url": "https://anilist.co/anime/907"
+    },
+    "k": {
+      "id": "807",
+      "url": "https://kitsu.io/anime/807"
+    },
+    "mal": {
+      "id": "907",
+      "url": "https://myanimelist.net/anime/907"
+    },
+    "t": {
+      "id": "61803",
+      "url": "https://trakt.tv/shows/61803"
+    }
+  }
+}

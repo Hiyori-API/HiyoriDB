@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3186,
+  "slug": "ali-baba-to-40-hiki-no-touzoku",
+  "kind": "anime",
+  "title": "Ali Baba to 40-hiki no Touzoku",
+  "titles": {
+    "default": "Ali Baba to 40-hiki no Touzoku",
+    "romaji": "Ali Baba to 40-hiki no Touzoku",
+    "english": "Ali Baba and the Forty Thieves",
+    "native": "アリババと４０匹の盗賊"
+  },
+  "synonyms": [
+    "Ali Baba to 40-hiki no Touzoku",
+    "Ali Baba and the Forty Thieves",
+    "アリババと４０匹の盗賊",
+    "Ali Baba to Yonju-hiki no Touzoku",
+    "Alibaba's Revenge",
+    "Alibaba and the Forty Theives",
+    "Ali Baba to Yonjuppiki no Touzoku"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1971,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3843.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3843",
+      "url": "https://anilist.co/anime/3843"
+    },
+    "k": {
+      "id": "3295",
+      "url": "https://kitsu.io/anime/3295"
+    },
+    "mal": {
+      "id": "3843",
+      "url": "https://myanimelist.net/anime/3843"
+    }
+  }
+}

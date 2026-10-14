@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15353,
+  "slug": "kijoku-princess-double-kari",
+  "kind": "manga",
+  "title": "Kijoku: Princess Double Kari",
+  "titles": {
+    "default": "Kijoku: Princess Double Kari"
+  },
+  "synonyms": [
+    "Double Princesses",
+    "姫辱 -プリンセスダブル狩り-",
+    "Magical Girl Risuka",
+    "Shin Honkaku Mahou Shoujo Risuka",
+    "新本格魔法少女りすか"
+  ],
+  "type": "novel",
+  "volumes": 1,
+  "status": "finished",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/91878-cqIbq5IDmpfQ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2434",
+      "url": "https://anilist.co/anime/2434"
+    },
+    "al_manga": {
+      "id": "2434",
+      "url": "https://anilist.co/manga/2434"
+    }
+  }
+}

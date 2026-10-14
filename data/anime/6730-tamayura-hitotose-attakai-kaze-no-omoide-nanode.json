@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6730,
+  "slug": "tamayura-hitotose-attakai-kaze-no-omoide-nanode",
+  "kind": "anime",
+  "title": "Tamayura: hitotose - Attakai Kaze no Omoide Nanode",
+  "titles": {
+    "default": "Tamayura: hitotose - Attakai Kaze no Omoide Nanode",
+    "romaji": "Tamayura: hitotose - Attakai Kaze no Omoide Nanode",
+    "native": "たまゆら～hitotose～ 第5.5話「あったかい風の想い出なので」"
+  },
+  "synonyms": [
+    "Tamayura: hitotose - Attakai Kaze no Omoide Nanode",
+    "たまゆら～hitotose～ 第5.5話「あったかい風の想い出なので」",
+    "Tamayura: Hitotose OVA",
+    "Tamayura (TV) OVA",
+    "Tamayura (TV) Episode 5.5",
+    "Tamayura: Hitotose - Attakai Kaze no Omoide, Nanode",
+    "たまゆら～hitotose～ 第5.5話「あったかい風の想い出、なので」"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11793-MCmYBx0Qn4Wv.png"
+  ],
+  "references": {
+    "al": {
+      "id": "11793",
+      "url": "https://anilist.co/anime/11793"
+    },
+    "k": {
+      "id": "6603",
+      "url": "https://kitsu.io/anime/6603"
+    },
+    "mal": {
+      "id": "11793",
+      "url": "https://myanimelist.net/anime/11793"
+    }
+  }
+}

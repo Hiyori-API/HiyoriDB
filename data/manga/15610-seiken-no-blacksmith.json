@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15610,
+  "slug": "seiken-no-blacksmith",
+  "kind": "manga",
+  "title": "Seiken no Blacksmith",
+  "titles": {
+    "default": "Seiken no Blacksmith"
+  },
+  "synonyms": [
+    "Seiken no Katanakaji",
+    "The Sacred Sword Blacksmith",
+    "The Sacred Blacksmith",
+    "聖剣の刀鍛冶",
+    "Simple Knot Loafers",
+    "シンプルノットローファー",
+    "Shinpuru Notto Rofa",
+    "Shinpuru Notto Roofaa",
+    "Simple Not Loafer"
+  ],
+  "type": "manga",
+  "chapters": 62,
+  "volumes": 10,
+  "status": "finished",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx42240-NfwVSC2T4Ekm.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5940",
+      "url": "https://anilist.co/anime/5940"
+    },
+    "al_manga": {
+      "id": "5940",
+      "url": "https://anilist.co/manga/5940"
+    }
+  }
+}

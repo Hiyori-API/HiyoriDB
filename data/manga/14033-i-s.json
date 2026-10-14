@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14033,
+  "slug": "i-s",
+  "kind": "manga",
+  "title": "I''s",
+  "titles": {
+    "default": "I''s"
+  },
+  "synonyms": [
+    "Aizu",
+    "I's",
+    "I''s",
+    "アイズ",
+    "I\"s",
+    "Is"
+  ],
+  "type": "manga",
+  "chapters": 143,
+  "volumes": 15,
+  "status": "finished",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30818-ZgLoZQU5kZUj.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "811",
+      "url": "https://anilist.co/anime/1235"
+    },
+    "al_manga": {
+      "id": "811",
+      "url": "https://anilist.co/manga/811"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14016,
+  "slug": "banana-fish",
+  "kind": "manga",
+  "title": "BANANA FISH",
+  "titles": {
+    "default": "BANANA FISH"
+  },
+  "synonyms": [
+    "バナナフィッシュ",
+    "바나나 피시",
+    "Banana Fish",
+    "BANANA FISH"
+  ],
+  "type": "manga",
+  "chapters": 110,
+  "volumes": 19,
+  "status": "finished",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30756-rlxjQWBAizHX.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "100388",
+      "url": "https://anilist.co/anime/100388"
+    },
+    "al_manga": {
+      "id": "100388",
+      "url": "https://anilist.co/manga/100388"
+    }
+  }
+}

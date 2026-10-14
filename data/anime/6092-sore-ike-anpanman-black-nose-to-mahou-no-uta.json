@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6092,
+  "slug": "sore-ike-anpanman-black-nose-to-mahou-no-uta",
+  "kind": "anime",
+  "title": "Sore Ike! Anpanman: Black Nose to Mahou no Uta",
+  "titles": {
+    "default": "Sore Ike! Anpanman: Black Nose to Mahou no Uta",
+    "romaji": "Sore Ike! Anpanman: Black Nose to Mahou no Uta",
+    "english": "Anpanman: Blacknose and the Magical Song",
+    "native": "それいけ! アンパンマン ブラックノーズと魔法の歌"
+  },
+  "synonyms": [
+    "Sore Ike! Anpanman: Black Nose to Mahou no Uta",
+    "Anpanman: Blacknose and the Magical Song",
+    "それいけ! アンパンマン ブラックノーズと魔法の歌",
+    "Soreike! Anpanman: Black Nose to Mahou no Uta"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9007-4bkoLC2gxpdi.png"
+  ],
+  "references": {
+    "al": {
+      "id": "9007",
+      "url": "https://anilist.co/anime/9007"
+    },
+    "k": {
+      "id": "5572",
+      "url": "https://kitsu.io/anime/5572"
+    },
+    "mal": {
+      "id": "9007",
+      "url": "https://myanimelist.net/anime/9007"
+    },
+    "nf": {
+      "id": "81719808",
+      "url": "https://www.netflix.com/title/81719808"
+    }
+  }
+}

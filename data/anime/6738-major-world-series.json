@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6738,
+  "slug": "major-world-series",
+  "kind": "anime",
+  "title": "Major: World Series",
+  "titles": {
+    "default": "Major: World Series",
+    "romaji": "Major: World Series",
+    "native": "メジャー ワールドシリーズ編"
+  },
+  "synonyms": [
+    "Major: World Series",
+    "メジャー ワールドシリーズ編",
+    "You're My Love Prize",
+    "Finder Series",
+    "ファインダーシリーズ",
+    "Finder no Hyouteki",
+    "Target in the Finder",
+    "Target in the Viewfinder",
+    "Finder no Sekiyoku",
+    "One Wing in the Finder",
+    "One Wing in the Viewfinder"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11917-053ZcENZWJxS.png"
+  ],
+  "references": {
+    "al": {
+      "id": "11917",
+      "url": "https://anilist.co/anime/11917"
+    },
+    "k": {
+      "id": "5856",
+      "url": "https://kitsu.io/anime/5856"
+    },
+    "mal": {
+      "id": "11917",
+      "url": "https://myanimelist.net/anime/11917"
+    }
+  }
+}

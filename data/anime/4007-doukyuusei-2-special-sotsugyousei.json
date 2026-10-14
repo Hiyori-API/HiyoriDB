@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4007,
+  "slug": "doukyuusei-2-special-sotsugyousei",
+  "kind": "anime",
+  "title": "Doukyuusei 2 Special: Sotsugyousei",
+  "titles": {
+    "default": "Doukyuusei 2 Special: Sotsugyousei",
+    "romaji": "Doukyuusei 2 Special: Sotsugyousei",
+    "native": "同級生２ Special　卒業生"
+  },
+  "synonyms": [
+    "Doukyuusei 2 Special: Sotsugyousei",
+    "同級生２ Special　卒業生",
+    "Dokyusei 2 Special",
+    "Classmates 2 Special: Graduation",
+    "Graduate",
+    "Doukyuusei 2 (OVA) Special: Sotsugyousei"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "fall",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5647.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5647",
+      "url": "https://anilist.co/anime/5647"
+    },
+    "k": {
+      "id": "4220",
+      "url": "https://kitsu.io/anime/4220"
+    },
+    "mal": {
+      "id": "5647",
+      "url": "https://myanimelist.net/anime/5647"
+    }
+  }
+}

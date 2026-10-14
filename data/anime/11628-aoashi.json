@@ -1,0 +1,58 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11628,
+  "slug": "aoashi",
+  "kind": "anime",
+  "title": "Aoashi",
+  "titles": {
+    "default": "Aoashi",
+    "romaji": "Aoashi",
+    "native": "アオアシ"
+  },
+  "synonyms": [
+    "Aoashi",
+    "アオアシ",
+    "AOASHI แข็งเด็กหัวใจนักสู้",
+    "أواشي",
+    "Ao Ashi - Playmaker",
+    "Honey and Clover",
+    "Hachimitsu to Clover",
+    "ハチミツとクローバー",
+    "HachiKuro",
+    "Honey & Clover"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "spring",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx134732-OXKSrOhF9pCM.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "134732",
+      "url": "https://anilist.co/anime/134732"
+    },
+    "cr": {
+      "id": "aoashi",
+      "url": "https://www.crunchyroll.com/series/aoashi"
+    },
+    "k": {
+      "id": "7",
+      "url": "https://kitsu.io/anime/7"
+    },
+    "mal": {
+      "id": "49052",
+      "url": "https://myanimelist.net/anime/49052"
+    },
+    "t": {
+      "id": "35263",
+      "url": "https://trakt.tv/shows/35263"
+    },
+    "tx": {
+      "id": "aoashi_pr",
+      "url": "https://twitter.com/aoashi_pr"
+    }
+  }
+}

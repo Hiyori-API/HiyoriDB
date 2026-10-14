@@ -1,0 +1,66 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10758,
+  "slug": "shingeki-no-kyojin-the-final-season",
+  "kind": "anime",
+  "title": "Shingeki no Kyojin: The Final Season",
+  "titles": {
+    "default": "Shingeki no Kyojin: The Final Season",
+    "romaji": "Shingeki no Kyojin: The Final Season",
+    "english": "Attack on Titan Final Season",
+    "native": "進撃の巨人 The Final Season"
+  },
+  "synonyms": [
+    "Shingeki no Kyojin: The Final Season",
+    "Attack on Titan Final Season",
+    "進撃の巨人 The Final Season",
+    "SnK 4",
+    "AoT 4",
+    "Shingeki no Kyojin 4",
+    "進撃の巨人4",
+    "Attack on Titan Season 4",
+    "진격의 거인 더 파이널 시즌",
+    "מתקפת הטיטאנים העונה האחרונה",
+    "L'Attaque des Titans Saison Finale",
+    "L'Attacco dei Giganti 4",
+    "L'Attacco dei Giganti - La Stagione Finale",
+    "حمله به تایتان فصل 4",
+    "ผ่าพิภพไททัน ไฟนอล ซีซั่น",
+    "ผ่าพิภพไททัน Final Season",
+    "ผ่าพิภพไททัน ภาค 4",
+    "هجوم العملاقة الجزء الأخير",
+    "Атака Титанов: Финал",
+    "Shingeki no Kyojin Season 4",
+    "Attack on Titan: Final Season"
+  ],
+  "type": "tv",
+  "episodes": 16,
+  "status": "finished",
+  "season": "winter",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110277-sKUNXAsWMNFw.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "110277",
+      "url": "https://anilist.co/anime/110277"
+    },
+    "cr": {
+      "id": "attack-on-titan-dubs",
+      "url": "https://www.crunchyroll.com/series/attack-on-titan"
+    },
+    "mal": {
+      "id": "40028",
+      "url": "https://myanimelist.net/anime/40028"
+    },
+    "nf": {
+      "id": "70299043",
+      "url": "https://www.netflix.com/title/70299043"
+    },
+    "tx": {
+      "id": "anime_shingeki",
+      "url": "https://twitter.com/anime_shingeki"
+    }
+  }
+}

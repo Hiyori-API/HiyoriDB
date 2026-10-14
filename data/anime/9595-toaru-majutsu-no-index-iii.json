@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9595,
+  "slug": "toaru-majutsu-no-index-iii",
+  "kind": "anime",
+  "title": "Toaru Majutsu no Index III",
+  "titles": {
+    "default": "Toaru Majutsu no Index III",
+    "romaji": "Toaru Majutsu no Index III",
+    "english": "A Certain Magical Index III",
+    "native": "とある魔術の禁書目録III"
+  },
+  "synonyms": [
+    "Toaru Majutsu no Index III",
+    "A Certain Magical Index III",
+    "とある魔術の禁書目録III",
+    "Toaru Majutsu no Index 3",
+    "魔法禁书目录第三季",
+    "魔法禁书目录 3",
+    "อินเดกซ์คัมภีร์คาถาต้องห้าม ภาค 3",
+    "Cấm thư ma thuật Index III",
+    "Kakuriyo: Bed & Breakfast for Spirits",
+    "かくりよの宿飯",
+    "Kakuriyo no Yadomeshi"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100185-mZquZyZ8QbSS.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "100185",
+      "url": "https://anilist.co/anime/100185"
+    },
+    "ap": {
+      "id": "B07NSQV324",
+      "url": "https://www.amazon.com/gp/video/detail/B07NSQV324"
+    },
+    "cr": {
+      "id": "a-certain-magical-index",
+      "url": "https://www.crunchyroll.com/series/a-certain-magical-index"
+    },
+    "mal": {
+      "id": "36432",
+      "url": "https://myanimelist.net/anime/36432"
+    },
+    "tx": {
+      "id": "toaru_project",
+      "url": "https://twitter.com/toaru_project"
+    }
+  }
+}

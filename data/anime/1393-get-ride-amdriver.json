@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1393,
+  "slug": "get-ride-amdriver",
+  "kind": "anime",
+  "title": "Get Ride! AMDriver",
+  "titles": {
+    "default": "Get Ride! AMDriver",
+    "romaji": "Get Ride! AMDriver",
+    "english": "AM Driver",
+    "native": "Get Ride! アムドライバー"
+  },
+  "synonyms": [
+    "Get Ride! AMDriver",
+    "AM Driver",
+    "Get Ride! アムドライバー"
+  ],
+  "type": "tv",
+  "episodes": 51,
+  "status": "finished",
+  "season": "spring",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1574.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1574",
+      "url": "https://anilist.co/anime/1574"
+    },
+    "k": {
+      "id": "1414",
+      "url": "https://kitsu.io/anime/1414"
+    },
+    "mal": {
+      "id": "1574",
+      "url": "https://myanimelist.net/anime/1574"
+    }
+  }
+}

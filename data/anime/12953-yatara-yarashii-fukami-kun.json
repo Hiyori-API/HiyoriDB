@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12953,
+  "slug": "yatara-yarashii-fukami-kun",
+  "kind": "anime",
+  "title": "Yatara Yarashii Fukami-kun",
+  "titles": {
+    "default": "Yatara Yarashii Fukami-kun",
+    "romaji": "Yatara Yarashii Fukami-kun",
+    "english": "Unexpectedly Naughty Fukami",
+    "native": "やたらやらしい深見くん"
+  },
+  "synonyms": [
+    "Yatara Yarashii Fukami-kun",
+    "Unexpectedly Naughty Fukami",
+    "やたらやらしい深見くん",
+    "Surprise, Fukami est un obsédé au lit!",
+    "Teinenpi Shoujo Haiji",
+    "低燃費少女ハイジ",
+    "Low Fuel Cost Girl Haiji"
+  ],
+  "type": "ona",
+  "episodes": 8,
+  "status": "finished",
+  "season": "spring",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177678-4ZRG0wXfjubO.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "177678",
+      "url": "https://anilist.co/anime/177678"
+    },
+    "k": {
+      "id": "5226",
+      "url": "https://kitsu.io/anime/5226"
+    },
+    "mal": {
+      "id": "58888",
+      "url": "https://myanimelist.net/anime/58888"
+    }
+  }
+}

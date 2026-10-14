@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13523,
+  "slug": "cheat-item-kanrikyoku-no-oshigoto-ex-sanzan-yarareta-ato-dashi-douse-zenbu-wasureru-kara-higaisha-tsumamigui-shitemo-ii",
+  "kind": "anime",
+  "title": "Cheat Item Kanrikyoku no Oshigoto EX Sanzan Yarareta Ato Dashi Douse Zenbu Wasureru kara Higaisha Tsumamigui Shitemo Ii yo ne",
+  "titles": {
+    "default": "Cheat Item Kanrikyoku no Oshigoto EX Sanzan Yarareta Ato Dashi Douse Zenbu Wasureru kara Higaisha Tsumamigui Shitemo Ii yo ne",
+    "romaji": "Cheat Item Kanrikyoku no Oshigoto EX Sanzan Yarareta Ato Dashi Douse Zenbu Wasureru kara Higaisha Tsumamigui Shitemo Ii yo ne",
+    "native": "チートアイテム管理局のお仕事EX 散々ヤラれた後だし、どうせ全部忘れるから、被害者つまみ食いしてもいいよね"
+  },
+  "synonyms": [
+    "Cheat Item Kanrikyoku no Oshigoto EX Sanzan Yarareta Ato Dashi Douse Zenbu Wasureru kara Higaisha Tsumamigui Shitemo Ii yo ne",
+    "チートアイテム管理局のお仕事EX 散々ヤラれた後だし、どうせ全部忘れるから、被害者つまみ食いしてもいいよね",
+    "My Hero Academia: I Am a Hero Too",
+    "僕のヒーローアカデミア I am a hero too",
+    "Boku no Hero Academia: I Am a Hero Too"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202896-bqOOG4UCuTTi.png"
+  ],
+  "references": {
+    "al": {
+      "id": "202896",
+      "url": "https://anilist.co/anime/202896"
+    },
+    "mal": {
+      "id": "64542",
+      "url": "https://myanimelist.net/anime/64542"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2027,
+  "slug": "tatakae-iczer-1",
+  "kind": "anime",
+  "title": "Tatakae!! Iczer-1",
+  "titles": {
+    "default": "Tatakae!! Iczer-1",
+    "romaji": "Tatakae!! Iczer-1",
+    "english": "Fight!! Iczer-1",
+    "native": "戦え!! イクサー1"
+  },
+  "synonyms": [
+    "Tatakae!! Iczer-1",
+    "Fight!! Iczer-1",
+    "戦え!! イクサー1",
+    "Iczer-One",
+    "Fight! Iczer-One"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "fall",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2291-mfM44JGWN1vV.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2291",
+      "url": "https://anilist.co/anime/2291"
+    },
+    "k": {
+      "id": "2076",
+      "url": "https://kitsu.io/anime/2076"
+    },
+    "mal": {
+      "id": "2291",
+      "url": "https://myanimelist.net/anime/2291"
+    }
+  }
+}

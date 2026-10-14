@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15496,
+  "slug": "area-no-kishi",
+  "kind": "manga",
+  "title": "Area no Kishi",
+  "titles": {
+    "default": "Area no Kishi"
+  },
+  "synonyms": [
+    "The Knight in the Area",
+    "エリアの騎士",
+    "Love Makes People Grow",
+    "Hito wa Ai wo Tabete Sodatsu",
+    "人は愛を食べて育つ",
+    "Eat Love and Grow",
+    "Hito wa ai o tabete sodatsu"
+  ],
+  "type": "manga",
+  "chapters": 498,
+  "volumes": 57,
+  "status": "finished",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx38795-daT8dNvLjJMy.png"
+  ],
+  "references": {
+    "al": {
+      "id": "11697",
+      "url": "https://anilist.co/anime/11697"
+    },
+    "al_manga": {
+      "id": "11697",
+      "url": "https://anilist.co/manga/11697"
+    }
+  }
+}

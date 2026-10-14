@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15810,
+  "slug": "global-astroliner-gou",
+  "kind": "manga",
+  "title": "Global Astroliner Gou",
+  "titles": {
+    "default": "Global Astroliner Gou"
+  },
+  "synonyms": [
+    "グローバルアストロライナー号",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "chapters": 13,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b135254-3mVsHc5xJPGG.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1998",
+      "url": "https://anilist.co/anime/1998"
+    },
+    "al_manga": {
+      "id": "1998",
+      "url": "https://anilist.co/manga/1998"
+    }
+  }
+}

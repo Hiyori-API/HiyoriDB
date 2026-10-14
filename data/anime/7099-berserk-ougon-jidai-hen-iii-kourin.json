@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7099,
+  "slug": "berserk-ougon-jidai-hen-iii-kourin",
+  "kind": "anime",
+  "title": "Berserk: Ougon Jidai-hen III - Kourin",
+  "titles": {
+    "default": "Berserk: Ougon Jidai-hen III - Kourin",
+    "romaji": "Berserk: Ougon Jidai-hen III - Kourin",
+    "english": "Berserk: The Golden Age Arc III - The Advent",
+    "native": "ベルセルク 黄金時代篇Ⅲ 降臨"
+  },
+  "synonyms": [
+    "Berserk: Ougon Jidai-hen III - Kourin",
+    "Berserk: The Golden Age Arc III - The Advent",
+    "ベルセルク 黄金時代篇Ⅲ 降臨",
+    "Berserk Movie",
+    "Berserk Saga",
+    "Berserk: Golden Age Arc III - Descent",
+    "Berserk: La Edad de Oro III - El Advenimiento"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b12115-pslMEaGV6gpf.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12115",
+      "url": "https://anilist.co/anime/12115"
+    },
+    "k": {
+      "id": "6665",
+      "url": "https://kitsu.io/anime/6665"
+    },
+    "mal": {
+      "id": "12115",
+      "url": "https://myanimelist.net/anime/12115"
+    },
+    "nf": {
+      "id": "80063025",
+      "url": "https://www.netflix.com/title/80063025"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14089,
+  "slug": "doraemon",
+  "kind": "manga",
+  "title": "Doraemon",
+  "titles": {
+    "default": "Doraemon"
+  },
+  "synonyms": [
+    "哆啦A梦",
+    "도라에몽",
+    "ドラえもん",
+    "Doraemon",
+    "哆啦A夢",
+    "多啦A夢"
+  ],
+  "type": "manga",
+  "chapters": 821,
+  "volumes": 45,
+  "status": "finished",
+  "year": 1969,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31032-EnHYnoLVqlWG.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "122575",
+      "url": "https://anilist.co/anime/501"
+    },
+    "al_manga": {
+      "id": "122575",
+      "url": "https://anilist.co/manga/122575"
+    }
+  }
+}

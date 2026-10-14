@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13228,
+  "slug": "summer-pockets-kushima-kamome-hen",
+  "kind": "anime",
+  "title": "Summer Pockets: Kushima Kamome-hen",
+  "titles": {
+    "default": "Summer Pockets: Kushima Kamome-hen",
+    "romaji": "Summer Pockets: Kushima Kamome-hen",
+    "english": "Summer Pockets: Across the Seven Seas",
+    "native": "Summer Pockets 久島鴎編"
+  },
+  "synonyms": [
+    "Summer Pockets: Kushima Kamome-hen",
+    "Summer Pockets: Across the Seven Seas",
+    "Summer Pockets 久島鴎編",
+    "Summer Pockets Theatrical Edition",
+    "Summer Pockets Movie",
+    "SamaPoke",
+    "劇場編集版 Summer Pockets",
+    "サマポケ",
+    "Summer Pockets Season 1: Omnibus",
+    "Cowboy Bebop: The Movie",
+    "Cowboy Bebop: Tengoku no Tobira",
+    "Cowboy Bebop: Knockin' on Heaven's Door",
+    "カウボーイビバップ天国の扉"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195230-ix15Cpt9ns5d.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "195230",
+      "url": "https://anilist.co/anime/195230"
+    },
+    "cr": {
+      "id": "series/G0XHWM17X/",
+      "url": "https://www.crunchyroll.com/series/series/G0XHWM17X/"
+    },
+    "k": {
+      "id": "2",
+      "url": "https://kitsu.io/anime/2"
+    },
+    "mal": {
+      "id": "61926",
+      "url": "https://myanimelist.net/anime/61926"
+    }
+  }
+}

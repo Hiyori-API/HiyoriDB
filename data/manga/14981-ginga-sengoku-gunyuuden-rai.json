@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14981,
+  "slug": "ginga-sengoku-gunyuuden-rai",
+  "kind": "manga",
+  "title": "Ginga Sengoku Gunyuuden Rai",
+  "titles": {
+    "default": "Ginga Sengoku Gunyuuden Rai"
+  },
+  "synonyms": [
+    "Galaxy Warring State Chronicles",
+    "Ginga Sengoku Gun Yuuden Rai",
+    "Galaxy Warring State Chronicle Rai",
+    "Rai - La leggenda degli eroi delle guerre galattiche",
+    "The Heroes of Galaxy Wars",
+    "銀河戦國群雄伝ライ",
+    "Four Steps to Romance",
+    "Romance Godan Katsuyou",
+    "ろまんす五段活用",
+    "Romantic Princess"
+  ],
+  "type": "manga",
+  "chapters": 263,
+  "volumes": 27,
+  "status": "finished",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx49292-P6cWx6ihqdn7.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3907",
+      "url": "https://anilist.co/anime/3907"
+    },
+    "al_manga": {
+      "id": "3907",
+      "url": "https://anilist.co/manga/3907"
+    }
+  }
+}

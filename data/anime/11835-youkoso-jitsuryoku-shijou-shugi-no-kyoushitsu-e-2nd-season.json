@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11835,
+  "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-2nd-season",
+  "kind": "anime",
+  "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season",
+  "titles": {
+    "default": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season",
+    "romaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season",
+    "english": "Classroom of the Elite Season 2",
+    "native": "ようこそ実力至上主義の教室へ 2nd Season"
+  },
+  "synonyms": [
+    "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season",
+    "Classroom of the Elite Season 2",
+    "ようこそ実力至上主義の教室へ 2nd Season",
+    "You-Zitsu 2",
+    "Youjitsu 2",
+    "ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ภาค 2",
+    "Cote 2",
+    "Добро пожаловать в класс для особо одарённых 2",
+    "歡迎來到實力至上主義的教室 第二季",
+    "فصل النخبة الموسم الثاني",
+    "Classroom of the Elite 2nd Season",
+    "You-jitsu 2nd Season",
+    "You-zitsu 2nd Season",
+    "Classroom of the Elite II"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145545-DGl3LVvFlnHi.png"
+  ],
+  "references": {
+    "al": {
+      "id": "145545",
+      "url": "https://anilist.co/anime/145545"
+    },
+    "cr": {
+      "id": "classroom-of-the-elite",
+      "url": "https://www.crunchyroll.com/series/classroom-of-the-elite"
+    },
+    "mal": {
+      "id": "51096",
+      "url": "https://myanimelist.net/anime/51096"
+    },
+    "tx": {
+      "id": "youkosozitsu",
+      "url": "https://twitter.com/youkosozitsu"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13668,
+  "slug": "biblia-koshodou-no-jiken-techou",
+  "kind": "anime",
+  "title": "Biblia Koshodou no Jiken Techou",
+  "titles": {
+    "default": "Biblia Koshodou no Jiken Techou",
+    "romaji": "Biblia Koshodou no Jiken Techou",
+    "native": "ビブリア古書堂の事件手帖"
+  },
+  "synonyms": [
+    "Biblia Koshodou no Jiken Techou",
+    "ビブリア古書堂の事件手帖",
+    "The Case Files of Biblia Bookstore",
+    "Despera",
+    "ですぺら",
+    "Desupera"
+  ],
+  "type": "tv",
+  "status": "to_be_aired",
+  "season": "spring",
+  "year": 2027,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98476-humj2ScdtAj3.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98476",
+      "url": "https://anilist.co/anime/98476"
+    },
+    "k": {
+      "id": "4584",
+      "url": "https://kitsu.io/anime/4584"
+    },
+    "mal": {
+      "id": "63997",
+      "url": "https://myanimelist.net/anime/63997"
+    }
+  }
+}

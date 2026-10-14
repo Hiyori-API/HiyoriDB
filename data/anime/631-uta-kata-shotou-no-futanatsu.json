@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 631,
+  "slug": "uta-kata-shotou-no-futanatsu",
+  "kind": "anime",
+  "title": "Uta∽Kata: Shotou no Futanatsu",
+  "titles": {
+    "default": "Uta∽Kata: Shotou no Futanatsu",
+    "romaji": "Uta∽Kata: Shotou no Futanatsu",
+    "english": "Utakata: Summer Pair of Early Winter",
+    "native": "うた∽かた - 初冬の双夏"
+  },
+  "synonyms": [
+    "Uta∽Kata: Shotou no Futanatsu",
+    "Utakata: Summer Pair of Early Winter",
+    "うた∽かた - 初冬の双夏",
+    "Uta Kata Special OVA",
+    "Uta∽Kata",
+    "Shotou no Futanatsu",
+    "Twin Summers of the First Winter",
+    "Uta Kata Special",
+    "Boku wa Imouto ni Koi wo Suru",
+    "僕は妹に恋をする",
+    "I'm My Little Sister's Secret",
+    "I'm in Love With My Little Sister"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/689.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "689",
+      "url": "https://anilist.co/anime/689"
+    },
+    "k": {
+      "id": "726",
+      "url": "https://kitsu.io/anime/726"
+    },
+    "mal": {
+      "id": "689",
+      "url": "https://myanimelist.net/anime/689"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5719,
+  "slug": "sore-ike-anpanman-inochi-no-hoshi-no-dolly",
+  "kind": "anime",
+  "title": "Sore Ike! Anpanman: Inochi no Hoshi no Dolly",
+  "titles": {
+    "default": "Sore Ike! Anpanman: Inochi no Hoshi no Dolly",
+    "romaji": "Sore Ike! Anpanman: Inochi no Hoshi no Dolly",
+    "english": "Anpanman: Star-Spirited Dollie",
+    "native": "それいけ! アンパンマン いのちの星のドーリィ"
+  },
+  "synonyms": [
+    "Sore Ike! Anpanman: Inochi no Hoshi no Dolly",
+    "Anpanman: Star-Spirited Dollie",
+    "それいけ! アンパンマン いのちの星のドーリィ"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18591.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "18591",
+      "url": "https://anilist.co/anime/18591"
+    },
+    "k": {
+      "id": "9614",
+      "url": "https://kitsu.io/anime/9614"
+    },
+    "mal": {
+      "id": "18591",
+      "url": "https://myanimelist.net/anime/18591"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9076,
+  "slug": "tsugumomo",
+  "kind": "anime",
+  "title": "Tsugumomo",
+  "titles": {
+    "default": "Tsugumomo",
+    "romaji": "Tsugumomo",
+    "native": "つぐもも"
+  },
+  "synonyms": [
+    "Tsugumomo",
+    "つぐもも",
+    "สึกุโมโมะ ภูตสาวแสบดุ",
+    "Attack on Titan Season 2",
+    "Shingeki no Kyojin Season 2",
+    "進撃の巨人 Season 2"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx97625-t6a6xQjttcCU.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "97625",
+      "url": "https://anilist.co/anime/97625"
+    },
+    "cr": {
+      "id": "tsugumomo/",
+      "url": "https://www.crunchyroll.com/series/tsugumomo/"
+    },
+    "k": {
+      "id": "8671",
+      "url": "https://kitsu.io/anime/8671"
+    },
+    "mal": {
+      "id": "34019",
+      "url": "https://myanimelist.net/anime/34019"
+    },
+    "t": {
+      "id": "1420",
+      "url": "https://trakt.tv/shows/1420"
+    },
+    "tx": {
+      "id": "tsugumomo_anime",
+      "url": "https://twitter.com/tsugumomo_anime"
+    }
+  }
+}

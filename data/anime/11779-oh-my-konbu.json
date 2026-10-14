@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11779,
+  "slug": "oh-my-konbu",
+  "kind": "anime",
+  "title": "OH! MY Konbu",
+  "titles": {
+    "default": "OH! MY Konbu",
+    "romaji": "OH! MY Konbu",
+    "native": "OH!MYコンブ"
+  },
+  "synonyms": [
+    "OH! MY Konbu",
+    "OH!MYコンブ",
+    "Oh! My Konbu"
+  ],
+  "type": "tv",
+  "episodes": 22,
+  "status": "finished",
+  "season": "spring",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126620-bhQTtsCeVNX2.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "126620",
+      "url": "https://anilist.co/anime/126620"
+    },
+    "k": {
+      "id": "9503",
+      "url": "https://kitsu.io/anime/9503"
+    },
+    "mal": {
+      "id": "25139",
+      "url": "https://myanimelist.net/anime/25139"
+    }
+  }
+}

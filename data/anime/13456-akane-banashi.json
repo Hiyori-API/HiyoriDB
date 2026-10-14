@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13456,
+  "slug": "akane-banashi",
+  "kind": "anime",
+  "title": "Akane-banashi",
+  "titles": {
+    "default": "Akane-banashi",
+    "romaji": "Akane-banashi",
+    "native": "あかね噺"
+  },
+  "synonyms": [
+    "Akane-banashi",
+    "あかね噺",
+    "อาคาเนะ พลิกตำนานวงการราคุโกะ",
+    "Сказание об Аканэ",
+    "Chuyện Kể Akane",
+    "朱音落語",
+    "This Ugly Yet Beautiful World",
+    "Kono Minikuku mo Utsukushii Sekai",
+    "この醜くも美しい世界"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196935-RnLWBsEvNp8M.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "196935",
+      "url": "https://anilist.co/anime/196935"
+    },
+    "k": {
+      "id": "124",
+      "url": "https://kitsu.io/anime/124"
+    },
+    "mal": {
+      "id": "62164",
+      "url": "https://myanimelist.net/anime/62164"
+    },
+    "nf": {
+      "id": "82701514",
+      "url": "https://www.netflix.com/title/82701514"
+    },
+    "t": {
+      "id": "34001",
+      "url": "https://trakt.tv/shows/34001"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 306,
+  "slug": "ginyuu-mokushiroku-meine-liebe",
+  "kind": "anime",
+  "title": "Ginyuu Mokushiroku Meine Liebe",
+  "titles": {
+    "default": "Ginyuu Mokushiroku Meine Liebe",
+    "romaji": "Ginyuu Mokushiroku Meine Liebe",
+    "native": "吟遊黙示録 マイネリーベ"
+  },
+  "synonyms": [
+    "Ginyuu Mokushiroku Meine Liebe",
+    "吟遊黙示録 マイネリーベ",
+    "Meine Liebe",
+    "My Love"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx336-D2j3Lp7GbL54.png"
+  ],
+  "references": {
+    "al": {
+      "id": "336",
+      "url": "https://anilist.co/anime/336"
+    },
+    "k": {
+      "id": "303",
+      "url": "https://kitsu.io/anime/303"
+    },
+    "mal": {
+      "id": "336",
+      "url": "https://myanimelist.net/anime/336"
+    },
+    "t": {
+      "id": "34513",
+      "url": "https://trakt.tv/shows/34513"
+    }
+  }
+}

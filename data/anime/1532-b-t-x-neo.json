@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1532,
+  "slug": "b-t-x-neo",
+  "kind": "anime",
+  "title": "B'T-X NEO",
+  "titles": {
+    "default": "B'T-X NEO",
+    "romaji": "B'T-X NEO",
+    "native": "B'T-X NEO　ビート・エックス ネオ"
+  },
+  "synonyms": [
+    "B'T-X NEO",
+    "B'T-X NEO　ビート・エックス ネオ",
+    "B't X Neo",
+    "BTX Neo",
+    "B`T X(ビート・エックス) NEO",
+    "B'T X Neo",
+    "Ｂ’Ｔ　Ｘ（ビート・エックス）　ＮＥＯ",
+    "B'tX Neo: B't X Neo"
+  ],
+  "type": "ova",
+  "episodes": 14,
+  "status": "finished",
+  "season": "summer",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1736-iZS7knJIMBud.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1736",
+      "url": "https://anilist.co/anime/1736"
+    },
+    "k": {
+      "id": "1556",
+      "url": "https://kitsu.io/anime/1556"
+    },
+    "mal": {
+      "id": "1736",
+      "url": "https://myanimelist.net/anime/1736"
+    }
+  }
+}

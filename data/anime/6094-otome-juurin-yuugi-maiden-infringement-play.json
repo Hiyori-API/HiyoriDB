@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6094,
+  "slug": "otome-juurin-yuugi-maiden-infringement-play",
+  "kind": "anime",
+  "title": "Otome Juurin Yuugi: Maiden Infringement Play",
+  "titles": {
+    "default": "Otome Juurin Yuugi: Maiden Infringement Play",
+    "romaji": "Otome Juurin Yuugi: Maiden Infringement Play",
+    "native": "乙女蹂躙遊戯～Maiden Infringement Play～"
+  },
+  "synonyms": [
+    "Otome Juurin Yuugi: Maiden Infringement Play",
+    "乙女蹂躙遊戯～Maiden Infringement Play～",
+    "Aki-Sora: Yume no Naka",
+    "あきそら～夢の中～",
+    "Akisora: Yume no Naka",
+    "Aki-Sora: In a Dream"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9009.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9009",
+      "url": "https://anilist.co/anime/9009"
+    },
+    "k": {
+      "id": "5395",
+      "url": "https://kitsu.io/anime/5395"
+    },
+    "mal": {
+      "id": "9009",
+      "url": "https://myanimelist.net/anime/9009"
+    }
+  }
+}

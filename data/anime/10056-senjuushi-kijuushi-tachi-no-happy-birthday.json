@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10056,
+  "slug": "senjuushi-kijuushi-tachi-no-happy-birthday",
+  "kind": "anime",
+  "title": "Senjuushi: Kijuushi-tachi no Happy Birthday!",
+  "titles": {
+    "default": "Senjuushi: Kijuushi-tachi no Happy Birthday!",
+    "romaji": "Senjuushi: Kijuushi-tachi no Happy Birthday!",
+    "native": "千銃士 貴銃士たちのハッピーバースデイ!"
+  },
+  "synonyms": [
+    "Senjuushi: Kijuushi-tachi no Happy Birthday!",
+    "千銃士 貴銃士たちのハッピーバースデイ!",
+    "Senjuushi OVA",
+    "The Thousand Musketeers OVA",
+    "Voices of a Distant Star",
+    "Hoshi no Koe",
+    "ほしのこえ"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104292-1KkNrWEVWzhI.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "104292",
+      "url": "https://anilist.co/anime/104292"
+    },
+    "cr": {
+      "id": "voices-of-a-distant-star",
+      "url": "https://www.crunchyroll.com/series/voices-of-a-distant-star"
+    },
+    "k": {
+      "id": "231",
+      "url": "https://kitsu.io/anime/231"
+    },
+    "mal": {
+      "id": "38393",
+      "url": "https://myanimelist.net/anime/38393"
+    },
+    "tx": {
+      "id": "senjyushi_anime",
+      "url": "https://twitter.com/senjyushi_anime"
+    }
+  }
+}

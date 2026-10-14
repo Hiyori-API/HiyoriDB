@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14206,
+  "slug": "baoh-raihousha",
+  "kind": "manga",
+  "title": "Baoh Raihousha",
+  "titles": {
+    "default": "Baoh Raihousha"
+  },
+  "synonyms": [
+    "BAOH, EL VISITANTE",
+    "Baoh",
+    "バオー 来訪者",
+    "Baoh Raihousha"
+  ],
+  "type": "manga",
+  "chapters": 17,
+  "volumes": 2,
+  "status": "finished",
+  "year": 1984,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31515-aTY8JOcI2MGI.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1468",
+      "url": "https://anilist.co/anime/1468"
+    },
+    "al_manga": {
+      "id": "1468",
+      "url": "https://anilist.co/manga/1468"
+    }
+  }
+}

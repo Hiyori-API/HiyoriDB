@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14752,
+  "slug": "majuu-sensen",
+  "kind": "manga",
+  "title": "Majuu Sensen",
+  "titles": {
+    "default": "Majuu Sensen"
+  },
+  "synonyms": [
+    "Demon Beast Phalanx",
+    "Battle Front",
+    "Demonbeast Warfront",
+    "魔獣戦線",
+    "Devil of Blood and Roses",
+    "Chi to Bara no Akuma",
+    "血とばらの悪魔"
+  ],
+  "type": "manga",
+  "volumes": 4,
+  "status": "finished",
+  "year": 1975,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx95856-05pfLrIZhfWZ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1708",
+      "url": "https://anilist.co/anime/9043"
+    },
+    "al_manga": {
+      "id": "1708",
+      "url": "https://anilist.co/manga/1708"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11064,
+  "slug": "under-the-dog-anthea-chan",
+  "kind": "anime",
+  "title": "UNDER THE DOG Anthea-chan",
+  "titles": {
+    "default": "UNDER THE DOG Anthea-chan",
+    "romaji": "UNDER THE DOG Anthea-chan",
+    "english": "Under the Dog Anthea-chan",
+    "native": "UNDER THE DOG アンシアちゃん"
+  },
+  "synonyms": [
+    "UNDER THE DOG Anthea-chan",
+    "Under the Dog Anthea-chan",
+    "UNDER THE DOG アンシアちゃん",
+    "Under the Dog Short Animation",
+    "Overlord: Ple Ple Pleiades - Special Edition",
+    "ぷれぷれぷれあです特別編",
+    "Ple Ple Pleiades Special Edition"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/97959-kf00A0XjB7Mz.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "97959",
+      "url": "https://anilist.co/anime/97959"
+    },
+    "mal": {
+      "id": "32467",
+      "url": "https://myanimelist.net/anime/32467"
+    }
+  }
+}

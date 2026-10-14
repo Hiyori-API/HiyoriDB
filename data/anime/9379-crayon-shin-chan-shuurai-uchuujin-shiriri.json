@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9379,
+  "slug": "crayon-shin-chan-shuurai-uchuujin-shiriri",
+  "kind": "anime",
+  "title": "Crayon Shin-chan: Shuurai!! Uchuujin Shiriri",
+  "titles": {
+    "default": "Crayon Shin-chan: Shuurai!! Uchuujin Shiriri",
+    "romaji": "Crayon Shin-chan: Shuurai!! Uchuujin Shiriri",
+    "native": "映画 クレヨンしんちゃん 襲来!!宇宙人シリリ"
+  },
+  "synonyms": [
+    "Crayon Shin-chan: Shuurai!! Uchuujin Shiriri",
+    "映画 クレヨンしんちゃん 襲来!!宇宙人シリリ",
+    "Crayon Shin-chan Movie 25",
+    "Shin-chan y kulETe el extraterrestre",
+    "Genocidal Organ",
+    "Gyakusatsu Kikan",
+    "虐殺器官",
+    "Project Itoh"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/100290-P4R8MUvxxwv2.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "100290",
+      "url": "https://anilist.co/anime/100290"
+    },
+    "k": {
+      "id": "8737",
+      "url": "https://kitsu.io/anime/8737"
+    },
+    "mal": {
+      "id": "34244",
+      "url": "https://myanimelist.net/anime/34244"
+    }
+  }
+}

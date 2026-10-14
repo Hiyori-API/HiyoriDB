@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11080,
+  "slug": "kino-no-tabi-the-beautiful-world-haikyo-no-kuni",
+  "kind": "anime",
+  "title": "Kino no Tabi -the Beautiful World- Haikyo no Kuni",
+  "titles": {
+    "default": "Kino no Tabi -the Beautiful World- Haikyo no Kuni",
+    "romaji": "Kino no Tabi -the Beautiful World- Haikyo no Kuni",
+    "native": "キノの旅 -the Beautiful World- 廃墟の国"
+  },
+  "synonyms": [
+    "Kino no Tabi -the Beautiful World- Haikyo no Kuni",
+    "キノの旅 -the Beautiful World- 廃墟の国",
+    "Kino no Tabi: The Beautiful World - The Animated Series - Haikyo no Kuni - On Your Way",
+    "Kino no Tabi: The Beautiful World - The Animated Series Picture Drama",
+    "多数決ドラマ『キノの旅 the Beautiful World 「廃墟の国」-On Your Way- 』"
+  ],
+  "type": "special",
+  "episodes": 27,
+  "status": "finished",
+  "season": "summer",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b108973-X8YjEtEpkjmx.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "108973",
+      "url": "https://anilist.co/anime/108973"
+    },
+    "mal": {
+      "id": "38179",
+      "url": "https://myanimelist.net/anime/38179"
+    }
+  }
+}

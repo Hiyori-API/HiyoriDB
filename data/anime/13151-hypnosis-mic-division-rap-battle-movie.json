@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13151,
+  "slug": "hypnosis-mic-division-rap-battle-movie",
+  "kind": "anime",
+  "title": "Hypnosis Mic -Division Rap Battle- Movie",
+  "titles": {
+    "default": "Hypnosis Mic -Division Rap Battle- Movie",
+    "romaji": "Hypnosis Mic -Division Rap Battle- Movie",
+    "native": "映画 ヒプノシスマイク -Division Rap Battle-"
+  },
+  "synonyms": [
+    "Hypnosis Mic -Division Rap Battle- Movie",
+    "映画 ヒプノシスマイク -Division Rap Battle-",
+    "Eiga Hypnosis Mic: Division Rap Battle",
+    "HipMovie",
+    "ヒプムビ",
+    "One Piece: Clockwork Island Adventure",
+    "One Piece Movie 2: Nejimaki-jima no Daibouken",
+    "ワンピース ねじまき島の冒険",
+    "One Piece: Nejimakijima no Bouken",
+    "One Piece: Nejimaki Shima no Bouken"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187305-Mzyh5PICkk9X.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "187305",
+      "url": "https://anilist.co/anime/187305"
+    },
+    "k": {
+      "id": "422",
+      "url": "https://kitsu.io/anime/422"
+    },
+    "mal": {
+      "id": "60273",
+      "url": "https://myanimelist.net/anime/60273"
+    }
+  }
+}

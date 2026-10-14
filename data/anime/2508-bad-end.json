@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2508,
+  "slug": "bad-end",
+  "kind": "anime",
+  "title": "Bad End",
+  "titles": {
+    "default": "Bad End",
+    "romaji": "Bad End",
+    "english": "Voyeur's Digest",
+    "native": "贖罪の教室"
+  },
+  "synonyms": [
+    "Bad End",
+    "Voyeur's Digest",
+    "贖罪の教室",
+    "I''s",
+    "フロムアイズ ～もうひとつの夏の物語～",
+    "From I''s",
+    "I''s OVA",
+    "Aizu",
+    "From I\"s"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2821.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2821",
+      "url": "https://anilist.co/anime/2821"
+    },
+    "k": {
+      "id": "969",
+      "url": "https://kitsu.io/anime/969"
+    },
+    "mal": {
+      "id": "2821",
+      "url": "https://myanimelist.net/anime/2821"
+    }
+  }
+}

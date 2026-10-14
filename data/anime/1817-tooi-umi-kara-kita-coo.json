@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1817,
+  "slug": "tooi-umi-kara-kita-coo",
+  "kind": "anime",
+  "title": "Tooi Umi kara Kita Coo",
+  "titles": {
+    "default": "Tooi Umi kara Kita Coo",
+    "romaji": "Tooi Umi kara Kita Coo",
+    "native": "遠い海から来たクー"
+  },
+  "synonyms": [
+    "Tooi Umi kara Kita Coo",
+    "遠い海から来たクー",
+    "Coo of the Far Seas",
+    "Coo: Come From a Distant Ocean Coo",
+    "Coo che arrivò da un mare lontano",
+    "Coo: Tooi Umi kara Kita Coo",
+    "Coo 遠い海から来たクー"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2055-YzB7IuI7yY0M.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2055",
+      "url": "https://anilist.co/anime/2055"
+    },
+    "k": {
+      "id": "1854",
+      "url": "https://kitsu.io/anime/1854"
+    },
+    "mal": {
+      "id": "2055",
+      "url": "https://myanimelist.net/anime/2055"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13913,
+  "slug": "nhk-ni-youkoso",
+  "kind": "manga",
+  "title": "NHK ni Youkoso!",
+  "titles": {
+    "default": "NHK ni Youkoso!"
+  },
+  "synonyms": [
+    "Welcome to the NHK",
+    "Bem-vindo a N.H.K",
+    "Welcome to the N.H.K.",
+    "NHKにようこそ!",
+    "Railroad",
+    "레일로드"
+  ],
+  "type": "manga",
+  "chapters": 40,
+  "volumes": 8,
+  "status": "finished",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx30463-Afj2EI0I5NW5.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1210",
+      "url": "https://anilist.co/anime/1210"
+    },
+    "al_manga": {
+      "id": "1210",
+      "url": "https://anilist.co/manga/1210"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14794,
+  "slug": "dokushin-apaato-dokudamisou",
+  "kind": "manga",
+  "title": "Dokushin Apaato Dokudamisou",
+  "titles": {
+    "default": "Dokushin Apaato Dokudamisou"
+  },
+  "synonyms": [
+    "Dokushin Apartment Dokudami-sou",
+    "Single Apartment Dokudami-sou",
+    "Dokushin Apartment Dokudamisou",
+    "Dokudami Tenement",
+    "独身アパートどくだみ荘",
+    "Sobakasu no Shounen",
+    "そばかすの少年",
+    "Freckles"
+  ],
+  "type": "manga",
+  "chapters": 648,
+  "volumes": 35,
+  "status": "finished",
+  "year": 1979,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b53010-5YJJD1nBKmD7.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9499",
+      "url": "https://anilist.co/anime/9499"
+    },
+    "al_manga": {
+      "id": "9499",
+      "url": "https://anilist.co/manga/9499"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5055,
+  "slug": "shiawase-no-katachi",
+  "kind": "anime",
+  "title": "Shiawase no Katachi",
+  "titles": {
+    "default": "Shiawase no Katachi",
+    "romaji": "Shiawase no Katachi",
+    "native": "しあわせのかたち"
+  },
+  "synonyms": [
+    "Shiawase no Katachi",
+    "しあわせのかたち",
+    "Figures of Happiness"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "fall",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9404.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9404",
+      "url": "https://anilist.co/anime/9404"
+    },
+    "k": {
+      "id": "5723",
+      "url": "https://kitsu.io/anime/5723"
+    },
+    "mal": {
+      "id": "9404",
+      "url": "https://myanimelist.net/anime/9404"
+    }
+  }
+}

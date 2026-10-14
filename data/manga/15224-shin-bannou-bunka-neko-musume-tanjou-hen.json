@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15224,
+  "slug": "shin-bannou-bunka-neko-musume-tanjou-hen",
+  "kind": "manga",
+  "title": "Shin Bannou Bunka Neko-Musume: Tanjou-hen",
+  "titles": {
+    "default": "Shin Bannou Bunka Neko-Musume: Tanjou-hen"
+  },
+  "synonyms": [
+    "The New All Purpose Cultural Cat Girl Nuku Nuku",
+    "New All Purpose Cultural Cat Girl Nuku Nuku: Origin",
+    "新万能文化猫娘 誕生編",
+    "Paradise Kiss",
+    "パラダイス・キス",
+    "ParaKiss"
+  ],
+  "type": "manga",
+  "chapters": 6,
+  "volumes": 1,
+  "status": "finished",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx92404-J3LZjiqye151.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "375",
+      "url": "https://anilist.co/anime/375"
+    },
+    "al_manga": {
+      "id": "375",
+      "url": "https://anilist.co/manga/375"
+    }
+  }
+}

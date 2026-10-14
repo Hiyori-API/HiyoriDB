@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 553,
+  "slug": "yuugen-kaisha",
+  "kind": "anime",
+  "title": "Yuugen Kaisha",
+  "titles": {
+    "default": "Yuugen Kaisha",
+    "romaji": "Yuugen Kaisha",
+    "english": "Phantom Quest Corp.",
+    "native": "幽幻怪社"
+  },
+  "synonyms": [
+    "Yuugen Kaisha",
+    "Phantom Quest Corp.",
+    "幽幻怪社",
+    "Spiriti & Affini S.r.l.: Società a razionalità Limitata",
+    "Exorciste S.A.",
+    "유환괴사"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "summer",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx599-i9k9RSkhGpVd.png"
+  ],
+  "references": {
+    "al": {
+      "id": "599",
+      "url": "https://anilist.co/anime/599"
+    },
+    "k": {
+      "id": "554",
+      "url": "https://kitsu.io/anime/554"
+    },
+    "mal": {
+      "id": "599",
+      "url": "https://myanimelist.net/anime/599"
+    }
+  }
+}

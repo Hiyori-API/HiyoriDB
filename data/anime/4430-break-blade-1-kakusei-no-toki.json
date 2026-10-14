@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4430,
+  "slug": "break-blade-1-kakusei-no-toki",
+  "kind": "anime",
+  "title": "Break Blade 1: Kakusei no Toki",
+  "titles": {
+    "default": "Break Blade 1: Kakusei no Toki",
+    "romaji": "Break Blade 1: Kakusei no Toki",
+    "english": "Broken Blade",
+    "native": "ブレイク ブレイド 覚醒ノ刻"
+  },
+  "synonyms": [
+    "Break Blade 1: Kakusei no Toki",
+    "Broken Blade",
+    "ブレイク ブレイド 覚醒ノ刻",
+    "Breaker Blade",
+    "Break Blade 1: The Time of Awakening"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6772-rZOOo5n3QZ7u.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6772",
+      "url": "https://anilist.co/anime/6772"
+    },
+    "cr": {
+      "id": "broken-blade",
+      "url": "https://www.crunchyroll.com/series/broken-blade"
+    },
+    "k": {
+      "id": "4708",
+      "url": "https://kitsu.io/anime/4708"
+    },
+    "mal": {
+      "id": "6772",
+      "url": "https://myanimelist.net/anime/6772"
+    }
+  }
+}

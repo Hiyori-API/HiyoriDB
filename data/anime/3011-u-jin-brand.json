@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3011,
+  "slug": "u-jin-brand",
+  "kind": "anime",
+  "title": "U-Jin Brand",
+  "titles": {
+    "default": "U-Jin Brand",
+    "romaji": "U-Jin Brand",
+    "english": "Tales of Seduction",
+    "native": "遊人ブランド"
+  },
+  "synonyms": [
+    "U-Jin Brand",
+    "Tales of Seduction",
+    "遊人ブランド",
+    "Burn Up!",
+    "バーンナップ",
+    "Burn Up"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3565.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3565",
+      "url": "https://anilist.co/anime/3565"
+    },
+    "k": {
+      "id": "689",
+      "url": "https://kitsu.io/anime/689"
+    },
+    "mal": {
+      "id": "3565",
+      "url": "https://myanimelist.net/anime/3565"
+    }
+  }
+}

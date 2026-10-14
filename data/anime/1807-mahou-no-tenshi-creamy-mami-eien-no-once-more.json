@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1807,
+  "slug": "mahou-no-tenshi-creamy-mami-eien-no-once-more",
+  "kind": "anime",
+  "title": "Mahou no Tenshi Creamy Mami: Eien no Once More",
+  "titles": {
+    "default": "Mahou no Tenshi Creamy Mami: Eien no Once More",
+    "romaji": "Mahou no Tenshi Creamy Mami: Eien no Once More",
+    "english": "Creamy Mami: Forever Once More",
+    "native": "魔法の天使クリィミーマミ　永遠のワンスモア"
+  },
+  "synonyms": [
+    "Mahou no Tenshi Creamy Mami: Eien no Once More",
+    "Creamy Mami: Forever Once More",
+    "魔法の天使クリィミーマミ　永遠のワンスモア",
+    "Magical Angel Creamy Mami OVA",
+    "Magical Angel Creamy Mami: Forever Once More"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1984,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2045-PtVJSB3ALEJb.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2045",
+      "url": "https://anilist.co/anime/2045"
+    },
+    "k": {
+      "id": "1844",
+      "url": "https://kitsu.io/anime/1844"
+    },
+    "mal": {
+      "id": "2045",
+      "url": "https://myanimelist.net/anime/2045"
+    }
+  }
+}

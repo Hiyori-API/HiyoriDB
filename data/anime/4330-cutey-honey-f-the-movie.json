@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4330,
+  "slug": "cutey-honey-f-the-movie",
+  "kind": "anime",
+  "title": "Cutey Honey F: The Movie",
+  "titles": {
+    "default": "Cutey Honey F: The Movie",
+    "romaji": "Cutey Honey F: The Movie",
+    "native": "劇場版キューティーハニーＦ"
+  },
+  "synonyms": [
+    "Cutey Honey F: The Movie",
+    "劇場版キューティーハニーＦ",
+    "Cutie Honey Flash: The Movie",
+    "Cutey Honey Flash (1997)",
+    "Cutey Honey F (1997)",
+    "キューティーハニーＦ（ﾌﾗｯｼｭ）",
+    "Slayers Movie 3",
+    "Slayers Great",
+    "スレーヤーズぐれえと"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6496-qpdzeviSAVI9.png"
+  ],
+  "references": {
+    "al": {
+      "id": "6496",
+      "url": "https://anilist.co/anime/6496"
+    },
+    "k": {
+      "id": "769",
+      "url": "https://kitsu.io/anime/769"
+    },
+    "mal": {
+      "id": "6496",
+      "url": "https://myanimelist.net/anime/6496"
+    }
+  }
+}

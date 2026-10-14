@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2309,
+  "slug": "digimon-savers-the-movie-kyuukyoku-power-burst-mode-hatsudou",
+  "kind": "anime",
+  "title": "Digimon Savers THE MOVIE: Kyuukyoku Power! Burst Mode Hatsudou!!",
+  "titles": {
+    "default": "Digimon Savers THE MOVIE: Kyuukyoku Power! Burst Mode Hatsudou!!",
+    "romaji": "Digimon Savers THE MOVIE: Kyuukyoku Power! Burst Mode Hatsudou!!",
+    "native": "デジモンセイバーズ THE MOVIE 究極パワー！バーストモード発動！！"
+  },
+  "synonyms": [
+    "Digimon Savers THE MOVIE: Kyuukyoku Power! Burst Mode Hatsudou!!",
+    "デジモンセイバーズ THE MOVIE 究極パワー！バーストモード発動！！",
+    "Digimon Savers the Movie: Ultimate Power! Activate Burst Mode!!",
+    "Digimon Savers the Movie: Kyuukyoku Power! Burst Mode Hatsudou!!"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2606-kQgW0BdfRUbP.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2606",
+      "url": "https://anilist.co/anime/2606"
+    },
+    "k": {
+      "id": "2370",
+      "url": "https://kitsu.io/anime/2370"
+    },
+    "mal": {
+      "id": "2606",
+      "url": "https://myanimelist.net/anime/2606"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6365,
+  "slug": "seitokai-yakuindomo-ova",
+  "kind": "anime",
+  "title": "Seitokai Yakuindomo OVA",
+  "titles": {
+    "default": "Seitokai Yakuindomo OVA",
+    "romaji": "Seitokai Yakuindomo OVA",
+    "native": "生徒会役員共 OVA"
+  },
+  "synonyms": [
+    "Seitokai Yakuindomo OVA",
+    "生徒会役員共 OVA",
+    "Seitokai Yakuindomo (2011)",
+    "Seitokai Yakuindomo (2012)",
+    "生徒会役員共 OAD",
+    "Seitokai Yakuindomo OAD",
+    "SYD OVA",
+    "SYD OAD"
+  ],
+  "type": "ova",
+  "episodes": 8,
+  "status": "finished",
+  "season": "spring",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10119.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10119",
+      "url": "https://anilist.co/anime/10119"
+    },
+    "k": {
+      "id": "6046",
+      "url": "https://kitsu.io/anime/6046"
+    },
+    "mal": {
+      "id": "10119",
+      "url": "https://myanimelist.net/anime/10119"
+    },
+    "t": {
+      "id": "36541",
+      "url": "https://trakt.tv/shows/36541"
+    }
+  }
+}

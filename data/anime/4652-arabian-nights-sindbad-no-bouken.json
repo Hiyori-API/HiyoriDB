@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4652,
+  "slug": "arabian-nights-sindbad-no-bouken",
+  "kind": "anime",
+  "title": "Arabian Nights: Sindbad no Bouken",
+  "titles": {
+    "default": "Arabian Nights: Sindbad no Bouken",
+    "romaji": "Arabian Nights: Sindbad no Bouken",
+    "english": "Arabian Nights: Sinbad's Adventures",
+    "native": "アラビアンナイト・シンドバッドの冒険"
+  },
+  "synonyms": [
+    "Arabian Nights: Sindbad no Bouken",
+    "Arabian Nights: Sinbad's Adventures",
+    "アラビアンナイト・シンドバッドの冒険",
+    "Mogura no Motoro",
+    "もぐらのモトロ",
+    "Motoro the Mole"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1962,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7786.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7786",
+      "url": "https://anilist.co/anime/7786"
+    },
+    "k": {
+      "id": "9026",
+      "url": "https://kitsu.io/anime/9026"
+    },
+    "mal": {
+      "id": "7786",
+      "url": "https://myanimelist.net/anime/7786"
+    }
+  }
+}

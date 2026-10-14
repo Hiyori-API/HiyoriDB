@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11590,
+  "slug": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iv-shin-shou-meikyuu-hen",
+  "kind": "anime",
+  "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou Meikyuu-hen",
+  "titles": {
+    "default": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou Meikyuu-hen",
+    "romaji": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou Meikyuu-hen",
+    "english": "Is It Wrong to Try to Pick Up Girls in a Dungeon? IV",
+    "native": "ダンジョンに出会いを求めるのは間違っているだろうかⅣ 新章 迷宮篇"
+  },
+  "synonyms": [
+    "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou Meikyuu-hen",
+    "Is It Wrong to Try to Pick Up Girls in a Dungeon? IV",
+    "ダンジョンに出会いを求めるのは間違っているだろうかⅣ 新章 迷宮篇",
+    "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน ภาค 4",
+    "Danmachi IV",
+    "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka 4th Season",
+    "Is It Wrong to Try to Pick Up Girls in a Dungeon? Season 4",
+    "Liệu Có Sai Lầm Khi Tìm Kiếm Cuộc Gặp Gỡ Định Mệnh Trong Hầm Ngục? IV: Chương Mới Phần Mê Cung",
+    "ダンまちⅣ",
+    "DanMachi 4th Season",
+    "Is It Wrong That I Want to Meet You in a Dungeon 4th Season",
+    "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen"
+  ],
+  "type": "tv",
+  "episodes": 11,
+  "status": "finished",
+  "season": "summer",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129196-eFVs05hMbVSm.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "129196",
+      "url": "https://anilist.co/anime/129196"
+    },
+    "cr": {
+      "id": "series/G6DQN9KGR/is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon",
+      "url": "https://www.crunchyroll.com/series/series/G6DQN9KGR/is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon"
+    },
+    "mal": {
+      "id": "47164",
+      "url": "https://myanimelist.net/anime/47164"
+    },
+    "tx": {
+      "id": "danmachi_anime",
+      "url": "https://twitter.com/danmachi_anime"
+    }
+  }
+}

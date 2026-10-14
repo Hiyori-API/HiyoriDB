@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3233,
+  "slug": "1001-nights",
+  "kind": "anime",
+  "title": "1001 Nights",
+  "titles": {
+    "default": "1001 Nights",
+    "romaji": "1001 Nights"
+  },
+  "synonyms": [
+    "1001 Nights"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3914-Dc5O4VahB8uB.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3914",
+      "url": "https://anilist.co/anime/3914"
+    },
+    "k": {
+      "id": "3345",
+      "url": "https://kitsu.io/anime/3345"
+    },
+    "mal": {
+      "id": "3914",
+      "url": "https://myanimelist.net/anime/3914"
+    }
+  }
+}

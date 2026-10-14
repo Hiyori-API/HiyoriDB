@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13366,
+  "slug": "tensui-no-sakuna-hime-kokorowa-inasaku-nisshi",
+  "kind": "anime",
+  "title": "Tensui no Sakuna-hime: Kokorowa Inasaku Nisshi",
+  "titles": {
+    "default": "Tensui no Sakuna-hime: Kokorowa Inasaku Nisshi",
+    "romaji": "Tensui no Sakuna-hime: Kokorowa Inasaku Nisshi",
+    "english": "Sakuna: Of Rice and Ruin Kokorowa Rice Cultivation Diary",
+    "native": "天穂のサクナヒメ ココロワ稲作日誌"
+  },
+  "synonyms": [
+    "Tensui no Sakuna-hime: Kokorowa Inasaku Nisshi",
+    "Sakuna: Of Rice and Ruin Kokorowa Rice Cultivation Diary",
+    "天穂のサクナヒメ ココロワ稲作日誌",
+    "Sakuna: Of Rice and Ruin (Sequel)",
+    "Sakuna: Of Rice and Ruin บันทึกการทำนาของเจ้าหญิงโคโคโรวะ",
+    "Sakuna: Of Rice and Ruin - Kokorowa's Rice-Farming Diary",
+    "Ah! My Goddess: Flights of Fancy Specials",
+    "Aa! Megami-sama!: Sorezore no Tsubasa Specials",
+    "ああっ女神さまっ　それぞれの翼",
+    "Ah! My Goddess: Sorezore no Tsubasa Specials"
+  ],
+  "type": "special",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184280-FA1sWge8Wp5b.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "184280",
+      "url": "https://anilist.co/anime/184280"
+    },
+    "cr": {
+      "id": "series/G8DHV78W7/sakuna-of-rice-and-ruin",
+      "url": "https://www.crunchyroll.com/series/series/G8DHV78W7/sakuna-of-rice-and-ruin"
+    },
+    "k": {
+      "id": "780",
+      "url": "https://kitsu.io/anime/780"
+    },
+    "mal": {
+      "id": "60294",
+      "url": "https://myanimelist.net/anime/60294"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9087,
+  "slug": "kyoukai-no-rinne-3",
+  "kind": "anime",
+  "title": "Kyoukai no Rinne 3",
+  "titles": {
+    "default": "Kyoukai no Rinne 3",
+    "romaji": "Kyoukai no Rinne 3",
+    "english": "Rin-ne 3",
+    "native": "境界のRinne 3"
+  },
+  "synonyms": [
+    "Kyoukai no Rinne 3",
+    "Rin-ne 3",
+    "境界のRinne 3",
+    "RIN-NE Season 3",
+    "境界のRINNE",
+    "Kyoukai no Rinne 3rd Season"
+  ],
+  "type": "tv",
+  "episodes": 25,
+  "status": "finished",
+  "season": "spring",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97670-OeUijqB6qWns.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "97670",
+      "url": "https://anilist.co/anime/97670"
+    },
+    "mal": {
+      "id": "34106",
+      "url": "https://myanimelist.net/anime/34106"
+    },
+    "tx": {
+      "id": "nhk_rinne",
+      "url": "https://twitter.com/nhk_rinne"
+    }
+  }
+}

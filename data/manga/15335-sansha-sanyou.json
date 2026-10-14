@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15335,
+  "slug": "sansha-sanyou",
+  "kind": "manga",
+  "title": "Sansha Sanyou",
+  "titles": {
+    "default": "Sansha Sanyou"
+  },
+  "synonyms": [
+    "Three Leaves, Three Colors",
+    "Three-person Trefoil",
+    "三者三葉",
+    "xxxHOLiC",
+    "xxxHolic Rou",
+    "xxxHolic Cage",
+    "xxxHolic•Rou"
+  ],
+  "type": "manga",
+  "chapters": 233,
+  "volumes": 14,
+  "status": "finished",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx50140-PPtx3IS9Pb2A.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21334",
+      "url": "https://anilist.co/anime/21334"
+    },
+    "al_manga": {
+      "id": "21334",
+      "url": "https://anilist.co/manga/21334"
+    }
+  }
+}

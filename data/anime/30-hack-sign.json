@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 30,
+  "slug": "hack-sign",
+  "kind": "anime",
+  "title": ".hack//SIGN",
+  "titles": {
+    "default": ".hack//SIGN",
+    "romaji": ".hack//SIGN"
+  },
+  "synonyms": [
+    ".hack//SIGN",
+    ".hack//Sign"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx48-1Jxw9YoMf8LZ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "48",
+      "url": "https://anilist.co/anime/48"
+    },
+    "cr": {
+      "id": "hacksign",
+      "url": "https://www.crunchyroll.com/series/hacksign"
+    },
+    "k": {
+      "id": "30",
+      "url": "https://kitsu.io/anime/30"
+    },
+    "mal": {
+      "id": "48",
+      "url": "https://myanimelist.net/anime/48"
+    },
+    "t": {
+      "id": "8818",
+      "url": "https://trakt.tv/shows/8818"
+    },
+    "ttv": {
+      "id": "2056",
+      "url": "https://tubitv.com/series/2056"
+    }
+  }
+}

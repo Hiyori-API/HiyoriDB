@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9247,
+  "slug": "stella-no-mahou-ova",
+  "kind": "anime",
+  "title": "Stella no Mahou OVA",
+  "titles": {
+    "default": "Stella no Mahou OVA",
+    "romaji": "Stella no Mahou OVA",
+    "native": "ステラのまほう OVA"
+  },
+  "synonyms": [
+    "Stella no Mahou OVA",
+    "ステラのまほう OVA",
+    "Magic of Stella Specials",
+    "Magic of Stella OVA",
+    "Haifuri OVA",
+    "OVA ハイスクール・フリート",
+    "High School Fleet OVA"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98548-AIyG5YYZPKqo.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98548",
+      "url": "https://anilist.co/anime/98548"
+    },
+    "mal": {
+      "id": "35522",
+      "url": "https://myanimelist.net/anime/35522"
+    },
+    "tx": {
+      "id": "magicofstella_a",
+      "url": "https://twitter.com/magicofstella_a"
+    }
+  }
+}

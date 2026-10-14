@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8207,
+  "slug": "wakaba-girl",
+  "kind": "anime",
+  "title": "Wakaba＊Girl",
+  "titles": {
+    "default": "Wakaba＊Girl",
+    "romaji": "Wakaba＊Girl",
+    "native": "わかば＊ガール"
+  },
+  "synonyms": [
+    "Wakaba＊Girl",
+    "わかば＊ガール",
+    "Wagnaria!!3",
+    "Working!!!",
+    "ワーキング!!!",
+    "Working!! 3rd Season",
+    "Working!! Third Season"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21108-r7PSLxC9jil8.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21108",
+      "url": "https://anilist.co/anime/21108"
+    },
+    "cr": {
+      "id": "wakabagirl",
+      "url": "https://www.crunchyroll.com/series/wakabagirl"
+    },
+    "k": {
+      "id": "8712",
+      "url": "https://kitsu.io/anime/8712"
+    },
+    "mal": {
+      "id": "30355",
+      "url": "https://myanimelist.net/anime/30355"
+    },
+    "t": {
+      "id": "61012",
+      "url": "https://trakt.tv/shows/61012"
+    },
+    "tx": {
+      "id": "wakaba_anime",
+      "url": "https://twitter.com/wakaba_anime"
+    }
+  }
+}

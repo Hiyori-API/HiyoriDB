@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 146,
+  "slug": "scrapped-princess",
+  "kind": "anime",
+  "title": "Scrapped Princess",
+  "titles": {
+    "default": "Scrapped Princess",
+    "romaji": "Scrapped Princess",
+    "native": "スクラップド・プリンセス"
+  },
+  "synonyms": [
+    "Scrapped Princess",
+    "スクラップド・プリンセス",
+    "Haiki Oujo"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "spring",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b167-qwMN7Wmlen5s.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "167",
+      "url": "https://anilist.co/anime/167"
+    },
+    "cr": {
+      "id": "scrapped-princess",
+      "url": "https://www.crunchyroll.com/series/scrapped-princess"
+    },
+    "k": {
+      "id": "145",
+      "url": "https://kitsu.io/anime/145"
+    },
+    "mal": {
+      "id": "167",
+      "url": "https://myanimelist.net/anime/167"
+    },
+    "t": {
+      "id": "45292",
+      "url": "https://trakt.tv/shows/45292"
+    }
+  }
+}

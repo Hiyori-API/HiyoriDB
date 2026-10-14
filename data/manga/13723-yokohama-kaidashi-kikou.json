@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13723,
+  "slug": "yokohama-kaidashi-kikou",
+  "kind": "manga",
+  "title": "Yokohama Kaidashi Kikou",
+  "titles": {
+    "default": "Yokohama Kaidashi Kikou"
+  },
+  "synonyms": [
+    "Yokohama Shopping Log",
+    "Yokohama Shopping Trip",
+    "Touge",
+    "Quiet Country Cafe",
+    "YKK",
+    "Escale à Yokohama",
+    "Путевые заметки о поездке за покупками в Йокогаму",
+    "Поездка за покупками в Иокогаму",
+    "Yokohama Kaidashi Kikou",
+    "ヨコハマ買い出し紀行"
+  ],
+  "type": "manga",
+  "chapters": 144,
+  "volumes": 14,
+  "status": "finished",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30004-k0YUnO94IB4x.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "976",
+      "url": "https://anilist.co/anime/975"
+    },
+    "al_manga": {
+      "id": "976",
+      "url": "https://anilist.co/manga/976"
+    }
+  }
+}

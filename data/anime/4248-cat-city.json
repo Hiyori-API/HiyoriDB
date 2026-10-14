@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4248,
+  "slug": "cat-city",
+  "kind": "anime",
+  "title": "Cat City",
+  "titles": {
+    "default": "Cat City",
+    "romaji": "Cat City",
+    "native": "猫町"
+  },
+  "synonyms": [
+    "Cat City",
+    "猫町",
+    "Neko Machi",
+    "Sky Girls OVA",
+    "スカイガールズ"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6270.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6270",
+      "url": "https://anilist.co/anime/6270"
+    },
+    "k": {
+      "id": "1326",
+      "url": "https://kitsu.io/anime/1326"
+    },
+    "mal": {
+      "id": "6270",
+      "url": "https://myanimelist.net/anime/6270"
+    }
+  }
+}

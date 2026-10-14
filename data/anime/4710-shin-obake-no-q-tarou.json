@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4710,
+  "slug": "shin-obake-no-q-tarou",
+  "kind": "anime",
+  "title": "Shin Obake no Q-tarou",
+  "titles": {
+    "default": "Shin Obake no Q-tarou",
+    "romaji": "Shin Obake no Q-tarou",
+    "native": "新オバケのＱ太郎"
+  },
+  "synonyms": [
+    "Shin Obake no Q-tarou",
+    "新オバケのＱ太郎",
+    "Obake no Q-taro (1971)",
+    "Shin Obake no Q-taro"
+  ],
+  "type": "tv",
+  "episodes": 70,
+  "status": "finished",
+  "season": "fall",
+  "year": 1971,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7980.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7980",
+      "url": "https://anilist.co/anime/7980"
+    },
+    "k": {
+      "id": "5167",
+      "url": "https://kitsu.io/anime/5167"
+    },
+    "mal": {
+      "id": "7980",
+      "url": "https://myanimelist.net/anime/7980"
+    }
+  }
+}

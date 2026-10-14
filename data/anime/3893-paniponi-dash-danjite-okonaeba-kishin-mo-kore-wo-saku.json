@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3893,
+  "slug": "paniponi-dash-danjite-okonaeba-kishin-mo-kore-wo-saku",
+  "kind": "anime",
+  "title": "Paniponi Dash!: Danjite Okonaeba Kishin mo Kore wo Saku",
+  "titles": {
+    "default": "Paniponi Dash!: Danjite Okonaeba Kishin mo Kore wo Saku",
+    "romaji": "Paniponi Dash!: Danjite Okonaeba Kishin mo Kore wo Saku",
+    "english": "Pani Poni Dash!: Danjite Okonaeba Kishin mo Kore wo Saku",
+    "native": "ぱにぽにだっしゅ！ 断じて行えば鬼神もこれを避く"
+  },
+  "synonyms": [
+    "Paniponi Dash!: Danjite Okonaeba Kishin mo Kore wo Saku",
+    "Pani Poni Dash!: Danjite Okonaeba Kishin mo Kore wo Saku",
+    "ぱにぽにだっしゅ！ 断じて行えば鬼神もこれを避く",
+    "Toradora! Recap",
+    "とらドラ・ポータブル!",
+    "Toradora! Portable",
+    "Toradora! OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5419.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5419",
+      "url": "https://anilist.co/anime/5419"
+    },
+    "k": {
+      "id": "8621",
+      "url": "https://kitsu.io/anime/8621"
+    },
+    "mal": {
+      "id": "5419",
+      "url": "https://myanimelist.net/anime/5419"
+    }
+  }
+}

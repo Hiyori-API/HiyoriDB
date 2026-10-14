@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3902,
+  "slug": "chibi-kero-kerobouru-no-himitsu",
+  "kind": "anime",
+  "title": "Chibi Kero: Kerobouru no Himitsu!?",
+  "titles": {
+    "default": "Chibi Kero: Kerobouru no Himitsu!?",
+    "romaji": "Chibi Kero: Kerobouru no Himitsu!?",
+    "english": "Chibi Kero: Secret of the Kero Ball!?",
+    "native": "ちびケロ ケロボールの秘密!?"
+  },
+  "synonyms": [
+    "Chibi Kero: Kerobouru no Himitsu!?",
+    "Chibi Kero: Secret of the Kero Ball!?",
+    "ちびケロ ケロボールの秘密!?",
+    "Emma: A Victorian Romance - Intermission",
+    "Eikoku Koi Monogatari Emma: Intermission",
+    "英國戀物語エマ"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5449.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5449",
+      "url": "https://anilist.co/anime/5449"
+    },
+    "k": {
+      "id": "2283",
+      "url": "https://kitsu.io/anime/2283"
+    },
+    "mal": {
+      "id": "5449",
+      "url": "https://myanimelist.net/anime/5449"
+    }
+  }
+}

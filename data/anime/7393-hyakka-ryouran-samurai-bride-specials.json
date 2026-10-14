@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7393,
+  "slug": "hyakka-ryouran-samurai-bride-specials",
+  "kind": "anime",
+  "title": "Hyakka Ryouran: Samurai Bride Specials",
+  "titles": {
+    "default": "Hyakka Ryouran: Samurai Bride Specials",
+    "romaji": "Hyakka Ryouran: Samurai Bride Specials",
+    "english": "Samurai Bride Specials",
+    "native": "百花繚乱 サムライブライド"
+  },
+  "synonyms": [
+    "Hyakka Ryouran: Samurai Bride Specials",
+    "Samurai Bride Specials",
+    "百花繚乱 サムライブライド"
+  ],
+  "type": "special",
+  "episodes": 6,
+  "status": "finished",
+  "season": "summer",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19255.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "19255",
+      "url": "https://anilist.co/anime/19255"
+    },
+    "k": {
+      "id": "7917",
+      "url": "https://kitsu.io/anime/7917"
+    },
+    "mal": {
+      "id": "19255",
+      "url": "https://myanimelist.net/anime/19255"
+    }
+  }
+}

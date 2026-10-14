@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14615,
+  "slug": "okama-hakusho",
+  "kind": "manga",
+  "title": "Okama Hakusho",
+  "titles": {
+    "default": "Okama Hakusho"
+  },
+  "synonyms": [
+    "Okama Report",
+    "おカマ白書",
+    "Four Steps to Romance",
+    "Romance Godan Katsuyou",
+    "ろまんす五段活用",
+    "Romantic Princess"
+  ],
+  "type": "manga",
+  "chapters": 61,
+  "volumes": 5,
+  "status": "finished",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx36292-CKmP0l5xnnSx.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10353",
+      "url": "https://anilist.co/anime/10353"
+    },
+    "al_manga": {
+      "id": "10353",
+      "url": "https://anilist.co/manga/10353"
+    }
+  }
+}

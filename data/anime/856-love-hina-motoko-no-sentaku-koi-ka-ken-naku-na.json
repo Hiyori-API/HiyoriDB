@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 856,
+  "slug": "love-hina-motoko-no-sentaku-koi-ka-ken-naku-na",
+  "kind": "anime",
+  "title": "Love Hina: Motoko no Sentaku, Koi ka Ken... Naku na",
+  "titles": {
+    "default": "Love Hina: Motoko no Sentaku, Koi ka Ken... Naku na",
+    "romaji": "Love Hina: Motoko no Sentaku, Koi ka Ken... Naku na",
+    "english": "Love Hina: Motoko's Choice, Love or the Sword: Don't Cry",
+    "native": "ラブひな 素子のセンタク、恋か剣... 泣くな"
+  },
+  "synonyms": [
+    "Love Hina: Motoko no Sentaku, Koi ka Ken... Naku na",
+    "Love Hina: Motoko's Choice, Love or the Sword: Don't Cry",
+    "ラブひな 素子のセンタク、恋か剣... 泣くな",
+    "Mokoto no Sentaku Koikaken",
+    "Love Hina Christmas Movie",
+    "Love Hina Christmas Special: Silent Eve",
+    "ラブひなクリスマススペシャル ～サイレント・イヴ～"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx963-SYYLzJFKc3Hb.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "963",
+      "url": "https://anilist.co/anime/963"
+    },
+    "k": {
+      "id": "168",
+      "url": "https://kitsu.io/anime/168"
+    },
+    "mal": {
+      "id": "963",
+      "url": "https://myanimelist.net/anime/963"
+    }
+  }
+}

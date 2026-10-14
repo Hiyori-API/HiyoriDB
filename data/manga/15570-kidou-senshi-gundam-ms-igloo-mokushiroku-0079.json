@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15570,
+  "slug": "kidou-senshi-gundam-ms-igloo-mokushiroku-0079",
+  "kind": "manga",
+  "title": "Kidou Senshi Gundam MS IGLOO: Mokushiroku 0079",
+  "titles": {
+    "default": "Kidou Senshi Gundam MS IGLOO: Mokushiroku 0079"
+  },
+  "synonyms": [
+    "Mobile Suit Gundam MS IGLOO: Apocalypse 0079",
+    "機動戦士ガンダム MS IGLOO 黙示録0079",
+    "The Pain in My Heart",
+    "Boku no Mune ga Itakutemo - Glass",
+    "ぼくの胸が痛くても GLASS"
+  ],
+  "type": "manga",
+  "chapters": 7,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx147349-gxbQhudKD6lx.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1916",
+      "url": "https://anilist.co/anime/1916"
+    },
+    "al_manga": {
+      "id": "1916",
+      "url": "https://anilist.co/manga/1916"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7057,
+  "slug": "inazuma-eleven-go-tcg-cm-ng-shuu",
+  "kind": "anime",
+  "title": "Inazuma Eleven GO: TCG CM NG-shuu",
+  "titles": {
+    "default": "Inazuma Eleven GO: TCG CM NG-shuu",
+    "romaji": "Inazuma Eleven GO: TCG CM NG-shuu",
+    "native": "イナズマイレブンGO TCG CM NG集"
+  },
+  "synonyms": [
+    "Inazuma Eleven GO: TCG CM NG-shuu",
+    "イナズマイレブンGO TCG CM NG集",
+    "Inazuma Eleven Go: Trading Card Game CM NG-shuu",
+    "Inazuma Eleven Go: TCG CM NG-shuu"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16964.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "16964",
+      "url": "https://anilist.co/anime/16964"
+    },
+    "k": {
+      "id": "7559",
+      "url": "https://kitsu.io/anime/7559"
+    },
+    "mal": {
+      "id": "16964",
+      "url": "https://myanimelist.net/anime/16964"
+    }
+  }
+}

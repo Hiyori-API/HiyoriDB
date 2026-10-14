@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1839,
+  "slug": "kindaichi-shounen-no-jikenbo",
+  "kind": "anime",
+  "title": "Kindaichi Shounen no Jikenbo",
+  "titles": {
+    "default": "Kindaichi Shounen no Jikenbo",
+    "romaji": "Kindaichi Shounen no Jikenbo",
+    "native": "金田一少年の事件簿"
+  },
+  "synonyms": [
+    "Kindaichi Shounen no Jikenbo",
+    "金田一少年の事件簿",
+    "The Cases of Young Kindaichi",
+    "The Case Files of Young Kindaichi Movie",
+    "Kindaichi Shounen no Jikenbo Movie 1: Operazakan - Aratanaru Satsujin",
+    "金田一少年の事件簿・オペラ座館・新たなる殺人",
+    "Kindaichi Shounen no Jikenbo: Operazakan - Aratanaru Satsujin"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2077-iV5QdgLAsyLu.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2077",
+      "url": "https://anilist.co/anime/2077"
+    },
+    "k": {
+      "id": "1876",
+      "url": "https://kitsu.io/anime/1876"
+    },
+    "mal": {
+      "id": "2077",
+      "url": "https://myanimelist.net/anime/2077"
+    }
+  }
+}

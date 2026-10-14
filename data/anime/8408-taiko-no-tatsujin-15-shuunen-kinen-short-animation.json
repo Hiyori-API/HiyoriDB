@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8408,
+  "slug": "taiko-no-tatsujin-15-shuunen-kinen-short-animation",
+  "kind": "anime",
+  "title": "Taiko no Tatsujin: 15 Shuunen Kinen Short Animation",
+  "titles": {
+    "default": "Taiko no Tatsujin: 15 Shuunen Kinen Short Animation",
+    "romaji": "Taiko no Tatsujin: 15 Shuunen Kinen Short Animation",
+    "native": "太鼓の達人15周年記念ショートアニメーション"
+  },
+  "synonyms": [
+    "Taiko no Tatsujin: 15 Shuunen Kinen Short Animation",
+    "太鼓の達人15周年記念ショートアニメーション",
+    "Taiko: Drum Master",
+    "Taiko no Tatsujin: Juugo Shuunenkinen Short Animation",
+    "Gatchaman Crowds 2nd Season: Episode 0",
+    "Gatchaman Crowds Second Season: Episode 0",
+    "Gatchaman Crowds Insight: #0 Inbound",
+    "GATCHAMAN CROWDS insight（インサイト）「#0 inbound」",
+    "Gatchaman Crowds Insight: Inbound"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx99217-KFlY8ZdhTOvV.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "99217",
+      "url": "https://anilist.co/anime/99217"
+    },
+    "mal": {
+      "id": "31102",
+      "url": "https://myanimelist.net/anime/31102"
+    }
+  }
+}

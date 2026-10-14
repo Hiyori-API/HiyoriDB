@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15861,
+  "slug": "makai-ouji-devils-and-realist",
+  "kind": "manga",
+  "title": "Makai Ouji: devils and realist",
+  "titles": {
+    "default": "Makai Ouji: devils and realist"
+  },
+  "synonyms": [
+    "Hell Prince - Devils and Realist",
+    "Książę Piekieł: Devils and Realist",
+    "Devils and Realist",
+    "魔界王子 devils and realist",
+    "Simple Knot Loafers",
+    "シンプルノットローファー",
+    "Shinpuru Notto Rofa",
+    "Shinpuru Notto Roofaa",
+    "Simple Not Loafer"
+  ],
+  "type": "manga",
+  "chapters": 96,
+  "volumes": 15,
+  "status": "finished",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/17200.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "16890",
+      "url": "https://anilist.co/anime/16890"
+    },
+    "al_manga": {
+      "id": "16890",
+      "url": "https://anilist.co/manga/16890"
+    }
+  }
+}

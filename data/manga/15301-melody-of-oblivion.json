@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15301,
+  "slug": "melody-of-oblivion",
+  "kind": "manga",
+  "title": "Melody of Oblivion",
+  "titles": {
+    "default": "Melody of Oblivion"
+  },
+  "synonyms": [
+    "Boukyaku no Senritsu",
+    "忘却の旋律",
+    "Fujisan",
+    "富士山",
+    "Fuji-san"
+  ],
+  "type": "manga",
+  "chapters": 32,
+  "volumes": 6,
+  "status": "finished",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b74881-WXtfl87W8roS.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "159",
+      "url": "https://anilist.co/anime/159"
+    },
+    "al_manga": {
+      "id": "159",
+      "url": "https://anilist.co/manga/159"
+    }
+  }
+}

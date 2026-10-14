@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9078,
+  "slug": "akiba-s-trip-the-animation",
+  "kind": "anime",
+  "title": "Akiba's Trip: The Animation",
+  "titles": {
+    "default": "Akiba's Trip: The Animation",
+    "romaji": "Akiba's Trip: The Animation",
+    "english": "Akiba's Trip the Animation",
+    "native": "Akiba's Trip -The Animation-"
+  },
+  "synonyms": [
+    "Akiba's Trip: The Animation",
+    "Akiba's Trip the Animation",
+    "Akiba's Trip -The Animation-",
+    "The maid dragon of Kobayashi-san",
+    "Miss Kobayashi's Dragon Maid",
+    "小林さんちのメイドラゴン",
+    "Kobayashi-san Chi no Maid Dragon"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97636-djUnzyfgszUa.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "97636",
+      "url": "https://anilist.co/anime/97636"
+    },
+    "cr": {
+      "id": "akibas-trip-the-animation",
+      "url": "https://www.crunchyroll.com/series/akibas-trip-the-animation"
+    },
+    "mal": {
+      "id": "34051",
+      "url": "https://myanimelist.net/anime/34051"
+    },
+    "tx": {
+      "id": "akibastripanime",
+      "url": "https://twitter.com/akibastripanime"
+    }
+  }
+}

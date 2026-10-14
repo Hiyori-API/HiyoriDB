@@ -1,0 +1,61 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11216,
+  "slug": "horimiya",
+  "kind": "anime",
+  "title": "Horimiya",
+  "titles": {
+    "default": "Horimiya",
+    "romaji": "Horimiya",
+    "native": "ホリミヤ"
+  },
+  "synonyms": [
+    "Horimiya",
+    "ホリミヤ",
+    "堀与宫村",
+    "โฮริมิยะ สาวมั่นกับนายมืดมน",
+    "Хоримия",
+    "El Hazard: The Alternative World",
+    "異次元の世界エルハザード",
+    "Ijigen no Sekai El Hazard",
+    "Ijigen no Sekai El-Hazard"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124080-3i22mRVPBS0T.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "124080",
+      "url": "https://anilist.co/anime/124080"
+    },
+    "cr": {
+      "id": "horimiya",
+      "url": "https://www.crunchyroll.com/series/horimiya"
+    },
+    "k": {
+      "id": "94",
+      "url": "https://kitsu.io/anime/94"
+    },
+    "mal": {
+      "id": "42897",
+      "url": "https://myanimelist.net/anime/42897"
+    },
+    "nf": {
+      "id": "81020819",
+      "url": "https://www.netflix.com/title/81020819"
+    },
+    "t": {
+      "id": "63711",
+      "url": "https://trakt.tv/shows/63711"
+    },
+    "tx": {
+      "id": "horimiya_anime",
+      "url": "https://twitter.com/horimiya_anime"
+    }
+  }
+}

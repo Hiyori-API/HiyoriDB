@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2937,
+  "slug": "minky-momo-in-yume-ni-kakeru-hashi",
+  "kind": "anime",
+  "title": "MINKY MOMO in Yume ni Kakeru Hashi",
+  "titles": {
+    "default": "MINKY MOMO in Yume ni Kakeru Hashi",
+    "romaji": "MINKY MOMO in Yume ni Kakeru Hashi",
+    "native": "MINKY MOMO in 夢にかける橋"
+  },
+  "synonyms": [
+    "MINKY MOMO in Yume ni Kakeru Hashi",
+    "MINKY MOMO in 夢にかける橋",
+    "Minky Momo in The Bridge Over Dreams",
+    "Minky Momo in the Bridge Over Dreams",
+    "Minky Momo in Yume ni Kakeru Hashi",
+    "ＭＩＮＫＹ　ＭＯＭＯ　ｉｎ　夢にかける橋"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx3462-4xLkDwIwm6NJ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3462",
+      "url": "https://anilist.co/anime/3462"
+    },
+    "k": {
+      "id": "3027",
+      "url": "https://kitsu.io/anime/3027"
+    },
+    "mal": {
+      "id": "3462",
+      "url": "https://myanimelist.net/anime/3462"
+    }
+  }
+}

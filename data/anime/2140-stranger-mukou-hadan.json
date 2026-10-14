@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2140,
+  "slug": "stranger-mukou-hadan",
+  "kind": "anime",
+  "title": "Stranger: Mukou Hadan",
+  "titles": {
+    "default": "Stranger: Mukou Hadan",
+    "romaji": "Stranger: Mukou Hadan",
+    "english": "Sword of the Stranger",
+    "native": "ストレンヂア -無皇刃譚-"
+  },
+  "synonyms": [
+    "Stranger: Mukou Hadan",
+    "Sword of the Stranger",
+    "ストレンヂア -無皇刃譚-",
+    "Stranger: Mukoh Hadan",
+    "Sparkling Red Star",
+    "Hong Xing Xiao Yong Shi",
+    "闪闪的红星"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx2418-AoLtfG2da5yo.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2418",
+      "url": "https://anilist.co/anime/2418"
+    },
+    "cr": {
+      "id": "sword-of-the-stranger",
+      "url": "https://www.crunchyroll.com/series/sword-of-the-stranger"
+    },
+    "k": {
+      "id": "4446",
+      "url": "https://kitsu.io/anime/4446"
+    },
+    "mal": {
+      "id": "2418",
+      "url": "https://myanimelist.net/anime/2418"
+    }
+  }
+}

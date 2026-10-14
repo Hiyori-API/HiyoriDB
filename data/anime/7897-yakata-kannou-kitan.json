@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7897,
+  "slug": "yakata-kannou-kitan",
+  "kind": "anime",
+  "title": "Yakata: Kannou Kitan",
+  "titles": {
+    "default": "Yakata: Kannou Kitan",
+    "romaji": "Yakata: Kannou Kitan",
+    "native": "館 ~官能奇譚~"
+  },
+  "synonyms": [
+    "Yakata: Kannou Kitan",
+    "館 ~官能奇譚~",
+    "Attack on Titan: No Regrets",
+    "Shingeki no Kyojin: Kuinaki Sentaku",
+    "進撃の巨人 悔いなき選択",
+    "Shingeki no Kyojin: Birth of Levi"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21522-nDpsGktIO1Ww.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21522",
+      "url": "https://anilist.co/anime/21522"
+    },
+    "cr": {
+      "id": "attack-on-titan",
+      "url": "https://www.crunchyroll.com/series/attack-on-titan"
+    },
+    "k": {
+      "id": "8674",
+      "url": "https://kitsu.io/anime/8674"
+    },
+    "mal": {
+      "id": "27363",
+      "url": "https://myanimelist.net/anime/27363"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3705,
+  "slug": "sango-shou-densetsu-aoi-umi-no-elfie",
+  "kind": "anime",
+  "title": "Sango-shou Densetsu: Aoi Umi no Elfie",
+  "titles": {
+    "default": "Sango-shou Densetsu: Aoi Umi no Elfie",
+    "romaji": "Sango-shou Densetsu: Aoi Umi no Elfie",
+    "native": "サンゴ礁伝説 青い海のエルフィ"
+  },
+  "synonyms": [
+    "Sango-shou Densetsu: Aoi Umi no Elfie",
+    "サンゴ礁伝説 青い海のエルフィ",
+    "Coral Reef Legend: Elfie of the Blue Sea",
+    "Elfie, A Salvadora do Planeta",
+    "Elfie",
+    "Doraemon: It's Autumn!",
+    "秋だ！一番ドラえもん祭り",
+    "Aki da! Ichiban Doraemon Matsuri"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5014-TZr7eHldYChr.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5014",
+      "url": "https://anilist.co/anime/5014"
+    },
+    "k": {
+      "id": "2401",
+      "url": "https://kitsu.io/anime/2401"
+    },
+    "mal": {
+      "id": "5014",
+      "url": "https://myanimelist.net/anime/5014"
+    }
+  }
+}

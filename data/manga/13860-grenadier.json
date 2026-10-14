@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13860,
+  "slug": "grenadier",
+  "kind": "manga",
+  "title": "Grenadier",
+  "titles": {
+    "default": "Grenadier"
+  },
+  "synonyms": [
+    "Grenadier",
+    "グレネーダー"
+  ],
+  "type": "manga",
+  "chapters": 36,
+  "volumes": 7,
+  "status": "finished",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30328-mW0JwrBAT6Ou.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "297",
+      "url": "https://anilist.co/anime/297"
+    },
+    "al_manga": {
+      "id": "297",
+      "url": "https://anilist.co/manga/297"
+    }
+  }
+}

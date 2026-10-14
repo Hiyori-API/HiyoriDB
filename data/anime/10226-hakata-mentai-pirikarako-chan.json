@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10226,
+  "slug": "hakata-mentai-pirikarako-chan",
+  "kind": "anime",
+  "title": "Hakata Mentai! Pirikarako-chan",
+  "titles": {
+    "default": "Hakata Mentai! Pirikarako-chan",
+    "romaji": "Hakata Mentai! Pirikarako-chan",
+    "native": "博多明太！ぴりからこちゃん"
+  },
+  "synonyms": [
+    "Hakata Mentai! Pirikarako-chan",
+    "博多明太！ぴりからこちゃん",
+    "DearS",
+    "ディアーズ"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109929-1EGzum7tyfwv.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "109929",
+      "url": "https://anilist.co/anime/109929"
+    },
+    "cr": {
+      "id": "hakata-mentai-pirikarako-chan",
+      "url": "https://www.crunchyroll.com/series/hakata-mentai-pirikarako-chan"
+    },
+    "k": {
+      "id": "44",
+      "url": "https://kitsu.io/anime/44"
+    },
+    "mal": {
+      "id": "39620",
+      "url": "https://myanimelist.net/anime/39620"
+    },
+    "t": {
+      "id": "61051",
+      "url": "https://trakt.tv/shows/61051"
+    }
+  }
+}

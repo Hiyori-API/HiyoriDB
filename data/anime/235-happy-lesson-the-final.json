@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 235,
+  "slug": "happy-lesson-the-final",
+  "kind": "anime",
+  "title": "HAPPY☆LESSON: THE FINAL",
+  "titles": {
+    "default": "HAPPY☆LESSON: THE FINAL",
+    "romaji": "HAPPY☆LESSON: THE FINAL",
+    "native": "HAPPY☆LESSON THE FINAL"
+  },
+  "synonyms": [
+    "HAPPY☆LESSON: THE FINAL",
+    "HAPPY☆LESSON THE FINAL",
+    "Happy☆Lesson: The Final",
+    "Happy Lesson: The Final"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "spring",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/262.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "262",
+      "url": "https://anilist.co/anime/262"
+    },
+    "k": {
+      "id": "237",
+      "url": "https://kitsu.io/anime/237"
+    },
+    "mal": {
+      "id": "262",
+      "url": "https://myanimelist.net/anime/262"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2054,
+  "slug": "angel-blade-punish",
+  "kind": "anime",
+  "title": "Angel Blade Punish!",
+  "titles": {
+    "default": "Angel Blade Punish!",
+    "romaji": "Angel Blade Punish!",
+    "native": "エンジェルブレイドパニッシュ！"
+  },
+  "synonyms": [
+    "Angel Blade Punish!",
+    "エンジェルブレイドパニッシュ！",
+    "Interlude",
+    "インタールード"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "winter",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2325.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2325",
+      "url": "https://anilist.co/anime/2325"
+    },
+    "cr": {
+      "id": "interlude",
+      "url": "https://www.crunchyroll.com/series/interlude"
+    },
+    "k": {
+      "id": "970",
+      "url": "https://kitsu.io/anime/970"
+    },
+    "mal": {
+      "id": "2325",
+      "url": "https://myanimelist.net/anime/2325"
+    }
+  }
+}

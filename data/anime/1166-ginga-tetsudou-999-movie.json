@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1166,
+  "slug": "ginga-tetsudou-999-movie",
+  "kind": "anime",
+  "title": "Ginga Tetsudou 999 (Movie)",
+  "titles": {
+    "default": "Ginga Tetsudou 999 (Movie)",
+    "romaji": "Ginga Tetsudou 999 (Movie)",
+    "english": "Galaxy Express 999 (Movie)",
+    "native": "銀河鉄道999"
+  },
+  "synonyms": [
+    "Ginga Tetsudou 999 (Movie)",
+    "Galaxy Express 999 (Movie)",
+    "銀河鉄道999",
+    "Ginga Tetsudo 999",
+    "Galaxy Express 999 Movie",
+    "Galaxy Express 999, Le Film",
+    "Gekijouban Ginga Tetsudou 999",
+    "Galaxy Express 999",
+    "銀河鉄道９９９"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1979,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n1301-YfZglLu0QuaZ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1301",
+      "url": "https://anilist.co/anime/1301"
+    },
+    "k": {
+      "id": "1173",
+      "url": "https://kitsu.io/anime/1173"
+    },
+    "mal": {
+      "id": "1301",
+      "url": "https://myanimelist.net/anime/1301"
+    }
+  }
+}

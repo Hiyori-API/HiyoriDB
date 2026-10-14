@@ -1,0 +1,60 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11234,
+  "slug": "shadows-house",
+  "kind": "anime",
+  "title": "Shadows House",
+  "titles": {
+    "default": "Shadows House",
+    "romaji": "Shadows House",
+    "english": "SHADOWS HOUSE",
+    "native": "シャドーハウス"
+  },
+  "synonyms": [
+    "Shadows House",
+    "SHADOWS HOUSE",
+    "シャドーハウス",
+    "Shadow House",
+    "影之宅",
+    "影宅",
+    "Dinh Thự Bóng",
+    "Prétear: The New Legend of Snow White",
+    "Shin Shirayuki-hime Densetsu Prétear",
+    "新白雪姫伝説プリーティア",
+    "Shin Shirayuki-hime Densetsu Pretear"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx125038-BCfEvry0QBXW.png"
+  ],
+  "references": {
+    "al": {
+      "id": "125038",
+      "url": "https://anilist.co/anime/125038"
+    },
+    "cr": {
+      "id": "shadows-house",
+      "url": "https://www.crunchyroll.com/series/shadows-house"
+    },
+    "k": {
+      "id": "79",
+      "url": "https://kitsu.io/anime/79"
+    },
+    "mal": {
+      "id": "43439",
+      "url": "https://myanimelist.net/anime/43439"
+    },
+    "t": {
+      "id": "42703",
+      "url": "https://trakt.tv/shows/42703"
+    },
+    "tx": {
+      "id": "shadowshouse_yj",
+      "url": "https://twitter.com/shadowshouse_yj"
+    }
+  }
+}

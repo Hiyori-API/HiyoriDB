@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6723,
+  "slug": "accel-world",
+  "kind": "anime",
+  "title": "Accel World",
+  "titles": {
+    "default": "Accel World",
+    "romaji": "Accel World",
+    "native": "アクセル・ワールド"
+  },
+  "synonyms": [
+    "Accel World",
+    "アクセル・ワールド",
+    "Accelerated World"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "spring",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11759-o3ZRpFYnP5Lc.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11759",
+      "url": "https://anilist.co/anime/11759"
+    },
+    "cr": {
+      "id": "accel-world",
+      "url": "https://www.crunchyroll.com/series/accel-world"
+    },
+    "k": {
+      "id": "6590",
+      "url": "https://kitsu.io/anime/6590"
+    },
+    "mal": {
+      "id": "11759",
+      "url": "https://myanimelist.net/anime/11759"
+    },
+    "t": {
+      "id": "42938",
+      "url": "https://trakt.tv/shows/42938"
+    },
+    "ttv": {
+      "id": "2082",
+      "url": "https://tubitv.com/series/2082"
+    },
+    "tx": {
+      "id": "accel_world",
+      "url": "https://twitter.com/accel_world"
+    }
+  }
+}

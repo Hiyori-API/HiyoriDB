@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 792,
+  "slug": "megami-kouhosei",
+  "kind": "anime",
+  "title": "Megami Kouhosei",
+  "titles": {
+    "default": "Megami Kouhosei",
+    "romaji": "Megami Kouhosei",
+    "english": "Pilot Candidate",
+    "native": "女神候補生"
+  },
+  "synonyms": [
+    "Megami Kouhosei",
+    "Pilot Candidate",
+    "女神候補生",
+    "The Candidate for Goddess",
+    "Candidate for Goddess"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx888-TJnm7jOD06P1.png"
+  ],
+  "references": {
+    "al": {
+      "id": "888",
+      "url": "https://anilist.co/anime/888"
+    },
+    "ap": {
+      "id": "B081KBYVHK",
+      "url": "https://www.amazon.com/gp/video/detail/B081KBYVHK"
+    },
+    "cr": {
+      "id": "pilot-candidate",
+      "url": "https://www.crunchyroll.com/series/pilot-candidate"
+    },
+    "k": {
+      "id": "788",
+      "url": "https://kitsu.io/anime/788"
+    },
+    "mal": {
+      "id": "888",
+      "url": "https://myanimelist.net/anime/888"
+    },
+    "t": {
+      "id": "63130",
+      "url": "https://trakt.tv/shows/63130"
+    }
+  }
+}

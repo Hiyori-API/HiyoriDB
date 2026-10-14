@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10320,
+  "slug": "code-geass-fukkatsu-no-lelouch-picture-drama",
+  "kind": "anime",
+  "title": "Code Geass: Fukkatsu no Lelouch Picture Drama",
+  "titles": {
+    "default": "Code Geass: Fukkatsu no Lelouch Picture Drama",
+    "romaji": "Code Geass: Fukkatsu no Lelouch Picture Drama",
+    "native": "コードギアス 復活のルルーシュ ピクチャードラマ"
+  },
+  "synonyms": [
+    "Code Geass: Fukkatsu no Lelouch Picture Drama",
+    "コードギアス 復活のルルーシュ ピクチャードラマ",
+    "Code Geass: Fukkatsu no Lelouch Picture Drama - Re;f 103.00 ~ Shinkai no Kakera",
+    "Code Geass: Fukkatsu no Lelouch Picture Drama - Re;f 1.05 ~ Mitsudan no Mamamu",
+    "コードギアス 復活のルルーシュ ピクチャードラマ「Re;f 103.00　深海のカケラ」",
+    "コードギアス 復活のルルーシュ ピクチャードラマ「Re;f 1.05　密談のハマム」",
+    "Honey and Clover Specials",
+    "Hachimitsu to Clover Specials",
+    "ハチミツとクローバー",
+    "Honey & Clover Specials"
+  ],
+  "type": "special",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b117408-lUXNsh9BnIPO.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "117408",
+      "url": "https://anilist.co/anime/117408"
+    },
+    "cr": {
+      "id": "honey-and-clover",
+      "url": "https://www.crunchyroll.com/series/honey-and-clover"
+    },
+    "k": {
+      "id": "592",
+      "url": "https://kitsu.io/anime/592"
+    },
+    "mal": {
+      "id": "40315",
+      "url": "https://myanimelist.net/anime/40315"
+    }
+  }
+}

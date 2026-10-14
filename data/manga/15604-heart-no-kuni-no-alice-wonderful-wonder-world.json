@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15604,
+  "slug": "heart-no-kuni-no-alice-wonderful-wonder-world",
+  "kind": "manga",
+  "title": "Heart no Kuni no Alice: Wonderful Wonder World",
+  "titles": {
+    "default": "Heart no Kuni no Alice: Wonderful Wonder World"
+  },
+  "synonyms": [
+    "Heart no Kuni no Alice",
+    "Alice au royaume de Coeur",
+    "Alicja w Krainie Serc",
+    "Alice lạc vào xứ sở trái tim",
+    "Wonderful Wonder World",
+    "อลิสในแดนหัวใจ",
+    "Alice Hearts ~Alice no País dos Corações~",
+    "Alice in Heartland",
+    "Alice in the Country of Hearts",
+    "ハートの国のアリス～Wonderful Wonder World～",
+    "Kataomoi no Mukougawa",
+    "片想いの向こう側",
+    "Kataomoi no Mukou Gawa",
+    "Ano Kado o Magareba",
+    "Tenshi ga Kuretamono",
+    "Bitou na Koi",
+    "Kimi to Natsu no Aizu"
+  ],
+  "type": "manga",
+  "chapters": 36,
+  "volumes": 6,
+  "status": "finished",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/11516-OqugZM40qnTk.png"
+  ],
+  "references": {
+    "al": {
+      "id": "4713",
+      "url": "https://anilist.co/anime/4713"
+    },
+    "al_manga": {
+      "id": "4713",
+      "url": "https://anilist.co/manga/4713"
+    }
+  }
+}

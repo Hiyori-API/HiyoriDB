@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13517,
+  "slug": "toumei-na-yoru-ni-kakeru-kimi-to-me-ni-mienai-koi-wo-shita",
+  "kind": "anime",
+  "title": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
+  "titles": {
+    "default": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
+    "romaji": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
+    "english": "Love Unseen Beneath the Clear Night Sky",
+    "native": "透明な夜に駆ける君と、目に見えない恋をした。"
+  },
+  "synonyms": [
+    "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
+    "Love Unseen Beneath the Clear Night Sky",
+    "透明な夜に駆ける君と、目に見えない恋をした。",
+    "かけ恋",
+    "Kakekoi",
+    "Un amour invisible",
+    "รักที่มองไม่เห็น ด้วยตา กับเธอในค่ำคืนที่แสนจะเลือนราง",
+    "DearS",
+    "ディアーズ"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202269-7KNj8s2fSsJJ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "202269",
+      "url": "https://anilist.co/anime/202269"
+    },
+    "cr": {
+      "id": "series/GT00378087/love-unseen-beneath-the-clear-night-sky",
+      "url": "https://www.crunchyroll.com/series/series/GT00378087/love-unseen-beneath-the-clear-night-sky"
+    },
+    "k": {
+      "id": "44",
+      "url": "https://kitsu.io/anime/44"
+    },
+    "mal": {
+      "id": "62936",
+      "url": "https://myanimelist.net/anime/62936"
+    },
+    "t": {
+      "id": "61051",
+      "url": "https://trakt.tv/shows/61051"
+    }
+  }
+}

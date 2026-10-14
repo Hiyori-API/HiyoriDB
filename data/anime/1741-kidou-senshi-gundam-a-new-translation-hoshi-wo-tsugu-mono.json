@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1741,
+  "slug": "kidou-senshi-gundam-a-new-translation-hoshi-wo-tsugu-mono",
+  "kind": "anime",
+  "title": "Kidou Senshi Ζ Gundam: A New Translation - Hoshi wo Tsugu Mono",
+  "titles": {
+    "default": "Kidou Senshi Ζ Gundam: A New Translation - Hoshi wo Tsugu Mono",
+    "romaji": "Kidou Senshi Ζ Gundam: A New Translation - Hoshi wo Tsugu Mono",
+    "english": "Mobile Suit Zeta Gundam: A New Translation I - Heir to the Stars",
+    "native": "機動戦士Ζガンダム A New Translation -星を継ぐ者-"
+  },
+  "synonyms": [
+    "Kidou Senshi Ζ Gundam: A New Translation - Hoshi wo Tsugu Mono",
+    "Mobile Suit Zeta Gundam: A New Translation I - Heir to the Stars",
+    "機動戦士Ζガンダム A New Translation -星を継ぐ者-",
+    "Ark",
+    "ARK"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1967-0darqFiDTr59.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1967",
+      "url": "https://anilist.co/anime/1967"
+    },
+    "k": {
+      "id": "4096",
+      "url": "https://kitsu.io/anime/4096"
+    },
+    "mal": {
+      "id": "1967",
+      "url": "https://myanimelist.net/anime/1967"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11279,
+  "slug": "world-trigger-3rd-season",
+  "kind": "anime",
+  "title": "World Trigger 3rd Season",
+  "titles": {
+    "default": "World Trigger 3rd Season",
+    "romaji": "World Trigger 3rd Season",
+    "native": "ワールドトリガー 3rdシーズン"
+  },
+  "synonyms": [
+    "World Trigger 3rd Season",
+    "ワールドトリガー 3rdシーズン",
+    "Импульс мира 3",
+    "ワールドトリガー"
+  ],
+  "type": "tv",
+  "episodes": 14,
+  "status": "finished",
+  "season": "fall",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx127400-m2xz2qDVqQwL.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "127400",
+      "url": "https://anilist.co/anime/127400"
+    },
+    "cr": {
+      "id": "series/GR757DMKY/world-trigger",
+      "url": "https://www.crunchyroll.com/series/series/GR757DMKY/world-trigger"
+    },
+    "mal": {
+      "id": "44940",
+      "url": "https://myanimelist.net/anime/44940"
+    },
+    "nf": {
+      "id": "80149562",
+      "url": "https://www.netflix.com/title/80149562"
+    },
+    "tx": {
+      "id": "Anime_W_Trigger",
+      "url": "https://twitter.com/Anime_W_Trigger"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3914,
+  "slug": "bikkuriman-2000",
+  "kind": "anime",
+  "title": "Bikkuriman 2000",
+  "titles": {
+    "default": "Bikkuriman 2000",
+    "romaji": "Bikkuriman 2000",
+    "native": "ビックリマン2000"
+  },
+  "synonyms": [
+    "Bikkuriman 2000",
+    "ビックリマン2000"
+  ],
+  "type": "tv",
+  "episodes": 68,
+  "status": "finished",
+  "season": "fall",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5478.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5478",
+      "url": "https://anilist.co/anime/5478"
+    },
+    "k": {
+      "id": "4119",
+      "url": "https://kitsu.io/anime/4119"
+    },
+    "mal": {
+      "id": "5478",
+      "url": "https://myanimelist.net/anime/5478"
+    }
+  }
+}

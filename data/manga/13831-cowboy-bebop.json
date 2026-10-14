@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13831,
+  "slug": "cowboy-bebop",
+  "kind": "manga",
+  "title": "Cowboy Bebop",
+  "titles": {
+    "default": "Cowboy Bebop"
+  },
+  "synonyms": [
+    "Cowboy Bebop",
+    "カウボーイビバップ"
+  ],
+  "type": "manga",
+  "chapters": 11,
+  "volumes": 3,
+  "status": "finished",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx30173-SU7cu3H9jLXT.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1",
+      "url": "https://anilist.co/anime/1"
+    },
+    "al_manga": {
+      "id": "1",
+      "url": "https://anilist.co/manga/1"
+    }
+  }
+}

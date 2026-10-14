@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14381,
+  "slug": "figure-17",
+  "kind": "manga",
+  "title": "Figure 17",
+  "titles": {
+    "default": "Figure 17"
+  },
+  "synonyms": [
+    "Figure 17 - Tsubasa & Hikaru",
+    "Figure 17",
+    "フィギュア17",
+    "Full Moon wo Sagashite",
+    "満月〈フルムーン〉をさがして",
+    "Searching for the Full Moon",
+    "Ginyuu Meika"
+  ],
+  "type": "manga",
+  "chapters": 17,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b33230-P4vNG8uPqxHJ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1126",
+      "url": "https://anilist.co/anime/1126"
+    },
+    "al_manga": {
+      "id": "1126",
+      "url": "https://anilist.co/manga/1126"
+    }
+  }
+}

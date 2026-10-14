@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1869,
+  "slug": "rockman-exe-axess",
+  "kind": "anime",
+  "title": "Rockman.EXE AXESS",
+  "titles": {
+    "default": "Rockman.EXE AXESS",
+    "romaji": "Rockman.EXE AXESS",
+    "english": "MegaMan: NT Warrior AXESS",
+    "native": "ロックマンエグゼ AXESS"
+  },
+  "synonyms": [
+    "Rockman.EXE AXESS",
+    "MegaMan: NT Warrior AXESS",
+    "ロックマンエグゼ AXESS",
+    "Rockman EXE AXESS",
+    "MegaMan: Axess",
+    "Rockman.EXE Axess",
+    "ロックマンエグゼ Axess",
+    "MegaMan NT Warrior: Axess",
+    "Rockman EXE Axess"
+  ],
+  "type": "tv",
+  "episodes": 51,
+  "status": "finished",
+  "season": "fall",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2108.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2108",
+      "url": "https://anilist.co/anime/2108"
+    },
+    "k": {
+      "id": "1907",
+      "url": "https://kitsu.io/anime/1907"
+    },
+    "mal": {
+      "id": "2108",
+      "url": "https://myanimelist.net/anime/2108"
+    },
+    "t": {
+      "id": "37684",
+      "url": "https://trakt.tv/shows/37684"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 383,
+  "slug": "ragnarok-the-animation",
+  "kind": "anime",
+  "title": "RAGNAROK THE ANIMATION",
+  "titles": {
+    "default": "RAGNAROK THE ANIMATION",
+    "romaji": "RAGNAROK THE ANIMATION",
+    "english": "Ragnarok the Animation"
+  },
+  "synonyms": [
+    "RAGNAROK THE ANIMATION",
+    "Ragnarok the Animation",
+    "Ragnarök the Animation",
+    "마법신화 라그나로크",
+    "RAGNARÖK THE ANIMATION"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/417.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "417",
+      "url": "https://anilist.co/anime/417"
+    },
+    "cr": {
+      "id": "ragnarok-the-animation",
+      "url": "https://www.crunchyroll.com/series/ragnarok-the-animation"
+    },
+    "k": {
+      "id": "381",
+      "url": "https://kitsu.io/anime/381"
+    },
+    "mal": {
+      "id": "417",
+      "url": "https://myanimelist.net/anime/417"
+    },
+    "t": {
+      "id": "45363",
+      "url": "https://trakt.tv/shows/45363"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13643,
+  "slug": "oushun-jogakuen-no-danyuu",
+  "kind": "anime",
+  "title": "Oushun Jogakuen no Danyuu",
+  "titles": {
+    "default": "Oushun Jogakuen no Danyuu",
+    "romaji": "Oushun Jogakuen no Danyuu",
+    "native": "桜春女学院の男優"
+  },
+  "synonyms": [
+    "Oushun Jogakuen no Danyuu",
+    "桜春女学院の男優",
+    "Backstage at Oushun Academy",
+    "Kana Kana Kazoku",
+    "かなかなかぞく"
+  ],
+  "type": "ona",
+  "status": "airing",
+  "season": "summer",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214551-uDaf7UPVxN2v.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "214551",
+      "url": "https://anilist.co/anime/214551"
+    },
+    "k": {
+      "id": "8563",
+      "url": "https://kitsu.io/anime/8563"
+    },
+    "mal": {
+      "id": "24977",
+      "url": "https://myanimelist.net/anime/24977"
+    }
+  }
+}

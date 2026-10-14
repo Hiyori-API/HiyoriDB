@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14899,
+  "slug": "go-go-toraemon",
+  "kind": "manga",
+  "title": "Go Go Toraemon",
+  "titles": {
+    "default": "Go Go Toraemon"
+  },
+  "synonyms": [
+    "GoGo虎ェ門",
+    "Mai",
+    "Mai, The Psychic Girl",
+    "舞"
+  ],
+  "type": "manga",
+  "volumes": 2,
+  "status": "finished",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b191785-kefJ70oLD1KK.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "136227",
+      "url": "https://anilist.co/anime/136227"
+    },
+    "al_manga": {
+      "id": "136227",
+      "url": "https://anilist.co/manga/136227"
+    }
+  }
+}

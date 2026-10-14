@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15842,
+  "slug": "heroman",
+  "kind": "manga",
+  "title": "Heroman",
+  "titles": {
+    "default": "Heroman"
+  },
+  "synonyms": [
+    "Hero Man",
+    "Heroman",
+    "ヒーローマン"
+  ],
+  "type": "manga",
+  "volumes": 5,
+  "status": "finished",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/15253.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4334",
+      "url": "https://anilist.co/anime/4334"
+    },
+    "al_manga": {
+      "id": "4334",
+      "url": "https://anilist.co/manga/4334"
+    }
+  }
+}

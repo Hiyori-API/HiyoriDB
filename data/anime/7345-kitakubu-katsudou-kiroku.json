@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7345,
+  "slug": "kitakubu-katsudou-kiroku",
+  "kind": "anime",
+  "title": "Kitakubu Katsudou Kiroku",
+  "titles": {
+    "default": "Kitakubu Katsudou Kiroku",
+    "romaji": "Kitakubu Katsudou Kiroku",
+    "english": "Chronicles of the Going Home Club",
+    "native": "帰宅部活動記録"
+  },
+  "synonyms": [
+    "Kitakubu Katsudou Kiroku",
+    "Chronicles of the Going Home Club",
+    "帰宅部活動記録",
+    "KINMOZA!",
+    "Kiniro Mosaic",
+    "きんいろモザイク",
+    "Kinmosa",
+    "Golden Mosaic"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18495.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "18495",
+      "url": "https://anilist.co/anime/18495"
+    },
+    "cr": {
+      "id": "chronicles-of-the-going-home-club",
+      "url": "https://www.crunchyroll.com/series/chronicles-of-the-going-home-club"
+    },
+    "k": {
+      "id": "7501",
+      "url": "https://kitsu.io/anime/7501"
+    },
+    "mal": {
+      "id": "18495",
+      "url": "https://myanimelist.net/anime/18495"
+    },
+    "t": {
+      "id": "70751",
+      "url": "https://trakt.tv/shows/70751"
+    }
+  }
+}

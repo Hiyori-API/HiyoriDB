@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15703,
+  "slug": "suki-desu-suzuki-kun",
+  "kind": "manga",
+  "title": "Suki desu Suzuki-kun!!",
+  "titles": {
+    "default": "Suki desu Suzuki-kun!!"
+  },
+  "synonyms": [
+    "I like you Suzuki-kun!!",
+    "I love you Suzuki-kun!!",
+    "Je t'aime Suzuki !!",
+    "鈴木同學，我愛你",
+    "사랑해, 스즈키!",
+    "好きです鈴木くん!!",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "chapters": 94,
+  "volumes": 18,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx40893-oPPlKUlCA4AN.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7668",
+      "url": "https://anilist.co/anime/7668"
+    },
+    "al_manga": {
+      "id": "7668",
+      "url": "https://anilist.co/manga/7668"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3337,
+  "slug": "muka-muka-paradise",
+  "kind": "anime",
+  "title": "Muka Muka Paradise",
+  "titles": {
+    "default": "Muka Muka Paradise",
+    "romaji": "Muka Muka Paradise",
+    "native": "ムカムカパラダイス"
+  },
+  "synonyms": [
+    "Muka Muka Paradise",
+    "ムカムカパラダイス",
+    "Mukamuka"
+  ],
+  "type": "tv",
+  "episodes": 51,
+  "status": "finished",
+  "season": "fall",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4086.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4086",
+      "url": "https://anilist.co/anime/4086"
+    },
+    "k": {
+      "id": "3457",
+      "url": "https://kitsu.io/anime/3457"
+    },
+    "mal": {
+      "id": "4086",
+      "url": "https://myanimelist.net/anime/4086"
+    }
+  }
+}

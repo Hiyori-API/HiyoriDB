@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1748,
+  "slug": "hijikata-toshizo-shiro-no-kiseki",
+  "kind": "anime",
+  "title": "Hijikata Toshizo: Shiro no Kiseki",
+  "titles": {
+    "default": "Hijikata Toshizo: Shiro no Kiseki",
+    "romaji": "Hijikata Toshizo: Shiro no Kiseki",
+    "native": "土方歳三　白の軌跡"
+  },
+  "synonyms": [
+    "Hijikata Toshizo: Shiro no Kiseki",
+    "土方歳三　白の軌跡",
+    "Hijikata Toshizo: Shiru no Kiseki",
+    "Hijikata Toshizou Shiro no Kiseki",
+    "Hijikata Toshizo: The White Trail",
+    "Toshizo Hijikata: Cornerstone of Understanding",
+    "Meiji Ishin wo Tsukuriageta Hitobito",
+    "明治維新をつくりあげた人々"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1977.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1977",
+      "url": "https://anilist.co/anime/1977"
+    },
+    "k": {
+      "id": "9440",
+      "url": "https://kitsu.io/anime/9440"
+    },
+    "mal": {
+      "id": "1977",
+      "url": "https://myanimelist.net/anime/1977"
+    }
+  }
+}

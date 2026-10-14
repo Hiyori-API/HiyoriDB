@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3594,
+  "slug": "white-album",
+  "kind": "anime",
+  "title": "WHITE ALBUM",
+  "titles": {
+    "default": "WHITE ALBUM",
+    "romaji": "WHITE ALBUM",
+    "english": "White Album"
+  },
+  "synonyms": [
+    "WHITE ALBUM",
+    "White Album",
+    "W.A.",
+    "ホワイトアルバム",
+    "White Album: Discografía de Recuerdos"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4720-5wuPkrYXAyMV.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4720",
+      "url": "https://anilist.co/anime/4720"
+    },
+    "cr": {
+      "id": "white-album",
+      "url": "https://www.crunchyroll.com/series/white-album"
+    },
+    "k": {
+      "id": "3760",
+      "url": "https://kitsu.io/anime/3760"
+    },
+    "mal": {
+      "id": "4720",
+      "url": "https://myanimelist.net/anime/4720"
+    },
+    "t": {
+      "id": "28381",
+      "url": "https://trakt.tv/shows/28381"
+    }
+  }
+}

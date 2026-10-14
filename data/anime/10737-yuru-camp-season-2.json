@@ -1,0 +1,67 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10737,
+  "slug": "yuru-camp-season-2",
+  "kind": "anime",
+  "title": "Yuru Camp△ SEASON 2",
+  "titles": {
+    "default": "Yuru Camp△ SEASON 2",
+    "romaji": "Yuru Camp△ SEASON 2",
+    "english": "LAID-BACK CAMP SEASON2",
+    "native": "ゆるキャン△ SEASON２"
+  },
+  "synonyms": [
+    "Yuru Camp△ SEASON 2",
+    "LAID-BACK CAMP SEASON2",
+    "ゆるキャン△ SEASON２",
+    "Yurucamp",
+    "Yurukyan△",
+    "摇曳露营△第二季",
+    "摇曳露营△ 2",
+    "โลลิตั้งแคมป์ ภาค 2",
+    "แคมป์สบายสไตล์สาวๆ ภาค 2",
+    "Laid-Back Camp Season 2",
+    "El Hazard: The Alternative World",
+    "異次元の世界エルハザード",
+    "Ijigen no Sekai El Hazard",
+    "Ijigen no Sekai El-Hazard"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104459-pywEKGQON613.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "104459",
+      "url": "https://anilist.co/anime/104459"
+    },
+    "cr": {
+      "id": "laid-back-camp",
+      "url": "https://www.crunchyroll.com/series/laid-back-camp"
+    },
+    "k": {
+      "id": "94",
+      "url": "https://kitsu.io/anime/94"
+    },
+    "mal": {
+      "id": "38474",
+      "url": "https://myanimelist.net/anime/38474"
+    },
+    "nf": {
+      "id": "81392083",
+      "url": "https://www.netflix.com/title/81392083"
+    },
+    "t": {
+      "id": "63711",
+      "url": "https://trakt.tv/shows/63711"
+    },
+    "tx": {
+      "id": "yurucamp_anime",
+      "url": "https://twitter.com/yurucamp_anime"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6884,
+  "slug": "sayonara-zetsubou-sensei-special-omake",
+  "kind": "anime",
+  "title": "Sayonara Zetsubou Sensei Special Omake",
+  "titles": {
+    "default": "Sayonara Zetsubou Sensei Special Omake",
+    "romaji": "Sayonara Zetsubou Sensei Special Omake",
+    "native": "さよなら絶望先生"
+  },
+  "synonyms": [
+    "Sayonara Zetsubou Sensei Special Omake",
+    "さよなら絶望先生",
+    "Sayonara Zetsubou Sensei BD Box Special Omake"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx13619-fFsNMw8aq4FQ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "13619",
+      "url": "https://anilist.co/anime/13619"
+    },
+    "k": {
+      "id": "7001",
+      "url": "https://kitsu.io/anime/7001"
+    },
+    "mal": {
+      "id": "13619",
+      "url": "https://myanimelist.net/anime/13619"
+    }
+  }
+}

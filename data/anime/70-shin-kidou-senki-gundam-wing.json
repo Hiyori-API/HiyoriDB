@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 70,
+  "slug": "shin-kidou-senki-gundam-wing",
+  "kind": "anime",
+  "title": "Shin Kidou Senki Gundam Wing",
+  "titles": {
+    "default": "Shin Kidou Senki Gundam Wing",
+    "romaji": "Shin Kidou Senki Gundam Wing",
+    "english": "Mobile Suit Gundam Wing",
+    "native": "新機動戦記ガンダムW"
+  },
+  "synonyms": [
+    "Shin Kidou Senki Gundam Wing",
+    "Mobile Suit Gundam Wing",
+    "新機動戦記ガンダムW",
+    "Shin Kidou Senki Gundam W",
+    "New Mobile Report Gundam Wing"
+  ],
+  "type": "tv",
+  "episodes": 49,
+  "status": "finished",
+  "season": "spring",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b90-umBjF3yaeIdo.png"
+  ],
+  "references": {
+    "al": {
+      "id": "90",
+      "url": "https://anilist.co/anime/90"
+    },
+    "cr": {
+      "id": "mobile-suit-gundam-wing",
+      "url": "https://www.crunchyroll.com/series/mobile-suit-gundam-wing"
+    },
+    "k": {
+      "id": "69",
+      "url": "https://kitsu.io/anime/69"
+    },
+    "mal": {
+      "id": "90",
+      "url": "https://myanimelist.net/anime/90"
+    },
+    "t": {
+      "id": "21629",
+      "url": "https://trakt.tv/shows/21629"
+    }
+  }
+}

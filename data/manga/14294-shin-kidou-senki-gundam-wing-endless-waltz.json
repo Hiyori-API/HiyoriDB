@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14294,
+  "slug": "shin-kidou-senki-gundam-wing-endless-waltz",
+  "kind": "manga",
+  "title": "Shin Kidou Senki Gundam Wing: Endless Waltz",
+  "titles": {
+    "default": "Shin Kidou Senki Gundam Wing: Endless Waltz"
+  },
+  "synonyms": [
+    "Mobile Suit Gundam Wing: Endless Waltz",
+    "新機動戦記ガンダムＷ Ｅｎｄｌｅｓｓ　Ｗａｌｔｚ",
+    "新機動戦記ガンダムＷ　Endless Waltz",
+    "MM!",
+    "えむえむっ!",
+    "MM Group",
+    "Emu Emu!"
+  ],
+  "type": "novel",
+  "volumes": 2,
+  "status": "finished",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx95568-nIlljOEYkbiM.png"
+  ],
+  "references": {
+    "al": {
+      "id": "91",
+      "url": "https://anilist.co/anime/91"
+    },
+    "al_manga": {
+      "id": "91",
+      "url": "https://anilist.co/manga/91"
+    }
+  }
+}

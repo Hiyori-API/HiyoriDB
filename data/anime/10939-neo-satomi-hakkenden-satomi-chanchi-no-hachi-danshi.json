@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10939,
+  "slug": "neo-satomi-hakkenden-satomi-chanchi-no-hachi-danshi",
+  "kind": "anime",
+  "title": "Neo Satomi Hakkenden: Satomi-chanchi no Hachi Danshi",
+  "titles": {
+    "default": "Neo Satomi Hakkenden: Satomi-chanchi no Hachi Danshi",
+    "romaji": "Neo Satomi Hakkenden: Satomi-chanchi no Hachi Danshi",
+    "native": "ネオ里見八犬伝 サトミちゃんちの8男子"
+  },
+  "synonyms": [
+    "Neo Satomi Hakkenden: Satomi-chanchi no Hachi Danshi",
+    "ネオ里見八犬伝 サトミちゃんちの8男子",
+    "Neo Satomi Hakkenden: Satomi-chanchi no 8 Danshi"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13515.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "13515",
+      "url": "https://anilist.co/anime/13515"
+    },
+    "k": {
+      "id": "6985",
+      "url": "https://kitsu.io/anime/6985"
+    },
+    "mal": {
+      "id": "13515",
+      "url": "https://myanimelist.net/anime/13515"
+    }
+  }
+}

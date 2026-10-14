@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1035,
+  "slug": "geobreeders-file-x-chibi-neko-dakkan",
+  "kind": "anime",
+  "title": "GEOBREEDERS: File-X Chibi Neko Dakkan",
+  "titles": {
+    "default": "GEOBREEDERS: File-X Chibi Neko Dakkan",
+    "romaji": "GEOBREEDERS: File-X Chibi Neko Dakkan",
+    "english": "GEOBREEDERS",
+    "native": "ジオブリーダーズ　File-X　ちびねこ奪還"
+  },
+  "synonyms": [
+    "GEOBREEDERS: File-X Chibi Neko Dakkan",
+    "GEOBREEDERS",
+    "ジオブリーダーズ　File-X　ちびねこ奪還",
+    "GEOBREEDERS [File-X] \"GET BACK THE KITTY\"",
+    "Geobreeders: (File-X) Get Back The Kitty",
+    "Geobreeders: File-X Chibi Neko Dakkan"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "spring",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx1158-E5ptpiJZVYJV.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1158",
+      "url": "https://anilist.co/anime/1158"
+    },
+    "k": {
+      "id": "1039",
+      "url": "https://kitsu.io/anime/1039"
+    },
+    "mal": {
+      "id": "1158",
+      "url": "https://myanimelist.net/anime/1158"
+    }
+  }
+}

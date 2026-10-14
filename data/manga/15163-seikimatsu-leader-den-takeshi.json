@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15163,
+  "slug": "seikimatsu-leader-den-takeshi",
+  "kind": "manga",
+  "title": "Seikimatsu Leader Den Takeshi!",
+  "titles": {
+    "default": "Seikimatsu Leader Den Takeshi!"
+  },
+  "synonyms": [
+    "Century Ending Leader Takeshi",
+    "世紀末リーダー伝たけし!",
+    "Seikimatsu Leader Den Takeshi!"
+  ],
+  "type": "manga",
+  "chapters": 247,
+  "volumes": 24,
+  "status": "finished",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx46502-XTXXnQOBMxu4.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "16245",
+      "url": "https://anilist.co/anime/16245"
+    },
+    "al_manga": {
+      "id": "16245",
+      "url": "https://anilist.co/manga/16245"
+    }
+  }
+}

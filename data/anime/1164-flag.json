@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1164,
+  "slug": "flag",
+  "kind": "anime",
+  "title": "FLAG",
+  "titles": {
+    "default": "FLAG",
+    "romaji": "FLAG"
+  },
+  "synonyms": [
+    "FLAG",
+    "フラッグ",
+    "Flag",
+    "FLAG（フラッグ）"
+  ],
+  "type": "ona",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1299-Zz8fUhhwDQDd.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1299",
+      "url": "https://anilist.co/anime/1299"
+    },
+    "k": {
+      "id": "1171",
+      "url": "https://kitsu.io/anime/1171"
+    },
+    "mal": {
+      "id": "1299",
+      "url": "https://myanimelist.net/anime/1299"
+    },
+    "t": {
+      "id": "44799",
+      "url": "https://trakt.tv/shows/44799"
+    }
+  }
+}

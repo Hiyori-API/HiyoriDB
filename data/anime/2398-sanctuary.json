@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2398,
+  "slug": "sanctuary",
+  "kind": "anime",
+  "title": "Sanctuary",
+  "titles": {
+    "default": "Sanctuary",
+    "romaji": "Sanctuary",
+    "native": "サンクチュアリ"
+  },
+  "synonyms": [
+    "Sanctuary",
+    "サンクチュアリ"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx2698-2bBtlm0FewWP.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2698",
+      "url": "https://anilist.co/anime/2698"
+    },
+    "k": {
+      "id": "2460",
+      "url": "https://kitsu.io/anime/2460"
+    },
+    "mal": {
+      "id": "2698",
+      "url": "https://myanimelist.net/anime/2698"
+    }
+  }
+}

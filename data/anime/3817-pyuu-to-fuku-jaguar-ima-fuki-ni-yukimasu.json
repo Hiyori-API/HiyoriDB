@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3817,
+  "slug": "pyuu-to-fuku-jaguar-ima-fuki-ni-yukimasu",
+  "kind": "anime",
+  "title": "Pyuu to Fuku! Jaguar: Ima, Fuki ni Yukimasu",
+  "titles": {
+    "default": "Pyuu to Fuku! Jaguar: Ima, Fuki ni Yukimasu",
+    "romaji": "Pyuu to Fuku! Jaguar: Ima, Fuki ni Yukimasu",
+    "native": "ピューと吹く！ジャガー ～いま、吹きにゆきます～"
+  },
+  "synonyms": [
+    "Pyuu to Fuku! Jaguar: Ima, Fuki ni Yukimasu",
+    "ピューと吹く！ジャガー ～いま、吹きにゆきます～",
+    "ピューと吹く! ジャガー ～いま, 吹きにゆきます～"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5240.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5240",
+      "url": "https://anilist.co/anime/5240"
+    },
+    "k": {
+      "id": "4007",
+      "url": "https://kitsu.io/anime/4007"
+    },
+    "mal": {
+      "id": "5240",
+      "url": "https://myanimelist.net/anime/5240"
+    }
+  }
+}

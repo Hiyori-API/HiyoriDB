@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14053,
+  "slug": "soul-eater",
+  "kind": "manga",
+  "title": "Soul Eater",
+  "titles": {
+    "default": "Soul Eater"
+  },
+  "synonyms": [
+    "소울이터(SOUL EATER)",
+    "Soul Eater",
+    "ソウルイーター",
+    "xxxHOLiC",
+    "xxxHolic Rou",
+    "xxxHolic Cage",
+    "xxxHolic•Rou"
+  ],
+  "type": "manga",
+  "chapters": 117,
+  "volumes": 25,
+  "status": "finished",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30908-nk6Ct4euJelZ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3588",
+      "url": "https://anilist.co/anime/3588"
+    },
+    "al_manga": {
+      "id": "3588",
+      "url": "https://anilist.co/manga/3588"
+    }
+  }
+}

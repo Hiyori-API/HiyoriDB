@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13945,
+  "slug": "mirai-nikki",
+  "kind": "manga",
+  "title": "Mirai Nikki",
+  "titles": {
+    "default": "Mirai Nikki"
+  },
+  "synonyms": [
+    "Pamiętnik Przyszłości",
+    "Diário do Futuro",
+    "Дневник будущего",
+    "미래일기",
+    "Future Diary",
+    "未来日記",
+    "Mirai Nikki"
+  ],
+  "type": "manga",
+  "chapters": 59,
+  "volumes": 12,
+  "status": "finished",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx30584-cLpCKICFlyLX.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10620",
+      "url": "https://anilist.co/anime/8460"
+    },
+    "al_manga": {
+      "id": "10620",
+      "url": "https://anilist.co/manga/10620"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4451,
+  "slug": "xxxholic-rou",
+  "kind": "anime",
+  "title": "xxxHOLiC Rou",
+  "titles": {
+    "default": "xxxHOLiC Rou",
+    "romaji": "xxxHOLiC Rou",
+    "native": "×××HOLiC・籠"
+  },
+  "synonyms": [
+    "xxxHOLiC Rou",
+    "×××HOLiC・籠",
+    "xxxHOLiC Rou: Adayume"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6864-tbc8T8lbYY69.png"
+  ],
+  "references": {
+    "al": {
+      "id": "6864",
+      "url": "https://anilist.co/anime/6864"
+    },
+    "k": {
+      "id": "4759",
+      "url": "https://kitsu.io/anime/4759"
+    },
+    "mal": {
+      "id": "6864",
+      "url": "https://myanimelist.net/anime/6864"
+    }
+  }
+}

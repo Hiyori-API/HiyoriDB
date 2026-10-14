@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5373,
+  "slug": "rurouni-kenshin-review-special",
+  "kind": "anime",
+  "title": "Rurouni Kenshin: Review Special",
+  "titles": {
+    "default": "Rurouni Kenshin: Review Special",
+    "romaji": "Rurouni Kenshin: Review Special",
+    "native": "るろうに剣心"
+  },
+  "synonyms": [
+    "Rurouni Kenshin: Review Special",
+    "るろうに剣心",
+    "Samurai X: Review Special",
+    "City Hunter: The Motion Picture",
+    "City Hunter: Goodbye My Sweetheart",
+    "シティーハンタースペシャル グッド・バイ・マイ・スイート・ハート"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9716.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9716",
+      "url": "https://anilist.co/anime/9716"
+    },
+    "cr": {
+      "id": "city-hunter",
+      "url": "https://www.crunchyroll.com/series/city-hunter"
+    },
+    "k": {
+      "id": "1324",
+      "url": "https://kitsu.io/anime/1324"
+    },
+    "mal": {
+      "id": "9716",
+      "url": "https://myanimelist.net/anime/9716"
+    }
+  }
+}

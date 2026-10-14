@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6831,
+  "slug": "hagure-yuusha-no-estetica",
+  "kind": "anime",
+  "title": "Hagure Yuusha no Estetica",
+  "titles": {
+    "default": "Hagure Yuusha no Estetica",
+    "romaji": "Hagure Yuusha no Estetica",
+    "english": "Aesthetica of a Rogue Hero",
+    "native": "はぐれ勇者の鬼畜美学 (エステティカ)"
+  },
+  "synonyms": [
+    "Hagure Yuusha no Estetica",
+    "Aesthetica of a Rogue Hero",
+    "はぐれ勇者の鬼畜美学 (エステティカ)",
+    "Hagure Yuusha no Aesthetica",
+    "ชีวิตอันแสนรื่นรมย์ของผู้กล้านอกระบบ",
+    "はぐれ勇者の鬼畜美学〈エステティカ〉"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx13161-m4znwxInGXfd.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "13161",
+      "url": "https://anilist.co/anime/13161"
+    },
+    "cr": {
+      "id": "aesthetica-of-a-rogue-hero",
+      "url": "https://www.crunchyroll.com/series/aesthetica-of-a-rogue-hero"
+    },
+    "k": {
+      "id": "6896",
+      "url": "https://kitsu.io/anime/6896"
+    },
+    "mal": {
+      "id": "13161",
+      "url": "https://myanimelist.net/anime/13161"
+    },
+    "t": {
+      "id": "67011",
+      "url": "https://trakt.tv/shows/67011"
+    }
+  }
+}

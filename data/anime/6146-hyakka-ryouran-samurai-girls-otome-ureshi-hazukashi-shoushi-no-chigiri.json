@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6146,
+  "slug": "hyakka-ryouran-samurai-girls-otome-ureshi-hazukashi-shoushi-no-chigiri",
+  "kind": "anime",
+  "title": "Hyakka Ryouran: Samurai Girls - Otome♥Ureshi Hazukashi Shoushi no Chigiri",
+  "titles": {
+    "default": "Hyakka Ryouran: Samurai Girls - Otome♥Ureshi Hazukashi Shoushi no Chigiri",
+    "romaji": "Hyakka Ryouran: Samurai Girls - Otome♥Ureshi Hazukashi Shoushi no Chigiri",
+    "native": "百花繚乱 サムライガールズ ～乙女♥嬉し恥ずかし将士の契り～"
+  },
+  "synonyms": [
+    "Hyakka Ryouran: Samurai Girls - Otome♥Ureshi Hazukashi Shoushi no Chigiri",
+    "百花繚乱 サムライガールズ ～乙女♥嬉し恥ずかし将士の契り～",
+    "Hyakka Ryouran: Samurai Girls OVA",
+    "Hyakka Ryouran: Samurai Girls Specials",
+    "Samurai Girls Specials",
+    "百花繚乱 サムライガールズ OVA",
+    "百花繚乱 ～乙女 嬉し恥ずかし将士の契り～",
+    "Hyakka Ryouran ~Otome Ureshi Hazukashi Shoshi no Chigiri~"
+  ],
+  "type": "special",
+  "episodes": 6,
+  "status": "finished",
+  "season": "fall",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b9362-mEj0RDoWwWm7.png"
+  ],
+  "references": {
+    "al": {
+      "id": "9362",
+      "url": "https://anilist.co/anime/9362"
+    },
+    "k": {
+      "id": "5703",
+      "url": "https://kitsu.io/anime/5703"
+    },
+    "mal": {
+      "id": "9362",
+      "url": "https://myanimelist.net/anime/9362"
+    }
+  }
+}

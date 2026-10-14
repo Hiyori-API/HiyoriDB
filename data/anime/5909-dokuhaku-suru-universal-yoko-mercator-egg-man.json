@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5909,
+  "slug": "dokuhaku-suru-universal-yoko-mercator-egg-man",
+  "kind": "anime",
+  "title": "Dokuhaku Suru Universal Yoko Mercator Egg Man",
+  "titles": {
+    "default": "Dokuhaku Suru Universal Yoko Mercator Egg Man",
+    "romaji": "Dokuhaku Suru Universal Yoko Mercator Egg Man",
+    "native": "独白するユニバーサル横メルカトル Egg Man"
+  },
+  "synonyms": [
+    "Dokuhaku Suru Universal Yoko Mercator Egg Man",
+    "独白するユニバーサル横メルカトル Egg Man",
+    "Monologues of Universal Transverse Mercator Egg Man",
+    "Afro Samurai: Resurrection",
+    "アフロサムライ Resurrection"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b182140-VuAejyrzqjq5.png"
+  ],
+  "references": {
+    "al": {
+      "id": "182140",
+      "url": "https://anilist.co/anime/182140"
+    },
+    "k": {
+      "id": "3870",
+      "url": "https://kitsu.io/anime/3870"
+    },
+    "mal": {
+      "id": "53155",
+      "url": "https://myanimelist.net/anime/53155"
+    }
+  }
+}

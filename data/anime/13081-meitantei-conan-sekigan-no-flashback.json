@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13081,
+  "slug": "meitantei-conan-sekigan-no-flashback",
+  "kind": "anime",
+  "title": "Meitantei Conan: Sekigan no Flashback",
+  "titles": {
+    "default": "Meitantei Conan: Sekigan no Flashback",
+    "romaji": "Meitantei Conan: Sekigan no Flashback",
+    "english": "Detective Conan: One-Eyed Flashback",
+    "native": "名探偵コナン 隻眼の残像"
+  },
+  "synonyms": [
+    "Meitantei Conan: Sekigan no Flashback",
+    "Detective Conan: One-Eyed Flashback",
+    "名探偵コナン 隻眼の残像",
+    "Meitantei Conan Movie 28",
+    "Detective Conan Movie 28",
+    "Detective Conan Movie 28: One-Eyed Flashback",
+    "Detective Conan: Il flashback a un occhio solo",
+    "Detektiv Conan Film 28: Der Flashback des Einäugigen",
+    "Détective Conan : La Mémoire Retrouvée",
+    "Case Closed The Movie: The Time Bombed Skyscraper",
+    "Meitantei Conan: Tokei Jikake no Matenrou",
+    "Detective Conan Movie 01: The Timed Skyscraper",
+    "名探偵コナン 時計じかけの摩天楼"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185212-ejyh60F81l8n.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "185212",
+      "url": "https://anilist.co/anime/185212"
+    },
+    "k": {
+      "id": "696",
+      "url": "https://kitsu.io/anime/696"
+    },
+    "mal": {
+      "id": "60445",
+      "url": "https://myanimelist.net/anime/60445"
+    }
+  }
+}

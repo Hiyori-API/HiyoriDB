@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15543,
+  "slug": "tokimeki-memorial-only-love",
+  "kind": "manga",
+  "title": "Tokimeki Memorial: Only Love",
+  "titles": {
+    "default": "Tokimeki Memorial: Only Love"
+  },
+  "synonyms": [
+    "Tokimeki Memorial ~Only Love~",
+    "Tokimeki Memorial Only Love",
+    "ときめきメモリアル Only Love",
+    "The Pain in My Heart",
+    "Boku no Mune ga Itakutemo - Glass",
+    "ぼくの胸が痛くても GLASS"
+  ],
+  "type": "manga",
+  "volumes": 2,
+  "status": "finished",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/21613.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1555",
+      "url": "https://anilist.co/anime/1555"
+    },
+    "al_manga": {
+      "id": "1555",
+      "url": "https://anilist.co/manga/1555"
+    }
+  }
+}

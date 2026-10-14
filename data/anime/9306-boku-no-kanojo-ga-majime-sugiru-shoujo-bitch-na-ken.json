@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9306,
+  "slug": "boku-no-kanojo-ga-majime-sugiru-shoujo-bitch-na-ken",
+  "kind": "anime",
+  "title": "Boku no Kanojo ga Majime Sugiru Shoujo Bitch na Ken",
+  "titles": {
+    "default": "Boku no Kanojo ga Majime Sugiru Shoujo Bitch na Ken",
+    "romaji": "Boku no Kanojo ga Majime Sugiru Shoujo Bitch na Ken",
+    "english": "My Girlfriend is Shobitch",
+    "native": "僕の彼女がマジメ過ぎる処女ビッチな件"
+  },
+  "synonyms": [
+    "Boku no Kanojo ga Majime Sugiru Shoujo Bitch na Ken",
+    "My Girlfriend is Shobitch",
+    "僕の彼女がマジメ過ぎる処女ビッチな件",
+    "My Girlfriend Is a Virgin Who Takes Being Slutty Too Seriously",
+    "My girlfriend is faithful virgin bitch",
+    "This girlfriend is too much to handle!",
+    "Netojuu no Susume",
+    "Recommendation of the Wonderful Virtual Life",
+    "Recovery of an MMO Junkie",
+    "ネト充のススメ",
+    "Net-juu no Susume"
+  ],
+  "type": "tv",
+  "episodes": 10,
+  "status": "finished",
+  "season": "fall",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98951-EeoDeSyF97ZS.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98951",
+      "url": "https://anilist.co/anime/98951"
+    },
+    "mal": {
+      "id": "35712",
+      "url": "https://myanimelist.net/anime/35712"
+    },
+    "tx": {
+      "id": "shobicchi_anime",
+      "url": "https://twitter.com/shobicchi_anime"
+    }
+  }
+}

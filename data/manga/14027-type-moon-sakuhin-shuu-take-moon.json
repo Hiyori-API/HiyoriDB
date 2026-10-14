@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14027,
+  "slug": "type-moon-sakuhin-shuu-take-moon",
+  "kind": "manga",
+  "title": "TYPE-MOON Sakuhin-shuu: TAKE MOON",
+  "titles": {
+    "default": "TYPE-MOON Sakuhin-shuu: TAKE MOON"
+  },
+  "synonyms": [
+    "Take-Moon",
+    "テイクムーン",
+    "Take Moon",
+    "TYPE-MOON作品集・TAKE MOON",
+    "Railroad",
+    "레일로드"
+  ],
+  "type": "manga",
+  "chapters": 29,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30780-a6g0QZvZgNzw.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12187",
+      "url": "https://anilist.co/anime/10012"
+    },
+    "al_manga": {
+      "id": "12187",
+      "url": "https://anilist.co/manga/12187"
+    }
+  }
+}

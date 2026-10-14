@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10895,
+  "slug": "within-the-bloody-woods",
+  "kind": "anime",
+  "title": "Within the Bloody Woods",
+  "titles": {
+    "default": "Within the Bloody Woods",
+    "romaji": "Within the Bloody Woods"
+  },
+  "synonyms": [
+    "Within the Bloody Woods",
+    "WITHIN THE BLOODY WOODS"
+  ],
+  "type": "ona",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11915.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11915",
+      "url": "https://anilist.co/anime/11915"
+    },
+    "k": {
+      "id": "6630",
+      "url": "https://kitsu.io/anime/6630"
+    },
+    "mal": {
+      "id": "11915",
+      "url": "https://myanimelist.net/anime/11915"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1710,
+  "slug": "futari-wa-precure-max-heart",
+  "kind": "anime",
+  "title": "Futari wa Precure: Max Heart",
+  "titles": {
+    "default": "Futari wa Precure: Max Heart",
+    "romaji": "Futari wa Precure: Max Heart",
+    "english": "PreCure Max Heart",
+    "native": "ふたりはプリキュア Max Heart"
+  },
+  "synonyms": [
+    "Futari wa Precure: Max Heart",
+    "PreCure Max Heart",
+    "ふたりはプリキュア Max Heart",
+    "Pretty Cure: MaxHeart",
+    "We Are Pretty Cure: Max Heart",
+    "Pretty Cure Max Heart",
+    "ふたりはプリキュア ー マックスハート"
+  ],
+  "type": "tv",
+  "episodes": 47,
+  "status": "finished",
+  "season": "winter",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1929-W4HJGwZKl1aM.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1929",
+      "url": "https://anilist.co/anime/1929"
+    },
+    "cr": {
+      "id": "series/G3KHEVDQE/precure-max-heart",
+      "url": "https://www.crunchyroll.com/series/series/G3KHEVDQE/precure-max-heart"
+    },
+    "k": {
+      "id": "1739",
+      "url": "https://kitsu.io/anime/1739"
+    },
+    "mal": {
+      "id": "1929",
+      "url": "https://myanimelist.net/anime/1929"
+    },
+    "t": {
+      "id": "37401",
+      "url": "https://trakt.tv/shows/37401"
+    }
+  }
+}

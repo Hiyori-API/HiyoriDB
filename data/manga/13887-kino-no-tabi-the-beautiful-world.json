@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13887,
+  "slug": "kino-no-tabi-the-beautiful-world",
+  "kind": "manga",
+  "title": "Kino no Tabi: the Beautiful World",
+  "titles": {
+    "default": "Kino no Tabi: the Beautiful World"
+  },
+  "synonyms": [
+    "การเดินทางของคิโนะ: The Beautiful World",
+    "Kino's Journey: The Beautiful World",
+    "キノの旅-the Beautiful World-",
+    "Kino no Tabi: The Beautiful World",
+    "キノの旅 -the Beautiful World-"
+  ],
+  "type": "novel",
+  "status": "publishing",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30399-ePRU1jgaOBCG.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3466",
+      "url": "https://anilist.co/anime/486"
+    },
+    "al_manga": {
+      "id": "3466",
+      "url": "https://anilist.co/manga/3466"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14786,
+  "slug": "ore-no-juudan-wa-suteki-daze",
+  "kind": "manga",
+  "title": "Ore no Juudan wa....... Suteki..... Daze",
+  "titles": {
+    "default": "Ore no Juudan wa....... Suteki..... Daze"
+  },
+  "synonyms": [
+    "My Bullets are Nicer",
+    "My Bullets... are Nicer...",
+    "Lupin III",
+    "オレの銃弾は･･･････素敵･････だぜ",
+    "Christmas Snow",
+    "Noel la Neige",
+    "ノエル　ラ　ネージュ",
+    "Noël la neige"
+  ],
+  "type": "one_shot",
+  "chapters": 1,
+  "status": "finished",
+  "year": 1978,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx147173-KyiSC5RQrIfv.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1425",
+      "url": "https://anilist.co/anime/1425"
+    },
+    "al_manga": {
+      "id": "1425",
+      "url": "https://anilist.co/manga/1425"
+    }
+  }
+}

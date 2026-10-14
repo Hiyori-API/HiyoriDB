@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5137,
+  "slug": "ziggy-soreyuke-r-r-band",
+  "kind": "anime",
+  "title": "ZIGGY Soreyuke! R&R BAND",
+  "titles": {
+    "default": "ZIGGY Soreyuke! R&R BAND",
+    "romaji": "ZIGGY Soreyuke! R&R BAND",
+    "native": "ZIGGY それゆけ!R&R BAND"
+  },
+  "synonyms": [
+    "ZIGGY Soreyuke! R&R BAND",
+    "ZIGGY それゆけ!R&R BAND",
+    "Ziggy: Soreyuke! R&R Band"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11093.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11093",
+      "url": "https://anilist.co/anime/11093"
+    },
+    "k": {
+      "id": "6456",
+      "url": "https://kitsu.io/anime/6456"
+    },
+    "mal": {
+      "id": "11093",
+      "url": "https://myanimelist.net/anime/11093"
+    }
+  }
+}

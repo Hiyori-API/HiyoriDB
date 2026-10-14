@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2928,
+  "slug": "mad-bull-34",
+  "kind": "anime",
+  "title": "Mad★Bull 34",
+  "titles": {
+    "default": "Mad★Bull 34",
+    "romaji": "Mad★Bull 34",
+    "english": "Mad Bull 34",
+    "native": "マッド★ブル３４"
+  },
+  "synonyms": [
+    "Mad★Bull 34",
+    "Mad Bull 34",
+    "マッド★ブル３４",
+    "マッド★ブル34"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "fall",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3448-p7LePB14kDOV.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3448",
+      "url": "https://anilist.co/anime/3448"
+    },
+    "k": {
+      "id": "3017",
+      "url": "https://kitsu.io/anime/3017"
+    },
+    "mal": {
+      "id": "3448",
+      "url": "https://myanimelist.net/anime/3448"
+    }
+  }
+}

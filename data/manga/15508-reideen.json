@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15508,
+  "slug": "reideen",
+  "kind": "manga",
+  "title": "REIDEEN",
+  "titles": {
+    "default": "REIDEEN"
+  },
+  "synonyms": [
+    "ライディーン",
+    "REIDEEN",
+    "Love Makes People Grow",
+    "Hito wa Ai wo Tabete Sodatsu",
+    "人は愛を食べて育つ",
+    "Eat Love and Grow",
+    "Hito wa ai o tabete sodatsu"
+  ],
+  "type": "manga",
+  "volumes": 2,
+  "status": "finished",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10355.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1693",
+      "url": "https://anilist.co/anime/1693"
+    },
+    "al_manga": {
+      "id": "1693",
+      "url": "https://anilist.co/manga/1693"
+    }
+  }
+}

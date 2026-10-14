@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10231,
+  "slug": "business-fish",
+  "kind": "anime",
+  "title": "Business Fish",
+  "titles": {
+    "default": "Business Fish",
+    "romaji": "Business Fish",
+    "native": "ビジネスフィッシュ"
+  },
+  "synonyms": [
+    "Business Fish",
+    "ビジネスフィッシュ",
+    "続・終物語",
+    "Zoku Owarimonogatari"
+  ],
+  "type": "tv",
+  "episodes": 6,
+  "status": "finished",
+  "season": "summer",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110124-wi0Eac2YzQNu.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "110124",
+      "url": "https://anilist.co/anime/110124"
+    },
+    "mal": {
+      "id": "39979",
+      "url": "https://myanimelist.net/anime/39979"
+    },
+    "tx": {
+      "id": "businessfish_tw",
+      "url": "https://twitter.com/businessfish_tw"
+    }
+  }
+}

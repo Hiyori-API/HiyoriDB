@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13268,
+  "slug": "blue-gale-xabungle-side-r",
+  "kind": "anime",
+  "title": "BLUE GALE XABUNGLE SIDE R",
+  "titles": {
+    "default": "BLUE GALE XABUNGLE SIDE R",
+    "romaji": "BLUE GALE XABUNGLE SIDE R"
+  },
+  "synonyms": [
+    "BLUE GALE XABUNGLE SIDE R",
+    "Digimon Story: Time Stranger Prelude",
+    "デジモンストーリー タイムストレンジャー Prelude"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202281-18q94dGUKfxt.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "202281",
+      "url": "https://anilist.co/anime/202281"
+    },
+    "mal": {
+      "id": "62807",
+      "url": "https://myanimelist.net/anime/62807"
+    },
+    "yt": {
+      "id": "V4DKW58NEyk",
+      "url": "https://www.youtube.com/watch?v=V4DKW58NEyk"
+    }
+  }
+}

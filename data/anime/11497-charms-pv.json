@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11497,
+  "slug": "charms-pv",
+  "kind": "anime",
+  "title": "CHARMS!! PV",
+  "titles": {
+    "default": "CHARMS!! PV",
+    "romaji": "CHARMS!! PV"
+  },
+  "synonyms": [
+    "CHARMS!! PV",
+    "CHARMS!! 1st アニメーションPV",
+    "CHARMS!! 1st ANIMATION PV",
+    "まっさら",
+    "Massara"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142015-5myjHYzHiXHd.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "142015",
+      "url": "https://anilist.co/anime/142015"
+    },
+    "mal": {
+      "id": "50597",
+      "url": "https://myanimelist.net/anime/50597"
+    },
+    "tx": {
+      "id": "CHARMS_info",
+      "url": "https://twitter.com/CHARMS_info"
+    },
+    "yt": {
+      "id": "4ja452-xWnM",
+      "url": "https://www.youtube.com/watch?v=4ja452-xWnM"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1540,
+  "slug": "wagamama-fairy-mirumo-de-pon",
+  "kind": "anime",
+  "title": "Wagamama☆Fairy Mirumo de Pon!",
+  "titles": {
+    "default": "Wagamama☆Fairy Mirumo de Pon!",
+    "romaji": "Wagamama☆Fairy Mirumo de Pon!",
+    "english": "Mirmo Zibang!",
+    "native": "わがまま☆フェアリー ミルモでポン!"
+  },
+  "synonyms": [
+    "Wagamama☆Fairy Mirumo de Pon!",
+    "Mirmo Zibang!",
+    "わがまま☆フェアリー ミルモでポン!",
+    "Milmo de Pon!",
+    "Mirmo!",
+    "Wagamama Fairy Milmo De Pon!",
+    "Selfish fairy : Mirumo de Pon!",
+    "Selfish fairy: Mirumo de Pon!",
+    "Selfish Fairy Mirumo de Pon!",
+    "Wagamama Fairy Mirumo de Pon! Golden",
+    "Wagamama Fairy Mirumo de Pon! Wonderful",
+    "Wagamama Fairy Mirumo de Pon! Charming"
+  ],
+  "type": "tv",
+  "episodes": 78,
+  "status": "finished",
+  "season": "spring",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1744.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1744",
+      "url": "https://anilist.co/anime/1744"
+    },
+    "k": {
+      "id": "1564",
+      "url": "https://kitsu.io/anime/1564"
+    },
+    "mal": {
+      "id": "1744",
+      "url": "https://myanimelist.net/anime/1744"
+    }
+  }
+}

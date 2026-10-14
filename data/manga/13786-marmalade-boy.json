@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13786,
+  "slug": "marmalade-boy",
+  "kind": "manga",
+  "title": "Marmalade Boy",
+  "titles": {
+    "default": "Marmalade Boy"
+  },
+  "synonyms": [
+    "마멀레이드 보이",
+    "Marmalade Boy",
+    "ママレード・ボーイ"
+  ],
+  "type": "manga",
+  "chapters": 40,
+  "volumes": 8,
+  "status": "finished",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30091-bj1AUgvEinjZ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "520",
+      "url": "https://anilist.co/anime/334"
+    },
+    "al_manga": {
+      "id": "520",
+      "url": "https://anilist.co/manga/520"
+    }
+  }
+}

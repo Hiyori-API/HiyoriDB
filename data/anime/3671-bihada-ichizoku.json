@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3671,
+  "slug": "bihada-ichizoku",
+  "kind": "anime",
+  "title": "Bihada Ichizoku",
+  "titles": {
+    "default": "Bihada Ichizoku",
+    "romaji": "Bihada Ichizoku",
+    "native": "美肌一族"
+  },
+  "synonyms": [
+    "Bihada Ichizoku",
+    "美肌一族",
+    "Junai Cosmetic Comic: Bihada Ichizoku",
+    "Pure Love Cosmetic Comic: Bihada Family",
+    "Kemeko Deluxe!",
+    "ケメコデラックス！",
+    "The Unknown Girlfriend",
+    "Kemeko DX"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4908-UDoy8eGoUsCE.png"
+  ],
+  "references": {
+    "al": {
+      "id": "4908",
+      "url": "https://anilist.co/anime/4908"
+    },
+    "cr": {
+      "id": "kemeko-dx",
+      "url": "https://www.crunchyroll.com/series/kemeko-dx"
+    },
+    "k": {
+      "id": "3029",
+      "url": "https://kitsu.io/anime/3029"
+    },
+    "mal": {
+      "id": "4908",
+      "url": "https://myanimelist.net/anime/4908"
+    },
+    "t": {
+      "id": "45915",
+      "url": "https://trakt.tv/shows/45915"
+    },
+    "tvt": {
+      "id": "bihada",
+      "url": "http://www.tv-tokyo.co.jp/anime/bihada"
+    }
+  }
+}

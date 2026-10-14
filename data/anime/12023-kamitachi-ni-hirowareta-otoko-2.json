@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12023,
+  "slug": "kamitachi-ni-hirowareta-otoko-2",
+  "kind": "anime",
+  "title": "Kamitachi ni Hirowareta Otoko 2",
+  "titles": {
+    "default": "Kamitachi ni Hirowareta Otoko 2",
+    "romaji": "Kamitachi ni Hirowareta Otoko 2",
+    "english": "By the Grace of the Gods 2",
+    "native": "神達に拾われた男２"
+  },
+  "synonyms": [
+    "Kamitachi ni Hirowareta Otoko 2",
+    "By the Grace of the Gods 2",
+    "神達に拾われた男２",
+    "Kami-tachi ni Hirowareta Otoko 2",
+    "เพราะพระเจ้าเลือกเลยได้เกิดใหม่มาเลี้ยงสไลม์ในต่างโลก ภาค 2",
+    "Oleh Rahmat Para Dewa 2",
+    "Tenten Kakumei",
+    "MagiRevo",
+    "The Magical Revolution of the Reincarnated Princess and the Genius Young Lady",
+    "転生王女と天才令嬢の魔法革命",
+    "Tensei Oujo to Tensai Reijou no Mahou Kakumei"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2023,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx135102-3vX6Rs8e8oHU.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "135102",
+      "url": "https://anilist.co/anime/135102"
+    },
+    "cr": {
+      "id": "series/GP5HJ85ED/by-the-grace-of-the-gods",
+      "url": "https://www.crunchyroll.com/series/series/GP5HJ85ED/by-the-grace-of-the-gods"
+    },
+    "mal": {
+      "id": "49109",
+      "url": "https://myanimelist.net/anime/49109"
+    },
+    "nf": {
+      "id": "81341928",
+      "url": "https://www.netflix.com/title/81341928"
+    },
+    "tx": {
+      "id": "kamihiro_anime",
+      "url": "https://twitter.com/kamihiro_anime"
+    }
+  }
+}

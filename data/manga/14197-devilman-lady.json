@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14197,
+  "slug": "devilman-lady",
+  "kind": "manga",
+  "title": "Devilman Lady",
+  "titles": {
+    "default": "Devilman Lady"
+  },
+  "synonyms": [
+    "Devil Lady",
+    "Devilman Lady",
+    "デビルマン レディー",
+    "The Devil Lady"
+  ],
+  "type": "manga",
+  "chapters": 65,
+  "volumes": 17,
+  "status": "finished",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31475-k7wdaz27kqQs.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1629",
+      "url": "https://anilist.co/anime/1629"
+    },
+    "al_manga": {
+      "id": "1629",
+      "url": "https://anilist.co/manga/1629"
+    }
+  }
+}

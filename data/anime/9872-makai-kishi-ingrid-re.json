@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9872,
+  "slug": "makai-kishi-ingrid-re",
+  "kind": "anime",
+  "title": "Makai Kishi Ingrid: Re",
+  "titles": {
+    "default": "Makai Kishi Ingrid: Re",
+    "romaji": "Makai Kishi Ingrid: Re",
+    "native": "魔界騎士イングリッド：Re"
+  },
+  "synonyms": [
+    "Makai Kishi Ingrid: Re",
+    "魔界騎士イングリッド：Re",
+    "Makai Kishi Ingrid: Re - Mesu Buta Dorei ni Ochita Makai Kishi",
+    "魔界騎士イングリッド: Re~メス豚奴隷に堕ちた魔界騎士~",
+    "Asobi Asobase OVA",
+    "Asobi Asobase: Cosplay Contest/To the Future Me",
+    "あそびあそばせ コスプレ大会 / 大人の私へ",
+    "Asobi Asobase: Cosplay Taikai/Otona no Watashi e"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx104854-zpfuXZMWsVtN.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "104854",
+      "url": "https://anilist.co/anime/104854"
+    },
+    "mal": {
+      "id": "38621",
+      "url": "https://myanimelist.net/anime/38621"
+    }
+  }
+}

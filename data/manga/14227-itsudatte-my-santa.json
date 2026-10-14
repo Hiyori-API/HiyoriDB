@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14227,
+  "slug": "itsudatte-my-santa",
+  "kind": "manga",
+  "title": "Itsudatte My Santa!",
+  "titles": {
+    "default": "Itsudatte My Santa!"
+  },
+  "synonyms": [
+    "Always My Santa",
+    "Mon Père-Noël à jamais",
+    "いつだってＭｙサンタ！",
+    "Itsudatte My Santa!",
+    "いつだってＭｙサンタ!"
+  ],
+  "type": "one_shot",
+  "chapters": 1,
+  "status": "finished",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b31607-GC7AINujsOrE.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "588",
+      "url": "https://anilist.co/anime/588"
+    },
+    "al_manga": {
+      "id": "588",
+      "url": "https://anilist.co/manga/588"
+    }
+  }
+}

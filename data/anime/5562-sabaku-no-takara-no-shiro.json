@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5562,
+  "slug": "sabaku-no-takara-no-shiro",
+  "kind": "anime",
+  "title": "Sabaku no Takara no Shiro",
+  "titles": {
+    "default": "Sabaku no Takara no Shiro",
+    "romaji": "Sabaku no Takara no Shiro",
+    "english": "The Treasures of the Desert",
+    "native": "さばくの宝の城"
+  },
+  "synonyms": [
+    "Sabaku no Takara no Shiro",
+    "The Treasures of the Desert",
+    "さばくの宝の城",
+    "沙漠的寶城",
+    "Les Trésors du Désert",
+    "Los tesoros del desierto"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17427.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "17427",
+      "url": "https://anilist.co/anime/17427"
+    },
+    "k": {
+      "id": "9561",
+      "url": "https://kitsu.io/anime/9561"
+    },
+    "mal": {
+      "id": "17427",
+      "url": "https://myanimelist.net/anime/17427"
+    }
+  }
+}

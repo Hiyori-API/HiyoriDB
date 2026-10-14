@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8396,
+  "slug": "mitsuami-no-kamisama",
+  "kind": "anime",
+  "title": "Mitsuami no Kamisama",
+  "titles": {
+    "default": "Mitsuami no Kamisama",
+    "romaji": "Mitsuami no Kamisama",
+    "english": "Pigtails",
+    "native": "みつあみの神様"
+  },
+  "synonyms": [
+    "Mitsuami no Kamisama",
+    "Pigtails",
+    "みつあみの神様",
+    "Mitsuami no Kami-sama",
+    "Little Witch Academia: The Enchanted Parade",
+    "Little Witch Academia: Mahoujikake no Parade",
+    "リトルウィッチアカデミア 魔法仕掛けのパレード",
+    "LWA 2",
+    "Little Witch Academia 2"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97735-BQxKq3hq7wRw.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "97735",
+      "url": "https://anilist.co/anime/97735"
+    },
+    "k": {
+      "id": "7862",
+      "url": "https://kitsu.io/anime/7862"
+    },
+    "mal": {
+      "id": "32461",
+      "url": "https://myanimelist.net/anime/32461"
+    }
+  }
+}

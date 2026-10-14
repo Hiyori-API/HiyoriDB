@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15541,
+  "slug": "kodai-ouja-kyouryuu-king",
+  "kind": "manga",
+  "title": "Kodai Ouja Kyouryuu King",
+  "titles": {
+    "default": "Kodai Ouja Kyouryuu King"
+  },
+  "synonyms": [
+    "Ancient Ruler Dinosaur King",
+    "Kyouryuu King",
+    "Dinosaur King",
+    "古代王者恐竜キング",
+    "Love Makes People Grow",
+    "Hito wa Ai wo Tabete Sodatsu",
+    "人は愛を食べて育つ",
+    "Eat Love and Grow",
+    "Hito wa ai o tabete sodatsu"
+  ],
+  "type": "manga",
+  "chapters": 11,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx51119-9tUKzfAj4SDl.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3576",
+      "url": "https://anilist.co/anime/3576"
+    },
+    "al_manga": {
+      "id": "3576",
+      "url": "https://anilist.co/manga/3576"
+    }
+  }
+}

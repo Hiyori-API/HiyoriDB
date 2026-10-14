@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13505,
+  "slug": "saikyou-no-shokugyou-wa-yuusha-demo-kenja-demo-naku-kanteishi-kari-rashii-desu-yo",
+  "kind": "anime",
+  "title": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
+  "titles": {
+    "default": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
+    "romaji": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
+    "english": "The strongest job is apparently not a hero or a sage, but an appraiser (provisional)!",
+    "native": "最強の職業は勇者でも賢者でもなく鑑定士（仮）らしいですよ？"
+  },
+  "synonyms": [
+    "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
+    "The strongest job is apparently not a hero or a sage, but an appraiser (provisional)!",
+    "最強の職業は勇者でも賢者でもなく鑑定士（仮）らしいですよ？",
+    "The Strongest Occupation Is Not a Hero or a Sage, but an Appraiser (Provisional)!",
+    "Kanteishikari",
+    "Xingchen Bian Final Season",
+    "Stellar Transformation 7th Season",
+    "Xingchen Bian 7th Season",
+    "星辰变 第7季",
+    "星辰变 天尊之战",
+    "Xingchen Bian: Tianzun Zhi Zhan",
+    "Xing Chen Bian 7th Season",
+    "Legend of Immortals 7th Season",
+    "Stellar Transformation Final Season",
+    "星辰变 最终季",
+    "Xingchen Bian: Zuizhong Ji"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200769-8WkFkoFxc2fw.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "200769",
+      "url": "https://anilist.co/anime/200769"
+    },
+    "cr": {
+      "id": "series/GT00371875/the-strongest-job-is-apparently-not-a-hero-or-a-sage-but-an-appraiser-provisional",
+      "url": "https://www.crunchyroll.com/series/series/GT00371875/the-strongest-job-is-apparently-not-a-hero-or-a-sage-but-an-appraiser-provisional"
+    },
+    "mal": {
+      "id": "62825",
+      "url": "https://myanimelist.net/anime/62825"
+    }
+  }
+}

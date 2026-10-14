@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 940,
+  "slug": "tokyo-juushouden",
+  "kind": "anime",
+  "title": "Tokyo Juushouden",
+  "titles": {
+    "default": "Tokyo Juushouden",
+    "romaji": "Tokyo Juushouden",
+    "english": "Ten Tokyo Warriors",
+    "native": "倒凶十将伝"
+  },
+  "synonyms": [
+    "Tokyo Juushouden",
+    "Ten Tokyo Warriors",
+    "倒凶十将伝",
+    "Tokyo Jushoden",
+    "Ten Warriors of Tokyo",
+    "10 Tokyo Warriors"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "summer",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1052-WibX4en0qto6.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1052",
+      "url": "https://anilist.co/anime/1052"
+    },
+    "k": {
+      "id": "942",
+      "url": "https://kitsu.io/anime/942"
+    },
+    "mal": {
+      "id": "1052",
+      "url": "https://myanimelist.net/anime/1052"
+    }
+  }
+}

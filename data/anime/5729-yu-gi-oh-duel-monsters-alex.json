@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5729,
+  "slug": "yu-gi-oh-duel-monsters-alex",
+  "kind": "anime",
+  "title": "Yu☆Gi☆Oh! Duel Monsters ALEX",
+  "titles": {
+    "default": "Yu☆Gi☆Oh! Duel Monsters ALEX",
+    "romaji": "Yu☆Gi☆Oh! Duel Monsters ALEX",
+    "english": "Yu-Gi-Oh! Capsule Monsters",
+    "native": "遊☆戯☆王デュエルモンスターズALEX"
+  },
+  "synonyms": [
+    "Yu☆Gi☆Oh! Duel Monsters ALEX",
+    "Yu-Gi-Oh! Capsule Monsters",
+    "遊☆戯☆王デュエルモンスターズALEX",
+    "Black Lagoon: The Second Barrage",
+    "BLACK LAGOON The Second Barrage",
+    "Black Lagoon 2nd Season",
+    "Black Lagoon Second Season"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx123074-KaVOArpjZr1B.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "123074",
+      "url": "https://anilist.co/anime/123074"
+    },
+    "ap": {
+      "id": "B079P7DNH2",
+      "url": "https://www.amazon.com/gp/video/detail/B079P7DNH2"
+    },
+    "cr": {
+      "id": "black-lagoon",
+      "url": "https://www.crunchyroll.com/series/black-lagoon"
+    },
+    "k": {
+      "id": "1363",
+      "url": "https://kitsu.io/anime/1363"
+    },
+    "mal": {
+      "id": "1519",
+      "url": "https://myanimelist.net/anime/1519"
+    },
+    "t": {
+      "id": "12542",
+      "url": "https://trakt.tv/shows/12542"
+    }
+  }
+}

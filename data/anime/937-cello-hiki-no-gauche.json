@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 937,
+  "slug": "cello-hiki-no-gauche",
+  "kind": "anime",
+  "title": "Cello Hiki no Gauche",
+  "titles": {
+    "default": "Cello Hiki no Gauche",
+    "romaji": "Cello Hiki no Gauche",
+    "english": "Gauche the Cellist",
+    "native": "セロ弾きのゴーシュ"
+  },
+  "synonyms": [
+    "Cello Hiki no Gauche",
+    "Gauche the Cellist",
+    "セロ弾きのゴーシュ",
+    "Serohiki no Goshu",
+    "Gorsch the Cellist",
+    "Goshu: O Violoncelista",
+    "Goshu, el violoncelista",
+    "Tobiuo no Boy wa Byouki Desu",
+    "トビウオのぼうや は びょうきです"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1982,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx1049-xHBQFAuKiK94.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1049",
+      "url": "https://anilist.co/anime/1049"
+    },
+    "k": {
+      "id": "9673",
+      "url": "https://kitsu.io/anime/9673"
+    },
+    "mal": {
+      "id": "1049",
+      "url": "https://myanimelist.net/anime/1049"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14970,
+  "slug": "houkago-series",
+  "kind": "manga",
+  "title": "Houkago Series",
+  "titles": {
+    "default": "Houkago Series"
+  },
+  "synonyms": [
+    "放課後のトム・ソーヤー",
+    "放課後のティンカー・ベル",
+    "放課後のロビン・フッド",
+    "放課後のジャンヌ・ダルク",
+    "放課後のジェームズ・ディーン",
+    "放課後のマザー・グース",
+    "放課後のハックルベリィ・フィン",
+    "放課後のメアリー・ポピンズ",
+    "放課後のクリスマス・キャロル",
+    "放課後のアルセーヌ・ルパン",
+    "放課後のシンドバッド 夏休みミーティング",
+    "放課後のオズ -OLD DAYS-",
+    "放課後のドン・キホーテ キャンパス編",
+    "放課後のルイス・キャロル",
+    "放課後のウィリアム・テル キャンパス編",
+    "放課後のシャーロック・ホームズ",
+    "放課後のサンタクロース",
+    "放課後のアン",
+    "放課後のアンデルセン",
+    "放課後のコロンブス",
+    "放課後のクレオパトラ",
+    "放課後のピノキオ",
+    "放課後のイソップ",
+    "放課後シリーズ",
+    "Kidou Senshi Gundam: Gyakushuu no Char - Beltorchika's Children",
+    "機動戦士ガンダム 逆襲のシャア ベルトーチカ・チルドレン",
+    "Mobile Suit Gundam: Char's Counterattack - Beltorchika's Children"
+  ],
+  "type": "novel",
+  "volumes": 23,
+  "status": "finished",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b129756-RP84l2z0Wowx.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "13299",
+      "url": "https://anilist.co/anime/13299"
+    },
+    "al_manga": {
+      "id": "13299",
+      "url": "https://anilist.co/manga/13299"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7190,
+  "slug": "aku-no-hana",
+  "kind": "anime",
+  "title": "Aku no Hana",
+  "titles": {
+    "default": "Aku no Hana",
+    "romaji": "Aku no Hana",
+    "english": "Flowers of Evil",
+    "native": "惡の華"
+  },
+  "synonyms": [
+    "Aku no Hana",
+    "Flowers of Evil",
+    "惡の華",
+    "Kwiaty zła"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16201-rYR0GXDBve8Y.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "16201",
+      "url": "https://anilist.co/anime/16201"
+    },
+    "cr": {
+      "id": "flowers-of-evil",
+      "url": "https://www.crunchyroll.com/series/flowers-of-evil"
+    },
+    "k": {
+      "id": "7387",
+      "url": "https://kitsu.io/anime/7387"
+    },
+    "mal": {
+      "id": "16201",
+      "url": "https://myanimelist.net/anime/16201"
+    },
+    "t": {
+      "id": "70015",
+      "url": "https://trakt.tv/shows/70015"
+    },
+    "tx": {
+      "id": "akunohana_anime",
+      "url": "https://twitter.com/akunohana_anime"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1757,
+  "slug": "himawari",
+  "kind": "anime",
+  "title": "Himawari!!",
+  "titles": {
+    "default": "Himawari!!",
+    "romaji": "Himawari!!",
+    "english": "Himawari Too!!",
+    "native": "ひまわりっ！！"
+  },
+  "synonyms": [
+    "Himawari!!",
+    "Himawari Too!!",
+    "ひまわりっ！！"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1988.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1988",
+      "url": "https://anilist.co/anime/1988"
+    },
+    "k": {
+      "id": "1789",
+      "url": "https://kitsu.io/anime/1789"
+    },
+    "mal": {
+      "id": "1988",
+      "url": "https://myanimelist.net/anime/1988"
+    },
+    "t": {
+      "id": "42760",
+      "url": "https://trakt.tv/shows/42760"
+    }
+  }
+}

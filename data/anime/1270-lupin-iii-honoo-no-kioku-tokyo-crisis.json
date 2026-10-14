@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1270,
+  "slug": "lupin-iii-honoo-no-kioku-tokyo-crisis",
+  "kind": "anime",
+  "title": "Lupin III: Honoo no Kioku - Tokyo Crisis",
+  "titles": {
+    "default": "Lupin III: Honoo no Kioku - Tokyo Crisis",
+    "romaji": "Lupin III: Honoo no Kioku - Tokyo Crisis",
+    "english": "Lupin The 3rd: Tokyo Crisis",
+    "native": "ルパン三世『炎の記憶 ~Tokyo Crisis~』"
+  },
+  "synonyms": [
+    "Lupin III: Honoo no Kioku - Tokyo Crisis",
+    "Lupin The 3rd: Tokyo Crisis",
+    "ルパン三世『炎の記憶 ~Tokyo Crisis~』",
+    "Rupan Sansei",
+    "Lupin III: Memories of the Flame - Tokyo Crisis",
+    "Lupin III: Burning Memory - Tokyo Crisis",
+    "Lupin III: Honou no Kioku - Tokyo Crisis",
+    "Lupin III: Tokyo Crisis",
+    "Lupin III - L'unione fa la forza",
+    "Lupin the Third: Crisis in Tokyo",
+    "Lupin III: Crisis in Tokyo"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1437-0oQS3aiiyyp7.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1437",
+      "url": "https://anilist.co/anime/1437"
+    },
+    "ap": {
+      "id": "B08X2CK27F",
+      "url": "https://www.amazon.com/gp/video/detail/B08X2CK27F"
+    },
+    "k": {
+      "id": "1290",
+      "url": "https://kitsu.io/anime/1290"
+    },
+    "mal": {
+      "id": "1437",
+      "url": "https://myanimelist.net/anime/1437"
+    }
+  }
+}

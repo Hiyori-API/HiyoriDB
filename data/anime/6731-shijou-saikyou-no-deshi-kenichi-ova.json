@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6731,
+  "slug": "shijou-saikyou-no-deshi-kenichi-ova",
+  "kind": "anime",
+  "title": "Shijou Saikyou no Deshi Kenichi OVA",
+  "titles": {
+    "default": "Shijou Saikyou no Deshi Kenichi OVA",
+    "romaji": "Shijou Saikyou no Deshi Kenichi OVA",
+    "english": "Kenichi: The Mightiest Disciple: The Attack of Darkness",
+    "native": "史上最強の弟子 ケンイチ OVA"
+  },
+  "synonyms": [
+    "Shijou Saikyou no Deshi Kenichi OVA",
+    "Kenichi: The Mightiest Disciple: The Attack of Darkness",
+    "史上最強の弟子 ケンイチ OVA",
+    "History's Strongest Disciple Kenichi OVA",
+    "Kenichi: The Mightiest Disciple OVA",
+    "KenIchi: The Mightiest Disciple OVA",
+    "Shijou Saikyou no Deshi Kenichi: Yami no Shuugeki"
+  ],
+  "type": "ova",
+  "episodes": 11,
+  "status": "finished",
+  "season": "spring",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11813.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11813",
+      "url": "https://anilist.co/anime/11813"
+    },
+    "k": {
+      "id": "6608",
+      "url": "https://kitsu.io/anime/6608"
+    },
+    "mal": {
+      "id": "11813",
+      "url": "https://myanimelist.net/anime/11813"
+    }
+  }
+}

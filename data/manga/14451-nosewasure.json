@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14451,
+  "slug": "nosewasure",
+  "kind": "manga",
+  "title": "Nosewasure",
+  "titles": {
+    "default": "Nosewasure"
+  },
+  "synonyms": [
+    "The Start of Miss Ayano Chuzenji's Sexual Woes",
+    "Big Dick",
+    "Big Business",
+    "The Case of the JR Group",
+    "Jokyoushi Chuuzenji Ayano no Inutsuna Korekara",
+    "Kyokon wa Shoubai nari!",
+    "Sousa e-gakari Ishihara Miina!!",
+    "Yoshimoto!",
+    "Shohousen",
+    "LOVERINTH",
+    "PEACH Kateikyoushi",
+    "のせわすれ",
+    "Renai Soukanzu",
+    "恋愛相姦図",
+    "Renai Sokanzu",
+    "Pink Sweets"
+  ],
+  "type": "manga",
+  "chapters": 9,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33815-cDaoeCdSAx6H.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21106",
+      "url": "https://anilist.co/anime/21106"
+    },
+    "al_manga": {
+      "id": "21106",
+      "url": "https://anilist.co/manga/21106"
+    }
+  }
+}

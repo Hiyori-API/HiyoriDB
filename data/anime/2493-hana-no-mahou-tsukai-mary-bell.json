@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2493,
+  "slug": "hana-no-mahou-tsukai-mary-bell",
+  "kind": "anime",
+  "title": "Hana no Mahou Tsukai Mary Bell",
+  "titles": {
+    "default": "Hana no Mahou Tsukai Mary Bell",
+    "romaji": "Hana no Mahou Tsukai Mary Bell",
+    "native": "花の魔法使いマリーベル"
+  },
+  "synonyms": [
+    "Hana no Mahou Tsukai Mary Bell",
+    "花の魔法使いマリーベル",
+    "Floral Magician Mary Bell",
+    "Hana no Mahou Tsukai Maribell",
+    "Floral Elf Mary Bell",
+    "Flower Witch Marybell",
+    "مغامرات نغم",
+    "Hana no Mahoutsukai Mary Bell"
+  ],
+  "type": "tv",
+  "episodes": 50,
+  "status": "finished",
+  "season": "winter",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2804-V9GMn6XxlfUK.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2804",
+      "url": "https://anilist.co/anime/2804"
+    },
+    "k": {
+      "id": "2560",
+      "url": "https://kitsu.io/anime/2560"
+    },
+    "mal": {
+      "id": "2804",
+      "url": "https://myanimelist.net/anime/2804"
+    }
+  }
+}

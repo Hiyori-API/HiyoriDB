@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2191,
+  "slug": "naruto-shippuuden-movie",
+  "kind": "anime",
+  "title": "NARUTO: Shippuuden Movie",
+  "titles": {
+    "default": "NARUTO: Shippuuden Movie",
+    "romaji": "NARUTO: Shippuuden Movie",
+    "english": "Naruto Shippuden the Movie",
+    "native": "劇場版 NARUTO -ナルト- 疾風伝"
+  },
+  "synonyms": [
+    "NARUTO: Shippuuden Movie",
+    "Naruto Shippuden the Movie",
+    "劇場版 NARUTO -ナルト- 疾風伝",
+    "Naruto Shippuuden Movie",
+    "Naruto Movie 4",
+    "Gekijouban Naruto Shippuuden",
+    "Naruto Shippuden Un Funeste Présage",
+    "Naruto Shippuden Movie 01: L'esercito fantasma",
+    "Naruto: Shippuden the Movie",
+    "Naruto: Shippuuden Movie 1",
+    "劇場版NARUTO -ナルト- 疾風伝"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2472-mYApVxceStn5.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2472",
+      "url": "https://anilist.co/anime/2472"
+    },
+    "k": {
+      "id": "2245",
+      "url": "https://kitsu.io/anime/2245"
+    },
+    "mal": {
+      "id": "2472",
+      "url": "https://myanimelist.net/anime/2472"
+    },
+    "nf": {
+      "id": "70124999",
+      "url": "https://www.netflix.com/title/70124999"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1799,
+  "slug": "hime-chan-no-ribbon",
+  "kind": "anime",
+  "title": "Hime-chan no Ribbon",
+  "titles": {
+    "default": "Hime-chan no Ribbon",
+    "romaji": "Hime-chan no Ribbon",
+    "native": "姫ちゃんのリボン"
+  },
+  "synonyms": [
+    "Hime-chan no Ribbon",
+    "姫ちゃんのリボン",
+    "Hime-chan's Ribbon",
+    "Un fiocco per sognare, un fiocco per cambiare"
+  ],
+  "type": "tv",
+  "episodes": 61,
+  "status": "finished",
+  "season": "fall",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2037-QHc1pdhGwV0S.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2037",
+      "url": "https://anilist.co/anime/2037"
+    },
+    "k": {
+      "id": "1836",
+      "url": "https://kitsu.io/anime/1836"
+    },
+    "mal": {
+      "id": "2037",
+      "url": "https://myanimelist.net/anime/2037"
+    },
+    "t": {
+      "id": "43001",
+      "url": "https://trakt.tv/shows/43001"
+    }
+  }
+}

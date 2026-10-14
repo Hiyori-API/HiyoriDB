@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7994,
+  "slug": "juugo-shounen-hyouryuuki-kaizoku-jima-de-daibouken",
+  "kind": "anime",
+  "title": "Juugo Shounen Hyouryuuki: Kaizoku-jima DE! Daibouken",
+  "titles": {
+    "default": "Juugo Shounen Hyouryuuki: Kaizoku-jima DE! Daibouken",
+    "romaji": "Juugo Shounen Hyouryuuki: Kaizoku-jima DE! Daibouken",
+    "native": "十五少年漂流記 海賊島DE! 大冒険"
+  },
+  "synonyms": [
+    "Juugo Shounen Hyouryuuki: Kaizoku-jima DE! Daibouken",
+    "十五少年漂流記 海賊島DE! 大冒険",
+    "Expelled from Paradise",
+    "Rakuen Tsuihou",
+    "楽園追放 -Expelled from Paradise-"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b149036-UaxNOFJEwnpl.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "149036",
+      "url": "https://anilist.co/anime/149036"
+    },
+    "k": {
+      "id": "6953",
+      "url": "https://kitsu.io/anime/6953"
+    },
+    "mal": {
+      "id": "21021",
+      "url": "https://myanimelist.net/anime/21021"
+    },
+    "nf": {
+      "id": "80038207",
+      "url": "https://www.netflix.com/title/80038207"
+    }
+  }
+}

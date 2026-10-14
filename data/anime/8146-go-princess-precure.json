@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8146,
+  "slug": "go-princess-precure",
+  "kind": "anime",
+  "title": "Go! Princess Precure",
+  "titles": {
+    "default": "Go! Princess Precure",
+    "romaji": "Go! Princess Precure",
+    "native": "Go!プリンセスプリキュア"
+  },
+  "synonyms": [
+    "Go! Princess Precure",
+    "Go!プリンセスプリキュア",
+    "Go! Princess Pretty Cure",
+    "Go! プリンセスプリキュア"
+  ],
+  "type": "tv",
+  "episodes": 50,
+  "status": "finished",
+  "season": "winter",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21001-49nYJTr7Wnsu.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21001",
+      "url": "https://anilist.co/anime/21001"
+    },
+    "cr": {
+      "id": "series/G9VHN9QDQ/go-princess-precure",
+      "url": "https://www.crunchyroll.com/series/series/G9VHN9QDQ/go-princess-precure"
+    },
+    "mal": {
+      "id": "28669",
+      "url": "https://myanimelist.net/anime/28669"
+    }
+  }
+}

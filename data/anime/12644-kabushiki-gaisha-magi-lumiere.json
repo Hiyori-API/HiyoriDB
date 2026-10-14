@@ -1,0 +1,68 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12644,
+  "slug": "kabushiki-gaisha-magi-lumiere",
+  "kind": "anime",
+  "title": "Kabushiki Gaisha Magi Lumiere",
+  "titles": {
+    "default": "Kabushiki Gaisha Magi Lumiere",
+    "romaji": "Kabushiki Gaisha Magi Lumiere",
+    "english": "Magilumiere Magical Girls Inc.",
+    "native": "株式会社マジルミエ"
+  },
+  "synonyms": [
+    "Kabushiki Gaisha Magi Lumiere",
+    "Magilumiere Magical Girls Inc.",
+    "株式会社マジルミエ",
+    "Magilumiere Co. Ltd.",
+    "Magilumiere Inc.: Magiczne Dziewczyny",
+    "Biro Gadis Penyihir Magilumiere",
+    "Syarikat Gadis Ajaib Magilumiere",
+    "Magilumiere Inc.",
+    "MAGICAL GIRLS S.A. MAGILUMIERE",
+    "Magilumière Co. Ltd.",
+    "Magilumiere: Companhia Das Garotas Mágicas",
+    "Magilumiere Büyücü Kızlar A.Ş.",
+    "شركة ماجيلومير الفتيات الساحرات المتحدة",
+    "मैजिलुमिएर मैजिकल गर्ल्स इंक",
+    "บริษัทจํากัด แมจิลูเมียร์",
+    "魔法光源股份有限公司",
+    "주식회사 마지루미에",
+    "Rozen Maiden",
+    "ローゼンメイデン"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2024,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171025-alBpVzKrgy1b.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "171025",
+      "url": "https://anilist.co/anime/171025"
+    },
+    "cr": {
+      "id": "rozen-maiden",
+      "url": "https://www.crunchyroll.com/series/rozen-maiden"
+    },
+    "k": {
+      "id": "45",
+      "url": "https://kitsu.io/anime/45"
+    },
+    "mal": {
+      "id": "57360",
+      "url": "https://myanimelist.net/anime/57360"
+    },
+    "t": {
+      "id": "61847",
+      "url": "https://trakt.tv/shows/61847"
+    },
+    "tx": {
+      "id": "MagilumiereLtd",
+      "url": "https://twitter.com/MagilumiereLtd"
+    }
+  }
+}

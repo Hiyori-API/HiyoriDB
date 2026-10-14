@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1355,
+  "slug": "futari-wa-precure-splash-star",
+  "kind": "anime",
+  "title": "Futari wa Precure: Splash☆Star",
+  "titles": {
+    "default": "Futari wa Precure: Splash☆Star",
+    "romaji": "Futari wa Precure: Splash☆Star",
+    "english": "PreCure Splash Star",
+    "native": "ふたりはプリキュア Splash☆Star"
+  },
+  "synonyms": [
+    "Futari wa Precure: Splash☆Star",
+    "PreCure Splash Star",
+    "ふたりはプリキュア Splash☆Star",
+    "Pretty Cure Splash☆Star",
+    "Pretty Cure: Splash Star"
+  ],
+  "type": "tv",
+  "episodes": 49,
+  "status": "finished",
+  "season": "winter",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1534-mbnVgJrquBQt.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1534",
+      "url": "https://anilist.co/anime/1534"
+    },
+    "cr": {
+      "id": "series/GVDHX85JN/precure-splash-star",
+      "url": "https://www.crunchyroll.com/series/series/GVDHX85JN/precure-splash-star"
+    },
+    "k": {
+      "id": "1375",
+      "url": "https://kitsu.io/anime/1375"
+    },
+    "mal": {
+      "id": "1534",
+      "url": "https://myanimelist.net/anime/1534"
+    },
+    "t": {
+      "id": "62383",
+      "url": "https://trakt.tv/shows/62383"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7909,
+  "slug": "mou-hasamazu-ni-wa-irarenai-hoshi-ni-onegai-shitara-konna-ni-okkiku-nacchatta",
+  "kind": "anime",
+  "title": "Mou Hasamazu ni wa Irarenai♥: Hoshi ni Onegai Shitara Konna ni Okkiku Nacchatta!",
+  "titles": {
+    "default": "Mou Hasamazu ni wa Irarenai♥: Hoshi ni Onegai Shitara Konna ni Okkiku Nacchatta!",
+    "romaji": "Mou Hasamazu ni wa Irarenai♥: Hoshi ni Onegai Shitara Konna ni Okkiku Nacchatta!",
+    "english": "Erotic Encounter of the Alien Kind",
+    "native": "もう挟まずにはいられない♥ ～星にお願いしたらこんなにおっきくなっちゃった！～"
+  },
+  "synonyms": [
+    "Mou Hasamazu ni wa Irarenai♥: Hoshi ni Onegai Shitara Konna ni Okkiku Nacchatta!",
+    "Erotic Encounter of the Alien Kind",
+    "もう挟まずにはいられない♥ ～星にお願いしたらこんなにおっきくなっちゃった！～",
+    "I just can't stand not getting between them!",
+    "Mitsuwano",
+    "みツわの"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21542-sQPkPq1tj6nL.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21542",
+      "url": "https://anilist.co/anime/21542"
+    },
+    "k": {
+      "id": "8140",
+      "url": "https://kitsu.io/anime/8140"
+    },
+    "mal": {
+      "id": "22039",
+      "url": "https://myanimelist.net/anime/22039"
+    }
+  }
+}

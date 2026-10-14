@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15789,
+  "slug": "sparrow-s-hotel",
+  "kind": "manga",
+  "title": "Sparrow's Hotel",
+  "titles": {
+    "default": "Sparrow's Hotel"
+  },
+  "synonyms": [
+    "スパロウズホテル",
+    "Yuyushiki",
+    "ゆゆ式",
+    "Yuyu-shiki"
+  ],
+  "type": "manga",
+  "status": "publishing",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx79317-evVenMV5aYRp.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "17849",
+      "url": "https://anilist.co/anime/17849"
+    },
+    "al_manga": {
+      "id": "17849",
+      "url": "https://anilist.co/manga/17849"
+    }
+  }
+}

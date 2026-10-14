@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7404,
+  "slug": "shingeki-no-kyojin-chimi-kyara-gekijou-tondeke-kunren-heidan",
+  "kind": "anime",
+  "title": "Shingeki no Kyojin: Chimi Kyara Gekijou - Tondeke! Kunren Heidan",
+  "titles": {
+    "default": "Shingeki no Kyojin: Chimi Kyara Gekijou - Tondeke! Kunren Heidan",
+    "romaji": "Shingeki no Kyojin: Chimi Kyara Gekijou - Tondeke! Kunren Heidan",
+    "english": "Attack on Titan Picture Drama",
+    "native": "「進撃の巨人」ちみキャラ劇場\"とんでけ! 訓練兵団\""
+  },
+  "synonyms": [
+    "Shingeki no Kyojin: Chimi Kyara Gekijou - Tondeke! Kunren Heidan",
+    "Attack on Titan Picture Drama",
+    "「進撃の巨人」ちみキャラ劇場\"とんでけ! 訓練兵団\"",
+    "Attack on Titan Chibi Theatre: Fly, Cadets, Fly!",
+    "Shingeki no Kyojin Picture Drama"
+  ],
+  "type": "special",
+  "episodes": 9,
+  "status": "finished",
+  "season": "summer",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19391.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "19391",
+      "url": "https://anilist.co/anime/19391"
+    },
+    "k": {
+      "id": "7889",
+      "url": "https://kitsu.io/anime/7889"
+    },
+    "mal": {
+      "id": "19391",
+      "url": "https://myanimelist.net/anime/19391"
+    },
+    "tx": {
+      "id": "anime_shingeki",
+      "url": "https://twitter.com/anime_shingeki"
+    }
+  }
+}

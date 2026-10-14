@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2330,
+  "slug": "oshougatsu-da-yo-doraemon",
+  "kind": "anime",
+  "title": "Oshougatsu da yo! Doraemon",
+  "titles": {
+    "default": "Oshougatsu da yo! Doraemon",
+    "romaji": "Oshougatsu da yo! Doraemon",
+    "native": "お正月だよ！ドラえもん"
+  },
+  "synonyms": [
+    "Oshougatsu da yo! Doraemon",
+    "お正月だよ！ドラえもん",
+    "Doraemon: It's New Year!"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1979,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2627-nL4iVzVstAmm.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2627",
+      "url": "https://anilist.co/anime/2627"
+    },
+    "k": {
+      "id": "2391",
+      "url": "https://kitsu.io/anime/2391"
+    },
+    "mal": {
+      "id": "2627",
+      "url": "https://myanimelist.net/anime/2627"
+    }
+  }
+}

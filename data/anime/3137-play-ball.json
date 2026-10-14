@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3137,
+  "slug": "play-ball",
+  "kind": "anime",
+  "title": "Play Ball",
+  "titles": {
+    "default": "Play Ball",
+    "romaji": "Play Ball",
+    "native": "プレイボール"
+  },
+  "synonyms": [
+    "Play Ball",
+    "プレイボール",
+    "Playball"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3768-zQ0UhfLUN4fd.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3768",
+      "url": "https://anilist.co/anime/3768"
+    },
+    "k": {
+      "id": "3242",
+      "url": "https://kitsu.io/anime/3242"
+    },
+    "mal": {
+      "id": "3768",
+      "url": "https://myanimelist.net/anime/3768"
+    }
+  }
+}

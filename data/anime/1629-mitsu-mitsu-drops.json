@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1629,
+  "slug": "mitsu-mitsu-drops",
+  "kind": "anime",
+  "title": "Mitsu × Mitsu Drops",
+  "titles": {
+    "default": "Mitsu × Mitsu Drops",
+    "romaji": "Mitsu × Mitsu Drops",
+    "english": "Honey x Honey Drops",
+    "native": "蜜×蜜ドロップス"
+  },
+  "synonyms": [
+    "Mitsu × Mitsu Drops",
+    "Honey x Honey Drops",
+    "蜜×蜜ドロップス",
+    "Honey & Honey Drops",
+    "Mitsu x Mitsu Drops"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1838.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1838",
+      "url": "https://anilist.co/anime/1838"
+    },
+    "k": {
+      "id": "1655",
+      "url": "https://kitsu.io/anime/1655"
+    },
+    "mal": {
+      "id": "1838",
+      "url": "https://myanimelist.net/anime/1838"
+    }
+  }
+}

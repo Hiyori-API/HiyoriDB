@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14491,
+  "slug": "kemeko-dx",
+  "kind": "manga",
+  "title": "Kemeko DX",
+  "titles": {
+    "default": "Kemeko DX"
+  },
+  "synonyms": [
+    "Kemeko Deluxe",
+    "The Unknown Girlfriend",
+    "ケメコデラックス",
+    "Renai Soukanzu",
+    "恋愛相姦図",
+    "Renai Sokanzu",
+    "Pink Sweets"
+  ],
+  "type": "manga",
+  "chapters": 63,
+  "volumes": 9,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx34153-pHlF0zTR4yB9.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3464",
+      "url": "https://anilist.co/anime/3464"
+    },
+    "al_manga": {
+      "id": "3464",
+      "url": "https://anilist.co/manga/3464"
+    }
+  }
+}

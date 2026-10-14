@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3151,
+  "slug": "speed",
+  "kind": "anime",
+  "title": "Speed",
+  "titles": {
+    "default": "Speed",
+    "romaji": "Speed",
+    "native": "スピード"
+  },
+  "synonyms": [
+    "Speed",
+    "スピード",
+    "Kousoku Shakai to Ningen",
+    "Man and a High Speed Society"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1980,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3799-Dxtay0RzIYu8.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3799",
+      "url": "https://anilist.co/anime/3799"
+    },
+    "k": {
+      "id": "3257",
+      "url": "https://kitsu.io/anime/3257"
+    },
+    "mal": {
+      "id": "3799",
+      "url": "https://myanimelist.net/anime/3799"
+    }
+  }
+}

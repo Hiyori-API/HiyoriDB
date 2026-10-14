@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2084,
+  "slug": "kojin-taxi",
+  "kind": "anime",
+  "title": "Kojin Taxi",
+  "titles": {
+    "default": "Kojin Taxi",
+    "romaji": "Kojin Taxi",
+    "english": "Sex Taxi",
+    "native": "股人タクシー"
+  },
+  "synonyms": [
+    "Kojin Taxi",
+    "Sex Taxi",
+    "股人タクシー",
+    "Sweat Punch",
+    "スウェットパンチ",
+    "Deep Imagination",
+    "Dan Petory Kyoushu no Yuutsu",
+    "Professor Dan Petry's Blues",
+    "End of the World",
+    "Kigeki",
+    "Comedy",
+    "Higan",
+    "Beyond",
+    "Garakuta no Machi",
+    "Junk Town"
+  ],
+  "type": "ova",
+  "episodes": 5,
+  "status": "finished",
+  "season": "spring",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2357.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2357",
+      "url": "https://anilist.co/anime/2357"
+    },
+    "k": {
+      "id": "959",
+      "url": "https://kitsu.io/anime/959"
+    },
+    "mal": {
+      "id": "2357",
+      "url": "https://myanimelist.net/anime/2357"
+    }
+  }
+}

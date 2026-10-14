@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7384,
+  "slug": "fate-kaleid-liner-prisma-illya-short-anime",
+  "kind": "anime",
+  "title": "Fate/kaleid liner Prisma☆Illya Short Anime",
+  "titles": {
+    "default": "Fate/kaleid liner Prisma☆Illya Short Anime",
+    "romaji": "Fate/kaleid liner Prisma☆Illya Short Anime",
+    "native": "Fate/kaleid liner プリズマ☆イリヤ ショートアニメ"
+  },
+  "synonyms": [
+    "Fate/kaleid liner Prisma☆Illya Short Anime",
+    "Fate/kaleid liner プリズマ☆イリヤ ショートアニメ",
+    "Fate/kaleid liner Prisma☆Illya Specials",
+    "Fate/kaleid liner プリズマ☆イリヤ"
+  ],
+  "type": "special",
+  "episodes": 5,
+  "status": "finished",
+  "season": "fall",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19109.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "19109",
+      "url": "https://anilist.co/anime/19109"
+    },
+    "k": {
+      "id": "7858",
+      "url": "https://kitsu.io/anime/7858"
+    },
+    "mal": {
+      "id": "19109",
+      "url": "https://myanimelist.net/anime/19109"
+    },
+    "tx": {
+      "id": "prisma_illya",
+      "url": "https://twitter.com/prisma_illya"
+    }
+  }
+}

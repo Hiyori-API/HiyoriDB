@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 198,
+  "slug": "dragon-ball",
+  "kind": "anime",
+  "title": "Dragon Ball",
+  "titles": {
+    "default": "Dragon Ball",
+    "romaji": "Dragon Ball",
+    "native": "ドラゴンボール"
+  },
+  "synonyms": [
+    "Dragon Ball",
+    "ドラゴンボール",
+    "Dragonball",
+    "Bola de Drac",
+    "דרגון בול",
+    "ดราก้อนบอล",
+    "Bảy Viên Ngọc Rồng",
+    "DB",
+    "Драконий жемчуг"
+  ],
+  "type": "tv",
+  "episodes": 153,
+  "status": "finished",
+  "season": "winter",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx223-scE5uJfXqqj8.png"
+  ],
+  "references": {
+    "al": {
+      "id": "223",
+      "url": "https://anilist.co/anime/223"
+    },
+    "cr": {
+      "id": "dragon-ball",
+      "url": "https://www.crunchyroll.com/series/dragon-ball"
+    },
+    "k": {
+      "id": "199",
+      "url": "https://kitsu.io/anime/199"
+    },
+    "mal": {
+      "id": "223",
+      "url": "https://myanimelist.net/anime/223"
+    },
+    "t": {
+      "id": "12553",
+      "url": "https://trakt.tv/shows/12553"
+    }
+  }
+}

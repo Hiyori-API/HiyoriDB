@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6849,
+  "slug": "fate-zero-onegai-einzbern-soudanshitsu",
+  "kind": "anime",
+  "title": "Fate/Zero: Onegai! Einzbern Soudanshitsu",
+  "titles": {
+    "default": "Fate/Zero: Onegai! Einzbern Soudanshitsu",
+    "romaji": "Fate/Zero: Onegai! Einzbern Soudanshitsu",
+    "english": "Fate/Zero: Please! Einzbern Counseling Room",
+    "native": "お願い!アインツベルン相談室"
+  },
+  "synonyms": [
+    "Fate/Zero: Onegai! Einzbern Soudanshitsu",
+    "Fate/Zero: Please! Einzbern Counseling Room",
+    "お願い!アインツベルン相談室",
+    "Fate/Zero Specials",
+    "Please! Einzbern Consultation Room",
+    "Tiger/Zero",
+    "Судьба/Начало: Пожалуйста! Консультация с Айнцберн",
+    "Daily Lives of High School Boys Specials",
+    "Danshi Koukousei no Nichijou Specials",
+    "男子高校生の日常"
+  ],
+  "type": "special",
+  "episodes": 6,
+  "status": "finished",
+  "season": "spring",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13263-TtCqlSFIpfrM.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "13263",
+      "url": "https://anilist.co/anime/13263"
+    },
+    "k": {
+      "id": "6839",
+      "url": "https://kitsu.io/anime/6839"
+    },
+    "mal": {
+      "id": "13263",
+      "url": "https://myanimelist.net/anime/13263"
+    }
+  }
+}

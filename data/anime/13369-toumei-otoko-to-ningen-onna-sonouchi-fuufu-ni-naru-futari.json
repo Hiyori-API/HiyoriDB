@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13369,
+  "slug": "toumei-otoko-to-ningen-onna-sonouchi-fuufu-ni-naru-futari",
+  "kind": "anime",
+  "title": "Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari",
+  "titles": {
+    "default": "Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari",
+    "romaji": "Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari",
+    "english": "The Invisible Man and His Soon-to-Be Wife",
+    "native": "透明男と人間女～そのうち夫婦になるふたり～"
+  },
+  "synonyms": [
+    "Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari",
+    "The Invisible Man and His Soon-to-Be Wife",
+    "透明男と人間女～そのうち夫婦になるふたり～",
+    "รักใส ใจละมุน กับคุณที่มองไม่เห็น"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185039-rVofxrbEyaL9.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "185039",
+      "url": "https://anilist.co/anime/185039"
+    },
+    "cr": {
+      "id": "series/GT00365610/the-invisible-man-and-his-soon-to-be-wife",
+      "url": "https://www.crunchyroll.com/series/series/GT00365610/the-invisible-man-and-his-soon-to-be-wife"
+    },
+    "mal": {
+      "id": "60395",
+      "url": "https://myanimelist.net/anime/60395"
+    }
+  }
+}

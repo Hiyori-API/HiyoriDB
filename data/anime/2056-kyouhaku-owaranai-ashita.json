@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2056,
+  "slug": "kyouhaku-owaranai-ashita",
+  "kind": "anime",
+  "title": "Kyouhaku: Owaranai Ashita",
+  "titles": {
+    "default": "Kyouhaku: Owaranai Ashita",
+    "romaji": "Kyouhaku: Owaranai Ashita",
+    "english": "The Blackmail: Tomorrow Never Ends",
+    "native": "脅迫～終わらない明日～"
+  },
+  "synonyms": [
+    "Kyouhaku: Owaranai Ashita",
+    "The Blackmail: Tomorrow Never Ends",
+    "脅迫～終わらない明日～",
+    "The Blackmail",
+    "Yonimo Osoroshii Grimm Douwa",
+    "世にも恐ろしいグリム童話",
+    "The Truth of Grimm Brothers' Fairy Tale",
+    "Otona no Douwa",
+    "Otona no Dowa",
+    "Otono no Douwa",
+    "Otono no Dowa",
+    "Adult Fairytales",
+    "Adult Fairy Tales"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "winter",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2327.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2327",
+      "url": "https://anilist.co/anime/2327"
+    },
+    "k": {
+      "id": "3456",
+      "url": "https://kitsu.io/anime/3456"
+    },
+    "mal": {
+      "id": "2327",
+      "url": "https://myanimelist.net/anime/2327"
+    }
+  }
+}

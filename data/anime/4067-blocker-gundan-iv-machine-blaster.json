@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4067,
+  "slug": "blocker-gundan-iv-machine-blaster",
+  "kind": "anime",
+  "title": "Blocker Gundan IV Machine Blaster",
+  "titles": {
+    "default": "Blocker Gundan IV Machine Blaster",
+    "romaji": "Blocker Gundan IV Machine Blaster",
+    "english": "Blocker Corps",
+    "native": "ブロッカー軍団Ⅳマシーンブラスター"
+  },
+  "synonyms": [
+    "Blocker Gundan IV Machine Blaster",
+    "Blocker Corps",
+    "ブロッカー軍団Ⅳマシーンブラスター",
+    "Blocker Gundan 4 Machine Blaster",
+    "Astrorobot",
+    "Blocker Army IV Machine Blaster",
+    "Blocker Corps IV: Machine Blaster"
+  ],
+  "type": "tv",
+  "episodes": 38,
+  "status": "finished",
+  "season": "summer",
+  "year": 1976,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5829.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5829",
+      "url": "https://anilist.co/anime/5829"
+    },
+    "k": {
+      "id": "4292",
+      "url": "https://kitsu.io/anime/4292"
+    },
+    "mal": {
+      "id": "5829",
+      "url": "https://myanimelist.net/anime/5829"
+    }
+  }
+}

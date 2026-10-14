@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15668,
+  "slug": "shakkin-shimai",
+  "kind": "manga",
+  "title": "Shakkin Shimai",
+  "titles": {
+    "default": "Shakkin Shimai"
+  },
+  "synonyms": [
+    "借金姉妹",
+    "MM!",
+    "えむえむっ!",
+    "MM Group",
+    "Emu Emu!"
+  ],
+  "type": "novel",
+  "volumes": 1,
+  "status": "finished",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/92741-k2jhuWZTZaOq.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4653",
+      "url": "https://anilist.co/anime/4653"
+    },
+    "al_manga": {
+      "id": "4653",
+      "url": "https://anilist.co/manga/4653"
+    }
+  }
+}

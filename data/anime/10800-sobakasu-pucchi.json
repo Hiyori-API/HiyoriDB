@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10800,
+  "slug": "sobakasu-pucchi",
+  "kind": "anime",
+  "title": "Sobakasu Pucchi",
+  "titles": {
+    "default": "Sobakasu Pucchi",
+    "romaji": "Sobakasu Pucchi",
+    "native": "そばかすプッチー"
+  },
+  "synonyms": [
+    "Sobakasu Pucchi",
+    "そばかすプッチー"
+  ],
+  "type": "tv",
+  "episodes": 162,
+  "status": "finished",
+  "season": "spring",
+  "year": 1969,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19999.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "19999",
+      "url": "https://anilist.co/anime/19999"
+    },
+    "k": {
+      "id": "9043",
+      "url": "https://kitsu.io/anime/9043"
+    },
+    "mal": {
+      "id": "19999",
+      "url": "https://myanimelist.net/anime/19999"
+    }
+  }
+}

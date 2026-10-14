@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7533,
+  "slug": "love-live-school-idol-project-2nd-season",
+  "kind": "anime",
+  "title": "Love Live! School idol project 2nd Season",
+  "titles": {
+    "default": "Love Live! School idol project 2nd Season",
+    "romaji": "Love Live! School idol project 2nd Season",
+    "english": "Love Live! School Idol Project 2nd Season",
+    "native": "ラブライブ! School idol project 2期"
+  },
+  "synonyms": [
+    "Love Live! School idol project 2nd Season",
+    "Love Live! School Idol Project 2nd Season",
+    "ラブライブ! School idol project 2期",
+    "Живая любовь: проект \"Школьный идол\". 2 сезон",
+    "Love Live! School Idol Project 2"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx19111-06M6xbT8fEbp.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "19111",
+      "url": "https://anilist.co/anime/19111"
+    },
+    "cr": {
+      "id": "love-live-school-idol-project",
+      "url": "https://www.crunchyroll.com/series/love-live-school-idol-project"
+    },
+    "k": {
+      "id": "7871",
+      "url": "https://kitsu.io/anime/7871"
+    },
+    "mal": {
+      "id": "19111",
+      "url": "https://myanimelist.net/anime/19111"
+    },
+    "t": {
+      "id": "68951",
+      "url": "https://trakt.tv/shows/68951"
+    },
+    "tx": {
+      "id": "LoveLive_staff",
+      "url": "https://twitter.com/LoveLive_staff"
+    }
+  }
+}

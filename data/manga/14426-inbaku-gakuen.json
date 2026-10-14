@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14426,
+  "slug": "inbaku-gakuen",
+  "kind": "manga",
+  "title": "Inbaku Gakuen",
+  "titles": {
+    "default": "Inbaku Gakuen"
+  },
+  "synonyms": [
+    "School of Masochists",
+    "School of Bondage",
+    "S&M University",
+    "淫縛学艶",
+    "Mushrambo",
+    "マシュランボー",
+    "Mashuranboo"
+  ],
+  "type": "manga",
+  "chapters": 6,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b33501-YU4NljzKQaMe.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2943",
+      "url": "https://anilist.co/anime/2943"
+    },
+    "al_manga": {
+      "id": "2943",
+      "url": "https://anilist.co/manga/2943"
+    }
+  }
+}

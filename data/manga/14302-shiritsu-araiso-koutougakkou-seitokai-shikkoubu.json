@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14302,
+  "slug": "shiritsu-araiso-koutougakkou-seitokai-shikkoubu",
+  "kind": "manga",
+  "title": "Shiritsu Araiso Koutougakkou Seitokai Shikkoubu",
+  "titles": {
+    "default": "Shiritsu Araiso Koutougakkou Seitokai Shikkoubu"
+  },
+  "synonyms": [
+    "Araiso Private High School Executive Committee",
+    "Executive Committee",
+    "Araiso Private High School Student Council Executive Committee",
+    "私立荒磯高等学校生徒会執行部",
+    "Love Hina",
+    "ラブひな"
+  ],
+  "type": "manga",
+  "chapters": 12,
+  "volumes": 2,
+  "status": "finished",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx32180-0g1og6H8sjOh.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "425",
+      "url": "https://anilist.co/anime/425"
+    },
+    "al_manga": {
+      "id": "425",
+      "url": "https://anilist.co/manga/425"
+    }
+  }
+}

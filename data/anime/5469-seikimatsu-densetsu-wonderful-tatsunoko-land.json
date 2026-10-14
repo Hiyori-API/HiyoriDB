@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5469,
+  "slug": "seikimatsu-densetsu-wonderful-tatsunoko-land",
+  "kind": "anime",
+  "title": "Seikimatsu Densetsu Wonderful Tatsunoko Land",
+  "titles": {
+    "default": "Seikimatsu Densetsu Wonderful Tatsunoko Land",
+    "romaji": "Seikimatsu Densetsu Wonderful Tatsunoko Land",
+    "native": "世紀末伝説 ワンダフル タツノコランド"
+  },
+  "synonyms": [
+    "Seikimatsu Densetsu Wonderful Tatsunoko Land",
+    "世紀末伝説 ワンダフル タツノコランド",
+    "Dual Parallel! Trouble Adventures Special",
+    "デュアル！ぱられルンルン物語「ファイナル・フロンティア」",
+    "Dual! Parallel Trouble Adventures Special",
+    "Dual! Paralle Lunlun Monogatari Special",
+    "Final Frontier"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145358-AGNMLz4WmqtC.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "145358",
+      "url": "https://anilist.co/anime/145358"
+    },
+    "k": {
+      "id": "883",
+      "url": "https://kitsu.io/anime/883"
+    },
+    "mal": {
+      "id": "51144",
+      "url": "https://myanimelist.net/anime/51144"
+    }
+  }
+}

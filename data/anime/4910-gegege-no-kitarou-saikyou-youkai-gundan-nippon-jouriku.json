@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4910,
+  "slug": "gegege-no-kitarou-saikyou-youkai-gundan-nippon-jouriku",
+  "kind": "anime",
+  "title": "Gegege no Kitarou: Saikyou Youkai Gundan! Nippon Jouriku!!",
+  "titles": {
+    "default": "Gegege no Kitarou: Saikyou Youkai Gundan! Nippon Jouriku!!",
+    "romaji": "Gegege no Kitarou: Saikyou Youkai Gundan! Nippon Jouriku!!",
+    "english": "Spooky Kitarou: The Strongest Ghost Army! Landing in Japan!!",
+    "native": "ゲゲゲの鬼太郎 最強妖怪軍団！日本陸!!"
+  },
+  "synonyms": [
+    "Gegege no Kitarou: Saikyou Youkai Gundan! Nippon Jouriku!!",
+    "Spooky Kitarou: The Strongest Ghost Army! Landing in Japan!!",
+    "ゲゲゲの鬼太郎 最強妖怪軍団！日本陸!!"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8154.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8154",
+      "url": "https://anilist.co/anime/8154"
+    },
+    "k": {
+      "id": "5219",
+      "url": "https://kitsu.io/anime/5219"
+    },
+    "mal": {
+      "id": "8154",
+      "url": "https://myanimelist.net/anime/8154"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7373,
+  "slug": "shimajirou-to-fufu-no-daibouken-movie-sukue-nana-iro-no-hana",
+  "kind": "anime",
+  "title": "Shimajirou to Fufu no Daibouken Movie: Sukue! Nana-iro no Hana",
+  "titles": {
+    "default": "Shimajirou to Fufu no Daibouken Movie: Sukue! Nana-iro no Hana",
+    "romaji": "Shimajirou to Fufu no Daibouken Movie: Sukue! Nana-iro no Hana",
+    "native": "劇場版 しまじろうと フフの だいぼうけん ~すくえ! 七色の花~"
+  },
+  "synonyms": [
+    "Shimajirou to Fufu no Daibouken Movie: Sukue! Nana-iro no Hana",
+    "劇場版 しまじろうと フフの だいぼうけん ~すくえ! 七色の花~",
+    "Gekijouban Shimajirou to Fufu no Daibouken: Sukue! Nana-iro no Hana",
+    "Hanakappa Movie: Hana-sake! Pakkaan Chou no Kuni no Daibouken",
+    "映画はなかっぱ 花さけ! パッカ~ん ♪蝶の国の大冒険",
+    "Eiga Hanakappa: Hanasake! Pakka~n♪ Chou no Kuni no Daibouken"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18943-3GtM5PIAC1bA.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "18943",
+      "url": "https://anilist.co/anime/18943"
+    },
+    "k": {
+      "id": "7621",
+      "url": "https://kitsu.io/anime/7621"
+    },
+    "mal": {
+      "id": "18943",
+      "url": "https://myanimelist.net/anime/18943"
+    }
+  }
+}

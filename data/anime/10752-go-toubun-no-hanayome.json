@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10752,
+  "slug": "go-toubun-no-hanayome",
+  "kind": "anime",
+  "title": "Go-toubun no Hanayome ∬",
+  "titles": {
+    "default": "Go-toubun no Hanayome ∬",
+    "romaji": "Go-toubun no Hanayome ∬",
+    "english": "The Quintessential Quintuplets 2",
+    "native": "五等分の花嫁∬"
+  },
+  "synonyms": [
+    "Go-toubun no Hanayome ∬",
+    "The Quintessential Quintuplets 2",
+    "五等分の花嫁∬",
+    "5-toubun no Hanayome ∬",
+    "Go-toubun no Hanayome 2nd Season",
+    "The Five Wedded Brides 2nd Season",
+    "五等分的新娘∬",
+    "เจ้าสาวผมเป็นแฝดห้า ภาค 2",
+    "Gotoubun no Hanayome 2nd Season",
+    "5-toubun no Hanayome 2nd Season",
+    "The Quintessential Quintuplets 2nd Season"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109261-65rKxMDlcU9r.png"
+  ],
+  "references": {
+    "al": {
+      "id": "109261",
+      "url": "https://anilist.co/anime/109261"
+    },
+    "cr": {
+      "id": "the-quintessential-quintuplets",
+      "url": "https://www.crunchyroll.com/series/the-quintessential-quintuplets"
+    },
+    "mal": {
+      "id": "39783",
+      "url": "https://myanimelist.net/anime/39783"
+    },
+    "tx": {
+      "id": "5Hanayome_anime",
+      "url": "https://twitter.com/5Hanayome_anime"
+    }
+  }
+}

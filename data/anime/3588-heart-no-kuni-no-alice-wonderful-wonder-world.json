@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3588,
+  "slug": "heart-no-kuni-no-alice-wonderful-wonder-world",
+  "kind": "anime",
+  "title": "Heart no Kuni no Alice: Wonderful Wonder World",
+  "titles": {
+    "default": "Heart no Kuni no Alice: Wonderful Wonder World",
+    "romaji": "Heart no Kuni no Alice: Wonderful Wonder World",
+    "native": "劇場版ハートの国のアリス～Wonderful Wonder World～"
+  },
+  "synonyms": [
+    "Heart no Kuni no Alice: Wonderful Wonder World",
+    "劇場版ハートの国のアリス～Wonderful Wonder World～",
+    "Gekijouban Heart no Kuni no Alice: Wonderful Wonder World",
+    "Alice in the Country of Hearts"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4713-VGprNPOa0w2L.png"
+  ],
+  "references": {
+    "al": {
+      "id": "4713",
+      "url": "https://anilist.co/anime/4713"
+    },
+    "k": {
+      "id": "3754",
+      "url": "https://kitsu.io/anime/3754"
+    },
+    "mal": {
+      "id": "4713",
+      "url": "https://myanimelist.net/anime/4713"
+    }
+  }
+}

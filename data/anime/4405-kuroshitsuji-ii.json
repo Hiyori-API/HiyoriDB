@@ -1,0 +1,66 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4405,
+  "slug": "kuroshitsuji-ii",
+  "kind": "anime",
+  "title": "Kuroshitsuji II",
+  "titles": {
+    "default": "Kuroshitsuji II",
+    "romaji": "Kuroshitsuji II",
+    "english": "Black Butler II",
+    "native": "黒執事II"
+  },
+  "synonyms": [
+    "Kuroshitsuji II",
+    "Black Butler II",
+    "黒執事II",
+    "Kuroshitsuji 2",
+    "Black Butler 2",
+    "คนลึกไขปริศนาลับ ภาค 2",
+    "คนลึกไขปริศนาลับ II",
+    "Hắc quản gia 2",
+    "黑执事 第2季",
+    "黑執事 第2季",
+    "Hắc Quản Gia – Phần 2",
+    "흑집사 2기",
+    "Diácono Negro temporada 2"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx6707-eZvzqWlu51DD.png"
+  ],
+  "references": {
+    "al": {
+      "id": "6707",
+      "url": "https://anilist.co/anime/6707"
+    },
+    "cr": {
+      "id": "series/GYQ43P3E6/black-butler",
+      "url": "https://www.crunchyroll.com/series/series/GYQ43P3E6/black-butler"
+    },
+    "k": {
+      "id": "4678",
+      "url": "https://kitsu.io/anime/4678"
+    },
+    "mal": {
+      "id": "6707",
+      "url": "https://myanimelist.net/anime/6707"
+    },
+    "nf": {
+      "id": "70204955",
+      "url": "https://www.netflix.com/title/70204955"
+    },
+    "t": {
+      "id": "50391",
+      "url": "https://trakt.tv/shows/50391"
+    },
+    "tx": {
+      "id": "kuroshitsuji_pr",
+      "url": "https://twitter.com/kuroshitsuji_pr"
+    }
+  }
+}

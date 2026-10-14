@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14548,
+  "slug": "romance-dawn",
+  "kind": "manga",
+  "title": "Romance Dawn",
+  "titles": {
+    "default": "Romance Dawn"
+  },
+  "synonyms": [
+    "Romance Dawn - Version 1",
+    "ロマンスドーン",
+    "Byouto Shoujo Kan",
+    "病棟少女間",
+    "Byoutou Shoujokan"
+  ],
+  "type": "one_shot",
+  "chapters": 1,
+  "status": "finished",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx35114-FIOTu1pOTIuC.png"
+  ],
+  "references": {
+    "al": {
+      "id": "5252",
+      "url": "https://anilist.co/anime/5252"
+    },
+    "al_manga": {
+      "id": "5252",
+      "url": "https://anilist.co/manga/5252"
+    }
+  }
+}

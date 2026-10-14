@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10167,
+  "slug": "dragon-quest-your-story",
+  "kind": "anime",
+  "title": "Dragon Quest: Your Story",
+  "titles": {
+    "default": "Dragon Quest: Your Story",
+    "romaji": "Dragon Quest: Your Story",
+    "native": "ドラゴンクエスト ユア・ストーリー"
+  },
+  "synonyms": [
+    "Dragon Quest: Your Story",
+    "ドラゴンクエスト ユア・ストーリー",
+    "Cencoroll 2",
+    "センコロール"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx107905-qQMO9VYh4TqY.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "107905",
+      "url": "https://anilist.co/anime/107905"
+    },
+    "k": {
+      "id": "5749",
+      "url": "https://kitsu.io/anime/5749"
+    },
+    "mal": {
+      "id": "39274",
+      "url": "https://myanimelist.net/anime/39274"
+    },
+    "nf": {
+      "id": "81170086",
+      "url": "https://www.netflix.com/title/81170086"
+    },
+    "tx": {
+      "id": "DQ_MOVIE",
+      "url": "https://twitter.com/DQ_MOVIE"
+    }
+  }
+}

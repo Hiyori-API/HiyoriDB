@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12595,
+  "slug": "dungeon-no-naka-no-hito",
+  "kind": "anime",
+  "title": "Dungeon no Naka no Hito",
+  "titles": {
+    "default": "Dungeon no Naka no Hito",
+    "romaji": "Dungeon no Naka no Hito",
+    "english": "Dungeon People",
+    "native": "ダンジョンの中のひと"
+  },
+  "synonyms": [
+    "Dungeon no Naka no Hito",
+    "Dungeon People",
+    "ダンジョンの中のひと",
+    "地下城中的人",
+    "Au cœur du donjon",
+    "DearS",
+    "ディアーズ"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2024,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx168345-X28k73J6QAtc.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "168345",
+      "url": "https://anilist.co/anime/168345"
+    },
+    "cr": {
+      "id": "series/GRZXD528Y/dears",
+      "url": "https://www.crunchyroll.com/series/series/GRZXD528Y/dears"
+    },
+    "k": {
+      "id": "44",
+      "url": "https://kitsu.io/anime/44"
+    },
+    "mal": {
+      "id": "56348",
+      "url": "https://myanimelist.net/anime/56348"
+    },
+    "t": {
+      "id": "61051",
+      "url": "https://trakt.tv/shows/61051"
+    },
+    "tx": {
+      "id": "dungeon_people",
+      "url": "https://twitter.com/dungeon_people"
+    }
+  }
+}

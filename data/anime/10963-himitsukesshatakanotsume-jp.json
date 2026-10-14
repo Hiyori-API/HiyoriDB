@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10963,
+  "slug": "himitsukesshatakanotsume-jp",
+  "kind": "anime",
+  "title": "himitsukesshatakanotsume.jp",
+  "titles": {
+    "default": "himitsukesshatakanotsume.jp",
+    "romaji": "himitsukesshatakanotsume.jp",
+    "native": "秘密結社鷹の爪.jp"
+  },
+  "synonyms": [
+    "himitsukesshatakanotsume.jp",
+    "秘密結社鷹の爪.jp",
+    "Secret Society Eagle Talon WEB"
+  ],
+  "type": "ona",
+  "episodes": 78,
+  "status": "finished",
+  "season": "spring",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13433.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "13433",
+      "url": "https://anilist.co/anime/13433"
+    },
+    "k": {
+      "id": "6964",
+      "url": "https://kitsu.io/anime/6964"
+    },
+    "mal": {
+      "id": "13433",
+      "url": "https://myanimelist.net/anime/13433"
+    }
+  }
+}

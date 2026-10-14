@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 320,
+  "slug": "ojamajo-doremi",
+  "kind": "anime",
+  "title": "Ojamajo Doremi",
+  "titles": {
+    "default": "Ojamajo Doremi",
+    "romaji": "Ojamajo Doremi",
+    "english": "Magical DoReMi",
+    "native": "おジャ魔女どれみ"
+  },
+  "synonyms": [
+    "Ojamajo Doremi",
+    "Magical DoReMi",
+    "おジャ魔女どれみ",
+    "Useless Witchgirl Doremi",
+    "La Màgica Doremi"
+  ],
+  "type": "tv",
+  "episodes": 51,
+  "status": "finished",
+  "season": "winter",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx350-iRi1NOntsTnG.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "350",
+      "url": "https://anilist.co/anime/350"
+    },
+    "k": {
+      "id": "317",
+      "url": "https://kitsu.io/anime/317"
+    },
+    "mal": {
+      "id": "350",
+      "url": "https://myanimelist.net/anime/350"
+    },
+    "t": {
+      "id": "20260",
+      "url": "https://trakt.tv/shows/20260"
+    },
+    "tx": {
+      "id": "Doremi_staff",
+      "url": "https://twitter.com/Doremi_staff"
+    }
+  }
+}

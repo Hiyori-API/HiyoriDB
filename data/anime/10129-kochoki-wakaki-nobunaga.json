@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10129,
+  "slug": "kochoki-wakaki-nobunaga",
+  "kind": "anime",
+  "title": "Kochoki: Wakaki Nobunaga",
+  "titles": {
+    "default": "Kochoki: Wakaki Nobunaga",
+    "romaji": "Kochoki: Wakaki Nobunaga",
+    "english": "Kochoki",
+    "native": "胡蝶綺 ～若き信長～"
+  },
+  "synonyms": [
+    "Kochoki: Wakaki Nobunaga",
+    "Kochoki",
+    "胡蝶綺 ～若き信長～",
+    "DearS",
+    "ディアーズ"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx106894-h6NeGxiWYq5a.png"
+  ],
+  "references": {
+    "al": {
+      "id": "106894",
+      "url": "https://anilist.co/anime/106894"
+    },
+    "cr": {
+      "id": "kochoki",
+      "url": "https://www.crunchyroll.com/series/kochoki"
+    },
+    "k": {
+      "id": "44",
+      "url": "https://kitsu.io/anime/44"
+    },
+    "mal": {
+      "id": "38920",
+      "url": "https://myanimelist.net/anime/38920"
+    },
+    "t": {
+      "id": "61051",
+      "url": "https://trakt.tv/shows/61051"
+    },
+    "tx": {
+      "id": "wakanobu_anime",
+      "url": "https://twitter.com/wakanobu_anime"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14773,
+  "slug": "youseiou",
+  "kind": "manga",
+  "title": "Youseiou",
+  "titles": {
+    "default": "Youseiou"
+  },
+  "synonyms": [
+    "Yousei Ou",
+    "The Fairy King",
+    "Dream",
+    "ドリーム",
+    "落窪物語",
+    "Ochikubo Monogatari",
+    "妖精王",
+    "NonNonBa",
+    "Nonnonbaa to Ore",
+    "のんのんばあとオレ"
+  ],
+  "type": "manga",
+  "chapters": 22,
+  "volumes": 5,
+  "status": "finished",
+  "year": 1977,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx42846-4UkgUGAj4jix.png"
+  ],
+  "references": {
+    "al": {
+      "id": "7818",
+      "url": "https://anilist.co/anime/7818"
+    },
+    "al_manga": {
+      "id": "7818",
+      "url": "https://anilist.co/manga/7818"
+    }
+  }
+}

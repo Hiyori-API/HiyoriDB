@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13947,
+  "slug": "lucky-star",
+  "kind": "manga",
+  "title": "Lucky☆Star",
+  "titles": {
+    "default": "Lucky☆Star"
+  },
+  "synonyms": [
+    "Lucky☆Star",
+    "らき☆すた",
+    "Yotsuba&!",
+    "Yotsubato!",
+    "よつばと!"
+  ],
+  "type": "manga",
+  "status": "publishing",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30587-hfs5q5ZQw065.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1887",
+      "url": "https://anilist.co/anime/1887"
+    },
+    "al_manga": {
+      "id": "1887",
+      "url": "https://anilist.co/manga/1887"
+    }
+  }
+}

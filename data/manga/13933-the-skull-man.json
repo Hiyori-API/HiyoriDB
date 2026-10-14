@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13933,
+  "slug": "the-skull-man",
+  "kind": "manga",
+  "title": "The Skull Man",
+  "titles": {
+    "default": "The Skull Man"
+  },
+  "synonyms": [
+    "Skullman",
+    "怪奇ロマネスク劇画 スカルマン THE SKULL MAN",
+    "スカルマン",
+    "Christmas Snow",
+    "Noel la Neige",
+    "ノエル　ラ　ネージュ",
+    "Noël la neige"
+  ],
+  "type": "one_shot",
+  "chapters": 1,
+  "volumes": 1,
+  "status": "finished",
+  "year": 1970,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx34617-1IKJ5EVDnrFK.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2161",
+      "url": "https://anilist.co/anime/2161"
+    },
+    "al_manga": {
+      "id": "2161",
+      "url": "https://anilist.co/manga/2161"
+    }
+  }
+}

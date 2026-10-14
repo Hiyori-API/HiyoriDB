@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14012,
+  "slug": "blood",
+  "kind": "manga",
+  "title": "Blood+",
+  "titles": {
+    "default": "Blood+"
+  },
+  "synonyms": [
+    "Blood Plus",
+    "ブラッドプラス",
+    "Ladies versus Butlers!",
+    "れでぃ×ばと!",
+    "Redei Bato!",
+    "Redei x Bato",
+    "Ladies vs Butlers!"
+  ],
+  "type": "novel",
+  "chapters": 13,
+  "volumes": 5,
+  "status": "finished",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10410.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "150",
+      "url": "https://anilist.co/anime/150"
+    },
+    "al_manga": {
+      "id": "150",
+      "url": "https://anilist.co/manga/150"
+    }
+  }
+}

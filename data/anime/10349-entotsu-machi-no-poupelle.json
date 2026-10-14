@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10349,
+  "slug": "entotsu-machi-no-poupelle",
+  "kind": "anime",
+  "title": "Entotsu-machi no Poupelle",
+  "titles": {
+    "default": "Entotsu-machi no Poupelle",
+    "romaji": "Entotsu-machi no Poupelle",
+    "english": "Poupelle of Chimney Town",
+    "native": "えんとつ町のプぺル"
+  },
+  "synonyms": [
+    "Entotsu-machi no Poupelle",
+    "Poupelle of Chimney Town",
+    "えんとつ町のプぺル",
+    "Poupelle Của Thị trấn Ống khói",
+    "De l'autre côté du ciel",
+    "Poupelle de Ciudad Chimenea",
+    "Poupelle da Cidade das Chaminés",
+    "Howl's Moving Castle",
+    "Howl no Ugoku Shiro",
+    "ハウルの動く城"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98776-St71l4PsKVX6.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98776",
+      "url": "https://anilist.co/anime/98776"
+    },
+    "k": {
+      "id": "395",
+      "url": "https://kitsu.io/anime/395"
+    },
+    "mal": {
+      "id": "35609",
+      "url": "https://myanimelist.net/anime/35609"
+    },
+    "nf": {
+      "id": "70028883",
+      "url": "https://www.netflix.com/title/70028883"
+    },
+    "tx": {
+      "id": "poupellemovie",
+      "url": "https://twitter.com/poupellemovie"
+    }
+  }
+}

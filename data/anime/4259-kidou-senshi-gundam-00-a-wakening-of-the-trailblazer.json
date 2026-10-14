@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4259,
+  "slug": "kidou-senshi-gundam-00-a-wakening-of-the-trailblazer",
+  "kind": "anime",
+  "title": "Kidou Senshi Gundam 00: A wakening of the Trailblazer",
+  "titles": {
+    "default": "Kidou Senshi Gundam 00: A wakening of the Trailblazer",
+    "romaji": "Kidou Senshi Gundam 00: A wakening of the Trailblazer",
+    "english": "Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer",
+    "native": "劇場版 機動戦士ガンダム00 -A wakening of the Trailblazer-"
+  },
+  "synonyms": [
+    "Kidou Senshi Gundam 00: A wakening of the Trailblazer",
+    "Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer",
+    "劇場版 機動戦士ガンダム00 -A wakening of the Trailblazer-",
+    "Gundam Double O Movie",
+    "Mobile Suit Gundam 00 The Movie: A Wakening of the Trailblazer",
+    "Gekijouban Kidou Senshi Gundam 00: A Wakening of the Trailblazer"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6288-I4jOmHgNyOvg.png"
+  ],
+  "references": {
+    "al": {
+      "id": "6288",
+      "url": "https://anilist.co/anime/6288"
+    },
+    "cr": {
+      "id": "mobile-suit-gundam-00/mobile-suit-gundam-00-awakening-of-the-trailblazer-mobile-suit-gundam-00-awakening-of-the-trailblazer-851198",
+      "url": "https://www.crunchyroll.com/series/mobile-suit-gundam-00/mobile-suit-gundam-00-awakening-of-the-trailblazer-mobile-suit-gundam-00-awakening-of-the-trailblazer-851198"
+    },
+    "k": {
+      "id": "4509",
+      "url": "https://kitsu.io/anime/4509"
+    },
+    "mal": {
+      "id": "6288",
+      "url": "https://myanimelist.net/anime/6288"
+    }
+  }
+}

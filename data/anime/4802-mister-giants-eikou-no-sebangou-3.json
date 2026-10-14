@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4802,
+  "slug": "mister-giants-eikou-no-sebangou-3",
+  "kind": "anime",
+  "title": "Mister Giants Eikou no Sebangou 3",
+  "titles": {
+    "default": "Mister Giants Eikou no Sebangou 3",
+    "romaji": "Mister Giants Eikou no Sebangou 3",
+    "native": "ミスター・ジャイアンツ 栄光の背番号３"
+  },
+  "synonyms": [
+    "Mister Giants Eikou no Sebangou 3",
+    "ミスター・ジャイアンツ 栄光の背番号３",
+    "Mr. Glory Giants Squad 3",
+    "Judo Story",
+    "Sugata Sanshirou",
+    "姿三四郎",
+    "Sanshiro the Judoist"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1981,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b178151-gaJxYQDLUtTk.png"
+  ],
+  "references": {
+    "al": {
+      "id": "178151",
+      "url": "https://anilist.co/anime/178151"
+    },
+    "k": {
+      "id": "3608",
+      "url": "https://kitsu.io/anime/3608"
+    },
+    "mal": {
+      "id": "62053",
+      "url": "https://myanimelist.net/anime/62053"
+    }
+  }
+}

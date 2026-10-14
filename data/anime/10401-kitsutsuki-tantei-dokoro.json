@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10401,
+  "slug": "kitsutsuki-tantei-dokoro",
+  "kind": "anime",
+  "title": "Kitsutsuki Tantei Dokoro",
+  "titles": {
+    "default": "Kitsutsuki Tantei Dokoro",
+    "romaji": "Kitsutsuki Tantei Dokoro",
+    "english": "Woodpecker Detective’s Office",
+    "native": "啄木鳥探偵處"
+  },
+  "synonyms": [
+    "Kitsutsuki Tantei Dokoro",
+    "Woodpecker Detective’s Office",
+    "啄木鳥探偵處",
+    "This Ugly Yet Beautiful World",
+    "Kono Minikuku mo Utsukushii Sekai",
+    "この醜くも美しい世界"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108629-KZRQimMl3eGN.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "108629",
+      "url": "https://anilist.co/anime/108629"
+    },
+    "cr": {
+      "id": "woodpecker-detectives-office",
+      "url": "https://www.crunchyroll.com/series/woodpecker-detectives-office"
+    },
+    "k": {
+      "id": "124",
+      "url": "https://kitsu.io/anime/124"
+    },
+    "mal": {
+      "id": "39582",
+      "url": "https://myanimelist.net/anime/39582"
+    },
+    "t": {
+      "id": "34001",
+      "url": "https://trakt.tv/shows/34001"
+    },
+    "tx": {
+      "id": "kitsutsuki_DO",
+      "url": "https://twitter.com/kitsutsuki_DO"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2843,
+  "slug": "muteki-koujin-daitarn-3",
+  "kind": "anime",
+  "title": "Muteki Koujin Daitarn 3",
+  "titles": {
+    "default": "Muteki Koujin Daitarn 3",
+    "romaji": "Muteki Koujin Daitarn 3",
+    "native": "無敵鋼人ダイターン３"
+  },
+  "synonyms": [
+    "Muteki Koujin Daitarn 3",
+    "無敵鋼人ダイターン３",
+    "Muteki Kojin Daitarn 3",
+    "Invincible Steel Man Daitarn 3",
+    "The Unchallengeable Daitarn 3"
+  ],
+  "type": "tv",
+  "episodes": 40,
+  "status": "finished",
+  "season": "summer",
+  "year": 1978,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3305-1S4ZnR7KIaMq.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3305",
+      "url": "https://anilist.co/anime/3305"
+    },
+    "k": {
+      "id": "2923",
+      "url": "https://kitsu.io/anime/2923"
+    },
+    "mal": {
+      "id": "3305",
+      "url": "https://myanimelist.net/anime/3305"
+    },
+    "t": {
+      "id": "62531",
+      "url": "https://trakt.tv/shows/62531"
+    }
+  }
+}

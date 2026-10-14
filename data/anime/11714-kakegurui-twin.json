@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11714,
+  "slug": "kakegurui-twin",
+  "kind": "anime",
+  "title": "Kakegurui Twin",
+  "titles": {
+    "default": "Kakegurui Twin",
+    "romaji": "Kakegurui Twin",
+    "native": "賭ケグルイ双"
+  },
+  "synonyms": [
+    "Kakegurui Twin",
+    "賭ケグルイ双",
+    "โคตรเซียนโรงเรียนพนัน ภาค Twin",
+    "Compulsive Gambler Twin",
+    "Шалений азарт. Затятий двійник",
+    "Двойной азарт"
+  ],
+  "type": "ona",
+  "episodes": 6,
+  "status": "finished",
+  "season": "summer",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141351-47JtghppCwMu.png"
+  ],
+  "references": {
+    "al": {
+      "id": "141351",
+      "url": "https://anilist.co/anime/141351"
+    },
+    "mal": {
+      "id": "50339",
+      "url": "https://myanimelist.net/anime/50339"
+    },
+    "nf": {
+      "id": "81176966",
+      "url": "https://www.netflix.com/title/81176966"
+    },
+    "tx": {
+      "id": "kakegurui_anime",
+      "url": "https://twitter.com/kakegurui_anime"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2714,
+  "slug": "xxxholic-kei",
+  "kind": "anime",
+  "title": "xxxHOLiC◆Kei",
+  "titles": {
+    "default": "xxxHOLiC◆Kei",
+    "romaji": "xxxHOLiC◆Kei",
+    "native": "xxxHOLiC◆継"
+  },
+  "synonyms": [
+    "xxxHOLiC◆Kei",
+    "xxxHOLiC◆継",
+    "xxxHOLiC: Tsugi",
+    "xxxHOLiC TV2",
+    "xxxHOLiC New Series",
+    "xxxHOLiC second season",
+    "xxxHOLiC Kei",
+    "×××HOLiC・継",
+    "xxxHOLiC TV 2",
+    "xxxHOLiC Second Season",
+    "xxxHOLiC 2nd Series"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3091-97Yr9KdWI3Ou.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3091",
+      "url": "https://anilist.co/anime/3091"
+    },
+    "k": {
+      "id": "2787",
+      "url": "https://kitsu.io/anime/2787"
+    },
+    "mal": {
+      "id": "3091",
+      "url": "https://myanimelist.net/anime/3091"
+    },
+    "t": {
+      "id": "36094",
+      "url": "https://trakt.tv/shows/36094"
+    }
+  }
+}

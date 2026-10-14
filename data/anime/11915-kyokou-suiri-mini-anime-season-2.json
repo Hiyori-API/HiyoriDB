@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11915,
+  "slug": "kyokou-suiri-mini-anime-season-2",
+  "kind": "anime",
+  "title": "Kyokou Suiri Mini Anime Season 2",
+  "titles": {
+    "default": "Kyokou Suiri Mini Anime Season 2",
+    "romaji": "Kyokou Suiri Mini Anime Season 2",
+    "native": "虚構推理 ミニアニメ Season2"
+  },
+  "synonyms": [
+    "Kyokou Suiri Mini Anime Season 2",
+    "虚構推理 ミニアニメ Season2",
+    "In/Spectre Mini Season 2",
+    "星辰变 破天迷局",
+    "Xingchen Bian: Po Tian Mi Ju",
+    "Xing Chen Bian 4th Season",
+    "Legend of Immortals 4th Season",
+    "Stellar Transformation 4th Season",
+    "星辰变 第4季",
+    "Xingchen Bian 4th Season"
+  ],
+  "type": "ona",
+  "episodes": 16,
+  "status": "finished",
+  "season": "winter",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152005-OXFYKLw6vQHu.png"
+  ],
+  "references": {
+    "al": {
+      "id": "152005",
+      "url": "https://anilist.co/anime/152005"
+    },
+    "mal": {
+      "id": "51542",
+      "url": "https://myanimelist.net/anime/51542"
+    },
+    "tx": {
+      "id": "kyokou_suiri",
+      "url": "https://twitter.com/kyokou_suiri"
+    }
+  }
+}

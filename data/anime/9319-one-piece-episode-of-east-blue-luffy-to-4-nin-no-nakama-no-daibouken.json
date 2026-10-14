@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9319,
+  "slug": "one-piece-episode-of-east-blue-luffy-to-4-nin-no-nakama-no-daibouken",
+  "kind": "anime",
+  "title": "ONE PIECE: Episode of East Blue - Luffy to 4-nin no Nakama no Daibouken",
+  "titles": {
+    "default": "ONE PIECE: Episode of East Blue - Luffy to 4-nin no Nakama no Daibouken",
+    "romaji": "ONE PIECE: Episode of East Blue - Luffy to 4-nin no Nakama no Daibouken",
+    "english": "One Piece: Episode of East Blue",
+    "native": "ONE PIECE エピソードオブ東の海〜ルフィと4人の仲間の大冒険!!〜"
+  },
+  "synonyms": [
+    "ONE PIECE: Episode of East Blue - Luffy to 4-nin no Nakama no Daibouken",
+    "One Piece: Episode of East Blue",
+    "ONE PIECE エピソードオブ東の海〜ルフィと4人の仲間の大冒険!!〜",
+    "黒子のバスケ LAST GAME NG集",
+    "Kuroko no Basket: Last Game NG-shuu"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99302-b40WIhc5dylo.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "99302",
+      "url": "https://anilist.co/anime/99302"
+    },
+    "cr": {
+      "id": "one-piece",
+      "url": "https://www.crunchyroll.com/series/one-piece"
+    },
+    "mal": {
+      "id": "36215",
+      "url": "https://myanimelist.net/anime/36215"
+    }
+  }
+}

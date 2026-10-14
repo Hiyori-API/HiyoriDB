@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13093,
+  "slug": "bukiyou-na-senpai",
+  "kind": "anime",
+  "title": "Bukiyou na Senpai.",
+  "titles": {
+    "default": "Bukiyou na Senpai.",
+    "romaji": "Bukiyou na Senpai.",
+    "english": "My Awkward Senpai",
+    "native": "不器用な先輩。"
+  },
+  "synonyms": [
+    "Bukiyou na Senpai.",
+    "My Awkward Senpai",
+    "不器用な先輩。",
+    "Ring ni Kakero 1",
+    "リングにかけろ１",
+    "Put it all in the Ring"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185575-moQeN8f5xRBv.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "185575",
+      "url": "https://anilist.co/anime/185575"
+    },
+    "cr": {
+      "id": "series/GT00365233/my-awkward-senpai",
+      "url": "https://www.crunchyroll.com/series/series/GT00365233/my-awkward-senpai"
+    },
+    "k": {
+      "id": "14",
+      "url": "https://kitsu.io/anime/14"
+    },
+    "mal": {
+      "id": "60531",
+      "url": "https://myanimelist.net/anime/60531"
+    },
+    "t": {
+      "id": "69507",
+      "url": "https://trakt.tv/shows/69507"
+    }
+  }
+}

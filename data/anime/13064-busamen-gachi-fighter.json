@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13064,
+  "slug": "busamen-gachi-fighter",
+  "kind": "anime",
+  "title": "Busamen Gachi Fighter",
+  "titles": {
+    "default": "Busamen Gachi Fighter",
+    "romaji": "Busamen Gachi Fighter",
+    "english": "Uglymug, Epicfighter",
+    "native": "ブサメンガチファイター"
+  },
+  "synonyms": [
+    "Busamen Gachi Fighter",
+    "Uglymug, Epicfighter",
+    "ブサメンガチファイター",
+    "DearS",
+    "ディアーズ"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184575-hEzI5V8o818U.png"
+  ],
+  "references": {
+    "al": {
+      "id": "184575",
+      "url": "https://anilist.co/anime/184575"
+    },
+    "cr": {
+      "id": "series/GNVHKN9VK/uglymug-epicfighter",
+      "url": "https://www.crunchyroll.com/series/series/GNVHKN9VK/uglymug-epicfighter"
+    },
+    "k": {
+      "id": "44",
+      "url": "https://kitsu.io/anime/44"
+    },
+    "mal": {
+      "id": "60316",
+      "url": "https://myanimelist.net/anime/60316"
+    },
+    "t": {
+      "id": "61051",
+      "url": "https://trakt.tv/shows/61051"
+    }
+  }
+}

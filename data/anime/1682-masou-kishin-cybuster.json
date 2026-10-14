@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1682,
+  "slug": "masou-kishin-cybuster",
+  "kind": "anime",
+  "title": "Masou Kishin Cybuster",
+  "titles": {
+    "default": "Masou Kishin Cybuster",
+    "romaji": "Masou Kishin Cybuster",
+    "english": "Cybuster",
+    "native": "魔装機神サイバスター"
+  },
+  "synonyms": [
+    "Masou Kishin Cybuster",
+    "Cybuster",
+    "魔装機神サイバスター",
+    "Masou Kishin Psybuster",
+    "Psybuster"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1899-QAB9uVSHIlld.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1899",
+      "url": "https://anilist.co/anime/1899"
+    },
+    "ap": {
+      "id": "B07Y2FPMJ7",
+      "url": "https://www.amazon.com/gp/video/detail/B07Y2FPMJ7"
+    },
+    "cr": {
+      "id": "psybuster",
+      "url": "https://www.crunchyroll.com/series/psybuster"
+    },
+    "k": {
+      "id": "1709",
+      "url": "https://kitsu.io/anime/1709"
+    },
+    "mal": {
+      "id": "1899",
+      "url": "https://myanimelist.net/anime/1899"
+    },
+    "t": {
+      "id": "44828",
+      "url": "https://trakt.tv/shows/44828"
+    }
+  }
+}

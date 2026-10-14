@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14980,
+  "slug": "utsurun-desu",
+  "kind": "manga",
+  "title": "Utsurun Desu.",
+  "titles": {
+    "default": "Utsurun Desu."
+  },
+  "synonyms": [
+    "Uturun Desu",
+    "伝染るんです。",
+    "Four Steps to Romance",
+    "Romance Godan Katsuyou",
+    "ろまんす五段活用",
+    "Romantic Princess"
+  ],
+  "type": "manga",
+  "volumes": 5,
+  "status": "finished",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx44124-atFodwBOFa5T.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6528",
+      "url": "https://anilist.co/anime/6528"
+    },
+    "al_manga": {
+      "id": "6528",
+      "url": "https://anilist.co/manga/6528"
+    }
+  }
+}

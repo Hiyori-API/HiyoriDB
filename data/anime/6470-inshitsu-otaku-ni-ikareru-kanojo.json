@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6470,
+  "slug": "inshitsu-otaku-ni-ikareru-kanojo",
+  "kind": "anime",
+  "title": "Inshitsu Otaku ni Ikareru Kanojo",
+  "titles": {
+    "default": "Inshitsu Otaku ni Ikareru Kanojo",
+    "romaji": "Inshitsu Otaku ni Ikareru Kanojo",
+    "native": "陰湿オタクにイカれる妹[彼女]"
+  },
+  "synonyms": [
+    "Inshitsu Otaku ni Ikareru Kanojo",
+    "陰湿オタクにイカれる妹[彼女]",
+    "Saiyuuki Gaiden",
+    "最遊記外伝",
+    "Saiyuki Gaiden"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "summer",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10570-X4p1OAhleNiS.png"
+  ],
+  "references": {
+    "al": {
+      "id": "10570",
+      "url": "https://anilist.co/anime/10570"
+    },
+    "k": {
+      "id": "5599",
+      "url": "https://kitsu.io/anime/5599"
+    },
+    "mal": {
+      "id": "10570",
+      "url": "https://myanimelist.net/anime/10570"
+    }
+  }
+}

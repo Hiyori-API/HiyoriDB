@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15874,
+  "slug": "hakuouki-junrenka",
+  "kind": "manga",
+  "title": "Hakuouki Junrenka",
+  "titles": {
+    "default": "Hakuouki Junrenka"
+  },
+  "synonyms": [
+    "Hakuouki Junrenka - Joshou",
+    "Hakuouki Jurenka",
+    "薄桜鬼 巡恋華",
+    "Simple Knot Loafers",
+    "シンプルノットローファー",
+    "Shinpuru Notto Rofa",
+    "Shinpuru Notto Roofaa",
+    "Simple Not Loafer"
+  ],
+  "type": "manga",
+  "volumes": 2,
+  "status": "finished",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx47836-7oLl8GcLkYJp.png"
+  ],
+  "references": {
+    "al": {
+      "id": "6895",
+      "url": "https://anilist.co/anime/6895"
+    },
+    "al_manga": {
+      "id": "6895",
+      "url": "https://anilist.co/manga/6895"
+    }
+  }
+}

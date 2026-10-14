@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8466,
+  "slug": "brave-witches",
+  "kind": "anime",
+  "title": "Brave Witches",
+  "titles": {
+    "default": "Brave Witches",
+    "romaji": "Brave Witches",
+    "native": "ブレイブウィッチーズ"
+  },
+  "synonyms": [
+    "Brave Witches",
+    "ブレイブウィッチーズ",
+    "无畏魔女",
+    "Bungo Stray Dogs 2",
+    "文豪ストレイドッグス",
+    "Bungou Stray Dogs 2nd Season"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20454-PxmrIsbGwSlQ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "20454",
+      "url": "https://anilist.co/anime/20454"
+    },
+    "cr": {
+      "id": "brave-witches",
+      "url": "https://www.crunchyroll.com/series/brave-witches"
+    },
+    "mal": {
+      "id": "32866",
+      "url": "https://myanimelist.net/anime/32866"
+    },
+    "tx": {
+      "id": "w_witch_anime",
+      "url": "https://twitter.com/w_witch_anime"
+    }
+  }
+}

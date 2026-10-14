@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9774,
+  "slug": "code-realize-sousei-no-himegimi-set-a-thief-to-catch-a-thief",
+  "kind": "anime",
+  "title": "Code:Realize: Sousei no Himegimi - Set a thief to catch a thief",
+  "titles": {
+    "default": "Code:Realize: Sousei no Himegimi - Set a thief to catch a thief",
+    "romaji": "Code:Realize: Sousei no Himegimi - Set a thief to catch a thief",
+    "english": "Code: Realize ~Guardian of Rebirth~ Set a thief to catch a thief",
+    "native": "Code:Realize～創世の姫君～ Set a thief to catch a thief"
+  },
+  "synonyms": [
+    "Code:Realize: Sousei no Himegimi - Set a thief to catch a thief",
+    "Code: Realize ~Guardian of Rebirth~ Set a thief to catch a thief",
+    "Code:Realize～創世の姫君～ Set a thief to catch a thief",
+    "Code:Realize - Sousei no Himegimi OVA",
+    "Code: Realize ~Guardian of Rebirth~ OVA",
+    "Code:Realize - Sousei no Himegimi Episode 13",
+    "Code:Realize - Sousei no Himegimi: Chapter 13",
+    "Code:Realize ~Guardian of Rebirth~ OVA",
+    "Code:Realize ~Guardian of Rebirth~ Set a thief to catch a thief",
+    "Code:Realize ~創世の姫君~",
+    "Code:Realize - Sousei no Himegimi - Set a Thief to Catch a Thief"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx101875-0NMU9Y3QcXCA.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101875",
+      "url": "https://anilist.co/anime/101875"
+    },
+    "cr": {
+      "id": "code-realize-guardian-of-rebirth",
+      "url": "https://www.crunchyroll.com/series/code-realize-guardian-of-rebirth"
+    },
+    "mal": {
+      "id": "37910",
+      "url": "https://myanimelist.net/anime/37910"
+    },
+    "tx": {
+      "id": "cr_anime",
+      "url": "https://twitter.com/cr_anime"
+    }
+  }
+}

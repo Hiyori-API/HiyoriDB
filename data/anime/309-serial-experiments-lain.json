@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 309,
+  "slug": "serial-experiments-lain",
+  "kind": "anime",
+  "title": "serial experiments lain",
+  "titles": {
+    "default": "serial experiments lain",
+    "romaji": "serial experiments lain",
+    "english": "Serial Experiments Lain"
+  },
+  "synonyms": [
+    "serial experiments lain",
+    "Serial Experiments Lain",
+    "シリアルエクスペリメンツレイン",
+    "Wirtualna Lain"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx339-xF2wp1NQuQ4r.png"
+  ],
+  "references": {
+    "al": {
+      "id": "339",
+      "url": "https://anilist.co/anime/339"
+    },
+    "cr": {
+      "id": "series/G649DWXJY/serial-experiments-lain?srsltid=AfmBOoqy4RNm5F9R6_w2RqfN8fH-pB9qJMPHJcqZaU8eCP5WAWXKHaGe",
+      "url": "https://www.crunchyroll.com/series/series/G649DWXJY/serial-experiments-lain?srsltid=AfmBOoqy4RNm5F9R6_w2RqfN8fH-pB9qJMPHJcqZaU8eCP5WAWXKHaGe"
+    },
+    "k": {
+      "id": "306",
+      "url": "https://kitsu.io/anime/306"
+    },
+    "mal": {
+      "id": "339",
+      "url": "https://myanimelist.net/anime/339"
+    },
+    "t": {
+      "id": "1082",
+      "url": "https://trakt.tv/shows/1082"
+    },
+    "tx": {
+      "id": "1998_lain",
+      "url": "https://twitter.com/1998_lain"
+    }
+  }
+}

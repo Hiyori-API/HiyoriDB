@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13905,
+  "slug": "tekkon-kinkreet",
+  "kind": "manga",
+  "title": "Tekkon Kinkreet",
+  "titles": {
+    "default": "Tekkon Kinkreet"
+  },
+  "synonyms": [
+    "Black and White",
+    "Preto e Branco",
+    "Amer Béton",
+    "Reinforced Concrete",
+    "Steel Reinforced Concrete",
+    "Tekkonkinkreet: Black & White",
+    "鉄コン筋クリート",
+    "Tekkon Kinkreet"
+  ],
+  "type": "manga",
+  "chapters": 33,
+  "volumes": 3,
+  "status": "finished",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30442-gaStD2soQRQk.png"
+  ],
+  "references": {
+    "al": {
+      "id": "99717",
+      "url": "https://anilist.co/anime/2154"
+    },
+    "al_manga": {
+      "id": "99717",
+      "url": "https://anilist.co/manga/99717"
+    }
+  }
+}

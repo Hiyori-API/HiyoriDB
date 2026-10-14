@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3157,
+  "slug": "honoo-no-alpen-rose-judy-randy",
+  "kind": "anime",
+  "title": "Honoo no Alpen Rose: Judy & Randy",
+  "titles": {
+    "default": "Honoo no Alpen Rose: Judy & Randy",
+    "romaji": "Honoo no Alpen Rose: Judy & Randy",
+    "english": "Alpen Rose",
+    "native": "炎のアルペンローゼ・ジュディ＆ランディ"
+  },
+  "synonyms": [
+    "Honoo no Alpen Rose: Judy & Randy",
+    "Alpen Rose",
+    "炎のアルペンローゼ・ジュディ＆ランディ",
+    "Alpenrose of Fire Judy and Randy",
+    "Flower of the Mountain",
+    "Flaming Alpen Rose: Jeudi & Lundi",
+    "Hono no Alpenrose Jeudi & Lundi",
+    "Alpenrose",
+    "Honoo no Alpenrose: Judy & Randy",
+    "Hono no Alpenrose Judy & Landy",
+    "Blazing Alpenrose: Judy & Randy"
+  ],
+  "type": "tv",
+  "episodes": 20,
+  "status": "finished",
+  "season": "spring",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3807-uRtS1pueVvmG.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3807",
+      "url": "https://anilist.co/anime/3807"
+    },
+    "k": {
+      "id": "3263",
+      "url": "https://kitsu.io/anime/3263"
+    },
+    "mal": {
+      "id": "3807",
+      "url": "https://myanimelist.net/anime/3807"
+    }
+  }
+}

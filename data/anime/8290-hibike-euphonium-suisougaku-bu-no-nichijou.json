@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8290,
+  "slug": "hibike-euphonium-suisougaku-bu-no-nichijou",
+  "kind": "anime",
+  "title": "Hibike! Euphonium: Suisougaku-bu no Nichijou",
+  "titles": {
+    "default": "Hibike! Euphonium: Suisougaku-bu no Nichijou",
+    "romaji": "Hibike! Euphonium: Suisougaku-bu no Nichijou",
+    "english": "Sound! Euphonium Shorts",
+    "native": "響け！ユーフォニアム 吹奏楽部の日常"
+  },
+  "synonyms": [
+    "Hibike! Euphonium: Suisougaku-bu no Nichijou",
+    "Sound! Euphonium Shorts",
+    "響け！ユーフォニアム 吹奏楽部の日常",
+    "Hibike! Euphonium Specials",
+    "Hibike! Euphonium: The Daily Life of the Concert Band",
+    "Sound! Euphonium Specials",
+    "響け！ユーフォニアム「吹奏楽部の日常」"
+  ],
+  "type": "special",
+  "episodes": 7,
+  "status": "finished",
+  "season": "summer",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21255-DUmnkxSx65ie.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21255",
+      "url": "https://anilist.co/anime/21255"
+    },
+    "mal": {
+      "id": "31096",
+      "url": "https://myanimelist.net/anime/31096"
+    },
+    "tx": {
+      "id": "anime_eupho",
+      "url": "https://twitter.com/anime_eupho"
+    },
+    "yt": {
+      "id": "KyoaniChann",
+      "url": "https://www.youtube.com/watch?v=KyoaniChann"
+    }
+  }
+}

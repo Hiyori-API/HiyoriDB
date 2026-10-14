@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1469,
+  "slug": "babel-nisei-2001",
+  "kind": "anime",
+  "title": "Babel Nisei (2001)",
+  "titles": {
+    "default": "Babel Nisei (2001)",
+    "romaji": "Babel Nisei (2001)",
+    "english": "Babel II: Beyond Infinity",
+    "native": "バビル2世"
+  },
+  "synonyms": [
+    "Babel Nisei (2001)",
+    "Babel II: Beyond Infinity",
+    "バビル2世",
+    "巴別2世",
+    "Babel II: Más Allá del Infinito",
+    "バビル２世",
+    "Babel 2-sei"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1664-HWQTuN45oqiJ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1664",
+      "url": "https://anilist.co/anime/1664"
+    },
+    "k": {
+      "id": "1495",
+      "url": "https://kitsu.io/anime/1495"
+    },
+    "mal": {
+      "id": "1664",
+      "url": "https://myanimelist.net/anime/1664"
+    },
+    "t": {
+      "id": "64733",
+      "url": "https://trakt.tv/shows/64733"
+    }
+  }
+}

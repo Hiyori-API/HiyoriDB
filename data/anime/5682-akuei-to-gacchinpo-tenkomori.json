@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5682,
+  "slug": "akuei-to-gacchinpo-tenkomori",
+  "kind": "anime",
+  "title": "Akuei to Gacchinpo: Tenkomori",
+  "titles": {
+    "default": "Akuei to Gacchinpo: Tenkomori",
+    "romaji": "Akuei to Gacchinpo: Tenkomori",
+    "native": "アークエとガッチンポー てんこもり"
+  },
+  "synonyms": [
+    "Akuei to Gacchinpo: Tenkomori",
+    "アークエとガッチンポー てんこもり",
+    "Masuda Kousuke Gekijou Gag Manga Biyori",
+    "増田こうすけ劇場 ギャグマンガ日和",
+    "Gyagu Manga Biyori",
+    "Masuda Kousuke's Theater: A Perfect Day for Gag-Manga"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b108745-NBDlQAzWTGZ8.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "108745",
+      "url": "https://anilist.co/anime/108745"
+    },
+    "k": {
+      "id": "1076",
+      "url": "https://kitsu.io/anime/1076"
+    },
+    "mal": {
+      "id": "29843",
+      "url": "https://myanimelist.net/anime/29843"
+    },
+    "t": {
+      "id": "65392",
+      "url": "https://trakt.tv/shows/65392"
+    }
+  }
+}

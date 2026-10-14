@@ -1,0 +1,58 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 459,
+  "slug": "yami-to-boushi-to-hon-no-tabibito",
+  "kind": "anime",
+  "title": "Yami to Boushi to Hon no Tabibito",
+  "titles": {
+    "default": "Yami to Boushi to Hon no Tabibito",
+    "romaji": "Yami to Boushi to Hon no Tabibito",
+    "english": "YAMIBO: Darkness, the Hat, and Travelers of the Books",
+    "native": "ヤミと帽子と本の旅人"
+  },
+  "synonyms": [
+    "Yami to Boushi to Hon no Tabibito",
+    "YAMIBO: Darkness, the Hat, and Travelers of the Books",
+    "ヤミと帽子と本の旅人",
+    "YamiBou",
+    "Traveller of Darkness",
+    "Darkness",
+    "Hat and Book Traveler",
+    "Traveller Yami",
+    "Hat and Book"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/497.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "497",
+      "url": "https://anilist.co/anime/497"
+    },
+    "cr": {
+      "id": "yamibo-darkness-the-hat-and-travelers-of-the-books",
+      "url": "https://www.crunchyroll.com/series/yamibo-darkness-the-hat-and-travelers-of-the-books"
+    },
+    "k": {
+      "id": "457",
+      "url": "https://kitsu.io/anime/457"
+    },
+    "mal": {
+      "id": "497",
+      "url": "https://myanimelist.net/anime/497"
+    },
+    "t": {
+      "id": "64156",
+      "url": "https://trakt.tv/shows/64156"
+    },
+    "ttv": {
+      "id": "4687",
+      "url": "https://tubitv.com/series/4687"
+    }
+  }
+}

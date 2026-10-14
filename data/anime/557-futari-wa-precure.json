@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 557,
+  "slug": "futari-wa-precure",
+  "kind": "anime",
+  "title": "Futari wa Precure",
+  "titles": {
+    "default": "Futari wa Precure",
+    "romaji": "Futari wa Precure",
+    "english": "Precure",
+    "native": "ふたりはプリキュア"
+  },
+  "synonyms": [
+    "Futari wa Precure",
+    "Precure",
+    "ふたりはプリキュア",
+    "Pretty Cure",
+    "We Are Pretty Cure"
+  ],
+  "type": "tv",
+  "episodes": 49,
+  "status": "finished",
+  "season": "winter",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx603-sTv5PVWt8FGi.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "603",
+      "url": "https://anilist.co/anime/603"
+    },
+    "cr": {
+      "id": "pretty-cure",
+      "url": "https://www.crunchyroll.com/series/pretty-cure"
+    },
+    "k": {
+      "id": "558",
+      "url": "https://kitsu.io/anime/558"
+    },
+    "mal": {
+      "id": "603",
+      "url": "https://myanimelist.net/anime/603"
+    },
+    "t": {
+      "id": "37350",
+      "url": "https://trakt.tv/shows/37350"
+    },
+    "ttv": {
+      "id": "1855",
+      "url": "https://tubitv.com/series/1855"
+    }
+  }
+}

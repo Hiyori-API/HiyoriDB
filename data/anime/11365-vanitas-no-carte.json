@@ -1,0 +1,58 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11365,
+  "slug": "vanitas-no-carte",
+  "kind": "anime",
+  "title": "Vanitas no Carte",
+  "titles": {
+    "default": "Vanitas no Carte",
+    "romaji": "Vanitas no Carte",
+    "english": "The Case Study of Vanitas",
+    "native": "ヴァニタスの手記"
+  },
+  "synonyms": [
+    "Vanitas no Carte",
+    "The Case Study of Vanitas",
+    "ヴァニタスの手記",
+    "Vanitas no Karte",
+    "Les Mémoires de Vanitas",
+    "瓦尼塔斯的手记",
+    "บันทึกแวมไพร์วานิทัส",
+    "DearS",
+    "ディアーズ"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131646-cuyGfKcekZ62.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "131646",
+      "url": "https://anilist.co/anime/131646"
+    },
+    "cr": {
+      "id": "the-case-study-of-vanitas",
+      "url": "https://www.crunchyroll.com/series/the-case-study-of-vanitas"
+    },
+    "k": {
+      "id": "44",
+      "url": "https://kitsu.io/anime/44"
+    },
+    "mal": {
+      "id": "48580",
+      "url": "https://myanimelist.net/anime/48580"
+    },
+    "t": {
+      "id": "61051",
+      "url": "https://trakt.tv/shows/61051"
+    },
+    "tx": {
+      "id": "vanitas_anime",
+      "url": "https://twitter.com/vanitas_anime"
+    }
+  }
+}

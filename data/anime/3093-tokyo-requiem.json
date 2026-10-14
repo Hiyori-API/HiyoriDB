@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3093,
+  "slug": "tokyo-requiem",
+  "kind": "anime",
+  "title": "Tokyo Requiem",
+  "titles": {
+    "default": "Tokyo Requiem",
+    "romaji": "Tokyo Requiem",
+    "native": "東京鎮魂歌"
+  },
+  "synonyms": [
+    "Tokyo Requiem",
+    "東京鎮魂歌",
+    "The Eternal Aseria",
+    "Eien no Aselia",
+    "永遠のアセリア",
+    "Eien no Aseria: The Spirit of Eternity Sword"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3681.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3681",
+      "url": "https://anilist.co/anime/3681"
+    },
+    "k": {
+      "id": "462",
+      "url": "https://kitsu.io/anime/462"
+    },
+    "mal": {
+      "id": "3681",
+      "url": "https://myanimelist.net/anime/3681"
+    }
+  }
+}

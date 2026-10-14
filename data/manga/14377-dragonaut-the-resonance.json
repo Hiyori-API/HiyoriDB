@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14377,
+  "slug": "dragonaut-the-resonance",
+  "kind": "manga",
+  "title": "Dragonaut -The Resonance",
+  "titles": {
+    "default": "Dragonaut -The Resonance"
+  },
+  "synonyms": [
+    "Dragonaut",
+    "Dragonaut -The Resonance-",
+    "ドラゴノーツ -ザ・レゾナンス-",
+    "Kataomoi no Mukougawa",
+    "片想いの向こう側",
+    "Kataomoi no Mukou Gawa",
+    "Ano Kado o Magareba",
+    "Tenshi ga Kuretamono",
+    "Bitou na Koi",
+    "Kimi to Natsu no Aizu"
+  ],
+  "type": "manga",
+  "chapters": 6,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3204.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2795",
+      "url": "https://anilist.co/anime/2795"
+    },
+    "al_manga": {
+      "id": "2795",
+      "url": "https://anilist.co/manga/2795"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5968,
+  "slug": "kuroshitsuji-picture-drama",
+  "kind": "anime",
+  "title": "Kuroshitsuji Picture Drama",
+  "titles": {
+    "default": "Kuroshitsuji Picture Drama",
+    "romaji": "Kuroshitsuji Picture Drama",
+    "native": "黒執事 ピクチャードラマ"
+  },
+  "synonyms": [
+    "Kuroshitsuji Picture Drama",
+    "黒執事 ピクチャードラマ",
+    "Kuroshitsuji - Sono Shitsuji",
+    "Kyoso -Akai Valentine-",
+    "Kuroshitsuji: Sono Shitsuji",
+    "Kyousou -Akai Valentine-"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8068.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8068",
+      "url": "https://anilist.co/anime/8068"
+    },
+    "k": {
+      "id": "5186",
+      "url": "https://kitsu.io/anime/5186"
+    },
+    "mal": {
+      "id": "8068",
+      "url": "https://myanimelist.net/anime/8068"
+    }
+  }
+}

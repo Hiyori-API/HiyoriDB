@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6690,
+  "slug": "muv-luv-alternative-total-eclipse",
+  "kind": "anime",
+  "title": "Muv-Luv Alternative: Total Eclipse",
+  "titles": {
+    "default": "Muv-Luv Alternative: Total Eclipse",
+    "romaji": "Muv-Luv Alternative: Total Eclipse",
+    "native": "マブラヴ オルタネイティヴ トータル・イクリプス"
+  },
+  "synonyms": [
+    "Muv-Luv Alternative: Total Eclipse",
+    "マブラヴ オルタネイティヴ トータル・イクリプス",
+    "MuvLuv Alternative Total Eclipse",
+    "MLA TE"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "summer",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11021-GzdZljNpct4b.png"
+  ],
+  "references": {
+    "al": {
+      "id": "11021",
+      "url": "https://anilist.co/anime/11021"
+    },
+    "cr": {
+      "id": "total-eclipse",
+      "url": "https://www.crunchyroll.com/series/total-eclipse"
+    },
+    "k": {
+      "id": "6442",
+      "url": "https://kitsu.io/anime/6442"
+    },
+    "mal": {
+      "id": "11021",
+      "url": "https://myanimelist.net/anime/11021"
+    },
+    "t": {
+      "id": "66989",
+      "url": "https://trakt.tv/shows/66989"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5072,
+  "slug": "sengoku-bushou-retsuden-bakufuu-douji-hissatsuman",
+  "kind": "anime",
+  "title": "Sengoku Bushou Retsuden Bakufuu Douji Hissatsuman",
+  "titles": {
+    "default": "Sengoku Bushou Retsuden Bakufuu Douji Hissatsuman",
+    "romaji": "Sengoku Bushou Retsuden Bakufuu Douji Hissatsuman",
+    "native": "戦国武将列伝 爆風童子ヒッサツマン"
+  },
+  "synonyms": [
+    "Sengoku Bushou Retsuden Bakufuu Douji Hissatsuman",
+    "戦国武将列伝 爆風童子ヒッサツマン"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "summer",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16788.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "16788",
+      "url": "https://anilist.co/anime/16788"
+    },
+    "k": {
+      "id": "7518",
+      "url": "https://kitsu.io/anime/7518"
+    },
+    "mal": {
+      "id": "16788",
+      "url": "https://myanimelist.net/anime/16788"
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10233,
+  "slug": "mayonaka-no-occult-koumuin-ova",
+  "kind": "anime",
+  "title": "Mayonaka no Occult Koumuin OVA",
+  "titles": {
+    "default": "Mayonaka no Occult Koumuin OVA",
+    "romaji": "Mayonaka no Occult Koumuin OVA",
+    "english": "Midnight Occult Civil Servants OVA",
+    "native": "真夜中のオカルト公務員 OVA"
+  },
+  "synonyms": [
+    "Mayonaka no Occult Koumuin OVA",
+    "Midnight Occult Civil Servants OVA",
+    "真夜中のオカルト公務員 OVA",
+    "Hitoribocchi no Kyuuketsuki",
+    "ひとりぼっちの吸血鬼",
+    "Mayonaka no Occult Koumuin: Fukurokouji to Ano Ko to Ore to",
+    "Great Planet Evil-Destroyer Dangaio",
+    "Haja Taisei Dangaiou",
+    "破邪大星弾劾凰 [ダンガイオー]",
+    "Dangaioh",
+    "Dangaio",
+    "Dangaioh: Hyper Combat Unit",
+    "Haja Taisei Dangaio"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "summer",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110173-cq7OsuSJFvo6.png"
+  ],
+  "references": {
+    "al": {
+      "id": "110173",
+      "url": "https://anilist.co/anime/110173"
+    },
+    "cr": {
+      "id": "midnight-occult-civil-servants",
+      "url": "https://www.crunchyroll.com/series/midnight-occult-civil-servants"
+    },
+    "k": {
+      "id": "458",
+      "url": "https://kitsu.io/anime/458"
+    },
+    "mal": {
+      "id": "39972",
+      "url": "https://myanimelist.net/anime/39972"
+    },
+    "tx": {
+      "id": "occultkoumuin",
+      "url": "https://twitter.com/occultkoumuin"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2761,
+  "slug": "hidamari-sketch-tokubetsu-hen",
+  "kind": "anime",
+  "title": "Hidamari Sketch Tokubetsu-hen",
+  "titles": {
+    "default": "Hidamari Sketch Tokubetsu-hen",
+    "romaji": "Hidamari Sketch Tokubetsu-hen",
+    "native": "ひだまりスケッチ 特別編"
+  },
+  "synonyms": [
+    "Hidamari Sketch Tokubetsu-hen",
+    "ひだまりスケッチ 特別編",
+    "Hidamari Sketch Specials",
+    "Hidamari Sketch: Tokubetsu Hen - Zengo Hen"
+  ],
+  "type": "special",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3165-OtlA3Ni5ZIvw.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3165",
+      "url": "https://anilist.co/anime/3165"
+    },
+    "k": {
+      "id": "2834",
+      "url": "https://kitsu.io/anime/2834"
+    },
+    "mal": {
+      "id": "3165",
+      "url": "https://myanimelist.net/anime/3165"
+    }
+  }
+}

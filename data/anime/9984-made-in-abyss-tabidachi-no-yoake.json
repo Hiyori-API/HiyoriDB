@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9984,
+  "slug": "made-in-abyss-tabidachi-no-yoake",
+  "kind": "anime",
+  "title": "Made in Abyss: Tabidachi no Yoake",
+  "titles": {
+    "default": "Made in Abyss: Tabidachi no Yoake",
+    "romaji": "Made in Abyss: Tabidachi no Yoake",
+    "english": "Made in Abyss: Journey's Dawn",
+    "native": "メイドインアビス 旅立ちの夜明け"
+  },
+  "synonyms": [
+    "Made in Abyss: Tabidachi no Yoake",
+    "Made in Abyss: Journey's Dawn",
+    "メイドインアビス 旅立ちの夜明け",
+    "Cencoroll 2",
+    "センコロール"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101343-E9fMMi4b8fsL.png"
+  ],
+  "references": {
+    "al": {
+      "id": "101343",
+      "url": "https://anilist.co/anime/101343"
+    },
+    "k": {
+      "id": "5749",
+      "url": "https://kitsu.io/anime/5749"
+    },
+    "mal": {
+      "id": "37514",
+      "url": "https://myanimelist.net/anime/37514"
+    },
+    "tx": {
+      "id": "miabyss_anime",
+      "url": "https://twitter.com/miabyss_anime"
+    }
+  }
+}

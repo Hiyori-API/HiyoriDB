@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5930,
+  "slug": "major-s6",
+  "kind": "anime",
+  "title": "Major S6",
+  "titles": {
+    "default": "Major S6",
+    "romaji": "Major S6",
+    "native": "メジャー（第6シリーズ)"
+  },
+  "synonyms": [
+    "Major S6",
+    "メジャー（第6シリーズ)",
+    "Major 6th Season",
+    "メジャー 第6シリーズ"
+  ],
+  "type": "tv",
+  "episodes": 25,
+  "status": "finished",
+  "season": "spring",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx7655-HRR4NF39Vo3W.png"
+  ],
+  "references": {
+    "al": {
+      "id": "7655",
+      "url": "https://anilist.co/anime/7655"
+    },
+    "k": {
+      "id": "5070",
+      "url": "https://kitsu.io/anime/5070"
+    },
+    "mal": {
+      "id": "7655",
+      "url": "https://myanimelist.net/anime/7655"
+    },
+    "t": {
+      "id": "61997",
+      "url": "https://trakt.tv/shows/61997"
+    }
+  }
+}

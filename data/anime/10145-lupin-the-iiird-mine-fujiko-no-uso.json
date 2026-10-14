@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10145,
+  "slug": "lupin-the-iiird-mine-fujiko-no-uso",
+  "kind": "anime",
+  "title": "LUPIN THE IIIRD: Mine Fujiko no Uso",
+  "titles": {
+    "default": "LUPIN THE IIIRD: Mine Fujiko no Uso",
+    "romaji": "LUPIN THE IIIRD: Mine Fujiko no Uso",
+    "english": "Lupin the IIIrd: Fujiko's Lie",
+    "native": "LUPIN THE IIIRD 峰不二子の嘘"
+  },
+  "synonyms": [
+    "LUPIN THE IIIRD: Mine Fujiko no Uso",
+    "Lupin the IIIrd: Fujiko's Lie",
+    "LUPIN THE IIIRD 峰不二子の嘘",
+    "Lupin III (2019)",
+    "ルパン三世 (2019)",
+    "ルパン三世 峰不二子の嘘",
+    "Lupin the IIIrd: Fujiko Mine’s Lie",
+    "Lupin III - La bugia di Mine Fujiko",
+    "Cencoroll 2",
+    "センコロール"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx107313-xwtP8Oumc2B2.png"
+  ],
+  "references": {
+    "al": {
+      "id": "107313",
+      "url": "https://anilist.co/anime/107313"
+    },
+    "k": {
+      "id": "5749",
+      "url": "https://kitsu.io/anime/5749"
+    },
+    "mal": {
+      "id": "39487",
+      "url": "https://myanimelist.net/anime/39487"
+    },
+    "tx": {
+      "id": "lupin3_series",
+      "url": "https://twitter.com/lupin3_series"
+    }
+  }
+}

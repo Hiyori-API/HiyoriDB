@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13154,
+  "slug": "tamaranai-no-wa-koi-nano-ka",
+  "kind": "anime",
+  "title": "Tamaranai no wa Koi nano ka",
+  "titles": {
+    "default": "Tamaranai no wa Koi nano ka",
+    "romaji": "Tamaranai no wa Koi nano ka",
+    "native": "たまらないのは恋なのか"
+  },
+  "synonyms": [
+    "Tamaranai no wa Koi nano ka",
+    "たまらないのは恋なのか",
+    "A Love Too Captivating",
+    "Is It Because of Love That I Can't Resist?",
+    "The Ocean Waves",
+    "Umi ga Kikoeru",
+    "海がきこえる",
+    "I Can Hear the Sea",
+    "Ocean Waves"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187362-Qz6YXMv0TcRJ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "187362",
+      "url": "https://anilist.co/anime/187362"
+    },
+    "k": {
+      "id": "666",
+      "url": "https://kitsu.io/anime/666"
+    },
+    "mal": {
+      "id": "61146",
+      "url": "https://myanimelist.net/anime/61146"
+    },
+    "nf": {
+      "id": "80158668",
+      "url": "https://www.netflix.com/title/80158668"
+    }
+  }
+}

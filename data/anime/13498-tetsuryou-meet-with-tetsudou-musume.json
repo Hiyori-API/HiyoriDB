@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13498,
+  "slug": "tetsuryou-meet-with-tetsudou-musume",
+  "kind": "anime",
+  "title": "Tetsuryou! meet with Tetsudou Musume",
+  "titles": {
+    "default": "Tetsuryou! meet with Tetsudou Musume",
+    "romaji": "Tetsuryou! meet with Tetsudou Musume",
+    "english": "TETSURYO! Meet With Tetsudou Musume",
+    "native": "てつりょー！meet with 鉄道むすめ"
+  },
+  "synonyms": [
+    "Tetsuryou! meet with Tetsudou Musume",
+    "TETSURYO! Meet With Tetsudou Musume",
+    "てつりょー！meet with 鉄道むすめ",
+    "TETSURYO! meet with Tetsudou Musume",
+    "Tetsuryo! Meet with Railroad Girls",
+    "Tetsuryou! Meet with Tetsudou Musume"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "airing",
+  "season": "fall",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199594-moYKzlfIH03U.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "199594",
+      "url": "https://anilist.co/anime/199594"
+    },
+    "mal": {
+      "id": "62615",
+      "url": "https://myanimelist.net/anime/62615"
+    }
+  }
+}

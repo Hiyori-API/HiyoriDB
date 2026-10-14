@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6596,
+  "slug": "aku-no-onna-kanbu",
+  "kind": "anime",
+  "title": "Aku no Onna Kanbu",
+  "titles": {
+    "default": "Aku no Onna Kanbu",
+    "romaji": "Aku no Onna Kanbu",
+    "english": "Evil Woman Executive",
+    "native": "悪の女幹部"
+  },
+  "synonyms": [
+    "Aku no Onna Kanbu",
+    "Evil Woman Executive",
+    "悪の女幹部",
+    "Queen's Blade OVA",
+    "クイーンズブレイド",
+    "Queen's Blade: Rebellion OVA"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b11745-hKrm7EOZ6R4n.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11745",
+      "url": "https://anilist.co/anime/11745"
+    },
+    "k": {
+      "id": "6409",
+      "url": "https://kitsu.io/anime/6409"
+    },
+    "mal": {
+      "id": "11745",
+      "url": "https://myanimelist.net/anime/11745"
+    }
+  }
+}

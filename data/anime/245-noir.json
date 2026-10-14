@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 245,
+  "slug": "noir",
+  "kind": "anime",
+  "title": "NOIR",
+  "titles": {
+    "default": "NOIR",
+    "romaji": "NOIR",
+    "english": "Noir",
+    "native": "ノワール"
+  },
+  "synonyms": [
+    "NOIR",
+    "Noir",
+    "ノワール"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx272-lRHGmGHUZMr2.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "272",
+      "url": "https://anilist.co/anime/272"
+    },
+    "cr": {
+      "id": "series/GR19PXG06/noir",
+      "url": "https://www.crunchyroll.com/series/series/GR19PXG06/noir"
+    },
+    "k": {
+      "id": "247",
+      "url": "https://kitsu.io/anime/247"
+    },
+    "mal": {
+      "id": "272",
+      "url": "https://myanimelist.net/anime/272"
+    },
+    "t": {
+      "id": "1036",
+      "url": "https://trakt.tv/shows/1036"
+    },
+    "yt": {
+      "id": "ZlcpEb9Juug",
+      "url": "https://www.youtube.com/watch?v=ZlcpEb9Juug"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10756,
+  "slug": "vlad-love",
+  "kind": "anime",
+  "title": "Vlad Love",
+  "titles": {
+    "default": "Vlad Love",
+    "romaji": "Vlad Love",
+    "english": "VLAD LOVE",
+    "native": "ぶらどらぶ"
+  },
+  "synonyms": [
+    "Vlad Love",
+    "VLAD LOVE",
+    "ぶらどらぶ",
+    "VLADLOVE",
+    "Black Jack ONA",
+    "ブラック・ジャック(インターネット版)",
+    "Black Jack: Internet-han"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110200-QB9smw3HWyQC.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "110200",
+      "url": "https://anilist.co/anime/110200"
+    },
+    "cr": {
+      "id": "vlad-love",
+      "url": "https://www.crunchyroll.com/series/vlad-love"
+    },
+    "k": {
+      "id": "4904",
+      "url": "https://kitsu.io/anime/4904"
+    },
+    "mal": {
+      "id": "39990",
+      "url": "https://myanimelist.net/anime/39990"
+    },
+    "tx": {
+      "id": "VLADLOVE_ANIME",
+      "url": "https://twitter.com/VLADLOVE_ANIME"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7257,
+  "slug": "code-geass-soubou-no-oz-picture-drama",
+  "kind": "anime",
+  "title": "Code Geass: Soubou no Oz Picture Drama",
+  "titles": {
+    "default": "Code Geass: Soubou no Oz Picture Drama",
+    "romaji": "Code Geass: Soubou no Oz Picture Drama",
+    "english": "Code Geass: Oz the Reflection Picture Drama",
+    "native": "コードギアス 双貌のオズ ピクチャードマラ"
+  },
+  "synonyms": [
+    "Code Geass: Soubou no Oz Picture Drama",
+    "Code Geass: Oz the Reflection Picture Drama",
+    "コードギアス 双貌のオズ ピクチャードマラ",
+    "SKET Dance: Imouto no Nayami ni Nayamu Ani ni Nayamu Imouto to Sono Nakama-tachi",
+    "スケットダンス 妹の悩みに悩む兄に悩む妹とその仲間達",
+    "SKET Dance OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17277.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "17277",
+      "url": "https://anilist.co/anime/17277"
+    },
+    "k": {
+      "id": "7420",
+      "url": "https://kitsu.io/anime/7420"
+    },
+    "mal": {
+      "id": "17277",
+      "url": "https://myanimelist.net/anime/17277"
+    }
+  }
+}

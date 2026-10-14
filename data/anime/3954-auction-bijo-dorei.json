@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3954,
+  "slug": "auction-bijo-dorei",
+  "kind": "anime",
+  "title": "Auction: Bijo Dorei",
+  "titles": {
+    "default": "Auction: Bijo Dorei",
+    "romaji": "Auction: Bijo Dorei",
+    "native": "闇市場[オークション] ～美女奴隷～"
+  },
+  "synonyms": [
+    "Auction: Bijo Dorei",
+    "闇市場[オークション] ～美女奴隷～",
+    "Yami Ichiba: Bijo Dorei",
+    "Auction: Beautiful Slave",
+    "Locke the Superman: Mirror Ring",
+    "Choujin Locke: Mirror Ring",
+    "超人ロック～ミラーリング～"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5558.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5558",
+      "url": "https://anilist.co/anime/5558"
+    },
+    "k": {
+      "id": "3869",
+      "url": "https://kitsu.io/anime/3869"
+    },
+    "mal": {
+      "id": "5558",
+      "url": "https://myanimelist.net/anime/5558"
+    }
+  }
+}

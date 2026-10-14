@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8898,
+  "slug": "cure-miracle-to-mofurun-no-mahou-lesson",
+  "kind": "anime",
+  "title": "Cure Miracle to Mofurun no Mahou Lesson",
+  "titles": {
+    "default": "Cure Miracle to Mofurun no Mahou Lesson",
+    "romaji": "Cure Miracle to Mofurun no Mahou Lesson",
+    "native": "キュアミラクルとモフルンの魔法レッスン"
+  },
+  "synonyms": [
+    "Cure Miracle to Mofurun no Mahou Lesson",
+    "キュアミラクルとモフルンの魔法レッスン",
+    "Love Hina Christmas Movie",
+    "Love Hina Christmas Special: Silent Eve",
+    "ラブひなクリスマススペシャル ～サイレント・イヴ～"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b98785-rY1DTCtVvmwT.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98785",
+      "url": "https://anilist.co/anime/98785"
+    },
+    "k": {
+      "id": "168",
+      "url": "https://kitsu.io/anime/168"
+    },
+    "mal": {
+      "id": "33669",
+      "url": "https://myanimelist.net/anime/33669"
+    }
+  }
+}

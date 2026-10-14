@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5189,
+  "slug": "hana-no-mahou-tsukai-mary-bell-phoenix-no-kagi",
+  "kind": "anime",
+  "title": "Hana no Mahou Tsukai Mary Bell: Phoenix no Kagi",
+  "titles": {
+    "default": "Hana no Mahou Tsukai Mary Bell: Phoenix no Kagi",
+    "romaji": "Hana no Mahou Tsukai Mary Bell: Phoenix no Kagi",
+    "native": "花の魔法使いマリーベル フェニックスのかぎ"
+  },
+  "synonyms": [
+    "Hana no Mahou Tsukai Mary Bell: Phoenix no Kagi",
+    "花の魔法使いマリーベル フェニックスのかぎ",
+    "Floral Magician Mary Bell: The Phoenix Key",
+    "Hana no Mahoutsukai Mary Bell: Phoenix no Kagi"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9862.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9862",
+      "url": "https://anilist.co/anime/9862"
+    },
+    "k": {
+      "id": "5907",
+      "url": "https://kitsu.io/anime/5907"
+    },
+    "mal": {
+      "id": "9862",
+      "url": "https://myanimelist.net/anime/9862"
+    }
+  }
+}

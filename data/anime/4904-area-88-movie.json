@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4904,
+  "slug": "area-88-movie",
+  "kind": "anime",
+  "title": "Area 88 Movie",
+  "titles": {
+    "default": "Area 88 Movie",
+    "romaji": "Area 88 Movie",
+    "native": "エリア88 劇場版"
+  },
+  "synonyms": [
+    "Area 88 Movie",
+    "エリア88 劇場版",
+    "The Dagger of Kamui",
+    "Kamui no Ken",
+    "カムイの剣",
+    "Blade of Kamui",
+    "Revenge of the Ninja Warrior"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98129-thueGScDFCCf.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98129",
+      "url": "https://anilist.co/anime/98129"
+    },
+    "k": {
+      "id": "456",
+      "url": "https://kitsu.io/anime/456"
+    },
+    "mal": {
+      "id": "33232",
+      "url": "https://myanimelist.net/anime/33232"
+    }
+  }
+}

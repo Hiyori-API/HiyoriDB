@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5215,
+  "slug": "little-twins-bokura-no-natsu-ga-tondeiku",
+  "kind": "anime",
+  "title": "Little Twins: Bokura no Natsu ga Tondeiku",
+  "titles": {
+    "default": "Little Twins: Bokura no Natsu ga Tondeiku",
+    "romaji": "Little Twins: Bokura no Natsu ga Tondeiku",
+    "native": "リトルツインズ ぼくらの夏が飛んでいく"
+  },
+  "synonyms": [
+    "Little Twins: Bokura no Natsu ga Tondeiku",
+    "リトルツインズ ぼくらの夏が飛んでいく",
+    "Porco Rosso",
+    "Kurenai no Buta",
+    "紅の豚",
+    "The Scarlet Pig"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b132343-ZUfZCtwvX8Ir.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "132343",
+      "url": "https://anilist.co/anime/132343"
+    },
+    "k": {
+      "id": "380",
+      "url": "https://kitsu.io/anime/380"
+    },
+    "mal": {
+      "id": "28099",
+      "url": "https://myanimelist.net/anime/28099"
+    }
+  }
+}

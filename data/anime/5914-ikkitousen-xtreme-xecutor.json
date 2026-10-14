@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5914,
+  "slug": "ikkitousen-xtreme-xecutor",
+  "kind": "anime",
+  "title": "Ikkitousen: XTREME XECUTOR",
+  "titles": {
+    "default": "Ikkitousen: XTREME XECUTOR",
+    "romaji": "Ikkitousen: XTREME XECUTOR",
+    "english": "Ikki Tousen: Xtreme Xecutor",
+    "native": "一騎当千 XTREME XECUTOR"
+  },
+  "synonyms": [
+    "Ikkitousen: XTREME XECUTOR",
+    "Ikki Tousen: Xtreme Xecutor",
+    "一騎当千 XTREME XECUTOR",
+    "Ikkitousen XX",
+    "Ikki Tousen Extreme Executor",
+    "Ikkitousen: Xtreme Xecutor",
+    "一騎当千 Xtreme Xecutor"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx7580-dt2waY2ZK8SN.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7580",
+      "url": "https://anilist.co/anime/7580"
+    },
+    "cr": {
+      "id": "ikki-tousen",
+      "url": "https://www.crunchyroll.com/series/ikki-tousen"
+    },
+    "k": {
+      "id": "5037",
+      "url": "https://kitsu.io/anime/5037"
+    },
+    "mal": {
+      "id": "7580",
+      "url": "https://myanimelist.net/anime/7580"
+    },
+    "t": {
+      "id": "37426",
+      "url": "https://trakt.tv/shows/37426"
+    }
+  }
+}

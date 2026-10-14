@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13829,
+  "slug": "comic-party",
+  "kind": "manga",
+  "title": "Comic Party",
+  "titles": {
+    "default": "Comic Party"
+  },
+  "synonyms": [
+    "Comic Party",
+    "こみっくパーティー",
+    "Mushrambo",
+    "マシュランボー",
+    "Mashuranboo"
+  ],
+  "type": "manga",
+  "chapters": 49,
+  "volumes": 5,
+  "status": "finished",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30169-kg58fro9XHeK.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "289",
+      "url": "https://anilist.co/anime/289"
+    },
+    "al_manga": {
+      "id": "289",
+      "url": "https://anilist.co/manga/289"
+    }
+  }
+}

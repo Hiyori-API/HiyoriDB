@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14313,
+  "slug": "fujimi-2-choume-koukyougakudan-kanrei-zensen-conductor",
+  "kind": "manga",
+  "title": "Fujimi 2-choume Koukyougakudan: Kanrei Zensen Conductor",
+  "titles": {
+    "default": "Fujimi 2-choume Koukyougakudan: Kanrei Zensen Conductor"
+  },
+  "synonyms": [
+    "Kanrei Zensen Conductor",
+    "The Conductor of Cold Front",
+    "Cold Front Conductor",
+    "Do You Like the Concert?",
+    "Fujimi Orchestra",
+    "富士見二丁目交響楽団シリーズ",
+    "Fujimi 2-choume Koukyougakudan Series",
+    "寒冷前線コンダクター",
+    "Railroad",
+    "레일로드"
+  ],
+  "type": "manga",
+  "chapters": 5,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx32637-WPsOXjWJ4grL.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2218",
+      "url": "https://anilist.co/anime/2218"
+    },
+    "al_manga": {
+      "id": "2218",
+      "url": "https://anilist.co/manga/2218"
+    }
+  }
+}

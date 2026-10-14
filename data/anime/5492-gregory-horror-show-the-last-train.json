@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5492,
+  "slug": "gregory-horror-show-the-last-train",
+  "kind": "anime",
+  "title": "Gregory Horror Show: The Last Train",
+  "titles": {
+    "default": "Gregory Horror Show: The Last Train",
+    "romaji": "Gregory Horror Show: The Last Train",
+    "native": "グレゴリーホラーショー - The Last Train"
+  },
+  "synonyms": [
+    "Gregory Horror Show: The Last Train",
+    "グレゴリーホラーショー - The Last Train"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12483.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12483",
+      "url": "https://anilist.co/anime/12483"
+    },
+    "k": {
+      "id": "6744",
+      "url": "https://kitsu.io/anime/6744"
+    },
+    "mal": {
+      "id": "12483",
+      "url": "https://myanimelist.net/anime/12483"
+    },
+    "t": {
+      "id": "99759",
+      "url": "https://trakt.tv/shows/99759"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14983,
+  "slug": "top-wo-nerae-next-generation-hakkutsu-senkan-hen",
+  "kind": "manga",
+  "title": "Top wo Nerae! NEXT GENERATION: Hakkutsu Senkan-hen",
+  "titles": {
+    "default": "Top wo Nerae! NEXT GENERATION: Hakkutsu Senkan-hen"
+  },
+  "synonyms": [
+    "トップをねらえ! NEXT GENERATION 〜発掘戦艦アレクシオン編〜",
+    "Four Steps to Romance",
+    "Romance Godan Katsuyou",
+    "ろまんす五段活用",
+    "Romantic Princess"
+  ],
+  "type": "manga",
+  "chapters": 9,
+  "volumes": 1,
+  "status": "finished",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx139047-bRW7ajarZhFF.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "949",
+      "url": "https://anilist.co/anime/949"
+    },
+    "al_manga": {
+      "id": "949",
+      "url": "https://anilist.co/manga/949"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1994,
+  "slug": "mazinger-z",
+  "kind": "anime",
+  "title": "Mazinger Z",
+  "titles": {
+    "default": "Mazinger Z",
+    "romaji": "Mazinger Z",
+    "native": "マジンガーＺ"
+  },
+  "synonyms": [
+    "Mazinger Z",
+    "マジンガーＺ",
+    "TranZor Z",
+    "Mazinga Z"
+  ],
+  "type": "tv",
+  "episodes": 92,
+  "status": "finished",
+  "season": "fall",
+  "year": 1972,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2253-nS4Os86CPB5a.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2253",
+      "url": "https://anilist.co/anime/2253"
+    },
+    "k": {
+      "id": "2041",
+      "url": "https://kitsu.io/anime/2041"
+    },
+    "mal": {
+      "id": "2253",
+      "url": "https://myanimelist.net/anime/2253"
+    },
+    "nf": {
+      "id": "80004485",
+      "url": "https://www.netflix.com/title/80004485"
+    },
+    "t": {
+      "id": "19164",
+      "url": "https://trakt.tv/shows/19164"
+    }
+  }
+}

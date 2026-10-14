@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 995,
+  "slug": "one-kagayaku-kisetsu-e-true-stories",
+  "kind": "anime",
+  "title": "ONE: Kagayaku Kisetsu e - True Stories",
+  "titles": {
+    "default": "ONE: Kagayaku Kisetsu e - True Stories",
+    "romaji": "ONE: Kagayaku Kisetsu e - True Stories",
+    "native": "ONE ～輝く季節へ～ True Stories"
+  },
+  "synonyms": [
+    "ONE: Kagayaku Kisetsu e - True Stories",
+    "ONE ～輝く季節へ～ True Stories",
+    "One: To the Glorious Season",
+    "Moekan The Animation",
+    "モエかん THE ANIMATION",
+    "Moekan Company OVA"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "fall",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1113-6tjD82oV8kRU.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1113",
+      "url": "https://anilist.co/anime/1113"
+    },
+    "k": {
+      "id": "580",
+      "url": "https://kitsu.io/anime/580"
+    },
+    "mal": {
+      "id": "1113",
+      "url": "https://myanimelist.net/anime/1113"
+    }
+  }
+}

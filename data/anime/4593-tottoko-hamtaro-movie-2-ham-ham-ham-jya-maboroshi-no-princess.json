@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4593,
+  "slug": "tottoko-hamtaro-movie-2-ham-ham-ham-jya-maboroshi-no-princess",
+  "kind": "anime",
+  "title": "Tottoko Hamtaro Movie 2: Ham Ham Ham~Jya! Maboroshi no Princess",
+  "titles": {
+    "default": "Tottoko Hamtaro Movie 2: Ham Ham Ham~Jya! Maboroshi no Princess",
+    "romaji": "Tottoko Hamtaro Movie 2: Ham Ham Ham~Jya! Maboroshi no Princess",
+    "native": "とっとこハム太郎 ハムハムハムージャ！幻のプリンセス"
+  },
+  "synonyms": [
+    "Tottoko Hamtaro Movie 2: Ham Ham Ham~Jya! Maboroshi no Princess",
+    "とっとこハム太郎 ハムハムハムージャ！幻のプリンセス",
+    "Tottoko Hamtarou Movie 2: Ham-Ham Hamuuja! Maboroshi no Princess",
+    "Tottoko Hamutarou: Hamu Hamu Hamuuja! Maboroshi no Princess"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7330.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7330",
+      "url": "https://anilist.co/anime/7330"
+    },
+    "k": {
+      "id": "4942",
+      "url": "https://kitsu.io/anime/4942"
+    },
+    "mal": {
+      "id": "7330",
+      "url": "https://myanimelist.net/anime/7330"
+    }
+  }
+}

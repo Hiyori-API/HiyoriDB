@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6131,
+  "slug": "mofuku-tsuma",
+  "kind": "anime",
+  "title": "Mofuku Tsuma",
+  "titles": {
+    "default": "Mofuku Tsuma",
+    "romaji": "Mofuku Tsuma",
+    "native": "喪服妻"
+  },
+  "synonyms": [
+    "Mofuku Tsuma",
+    "喪服妻",
+    "Mofukuzuma",
+    "Mourning Wife",
+    "Votoms Finder Armored Trooperoid",
+    "Votoms Finder",
+    "ボトムズファインダー"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx9312-07TTvFU5sKMj.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9312",
+      "url": "https://anilist.co/anime/9312"
+    },
+    "k": {
+      "id": "5269",
+      "url": "https://kitsu.io/anime/5269"
+    },
+    "mal": {
+      "id": "9312",
+      "url": "https://myanimelist.net/anime/9312"
+    }
+  }
+}

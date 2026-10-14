@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13713,
+  "slug": "shin-no-seijo-de-aru-watashi-wa-tsuihou-saremashita-dakara-kono-kuni-wa-mou-owari-desu",
+  "kind": "anime",
+  "title": "Shin no Seijo de aru Watashi wa Tsuihou Saremashita. Dakara Kono Kuni wa Mou Owari desu",
+  "titles": {
+    "default": "Shin no Seijo de aru Watashi wa Tsuihou Saremashita. Dakara Kono Kuni wa Mou Owari desu",
+    "romaji": "Shin no Seijo de aru Watashi wa Tsuihou Saremashita. Dakara Kono Kuni wa Mou Owari desu",
+    "native": "真の聖女である私は追放されました。だからこの国はもう終わりです"
+  },
+  "synonyms": [
+    "Shin no Seijo de aru Watashi wa Tsuihou Saremashita. Dakara Kono Kuni wa Mou Owari desu",
+    "真の聖女である私は追放されました。だからこの国はもう終わりです",
+    "Because I, the True Saint, was Banished, that Country is Done For!",
+    "Despera",
+    "ですぺら",
+    "Desupera"
+  ],
+  "type": "tv",
+  "status": "to_be_aired",
+  "season": "winter",
+  "year": 2027,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214461-BoVsaagZiyLJ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "214461",
+      "url": "https://anilist.co/anime/214461"
+    },
+    "k": {
+      "id": "4584",
+      "url": "https://kitsu.io/anime/4584"
+    },
+    "mal": {
+      "id": "64665",
+      "url": "https://myanimelist.net/anime/64665"
+    }
+  }
+}

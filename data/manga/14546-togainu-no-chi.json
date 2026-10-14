@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14546,
+  "slug": "togainu-no-chi",
+  "kind": "manga",
+  "title": "Togainu no Chi",
+  "titles": {
+    "default": "Togainu no Chi"
+  },
+  "synonyms": [
+    "咎狗の血",
+    "The Kurosagi Corpse Delivery Service",
+    "Kurosagi Shitai Takuhaibin",
+    "黒鷺死体宅配便"
+  ],
+  "type": "manga",
+  "status": "publishing",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx42194-sxHe907uuW2E.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8449",
+      "url": "https://anilist.co/anime/8449"
+    },
+    "al_manga": {
+      "id": "8449",
+      "url": "https://anilist.co/manga/8449"
+    }
+  }
+}

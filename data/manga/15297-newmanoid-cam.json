@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15297,
+  "slug": "newmanoid-cam",
+  "kind": "manga",
+  "title": "Newmanoid CAM",
+  "titles": {
+    "default": "Newmanoid CAM"
+  },
+  "synonyms": [
+    "Armageddon Inside The Bed",
+    "Bed no Naka no Armageddon",
+    "Neko to Onii-san",
+    "Ganbare Konomi-chan",
+    "Newmanoid CAM -ニューマノイド キャム-",
+    "Fujisan",
+    "富士山",
+    "Fuji-san"
+  ],
+  "type": "manga",
+  "chapters": 20,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx50941-NzXEFRjsRq5V.png"
+  ],
+  "references": {
+    "al": {
+      "id": "8651",
+      "url": "https://anilist.co/anime/8651"
+    },
+    "al_manga": {
+      "id": "8651",
+      "url": "https://anilist.co/manga/8651"
+    }
+  }
+}

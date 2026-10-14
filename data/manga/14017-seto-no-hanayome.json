@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14017,
+  "slug": "seto-no-hanayome",
+  "kind": "manga",
+  "title": "Seto no Hanayome",
+  "titles": {
+    "default": "Seto no Hanayome"
+  },
+  "synonyms": [
+    "My Bride is a Mermaid",
+    "SetoYome",
+    "The Inland Sea Bride",
+    "瀬戸の花嫁",
+    "Seto no Hanayome"
+  ],
+  "type": "manga",
+  "chapters": 76,
+  "volumes": 16,
+  "status": "finished",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30759-nqzwzgmFcFxd.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2104",
+      "url": "https://anilist.co/anime/4163"
+    },
+    "al_manga": {
+      "id": "2104",
+      "url": "https://anilist.co/manga/2104"
+    }
+  }
+}

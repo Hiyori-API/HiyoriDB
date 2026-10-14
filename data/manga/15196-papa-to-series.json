@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15196,
+  "slug": "papa-to-series",
+  "kind": "manga",
+  "title": "Papa to♥Series",
+  "titles": {
+    "default": "Papa to♥Series"
+  },
+  "synonyms": [
+    "パパとKISS IN THE DARK",
+    "パパとLOVING ALL NIGHT",
+    "パパとDEEP IN THE FOREST",
+    "パパとSHOWER ON THE BEACH",
+    "Papa to KISS IN THE DARK",
+    "Papa to LOVING ALL NIGHT",
+    "Papa to DEEP IN THE FOREST",
+    "Papa to SHOWER ON THE BEACH",
+    "パパミラシリーズ",
+    "PapaMira Series",
+    "Papato",
+    "パパと♥シリーズ",
+    "The Borderline of Emptiness",
+    "Kara no Kyoukai: The Garden of Sinners",
+    "空の境界 the Garden of sinners",
+    "Rakkyo",
+    "Boundry of Emptiness"
+  ],
+  "type": "novel",
+  "volumes": 5,
+  "status": "finished",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx54748-YEFW9oOollI3.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "746",
+      "url": "https://anilist.co/anime/746"
+    },
+    "al_manga": {
+      "id": "746",
+      "url": "https://anilist.co/manga/746"
+    }
+  }
+}

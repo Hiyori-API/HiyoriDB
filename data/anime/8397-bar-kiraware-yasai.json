@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8397,
+  "slug": "bar-kiraware-yasai",
+  "kind": "anime",
+  "title": "BAR Kiraware Yasai",
+  "titles": {
+    "default": "BAR Kiraware Yasai",
+    "romaji": "BAR Kiraware Yasai",
+    "native": "BAR 嫌われ野菜"
+  },
+  "synonyms": [
+    "BAR Kiraware Yasai",
+    "BAR 嫌われ野菜",
+    "The Bar of Hated Vegetables",
+    "Bar Hateful Vegetables",
+    "Uta no Prince Sama Revolutions",
+    "Uta no☆Prince-sama♪ Maji Love Revolutions",
+    "うたの☆プリンスさまっ♪マジLOVEレボリューションズ",
+    "Uta no☆Prince-sama♪ Maji Love 3",
+    "UtaPri 3"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/97947-vrANA7IfXVJh.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "97947",
+      "url": "https://anilist.co/anime/97947"
+    },
+    "k": {
+      "id": "8143",
+      "url": "https://kitsu.io/anime/8143"
+    },
+    "mal": {
+      "id": "29865",
+      "url": "https://myanimelist.net/anime/29865"
+    },
+    "t": {
+      "id": "63618",
+      "url": "https://trakt.tv/shows/63618"
+    }
+  }
+}

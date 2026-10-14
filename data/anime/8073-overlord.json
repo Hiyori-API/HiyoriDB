@@ -1,0 +1,66 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8073,
+  "slug": "overlord",
+  "kind": "anime",
+  "title": "Overlord",
+  "titles": {
+    "default": "Overlord",
+    "romaji": "Overlord",
+    "native": "オーバーロード"
+  },
+  "synonyms": [
+    "Overlord",
+    "オーバーロード",
+    "Over Lord",
+    "โอเวอร์ลอร์ด",
+    "โอเวอร์ ลอร์ด จอมมารพิชิตโลก",
+    "Wagnaria!!3",
+    "Working!!!",
+    "ワーキング!!!",
+    "Working!! 3rd Season",
+    "Working!! Third Season"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20832-vUNm5zrYWifc.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "20832",
+      "url": "https://anilist.co/anime/20832"
+    },
+    "cr": {
+      "id": "overlord",
+      "url": "https://www.crunchyroll.com/series/overlord"
+    },
+    "k": {
+      "id": "8712",
+      "url": "https://kitsu.io/anime/8712"
+    },
+    "mal": {
+      "id": "29803",
+      "url": "https://myanimelist.net/anime/29803"
+    },
+    "nf": {
+      "id": "80132110",
+      "url": "https://www.netflix.com/title/80132110"
+    },
+    "t": {
+      "id": "61012",
+      "url": "https://trakt.tv/shows/61012"
+    },
+    "ttv": {
+      "id": "2234",
+      "url": "https://tubitv.com/series/2234"
+    },
+    "tx": {
+      "id": "over_lord_anime",
+      "url": "https://twitter.com/over_lord_anime"
+    }
+  }
+}

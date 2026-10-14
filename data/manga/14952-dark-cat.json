@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14952,
+  "slug": "dark-cat",
+  "kind": "manga",
+  "title": "Dark Cat",
+  "titles": {
+    "default": "Dark Cat"
+  },
+  "synonyms": [
+    "Dark Cats",
+    "ダークキャット",
+    "Ranma ½",
+    "Ranma 1/2",
+    "らんま½"
+  ],
+  "type": "manga",
+  "chapters": 23,
+  "volumes": 10,
+  "status": "finished",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx182878-NuLdt9rmjhJE.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4531",
+      "url": "https://anilist.co/anime/4531"
+    },
+    "al_manga": {
+      "id": "4531",
+      "url": "https://anilist.co/manga/4531"
+    }
+  }
+}

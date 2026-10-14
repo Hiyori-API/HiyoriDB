@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4311,
+  "slug": "meitantei-conan-10-nengo-no-stranger",
+  "kind": "anime",
+  "title": "Meitantei Conan: 10 Nengo no Stranger",
+  "titles": {
+    "default": "Meitantei Conan: 10 Nengo no Stranger",
+    "romaji": "Meitantei Conan: 10 Nengo no Stranger",
+    "english": "Case Closed: The Stranger in 10 Years...",
+    "native": "名探偵コナン～10年後の異邦人[ストレンジャー]～"
+  },
+  "synonyms": [
+    "Meitantei Conan: 10 Nengo no Stranger",
+    "Case Closed: The Stranger in 10 Years...",
+    "名探偵コナン～10年後の異邦人[ストレンジャー]～",
+    "Detective Conan: 10 Nengo no Stranger",
+    "Case Closed OVA 09: The Stranger in 10 Years ...",
+    "Detective Conan OVA 09: The Stranger in 10 Years..."
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6438.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6438",
+      "url": "https://anilist.co/anime/6438"
+    },
+    "k": {
+      "id": "4562",
+      "url": "https://kitsu.io/anime/4562"
+    },
+    "mal": {
+      "id": "6438",
+      "url": "https://myanimelist.net/anime/6438"
+    },
+    "t": {
+      "id": "30849",
+      "url": "https://trakt.tv/shows/30849"
+    }
+  }
+}

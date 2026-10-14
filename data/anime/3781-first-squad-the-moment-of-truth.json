@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3781,
+  "slug": "first-squad-the-moment-of-truth",
+  "kind": "anime",
+  "title": "First Squad: The Moment of Truth",
+  "titles": {
+    "default": "First Squad: The Moment of Truth",
+    "romaji": "First Squad: The Moment of Truth",
+    "native": "ファーストスクワッド"
+  },
+  "synonyms": [
+    "First Squad: The Moment of Truth",
+    "ファーストスクワッド",
+    "Pervyi Otryad",
+    "Первый Отряд"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5178.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5178",
+      "url": "https://anilist.co/anime/5178"
+    },
+    "k": {
+      "id": "3968",
+      "url": "https://kitsu.io/anime/3968"
+    },
+    "mal": {
+      "id": "5178",
+      "url": "https://myanimelist.net/anime/5178"
+    }
+  }
+}

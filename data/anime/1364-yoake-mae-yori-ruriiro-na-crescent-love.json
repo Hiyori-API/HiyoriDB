@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1364,
+  "slug": "yoake-mae-yori-ruriiro-na-crescent-love",
+  "kind": "anime",
+  "title": "Yoake Mae Yori Ruriiro na: Crescent Love",
+  "titles": {
+    "default": "Yoake Mae Yori Ruriiro na: Crescent Love",
+    "romaji": "Yoake Mae Yori Ruriiro na: Crescent Love",
+    "english": "Brighter Than the Dawning Blue",
+    "native": "夜明け前より瑠璃色な -Crescent Love-"
+  },
+  "synonyms": [
+    "Yoake Mae Yori Ruriiro na: Crescent Love",
+    "Brighter Than the Dawning Blue",
+    "夜明け前より瑠璃色な -Crescent Love-",
+    "Yoake Mae Yori Ruri Iro na: Crescent Love",
+    "Yoakena",
+    "Yoake Mae yori Ruriiro na: Crescent Love",
+    "Yoake Mae yori Ruri Iro na: Crescent Love"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1543-k3Suxuy0xc1A.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1543",
+      "url": "https://anilist.co/anime/1543"
+    },
+    "k": {
+      "id": "1384",
+      "url": "https://kitsu.io/anime/1384"
+    },
+    "mal": {
+      "id": "1543",
+      "url": "https://myanimelist.net/anime/1543"
+    },
+    "t": {
+      "id": "63731",
+      "url": "https://trakt.tv/shows/63731"
+    }
+  }
+}

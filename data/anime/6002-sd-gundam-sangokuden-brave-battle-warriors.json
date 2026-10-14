@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6002,
+  "slug": "sd-gundam-sangokuden-brave-battle-warriors",
+  "kind": "anime",
+  "title": "SD Gundam Sangokuden Brave Battle Warriors",
+  "titles": {
+    "default": "SD Gundam Sangokuden Brave Battle Warriors",
+    "romaji": "SD Gundam Sangokuden Brave Battle Warriors",
+    "native": "SDガンダム三国伝 Brave Battle Warriors"
+  },
+  "synonyms": [
+    "SD Gundam Sangokuden Brave Battle Warriors",
+    "SDガンダム三国伝 Brave Battle Warriors",
+    "BB Senshi"
+  ],
+  "type": "tv",
+  "episodes": 51,
+  "status": "finished",
+  "season": "spring",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8287.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8287",
+      "url": "https://anilist.co/anime/8287"
+    },
+    "k": {
+      "id": "5277",
+      "url": "https://kitsu.io/anime/5277"
+    },
+    "mal": {
+      "id": "8287",
+      "url": "https://myanimelist.net/anime/8287"
+    },
+    "t": {
+      "id": "45154",
+      "url": "https://trakt.tv/shows/45154"
+    }
+  }
+}

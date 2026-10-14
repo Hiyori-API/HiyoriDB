@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4179,
+  "slug": "akubi-girl",
+  "kind": "anime",
+  "title": "Akubi Girl",
+  "titles": {
+    "default": "Akubi Girl",
+    "romaji": "Akubi Girl",
+    "native": "アクビガール"
+  },
+  "synonyms": [
+    "Akubi Girl",
+    "アクビガール",
+    "School Rumble 2nd Semester",
+    "School Rumble Ni Gakki",
+    "スクールランブル 二学期"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6077.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6077",
+      "url": "https://anilist.co/anime/6077"
+    },
+    "k": {
+      "id": "750",
+      "url": "https://kitsu.io/anime/750"
+    },
+    "mal": {
+      "id": "6077",
+      "url": "https://myanimelist.net/anime/6077"
+    },
+    "t": {
+      "id": "31528",
+      "url": "https://trakt.tv/shows/31528"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2002,
+  "slug": "malice-doll",
+  "kind": "anime",
+  "title": "Malice@doll",
+  "titles": {
+    "default": "Malice@doll",
+    "romaji": "Malice@doll",
+    "native": "Malice@doll マリスドール"
+  },
+  "synonyms": [
+    "Malice@doll",
+    "Malice@doll マリスドール",
+    "Malice Doll",
+    "Malice@Doll"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "spring",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2261-TeVF6mpoGINT.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2261",
+      "url": "https://anilist.co/anime/2261"
+    },
+    "k": {
+      "id": "2049",
+      "url": "https://kitsu.io/anime/2049"
+    },
+    "mal": {
+      "id": "2261",
+      "url": "https://myanimelist.net/anime/2261"
+    }
+  }
+}

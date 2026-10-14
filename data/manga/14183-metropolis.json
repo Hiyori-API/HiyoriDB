@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14183,
+  "slug": "metropolis",
+  "kind": "manga",
+  "title": "Metropolis",
+  "titles": {
+    "default": "Metropolis"
+  },
+  "synonyms": [
+    "Osamu Tezuka's Metropolis",
+    "Metrópolis",
+    "Metropolis",
+    "メトロポリス"
+  ],
+  "type": "manga",
+  "chapters": 1,
+  "volumes": 1,
+  "status": "finished",
+  "year": 1949,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx31436-VVoAKDPydxsa.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "522",
+      "url": "https://anilist.co/anime/522"
+    },
+    "al_manga": {
+      "id": "522",
+      "url": "https://anilist.co/manga/522"
+    }
+  }
+}

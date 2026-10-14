@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2678,
+  "slug": "in-no-houteishiki",
+  "kind": "anime",
+  "title": "In no Houteishiki",
+  "titles": {
+    "default": "In no Houteishiki",
+    "romaji": "In no Houteishiki",
+    "english": "Immorality",
+    "native": "淫の方程式"
+  },
+  "synonyms": [
+    "In no Houteishiki",
+    "Immorality",
+    "淫の方程式",
+    "Equation of the Immoral",
+    "Sandglass of Summer Colors",
+    "Natsu-iro no Sunadokei",
+    "夏色の砂時計",
+    "Hourglass of Summer Colours",
+    "Natsuiro no Sunadokei"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3048-2dJ0Oou9QvcT.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3048",
+      "url": "https://anilist.co/anime/3048"
+    },
+    "k": {
+      "id": "577",
+      "url": "https://kitsu.io/anime/577"
+    },
+    "mal": {
+      "id": "3048",
+      "url": "https://myanimelist.net/anime/3048"
+    }
+  }
+}

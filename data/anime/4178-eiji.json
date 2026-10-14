@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4178,
+  "slug": "eiji",
+  "kind": "anime",
+  "title": "\"Eiji\"",
+  "titles": {
+    "default": "\"Eiji\"",
+    "romaji": "\"Eiji\"",
+    "native": "「エイジ」"
+  },
+  "synonyms": [
+    "\"Eiji\"",
+    "「エイジ」"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6076-Ze36WqQQa82X.png"
+  ],
+  "references": {
+    "al": {
+      "id": "6076",
+      "url": "https://anilist.co/anime/6076"
+    },
+    "k": {
+      "id": "4416",
+      "url": "https://kitsu.io/anime/4416"
+    },
+    "mal": {
+      "id": "6076",
+      "url": "https://myanimelist.net/anime/6076"
+    }
+  }
+}

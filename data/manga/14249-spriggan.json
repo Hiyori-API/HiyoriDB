@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14249,
+  "slug": "spriggan",
+  "kind": "manga",
+  "title": "SPRIGGAN",
+  "titles": {
+    "default": "SPRIGGAN"
+  },
+  "synonyms": [
+    "スプリガン",
+    "Striker",
+    "SPRIGGAN",
+    "Spriggan"
+  ],
+  "type": "manga",
+  "chapters": 62,
+  "volumes": 11,
+  "status": "finished",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31705-4aueCg2Zwe8K.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "108353",
+      "url": "https://anilist.co/anime/420"
+    },
+    "al_manga": {
+      "id": "108353",
+      "url": "https://anilist.co/manga/108353"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4562,
+  "slug": "tony-s-heroine-series-kanojo-wa-hanayome-kouhosei-cinderella-collection",
+  "kind": "anime",
+  "title": "Tony's Heroine Series: Kanojo wa Hanayome Kouhosei? Cinderella Collection",
+  "titles": {
+    "default": "Tony's Heroine Series: Kanojo wa Hanayome Kouhosei? Cinderella Collection",
+    "romaji": "Tony's Heroine Series: Kanojo wa Hanayome Kouhosei? Cinderella Collection",
+    "native": "Tony`s ヒロインシリーズ 彼女は花嫁候補生? シンデレラ・コレクション"
+  },
+  "synonyms": [
+    "Tony's Heroine Series: Kanojo wa Hanayome Kouhosei? Cinderella Collection",
+    "Tony`s ヒロインシリーズ 彼女は花嫁候補生? シンデレラ・コレクション",
+    "Candidate for Bride",
+    "TO",
+    "トゥー",
+    "2001 Ya Monogatari",
+    "Tooo",
+    "To - A Space Fantasy",
+    "T.O. 2001 Nights",
+    "Elliptical Orbit",
+    "Symbiotic Planet"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx7178-W51JsEMY0QJN.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7178",
+      "url": "https://anilist.co/anime/7178"
+    },
+    "cr": {
+      "id": "to-movie",
+      "url": "https://www.crunchyroll.com/series/to-movie"
+    },
+    "k": {
+      "id": "4927",
+      "url": "https://kitsu.io/anime/4927"
+    },
+    "mal": {
+      "id": "7178",
+      "url": "https://myanimelist.net/anime/7178"
+    }
+  }
+}

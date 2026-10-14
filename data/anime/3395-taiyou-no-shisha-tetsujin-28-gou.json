@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3395,
+  "slug": "taiyou-no-shisha-tetsujin-28-gou",
+  "kind": "anime",
+  "title": "Taiyou no Shisha Tetsujin 28-gou",
+  "titles": {
+    "default": "Taiyou no Shisha Tetsujin 28-gou",
+    "romaji": "Taiyou no Shisha Tetsujin 28-gou",
+    "english": "Shin Tetsujin 28",
+    "native": "太陽の使者 鉄人28号"
+  },
+  "synonyms": [
+    "Taiyou no Shisha Tetsujin 28-gou",
+    "Shin Tetsujin 28",
+    "太陽の使者 鉄人28号",
+    "New Tetsujin 28-go",
+    "Tetsujin 28-gou (1980)",
+    "Tetsujin 28-go TV 2",
+    "New Gigantor",
+    "The New Adventures of Gigantor",
+    "鉄人２８号 (1980)",
+    "Tetsujin 28-go (1980)",
+    "New Iron Man No.28",
+    "Tetsujin 28: Follower of the Sun"
+  ],
+  "type": "tv",
+  "episodes": 51,
+  "status": "finished",
+  "season": "fall",
+  "year": 1980,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4208.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4208",
+      "url": "https://anilist.co/anime/4208"
+    },
+    "k": {
+      "id": "3524",
+      "url": "https://kitsu.io/anime/3524"
+    },
+    "mal": {
+      "id": "4208",
+      "url": "https://myanimelist.net/anime/4208"
+    }
+  }
+}

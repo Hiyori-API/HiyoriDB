@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1766,
+  "slug": "heroic-age",
+  "kind": "anime",
+  "title": "Heroic Age",
+  "titles": {
+    "default": "Heroic Age",
+    "romaji": "Heroic Age",
+    "native": "ヒロイック・エイジ"
+  },
+  "synonyms": [
+    "Heroic Age",
+    "ヒロイック・エイジ"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2002-sQ6vkoTLbZV3.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2002",
+      "url": "https://anilist.co/anime/2002"
+    },
+    "cr": {
+      "id": "heroic-age",
+      "url": "https://www.crunchyroll.com/series/heroic-age"
+    },
+    "k": {
+      "id": "1802",
+      "url": "https://kitsu.io/anime/1802"
+    },
+    "mal": {
+      "id": "2002",
+      "url": "https://myanimelist.net/anime/2002"
+    },
+    "t": {
+      "id": "29231",
+      "url": "https://trakt.tv/shows/29231"
+    }
+  }
+}

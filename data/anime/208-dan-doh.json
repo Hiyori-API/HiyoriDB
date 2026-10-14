@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 208,
+  "slug": "dan-doh",
+  "kind": "anime",
+  "title": "Dan Doh!!",
+  "titles": {
+    "default": "Dan Doh!!",
+    "romaji": "Dan Doh!!",
+    "native": "ダンドー"
+  },
+  "synonyms": [
+    "Dan Doh!!",
+    "ダンドー"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/234.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "234",
+      "url": "https://anilist.co/anime/234"
+    },
+    "k": {
+      "id": "209",
+      "url": "https://kitsu.io/anime/209"
+    },
+    "mal": {
+      "id": "234",
+      "url": "https://myanimelist.net/anime/234"
+    },
+    "t": {
+      "id": "67516",
+      "url": "https://trakt.tv/shows/67516"
+    }
+  }
+}

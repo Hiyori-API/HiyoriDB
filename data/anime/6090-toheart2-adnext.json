@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6090,
+  "slug": "toheart2-adnext",
+  "kind": "anime",
+  "title": "ToHeart2 adnext",
+  "titles": {
+    "default": "ToHeart2 adnext",
+    "romaji": "ToHeart2 adnext"
+  },
+  "synonyms": [
+    "ToHeart2 adnext",
+    "トゥハート2 adnext",
+    "To Heart 2 Adnext"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9005-MnaJItnCf8mv.png"
+  ],
+  "references": {
+    "al": {
+      "id": "9005",
+      "url": "https://anilist.co/anime/9005"
+    },
+    "k": {
+      "id": "5570",
+      "url": "https://kitsu.io/anime/5570"
+    },
+    "mal": {
+      "id": "9005",
+      "url": "https://myanimelist.net/anime/9005"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7351,
+  "slug": "kanojo-kanojo-kanojo-2013",
+  "kind": "anime",
+  "title": "Kanojo × Kanojo × Kanojo (2013)",
+  "titles": {
+    "default": "Kanojo × Kanojo × Kanojo (2013)",
+    "romaji": "Kanojo × Kanojo × Kanojo (2013)",
+    "english": "Kanojo x Kanojo x Kanojo Full Version",
+    "native": "彼女×彼女×彼女 完全版"
+  },
+  "synonyms": [
+    "Kanojo × Kanojo × Kanojo (2013)",
+    "Kanojo x Kanojo x Kanojo Full Version",
+    "彼女×彼女×彼女 完全版",
+    "Ro-Kyu-Bu!: Tomoka no Ichigo Sundae",
+    "ロウきゅーぶ！智花のいちごサンデー",
+    "Rou-Kyuu-Bu! OVA",
+    "Rou-Kyu-Bu! OVA",
+    "Ro-Kyu-Bu ~ Fast Break! OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18597.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "18597",
+      "url": "https://anilist.co/anime/18597"
+    },
+    "k": {
+      "id": "7313",
+      "url": "https://kitsu.io/anime/7313"
+    },
+    "mal": {
+      "id": "18597",
+      "url": "https://myanimelist.net/anime/18597"
+    }
+  }
+}

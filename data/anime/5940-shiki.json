@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5940,
+  "slug": "shiki",
+  "kind": "anime",
+  "title": "Shiki",
+  "titles": {
+    "default": "Shiki",
+    "romaji": "Shiki",
+    "native": "屍鬼"
+  },
+  "synonyms": [
+    "Shiki",
+    "屍鬼",
+    "Corpse Demon"
+  ],
+  "type": "tv",
+  "episodes": 22,
+  "status": "finished",
+  "season": "summer",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx7724-NwNnRsI34eDa.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7724",
+      "url": "https://anilist.co/anime/7724"
+    },
+    "cr": {
+      "id": "series/G69P2WZDY/shiki?srsltid=AfmBOoozvilePzuaZm0Ity7wEsdc3XyNJ-jimAd8V-ivXs8mW4mr9xI5",
+      "url": "https://www.crunchyroll.com/series/series/G69P2WZDY/shiki?srsltid=AfmBOoozvilePzuaZm0Ity7wEsdc3XyNJ-jimAd8V-ivXs8mW4mr9xI5"
+    },
+    "k": {
+      "id": "5098",
+      "url": "https://kitsu.io/anime/5098"
+    },
+    "mal": {
+      "id": "7724",
+      "url": "https://myanimelist.net/anime/7724"
+    },
+    "t": {
+      "id": "36425",
+      "url": "https://trakt.tv/shows/36425"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5550,
+  "slug": "mahou-no-star-magical-emi-kumo-hikaru",
+  "kind": "anime",
+  "title": "Mahou no Star Magical Emi: Kumo Hikaru",
+  "titles": {
+    "default": "Mahou no Star Magical Emi: Kumo Hikaru",
+    "romaji": "Mahou no Star Magical Emi: Kumo Hikaru",
+    "native": "魔法のスターマジカルエミ 雲光る"
+  },
+  "synonyms": [
+    "Mahou no Star Magical Emi: Kumo Hikaru",
+    "魔法のスターマジカルエミ 雲光る"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx8431-ofPqRLIrYFAo.png"
+  ],
+  "references": {
+    "al": {
+      "id": "8431",
+      "url": "https://anilist.co/anime/8431"
+    },
+    "k": {
+      "id": "5332",
+      "url": "https://kitsu.io/anime/5332"
+    },
+    "mal": {
+      "id": "8431",
+      "url": "https://myanimelist.net/anime/8431"
+    }
+  }
+}

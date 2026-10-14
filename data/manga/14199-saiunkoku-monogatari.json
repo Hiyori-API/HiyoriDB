@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14199,
+  "slug": "saiunkoku-monogatari",
+  "kind": "manga",
+  "title": "Saiunkoku Monogatari",
+  "titles": {
+    "default": "Saiunkoku Monogatari"
+  },
+  "synonyms": [
+    "Colour Cloud Palace",
+    "Tale of the Land of Colored Clouds",
+    "The Story of Saiun Country",
+    "Tale of Saiunkoku",
+    "彩雲國物語",
+    "彩云国物语",
+    "채운국 이야기",
+    "The Story of Saiunkoku",
+    "彩雲国物語",
+    "Renai Soukanzu",
+    "恋愛相姦図",
+    "Renai Sokanzu",
+    "Pink Sweets"
+  ],
+  "type": "manga",
+  "chapters": 42,
+  "volumes": 9,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31490-7dDpOLvDbO42.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1914",
+      "url": "https://anilist.co/anime/957"
+    },
+    "al_manga": {
+      "id": "1914",
+      "url": "https://anilist.co/manga/1914"
+    }
+  }
+}

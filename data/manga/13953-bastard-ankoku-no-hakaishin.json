@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13953,
+  "slug": "bastard-ankoku-no-hakaishin",
+  "kind": "manga",
+  "title": "BASTARD!!: Ankoku no Hakaishin",
+  "titles": {
+    "default": "BASTARD!!: Ankoku no Hakaishin"
+  },
+  "synonyms": [
+    "Bastard!!",
+    "Wizard!!: Bakuen no Seifukusha",
+    "Binetsu Rouge",
+    "Virgin Tyrant",
+    "バスタード!!",
+    "Bastard!! Heavy Metal, Dark Fantasy",
+    "BASTARD!! －暗黒の破壊神－",
+    "Berserk",
+    "ベルセルク",
+    "Berserk: The Prototype"
+  ],
+  "type": "manga",
+  "status": "publishing",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30611-Suvwbr6OAfZW.png"
+  ],
+  "references": {
+    "al": {
+      "id": "159926",
+      "url": "https://anilist.co/anime/404"
+    },
+    "al_manga": {
+      "id": "159926",
+      "url": "https://anilist.co/manga/159926"
+    },
+    "tx": {
+      "id": "bastard_hakai",
+      "url": "https://twitter.com/bastard_hakai"
+    }
+  }
+}

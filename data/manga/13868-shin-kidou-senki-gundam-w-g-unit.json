@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13868,
+  "slug": "shin-kidou-senki-gundam-w-g-unit",
+  "kind": "manga",
+  "title": "Shin Kidou Senki Gundam W: G-UNIT",
+  "titles": {
+    "default": "Shin Kidou Senki Gundam W: G-UNIT"
+  },
+  "synonyms": [
+    "Mobile Suit Gundam Wing: The Last Outpost",
+    "New Mobile Report Gundam Wing Dual Story: G-Unit",
+    "Shin Kidou Senki Gundam Wing: G-UNIT",
+    "New Mobile Report Gundam Wing: Dual Story - G-UNIT",
+    "Kombinezon bojowy Gundam Wing: G-Unit",
+    "Mobile Suit Gundam: The Last Outpost",
+    "新機動戦記ガンダムW G-UNIT",
+    "Shin Kidou Senki Gundam Wing: Dual Story - G-Unit",
+    "新機動戦記ガンダムW デュアルストーリー G-UNIT",
+    "New Mobile Report Gundam Wing: Dual Story - G-Unit"
+  ],
+  "type": "manga",
+  "chapters": 13,
+  "volumes": 3,
+  "status": "finished",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30454-HQpgOMdanDtJ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "90",
+      "url": "https://anilist.co/anime/90"
+    },
+    "al_manga": {
+      "id": "90",
+      "url": "https://anilist.co/manga/90"
+    }
+  }
+}

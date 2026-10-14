@@ -1,0 +1,60 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11368,
+  "slug": "wonder-egg-priority-tokubetsu-hen",
+  "kind": "anime",
+  "title": "Wonder Egg Priority: Tokubetsu-hen",
+  "titles": {
+    "default": "Wonder Egg Priority: Tokubetsu-hen",
+    "romaji": "Wonder Egg Priority: Tokubetsu-hen",
+    "english": "WONDER EGG PRIORITY: My Priority",
+    "native": "ワンダーエッグ・プライオリティ 特別編"
+  },
+  "synonyms": [
+    "Wonder Egg Priority: Tokubetsu-hen",
+    "WONDER EGG PRIORITY: My Priority",
+    "ワンダーエッグ・プライオリティ 特別編",
+    "WEP Special Edition",
+    "Wonder Egg Priority Episode 13",
+    "Wonder Egg Priority: Mi prioridad",
+    "The Ocean Waves",
+    "Umi ga Kikoeru",
+    "海がきこえる",
+    "I Can Hear the Sea",
+    "Ocean Waves"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131773-pgtzQtbqU2nQ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "131773",
+      "url": "https://anilist.co/anime/131773"
+    },
+    "cr": {
+      "id": "wonder-egg-priority/episode-13-my-priority-825584",
+      "url": "https://www.crunchyroll.com/series/wonder-egg-priority/episode-13-my-priority-825584"
+    },
+    "k": {
+      "id": "666",
+      "url": "https://kitsu.io/anime/666"
+    },
+    "mal": {
+      "id": "48614",
+      "url": "https://myanimelist.net/anime/48614"
+    },
+    "nf": {
+      "id": "80158668",
+      "url": "https://www.netflix.com/title/80158668"
+    },
+    "tx": {
+      "id": "WEP_anime",
+      "url": "https://twitter.com/WEP_anime"
+    }
+  }
+}

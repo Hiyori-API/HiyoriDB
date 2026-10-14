@@ -1,0 +1,59 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8020,
+  "slug": "saenai-heroine-no-sodatekata",
+  "kind": "anime",
+  "title": "Saenai Heroine no Sodatekata",
+  "titles": {
+    "default": "Saenai Heroine no Sodatekata",
+    "romaji": "Saenai Heroine no Sodatekata",
+    "english": "Saekano: How to Raise a Boring Girlfriend",
+    "native": "冴えない彼女の育てかた"
+  },
+  "synonyms": [
+    "Saenai Heroine no Sodatekata",
+    "Saekano: How to Raise a Boring Girlfriend",
+    "冴えない彼女の育てかた",
+    "Saekano",
+    "路人女主的养成方法",
+    "วิธีปั้นสาวบ้านให้มาเป็นนางเอกของผม",
+    "THE IDOLM@STER CINDERELLA GIRLS",
+    "The iDOLM@STER Cinderella Girls",
+    "アイドルマスター シンデレラガールズ",
+    "The Idolmaster Cinderella Girls"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx20657-pMZBj6K6mLhi.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "20657",
+      "url": "https://anilist.co/anime/20657"
+    },
+    "ap": {
+      "id": "B06XYJQPWW",
+      "url": "https://www.amazon.com/gp/video/detail/B06XYJQPWW"
+    },
+    "cr": {
+      "id": "saekano-how-to-raise-a-boring-girlfriend-",
+      "url": "https://www.crunchyroll.com/series/saekano-how-to-raise-a-boring-girlfriend-"
+    },
+    "k": {
+      "id": "8777",
+      "url": "https://kitsu.io/anime/8777"
+    },
+    "mal": {
+      "id": "23277",
+      "url": "https://myanimelist.net/anime/23277"
+    },
+    "t": {
+      "id": "63471",
+      "url": "https://trakt.tv/shows/63471"
+    }
+  }
+}

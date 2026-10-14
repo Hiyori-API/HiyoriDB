@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11337,
+  "slug": "aka-chan-honbuchou",
+  "kind": "anime",
+  "title": "Aka-chan Honbuchou",
+  "titles": {
+    "default": "Aka-chan Honbuchou",
+    "romaji": "Aka-chan Honbuchou",
+    "native": "赤ちゃん本部長"
+  },
+  "synonyms": [
+    "Aka-chan Honbuchou",
+    "赤ちゃん本部長",
+    "General Manager of Baby",
+    "Cells at Work!! 2nd Season",
+    "Hataraku Saibou 2nd Season",
+    "Cells at Work!!",
+    "はたらく細胞!!",
+    "Hataraku Saibou!!"
+  ],
+  "type": "tv",
+  "episodes": 8,
+  "status": "finished",
+  "season": "spring",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b130513-OxMGzdaKBVYb.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "130513",
+      "url": "https://anilist.co/anime/130513"
+    },
+    "mal": {
+      "id": "48495",
+      "url": "https://myanimelist.net/anime/48495"
+    }
+  }
+}

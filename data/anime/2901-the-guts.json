@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2901,
+  "slug": "the-guts",
+  "kind": "anime",
+  "title": "THE Guts!",
+  "titles": {
+    "default": "THE Guts!",
+    "romaji": "THE Guts!",
+    "english": "Women at Work",
+    "native": "THE ガッツ！"
+  },
+  "synonyms": [
+    "THE Guts!",
+    "Women at Work",
+    "THE ガッツ！",
+    "Gattsu",
+    "Tenjho Tenge: The Ultimate Fight",
+    "Tenjou Tenge: The Ultimate Fight",
+    "天上天下ULTIMATE FIGHT",
+    "Ultimate Fight"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3403-MGg4fXHjHhNU.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3403",
+      "url": "https://anilist.co/anime/3403"
+    },
+    "k": {
+      "id": "411",
+      "url": "https://kitsu.io/anime/411"
+    },
+    "mal": {
+      "id": "3403",
+      "url": "https://myanimelist.net/anime/3403"
+    }
+  }
+}

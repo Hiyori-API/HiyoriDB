@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11335,
+  "slug": "youkai-watch",
+  "kind": "anime",
+  "title": "Youkai Watch ♪",
+  "titles": {
+    "default": "Youkai Watch ♪",
+    "romaji": "Youkai Watch ♪",
+    "native": "妖怪ウォッチ♪"
+  },
+  "synonyms": [
+    "Youkai Watch ♪",
+    "妖怪ウォッチ♪",
+    "ミュークルドリーミー みっくす！",
+    "Mewkledreamy Mix!"
+  ],
+  "type": "tv",
+  "episodes": 98,
+  "status": "finished",
+  "season": "spring",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130445-q3PTE3PWMZFu.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "130445",
+      "url": "https://anilist.co/anime/130445"
+    },
+    "mal": {
+      "id": "48365",
+      "url": "https://myanimelist.net/anime/48365"
+    },
+    "tvt": {
+      "id": "youkai",
+      "url": "http://www.tv-tokyo.co.jp/anime/youkai"
+    },
+    "tx": {
+      "id": "TV_youkaiwatch",
+      "url": "https://twitter.com/TV_youkaiwatch"
+    }
+  }
+}

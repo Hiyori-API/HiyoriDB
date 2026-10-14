@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15082,
+  "slug": "soreyuke-uchuu-senkan-yamamoto-youko",
+  "kind": "manga",
+  "title": "Soreyuke! Uchuu Senkan Yamamoto Youko",
+  "titles": {
+    "default": "Soreyuke! Uchuu Senkan Yamamoto Youko"
+  },
+  "synonyms": [
+    "Go! Spaceship Girl Yohko Yamamoto",
+    "Let's Go! Space Battleship Yamamoto Yohko",
+    "Soreyuke! Uchuu Senkan Yamamoto Yohko",
+    "Soreyuke! Uchuu Senkan Yamamoto Youko",
+    "Starship Girl Yamamoto Yohko",
+    "それゆけ！宇宙戦艦ヤマモト・ヨーコ",
+    "The Summer of the Ubume",
+    "Ubume no Natsu",
+    "姑獲鳥の夏"
+  ],
+  "type": "novel",
+  "volumes": 12,
+  "status": "finished",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b152685-9R2d3LDJd4I2.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1618",
+      "url": "https://anilist.co/anime/1100"
+    },
+    "al_manga": {
+      "id": "1618",
+      "url": "https://anilist.co/manga/1618"
+    }
+  }
+}

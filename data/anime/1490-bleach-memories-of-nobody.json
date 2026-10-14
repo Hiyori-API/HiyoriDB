@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1490,
+  "slug": "bleach-memories-of-nobody",
+  "kind": "anime",
+  "title": "BLEACH: MEMORIES OF NOBODY",
+  "titles": {
+    "default": "BLEACH: MEMORIES OF NOBODY",
+    "romaji": "BLEACH: MEMORIES OF NOBODY",
+    "english": "Bleach the Movie: Memories of Nobody",
+    "native": "BLEACH MEMORIES OF NOBODY"
+  },
+  "synonyms": [
+    "BLEACH: MEMORIES OF NOBODY",
+    "Bleach the Movie: Memories of Nobody",
+    "BLEACH MEMORIES OF NOBODY",
+    "Bleach Movie 1",
+    "بليتش: ذكريات اللا أحد",
+    "Bleach Movie 1: Memories of Nobody",
+    "劇場版 BLEACH MEMORIES OF NOBODY"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1686-oZQepxP4SRQ2.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1686",
+      "url": "https://anilist.co/anime/1686"
+    },
+    "k": {
+      "id": "1515",
+      "url": "https://kitsu.io/anime/1515"
+    },
+    "mal": {
+      "id": "1686",
+      "url": "https://myanimelist.net/anime/1686"
+    }
+  }
+}

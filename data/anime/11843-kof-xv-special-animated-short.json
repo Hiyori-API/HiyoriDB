@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11843,
+  "slug": "kof-xv-special-animated-short",
+  "kind": "anime",
+  "title": "KOF XV: Special Animated Short",
+  "titles": {
+    "default": "KOF XV: Special Animated Short",
+    "romaji": "KOF XV: Special Animated Short",
+    "english": "KOF XV: SPECIAL ANIMATED SHORT",
+    "native": "KOF XV スペシャルショートアニメーション"
+  },
+  "synonyms": [
+    "KOF XV: Special Animated Short",
+    "KOF XV: SPECIAL ANIMATED SHORT",
+    "KOF XV スペシャルショートアニメーション",
+    "King of Fighters XV Special Animated Short",
+    "The King of Fighters XV",
+    "ミルキー☆ハイウェイ",
+    "Milky☆Highway"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145895-hSkGDdQd10XZ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "145895",
+      "url": "https://anilist.co/anime/145895"
+    },
+    "mal": {
+      "id": "48582",
+      "url": "https://myanimelist.net/anime/48582"
+    },
+    "yt": {
+      "id": "_3rzUgD53h4",
+      "url": "https://www.youtube.com/watch?v=_3rzUgD53h4"
+    }
+  }
+}

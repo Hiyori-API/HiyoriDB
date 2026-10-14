@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3005,
+  "slug": "doukyuusei-natsu-no-owari-ni",
+  "kind": "anime",
+  "title": "Doukyuusei: Natsu no Owari ni",
+  "titles": {
+    "default": "Doukyuusei: Natsu no Owari ni",
+    "romaji": "Doukyuusei: Natsu no Owari ni",
+    "english": "End of Summer",
+    "native": "同級生 夏の終わりに"
+  },
+  "synonyms": [
+    "Doukyuusei: Natsu no Owari ni",
+    "End of Summer",
+    "同級生 夏の終わりに",
+    "Dokyusei",
+    "Doukyuusei",
+    "Classmates",
+    "Macross Plus",
+    "マクロスプラス"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "summer",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3558.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3558",
+      "url": "https://anilist.co/anime/3558"
+    },
+    "k": {
+      "id": "436",
+      "url": "https://kitsu.io/anime/436"
+    },
+    "mal": {
+      "id": "3558",
+      "url": "https://myanimelist.net/anime/3558"
+    }
+  }
+}

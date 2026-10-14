@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1673,
+  "slug": "higurashi-no-naku-koro-ni-kai",
+  "kind": "anime",
+  "title": "Higurashi no Naku Koro ni Kai",
+  "titles": {
+    "default": "Higurashi no Naku Koro ni Kai",
+    "romaji": "Higurashi no Naku Koro ni Kai",
+    "english": "When They Cry Kai",
+    "native": "ひぐらしのなく頃に解"
+  },
+  "synonyms": [
+    "Higurashi no Naku Koro ni Kai",
+    "When They Cry Kai",
+    "ひぐらしのなく頃に解",
+    "쓰르라미 울 적에 해",
+    "When They Cry: Kai",
+    "Higurashi no Naku Koro ni 2",
+    "Higurashi no Naku Koro ni 2nd Series",
+    "Higurashi no Nakukoro ni 2nd Season",
+    "The Moment the Cicadas Cry 2"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "summer",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1889-NqhWV3QwBXZl.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1889",
+      "url": "https://anilist.co/anime/1889"
+    },
+    "k": {
+      "id": "1699",
+      "url": "https://kitsu.io/anime/1699"
+    },
+    "mal": {
+      "id": "1889",
+      "url": "https://myanimelist.net/anime/1889"
+    },
+    "t": {
+      "id": "61179",
+      "url": "https://trakt.tv/shows/61179"
+    }
+  }
+}

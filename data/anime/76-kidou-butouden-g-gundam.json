@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 76,
+  "slug": "kidou-butouden-g-gundam",
+  "kind": "anime",
+  "title": "Kidou Butouden G Gundam",
+  "titles": {
+    "default": "Kidou Butouden G Gundam",
+    "romaji": "Kidou Butouden G Gundam",
+    "english": "Mobile Fighter G Gundam",
+    "native": "機動武闘伝Gガンダム"
+  },
+  "synonyms": [
+    "Kidou Butouden G Gundam",
+    "Mobile Fighter G Gundam",
+    "機動武闘伝Gガンダム",
+    "Mobile Fighter G-Gundam"
+  ],
+  "type": "tv",
+  "episodes": 49,
+  "status": "finished",
+  "season": "spring",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx96-as1zJO34Qevb.png"
+  ],
+  "references": {
+    "al": {
+      "id": "96",
+      "url": "https://anilist.co/anime/96"
+    },
+    "cr": {
+      "id": "mobile-fighter-g-gundam",
+      "url": "https://www.crunchyroll.com/series/mobile-fighter-g-gundam"
+    },
+    "k": {
+      "id": "75",
+      "url": "https://kitsu.io/anime/75"
+    },
+    "mal": {
+      "id": "96",
+      "url": "https://myanimelist.net/anime/96"
+    },
+    "t": {
+      "id": "61453",
+      "url": "https://trakt.tv/shows/61453"
+    }
+  }
+}

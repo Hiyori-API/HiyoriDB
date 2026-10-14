@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10921,
+  "slug": "ichirin-sha",
+  "kind": "anime",
+  "title": "ICHIRIN-SHA",
+  "titles": {
+    "default": "ICHIRIN-SHA",
+    "romaji": "ICHIRIN-SHA",
+    "native": "一輪者 ICHIRIN-SHA"
+  },
+  "synonyms": [
+    "ICHIRIN-SHA",
+    "一輪者 ICHIRIN-SHA",
+    "Ichirinsha",
+    "Ichirin-sha"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17887.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "17887",
+      "url": "https://anilist.co/anime/17887"
+    },
+    "k": {
+      "id": "7918",
+      "url": "https://kitsu.io/anime/7918"
+    },
+    "mal": {
+      "id": "17887",
+      "url": "https://myanimelist.net/anime/17887"
+    }
+  }
+}

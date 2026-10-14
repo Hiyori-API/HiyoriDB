@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2071,
+  "slug": "choujin-densetsu-urotsukidouji-3",
+  "kind": "anime",
+  "title": "Choujin Densetsu Urotsukidouji 3",
+  "titles": {
+    "default": "Choujin Densetsu Urotsukidouji 3",
+    "romaji": "Choujin Densetsu Urotsukidouji 3",
+    "native": "超神伝説うろつき童子 未来篇"
+  },
+  "synonyms": [
+    "Choujin Densetsu Urotsukidouji 3",
+    "超神伝説うろつき童子 未来篇",
+    "Return of the Overfiend",
+    "Urotsukidoji 3",
+    "Urotsukidoji III: Return of the Overfiend",
+    "Ellcia",
+    "Gensou Jotan Ellcia",
+    "幻想叙譚エルシア",
+    "Genso Jodan Elicia"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "fall",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2343.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2343",
+      "url": "https://anilist.co/anime/2343"
+    },
+    "k": {
+      "id": "3026",
+      "url": "https://kitsu.io/anime/3026"
+    },
+    "mal": {
+      "id": "2343",
+      "url": "https://myanimelist.net/anime/2343"
+    }
+  }
+}

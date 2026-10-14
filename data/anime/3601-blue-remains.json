@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3601,
+  "slug": "blue-remains",
+  "kind": "anime",
+  "title": "Blue Remains",
+  "titles": {
+    "default": "Blue Remains",
+    "romaji": "Blue Remains",
+    "native": "ブルーリメイン"
+  },
+  "synonyms": [
+    "Blue Remains",
+    "ブルーリメイン"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4733-kSMKJwd2TXSQ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4733",
+      "url": "https://anilist.co/anime/4733"
+    },
+    "k": {
+      "id": "3769",
+      "url": "https://kitsu.io/anime/3769"
+    },
+    "mal": {
+      "id": "4733",
+      "url": "https://myanimelist.net/anime/4733"
+    }
+  }
+}

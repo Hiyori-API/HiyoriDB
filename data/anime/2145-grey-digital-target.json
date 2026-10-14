@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2145,
+  "slug": "grey-digital-target",
+  "kind": "anime",
+  "title": "GREY: Digital Target",
+  "titles": {
+    "default": "GREY: Digital Target",
+    "romaji": "GREY: Digital Target",
+    "native": "ＧＲＥＹ デジタル・ターゲット"
+  },
+  "synonyms": [
+    "GREY: Digital Target",
+    "ＧＲＥＹ デジタル・ターゲット",
+    "Grey: Digital Target"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2423.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2423",
+      "url": "https://anilist.co/anime/2423"
+    },
+    "k": {
+      "id": "2199",
+      "url": "https://kitsu.io/anime/2199"
+    },
+    "mal": {
+      "id": "2423",
+      "url": "https://myanimelist.net/anime/2423"
+    }
+  }
+}

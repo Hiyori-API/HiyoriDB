@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15176,
+  "slug": "gundam-pilot-retsuden-soukyuu-no-yuushatachi",
+  "kind": "manga",
+  "title": "Gundam Pilot Retsuden: Soukyuu no Yuushatachi",
+  "titles": {
+    "default": "Gundam Pilot Retsuden: Soukyuu no Yuushatachi"
+  },
+  "synonyms": [
+    "ガンダムパイロット列伝 蒼穹の勇者達",
+    "Kamikaze Kaito Jeanne",
+    "Kamikaze Kaitou Jeanne",
+    "Phantom Thief Jeanne",
+    "神風怪盗ジャンヌ",
+    "Divine Wind Phantom Thief Jeanne"
+  ],
+  "type": "manga",
+  "chapters": 4,
+  "volumes": 1,
+  "status": "finished",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx136712-Jkh7OShOo4J6.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "81",
+      "url": "https://anilist.co/anime/80"
+    },
+    "al_manga": {
+      "id": "81",
+      "url": "https://anilist.co/manga/81"
+    }
+  }
+}

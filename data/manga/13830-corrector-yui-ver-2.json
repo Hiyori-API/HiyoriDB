@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13830,
+  "slug": "corrector-yui-ver-2",
+  "kind": "manga",
+  "title": "Corrector Yui Ver.2",
+  "titles": {
+    "default": "Corrector Yui Ver.2"
+  },
+  "synonyms": [
+    "Corrector Yui Version 2",
+    "Corrector Yui Second Phase",
+    "コレクターユイVer.2",
+    "Mushrambo",
+    "マシュランボー",
+    "Mashuranboo"
+  ],
+  "type": "manga",
+  "volumes": 4,
+  "status": "finished",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx48412-ps1r7G75Rfyr.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "111",
+      "url": "https://anilist.co/anime/111"
+    },
+    "al_manga": {
+      "id": "111",
+      "url": "https://anilist.co/manga/111"
+    }
+  }
+}

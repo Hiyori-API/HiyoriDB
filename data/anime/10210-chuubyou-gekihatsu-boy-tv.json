@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10210,
+  "slug": "chuubyou-gekihatsu-boy-tv",
+  "kind": "anime",
+  "title": "Chuubyou Gekihatsu Boy (TV)",
+  "titles": {
+    "default": "Chuubyou Gekihatsu Boy (TV)",
+    "romaji": "Chuubyou Gekihatsu Boy (TV)",
+    "english": "Outburst Dreamer Boys (TV)",
+    "native": "厨病激発ボーイ (TV)"
+  },
+  "synonyms": [
+    "Chuubyou Gekihatsu Boy (TV)",
+    "Outburst Dreamer Boys (TV)",
+    "厨病激発ボーイ (TV)",
+    "Young Disease Outburst Boy",
+    "Cowok Halu Bergejolak",
+    "Juubyou Gekikatsu Boy",
+    "Outburst Dreamer Boys",
+    "厨病激発ボーイ",
+    "Chuubyou Gekihatsu Boy"
+  ],
+  "type": "tv",
+  "episodes": 11,
+  "status": "finished",
+  "season": "fall",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109089-NTqWUW1w9dpb.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "109089",
+      "url": "https://anilist.co/anime/109089"
+    },
+    "mal": {
+      "id": "38390",
+      "url": "https://myanimelist.net/anime/38390"
+    },
+    "tx": {
+      "id": "chubyou_p",
+      "url": "https://twitter.com/chubyou_p"
+    }
+  }
+}

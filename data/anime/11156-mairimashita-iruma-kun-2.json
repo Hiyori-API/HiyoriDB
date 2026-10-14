@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11156,
+  "slug": "mairimashita-iruma-kun-2",
+  "kind": "anime",
+  "title": "Mairimashita! Iruma-kun 2",
+  "titles": {
+    "default": "Mairimashita! Iruma-kun 2",
+    "romaji": "Mairimashita! Iruma-kun 2",
+    "english": "Welcome to Demon School! Iruma-kun Season 2",
+    "native": "魔入りました！入間くん 第2シリーズ"
+  },
+  "synonyms": [
+    "Mairimashita! Iruma-kun 2",
+    "Welcome to Demon School! Iruma-kun Season 2",
+    "魔入りました！入間くん 第2シリーズ",
+    "Welcome to Demon School, Iruma-kun! Season 2",
+    "入间同学入魔了 第二季",
+    "入间同学入魔了！2",
+    "อิรุมะคุง พจญในแดนปีศาจ! ภาค 2",
+    "Welcome to Demon School! Iruma-kun 2nd Season",
+    "魔入りました！入間くん",
+    "Mairimashita! Iruma-kun 2nd Season"
+  ],
+  "type": "tv",
+  "episodes": 21,
+  "status": "finished",
+  "season": "spring",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116338-jbuJnLkPMcm7.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "116338",
+      "url": "https://anilist.co/anime/116338"
+    },
+    "cr": {
+      "id": "welcome-to-demon-school-iruma-kun",
+      "url": "https://www.crunchyroll.com/series/welcome-to-demon-school-iruma-kun"
+    },
+    "mal": {
+      "id": "41402",
+      "url": "https://myanimelist.net/anime/41402"
+    },
+    "nf": {
+      "id": "81194192",
+      "url": "https://www.netflix.com/title/81194192"
+    },
+    "tx": {
+      "id": "iruma_kun",
+      "url": "https://twitter.com/nep_irumakun"
+    }
+  }
+}

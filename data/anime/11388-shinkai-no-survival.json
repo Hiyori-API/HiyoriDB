@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11388,
+  "slug": "shinkai-no-survival",
+  "kind": "anime",
+  "title": "Shinkai no Survival!",
+  "titles": {
+    "default": "Shinkai no Survival!",
+    "romaji": "Shinkai no Survival!",
+    "native": "深海のサバイバル！"
+  },
+  "synonyms": [
+    "Shinkai no Survival!",
+    "深海のサバイバル！",
+    "Survive! In the Deep Sea",
+    "Evangelion: 3.0+1.0 Thrice Upon a Time",
+    "Shin Evangelion Gekijouban :||",
+    "シン・エヴァンゲリオン劇場版:||",
+    "Evangelion: 4.0",
+    "Rebuild of Evangelion 4.0"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132444-SPOZrzdhmfQ2.png"
+  ],
+  "references": {
+    "al": {
+      "id": "132444",
+      "url": "https://anilist.co/anime/132444"
+    },
+    "k": {
+      "id": "3252",
+      "url": "https://kitsu.io/anime/3252"
+    },
+    "mal": {
+      "id": "49369",
+      "url": "https://myanimelist.net/anime/49369"
+    },
+    "tx": {
+      "id": "kagakusurvival",
+      "url": "https://twitter.com/kagakusurvival"
+    }
+  }
+}

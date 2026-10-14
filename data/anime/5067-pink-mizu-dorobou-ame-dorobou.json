@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5067,
+  "slug": "pink-mizu-dorobou-ame-dorobou",
+  "kind": "anime",
+  "title": "Pink Mizu Dorobou Ame Dorobou",
+  "titles": {
+    "default": "Pink Mizu Dorobou Ame Dorobou",
+    "romaji": "Pink Mizu Dorobou Ame Dorobou",
+    "english": "Pink: Water Thieves Rain Thieves",
+    "native": "ピンク みずドロボウあめドロボウ"
+  },
+  "synonyms": [
+    "Pink Mizu Dorobou Ame Dorobou",
+    "Pink: Water Thieves Rain Thieves",
+    "ピンク みずドロボウあめドロボウ",
+    "Pink: Water Bandit Rain Bandit",
+    "Пинк: Водяные воры, дождевые воры",
+    "Akira Toriyama the World"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11659-9bJ9y6eLiUGk.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11659",
+      "url": "https://anilist.co/anime/11659"
+    },
+    "k": {
+      "id": "6554",
+      "url": "https://kitsu.io/anime/6554"
+    },
+    "mal": {
+      "id": "11659",
+      "url": "https://myanimelist.net/anime/11659"
+    }
+  }
+}

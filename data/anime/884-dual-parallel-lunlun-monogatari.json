@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 884,
+  "slug": "dual-parallel-lunlun-monogatari",
+  "kind": "anime",
+  "title": "Dual! Parallel Lunlun Monogatari",
+  "titles": {
+    "default": "Dual! Parallel Lunlun Monogatari",
+    "romaji": "Dual! Parallel Lunlun Monogatari",
+    "english": "Dual! Parallel Trouble Adventure",
+    "native": "デュアル！ぱられルンルン物語"
+  },
+  "synonyms": [
+    "Dual! Parallel Lunlun Monogatari",
+    "Dual! Parallel Trouble Adventure",
+    "デュアル！ぱられルンルン物語",
+    "Dual! Parare Runrun Monogatari",
+    "Dual! Parallel Lun-Lun Monogatari",
+    "Dual",
+    "To Heart",
+    "トゥハート"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/992.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "992",
+      "url": "https://anilist.co/anime/992"
+    },
+    "k": {
+      "id": "434",
+      "url": "https://kitsu.io/anime/434"
+    },
+    "mal": {
+      "id": "992",
+      "url": "https://myanimelist.net/anime/992"
+    },
+    "t": {
+      "id": "63719",
+      "url": "https://trakt.tv/shows/63719"
+    }
+  }
+}

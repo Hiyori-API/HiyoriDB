@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 222,
+  "slug": "ichigo-100",
+  "kind": "anime",
+  "title": "Ichigo 100%",
+  "titles": {
+    "default": "Ichigo 100%",
+    "romaji": "Ichigo 100%",
+    "english": "Strawberry 100%",
+    "native": "いちご100%"
+  },
+  "synonyms": [
+    "Ichigo 100%",
+    "Strawberry 100%",
+    "いちご100%",
+    "Loveless",
+    "LOVELESS",
+    "LL"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/248.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "248",
+      "url": "https://anilist.co/anime/248"
+    },
+    "k": {
+      "id": "127",
+      "url": "https://kitsu.io/anime/127"
+    },
+    "mal": {
+      "id": "248",
+      "url": "https://myanimelist.net/anime/248"
+    },
+    "t": {
+      "id": "61802",
+      "url": "https://trakt.tv/shows/61802"
+    }
+  }
+}

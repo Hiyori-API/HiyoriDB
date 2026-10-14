@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5664,
+  "slug": "kotencotenco",
+  "kind": "anime",
+  "title": "Kotencotenco",
+  "titles": {
+    "default": "Kotencotenco",
+    "romaji": "Kotencotenco",
+    "native": "こてんこてんこ"
+  },
+  "synonyms": [
+    "Kotencotenco",
+    "こてんこてんこ",
+    "Kotenkotenko",
+    "Kotenco and Matenco",
+    "Idaten Jump",
+    "韋駄天翔(ジャンプ)"
+  ],
+  "type": "tv",
+  "episodes": 52,
+  "status": "finished",
+  "season": "fall",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8595.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8595",
+      "url": "https://anilist.co/anime/8595"
+    },
+    "ann": {
+      "id": "6495",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6495"
+    },
+    "k": {
+      "id": "1180",
+      "url": "https://kitsu.io/anime/1180"
+    },
+    "mal": {
+      "id": "8595",
+      "url": "https://myanimelist.net/anime/8595"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3100,
+  "slug": "spectral-force-chronicle-divergence",
+  "kind": "anime",
+  "title": "Spectral Force Chronicle Divergence",
+  "titles": {
+    "default": "Spectral Force Chronicle Divergence",
+    "romaji": "Spectral Force Chronicle Divergence",
+    "native": "スペクトラルフォース クロニクル ディバージェンス"
+  },
+  "synonyms": [
+    "Spectral Force Chronicle Divergence",
+    "スペクトラルフォース クロニクル ディバージェンス",
+    "Mars of Destruction",
+    "Hametsu no Mars",
+    "破滅のマルス"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3695.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3695",
+      "url": "https://anilist.co/anime/3695"
+    },
+    "k": {
+      "id": "378",
+      "url": "https://kitsu.io/anime/378"
+    },
+    "mal": {
+      "id": "3695",
+      "url": "https://myanimelist.net/anime/3695"
+    }
+  }
+}

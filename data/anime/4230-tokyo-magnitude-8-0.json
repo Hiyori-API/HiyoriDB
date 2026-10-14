@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4230,
+  "slug": "tokyo-magnitude-8-0",
+  "kind": "anime",
+  "title": "Tokyo Magnitude 8.0",
+  "titles": {
+    "default": "Tokyo Magnitude 8.0",
+    "romaji": "Tokyo Magnitude 8.0",
+    "native": "東京マグニチュード8.0"
+  },
+  "synonyms": [
+    "Tokyo Magnitude 8.0",
+    "東京マグニチュード8.0",
+    "东京地震8.0",
+    "Токийское восьмибалльное",
+    "Terratrèmol a Tòquio 8.0"
+  ],
+  "type": "tv",
+  "episodes": 11,
+  "status": "finished",
+  "season": "summer",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6211-2MCqBUXvmBdB.png"
+  ],
+  "references": {
+    "al": {
+      "id": "6211",
+      "url": "https://anilist.co/anime/6211"
+    },
+    "k": {
+      "id": "4477",
+      "url": "https://kitsu.io/anime/4477"
+    },
+    "mal": {
+      "id": "6211",
+      "url": "https://myanimelist.net/anime/6211"
+    },
+    "t": {
+      "id": "37708",
+      "url": "https://trakt.tv/shows/37708"
+    }
+  }
+}

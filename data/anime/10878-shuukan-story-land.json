@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10878,
+  "slug": "shuukan-story-land",
+  "kind": "anime",
+  "title": "Shuukan! Story Land",
+  "titles": {
+    "default": "Shuukan! Story Land",
+    "romaji": "Shuukan! Story Land",
+    "native": "週刊ストーリーランド"
+  },
+  "synonyms": [
+    "Shuukan! Story Land",
+    "週刊ストーリーランド",
+    "Weekly! Story Land",
+    "Shuukan Storyland"
+  ],
+  "type": "tv",
+  "episodes": 56,
+  "status": "finished",
+  "season": "fall",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13551.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "13551",
+      "url": "https://anilist.co/anime/13551"
+    },
+    "k": {
+      "id": "6991",
+      "url": "https://kitsu.io/anime/6991"
+    },
+    "mal": {
+      "id": "13551",
+      "url": "https://myanimelist.net/anime/13551"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1783,
+  "slug": "youka-no-ken",
+  "kind": "anime",
+  "title": "Youka no Ken",
+  "titles": {
+    "default": "Youka no Ken",
+    "romaji": "Youka no Ken",
+    "english": "Samurai XXX",
+    "native": "妖香の剣"
+  },
+  "synonyms": [
+    "Youka no Ken",
+    "Samurai XXX",
+    "妖香の剣",
+    "Youkou no Ken",
+    "Yoka no Ken",
+    "Sandglass of Summer Colors",
+    "Natsu-iro no Sunadokei",
+    "夏色の砂時計",
+    "Hourglass of Summer Colours",
+    "Natsuiro no Sunadokei"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2021-P71BsTJmHVXr.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2021",
+      "url": "https://anilist.co/anime/2021"
+    },
+    "k": {
+      "id": "577",
+      "url": "https://kitsu.io/anime/577"
+    },
+    "mal": {
+      "id": "2021",
+      "url": "https://myanimelist.net/anime/2021"
+    }
+  }
+}

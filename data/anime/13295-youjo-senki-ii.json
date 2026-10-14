@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13295,
+  "slug": "youjo-senki-ii",
+  "kind": "anime",
+  "title": "Youjo Senki II",
+  "titles": {
+    "default": "Youjo Senki II",
+    "romaji": "Youjo Senki II",
+    "english": "Saga of Tanya the Evil Season 2",
+    "native": "幼女戦記Ⅱ"
+  },
+  "synonyms": [
+    "Youjo Senki II",
+    "Saga of Tanya the Evil Season 2",
+    "幼女戦記Ⅱ",
+    "Saga of Tanya the Evil II",
+    "Youjo Senki 2",
+    "DearS",
+    "ディアーズ"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx135865-T7XIPMAbqcxN.png"
+  ],
+  "references": {
+    "al": {
+      "id": "135865",
+      "url": "https://anilist.co/anime/135865"
+    },
+    "cr": {
+      "id": "series/GR9P57W96/saga-of-tanya-the-evil",
+      "url": "https://www.crunchyroll.com/series/series/GR9P57W96/saga-of-tanya-the-evil"
+    },
+    "k": {
+      "id": "44",
+      "url": "https://kitsu.io/anime/44"
+    },
+    "mal": {
+      "id": "49233",
+      "url": "https://myanimelist.net/anime/49233"
+    },
+    "t": {
+      "id": "61051",
+      "url": "https://trakt.tv/shows/61051"
+    },
+    "tx": {
+      "id": "youjosenki",
+      "url": "https://twitter.com/youjosenki"
+    }
+  }
+}

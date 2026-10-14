@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1169,
+  "slug": "chikyuu-bouei-kigyou-dai-guard",
+  "kind": "anime",
+  "title": "Chikyuu Bouei Kigyou Dai-Guard",
+  "titles": {
+    "default": "Chikyuu Bouei Kigyou Dai-Guard",
+    "romaji": "Chikyuu Bouei Kigyou Dai-Guard",
+    "english": "Dai-Guard",
+    "native": "地球防衛企業ダイ・ガード"
+  },
+  "synonyms": [
+    "Chikyuu Bouei Kigyou Dai-Guard",
+    "Dai-Guard",
+    "地球防衛企業ダイ・ガード",
+    "Daiguard",
+    "Earth Defence Enterprise - Dai Guard"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1312-OYqoSXlRIpti.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1312",
+      "url": "https://anilist.co/anime/1312"
+    },
+    "ap": {
+      "id": "B07ZJP89LM",
+      "url": "https://www.amazon.com/gp/video/detail/B07ZJP89LM"
+    },
+    "cr": {
+      "id": "dai-guard",
+      "url": "https://www.crunchyroll.com/series/dai-guard"
+    },
+    "k": {
+      "id": "1177",
+      "url": "https://kitsu.io/anime/1177"
+    },
+    "mal": {
+      "id": "1312",
+      "url": "https://myanimelist.net/anime/1312"
+    },
+    "t": {
+      "id": "8618",
+      "url": "https://trakt.tv/shows/8618"
+    }
+  }
+}

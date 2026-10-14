@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6286,
+  "slug": "asobi-ni-iku-yo-asobi-ni-oide",
+  "kind": "anime",
+  "title": "Asobi ni Iku yo! Asobi ni Oide",
+  "titles": {
+    "default": "Asobi ni Iku yo! Asobi ni Oide",
+    "romaji": "Asobi ni Iku yo! Asobi ni Oide",
+    "english": "Cat Planet Cuties: Come Drop By",
+    "native": "あそびにいくヨ! あそびにおいで"
+  },
+  "synonyms": [
+    "Asobi ni Iku yo! Asobi ni Oide",
+    "Cat Planet Cuties: Come Drop By",
+    "あそびにいくヨ! あそびにおいで",
+    "Asobi ni Ikuyo! OVA",
+    "Let's Go Play! OVA",
+    "Asobi ni Ikuyo: Bombshells from the Sky OVA",
+    "Cat Planet Cuties OVA",
+    "The World God Only Knows: Four Girls and an Idol",
+    "Kami nomi zo Shiru Sekai: 4-nin to Idol",
+    "神のみぞ知るセカイ　４人とアイドル",
+    "Kami nomi zo Shiru Sekai: Yonin to Idol",
+    "Kaminomi OVA",
+    "Kami Nomi zo Shiru Sekai OVA",
+    "The World God Only Knows: Four People and an Idol"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9618-vIGNdkdb40Yd.png"
+  ],
+  "references": {
+    "al": {
+      "id": "9618",
+      "url": "https://anilist.co/anime/9618"
+    },
+    "k": {
+      "id": "6359",
+      "url": "https://kitsu.io/anime/6359"
+    },
+    "mal": {
+      "id": "9618",
+      "url": "https://myanimelist.net/anime/9618"
+    }
+  }
+}

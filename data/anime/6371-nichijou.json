@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6371,
+  "slug": "nichijou",
+  "kind": "anime",
+  "title": "Nichijou",
+  "titles": {
+    "default": "Nichijou",
+    "romaji": "Nichijou",
+    "english": "Nichijou - My Ordinary Life",
+    "native": "日常"
+  },
+  "synonyms": [
+    "Nichijou",
+    "Nichijou - My Ordinary Life",
+    "日常",
+    "Everyday",
+    "Мелочи Жизни",
+    "Повсякденнощі"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10165-tw8Cz7K9tfVJ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "10165",
+      "url": "https://anilist.co/anime/10165"
+    },
+    "cr": {
+      "id": "nichijou-my-ordinary-life",
+      "url": "https://www.crunchyroll.com/series/nichijou-my-ordinary-life"
+    },
+    "k": {
+      "id": "6062",
+      "url": "https://kitsu.io/anime/6062"
+    },
+    "mal": {
+      "id": "10165",
+      "url": "https://myanimelist.net/anime/10165"
+    },
+    "t": {
+      "id": "62400",
+      "url": "https://trakt.tv/shows/62400"
+    }
+  }
+}

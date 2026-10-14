@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15568,
+  "slug": "gekijouban-naruto-dai-koufun-mikazuki-jima-no-animaru-panikku-dattebayo",
+  "kind": "manga",
+  "title": "Gekijouban NARUTO: Dai Koufun! Mikazuki Jima no Animaru Panikku Dattebayo",
+  "titles": {
+    "default": "Gekijouban NARUTO: Dai Koufun! Mikazuki Jima no Animaru Panikku Dattebayo"
+  },
+  "synonyms": [
+    "Naruto the Movie 3: Guardians of the Crescent Moon Kingdom",
+    "劇場版 NARUTO 大興奮！ みかづき島のアニマル騒動だってばよ",
+    "Ladies versus Butlers!",
+    "れでぃ×ばと!",
+    "Redei Bato!",
+    "Redei x Bato",
+    "Ladies vs Butlers!"
+  ],
+  "type": "novel",
+  "volumes": 1,
+  "status": "finished",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132769-1VGd6qjwfxgl.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2144",
+      "url": "https://anilist.co/anime/2144"
+    },
+    "al_manga": {
+      "id": "2144",
+      "url": "https://anilist.co/manga/2144"
+    }
+  }
+}

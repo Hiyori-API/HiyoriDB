@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2825,
+  "slug": "kinnikuman-new-york-kikiippatsu",
+  "kind": "anime",
+  "title": "Kinnikuman: New York Kikiippatsu!",
+  "titles": {
+    "default": "Kinnikuman: New York Kikiippatsu!",
+    "romaji": "Kinnikuman: New York Kikiippatsu!",
+    "native": "キン肉マン ニューヨーク危機一髪！"
+  },
+  "synonyms": [
+    "Kinnikuman: New York Kikiippatsu!",
+    "キン肉マン ニューヨーク危機一髪！",
+    "Kinnikuman: New York Close Call!",
+    "Project A-Ko",
+    "プロジェクトＡ子"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3278-48DrqhVqfnDA.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3278",
+      "url": "https://anilist.co/anime/3278"
+    },
+    "k": {
+      "id": "188",
+      "url": "https://kitsu.io/anime/188"
+    },
+    "mal": {
+      "id": "3278",
+      "url": "https://myanimelist.net/anime/3278"
+    }
+  }
+}

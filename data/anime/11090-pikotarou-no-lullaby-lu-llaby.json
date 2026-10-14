@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11090,
+  "slug": "pikotarou-no-lullaby-lu-llaby",
+  "kind": "anime",
+  "title": "Pikotarou no Lullaby Lu-llaby",
+  "titles": {
+    "default": "Pikotarou no Lullaby Lu-llaby",
+    "romaji": "Pikotarou no Lullaby Lu-llaby",
+    "english": "Pikotaro's LULLABY LA LA BY",
+    "native": "ピコ太郎のララバイラーラバイ"
+  },
+  "synonyms": [
+    "Pikotarou no Lullaby Lu-llaby",
+    "Pikotaro's LULLABY LA LA BY",
+    "ピコ太郎のララバイラーラバイ",
+    "A Polar Bear in Love",
+    "Hyouheki Don",
+    "Koi Suru Shirokuma",
+    "Ai no Omosa",
+    "恋するシロクマ 特別版",
+    "Koisuru Shirokuma Tokubetsu-ban"
+  ],
+  "type": "ona",
+  "episodes": 3,
+  "status": "finished",
+  "season": "summer",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b114843-e97HaHys4Kdw.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "114843",
+      "url": "https://anilist.co/anime/114843"
+    },
+    "cr": {
+      "id": "pikotaros-lullaby-la-la-by",
+      "url": "https://www.crunchyroll.com/series/pikotaros-lullaby-la-la-by"
+    },
+    "mal": {
+      "id": "36520",
+      "url": "https://myanimelist.net/anime/36520"
+    },
+    "tx": {
+      "id": "pikoanime_PR",
+      "url": "https://twitter.com/pikoanime_PR"
+    }
+  }
+}

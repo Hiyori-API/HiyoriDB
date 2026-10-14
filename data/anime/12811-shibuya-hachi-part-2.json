@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12811,
+  "slug": "shibuya-hachi-part-2",
+  "kind": "anime",
+  "title": "SHIBUYA♡HACHI Part 2",
+  "titles": {
+    "default": "SHIBUYA♡HACHI Part 2",
+    "romaji": "SHIBUYA♡HACHI Part 2",
+    "native": "SHIBUYA♡HACHI 第2クール"
+  },
+  "synonyms": [
+    "SHIBUYA♡HACHI Part 2",
+    "SHIBUYA♡HACHI 第2クール",
+    "シブヤラブハチ 第2クール",
+    "SHIBUYA LOVE HACHI Part 2",
+    "Reincarnated as an Aristocrat with an Appraisal Skill Season 2",
+    "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2",
+    "転生貴族、鑑定スキルで成り上がる 第2期",
+    "Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2024,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181835-OVS3M8qJ4Pkd.png"
+  ],
+  "references": {
+    "al": {
+      "id": "181835",
+      "url": "https://anilist.co/anime/181835"
+    },
+    "mal": {
+      "id": "59485",
+      "url": "https://myanimelist.net/anime/59485"
+    },
+    "tvt": {
+      "id": "shibuya",
+      "url": "http://www.tv-tokyo.co.jp/anime/shibuya"
+    },
+    "tx": {
+      "id": "lovehachi_PR",
+      "url": "https://twitter.com/lovehachi_PR"
+    }
+  }
+}

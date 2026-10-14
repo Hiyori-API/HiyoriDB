@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13848,
+  "slug": "hellsing",
+  "kind": "manga",
+  "title": "HELLSING",
+  "titles": {
+    "default": "HELLSING"
+  },
+  "synonyms": [
+    "Hellsing Cross Fire",
+    "Crossfire",
+    "ヘルシング",
+    "HELLSING",
+    "Hellsing"
+  ],
+  "type": "manga",
+  "chapters": 92,
+  "volumes": 10,
+  "status": "finished",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30267-w3NHbBONJ4bN.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "777",
+      "url": "https://anilist.co/anime/270"
+    },
+    "al_manga": {
+      "id": "777",
+      "url": "https://anilist.co/manga/777"
+    }
+  }
+}

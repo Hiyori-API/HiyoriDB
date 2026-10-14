@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4881,
+  "slug": "sangokushi",
+  "kind": "anime",
+  "title": "Sangokushi",
+  "titles": {
+    "default": "Sangokushi",
+    "romaji": "Sangokushi",
+    "native": "三国志"
+  },
+  "synonyms": [
+    "Sangokushi",
+    "三国志",
+    "Romance of the Three Kingdoms",
+    "Sangokushi I",
+    "Sangokushi (special)",
+    "Sangokushi (1985)"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8677-luDOmZo7bRb1.png"
+  ],
+  "references": {
+    "al": {
+      "id": "8677",
+      "url": "https://anilist.co/anime/8677"
+    },
+    "k": {
+      "id": "5436",
+      "url": "https://kitsu.io/anime/5436"
+    },
+    "mal": {
+      "id": "8677",
+      "url": "https://myanimelist.net/anime/8677"
+    }
+  }
+}

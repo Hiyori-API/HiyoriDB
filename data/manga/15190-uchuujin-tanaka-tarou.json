@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15190,
+  "slug": "uchuujin-tanaka-tarou",
+  "kind": "manga",
+  "title": "Uchuujin Tanaka Tarou",
+  "titles": {
+    "default": "Uchuujin Tanaka Tarou"
+  },
+  "synonyms": [
+    "Uchujin Tanaka Taro",
+    "Uchujin Tanaka Tarou",
+    "Taro the Space Alien",
+    "うちゅう人田中太郎",
+    "Love Hina",
+    "ラブひな"
+  ],
+  "type": "manga",
+  "chapters": 109,
+  "volumes": 14,
+  "status": "finished",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b47006-k4nVeX1ddEAC.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2566",
+      "url": "https://anilist.co/anime/2566"
+    },
+    "al_manga": {
+      "id": "2566",
+      "url": "https://anilist.co/manga/2566"
+    }
+  }
+}

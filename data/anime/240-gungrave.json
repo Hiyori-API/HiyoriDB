@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 240,
+  "slug": "gungrave",
+  "kind": "anime",
+  "title": "Gungrave",
+  "titles": {
+    "default": "Gungrave",
+    "romaji": "Gungrave",
+    "native": "ガングレイヴ"
+  },
+  "synonyms": [
+    "Gungrave",
+    "ガングレイヴ"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx267-vGNmfjvWb1Qq.png"
+  ],
+  "references": {
+    "al": {
+      "id": "267",
+      "url": "https://anilist.co/anime/267"
+    },
+    "cr": {
+      "id": "gungrave",
+      "url": "https://www.crunchyroll.com/series/gungrave"
+    },
+    "k": {
+      "id": "242",
+      "url": "https://kitsu.io/anime/242"
+    },
+    "mal": {
+      "id": "267",
+      "url": "https://myanimelist.net/anime/267"
+    },
+    "t": {
+      "id": "5856",
+      "url": "https://trakt.tv/shows/5856"
+    }
+  }
+}

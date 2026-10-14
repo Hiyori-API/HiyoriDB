@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9094,
+  "slug": "seiren",
+  "kind": "anime",
+  "title": "Seiren",
+  "titles": {
+    "default": "Seiren",
+    "romaji": "Seiren",
+    "native": "セイレン"
+  },
+  "synonyms": [
+    "Seiren",
+    "セイレン",
+    "Divina Juventud",
+    "Blue Exorcist: Kyoto Impure King Arc",
+    "Blue Exorcist: Kyoto Saga",
+    "青の祓魔師 京都不浄王篇",
+    "Ao no Exorcist: Kyoto Fujouou-hen"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97730-AmHt9ItmSeNb.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "97730",
+      "url": "https://anilist.co/anime/97730"
+    },
+    "cr": {
+      "id": "seiren",
+      "url": "https://www.crunchyroll.com/series/seiren"
+    },
+    "mal": {
+      "id": "33836",
+      "url": "https://myanimelist.net/anime/33836"
+    },
+    "tx": {
+      "id": "anime_seiren",
+      "url": "https://twitter.com/anime_seiren"
+    }
+  }
+}

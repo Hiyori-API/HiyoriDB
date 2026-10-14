@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13581,
+  "slug": "rakudai-kenja-no-gakuin-musou-nidome-no-tensei-s-rank-cheat-majutsushi-bouken-roku",
+  "kind": "anime",
+  "title": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Bouken-roku",
+  "titles": {
+    "default": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Bouken-roku",
+    "romaji": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Bouken-roku",
+    "english": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
+    "native": "落第賢者の学院無双～二度目の転生、Sランクチート魔術師冒険録～"
+  },
+  "synonyms": [
+    "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Bouken-roku",
+    "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
+    "落第賢者の学院無双～二度目の転生、Sランクチート魔術師冒険録～",
+    "The Unsuccessful Yet Academically Unparalleled Sage: A Cheating S-Rank Sorcerer's Post-Rebirth Adventurer Log",
+    "The Failed Sage's Academy Domination",
+    "Saga of Tanya the Evil Shorts",
+    "Youjo Senki Specials",
+    "ようじょしぇんき2",
+    "Youjo Shenki 2"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208044-Pm2UhvApQFUh.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "208044",
+      "url": "https://anilist.co/anime/208044"
+    },
+    "cr": {
+      "id": "series/GT00378115",
+      "url": "https://www.crunchyroll.com/series/series/GT00378115"
+    },
+    "mal": {
+      "id": "63508",
+      "url": "https://myanimelist.net/anime/63508"
+    }
+  }
+}

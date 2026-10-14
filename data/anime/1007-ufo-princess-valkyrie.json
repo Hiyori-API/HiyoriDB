@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1007,
+  "slug": "ufo-princess-valkyrie",
+  "kind": "anime",
+  "title": "UFO Princess Valkyrie",
+  "titles": {
+    "default": "UFO Princess Valkyrie",
+    "romaji": "UFO Princess Valkyrie",
+    "english": "UFO Ultramaiden Valkyrie",
+    "native": "円盤皇女ワるきゅーレ"
+  },
+  "synonyms": [
+    "UFO Princess Valkyrie",
+    "UFO Ultramaiden Valkyrie",
+    "円盤皇女ワるきゅーレ",
+    "UFO Princess Walkyure"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1127.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1127",
+      "url": "https://anilist.co/anime/1127"
+    },
+    "cr": {
+      "id": "series/G6VNQKMDR/ufo-ultramaiden-valkyrie",
+      "url": "https://www.crunchyroll.com/series/series/G6VNQKMDR/ufo-ultramaiden-valkyrie"
+    },
+    "k": {
+      "id": "1010",
+      "url": "https://kitsu.io/anime/1010"
+    },
+    "mal": {
+      "id": "1127",
+      "url": "https://myanimelist.net/anime/1127"
+    },
+    "t": {
+      "id": "34002",
+      "url": "https://trakt.tv/shows/34002"
+    }
+  }
+}

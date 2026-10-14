@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2681,
+  "slug": "ganbare-kickers",
+  "kind": "anime",
+  "title": "Ganbare! Kickers",
+  "titles": {
+    "default": "Ganbare! Kickers",
+    "romaji": "Ganbare! Kickers",
+    "english": "Fight! Kickers",
+    "native": "がんばれ！キッカーズ"
+  },
+  "synonyms": [
+    "Ganbare! Kickers",
+    "Fight! Kickers",
+    "がんばれ！キッカーズ",
+    "Die Kickers",
+    "Bosco Adventure",
+    "Bosco Daibouken",
+    "ボスコアドベンチャー"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3053-CjZTqgh5ODGO.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3053",
+      "url": "https://anilist.co/anime/3053"
+    },
+    "k": {
+      "id": "3025",
+      "url": "https://kitsu.io/anime/3025"
+    },
+    "mal": {
+      "id": "3053",
+      "url": "https://myanimelist.net/anime/3053"
+    }
+  }
+}

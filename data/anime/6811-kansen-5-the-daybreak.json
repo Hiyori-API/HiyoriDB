@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6811,
+  "slug": "kansen-5-the-daybreak",
+  "kind": "anime",
+  "title": "Kansen 5: THE Daybreak",
+  "titles": {
+    "default": "Kansen 5: THE Daybreak",
+    "romaji": "Kansen 5: THE Daybreak",
+    "native": "姦染5-THE Daybreak-"
+  },
+  "synonyms": [
+    "Kansen 5: THE Daybreak",
+    "姦染5-THE Daybreak-",
+    "THE IDOLM@STER SHINY FESTA",
+    "The iDOLM@STER Shiny Festa",
+    "アイドルマスター シャイニーフェスタ",
+    "The Idolmaster Shiny Festa"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "fall",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx12961-nN1W85NM8Z7M.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12961",
+      "url": "https://anilist.co/anime/12961"
+    },
+    "k": {
+      "id": "7175",
+      "url": "https://kitsu.io/anime/7175"
+    },
+    "mal": {
+      "id": "12961",
+      "url": "https://myanimelist.net/anime/12961"
+    }
+  }
+}

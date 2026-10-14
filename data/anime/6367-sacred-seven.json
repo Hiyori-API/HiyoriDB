@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6367,
+  "slug": "sacred-seven",
+  "kind": "anime",
+  "title": "Sacred Seven",
+  "titles": {
+    "default": "Sacred Seven",
+    "romaji": "Sacred Seven",
+    "native": "セイクリッドセブン"
+  },
+  "synonyms": [
+    "Sacred Seven",
+    "セイクリッドセブン",
+    "Sacred 7"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10156-ppHiEMr7wyQm.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10156",
+      "url": "https://anilist.co/anime/10156"
+    },
+    "k": {
+      "id": "6058",
+      "url": "https://kitsu.io/anime/6058"
+    },
+    "mal": {
+      "id": "10156",
+      "url": "https://myanimelist.net/anime/10156"
+    },
+    "t": {
+      "id": "42281",
+      "url": "https://trakt.tv/shows/42281"
+    }
+  }
+}

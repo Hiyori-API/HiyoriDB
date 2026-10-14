@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9759,
+  "slug": "shinya-tensai-bakabon",
+  "kind": "anime",
+  "title": "Shinya! Tensai Bakabon",
+  "titles": {
+    "default": "Shinya! Tensai Bakabon",
+    "romaji": "Shinya! Tensai Bakabon",
+    "english": "Late night! The Genius Bakabon",
+    "native": "深夜! 天才バカボン"
+  },
+  "synonyms": [
+    "Shinya! Tensai Bakabon",
+    "Late night! The Genius Bakabon",
+    "深夜! 天才バカボン",
+    "High Score Girl",
+    "ハイスコアガール",
+    "Hi Score Girl"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx101580-5dYddOjA9r5U.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101580",
+      "url": "https://anilist.co/anime/101580"
+    },
+    "cr": {
+      "id": "late-night-the-genius-bakabon",
+      "url": "https://www.crunchyroll.com/series/late-night-the-genius-bakabon"
+    },
+    "k": {
+      "id": "8158",
+      "url": "https://kitsu.io/anime/8158"
+    },
+    "mal": {
+      "id": "37662",
+      "url": "https://myanimelist.net/anime/37662"
+    },
+    "nf": {
+      "id": "80997338",
+      "url": "https://www.netflix.com/title/80997338"
+    },
+    "tx": {
+      "id": "shinya_bakabon",
+      "url": "https://twitter.com/shinya_bakabon"
+    }
+  }
+}

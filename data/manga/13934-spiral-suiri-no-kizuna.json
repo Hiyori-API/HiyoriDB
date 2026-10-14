@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13934,
+  "slug": "spiral-suiri-no-kizuna",
+  "kind": "manga",
+  "title": "Spiral: Suiri no Kizuna",
+  "titles": {
+    "default": "Spiral: Suiri no Kizuna"
+  },
+  "synonyms": [
+    "Spiral: Bonds of Reasoning",
+    "スパイラル～推理の絆～",
+    "Spiral: Suiri no Kizuna"
+  ],
+  "type": "manga",
+  "chapters": 77,
+  "volumes": 15,
+  "status": "finished",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30534-ZnHTvOEusX8d.png"
+  ],
+  "references": {
+    "al": {
+      "id": "341",
+      "url": "https://anilist.co/anime/341"
+    },
+    "al_manga": {
+      "id": "341",
+      "url": "https://anilist.co/manga/341"
+    }
+  }
+}

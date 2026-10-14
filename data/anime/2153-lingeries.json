@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2153,
+  "slug": "lingeries",
+  "kind": "anime",
+  "title": "Lingeries",
+  "titles": {
+    "default": "Lingeries",
+    "romaji": "Lingeries",
+    "native": "ランジェリーズ"
+  },
+  "synonyms": [
+    "Lingeries",
+    "ランジェリーズ",
+    "Lingerie Office",
+    "Lingeries Office",
+    "New Fist of the North Star",
+    "Shin Hokuto no Ken",
+    "新・北斗の拳"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "summer",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2433-GzmwlnsVXvCM.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2433",
+      "url": "https://anilist.co/anime/2433"
+    },
+    "k": {
+      "id": "1211",
+      "url": "https://kitsu.io/anime/1211"
+    },
+    "mal": {
+      "id": "2433",
+      "url": "https://myanimelist.net/anime/2433"
+    }
+  }
+}

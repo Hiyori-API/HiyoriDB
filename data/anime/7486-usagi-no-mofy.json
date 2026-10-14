@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7486,
+  "slug": "usagi-no-mofy",
+  "kind": "anime",
+  "title": "Usagi no Mofy",
+  "titles": {
+    "default": "Usagi no Mofy",
+    "romaji": "Usagi no Mofy",
+    "native": "うさぎのモフィ"
+  },
+  "synonyms": [
+    "Usagi no Mofy",
+    "うさぎのモフィ",
+    "Puchitto Gargantia",
+    "ぷちっとがるがんてぃあ",
+    "Petit Gargantia"
+  ],
+  "type": "ona",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b112145-unzWZHLlL8uW.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "112145",
+      "url": "https://anilist.co/anime/112145"
+    },
+    "k": {
+      "id": "7751",
+      "url": "https://kitsu.io/anime/7751"
+    },
+    "mal": {
+      "id": "21713",
+      "url": "https://myanimelist.net/anime/21713"
+    }
+  }
+}

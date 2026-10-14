@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15321,
+  "slug": "ashita-no-nadja",
+  "kind": "manga",
+  "title": "Ashita no Nadja",
+  "titles": {
+    "default": "Ashita no Nadja"
+  },
+  "synonyms": [
+    "Tomorrow's Nadja",
+    "Nadja of Tomorrow",
+    "明日のナージャ",
+    "xxxHOLiC",
+    "xxxHolic Rou",
+    "xxxHolic Cage",
+    "xxxHolic•Rou"
+  ],
+  "type": "manga",
+  "chapters": 12,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx37282-NG5uOgne8z12.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1946",
+      "url": "https://anilist.co/anime/1946"
+    },
+    "al_manga": {
+      "id": "1946",
+      "url": "https://anilist.co/manga/1946"
+    }
+  }
+}

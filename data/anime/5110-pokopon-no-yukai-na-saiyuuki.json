@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5110,
+  "slug": "pokopon-no-yukai-na-saiyuuki",
+  "kind": "anime",
+  "title": "Pokopon no Yukai na Saiyuuki",
+  "titles": {
+    "default": "Pokopon no Yukai na Saiyuuki",
+    "romaji": "Pokopon no Yukai na Saiyuuki",
+    "native": "ぽこぽんのゆかいな西遊記"
+  },
+  "synonyms": [
+    "Pokopon no Yukai na Saiyuuki",
+    "ぽこぽんのゆかいな西遊記",
+    "Kero Kero Keroppi no Daibouken: Fushigi na Mame no Ki",
+    "けろけろけろっぴの大冒険 ふしぎな豆の木"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx168868-ZPX62sSzhvbi.png"
+  ],
+  "references": {
+    "al": {
+      "id": "168868",
+      "url": "https://anilist.co/anime/168868"
+    },
+    "k": {
+      "id": "8368",
+      "url": "https://kitsu.io/anime/8368"
+    },
+    "mal": {
+      "id": "32621",
+      "url": "https://myanimelist.net/anime/32621"
+    }
+  }
+}

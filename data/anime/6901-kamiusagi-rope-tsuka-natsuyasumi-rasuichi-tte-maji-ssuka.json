@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6901,
+  "slug": "kamiusagi-rope-tsuka-natsuyasumi-rasuichi-tte-maji-ssuka",
+  "kind": "anime",
+  "title": "Kamiusagi Rope tsuka, Natsuyasumi Rasuichi tte Maji ssuka!?",
+  "titles": {
+    "default": "Kamiusagi Rope tsuka, Natsuyasumi Rasuichi tte Maji ssuka!?",
+    "romaji": "Kamiusagi Rope tsuka, Natsuyasumi Rasuichi tte Maji ssuka!?",
+    "english": "Paper Rabbit Rope: Wait Last One For Summer Vacation For Real!?",
+    "native": "紙兎ロペ　つか、夏休みラスイチってマジっすか！？"
+  },
+  "synonyms": [
+    "Kamiusagi Rope tsuka, Natsuyasumi Rasuichi tte Maji ssuka!?",
+    "Paper Rabbit Rope: Wait Last One For Summer Vacation For Real!?",
+    "紙兎ロペ　つか、夏休みラスイチってマジっすか！？"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13821.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "13821",
+      "url": "https://anilist.co/anime/13821"
+    },
+    "k": {
+      "id": "7036",
+      "url": "https://kitsu.io/anime/7036"
+    },
+    "mal": {
+      "id": "13821",
+      "url": "https://myanimelist.net/anime/13821"
+    }
+  }
+}

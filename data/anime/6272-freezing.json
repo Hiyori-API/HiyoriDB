@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6272,
+  "slug": "freezing",
+  "kind": "anime",
+  "title": "Freezing",
+  "titles": {
+    "default": "Freezing",
+    "romaji": "Freezing",
+    "native": "フリージング"
+  },
+  "synonyms": [
+    "Freezing",
+    "フリージング"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9367.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9367",
+      "url": "https://anilist.co/anime/9367"
+    },
+    "cr": {
+      "id": "freezing",
+      "url": "https://www.crunchyroll.com/series/freezing"
+    },
+    "k": {
+      "id": "5706",
+      "url": "https://kitsu.io/anime/5706"
+    },
+    "mal": {
+      "id": "9367",
+      "url": "https://myanimelist.net/anime/9367"
+    },
+    "t": {
+      "id": "38281",
+      "url": "https://trakt.tv/shows/38281"
+    }
+  }
+}

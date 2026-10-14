@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9200,
+  "slug": "jigoku-shoujo-yoi-no-togi",
+  "kind": "anime",
+  "title": "Jigoku Shoujo: Yoi no Togi",
+  "titles": {
+    "default": "Jigoku Shoujo: Yoi no Togi",
+    "romaji": "Jigoku Shoujo: Yoi no Togi",
+    "english": "Hell Girl: Fourth Twilight",
+    "native": "地獄少女宵伽"
+  },
+  "synonyms": [
+    "Jigoku Shoujo: Yoi no Togi",
+    "Hell Girl: Fourth Twilight",
+    "地獄少女宵伽",
+    "Hell Girl Yoi no Togi",
+    "Welcome to the Classroom of the Elite",
+    "You-jitsu",
+    "You-zitsu",
+    "Classroom of the Elite",
+    "ようこそ実力至上主義の教室へ",
+    "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98379-oJL7jgmm1ceQ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "98379",
+      "url": "https://anilist.co/anime/98379"
+    },
+    "cr": {
+      "id": "hell-girl-fourth-twilight",
+      "url": "https://www.crunchyroll.com/series/hell-girl-fourth-twilight"
+    },
+    "mal": {
+      "id": "34966",
+      "url": "https://myanimelist.net/anime/34966"
+    },
+    "tx": {
+      "id": "jigokuanime",
+      "url": "https://twitter.com/jigokuanime"
+    }
+  }
+}

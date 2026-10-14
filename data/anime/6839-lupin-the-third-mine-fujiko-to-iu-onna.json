@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6839,
+  "slug": "lupin-the-third-mine-fujiko-to-iu-onna",
+  "kind": "anime",
+  "title": "LUPIN the Third: Mine Fujiko to Iu Onna",
+  "titles": {
+    "default": "LUPIN the Third: Mine Fujiko to Iu Onna",
+    "romaji": "LUPIN the Third: Mine Fujiko to Iu Onna",
+    "english": "Lupin the Third: The Woman Called Fujiko Mine",
+    "native": "LUPIN the Third ～峰不二子という女～"
+  },
+  "synonyms": [
+    "LUPIN the Third: Mine Fujiko to Iu Onna",
+    "Lupin the Third: The Woman Called Fujiko Mine",
+    "LUPIN the Third ～峰不二子という女～",
+    "Lupin III",
+    "Lupin III~Mine Fujiko to Iu Onna~",
+    "Lupin the Third: La donna chiamata Fujiko Mine",
+    "Lupin the Third: Mine Fujiko to Iu Onna",
+    "Lupin the Third, The Woman Called Fujiko Mine"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx13203-O4B5Ug60vKG0.png"
+  ],
+  "references": {
+    "al": {
+      "id": "13203",
+      "url": "https://anilist.co/anime/13203"
+    },
+    "cr": {
+      "id": "lupin-the-third-the-woman-called-fujiko-mine",
+      "url": "https://www.crunchyroll.com/series/lupin-the-third-the-woman-called-fujiko-mine"
+    },
+    "k": {
+      "id": "6910",
+      "url": "https://kitsu.io/anime/6910"
+    },
+    "mal": {
+      "id": "13203",
+      "url": "https://myanimelist.net/anime/13203"
+    },
+    "t": {
+      "id": "45607",
+      "url": "https://trakt.tv/shows/45607"
+    }
+  }
+}

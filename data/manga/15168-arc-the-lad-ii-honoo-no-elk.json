@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15168,
+  "slug": "arc-the-lad-ii-honoo-no-elk",
+  "kind": "manga",
+  "title": "Arc the Lad II: Honoo no Elk",
+  "titles": {
+    "default": "Arc the Lad II: Honoo no Elk"
+  },
+  "synonyms": [
+    "Arc the Lad II: Flame of Elk",
+    "アークザラッドII 炎のエルク",
+    "Kamikaze Kaito Jeanne",
+    "Kamikaze Kaitou Jeanne",
+    "Phantom Thief Jeanne",
+    "神風怪盗ジャンヌ",
+    "Divine Wind Phantom Thief Jeanne"
+  ],
+  "type": "manga",
+  "chapters": 53,
+  "volumes": 10,
+  "status": "finished",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/34551.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "55",
+      "url": "https://anilist.co/anime/55"
+    },
+    "al_manga": {
+      "id": "55",
+      "url": "https://anilist.co/manga/55"
+    }
+  }
+}

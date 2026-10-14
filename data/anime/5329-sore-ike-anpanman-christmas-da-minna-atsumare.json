@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5329,
+  "slug": "sore-ike-anpanman-christmas-da-minna-atsumare",
+  "kind": "anime",
+  "title": "Sore Ike! Anpanman: Christmas da! Minna Atsumare",
+  "titles": {
+    "default": "Sore Ike! Anpanman: Christmas da! Minna Atsumare",
+    "romaji": "Sore Ike! Anpanman: Christmas da! Minna Atsumare",
+    "native": "それいけ！アンパンマン クリスマスだ！みんな集まれ"
+  },
+  "synonyms": [
+    "Sore Ike! Anpanman: Christmas da! Minna Atsumare",
+    "それいけ！アンパンマン クリスマスだ！みんな集まれ",
+    "Sore Ike! Anpanman: Uta to Ohanashi - Suteki na Christmas",
+    "それいけ！アンパンマン うたとおはなしすてきなクリスマス",
+    "Ushiro no Seki no Ochiai-kun",
+    "うしろのせきのオチアイくん"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b176873-JjpxUtJA71DJ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "176873",
+      "url": "https://anilist.co/anime/176873"
+    },
+    "k": {
+      "id": "9795",
+      "url": "https://kitsu.io/anime/9795"
+    },
+    "mal": {
+      "id": "58240",
+      "url": "https://myanimelist.net/anime/58240"
+    }
+  }
+}

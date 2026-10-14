@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13849,
+  "slug": "ai-hikari-to-mizu-no-daphne",
+  "kind": "manga",
+  "title": "Ai: Hikari to Mizu no Daphne",
+  "titles": {
+    "default": "Ai: Hikari to Mizu no Daphne"
+  },
+  "synonyms": [
+    "Ai ~Hikari to Mizu no Daphne~",
+    "Ai - Hikari to Mizu no Daphne",
+    "Daphne in the Brilliant Blue",
+    "アイ〜光と水のダフネ〜",
+    "Ai: Hikari to Mizu no Daphne"
+  ],
+  "type": "manga",
+  "chapters": 6,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30274-fXlyjmKOwILJ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1082",
+      "url": "https://anilist.co/anime/1082"
+    },
+    "al_manga": {
+      "id": "1082",
+      "url": "https://anilist.co/manga/1082"
+    }
+  }
+}

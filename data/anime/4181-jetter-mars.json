@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4181,
+  "slug": "jetter-mars",
+  "kind": "anime",
+  "title": "Jetter Mars",
+  "titles": {
+    "default": "Jetter Mars",
+    "romaji": "Jetter Mars",
+    "native": "ジェッターマルス"
+  },
+  "synonyms": [
+    "Jetter Mars",
+    "ジェッターマルス",
+    "Jet Mars",
+    "O Menino Biônico",
+    "Jet Marte",
+    "\"Marte, O Menino Biônico\"",
+    "Capitan Jet",
+    "제트소년 마르스",
+    "우주소년 마르스",
+    "كوكي العجيب",
+    "Джет Марс",
+    "Σούπερ Μαρς",
+    "Robotas Marsas",
+    "Džetas Marsas,",
+    "淘氣小飛俠, เจ้าหนูจอมพลัง"
+  ],
+  "type": "tv",
+  "episodes": 27,
+  "status": "finished",
+  "season": "winter",
+  "year": 1977,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6087.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6087",
+      "url": "https://anilist.co/anime/6087"
+    },
+    "k": {
+      "id": "4419",
+      "url": "https://kitsu.io/anime/4419"
+    },
+    "mal": {
+      "id": "6087",
+      "url": "https://myanimelist.net/anime/6087"
+    }
+  }
+}

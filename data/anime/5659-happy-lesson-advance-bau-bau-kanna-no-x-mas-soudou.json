@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5659,
+  "slug": "happy-lesson-advance-bau-bau-kanna-no-x-mas-soudou",
+  "kind": "anime",
+  "title": "HAPPY☆LESSON ADVANCE: Bau Bau★Kanna no X'mas Soudou",
+  "titles": {
+    "default": "HAPPY☆LESSON ADVANCE: Bau Bau★Kanna no X'mas Soudou",
+    "romaji": "HAPPY☆LESSON ADVANCE: Bau Bau★Kanna no X'mas Soudou",
+    "native": "HAPPY☆LESSON ADVANCE バウバウ★カンナのX'マス騒動"
+  },
+  "synonyms": [
+    "HAPPY☆LESSON ADVANCE: Bau Bau★Kanna no X'mas Soudou",
+    "HAPPY☆LESSON ADVANCE バウバウ★カンナのX'マス騒動",
+    "HAPPY☆LESSON ADVANCE: Crying★Kanna's Christmas Rebellion",
+    "Tenbatsu Angel Rabbie☆",
+    "天罰エンジェルラビィ☆",
+    "Judgment! XX Angel Rabbie",
+    "Divine Punishment: Angel Rabbie OVA",
+    "XX Angel Rabbie OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b213365-Ayt3Oy2mNHUw.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "213365",
+      "url": "https://anilist.co/anime/213365"
+    },
+    "k": {
+      "id": "622",
+      "url": "https://kitsu.io/anime/622"
+    },
+    "mal": {
+      "id": "681",
+      "url": "https://myanimelist.net/anime/681"
+    }
+  }
+}

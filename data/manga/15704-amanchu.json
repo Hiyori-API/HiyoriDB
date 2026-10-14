@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15704,
+  "slug": "amanchu",
+  "kind": "manga",
+  "title": "Amanchu!",
+  "titles": {
+    "default": "Amanchu!"
+  },
+  "synonyms": [
+    "Amanchu",
+    "あまんちゅ！",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "chapters": 102,
+  "volumes": 17,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx41061-XX5hojTw1sjA.png"
+  ],
+  "references": {
+    "al": {
+      "id": "100532",
+      "url": "https://anilist.co/anime/21406"
+    },
+    "al_manga": {
+      "id": "100532",
+      "url": "https://anilist.co/manga/100532"
+    }
+  }
+}

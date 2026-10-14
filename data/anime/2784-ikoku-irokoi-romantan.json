@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2784,
+  "slug": "ikoku-irokoi-romantan",
+  "kind": "anime",
+  "title": "Ikoku Irokoi Romantan",
+  "titles": {
+    "default": "Ikoku Irokoi Romantan",
+    "romaji": "Ikoku Irokoi Romantan",
+    "native": "異国色恋浪漫譚"
+  },
+  "synonyms": [
+    "Ikoku Irokoi Romantan",
+    "異国色恋浪漫譚",
+    "The Romantic Tale of a Foreign Love Affair"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3210.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3210",
+      "url": "https://anilist.co/anime/3210"
+    },
+    "k": {
+      "id": "2857",
+      "url": "https://kitsu.io/anime/2857"
+    },
+    "mal": {
+      "id": "3210",
+      "url": "https://myanimelist.net/anime/3210"
+    }
+  }
+}

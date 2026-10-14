@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15788,
+  "slug": "masaka-no-kintarou",
+  "kind": "manga",
+  "title": "Masaka no Kintarou",
+  "titles": {
+    "default": "Masaka no Kintarou"
+  },
+  "synonyms": [
+    "The Incredible Kintaro",
+    "まさかの金太狼",
+    "Masaka no Kintarou"
+  ],
+  "type": "manga",
+  "chapters": 8,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx75459-uPXNdg99nHhJ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "118936",
+      "url": "https://anilist.co/anime/118936"
+    },
+    "al_manga": {
+      "id": "118936",
+      "url": "https://anilist.co/manga/118936"
+    }
+  }
+}

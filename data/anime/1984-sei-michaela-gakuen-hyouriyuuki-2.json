@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1984,
+  "slug": "sei-michaela-gakuen-hyouriyuuki-2",
+  "kind": "anime",
+  "title": "Sei Michaela Gakuen Hyouriyuuki 2",
+  "titles": {
+    "default": "Sei Michaela Gakuen Hyouriyuuki 2",
+    "romaji": "Sei Michaela Gakuen Hyouriyuuki 2",
+    "english": "Sins of the Sisters",
+    "native": "聖ミカエラ学園漂流記Ⅱ"
+  },
+  "synonyms": [
+    "Sei Michaela Gakuen Hyouriyuuki 2",
+    "Sins of the Sisters",
+    "聖ミカエラ学園漂流記Ⅱ",
+    "St. Michaela School II",
+    "Ranma ½ Specials",
+    "Ranma ½: Yomigaeru Kioku",
+    "らんま１／２",
+    "Ranma 1/2 Specials"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2240-BdRB32WCaoeo.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2240",
+      "url": "https://anilist.co/anime/2240"
+    },
+    "k": {
+      "id": "898",
+      "url": "https://kitsu.io/anime/898"
+    },
+    "mal": {
+      "id": "2240",
+      "url": "https://myanimelist.net/anime/2240"
+    }
+  }
+}

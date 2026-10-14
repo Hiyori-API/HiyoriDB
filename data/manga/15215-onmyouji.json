@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15215,
+  "slug": "onmyouji",
+  "kind": "manga",
+  "title": "Onmyouji",
+  "titles": {
+    "default": "Onmyouji"
+  },
+  "synonyms": [
+    "Onmyoji",
+    "陰陽師",
+    "Onmyouji"
+  ],
+  "type": "manga",
+  "chapters": 112,
+  "volumes": 13,
+  "status": "finished",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx45079-VDbmHGlodXOS.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "154999",
+      "url": "https://anilist.co/anime/154999"
+    },
+    "al_manga": {
+      "id": "154999",
+      "url": "https://anilist.co/manga/154999"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1073,
+  "slug": "nintama-rantarou",
+  "kind": "anime",
+  "title": "Nintama Rantarou",
+  "titles": {
+    "default": "Nintama Rantarou",
+    "romaji": "Nintama Rantarou",
+    "native": "忍たま乱太郎"
+  },
+  "synonyms": [
+    "Nintama Rantarou",
+    "忍たま乱太郎",
+    "Ninja Boy Rantaro",
+    "Rakudaii Nintama Rantarou"
+  ],
+  "type": "tv",
+  "status": "airing",
+  "season": "spring",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1199-qguxpAkhdzap.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1199",
+      "url": "https://anilist.co/anime/1199"
+    },
+    "k": {
+      "id": "1078",
+      "url": "https://kitsu.io/anime/1078"
+    },
+    "mal": {
+      "id": "1199",
+      "url": "https://myanimelist.net/anime/1199"
+    }
+  }
+}

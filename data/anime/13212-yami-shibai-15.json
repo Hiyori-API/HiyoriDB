@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13212,
+  "slug": "yami-shibai-15",
+  "kind": "anime",
+  "title": "Yami Shibai 15",
+  "titles": {
+    "default": "Yami Shibai 15",
+    "romaji": "Yami Shibai 15",
+    "english": "Theatre of Darkness: Yamishibai 15",
+    "native": "闇芝居 十五期"
+  },
+  "synonyms": [
+    "Yami Shibai 15",
+    "Theatre of Darkness: Yamishibai 15",
+    "闇芝居 十五期",
+    "Yamishibai: Japanese Ghost Stories Fifteenth Season",
+    "The Fragrant Flowers Bloom with Dignity",
+    "The Fragrant Flower Blooms with Dignity",
+    "薫る花は凛と咲く",
+    "Kaoru Hana wa Rin to Saku"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194088-lzp3BHNx0tnY.png"
+  ],
+  "references": {
+    "al": {
+      "id": "194088",
+      "url": "https://anilist.co/anime/194088"
+    },
+    "cr": {
+      "id": "series/G6WEM1V36/theatre-of-darkness-yamishibai",
+      "url": "https://www.crunchyroll.com/series/series/G6WEM1V36/theatre-of-darkness-yamishibai"
+    },
+    "mal": {
+      "id": "61793",
+      "url": "https://myanimelist.net/anime/61793"
+    },
+    "tvt": {
+      "id": "yamishibai15",
+      "url": "http://www.tv-tokyo.co.jp/anime/yamishibai15"
+    }
+  }
+}

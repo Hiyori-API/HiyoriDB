@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11464,
+  "slug": "anehame-ore-no-hatsukoi-ga-jisshi-na-wake-ga-nai",
+  "kind": "anime",
+  "title": "Anehame: Ore no Hatsukoi ga Jisshi na wake ga nai",
+  "titles": {
+    "default": "Anehame: Ore no Hatsukoi ga Jisshi na wake ga nai",
+    "romaji": "Anehame: Ore no Hatsukoi ga Jisshi na wake ga nai",
+    "native": "アネハメ 俺の初恋が実姉なわけがない"
+  },
+  "synonyms": [
+    "Anehame: Ore no Hatsukoi ga Jisshi na wake ga nai",
+    "アネハメ 俺の初恋が実姉なわけがない",
+    "Samurai X: Reflection",
+    "Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou-hen",
+    "るろうに剣心 -明治剣客浪漫譚- 星霜編",
+    "Rurouni Kenshin: Seisouhen",
+    "Rurouni Kenshin OVA 2"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx138360-OWzxL5vIkQfG.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "138360",
+      "url": "https://anilist.co/anime/138360"
+    },
+    "k": {
+      "id": "368",
+      "url": "https://kitsu.io/anime/368"
+    },
+    "mal": {
+      "id": "50161",
+      "url": "https://myanimelist.net/anime/50161"
+    }
+  }
+}

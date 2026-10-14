@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11729,
+  "slug": "eternity-memories",
+  "kind": "anime",
+  "title": "ETERNITY MEMORIES",
+  "titles": {
+    "default": "ETERNITY MEMORIES",
+    "romaji": "ETERNITY MEMORIES"
+  },
+  "synonyms": [
+    "ETERNITY MEMORIES",
+    "10周年記念アニメーション ETERNITY MEMORIES",
+    "THE IDOLM@STER CINDERELLA GIRLS: 10th Anniversary - Celebration Animation: ETERNITY MEMORIES",
+    "CINDERELLA GIRLS 10th Anniversary Celebration Animation ETERNITY MEMORIES",
+    "THE IDOLM@STER CINDERELLA GIRLS 10th Anniversary Celebration Animation ETERNITY MEMORIES",
+    "Eternity Memories",
+    "10周年記念アニメーション「ETERNITY MEMORIES」"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142173-M62AoQoI0g55.png"
+  ],
+  "references": {
+    "al": {
+      "id": "142173",
+      "url": "https://anilist.co/anime/142173"
+    },
+    "mal": {
+      "id": "51234",
+      "url": "https://myanimelist.net/anime/51234"
+    },
+    "tx": {
+      "id": "imascg_chihiro",
+      "url": "https://twitter.com/imascg_chihiro"
+    },
+    "yt": {
+      "id": "FYhJGRJfgA8",
+      "url": "https://www.youtube.com/watch?v=FYhJGRJfgA8"
+    }
+  }
+}

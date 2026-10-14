@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1588,
+  "slug": "kaze-no-na-wa-amnesia",
+  "kind": "anime",
+  "title": "Kaze no Na wa Amnesia",
+  "titles": {
+    "default": "Kaze no Na wa Amnesia",
+    "romaji": "Kaze no Na wa Amnesia",
+    "english": "A Wind Named Amnesia",
+    "native": "風の名はアムネジア"
+  },
+  "synonyms": [
+    "Kaze no Na wa Amnesia",
+    "A Wind Named Amnesia",
+    "風の名はアムネジア",
+    "Kaze no Namae wa Amunejia",
+    "Il vento dell'Amnesia",
+    "El viento de amnesia",
+    "The Wind of Amnesia: Wind des Vergessens",
+    "El vent d'Amnèsia",
+    "The Wind of Amnesia",
+    "The Name of the Wind is Amnesia"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1793.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1793",
+      "url": "https://anilist.co/anime/1793"
+    },
+    "cr": {
+      "id": "a-wind-named-amnesia",
+      "url": "https://www.crunchyroll.com/series/a-wind-named-amnesia"
+    },
+    "k": {
+      "id": "1613",
+      "url": "https://kitsu.io/anime/1613"
+    },
+    "mal": {
+      "id": "1793",
+      "url": "https://myanimelist.net/anime/1793"
+    }
+  }
+}

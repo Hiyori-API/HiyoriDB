@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11376,
+  "slug": "sayonara-watashi-no-cramer-mini-anime",
+  "kind": "anime",
+  "title": "Sayonara Watashi no Cramer Mini Anime",
+  "titles": {
+    "default": "Sayonara Watashi no Cramer Mini Anime",
+    "romaji": "Sayonara Watashi no Cramer Mini Anime",
+    "native": "さよなら私のクラマー ミニアニメ"
+  },
+  "synonyms": [
+    "Sayonara Watashi no Cramer Mini Anime",
+    "さよなら私のクラマー ミニアニメ",
+    "Ikuze! Gen-san",
+    "いくぜっ！源さん",
+    "Ikuze Gensan"
+  ],
+  "type": "ona",
+  "episodes": 24,
+  "status": "finished",
+  "season": "winter",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b132061-zNDPlnICtDzI.png"
+  ],
+  "references": {
+    "al": {
+      "id": "132061",
+      "url": "https://anilist.co/anime/132061"
+    },
+    "k": {
+      "id": "3388",
+      "url": "https://kitsu.io/anime/3388"
+    },
+    "mal": {
+      "id": "48616",
+      "url": "https://myanimelist.net/anime/48616"
+    },
+    "tx": {
+      "id": "cramer_pr",
+      "url": "https://twitter.com/cramer_pr"
+    }
+  }
+}

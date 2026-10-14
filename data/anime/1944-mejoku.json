@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1944,
+  "slug": "mejoku",
+  "kind": "anime",
+  "title": "Mejoku",
+  "titles": {
+    "default": "Mejoku",
+    "romaji": "Mejoku",
+    "english": "Sextra Credit",
+    "native": "めじょく"
+  },
+  "synonyms": [
+    "Mejoku",
+    "Sextra Credit",
+    "めじょく",
+    "Tokyo Daigaku Monogatari",
+    "東京大学物語",
+    "Tokyo University Story"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2194.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2194",
+      "url": "https://anilist.co/anime/2194"
+    },
+    "k": {
+      "id": "943",
+      "url": "https://kitsu.io/anime/943"
+    },
+    "mal": {
+      "id": "2194",
+      "url": "https://myanimelist.net/anime/2194"
+    }
+  }
+}

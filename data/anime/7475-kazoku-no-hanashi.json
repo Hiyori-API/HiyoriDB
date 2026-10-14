@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7475,
+  "slug": "kazoku-no-hanashi",
+  "kind": "anime",
+  "title": "Kazoku no Hanashi",
+  "titles": {
+    "default": "Kazoku no Hanashi",
+    "romaji": "Kazoku no Hanashi",
+    "english": "The Story of a Family",
+    "native": "家族のはなし"
+  },
+  "synonyms": [
+    "Kazoku no Hanashi",
+    "The Story of a Family",
+    "家族のはなし"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98136-hFRxBNhicXEP.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98136",
+      "url": "https://anilist.co/anime/98136"
+    },
+    "k": {
+      "id": "8231",
+      "url": "https://kitsu.io/anime/8231"
+    },
+    "mal": {
+      "id": "21333",
+      "url": "https://myanimelist.net/anime/21333"
+    }
+  }
+}

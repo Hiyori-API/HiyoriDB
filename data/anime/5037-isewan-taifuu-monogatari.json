@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5037,
+  "slug": "isewan-taifuu-monogatari",
+  "kind": "anime",
+  "title": "Isewan Taifuu Monogatari",
+  "titles": {
+    "default": "Isewan Taifuu Monogatari",
+    "romaji": "Isewan Taifuu Monogatari",
+    "native": "伊勢湾台風物語"
+  },
+  "synonyms": [
+    "Isewan Taifuu Monogatari",
+    "伊勢湾台風物語",
+    "Isewan Typhoon Story",
+    "Isewan Taifu Monogatari"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126642-jAAwxbroFg9v.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "126642",
+      "url": "https://anilist.co/anime/126642"
+    },
+    "k": {
+      "id": "9346",
+      "url": "https://kitsu.io/anime/9346"
+    },
+    "mal": {
+      "id": "25305",
+      "url": "https://myanimelist.net/anime/25305"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4688,
+  "slug": "umeboshi-denka",
+  "kind": "anime",
+  "title": "Umeboshi Denka",
+  "titles": {
+    "default": "Umeboshi Denka",
+    "romaji": "Umeboshi Denka",
+    "native": "ウメ星デンカ"
+  },
+  "synonyms": [
+    "Umeboshi Denka",
+    "ウメ星デンカ",
+    "Umeboshi-denka"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 1969,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12835.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12835",
+      "url": "https://anilist.co/anime/12835"
+    },
+    "k": {
+      "id": "6824",
+      "url": "https://kitsu.io/anime/6824"
+    },
+    "mal": {
+      "id": "12835",
+      "url": "https://myanimelist.net/anime/12835"
+    }
+  }
+}

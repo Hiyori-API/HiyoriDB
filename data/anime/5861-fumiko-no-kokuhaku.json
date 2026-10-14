@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5861,
+  "slug": "fumiko-no-kokuhaku",
+  "kind": "anime",
+  "title": "Fumiko no Kokuhaku",
+  "titles": {
+    "default": "Fumiko no Kokuhaku",
+    "romaji": "Fumiko no Kokuhaku",
+    "english": "Fumiko's Confession",
+    "native": "フミコの告白"
+  },
+  "synonyms": [
+    "Fumiko no Kokuhaku",
+    "Fumiko's Confession",
+    "フミコの告白"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx8187-BMWhrS4sc7Gw.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8187",
+      "url": "https://anilist.co/anime/8187"
+    },
+    "k": {
+      "id": "5234",
+      "url": "https://kitsu.io/anime/5234"
+    },
+    "mal": {
+      "id": "8187",
+      "url": "https://myanimelist.net/anime/8187"
+    },
+    "yt": {
+      "id": "0QqT1P4VO30",
+      "url": "https://www.youtube.com/watch?v=0QqT1P4VO30"
+    }
+  }
+}

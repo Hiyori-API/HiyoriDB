@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11876,
+  "slug": "seika-jogakuin-kounin-sao-oji-san",
+  "kind": "anime",
+  "title": "Seika Jogakuin Kounin Sao Oji-san",
+  "titles": {
+    "default": "Seika Jogakuin Kounin Sao Oji-san",
+    "romaji": "Seika Jogakuin Kounin Sao Oji-san",
+    "native": "聖華女学院公認竿おじさん"
+  },
+  "synonyms": [
+    "Seika Jogakuin Kounin Sao Oji-san",
+    "聖華女学院公認竿おじさん",
+    "Seika Jogakuin Koutoubu Kounin Sao Oji-san",
+    "Haré+Guu Deluxe",
+    "Jungle wa Itsumo Hare nochi Guu Deluxe",
+    "ジャングルはいつもハレのちグゥ　デラックス",
+    "Jungle wa Itsumo Haré nochi Guu Deluxe",
+    "Jungle wa Itsumo Hale Nochi Guu Deluxe",
+    "Hare+Guu Deluxe"
+  ],
+  "type": "ova",
+  "episodes": 6,
+  "status": "finished",
+  "season": "summer",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx147578-d1xGPP0iM93h.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "147578",
+      "url": "https://anilist.co/anime/147578"
+    },
+    "k": {
+      "id": "229",
+      "url": "https://kitsu.io/anime/229"
+    },
+    "mal": {
+      "id": "51662",
+      "url": "https://myanimelist.net/anime/51662"
+    }
+  }
+}

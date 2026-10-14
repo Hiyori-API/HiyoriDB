@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2463,
+  "slug": "jyuushin-enbu-hero-tales",
+  "kind": "anime",
+  "title": "Jyuushin Enbu: HERO TALES",
+  "titles": {
+    "default": "Jyuushin Enbu: HERO TALES",
+    "romaji": "Jyuushin Enbu: HERO TALES",
+    "english": "Hero Tales",
+    "native": "獣神演武 - HERO TALES -"
+  },
+  "synonyms": [
+    "Jyuushin Enbu: HERO TALES",
+    "Hero Tales",
+    "獣神演武 - HERO TALES -",
+    "Juushin Enbu",
+    "Juushin Enbu Hero Tales",
+    "Jushin Enbu",
+    "Seven Stars Will Shatter the Empire: Hero Tales",
+    "Juushin Enbu: Hero Tales",
+    "Jyuushin Enbu"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2772.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2772",
+      "url": "https://anilist.co/anime/2772"
+    },
+    "cr": {
+      "id": "hero-tales",
+      "url": "https://www.crunchyroll.com/series/hero-tales"
+    },
+    "k": {
+      "id": "2530",
+      "url": "https://kitsu.io/anime/2530"
+    },
+    "mal": {
+      "id": "2772",
+      "url": "https://myanimelist.net/anime/2772"
+    },
+    "t": {
+      "id": "63717",
+      "url": "https://trakt.tv/shows/63717"
+    }
+  }
+}

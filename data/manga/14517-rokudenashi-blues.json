@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14517,
+  "slug": "rokudenashi-blues",
+  "kind": "manga",
+  "title": "Rokudenashi BLUES",
+  "titles": {
+    "default": "Rokudenashi BLUES"
+  },
+  "synonyms": [
+    "Good-For-Nothing Blues",
+    "Racaille Blues",
+    "ろくでなしBLUES",
+    "Vaelber Saga",
+    "ヴェルバーサーガ"
+  ],
+  "type": "manga",
+  "chapters": 421,
+  "volumes": 42,
+  "status": "finished",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx34444-wNgwisVPNhE4.png"
+  ],
+  "references": {
+    "al": {
+      "id": "9077",
+      "url": "https://anilist.co/anime/9078"
+    },
+    "al_manga": {
+      "id": "9077",
+      "url": "https://anilist.co/manga/9077"
+    }
+  }
+}

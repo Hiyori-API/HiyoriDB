@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 405,
+  "slug": "shoujo-kakumei-utena",
+  "kind": "anime",
+  "title": "Shoujo Kakumei Utena",
+  "titles": {
+    "default": "Shoujo Kakumei Utena",
+    "romaji": "Shoujo Kakumei Utena",
+    "english": "Revolutionary Girl Utena",
+    "native": "少女革命ウテナ"
+  },
+  "synonyms": [
+    "Shoujo Kakumei Utena",
+    "Revolutionary Girl Utena",
+    "少女革命ウテナ",
+    "Utena la fillette révolutionnaire",
+    "La rivoluzione di Utena",
+    "Utena la ragazza della rivoluzione",
+    "Rewolucjonistka Utena"
+  ],
+  "type": "tv",
+  "episodes": 39,
+  "status": "finished",
+  "season": "spring",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b440-r4l3N5WGgUOZ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "440",
+      "url": "https://anilist.co/anime/440"
+    },
+    "cr": {
+      "id": "revolutionary-girl-utena",
+      "url": "https://www.crunchyroll.com/series/revolutionary-girl-utena"
+    },
+    "k": {
+      "id": "403",
+      "url": "https://kitsu.io/anime/403"
+    },
+    "mal": {
+      "id": "440",
+      "url": "https://myanimelist.net/anime/440"
+    },
+    "t": {
+      "id": "1037",
+      "url": "https://trakt.tv/shows/1037"
+    },
+    "ttv": {
+      "id": "1036",
+      "url": "https://tubitv.com/series/1036"
+    }
+  }
+}

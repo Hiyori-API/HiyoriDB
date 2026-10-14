@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9523,
+  "slug": "gakuen-babysitters",
+  "kind": "anime",
+  "title": "Gakuen Babysitters",
+  "titles": {
+    "default": "Gakuen Babysitters",
+    "romaji": "Gakuen Babysitters",
+    "english": "School Babysitters",
+    "native": "学園ベビーシッターズ"
+  },
+  "synonyms": [
+    "Gakuen Babysitters",
+    "School Babysitters",
+    "学園ベビーシッターズ",
+    "学园奶爸",
+    "นักเรียนพี่เลี้ยงเด็ก",
+    "High Score Girl",
+    "ハイスコアガール",
+    "Hi Score Girl"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98503-oUCGDkv2osNK.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98503",
+      "url": "https://anilist.co/anime/98503"
+    },
+    "cr": {
+      "id": "school-babysitters",
+      "url": "https://www.crunchyroll.com/series/school-babysitters"
+    },
+    "k": {
+      "id": "8158",
+      "url": "https://kitsu.io/anime/8158"
+    },
+    "mal": {
+      "id": "35222",
+      "url": "https://myanimelist.net/anime/35222"
+    },
+    "nf": {
+      "id": "80997338",
+      "url": "https://www.netflix.com/title/80997338"
+    },
+    "tx": {
+      "id": "gakubaby_anime",
+      "url": "https://twitter.com/gakubaby_anime"
+    }
+  }
+}

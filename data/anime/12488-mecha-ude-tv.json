@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12488,
+  "slug": "mecha-ude-tv",
+  "kind": "anime",
+  "title": "Mecha-ude (TV)",
+  "titles": {
+    "default": "Mecha-ude (TV)",
+    "romaji": "Mecha-ude (TV)",
+    "english": "Mecha Ude: Mechanical Arms",
+    "native": "メカウデ (TV)"
+  },
+  "synonyms": [
+    "Mecha-ude (TV)",
+    "Mecha Ude: Mechanical Arms",
+    "メカウデ (TV)",
+    "メカウデ-mechanical arms- (新アニメ)",
+    "Mecha-Ude Animation Series",
+    "Love Live! Superstar!! Season 3",
+    "ラブライブ！スーパースター!!",
+    "Love Live! Superstar!! 3rd Season"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2024,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154673-SCp0Qo62N1Q6.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "154673",
+      "url": "https://anilist.co/anime/154673"
+    },
+    "cr": {
+      "id": "series/GEXH3W2KK",
+      "url": "https://www.crunchyroll.com/series/series/GEXH3W2KK"
+    },
+    "mal": {
+      "id": "53033",
+      "url": "https://myanimelist.net/anime/53033"
+    },
+    "tx": {
+      "id": "mechaude_JP",
+      "url": "https://twitter.com/mechaude_EN"
+    }
+  }
+}

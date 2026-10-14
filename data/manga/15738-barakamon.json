@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15738,
+  "slug": "barakamon",
+  "kind": "manga",
+  "title": "Barakamon",
+  "titles": {
+    "default": "Barakamon"
+  },
+  "synonyms": [
+    "บารากะมอน เกาะมีฮา คนมีเฮ",
+    "바라카몬",
+    "Barakamon",
+    "ばらかもん",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "chapters": 146,
+  "volumes": 19,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx47051-2Qdu2XyoAv1z.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "20722",
+      "url": "https://anilist.co/anime/20722"
+    },
+    "al_manga": {
+      "id": "20722",
+      "url": "https://anilist.co/manga/20722"
+    }
+  }
+}

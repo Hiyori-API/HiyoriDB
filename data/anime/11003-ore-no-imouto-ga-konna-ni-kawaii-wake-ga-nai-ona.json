@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11003,
+  "slug": "ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai-ona",
+  "kind": "anime",
+  "title": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai. (ONA)",
+  "titles": {
+    "default": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai. (ONA)",
+    "romaji": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai. (ONA)",
+    "english": "Oreimo 2 (ONA)",
+    "native": "俺の妹がこんなに可愛いわけがない。(ONA)"
+  },
+  "synonyms": [
+    "Ore no Imouto ga Konna ni Kawaii Wake ga Nai. (ONA)",
+    "Oreimo 2 (ONA)",
+    "俺の妹がこんなに可愛いわけがない。(ONA)",
+    "My Little Sister Can't Be This Cute 2 Specials",
+    "น้องสาวของผมไม่น่ารักขนาดนั้นหรอก ภาค 2 ตอนพิเศษ",
+    "OreImo 2 Specials",
+    "Oreimo 2 Specials",
+    "Ore no Imouto ga Konnani Kawaii Wake ga Nai. Specials",
+    "俺の妹がこんなに可愛いわけがない。",
+    "Ore no Imouto ga Konna ni Kawaii Wake ga Nai 2 Specials"
+  ],
+  "type": "ona",
+  "episodes": 3,
+  "status": "finished",
+  "season": "summer",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx18857-su3IlKYL3NS8.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "18857",
+      "url": "https://anilist.co/anime/18857"
+    },
+    "k": {
+      "id": "7822",
+      "url": "https://kitsu.io/anime/7822"
+    },
+    "mal": {
+      "id": "18857",
+      "url": "https://myanimelist.net/anime/18857"
+    }
+  }
+}

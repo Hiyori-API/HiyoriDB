@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10684,
+  "slug": "toromitsu-musume-no-hitou-service-torottoro-churu-churu-gohoushi-sasete-kudasai",
+  "kind": "anime",
+  "title": "Toromitsu Musume no Hitou Service: Torottoro Churu Churu Gohoushi Sasete Kudasai",
+  "titles": {
+    "default": "Toromitsu Musume no Hitou Service: Torottoro Churu Churu Gohoushi Sasete Kudasai",
+    "romaji": "Toromitsu Musume no Hitou Service: Torottoro Churu Churu Gohoushi Sasete Kudasai",
+    "english": "Melting Juice Lolis' Spa Services: Let us do Slurp-Slurp-Melting Care!",
+    "native": "トロみつ娘の秘湯サービス ～とろッとろちゅるちゅるご奉仕させてください～"
+  },
+  "synonyms": [
+    "Toromitsu Musume no Hitou Service: Torottoro Churu Churu Gohoushi Sasete Kudasai",
+    "Melting Juice Lolis' Spa Services: Let us do Slurp-Slurp-Melting Care!",
+    "トロみつ娘の秘湯サービス ～とろッとろちゅるちゅるご奉仕させてください～",
+    "Catblue Dynamite",
+    "Catblue: Dynamite",
+    "キャットブルー：ダイナマイト"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx125425-vcFS1PtjBk73.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "125425",
+      "url": "https://anilist.co/anime/125425"
+    },
+    "k": {
+      "id": "1645",
+      "url": "https://kitsu.io/anime/1645"
+    },
+    "mal": {
+      "id": "43791",
+      "url": "https://myanimelist.net/anime/43791"
+    }
+  }
+}

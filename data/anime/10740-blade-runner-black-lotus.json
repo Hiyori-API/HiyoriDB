@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10740,
+  "slug": "blade-runner-black-lotus",
+  "kind": "anime",
+  "title": "BLADE RUNNER: BLACK LOTUS",
+  "titles": {
+    "default": "BLADE RUNNER: BLACK LOTUS",
+    "romaji": "BLADE RUNNER: BLACK LOTUS",
+    "english": "Blade Runner: Black Lotus",
+    "native": "BLADE RUNNER — BLACK LOTUS"
+  },
+  "synonyms": [
+    "BLADE RUNNER: BLACK LOTUS",
+    "Blade Runner: Black Lotus",
+    "BLADE RUNNER — BLACK LOTUS",
+    "Selepro",
+    "SELECTION PROJECT",
+    "Selection Project"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx105931-YU9G5cdAYBFb.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "105931",
+      "url": "https://anilist.co/anime/105931"
+    },
+    "cr": {
+      "id": "blade-runner-black-lotus",
+      "url": "https://www.crunchyroll.com/series/blade-runner-black-lotus"
+    },
+    "mal": {
+      "id": "38749",
+      "url": "https://myanimelist.net/anime/38749"
+    }
+  }
+}

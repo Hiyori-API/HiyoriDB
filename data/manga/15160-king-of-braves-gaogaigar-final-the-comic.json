@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15160,
+  "slug": "king-of-braves-gaogaigar-final-the-comic",
+  "kind": "manga",
+  "title": "King of Braves GaoGaiGar FINAL the COMIC",
+  "titles": {
+    "default": "King of Braves GaoGaiGar FINAL the COMIC"
+  },
+  "synonyms": [
+    "GaoGaiGar Number 43.5: Hikari to ankoku no tsubasa",
+    "GaoGaiGar Number 43.5: Wings of Light and Darkness",
+    "FINAL.00 Evoluder Guy",
+    "勇者王ガオガイガーFINAL the COMIC",
+    "E's",
+    "エス",
+    "E's Otherwise",
+    "Es"
+  ],
+  "type": "manga",
+  "chapters": 8,
+  "volumes": 1,
+  "status": "finished",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/13824.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "890",
+      "url": "https://anilist.co/anime/890"
+    },
+    "al_manga": {
+      "id": "890",
+      "url": "https://anilist.co/manga/890"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14300,
+  "slug": "andromeda-stories",
+  "kind": "manga",
+  "title": "Andromeda Stories",
+  "titles": {
+    "default": "Andromeda Stories"
+  },
+  "synonyms": [
+    "Stories of Andromeda Galaxy",
+    "アンドロメダ・ストーリーズ",
+    "Andromeda Stories"
+  ],
+  "type": "manga",
+  "chapters": 15,
+  "volumes": 3,
+  "status": "finished",
+  "year": 1980,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b32104-69rqbj6o1eB8.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3675",
+      "url": "https://anilist.co/anime/3675"
+    },
+    "al_manga": {
+      "id": "3675",
+      "url": "https://anilist.co/manga/3675"
+    }
+  }
+}

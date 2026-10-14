@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15216,
+  "slug": "wild-arms-hananusubito",
+  "kind": "manga",
+  "title": "WILD ARMS Hananusubito",
+  "titles": {
+    "default": "WILD ARMS Hananusubito"
+  },
+  "synonyms": [
+    "Wild Arms Flower Thieves",
+    "ワイルドアームズ花盗人",
+    "Paradise Kiss",
+    "パラダイス・キス",
+    "ParaKiss"
+  ],
+  "type": "manga",
+  "chapters": 12,
+  "volumes": 2,
+  "status": "finished",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/17225.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "347",
+      "url": "https://anilist.co/anime/347"
+    },
+    "al_manga": {
+      "id": "347",
+      "url": "https://anilist.co/manga/347"
+    }
+  }
+}

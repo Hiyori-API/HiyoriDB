@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14803,
+  "slug": "daichouhen-doraemon",
+  "kind": "manga",
+  "title": "Daichouhen Doraemon",
+  "titles": {
+    "default": "Daichouhen Doraemon"
+  },
+  "synonyms": [
+    "The Adventure of Doraemon",
+    "Doraemon Long Stories",
+    "Daichohen Doraemon",
+    "Doraemon Petualangan",
+    "Doraemon's Long Tales",
+    "大長編ドラえもん",
+    "Maison Ikkoku",
+    "めぞん一刻"
+  ],
+  "type": "manga",
+  "chapters": 126,
+  "volumes": 24,
+  "status": "finished",
+  "year": 1980,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx42471-bILCdlnrUqDu.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "198368",
+      "url": "https://anilist.co/anime/3727"
+    },
+    "al_manga": {
+      "id": "198368",
+      "url": "https://anilist.co/manga/198368"
+    }
+  }
+}

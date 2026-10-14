@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6292,
+  "slug": "gitai-saimin",
+  "kind": "anime",
+  "title": "Gitai Saimin",
+  "titles": {
+    "default": "Gitai Saimin",
+    "romaji": "Gitai Saimin",
+    "native": "擬態催眠"
+  },
+  "synonyms": [
+    "Gitai Saimin",
+    "擬態催眠",
+    "Baka & Test - Summon the Beasts OVA",
+    "Baka to Test to Shoukanjuu: Matsuri",
+    "バカとテストと召喚獣 ～祭～",
+    "Baka to Test to Shoukanjuu OVA",
+    "Baka to Test to Shokanju OVA",
+    "The Idiot",
+    "the Tests",
+    "and the Summoned Creatures OVA",
+    "Baka and Test: Summon the Beasts OVA"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9718.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9718",
+      "url": "https://anilist.co/anime/9718"
+    },
+    "k": {
+      "id": "5745",
+      "url": "https://kitsu.io/anime/5745"
+    },
+    "mal": {
+      "id": "9718",
+      "url": "https://myanimelist.net/anime/9718"
+    }
+  }
+}

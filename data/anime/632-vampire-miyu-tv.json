@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 632,
+  "slug": "vampire-miyu-tv",
+  "kind": "anime",
+  "title": "Vampire Miyu (TV)",
+  "titles": {
+    "default": "Vampire Miyu (TV)",
+    "romaji": "Vampire Miyu (TV)",
+    "english": "Vampire Princess Miyu (TV)",
+    "native": "吸血姫美夕 (TV)"
+  },
+  "synonyms": [
+    "Vampire Miyu (TV)",
+    "Vampire Princess Miyu (TV)",
+    "吸血姫美夕 (TV)",
+    "Kyuuketsuki Miyu TV",
+    "Vampire Princess Miyu (1997)",
+    "ヴァンパイア ミユ",
+    "Kyuuketsukihime Miyu (TV)",
+    "Miyu, la princesa vampir",
+    "Kyuuketsu-hime Miyu (TV)",
+    "Vampire Princess Miyu",
+    "Kyuuketsuhime Miyu (TV)",
+    "吸血姫美夕 (1997)"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx690-vReqRLnXWSO0.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "690",
+      "url": "https://anilist.co/anime/690"
+    },
+    "k": {
+      "id": "7754",
+      "url": "https://kitsu.io/anime/7754"
+    },
+    "mal": {
+      "id": "690",
+      "url": "https://myanimelist.net/anime/690"
+    },
+    "t": {
+      "id": "61177",
+      "url": "https://trakt.tv/shows/61177"
+    }
+  }
+}

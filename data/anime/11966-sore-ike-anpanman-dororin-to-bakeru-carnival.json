@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11966,
+  "slug": "sore-ike-anpanman-dororin-to-bakeru-carnival",
+  "kind": "anime",
+  "title": "Sore Ike! Anpanman: Dororin to Bakeru Carnival",
+  "titles": {
+    "default": "Sore Ike! Anpanman: Dororin to Bakeru Carnival",
+    "romaji": "Sore Ike! Anpanman: Dororin to Bakeru Carnival",
+    "english": "Anpanman: Dororin and the Transformation Carnival",
+    "native": "それいけ！アンパンマン ドロリンとバケ～るカーニバル"
+  },
+  "synonyms": [
+    "Sore Ike! Anpanman: Dororin to Bakeru Carnival",
+    "Anpanman: Dororin and the Transformation Carnival",
+    "それいけ！アンパンマン ドロリンとバケ～るカーニバル",
+    "Go! Anpanman: Dororin and the Transforming Carnival",
+    "Pokemon: The First Movie",
+    "Pokemon: Mewtwo no Gyakushuu",
+    "ポケットモンスター ミュウツーの逆襲",
+    "Gekijouban Pocket Monsters: Mewtwo Strikes Back",
+    "Pokemon Movie 1",
+    "Pokemon: The Origin of Mewtwo",
+    "Pokemon: The First Movie Kanzenban",
+    "Pokemon: The First Movie Complete Version"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx160856-qDvHSW1lYOGi.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "160856",
+      "url": "https://anilist.co/anime/160856"
+    },
+    "k": {
+      "id": "487",
+      "url": "https://kitsu.io/anime/487"
+    },
+    "mal": {
+      "id": "52452",
+      "url": "https://myanimelist.net/anime/52452"
+    },
+    "tx": {
+      "id": "anpanman_movie",
+      "url": "https://twitter.com/anpanman_movie"
+    }
+  }
+}

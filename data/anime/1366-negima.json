@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1366,
+  "slug": "negima",
+  "kind": "anime",
+  "title": "Negima!?",
+  "titles": {
+    "default": "Negima!?",
+    "romaji": "Negima!?",
+    "english": "Negima!? Magister Negi Magi",
+    "native": "ネギま!?"
+  },
+  "synonyms": [
+    "Negima!?",
+    "Negima!? Magister Negi Magi",
+    "ネギま!?",
+    "Negima Remake"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1546-iAXPSwcykL45.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1546",
+      "url": "https://anilist.co/anime/1546"
+    },
+    "k": {
+      "id": "1387",
+      "url": "https://kitsu.io/anime/1387"
+    },
+    "mal": {
+      "id": "1546",
+      "url": "https://myanimelist.net/anime/1546"
+    },
+    "t": {
+      "id": "71922",
+      "url": "https://trakt.tv/shows/71922"
+    }
+  }
+}

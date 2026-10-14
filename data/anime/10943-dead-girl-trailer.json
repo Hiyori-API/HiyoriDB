@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10943,
+  "slug": "dead-girl-trailer",
+  "kind": "anime",
+  "title": "DEAD GIRL Trailer",
+  "titles": {
+    "default": "DEAD GIRL Trailer",
+    "romaji": "DEAD GIRL Trailer",
+    "english": "Dead Girl Trailer",
+    "native": "DEAD GIRL Trailer（デッド・ガール トレーラー）"
+  },
+  "synonyms": [
+    "DEAD GIRL Trailer",
+    "Dead Girl Trailer",
+    "DEAD GIRL Trailer（デッド・ガール トレーラー）"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16602.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "16602",
+      "url": "https://anilist.co/anime/16602"
+    },
+    "k": {
+      "id": "7470",
+      "url": "https://kitsu.io/anime/7470"
+    },
+    "mal": {
+      "id": "16602",
+      "url": "https://myanimelist.net/anime/16602"
+    }
+  }
+}

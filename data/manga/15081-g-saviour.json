@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15081,
+  "slug": "g-saviour",
+  "kind": "manga",
+  "title": "G-SAVIOUR",
+  "titles": {
+    "default": "G-SAVIOUR"
+  },
+  "synonyms": [
+    "Gセイバー",
+    "G-SAVIOUR",
+    "Maburaho",
+    "まぶらほ",
+    "Maburaho Tanpen"
+  ],
+  "type": "novel",
+  "chapters": 11,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx144234-e3utLvf643gT.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "89",
+      "url": "https://anilist.co/anime/89"
+    },
+    "al_manga": {
+      "id": "89",
+      "url": "https://anilist.co/manga/89"
+    }
+  }
+}

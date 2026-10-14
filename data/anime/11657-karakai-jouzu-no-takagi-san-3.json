@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11657,
+  "slug": "karakai-jouzu-no-takagi-san-3",
+  "kind": "anime",
+  "title": "Karakai Jouzu no Takagi-san 3",
+  "titles": {
+    "default": "Karakai Jouzu no Takagi-san 3",
+    "romaji": "Karakai Jouzu no Takagi-san 3",
+    "english": "Teasing Master Takagi-san Season 3",
+    "native": "からかい上手の高木さん３"
+  },
+  "synonyms": [
+    "Karakai Jouzu no Takagi-san 3",
+    "Teasing Master Takagi-san Season 3",
+    "からかい上手の高木さん３",
+    "แกล้งนัก รักนะรู้ยัง ภาค 3",
+    "Skilled Teaser Takagi-san 3rd Season",
+    "Karakai Jouzu no Takagi-san Third Season",
+    "Teasing Master Takagi-san 3",
+    "からかい上手の高木さん3"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx138424-97Nz1P7M3O2d.png"
+  ],
+  "references": {
+    "al": {
+      "id": "138424",
+      "url": "https://anilist.co/anime/138424"
+    },
+    "mal": {
+      "id": "49721",
+      "url": "https://myanimelist.net/anime/49721"
+    },
+    "tx": {
+      "id": "takagi3_anime",
+      "url": "https://twitter.com/takagi3_anime"
+    }
+  }
+}

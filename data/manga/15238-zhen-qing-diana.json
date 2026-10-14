@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15238,
+  "slug": "zhen-qing-diana",
+  "kind": "manga",
+  "title": "Zhen Qing Diana",
+  "titles": {
+    "default": "Zhen Qing Diana"
+  },
+  "synonyms": [
+    "Queen of the True Heart",
+    "Princess Diana",
+    "真情黛安娜",
+    "Mushrambo",
+    "マシュランボー",
+    "Mashuranboo"
+  ],
+  "type": "manga",
+  "chapters": 24,
+  "volumes": 3,
+  "status": "finished",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx40516-vF0IbOojD2PR.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12165",
+      "url": "https://anilist.co/anime/12165"
+    },
+    "al_manga": {
+      "id": "12165",
+      "url": "https://anilist.co/manga/12165"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5203,
+  "slug": "don-gokudou-suikoden",
+  "kind": "anime",
+  "title": "Don: Gokudou Suikoden",
+  "titles": {
+    "default": "Don: Gokudou Suikoden",
+    "romaji": "Don: Gokudou Suikoden",
+    "native": "ドン 極道水滸伝"
+  },
+  "synonyms": [
+    "Don: Gokudou Suikoden",
+    "ドン 極道水滸伝"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18451.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "18451",
+      "url": "https://anilist.co/anime/18451"
+    },
+    "k": {
+      "id": "9245",
+      "url": "https://kitsu.io/anime/9245"
+    },
+    "mal": {
+      "id": "18451",
+      "url": "https://myanimelist.net/anime/18451"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2862,
+  "slug": "jokuana",
+  "kind": "anime",
+  "title": "Jokuana",
+  "titles": {
+    "default": "Jokuana",
+    "romaji": "Jokuana",
+    "english": "Horny Ladies And The News",
+    "native": "辱アナ"
+  },
+  "synonyms": [
+    "Jokuana",
+    "Horny Ladies And The News",
+    "辱アナ",
+    "Sousei no Aquarion OVA",
+    "ＯＶＡ『創星のアクエリオン』",
+    "Genesis of Aquarion OVA",
+    "Sousei no Aquarion: Uragiri no Tsubasa",
+    "Sousei no Aquarion: Taiyou no Tsubasa"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3334.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3334",
+      "url": "https://anilist.co/anime/3334"
+    },
+    "k": {
+      "id": "1965",
+      "url": "https://kitsu.io/anime/1965"
+    },
+    "mal": {
+      "id": "3334",
+      "url": "https://myanimelist.net/anime/3334"
+    }
+  }
+}

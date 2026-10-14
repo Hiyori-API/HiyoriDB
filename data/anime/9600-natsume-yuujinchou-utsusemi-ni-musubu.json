@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9600,
+  "slug": "natsume-yuujinchou-utsusemi-ni-musubu",
+  "kind": "anime",
+  "title": "Natsume Yuujinchou: Utsusemi ni Musubu",
+  "titles": {
+    "default": "Natsume Yuujinchou: Utsusemi ni Musubu",
+    "romaji": "Natsume Yuujinchou: Utsusemi ni Musubu",
+    "english": "Natsume's Book of Friends the Movie: Ephemeral Bond",
+    "native": "劇場版 夏目友人帳 ～うつせみに結ぶ～"
+  },
+  "synonyms": [
+    "Natsume Yuujinchou: Utsusemi ni Musubu",
+    "Natsume's Book of Friends the Movie: Ephemeral Bond",
+    "劇場版 夏目友人帳 ～うつせみに結ぶ～",
+    "Mint",
+    "MINT"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100268-SUZCprpenPzC.png"
+  ],
+  "references": {
+    "al": {
+      "id": "100268",
+      "url": "https://anilist.co/anime/100268"
+    },
+    "k": {
+      "id": "8098",
+      "url": "https://kitsu.io/anime/8098"
+    },
+    "mal": {
+      "id": "36538",
+      "url": "https://myanimelist.net/anime/36538"
+    },
+    "tx": {
+      "id": "NatsumeYujincho",
+      "url": "https://twitter.com/NatsumeYujincho"
+    }
+  }
+}

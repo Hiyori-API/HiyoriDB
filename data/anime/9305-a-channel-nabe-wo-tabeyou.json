@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9305,
+  "slug": "a-channel-nabe-wo-tabeyou",
+  "kind": "anime",
+  "title": "A-Channel: Nabe wo Tabeyou",
+  "titles": {
+    "default": "A-Channel: Nabe wo Tabeyou",
+    "romaji": "A-Channel: Nabe wo Tabeyou",
+    "native": "Aチャンネル 鍋を食べよう"
+  },
+  "synonyms": [
+    "A-Channel: Nabe wo Tabeyou",
+    "Aチャンネル 鍋を食べよう",
+    "KonoSuba: God's Blessing on This Wonderful World! Second Season OVA",
+    "Kono Subarashii Sekai ni Shukufuku wo! 2 OVA",
+    "KonoSuba: God's Blessing on This Wonderful World! 2 - God's Blessing on This Wonderful Art!",
+    "この素晴らしい世界に祝福を！2 この素晴らしい芸術に祝福を！",
+    "Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98897-KIHgLQFPYtzk.png"
+  ],
+  "references": {
+    "al": {
+      "id": "98897",
+      "url": "https://anilist.co/anime/98897"
+    },
+    "mal": {
+      "id": "35285",
+      "url": "https://myanimelist.net/anime/35285"
+    }
+  }
+}

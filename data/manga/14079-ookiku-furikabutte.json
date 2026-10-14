@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14079,
+  "slug": "ookiku-furikabutte",
+  "kind": "manga",
+  "title": "Ookiku Furikabutte",
+  "titles": {
+    "default": "Ookiku Furikabutte"
+  },
+  "synonyms": [
+    "Oofuri",
+    "크게 휘두르며",
+    "おおきく振りかぶって",
+    "Yotsuba&!",
+    "Yotsubato!",
+    "よつばと!"
+  ],
+  "type": "manga",
+  "status": "publishing",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30994-ByzAh6hMmSAQ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "9124",
+      "url": "https://anilist.co/anime/2159"
+    },
+    "al_manga": {
+      "id": "9124",
+      "url": "https://anilist.co/manga/9124"
+    }
+  }
+}

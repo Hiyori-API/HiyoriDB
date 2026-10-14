@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 454,
+  "slug": "akahori-gedou-hour-rabuge",
+  "kind": "anime",
+  "title": "Akahori Gedou Hour Rabuge",
+  "titles": {
+    "default": "Akahori Gedou Hour Rabuge",
+    "romaji": "Akahori Gedou Hour Rabuge",
+    "native": "あかほり外道アワーらぶげ"
+  },
+  "synonyms": [
+    "Akahori Gedou Hour Rabuge",
+    "あかほり外道アワーらぶげ",
+    "Soreyuke! Gedou Otometai",
+    "それゆけ!外道乙女隊",
+    "Zettai Seigi Love Pheromone",
+    "絶対正義ラブフェロモン",
+    "Akahori's Heretical Hour Love Game",
+    "Akahori Gedou Hour Love Game",
+    "Absolute Justice Love Pheromone"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/491.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "491",
+      "url": "https://anilist.co/anime/491"
+    },
+    "k": {
+      "id": "280",
+      "url": "https://kitsu.io/anime/280"
+    },
+    "mal": {
+      "id": "309",
+      "url": "https://myanimelist.net/anime/309"
+    },
+    "t": {
+      "id": "35613",
+      "url": "https://trakt.tv/shows/35613"
+    }
+  }
+}

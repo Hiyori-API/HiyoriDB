@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11851,
+  "slug": "spogomi-world-cup-exhibition-match-hen",
+  "kind": "anime",
+  "title": "SpoGOMI: World Cup Exhibition Match-hen",
+  "titles": {
+    "default": "SpoGOMI: World Cup Exhibition Match-hen",
+    "romaji": "SpoGOMI: World Cup Exhibition Match-hen",
+    "english": "SpoGomi: World Cup Exhibition Match Arc",
+    "native": "スポGOMI ワールドカップエキシビジョンマッチ編"
+  },
+  "synonyms": [
+    "SpoGOMI: World Cup Exhibition Match-hen",
+    "SpoGomi: World Cup Exhibition Match Arc",
+    "スポGOMI ワールドカップエキシビジョンマッチ編",
+    "通称スポGOMI",
+    "ミルキー☆ハイウェイ",
+    "Milky☆Highway"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146485-ofJk9so978Np.png"
+  ],
+  "references": {
+    "al": {
+      "id": "146485",
+      "url": "https://anilist.co/anime/146485"
+    },
+    "mal": {
+      "id": "51300",
+      "url": "https://myanimelist.net/anime/51300"
+    },
+    "yt": {
+      "id": "s6NkmWREhFU",
+      "url": "https://www.youtube.com/watch?v=s6NkmWREhFU"
+    }
+  }
+}

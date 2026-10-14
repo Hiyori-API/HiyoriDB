@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 472,
+  "slug": "kidou-shinsengumi-moeyo-ken-tv",
+  "kind": "anime",
+  "title": "Kidou Shinsengumi Moeyo Ken TV",
+  "titles": {
+    "default": "Kidou Shinsengumi Moeyo Ken TV",
+    "romaji": "Kidou Shinsengumi Moeyo Ken TV",
+    "english": "Moeyo Ken",
+    "native": "機動新撰組 萌えよ剣 TV"
+  },
+  "synonyms": [
+    "Kidou Shinsengumi Moeyo Ken TV",
+    "Moeyo Ken",
+    "機動新撰組 萌えよ剣 TV",
+    "Moeyo Ken TV"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx511-43ox4BGQCBoh.png"
+  ],
+  "references": {
+    "al": {
+      "id": "511",
+      "url": "https://anilist.co/anime/511"
+    },
+    "cr": {
+      "id": "moeyo-ken",
+      "url": "https://www.crunchyroll.com/series/moeyo-ken"
+    },
+    "k": {
+      "id": "470",
+      "url": "https://kitsu.io/anime/470"
+    },
+    "mal": {
+      "id": "511",
+      "url": "https://myanimelist.net/anime/511"
+    },
+    "t": {
+      "id": "65340",
+      "url": "https://trakt.tv/shows/65340"
+    }
+  }
+}

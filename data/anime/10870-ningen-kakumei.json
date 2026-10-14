@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10870,
+  "slug": "ningen-kakumei",
+  "kind": "anime",
+  "title": "Ningen Kakumei",
+  "titles": {
+    "default": "Ningen Kakumei",
+    "romaji": "Ningen Kakumei",
+    "native": "人間革命"
+  },
+  "synonyms": [
+    "Ningen Kakumei",
+    "人間革命",
+    "The Human Revolution"
+  ],
+  "type": "ova",
+  "episodes": 20,
+  "status": "finished",
+  "season": "winter",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141266-2f6z4PbjL7Qg.png"
+  ],
+  "references": {
+    "al": {
+      "id": "141266",
+      "url": "https://anilist.co/anime/141266"
+    },
+    "k": {
+      "id": "8702",
+      "url": "https://kitsu.io/anime/8702"
+    },
+    "mal": {
+      "id": "22325",
+      "url": "https://myanimelist.net/anime/22325"
+    }
+  }
+}

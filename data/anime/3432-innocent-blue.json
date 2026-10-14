@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3432,
+  "slug": "innocent-blue",
+  "kind": "anime",
+  "title": "Innocent Blue",
+  "titles": {
+    "default": "Innocent Blue",
+    "romaji": "Innocent Blue"
+  },
+  "synonyms": [
+    "Innocent Blue",
+    "Innocent Blue Karte",
+    "Innocent Blue: Clinical Records",
+    "School Rumble Ichi Gakki Hoshuu",
+    "スクールランブル一学期補習",
+    "School Rumble OVA",
+    "School Rumble: First Extra Term"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4356.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4356",
+      "url": "https://anilist.co/anime/4356"
+    },
+    "k": {
+      "id": "476",
+      "url": "https://kitsu.io/anime/476"
+    },
+    "mal": {
+      "id": "4356",
+      "url": "https://myanimelist.net/anime/4356"
+    }
+  }
+}

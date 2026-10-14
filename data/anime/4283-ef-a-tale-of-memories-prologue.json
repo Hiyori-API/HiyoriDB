@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4283,
+  "slug": "ef-a-tale-of-memories-prologue",
+  "kind": "anime",
+  "title": "ef: a tale of memories. - prologue",
+  "titles": {
+    "default": "ef: a tale of memories. - prologue",
+    "romaji": "ef: a tale of memories. - prologue",
+    "native": "ef - a tale of memories. ~prologue~"
+  },
+  "synonyms": [
+    "ef: a tale of memories. - prologue",
+    "ef - a tale of memories. ~prologue~",
+    "ef: A Tale of Memories. - Prologue"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6361-T1mOUXwdvWIu.png"
+  ],
+  "references": {
+    "al": {
+      "id": "6361",
+      "url": "https://anilist.co/anime/6361"
+    },
+    "k": {
+      "id": "4531",
+      "url": "https://kitsu.io/anime/4531"
+    },
+    "mal": {
+      "id": "6361",
+      "url": "https://myanimelist.net/anime/6361"
+    }
+  }
+}

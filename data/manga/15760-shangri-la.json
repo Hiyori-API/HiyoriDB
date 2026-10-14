@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15760,
+  "slug": "shangri-la",
+  "kind": "manga",
+  "title": "Shangri-La",
+  "titles": {
+    "default": "Shangri-La"
+  },
+  "synonyms": [
+    "シャングリ・ラ",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "volumes": 4,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx51544-qsqOGdRNWvdr.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5220",
+      "url": "https://anilist.co/anime/5220"
+    },
+    "al_manga": {
+      "id": "5220",
+      "url": "https://anilist.co/manga/5220"
+    }
+  }
+}

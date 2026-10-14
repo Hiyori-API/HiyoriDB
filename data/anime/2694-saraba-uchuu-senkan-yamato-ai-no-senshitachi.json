@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2694,
+  "slug": "saraba-uchuu-senkan-yamato-ai-no-senshitachi",
+  "kind": "anime",
+  "title": "Saraba Uchuu Senkan Yamato: Ai no Senshitachi",
+  "titles": {
+    "default": "Saraba Uchuu Senkan Yamato: Ai no Senshitachi",
+    "romaji": "Saraba Uchuu Senkan Yamato: Ai no Senshitachi",
+    "english": "Farewell to Space Battleship Yamato: In the Name of Love",
+    "native": "さらば宇宙戦艦ヤマト 愛の戦士たち"
+  },
+  "synonyms": [
+    "Saraba Uchuu Senkan Yamato: Ai no Senshitachi",
+    "Farewell to Space Battleship Yamato: In the Name of Love",
+    "さらば宇宙戦艦ヤマト 愛の戦士たち",
+    "Arrivederci Space Cruiser Yamato: Soldiers Of Love",
+    "Farewell Space Battleship Yamato: Warriors of Love",
+    "Saraba Uchuu Senkan Yamato: Ai no Senshi-tachi",
+    "さらば宇宙戦艦ヤマト・愛の戦士たち"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1978,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx3067-qHiEdy4tGsHM.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3067",
+      "url": "https://anilist.co/anime/3067"
+    },
+    "k": {
+      "id": "2766",
+      "url": "https://kitsu.io/anime/2766"
+    },
+    "mal": {
+      "id": "3067",
+      "url": "https://myanimelist.net/anime/3067"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2290,
+  "slug": "soukou-kihei-votoms-kakuyaku-taru-itan",
+  "kind": "anime",
+  "title": "Soukou Kihei Votoms: Kakuyaku taru Itan",
+  "titles": {
+    "default": "Soukou Kihei Votoms: Kakuyaku taru Itan",
+    "romaji": "Soukou Kihei Votoms: Kakuyaku taru Itan",
+    "english": "Armored Trooper VOTOMS: Brilliantly Shining Heresy",
+    "native": "装甲騎兵ボトムズ 赫奕たる異端"
+  },
+  "synonyms": [
+    "Soukou Kihei Votoms: Kakuyaku taru Itan",
+    "Armored Trooper VOTOMS: Brilliantly Shining Heresy",
+    "装甲騎兵ボトムズ 赫奕たる異端",
+    "Armored Trooper Votoms: The Defrost",
+    "Armored Trooper Votoms: The Heretic Saint",
+    "The Brilliant Heretic",
+    "Armored Trooper Votoms: Brilliantly Shining Heresy",
+    "Armored Trooper Votoms: Shining Heresy",
+    "Armored Trooper Votoms - Kakueki taru Itan"
+  ],
+  "type": "ova",
+  "episodes": 5,
+  "status": "finished",
+  "season": "spring",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2586.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2586",
+      "url": "https://anilist.co/anime/2586"
+    },
+    "k": {
+      "id": "2351",
+      "url": "https://kitsu.io/anime/2351"
+    },
+    "mal": {
+      "id": "2586",
+      "url": "https://myanimelist.net/anime/2586"
+    }
+  }
+}

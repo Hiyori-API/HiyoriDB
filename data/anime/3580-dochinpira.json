@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3580,
+  "slug": "dochinpira",
+  "kind": "anime",
+  "title": "Dochinpira",
+  "titles": {
+    "default": "Dochinpira",
+    "romaji": "Dochinpira",
+    "english": "The Gigolo: Dochinpira",
+    "native": "どチンピラ"
+  },
+  "synonyms": [
+    "Dochinpira",
+    "The Gigolo: Dochinpira",
+    "どチンピラ",
+    "Suikoden Demon Century",
+    "Youseiki Suikoden",
+    "妖世紀水滸伝"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4693.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4693",
+      "url": "https://anilist.co/anime/4693"
+    },
+    "k": {
+      "id": "1586",
+      "url": "https://kitsu.io/anime/1586"
+    },
+    "mal": {
+      "id": "4693",
+      "url": "https://myanimelist.net/anime/4693"
+    }
+  }
+}

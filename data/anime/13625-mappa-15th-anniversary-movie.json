@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13625,
+  "slug": "mappa-15th-anniversary-movie",
+  "kind": "anime",
+  "title": "MAPPA 15th Anniversary Movie",
+  "titles": {
+    "default": "MAPPA 15th Anniversary Movie",
+    "romaji": "MAPPA 15th Anniversary Movie"
+  },
+  "synonyms": [
+    "MAPPA 15th Anniversary Movie",
+    "生活",
+    "Seikatsu",
+    "生活（MAPPA 15th Anniversary ver.）",
+    "Love Hina Spring Movie",
+    "Love Hina Haru Special: Kimi Sakura Chiru Nakare!!",
+    "ラブひな春スペシャル 〜キミサクラチルナカレ!!〜",
+    "Love Hina Spring Special"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b213343-vT9cjnigEViy.png"
+  ],
+  "references": {
+    "al": {
+      "id": "213343",
+      "url": "https://anilist.co/anime/213343"
+    },
+    "k": {
+      "id": "169",
+      "url": "https://kitsu.io/anime/169"
+    },
+    "mal": {
+      "id": "192",
+      "url": "https://myanimelist.net/anime/192"
+    },
+    "yt": {
+      "id": "l_yujzqjp0M",
+      "url": "https://www.youtube.com/watch?v=l_yujzqjp0M"
+    }
+  }
+}

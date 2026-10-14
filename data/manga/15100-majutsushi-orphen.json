@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15100,
+  "slug": "majutsushi-orphen",
+  "kind": "manga",
+  "title": "Majutsushi Orphen",
+  "titles": {
+    "default": "Majutsushi Orphen"
+  },
+  "synonyms": [
+    "Orphen",
+    "Majutsushi Orphen Haguretabi",
+    "Sorcerous Stabber Orphen: The Wayward Journey",
+    "魔術士オーフェン",
+    "The Summer of the Ubume",
+    "Ubume no Natsu",
+    "姑獲鳥の夏"
+  ],
+  "type": "novel",
+  "chapters": 200,
+  "volumes": 20,
+  "status": "finished",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx69745-NNIsBqIUHMcY.png"
+  ],
+  "references": {
+    "al": {
+      "id": "163417",
+      "url": "https://anilist.co/anime/1017"
+    },
+    "al_manga": {
+      "id": "163417",
+      "url": "https://anilist.co/manga/163417"
+    }
+  }
+}

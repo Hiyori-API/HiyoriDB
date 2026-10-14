@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11058,
+  "slug": "monster-strike",
+  "kind": "anime",
+  "title": "Monster Strike",
+  "titles": {
+    "default": "Monster Strike",
+    "romaji": "Monster Strike",
+    "english": "Monster Strike the Animation",
+    "native": "モンスターストライク"
+  },
+  "synonyms": [
+    "Monster Strike",
+    "Monster Strike the Animation",
+    "モンスターストライク",
+    "Monster Strike 2016"
+  ],
+  "type": "ona",
+  "episodes": 51,
+  "status": "finished",
+  "season": "fall",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21288-CQPPiut9ztLO.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21288",
+      "url": "https://anilist.co/anime/21288"
+    },
+    "cr": {
+      "id": "monster-strike",
+      "url": "https://www.crunchyroll.com/series/monster-strike"
+    },
+    "mal": {
+      "id": "30757",
+      "url": "https://myanimelist.net/anime/30757"
+    },
+    "tx": {
+      "id": "monst_animation",
+      "url": "https://twitter.com/monst_animation"
+    }
+  }
+}

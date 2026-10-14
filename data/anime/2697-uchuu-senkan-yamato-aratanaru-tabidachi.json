@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2697,
+  "slug": "uchuu-senkan-yamato-aratanaru-tabidachi",
+  "kind": "anime",
+  "title": "Uchuu Senkan Yamato: Aratanaru Tabidachi",
+  "titles": {
+    "default": "Uchuu Senkan Yamato: Aratanaru Tabidachi",
+    "romaji": "Uchuu Senkan Yamato: Aratanaru Tabidachi",
+    "english": "Space Battleship Yamato: The New Voyage",
+    "native": "宇宙戦艦ヤマト 新たなる旅立ち"
+  },
+  "synonyms": [
+    "Uchuu Senkan Yamato: Aratanaru Tabidachi",
+    "Space Battleship Yamato: The New Voyage",
+    "宇宙戦艦ヤマト 新たなる旅立ち"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1979,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3071-hoAZ5A2dKdHS.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3071",
+      "url": "https://anilist.co/anime/3071"
+    },
+    "k": {
+      "id": "2769",
+      "url": "https://kitsu.io/anime/2769"
+    },
+    "mal": {
+      "id": "3071",
+      "url": "https://myanimelist.net/anime/3071"
+    }
+  }
+}

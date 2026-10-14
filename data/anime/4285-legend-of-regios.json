@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4285,
+  "slug": "legend-of-regios",
+  "kind": "anime",
+  "title": "Legend of Regios",
+  "titles": {
+    "default": "Legend of Regios",
+    "romaji": "Legend of Regios",
+    "native": "レジェンド・オブ・レギオス"
+  },
+  "synonyms": [
+    "Legend of Regios",
+    "レジェンド・オブ・レギオス",
+    "Chrome Shelled Regios: Legend of Regios",
+    "Koukaku no Regios: Legend of Regios",
+    "Hanasakeru Seishounen Recaps",
+    "花咲ける青少年",
+    "Hanasakeru Seishonen Specials"
+  ],
+  "type": "special",
+  "episodes": 3,
+  "status": "finished",
+  "season": "spring",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6368.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6368",
+      "url": "https://anilist.co/anime/6368"
+    },
+    "k": {
+      "id": "4685",
+      "url": "https://kitsu.io/anime/4685"
+    },
+    "mal": {
+      "id": "6368",
+      "url": "https://myanimelist.net/anime/6368"
+    }
+  }
+}

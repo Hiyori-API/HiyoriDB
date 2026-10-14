@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 486,
+  "slug": "otogizoushi",
+  "kind": "anime",
+  "title": "Otogizoushi",
+  "titles": {
+    "default": "Otogizoushi",
+    "romaji": "Otogizoushi",
+    "english": "Otogi Zoshi: The Legend of Magatama",
+    "native": "お伽草子"
+  },
+  "synonyms": [
+    "Otogizoushi",
+    "Otogi Zoshi: The Legend of Magatama",
+    "お伽草子",
+    "Fairytale Book",
+    "Древняя легенда",
+    "御伽草子"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "summer",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx525-rNyfYmeg2nU4.png"
+  ],
+  "references": {
+    "al": {
+      "id": "525",
+      "url": "https://anilist.co/anime/525"
+    },
+    "k": {
+      "id": "484",
+      "url": "https://kitsu.io/anime/484"
+    },
+    "mal": {
+      "id": "525",
+      "url": "https://myanimelist.net/anime/525"
+    },
+    "t": {
+      "id": "34590",
+      "url": "https://trakt.tv/shows/34590"
+    }
+  }
+}

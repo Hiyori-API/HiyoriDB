@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13048,
+  "slug": "ore-wa-seikan-kokka-no-akutoku-ryoushu",
+  "kind": "anime",
+  "title": "Ore wa Seikan Kokka no Akutoku Ryoushu!",
+  "titles": {
+    "default": "Ore wa Seikan Kokka no Akutoku Ryoushu!",
+    "romaji": "Ore wa Seikan Kokka no Akutoku Ryoushu!",
+    "english": "I'm the Evil Lord of an Intergalactic Empire!",
+    "native": "俺は星間国家の悪徳領主!"
+  },
+  "synonyms": [
+    "Ore wa Seikan Kokka no Akutoku Ryoushu!",
+    "I'm the Evil Lord of an Intergalactic Empire!",
+    "俺は星間国家の悪徳領主!",
+    "OreAku",
+    "我是星際國家的惡德領主！",
+    "Aku Bangsawan Korup di Kekaisaran Antargalaksi!",
+    "This Ugly Yet Beautiful World",
+    "Kono Minikuku mo Utsukushii Sekai",
+    "この醜くも美しい世界"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183274-zqrwevS4PBJF.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "183274",
+      "url": "https://anilist.co/anime/183274"
+    },
+    "cr": {
+      "id": "series/G79H23ZE3/im-the-evil-lord-of-an-intergalactic-empire",
+      "url": "https://www.crunchyroll.com/series/series/G79H23ZE3/im-the-evil-lord-of-an-intergalactic-empire"
+    },
+    "k": {
+      "id": "124",
+      "url": "https://kitsu.io/anime/124"
+    },
+    "mal": {
+      "id": "60154",
+      "url": "https://myanimelist.net/anime/60154"
+    },
+    "t": {
+      "id": "34001",
+      "url": "https://trakt.tv/shows/34001"
+    }
+  }
+}

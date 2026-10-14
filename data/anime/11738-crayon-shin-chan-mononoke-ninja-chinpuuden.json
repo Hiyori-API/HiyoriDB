@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11738,
+  "slug": "crayon-shin-chan-mononoke-ninja-chinpuuden",
+  "kind": "anime",
+  "title": "Crayon Shin-chan: Mononoke Ninja Chinpuuden",
+  "titles": {
+    "default": "Crayon Shin-chan: Mononoke Ninja Chinpuuden",
+    "romaji": "Crayon Shin-chan: Mononoke Ninja Chinpuuden",
+    "english": "Crayon Shinchan the Movie: The Tornado Legend of Ninja Mononoke",
+    "native": "映画クレヨンしんちゃん もののけニンジャ珍風伝"
+  },
+  "synonyms": [
+    "Crayon Shin-chan: Mononoke Ninja Chinpuuden",
+    "Crayon Shinchan the Movie: The Tornado Legend of Ninja Mononoke",
+    "映画クレヨンしんちゃん もののけニンジャ珍風伝",
+    "Shin - Cậu Bé Bút Chì: Truyền Thuyết Nhẫn Thuật Ninja",
+    "Magical Circle Guru Guru Movie",
+    "Mahoujin Guru Guru Movie",
+    "魔法陣グルグル",
+    "The Pickle of Happiness"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142549-SNJu3dSJrM9l.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "142549",
+      "url": "https://anilist.co/anime/142549"
+    },
+    "k": {
+      "id": "710",
+      "url": "https://kitsu.io/anime/710"
+    },
+    "mal": {
+      "id": "50562",
+      "url": "https://myanimelist.net/anime/50562"
+    },
+    "tx": {
+      "id": "crayon_official",
+      "url": "https://twitter.com/crayon_official"
+    }
+  }
+}

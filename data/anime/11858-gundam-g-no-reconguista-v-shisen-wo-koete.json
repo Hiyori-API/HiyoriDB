@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11858,
+  "slug": "gundam-g-no-reconguista-v-shisen-wo-koete",
+  "kind": "anime",
+  "title": "Gundam: G no Reconguista V - Shisen wo Koete",
+  "titles": {
+    "default": "Gundam: G no Reconguista V - Shisen wo Koete",
+    "romaji": "Gundam: G no Reconguista V - Shisen wo Koete",
+    "native": "Ｇのレコンギスタ Ⅴ 死線を越えて"
+  },
+  "synonyms": [
+    "Gundam: G no Reconguista V - Shisen wo Koete",
+    "Ｇのレコンギスタ Ⅴ 死線を越えて",
+    "G-Reco Movie 5",
+    "Reconguista in G the Movie Ⅴ Crossing the Line Between Life and Death",
+    "Space Battleship Yamato",
+    "Uchuu Senkan Yamato (Movie)",
+    "宇宙戦艦ヤマト"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146632-sPKVurrvpARa.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "146632",
+      "url": "https://anilist.co/anime/146632"
+    },
+    "k": {
+      "id": "645",
+      "url": "https://kitsu.io/anime/645"
+    },
+    "mal": {
+      "id": "43206",
+      "url": "https://myanimelist.net/anime/43206"
+    },
+    "tx": {
+      "id": "gundam_reco",
+      "url": "https://twitter.com/gundam_reco"
+    }
+  }
+}

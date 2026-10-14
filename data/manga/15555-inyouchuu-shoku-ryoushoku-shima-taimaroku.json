@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15555,
+  "slug": "inyouchuu-shoku-ryoushoku-shima-taimaroku",
+  "kind": "manga",
+  "title": "Inyouchuu Shoku: Ryoushoku Shima Taimaroku",
+  "titles": {
+    "default": "Inyouchuu Shoku: Ryoushoku Shima Taimaroku"
+  },
+  "synonyms": [
+    "淫妖蟲 蝕 ～凌触島退魔録～",
+    "Ladies versus Butlers!",
+    "れでぃ×ばと!",
+    "Redei Bato!",
+    "Redei x Bato",
+    "Ladies vs Butlers!"
+  ],
+  "type": "novel",
+  "chapters": 8,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/89124-ZYtZBk3QZxlE.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "99349",
+      "url": "https://anilist.co/anime/4057"
+    },
+    "al_manga": {
+      "id": "99349",
+      "url": "https://anilist.co/manga/99349"
+    }
+  }
+}

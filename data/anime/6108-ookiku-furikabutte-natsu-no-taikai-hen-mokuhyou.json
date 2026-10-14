@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6108,
+  "slug": "ookiku-furikabutte-natsu-no-taikai-hen-mokuhyou",
+  "kind": "anime",
+  "title": "Ookiku Furikabutte: Natsu no Taikai-hen - Mokuhyou",
+  "titles": {
+    "default": "Ookiku Furikabutte: Natsu no Taikai-hen - Mokuhyou",
+    "romaji": "Ookiku Furikabutte: Natsu no Taikai-hen - Mokuhyou",
+    "english": "Big Windup! 2: Goals",
+    "native": "おおきく振りかぶって 〜夏の大会編〜 目標"
+  },
+  "synonyms": [
+    "Ookiku Furikabutte: Natsu no Taikai-hen - Mokuhyou",
+    "Big Windup! 2: Goals",
+    "おおきく振りかぶって 〜夏の大会編〜 目標",
+    "Ookiku Furikabutte: Natsu no Taikai-hen Episode 12.5",
+    "Major: Message",
+    "メジャー・メッセージ",
+    "Major OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9124-UwwsvXdeHNYV.png"
+  ],
+  "references": {
+    "al": {
+      "id": "9124",
+      "url": "https://anilist.co/anime/9124"
+    },
+    "k": {
+      "id": "5926",
+      "url": "https://kitsu.io/anime/5926"
+    },
+    "mal": {
+      "id": "9124",
+      "url": "https://myanimelist.net/anime/9124"
+    }
+  }
+}

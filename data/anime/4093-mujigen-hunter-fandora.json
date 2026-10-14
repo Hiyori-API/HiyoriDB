@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4093,
+  "slug": "mujigen-hunter-fandora",
+  "kind": "anime",
+  "title": "Mujigen Hunter Fandora",
+  "titles": {
+    "default": "Mujigen Hunter Fandora",
+    "romaji": "Mujigen Hunter Fandora",
+    "english": "Dream Dimension Hunter Fandora",
+    "native": "夢次元ハンターファンドラ"
+  },
+  "synonyms": [
+    "Mujigen Hunter Fandora",
+    "Dream Dimension Hunter Fandora",
+    "夢次元ハンターファンドラ",
+    "Fandora",
+    "Yume Jigen Hunter Fandora"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "fall",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5907-gqV5dMIqXH13.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5907",
+      "url": "https://anilist.co/anime/5907"
+    },
+    "k": {
+      "id": "4330",
+      "url": "https://kitsu.io/anime/4330"
+    },
+    "mal": {
+      "id": "5907",
+      "url": "https://myanimelist.net/anime/5907"
+    }
+  }
+}

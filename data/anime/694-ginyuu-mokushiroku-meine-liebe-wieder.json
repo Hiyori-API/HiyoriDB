@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 694,
+  "slug": "ginyuu-mokushiroku-meine-liebe-wieder",
+  "kind": "anime",
+  "title": "Ginyuu Mokushiroku Meine Liebe Wieder",
+  "titles": {
+    "default": "Ginyuu Mokushiroku Meine Liebe Wieder",
+    "romaji": "Ginyuu Mokushiroku Meine Liebe Wieder",
+    "native": "吟遊黙示録マイネリーベ ヴィーダー"
+  },
+  "synonyms": [
+    "Ginyuu Mokushiroku Meine Liebe Wieder",
+    "吟遊黙示録マイネリーベ ヴィーダー",
+    "Meine Liebe Wieder"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx771-rWzZ1rFbMojP.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "771",
+      "url": "https://anilist.co/anime/771"
+    },
+    "k": {
+      "id": "692",
+      "url": "https://kitsu.io/anime/692"
+    },
+    "mal": {
+      "id": "771",
+      "url": "https://myanimelist.net/anime/771"
+    },
+    "t": {
+      "id": "34513",
+      "url": "https://trakt.tv/shows/34513"
+    }
+  }
+}

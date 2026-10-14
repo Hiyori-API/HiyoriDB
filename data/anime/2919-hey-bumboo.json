@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2919,
+  "slug": "hey-bumboo",
+  "kind": "anime",
+  "title": "Hey! Bumboo",
+  "titles": {
+    "default": "Hey! Bumboo",
+    "romaji": "Hey! Bumboo",
+    "english": "Bumpety Boo",
+    "native": "へーい！ブンブー"
+  },
+  "synonyms": [
+    "Hey! Bumboo",
+    "Bumpety Boo",
+    "へーい！ブンブー",
+    "bumboo",
+    "Hey! Bunbuu",
+    "Bumpty Boo"
+  ],
+  "type": "tv",
+  "episodes": 130,
+  "status": "finished",
+  "season": "spring",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3434.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3434",
+      "url": "https://anilist.co/anime/3434"
+    },
+    "k": {
+      "id": "3007",
+      "url": "https://kitsu.io/anime/3007"
+    },
+    "mal": {
+      "id": "3434",
+      "url": "https://myanimelist.net/anime/3434"
+    },
+    "t": {
+      "id": "74980",
+      "url": "https://trakt.tv/shows/74980"
+    }
+  }
+}

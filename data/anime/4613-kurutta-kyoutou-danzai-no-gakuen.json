@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4613,
+  "slug": "kurutta-kyoutou-danzai-no-gakuen",
+  "kind": "anime",
+  "title": "Kurutta Kyoutou: Danzai no Gakuen",
+  "titles": {
+    "default": "Kurutta Kyoutou: Danzai no Gakuen",
+    "romaji": "Kurutta Kyoutou: Danzai no Gakuen",
+    "native": "狂った教頭 断罪の学園"
+  },
+  "synonyms": [
+    "Kurutta Kyoutou: Danzai no Gakuen",
+    "狂った教頭 断罪の学園",
+    "Hayate no Gotoku!!: Atsu ga Natsuize - Mizugi-hen!",
+    "ハヤテのごとく!! アツがナツいぜ 水着編!",
+    "Hayate the Combat Butler!! Episode 0",
+    "Hayate no Gotoku!! OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7455.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7455",
+      "url": "https://anilist.co/anime/7455"
+    },
+    "k": {
+      "id": "4133",
+      "url": "https://kitsu.io/anime/4133"
+    },
+    "mal": {
+      "id": "7455",
+      "url": "https://myanimelist.net/anime/7455"
+    }
+  }
+}

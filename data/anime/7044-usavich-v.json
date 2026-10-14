@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7044,
+  "slug": "usavich-v",
+  "kind": "anime",
+  "title": "Usavich V",
+  "titles": {
+    "default": "Usavich V",
+    "romaji": "Usavich V",
+    "native": "ウサビッチ V"
+  },
+  "synonyms": [
+    "Usavich V",
+    "ウサビッチ V",
+    "Usavich 5",
+    "Kill Me Baby",
+    "キルミーベイベー",
+    "Baby",
+    "Please Kill Me."
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16347-le1eOs1RheUl.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "16347",
+      "url": "https://anilist.co/anime/16347"
+    },
+    "k": {
+      "id": "6454",
+      "url": "https://kitsu.io/anime/6454"
+    },
+    "mal": {
+      "id": "16347",
+      "url": "https://myanimelist.net/anime/16347"
+    },
+    "t": {
+      "id": "65264",
+      "url": "https://trakt.tv/shows/65264"
+    }
+  }
+}

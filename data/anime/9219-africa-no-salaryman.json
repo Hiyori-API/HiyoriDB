@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9219,
+  "slug": "africa-no-salaryman",
+  "kind": "anime",
+  "title": "Africa no Salaryman",
+  "titles": {
+    "default": "Africa no Salaryman",
+    "romaji": "Africa no Salaryman",
+    "native": "アフリカのサラリーマン"
+  },
+  "synonyms": [
+    "Africa no Salaryman",
+    "アフリカのサラリーマン",
+    "Dam Keeper no Nakama-tachi",
+    "Pig: The Dam Keeper Poems",
+    "ピッグ - 丘の上のダム・キーパー",
+    "Pig: Oka no Ue no Dam Keeper"
+  ],
+  "type": "ona",
+  "episodes": 10,
+  "status": "finished",
+  "season": "spring",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98472-rzb9SI0lUPjP.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98472",
+      "url": "https://anilist.co/anime/98472"
+    },
+    "mal": {
+      "id": "35113",
+      "url": "https://myanimelist.net/anime/35113"
+    }
+  }
+}

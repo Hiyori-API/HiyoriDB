@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6623,
+  "slug": "gattai-robot-atranger",
+  "kind": "anime",
+  "title": "Gattai Robot Atranger",
+  "titles": {
+    "default": "Gattai Robot Atranger",
+    "romaji": "Gattai Robot Atranger",
+    "native": "合体ロボット アトランジャー"
+  },
+  "synonyms": [
+    "Gattai Robot Atranger",
+    "合体ロボット アトランジャー",
+    "Armored Trooper Votoms: Alone Again",
+    "Soukou Kihei Votoms: Koei Futatabi",
+    "装甲騎兵ボトムズ 孤影再び",
+    "Soko Kihei Votoms: Koei Futatabi",
+    "Armored Trooper VOTOMS: Chirico’s Return"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12451.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12451",
+      "url": "https://anilist.co/anime/12451"
+    },
+    "k": {
+      "id": "5270",
+      "url": "https://kitsu.io/anime/5270"
+    },
+    "mal": {
+      "id": "12451",
+      "url": "https://myanimelist.net/anime/12451"
+    }
+  }
+}

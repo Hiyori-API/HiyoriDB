@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4319,
+  "slug": "hoshi-wo-katta-hi",
+  "kind": "anime",
+  "title": "Hoshi wo Katta Hi",
+  "titles": {
+    "default": "Hoshi wo Katta Hi",
+    "romaji": "Hoshi wo Katta Hi",
+    "english": "The Day I Bought a Star",
+    "native": "星をかった日"
+  },
+  "synonyms": [
+    "Hoshi wo Katta Hi",
+    "The Day I Bought a Star",
+    "星をかった日",
+    "The Day I Harvested a Star",
+    "Le Jour où j'ai cultivé une étoile",
+    "The Day I Cropped a Star",
+    "The Day I Harvested a Planet"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6463-m2I4wH08C65j.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6463",
+      "url": "https://anilist.co/anime/6463"
+    },
+    "k": {
+      "id": "4570",
+      "url": "https://kitsu.io/anime/4570"
+    },
+    "mal": {
+      "id": "6463",
+      "url": "https://myanimelist.net/anime/6463"
+    }
+  }
+}

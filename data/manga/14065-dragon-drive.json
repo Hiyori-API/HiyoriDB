@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14065,
+  "slug": "dragon-drive",
+  "kind": "manga",
+  "title": "Dragon Drive",
+  "titles": {
+    "default": "Dragon Drive"
+  },
+  "synonyms": [
+    "Dragon Drive",
+    "ドラゴンドライブ",
+    "Full Moon wo Sagashite",
+    "満月〈フルムーン〉をさがして",
+    "Searching for the Full Moon",
+    "Ginyuu Meika"
+  ],
+  "type": "manga",
+  "chapters": 57,
+  "volumes": 14,
+  "status": "finished",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30935-uYD6Ahe8zR5U.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "296",
+      "url": "https://anilist.co/anime/296"
+    },
+    "al_manga": {
+      "id": "296",
+      "url": "https://anilist.co/manga/296"
+    }
+  }
+}

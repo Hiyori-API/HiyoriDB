@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15471,
+  "slug": "enbi",
+  "kind": "manga",
+  "title": "Enbi",
+  "titles": {
+    "default": "Enbi"
+  },
+  "synonyms": [
+    "Miyabi Tsuzuru Shoki Tanpenshuu",
+    "艶美 みやびつづる初期短編集",
+    "Renai Soukanzu",
+    "恋愛相姦図",
+    "Renai Sokanzu",
+    "Pink Sweets"
+  ],
+  "type": "manga",
+  "chapters": 12,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/95305-WWowcL7ytyao.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21278",
+      "url": "https://anilist.co/anime/21278"
+    },
+    "al_manga": {
+      "id": "21278",
+      "url": "https://anilist.co/manga/21278"
+    }
+  }
+}

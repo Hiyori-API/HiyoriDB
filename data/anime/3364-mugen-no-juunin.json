@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3364,
+  "slug": "mugen-no-juunin",
+  "kind": "anime",
+  "title": "Mugen no Juunin",
+  "titles": {
+    "default": "Mugen no Juunin",
+    "romaji": "Mugen no Juunin",
+    "english": "Blade of the Immortal",
+    "native": "無限の住人"
+  },
+  "synonyms": [
+    "Mugen no Juunin",
+    "Blade of the Immortal",
+    "無限の住人"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4151-7kcnkt5iisJX.png"
+  ],
+  "references": {
+    "al": {
+      "id": "4151",
+      "url": "https://anilist.co/anime/4151"
+    },
+    "k": {
+      "id": "3490",
+      "url": "https://kitsu.io/anime/3490"
+    },
+    "mal": {
+      "id": "4151",
+      "url": "https://myanimelist.net/anime/4151"
+    },
+    "t": {
+      "id": "34548",
+      "url": "https://trakt.tv/shows/34548"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14760,
+  "slug": "sukeban-deka",
+  "kind": "manga",
+  "title": "Sukeban Deka",
+  "titles": {
+    "default": "Sukeban Deka"
+  },
+  "synonyms": [
+    "Delinquent Girl Detective",
+    "Sukeban Keiji",
+    "スケバンデカ",
+    "Yo-Yo Girl Cop",
+    "Delinquent Detective: Sukeban Deka",
+    "スケバン刑事",
+    "Shin Kyojin no Hoshi",
+    "新巨人の星"
+  ],
+  "type": "manga",
+  "chapters": 132,
+  "volumes": 22,
+  "status": "finished",
+  "year": 1976,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx45892-VnM7JBgC1owY.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2726",
+      "url": "https://anilist.co/anime/2726"
+    },
+    "al_manga": {
+      "id": "2726",
+      "url": "https://anilist.co/manga/2726"
+    }
+  }
+}

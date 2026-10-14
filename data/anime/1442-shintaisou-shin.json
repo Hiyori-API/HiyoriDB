@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1442,
+  "slug": "shintaisou-shin",
+  "kind": "anime",
+  "title": "Shintaisou: (Shin)",
+  "titles": {
+    "default": "Shintaisou: (Shin)",
+    "romaji": "Shintaisou: (Shin)",
+    "english": "Princess 69: Midnight Gymnastics",
+    "native": "新体操（真）"
+  },
+  "synonyms": [
+    "Shintaisou: (Shin)",
+    "Princess 69: Midnight Gymnastics",
+    "新体操（真）",
+    "Shintaisou (Shin)",
+    "Shintasou Kari 2",
+    "Rhythmic Gymnastics",
+    "Rhythmic Gymnastics (Truth)",
+    "Prayers",
+    "プレイヤーズ"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1632-B0J9K3I7jBwH.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1632",
+      "url": "https://anilist.co/anime/1632"
+    },
+    "k": {
+      "id": "2229",
+      "url": "https://kitsu.io/anime/2229"
+    },
+    "mal": {
+      "id": "1632",
+      "url": "https://myanimelist.net/anime/1632"
+    }
+  }
+}

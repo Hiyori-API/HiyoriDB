@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5295,
+  "slug": "kuni-chan-no-ikka-ranran",
+  "kind": "anime",
+  "title": "Kuni-chan no Ikka Ranran",
+  "titles": {
+    "default": "Kuni-chan no Ikka Ranran",
+    "romaji": "Kuni-chan no Ikka Ranran",
+    "native": "邦ちゃんの一家ランラン"
+  },
+  "synonyms": [
+    "Kuni-chan no Ikka Ranran",
+    "邦ちゃんの一家ランラン",
+    "Blue Legend Shoot!",
+    "Aoki Densetsu Shoot! (Movie)",
+    "蒼き伝説　シュート！",
+    "Aoki Densetsu Shoot! (1994)",
+    "Blue Legend Shoot! (1994)"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b129819-y9f98NFPx6Kg.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "129819",
+      "url": "https://anilist.co/anime/129819"
+    },
+    "k": {
+      "id": "1184",
+      "url": "https://kitsu.io/anime/1184"
+    },
+    "mal": {
+      "id": "34201",
+      "url": "https://myanimelist.net/anime/34201"
+    }
+  }
+}

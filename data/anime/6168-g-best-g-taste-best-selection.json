@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6168,
+  "slug": "g-best-g-taste-best-selection",
+  "kind": "anime",
+  "title": "G-Best: G-taste Best Selection",
+  "titles": {
+    "default": "G-Best: G-taste Best Selection",
+    "romaji": "G-Best: G-taste Best Selection",
+    "native": "G-Best -G-tasteベストセレクション-"
+  },
+  "synonyms": [
+    "G-Best: G-taste Best Selection",
+    "G-Best -G-tasteベストセレクション-",
+    "G-taste (2010)",
+    "ジィ・テイスト",
+    "G-Best",
+    "G-Taste (2010)",
+    "G-Best －G-tasteベストセレクション－"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx9600-K9euGXyjdOua.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9600",
+      "url": "https://anilist.co/anime/9600"
+    },
+    "k": {
+      "id": "5805",
+      "url": "https://kitsu.io/anime/5805"
+    },
+    "mal": {
+      "id": "9600",
+      "url": "https://myanimelist.net/anime/9600"
+    }
+  }
+}

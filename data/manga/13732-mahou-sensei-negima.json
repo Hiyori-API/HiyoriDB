@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13732,
+  "slug": "mahou-sensei-negima",
+  "kind": "manga",
+  "title": "Mahou Sensei Negima!",
+  "titles": {
+    "default": "Mahou Sensei Negima!"
+  },
+  "synonyms": [
+    "Magical Teacher Negima!",
+    "Negima ! Le Maître Magicien",
+    "Negima! Magister Negi Magi",
+    "魔法先生ネギま!",
+    "Mahou Sensei Negima!",
+    "Negima! Le Maître magicien",
+    "魔法先生ネギま！",
+    "Учитель-чародей Нэгима",
+    "คุณครูจอมเวท เนกิมะ!",
+    "魔法老师",
+    "Negima"
+  ],
+  "type": "manga",
+  "chapters": 355,
+  "volumes": 38,
+  "status": "finished",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/15.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3948",
+      "url": "https://anilist.co/anime/1619"
+    },
+    "al_manga": {
+      "id": "3948",
+      "url": "https://anilist.co/manga/3948"
+    }
+  }
+}

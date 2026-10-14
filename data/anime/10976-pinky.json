@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10976,
+  "slug": "pinky",
+  "kind": "anime",
+  "title": "PINKY",
+  "titles": {
+    "default": "PINKY",
+    "romaji": "PINKY",
+    "english": "Pinky",
+    "native": "PINKY（ピンキー）"
+  },
+  "synonyms": [
+    "PINKY",
+    "Pinky",
+    "PINKY（ピンキー）"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16604.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "16604",
+      "url": "https://anilist.co/anime/16604"
+    },
+    "k": {
+      "id": "7471",
+      "url": "https://kitsu.io/anime/7471"
+    },
+    "mal": {
+      "id": "16604",
+      "url": "https://myanimelist.net/anime/16604"
+    }
+  }
+}

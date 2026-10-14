@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9173,
+  "slug": "brave-witches-petersburg-daisenryaku",
+  "kind": "anime",
+  "title": "Brave Witches: Petersburg Daisenryaku",
+  "titles": {
+    "default": "Brave Witches: Petersburg Daisenryaku",
+    "romaji": "Brave Witches: Petersburg Daisenryaku",
+    "native": "ブレイブウィッチーズ　第13話「ペテルブルグ大戦略」"
+  },
+  "synonyms": [
+    "Brave Witches: Petersburg Daisenryaku",
+    "ブレイブウィッチーズ　第13話「ペテルブルグ大戦略」",
+    "Brave Witches Episode 13",
+    "Brave Witches: Petersburg Grand Strategy",
+    "第501統合戦闘航空団 ブレイブウィッチーズ ペテルブルグ大戦略"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98209-oRSQtJalTWgg.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98209",
+      "url": "https://anilist.co/anime/98209"
+    },
+    "mal": {
+      "id": "34644",
+      "url": "https://myanimelist.net/anime/34644"
+    }
+  }
+}

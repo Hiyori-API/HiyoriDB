@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9154,
+  "slug": "chou-shounen-tanteidan-neo",
+  "kind": "anime",
+  "title": "Chou Shounen Tanteidan NEO",
+  "titles": {
+    "default": "Chou Shounen Tanteidan NEO",
+    "romaji": "Chou Shounen Tanteidan NEO",
+    "native": "超・少年探偵団NEO"
+  },
+  "synonyms": [
+    "Chou Shounen Tanteidan NEO",
+    "超・少年探偵団NEO",
+    "The maid dragon of Kobayashi-san",
+    "Miss Kobayashi's Dragon Maid",
+    "小林さんちのメイドラゴン",
+    "Kobayashi-san Chi no Maid Dragon"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98045-ROQyt7Jzf75V.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98045",
+      "url": "https://anilist.co/anime/98045"
+    },
+    "mal": {
+      "id": "32830",
+      "url": "https://myanimelist.net/anime/32830"
+    },
+    "tx": {
+      "id": "tanteidan_NEO",
+      "url": "https://twitter.com/tanteidan_NEO"
+    }
+  }
+}

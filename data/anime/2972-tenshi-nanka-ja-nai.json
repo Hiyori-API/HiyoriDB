@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2972,
+  "slug": "tenshi-nanka-ja-nai",
+  "kind": "anime",
+  "title": "Tenshi Nanka ja Nai",
+  "titles": {
+    "default": "Tenshi Nanka ja Nai",
+    "romaji": "Tenshi Nanka ja Nai",
+    "native": "天使なんかじゃない"
+  },
+  "synonyms": [
+    "Tenshi Nanka ja Nai",
+    "天使なんかじゃない",
+    "I'm Not an Angel",
+    "Tekkaman Blade: Twin Blood",
+    "Uchuu no Kishi Tekkaman Blade OVA: Twin Blood",
+    "宇宙の騎士テッカマンブレード",
+    "Uchuu no Kishi Tekkaman Blade - S1 Twin Blood"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3512-ky8jOSegQXKj.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3512",
+      "url": "https://anilist.co/anime/3512"
+    },
+    "k": {
+      "id": "2082",
+      "url": "https://kitsu.io/anime/2082"
+    },
+    "mal": {
+      "id": "3512",
+      "url": "https://myanimelist.net/anime/3512"
+    }
+  }
+}

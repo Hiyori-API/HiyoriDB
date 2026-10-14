@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8241,
+  "slug": "kanojo-ga-nekomimi-ni-kigaetara",
+  "kind": "anime",
+  "title": "Kanojo ga Nekomimi ni Kigaetara",
+  "titles": {
+    "default": "Kanojo ga Nekomimi ni Kigaetara",
+    "romaji": "Kanojo ga Nekomimi ni Kigaetara",
+    "english": "Cat Play Punishment",
+    "native": "彼女がネコミミに着替えたら"
+  },
+  "synonyms": [
+    "Kanojo ga Nekomimi ni Kigaetara",
+    "Cat Play Punishment",
+    "彼女がネコミミに着替えたら",
+    "Witch Craft Works: Takamiya-kun to Imouto no Warudakumi",
+    "ウィッチクラフトワークス 多華宮君と妹の悪巧み",
+    "Witchcraft Works",
+    "Witch Craft Works OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21160-mZWpz9c1K4Sg.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21160",
+      "url": "https://anilist.co/anime/21160"
+    },
+    "k": {
+      "id": "8257",
+      "url": "https://kitsu.io/anime/8257"
+    },
+    "mal": {
+      "id": "30460",
+      "url": "https://myanimelist.net/anime/30460"
+    }
+  }
+}

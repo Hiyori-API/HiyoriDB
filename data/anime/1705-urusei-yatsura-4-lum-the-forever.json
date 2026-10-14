@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1705,
+  "slug": "urusei-yatsura-4-lum-the-forever",
+  "kind": "anime",
+  "title": "Urusei Yatsura 4: Lum the Forever",
+  "titles": {
+    "default": "Urusei Yatsura 4: Lum the Forever",
+    "romaji": "Urusei Yatsura 4: Lum the Forever",
+    "english": "Urusei Yatsura Movie 4: Lum The Forever",
+    "native": "うる星やつら4 ラム・ザ・フォーエバー"
+  },
+  "synonyms": [
+    "Urusei Yatsura 4: Lum the Forever",
+    "Urusei Yatsura Movie 4: Lum The Forever",
+    "うる星やつら4 ラム・ザ・フォーエバー",
+    "うる星やつら ラム・ザ・フォーエバー"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1923-F2EGuJX0bBJg.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1923",
+      "url": "https://anilist.co/anime/1923"
+    },
+    "cr": {
+      "id": "urusei-yatsura-movies",
+      "url": "https://www.crunchyroll.com/series/urusei-yatsura-movies"
+    },
+    "k": {
+      "id": "1733",
+      "url": "https://kitsu.io/anime/1733"
+    },
+    "mal": {
+      "id": "1923",
+      "url": "https://myanimelist.net/anime/1923"
+    }
+  }
+}

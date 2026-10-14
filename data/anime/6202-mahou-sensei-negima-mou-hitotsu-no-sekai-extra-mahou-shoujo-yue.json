@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6202,
+  "slug": "mahou-sensei-negima-mou-hitotsu-no-sekai-extra-mahou-shoujo-yue",
+  "kind": "anime",
+  "title": "Mahou Sensei Negima! Mou Hitotsu no Sekai Extra: Mahou Shoujo Yue",
+  "titles": {
+    "default": "Mahou Sensei Negima! Mou Hitotsu no Sekai Extra: Mahou Shoujo Yue",
+    "romaji": "Mahou Sensei Negima! Mou Hitotsu no Sekai Extra: Mahou Shoujo Yue",
+    "native": "魔法先生ネギま!もうひとつの世界 Extra 魔法少女ユエ"
+  },
+  "synonyms": [
+    "Mahou Sensei Negima! Mou Hitotsu no Sekai Extra: Mahou Shoujo Yue",
+    "魔法先生ネギま!もうひとつの世界 Extra 魔法少女ユエ",
+    "Mahou Sensei Negima! OVA Mahou Sekai Extra: Mahou Shoujo Yue"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10628.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10628",
+      "url": "https://anilist.co/anime/10628"
+    },
+    "k": {
+      "id": "6272",
+      "url": "https://kitsu.io/anime/6272"
+    },
+    "mal": {
+      "id": "10628",
+      "url": "https://myanimelist.net/anime/10628"
+    }
+  }
+}

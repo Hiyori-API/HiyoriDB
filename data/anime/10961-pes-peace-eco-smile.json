@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10961,
+  "slug": "pes-peace-eco-smile",
+  "kind": "anime",
+  "title": "PES: Peace Eco Smile",
+  "titles": {
+    "default": "PES: Peace Eco Smile",
+    "romaji": "PES: Peace Eco Smile",
+    "english": "PES: Peace Eco Smiles"
+  },
+  "synonyms": [
+    "PES: Peace Eco Smile",
+    "PES: Peace Eco Smiles"
+  ],
+  "type": "ona",
+  "episodes": 7,
+  "status": "finished",
+  "season": "spring",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13427.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "13427",
+      "url": "https://anilist.co/anime/13427"
+    },
+    "cr": {
+      "id": "pes-peace-eco-smile",
+      "url": "https://www.crunchyroll.com/series/pes-peace-eco-smile"
+    },
+    "k": {
+      "id": "6961",
+      "url": "https://kitsu.io/anime/6961"
+    },
+    "mal": {
+      "id": "13427",
+      "url": "https://myanimelist.net/anime/13427"
+    }
+  }
+}

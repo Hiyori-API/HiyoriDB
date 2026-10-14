@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13071,
+  "slug": "iku-iku-succubus-saikyouiku",
+  "kind": "anime",
+  "title": "Iku Iku ♡ Succubus Saikyouiku",
+  "titles": {
+    "default": "Iku Iku ♡ Succubus Saikyouiku",
+    "romaji": "Iku Iku ♡ Succubus Saikyouiku",
+    "native": "イクイク♡サキュバス再教育"
+  },
+  "synonyms": [
+    "Iku Iku ♡ Succubus Saikyouiku",
+    "イクイク♡サキュバス再教育",
+    "イクイク★サキュバス再教育～落第淫魔の交姦留学日誌～",
+    "Cumming, Cumming: Failed Succubus' Retraining & Foreign Study Program",
+    "Araiso Private High School Student Council Executive Committee",
+    "Shiritsu Araiso Koutougakkou Seitokai Shikkoubu",
+    "私立荒磯高等学校生徒会執行部"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184765-bnevwOoXSFur.png"
+  ],
+  "references": {
+    "al": {
+      "id": "184765",
+      "url": "https://anilist.co/anime/184765"
+    },
+    "k": {
+      "id": "389",
+      "url": "https://kitsu.io/anime/389"
+    },
+    "mal": {
+      "id": "60351",
+      "url": "https://myanimelist.net/anime/60351"
+    }
+  }
+}

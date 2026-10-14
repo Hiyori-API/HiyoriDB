@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6659,
+  "slug": "ginga-tetsudou-999-jikuu-wo-koeta-energy-no-tabi-season-2",
+  "kind": "anime",
+  "title": "Ginga Tetsudou 999: Jikuu wo Koeta Energy no Tabi season.2",
+  "titles": {
+    "default": "Ginga Tetsudou 999: Jikuu wo Koeta Energy no Tabi season.2",
+    "romaji": "Ginga Tetsudou 999: Jikuu wo Koeta Energy no Tabi season.2",
+    "native": "銀河鉄道999～時空を越えたエネルギーの旅～season.2"
+  },
+  "synonyms": [
+    "Ginga Tetsudou 999: Jikuu wo Koeta Energy no Tabi season.2",
+    "銀河鉄道999～時空を越えたエネルギーの旅～season.2",
+    "Wish Upon the Pleiades",
+    "Houkago no Pleiades",
+    "放課後のプレアデス",
+    "Afterschool Pleiades",
+    "Hokago no Pleiades"
+  ],
+  "type": "ona",
+  "episodes": 4,
+  "status": "finished",
+  "season": "winter",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207037-fZZtx98B6iu2.png"
+  ],
+  "references": {
+    "al": {
+      "id": "207037",
+      "url": "https://anilist.co/anime/207037"
+    },
+    "k": {
+      "id": "5937",
+      "url": "https://kitsu.io/anime/5937"
+    },
+    "mal": {
+      "id": "63413",
+      "url": "https://myanimelist.net/anime/63413"
+    }
+  }
+}

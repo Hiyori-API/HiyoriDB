@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6031,
+  "slug": "otome-youkai-zakuro",
+  "kind": "anime",
+  "title": "Otome Youkai Zakuro",
+  "titles": {
+    "default": "Otome Youkai Zakuro",
+    "romaji": "Otome Youkai Zakuro",
+    "english": "Zakuro",
+    "native": "おとめ妖怪 ざくろ"
+  },
+  "synonyms": [
+    "Otome Youkai Zakuro",
+    "Zakuro",
+    "おとめ妖怪 ざくろ",
+    "Otome Yokai Zakuro",
+    "Girl Demon Zakuro"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx8476-zqkDcM6hrqNy.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8476",
+      "url": "https://anilist.co/anime/8476"
+    },
+    "cr": {
+      "id": "otome-yokai-zakuro",
+      "url": "https://www.crunchyroll.com/series/otome-yokai-zakuro"
+    },
+    "k": {
+      "id": "5349",
+      "url": "https://kitsu.io/anime/5349"
+    },
+    "mal": {
+      "id": "8476",
+      "url": "https://myanimelist.net/anime/8476"
+    },
+    "t": {
+      "id": "36679",
+      "url": "https://trakt.tv/shows/36679"
+    }
+  }
+}

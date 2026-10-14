@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2943,
+  "slug": "maria-sama-ga-miteru-maria-sama-ni-wa-naisho",
+  "kind": "anime",
+  "title": "Maria-sama ga Miteru: Maria-sama ni wa Naisho.",
+  "titles": {
+    "default": "Maria-sama ga Miteru: Maria-sama ni wa Naisho.",
+    "romaji": "Maria-sama ga Miteru: Maria-sama ni wa Naisho.",
+    "english": "Maria Watches Over Us: Don't Tell Mother Maria.",
+    "native": "マリア様がみてる マリア様にはないしょ。"
+  },
+  "synonyms": [
+    "Maria-sama ga Miteru: Maria-sama ni wa Naisho.",
+    "Maria Watches Over Us: Don't Tell Mother Maria.",
+    "マリア様がみてる マリア様にはないしょ。",
+    "MariMite",
+    "La Vierge Marie Vous Regarde",
+    "The Virgin Mary is Watching You",
+    "Maria-sama ga Miteru Specials",
+    "Maria Watches Over Us Specials",
+    "マリア様がみてる"
+  ],
+  "type": "special",
+  "episodes": 7,
+  "status": "finished",
+  "season": "spring",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx3468-rJcX7lhOjgt7.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3468",
+      "url": "https://anilist.co/anime/3468"
+    },
+    "k": {
+      "id": "136",
+      "url": "https://kitsu.io/anime/136"
+    },
+    "mal": {
+      "id": "3468",
+      "url": "https://myanimelist.net/anime/3468"
+    }
+  }
+}

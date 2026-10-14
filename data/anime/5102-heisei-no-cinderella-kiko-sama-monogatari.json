@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5102,
+  "slug": "heisei-no-cinderella-kiko-sama-monogatari",
+  "kind": "anime",
+  "title": "Heisei no Cinderella: Kiko-sama Monogatari",
+  "titles": {
+    "default": "Heisei no Cinderella: Kiko-sama Monogatari",
+    "romaji": "Heisei no Cinderella: Kiko-sama Monogatari",
+    "native": "平成のシンデレラ 紀子さま物語"
+  },
+  "synonyms": [
+    "Heisei no Cinderella: Kiko-sama Monogatari",
+    "平成のシンデレラ 紀子さま物語"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126891-ZLYfgNdNi7n9.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "126891",
+      "url": "https://anilist.co/anime/126891"
+    },
+    "k": {
+      "id": "8994",
+      "url": "https://kitsu.io/anime/8994"
+    },
+    "mal": {
+      "id": "24257",
+      "url": "https://myanimelist.net/anime/24257"
+    }
+  }
+}

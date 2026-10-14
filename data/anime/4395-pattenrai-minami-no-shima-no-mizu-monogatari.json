@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4395,
+  "slug": "pattenrai-minami-no-shima-no-mizu-monogatari",
+  "kind": "anime",
+  "title": "Pattenrai!! Minami no Shima no Mizu Monogatari",
+  "titles": {
+    "default": "Pattenrai!! Minami no Shima no Mizu Monogatari",
+    "romaji": "Pattenrai!! Minami no Shima no Mizu Monogatari",
+    "native": "パッテンライ!!　～南の島の水ものがたり～"
+  },
+  "synonyms": [
+    "Pattenrai!! Minami no Shima no Mizu Monogatari",
+    "パッテンライ!!　～南の島の水ものがたり～",
+    "Batain Lai!! Minami no Shima no Mizu",
+    "The Water Story of the South Island",
+    "Pattenrai!! - Minami no Shima no Mizu Monogatari",
+    "Batain Lai!! - Minami no Shima no Mizu Monogatari"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6688.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6688",
+      "url": "https://anilist.co/anime/6688"
+    },
+    "k": {
+      "id": "4667",
+      "url": "https://kitsu.io/anime/4667"
+    },
+    "mal": {
+      "id": "6688",
+      "url": "https://myanimelist.net/anime/6688"
+    }
+  }
+}

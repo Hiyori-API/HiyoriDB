@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11596,
+  "slug": "rpg-fudousan",
+  "kind": "anime",
+  "title": "RPG Fudousan",
+  "titles": {
+    "default": "RPG Fudousan",
+    "romaji": "RPG Fudousan",
+    "english": "RPG Real Estate",
+    "native": "RPG不動産"
+  },
+  "synonyms": [
+    "RPG Fudousan",
+    "RPG Real Estate",
+    "RPG不動産",
+    "Deaimon: Recipe for Happiness",
+    "であいもん",
+    "Deaimon"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130319-xyZi0YshQYFk.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "130319",
+      "url": "https://anilist.co/anime/130319"
+    },
+    "cr": {
+      "id": "rpg-real-estate",
+      "url": "https://www.crunchyroll.com/series/rpg-real-estate"
+    },
+    "mal": {
+      "id": "48363",
+      "url": "https://myanimelist.net/anime/48363"
+    },
+    "tx": {
+      "id": "rpgrs_anime",
+      "url": "https://twitter.com/rpgrs_anime"
+    }
+  }
+}

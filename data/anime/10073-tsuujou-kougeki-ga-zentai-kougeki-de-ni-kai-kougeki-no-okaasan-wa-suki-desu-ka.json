@@ -1,0 +1,59 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10073,
+  "slug": "tsuujou-kougeki-ga-zentai-kougeki-de-ni-kai-kougeki-no-okaasan-wa-suki-desu-ka",
+  "kind": "anime",
+  "title": "Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki desu ka?",
+  "titles": {
+    "default": "Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki desu ka?",
+    "romaji": "Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki desu ka?",
+    "english": "Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?",
+    "native": "通常攻撃が全体攻撃で二回攻撃のお母さんは好きですか？"
+  },
+  "synonyms": [
+    "Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki desu ka?",
+    "Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?",
+    "通常攻撃が全体攻撃で二回攻撃のお母さんは好きですか？",
+    "Do You Like Your Mom? Her Normal Attack is Two Attacks at Full Power",
+    "Tsuujou Kougeki ga Zentai Kougeki de 2-kai Kougeki no Okaasan wa Suki desu ka?",
+    "Okaa-san online",
+    "Okaasuki",
+    "คุณแม่ที่มีสกิลพื้นฐานเป็นการโจมตีหมู่แถมยังเบิ้ลได้แบบนี้ชอบไหมจ๊ะ",
+    "DearS",
+    "ディアーズ"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104723-pmcUwRbKTFWB.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "104723",
+      "url": "https://anilist.co/anime/104723"
+    },
+    "cr": {
+      "id": "do-you-love-your-mom-and-her-two-hit-multi-target-attacks",
+      "url": "https://www.crunchyroll.com/series/do-you-love-your-mom-and-her-two-hit-multi-target-attacks"
+    },
+    "k": {
+      "id": "44",
+      "url": "https://kitsu.io/anime/44"
+    },
+    "mal": {
+      "id": "38573",
+      "url": "https://myanimelist.net/anime/38573"
+    },
+    "t": {
+      "id": "61051",
+      "url": "https://trakt.tv/shows/61051"
+    },
+    "tx": {
+      "id": "okaasan_online",
+      "url": "https://twitter.com/okaasan_online"
+    }
+  }
+}

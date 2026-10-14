@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15791,
+  "slug": "chocolate-underground",
+  "kind": "manga",
+  "title": "Chocolate Underground",
+  "titles": {
+    "default": "Chocolate Underground"
+  },
+  "synonyms": [
+    "Chocolate Underground",
+    "チョコレート・アンダーグラウンド",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "chapters": 3,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55111.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3962",
+      "url": "https://anilist.co/anime/5238"
+    },
+    "al_manga": {
+      "id": "3962",
+      "url": "https://anilist.co/manga/3962"
+    }
+  }
+}

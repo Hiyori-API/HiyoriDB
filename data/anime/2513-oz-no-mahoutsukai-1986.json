@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2513,
+  "slug": "oz-no-mahoutsukai-1986",
+  "kind": "anime",
+  "title": "Oz no Mahoutsukai (1986)",
+  "titles": {
+    "default": "Oz no Mahoutsukai (1986)",
+    "romaji": "Oz no Mahoutsukai (1986)",
+    "english": "The Wonderful Wizard of Oz",
+    "native": "オズの魔法使い"
+  },
+  "synonyms": [
+    "Oz no Mahoutsukai (1986)",
+    "The Wonderful Wizard of Oz",
+    "オズの魔法使い",
+    "הקוסם מארץ עוץ",
+    "Im Land des Zauberers von Oz",
+    "The Wizard of Oz",
+    "Oz no Mahoutsukai"
+  ],
+  "type": "tv",
+  "episodes": 52,
+  "status": "finished",
+  "season": "fall",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2826-DZaQKJ27jurZ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2826",
+      "url": "https://anilist.co/anime/2826"
+    },
+    "cr": {
+      "id": "the-wonderful-wizard-of-oz",
+      "url": "https://www.crunchyroll.com/series/the-wonderful-wizard-of-oz"
+    },
+    "k": {
+      "id": "8530",
+      "url": "https://kitsu.io/anime/8530"
+    },
+    "mal": {
+      "id": "2826",
+      "url": "https://myanimelist.net/anime/2826"
+    },
+    "t": {
+      "id": "9449",
+      "url": "https://trakt.tv/shows/9449"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13801,
+  "slug": "mokona-oujo-no-ehon",
+  "kind": "manga",
+  "title": "Mokona Oujo no Ehon",
+  "titles": {
+    "default": "Mokona Oujo no Ehon"
+  },
+  "synonyms": [
+    "CLAMP no Kuni no Mokona Oujo",
+    "Princess Mokona",
+    "もこなおうじょのえほん",
+    "Yokohama Kaidashi Kikou",
+    "ヨコハマ買い出し紀行",
+    "Yokohama Shopping Log",
+    "Yokohama Shopping Trip",
+    "Touge"
+  ],
+  "type": "manga",
+  "chapters": 1,
+  "volumes": 1,
+  "status": "finished",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx55319-6e4F3i9J3Gks.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2274",
+      "url": "https://anilist.co/anime/2274"
+    },
+    "al_manga": {
+      "id": "2274",
+      "url": "https://anilist.co/manga/2274"
+    }
+  }
+}

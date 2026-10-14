@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14650,
+  "slug": "obake-no-q-tarou",
+  "kind": "manga",
+  "title": "Obake no Q-tarou",
+  "titles": {
+    "default": "Obake no Q-tarou"
+  },
+  "synonyms": [
+    "Q the Spook",
+    "オバケのQ太郎",
+    "Kamui Den",
+    "カムイ伝",
+    "The Legend of Kamui"
+  ],
+  "type": "manga",
+  "chapters": 90,
+  "volumes": 6,
+  "status": "finished",
+  "year": 1964,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/25187.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7981",
+      "url": "https://anilist.co/anime/7980"
+    },
+    "al_manga": {
+      "id": "7981",
+      "url": "https://anilist.co/manga/7981"
+    }
+  }
+}

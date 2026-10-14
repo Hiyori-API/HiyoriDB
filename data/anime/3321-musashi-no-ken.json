@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3321,
+  "slug": "musashi-no-ken",
+  "kind": "anime",
+  "title": "Musashi no Ken",
+  "titles": {
+    "default": "Musashi no Ken",
+    "romaji": "Musashi no Ken",
+    "native": "六三四の剣"
+  },
+  "synonyms": [
+    "Musashi no Ken",
+    "六三四の剣"
+  ],
+  "type": "tv",
+  "episodes": 72,
+  "status": "finished",
+  "season": "spring",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4062-ZTXTQygLAbau.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4062",
+      "url": "https://anilist.co/anime/4062"
+    },
+    "k": {
+      "id": "3440",
+      "url": "https://kitsu.io/anime/3440"
+    },
+    "mal": {
+      "id": "4062",
+      "url": "https://myanimelist.net/anime/4062"
+    }
+  }
+}

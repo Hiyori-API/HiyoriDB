@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10575,
+  "slug": "noblesse",
+  "kind": "anime",
+  "title": "NOBLESSE",
+  "titles": {
+    "default": "NOBLESSE",
+    "romaji": "NOBLESSE",
+    "english": "Noblesse",
+    "native": "NOBLESSE -ノブレス-"
+  },
+  "synonyms": [
+    "NOBLESSE",
+    "Noblesse",
+    "NOBLESSE -ノブレス-",
+    "노블레스"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116005-yfngIe9aBaJw.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "116005",
+      "url": "https://anilist.co/anime/116005"
+    },
+    "cr": {
+      "id": "noblesse",
+      "url": "https://www.crunchyroll.com/series/noblesse"
+    },
+    "mal": {
+      "id": "41345",
+      "url": "https://myanimelist.net/anime/41345"
+    },
+    "tx": {
+      "id": "noblesse_jp",
+      "url": "https://twitter.com/Anime_Noblesse"
+    }
+  }
+}

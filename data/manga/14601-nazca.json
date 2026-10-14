@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14601,
+  "slug": "nazca",
+  "kind": "manga",
+  "title": "Nazca",
+  "titles": {
+    "default": "Nazca"
+  },
+  "synonyms": [
+    "Jikuu Tenshou Nazca",
+    "時空転抄ナスカ",
+    "Dimension Movement of Nazca",
+    "ナスカ",
+    "Kamikaze Kaito Jeanne",
+    "Kamikaze Kaitou Jeanne",
+    "Phantom Thief Jeanne",
+    "神風怪盗ジャンヌ",
+    "Divine Wind Phantom Thief Jeanne"
+  ],
+  "type": "manga",
+  "chapters": 8,
+  "volumes": 2,
+  "status": "finished",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5850.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1775",
+      "url": "https://anilist.co/anime/1775"
+    },
+    "al_manga": {
+      "id": "1775",
+      "url": "https://anilist.co/manga/1775"
+    }
+  }
+}

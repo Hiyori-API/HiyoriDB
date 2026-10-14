@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6999,
+  "slug": "kremlin",
+  "kind": "anime",
+  "title": "Kremlin",
+  "titles": {
+    "default": "Kremlin",
+    "romaji": "Kremlin",
+    "native": "クレムリン"
+  },
+  "synonyms": [
+    "Kremlin",
+    "クレムリン"
+  ],
+  "type": "ona",
+  "episodes": 5,
+  "status": "finished",
+  "season": "fall",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15389.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "15389",
+      "url": "https://anilist.co/anime/15389"
+    },
+    "k": {
+      "id": "7246",
+      "url": "https://kitsu.io/anime/7246"
+    },
+    "mal": {
+      "id": "15389",
+      "url": "https://myanimelist.net/anime/15389"
+    }
+  }
+}

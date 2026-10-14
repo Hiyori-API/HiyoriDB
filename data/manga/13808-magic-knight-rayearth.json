@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13808,
+  "slug": "magic-knight-rayearth",
+  "kind": "manga",
+  "title": "Magic Knight Rayearth",
+  "titles": {
+    "default": "Magic Knight Rayearth"
+  },
+  "synonyms": [
+    "Mahou Kishi Rayearth",
+    "Guerreiras Mágicas de Rayearth",
+    "Luchadoras de leyenda",
+    "Hiệp sĩ phép màu",
+    "마법기사 레이어스 1부",
+    "Magic Knight Rayearth",
+    "魔法騎士レイアース",
+    "魔法騎士〈マジックナイト〉レイアース"
+  ],
+  "type": "manga",
+  "chapters": 15,
+  "volumes": 3,
+  "status": "finished",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30119-9ifl21r3gfG1.png"
+  ],
+  "references": {
+    "al": {
+      "id": "178868",
+      "url": "https://anilist.co/anime/435"
+    },
+    "al_manga": {
+      "id": "178868",
+      "url": "https://anilist.co/manga/178868"
+    }
+  }
+}

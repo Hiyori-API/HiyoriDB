@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 35,
+  "slug": "ai-yori-aoshi",
+  "kind": "anime",
+  "title": "Ai Yori Aoshi",
+  "titles": {
+    "default": "Ai Yori Aoshi",
+    "romaji": "Ai Yori Aoshi",
+    "native": "藍より青し"
+  },
+  "synonyms": [
+    "Ai Yori Aoshi",
+    "藍より青し",
+    "Bluer Than Indigo"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "spring",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx53-GPDXGvbhg4w5.png"
+  ],
+  "references": {
+    "al": {
+      "id": "53",
+      "url": "https://anilist.co/anime/53"
+    },
+    "k": {
+      "id": "34",
+      "url": "https://kitsu.io/anime/34"
+    },
+    "mal": {
+      "id": "53",
+      "url": "https://myanimelist.net/anime/53"
+    },
+    "t": {
+      "id": "42343",
+      "url": "https://trakt.tv/shows/42343"
+    },
+    "ttv": {
+      "id": "2314",
+      "url": "https://tubitv.com/series/2314"
+    }
+  }
+}

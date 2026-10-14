@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2040,
+  "slug": "lime-iro-ryuukitan-x-cross-koi",
+  "kind": "anime",
+  "title": "Lime-iro Ryuukitan X CROSS: Koi",
+  "titles": {
+    "default": "Lime-iro Ryuukitan X CROSS: Koi",
+    "romaji": "Lime-iro Ryuukitan X CROSS: Koi",
+    "native": "らいむいろ流奇譚 X CROSS ～恋"
+  },
+  "synonyms": [
+    "Lime-iro Ryuukitan X CROSS: Koi",
+    "らいむいろ流奇譚 X CROSS ～恋",
+    "Oshiete Kudasai.",
+    "Lime Iro Ryuukitan X CROSS - Koi",
+    "Limeiro Ryuukitan X",
+    "Raimuiro Ryuukitan X",
+    "Lime-iro Ryuukitan X",
+    "らいむいろ流奇譚 X CROSS ～恋, 教ヘテクダサイ.～",
+    "Lime-iro Ryuukitan X Cross: Koi"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2308.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2308",
+      "url": "https://anilist.co/anime/2308"
+    },
+    "k": {
+      "id": "2090",
+      "url": "https://kitsu.io/anime/2090"
+    },
+    "mal": {
+      "id": "2308",
+      "url": "https://myanimelist.net/anime/2308"
+    },
+    "t": {
+      "id": "27822",
+      "url": "https://trakt.tv/shows/27822"
+    }
+  }
+}

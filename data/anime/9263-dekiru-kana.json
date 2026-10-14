@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9263,
+  "slug": "dekiru-kana",
+  "kind": "anime",
+  "title": "Dekiru kana",
+  "titles": {
+    "default": "Dekiru kana",
+    "romaji": "Dekiru kana",
+    "native": "できるかな"
+  },
+  "synonyms": [
+    "Dekiru kana",
+    "できるかな",
+    "Dam Keeper no Nakama-tachi",
+    "Pig: The Dam Keeper Poems",
+    "ピッグ - 丘の上のダム・キーパー",
+    "Pig: Oka no Ue no Dam Keeper"
+  ],
+  "type": "ona",
+  "episodes": 10,
+  "status": "finished",
+  "season": "summer",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98611-etSqddGV1aWu.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98611",
+      "url": "https://anilist.co/anime/98611"
+    },
+    "mal": {
+      "id": "35234",
+      "url": "https://myanimelist.net/anime/35234"
+    }
+  }
+}

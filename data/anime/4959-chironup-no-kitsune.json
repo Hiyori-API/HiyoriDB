@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4959,
+  "slug": "chironup-no-kitsune",
+  "kind": "anime",
+  "title": "Chironup no Kitsune",
+  "titles": {
+    "default": "Chironup no Kitsune",
+    "romaji": "Chironup no Kitsune",
+    "native": "チロヌップのきつね"
+  },
+  "synonyms": [
+    "Chironup no Kitsune",
+    "チロヌップのきつね",
+    "Chironuppu no Kitsune"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17689.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "17689",
+      "url": "https://anilist.co/anime/17689"
+    },
+    "k": {
+      "id": "9231",
+      "url": "https://kitsu.io/anime/9231"
+    },
+    "mal": {
+      "id": "17689",
+      "url": "https://myanimelist.net/anime/17689"
+    }
+  }
+}

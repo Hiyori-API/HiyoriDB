@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5521,
+  "slug": "shin-seiki-cream-lemon",
+  "kind": "anime",
+  "title": "Shin Seiki Cream Lemon",
+  "titles": {
+    "default": "Shin Seiki Cream Lemon",
+    "romaji": "Shin Seiki Cream Lemon",
+    "native": "新世紀くりいむレモン"
+  },
+  "synonyms": [
+    "Shin Seiki Cream Lemon",
+    "新世紀くりいむレモン",
+    "New-century Cream Lemon",
+    "New Century Cream Lemon",
+    "Shinseiki Cream Lemon",
+    "Puni Puni Poemy",
+    "Puni Puni☆Poemii",
+    "ぷにぷに☆ぽえみぃ"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9325.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9325",
+      "url": "https://anilist.co/anime/9325"
+    },
+    "k": {
+      "id": "521",
+      "url": "https://kitsu.io/anime/521"
+    },
+    "mal": {
+      "id": "9325",
+      "url": "https://myanimelist.net/anime/9325"
+    }
+  }
+}

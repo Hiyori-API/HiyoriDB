@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9285,
+  "slug": "tsuma-ga-onsen-de-circle-nakama-no-nikubenki-ni-natta-no-desu-ga-anime-edition",
+  "kind": "anime",
+  "title": "Tsuma ga Onsen de Circle Nakama no Nikubenki ni Natta no Desu ga... Anime Edition",
+  "titles": {
+    "default": "Tsuma ga Onsen de Circle Nakama no Nikubenki ni Natta no Desu ga... Anime Edition",
+    "romaji": "Tsuma ga Onsen de Circle Nakama no Nikubenki ni Natta no Desu ga... Anime Edition",
+    "native": "妻が温泉でサークル仲間の肉便器になったのですが... Anime Edition"
+  },
+  "synonyms": [
+    "Tsuma ga Onsen de Circle Nakama no Nikubenki ni Natta no Desu ga... Anime Edition",
+    "妻が温泉でサークル仲間の肉便器になったのですが... Anime Edition",
+    "KonoSuba: God's Blessing on This Wonderful World! Second Season OVA",
+    "Kono Subarashii Sekai ni Shukufuku wo! 2 OVA",
+    "KonoSuba: God's Blessing on This Wonderful World! 2 - God's Blessing on This Wonderful Art!",
+    "この素晴らしい世界に祝福を！2 この素晴らしい芸術に祝福を！",
+    "Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98768-8WjBoU8SFy2M.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98768",
+      "url": "https://anilist.co/anime/98768"
+    },
+    "mal": {
+      "id": "35573",
+      "url": "https://myanimelist.net/anime/35573"
+    }
+  }
+}

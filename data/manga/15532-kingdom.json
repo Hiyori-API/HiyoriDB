@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15532,
+  "slug": "kingdom",
+  "kind": "manga",
+  "title": "Kingdom",
+  "titles": {
+    "default": "Kingdom"
+  },
+  "synonyms": [
+    "킹덤",
+    "王者天下",
+    "Kingdom",
+    "キングダム"
+  ],
+  "type": "manga",
+  "status": "publishing",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx46765-KPXir4sRqJBW.png"
+  ],
+  "references": {
+    "al": {
+      "id": "204688",
+      "url": "https://anilist.co/anime/12031"
+    },
+    "al_manga": {
+      "id": "204688",
+      "url": "https://anilist.co/manga/204688"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 909,
+  "slug": "honoo-no-mirage-minagiwa-no-hangyakusha",
+  "kind": "anime",
+  "title": "Honoo no Mirage: Minagiwa no Hangyakusha",
+  "titles": {
+    "default": "Honoo no Mirage: Minagiwa no Hangyakusha",
+    "romaji": "Honoo no Mirage: Minagiwa no Hangyakusha",
+    "english": "Mirage of Blaze: Rebels of the River Edge",
+    "native": "炎の蜃気楼(ミラージュ)～みなぎわの反逆者～"
+  },
+  "synonyms": [
+    "Honoo no Mirage: Minagiwa no Hangyakusha",
+    "Mirage of Blaze: Rebels of the River Edge",
+    "炎の蜃気楼(ミラージュ)～みなぎわの反逆者～",
+    "Mirage of Blaze OVA",
+    "Mirage of Blaze (2004)",
+    "炎の蜃気楼～みなぎわの反逆者～"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "summer",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1020.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1020",
+      "url": "https://anilist.co/anime/1020"
+    },
+    "k": {
+      "id": "910",
+      "url": "https://kitsu.io/anime/910"
+    },
+    "mal": {
+      "id": "1020",
+      "url": "https://myanimelist.net/anime/1020"
+    }
+  }
+}

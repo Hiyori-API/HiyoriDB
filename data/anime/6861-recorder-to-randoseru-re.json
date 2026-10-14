@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6861,
+  "slug": "recorder-to-randoseru-re",
+  "kind": "anime",
+  "title": "Recorder to Randoseru Re♪",
+  "titles": {
+    "default": "Recorder to Randoseru Re♪",
+    "romaji": "Recorder to Randoseru Re♪",
+    "english": "Recorder and Randsell Re",
+    "native": "リコーダーとランドセル レ♪"
+  },
+  "synonyms": [
+    "Recorder to Randoseru Re♪",
+    "Recorder and Randsell Re",
+    "リコーダーとランドセル レ♪",
+    "Recorder and Backpack Re",
+    "Recorder and Satchel Re",
+    "Recorder and Ransel Re",
+    "Recorder to Randsell Re",
+    "Recorder to Ransel Re"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx13377-VPSrfUSIR7Di.png"
+  ],
+  "references": {
+    "al": {
+      "id": "13377",
+      "url": "https://anilist.co/anime/13377"
+    },
+    "cr": {
+      "id": "recorder-and-randsell",
+      "url": "https://www.crunchyroll.com/series/recorder-and-randsell"
+    },
+    "k": {
+      "id": "6951",
+      "url": "https://kitsu.io/anime/6951"
+    },
+    "mal": {
+      "id": "13377",
+      "url": "https://myanimelist.net/anime/13377"
+    },
+    "t": {
+      "id": "52535",
+      "url": "https://trakt.tv/shows/52535"
+    }
+  }
+}

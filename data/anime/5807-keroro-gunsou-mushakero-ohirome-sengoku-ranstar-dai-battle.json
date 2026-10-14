@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5807,
+  "slug": "keroro-gunsou-mushakero-ohirome-sengoku-ranstar-dai-battle",
+  "kind": "anime",
+  "title": "Keroro Gunsou: Mushakero Ohirome Sengoku Ranstar Dai Battle",
+  "titles": {
+    "default": "Keroro Gunsou: Mushakero Ohirome Sengoku Ranstar Dai Battle",
+    "romaji": "Keroro Gunsou: Mushakero Ohirome Sengoku Ranstar Dai Battle",
+    "native": "武者ケロ　お披露目！戦国ラン星大バトル！！"
+  },
+  "synonyms": [
+    "Keroro Gunsou: Mushakero Ohirome Sengoku Ranstar Dai Battle",
+    "武者ケロ　お披露目！戦国ラン星大バトル！！",
+    "Arcade Gamer Fubuki Extra",
+    "アーケードゲーマーふぶき",
+    "Arcade Gamer Fubuki Special Story",
+    "Arcade Gamer Fubuki: Paradise Beyond the Wall"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11281.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11281",
+      "url": "https://anilist.co/anime/11281"
+    },
+    "k": {
+      "id": "4255",
+      "url": "https://kitsu.io/anime/4255"
+    },
+    "mal": {
+      "id": "11281",
+      "url": "https://myanimelist.net/anime/11281"
+    }
+  }
+}

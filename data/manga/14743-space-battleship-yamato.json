@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14743,
+  "slug": "space-battleship-yamato",
+  "kind": "manga",
+  "title": "Space Battleship Yamato",
+  "titles": {
+    "default": "Space Battleship Yamato"
+  },
+  "synonyms": [
+    "宇宙戦艦ヤマト",
+    "Getter Robo",
+    "ゲッターロボ"
+  ],
+  "type": "manga",
+  "chapters": 6,
+  "volumes": 1,
+  "status": "finished",
+  "year": 1974,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx63337-1LOJ5QFx30ej.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1650",
+      "url": "https://anilist.co/anime/1650"
+    },
+    "al_manga": {
+      "id": "1650",
+      "url": "https://anilist.co/manga/1650"
+    }
+  }
+}

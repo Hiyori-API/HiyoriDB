@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2791,
+  "slug": "kanashimi-no-belladonna",
+  "kind": "anime",
+  "title": "Kanashimi no Belladonna",
+  "titles": {
+    "default": "Kanashimi no Belladonna",
+    "romaji": "Kanashimi no Belladonna",
+    "english": "Belladonna of Sadness",
+    "native": "哀しみのベラドンナ"
+  },
+  "synonyms": [
+    "Kanashimi no Belladonna",
+    "Belladonna of Sadness",
+    "哀しみのベラドンナ",
+    "The Tragedy of Belladonna",
+    "Mazinger Z vs. Devilman",
+    "Mazinger Z tai Devilman",
+    "マジンガーＺ対デビルマン",
+    "Mazinger Z versus Devilman"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1973,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3220-dnEUsdWopxiU.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3220",
+      "url": "https://anilist.co/anime/3220"
+    },
+    "k": {
+      "id": "3332",
+      "url": "https://kitsu.io/anime/3332"
+    },
+    "mal": {
+      "id": "3220",
+      "url": "https://myanimelist.net/anime/3220"
+    }
+  }
+}

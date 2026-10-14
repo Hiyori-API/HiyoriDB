@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4504,
+  "slug": "kaidan-restaurant",
+  "kind": "anime",
+  "title": "Kaidan Restaurant",
+  "titles": {
+    "default": "Kaidan Restaurant",
+    "romaji": "Kaidan Restaurant",
+    "native": "怪談レストラン"
+  },
+  "synonyms": [
+    "Kaidan Restaurant",
+    "怪談レストラン",
+    "Thriller Restaurant"
+  ],
+  "type": "tv",
+  "episodes": 23,
+  "status": "finished",
+  "season": "fall",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6980.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6980",
+      "url": "https://anilist.co/anime/6980"
+    },
+    "mal": {
+      "id": "6980",
+      "url": "https://myanimelist.net/anime/6980"
+    }
+  }
+}

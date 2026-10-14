@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 156,
+  "slug": "ultra-maniac",
+  "kind": "anime",
+  "title": "Ultra Maniac",
+  "titles": {
+    "default": "Ultra Maniac",
+    "romaji": "Ultra Maniac",
+    "english": "Ultramaniac - Magical Girl",
+    "native": "ウルトラマニアック"
+  },
+  "synonyms": [
+    "Ultra Maniac",
+    "Ultramaniac - Magical Girl",
+    "ウルトラマニアック"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b178-LhW1hq84JRHW.png"
+  ],
+  "references": {
+    "al": {
+      "id": "178",
+      "url": "https://anilist.co/anime/178"
+    },
+    "cr": {
+      "id": "ultra-maniac",
+      "url": "https://www.crunchyroll.com/series/ultra-maniac"
+    },
+    "k": {
+      "id": "155",
+      "url": "https://kitsu.io/anime/155"
+    },
+    "mal": {
+      "id": "178",
+      "url": "https://myanimelist.net/anime/178"
+    },
+    "t": {
+      "id": "37902",
+      "url": "https://trakt.tv/shows/37902"
+    }
+  }
+}

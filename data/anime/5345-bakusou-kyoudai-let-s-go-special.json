@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5345,
+  "slug": "bakusou-kyoudai-let-s-go-special",
+  "kind": "anime",
+  "title": "Bakusou Kyoudai Let's & Go!! Special",
+  "titles": {
+    "default": "Bakusou Kyoudai Let's & Go!! Special",
+    "romaji": "Bakusou Kyoudai Let's & Go!! Special",
+    "native": "爆走兄弟レッツ&ゴー!! レッツ&ゴースペシャル ミニ四駆レーサー大集合!!"
+  },
+  "synonyms": [
+    "Bakusou Kyoudai Let's & Go!! Special",
+    "爆走兄弟レッツ&ゴー!! レッツ&ゴースペシャル ミニ四駆レーサー大集合!!",
+    "Bakuso Kyodai Let's & Go Special",
+    "The Racing Brothers Special",
+    "City Hunter: The Secret Service",
+    "シティーハンタースペシャル ザ・シークレット・サービス"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9857.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9857",
+      "url": "https://anilist.co/anime/9857"
+    },
+    "cr": {
+      "id": "city-hunter",
+      "url": "https://www.crunchyroll.com/series/city-hunter"
+    },
+    "k": {
+      "id": "1323",
+      "url": "https://kitsu.io/anime/1323"
+    },
+    "mal": {
+      "id": "9857",
+      "url": "https://myanimelist.net/anime/9857"
+    }
+  }
+}

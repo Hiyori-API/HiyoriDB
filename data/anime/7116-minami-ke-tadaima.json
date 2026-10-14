@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7116,
+  "slug": "minami-ke-tadaima",
+  "kind": "anime",
+  "title": "Minami-ke: Tadaima",
+  "titles": {
+    "default": "Minami-ke: Tadaima",
+    "romaji": "Minami-ke: Tadaima",
+    "english": "Minami-ke Tadaima",
+    "native": "みなみけ ただいま"
+  },
+  "synonyms": [
+    "Minami-ke: Tadaima",
+    "Minami-ke Tadaima",
+    "みなみけ ただいま",
+    "Minami-ke 4th Season",
+    "みなみけ 第4期"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14511-OiJu2uyufahP.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "14511",
+      "url": "https://anilist.co/anime/14511"
+    },
+    "k": {
+      "id": "7128",
+      "url": "https://kitsu.io/anime/7128"
+    },
+    "mal": {
+      "id": "14511",
+      "url": "https://myanimelist.net/anime/14511"
+    },
+    "t": {
+      "id": "55999",
+      "url": "https://trakt.tv/shows/55999"
+    }
+  }
+}

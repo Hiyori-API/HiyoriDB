@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14520,
+  "slug": "kyou-koi-wo-hajimemasu",
+  "kind": "manga",
+  "title": "Kyou, Koi wo Hajimemasu",
+  "titles": {
+    "default": "Kyou, Koi wo Hajimemasu"
+  },
+  "synonyms": [
+    "Today We'll Start Our Love",
+    "Koimonogatari e no Prologue",
+    "恋物語へのプロローグ",
+    "Hoy Comienza Nuestro Amor",
+    "Tsubaki Love",
+    "今日、恋をはじめます",
+    "Kataomoi no Mukougawa",
+    "片想いの向こう側",
+    "Kataomoi no Mukou Gawa",
+    "Ano Kado o Magareba",
+    "Tenshi ga Kuretamono",
+    "Bitou na Koi",
+    "Kimi to Natsu no Aizu"
+  ],
+  "type": "manga",
+  "chapters": 100,
+  "volumes": 15,
+  "status": "finished",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx34514-QUWcy9AYayRb.png"
+  ],
+  "references": {
+    "al": {
+      "id": "8560",
+      "url": "https://anilist.co/anime/8560"
+    },
+    "al_manga": {
+      "id": "8560",
+      "url": "https://anilist.co/manga/8560"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9707,
+  "slug": "penguin-highway",
+  "kind": "anime",
+  "title": "Penguin Highway",
+  "titles": {
+    "default": "Penguin Highway",
+    "romaji": "Penguin Highway",
+    "native": "ペンギン・ハイウェイ"
+  },
+  "synonyms": [
+    "Penguin Highway",
+    "ペンギン・ハイウェイ",
+    "Le Mystère des Pingouins",
+    "Mint",
+    "MINT"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b101249-GN52PNw4RiM6.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101249",
+      "url": "https://anilist.co/anime/101249"
+    },
+    "cr": {
+      "id": "penguin-highway",
+      "url": "https://www.crunchyroll.com/series/penguin-highway"
+    },
+    "k": {
+      "id": "8098",
+      "url": "https://kitsu.io/anime/8098"
+    },
+    "mal": {
+      "id": "37407",
+      "url": "https://myanimelist.net/anime/37407"
+    },
+    "tx": {
+      "id": "pngnhwy",
+      "url": "https://twitter.com/pngnhwy"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4633,
+  "slug": "kick-off-2002",
+  "kind": "anime",
+  "title": "Kick Off 2002",
+  "titles": {
+    "default": "Kick Off 2002",
+    "romaji": "Kick Off 2002",
+    "native": "キックオフ２００２"
+  },
+  "synonyms": [
+    "Kick Off 2002",
+    "キックオフ２００２",
+    "Kick Off (2002)"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "winter",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7525.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7525",
+      "url": "https://anilist.co/anime/7525"
+    },
+    "k": {
+      "id": "5015",
+      "url": "https://kitsu.io/anime/5015"
+    },
+    "mal": {
+      "id": "7525",
+      "url": "https://myanimelist.net/anime/7525"
+    }
+  }
+}

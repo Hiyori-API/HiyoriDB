@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2913,
+  "slug": "oni-tensei",
+  "kind": "anime",
+  "title": "Oni-Tensei",
+  "titles": {
+    "default": "Oni-Tensei",
+    "romaji": "Oni-Tensei",
+    "native": "鬼点睛"
+  },
+  "synonyms": [
+    "Oni-Tensei",
+    "鬼点睛",
+    "Oni Tensei : Les corps tatoués",
+    "Les corps tatoués",
+    "Geobreeders: Breakthrough",
+    "Geobreeders 2: Mouryou Yuugekitai File-XX Ransen Toppa",
+    "ジオブリーダーズ２ 魍魎遊撃隊"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "winter",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3427-b92Orvj0pk4q.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3427",
+      "url": "https://anilist.co/anime/3427"
+    },
+    "k": {
+      "id": "1040",
+      "url": "https://kitsu.io/anime/1040"
+    },
+    "mal": {
+      "id": "3427",
+      "url": "https://myanimelist.net/anime/3427"
+    }
+  }
+}

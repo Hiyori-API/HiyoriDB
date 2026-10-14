@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3571,
+  "slug": "detective-file-1-kindan-no-ai",
+  "kind": "anime",
+  "title": "Detective file. 1: Kindan no Ai",
+  "titles": {
+    "default": "Detective file. 1: Kindan no Ai",
+    "romaji": "Detective file. 1: Kindan no Ai",
+    "english": "Bondage House",
+    "native": "ディテクティブ file.1禁断の愛"
+  },
+  "synonyms": [
+    "Detective file. 1: Kindan no Ai",
+    "Bondage House",
+    "ディテクティブ file.1禁断の愛",
+    "Break-Age",
+    "BREAK-AGE",
+    "Breakage"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4675-SraC8YTdCooa.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4675",
+      "url": "https://anilist.co/anime/4675"
+    },
+    "k": {
+      "id": "4565",
+      "url": "https://kitsu.io/anime/4565"
+    },
+    "mal": {
+      "id": "4675",
+      "url": "https://myanimelist.net/anime/4675"
+    }
+  }
+}

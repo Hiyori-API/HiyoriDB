@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15654,
+  "slug": "koiito-kinenbi",
+  "kind": "manga",
+  "title": "Koiito Kinenbi",
+  "titles": {
+    "default": "Koiito Kinenbi"
+  },
+  "synonyms": [
+    "Abrupt Holy Night",
+    "Holy Night Invader",
+    "Holy Night Happy Bell",
+    "Princess Fox",
+    "恋糸記念日",
+    "Kataomoi no Mukougawa",
+    "片想いの向こう側",
+    "Kataomoi no Mukou Gawa",
+    "Ano Kado o Magareba",
+    "Tenshi ga Kuretamono",
+    "Bitou na Koi",
+    "Kimi to Natsu no Aizu"
+  ],
+  "type": "manga",
+  "chapters": 15,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx60763-SMO4FCncm7cV.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "15843",
+      "url": "https://anilist.co/anime/15843"
+    },
+    "al_manga": {
+      "id": "15843",
+      "url": "https://anilist.co/manga/15843"
+    }
+  }
+}

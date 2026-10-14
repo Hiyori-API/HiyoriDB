@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13746,
+  "slug": "paradise-kiss",
+  "kind": "manga",
+  "title": "Paradise Kiss",
+  "titles": {
+    "default": "Paradise Kiss"
+  },
+  "synonyms": [
+    "ParaKiss",
+    "Paradise Kiss",
+    "パラダイス・キス"
+  ],
+  "type": "manga",
+  "chapters": 48,
+  "volumes": 5,
+  "status": "finished",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx30029-yQdvHqd3GxKy.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "322",
+      "url": "https://anilist.co/anime/322"
+    },
+    "al_manga": {
+      "id": "322",
+      "url": "https://anilist.co/manga/322"
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7706,
+  "slug": "yami-shibai-2",
+  "kind": "anime",
+  "title": "Yami Shibai 2",
+  "titles": {
+    "default": "Yami Shibai 2",
+    "romaji": "Yami Shibai 2",
+    "english": "Theatre of Darkness: Yamishibai 2",
+    "native": "闇芝居 2"
+  },
+  "synonyms": [
+    "Yami Shibai 2",
+    "Theatre of Darkness: Yamishibai 2",
+    "闇芝居 2",
+    "Yamishibai: Japanese Ghost Stories 2",
+    "เรื่องเล่าผีญี่ปุ่น ภาค 2",
+    "JINSEI -Life Consulting-",
+    "Jinsei",
+    "人生相談テレビアニメーション「人生」",
+    "Life"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b20669-O7GTGncvvbaJ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "20669",
+      "url": "https://anilist.co/anime/20669"
+    },
+    "cr": {
+      "id": "yamishibai",
+      "url": "https://www.crunchyroll.com/series/yamishibai"
+    },
+    "k": {
+      "id": "8157",
+      "url": "https://kitsu.io/anime/8157"
+    },
+    "mal": {
+      "id": "22537",
+      "url": "https://myanimelist.net/anime/22537"
+    },
+    "t": {
+      "id": "77561",
+      "url": "https://trakt.tv/shows/77561"
+    },
+    "tvt": {
+      "id": "yamishibai",
+      "url": "http://www.tv-tokyo.co.jp/anime/yamishibai"
+    }
+  }
+}

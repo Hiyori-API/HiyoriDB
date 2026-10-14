@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5327,
+  "slug": "tokai-no-butchy",
+  "kind": "anime",
+  "title": "Tokai no Butchy",
+  "titles": {
+    "default": "Tokai no Butchy",
+    "romaji": "Tokai no Butchy",
+    "native": "都会のブッチー"
+  },
+  "synonyms": [
+    "Tokai no Butchy",
+    "都会のブッチー",
+    "Lupin the Third: Farewell to Nostradamus",
+    "Lupin III: Kutabare! Nostradamus",
+    "Lupin III: Farewell to Nostradamus",
+    "ルパン三世『くたばれ!ノストラダムス,』",
+    "Rupan Sansei",
+    "Lupin III: Die! Nostradamus"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b175804-ODeTMDfl2vdr.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "175804",
+      "url": "https://anilist.co/anime/175804"
+    },
+    "k": {
+      "id": "1272",
+      "url": "https://kitsu.io/anime/1272"
+    },
+    "mal": {
+      "id": "30036",
+      "url": "https://myanimelist.net/anime/30036"
+    }
+  }
+}

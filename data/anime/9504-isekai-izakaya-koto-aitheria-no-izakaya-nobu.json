@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9504,
+  "slug": "isekai-izakaya-koto-aitheria-no-izakaya-nobu",
+  "kind": "anime",
+  "title": "Isekai Izakaya: Koto Aitheria no Izakaya Nobu.",
+  "titles": {
+    "default": "Isekai Izakaya: Koto Aitheria no Izakaya Nobu.",
+    "romaji": "Isekai Izakaya: Koto Aitheria no Izakaya Nobu.",
+    "english": "Isekai Izakaya: Japanese Food From Another World",
+    "native": "異世界居酒屋～古都アイテーリアの居酒屋のぶ～"
+  },
+  "synonyms": [
+    "Isekai Izakaya: Koto Aitheria no Izakaya Nobu.",
+    "Isekai Izakaya: Japanese Food From Another World",
+    "異世界居酒屋～古都アイテーリアの居酒屋のぶ～",
+    "isekai izakaya \"NOBU\"",
+    "Otherwordly Izakaya \"Nobu\"",
+    "Isekai Izakaya: Koto Aitheria no Izakaya Nobu"
+  ],
+  "type": "ona",
+  "episodes": 24,
+  "status": "finished",
+  "season": "spring",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx97873-jYQ3dPoaOLxX.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "97873",
+      "url": "https://anilist.co/anime/97873"
+    },
+    "cr": {
+      "id": "isekai-izakaya-japanese-food-from-another-world",
+      "url": "https://www.crunchyroll.com/series/isekai-izakaya-japanese-food-from-another-world"
+    },
+    "mal": {
+      "id": "34420",
+      "url": "https://myanimelist.net/anime/34420"
+    },
+    "tx": {
+      "id": "isekaiizakaya",
+      "url": "https://twitter.com/isekaiizakaya"
+    }
+  }
+}

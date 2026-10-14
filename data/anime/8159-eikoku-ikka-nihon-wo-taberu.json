@@ -1,0 +1,58 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8159,
+  "slug": "eikoku-ikka-nihon-wo-taberu",
+  "kind": "anime",
+  "title": "Eikoku Ikka, Nihon wo Taberu",
+  "titles": {
+    "default": "Eikoku Ikka, Nihon wo Taberu",
+    "romaji": "Eikoku Ikka, Nihon wo Taberu",
+    "english": "Sushi and Beyond",
+    "native": "英国一家、日本を食べる"
+  },
+  "synonyms": [
+    "Eikoku Ikka, Nihon wo Taberu",
+    "Sushi and Beyond",
+    "英国一家、日本を食べる",
+    "Sushi e Além: Uma Família Britânica Saboreando o Japão",
+    "JoJo's Bizarre Adventure: Stardust Crusaders - Battle in Egypt",
+    "JoJo no Kimyou na Bouken: Stardust Crusaders 2nd Season",
+    "ジョジョの奇妙な冒険 スターダストクルセイダース",
+    "JoJo's Bizarre Adventure Part 3",
+    "JoJo's Bizarre Adventure: Stardust Crusaders - Egypt Arc"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "spring",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21028-RPVYPCJoz9W0.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21028",
+      "url": "https://anilist.co/anime/21028"
+    },
+    "cr": {
+      "id": "jojos-bizarre-adventure",
+      "url": "https://www.crunchyroll.com/series/jojos-bizarre-adventure"
+    },
+    "k": {
+      "id": "8739",
+      "url": "https://kitsu.io/anime/8739"
+    },
+    "mal": {
+      "id": "29722",
+      "url": "https://myanimelist.net/anime/29722"
+    },
+    "nf": {
+      "id": "80179831",
+      "url": "https://www.netflix.com/title/80179831"
+    },
+    "t": {
+      "id": "45537",
+      "url": "https://trakt.tv/shows/45537"
+    }
+  }
+}

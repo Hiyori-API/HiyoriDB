@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10650,
+  "slug": "tadaima-chibigodzilla",
+  "kind": "anime",
+  "title": "Tadaima! Chibigodzilla",
+  "titles": {
+    "default": "Tadaima! Chibigodzilla",
+    "romaji": "Tadaima! Chibigodzilla",
+    "english": "I'm home, Chibigodzilla",
+    "native": "ただいま！ちびゴジラ"
+  },
+  "synonyms": [
+    "Tadaima! Chibigodzilla",
+    "I'm home, Chibigodzilla",
+    "ただいま！ちびゴジラ",
+    "I'm home! Chibi Godzilla",
+    "Chibi GODZILLA",
+    "Saishuu Shiken Kujira",
+    "最終試験くじら",
+    "Final Examination Kujira"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b122248-8t1YvCNIj8mM.png"
+  ],
+  "references": {
+    "al": {
+      "id": "122248",
+      "url": "https://anilist.co/anime/122248"
+    },
+    "k": {
+      "id": "2685",
+      "url": "https://kitsu.io/anime/2685"
+    },
+    "mal": {
+      "id": "42500",
+      "url": "https://myanimelist.net/anime/42500"
+    }
+  }
+}

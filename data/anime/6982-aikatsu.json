@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6982,
+  "slug": "aikatsu",
+  "kind": "anime",
+  "title": "Aikatsu!",
+  "titles": {
+    "default": "Aikatsu!",
+    "romaji": "Aikatsu!",
+    "native": "アイカツ!"
+  },
+  "synonyms": [
+    "Aikatsu!",
+    "アイカツ!",
+    "Gon",
+    "ゴン"
+  ],
+  "type": "tv",
+  "episodes": 50,
+  "status": "finished",
+  "season": "fall",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15061-wqeJ1gtThHBK.png"
+  ],
+  "references": {
+    "al": {
+      "id": "15061",
+      "url": "https://anilist.co/anime/15061"
+    },
+    "k": {
+      "id": "5147",
+      "url": "https://kitsu.io/anime/5147"
+    },
+    "mal": {
+      "id": "15061",
+      "url": "https://myanimelist.net/anime/15061"
+    },
+    "t": {
+      "id": "67935",
+      "url": "https://trakt.tv/shows/67935"
+    },
+    "tvt": {
+      "id": "aikatsu",
+      "url": "http://www.tv-tokyo.co.jp/anime/aikatsu"
+    },
+    "tx": {
+      "id": "aikatsu_anime",
+      "url": "https://twitter.com/aikatsu_anime"
+    }
+  }
+}

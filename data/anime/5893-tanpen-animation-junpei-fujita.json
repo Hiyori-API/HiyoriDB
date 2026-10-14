@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5893,
+  "slug": "tanpen-animation-junpei-fujita",
+  "kind": "anime",
+  "title": "Tanpen Animation Junpei Fujita",
+  "titles": {
+    "default": "Tanpen Animation Junpei Fujita",
+    "romaji": "Tanpen Animation Junpei Fujita",
+    "english": "Short Animations of Junpei Fujita",
+    "native": "短編アニメーション Junpei Fujita"
+  },
+  "synonyms": [
+    "Tanpen Animation Junpei Fujita",
+    "Short Animations of Junpei Fujita",
+    "短編アニメーション Junpei Fujita",
+    "The Seasons",
+    "Eaten Up Planet",
+    "Insane Ice",
+    "忘却星の公式",
+    "Boukyakusei no Koushiki",
+    "忘れられた惑星",
+    "Wasurerareta Wakusei",
+    "その狂った氷",
+    "Sono Kurutta Koori",
+    "Forgotten Planet"
+  ],
+  "type": "special",
+  "episodes": 3,
+  "status": "finished",
+  "season": "summer",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15129.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "15129",
+      "url": "https://anilist.co/anime/15129"
+    },
+    "k": {
+      "id": "7219",
+      "url": "https://kitsu.io/anime/7219"
+    },
+    "mal": {
+      "id": "15129",
+      "url": "https://myanimelist.net/anime/15129"
+    }
+  }
+}

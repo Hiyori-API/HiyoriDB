@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4391,
+  "slug": "11eyes",
+  "kind": "anime",
+  "title": "11eyes",
+  "titles": {
+    "default": "11eyes",
+    "romaji": "11eyes",
+    "native": "イレブンアイズ"
+  },
+  "synonyms": [
+    "11eyes",
+    "イレブンアイズ",
+    "11eyes -Tsumi to Batsu to Aganai no Shoujo-",
+    "The Sacred Blacksmith",
+    "Seiken no Blacksmith",
+    "聖剣の刀鍛冶（ブラックスミス）",
+    "Seiken no Katanakaji"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6682-ZptgLsCCNHjL.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6682",
+      "url": "https://anilist.co/anime/6682"
+    },
+    "cr": {
+      "id": "11eyes",
+      "url": "https://www.crunchyroll.com/series/11eyes"
+    },
+    "k": {
+      "id": "4354",
+      "url": "https://kitsu.io/anime/4354"
+    },
+    "mal": {
+      "id": "6682",
+      "url": "https://myanimelist.net/anime/6682"
+    },
+    "t": {
+      "id": "61399",
+      "url": "https://trakt.tv/shows/61399"
+    }
+  }
+}

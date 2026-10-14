@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11128,
+  "slug": "skate-leading-stars",
+  "kind": "anime",
+  "title": "Skate-Leading☆Stars",
+  "titles": {
+    "default": "Skate-Leading☆Stars",
+    "romaji": "Skate-Leading☆Stars",
+    "english": "Skate-Leading Stars",
+    "native": "スケートリーディング☆スターズ"
+  },
+  "synonyms": [
+    "Skate-Leading☆Stars",
+    "Skate-Leading Stars",
+    "スケートリーディング☆スターズ",
+    "Non Non Biyori 3rd Season",
+    "Non Non Biyori Third Season",
+    "Non Non Biyori Nonstop",
+    "のんのんびより のんすとっぷ"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113585-AJKXZnpnAX0w.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "113585",
+      "url": "https://anilist.co/anime/113585"
+    },
+    "cr": {
+      "id": "skate-leading-stars",
+      "url": "https://www.crunchyroll.com/series/skate-leading-stars"
+    },
+    "mal": {
+      "id": "40786",
+      "url": "https://myanimelist.net/anime/40786"
+    },
+    "tx": {
+      "id": "Skate_Leading",
+      "url": "https://twitter.com/Skate_Leading"
+    }
+  }
+}

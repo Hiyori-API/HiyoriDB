@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11247,
+  "slug": "hula-fulla-dance",
+  "kind": "anime",
+  "title": "Hula Fulla Dance",
+  "titles": {
+    "default": "Hula Fulla Dance",
+    "romaji": "Hula Fulla Dance",
+    "native": "フラ・フラダンス"
+  },
+  "synonyms": [
+    "Hula Fulla Dance",
+    "フラ・フラダンス",
+    "Evangelion: 3.0+1.0 Thrice Upon a Time",
+    "Shin Evangelion Gekijouban :||",
+    "シン・エヴァンゲリオン劇場版:||",
+    "Evangelion: 4.0",
+    "Rebuild of Evangelion 4.0"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b125841-AjrL6uLZrv1g.png"
+  ],
+  "references": {
+    "al": {
+      "id": "125841",
+      "url": "https://anilist.co/anime/125841"
+    },
+    "cr": {
+      "id": "series/GEXH3W2Q5/hula-fulla-dance",
+      "url": "https://www.crunchyroll.com/series/series/GEXH3W2Q5/hula-fulla-dance"
+    },
+    "k": {
+      "id": "3252",
+      "url": "https://kitsu.io/anime/3252"
+    },
+    "mal": {
+      "id": "43762",
+      "url": "https://myanimelist.net/anime/43762"
+    },
+    "tx": {
+      "id": "hula_fulladance",
+      "url": "https://twitter.com/hula_fulladance"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10117,
+  "slug": "doraemon-nobita-no-getsumen-tansa-ki",
+  "kind": "anime",
+  "title": "Doraemon: Nobita no Getsumen Tansa-ki",
+  "titles": {
+    "default": "Doraemon: Nobita no Getsumen Tansa-ki",
+    "romaji": "Doraemon: Nobita no Getsumen Tansa-ki",
+    "english": "Doraemon the Movie 2019: Nobita's Chronicle of the Moon Exploration",
+    "native": "ドラえもん のび太の月面探査記"
+  },
+  "synonyms": [
+    "Doraemon: Nobita no Getsumen Tansa-ki",
+    "Doraemon the Movie 2019: Nobita's Chronicle of the Moon Exploration",
+    "ドラえもん のび太の月面探査記",
+    "哆啦A梦：大雄的月球探险记",
+    "โดราเอมอน เดอะ มูฟวี่ ตอน โนบิตะสำรวจดินแดนจันทรา",
+    "Cencoroll 2",
+    "センコロール"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx106493-TWaFM37aktmG.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "106493",
+      "url": "https://anilist.co/anime/106493"
+    },
+    "k": {
+      "id": "5749",
+      "url": "https://kitsu.io/anime/5749"
+    },
+    "mal": {
+      "id": "38530",
+      "url": "https://myanimelist.net/anime/38530"
+    }
+  }
+}

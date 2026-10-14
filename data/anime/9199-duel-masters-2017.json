@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9199,
+  "slug": "duel-masters-2017",
+  "kind": "anime",
+  "title": "Duel Masters (2017)",
+  "titles": {
+    "default": "Duel Masters (2017)",
+    "romaji": "Duel Masters (2017)",
+    "native": "デュエル・マスターズ(2017)"
+  },
+  "synonyms": [
+    "Duel Masters (2017)",
+    "デュエル・マスターズ(2017)",
+    "Beyblade Burst Evolution",
+    "ベイブレードバースト 神〈ゴッド〉",
+    "Beyblade Burst God"
+  ],
+  "type": "tv",
+  "episodes": 51,
+  "status": "finished",
+  "season": "spring",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98378-BjuW9yistHlY.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98378",
+      "url": "https://anilist.co/anime/98378"
+    },
+    "mal": {
+      "id": "34905",
+      "url": "https://myanimelist.net/anime/34905"
+    }
+  }
+}

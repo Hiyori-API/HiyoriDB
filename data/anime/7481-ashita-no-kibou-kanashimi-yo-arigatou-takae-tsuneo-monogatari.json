@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7481,
+  "slug": "ashita-no-kibou-kanashimi-yo-arigatou-takae-tsuneo-monogatari",
+  "kind": "anime",
+  "title": "Ashita no Kibou: Kanashimi yo Arigatou - Takae Tsuneo Monogatari",
+  "titles": {
+    "default": "Ashita no Kibou: Kanashimi yo Arigatou - Takae Tsuneo Monogatari",
+    "romaji": "Ashita no Kibou: Kanashimi yo Arigatou - Takae Tsuneo Monogatari",
+    "native": "明日の希望 悲しみよありがとう 高江常男物語"
+  },
+  "synonyms": [
+    "Ashita no Kibou: Kanashimi yo Arigatou - Takae Tsuneo Monogatari",
+    "明日の希望 悲しみよありがとう 高江常男物語",
+    "Tomorrow's Hope - Thank You, Sadness: The Story of Tsuneo Takae",
+    "Tomorrow's Hope -Thank You",
+    "Sadness: The Story of Tsuneo Takae"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx107341-01ra51TLTJ3S.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "107341",
+      "url": "https://anilist.co/anime/107341"
+    },
+    "k": {
+      "id": "9201",
+      "url": "https://kitsu.io/anime/9201"
+    },
+    "mal": {
+      "id": "23031",
+      "url": "https://myanimelist.net/anime/23031"
+    }
+  }
+}

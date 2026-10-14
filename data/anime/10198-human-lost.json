@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10198,
+  "slug": "human-lost",
+  "kind": "anime",
+  "title": "HUMAN LOST",
+  "titles": {
+    "default": "HUMAN LOST",
+    "romaji": "HUMAN LOST",
+    "native": "HUMAN LOST人間失格"
+  },
+  "synonyms": [
+    "HUMAN LOST",
+    "HUMAN LOST人間失格",
+    "Ningen Shikkaku",
+    "No Longer Human",
+    "Saenai Heroine no Sodatekata Movie",
+    "Saekano: How to Raise a Boring Girlfriend Movie",
+    "Saekano the Movie: Finale",
+    "冴えない彼女の育てかた Fine",
+    "Saenai Heroine no Sodatekata Fine"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108626-0TtoR6rqVMoI.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "108626",
+      "url": "https://anilist.co/anime/108626"
+    },
+    "cr": {
+      "id": "series/G24H1NJQ2/human-lost",
+      "url": "https://www.crunchyroll.com/series/series/G24H1NJQ2/human-lost"
+    },
+    "mal": {
+      "id": "39584",
+      "url": "https://myanimelist.net/anime/39584"
+    },
+    "tx": {
+      "id": "humanlost_pr",
+      "url": "https://twitter.com/humanlost_pr"
+    }
+  }
+}

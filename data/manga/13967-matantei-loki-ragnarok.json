@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13967,
+  "slug": "matantei-loki-ragnarok",
+  "kind": "manga",
+  "title": "Matantei Loki Ragnarok",
+  "titles": {
+    "default": "Matantei Loki Ragnarok"
+  },
+  "synonyms": [
+    "Detective Loki Ragnarok",
+    "El Misterioso Loki Ragnarok",
+    "The Mythical Detective Loki Ragnarok",
+    "魔探偵ロキRAGNAROK",
+    "Fujisan",
+    "富士山",
+    "Fuji-san"
+  ],
+  "type": "manga",
+  "chapters": 34,
+  "volumes": 5,
+  "status": "finished",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx38442-mbRfHqMn5JRG.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "335",
+      "url": "https://anilist.co/anime/335"
+    },
+    "al_manga": {
+      "id": "335",
+      "url": "https://anilist.co/manga/335"
+    }
+  }
+}

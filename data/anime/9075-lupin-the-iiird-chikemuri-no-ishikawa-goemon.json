@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9075,
+  "slug": "lupin-the-iiird-chikemuri-no-ishikawa-goemon",
+  "kind": "anime",
+  "title": "LUPIN THE IIIRD: Chikemuri no Ishikawa Goemon",
+  "titles": {
+    "default": "LUPIN THE IIIRD: Chikemuri no Ishikawa Goemon",
+    "romaji": "LUPIN THE IIIRD: Chikemuri no Ishikawa Goemon",
+    "english": "Lupin the IIIrd: Goemon's Blood Spray",
+    "native": "LUPIN THE IIIRD 血煙の石川五ェ門"
+  },
+  "synonyms": [
+    "LUPIN THE IIIRD: Chikemuri no Ishikawa Goemon",
+    "Lupin the IIIrd: Goemon's Blood Spray",
+    "LUPIN THE IIIRD 血煙の石川五ェ門",
+    "Lupin the Third: Goemon Ishikawa's Spray of Blood",
+    "Lupin III.: Goemon Ishikawa, der es Blut regnen lässt",
+    "Lupin the IIIrd - Ishikawa Goemon getto di sangue",
+    "Genocidal Organ",
+    "Gyakusatsu Kikan",
+    "虐殺器官",
+    "Project Itoh"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97619-DJWojwxLj8cn.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "97619",
+      "url": "https://anilist.co/anime/97619"
+    },
+    "ap": {
+      "id": "B07WZQP5TF",
+      "url": "https://www.amazon.com/gp/video/detail/B07WZQP5TF"
+    },
+    "k": {
+      "id": "8737",
+      "url": "https://kitsu.io/anime/8737"
+    },
+    "mal": {
+      "id": "34021",
+      "url": "https://myanimelist.net/anime/34021"
+    },
+    "tx": {
+      "id": "lupin3_goemon",
+      "url": "https://twitter.com/lupin3_goemon"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13348,
+  "slug": "shibou-yuugi-de-meshi-wo-kuu",
+  "kind": "anime",
+  "title": "Shibou Yuugi de Meshi wo Kuu.",
+  "titles": {
+    "default": "Shibou Yuugi de Meshi wo Kuu.",
+    "romaji": "Shibou Yuugi de Meshi wo Kuu.",
+    "english": "SHIBOYUGI: Playing Death Games to Put Food on the Table",
+    "native": "死亡遊戯で飯を食う。"
+  },
+  "synonyms": [
+    "Shibou Yuugi de Meshi wo Kuu.",
+    "SHIBOYUGI: Playing Death Games to Put Food on the Table",
+    "死亡遊戯で飯を食う。",
+    "SHIBOYUGI: Jogos Mortais para Colocar Comida na Mesa",
+    "SHIBOYUGI: Juegos mortales para ganarse el pan",
+    "SHIBOYUGI: Das Phantom-Mädchen im Spiel des Todes",
+    "Смертельная игра ради еды на столе",
+    "Смертельні ігри заради їжі на столі",
+    "Kiếm Cơm Bằng Trò Chơi Sinh Tử",
+    "靠死亡游戏混饭吃。",
+    "ลิขิตชะตาเกมท้าตาย",
+    "SHIBOYUGI : Survivre est mon métier",
+    "사망 유희로 밥을 먹는다.",
+    "Bermain Game Kematian untuk Sesuap Nasi.",
+    "Shiboyugi: Playing Death Games to Put Food on the Table"
+  ],
+  "type": "tv",
+  "episodes": 11,
+  "status": "finished",
+  "season": "winter",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180746-eqDiHbzoHMFh.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "180746",
+      "url": "https://anilist.co/anime/180746"
+    },
+    "cr": {
+      "id": "series/GT00365787/shiboyugi-playing-death-games-to-put-food-on-the-table",
+      "url": "https://www.crunchyroll.com/series/series/GT00365787/shiboyugi-playing-death-games-to-put-food-on-the-table"
+    },
+    "mal": {
+      "id": "59711",
+      "url": "https://myanimelist.net/anime/59711"
+    }
+  }
+}

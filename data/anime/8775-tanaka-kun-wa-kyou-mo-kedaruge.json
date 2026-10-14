@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8775,
+  "slug": "tanaka-kun-wa-kyou-mo-kedaruge",
+  "kind": "anime",
+  "title": "Tanaka-kun wa Kyou mo Kedaruge",
+  "titles": {
+    "default": "Tanaka-kun wa Kyou mo Kedaruge",
+    "romaji": "Tanaka-kun wa Kyou mo Kedaruge",
+    "native": "田中くんは今日もけだるげ"
+  },
+  "synonyms": [
+    "Tanaka-kun wa Kyou mo Kedaruge",
+    "田中くんは今日もけだるげ",
+    "Tanaka is Listless Today Too"
+  ],
+  "type": "ona",
+  "episodes": 35,
+  "status": "finished",
+  "season": "spring",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21800-0vXIUrT4m1hl.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21800",
+      "url": "https://anilist.co/anime/21800"
+    },
+    "mal": {
+      "id": "33004",
+      "url": "https://myanimelist.net/anime/33004"
+    },
+    "tx": {
+      "id": "tanaka_anime",
+      "url": "https://twitter.com/tanaka_anime"
+    }
+  }
+}

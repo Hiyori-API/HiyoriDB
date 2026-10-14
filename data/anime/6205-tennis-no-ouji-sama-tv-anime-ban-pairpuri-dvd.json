@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6205,
+  "slug": "tennis-no-ouji-sama-tv-anime-ban-pairpuri-dvd",
+  "kind": "anime",
+  "title": "Tennis no Ouji-sama: TV Anime-ban Pairpuri DVD",
+  "titles": {
+    "default": "Tennis no Ouji-sama: TV Anime-ban Pairpuri DVD",
+    "romaji": "Tennis no Ouji-sama: TV Anime-ban Pairpuri DVD",
+    "native": "テニスの王子様TVアニメ版ペアプリDVD"
+  },
+  "synonyms": [
+    "Tennis no Ouji-sama: TV Anime-ban Pairpuri DVD",
+    "テニスの王子様TVアニメ版ペアプリDVD",
+    "Prince of Tennis: Peapuri",
+    "Prince of Tennis Picture Drama",
+    "Prince of Tennis: Pairpuri",
+    "Tennis no Ouji-sama: Pair Prince",
+    "テニスの王子様- ペアプリDVD"
+  ],
+  "type": "special",
+  "episodes": 8,
+  "status": "finished",
+  "season": "summer",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10862.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10862",
+      "url": "https://anilist.co/anime/10862"
+    },
+    "k": {
+      "id": "6388",
+      "url": "https://kitsu.io/anime/6388"
+    },
+    "mal": {
+      "id": "10862",
+      "url": "https://myanimelist.net/anime/10862"
+    }
+  }
+}

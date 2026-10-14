@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 680,
+  "slug": "boku-no-sexual-harassment",
+  "kind": "anime",
+  "title": "Boku no Sexual Harassment",
+  "titles": {
+    "default": "Boku no Sexual Harassment",
+    "romaji": "Boku no Sexual Harassment",
+    "english": "My Sexual Harassment",
+    "native": "僕のセクシャルハラスメント"
+  },
+  "synonyms": [
+    "Boku no Sexual Harassment",
+    "My Sexual Harassment",
+    "僕のセクシャルハラスメント",
+    "Boku no Sekuhara",
+    "Giant Robo Gaiden Ginrei",
+    "ジャイアントロボ外伝 GinRei 銀鈴",
+    "Giant Robo: Gin-Rei Special",
+    "GinRei: The Animation"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "winter",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b755-wgIknnbtIvVd.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "755",
+      "url": "https://anilist.co/anime/755"
+    },
+    "k": {
+      "id": "2103",
+      "url": "https://kitsu.io/anime/2103"
+    },
+    "mal": {
+      "id": "755",
+      "url": "https://myanimelist.net/anime/755"
+    }
+  }
+}

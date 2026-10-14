@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10241,
+  "slug": "kutsujoku",
+  "kind": "anime",
+  "title": "Kutsujoku",
+  "titles": {
+    "default": "Kutsujoku",
+    "romaji": "Kutsujoku",
+    "native": "屈辱"
+  },
+  "synonyms": [
+    "Kutsujoku",
+    "屈辱",
+    "humiliation",
+    "School Rumble Ichi Gakki Hoshuu",
+    "スクールランブル一学期補習",
+    "School Rumble OVA",
+    "School Rumble: First Extra Term"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110347-yrizi77YpB89.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "110347",
+      "url": "https://anilist.co/anime/110347"
+    },
+    "k": {
+      "id": "476",
+      "url": "https://kitsu.io/anime/476"
+    },
+    "mal": {
+      "id": "40048",
+      "url": "https://myanimelist.net/anime/40048"
+    }
+  }
+}

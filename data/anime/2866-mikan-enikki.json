@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2866,
+  "slug": "mikan-enikki",
+  "kind": "anime",
+  "title": "Mikan Enikki",
+  "titles": {
+    "default": "Mikan Enikki",
+    "romaji": "Mikan Enikki",
+    "native": "みかん絵日記"
+  },
+  "synonyms": [
+    "Mikan Enikki",
+    "みかん絵日記",
+    "Mikan's Picture Diary",
+    "Mikan's Illustrated Diary",
+    "Mikan – pomarańczowy kot"
+  ],
+  "type": "tv",
+  "episodes": 31,
+  "status": "finished",
+  "season": "fall",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3345.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3345",
+      "url": "https://anilist.co/anime/3345"
+    },
+    "k": {
+      "id": "2947",
+      "url": "https://kitsu.io/anime/2947"
+    },
+    "mal": {
+      "id": "3345",
+      "url": "https://myanimelist.net/anime/3345"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7737,
+  "slug": "barakamon",
+  "kind": "anime",
+  "title": "Barakamon",
+  "titles": {
+    "default": "Barakamon",
+    "romaji": "Barakamon",
+    "native": "ばらかもん"
+  },
+  "synonyms": [
+    "Barakamon",
+    "ばらかもん",
+    "元气囝仔",
+    "บารากะมอน เกาะมีฮา คนมีเฮ"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20722-2KAeq72E95dr.png"
+  ],
+  "references": {
+    "al": {
+      "id": "20722",
+      "url": "https://anilist.co/anime/20722"
+    },
+    "cr": {
+      "id": "series/GYMGD89VY/barakamon",
+      "url": "https://www.crunchyroll.com/series/series/GYMGD89VY/barakamon"
+    },
+    "k": {
+      "id": "8026",
+      "url": "https://kitsu.io/anime/8026"
+    },
+    "mal": {
+      "id": "22789",
+      "url": "https://myanimelist.net/anime/22789"
+    },
+    "t": {
+      "id": "77570",
+      "url": "https://trakt.tv/shows/77570"
+    },
+    "tx": {
+      "id": "brkmn_anime",
+      "url": "https://twitter.com/brkmn_anime"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3369,
+  "slug": "dore-dore-no-uta",
+  "kind": "anime",
+  "title": "Dore Dore no Uta",
+  "titles": {
+    "default": "Dore Dore no Uta",
+    "romaji": "Dore Dore no Uta",
+    "native": "金曜ロードショー オープニング映像"
+  },
+  "synonyms": [
+    "Dore Dore no Uta",
+    "金曜ロードショー オープニング映像"
+  ],
+  "type": "music",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4158.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4158",
+      "url": "https://anilist.co/anime/4158"
+    },
+    "k": {
+      "id": "3495",
+      "url": "https://kitsu.io/anime/3495"
+    },
+    "mal": {
+      "id": "4158",
+      "url": "https://myanimelist.net/anime/4158"
+    }
+  }
+}

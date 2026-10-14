@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6932,
+  "slug": "tonari-no-kaibutsu-kun",
+  "kind": "anime",
+  "title": "Tonari no Kaibutsu-kun",
+  "titles": {
+    "default": "Tonari no Kaibutsu-kun",
+    "romaji": "Tonari no Kaibutsu-kun",
+    "english": "My Little Monster",
+    "native": "となりの怪物くん"
+  },
+  "synonyms": [
+    "Tonari no Kaibutsu-kun",
+    "My Little Monster",
+    "となりの怪物くん",
+    "Tonari no Kaibutsukun",
+    "The Monster Next Door",
+    "My Neighbor Monster-kun",
+    "Le Garçon d'à coté",
+    "Bestia z ławki obok",
+    "Kill Me Baby",
+    "キルミーベイベー",
+    "Baby",
+    "Please Kill Me."
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14227-VGxPG1xDZG7v.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "14227",
+      "url": "https://anilist.co/anime/14227"
+    },
+    "cr": {
+      "id": "my-little-monster",
+      "url": "https://www.crunchyroll.com/series/my-little-monster"
+    },
+    "k": {
+      "id": "6454",
+      "url": "https://kitsu.io/anime/6454"
+    },
+    "mal": {
+      "id": "14227",
+      "url": "https://myanimelist.net/anime/14227"
+    },
+    "t": {
+      "id": "65264",
+      "url": "https://trakt.tv/shows/65264"
+    }
+  }
+}

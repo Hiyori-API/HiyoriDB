@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14687,
+  "slug": "abashiri-ikka",
+  "kind": "manga",
+  "title": "Abashiri Ikka",
+  "titles": {
+    "default": "Abashiri Ikka"
+  },
+  "synonyms": [
+    "あばしり一家",
+    "The Crater",
+    "ザ・クレーター"
+  ],
+  "type": "manga",
+  "chapters": 154,
+  "volumes": 15,
+  "status": "finished",
+  "year": 1969,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b37756-JrPGiFMVmuHp.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "305",
+      "url": "https://anilist.co/anime/305"
+    },
+    "al_manga": {
+      "id": "305",
+      "url": "https://anilist.co/manga/305"
+    }
+  }
+}

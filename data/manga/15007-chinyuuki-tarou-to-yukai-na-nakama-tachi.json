@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15007,
+  "slug": "chinyuuki-tarou-to-yukai-na-nakama-tachi",
+  "kind": "manga",
+  "title": "Chinyuuki: Tarou to Yukai na Nakama-tachi",
+  "titles": {
+    "default": "Chinyuuki: Tarou to Yukai na Nakama-tachi"
+  },
+  "synonyms": [
+    "Chinyuki: Taro and his Amusing Companions",
+    "Chinyuki: Taro to Yukaina Nakamatachi",
+    "珍遊記 ～太郎とゆかいな仲間たち～",
+    "Shouryou Tsukai Elementalors",
+    "精霊使いエレメンタラー",
+    "Elementalors",
+    "Shouryou Tsukai Erementara",
+    "les Elémentalistes"
+  ],
+  "type": "manga",
+  "chapters": 63,
+  "volumes": 6,
+  "status": "finished",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx91055-nqa5P7YsDU2G.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6687",
+      "url": "https://anilist.co/anime/6687"
+    },
+    "al_manga": {
+      "id": "6687",
+      "url": "https://anilist.co/manga/6687"
+    }
+  }
+}

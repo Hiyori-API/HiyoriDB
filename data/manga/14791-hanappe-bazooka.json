@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14791,
+  "slug": "hanappe-bazooka",
+  "kind": "manga",
+  "title": "Hanappe Bazooka",
+  "titles": {
+    "default": "Hanappe Bazooka"
+  },
+  "synonyms": [
+    "花平バズーカ",
+    "Sobakasu no Shounen",
+    "そばかすの少年",
+    "Freckles"
+  ],
+  "type": "manga",
+  "chapters": 41,
+  "volumes": 10,
+  "status": "finished",
+  "year": 1979,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10734.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4042",
+      "url": "https://anilist.co/anime/4042"
+    },
+    "al_manga": {
+      "id": "4042",
+      "url": "https://anilist.co/manga/4042"
+    }
+  }
+}

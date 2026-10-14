@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6568,
+  "slug": "ikkitousen-shuugaku-toushi-keppuuroku",
+  "kind": "anime",
+  "title": "Ikkitousen: Shuugaku Toushi Keppuuroku",
+  "titles": {
+    "default": "Ikkitousen: Shuugaku Toushi Keppuuroku",
+    "romaji": "Ikkitousen: Shuugaku Toushi Keppuuroku",
+    "english": "Ikki Tousen: Shugaku Toshi Keppu-roku",
+    "native": "一騎当千 集鍔闘士血風録"
+  },
+  "synonyms": [
+    "Ikkitousen: Shuugaku Toushi Keppuuroku",
+    "Ikki Tousen: Shugaku Toshi Keppu-roku",
+    "一騎当千 集鍔闘士血風録",
+    "Ikki Tousen in Kyoto",
+    "Ikki Tousen: Shuugaku Epic Battle"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11255-ObGBNXLoypoQ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11255",
+      "url": "https://anilist.co/anime/11255"
+    },
+    "k": {
+      "id": "6483",
+      "url": "https://kitsu.io/anime/6483"
+    },
+    "mal": {
+      "id": "11255",
+      "url": "https://myanimelist.net/anime/11255"
+    }
+  }
+}

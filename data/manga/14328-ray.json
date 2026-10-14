@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14328,
+  "slug": "ray",
+  "kind": "manga",
+  "title": "RAY",
+  "titles": {
+    "default": "RAY"
+  },
+  "synonyms": [
+    "Ray: The Other Side",
+    "Ray+",
+    "レイ",
+    "레이",
+    "Ray",
+    "ＲＡＹ－レイ－",
+    "Fujisan",
+    "富士山",
+    "Fuji-san"
+  ],
+  "type": "manga",
+  "chapters": 34,
+  "volumes": 7,
+  "status": "finished",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx32913-GJSx3vCMvc5G.png"
+  ],
+  "references": {
+    "al": {
+      "id": "919",
+      "url": "https://anilist.co/anime/919"
+    },
+    "al_manga": {
+      "id": "919",
+      "url": "https://anilist.co/manga/919"
+    }
+  }
+}

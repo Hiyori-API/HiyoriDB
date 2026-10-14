@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13010,
+  "slug": "tabekko-doubutsu-the-movie",
+  "kind": "anime",
+  "title": "Tabekko Doubutsu THE MOVIE",
+  "titles": {
+    "default": "Tabekko Doubutsu THE MOVIE",
+    "romaji": "Tabekko Doubutsu THE MOVIE",
+    "english": "Dream Animals THE MOVIE",
+    "native": "たべっ子どうぶつ THE MOVIE"
+  },
+  "synonyms": [
+    "Tabekko Doubutsu THE MOVIE",
+    "Dream Animals THE MOVIE",
+    "たべっ子どうぶつ THE MOVIE",
+    "eX-Driver the Movie",
+    "エクスドライバー the Movie"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b180124-Yqk9d9iKiYwo.png"
+  ],
+  "references": {
+    "al": {
+      "id": "180124",
+      "url": "https://anilist.co/anime/180124"
+    },
+    "k": {
+      "id": "345",
+      "url": "https://kitsu.io/anime/345"
+    },
+    "mal": {
+      "id": "61198",
+      "url": "https://myanimelist.net/anime/61198"
+    },
+    "tx": {
+      "id": "tabekko_movie",
+      "url": "https://twitter.com/tabekko_movie"
+    }
+  }
+}

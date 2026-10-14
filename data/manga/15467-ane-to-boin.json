@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15467,
+  "slug": "ane-to-boin",
+  "kind": "manga",
+  "title": "Ane to Boin",
+  "titles": {
+    "default": "Ane to Boin"
+  },
+  "synonyms": [
+    "姉とボイン",
+    "Young Gun Carnaval",
+    "ヤングガン・カルナバル"
+  ],
+  "type": "novel",
+  "volumes": 1,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/91261-xhcjklaxSO2q.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2411",
+      "url": "https://anilist.co/anime/2411"
+    },
+    "al_manga": {
+      "id": "2411",
+      "url": "https://anilist.co/manga/2411"
+    }
+  }
+}

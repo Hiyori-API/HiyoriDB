@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11374,
+  "slug": "isekai-maou-to-shoukan-shoujo-no-dorei-majutsu-mini-anime",
+  "kind": "anime",
+  "title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω Mini Anime",
+  "titles": {
+    "default": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω Mini Anime",
+    "romaji": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω Mini Anime",
+    "native": "異世界魔王と召喚少女の奴隷魔術Ω ミニアニメ"
+  },
+  "synonyms": [
+    "Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω Mini Anime",
+    "異世界魔王と召喚少女の奴隷魔術Ω ミニアニメ",
+    "Shiguang Dailiren Xiao Juchang",
+    "时光代理人小剧场",
+    "Link Click Mini Theater",
+    "Link Click: The Daily Life in Lightime",
+    "时光照相馆的日常",
+    "Shiguang Zhaoxiangguan de Richang"
+  ],
+  "type": "ona",
+  "episodes": 18,
+  "status": "finished",
+  "season": "spring",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131944-zm20wDKPu0EH.png"
+  ],
+  "references": {
+    "al": {
+      "id": "131944",
+      "url": "https://anilist.co/anime/131944"
+    },
+    "mal": {
+      "id": "48615",
+      "url": "https://myanimelist.net/anime/48615"
+    },
+    "tx": {
+      "id": "search",
+      "url": "https://twitter.com/search"
+    }
+  }
+}

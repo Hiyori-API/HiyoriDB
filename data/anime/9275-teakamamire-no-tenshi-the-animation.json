@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9275,
+  "slug": "teakamamire-no-tenshi-the-animation",
+  "kind": "anime",
+  "title": "Teakamamire no Tenshi THE ANIMATION",
+  "titles": {
+    "default": "Teakamamire no Tenshi THE ANIMATION",
+    "romaji": "Teakamamire no Tenshi THE ANIMATION",
+    "native": "手垢塗れの天使 THE ANIMATION"
+  },
+  "synonyms": [
+    "Teakamamire no Tenshi THE ANIMATION",
+    "手垢塗れの天使 THE ANIMATION",
+    "Defiled Angel",
+    "KonoSuba: God's Blessing on This Wonderful World! Second Season OVA",
+    "Kono Subarashii Sekai ni Shukufuku wo! 2 OVA",
+    "KonoSuba: God's Blessing on This Wonderful World! 2 - God's Blessing on This Wonderful Art!",
+    "この素晴らしい世界に祝福を！2 この素晴らしい芸術に祝福を！",
+    "Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98660-3xF3EFND0QWH.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98660",
+      "url": "https://anilist.co/anime/98660"
+    },
+    "mal": {
+      "id": "35499",
+      "url": "https://myanimelist.net/anime/35499"
+    }
+  }
+}

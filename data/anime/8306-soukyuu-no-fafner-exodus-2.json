@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8306,
+  "slug": "soukyuu-no-fafner-exodus-2",
+  "kind": "anime",
+  "title": "Soukyuu no Fafner: EXODUS 2",
+  "titles": {
+    "default": "Soukyuu no Fafner: EXODUS 2",
+    "romaji": "Soukyuu no Fafner: EXODUS 2",
+    "english": "Fafner Exodus 2",
+    "native": "蒼穹のファフナー EXODUS 2"
+  },
+  "synonyms": [
+    "Soukyuu no Fafner: EXODUS 2",
+    "Fafner Exodus 2",
+    "蒼穹のファフナー EXODUS 2",
+    "Soukyuu no Fafner: Dead Aggressor - Exodus 2",
+    "Soukyuu no Fafner: Dead Aggressor - Exodus 2nd Season",
+    "Fafner in the Azure: Dead Aggressor - Exodus 2nd Season",
+    "蒼穹のファフナー Dead Aggressor EXODUS",
+    "Soukyuu no Fafner: Dead Aggressor - Exodus Part 2"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21287-ey3gaynEFqUS.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21287",
+      "url": "https://anilist.co/anime/21287"
+    },
+    "cr": {
+      "id": "fafner-exodus",
+      "url": "https://www.crunchyroll.com/series/fafner-exodus"
+    },
+    "mal": {
+      "id": "30549",
+      "url": "https://myanimelist.net/anime/30549"
+    },
+    "tx": {
+      "id": "fafnerproject",
+      "url": "https://twitter.com/fafnerproject"
+    }
+  }
+}

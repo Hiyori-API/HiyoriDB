@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13857,
+  "slug": "gate-keepers",
+  "kind": "manga",
+  "title": "Gate Keepers",
+  "titles": {
+    "default": "Gate Keepers"
+  },
+  "synonyms": [
+    "Gatekeepers",
+    "ゲートキーパーズ",
+    "Maburaho",
+    "まぶらほ",
+    "Maburaho Tanpen"
+  ],
+  "type": "novel",
+  "volumes": 3,
+  "status": "finished",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx51981-GfNMjFrvdpiK.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "127",
+      "url": "https://anilist.co/anime/127"
+    },
+    "al_manga": {
+      "id": "127",
+      "url": "https://anilist.co/manga/127"
+    }
+  }
+}

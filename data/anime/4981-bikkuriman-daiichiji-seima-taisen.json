@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4981,
+  "slug": "bikkuriman-daiichiji-seima-taisen",
+  "kind": "anime",
+  "title": "Bikkuriman: Daiichiji Seima Taisen",
+  "titles": {
+    "default": "Bikkuriman: Daiichiji Seima Taisen",
+    "romaji": "Bikkuriman: Daiichiji Seima Taisen",
+    "native": "ビックリマン 第一次聖魔大戦"
+  },
+  "synonyms": [
+    "Bikkuriman: Daiichiji Seima Taisen",
+    "ビックリマン 第一次聖魔大戦",
+    "My Neighbor Totoro",
+    "Tonari no Totoro",
+    "となりのトトロ",
+    "My Neighbour Totoro"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10203.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10203",
+      "url": "https://anilist.co/anime/10203"
+    },
+    "k": {
+      "id": "482",
+      "url": "https://kitsu.io/anime/482"
+    },
+    "mal": {
+      "id": "10203",
+      "url": "https://myanimelist.net/anime/10203"
+    },
+    "nf": {
+      "id": "60032294",
+      "url": "https://www.netflix.com/title/60032294"
+    }
+  }
+}

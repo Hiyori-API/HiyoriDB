@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14880,
+  "slug": "osu-karate-bu",
+  "kind": "manga",
+  "title": "Osu!! Karate Bu",
+  "titles": {
+    "default": "Osu!! Karate Bu"
+  },
+  "synonyms": [
+    "Osu!! Karatebu",
+    "Go!! Karate Club",
+    "Osu! Karate Club",
+    "押忍!!空手部",
+    "Mai",
+    "Mai, The Psychic Girl",
+    "舞"
+  ],
+  "type": "manga",
+  "chapters": 483,
+  "volumes": 43,
+  "status": "finished",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx42530-X4wooAhrgwCv.png"
+  ],
+  "references": {
+    "al": {
+      "id": "6031",
+      "url": "https://anilist.co/anime/6031"
+    },
+    "al_manga": {
+      "id": "6031",
+      "url": "https://anilist.co/manga/6031"
+    }
+  }
+}

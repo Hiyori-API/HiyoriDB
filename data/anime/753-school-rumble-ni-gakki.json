@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 753,
+  "slug": "school-rumble-ni-gakki",
+  "kind": "anime",
+  "title": "School Rumble Ni Gakki",
+  "titles": {
+    "default": "School Rumble Ni Gakki",
+    "romaji": "School Rumble Ni Gakki",
+    "english": "School Rumble 2nd Term",
+    "native": "スクールランブル 二学期"
+  },
+  "synonyms": [
+    "School Rumble Ni Gakki",
+    "School Rumble 2nd Term",
+    "スクールランブル 二学期",
+    "School Rumble 2nd Semester",
+    "School Rumble secondo semestre"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b846-5sTqhxItEaTK.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "846",
+      "url": "https://anilist.co/anime/846"
+    },
+    "cr": {
+      "id": "school-rumble",
+      "url": "https://www.crunchyroll.com/series/school-rumble"
+    },
+    "k": {
+      "id": "750",
+      "url": "https://kitsu.io/anime/750"
+    },
+    "mal": {
+      "id": "846",
+      "url": "https://myanimelist.net/anime/846"
+    },
+    "t": {
+      "id": "31528",
+      "url": "https://trakt.tv/shows/31528"
+    }
+  }
+}

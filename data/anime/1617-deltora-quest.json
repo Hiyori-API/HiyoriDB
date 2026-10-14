@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1617,
+  "slug": "deltora-quest",
+  "kind": "anime",
+  "title": "Deltora Quest",
+  "titles": {
+    "default": "Deltora Quest",
+    "romaji": "Deltora Quest",
+    "native": "デルトラクエスト"
+  },
+  "synonyms": [
+    "Deltora Quest",
+    "デルトラクエスト"
+  ],
+  "type": "tv",
+  "episodes": 65,
+  "status": "finished",
+  "season": "winter",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1826.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1826",
+      "url": "https://anilist.co/anime/1826"
+    },
+    "cr": {
+      "id": "deltora-quest",
+      "url": "https://www.crunchyroll.com/series/deltora-quest"
+    },
+    "k": {
+      "id": "1643",
+      "url": "https://kitsu.io/anime/1643"
+    },
+    "mal": {
+      "id": "1826",
+      "url": "https://myanimelist.net/anime/1826"
+    },
+    "t": {
+      "id": "3220",
+      "url": "https://trakt.tv/shows/3220"
+    }
+  }
+}

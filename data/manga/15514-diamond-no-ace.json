@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15514,
+  "slug": "diamond-no-ace",
+  "kind": "manga",
+  "title": "Diamond no Ace",
+  "titles": {
+    "default": "Diamond no Ace"
+  },
+  "synonyms": [
+    "ダイヤのA[エース]",
+    "Ace of Diamond",
+    "Daiya no A",
+    "Ace of the Diamond",
+    "ダイヤのエース",
+    "Love Makes People Grow",
+    "Hito wa Ai wo Tabete Sodatsu",
+    "人は愛を食べて育つ",
+    "Eat Love and Grow",
+    "Hito wa ai o tabete sodatsu"
+  ],
+  "type": "manga",
+  "chapters": 418,
+  "volumes": 47,
+  "status": "finished",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx40884-L9caSaZHxWFG.png"
+  ],
+  "references": {
+    "al": {
+      "id": "20861",
+      "url": "https://anilist.co/anime/18689"
+    },
+    "al_manga": {
+      "id": "20861",
+      "url": "https://anilist.co/manga/20861"
+    },
+    "tx": {
+      "id": "diaace_official",
+      "url": "https://twitter.com/diaace_official"
+    }
+  }
+}

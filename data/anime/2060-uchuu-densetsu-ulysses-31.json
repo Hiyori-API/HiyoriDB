@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2060,
+  "slug": "uchuu-densetsu-ulysses-31",
+  "kind": "anime",
+  "title": "Uchuu Densetsu Ulysses 31",
+  "titles": {
+    "default": "Uchuu Densetsu Ulysses 31",
+    "romaji": "Uchuu Densetsu Ulysses 31",
+    "english": "Ulysses 31",
+    "native": "宇宙伝説ユリシーズ31"
+  },
+  "synonyms": [
+    "Uchuu Densetsu Ulysses 31",
+    "Ulysses 31",
+    "宇宙伝説ユリシーズ31",
+    "Ulisses"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 1981,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2331-240yHFHhjinJ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2331",
+      "url": "https://anilist.co/anime/2331"
+    },
+    "k": {
+      "id": "2111",
+      "url": "https://kitsu.io/anime/2111"
+    },
+    "mal": {
+      "id": "2331",
+      "url": "https://myanimelist.net/anime/2331"
+    },
+    "t": {
+      "id": "4001",
+      "url": "https://trakt.tv/shows/4001"
+    }
+  }
+}

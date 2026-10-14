@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4576,
+  "slug": "kagirohi-shaku-kei",
+  "kind": "anime",
+  "title": "Kagirohi: Shaku Kei",
+  "titles": {
+    "default": "Kagirohi: Shaku Kei",
+    "romaji": "Kagirohi: Shaku Kei",
+    "native": "かぎろひ～勺景～"
+  },
+  "synonyms": [
+    "Kagirohi: Shaku Kei",
+    "かぎろひ～勺景～",
+    "Zan Sayonara Zetsubou Sensei Bangaichi",
+    "懺さよなら絶望先生 番外地",
+    "Zan Sayonara Zetsubou Sensei OVA",
+    "Zan Sayonara Zetsubou Sensei No Man's Land",
+    "ZSZSB"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7262.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7262",
+      "url": "https://anilist.co/anime/7262"
+    },
+    "k": {
+      "id": "4847",
+      "url": "https://kitsu.io/anime/4847"
+    },
+    "mal": {
+      "id": "7262",
+      "url": "https://myanimelist.net/anime/7262"
+    }
+  }
+}

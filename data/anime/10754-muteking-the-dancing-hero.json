@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10754,
+  "slug": "muteking-the-dancing-hero",
+  "kind": "anime",
+  "title": "MUTEKING THE Dancing HERO",
+  "titles": {
+    "default": "MUTEKING THE Dancing HERO",
+    "romaji": "MUTEKING THE Dancing HERO"
+  },
+  "synonyms": [
+    "MUTEKING THE Dancing HERO",
+    "ムテキング・ザ・ダンシング・ヒーロー",
+    "Ring ni Kakero 1",
+    "リングにかけろ１",
+    "Put it all in the Ring"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109745-W4NnQxYpGJJO.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "109745",
+      "url": "https://anilist.co/anime/109745"
+    },
+    "cr": {
+      "id": "muteking-the-dancing-hero",
+      "url": "https://www.crunchyroll.com/series/muteking-the-dancing-hero"
+    },
+    "k": {
+      "id": "14",
+      "url": "https://kitsu.io/anime/14"
+    },
+    "mal": {
+      "id": "39893",
+      "url": "https://myanimelist.net/anime/39893"
+    },
+    "t": {
+      "id": "69507",
+      "url": "https://trakt.tv/shows/69507"
+    },
+    "tx": {
+      "id": "MUTEKING2021",
+      "url": "https://twitter.com/MUTEKING2021"
+    }
+  }
+}

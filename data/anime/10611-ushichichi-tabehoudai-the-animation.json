@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10611,
+  "slug": "ushichichi-tabehoudai-the-animation",
+  "kind": "anime",
+  "title": "Ushichichi Tabehoudai! The Animation",
+  "titles": {
+    "default": "Ushichichi Tabehoudai! The Animation",
+    "romaji": "Ushichichi Tabehoudai! The Animation",
+    "english": "All-You-Can-Eat Cow Tits: The Animation",
+    "native": "うしちち食べ放題!ジ・アニメーション"
+  },
+  "synonyms": [
+    "Ushichichi Tabehoudai! The Animation",
+    "All-You-Can-Eat Cow Tits: The Animation",
+    "うしちち食べ放題!ジ・アニメーション",
+    "School Days ONA",
+    "スクールデイズ",
+    "School Days"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx117647-QvWQqXc7u5I7.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "117647",
+      "url": "https://anilist.co/anime/117647"
+    },
+    "k": {
+      "id": "678",
+      "url": "https://kitsu.io/anime/678"
+    },
+    "mal": {
+      "id": "41691",
+      "url": "https://myanimelist.net/anime/41691"
+    }
+  }
+}

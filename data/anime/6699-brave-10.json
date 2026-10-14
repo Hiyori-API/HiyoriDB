@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6699,
+  "slug": "brave-10",
+  "kind": "anime",
+  "title": "Brave 10",
+  "titles": {
+    "default": "Brave 10",
+    "romaji": "Brave 10",
+    "native": "ブレイブ・テン"
+  },
+  "synonyms": [
+    "Brave 10",
+    "ブレイブ・テン",
+    "Brave10",
+    "Brave Ten"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11241-FVdZiZceB4c7.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11241",
+      "url": "https://anilist.co/anime/11241"
+    },
+    "cr": {
+      "id": "brave-10",
+      "url": "https://www.crunchyroll.com/series/brave-10"
+    },
+    "k": {
+      "id": "6481",
+      "url": "https://kitsu.io/anime/6481"
+    },
+    "mal": {
+      "id": "11241",
+      "url": "https://myanimelist.net/anime/11241"
+    },
+    "t": {
+      "id": "42278",
+      "url": "https://trakt.tv/shows/42278"
+    }
+  }
+}

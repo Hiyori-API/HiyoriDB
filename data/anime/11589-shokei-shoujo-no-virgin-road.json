@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11589,
+  "slug": "shokei-shoujo-no-virgin-road",
+  "kind": "anime",
+  "title": "Shokei Shoujo no Virgin Road",
+  "titles": {
+    "default": "Shokei Shoujo no Virgin Road",
+    "romaji": "Shokei Shoujo no Virgin Road",
+    "english": "The Executioner and Her Way of Life",
+    "native": "処刑少女の生きる道（バージンロード）"
+  },
+  "synonyms": [
+    "Shokei Shoujo no Virgin Road",
+    "The Executioner and Her Way of Life",
+    "処刑少女の生きる道（バージンロード）",
+    "เวอร์จินโร้ด เพชฌฆาตสาวบนเส้นทางพิสุทธิ์",
+    "處刑少女的生存之道",
+    "This Ugly Yet Beautiful World",
+    "Kono Minikuku mo Utsukushii Sekai",
+    "この醜くも美しい世界"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129193-pT3W5PpiMAUB.png"
+  ],
+  "references": {
+    "al": {
+      "id": "129193",
+      "url": "https://anilist.co/anime/129193"
+    },
+    "k": {
+      "id": "124",
+      "url": "https://kitsu.io/anime/124"
+    },
+    "mal": {
+      "id": "47162",
+      "url": "https://myanimelist.net/anime/47162"
+    },
+    "t": {
+      "id": "34001",
+      "url": "https://trakt.tv/shows/34001"
+    },
+    "tx": {
+      "id": "virginroadanime",
+      "url": "https://twitter.com/virginroadanime"
+    }
+  }
+}

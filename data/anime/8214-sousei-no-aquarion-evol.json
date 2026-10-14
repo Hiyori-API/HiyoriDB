@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8214,
+  "slug": "sousei-no-aquarion-evol",
+  "kind": "anime",
+  "title": "Sousei no Aquarion EVOL",
+  "titles": {
+    "default": "Sousei no Aquarion EVOL",
+    "romaji": "Sousei no Aquarion EVOL",
+    "native": "創勢のアクエリオンEVOL"
+  },
+  "synonyms": [
+    "Sousei no Aquarion EVOL",
+    "創勢のアクエリオンEVOL",
+    "Sousei no Aquarion Love",
+    "Genesis of Aquarion Evol",
+    "Sousei no Aquarion Evol"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21119-5URAzjGgjSBA.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21119",
+      "url": "https://anilist.co/anime/21119"
+    },
+    "mal": {
+      "id": "30381",
+      "url": "https://myanimelist.net/anime/30381"
+    }
+  }
+}

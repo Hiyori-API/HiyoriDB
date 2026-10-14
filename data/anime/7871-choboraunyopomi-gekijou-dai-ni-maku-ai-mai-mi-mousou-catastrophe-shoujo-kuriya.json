@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7871,
+  "slug": "choboraunyopomi-gekijou-dai-ni-maku-ai-mai-mi-mousou-catastrophe-shoujo-kuriya",
+  "kind": "anime",
+  "title": "Choboraunyopomi Gekijou Dai Ni Maku ai mai mi: Mousou Catastrophe Shoujo Kuriya",
+  "titles": {
+    "default": "Choboraunyopomi Gekijou Dai Ni Maku ai mai mi: Mousou Catastrophe Shoujo Kuriya",
+    "romaji": "Choboraunyopomi Gekijou Dai Ni Maku ai mai mi: Mousou Catastrophe Shoujo Kuriya",
+    "english": "Ai-Mai-Mi: Mousou Catastrophe Shojo Kuriya",
+    "native": "ちょぼらうにょぽみ劇場あいまいみ～妄想カタストロフ～ 処女厨"
+  },
+  "synonyms": [
+    "Choboraunyopomi Gekijou Dai Ni Maku ai mai mi: Mousou Catastrophe Shoujo Kuriya",
+    "Ai-Mai-Mi: Mousou Catastrophe Shojo Kuriya",
+    "ちょぼらうにょぽみ劇場あいまいみ～妄想カタストロフ～ 処女厨",
+    "Choboraunyopomi Gekijou Dai Ni Maku ai mai mii: Mousou Catastrophe Shojo Kuriya",
+    "Ano Natsu de Matteru: Bokutachi wa Koukou Saigo no Natsu wo Sugoshinagara, Ano Natsu de Matteiru.",
+    "あの夏で待ってる 特別編「僕達は高校最後の夏を過ごしながら、 あの夏を待っている。」",
+    "Ano Natsu de Matteru Special",
+    "Waiting in the Summer Special"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21125-YQQ9Uox38gHP.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21125",
+      "url": "https://anilist.co/anime/21125"
+    },
+    "k": {
+      "id": "8407",
+      "url": "https://kitsu.io/anime/8407"
+    },
+    "mal": {
+      "id": "25439",
+      "url": "https://myanimelist.net/anime/25439"
+    }
+  }
+}

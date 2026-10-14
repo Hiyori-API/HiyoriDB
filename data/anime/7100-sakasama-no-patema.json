@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7100,
+  "slug": "sakasama-no-patema",
+  "kind": "anime",
+  "title": "Sakasama no Patema",
+  "titles": {
+    "default": "Sakasama no Patema",
+    "romaji": "Sakasama no Patema",
+    "english": "Patema Inverted",
+    "native": "サカサマのパテマ"
+  },
+  "synonyms": [
+    "Sakasama no Patema",
+    "Patema Inverted",
+    "サカサマのパテマ"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12477-KtZm8BuvrPYo.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12477",
+      "url": "https://anilist.co/anime/12477"
+    },
+    "cr": {
+      "id": "patema-inverted",
+      "url": "https://www.crunchyroll.com/series/patema-inverted"
+    },
+    "k": {
+      "id": "6742",
+      "url": "https://kitsu.io/anime/6742"
+    },
+    "mal": {
+      "id": "12477",
+      "url": "https://myanimelist.net/anime/12477"
+    },
+    "tx": {
+      "id": "Patema_Sakasama",
+      "url": "https://twitter.com/Patema_Sakasama"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7084,
+  "slug": "fukashigi-no-kazoekata",
+  "kind": "anime",
+  "title": "Fukashigi no Kazoekata",
+  "titles": {
+    "default": "Fukashigi no Kazoekata",
+    "romaji": "Fukashigi no Kazoekata",
+    "english": "The Art of 10^64 -Understanding Vastness-\" Time with class! Let's count!",
+    "native": "フカシギの数え方"
+  },
+  "synonyms": [
+    "Fukashigi no Kazoekata",
+    "The Art of 10^64 -Understanding Vastness-\" Time with class! Let's count!",
+    "フカシギの数え方",
+    "Jinrui wa Suitai Shimashita: Ningen-san no, Yousei-san Memo",
+    "人類は衰退しました　「人間さんの、ようせいさんめも」",
+    "Jinrui wa Suitai Shimashita Recap",
+    "Jintai Recap",
+    "Humanity Has Declined Recap",
+    "Humanity Has Declined: Human's Fairy Memo",
+    "Humanity Has Declined: The Human's Fairy Notes"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b138990-UZ89QE6wSq2N.png"
+  ],
+  "references": {
+    "al": {
+      "id": "138990",
+      "url": "https://anilist.co/anime/138990"
+    },
+    "k": {
+      "id": "7373",
+      "url": "https://kitsu.io/anime/7373"
+    },
+    "mal": {
+      "id": "30105",
+      "url": "https://myanimelist.net/anime/30105"
+    }
+  }
+}

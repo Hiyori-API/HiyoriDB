@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14504,
+  "slug": "tokko",
+  "kind": "manga",
+  "title": "Tokko",
+  "titles": {
+    "default": "Tokko"
+  },
+  "synonyms": [
+    "Tokko Phantom Hunter",
+    "Tokko: Devil's Awaken",
+    "特公",
+    "Railroad",
+    "레일로드"
+  ],
+  "type": "manga",
+  "chapters": 11,
+  "volumes": 3,
+  "status": "finished",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4227.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "916",
+      "url": "https://anilist.co/anime/916"
+    },
+    "al_manga": {
+      "id": "916",
+      "url": "https://anilist.co/manga/916"
+    }
+  }
+}

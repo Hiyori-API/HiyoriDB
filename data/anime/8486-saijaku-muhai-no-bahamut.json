@@ -1,0 +1,60 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8486,
+  "slug": "saijaku-muhai-no-bahamut",
+  "kind": "anime",
+  "title": "Saijaku Muhai no Bahamut",
+  "titles": {
+    "default": "Saijaku Muhai no Bahamut",
+    "romaji": "Saijaku Muhai no Bahamut",
+    "english": "Undefeated Bahamut Chronicle",
+    "native": "最弱無敗の神装機竜《バハムート》"
+  },
+  "synonyms": [
+    "Saijaku Muhai no Bahamut",
+    "Undefeated Bahamut Chronicle",
+    "最弱無敗の神装機竜《バハムート》",
+    "บาฮามุท มังกรเหล็กไร้พ่าย",
+    "Durarara!!x2 Ketsu",
+    "Durarara!! x2 Ketsu",
+    "デュラララ!!×2 結"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21188-VFUo0sASxOfO.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21188",
+      "url": "https://anilist.co/anime/21188"
+    },
+    "cr": {
+      "id": "undefeated-bahamut-chronicle",
+      "url": "https://www.crunchyroll.com/series/undefeated-bahamut-chronicle"
+    },
+    "k": {
+      "id": "9725",
+      "url": "https://kitsu.io/anime/9725"
+    },
+    "mal": {
+      "id": "30749",
+      "url": "https://myanimelist.net/anime/30749"
+    },
+    "nf": {
+      "id": "81022603",
+      "url": "https://www.netflix.com/title/81022603"
+    },
+    "t": {
+      "id": "42187",
+      "url": "https://trakt.tv/shows/42187"
+    },
+    "tx": {
+      "id": "saijaku_anime",
+      "url": "https://twitter.com/saijaku_anime"
+    }
+  }
+}

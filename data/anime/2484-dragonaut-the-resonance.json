@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2484,
+  "slug": "dragonaut-the-resonance",
+  "kind": "anime",
+  "title": "Dragonaut: The Resonance",
+  "titles": {
+    "default": "Dragonaut: The Resonance",
+    "romaji": "Dragonaut: The Resonance",
+    "english": "Dragonaut -THE RESONANCE-",
+    "native": "ドラゴノーツ-ザ・レソナンス-"
+  },
+  "synonyms": [
+    "Dragonaut: The Resonance",
+    "Dragonaut -THE RESONANCE-",
+    "ドラゴノーツ-ザ・レソナンス-",
+    "Dragonaut - The Resonance"
+  ],
+  "type": "tv",
+  "episodes": 25,
+  "status": "finished",
+  "season": "fall",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2795.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2795",
+      "url": "https://anilist.co/anime/2795"
+    },
+    "cr": {
+      "id": "dragonaut-the-resonance-",
+      "url": "https://www.crunchyroll.com/series/dragonaut-the-resonance-"
+    },
+    "k": {
+      "id": "2551",
+      "url": "https://kitsu.io/anime/2551"
+    },
+    "mal": {
+      "id": "2795",
+      "url": "https://myanimelist.net/anime/2795"
+    },
+    "t": {
+      "id": "31550",
+      "url": "https://trakt.tv/shows/31550"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11466,
+  "slug": "biohazard-village-ningyou-geki",
+  "kind": "anime",
+  "title": "Biohazard Village × Ningyou Geki",
+  "titles": {
+    "default": "Biohazard Village × Ningyou Geki",
+    "romaji": "Biohazard Village × Ningyou Geki",
+    "native": "バイオハザードヴィレッジ×人形劇"
+  },
+  "synonyms": [
+    "Biohazard Village × Ningyou Geki",
+    "バイオハザードヴィレッジ×人形劇",
+    "Resident Evil Village × Puppet Show",
+    "Night World",
+    "Night Country",
+    "夜の国",
+    "Yoru no Kuni"
+  ],
+  "type": "ona",
+  "episodes": 3,
+  "status": "finished",
+  "season": "spring",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx138550-7V2QrJDeziFN.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "138550",
+      "url": "https://anilist.co/anime/138550"
+    },
+    "mal": {
+      "id": "48727",
+      "url": "https://myanimelist.net/anime/48727"
+    }
+  }
+}

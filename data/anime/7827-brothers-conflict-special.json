@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7827,
+  "slug": "brothers-conflict-special",
+  "kind": "anime",
+  "title": "BROTHERS CONFLICT Special",
+  "titles": {
+    "default": "BROTHERS CONFLICT Special",
+    "romaji": "BROTHERS CONFLICT Special",
+    "native": "BROTHERS CONFLICT 第十二・五衝突「切望」"
+  },
+  "synonyms": [
+    "BROTHERS CONFLICT Special",
+    "BROTHERS CONFLICT 第十二・五衝突「切望」",
+    "ブラザーズ コンフリクト Special",
+    "ブラコン Special",
+    "Brothers Conflict Special",
+    "BROTHERS CONFLICT  第十二・五衝突「切望」",
+    "BroCon Special",
+    "BroCon Episode 12.5",
+    "Brothers Conflict Episode 12.5"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20915-mK4rODBYMpFs.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "20915",
+      "url": "https://anilist.co/anime/20915"
+    },
+    "k": {
+      "id": "8399",
+      "url": "https://kitsu.io/anime/8399"
+    },
+    "mal": {
+      "id": "22745",
+      "url": "https://myanimelist.net/anime/22745"
+    }
+  }
+}

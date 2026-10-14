@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14151,
+  "slug": "ashita-no-joe",
+  "kind": "manga",
+  "title": "Ashita no Joe",
+  "titles": {
+    "default": "Ashita no Joe"
+  },
+  "synonyms": [
+    "Rocky Joe",
+    "Tomorrow's Joe",
+    "Joe del Mañana",
+    "Boy Action II",
+    "Ashita no Joe - Em Busca do Amanhã",
+    "Ashita no Joe: Fighting for Tomorrow",
+    "あしたのジョー",
+    "Ashita no Joe"
+  ],
+  "type": "manga",
+  "chapters": 171,
+  "volumes": 20,
+  "status": "finished",
+  "year": 1968,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31303-l21HJn9AXl7w.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2922",
+      "url": "https://anilist.co/anime/2402"
+    },
+    "al_manga": {
+      "id": "2922",
+      "url": "https://anilist.co/manga/2922"
+    }
+  }
+}

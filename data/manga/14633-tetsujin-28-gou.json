@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14633,
+  "slug": "tetsujin-28-gou",
+  "kind": "manga",
+  "title": "Tetsujin 28-gou",
+  "titles": {
+    "default": "Tetsujin 28-gou"
+  },
+  "synonyms": [
+    "Gigantor",
+    "Iron Man 28",
+    "鉄人28号",
+    "Manga Seibutsugaku",
+    "漫画生物学",
+    "Biology with Tezuka"
+  ],
+  "type": "manga",
+  "chapters": 307,
+  "volumes": 24,
+  "status": "finished",
+  "year": 1956,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/46486.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "145563",
+      "url": "https://anilist.co/anime/2337"
+    },
+    "al_manga": {
+      "id": "145563",
+      "url": "https://anilist.co/manga/145563"
+    }
+  }
+}

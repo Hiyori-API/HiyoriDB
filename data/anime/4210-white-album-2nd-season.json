@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4210,
+  "slug": "white-album-2nd-season",
+  "kind": "anime",
+  "title": "WHITE ALBUM 2nd Season",
+  "titles": {
+    "default": "WHITE ALBUM 2nd Season",
+    "romaji": "WHITE ALBUM 2nd Season",
+    "native": "WHITE ALBUM 第2期"
+  },
+  "synonyms": [
+    "WHITE ALBUM 2nd Season",
+    "WHITE ALBUM 第2期",
+    "White Album Second Season",
+    "White Album the Latter Half",
+    "White Album: Discografía de Recuerdos",
+    "White Album Season 2",
+    "White Album 2nd Season"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6165.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6165",
+      "url": "https://anilist.co/anime/6165"
+    },
+    "cr": {
+      "id": "white-album",
+      "url": "https://www.crunchyroll.com/series/white-album"
+    },
+    "k": {
+      "id": "4455",
+      "url": "https://kitsu.io/anime/4455"
+    },
+    "mal": {
+      "id": "6165",
+      "url": "https://myanimelist.net/anime/6165"
+    },
+    "t": {
+      "id": "28381",
+      "url": "https://trakt.tv/shows/28381"
+    }
+  }
+}

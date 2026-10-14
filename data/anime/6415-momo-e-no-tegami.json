@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6415,
+  "slug": "momo-e-no-tegami",
+  "kind": "anime",
+  "title": "Momo e no Tegami",
+  "titles": {
+    "default": "Momo e no Tegami",
+    "romaji": "Momo e no Tegami",
+    "english": "A Letter to Momo",
+    "native": "ももへの手紙"
+  },
+  "synonyms": [
+    "Momo e no Tegami",
+    "A Letter to Momo",
+    "ももへの手紙",
+    "Una Carta para Momo",
+    "Lettre à Momo"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10389-NMYFKRxI1WwJ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "10389",
+      "url": "https://anilist.co/anime/10389"
+    },
+    "cr": {
+      "id": "a-letter-to-momo",
+      "url": "https://www.crunchyroll.com/series/a-letter-to-momo"
+    },
+    "k": {
+      "id": "6160",
+      "url": "https://kitsu.io/anime/6160"
+    },
+    "mal": {
+      "id": "10389",
+      "url": "https://myanimelist.net/anime/10389"
+    }
+  }
+}

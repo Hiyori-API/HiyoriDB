@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10317,
+  "slug": "aru-nihon-no-ekaki-shounen",
+  "kind": "anime",
+  "title": "Aru Nihon no Ekaki Shounen",
+  "titles": {
+    "default": "Aru Nihon no Ekaki Shounen",
+    "romaji": "Aru Nihon no Ekaki Shounen",
+    "english": "A Japanese Boy Who Draws",
+    "native": "ある日本の絵描き少年"
+  },
+  "synonyms": [
+    "Aru Nihon no Ekaki Shounen",
+    "A Japanese Boy Who Draws",
+    "ある日本の絵描き少年",
+    "Cencoroll 2",
+    "センコロール"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116354-cv2EZzYUK40o.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "116354",
+      "url": "https://anilist.co/anime/116354"
+    },
+    "k": {
+      "id": "5749",
+      "url": "https://kitsu.io/anime/5749"
+    },
+    "mal": {
+      "id": "48992",
+      "url": "https://myanimelist.net/anime/48992"
+    },
+    "yt": {
+      "id": "3g3wcwQWXZY",
+      "url": "https://www.youtube.com/watch?v=6xpP_tisfm0"
+    }
+  }
+}

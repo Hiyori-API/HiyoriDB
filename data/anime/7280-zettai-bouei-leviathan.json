@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7280,
+  "slug": "zettai-bouei-leviathan",
+  "kind": "anime",
+  "title": "Zettai Bouei Leviathan",
+  "titles": {
+    "default": "Zettai Bouei Leviathan",
+    "romaji": "Zettai Bouei Leviathan",
+    "english": "Leviathan: The Last Defense",
+    "native": "絶対防衛レヴィアタン"
+  },
+  "synonyms": [
+    "Zettai Bouei Leviathan",
+    "Leviathan: The Last Defense",
+    "絶対防衛レヴィアタン",
+    "Zettai Boei Leviatan"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17681.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "17681",
+      "url": "https://anilist.co/anime/17681"
+    },
+    "cr": {
+      "id": "leviathan-the-last-defense-",
+      "url": "https://www.crunchyroll.com/series/leviathan-the-last-defense-"
+    },
+    "k": {
+      "id": "7644",
+      "url": "https://kitsu.io/anime/7644"
+    },
+    "mal": {
+      "id": "17681",
+      "url": "https://myanimelist.net/anime/17681"
+    },
+    "t": {
+      "id": "70106",
+      "url": "https://trakt.tv/shows/70106"
+    },
+    "tx": {
+      "id": "levi_anime",
+      "url": "https://twitter.com/levi_anime"
+    }
+  }
+}

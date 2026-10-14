@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11278,
+  "slug": "shuumatsu-no-valkyrie",
+  "kind": "anime",
+  "title": "Shuumatsu no Valkyrie",
+  "titles": {
+    "default": "Shuumatsu no Valkyrie",
+    "romaji": "Shuumatsu no Valkyrie",
+    "english": "Record of Ragnarok",
+    "native": "終末のワルキューレ"
+  },
+  "synonyms": [
+    "Shuumatsu no Valkyrie",
+    "Record of Ragnarok",
+    "終末のワルキューレ",
+    "Shuumatsu no Walkure",
+    "معركة راغناروك",
+    "Valkyrie Apocalypse",
+    "มหาศึกคนชนเทพ",
+    "Повесть о конце света",
+    "Τα Χρονικά του Ράγκναροκ",
+    "Хроніка Раґнароку",
+    "Valkyrie of the End",
+    "Shuumatsu no Walküre"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx127399-AAH1pevCZLrB.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "127399",
+      "url": "https://anilist.co/anime/127399"
+    },
+    "mal": {
+      "id": "44942",
+      "url": "https://myanimelist.net/anime/44942"
+    },
+    "nf": {
+      "id": "81281579",
+      "url": "https://www.netflix.com/title/81281579"
+    },
+    "tx": {
+      "id": "ragnarok_PR",
+      "url": "https://twitter.com/ragnarok_PR"
+    }
+  }
+}

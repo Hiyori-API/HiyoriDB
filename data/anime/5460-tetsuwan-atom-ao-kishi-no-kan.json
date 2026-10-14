@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5460,
+  "slug": "tetsuwan-atom-ao-kishi-no-kan",
+  "kind": "anime",
+  "title": "Tetsuwan Atom: Ao Kishi no Kan",
+  "titles": {
+    "default": "Tetsuwan Atom: Ao Kishi no Kan",
+    "romaji": "Tetsuwan Atom: Ao Kishi no Kan",
+    "native": "鉄腕アトム ~青騎士の巻~"
+  },
+  "synonyms": [
+    "Tetsuwan Atom: Ao Kishi no Kan",
+    "鉄腕アトム ~青騎士の巻~",
+    "Astro Boy: Volume of the Blue Knight"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17965-geDgRrhZIxqP.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "17965",
+      "url": "https://anilist.co/anime/17965"
+    },
+    "k": {
+      "id": "8938",
+      "url": "https://kitsu.io/anime/8938"
+    },
+    "mal": {
+      "id": "17965",
+      "url": "https://myanimelist.net/anime/17965"
+    }
+  }
+}

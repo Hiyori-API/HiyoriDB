@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7919,
+  "slug": "furueru-kuchibiru-fuzzy-lips-0",
+  "kind": "anime",
+  "title": "Furueru Kuchibiru: fuzzy lips 0",
+  "titles": {
+    "default": "Furueru Kuchibiru: fuzzy lips 0",
+    "romaji": "Furueru Kuchibiru: fuzzy lips 0",
+    "english": "Fuzzy Lips 0",
+    "native": "フルエルクチビル fuzzy lips 0"
+  },
+  "synonyms": [
+    "Furueru Kuchibiru: fuzzy lips 0",
+    "Fuzzy Lips 0",
+    "フルエルクチビル fuzzy lips 0",
+    "Furueru Kuchibiru Episode 0",
+    "Girls & Panzer: Kore ga Hontou no Anzio-sen desu!",
+    "Girls & Panzer: This is the Real Anzio Battle!",
+    "ガールズ&パンツァー　これが本当のアンツィオ戦です！",
+    "Girls und Panzer OVA",
+    "Girls und Panzer: This is the true battle of Anzio!"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21618-TZdp0ETHXLp8.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21618",
+      "url": "https://anilist.co/anime/21618"
+    },
+    "k": {
+      "id": "7981",
+      "url": "https://kitsu.io/anime/7981"
+    },
+    "mal": {
+      "id": "24987",
+      "url": "https://myanimelist.net/anime/24987"
+    }
+  }
+}

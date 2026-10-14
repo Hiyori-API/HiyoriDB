@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9255,
+  "slug": "chaos-child-silent-sky",
+  "kind": "anime",
+  "title": "CHAOS;CHILD: SILENT SKY",
+  "titles": {
+    "default": "CHAOS;CHILD: SILENT SKY",
+    "romaji": "CHAOS;CHILD: SILENT SKY",
+    "english": "CHAOS;CHILD: Silent Sky",
+    "native": "CHAOS;CHILD SILENT SKY"
+  },
+  "synonyms": [
+    "CHAOS;CHILD: SILENT SKY",
+    "CHAOS;CHILD: Silent Sky",
+    "CHAOS;CHILD SILENT SKY",
+    "Chaos Child: Silent Sky",
+    "Chaos Child Episode 13",
+    "Chaos Child Episode 14",
+    "ChäoS;Child: Silent Sky"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98576-DEb7XbyaP5qh.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98576",
+      "url": "https://anilist.co/anime/98576"
+    },
+    "cr": {
+      "id": "chaoschild",
+      "url": "https://www.crunchyroll.com/series/chaoschild"
+    },
+    "mal": {
+      "id": "35315",
+      "url": "https://myanimelist.net/anime/35315"
+    },
+    "tx": {
+      "id": "chaoch_anime",
+      "url": "https://twitter.com/chaoch_anime"
+    }
+  }
+}

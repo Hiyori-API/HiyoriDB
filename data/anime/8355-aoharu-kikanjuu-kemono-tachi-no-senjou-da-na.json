@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8355,
+  "slug": "aoharu-kikanjuu-kemono-tachi-no-senjou-da-na",
+  "kind": "anime",
+  "title": "Aoharu × Kikanjuu: Kemono-tachi no Senjou da na!",
+  "titles": {
+    "default": "Aoharu × Kikanjuu: Kemono-tachi no Senjou da na!",
+    "romaji": "Aoharu × Kikanjuu: Kemono-tachi no Senjou da na!",
+    "english": "Aoharu x Machinegun: This is a Battlefield for Beasts!",
+    "native": "青春×機関銃 獣たちの戦場だなっ！"
+  },
+  "synonyms": [
+    "Aoharu × Kikanjuu: Kemono-tachi no Senjou da na!",
+    "Aoharu x Machinegun: This is a Battlefield for Beasts!",
+    "青春×機関銃 獣たちの戦場だなっ！",
+    "Aoharu x Kikanjuu Episode 13",
+    "Haikyuu!!: Lev Appears",
+    "Haikyuu!!: Lev Genzan!",
+    "ハイキュー!! リエーフ見参！",
+    "Haikyuu!!: vs. Akaten",
+    "Haikyuu!!: Jump Festa 2014 Special",
+    "Haikyuu!!: Jump Festa 2015 Special",
+    "Haikyuu!! OVA",
+    "Haikyuu!! The Arrival of Haiba Lev"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21414-p8e45xNsSWrJ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21414",
+      "url": "https://anilist.co/anime/21414"
+    },
+    "k": {
+      "id": "8626",
+      "url": "https://kitsu.io/anime/8626"
+    },
+    "mal": {
+      "id": "31754",
+      "url": "https://myanimelist.net/anime/31754"
+    },
+    "tx": {
+      "id": "aoharu_anime",
+      "url": "https://twitter.com/aoharu_anime"
+    }
+  }
+}

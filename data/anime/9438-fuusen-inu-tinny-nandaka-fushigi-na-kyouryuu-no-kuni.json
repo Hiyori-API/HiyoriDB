@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9438,
+  "slug": "fuusen-inu-tinny-nandaka-fushigi-na-kyouryuu-no-kuni",
+  "kind": "anime",
+  "title": "Fuusen Inu Tinny: Nandaka Fushigi na - Kyouryuu no Kuni!",
+  "titles": {
+    "default": "Fuusen Inu Tinny: Nandaka Fushigi na - Kyouryuu no Kuni!",
+    "romaji": "Fuusen Inu Tinny: Nandaka Fushigi na - Kyouryuu no Kuni!",
+    "native": "ふうせんいぬティニー なんだかふしぎなきょうりゅうのくに！"
+  },
+  "synonyms": [
+    "Fuusen Inu Tinny: Nandaka Fushigi na - Kyouryuu no Kuni!",
+    "ふうせんいぬティニー なんだかふしぎなきょうりゅうのくに！",
+    "Tinny Ballon Dog: The Somewhat Mysterious Country of Dinosaurs",
+    "Genocidal Organ",
+    "Gyakusatsu Kikan",
+    "虐殺器官",
+    "Project Itoh"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115345-F4vBfGiPaIsh.png"
+  ],
+  "references": {
+    "al": {
+      "id": "115345",
+      "url": "https://anilist.co/anime/115345"
+    },
+    "k": {
+      "id": "8737",
+      "url": "https://kitsu.io/anime/8737"
+    },
+    "mal": {
+      "id": "34756",
+      "url": "https://myanimelist.net/anime/34756"
+    }
+  }
+}

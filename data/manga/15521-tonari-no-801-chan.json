@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15521,
+  "slug": "tonari-no-801-chan",
+  "kind": "manga",
+  "title": "Tonari no 801-chan",
+  "titles": {
+    "default": "Tonari no 801-chan"
+  },
+  "synonyms": [
+    "My Neighbor Yaoi-chan",
+    "Tonari no 801 chan",
+    "Tonari no 801(yaoi)-chan",
+    "Tonari no yaoi-chan",
+    "となりの801ちゃん",
+    "The Pain in My Heart",
+    "Boku no Mune ga Itakutemo - Glass",
+    "ぼくの胸が痛くても GLASS"
+  ],
+  "type": "manga",
+  "volumes": 6,
+  "status": "finished",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx42097-hQ3F7GIh4oI2.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "177460",
+      "url": "https://anilist.co/anime/6641"
+    },
+    "al_manga": {
+      "id": "177460",
+      "url": "https://anilist.co/manga/177460"
+    }
+  }
+}

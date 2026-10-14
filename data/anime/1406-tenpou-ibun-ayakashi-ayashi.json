@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1406,
+  "slug": "tenpou-ibun-ayakashi-ayashi",
+  "kind": "anime",
+  "title": "Tenpou Ibun Ayakashi Ayashi",
+  "titles": {
+    "default": "Tenpou Ibun Ayakashi Ayashi",
+    "romaji": "Tenpou Ibun Ayakashi Ayashi",
+    "english": "Ghost Slayers Ayashi",
+    "native": "天保異聞 妖奇士"
+  },
+  "synonyms": [
+    "Tenpou Ibun Ayakashi Ayashi",
+    "Ghost Slayers Ayashi",
+    "天保異聞 妖奇士",
+    "Tenpouibun Ayakashiayashi",
+    "Strange Story of Tempou Era: Ayakashiayashi",
+    "Strange Tale from Tempou Era Ayakashi Ayashi",
+    "The Wallflower",
+    "Yamato Nadeshiko Shichihenge♥",
+    "The Seven Metamorphoses of Yamato Nadeshiko",
+    "ヤマトナデシコ七変化♥",
+    "Yamato Nadeshiko Shichi Henge",
+    "Perfect Girl Evolution"
+  ],
+  "type": "tv",
+  "episodes": 25,
+  "status": "finished",
+  "season": "fall",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1587-YnQ7GVlrmn1f.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1587",
+      "url": "https://anilist.co/anime/1587"
+    },
+    "cr": {
+      "id": "ghost-slayers-ayashi",
+      "url": "https://www.crunchyroll.com/series/ghost-slayers-ayashi"
+    },
+    "k": {
+      "id": "1402",
+      "url": "https://kitsu.io/anime/1402"
+    },
+    "mal": {
+      "id": "1587",
+      "url": "https://myanimelist.net/anime/1587"
+    },
+    "t": {
+      "id": "62317",
+      "url": "https://trakt.tv/shows/62317"
+    }
+  }
+}

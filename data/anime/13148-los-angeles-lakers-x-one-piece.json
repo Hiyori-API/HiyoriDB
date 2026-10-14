@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13148,
+  "slug": "los-angeles-lakers-x-one-piece",
+  "kind": "anime",
+  "title": "LOS ANGELES LAKERS x ONE PIECE",
+  "titles": {
+    "default": "LOS ANGELES LAKERS x ONE PIECE",
+    "romaji": "LOS ANGELES LAKERS x ONE PIECE"
+  },
+  "synonyms": [
+    "LOS ANGELES LAKERS x ONE PIECE",
+    "LOS ANGELES LAKERS x ONE PIECE Special Collab Anime",
+    "My Hero Academia: You're Next - A Piece of Cake",
+    "僕のヒーローアカデミア THE MOVIE ユアネクスト《A PIECE OF CAKE》",
+    "Boku no Hero Academia the Movie 4: You're Next - A Piece of Cake"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187225-H0ppAOkOYMxM.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "187225",
+      "url": "https://anilist.co/anime/187225"
+    },
+    "mal": {
+      "id": "60645",
+      "url": "https://myanimelist.net/anime/60645"
+    },
+    "yt": {
+      "id": "VfKwPIbycbg",
+      "url": "https://www.youtube.com/watch?v=VfKwPIbycbg"
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7139,
+  "slug": "hentai-ouji-to-warawanai-neko",
+  "kind": "anime",
+  "title": "Hentai Ouji to Warawanai Neko.",
+  "titles": {
+    "default": "Hentai Ouji to Warawanai Neko.",
+    "romaji": "Hentai Ouji to Warawanai Neko.",
+    "english": "Hentai Prince & the Stony Cat",
+    "native": "変態王子と笑わない猫。"
+  },
+  "synonyms": [
+    "Hentai Ouji to Warawanai Neko.",
+    "Hentai Prince & the Stony Cat",
+    "変態王子と笑わない猫。",
+    "HENNEKO",
+    "El príncipe pervertido y el gato de piedra",
+    "O príncipe pervertido e o gato inexpressivo",
+    "The \"Hentai\" Prince and the Stony Cat.",
+    "HenNeko"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15225-wQg1w96ABj0p.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "15225",
+      "url": "https://anilist.co/anime/15225"
+    },
+    "cr": {
+      "id": "henneko-the-hentai-prince-and-the-stony-cat-",
+      "url": "https://www.crunchyroll.com/series/henneko-the-hentai-prince-and-the-stony-cat-"
+    },
+    "k": {
+      "id": "7233",
+      "url": "https://kitsu.io/anime/7233"
+    },
+    "mal": {
+      "id": "15225",
+      "url": "https://myanimelist.net/anime/15225"
+    },
+    "t": {
+      "id": "68461",
+      "url": "https://trakt.tv/shows/68461"
+    },
+    "tx": {
+      "id": "henneko_anime",
+      "url": "https://twitter.com/henneko_anime"
+    }
+  }
+}

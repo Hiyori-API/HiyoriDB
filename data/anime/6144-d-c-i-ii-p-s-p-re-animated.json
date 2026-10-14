@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6144,
+  "slug": "d-c-i-ii-p-s-p-re-animated",
+  "kind": "anime",
+  "title": "D.C. I&II P.S.P. RE-ANIMATED",
+  "titles": {
+    "default": "D.C. I&II P.S.P. RE-ANIMATED",
+    "romaji": "D.C. I&II P.S.P. RE-ANIMATED",
+    "native": "D.C.I&II P.S.P. RE-ANIMATED"
+  },
+  "synonyms": [
+    "D.C. I&II P.S.P. RE-ANIMATED",
+    "D.C.I&II P.S.P. RE-ANIMATED",
+    "D.C. I&II P.S.P. Re-Animated",
+    "Da Capo: D.C. I & II P.S.P. OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9353.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9353",
+      "url": "https://anilist.co/anime/9353"
+    },
+    "k": {
+      "id": "5699",
+      "url": "https://kitsu.io/anime/5699"
+    },
+    "mal": {
+      "id": "9353",
+      "url": "https://myanimelist.net/anime/9353"
+    }
+  }
+}

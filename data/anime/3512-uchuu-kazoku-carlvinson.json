@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3512,
+  "slug": "uchuu-kazoku-carlvinson",
+  "kind": "anime",
+  "title": "Uchuu Kazoku Carlvinson",
+  "titles": {
+    "default": "Uchuu Kazoku Carlvinson",
+    "romaji": "Uchuu Kazoku Carlvinson",
+    "native": "宇宙家族カールビンソン"
+  },
+  "synonyms": [
+    "Uchuu Kazoku Carlvinson",
+    "宇宙家族カールビンソン",
+    "Space Family Carlvinson"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4533-9EJbRoh7eBU8.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4533",
+      "url": "https://anilist.co/anime/4533"
+    },
+    "k": {
+      "id": "3666",
+      "url": "https://kitsu.io/anime/3666"
+    },
+    "mal": {
+      "id": "4533",
+      "url": "https://myanimelist.net/anime/4533"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15086,
+  "slug": "junkers-come-here",
+  "kind": "manga",
+  "title": "Junkers Come Here",
+  "titles": {
+    "default": "Junkers Come Here"
+  },
+  "synonyms": [
+    "Junker",
+    "ユンカース.",
+    "ユンカース・カム・ヒア",
+    "Yokohama Kaidashi Kikou",
+    "ヨコハマ買い出し紀行",
+    "Yokohama Shopping Log",
+    "Yokohama Shopping Trip",
+    "Touge"
+  ],
+  "type": "manga",
+  "volumes": 4,
+  "status": "finished",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/9804.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1116",
+      "url": "https://anilist.co/anime/1116"
+    },
+    "al_manga": {
+      "id": "1116",
+      "url": "https://anilist.co/manga/1116"
+    }
+  }
+}

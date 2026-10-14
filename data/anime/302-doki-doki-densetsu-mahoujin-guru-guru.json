@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 302,
+  "slug": "doki-doki-densetsu-mahoujin-guru-guru",
+  "kind": "anime",
+  "title": "Doki♡Doki Densetsu: Mahoujin Guru Guru",
+  "titles": {
+    "default": "Doki♡Doki Densetsu: Mahoujin Guru Guru",
+    "romaji": "Doki♡Doki Densetsu: Mahoujin Guru Guru",
+    "english": "Magical Circle Guru Guru 2",
+    "native": "ドキ♡ドキ伝説 魔法陣グルグル"
+  },
+  "synonyms": [
+    "Doki♡Doki Densetsu: Mahoujin Guru Guru",
+    "Magical Circle Guru Guru 2",
+    "ドキ♡ドキ伝説 魔法陣グルグル",
+    "Mahoujin Guruguru II",
+    "Mahoujin Guru Guru: Doki Doki Legend",
+    "Dokidoki♡Densetsu: Mahoujin Guruguru",
+    "ドキドキ♡伝説 魔法陣グルグル"
+  ],
+  "type": "tv",
+  "episodes": 38,
+  "status": "finished",
+  "season": "spring",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx332-3SfpF3Hqv4fe.png"
+  ],
+  "references": {
+    "al": {
+      "id": "332",
+      "url": "https://anilist.co/anime/332"
+    },
+    "k": {
+      "id": "299",
+      "url": "https://kitsu.io/anime/299"
+    },
+    "mal": {
+      "id": "332",
+      "url": "https://myanimelist.net/anime/332"
+    }
+  }
+}

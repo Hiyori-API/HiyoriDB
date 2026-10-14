@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8510,
+  "slug": "joker-game",
+  "kind": "anime",
+  "title": "Joker Game",
+  "titles": {
+    "default": "Joker Game",
+    "romaji": "Joker Game",
+    "native": "ジョーカー・ゲーム"
+  },
+  "synonyms": [
+    "Joker Game",
+    "ジョーカー・ゲーム"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21291-WJ1GwBQ1eHM5.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21291",
+      "url": "https://anilist.co/anime/21291"
+    },
+    "cr": {
+      "id": "joker-game",
+      "url": "https://www.crunchyroll.com/series/joker-game"
+    },
+    "mal": {
+      "id": "31405",
+      "url": "https://myanimelist.net/anime/31405"
+    },
+    "tx": {
+      "id": "jokergame_anime",
+      "url": "https://twitter.com/jokergame_anime"
+    }
+  }
+}

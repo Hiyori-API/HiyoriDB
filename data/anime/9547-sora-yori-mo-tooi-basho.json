@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9547,
+  "slug": "sora-yori-mo-tooi-basho",
+  "kind": "anime",
+  "title": "Sora yori mo Tooi Basho",
+  "titles": {
+    "default": "Sora yori mo Tooi Basho",
+    "romaji": "Sora yori mo Tooi Basho",
+    "english": "A Place Further Than the Universe",
+    "native": "宇宙よりも遠い場所"
+  },
+  "synonyms": [
+    "Sora yori mo Tooi Basho",
+    "A Place Further Than the Universe",
+    "宇宙よりも遠い場所",
+    "Uchuu Yorimo Toui Basho",
+    "Sora yorimo Tooi Basho",
+    "Uchuu yori mo Tooi Basho",
+    "Yorimoi",
+    "מקום רחוק יותר מהיקום",
+    "ตามหัวใจไปสุดขอบฟ้า",
+    "ดินแดนที่ห่างไกลยิ่งกว่าอวกาศ",
+    "A Story That Leads to the Antarctica",
+    "A Place Further Than The Universe"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99426-ti5BL69Ip3kZ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "99426",
+      "url": "https://anilist.co/anime/99426"
+    },
+    "cr": {
+      "id": "a-place-further-than-the-universe",
+      "url": "https://www.crunchyroll.com/series/a-place-further-than-the-universe"
+    },
+    "mal": {
+      "id": "35839",
+      "url": "https://myanimelist.net/anime/35839"
+    },
+    "nf": {
+      "id": "80995912",
+      "url": "https://www.netflix.com/title/80995912"
+    },
+    "tx": {
+      "id": "yorimoi",
+      "url": "https://twitter.com/yorimoi"
+    }
+  }
+}

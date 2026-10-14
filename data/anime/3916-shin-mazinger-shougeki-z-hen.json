@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3916,
+  "slug": "shin-mazinger-shougeki-z-hen",
+  "kind": "anime",
+  "title": "Shin Mazinger Shougeki! Z-hen",
+  "titles": {
+    "default": "Shin Mazinger Shougeki! Z-hen",
+    "romaji": "Shin Mazinger Shougeki! Z-hen",
+    "english": "Mazinger Edition Z: The Impact!",
+    "native": "真マジンガー 衝撃！Z編"
+  },
+  "synonyms": [
+    "Shin Mazinger Shougeki! Z-hen",
+    "Mazinger Edition Z: The Impact!",
+    "真マジンガー 衝撃！Z編",
+    "Shin Mazinger Shogeki! Z-Hen",
+    "True Mazinger Impact! Z Chapter",
+    "Ｚマジンガー; 真マジンガー 衝撃！Z編",
+    "Shin Mazinger Shogeki! Z-hen",
+    "True Mazinger",
+    "Z Mazinger"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5485-yUlFXxKGLZUZ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "5485",
+      "url": "https://anilist.co/anime/5485"
+    },
+    "cr": {
+      "id": "mazinger-edition-z",
+      "url": "https://www.crunchyroll.com/series/mazinger-edition-z"
+    },
+    "k": {
+      "id": "4121",
+      "url": "https://kitsu.io/anime/4121"
+    },
+    "mal": {
+      "id": "5485",
+      "url": "https://myanimelist.net/anime/5485"
+    },
+    "t": {
+      "id": "36093",
+      "url": "https://trakt.tv/shows/36093"
+    }
+  }
+}

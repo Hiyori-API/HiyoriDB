@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15147,
+  "slug": "okojo-san",
+  "kind": "manga",
+  "title": "Okojo-san",
+  "titles": {
+    "default": "Okojo-san"
+  },
+  "synonyms": [
+    "オコジョさん",
+    "The Life and Times of an Idiot Section Chief",
+    "Kachou Baka Ichidachi",
+    "課長バカ一代",
+    "Kachou Baka Ichidai"
+  ],
+  "type": "manga",
+  "chapters": 56,
+  "volumes": 8,
+  "status": "finished",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx118242-0udceiF0sjxZ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2934",
+      "url": "https://anilist.co/anime/2934"
+    },
+    "al_manga": {
+      "id": "2934",
+      "url": "https://anilist.co/manga/2934"
+    }
+  }
+}

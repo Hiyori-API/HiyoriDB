@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10142,
+  "slug": "kuuchuu-gunkan-atlantis",
+  "kind": "anime",
+  "title": "Kuuchuu Gunkan Atlantis",
+  "titles": {
+    "default": "Kuuchuu Gunkan Atlantis",
+    "romaji": "Kuuchuu Gunkan Atlantis",
+    "native": "空中軍艦アトランティス"
+  },
+  "synonyms": [
+    "Kuuchuu Gunkan Atlantis",
+    "空中軍艦アトランティス",
+    "Cat Shit One",
+    "キャットシットワン",
+    "Cat Shit One: The Animated Series",
+    "Apocalypse Meow"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx107219-KKzljkmHnZQT.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "107219",
+      "url": "https://anilist.co/anime/107219"
+    },
+    "k": {
+      "id": "4505",
+      "url": "https://kitsu.io/anime/4505"
+    },
+    "mal": {
+      "id": "41335",
+      "url": "https://myanimelist.net/anime/41335"
+    },
+    "yt": {
+      "id": "2WQcvz2vDc4",
+      "url": "https://www.youtube.com/watch?v=2WQcvz2vDc4"
+    }
+  }
+}

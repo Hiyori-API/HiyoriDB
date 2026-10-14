@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3598,
+  "slug": "druaga-no-tou-the-sword-of-uruk",
+  "kind": "anime",
+  "title": "Druaga no Tou: the Sword of URUK",
+  "titles": {
+    "default": "Druaga no Tou: the Sword of URUK",
+    "romaji": "Druaga no Tou: the Sword of URUK",
+    "english": "Tower of Druaga: The Sword of Uruk",
+    "native": "ドルアーガの塔 ～the Sword of URUK～"
+  },
+  "synonyms": [
+    "Druaga no Tou: the Sword of URUK",
+    "Tower of Druaga: The Sword of Uruk",
+    "ドルアーガの塔 ～the Sword of URUK～",
+    "Druaga no Tou: The Sword of Uruk"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4726-jdANq6sGjol8.png"
+  ],
+  "references": {
+    "al": {
+      "id": "4726",
+      "url": "https://anilist.co/anime/4726"
+    },
+    "cr": {
+      "id": "the-tower-of-druaga-the-sword-of-uruk-",
+      "url": "https://www.crunchyroll.com/series/the-tower-of-druaga-the-sword-of-uruk-"
+    },
+    "k": {
+      "id": "3764",
+      "url": "https://kitsu.io/anime/3764"
+    },
+    "mal": {
+      "id": "4726",
+      "url": "https://myanimelist.net/anime/4726"
+    },
+    "t": {
+      "id": "64081",
+      "url": "https://trakt.tv/shows/64081"
+    },
+    "ttv": {
+      "id": "2376",
+      "url": "https://tubitv.com/series/2376"
+    }
+  }
+}

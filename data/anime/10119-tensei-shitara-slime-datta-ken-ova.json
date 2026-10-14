@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10119,
+  "slug": "tensei-shitara-slime-datta-ken-ova",
+  "kind": "anime",
+  "title": "Tensei Shitara Slime Datta Ken OVA",
+  "titles": {
+    "default": "Tensei Shitara Slime Datta Ken OVA",
+    "romaji": "Tensei Shitara Slime Datta Ken OVA",
+    "english": "That Time I Got Reincarnated as a Slime OAD",
+    "native": "転生したらスライムだった件 OVA"
+  },
+  "synonyms": [
+    "Tensei Shitara Slime Datta Ken OVA",
+    "That Time I Got Reincarnated as a Slime OAD",
+    "転生したらスライムだった件 OVA",
+    "ten·sura",
+    "転スラ",
+    "Tensei Shitara Slime Datta Ken (2019)",
+    "That Time I Got Reincarnated as a Slime OVA",
+    "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว OAD",
+    "Moi, quand je me réincarne en Slime OAD",
+    "TenSura OVA",
+    "Tensei shitara Slime Datta Ken Gaiden",
+    "That Time I Got Reincarnated as a Slime Extra",
+    "Tensei shitara Slime Datta Ken OVA"
+  ],
+  "type": "ova",
+  "episodes": 5,
+  "status": "finished",
+  "season": "summer",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx106509-nTJyMJKbvRFn.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "106509",
+      "url": "https://anilist.co/anime/106509"
+    },
+    "cr": {
+      "id": "that-time-i-got-reincarnated-as-a-slime",
+      "url": "https://www.crunchyroll.com/series/that-time-i-got-reincarnated-as-a-slime"
+    },
+    "mal": {
+      "id": "38793",
+      "url": "https://myanimelist.net/anime/38793"
+    },
+    "tx": {
+      "id": "ten_sura_anime",
+      "url": "https://twitter.com/ten_sura_anime"
+    }
+  }
+}

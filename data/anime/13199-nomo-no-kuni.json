@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13199,
+  "slug": "nomo-no-kuni",
+  "kind": "anime",
+  "title": "Nomo no Kuni",
+  "titles": {
+    "default": "Nomo no Kuni",
+    "romaji": "Nomo no Kuni",
+    "english": "The Land of NOMO",
+    "native": "ノモの国"
+  },
+  "synonyms": [
+    "Nomo no Kuni",
+    "The Land of NOMO",
+    "ノモの国",
+    "Ame to Shoujo to Watashi no Tegami",
+    "雨と少女と私の手紙",
+    "Rain",
+    "the Little Girl",
+    "and My Letter"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192928-akbttQVo3Mdi.png"
+  ],
+  "references": {
+    "al": {
+      "id": "192928",
+      "url": "https://anilist.co/anime/192928"
+    },
+    "k": {
+      "id": "1100",
+      "url": "https://kitsu.io/anime/1100"
+    },
+    "mal": {
+      "id": "61327",
+      "url": "https://myanimelist.net/anime/61327"
+    },
+    "yt": {
+      "id": "2puErJ6wnmU",
+      "url": "https://www.youtube.com/watch?v=2puErJ6wnmU"
+    }
+  }
+}

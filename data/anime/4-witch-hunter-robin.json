@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4,
+  "slug": "witch-hunter-robin",
+  "kind": "anime",
+  "title": "Witch Hunter ROBIN",
+  "titles": {
+    "default": "Witch Hunter ROBIN",
+    "romaji": "Witch Hunter ROBIN"
+  },
+  "synonyms": [
+    "Witch Hunter ROBIN",
+    "ウイッチハンターロビン",
+    "WHR",
+    "Witch Hunter Robin",
+    "ウィッチハンター ロビン"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "summer",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx7-6uh1fPvbgS9t.png"
+  ],
+  "references": {
+    "al": {
+      "id": "7",
+      "url": "https://anilist.co/anime/7"
+    },
+    "cr": {
+      "id": "witch-hunter-robin",
+      "url": "https://www.crunchyroll.com/series/witch-hunter-robin"
+    },
+    "k": {
+      "id": "4",
+      "url": "https://kitsu.io/anime/4"
+    },
+    "mal": {
+      "id": "7",
+      "url": "https://myanimelist.net/anime/7"
+    },
+    "t": {
+      "id": "1093",
+      "url": "https://trakt.tv/shows/1093"
+    }
+  }
+}

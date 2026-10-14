@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4712,
+  "slug": "chingou-muchabee",
+  "kind": "anime",
+  "title": "Chingou Muchabee",
+  "titles": {
+    "default": "Chingou Muchabee",
+    "romaji": "Chingou Muchabee",
+    "native": "珍豪ムチャ兵衛"
+  },
+  "synonyms": [
+    "Chingou Muchabee",
+    "珍豪ムチャ兵衛",
+    "Chingo Muchabei"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "winter",
+  "year": 1971,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17457.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "17457",
+      "url": "https://anilist.co/anime/17457"
+    },
+    "k": {
+      "id": "9230",
+      "url": "https://kitsu.io/anime/9230"
+    },
+    "mal": {
+      "id": "17457",
+      "url": "https://myanimelist.net/anime/17457"
+    }
+  }
+}

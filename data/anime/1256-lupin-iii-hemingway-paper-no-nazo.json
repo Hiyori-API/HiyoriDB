@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1256,
+  "slug": "lupin-iii-hemingway-paper-no-nazo",
+  "kind": "anime",
+  "title": "Lupin III: Hemingway Paper no Nazo",
+  "titles": {
+    "default": "Lupin III: Hemingway Paper no Nazo",
+    "romaji": "Lupin III: Hemingway Paper no Nazo",
+    "english": "Lupin the 3rd: The Hemingway Papers",
+    "native": "ルパン三世ヘミングウェイペーパーの謎"
+  },
+  "synonyms": [
+    "Lupin III: Hemingway Paper no Nazo",
+    "Lupin the 3rd: The Hemingway Papers",
+    "ルパン三世ヘミングウェイペーパーの謎",
+    "Rupan Sansei: Hemmingway Paper no Nazo",
+    "Lupin III: Mystery of the Hemingway Papers",
+    "Lupin III - Il mistero delle carte di Hemingway",
+    "Lupin the Third: The Hemingway Paper Mystery",
+    "Lupin III: The Hemingway Paper Mystery",
+    "ルパン三世『ヘミングウェイペーパーの謎"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1421-zTMijlcU3595.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1421",
+      "url": "https://anilist.co/anime/1421"
+    },
+    "ap": {
+      "id": "B094C2G9XP",
+      "url": "https://www.amazon.com/gp/video/detail/B094C2G9XP"
+    },
+    "k": {
+      "id": "1274",
+      "url": "https://kitsu.io/anime/1274"
+    },
+    "mal": {
+      "id": "1421",
+      "url": "https://myanimelist.net/anime/1421"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10045,
+  "slug": "gochuumon-wa-usagi-desu-ka-sing-for-you",
+  "kind": "anime",
+  "title": "Gochuumon wa Usagi desu ka?? Sing For You",
+  "titles": {
+    "default": "Gochuumon wa Usagi desu ka?? Sing For You",
+    "romaji": "Gochuumon wa Usagi desu ka?? Sing For You",
+    "english": "Is the Order a Rabbit?? ～Sing For You～",
+    "native": "ご注文はうさぎですか？？ ~Sing For You~"
+  },
+  "synonyms": [
+    "Gochuumon wa Usagi desu ka?? Sing For You",
+    "Is the Order a Rabbit?? ～Sing For You～",
+    "ご注文はうさぎですか？？ ~Sing For You~",
+    "Gochiusa OVA",
+    "ごちうさ OVA",
+    "Gochuumon wa Usagi desu ka? OVA",
+    "GochiUsa OVA",
+    "Is the Order a Rabbit?? OVA",
+    "ご注文はうさぎですか?? ~Sing For You~",
+    "Gochuumon wa Usagi desu ka?? Sing for You"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104199-s5wsdWvBPvBp.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "104199",
+      "url": "https://anilist.co/anime/104199"
+    },
+    "mal": {
+      "id": "38333",
+      "url": "https://myanimelist.net/anime/38333"
+    },
+    "tx": {
+      "id": "usagi_anime",
+      "url": "https://twitter.com/usagi_anime"
+    },
+    "yt": {
+      "id": "A6b7z3HfJOY",
+      "url": "https://www.youtube.com/watch?v=A6b7z3HfJOY"
+    }
+  }
+}

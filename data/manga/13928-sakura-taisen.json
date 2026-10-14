@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13928,
+  "slug": "sakura-taisen",
+  "kind": "manga",
+  "title": "Sakura Taisen",
+  "titles": {
+    "default": "Sakura Taisen"
+  },
+  "synonyms": [
+    "Sakura Taisen Mangaban",
+    "サクラ大戦 漫画版",
+    "Sakura Wars",
+    "サクラ大戦",
+    "Sakura Taisen"
+  ],
+  "type": "manga",
+  "chapters": 29,
+  "volumes": 9,
+  "status": "finished",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30511-Yr8gGLqV5cGw.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "561",
+      "url": "https://anilist.co/anime/561"
+    },
+    "al_manga": {
+      "id": "561",
+      "url": "https://anilist.co/manga/561"
+    }
+  }
+}

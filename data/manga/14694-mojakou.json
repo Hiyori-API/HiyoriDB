@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14694,
+  "slug": "mojakou",
+  "kind": "manga",
+  "title": "Mojakou",
+  "titles": {
+    "default": "Mojakou"
+  },
+  "synonyms": [
+    "Mojacko",
+    "モジャ公",
+    "The Crater",
+    "ザ・クレーター"
+  ],
+  "type": "manga",
+  "volumes": 2,
+  "status": "finished",
+  "year": 1969,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx165565-YWGDrbrl09kV.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2736",
+      "url": "https://anilist.co/anime/2736"
+    },
+    "al_manga": {
+      "id": "2736",
+      "url": "https://anilist.co/manga/2736"
+    }
+  }
+}

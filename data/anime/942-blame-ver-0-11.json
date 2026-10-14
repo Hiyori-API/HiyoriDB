@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 942,
+  "slug": "blame-ver-0-11",
+  "kind": "anime",
+  "title": "BLAME! Ver.0.11",
+  "titles": {
+    "default": "BLAME! Ver.0.11",
+    "romaji": "BLAME! Ver.0.11"
+  },
+  "synonyms": [
+    "BLAME! Ver.0.11",
+    "BLAME (ブラム!)",
+    "Blame!"
+  ],
+  "type": "ona",
+  "episodes": 6,
+  "status": "finished",
+  "season": "fall",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx1055-k99fJWHZoKy3.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1055",
+      "url": "https://anilist.co/anime/1055"
+    },
+    "k": {
+      "id": "944",
+      "url": "https://kitsu.io/anime/944"
+    },
+    "mal": {
+      "id": "1055",
+      "url": "https://myanimelist.net/anime/1055"
+    }
+  }
+}

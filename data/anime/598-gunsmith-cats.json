@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 598,
+  "slug": "gunsmith-cats",
+  "kind": "anime",
+  "title": "Gunsmith Cats",
+  "titles": {
+    "default": "Gunsmith Cats",
+    "romaji": "Gunsmith Cats",
+    "native": "ガンスミスキャッツ"
+  },
+  "synonyms": [
+    "Gunsmith Cats",
+    "ガンスミスキャッツ",
+    "ガンスミス キャッツ"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "fall",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx650-he0bSyXq2pTz.png"
+  ],
+  "references": {
+    "al": {
+      "id": "650",
+      "url": "https://anilist.co/anime/650"
+    },
+    "k": {
+      "id": "598",
+      "url": "https://kitsu.io/anime/598"
+    },
+    "mal": {
+      "id": "650",
+      "url": "https://myanimelist.net/anime/650"
+    }
+  }
+}

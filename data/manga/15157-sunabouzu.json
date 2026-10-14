@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15157,
+  "slug": "sunabouzu",
+  "kind": "manga",
+  "title": "Sunabouzu",
+  "titles": {
+    "default": "Sunabouzu"
+  },
+  "synonyms": [
+    "Sunabozu",
+    "Sand Boy",
+    "Desert Punk",
+    "砂ぼうず",
+    "Kamikaze Kaito Jeanne",
+    "Kamikaze Kaitou Jeanne",
+    "Phantom Thief Jeanne",
+    "神風怪盗ジャンヌ",
+    "Divine Wind Phantom Thief Jeanne"
+  ],
+  "type": "manga",
+  "chapters": 139,
+  "volumes": 22,
+  "status": "finished",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx40016-pw2ze8XbF9oD.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "25",
+      "url": "https://anilist.co/anime/25"
+    },
+    "al_manga": {
+      "id": "25",
+      "url": "https://anilist.co/manga/25"
+    }
+  }
+}

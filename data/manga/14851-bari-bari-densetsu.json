@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14851,
+  "slug": "bari-bari-densetsu",
+  "kind": "manga",
+  "title": "Bari Bari Densetsu",
+  "titles": {
+    "default": "Bari Bari Densetsu"
+  },
+  "synonyms": [
+    "Baribari Densetsu",
+    "Baribari Legend",
+    "Motorcycle Legend",
+    "バリバリ伝説",
+    "Kuro no Kumikyoku",
+    "黒の組曲",
+    "Tenshi wa Yami ni Hohoemu",
+    "Bell ga Nattara",
+    "Cole",
+    "Linda",
+    "Violet"
+  ],
+  "type": "manga",
+  "chapters": 408,
+  "volumes": 38,
+  "status": "finished",
+  "year": 1983,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b39855-UsFFdGem432M.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12745",
+      "url": "https://anilist.co/anime/5002"
+    },
+    "al_manga": {
+      "id": "12745",
+      "url": "https://anilist.co/manga/12745"
+    }
+  }
+}

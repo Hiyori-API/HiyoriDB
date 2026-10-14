@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4523,
+  "slug": "crush-gear-nitro",
+  "kind": "anime",
+  "title": "Crush Gear Nitro",
+  "titles": {
+    "default": "Crush Gear Nitro",
+    "romaji": "Crush Gear Nitro",
+    "native": "クラッシュギア ニトロ"
+  },
+  "synonyms": [
+    "Crush Gear Nitro",
+    "クラッシュギア ニトロ",
+    "クラッシュギアNitro"
+  ],
+  "type": "tv",
+  "episodes": 50,
+  "status": "finished",
+  "season": "winter",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx7048-UIq7tVN7hzH2.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7048",
+      "url": "https://anilist.co/anime/7048"
+    },
+    "k": {
+      "id": "4849",
+      "url": "https://kitsu.io/anime/4849"
+    },
+    "mal": {
+      "id": "7048",
+      "url": "https://myanimelist.net/anime/7048"
+    }
+  }
+}

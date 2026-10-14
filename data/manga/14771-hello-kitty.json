@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14771,
+  "slug": "hello-kitty",
+  "kind": "manga",
+  "title": "HELLO KITTY",
+  "titles": {
+    "default": "HELLO KITTY"
+  },
+  "synonyms": [
+    "HELLO KITTY",
+    "Shin Kyojin no Hoshi",
+    "新巨人の星"
+  ],
+  "type": "manga",
+  "chapters": 17,
+  "status": "finished",
+  "year": 1976,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx207837-j7I2rTxZ24t5.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "140317",
+      "url": "https://anilist.co/anime/130530"
+    },
+    "al_manga": {
+      "id": "140317",
+      "url": "https://anilist.co/manga/140317"
+    }
+  }
+}

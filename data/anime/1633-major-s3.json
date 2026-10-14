@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1633,
+  "slug": "major-s3",
+  "kind": "anime",
+  "title": "Major S3",
+  "titles": {
+    "default": "Major S3",
+    "romaji": "Major S3",
+    "native": "メジャー  (第3シリーズ)"
+  },
+  "synonyms": [
+    "Major S3",
+    "メジャー  (第3シリーズ)",
+    "Major 3rd Season",
+    "Major 3",
+    "m3"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "winter",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1842-HtJQ2w0taDrN.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1842",
+      "url": "https://anilist.co/anime/1842"
+    },
+    "k": {
+      "id": "1659",
+      "url": "https://kitsu.io/anime/1659"
+    },
+    "mal": {
+      "id": "1842",
+      "url": "https://myanimelist.net/anime/1842"
+    },
+    "t": {
+      "id": "61997",
+      "url": "https://trakt.tv/shows/61997"
+    }
+  }
+}

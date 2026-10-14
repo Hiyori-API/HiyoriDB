@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8721,
+  "slug": "lo-re-pako-sukusuku-mizuki-chan-the-animation",
+  "kind": "anime",
+  "title": "LO Re: Pako Sukusuku Mizuki-chan THE ANIMATION",
+  "titles": {
+    "default": "LO Re: Pako Sukusuku Mizuki-chan THE ANIMATION",
+    "romaji": "LO Re: Pako Sukusuku Mizuki-chan THE ANIMATION",
+    "native": "LO Re：パコ すくすくみずきちゃん THE ANIMATION"
+  },
+  "synonyms": [
+    "LO Re: Pako Sukusuku Mizuki-chan THE ANIMATION",
+    "LO Re：パコ すくすくみずきちゃん THE ANIMATION",
+    "KonoSuba OVA",
+    "A Blessing to this Wonderful Choker!",
+    "KonoSuba: God's Blessing on This Wonderful World! - God's Blessing on This Wonderful Choker!",
+    "この素晴らしい世界に祝福を！ 第11話 この素晴らしいチヨーカーに祝福を！",
+    "Kono Subarashii Sekai ni Shukufuku wo!: Kono Subarashii Choker ni Shukufuku wo!"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21716-UwV3EXwpjJIZ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21716",
+      "url": "https://anilist.co/anime/21716"
+    },
+    "mal": {
+      "id": "32997",
+      "url": "https://myanimelist.net/anime/32997"
+    }
+  }
+}

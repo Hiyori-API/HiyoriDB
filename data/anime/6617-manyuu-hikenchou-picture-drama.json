@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6617,
+  "slug": "manyuu-hikenchou-picture-drama",
+  "kind": "anime",
+  "title": "Manyuu Hikenchou Picture Drama",
+  "titles": {
+    "default": "Manyuu Hikenchou Picture Drama",
+    "romaji": "Manyuu Hikenchou Picture Drama",
+    "native": "魔乳秘剣帖 ピクチャードラマ"
+  },
+  "synonyms": [
+    "Manyuu Hikenchou Picture Drama",
+    "魔乳秘剣帖 ピクチャードラマ",
+    "Manyuu Hikenchou: Kaede no Chifusa-sama Oppai Seichou Kiroku"
+  ],
+  "type": "special",
+  "episodes": 4,
+  "status": "finished",
+  "season": "fall",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12239.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12239",
+      "url": "https://anilist.co/anime/12239"
+    },
+    "k": {
+      "id": "6693",
+      "url": "https://kitsu.io/anime/6693"
+    },
+    "mal": {
+      "id": "12239",
+      "url": "https://myanimelist.net/anime/12239"
+    }
+  }
+}

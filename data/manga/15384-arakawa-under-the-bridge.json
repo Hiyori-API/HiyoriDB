@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15384,
+  "slug": "arakawa-under-the-bridge",
+  "kind": "manga",
+  "title": "Arakawa Under the Bridge",
+  "titles": {
+    "default": "Arakawa Under the Bridge"
+  },
+  "synonyms": [
+    "Bên Dưới Cây Cầu Arakawa",
+    "Arakawa Under the Bridge",
+    "荒川アンダーザブリッジ",
+    "Railroad",
+    "레일로드"
+  ],
+  "type": "manga",
+  "chapters": 410,
+  "volumes": 15,
+  "status": "finished",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx44154-v7tuOwyp2ETh.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9074",
+      "url": "https://anilist.co/anime/7647"
+    },
+    "al_manga": {
+      "id": "9074",
+      "url": "https://anilist.co/manga/9074"
+    }
+  }
+}

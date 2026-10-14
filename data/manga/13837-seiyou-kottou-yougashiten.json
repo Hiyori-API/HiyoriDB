@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13837,
+  "slug": "seiyou-kottou-yougashiten",
+  "kind": "manga",
+  "title": "Seiyou Kottou Yougashiten",
+  "titles": {
+    "default": "Seiyou Kottou Yougashiten"
+  },
+  "synonyms": [
+    "Seiyo Kotto Yougashiten",
+    "Western Antique Cake-Shop",
+    "서양골동 양과자점",
+    "Antique Bakery",
+    "西洋骨董洋菓子店",
+    "Seiyou Kottou Yougashiten"
+  ],
+  "type": "manga",
+  "chapters": 23,
+  "volumes": 4,
+  "status": "finished",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30209-9xlMrZgu0T3Z.png"
+  ],
+  "references": {
+    "al": {
+      "id": "4021",
+      "url": "https://anilist.co/anime/4021"
+    },
+    "al_manga": {
+      "id": "4021",
+      "url": "https://anilist.co/manga/4021"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13926,
+  "slug": "saiyuuki",
+  "kind": "manga",
+  "title": "Saiyuuki",
+  "titles": {
+    "default": "Saiyuuki"
+  },
+  "synonyms": [
+    "Gensomaden Saiyuki",
+    "Saiyuki",
+    "最遊記",
+    "Saiyuuki"
+  ],
+  "type": "manga",
+  "chapters": 55,
+  "volumes": 9,
+  "status": "finished",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30509-dyDz0HuHxtpZ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "130",
+      "url": "https://anilist.co/anime/129"
+    },
+    "al_manga": {
+      "id": "130",
+      "url": "https://anilist.co/manga/130"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5877,
+  "slug": "mcdull-xiang-dang-dang",
+  "kind": "anime",
+  "title": "McDull: Xiang Dang Dang",
+  "titles": {
+    "default": "McDull: Xiang Dang Dang",
+    "romaji": "McDull: Xiang Dang Dang",
+    "native": "麦兜响当当"
+  },
+  "synonyms": [
+    "McDull: Xiang Dang Dang",
+    "麦兜响当当",
+    "McDull, Kung Fu Kindergarten",
+    "麥兜響噹噹",
+    "McDull: Kung Fu Ding Ding Don",
+    "McDull",
+    "McDull: Kung Fu Ding Ding Dong",
+    "McDull Movie 3"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9819.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9819",
+      "url": "https://anilist.co/anime/9819"
+    },
+    "k": {
+      "id": "5886",
+      "url": "https://kitsu.io/anime/5886"
+    },
+    "mal": {
+      "id": "9819",
+      "url": "https://myanimelist.net/anime/9819"
+    }
+  }
+}

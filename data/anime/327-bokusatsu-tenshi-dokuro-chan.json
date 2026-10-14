@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 327,
+  "slug": "bokusatsu-tenshi-dokuro-chan",
+  "kind": "anime",
+  "title": "Bokusatsu Tenshi Dokuro-chan",
+  "titles": {
+    "default": "Bokusatsu Tenshi Dokuro-chan",
+    "romaji": "Bokusatsu Tenshi Dokuro-chan",
+    "english": "Bludgeoning Angel Dokuro-chan",
+    "native": "撲殺天使ドクロちゃん"
+  },
+  "synonyms": [
+    "Bokusatsu Tenshi Dokuro-chan",
+    "Bludgeoning Angel Dokuro-chan",
+    "撲殺天使ドクロちゃん",
+    "Club-To-Death Angel Dokuro-chan"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "spring",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx357-k01dbafXBao6.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "357",
+      "url": "https://anilist.co/anime/357"
+    },
+    "cr": {
+      "id": "bludgeoning-angel-dokuro-chan",
+      "url": "https://www.crunchyroll.com/series/bludgeoning-angel-dokuro-chan"
+    },
+    "k": {
+      "id": "324",
+      "url": "https://kitsu.io/anime/324"
+    },
+    "mal": {
+      "id": "357",
+      "url": "https://myanimelist.net/anime/357"
+    }
+  }
+}

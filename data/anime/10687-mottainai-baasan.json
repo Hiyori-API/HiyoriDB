@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10687,
+  "slug": "mottainai-baasan",
+  "kind": "anime",
+  "title": "Mottainai Baasan",
+  "titles": {
+    "default": "Mottainai Baasan",
+    "romaji": "Mottainai Baasan",
+    "native": "もったいないばあさん"
+  },
+  "synonyms": [
+    "Mottainai Baasan",
+    "もったいないばあさん",
+    "Mottainai Grandma",
+    "Ajimu: Kaigan Monogatari",
+    "あじむ ～海岸物語～",
+    "Ajimu: Beach Story"
+  ],
+  "type": "ona",
+  "episodes": 4,
+  "status": "finished",
+  "season": "spring",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126168-J8LyDc5qs4Dw.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "126168",
+      "url": "https://anilist.co/anime/126168"
+    },
+    "k": {
+      "id": "1554",
+      "url": "https://kitsu.io/anime/1554"
+    },
+    "mal": {
+      "id": "42170",
+      "url": "https://myanimelist.net/anime/42170"
+    }
+  }
+}

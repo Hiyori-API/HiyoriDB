@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 264,
+  "slug": "d-c-s-s-da-capo-second-season",
+  "kind": "anime",
+  "title": "D.C.S.S.: Da Capo Second Season",
+  "titles": {
+    "default": "D.C.S.S.: Da Capo Second Season",
+    "romaji": "D.C.S.S.: Da Capo Second Season",
+    "english": "D.C.S.S. ~Da Capo Second Season~",
+    "native": "D.C.S.S. ～ダ・カーポ セカンドシーズン～"
+  },
+  "synonyms": [
+    "D.C.S.S.: Da Capo Second Season",
+    "D.C.S.S. ~Da Capo Second Season~",
+    "D.C.S.S. ～ダ・カーポ セカンドシーズン～",
+    "D.C.S.G.",
+    "Da Capo 2nd Season",
+    "Da Capo Second Graduation",
+    "Da Capo Second Story",
+    "D.C.S.S: Da Capo Second Season",
+    "dc2"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "summer",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx291-mjwkHSLSO6CC.png"
+  ],
+  "references": {
+    "al": {
+      "id": "291",
+      "url": "https://anilist.co/anime/291"
+    },
+    "k": {
+      "id": "266",
+      "url": "https://kitsu.io/anime/266"
+    },
+    "mal": {
+      "id": "291",
+      "url": "https://myanimelist.net/anime/291"
+    },
+    "t": {
+      "id": "63506",
+      "url": "https://trakt.tv/shows/63506"
+    }
+  }
+}

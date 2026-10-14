@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15817,
+  "slug": "shen-qi-huan-qi-tan",
+  "kind": "manga",
+  "title": "Shen Qi Huan Qi Tan",
+  "titles": {
+    "default": "Shen Qi Huan Qi Tan"
+  },
+  "synonyms": [
+    "The Legend of the Ancient Soul",
+    "神契幻奇谭",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "chapters": 101,
+  "volumes": 15,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b194685-ZF5RZbfO87OB.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "103130",
+      "url": "https://anilist.co/anime/103130"
+    },
+    "al_manga": {
+      "id": "103130",
+      "url": "https://anilist.co/manga/103130"
+    }
+  }
+}

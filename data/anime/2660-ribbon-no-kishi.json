@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2660,
+  "slug": "ribbon-no-kishi",
+  "kind": "anime",
+  "title": "Ribbon no Kishi",
+  "titles": {
+    "default": "Ribbon no Kishi",
+    "romaji": "Ribbon no Kishi",
+    "english": "Princess Knight",
+    "native": "リボンの騎士"
+  },
+  "synonyms": [
+    "Ribbon no Kishi",
+    "Princess Knight",
+    "リボンの騎士",
+    "Choppy und die Prinzessin"
+  ],
+  "type": "tv",
+  "episodes": 52,
+  "status": "finished",
+  "season": "spring",
+  "year": 1967,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3024-OaPzY6IV9cLl.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3024",
+      "url": "https://anilist.co/anime/3024"
+    },
+    "cr": {
+      "id": "princess-knight",
+      "url": "https://www.crunchyroll.com/series/princess-knight"
+    },
+    "k": {
+      "id": "2732",
+      "url": "https://kitsu.io/anime/2732"
+    },
+    "mal": {
+      "id": "3024",
+      "url": "https://myanimelist.net/anime/3024"
+    },
+    "t": {
+      "id": "67086",
+      "url": "https://trakt.tv/shows/67086"
+    },
+    "ttv": {
+      "id": "1029",
+      "url": "https://tubitv.com/series/1029"
+    }
+  }
+}

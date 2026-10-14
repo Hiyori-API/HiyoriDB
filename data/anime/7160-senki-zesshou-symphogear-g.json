@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7160,
+  "slug": "senki-zesshou-symphogear-g",
+  "kind": "anime",
+  "title": "Senki Zesshou Symphogear G",
+  "titles": {
+    "default": "Senki Zesshou Symphogear G",
+    "romaji": "Senki Zesshou Symphogear G",
+    "english": "Symphogear G",
+    "native": "戦姫絶唱シンフォギアG"
+  },
+  "synonyms": [
+    "Senki Zesshou Symphogear G",
+    "Symphogear G",
+    "戦姫絶唱シンフォギアG",
+    "Symphogear Season 2",
+    "Senhime Zesshou Symphogear G"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15793-CNcrWE9Eqzkg.png"
+  ],
+  "references": {
+    "al": {
+      "id": "15793",
+      "url": "https://anilist.co/anime/15793"
+    },
+    "cr": {
+      "id": "symphogear",
+      "url": "https://www.crunchyroll.com/series/symphogear"
+    },
+    "k": {
+      "id": "7311",
+      "url": "https://kitsu.io/anime/7311"
+    },
+    "mal": {
+      "id": "15793",
+      "url": "https://myanimelist.net/anime/15793"
+    },
+    "t": {
+      "id": "65280",
+      "url": "https://trakt.tv/shows/65280"
+    },
+    "tx": {
+      "id": "SYMPHOGEAR",
+      "url": "https://twitter.com/SYMPHOGEAR"
+    }
+  }
+}

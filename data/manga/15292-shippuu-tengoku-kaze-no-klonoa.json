@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15292,
+  "slug": "shippuu-tengoku-kaze-no-klonoa",
+  "kind": "manga",
+  "title": "Shippuu Tengoku Kaze no Klonoa",
+  "titles": {
+    "default": "Shippuu Tengoku Kaze no Klonoa"
+  },
+  "synonyms": [
+    "Kaze no Klonoa",
+    "Heavenly wind Tamer",
+    "疾風天国風のクロノア",
+    "Heavenly wind Tamer, Klonoa of the Wind!",
+    "Shippuu Tengoku: Kaze no Klonoa",
+    "疾風天国 風のクロノア",
+    "Klonoa of the Wind!"
+  ],
+  "type": "manga",
+  "chapters": 14,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/15349.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "177467",
+      "url": "https://anilist.co/anime/177467"
+    },
+    "al_manga": {
+      "id": "177467",
+      "url": "https://anilist.co/manga/177467"
+    }
+  }
+}

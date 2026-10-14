@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14669,
+  "slug": "009-1",
+  "kind": "manga",
+  "title": "009-1",
+  "titles": {
+    "default": "009-1"
+  },
+  "synonyms": [
+    "Zero Zero Ku no Ichi",
+    "Zero Zero Nine One",
+    "ゼロゼロナイン・ワン",
+    "Lupin III",
+    "Lupin Sansei",
+    "Lupin the 3rd",
+    "ルパン三世"
+  ],
+  "type": "manga",
+  "volumes": 6,
+  "status": "finished",
+  "year": 1967,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx46738-FsXCJe28rp8G.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1583",
+      "url": "https://anilist.co/anime/1583"
+    },
+    "al_manga": {
+      "id": "1583",
+      "url": "https://anilist.co/manga/1583"
+    }
+  }
+}

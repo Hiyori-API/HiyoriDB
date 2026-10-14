@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9812,
+  "slug": "gurazeni-2",
+  "kind": "anime",
+  "title": "Gurazeni 2",
+  "titles": {
+    "default": "Gurazeni 2",
+    "romaji": "Gurazeni 2",
+    "english": "Gurazeni: Money Pitch 2",
+    "native": "グラゼニ 2"
+  },
+  "synonyms": [
+    "Gurazeni 2",
+    "Gurazeni: Money Pitch 2",
+    "グラゼニ 2",
+    "Gurazeni 2nd Season",
+    "Gurazeni (2018)",
+    "Spirit Pact: Yomi no Chigiri",
+    "Spirit Pact: Bond of the Underworld",
+    "Spiritpact: Bond of the Underworld",
+    "灵契 2",
+    "Ling Qi 2"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx102974-VYTKOyFzyuNz.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "102974",
+      "url": "https://anilist.co/anime/102974"
+    },
+    "cr": {
+      "id": "gurazeni-money-pitch",
+      "url": "https://www.crunchyroll.com/series/gurazeni-money-pitch"
+    },
+    "mal": {
+      "id": "37990",
+      "url": "https://myanimelist.net/anime/37990"
+    },
+    "tx": {
+      "id": "sptv_gurazeni",
+      "url": "https://twitter.com/sptv_gurazeni"
+    }
+  }
+}

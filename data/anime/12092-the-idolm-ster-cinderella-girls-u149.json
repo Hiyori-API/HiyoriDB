@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12092,
+  "slug": "the-idolm-ster-cinderella-girls-u149",
+  "kind": "anime",
+  "title": "THE iDOLM@STER Cinderella Girls: U149",
+  "titles": {
+    "default": "THE iDOLM@STER Cinderella Girls: U149",
+    "romaji": "THE iDOLM@STER Cinderella Girls: U149",
+    "english": "THE IDOLM@STER CINDERELLA GIRLS U149",
+    "native": "アイドルマスター シンデレラガールズ U149"
+  },
+  "synonyms": [
+    "THE iDOLM@STER Cinderella Girls: U149",
+    "THE IDOLM@STER CINDERELLA GIRLS U149",
+    "アイドルマスター シンデレラガールズ U149",
+    "PROJECT U149",
+    "Тот, кто зажигает звёзды: Золушки U149",
+    "The iDOLM@STER Cinderella Girls: U149"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2023,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146975-CUs3i5aU8KsU.png"
+  ],
+  "references": {
+    "al": {
+      "id": "146975",
+      "url": "https://anilist.co/anime/146975"
+    },
+    "cr": {
+      "id": "series/GZJH3D0EP/the-idolmster-cinderella-girls-u149",
+      "url": "https://www.crunchyroll.com/series/series/GZJH3D0EP/the-idolmster-cinderella-girls-u149"
+    },
+    "mal": {
+      "id": "51536",
+      "url": "https://myanimelist.net/anime/51536"
+    },
+    "tx": {
+      "id": "u149_anime",
+      "url": "https://twitter.com/u149_anime"
+    }
+  }
+}

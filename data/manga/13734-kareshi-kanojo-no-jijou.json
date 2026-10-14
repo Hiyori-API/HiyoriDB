@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13734,
+  "slug": "kareshi-kanojo-no-jijou",
+  "kind": "manga",
+  "title": "Kareshi Kanojo no Jijou",
+  "titles": {
+    "default": "Kareshi Kanojo no Jijou"
+  },
+  "synonyms": [
+    "His and Hers",
+    "Elle et Lui",
+    "Kare Kano: As Razões Dele, Os Motivos Dela",
+    "Las Cosas de El y Ella",
+    "Le Situazioni Di Lui E Lei",
+    "Он и она и их обстоятельства",
+    "男女蹺蹺板",
+    "그남자! 그여자!",
+    "Karekano",
+    "Kare Kano: His and Her Circumstances",
+    "彼氏彼女の事情",
+    "Kareshi Kanojo no Jijou",
+    "The Tiger and the Chameleon: A Promise for One Week",
+    "Ashita Mata Mori de Aou ne",
+    "Meet Me Again Tomorrow in the Forest",
+    "KKNJ",
+    "Abareru Ousama",
+    "The Raging King"
+  ],
+  "type": "manga",
+  "chapters": 108,
+  "volumes": 21,
+  "status": "finished",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30017-6IEZDkZJthuJ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "145",
+      "url": "https://anilist.co/anime/145"
+    },
+    "al_manga": {
+      "id": "145",
+      "url": "https://anilist.co/manga/145"
+    }
+  }
+}

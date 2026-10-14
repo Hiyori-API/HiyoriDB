@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 346,
+  "slug": "ex-driver",
+  "kind": "anime",
+  "title": "eX-Driver",
+  "titles": {
+    "default": "eX-Driver",
+    "romaji": "eX-Driver",
+    "english": "éX-Driver",
+    "native": "エクスドライバー"
+  },
+  "synonyms": [
+    "eX-Driver",
+    "éX-Driver",
+    "エクスドライバー"
+  ],
+  "type": "ova",
+  "episodes": 6,
+  "status": "finished",
+  "season": "summer",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx377-fGzxXHUxQtwV.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "377",
+      "url": "https://anilist.co/anime/377"
+    },
+    "k": {
+      "id": "344",
+      "url": "https://kitsu.io/anime/344"
+    },
+    "mal": {
+      "id": "377",
+      "url": "https://myanimelist.net/anime/377"
+    }
+  }
+}

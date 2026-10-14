@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10835,
+  "slug": "sf-lolita-fantasy-ome-1",
+  "kind": "anime",
+  "title": "SF Lolita Fantasy OME-1",
+  "titles": {
+    "default": "SF Lolita Fantasy OME-1",
+    "romaji": "SF Lolita Fantasy OME-1",
+    "native": "ＳＦロリータファンタジー「ＯＭＥ－１」"
+  },
+  "synonyms": [
+    "SF Lolita Fantasy OME-1",
+    "ＳＦロリータファンタジー「ＯＭＥ－１」",
+    "Bavi Stock",
+    "バビ・ストック",
+    "Bavi Stock II: The Revenge of Eyesman - Ai no Kodou no Kanata ni",
+    "Bavi Stock I: Hateshi Naki Hyouteki"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7864.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7864",
+      "url": "https://anilist.co/anime/7864"
+    },
+    "k": {
+      "id": "6035",
+      "url": "https://kitsu.io/anime/6035"
+    },
+    "mal": {
+      "id": "7864",
+      "url": "https://myanimelist.net/anime/7864"
+    }
+  }
+}

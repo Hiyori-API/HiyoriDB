@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9767,
+  "slug": "marvel-future-avengers-2nd-season",
+  "kind": "anime",
+  "title": "Marvel Future Avengers 2nd Season",
+  "titles": {
+    "default": "Marvel Future Avengers 2nd Season",
+    "romaji": "Marvel Future Avengers 2nd Season",
+    "native": "マーベル フューチャー・アベンジャーズ 2nd Season"
+  },
+  "synonyms": [
+    "Marvel Future Avengers 2nd Season",
+    "マーベル フューチャー・アベンジャーズ 2nd Season",
+    "Marvel Fremtidige Avengers Sesong 2",
+    "Overlord III",
+    "オーバーロードⅢ"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx101697-0fHSYzI0rj50.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101697",
+      "url": "https://anilist.co/anime/101697"
+    },
+    "mal": {
+      "id": "37151",
+      "url": "https://myanimelist.net/anime/37151"
+    }
+  }
+}

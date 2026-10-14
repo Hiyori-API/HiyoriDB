@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14035,
+  "slug": "angel-densetsu",
+  "kind": "manga",
+  "title": "Angel Densetsu",
+  "titles": {
+    "default": "Angel Densetsu"
+  },
+  "synonyms": [
+    "Legend of Angel",
+    "エンジェル伝説",
+    "Angel Densetsu"
+  ],
+  "type": "manga",
+  "chapters": 89,
+  "volumes": 15,
+  "status": "finished",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx30838-Tr5B9b3gKbxf.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5251",
+      "url": "https://anilist.co/anime/5251"
+    },
+    "al_manga": {
+      "id": "5251",
+      "url": "https://anilist.co/manga/5251"
+    }
+  }
+}

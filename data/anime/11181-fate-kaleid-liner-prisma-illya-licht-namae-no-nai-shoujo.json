@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11181,
+  "slug": "fate-kaleid-liner-prisma-illya-licht-namae-no-nai-shoujo",
+  "kind": "anime",
+  "title": "Fate/kaleid liner Prisma☆Illya: Licht - Namae no Nai Shoujo",
+  "titles": {
+    "default": "Fate/kaleid liner Prisma☆Illya: Licht - Namae no Nai Shoujo",
+    "romaji": "Fate/kaleid liner Prisma☆Illya: Licht - Namae no Nai Shoujo",
+    "english": "Fate/kaleid liner Prisma☆Illya: Licht Nameless Girl",
+    "native": "Fate/kaleid liner プリズマ☆イリヤ Licht 名前の無い少女"
+  },
+  "synonyms": [
+    "Fate/kaleid liner Prisma☆Illya: Licht - Namae no Nai Shoujo",
+    "Fate/kaleid liner Prisma☆Illya: Licht Nameless Girl",
+    "Fate/kaleid liner プリズマ☆イリヤ Licht 名前の無い少女",
+    "Судьба/Девочка-волшебница Иллия: Свет — Девочка без имени",
+    "Fate/kaleid liner Prisma Illya: หญิงสาวไร้นาม",
+    "Evangelion: 3.0+1.0 Thrice Upon a Time",
+    "Shin Evangelion Gekijouban :||",
+    "シン・エヴァンゲリオン劇場版:||",
+    "Evangelion: 4.0",
+    "Rebuild of Evangelion 4.0"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118743-T2Zm7kA33pnj.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "118743",
+      "url": "https://anilist.co/anime/118743"
+    },
+    "k": {
+      "id": "3252",
+      "url": "https://kitsu.io/anime/3252"
+    },
+    "mal": {
+      "id": "42030",
+      "url": "https://myanimelist.net/anime/42030"
+    },
+    "tx": {
+      "id": "prisma_illya",
+      "url": "https://twitter.com/prisma_illya"
+    }
+  }
+}

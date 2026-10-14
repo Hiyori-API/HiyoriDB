@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2059,
+  "slug": "jibaku-kun-twelve-world-story",
+  "kind": "anime",
+  "title": "Jibaku-kun: TWELVE WORLD STORY",
+  "titles": {
+    "default": "Jibaku-kun: TWELVE WORLD STORY",
+    "romaji": "Jibaku-kun: TWELVE WORLD STORY",
+    "english": "Bucky: The Incredible Kid",
+    "native": "ジバクくん TWELVE WORLD STORY"
+  },
+  "synonyms": [
+    "Jibaku-kun: TWELVE WORLD STORY",
+    "Bucky: The Incredible Kid",
+    "ジバクくん TWELVE WORLD STORY",
+    "Jibaku-kun",
+    "Bucky",
+    "Bucky: Searching for World 0",
+    "ジバクくん",
+    "Jibaku-kun: Twelve World Story",
+    "Bucky: Searching for world 0"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2330-EGxPGTZuKZAd.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2330",
+      "url": "https://anilist.co/anime/2330"
+    },
+    "k": {
+      "id": "2110",
+      "url": "https://kitsu.io/anime/2110"
+    },
+    "mal": {
+      "id": "2330",
+      "url": "https://myanimelist.net/anime/2330"
+    },
+    "t": {
+      "id": "67934",
+      "url": "https://trakt.tv/shows/67934"
+    }
+  }
+}

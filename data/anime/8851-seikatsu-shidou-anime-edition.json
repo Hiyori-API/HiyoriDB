@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8851,
+  "slug": "seikatsu-shidou-anime-edition",
+  "kind": "anime",
+  "title": "Seikatsu Shidou!!: Anime Edition",
+  "titles": {
+    "default": "Seikatsu Shidou!!: Anime Edition",
+    "romaji": "Seikatsu Shidou!!: Anime Edition",
+    "native": "せいかつ指導!! Anime Edition"
+  },
+  "synonyms": [
+    "Seikatsu Shidou!!: Anime Edition",
+    "せいかつ指導!! Anime Edition",
+    "MonMusu OVA",
+    "Monster Musume: Everyday Life with Monster Girls OVA",
+    "モンスター娘のいる日常 OVA",
+    "Monster Musume no Iru Nichijou OVA"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97623-TRugdwsoiQOx.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "97623",
+      "url": "https://anilist.co/anime/97623"
+    },
+    "mal": {
+      "id": "34015",
+      "url": "https://myanimelist.net/anime/34015"
+    }
+  }
+}

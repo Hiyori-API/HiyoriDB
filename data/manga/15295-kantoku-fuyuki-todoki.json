@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15295,
+  "slug": "kantoku-fuyuki-todoki",
+  "kind": "manga",
+  "title": "Kantoku Fuyuki Todoki",
+  "titles": {
+    "default": "Kantoku Fuyuki Todoki"
+  },
+  "synonyms": [
+    "Insufficient Direction",
+    "監督不行届",
+    "Fujisan",
+    "富士山",
+    "Fuji-san"
+  ],
+  "type": "manga",
+  "chapters": 22,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx49393-eRd3PFb37Ao1.png"
+  ],
+  "references": {
+    "al": {
+      "id": "105892",
+      "url": "https://anilist.co/anime/20688"
+    },
+    "al_manga": {
+      "id": "105892",
+      "url": "https://anilist.co/manga/105892"
+    }
+  }
+}

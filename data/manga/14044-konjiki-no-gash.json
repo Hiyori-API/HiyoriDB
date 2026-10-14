@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14044,
+  "slug": "konjiki-no-gash",
+  "kind": "manga",
+  "title": "Konjiki no Gash!!",
+  "titles": {
+    "default": "Konjiki no Gash!!"
+  },
+  "synonyms": [
+    "Konjiki no Gash Bell!!",
+    "Gash Bell!!",
+    "魔法少年賈修",
+    "Zatch Bell!",
+    "金色のガッシュ!!",
+    "Full Moon wo Sagashite",
+    "満月〈フルムーン〉をさがして",
+    "Searching for the Full Moon",
+    "Ginyuu Meika"
+  ],
+  "type": "manga",
+  "chapters": 324,
+  "volumes": 33,
+  "status": "finished",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30869-cZHLgwIOv6Lm.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "250",
+      "url": "https://anilist.co/anime/250"
+    },
+    "al_manga": {
+      "id": "250",
+      "url": "https://anilist.co/manga/250"
+    }
+  }
+}

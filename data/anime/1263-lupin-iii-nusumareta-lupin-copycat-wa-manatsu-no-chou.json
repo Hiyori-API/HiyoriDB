@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1263,
+  "slug": "lupin-iii-nusumareta-lupin-copycat-wa-manatsu-no-chou",
+  "kind": "anime",
+  "title": "Lupin III: Nusumareta Lupin - Copycat wa Manatsu no Chou",
+  "titles": {
+    "default": "Lupin III: Nusumareta Lupin - Copycat wa Manatsu no Chou",
+    "romaji": "Lupin III: Nusumareta Lupin - Copycat wa Manatsu no Chou",
+    "english": "Lupin the 3rd: Swallowtail Tattoo",
+    "native": "ルパン三世 盗まれたルパン 〜コピーキャットは真夏の蝶〜"
+  },
+  "synonyms": [
+    "Lupin III: Nusumareta Lupin - Copycat wa Manatsu no Chou",
+    "Lupin the 3rd: Swallowtail Tattoo",
+    "ルパン三世 盗まれたルパン 〜コピーキャットは真夏の蝶〜",
+    "Rupan Sansei: Nusumareta Rupan",
+    "Lupin III: Stolen Lupin - Copycat Summer Butterflies",
+    "Lupin III: Stolen Lupin",
+    "Lupin III - Tutti i tesori del mondo",
+    "Hidden Leaf Village Grand Sports Festival",
+    "Naruto: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo! Special: Konoha Annual Sports Festival",
+    "木ノ葉の里と大うん動会",
+    "Gekijouban Naruto: Dai Katsugeki! Yuki Hime Ninpouchou Datte ba yo! - S1 Konoha Annual Sports Festival",
+    "Konoha no Sato no Daiun Douaki"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1429-t5zqVgaMNqIo.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1429",
+      "url": "https://anilist.co/anime/1429"
+    },
+    "k": {
+      "id": "2036",
+      "url": "https://kitsu.io/anime/2036"
+    },
+    "mal": {
+      "id": "1429",
+      "url": "https://myanimelist.net/anime/1429"
+    }
+  }
+}

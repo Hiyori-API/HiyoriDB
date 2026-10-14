@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9983,
+  "slug": "mob-psycho-100-ii",
+  "kind": "anime",
+  "title": "Mob Psycho 100 II",
+  "titles": {
+    "default": "Mob Psycho 100 II",
+    "romaji": "Mob Psycho 100 II",
+    "native": "モブサイコ100 II"
+  },
+  "synonyms": [
+    "Mob Psycho 100 II",
+    "モブサイコ100 II",
+    "Mob Psycho Hyaku",
+    "ม็อบไซโค 100 คนพลังจิต ภาค 2",
+    "Моб Психо 100 II",
+    "Mob Psycho 100 2nd Season",
+    "Mob Psycho One Hundred"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101338-rokVscjRYzdP.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101338",
+      "url": "https://anilist.co/anime/101338"
+    },
+    "cr": {
+      "id": "mob-psycho-100",
+      "url": "https://www.crunchyroll.com/series/mob-psycho-100"
+    },
+    "mal": {
+      "id": "37510",
+      "url": "https://myanimelist.net/anime/37510"
+    },
+    "nf": {
+      "id": "80179798",
+      "url": "https://www.netflix.com/title/80179798"
+    },
+    "tx": {
+      "id": "mobpsycho_anime",
+      "url": "https://twitter.com/mobpsycho_anime"
+    }
+  }
+}

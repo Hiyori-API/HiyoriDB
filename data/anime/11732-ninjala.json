@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11732,
+  "slug": "ninjala",
+  "kind": "anime",
+  "title": "Ninjala",
+  "titles": {
+    "default": "Ninjala",
+    "romaji": "Ninjala",
+    "english": "Ninjala the Animation",
+    "native": "ニンジャラ"
+  },
+  "synonyms": [
+    "Ninjala",
+    "Ninjala the Animation",
+    "ニンジャラ",
+    "Jeonjijeok Dokja Sijeom",
+    "Omniscient Reader's Viewpoint",
+    "전지적 독자 시점"
+  ],
+  "type": "tv",
+  "status": "airing",
+  "season": "winter",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142274-qPfkeKk4caKI.png"
+  ],
+  "references": {
+    "al": {
+      "id": "142274",
+      "url": "https://anilist.co/anime/142274"
+    },
+    "mal": {
+      "id": "50418",
+      "url": "https://myanimelist.net/anime/50418"
+    },
+    "tvt": {
+      "id": "ninjala",
+      "url": "http://www.tv-tokyo.co.jp/anime/ninjala"
+    },
+    "tx": {
+      "id": "Ninjala_JP",
+      "url": "https://twitter.com/Ninjala_JP"
+    }
+  }
+}

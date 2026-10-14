@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5760,
+  "slug": "ccw-crazy-clay-wrestling",
+  "kind": "anime",
+  "title": "CCW: Crazy Clay Wrestling",
+  "titles": {
+    "default": "CCW: Crazy Clay Wrestling",
+    "romaji": "CCW: Crazy Clay Wrestling",
+    "native": "クレイジー・クレイ・レスリング"
+  },
+  "synonyms": [
+    "CCW: Crazy Clay Wrestling",
+    "クレイジー・クレイ・レスリング"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11689.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11689",
+      "url": "https://anilist.co/anime/11689"
+    },
+    "k": {
+      "id": "6563",
+      "url": "https://kitsu.io/anime/6563"
+    },
+    "mal": {
+      "id": "11689",
+      "url": "https://myanimelist.net/anime/11689"
+    }
+  }
+}

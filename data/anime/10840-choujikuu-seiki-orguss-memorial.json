@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10840,
+  "slug": "choujikuu-seiki-orguss-memorial",
+  "kind": "anime",
+  "title": "Choujikuu Seiki Orguss MEMORIAL",
+  "titles": {
+    "default": "Choujikuu Seiki Orguss MEMORIAL",
+    "romaji": "Choujikuu Seiki Orguss MEMORIAL",
+    "native": "超時空世紀オーガス MEMORIAL"
+  },
+  "synonyms": [
+    "Choujikuu Seiki Orguss MEMORIAL",
+    "超時空世紀オーガス MEMORIAL",
+    "Momu no Yume",
+    "Choujikuu Athena",
+    "The Choujikuu Seiki Orguss Memorial File",
+    "The Super Dimension Century Orguss Memorial",
+    "Choujikuu Seiki Orguss Memorial File",
+    "Choujikuu Seiki Orguss Memorial"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b124473-ARv07SWXCiLC.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "124473",
+      "url": "https://anilist.co/anime/124473"
+    },
+    "mal": {
+      "id": "32218",
+      "url": "https://myanimelist.net/anime/32218"
+    }
+  }
+}

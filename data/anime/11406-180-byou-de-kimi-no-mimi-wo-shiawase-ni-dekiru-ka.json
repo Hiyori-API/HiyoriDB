@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11406,
+  "slug": "180-byou-de-kimi-no-mimi-wo-shiawase-ni-dekiru-ka",
+  "kind": "anime",
+  "title": "180-byou de Kimi no Mimi wo Shiawase ni Dekiru ka?",
+  "titles": {
+    "default": "180-byou de Kimi no Mimi wo Shiawase ni Dekiru ka?",
+    "romaji": "180-byou de Kimi no Mimi wo Shiawase ni Dekiru ka?",
+    "native": "180秒で君の耳を幸せにできるか？"
+  },
+  "synonyms": [
+    "180-byou de Kimi no Mimi wo Shiawase ni Dekiru ka?",
+    "180秒で君の耳を幸せにできるか？",
+    "Can I Make Your Ears Happy in 180 Seconds?",
+    "¿Puedo hacer felices a tus oídos en 180 segundos?",
+    "86 Eighty-Six Part 2",
+    "86―エイティシックス―",
+    "86 Part 2"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx133411-Zuce147d396V.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "133411",
+      "url": "https://anilist.co/anime/133411"
+    },
+    "mal": {
+      "id": "48858",
+      "url": "https://myanimelist.net/anime/48858"
+    },
+    "tx": {
+      "id": "180Kimimimi",
+      "url": "https://twitter.com/180Kimimimi"
+    }
+  }
+}

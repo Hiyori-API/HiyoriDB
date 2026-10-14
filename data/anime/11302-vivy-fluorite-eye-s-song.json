@@ -1,0 +1,62 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11302,
+  "slug": "vivy-fluorite-eye-s-song",
+  "kind": "anime",
+  "title": "Vivy: Fluorite Eye’s Song",
+  "titles": {
+    "default": "Vivy: Fluorite Eye’s Song",
+    "romaji": "Vivy: Fluorite Eye’s Song",
+    "english": "Vivy -Fluorite Eye's Song-",
+    "native": "Vivy -Fluorite Eye’s Song-"
+  },
+  "synonyms": [
+    "Vivy: Fluorite Eye’s Song",
+    "Vivy -Fluorite Eye's Song-",
+    "Vivy -Fluorite Eye’s Song-",
+    "ヴィヴィ -フローライトアイズソング-",
+    "วีวี่ บทเพลงจักรกลกู้ศตวรรษ",
+    "Prétear: The New Legend of Snow White",
+    "Shin Shirayuki-hime Densetsu Prétear",
+    "新白雪姫伝説プリーティア",
+    "Shin Shirayuki-hime Densetsu Pretear"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128546-UIwyhuhjxmL0.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "128546",
+      "url": "https://anilist.co/anime/128546"
+    },
+    "cr": {
+      "id": "vivy-fluorite-eyes-song-",
+      "url": "https://www.crunchyroll.com/series/vivy-fluorite-eyes-song-"
+    },
+    "k": {
+      "id": "79",
+      "url": "https://kitsu.io/anime/79"
+    },
+    "mal": {
+      "id": "46095",
+      "url": "https://myanimelist.net/anime/46095"
+    },
+    "nf": {
+      "id": "81511893",
+      "url": "https://www.netflix.com/title/81511893"
+    },
+    "t": {
+      "id": "42703",
+      "url": "https://trakt.tv/shows/42703"
+    },
+    "tx": {
+      "id": "vivy_portal",
+      "url": "https://twitter.com/vivy_portal"
+    }
+  }
+}

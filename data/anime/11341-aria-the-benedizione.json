@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11341,
+  "slug": "aria-the-benedizione",
+  "kind": "anime",
+  "title": "ARIA The BENEDIZIONE",
+  "titles": {
+    "default": "ARIA The BENEDIZIONE",
+    "romaji": "ARIA The BENEDIZIONE"
+  },
+  "synonyms": [
+    "ARIA The BENEDIZIONE",
+    "Aria the Benedizione"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130558-8M8TeqrmQAbq.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "130558",
+      "url": "https://anilist.co/anime/130558"
+    },
+    "mal": {
+      "id": "48411",
+      "url": "https://myanimelist.net/anime/48411"
+    },
+    "tx": {
+      "id": "aria_senden",
+      "url": "https://twitter.com/aria_senden"
+    },
+    "yt": {
+      "id": "ypATSe7x8sM",
+      "url": "https://www.youtube.com/watch?v=ypATSe7x8sM"
+    }
+  }
+}

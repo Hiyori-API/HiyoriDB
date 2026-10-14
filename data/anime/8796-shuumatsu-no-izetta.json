@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8796,
+  "slug": "shuumatsu-no-izetta",
+  "kind": "anime",
+  "title": "Shuumatsu no Izetta",
+  "titles": {
+    "default": "Shuumatsu no Izetta",
+    "romaji": "Shuumatsu no Izetta",
+    "english": "Izetta: The Last Witch",
+    "native": "終末のイゼッタ"
+  },
+  "synonyms": [
+    "Shuumatsu no Izetta",
+    "Izetta: The Last Witch",
+    "終末のイゼッタ",
+    "Izetta, die letzte Hexe",
+    "Bungo Stray Dogs 2",
+    "文豪ストレイドッグス",
+    "Bungou Stray Dogs 2nd Season"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21838-v7GiILDrph5t.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21838",
+      "url": "https://anilist.co/anime/21838"
+    },
+    "cr": {
+      "id": "izetta-the-last-witch",
+      "url": "https://www.crunchyroll.com/series/izetta-the-last-witch"
+    },
+    "mal": {
+      "id": "33433",
+      "url": "https://myanimelist.net/anime/33433"
+    },
+    "tx": {
+      "id": "izetta2016",
+      "url": "https://twitter.com/izetta2016"
+    }
+  }
+}

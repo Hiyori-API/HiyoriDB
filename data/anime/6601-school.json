@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6601,
+  "slug": "school",
+  "kind": "anime",
+  "title": "School",
+  "titles": {
+    "default": "School",
+    "romaji": "School"
+  },
+  "synonyms": [
+    "School",
+    "School OVA",
+    "Legend of the Heroes: Trails in the Sky",
+    "Eiyuu Densetsu: Sora no Kiseki The Animation",
+    "英雄伝説 空の軌跡 THE ANIMATION"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11807.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11807",
+      "url": "https://anilist.co/anime/11807"
+    },
+    "k": {
+      "id": "6104",
+      "url": "https://kitsu.io/anime/6104"
+    },
+    "mal": {
+      "id": "11807",
+      "url": "https://myanimelist.net/anime/11807"
+    }
+  }
+}

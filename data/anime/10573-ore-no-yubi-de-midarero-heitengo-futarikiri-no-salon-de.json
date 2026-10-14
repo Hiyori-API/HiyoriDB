@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10573,
+  "slug": "ore-no-yubi-de-midarero-heitengo-futarikiri-no-salon-de",
+  "kind": "anime",
+  "title": "Ore no Yubi de Midarero.: Heitengo Futarikiri no Salon de…",
+  "titles": {
+    "default": "Ore no Yubi de Midarero.: Heitengo Futarikiri no Salon de…",
+    "romaji": "Ore no Yubi de Midarero.: Heitengo Futarikiri no Salon de…",
+    "english": "Crazy Over His Fingers",
+    "native": "俺の指で乱れろ。〜閉店後二人きりのサロンで…〜"
+  },
+  "synonyms": [
+    "Ore no Yubi de Midarero.: Heitengo Futarikiri no Salon de…",
+    "Crazy Over His Fingers",
+    "俺の指で乱れろ。〜閉店後二人きりのサロンで…〜",
+    "Dedos Travessos",
+    "Teinenpi Shoujo Haiji",
+    "低燃費少女ハイジ",
+    "Low Fuel Cost Girl Haiji"
+  ],
+  "type": "ona",
+  "episodes": 8,
+  "status": "finished",
+  "season": "spring",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115821-cEqmO4RX00FG.png"
+  ],
+  "references": {
+    "al": {
+      "id": "115821",
+      "url": "https://anilist.co/anime/115821"
+    },
+    "k": {
+      "id": "5226",
+      "url": "https://kitsu.io/anime/5226"
+    },
+    "mal": {
+      "id": "41332",
+      "url": "https://myanimelist.net/anime/41332"
+    }
+  }
+}

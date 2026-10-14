@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2046,
+  "slug": "tobe-kujira-no-peek",
+  "kind": "anime",
+  "title": "Tobe! Kujira no Peek",
+  "titles": {
+    "default": "Tobe! Kujira no Peek",
+    "romaji": "Tobe! Kujira no Peek",
+    "english": "Fly! Peek the Whale",
+    "native": "とべ! くじらのピーク"
+  },
+  "synonyms": [
+    "Tobe! Kujira no Peek",
+    "Fly! Peek the Whale",
+    "とべ! くじらのピーク",
+    "Free Whale Peek",
+    "Peek the Baby Whale",
+    "The Boy and the White Whale Calf"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2314-3wBBVlXJPGvV.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2314",
+      "url": "https://anilist.co/anime/2314"
+    },
+    "k": {
+      "id": "2096",
+      "url": "https://kitsu.io/anime/2096"
+    },
+    "mal": {
+      "id": "2314",
+      "url": "https://myanimelist.net/anime/2314"
+    }
+  }
+}

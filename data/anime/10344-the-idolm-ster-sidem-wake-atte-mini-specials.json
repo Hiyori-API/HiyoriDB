@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10344,
+  "slug": "the-idolm-ster-sidem-wake-atte-mini-specials",
+  "kind": "anime",
+  "title": "The Idolm@ster SideM Wake Atte Mini! Specials",
+  "titles": {
+    "default": "The Idolm@ster SideM Wake Atte Mini! Specials",
+    "romaji": "The Idolm@ster SideM Wake Atte Mini! Specials",
+    "native": "アイドルマスター SideM　理由あってMini!"
+  },
+  "synonyms": [
+    "The Idolm@ster SideM Wake Atte Mini! Specials",
+    "アイドルマスター SideM　理由あってMini!",
+    "High Score Girl OVA",
+    "Hi Score Girl: Extra Stage",
+    "ハイスコアガール EXTRA STAGE",
+    "High Score Girl: Extra Stage"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "winter",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203021-fUkl50SVrORi.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "203021",
+      "url": "https://anilist.co/anime/203021"
+    },
+    "mal": {
+      "id": "49735",
+      "url": "https://myanimelist.net/anime/49735"
+    }
+  }
+}

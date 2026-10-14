@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4013,
+  "slug": "great-mazinger",
+  "kind": "anime",
+  "title": "Great Mazinger",
+  "titles": {
+    "default": "Great Mazinger",
+    "romaji": "Great Mazinger",
+    "native": "グレートマジンガー"
+  },
+  "synonyms": [
+    "Great Mazinger",
+    "グレートマジンガー"
+  ],
+  "type": "tv",
+  "episodes": 56,
+  "status": "finished",
+  "season": "fall",
+  "year": 1974,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5658-Bm8Dw0Mcd5Aj.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5658",
+      "url": "https://anilist.co/anime/5658"
+    },
+    "k": {
+      "id": "4227",
+      "url": "https://kitsu.io/anime/4227"
+    },
+    "mal": {
+      "id": "5658",
+      "url": "https://myanimelist.net/anime/5658"
+    },
+    "t": {
+      "id": "9101",
+      "url": "https://trakt.tv/shows/9101"
+    }
+  }
+}

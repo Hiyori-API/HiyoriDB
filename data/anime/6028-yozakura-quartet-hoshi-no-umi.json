@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6028,
+  "slug": "yozakura-quartet-hoshi-no-umi",
+  "kind": "anime",
+  "title": "Yozakura Quartet: Hoshi no Umi",
+  "titles": {
+    "default": "Yozakura Quartet: Hoshi no Umi",
+    "romaji": "Yozakura Quartet: Hoshi no Umi",
+    "native": "夜桜四重奏 ～ホシノウミ～"
+  },
+  "synonyms": [
+    "Yozakura Quartet: Hoshi no Umi",
+    "夜桜四重奏 ～ホシノウミ～",
+    "Yozakura Quartet: Sea of Stars"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "fall",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8457-HLjTiI3nOFZs.png"
+  ],
+  "references": {
+    "al": {
+      "id": "8457",
+      "url": "https://anilist.co/anime/8457"
+    },
+    "k": {
+      "id": "5343",
+      "url": "https://kitsu.io/anime/5343"
+    },
+    "mal": {
+      "id": "8457",
+      "url": "https://myanimelist.net/anime/8457"
+    }
+  }
+}

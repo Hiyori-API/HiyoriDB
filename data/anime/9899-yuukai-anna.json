@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9899,
+  "slug": "yuukai-anna",
+  "kind": "anime",
+  "title": "Yuukai Anna",
+  "titles": {
+    "default": "Yuukai Anna",
+    "romaji": "Yuukai Anna",
+    "native": "誘拐アンナ"
+  },
+  "synonyms": [
+    "Yuukai Anna",
+    "誘拐アンナ",
+    "ANNA Voleuse",
+    "Anna, Kidnapper",
+    "ANNA (kidnapper)",
+    "Mint",
+    "MINT"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b109203-Tygh2w5gh08g.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "109203",
+      "url": "https://anilist.co/anime/109203"
+    },
+    "k": {
+      "id": "8098",
+      "url": "https://kitsu.io/anime/8098"
+    },
+    "mal": {
+      "id": "38017",
+      "url": "https://myanimelist.net/anime/38017"
+    },
+    "yt": {
+      "id": "GsOPyESXVEY",
+      "url": "https://www.youtube.com/watch?v=GsOPyESXVEY"
+    }
+  }
+}

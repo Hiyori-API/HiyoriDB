@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10726,
+  "slug": "eureka-koukyoushihen-eureka-seven-hi-evolution",
+  "kind": "anime",
+  "title": "EUREKA: Koukyoushihen Eureka Seven Hi-Evolution",
+  "titles": {
+    "default": "EUREKA: Koukyoushihen Eureka Seven Hi-Evolution",
+    "romaji": "EUREKA: Koukyoushihen Eureka Seven Hi-Evolution",
+    "english": "EUREKA: Eureka Seven Hi-Evolution",
+    "native": "EUREKA／交響詩篇エウレカセブン ハイエボリューション"
+  },
+  "synonyms": [
+    "EUREKA: Koukyoushihen Eureka Seven Hi-Evolution",
+    "EUREKA: Eureka Seven Hi-Evolution",
+    "EUREKA／交響詩篇エウレカセブン ハイエボリューション",
+    "Koukyoushihen Eureka Seven Hi-Evolution 3",
+    "E7 Hi-Evolution 3 Eureka",
+    "Eureka Seven Hi-Evolution 3",
+    "Koukyoushihen Eureka Seven Hi-Evolution 3: Eureka"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98471-i813DFIJJHTR.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98471",
+      "url": "https://anilist.co/anime/98471"
+    },
+    "cr": {
+      "id": "eureka-seven-hi-evolution",
+      "url": "https://www.crunchyroll.com/series/eureka-seven-hi-evolution"
+    },
+    "mal": {
+      "id": "35136",
+      "url": "https://myanimelist.net/anime/35136"
+    },
+    "tx": {
+      "id": "EUREKA_HI_EVO",
+      "url": "https://twitter.com/EUREKA_HI_EVO"
+    }
+  }
+}

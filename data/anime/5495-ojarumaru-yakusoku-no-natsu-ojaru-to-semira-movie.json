@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5495,
+  "slug": "ojarumaru-yakusoku-no-natsu-ojaru-to-semira-movie",
+  "kind": "anime",
+  "title": "Ojarumaru Yakusoku no Natsu Ojaru to Semira Movie",
+  "titles": {
+    "default": "Ojarumaru Yakusoku no Natsu Ojaru to Semira Movie",
+    "romaji": "Ojarumaru Yakusoku no Natsu Ojaru to Semira Movie",
+    "native": "映画 おじゃる丸 約束の夏 おじゃるとせみら"
+  },
+  "synonyms": [
+    "Ojarumaru Yakusoku no Natsu Ojaru to Semira Movie",
+    "映画 おじゃる丸 約束の夏 おじゃるとせみら",
+    "Prince Mackaroo the Movie: The Promised Summer - Ojaru and Semira"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16480.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "16480",
+      "url": "https://anilist.co/anime/16480"
+    },
+    "k": {
+      "id": "7438",
+      "url": "https://kitsu.io/anime/7438"
+    },
+    "mal": {
+      "id": "16480",
+      "url": "https://myanimelist.net/anime/16480"
+    }
+  }
+}

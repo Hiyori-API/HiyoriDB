@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2396,
+  "slug": "crusher-joe-ovas",
+  "kind": "anime",
+  "title": "Crusher Joe OVAs",
+  "titles": {
+    "default": "Crusher Joe OVAs",
+    "romaji": "Crusher Joe OVAs",
+    "english": "Crusher Joe: The OVAs",
+    "native": "クラッシャージョウ OVAs"
+  },
+  "synonyms": [
+    "Crusher Joe OVAs",
+    "Crusher Joe: The OVAs",
+    "クラッシャージョウ OVAs",
+    "Crusher Joe OVA",
+    "クラッシャージョウ"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx2696-6063TksRtX8M.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2696",
+      "url": "https://anilist.co/anime/2696"
+    },
+    "k": {
+      "id": "2458",
+      "url": "https://kitsu.io/anime/2458"
+    },
+    "mal": {
+      "id": "2696",
+      "url": "https://myanimelist.net/anime/2696"
+    }
+  }
+}

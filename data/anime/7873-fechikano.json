@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7873,
+  "slug": "fechikano",
+  "kind": "anime",
+  "title": "Fechikano!",
+  "titles": {
+    "default": "Fechikano!",
+    "romaji": "Fechikano!",
+    "english": "Panty-monium",
+    "native": "ふぇちかの!"
+  },
+  "synonyms": [
+    "Fechikano!",
+    "Panty-monium",
+    "ふぇちかの!",
+    "Fetikano!",
+    "Girls & Panzer: Kore ga Hontou no Anzio-sen desu!",
+    "Girls & Panzer: This is the Real Anzio Battle!",
+    "ガールズ&パンツァー　これが本当のアンツィオ戦です！",
+    "Girls und Panzer OVA",
+    "Girls und Panzer: This is the true battle of Anzio!"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21142-8q0KBdQyk4i3.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21142",
+      "url": "https://anilist.co/anime/21142"
+    },
+    "k": {
+      "id": "7981",
+      "url": "https://kitsu.io/anime/7981"
+    },
+    "mal": {
+      "id": "24453",
+      "url": "https://myanimelist.net/anime/24453"
+    }
+  }
+}

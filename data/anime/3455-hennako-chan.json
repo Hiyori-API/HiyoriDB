@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3455,
+  "slug": "hennako-chan",
+  "kind": "anime",
+  "title": "Hennako-chan",
+  "titles": {
+    "default": "Hennako-chan",
+    "romaji": "Hennako-chan",
+    "native": "へんな子ちゃん"
+  },
+  "synonyms": [
+    "Hennako-chan",
+    "へんな子ちゃん",
+    "Hen na Ko chan"
+  ],
+  "type": "ona",
+  "episodes": 6,
+  "status": "finished",
+  "season": "spring",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4417.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4417",
+      "url": "https://anilist.co/anime/4417"
+    },
+    "k": {
+      "id": "3601",
+      "url": "https://kitsu.io/anime/3601"
+    },
+    "mal": {
+      "id": "4417",
+      "url": "https://myanimelist.net/anime/4417"
+    }
+  }
+}

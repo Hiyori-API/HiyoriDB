@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13894,
+  "slug": "nodame-cantabile",
+  "kind": "manga",
+  "title": "Nodame Cantabile",
+  "titles": {
+    "default": "Nodame Cantabile"
+  },
+  "synonyms": [
+    "Nodame Cantabile - Encore Opera-hen",
+    "Nodame Cantabile",
+    "のだめカンタービレ",
+    "Nodame Cantabile: Encore Opera-hen",
+    "Nodame Cantabile Backstage"
+  ],
+  "type": "manga",
+  "chapters": 152,
+  "volumes": 25,
+  "status": "finished",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30419-lT7p72ItXPNK.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5690",
+      "url": "https://anilist.co/anime/1698"
+    },
+    "al_manga": {
+      "id": "5690",
+      "url": "https://anilist.co/manga/5690"
+    }
+  }
+}

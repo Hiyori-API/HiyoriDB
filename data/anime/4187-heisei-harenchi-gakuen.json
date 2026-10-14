@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4187,
+  "slug": "heisei-harenchi-gakuen",
+  "kind": "anime",
+  "title": "Heisei Harenchi Gakuen",
+  "titles": {
+    "default": "Heisei Harenchi Gakuen",
+    "romaji": "Heisei Harenchi Gakuen",
+    "native": "平成ハレンチ学園"
+  },
+  "synonyms": [
+    "Heisei Harenchi Gakuen",
+    "平成ハレンチ学園",
+    "Modern-Era Shameless School",
+    "Lord of Lords Ryu Knight: Adeu's Legend Final",
+    "Haou Daikei Ryuu Knight: Adeu Legend Final",
+    "覇王大系リューナイト アデュー・レジェンド・ファイナル 温泉ダンジョンの決闘",
+    "Haou Taikei Ryu Knight: Adeu Legend Final - Onsen Dungeon no Kettou"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6097.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6097",
+      "url": "https://anilist.co/anime/6097"
+    },
+    "k": {
+      "id": "1668",
+      "url": "https://kitsu.io/anime/1668"
+    },
+    "mal": {
+      "id": "6097",
+      "url": "https://myanimelist.net/anime/6097"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11960,
+  "slug": "obake-zukan",
+  "kind": "anime",
+  "title": "Obake Zukan!",
+  "titles": {
+    "default": "Obake Zukan!",
+    "romaji": "Obake Zukan!",
+    "english": "Obake Zukan 2nd Season",
+    "native": "おばけずかん！"
+  },
+  "synonyms": [
+    "Obake Zukan!",
+    "Obake Zukan 2nd Season",
+    "おばけずかん！",
+    "Avenger",
+    "アヴェンジャー"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b158570-mCym2nWxK4iT.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "158570",
+      "url": "https://anilist.co/anime/158570"
+    },
+    "k": {
+      "id": "37",
+      "url": "https://kitsu.io/anime/37"
+    },
+    "mal": {
+      "id": "52319",
+      "url": "https://myanimelist.net/anime/52319"
+    },
+    "t": {
+      "id": "21179",
+      "url": "https://trakt.tv/shows/21179"
+    }
+  }
+}

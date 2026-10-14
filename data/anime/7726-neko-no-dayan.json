@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7726,
+  "slug": "neko-no-dayan",
+  "kind": "anime",
+  "title": "Neko no Dayan",
+  "titles": {
+    "default": "Neko no Dayan",
+    "romaji": "Neko no Dayan",
+    "native": "猫のダヤン"
+  },
+  "synonyms": [
+    "Neko no Dayan",
+    "猫のダヤン",
+    "Tenkai Knights",
+    "テンカイナイト"
+  ],
+  "type": "tv",
+  "episodes": 52,
+  "status": "finished",
+  "season": "spring",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20702.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "20702",
+      "url": "https://anilist.co/anime/20702"
+    },
+    "k": {
+      "id": "7966",
+      "url": "https://kitsu.io/anime/7966"
+    },
+    "mal": {
+      "id": "23555",
+      "url": "https://myanimelist.net/anime/23555"
+    },
+    "t": {
+      "id": "72427",
+      "url": "https://trakt.tv/shows/72427"
+    },
+    "tx": {
+      "id": "teamdayan",
+      "url": "https://twitter.com/teamdayan"
+    }
+  }
+}

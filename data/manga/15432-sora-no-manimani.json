@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15432,
+  "slug": "sora-no-manimani",
+  "kind": "manga",
+  "title": "Sora no Manimani",
+  "titles": {
+    "default": "Sora no Manimani"
+  },
+  "synonyms": [
+    "Chuu no Manimani",
+    "At The Mercy of The Sky",
+    "宙のまにまに",
+    "Renai Soukanzu",
+    "恋愛相姦図",
+    "Renai Sokanzu",
+    "Pink Sweets"
+  ],
+  "type": "manga",
+  "chapters": 64,
+  "volumes": 10,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12137.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6098",
+      "url": "https://anilist.co/anime/6098"
+    },
+    "al_manga": {
+      "id": "6098",
+      "url": "https://anilist.co/manga/6098"
+    }
+  }
+}

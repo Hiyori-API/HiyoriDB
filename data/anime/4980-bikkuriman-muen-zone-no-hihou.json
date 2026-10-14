@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4980,
+  "slug": "bikkuriman-muen-zone-no-hihou",
+  "kind": "anime",
+  "title": "Bikkuriman: Muen Zone no Hihou",
+  "titles": {
+    "default": "Bikkuriman: Muen Zone no Hihou",
+    "romaji": "Bikkuriman: Muen Zone no Hihou",
+    "native": "ビックリマン 無縁ゾーンの秘宝"
+  },
+  "synonyms": [
+    "Bikkuriman: Muen Zone no Hihou",
+    "ビックリマン 無縁ゾーンの秘宝",
+    "BIKKURI MAN 2 The Secret of Muen Zone",
+    "Kaba no Potomasu",
+    "かばのポトマス",
+    "Potomas the Hippo"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10200.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10200",
+      "url": "https://anilist.co/anime/10200"
+    },
+    "k": {
+      "id": "5806",
+      "url": "https://kitsu.io/anime/5806"
+    },
+    "mal": {
+      "id": "10200",
+      "url": "https://myanimelist.net/anime/10200"
+    }
+  }
+}

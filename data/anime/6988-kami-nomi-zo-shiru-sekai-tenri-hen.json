@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6988,
+  "slug": "kami-nomi-zo-shiru-sekai-tenri-hen",
+  "kind": "anime",
+  "title": "Kami nomi zo Shiru Sekai: Tenri-hen",
+  "titles": {
+    "default": "Kami nomi zo Shiru Sekai: Tenri-hen",
+    "romaji": "Kami nomi zo Shiru Sekai: Tenri-hen",
+    "english": "The World God Only Knows: Tenri Arc",
+    "native": "神のみぞ知るセカイ 天理篇"
+  },
+  "synonyms": [
+    "Kami nomi zo Shiru Sekai: Tenri-hen",
+    "The World God Only Knows: Tenri Arc",
+    "神のみぞ知るセカイ 天理篇",
+    "Kaminomi: Tenri-hen"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15117.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "15117",
+      "url": "https://anilist.co/anime/15117"
+    },
+    "k": {
+      "id": "7215",
+      "url": "https://kitsu.io/anime/7215"
+    },
+    "mal": {
+      "id": "15117",
+      "url": "https://myanimelist.net/anime/15117"
+    }
+  }
+}

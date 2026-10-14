@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9122,
+  "slug": "gintama",
+  "kind": "anime",
+  "title": "Gintama.",
+  "titles": {
+    "default": "Gintama.",
+    "romaji": "Gintama.",
+    "english": "Gintama Season 4",
+    "native": "銀魂。"
+  },
+  "synonyms": [
+    "Gintama.",
+    "Gintama Season 4",
+    "銀魂。",
+    "Gintama. (2017)",
+    "Gintama.: The Battle on Rakuyo",
+    "Gintama (2017)",
+    "Gintama Season 5"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97889-ytqHdmus9wQi.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "97889",
+      "url": "https://anilist.co/anime/97889"
+    },
+    "cr": {
+      "id": "gintama",
+      "url": "https://www.crunchyroll.com/series/gintama"
+    },
+    "mal": {
+      "id": "34096",
+      "url": "https://myanimelist.net/anime/34096"
+    },
+    "tvt": {
+      "id": "gintama",
+      "url": "http://www.tv-tokyo.co.jp/anime/gintama"
+    },
+    "tx": {
+      "id": "gintamamovie",
+      "url": "https://twitter.com/gintamamovie"
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3753,
+  "slug": "hagane-no-renkinjutsushi-fullmetal-alchemist",
+  "kind": "anime",
+  "title": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST",
+  "titles": {
+    "default": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST",
+    "romaji": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST",
+    "english": "Fullmetal Alchemist: Brotherhood",
+    "native": "鋼の錬金術師 FULLMETAL ALCHEMIST"
+  },
+  "synonyms": [
+    "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST",
+    "Fullmetal Alchemist: Brotherhood",
+    "鋼の錬金術師 FULLMETAL ALCHEMIST",
+    "FMA",
+    "FMAB",
+    "Hagaren",
+    "الخيميائي الفولاذي",
+    "אלכימאי המתכת: אחוות אחים",
+    "Full Metal Alchemist: Brotherhood",
+    "钢之炼金术师 FULLMETAL ALCHEMIST",
+    "แขนกล คนแปรธาตุ: บราเธอร์ฮูด",
+    "Stalowy alchemik: Misja braci",
+    "Сталевий алхімік. Братерство",
+    "Стальной алхимик: Братство",
+    "Hagane no Renkinjutsushi: Fullmetal Alchemist",
+    "Hagane no Renkinjutsushi (2009)",
+    "Fullmetal Alchemist (2009)"
+  ],
+  "type": "tv",
+  "episodes": 64,
+  "status": "finished",
+  "season": "spring",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5114-nSWCgQlmOMtj.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5114",
+      "url": "https://anilist.co/anime/5114"
+    },
+    "cr": {
+      "id": "fullmetal-alchemist-brotherhood",
+      "url": "https://www.crunchyroll.com/series/fullmetal-alchemist-brotherhood"
+    },
+    "k": {
+      "id": "3936",
+      "url": "https://kitsu.io/anime/3936"
+    },
+    "mal": {
+      "id": "5114",
+      "url": "https://myanimelist.net/anime/5114"
+    },
+    "nf": {
+      "id": "70204981",
+      "url": "https://www.netflix.com/title/70204981"
+    },
+    "t": {
+      "id": "31771",
+      "url": "https://trakt.tv/shows/31771"
+    }
+  }
+}

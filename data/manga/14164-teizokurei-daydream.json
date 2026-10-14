@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14164,
+  "slug": "teizokurei-daydream",
+  "kind": "manga",
+  "title": "Teizokurei DAYDREAM",
+  "titles": {
+    "default": "Teizokurei DAYDREAM"
+  },
+  "synonyms": [
+    "Ghost Talkers Daydream",
+    "Vulgar Ghost Daydream",
+    "Daydream",
+    "Ghost Talker's Daydream",
+    "低俗霊DAYDREAM",
+    "Mushrambo",
+    "マシュランボー",
+    "Mashuranboo"
+  ],
+  "type": "manga",
+  "chapters": 23,
+  "volumes": 10,
+  "status": "finished",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31347-Jg7uXrH0u9RP.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1500",
+      "url": "https://anilist.co/anime/1500"
+    },
+    "al_manga": {
+      "id": "1500",
+      "url": "https://anilist.co/manga/1500"
+    }
+  }
+}

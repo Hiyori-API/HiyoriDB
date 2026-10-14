@@ -1,0 +1,59 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10744,
+  "slug": "kobayashi-san-chi-no-maidragon-s",
+  "kind": "anime",
+  "title": "Kobayashi-san Chi no Maidragon S",
+  "titles": {
+    "default": "Kobayashi-san Chi no Maidragon S",
+    "romaji": "Kobayashi-san Chi no Maidragon S",
+    "english": "Miss Kobayashi's Dragon Maid S",
+    "native": "小林さんちのメイドラゴンＳ"
+  },
+  "synonyms": [
+    "Kobayashi-san Chi no Maidragon S",
+    "Miss Kobayashi's Dragon Maid S",
+    "小林さんちのメイドラゴンＳ",
+    "小林家的龙女仆 S",
+    "小林家的龍女僕S",
+    "น้องเมดมังกรของคุณโคบายาชิ ภาค 2",
+    "Kobayashi-san Chi no Maid Dragon 2nd Season",
+    "Дракониха-горничная госпожи Кобаяси S",
+    "DearS",
+    "ディアーズ"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx107717-bixaW1NTGBra.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "107717",
+      "url": "https://anilist.co/anime/107717"
+    },
+    "cr": {
+      "id": "miss-kobayashis-dragon-maid",
+      "url": "https://www.crunchyroll.com/series/miss-kobayashis-dragon-maid"
+    },
+    "k": {
+      "id": "44",
+      "url": "https://kitsu.io/anime/44"
+    },
+    "mal": {
+      "id": "39247",
+      "url": "https://myanimelist.net/anime/39247"
+    },
+    "t": {
+      "id": "61051",
+      "url": "https://trakt.tv/shows/61051"
+    },
+    "tx": {
+      "id": "MissKobayashiEN",
+      "url": "https://twitter.com/maidragon_anime"
+    }
+  }
+}

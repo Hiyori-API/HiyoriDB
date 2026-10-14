@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14744,
+  "slug": "kiteretsu-daihyakka",
+  "kind": "manga",
+  "title": "Kiteretsu Daihyakka",
+  "titles": {
+    "default": "Kiteretsu Daihyakka"
+  },
+  "synonyms": [
+    "Kiteretsu Encyclopedia",
+    "キテレツ大百科",
+    "Getter Robo",
+    "ゲッターロボ"
+  ],
+  "type": "manga",
+  "chapters": 33,
+  "volumes": 3,
+  "status": "finished",
+  "year": 1974,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/39589.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6509",
+      "url": "https://anilist.co/anime/6509"
+    },
+    "al_manga": {
+      "id": "6509",
+      "url": "https://anilist.co/manga/6509"
+    }
+  }
+}

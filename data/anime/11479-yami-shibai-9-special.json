@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11479,
+  "slug": "yami-shibai-9-special",
+  "kind": "anime",
+  "title": "Yami Shibai 9 Special",
+  "titles": {
+    "default": "Yami Shibai 9 Special",
+    "romaji": "Yami Shibai 9 Special",
+    "english": "Theatre of Darkness: Yamishibai 9 Special",
+    "native": "闇芝居 九期"
+  },
+  "synonyms": [
+    "Yami Shibai 9 Special",
+    "Theatre of Darkness: Yamishibai 9 Special",
+    "闇芝居 九期",
+    "Yamishibai: Japanese Ghost Stories Ninth Season Special",
+    "Seikai no Senki Special",
+    "星界の戦旗 特別編",
+    "Seikai no Senki Movie",
+    "Battle Flag of the Stars Special Edition",
+    "Seikai no Senki Tokubetsuhen"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139588-ZXAvUYIjUAdA.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "139588",
+      "url": "https://anilist.co/anime/139588"
+    },
+    "cr": {
+      "id": "watch/G2XU05KE5/the-old-well",
+      "url": "https://www.crunchyroll.com/series/watch/G2XU05KE5/the-old-well"
+    },
+    "k": {
+      "id": "366",
+      "url": "https://kitsu.io/anime/366"
+    },
+    "mal": {
+      "id": "50046",
+      "url": "https://myanimelist.net/anime/50046"
+    }
+  }
+}

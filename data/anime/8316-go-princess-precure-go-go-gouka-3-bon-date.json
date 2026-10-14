@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8316,
+  "slug": "go-princess-precure-go-go-gouka-3-bon-date",
+  "kind": "anime",
+  "title": "Go! Princess Precure: Go! Go!! Gouka 3-bon Date!!!",
+  "titles": {
+    "default": "Go! Princess Precure: Go! Go!! Gouka 3-bon Date!!!",
+    "romaji": "Go! Princess Precure: Go! Go!! Gouka 3-bon Date!!!",
+    "native": "Go!プリンセスプリキュア　Go!Go!!豪華3本立て!!!"
+  },
+  "synonyms": [
+    "Go! Princess Precure: Go! Go!! Gouka 3-bon Date!!!",
+    "Go!プリンセスプリキュア　Go!Go!!豪華3本立て!!!",
+    "Little Witch Academia: The Enchanted Parade",
+    "Little Witch Academia: Mahoujikake no Parade",
+    "リトルウィッチアカデミア 魔法仕掛けのパレード",
+    "LWA 2",
+    "Little Witch Academia 2"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21323-CrUKk4Cg7d1V.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21323",
+      "url": "https://anilist.co/anime/21323"
+    },
+    "k": {
+      "id": "7862",
+      "url": "https://kitsu.io/anime/7862"
+    },
+    "mal": {
+      "id": "29868",
+      "url": "https://myanimelist.net/anime/29868"
+    }
+  }
+}

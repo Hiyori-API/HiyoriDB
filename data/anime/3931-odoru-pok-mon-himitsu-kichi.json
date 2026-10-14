@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3931,
+  "slug": "odoru-pok-mon-himitsu-kichi",
+  "kind": "anime",
+  "title": "Odoru Pokémon Himitsu Kichi",
+  "titles": {
+    "default": "Odoru Pokémon Himitsu Kichi",
+    "romaji": "Odoru Pokémon Himitsu Kichi",
+    "english": "Pokémon: Gotta Dance!",
+    "native": "おどるポケモンひみつ基地"
+  },
+  "synonyms": [
+    "Odoru Pokémon Himitsu Kichi",
+    "Pokémon: Gotta Dance!",
+    "おどるポケモンひみつ基地",
+    "Pocket Monsters: Odoru Pokemon Himitsu Kichi",
+    "Pokemon: Pichu Bros. in Party Panic",
+    "Pokemon: Bokutachi Pichu Brothers - Party wa Oosawagi! no Maki",
+    "ぼくたちピチューブラザーズ　～パーティはおおさわぎ！のまき～",
+    "Pokemon: Pichu Bros. Wild Adventure",
+    "Pocket Monsters: Boku-tachi Pichu Brothers - Party wa Oosawagi! no Maki"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5529-mLMLp3kcx9JL.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5529",
+      "url": "https://anilist.co/anime/5529"
+    },
+    "k": {
+      "id": "4763",
+      "url": "https://kitsu.io/anime/4763"
+    },
+    "mal": {
+      "id": "5529",
+      "url": "https://myanimelist.net/anime/5529"
+    }
+  }
+}

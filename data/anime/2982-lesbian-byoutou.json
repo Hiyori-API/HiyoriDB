@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2982,
+  "slug": "lesbian-byoutou",
+  "kind": "anime",
+  "title": "Lesbian Byoutou",
+  "titles": {
+    "default": "Lesbian Byoutou",
+    "romaji": "Lesbian Byoutou",
+    "english": "Lesbian Ward",
+    "native": "レズ病棟"
+  },
+  "synonyms": [
+    "Lesbian Byoutou",
+    "Lesbian Ward",
+    "レズ病棟",
+    "Lesbian Ward: Ryoka University Hospital",
+    "Lez Byoutou",
+    "Eiken",
+    "Eiken: Eikenbu yori Ai wo Komete",
+    "エイケン エイケンヴより愛をこめて"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3527-q1RkgCf3W5Sc.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3527",
+      "url": "https://anilist.co/anime/3527"
+    },
+    "k": {
+      "id": "703",
+      "url": "https://kitsu.io/anime/703"
+    },
+    "mal": {
+      "id": "3527",
+      "url": "https://myanimelist.net/anime/3527"
+    }
+  }
+}

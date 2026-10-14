@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13108,
+  "slug": "terra-live",
+  "kind": "anime",
+  "title": "Terra Live",
+  "titles": {
+    "default": "Terra Live",
+    "romaji": "Terra Live",
+    "english": "U Takes Terra",
+    "native": "テラライブ"
+  },
+  "synonyms": [
+    "Terra Live",
+    "U Takes Terra",
+    "テラライブ",
+    "U探泰拉",
+    "U Tan Tai La",
+    "Teinenpi Shoujo Haiji",
+    "低燃費少女ハイジ",
+    "Low Fuel Cost Girl Haiji"
+  ],
+  "type": "ona",
+  "episodes": 8,
+  "status": "finished",
+  "season": "spring",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185778-Zl01zbfShlCc.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "185778",
+      "url": "https://anilist.co/anime/185778"
+    },
+    "k": {
+      "id": "5226",
+      "url": "https://kitsu.io/anime/5226"
+    },
+    "mal": {
+      "id": "60200",
+      "url": "https://myanimelist.net/anime/60200"
+    }
+  }
+}

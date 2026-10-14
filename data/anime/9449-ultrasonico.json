@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9449,
+  "slug": "ultrasonico",
+  "kind": "anime",
+  "title": "Ultrasonico",
+  "titles": {
+    "default": "Ultrasonico",
+    "romaji": "Ultrasonico",
+    "native": "ウルトラソニコ"
+  },
+  "synonyms": [
+    "Ultrasonico",
+    "ウルトラソニコ",
+    "Nurse Witch Komugi-chan Magikarte Special",
+    "閑話休題すぺしゃる ～再び祭りの予感でワッショイ!～",
+    "Nurse Witch Komugi-chan Episode 2.5",
+    "Return to Subject Special - Premonition of a Returning Festival! Heave Ho!"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119873-F8BngBviK9OU.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "119873",
+      "url": "https://anilist.co/anime/119873"
+    },
+    "k": {
+      "id": "820",
+      "url": "https://kitsu.io/anime/820"
+    },
+    "mal": {
+      "id": "35329",
+      "url": "https://myanimelist.net/anime/35329"
+    }
+  }
+}

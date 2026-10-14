@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2705,
+  "slug": "anime-tenchou",
+  "kind": "anime",
+  "title": "Anime Tenchou",
+  "titles": {
+    "default": "Anime Tenchou",
+    "romaji": "Anime Tenchou",
+    "native": "アニメ店長"
+  },
+  "synonyms": [
+    "Anime Tenchou",
+    "アニメ店長",
+    "Animation Store Manager"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3080.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3080",
+      "url": "https://anilist.co/anime/3080"
+    },
+    "k": {
+      "id": "2778",
+      "url": "https://kitsu.io/anime/2778"
+    },
+    "mal": {
+      "id": "3080",
+      "url": "https://myanimelist.net/anime/3080"
+    }
+  }
+}

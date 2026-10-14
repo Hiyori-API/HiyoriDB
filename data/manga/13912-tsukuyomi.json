@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13912,
+  "slug": "tsukuyomi",
+  "kind": "manga",
+  "title": "Tsukuyomi",
+  "titles": {
+    "default": "Tsukuyomi"
+  },
+  "synonyms": [
+    "Tsukuyomi: Moon Phase",
+    "月詠",
+    "Mushrambo",
+    "マシュランボー",
+    "Mashuranboo"
+  ],
+  "type": "manga",
+  "chapters": 109,
+  "volumes": 16,
+  "status": "finished",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30457-n5cZGss4Wooi.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "343",
+      "url": "https://anilist.co/anime/343"
+    },
+    "al_manga": {
+      "id": "343",
+      "url": "https://anilist.co/manga/343"
+    }
+  }
+}

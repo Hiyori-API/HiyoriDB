@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7440,
+  "slug": "koroshiya-san-the-hired-gun",
+  "kind": "anime",
+  "title": "Koroshiya-san: The hired gun",
+  "titles": {
+    "default": "Koroshiya-san: The hired gun",
+    "romaji": "Koroshiya-san: The hired gun",
+    "native": "殺し屋さん The hired gun"
+  },
+  "synonyms": [
+    "Koroshiya-san: The hired gun",
+    "殺し屋さん The hired gun",
+    "Kyousogiga (TV)",
+    "Kyousougiga",
+    "京騒戯画",
+    "Kyousou Giga (TV)"
+  ],
+  "type": "tv",
+  "episodes": 10,
+  "status": "finished",
+  "season": "fall",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20329.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "20329",
+      "url": "https://anilist.co/anime/20329"
+    },
+    "mal": {
+      "id": "20329",
+      "url": "https://myanimelist.net/anime/20329"
+    }
+  }
+}

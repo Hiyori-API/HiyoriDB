@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1246,
+  "slug": "vs-kishi-ramune-40-fresh",
+  "kind": "anime",
+  "title": "VS Kishi Ramune & 40 FRESH",
+  "titles": {
+    "default": "VS Kishi Ramune & 40 FRESH",
+    "romaji": "VS Kishi Ramune & 40 FRESH",
+    "english": "VS Knight Lamune & 40 Fresh",
+    "native": "VS騎士ラムネ＆40FRESH"
+  },
+  "synonyms": [
+    "VS Kishi Ramune & 40 FRESH",
+    "VS Knight Lamune & 40 Fresh",
+    "VS騎士ラムネ＆40FRESH",
+    "Knights of Ramune",
+    "VS Knight Ramune & 40 Fresh",
+    "Knights of Ramune: Blast Off!"
+  ],
+  "type": "ova",
+  "episodes": 6,
+  "status": "finished",
+  "season": "spring",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1411-1xnzMIhj9Wgc.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1411",
+      "url": "https://anilist.co/anime/1411"
+    },
+    "cr": {
+      "id": "vs-knight-lamune-40-fresh",
+      "url": "https://www.crunchyroll.com/series/vs-knight-lamune-40-fresh"
+    },
+    "k": {
+      "id": "1264",
+      "url": "https://kitsu.io/anime/1264"
+    },
+    "mal": {
+      "id": "1411",
+      "url": "https://myanimelist.net/anime/1411"
+    }
+  }
+}

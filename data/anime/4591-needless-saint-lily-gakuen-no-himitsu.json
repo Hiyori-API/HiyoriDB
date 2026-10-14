@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4591,
+  "slug": "needless-saint-lily-gakuen-no-himitsu",
+  "kind": "anime",
+  "title": "Needless+: Saint Lily Gakuen no Himitsu",
+  "titles": {
+    "default": "Needless+: Saint Lily Gakuen no Himitsu",
+    "romaji": "Needless+: Saint Lily Gakuen no Himitsu",
+    "english": "Needless: The Secret of Saint Lily Academy",
+    "native": "Needless+ -聖リリィ学園の秘密-"
+  },
+  "synonyms": [
+    "Needless+: Saint Lily Gakuen no Himitsu",
+    "Needless: The Secret of Saint Lily Academy",
+    "Needless+ -聖リリィ学園の秘密-",
+    "Needless+",
+    "Needless Specials",
+    "ニードレス"
+  ],
+  "type": "special",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx7322-LtYLNXUFdtkS.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7322",
+      "url": "https://anilist.co/anime/7322"
+    },
+    "k": {
+      "id": "4940",
+      "url": "https://kitsu.io/anime/4940"
+    },
+    "mal": {
+      "id": "7322",
+      "url": "https://myanimelist.net/anime/7322"
+    }
+  }
+}

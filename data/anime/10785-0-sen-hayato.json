@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10785,
+  "slug": "0-sen-hayato",
+  "kind": "anime",
+  "title": "0-sen Hayato",
+  "titles": {
+    "default": "0-sen Hayato",
+    "romaji": "0-sen Hayato",
+    "native": "0戦はやと"
+  },
+  "synonyms": [
+    "0-sen Hayato",
+    "0戦はやと",
+    "Zero-sen Hayato"
+  ],
+  "type": "tv",
+  "episodes": 38,
+  "status": "finished",
+  "season": "winter",
+  "year": 1964,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12763.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12763",
+      "url": "https://anilist.co/anime/12763"
+    },
+    "k": {
+      "id": "6806",
+      "url": "https://kitsu.io/anime/6806"
+    },
+    "mal": {
+      "id": "12763",
+      "url": "https://myanimelist.net/anime/12763"
+    }
+  }
+}

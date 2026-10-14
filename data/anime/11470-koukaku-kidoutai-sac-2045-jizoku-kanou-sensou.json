@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11470,
+  "slug": "koukaku-kidoutai-sac-2045-jizoku-kanou-sensou",
+  "kind": "anime",
+  "title": "Koukaku Kidoutai: SAC_2045 - Jizoku Kanou Sensou",
+  "titles": {
+    "default": "Koukaku Kidoutai: SAC_2045 - Jizoku Kanou Sensou",
+    "romaji": "Koukaku Kidoutai: SAC_2045 - Jizoku Kanou Sensou",
+    "english": "Ghost in the Shell: SAC_2045 Sustainable War",
+    "native": "攻殻機動隊 SAC_2045 持続可能戦争"
+  },
+  "synonyms": [
+    "Koukaku Kidoutai: SAC_2045 - Jizoku Kanou Sensou",
+    "Ghost in the Shell: SAC_2045 Sustainable War",
+    "攻殻機動隊 SAC_2045 持続可能戦争",
+    "Ghost in the Shell: SAC_2045 - Guerra Sostenible",
+    "Ghost in the Shell: SAC_2045 – Zrównoważona wojna",
+    "Ghost in the Shell: Stand Alone Complex 2045",
+    "Ghost in the Shell: SAC_2045",
+    "Ghost in the Shell: SAC_2045 - Sustainable War"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx138899-mtjPqyGw7Yxf.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "138899",
+      "url": "https://anilist.co/anime/138899"
+    },
+    "mal": {
+      "id": "49402",
+      "url": "https://myanimelist.net/anime/49402"
+    },
+    "nf": {
+      "id": "81513128",
+      "url": "https://www.netflix.com/title/81513128"
+    },
+    "tx": {
+      "id": "gitssac2045",
+      "url": "https://twitter.com/gitssac2045"
+    }
+  }
+}

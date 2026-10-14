@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8936,
+  "slug": "pocket-monsters-xy-z-tokubetsu-hen",
+  "kind": "anime",
+  "title": "Pocket Monsters XY&Z Tokubetsu-hen",
+  "titles": {
+    "default": "Pocket Monsters XY&Z Tokubetsu-hen",
+    "romaji": "Pocket Monsters XY&Z Tokubetsu-hen",
+    "english": "Pokémon the Series: XYZ Specials",
+    "native": "ポケットモンスターXY&Z 特別編"
+  },
+  "synonyms": [
+    "Pocket Monsters XY&Z Tokubetsu-hen",
+    "Pokémon the Series: XYZ Specials",
+    "ポケットモンスターXY&Z 特別編",
+    "The Legend of X, Y, and Z!",
+    "The Legend of XYZ!",
+    "The Strongest Duo! Citron and Dent!!",
+    "A Lenda de X, Y e Z!",
+    "ポケットモンスターXY&Z",
+    "Pokemon XY&Z Specials"
+  ],
+  "type": "special",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx106499-A5wIhqydkuAm.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "106499",
+      "url": "https://anilist.co/anime/106499"
+    },
+    "mal": {
+      "id": "34325",
+      "url": "https://myanimelist.net/anime/34325"
+    }
+  }
+}

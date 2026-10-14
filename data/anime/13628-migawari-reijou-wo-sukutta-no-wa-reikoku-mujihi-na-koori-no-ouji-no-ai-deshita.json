@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13628,
+  "slug": "migawari-reijou-wo-sukutta-no-wa-reikoku-mujihi-na-koori-no-ouji-no-ai-deshita",
+  "kind": "anime",
+  "title": "Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita",
+  "titles": {
+    "default": "Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita",
+    "romaji": "Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita",
+    "english": "Saved By the Ice Cold Prince's Embrace",
+    "native": "身代わり令嬢を救ったのは冷酷無慈悲な氷の王子の愛でした"
+  },
+  "synonyms": [
+    "Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita",
+    "Saved By the Ice Cold Prince's Embrace",
+    "身代わり令嬢を救ったのは冷酷無慈悲な氷の王子の愛でした",
+    "คุณหนูตัวแทนผู้ถูกช่วยไว้ด้วยรักของเจ้าชายน้ำแข็งผู้ไร้ความปราณี",
+    "DearS",
+    "ディアーズ"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213665-E6byznDKrKY0.png"
+  ],
+  "references": {
+    "al": {
+      "id": "213665",
+      "url": "https://anilist.co/anime/213665"
+    },
+    "cr": {
+      "id": "series/GRZXD528Y/dears",
+      "url": "https://www.crunchyroll.com/series/series/GRZXD528Y/dears"
+    },
+    "k": {
+      "id": "44",
+      "url": "https://kitsu.io/anime/44"
+    },
+    "mal": {
+      "id": "63878",
+      "url": "https://myanimelist.net/anime/63878"
+    },
+    "t": {
+      "id": "61051",
+      "url": "https://trakt.tv/shows/61051"
+    },
+    "tx": {
+      "id": "migawari_offcl",
+      "url": "https://twitter.com/migawari_offcl"
+    }
+  }
+}

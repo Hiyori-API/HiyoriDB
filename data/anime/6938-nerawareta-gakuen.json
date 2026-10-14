@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6938,
+  "slug": "nerawareta-gakuen",
+  "kind": "anime",
+  "title": "Nerawareta Gakuen",
+  "titles": {
+    "default": "Nerawareta Gakuen",
+    "romaji": "Nerawareta Gakuen",
+    "english": "Psychic School Wars",
+    "native": "ねらわれた学園"
+  },
+  "synonyms": [
+    "Nerawareta Gakuen",
+    "Psychic School Wars",
+    "ねらわれた学園"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14293-LRBPqtAzGPrK.png"
+  ],
+  "references": {
+    "al": {
+      "id": "14293",
+      "url": "https://anilist.co/anime/14293"
+    },
+    "cr": {
+      "id": "psychic-school-wars",
+      "url": "https://www.crunchyroll.com/series/psychic-school-wars"
+    },
+    "k": {
+      "id": "7110",
+      "url": "https://kitsu.io/anime/7110"
+    },
+    "mal": {
+      "id": "14293",
+      "url": "https://myanimelist.net/anime/14293"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8809,
+  "slug": "enkou-shoujo-rikujoubu-yukki-no-baai-the-animation",
+  "kind": "anime",
+  "title": "Enkou Shoujo: Rikujoubu Yukki no Baai THE ANIMATION",
+  "titles": {
+    "default": "Enkou Shoujo: Rikujoubu Yukki no Baai THE ANIMATION",
+    "romaji": "Enkou Shoujo: Rikujoubu Yukki no Baai THE ANIMATION",
+    "native": "円交少女 ~陸上部ゆっきーの場合~ THE ANIMATION"
+  },
+  "synonyms": [
+    "Enkou Shoujo: Rikujoubu Yukki no Baai THE ANIMATION",
+    "円交少女 ~陸上部ゆっきーの場合~ THE ANIMATION",
+    "Under the Dog",
+    "UNDER THE DOG",
+    "UNDER THE DOG EPISODE 0"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21868-e66FEa6Njaoy.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21868",
+      "url": "https://anilist.co/anime/21868"
+    },
+    "k": {
+      "id": "9098",
+      "url": "https://kitsu.io/anime/9098"
+    },
+    "mal": {
+      "id": "33393",
+      "url": "https://myanimelist.net/anime/33393"
+    }
+  }
+}

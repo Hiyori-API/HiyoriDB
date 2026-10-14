@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2558,
+  "slug": "hakushon-daimaou",
+  "kind": "anime",
+  "title": "Hakushon Daimaou",
+  "titles": {
+    "default": "Hakushon Daimaou",
+    "romaji": "Hakushon Daimaou",
+    "english": "Bob in the Bottle",
+    "native": "ハクション大魔王"
+  },
+  "synonyms": [
+    "Hakushon Daimaou",
+    "Bob in the Bottle",
+    "ハクション大魔王",
+    "The Genie Family",
+    "Bob, der Flaschengeist",
+    "Il mago pancione Etcì",
+    "Przyjaciel Bob",
+    "Bob i Flasken",
+    "Bob i Flaskan"
+  ],
+  "type": "tv",
+  "episodes": 52,
+  "status": "finished",
+  "season": "fall",
+  "year": 1969,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2892.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2892",
+      "url": "https://anilist.co/anime/2892"
+    },
+    "k": {
+      "id": "2626",
+      "url": "https://kitsu.io/anime/2626"
+    },
+    "mal": {
+      "id": "2892",
+      "url": "https://myanimelist.net/anime/2892"
+    }
+  }
+}

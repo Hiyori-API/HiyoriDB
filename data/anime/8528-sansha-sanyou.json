@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8528,
+  "slug": "sansha-sanyou",
+  "kind": "anime",
+  "title": "Sansha Sanyou",
+  "titles": {
+    "default": "Sansha Sanyou",
+    "romaji": "Sansha Sanyou",
+    "english": "Three Leaves, Three Colors",
+    "native": "三者三葉"
+  },
+  "synonyms": [
+    "Sansha Sanyou",
+    "Three Leaves, Three Colors",
+    "三者三葉"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21334-cPGktW4PmpBH.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21334",
+      "url": "https://anilist.co/anime/21334"
+    },
+    "cr": {
+      "id": "three-leaves-three-colors",
+      "url": "https://www.crunchyroll.com/series/three-leaves-three-colors"
+    },
+    "mal": {
+      "id": "31564",
+      "url": "https://myanimelist.net/anime/31564"
+    },
+    "tx": {
+      "id": "sansya_anime",
+      "url": "https://twitter.com/sansya_anime"
+    }
+  }
+}

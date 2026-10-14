@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9751,
+  "slug": "koi-to-uso-isshou-no-koi-koi-no-kimochi",
+  "kind": "anime",
+  "title": "Koi to Uso: Isshou no Koi/Koi no Kimochi",
+  "titles": {
+    "default": "Koi to Uso: Isshou no Koi/Koi no Kimochi",
+    "romaji": "Koi to Uso: Isshou no Koi/Koi no Kimochi",
+    "english": "LOVE and LIES OVA",
+    "native": "恋と嘘 一生の恋 / 恋の気持ち"
+  },
+  "synonyms": [
+    "Koi to Uso: Isshou no Koi/Koi no Kimochi",
+    "LOVE and LIES OVA",
+    "恋と嘘 一生の恋 / 恋の気持ち",
+    "Love & Lies",
+    "Koi to Uso (2018)",
+    "恋と嘘 (2018)",
+    "จะรักหรือจะหลอก OVA",
+    "Koi to Uso OVA",
+    "Onegai☆Teacher: Himitsu na Futari",
+    "おねがい☆ティーチャー ヒミツなふたり",
+    "Onegai Sensei",
+    "Please Teacher! OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b101501-bWvhFO9hPaBB.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101501",
+      "url": "https://anilist.co/anime/101501"
+    },
+    "k": {
+      "id": "406",
+      "url": "https://kitsu.io/anime/406"
+    },
+    "mal": {
+      "id": "37711",
+      "url": "https://myanimelist.net/anime/37711"
+    }
+  }
+}

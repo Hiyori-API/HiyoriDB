@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2207,
+  "slug": "touch-2-sayonara-no-okurimono",
+  "kind": "anime",
+  "title": "Touch 2: Sayonara no Okurimono",
+  "titles": {
+    "default": "Touch 2: Sayonara no Okurimono",
+    "romaji": "Touch 2: Sayonara no Okurimono",
+    "native": "タッチ2 さよならの贈り物"
+  },
+  "synonyms": [
+    "Touch 2: Sayonara no Okurimono",
+    "タッチ2 さよならの贈り物",
+    "Touch 2: The Farewell Gift"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2492.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2492",
+      "url": "https://anilist.co/anime/2492"
+    },
+    "k": {
+      "id": "2262",
+      "url": "https://kitsu.io/anime/2262"
+    },
+    "mal": {
+      "id": "2492",
+      "url": "https://myanimelist.net/anime/2492"
+    }
+  }
+}

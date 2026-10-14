@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11917,
+  "slug": "boku-ni-sefure-ga-dekita-riyuu",
+  "kind": "anime",
+  "title": "Boku ni Sefure ga Dekita Riyuu",
+  "titles": {
+    "default": "Boku ni Sefure ga Dekita Riyuu",
+    "romaji": "Boku ni Sefure ga Dekita Riyuu",
+    "native": "僕にセフレが出来た理由"
+  },
+  "synonyms": [
+    "Boku ni Sefure ga Dekita Riyuu",
+    "僕にセフレが出来た理由",
+    "Boku ni Sexfriend ga Dekita Riyuu",
+    "Boku ni SeFri ga Dekita Riyuu",
+    "Golden Boy",
+    "ゴールデンボーイ"
+  ],
+  "type": "ova",
+  "episodes": 6,
+  "status": "finished",
+  "season": "fall",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152292-uGklTJ8mKy8h.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "152292",
+      "url": "https://anilist.co/anime/152292"
+    },
+    "k": {
+      "id": "243",
+      "url": "https://kitsu.io/anime/243"
+    },
+    "mal": {
+      "id": "52402",
+      "url": "https://myanimelist.net/anime/52402"
+    }
+  }
+}

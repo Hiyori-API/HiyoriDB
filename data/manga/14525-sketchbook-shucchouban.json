@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14525,
+  "slug": "sketchbook-shucchouban",
+  "kind": "manga",
+  "title": "Sketchbook Shucchouban",
+  "titles": {
+    "default": "Sketchbook Shucchouban"
+  },
+  "synonyms": [
+    "Sketchbook Bonus Volume",
+    "スケッチブック 出張版",
+    "xxxHOLiC",
+    "xxxHolic Rou",
+    "xxxHolic Cage",
+    "xxxHolic•Rou"
+  ],
+  "type": "manga",
+  "chapters": 13,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/11264.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2942",
+      "url": "https://anilist.co/anime/2942"
+    },
+    "al_manga": {
+      "id": "2942",
+      "url": "https://anilist.co/manga/2942"
+    }
+  }
+}

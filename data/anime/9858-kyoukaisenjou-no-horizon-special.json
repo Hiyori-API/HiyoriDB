@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9858,
+  "slug": "kyoukaisenjou-no-horizon-special",
+  "kind": "anime",
+  "title": "Kyoukaisenjou no Horizon Special",
+  "titles": {
+    "default": "Kyoukaisenjou no Horizon Special",
+    "romaji": "Kyoukaisenjou no Horizon Special",
+    "english": "Horizon in the Middle of Nowhere XXI-PV",
+    "native": "境界線上のホライゾン"
+  },
+  "synonyms": [
+    "Kyoukaisenjou no Horizon Special",
+    "Horizon in the Middle of Nowhere XXI-PV",
+    "境界線上のホライゾン",
+    "Horizon In the Middle of Nowhere Special",
+    "Love Hina Christmas Movie",
+    "Love Hina Christmas Special: Silent Eve",
+    "ラブひなクリスマススペシャル ～サイレント・イヴ～"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/104211-sNjlLLOCx4VI.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "104211",
+      "url": "https://anilist.co/anime/104211"
+    },
+    "k": {
+      "id": "168",
+      "url": "https://kitsu.io/anime/168"
+    },
+    "mal": {
+      "id": "38046",
+      "url": "https://myanimelist.net/anime/38046"
+    }
+  }
+}

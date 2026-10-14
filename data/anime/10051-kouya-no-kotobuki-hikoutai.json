@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10051,
+  "slug": "kouya-no-kotobuki-hikoutai",
+  "kind": "anime",
+  "title": "Kouya no Kotobuki Hikoutai",
+  "titles": {
+    "default": "Kouya no Kotobuki Hikoutai",
+    "romaji": "Kouya no Kotobuki Hikoutai",
+    "english": "The Magnificent KOTOBUKI",
+    "native": "荒野のコトブキ飛行隊"
+  },
+  "synonyms": [
+    "Kouya no Kotobuki Hikoutai",
+    "The Magnificent KOTOBUKI",
+    "荒野のコトブキ飛行隊",
+    "The Kotobuki Squadron in the Wilderness",
+    "The Magnificent Kotobuki"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104253-jvvztQBrpDnH.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "104253",
+      "url": "https://anilist.co/anime/104253"
+    },
+    "cr": {
+      "id": "the-magnificent-kotobuki",
+      "url": "https://www.crunchyroll.com/series/the-magnificent-kotobuki"
+    },
+    "mal": {
+      "id": "38301",
+      "url": "https://myanimelist.net/anime/38301"
+    },
+    "tx": {
+      "id": "kotobuki_PR",
+      "url": "https://twitter.com/kotobuki_PR"
+    }
+  }
+}

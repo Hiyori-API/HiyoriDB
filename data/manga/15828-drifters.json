@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15828,
+  "slug": "drifters",
+  "kind": "manga",
+  "title": "Drifters",
+  "titles": {
+    "default": "Drifters"
+  },
+  "synonyms": [
+    "Drifters",
+    "ドリフターズ",
+    "Gakuen Babysitters",
+    "学園ベビーシッターズ",
+    "School Babysitters"
+  ],
+  "type": "manga",
+  "status": "publishing",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx43801-eAjGz6G5d5Db.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "122922",
+      "url": "https://anilist.co/anime/16932"
+    },
+    "al_manga": {
+      "id": "122922",
+      "url": "https://anilist.co/manga/122922"
+    }
+  }
+}

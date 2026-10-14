@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6903,
+  "slug": "kamiusagi-rope-x-panasonic-collaboration",
+  "kind": "anime",
+  "title": "Kamiusagi Rope x Panasonic Collaboration",
+  "titles": {
+    "default": "Kamiusagi Rope x Panasonic Collaboration",
+    "romaji": "Kamiusagi Rope x Panasonic Collaboration",
+    "english": "Paper Rabbit Rope x Panasonic Collaboration",
+    "native": "紙兎ロペ　パナソニックコラボEP"
+  },
+  "synonyms": [
+    "Kamiusagi Rope x Panasonic Collaboration",
+    "Paper Rabbit Rope x Panasonic Collaboration",
+    "紙兎ロペ　パナソニックコラボEP",
+    "Kamiusagi Rope: Surround Headphone-hen",
+    "Tamayura: Hitotose - Attakai Kaze no Omoide, Nanode",
+    "たまゆら～hitotose～ 第5.5話「あったかい風の想い出、なので」",
+    "Tamayura: Hitotose OVA",
+    "Tamayura (TV) OVA",
+    "Tamayura (TV) Episode 5.5"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13827.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "13827",
+      "url": "https://anilist.co/anime/13827"
+    },
+    "k": {
+      "id": "6603",
+      "url": "https://kitsu.io/anime/6603"
+    },
+    "mal": {
+      "id": "13827",
+      "url": "https://myanimelist.net/anime/13827"
+    }
+  }
+}

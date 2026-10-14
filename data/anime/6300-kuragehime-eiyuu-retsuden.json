@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6300,
+  "slug": "kuragehime-eiyuu-retsuden",
+  "kind": "anime",
+  "title": "Kuragehime Eiyuu Retsuden☆",
+  "titles": {
+    "default": "Kuragehime Eiyuu Retsuden☆",
+    "romaji": "Kuragehime Eiyuu Retsuden☆",
+    "english": "Princess Jellyfish Specials",
+    "native": "海月姫 英雄列伝☆"
+  },
+  "synonyms": [
+    "Kuragehime Eiyuu Retsuden☆",
+    "Princess Jellyfish Specials",
+    "海月姫 英雄列伝☆",
+    "Kuragehime Heroes☆",
+    "Kuragehime Specials",
+    "Kuragehime: Eiyuu Retsuden☆"
+  ],
+  "type": "special",
+  "episodes": 4,
+  "status": "finished",
+  "season": "winter",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9754.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9754",
+      "url": "https://anilist.co/anime/9754"
+    },
+    "k": {
+      "id": "5852",
+      "url": "https://kitsu.io/anime/5852"
+    },
+    "mal": {
+      "id": "9754",
+      "url": "https://myanimelist.net/anime/9754"
+    }
+  }
+}

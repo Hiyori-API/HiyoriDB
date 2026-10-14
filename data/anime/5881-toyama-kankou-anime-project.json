@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5881,
+  "slug": "toyama-kankou-anime-project",
+  "kind": "anime",
+  "title": "Toyama Kankou Anime Project",
+  "titles": {
+    "default": "Toyama Kankou Anime Project",
+    "romaji": "Toyama Kankou Anime Project",
+    "english": "Toyama Tourism Anime Project",
+    "native": "富山観光アニメプロジェクト"
+  },
+  "synonyms": [
+    "Toyama Kankou Anime Project",
+    "Toyama Tourism Anime Project",
+    "富山観光アニメプロジェクト",
+    "Nakaseru Sora ni Aitai: Toyama",
+    "Miwaku no Muttsu no Monogatari",
+    "Hatsukoi Limited Shorts",
+    "Hatsukoi Limited.: Gentei Shoujo",
+    "初恋限定。限定少女",
+    "Hatsukoi Limited Specials",
+    "Hatsukoi Limited: Girl Limited",
+    "Hatsukoi Limited: Shoujo Limited",
+    "First Love Limited: Limited Girl",
+    "Hatsukoi Limited. Specials",
+    "Hatsukoi Limited.: Girl Limited",
+    "Hatsukoi Limited.: Shoujo Limited"
+  ],
+  "type": "special",
+  "episodes": 6,
+  "status": "finished",
+  "season": "summer",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10511.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10511",
+      "url": "https://anilist.co/anime/10511"
+    },
+    "cr": {
+      "id": "japan-tourism-anime-channel",
+      "url": "https://www.crunchyroll.com/series/japan-tourism-anime-channel"
+    },
+    "k": {
+      "id": "4766",
+      "url": "https://kitsu.io/anime/4766"
+    },
+    "mal": {
+      "id": "10511",
+      "url": "https://myanimelist.net/anime/10511"
+    }
+  }
+}

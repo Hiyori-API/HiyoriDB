@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14221,
+  "slug": "toheart",
+  "kind": "manga",
+  "title": "ToHeart",
+  "titles": {
+    "default": "ToHeart"
+  },
+  "synonyms": [
+    "トゥハート",
+    "Full Moon wo Sagashite",
+    "満月〈フルムーン〉をさがして",
+    "Searching for the Full Moon",
+    "Ginyuu Meika"
+  ],
+  "type": "manga",
+  "volumes": 3,
+  "status": "finished",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b159133-IZYpIcsa0X3H.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "472",
+      "url": "https://anilist.co/anime/471"
+    },
+    "al_manga": {
+      "id": "472",
+      "url": "https://anilist.co/manga/472"
+    }
+  }
+}

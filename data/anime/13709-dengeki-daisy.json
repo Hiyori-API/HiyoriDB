@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13709,
+  "slug": "dengeki-daisy",
+  "kind": "anime",
+  "title": "Dengeki Daisy",
+  "titles": {
+    "default": "Dengeki Daisy",
+    "romaji": "Dengeki Daisy",
+    "native": "電撃デイジー"
+  },
+  "synonyms": [
+    "Dengeki Daisy",
+    "電撃デイジー",
+    "Sudden Death",
+    "Sadon Desu",
+    "さどんです"
+  ],
+  "type": "tv",
+  "status": "to_be_aired",
+  "season": "winter",
+  "year": 2027,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213052-RzCXgG576ilW.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "213052",
+      "url": "https://anilist.co/anime/213052"
+    },
+    "k": {
+      "id": "8275",
+      "url": "https://kitsu.io/anime/8275"
+    },
+    "mal": {
+      "id": "64374",
+      "url": "https://myanimelist.net/anime/64374"
+    }
+  }
+}

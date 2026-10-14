@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2826,
+  "slug": "kinnikuman-seigi-choujin-vs-senshi-choujin",
+  "kind": "anime",
+  "title": "Kinnikuman: Seigi Choujin vs. Senshi Choujin",
+  "titles": {
+    "default": "Kinnikuman: Seigi Choujin vs. Senshi Choujin",
+    "romaji": "Kinnikuman: Seigi Choujin vs. Senshi Choujin",
+    "native": "キン肉マン 正義超人ＶＳ戦士超人"
+  },
+  "synonyms": [
+    "Kinnikuman: Seigi Choujin vs. Senshi Choujin",
+    "キン肉マン 正義超人ＶＳ戦士超人",
+    "Kinnikuman: Justice Superman vs. Soldier Superman"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3279-1YCpS2cItU9L.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3279",
+      "url": "https://anilist.co/anime/3279"
+    },
+    "k": {
+      "id": "2905",
+      "url": "https://kitsu.io/anime/2905"
+    },
+    "mal": {
+      "id": "3279",
+      "url": "https://myanimelist.net/anime/3279"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7887,
+  "slug": "kyonyuu-kazoku-saimin",
+  "kind": "anime",
+  "title": "Kyonyuu Kazoku Saimin",
+  "titles": {
+    "default": "Kyonyuu Kazoku Saimin",
+    "romaji": "Kyonyuu Kazoku Saimin",
+    "native": "巨乳家族催眠"
+  },
+  "synonyms": [
+    "Kyonyuu Kazoku Saimin",
+    "巨乳家族催眠",
+    "Busty Family Hypnosis",
+    "Inari, Konkon, Koi Iroha.: Inari, Konkon, Semishigure.",
+    "いなり、こんこん、恋いろは。いなり、コンコン、蝉しぐれ。",
+    "Inari",
+    "Konkon",
+    "Koi Iroha. Episode 11"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21233-zueZHPvfMZGy.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21233",
+      "url": "https://anilist.co/anime/21233"
+    },
+    "k": {
+      "id": "8251",
+      "url": "https://kitsu.io/anime/8251"
+    },
+    "mal": {
+      "id": "22543",
+      "url": "https://myanimelist.net/anime/22543"
+    }
+  }
+}

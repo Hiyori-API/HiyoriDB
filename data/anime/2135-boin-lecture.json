@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2135,
+  "slug": "boin-lecture",
+  "kind": "anime",
+  "title": "boin Lecture",
+  "titles": {
+    "default": "boin Lecture",
+    "romaji": "boin Lecture",
+    "english": "Boin Lecture",
+    "native": "boin レクチャー"
+  },
+  "synonyms": [
+    "boin Lecture",
+    "Boin Lecture",
+    "boin レクチャー",
+    "Banner of the Stars III",
+    "Seikai no Senki III",
+    "星界の戦旗 III",
+    "Battle Flag of the Stars III"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2413-n0AsmoL1cWFe.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2413",
+      "url": "https://anilist.co/anime/2413"
+    },
+    "k": {
+      "id": "365",
+      "url": "https://kitsu.io/anime/365"
+    },
+    "mal": {
+      "id": "2413",
+      "url": "https://myanimelist.net/anime/2413"
+    }
+  }
+}

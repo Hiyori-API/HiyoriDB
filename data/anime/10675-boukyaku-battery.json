@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10675,
+  "slug": "boukyaku-battery",
+  "kind": "anime",
+  "title": "Boukyaku Battery",
+  "titles": {
+    "default": "Boukyaku Battery",
+    "romaji": "Boukyaku Battery",
+    "native": "忘却バッテリー"
+  },
+  "synonyms": [
+    "Boukyaku Battery",
+    "忘却バッテリー",
+    "Oblivion Battery OVA",
+    "Onegai☆Teacher: Himitsu na Futari",
+    "おねがい☆ティーチャー ヒミツなふたり",
+    "Onegai Sensei",
+    "Please Teacher! OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124703-6kSUmYMWvG0L.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "124703",
+      "url": "https://anilist.co/anime/124703"
+    },
+    "k": {
+      "id": "406",
+      "url": "https://kitsu.io/anime/406"
+    },
+    "mal": {
+      "id": "42829",
+      "url": "https://myanimelist.net/anime/42829"
+    }
+  }
+}

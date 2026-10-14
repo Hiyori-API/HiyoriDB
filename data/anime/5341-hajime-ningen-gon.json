@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5341,
+  "slug": "hajime-ningen-gon",
+  "kind": "anime",
+  "title": "Hajime Ningen Gon",
+  "titles": {
+    "default": "Hajime Ningen Gon",
+    "romaji": "Hajime Ningen Gon",
+    "native": "はじめ人間ゴン"
+  },
+  "synonyms": [
+    "Hajime Ningen Gon",
+    "はじめ人間ゴン",
+    "Gon",
+    "the Stone Age Boy"
+  ],
+  "type": "tv",
+  "episodes": 39,
+  "status": "finished",
+  "season": "spring",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8764.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8764",
+      "url": "https://anilist.co/anime/8764"
+    },
+    "k": {
+      "id": "5483",
+      "url": "https://kitsu.io/anime/5483"
+    },
+    "mal": {
+      "id": "8764",
+      "url": "https://myanimelist.net/anime/8764"
+    }
+  }
+}

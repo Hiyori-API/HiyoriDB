@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1023,
+  "slug": "tenchi-muyou-ryououki-omatsuri-zenya-no-yoru",
+  "kind": "anime",
+  "title": "Tenchi Muyou! Ryououki Omatsuri Zenya no Yoru!",
+  "titles": {
+    "default": "Tenchi Muyou! Ryououki Omatsuri Zenya no Yoru!",
+    "romaji": "Tenchi Muyou! Ryououki Omatsuri Zenya no Yoru!",
+    "english": "Tenchi Muyo! Ryo-Ohki: The Night Before The Carnival!",
+    "native": "天地無用! 魎皇鬼 お祭り前夜の夜!"
+  },
+  "synonyms": [
+    "Tenchi Muyou! Ryououki Omatsuri Zenya no Yoru!",
+    "Tenchi Muyo! Ryo-Ohki: The Night Before The Carnival!",
+    "天地無用! 魎皇鬼 お祭り前夜の夜!",
+    "Tenchi Muyo! Troppe donne per Tenchi!",
+    "Big Wars",
+    "Big Wars: Kami Utsu Akaki Kouya ni",
+    "ビッグ・ウォーズ 神撃つ朱き荒野に"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1146.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1146",
+      "url": "https://anilist.co/anime/1146"
+    },
+    "k": {
+      "id": "2386",
+      "url": "https://kitsu.io/anime/2386"
+    },
+    "mal": {
+      "id": "1146",
+      "url": "https://myanimelist.net/anime/1146"
+    }
+  }
+}

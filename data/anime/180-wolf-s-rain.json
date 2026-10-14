@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 180,
+  "slug": "wolf-s-rain",
+  "kind": "anime",
+  "title": "Wolf's Rain",
+  "titles": {
+    "default": "Wolf's Rain",
+    "romaji": "Wolf's Rain",
+    "native": "ウルフズレイン"
+  },
+  "synonyms": [
+    "Wolf's Rain",
+    "ウルフズレイン",
+    "Wolf Rain",
+    "Wolfs Rain",
+    "D.N.Angel",
+    "Ｄ・Ｎ・ＡＮＧＥＬ",
+    "DN Angel",
+    "DNAngel"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "winter",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202-w2OLL3j8WmDm.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "202",
+      "url": "https://anilist.co/anime/202"
+    },
+    "cr": {
+      "id": "wolfs-rain",
+      "url": "https://www.crunchyroll.com/series/wolfs-rain"
+    },
+    "k": {
+      "id": "42",
+      "url": "https://kitsu.io/anime/42"
+    },
+    "mal": {
+      "id": "202",
+      "url": "https://myanimelist.net/anime/202"
+    },
+    "t": {
+      "id": "25561",
+      "url": "https://trakt.tv/shows/25561"
+    }
+  }
+}

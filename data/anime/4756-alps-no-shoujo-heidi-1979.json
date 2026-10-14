@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4756,
+  "slug": "alps-no-shoujo-heidi-1979",
+  "kind": "anime",
+  "title": "Alps no Shoujo Heidi (1979)",
+  "titles": {
+    "default": "Alps no Shoujo Heidi (1979)",
+    "romaji": "Alps no Shoujo Heidi (1979)",
+    "english": "The Story of Heidi",
+    "native": "アルプスの少女ハイジ (1979)"
+  },
+  "synonyms": [
+    "Alps no Shoujo Heidi (1979)",
+    "The Story of Heidi",
+    "アルプスの少女ハイジ (1979)"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1979,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9547.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9547",
+      "url": "https://anilist.co/anime/9547"
+    },
+    "k": {
+      "id": "5787",
+      "url": "https://kitsu.io/anime/5787"
+    },
+    "mal": {
+      "id": "9547",
+      "url": "https://myanimelist.net/anime/9547"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11268,
+  "slug": "sankaku-mado-no-sotogawa-wa-yoru",
+  "kind": "anime",
+  "title": "Sankaku Mado no Sotogawa wa Yoru",
+  "titles": {
+    "default": "Sankaku Mado no Sotogawa wa Yoru",
+    "romaji": "Sankaku Mado no Sotogawa wa Yoru",
+    "english": "The Night Beyond the Tricornered Window",
+    "native": "さんかく窓の外側は夜"
+  },
+  "synonyms": [
+    "Sankaku Mado no Sotogawa wa Yoru",
+    "The Night Beyond the Tricornered Window",
+    "さんかく窓の外側は夜",
+    "คู่หูสามเหลี่ยมล่าปีศาจ",
+    "Ring ni Kakero 1",
+    "リングにかけろ１",
+    "Put it all in the Ring"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126897-at1dtnI047XP.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "126897",
+      "url": "https://anilist.co/anime/126897"
+    },
+    "cr": {
+      "id": "series/GW4HM7PP7/the-night-beyond-the-tricornered-window",
+      "url": "https://www.crunchyroll.com/series/series/GW4HM7PP7/the-night-beyond-the-tricornered-window"
+    },
+    "k": {
+      "id": "14",
+      "url": "https://kitsu.io/anime/14"
+    },
+    "mal": {
+      "id": "44387",
+      "url": "https://myanimelist.net/anime/44387"
+    },
+    "t": {
+      "id": "69507",
+      "url": "https://trakt.tv/shows/69507"
+    },
+    "tx": {
+      "id": "sankakumado_pr",
+      "url": "https://twitter.com/sankakumado_pr"
+    }
+  }
+}

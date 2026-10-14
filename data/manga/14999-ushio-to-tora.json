@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14999,
+  "slug": "ushio-to-tora",
+  "kind": "manga",
+  "title": "Ushio to Tora",
+  "titles": {
+    "default": "Ushio to Tora"
+  },
+  "synonyms": [
+    "Ushio & Tora",
+    "Ushio and Tiger",
+    "Ushio and Tora",
+    "うしおととら",
+    "Shouryou Tsukai Elementalors",
+    "精霊使いエレメンタラー",
+    "Elementalors",
+    "Shouryou Tsukai Erementara",
+    "les Elémentalistes"
+  ],
+  "type": "manga",
+  "chapters": 313,
+  "volumes": 33,
+  "status": "finished",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx37747-vNjKGKR9BBmy.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21241",
+      "url": "https://anilist.co/anime/842"
+    },
+    "al_manga": {
+      "id": "21241",
+      "url": "https://anilist.co/manga/21241"
+    }
+  }
+}

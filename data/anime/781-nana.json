@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 781,
+  "slug": "nana",
+  "kind": "anime",
+  "title": "NANA",
+  "titles": {
+    "default": "NANA",
+    "romaji": "NANA",
+    "native": "NANA-ナナ-"
+  },
+  "synonyms": [
+    "NANA",
+    "NANA-ナナ-",
+    "Nana",
+    "NANA [ナナ]"
+  ],
+  "type": "tv",
+  "episodes": 47,
+  "status": "finished",
+  "season": "spring",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx877-6BUYEWp8By8j.png"
+  ],
+  "references": {
+    "al": {
+      "id": "877",
+      "url": "https://anilist.co/anime/877"
+    },
+    "cr": {
+      "id": "series/GVDHX8QGP/nana&ved=2ahUKEwifi8P_yuj9AhUgVqQEHZuMD9gQFnoECA0QAQ&usg=AOvVaw3qlL5BTTbccRkl1ygyWy9T",
+      "url": "https://www.crunchyroll.com/series/series/GVDHX8QGP/nana&ved=2ahUKEwifi8P_yuj9AhUgVqQEHZuMD9gQFnoECA0QAQ&usg=AOvVaw3qlL5BTTbccRkl1ygyWy9T"
+    },
+    "k": {
+      "id": "777",
+      "url": "https://kitsu.io/anime/777"
+    },
+    "mal": {
+      "id": "877",
+      "url": "https://myanimelist.net/anime/877"
+    },
+    "nf": {
+      "id": "70205010",
+      "url": "https://www.netflix.com/title/70205010"
+    },
+    "t": {
+      "id": "56210",
+      "url": "https://trakt.tv/shows/56210"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11943,
+  "slug": "kikkake-wa-kitkat-de",
+  "kind": "anime",
+  "title": "Kikkake wa, KitKat de.",
+  "titles": {
+    "default": "Kikkake wa, KitKat de.",
+    "romaji": "Kikkake wa, KitKat de.",
+    "native": "きっかけは、キットカットで。"
+  },
+  "synonyms": [
+    "Kikkake wa, KitKat de.",
+    "きっかけは、キットカットで。",
+    "Kit Kat CM",
+    "キットカット CM",
+    "Ah! My Goddess: Flights of Fancy Specials",
+    "Aa! Megami-sama!: Sorezore no Tsubasa Specials",
+    "ああっ女神さまっ　それぞれの翼",
+    "Ah! My Goddess: Sorezore no Tsubasa Specials"
+  ],
+  "type": "special",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155346-COAhHE7qh6xg.png"
+  ],
+  "references": {
+    "al": {
+      "id": "155346",
+      "url": "https://anilist.co/anime/155346"
+    },
+    "k": {
+      "id": "780",
+      "url": "https://kitsu.io/anime/780"
+    },
+    "mal": {
+      "id": "62296",
+      "url": "https://myanimelist.net/anime/62296"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4075,
+  "slug": "pikachu-no-obake-carnival",
+  "kind": "anime",
+  "title": "Pikachu no Obake Carnival",
+  "titles": {
+    "default": "Pikachu no Obake Carnival",
+    "romaji": "Pikachu no Obake Carnival",
+    "native": "ピカチュウのおばけカーニバル"
+  },
+  "synonyms": [
+    "Pikachu no Obake Carnival",
+    "ピカチュウのおばけカーニバル",
+    "Pocket Monsters: Pikachu no Obake Carnival",
+    "Pokemon: Pikachu's Ghost Festival!",
+    "Pokemon: Pikachu no Obake Carnival"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5844.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5844",
+      "url": "https://anilist.co/anime/5844"
+    },
+    "k": {
+      "id": "4301",
+      "url": "https://kitsu.io/anime/4301"
+    },
+    "mal": {
+      "id": "5844",
+      "url": "https://myanimelist.net/anime/5844"
+    }
+  }
+}

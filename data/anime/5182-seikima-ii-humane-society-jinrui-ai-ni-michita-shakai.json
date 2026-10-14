@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5182,
+  "slug": "seikima-ii-humane-society-jinrui-ai-ni-michita-shakai",
+  "kind": "anime",
+  "title": "SEIKIMA-II HUMANE SOCIETY: Jinrui Ai ni Michita Shakai",
+  "titles": {
+    "default": "SEIKIMA-II HUMANE SOCIETY: Jinrui Ai ni Michita Shakai",
+    "romaji": "SEIKIMA-II HUMANE SOCIETY: Jinrui Ai ni Michita Shakai",
+    "native": "聖飢魔II HUMANE SOCIETY ~人類愛に満ちた社会~"
+  },
+  "synonyms": [
+    "SEIKIMA-II HUMANE SOCIETY: Jinrui Ai ni Michita Shakai",
+    "聖飢魔II HUMANE SOCIETY ~人類愛に満ちた社会~",
+    "Seikima 2 Humane Society: Jinrui Ai ni Michita Shakai",
+    "Seikima II Humane Society: Jinrui Ai ni Michita Shakai"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8745.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8745",
+      "url": "https://anilist.co/anime/8745"
+    },
+    "k": {
+      "id": "5471",
+      "url": "https://kitsu.io/anime/5471"
+    },
+    "mal": {
+      "id": "8745",
+      "url": "https://myanimelist.net/anime/8745"
+    }
+  }
+}

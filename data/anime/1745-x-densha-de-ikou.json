@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1745,
+  "slug": "x-densha-de-ikou",
+  "kind": "anime",
+  "title": "X Densha de Ikou",
+  "titles": {
+    "default": "X Densha de Ikou",
+    "romaji": "X Densha de Ikou",
+    "native": "X電車で行こう"
+  },
+  "synonyms": [
+    "X Densha de Ikou",
+    "X電車で行こう",
+    "Take the X Train"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1973-EsznsB6Vrb7Y.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1973",
+      "url": "https://anilist.co/anime/1973"
+    },
+    "k": {
+      "id": "1776",
+      "url": "https://kitsu.io/anime/1776"
+    },
+    "mal": {
+      "id": "1973",
+      "url": "https://myanimelist.net/anime/1973"
+    }
+  }
+}

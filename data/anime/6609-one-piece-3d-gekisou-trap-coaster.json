@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6609,
+  "slug": "one-piece-3d-gekisou-trap-coaster",
+  "kind": "anime",
+  "title": "ONE PIECE 3D: Gekisou! Trap Coaster",
+  "titles": {
+    "default": "ONE PIECE 3D: Gekisou! Trap Coaster",
+    "romaji": "ONE PIECE 3D: Gekisou! Trap Coaster",
+    "native": "ONE PIECE 3D 激走! トラップコースター"
+  },
+  "synonyms": [
+    "ONE PIECE 3D: Gekisou! Trap Coaster",
+    "ONE PIECE 3D 激走! トラップコースター",
+    "One Piece 3D: Gekisou! Trap Coaster"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx12001-XX0NNNfaKZ3e.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12001",
+      "url": "https://anilist.co/anime/12001"
+    },
+    "k": {
+      "id": "6641",
+      "url": "https://kitsu.io/anime/6641"
+    },
+    "mal": {
+      "id": "12001",
+      "url": "https://myanimelist.net/anime/12001"
+    }
+  }
+}

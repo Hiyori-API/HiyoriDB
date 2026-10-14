@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8305,
+  "slug": "kindaichi-shounen-no-jikenbo-r-2",
+  "kind": "anime",
+  "title": "Kindaichi Shounen no Jikenbo R 2",
+  "titles": {
+    "default": "Kindaichi Shounen no Jikenbo R 2",
+    "romaji": "Kindaichi Shounen no Jikenbo R 2",
+    "english": "The File of Young Kindaichi Returns 2",
+    "native": "金田一少年の事件簿R【リターンズ】"
+  },
+  "synonyms": [
+    "Kindaichi Shounen no Jikenbo R 2",
+    "The File of Young Kindaichi Returns 2",
+    "金田一少年の事件簿R【リターンズ】",
+    "Kindaichi Shounen no Jikenbo Returns 2",
+    "Kindaichi Case Files Returns",
+    "Kindaichi Case Files R 2",
+    "The File of Young Kindaichi Returns 2nd Season",
+    "Kindaichi Shounen no Jikenbo Returns 2nd Season"
+  ],
+  "type": "tv",
+  "episodes": 22,
+  "status": "finished",
+  "season": "fall",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21286-OIyxGNhBSscB.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21286",
+      "url": "https://anilist.co/anime/21286"
+    },
+    "cr": {
+      "id": "kindaichi",
+      "url": "https://www.crunchyroll.com/series/kindaichi"
+    },
+    "mal": {
+      "id": "31227",
+      "url": "https://myanimelist.net/anime/31227"
+    }
+  }
+}

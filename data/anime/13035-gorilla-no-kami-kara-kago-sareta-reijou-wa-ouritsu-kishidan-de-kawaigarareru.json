@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13035,
+  "slug": "gorilla-no-kami-kara-kago-sareta-reijou-wa-ouritsu-kishidan-de-kawaigarareru",
+  "kind": "anime",
+  "title": "Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru",
+  "titles": {
+    "default": "Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru",
+    "romaji": "Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru",
+    "english": "The Gorilla God’s Go-To Girl",
+    "native": "ゴリラの神から加護された令嬢は王立騎士団で可愛がられる"
+  },
+  "synonyms": [
+    "Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru",
+    "The Gorilla God’s Go-To Girl",
+    "ゴリラの神から加護された令嬢は王立騎士団で可愛がられる",
+    "Gorilla Lady",
+    "ゴリラブコメ",
+    "This Ugly Yet Beautiful World",
+    "Kono Minikuku mo Utsukushii Sekai",
+    "この醜くも美しい世界"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182060-r0ihNqhiyvpT.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "182060",
+      "url": "https://anilist.co/anime/182060"
+    },
+    "cr": {
+      "id": "series/GJ0H7QG3M/the-gorilla-gods-go-to-girl",
+      "url": "https://www.crunchyroll.com/series/series/GJ0H7QG3M/the-gorilla-gods-go-to-girl"
+    },
+    "k": {
+      "id": "124",
+      "url": "https://kitsu.io/anime/124"
+    },
+    "mal": {
+      "id": "59935",
+      "url": "https://myanimelist.net/anime/59935"
+    },
+    "t": {
+      "id": "34001",
+      "url": "https://trakt.tv/shows/34001"
+    },
+    "tx": {
+      "id": "gorilla_bless",
+      "url": "https://twitter.com/gorilla_bless"
+    }
+  }
+}

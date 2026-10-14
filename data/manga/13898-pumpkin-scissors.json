@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13898,
+  "slug": "pumpkin-scissors",
+  "kind": "manga",
+  "title": "Pumpkin Scissors",
+  "titles": {
+    "default": "Pumpkin Scissors"
+  },
+  "synonyms": [
+    "Pumpkin Scissors: Imperial Army State Section III",
+    "Pumpkin Scissors: Imperial Army S.S.III",
+    "Pumpkin Scissors",
+    "パンプキン シザーズ",
+    "หน่วยพิทักษ์ธรณิน (VBK)",
+    "パンプキン・シザーズ",
+    "陆军情报部三科",
+    "南瓜剪刀",
+    "非戰特攻隊：帝國陸軍情報部第3課",
+    "非戰特攻隊"
+  ],
+  "type": "manga",
+  "status": "publishing",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30426-GcTODnXENPfr.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1538",
+      "url": "https://anilist.co/anime/1538"
+    },
+    "al_manga": {
+      "id": "1538",
+      "url": "https://anilist.co/manga/1538"
+    }
+  }
+}

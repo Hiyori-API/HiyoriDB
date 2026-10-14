@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7436,
+  "slug": "is-infinite-stratos-2-hitonatsu-no-omoide",
+  "kind": "anime",
+  "title": "IS: Infinite Stratos 2 - Hitonatsu no Omoide",
+  "titles": {
+    "default": "IS: Infinite Stratos 2 - Hitonatsu no Omoide",
+    "romaji": "IS: Infinite Stratos 2 - Hitonatsu no Omoide",
+    "native": "IS＜インフィニット・ストラトス＞2  ロングバケーション 一夏（ひとなつ）の想いで"
+  },
+  "synonyms": [
+    "IS: Infinite Stratos 2 - Hitonatsu no Omoide",
+    "IS＜インフィニット・ストラトス＞2  ロングバケーション 一夏（ひとなつ）の想いで",
+    "One Summer’s Memories",
+    "IS: Infinite Stratos 2 Long Vacation Edition - The Memories of One Summer",
+    "IS 〈インフィニット・ストラトス〉2 ロングバケーション 一夏（ひとなつ）の想いで"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20045.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "20045",
+      "url": "https://anilist.co/anime/20045"
+    },
+    "k": {
+      "id": "7909",
+      "url": "https://kitsu.io/anime/7909"
+    },
+    "mal": {
+      "id": "20045",
+      "url": "https://myanimelist.net/anime/20045"
+    },
+    "t": {
+      "id": "61097",
+      "url": "https://trakt.tv/shows/61097"
+    }
+  }
+}

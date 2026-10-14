@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3255,
+  "slug": "jarinko-chie-tv",
+  "kind": "anime",
+  "title": "Jarinko Chie (TV)",
+  "titles": {
+    "default": "Jarinko Chie (TV)",
+    "romaji": "Jarinko Chie (TV)",
+    "english": "Chie The Brat",
+    "native": "じゃりン子チエ (TV)"
+  },
+  "synonyms": [
+    "Jarinko Chie (TV)",
+    "Chie The Brat",
+    "じゃりン子チエ (TV)",
+    "Downtown Story",
+    "Kié la petite peste",
+    "じゃりン子チエ",
+    "Chie the Brat"
+  ],
+  "type": "tv",
+  "episodes": 64,
+  "status": "finished",
+  "season": "fall",
+  "year": 1981,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3947-afrILJfBvzVz.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3947",
+      "url": "https://anilist.co/anime/3947"
+    },
+    "k": {
+      "id": "3370",
+      "url": "https://kitsu.io/anime/3370"
+    },
+    "mal": {
+      "id": "3947",
+      "url": "https://myanimelist.net/anime/3947"
+    }
+  }
+}

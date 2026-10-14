@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13362,
+  "slug": "eris-no-seihai",
+  "kind": "anime",
+  "title": "Eris no Seihai",
+  "titles": {
+    "default": "Eris no Seihai",
+    "romaji": "Eris no Seihai",
+    "english": "The Holy Grail of Eris",
+    "native": "エリスの聖杯"
+  },
+  "synonyms": [
+    "Eris no Seihai",
+    "The Holy Grail of Eris",
+    "エリスの聖杯",
+    "ผีนางร้ายจับคู่สาวซื่อ รื้อคดีใหญ่"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183270-CmZikKu34WPd.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "183270",
+      "url": "https://anilist.co/anime/183270"
+    },
+    "cr": {
+      "id": "series/GT00365781/the-holy-grail-of-eris",
+      "url": "https://www.crunchyroll.com/series/series/GT00365781/the-holy-grail-of-eris"
+    },
+    "mal": {
+      "id": "60151",
+      "url": "https://myanimelist.net/anime/60151"
+    }
+  }
+}

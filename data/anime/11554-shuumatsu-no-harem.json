@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11554,
+  "slug": "shuumatsu-no-harem",
+  "kind": "anime",
+  "title": "Shuumatsu no Harem",
+  "titles": {
+    "default": "Shuumatsu no Harem",
+    "romaji": "Shuumatsu no Harem",
+    "english": "World's End Harem",
+    "native": "終末のハーレム"
+  },
+  "synonyms": [
+    "Shuumatsu no Harem",
+    "World's End Harem",
+    "終末のハーレム",
+    "ฮาเร็มวันสิ้นโลก",
+    "Гарем конца света",
+    "Тотальный гарем",
+    "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc",
+    "鬼滅の刃 遊郭編",
+    "Kimetsu no Yaiba: Yuukaku-hen"
+  ],
+  "type": "tv",
+  "episodes": 11,
+  "status": "finished",
+  "season": "winter",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118465-EGB0OajA5rei.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "118465",
+      "url": "https://anilist.co/anime/118465"
+    },
+    "cr": {
+      "id": "worlds-end-harem",
+      "url": "https://www.crunchyroll.com/series/worlds-end-harem"
+    },
+    "mal": {
+      "id": "41946",
+      "url": "https://myanimelist.net/anime/41946"
+    },
+    "tx": {
+      "id": "harem_official_",
+      "url": "https://twitter.com/harem_official_"
+    }
+  }
+}

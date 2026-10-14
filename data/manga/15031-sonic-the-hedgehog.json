@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15031,
+  "slug": "sonic-the-hedgehog",
+  "kind": "manga",
+  "title": "Sonic the Hedgehog",
+  "titles": {
+    "default": "Sonic the Hedgehog"
+  },
+  "synonyms": [
+    "Sonic the Hedgehog Story Comic",
+    "ソニック・ザ・ヘッジホッグ ストーリーコミック",
+    "ソニック・ザ・ヘッジホッグ",
+    "Baby & Me",
+    "Akachan to Boku",
+    "赤ちゃんと僕",
+    "AkaBoku",
+    "Baby and Me",
+    "Time Limit",
+    "Secret Boy ni Tee Dasuna!!",
+    "Baka de Karukute Wagamama de",
+    "Natsu to Kimi no Irradiation"
+  ],
+  "type": "manga",
+  "chapters": 3,
+  "volumes": 3,
+  "status": "finished",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx135657-2Ls0PyC31M3u.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2263",
+      "url": "https://anilist.co/anime/2263"
+    },
+    "al_manga": {
+      "id": "2263",
+      "url": "https://anilist.co/manga/2263"
+    }
+  }
+}

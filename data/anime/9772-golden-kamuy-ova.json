@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9772,
+  "slug": "golden-kamuy-ova",
+  "kind": "anime",
+  "title": "Golden Kamuy OVA",
+  "titles": {
+    "default": "Golden Kamuy OVA",
+    "romaji": "Golden Kamuy OVA",
+    "native": "ゴールデンカムイOVA"
+  },
+  "synonyms": [
+    "Golden Kamuy OVA",
+    "ゴールデンカムイOVA",
+    "茨戸の用心棒",
+    "Barato no Youjinbou",
+    "The Bodyguard of Barato",
+    "怪奇！謎の巨大鳥",
+    "Kaiki! Nazo no Kyodai Tori",
+    "Terror! The Mysterious Giant Bird",
+    "Ultra Maniac OVA",
+    "ウルトラマニアック",
+    "Tokimeki Fushigi Diary: Ultra Maniac"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx101830-9KeLagRcnSzM.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101830",
+      "url": "https://anilist.co/anime/101830"
+    },
+    "cr": {
+      "id": "series/GY8DWQN5Y/golden-kamuy",
+      "url": "https://www.crunchyroll.com/series/series/GY8DWQN5Y/golden-kamuy"
+    },
+    "k": {
+      "id": "156",
+      "url": "https://kitsu.io/anime/156"
+    },
+    "mal": {
+      "id": "37884",
+      "url": "https://myanimelist.net/anime/37884"
+    }
+  }
+}

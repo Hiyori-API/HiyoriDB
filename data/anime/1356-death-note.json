@@ -1,0 +1,67 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1356,
+  "slug": "death-note",
+  "kind": "anime",
+  "title": "DEATH NOTE",
+  "titles": {
+    "default": "DEATH NOTE",
+    "romaji": "DEATH NOTE",
+    "english": "Death Note"
+  },
+  "synonyms": [
+    "DEATH NOTE",
+    "Death Note",
+    "デスノート",
+    "死亡笔记",
+    "מחברת המוות",
+    "Notatnik śmierci",
+    "Carnet de la Mort",
+    "สมุดโน้ตกระชากวิญญาณ",
+    "مذكرة الموت",
+    "Тетрадь смерти",
+    "DN"
+  ],
+  "type": "tv",
+  "episodes": 37,
+  "status": "finished",
+  "season": "fall",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1535-kUgkcrfOrkUM.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1535",
+      "url": "https://anilist.co/anime/1535"
+    },
+    "cr": {
+      "id": "series/G6QWD3EE6",
+      "url": "https://www.crunchyroll.com/series/series/G6QWD3EE6"
+    },
+    "k": {
+      "id": "1376",
+      "url": "https://kitsu.io/anime/1376"
+    },
+    "mal": {
+      "id": "1535",
+      "url": "https://myanimelist.net/anime/1535"
+    },
+    "nf": {
+      "id": "70204970",
+      "url": "https://www.netflix.com/title/70204970"
+    },
+    "t": {
+      "id": "13855",
+      "url": "https://trakt.tv/shows/13855"
+    },
+    "ttv": {
+      "id": "1630",
+      "url": "https://tubitv.com/series/1630"
+    },
+    "yt": {
+      "id": "md6w9avVWIs",
+      "url": "https://www.youtube.com/watch?v=md6w9avVWIs"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9670,
+  "slug": "hataraku-saibou",
+  "kind": "anime",
+  "title": "Hataraku Saibou",
+  "titles": {
+    "default": "Hataraku Saibou",
+    "romaji": "Hataraku Saibou",
+    "english": "Cells at Work!",
+    "native": "はたらく細胞"
+  },
+  "synonyms": [
+    "Hataraku Saibou",
+    "Cells at Work!",
+    "はたらく細胞",
+    "Les brigades immunitaires",
+    "เซลล์ขยัน พันธุ์เดือด",
+    "Lavori in corpo",
+    "Клетки за работой!"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100977-nH1J2dR7GGAk.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "100977",
+      "url": "https://anilist.co/anime/100977"
+    },
+    "cr": {
+      "id": "cells-at-work",
+      "url": "https://www.crunchyroll.com/series/cells-at-work"
+    },
+    "mal": {
+      "id": "37141",
+      "url": "https://myanimelist.net/anime/37141"
+    },
+    "nf": {
+      "id": "81028791",
+      "url": "https://www.netflix.com/title/81028791"
+    },
+    "tx": {
+      "id": "hataraku_saibou",
+      "url": "https://twitter.com/hataraku_saibou"
+    }
+  }
+}

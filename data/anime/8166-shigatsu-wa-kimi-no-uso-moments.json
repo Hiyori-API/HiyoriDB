@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8166,
+  "slug": "shigatsu-wa-kimi-no-uso-moments",
+  "kind": "anime",
+  "title": "Shigatsu wa Kimi no Uso: MOMENTS",
+  "titles": {
+    "default": "Shigatsu wa Kimi no Uso: MOMENTS",
+    "romaji": "Shigatsu wa Kimi no Uso: MOMENTS",
+    "english": "Your lie in April: Moments",
+    "native": "四月は君の嘘 MOMENTS"
+  },
+  "synonyms": [
+    "Shigatsu wa Kimi no Uso: MOMENTS",
+    "Your lie in April: Moments",
+    "四月は君の嘘 MOMENTS",
+    "Haiyore! Nyaruko-san F",
+    "這いよれ！ニャル子さんF"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21039-X68Dgfa7VG2v.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21039",
+      "url": "https://anilist.co/anime/21039"
+    },
+    "k": {
+      "id": "8881",
+      "url": "https://kitsu.io/anime/8881"
+    },
+    "mal": {
+      "id": "28069",
+      "url": "https://myanimelist.net/anime/28069"
+    }
+  }
+}

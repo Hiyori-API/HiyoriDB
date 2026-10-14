@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10933,
+  "slug": "ikoku-meiro-no-crois-e-yune-alice",
+  "kind": "anime",
+  "title": "Ikoku Meiro no Croisée: Yune & Alice",
+  "titles": {
+    "default": "Ikoku Meiro no Croisée: Yune & Alice",
+    "romaji": "Ikoku Meiro no Croisée: Yune & Alice",
+    "english": "La croisée dans un labyrinthe étranger: Yune & Alice",
+    "native": "異国迷路のクロワーゼ 「湯音＆アリス」"
+  },
+  "synonyms": [
+    "Ikoku Meiro no Croisée: Yune & Alice",
+    "La croisée dans un labyrinthe étranger: Yune & Alice",
+    "異国迷路のクロワーゼ 「湯音＆アリス」",
+    "Ikoku Meiro no Croisée The Animation: Yune & Alice",
+    "Ikoku Meiro no Croisee The Animation: Yune & Alice"
+  ],
+  "type": "special",
+  "episodes": 7,
+  "status": "finished",
+  "season": "fall",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10832.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10832",
+      "url": "https://anilist.co/anime/10832"
+    },
+    "k": {
+      "id": "6375",
+      "url": "https://kitsu.io/anime/6375"
+    },
+    "mal": {
+      "id": "10832",
+      "url": "https://myanimelist.net/anime/10832"
+    }
+  }
+}

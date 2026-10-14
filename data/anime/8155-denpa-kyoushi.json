@@ -1,0 +1,58 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8155,
+  "slug": "denpa-kyoushi",
+  "kind": "anime",
+  "title": "Denpa Kyoushi",
+  "titles": {
+    "default": "Denpa Kyoushi",
+    "romaji": "Denpa Kyoushi",
+    "english": "Ultimate Otaku Teacher",
+    "native": "電波教師"
+  },
+  "synonyms": [
+    "Denpa Kyoushi",
+    "Ultimate Otaku Teacher",
+    "電波教師",
+    "He Is A Ultimate Teacher",
+    "JoJo's Bizarre Adventure: Stardust Crusaders - Battle in Egypt",
+    "JoJo no Kimyou na Bouken: Stardust Crusaders 2nd Season",
+    "ジョジョの奇妙な冒険 スターダストクルセイダース",
+    "JoJo's Bizarre Adventure Part 3",
+    "JoJo's Bizarre Adventure: Stardust Crusaders - Egypt Arc"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "spring",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21018-zt3HmKBFqPQT.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21018",
+      "url": "https://anilist.co/anime/21018"
+    },
+    "cr": {
+      "id": "jojos-bizarre-adventure",
+      "url": "https://www.crunchyroll.com/series/jojos-bizarre-adventure"
+    },
+    "k": {
+      "id": "8739",
+      "url": "https://kitsu.io/anime/8739"
+    },
+    "mal": {
+      "id": "29589",
+      "url": "https://myanimelist.net/anime/29589"
+    },
+    "nf": {
+      "id": "80179831",
+      "url": "https://www.netflix.com/title/80179831"
+    },
+    "t": {
+      "id": "45537",
+      "url": "https://trakt.tv/shows/45537"
+    }
+  }
+}

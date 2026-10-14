@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4293,
+  "slug": "chargeman-ken",
+  "kind": "anime",
+  "title": "Chargeman Ken!",
+  "titles": {
+    "default": "Chargeman Ken!",
+    "romaji": "Chargeman Ken!",
+    "english": "Chargeman Ken",
+    "native": "チャージマン研！"
+  },
+  "synonyms": [
+    "Chargeman Ken!",
+    "Chargeman Ken",
+    "チャージマン研！",
+    "Charge Man Ken!",
+    "Cha-Ken!"
+  ],
+  "type": "tv",
+  "episodes": 65,
+  "status": "finished",
+  "season": "spring",
+  "year": 1974,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6383-Of2IRIAtgYaF.png"
+  ],
+  "references": {
+    "al": {
+      "id": "6383",
+      "url": "https://anilist.co/anime/6383"
+    },
+    "cr": {
+      "id": "chargeman-ken",
+      "url": "https://www.crunchyroll.com/series/chargeman-ken"
+    },
+    "k": {
+      "id": "4541",
+      "url": "https://kitsu.io/anime/4541"
+    },
+    "mal": {
+      "id": "6383",
+      "url": "https://myanimelist.net/anime/6383"
+    }
+  }
+}

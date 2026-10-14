@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 106,
+  "slug": "futakoi-alternative",
+  "kind": "anime",
+  "title": "Futakoi Alternative",
+  "titles": {
+    "default": "Futakoi Alternative",
+    "romaji": "Futakoi Alternative",
+    "native": "フタコイ オルタナティブ"
+  },
+  "synonyms": [
+    "Futakoi Alternative",
+    "フタコイ オルタナティブ",
+    "Futakoi 2",
+    "Twin Love Alternative"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/126.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "126",
+      "url": "https://anilist.co/anime/126"
+    },
+    "k": {
+      "id": "105",
+      "url": "https://kitsu.io/anime/105"
+    },
+    "mal": {
+      "id": "126",
+      "url": "https://myanimelist.net/anime/126"
+    },
+    "t": {
+      "id": "34638",
+      "url": "https://trakt.tv/shows/34638"
+    }
+  }
+}

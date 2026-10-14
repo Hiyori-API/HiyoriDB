@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11908,
+  "slug": "delivery-chi-ko-wo-tanomitai-onee-san",
+  "kind": "anime",
+  "title": "Delivery Chi○ko wo Tanomitai Onee-san",
+  "titles": {
+    "default": "Delivery Chi○ko wo Tanomitai Onee-san",
+    "romaji": "Delivery Chi○ko wo Tanomitai Onee-san",
+    "native": "デリバリーち○こを頼みたいお姉さん"
+  },
+  "synonyms": [
+    "Delivery Chi○ko wo Tanomitai Onee-san",
+    "デリバリーち○こを頼みたいお姉さん",
+    "Delivery Chinko o Tanomitai Onee-san",
+    "Onegai☆Teacher: Himitsu na Futari",
+    "おねがい☆ティーチャー ヒミツなふたり",
+    "Onegai Sensei",
+    "Please Teacher! OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151631-9lkE4tdESdHx.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "151631",
+      "url": "https://anilist.co/anime/151631"
+    },
+    "k": {
+      "id": "406",
+      "url": "https://kitsu.io/anime/406"
+    },
+    "mal": {
+      "id": "52252",
+      "url": "https://myanimelist.net/anime/52252"
+    }
+  }
+}

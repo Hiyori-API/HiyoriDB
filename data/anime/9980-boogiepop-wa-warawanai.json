@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9980,
+  "slug": "boogiepop-wa-warawanai",
+  "kind": "anime",
+  "title": "Boogiepop wa Warawanai",
+  "titles": {
+    "default": "Boogiepop wa Warawanai",
+    "romaji": "Boogiepop wa Warawanai",
+    "english": "Boogiepop and Others",
+    "native": "ブギーポップは笑わない"
+  },
+  "synonyms": [
+    "Boogiepop wa Warawanai",
+    "Boogiepop and Others",
+    "ブギーポップは笑わない",
+    "Boogiepop wa Warawanai (2019)",
+    "Boogiepop Never Laughs",
+    "Boogiepop Doesn't Laugh"
+  ],
+  "type": "tv",
+  "episodes": 18,
+  "status": "finished",
+  "season": "winter",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx101283-YpZqD7wrzWui.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101283",
+      "url": "https://anilist.co/anime/101283"
+    },
+    "cr": {
+      "id": "boogiepop-and-others",
+      "url": "https://www.crunchyroll.com/series/boogiepop-and-others"
+    },
+    "mal": {
+      "id": "37451",
+      "url": "https://myanimelist.net/anime/37451"
+    },
+    "tx": {
+      "id": "boogiepop_anime",
+      "url": "https://twitter.com/boogiepop_anime"
+    }
+  }
+}

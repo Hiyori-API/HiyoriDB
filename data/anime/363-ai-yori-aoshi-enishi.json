@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 363,
+  "slug": "ai-yori-aoshi-enishi",
+  "kind": "anime",
+  "title": "Ai Yori Aoshi: Enishi",
+  "titles": {
+    "default": "Ai Yori Aoshi: Enishi",
+    "romaji": "Ai Yori Aoshi: Enishi",
+    "native": "藍より青し～縁～"
+  },
+  "synonyms": [
+    "Ai Yori Aoshi: Enishi",
+    "藍より青し～縁～",
+    "Bluer Than Indigo: Fate"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx394-tTgubslGwS5O.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "394",
+      "url": "https://anilist.co/anime/394"
+    },
+    "cr": {
+      "id": "ai-yori-aoshi",
+      "url": "https://www.crunchyroll.com/series/ai-yori-aoshi"
+    },
+    "k": {
+      "id": "361",
+      "url": "https://kitsu.io/anime/361"
+    },
+    "mal": {
+      "id": "394",
+      "url": "https://myanimelist.net/anime/394"
+    },
+    "t": {
+      "id": "42343",
+      "url": "https://trakt.tv/shows/42343"
+    },
+    "ttv": {
+      "id": "2314",
+      "url": "https://tubitv.com/series/2314"
+    }
+  }
+}

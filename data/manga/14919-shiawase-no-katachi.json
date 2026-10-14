@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14919,
+  "slug": "shiawase-no-katachi",
+  "kind": "manga",
+  "title": "Shiawase no Katachi",
+  "titles": {
+    "default": "Shiawase no Katachi"
+  },
+  "synonyms": [
+    "しあわせのかたち",
+    "Nemureru Mori no Binan",
+    "眠れる森美男",
+    "Sleeping Beauty Boy",
+    "The Handsome Man in the Sleeping Woods",
+    "The Sleeping Beauty Man",
+    "The Sleeping Male Beauty in the Woods"
+  ],
+  "type": "manga",
+  "chapters": 228,
+  "volumes": 5,
+  "status": "finished",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/96332-PPxXLSbNFkOA.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9404",
+      "url": "https://anilist.co/anime/9404"
+    },
+    "al_manga": {
+      "id": "9404",
+      "url": "https://anilist.co/manga/9404"
+    }
+  }
+}

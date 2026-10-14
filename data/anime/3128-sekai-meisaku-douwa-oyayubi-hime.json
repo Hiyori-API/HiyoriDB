@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3128,
+  "slug": "sekai-meisaku-douwa-oyayubi-hime",
+  "kind": "anime",
+  "title": "Sekai Meisaku Douwa: Oyayubi Hime",
+  "titles": {
+    "default": "Sekai Meisaku Douwa: Oyayubi Hime",
+    "romaji": "Sekai Meisaku Douwa: Oyayubi Hime",
+    "english": "World's Famous Stories for Children: Thumb Princess",
+    "native": "世界名作童話 おやゆび姫"
+  },
+  "synonyms": [
+    "Sekai Meisaku Douwa: Oyayubi Hime",
+    "World's Famous Stories for Children: Thumb Princess",
+    "世界名作童話 おやゆび姫",
+    "Thumbelina",
+    "Przygody Calineczki",
+    "Calineczka"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1978,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3755.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3755",
+      "url": "https://anilist.co/anime/3755"
+    },
+    "k": {
+      "id": "3232",
+      "url": "https://kitsu.io/anime/3232"
+    },
+    "mal": {
+      "id": "3755",
+      "url": "https://myanimelist.net/anime/3755"
+    }
+  }
+}

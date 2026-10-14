@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15565,
+  "slug": "sentakuya-shin-chan",
+  "kind": "manga",
+  "title": "Sentakuya Shin-chan",
+  "titles": {
+    "default": "Sentakuya Shin-chan"
+  },
+  "synonyms": [
+    "洗濯屋しんちゃん",
+    "Ladies versus Butlers!",
+    "れでぃ×ばと!",
+    "Redei Bato!",
+    "Redei x Bato",
+    "Ladies vs Butlers!"
+  ],
+  "type": "novel",
+  "volumes": 1,
+  "status": "finished",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b112738-TLcmp8nPmnKI.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3970",
+      "url": "https://anilist.co/anime/3970"
+    },
+    "al_manga": {
+      "id": "3970",
+      "url": "https://anilist.co/manga/3970"
+    }
+  }
+}

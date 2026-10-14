@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9508,
+  "slug": "days-touin-gakuen-sen",
+  "kind": "anime",
+  "title": "DAYS: Touin Gakuen-sen!",
+  "titles": {
+    "default": "DAYS: Touin Gakuen-sen!",
+    "romaji": "DAYS: Touin Gakuen-sen!",
+    "native": "DAYS 東院学園戦！"
+  },
+  "synonyms": [
+    "DAYS: Touin Gakuen-sen!",
+    "DAYS 東院学園戦！",
+    "デイズ 2",
+    "Days 2",
+    "DAYS東院学園戦！",
+    "Days: Touin Gakuen-sen!"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "winter",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97910-FRiW28owJ3QJ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "97910",
+      "url": "https://anilist.co/anime/97910"
+    },
+    "mal": {
+      "id": "34513",
+      "url": "https://myanimelist.net/anime/34513"
+    },
+    "tx": {
+      "id": "days_anime",
+      "url": "https://twitter.com/days_anime"
+    }
+  }
+}

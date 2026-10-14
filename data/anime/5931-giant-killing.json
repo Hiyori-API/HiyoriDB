@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5931,
+  "slug": "giant-killing",
+  "kind": "anime",
+  "title": "GIANT KILLING",
+  "titles": {
+    "default": "GIANT KILLING",
+    "romaji": "GIANT KILLING",
+    "english": "Giant Killing"
+  },
+  "synonyms": [
+    "GIANT KILLING",
+    "Giant Killing",
+    "ジャイアントキリング"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7661.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7661",
+      "url": "https://anilist.co/anime/7661"
+    },
+    "k": {
+      "id": "5072",
+      "url": "https://kitsu.io/anime/5072"
+    },
+    "mal": {
+      "id": "7661",
+      "url": "https://myanimelist.net/anime/7661"
+    },
+    "t": {
+      "id": "46394",
+      "url": "https://trakt.tv/shows/46394"
+    }
+  }
+}

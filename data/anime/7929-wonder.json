@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7929,
+  "slug": "wonder",
+  "kind": "anime",
+  "title": "WONDER",
+  "titles": {
+    "default": "WONDER",
+    "romaji": "WONDER",
+    "english": "Wonder"
+  },
+  "synonyms": [
+    "WONDER",
+    "Wonder",
+    "Tiger & Bunny: The Rising",
+    "Tiger & Bunny Movie 2: The Rising",
+    "劇場版 TIGER & BUNNY -The Rising-",
+    "Tiger and Bunny Movie 2",
+    "Taibani Movie 2"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97978-4oodUm1Ty9BF.png"
+  ],
+  "references": {
+    "al": {
+      "id": "97978",
+      "url": "https://anilist.co/anime/97978"
+    },
+    "k": {
+      "id": "6644",
+      "url": "https://kitsu.io/anime/6644"
+    },
+    "mal": {
+      "id": "28085",
+      "url": "https://myanimelist.net/anime/28085"
+    },
+    "nf": {
+      "id": "81579323",
+      "url": "https://www.netflix.com/title/81579323"
+    }
+  }
+}

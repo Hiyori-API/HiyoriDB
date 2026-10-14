@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5206,
+  "slug": "star-dust",
+  "kind": "anime",
+  "title": "Star Dust",
+  "titles": {
+    "default": "Star Dust",
+    "romaji": "Star Dust",
+    "native": "スター・ダスト"
+  },
+  "synonyms": [
+    "Star Dust",
+    "スター・ダスト",
+    "Black Lion",
+    "Jigen Sengokushi: Kuro no Shishi - Jinnai-hen",
+    "時元戦国史 黒の獅士 陣内篇",
+    "Kuro no Shishi",
+    "Jigen Sengoku Shi Kuro no Shishi Jinnai Hen"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18703.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "18703",
+      "url": "https://anilist.co/anime/18703"
+    },
+    "k": {
+      "id": "1579",
+      "url": "https://kitsu.io/anime/1579"
+    },
+    "mal": {
+      "id": "18703",
+      "url": "https://myanimelist.net/anime/18703"
+    }
+  }
+}

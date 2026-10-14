@@ -1,0 +1,70 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1531,
+  "slug": "naruto-shippuuden",
+  "kind": "anime",
+  "title": "NARUTO: Shippuuden",
+  "titles": {
+    "default": "NARUTO: Shippuuden",
+    "romaji": "NARUTO: Shippuuden",
+    "english": "Naruto: Shippuden",
+    "native": "NARUTO -ナルト- 疾風伝"
+  },
+  "synonyms": [
+    "NARUTO: Shippuuden",
+    "Naruto: Shippuden",
+    "NARUTO -ナルト- 疾風伝",
+    "Naruto Shippuuden",
+    "Naruto Shippuden",
+    "נארוטו שיפודן",
+    "火影忍者 疾风传",
+    "นารูโตะ ตำนานวายุสลาตัน",
+    "ناروتو شيبودن",
+    "Наруто: Ураганные хроники",
+    "Naruto: Shippuuden",
+    "ナルト- 疾風伝",
+    "Naruto Hurricane Chronicles"
+  ],
+  "type": "tv",
+  "episodes": 500,
+  "status": "finished",
+  "season": "winter",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1735-kGfVm0YqCPcu.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1735",
+      "url": "https://anilist.co/anime/1735"
+    },
+    "cr": {
+      "id": "naruto-shippuden",
+      "url": "https://www.crunchyroll.com/series/naruto-shippuden"
+    },
+    "k": {
+      "id": "1555",
+      "url": "https://kitsu.io/anime/1555"
+    },
+    "mal": {
+      "id": "1735",
+      "url": "https://myanimelist.net/anime/1735"
+    },
+    "nf": {
+      "id": "80000603",
+      "url": "https://www.netflix.com/title/80000603"
+    },
+    "t": {
+      "id": "31770",
+      "url": "https://trakt.tv/shows/31770"
+    },
+    "tvt": {
+      "id": "naruto",
+      "url": "http://www.tv-tokyo.co.jp/anime/naruto"
+    },
+    "tx": {
+      "id": "NARUTOtoBORUTO",
+      "url": "https://twitter.com/NARUTOtoBORUTO"
+    }
+  }
+}

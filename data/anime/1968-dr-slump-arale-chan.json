@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1968,
+  "slug": "dr-slump-arale-chan",
+  "kind": "anime",
+  "title": "Dr. Slump: Arale-chan",
+  "titles": {
+    "default": "Dr. Slump: Arale-chan",
+    "romaji": "Dr. Slump: Arale-chan",
+    "native": "Dr.スランプ・アラレちゃん"
+  },
+  "synonyms": [
+    "Dr. Slump: Arale-chan",
+    "Dr.スランプ・アラレちゃん",
+    "Dr. Slump & Arale-chan",
+    "Dr. Slump 1"
+  ],
+  "type": "tv",
+  "episodes": 243,
+  "status": "finished",
+  "season": "spring",
+  "year": 1981,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2222-wJc3oXlh4SDV.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2222",
+      "url": "https://anilist.co/anime/2222"
+    },
+    "k": {
+      "id": "2013",
+      "url": "https://kitsu.io/anime/2013"
+    },
+    "mal": {
+      "id": "2222",
+      "url": "https://myanimelist.net/anime/2222"
+    },
+    "t": {
+      "id": "37409",
+      "url": "https://trakt.tv/shows/37409"
+    }
+  }
+}

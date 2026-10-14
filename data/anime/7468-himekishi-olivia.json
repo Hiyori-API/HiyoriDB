@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7468,
+  "slug": "himekishi-olivia",
+  "kind": "anime",
+  "title": "Himekishi Olivia",
+  "titles": {
+    "default": "Himekishi Olivia",
+    "romaji": "Himekishi Olivia",
+    "native": "姫騎士オリヴィア"
+  },
+  "synonyms": [
+    "Himekishi Olivia",
+    "姫騎士オリヴィア",
+    "Kuro to Kin no Akanai Kagi.",
+    "黒と金の開かない鍵。",
+    "Kuro to Kin no Hirakanai Kagi."
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx21073-yyLwtgQPoIKQ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21073",
+      "url": "https://anilist.co/anime/21073"
+    },
+    "k": {
+      "id": "7361",
+      "url": "https://kitsu.io/anime/7361"
+    },
+    "mal": {
+      "id": "20995",
+      "url": "https://myanimelist.net/anime/20995"
+    }
+  }
+}

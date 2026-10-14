@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8369,
+  "slug": "ero-manga-h-mo-manga-mo-step-up",
+  "kind": "anime",
+  "title": "Ero Manga! H mo Manga mo Step-up♪",
+  "titles": {
+    "default": "Ero Manga! H mo Manga mo Step-up♪",
+    "romaji": "Ero Manga! H mo Manga mo Step-up♪",
+    "native": "えろまんが！ Hもマンガもステップアップ♪"
+  },
+  "synonyms": [
+    "Ero Manga! H mo Manga mo Step-up♪",
+    "えろまんが！ Hもマンガもステップアップ♪",
+    "Black Butler: Book of Murder",
+    "Kuroshitsuji: Book of Murder",
+    "黒執事 Book of Murder"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21475-bs67KimRLqXP.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21475",
+      "url": "https://anilist.co/anime/21475"
+    },
+    "k": {
+      "id": "8338",
+      "url": "https://kitsu.io/anime/8338"
+    },
+    "mal": {
+      "id": "31788",
+      "url": "https://myanimelist.net/anime/31788"
+    }
+  }
+}

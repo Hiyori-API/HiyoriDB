@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 196,
+  "slug": "mezzo-forte",
+  "kind": "anime",
+  "title": "Mezzo Forte",
+  "titles": {
+    "default": "Mezzo Forte",
+    "romaji": "Mezzo Forte",
+    "native": "メゾフォルテ"
+  },
+  "synonyms": [
+    "Mezzo Forte",
+    "メゾフォルテ",
+    "Angelique: Shiroi Tsubasa no Memoire",
+    "アンジェリーク　～白い翼のメモワール～",
+    "Angelique: White Wing Memoirs",
+    "Angelique OVA 1"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx221-OIx9EYxmjTxB.png"
+  ],
+  "references": {
+    "al": {
+      "id": "221",
+      "url": "https://anilist.co/anime/221"
+    },
+    "k": {
+      "id": "2301",
+      "url": "https://kitsu.io/anime/2301"
+    },
+    "mal": {
+      "id": "221",
+      "url": "https://myanimelist.net/anime/221"
+    }
+  }
+}

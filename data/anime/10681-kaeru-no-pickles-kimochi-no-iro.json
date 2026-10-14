@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10681,
+  "slug": "kaeru-no-pickles-kimochi-no-iro",
+  "kind": "anime",
+  "title": "Kaeru no Pickles: Kimochi no Iro",
+  "titles": {
+    "default": "Kaeru no Pickles: Kimochi no Iro",
+    "romaji": "Kaeru no Pickles: Kimochi no Iro",
+    "native": "かえるのピクルス -きもちのいろ-"
+  },
+  "synonyms": [
+    "Kaeru no Pickles: Kimochi no Iro",
+    "かえるのピクルス -きもちのいろ-",
+    "Ring ni Kakero 1",
+    "リングにかけろ１",
+    "Put it all in the Ring"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b125264-CxX3gQn2U8L4.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "125264",
+      "url": "https://anilist.co/anime/125264"
+    },
+    "k": {
+      "id": "14",
+      "url": "https://kitsu.io/anime/14"
+    },
+    "mal": {
+      "id": "42717",
+      "url": "https://myanimelist.net/anime/42717"
+    },
+    "t": {
+      "id": "69507",
+      "url": "https://trakt.tv/shows/69507"
+    }
+  }
+}

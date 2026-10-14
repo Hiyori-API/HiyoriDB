@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15540,
+  "slug": "planetarian-chiisana-hoshi-no-yume",
+  "kind": "manga",
+  "title": "Planetarian: Chiisana Hoshi no Yume",
+  "titles": {
+    "default": "Planetarian: Chiisana Hoshi no Yume"
+  },
+  "synonyms": [
+    "Planetarian Chiisana Hoshi no Yume",
+    "planetarian",
+    "planetarian ～ちいさなほしのゆめ～",
+    "Ladies versus Butlers!",
+    "れでぃ×ばと!",
+    "Redei Bato!",
+    "Redei x Bato",
+    "Ladies vs Butlers!"
+  ],
+  "type": "novel",
+  "chapters": 4,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/20963.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21771",
+      "url": "https://anilist.co/anime/21732"
+    },
+    "al_manga": {
+      "id": "21771",
+      "url": "https://anilist.co/manga/21771"
+    }
+  }
+}

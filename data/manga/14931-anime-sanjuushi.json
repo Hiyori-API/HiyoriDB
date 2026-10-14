@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14931,
+  "slug": "anime-sanjuushi",
+  "kind": "manga",
+  "title": "Anime Sanjuushi",
+  "titles": {
+    "default": "Anime Sanjuushi"
+  },
+  "synonyms": [
+    "アニメ三銃士",
+    "Sous le Signe des Mousquetaires",
+    "Three Musketeers",
+    "Ranma ½",
+    "Ranma 1/2",
+    "らんま½"
+  ],
+  "type": "manga",
+  "chapters": 26,
+  "volumes": 3,
+  "status": "finished",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx39796-ahQx9pkGoeMc.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2333",
+      "url": "https://anilist.co/anime/2334"
+    },
+    "al_manga": {
+      "id": "2333",
+      "url": "https://anilist.co/manga/2333"
+    }
+  }
+}

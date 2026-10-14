@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11954,
+  "slug": "sword-art-online-fulldive-opening-eizou",
+  "kind": "anime",
+  "title": "Sword Art Online: FULLDIVE - Opening Eizou",
+  "titles": {
+    "default": "Sword Art Online: FULLDIVE - Opening Eizou",
+    "romaji": "Sword Art Online: FULLDIVE - Opening Eizou",
+    "native": "ソードアート・オンライン -フルダイブ- オープニング映像"
+  },
+  "synonyms": [
+    "Sword Art Online: FULLDIVE - Opening Eizou",
+    "ソードアート・オンライン -フルダイブ- オープニング映像",
+    "Sword Art Online Anime 10th Anniversary",
+    "Sword Art Online -FULLDIVE- Opening Animation",
+    "Love Hina Christmas Movie",
+    "Love Hina Christmas Special: Silent Eve",
+    "ラブひなクリスマススペシャル ～サイレント・イヴ～"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b157058-JCWy3wQ7tg27.png"
+  ],
+  "references": {
+    "al": {
+      "id": "157058",
+      "url": "https://anilist.co/anime/157058"
+    },
+    "cr": {
+      "id": "series/GP5HJ8485/sword-art-online--fulldive-",
+      "url": "https://www.crunchyroll.com/series/series/GP5HJ8485/sword-art-online--fulldive-"
+    },
+    "k": {
+      "id": "168",
+      "url": "https://kitsu.io/anime/168"
+    },
+    "mal": {
+      "id": "53588",
+      "url": "https://myanimelist.net/anime/53588"
+    },
+    "tx": {
+      "id": "sao_anime",
+      "url": "https://twitter.com/sao_anime"
+    },
+    "yt": {
+      "id": "kqy7PkrhTac",
+      "url": "https://www.youtube.com/watch?v=kqy7PkrhTac"
+    }
+  }
+}

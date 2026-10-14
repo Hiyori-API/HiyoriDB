@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14893,
+  "slug": "ippon-bouchou-mantarou",
+  "kind": "manga",
+  "title": "Ippon Bouchou Mantarou",
+  "titles": {
+    "default": "Ippon Bouchou Mantarou"
+  },
+  "synonyms": [
+    "一本包丁満太郎",
+    "Mai",
+    "Mai, The Psychic Girl",
+    "舞"
+  ],
+  "type": "manga",
+  "volumes": 33,
+  "status": "finished",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx127387-WGyuLH9Dx9on.png"
+  ],
+  "references": {
+    "al": {
+      "id": "6384",
+      "url": "https://anilist.co/anime/6384"
+    },
+    "al_manga": {
+      "id": "6384",
+      "url": "https://anilist.co/manga/6384"
+    }
+  }
+}

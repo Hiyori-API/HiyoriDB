@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8372,
+  "slug": "one-piece-adventure-of-nebulandia",
+  "kind": "anime",
+  "title": "ONE PIECE: Adventure of Nebulandia",
+  "titles": {
+    "default": "ONE PIECE: Adventure of Nebulandia",
+    "romaji": "ONE PIECE: Adventure of Nebulandia",
+    "english": "One Piece: Adventure of Nebulandia",
+    "native": "ONE PIECE 〜アドベンチャー オブ ネブランディア〜"
+  },
+  "synonyms": [
+    "ONE PIECE: Adventure of Nebulandia",
+    "One Piece: Adventure of Nebulandia",
+    "ONE PIECE 〜アドベンチャー オブ ネブランディア〜",
+    "One Piece - Aventura en Nebulandia",
+    "Kindaichi Case Files Returns: The File of Inspector Akechi",
+    "金田一少年の事件簿R 明智警部の事件簿",
+    "Kindaichi Shounen no Jikenbo Returns 2nd Season: Akechi Keibu no Jikenbo"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21485-KR1sv4rYSe6V.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21485",
+      "url": "https://anilist.co/anime/21485"
+    },
+    "cr": {
+      "id": "one-piece",
+      "url": "https://www.crunchyroll.com/series/one-piece"
+    },
+    "mal": {
+      "id": "32051",
+      "url": "https://myanimelist.net/anime/32051"
+    }
+  }
+}

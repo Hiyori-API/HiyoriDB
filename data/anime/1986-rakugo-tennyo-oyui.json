@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1986,
+  "slug": "rakugo-tennyo-oyui",
+  "kind": "anime",
+  "title": "Rakugo Tennyo Oyui",
+  "titles": {
+    "default": "Rakugo Tennyo Oyui",
+    "romaji": "Rakugo Tennyo Oyui",
+    "native": "落語天女おゆい"
+  },
+  "synonyms": [
+    "Rakugo Tennyo Oyui",
+    "落語天女おゆい",
+    "Magical Travelers",
+    "Guardian Ninja Mamoru",
+    "Kage kara Mamoru!",
+    "陰からマモル！",
+    "Protect from the Shadows!"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2244.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2244",
+      "url": "https://anilist.co/anime/2244"
+    },
+    "k": {
+      "id": "545",
+      "url": "https://kitsu.io/anime/545"
+    },
+    "mal": {
+      "id": "2244",
+      "url": "https://myanimelist.net/anime/2244"
+    },
+    "t": {
+      "id": "34059",
+      "url": "https://trakt.tv/shows/34059"
+    }
+  }
+}

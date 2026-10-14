@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 976,
+  "slug": "oishinbo",
+  "kind": "anime",
+  "title": "Oishinbo",
+  "titles": {
+    "default": "Oishinbo",
+    "romaji": "Oishinbo",
+    "native": "美味しんぼ"
+  },
+  "synonyms": [
+    "Oishinbo",
+    "美味しんぼ",
+    "The Gourmet"
+  ],
+  "type": "tv",
+  "episodes": 136,
+  "status": "finished",
+  "season": "fall",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1093-oNUjFBdNsYlU.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1093",
+      "url": "https://anilist.co/anime/1093"
+    },
+    "k": {
+      "id": "978",
+      "url": "https://kitsu.io/anime/978"
+    },
+    "mal": {
+      "id": "1093",
+      "url": "https://myanimelist.net/anime/1093"
+    },
+    "tx": {
+      "id": "oishinbo_ch",
+      "url": "https://twitter.com/oishinbo_ch"
+    }
+  }
+}

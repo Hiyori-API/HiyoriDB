@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 592,
+  "slug": "hachimitsu-to-clover-specials",
+  "kind": "anime",
+  "title": "Hachimitsu to Clover Specials",
+  "titles": {
+    "default": "Hachimitsu to Clover Specials",
+    "romaji": "Hachimitsu to Clover Specials",
+    "english": "Honey and Clover Specials",
+    "native": "ハチミツとクローバー 特典"
+  },
+  "synonyms": [
+    "Hachimitsu to Clover Specials",
+    "Honey and Clover Specials",
+    "ハチミツとクローバー 特典",
+    "Honey & Clover Specials",
+    "ハチミツとクローバー"
+  ],
+  "type": "special",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx644-f4d4dC0YznOz.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "644",
+      "url": "https://anilist.co/anime/644"
+    },
+    "cr": {
+      "id": "honey-and-clover",
+      "url": "https://www.crunchyroll.com/series/honey-and-clover"
+    },
+    "k": {
+      "id": "592",
+      "url": "https://kitsu.io/anime/592"
+    },
+    "mal": {
+      "id": "644",
+      "url": "https://myanimelist.net/anime/644"
+    }
+  }
+}

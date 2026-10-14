@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2829,
+  "slug": "himitsu-no-akko-chan",
+  "kind": "anime",
+  "title": "Himitsu no Akko-chan",
+  "titles": {
+    "default": "Himitsu no Akko-chan",
+    "romaji": "Himitsu no Akko-chan",
+    "native": "ひみつのアッコちゃん"
+  },
+  "synonyms": [
+    "Himitsu no Akko-chan",
+    "ひみつのアッコちゃん",
+    "Akko's Secret",
+    "The Magic Mirror",
+    "Secrets of Akko-chan",
+    "Los Secretos de Julie"
+  ],
+  "type": "tv",
+  "episodes": 94,
+  "status": "finished",
+  "season": "winter",
+  "year": 1969,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3285.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3285",
+      "url": "https://anilist.co/anime/3285"
+    },
+    "k": {
+      "id": "2908",
+      "url": "https://kitsu.io/anime/2908"
+    },
+    "mal": {
+      "id": "3285",
+      "url": "https://myanimelist.net/anime/3285"
+    }
+  }
+}

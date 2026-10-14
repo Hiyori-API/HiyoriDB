@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4021,
+  "slug": "ashita-no-yukinojou",
+  "kind": "anime",
+  "title": "Ashita no Yukinojou",
+  "titles": {
+    "default": "Ashita no Yukinojou",
+    "romaji": "Ashita no Yukinojou",
+    "english": "Tomorrow's Yukinojou",
+    "native": "あしたの雪之丞"
+  },
+  "synonyms": [
+    "Ashita no Yukinojou",
+    "Tomorrow's Yukinojou",
+    "あしたの雪之丞",
+    "Ashita no Yukinojou I",
+    "Step Up Love Story",
+    "Futari Ecchi",
+    "ふたりエッチ",
+    "Futari H"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "fall",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5674.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5674",
+      "url": "https://anilist.co/anime/5674"
+    },
+    "k": {
+      "id": "349",
+      "url": "https://kitsu.io/anime/349"
+    },
+    "mal": {
+      "id": "5674",
+      "url": "https://myanimelist.net/anime/5674"
+    }
+  }
+}

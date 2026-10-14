@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8167,
+  "slug": "vampire-holmes",
+  "kind": "anime",
+  "title": "VAMPIRE HOLMES",
+  "titles": {
+    "default": "VAMPIRE HOLMES",
+    "romaji": "VAMPIRE HOLMES"
+  },
+  "synonyms": [
+    "VAMPIRE HOLMES",
+    "ヴァンパイアホームズ",
+    "Teekyu 4",
+    "Teekyuu 4",
+    "てーきゅう ４期",
+    "Teekyuu 4th Season",
+    "Tekyuu 4",
+    "Te-kyu 4"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21040-6OdtR7iK1KvY.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21040",
+      "url": "https://anilist.co/anime/21040"
+    },
+    "cr": {
+      "id": "teekyu",
+      "url": "https://www.crunchyroll.com/series/teekyu"
+    },
+    "k": {
+      "id": "8906",
+      "url": "https://kitsu.io/anime/8906"
+    },
+    "mal": {
+      "id": "28929",
+      "url": "https://myanimelist.net/anime/28929"
+    },
+    "t": {
+      "id": "67893",
+      "url": "https://trakt.tv/shows/67893"
+    }
+  }
+}

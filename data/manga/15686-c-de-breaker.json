@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15686,
+  "slug": "c-de-breaker",
+  "kind": "manga",
+  "title": "CØDE:BREAKER",
+  "titles": {
+    "default": "CØDE:BREAKER"
+  },
+  "synonyms": [
+    "Code:Breaker",
+    "コード:ブレイカー",
+    "CØDE:BREAKER",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "chapters": 230,
+  "volumes": 26,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx38341-xf4ZYaMVFw8t.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11703",
+      "url": "https://anilist.co/anime/15633"
+    },
+    "al_manga": {
+      "id": "11703",
+      "url": "https://anilist.co/manga/11703"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2781,
+  "slug": "daisuki-hello-kitty",
+  "kind": "anime",
+  "title": "Daisuki! Hello Kitty",
+  "titles": {
+    "default": "Daisuki! Hello Kitty",
+    "romaji": "Daisuki! Hello Kitty",
+    "english": "Hello Kitty",
+    "native": "大好き！ハローキティ"
+  },
+  "synonyms": [
+    "Daisuki! Hello Kitty",
+    "Hello Kitty",
+    "大好き！ハローキティ",
+    "Love! Hello Kitty",
+    "I love you! Hello Kitty"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3202-Q9C6hfwzPXMG.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3202",
+      "url": "https://anilist.co/anime/3202"
+    },
+    "k": {
+      "id": "2854",
+      "url": "https://kitsu.io/anime/2854"
+    },
+    "mal": {
+      "id": "3202",
+      "url": "https://myanimelist.net/anime/3202"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9180,
+  "slug": "seitokai-yakuindomo-movie",
+  "kind": "anime",
+  "title": "Seitokai Yakuindomo Movie",
+  "titles": {
+    "default": "Seitokai Yakuindomo Movie",
+    "romaji": "Seitokai Yakuindomo Movie",
+    "english": "Seitokai Yakuindomo the Movie",
+    "native": "劇場版 生徒会役員共"
+  },
+  "synonyms": [
+    "Seitokai Yakuindomo Movie",
+    "Seitokai Yakuindomo the Movie",
+    "劇場版 生徒会役員共",
+    "Genocidal Organ",
+    "Gyakusatsu Kikan",
+    "虐殺器官",
+    "Project Itoh"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98240-hmpX0gT9FEqx.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98240",
+      "url": "https://anilist.co/anime/98240"
+    },
+    "k": {
+      "id": "8737",
+      "url": "https://kitsu.io/anime/8737"
+    },
+    "mal": {
+      "id": "34504",
+      "url": "https://myanimelist.net/anime/34504"
+    }
+  }
+}

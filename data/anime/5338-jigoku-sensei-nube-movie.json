@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5338,
+  "slug": "jigoku-sensei-nube-movie",
+  "kind": "anime",
+  "title": "Jigoku Sensei Nube (Movie)",
+  "titles": {
+    "default": "Jigoku Sensei Nube (Movie)",
+    "romaji": "Jigoku Sensei Nube (Movie)",
+    "native": "地獄先生ぬ〜べ〜"
+  },
+  "synonyms": [
+    "Jigoku Sensei Nube (Movie)",
+    "地獄先生ぬ〜べ〜",
+    "Jigoku Sensei Nube (1996)",
+    "Hell Teacher Nube"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8208.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8208",
+      "url": "https://anilist.co/anime/8208"
+    },
+    "k": {
+      "id": "2505",
+      "url": "https://kitsu.io/anime/2505"
+    },
+    "mal": {
+      "id": "8208",
+      "url": "https://myanimelist.net/anime/8208"
+    }
+  }
+}

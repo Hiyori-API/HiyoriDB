@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13258,
+  "slug": "sawaranaide-kotesashi-kun-mini-anime-gekijou",
+  "kind": "anime",
+  "title": "Sawaranaide Kotesashi-kun Mini Anime Gekijou",
+  "titles": {
+    "default": "Sawaranaide Kotesashi-kun Mini Anime Gekijou",
+    "romaji": "Sawaranaide Kotesashi-kun Mini Anime Gekijou",
+    "english": "Hands off: Sawaranaide Kotesashi-kun! Mini Anime",
+    "native": "さわらないで小手指くんミニアニメ劇場"
+  },
+  "synonyms": [
+    "Sawaranaide Kotesashi-kun Mini Anime Gekijou",
+    "Hands off: Sawaranaide Kotesashi-kun! Mini Anime",
+    "さわらないで小手指くんミニアニメ劇場",
+    "さわらないで小手指くんスピンオフミニアニメ",
+    "Sawaranaide Kotesashi-kun Spin-off Mini Anime",
+    "Ring ni Kakero 1",
+    "リングにかけろ１",
+    "Put it all in the Ring"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199812-88EBKcwBqQjG.png"
+  ],
+  "references": {
+    "al": {
+      "id": "199812",
+      "url": "https://anilist.co/anime/199812"
+    },
+    "k": {
+      "id": "14",
+      "url": "https://kitsu.io/anime/14"
+    },
+    "mal": {
+      "id": "62682",
+      "url": "https://myanimelist.net/anime/62682"
+    },
+    "t": {
+      "id": "69507",
+      "url": "https://trakt.tv/shows/69507"
+    }
+  }
+}

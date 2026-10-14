@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14266,
+  "slug": "tales-of-the-abyss",
+  "kind": "manga",
+  "title": "Tales of the Abyss",
+  "titles": {
+    "default": "Tales of the Abyss"
+  },
+  "synonyms": [
+    "ToA",
+    "テイルズ オブ ジ アビス",
+    "Renai Soukanzu",
+    "恋愛相姦図",
+    "Renai Sokanzu",
+    "Pink Sweets"
+  ],
+  "type": "manga",
+  "chapters": 47,
+  "volumes": 8,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31756-uluKQAG8GYHe.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4884",
+      "url": "https://anilist.co/anime/4884"
+    },
+    "al_manga": {
+      "id": "4884",
+      "url": "https://anilist.co/manga/4884"
+    }
+  }
+}

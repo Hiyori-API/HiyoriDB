@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15298,
+  "slug": "densetsu-no-yuusha-no-densetsu",
+  "kind": "manga",
+  "title": "Densetsu no Yuusha no Densetsu",
+  "titles": {
+    "default": "Densetsu no Yuusha no Densetsu"
+  },
+  "synonyms": [
+    "The Legend of the Legendary Heroes",
+    "DenYuDen",
+    "DenYuuDen",
+    "LOLH",
+    "伝説の勇者の伝説",
+    "Devil May Cry",
+    "デビル メイ クライ",
+    "DMC",
+    "Devil May Cry 2"
+  ],
+  "type": "novel",
+  "chapters": 59,
+  "volumes": 11,
+  "status": "finished",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/21658.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8086",
+      "url": "https://anilist.co/anime/8086"
+    },
+    "al_manga": {
+      "id": "8086",
+      "url": "https://anilist.co/manga/8086"
+    }
+  }
+}

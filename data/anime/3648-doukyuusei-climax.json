@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3648,
+  "slug": "doukyuusei-climax",
+  "kind": "anime",
+  "title": "Doukyuusei Climax",
+  "titles": {
+    "default": "Doukyuusei Climax",
+    "romaji": "Doukyuusei Climax",
+    "native": "同級生　クライマックス"
+  },
+  "synonyms": [
+    "Doukyuusei Climax",
+    "同級生　クライマックス",
+    "Iczelion",
+    "Iczer-Girl Iczelion",
+    "戦-少女[イクサーガール]イクセリオン",
+    "Sen-shoujo Iczelion",
+    "Iczer Gal Iczelion"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4841.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4841",
+      "url": "https://anilist.co/anime/4841"
+    },
+    "k": {
+      "id": "1648",
+      "url": "https://kitsu.io/anime/1648"
+    },
+    "mal": {
+      "id": "4841",
+      "url": "https://myanimelist.net/anime/4841"
+    }
+  }
+}

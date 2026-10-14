@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9338,
+  "slug": "ousama-game-the-animation",
+  "kind": "anime",
+  "title": "Ousama Game The Animation",
+  "titles": {
+    "default": "Ousama Game The Animation",
+    "romaji": "Ousama Game The Animation",
+    "english": "King's Game",
+    "native": "王様ゲーム The Animation"
+  },
+  "synonyms": [
+    "Ousama Game The Animation",
+    "King's Game",
+    "王様ゲーム The Animation",
+    "国王游戏",
+    "Shokugeki no Soma 3rd Season",
+    "Shokugeki no Soma 3",
+    "Food Wars! The Third Plate",
+    "食戟のソーマ 餐ノ皿",
+    "Shokugeki no Souma: San no Sara"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx99698-5k8bDkhcJx9B.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "99698",
+      "url": "https://anilist.co/anime/99698"
+    },
+    "cr": {
+      "id": "kings-game",
+      "url": "https://www.crunchyroll.com/series/kings-game"
+    },
+    "mal": {
+      "id": "36027",
+      "url": "https://myanimelist.net/anime/36027"
+    },
+    "tx": {
+      "id": "kingsgame_pr",
+      "url": "https://twitter.com/kingsgame_pr"
+    }
+  }
+}

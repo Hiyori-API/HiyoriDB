@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2381,
+  "slug": "teki-wa-kaizoku-neko-tachi-no-kyouen",
+  "kind": "anime",
+  "title": "Teki wa Kaizoku: Neko-tachi no Kyouen",
+  "titles": {
+    "default": "Teki wa Kaizoku: Neko-tachi no Kyouen",
+    "romaji": "Teki wa Kaizoku: Neko-tachi no Kyouen",
+    "english": "Galactic Pirates",
+    "native": "敵は海賊　～猫たちの饗宴～"
+  },
+  "synonyms": [
+    "Teki wa Kaizoku: Neko-tachi no Kyouen",
+    "Galactic Pirates",
+    "敵は海賊　～猫たちの饗宴～",
+    "El enemigo es Pirata",
+    "I pirati della Galassia",
+    "The Enemy's The Pirates!: The Cat's Banquet",
+    "Mainichi ga Nichiyoubi",
+    "毎日が日曜日",
+    "Everyday seems Sunday",
+    "Everyday is Sunday",
+    "Every Day is Sunday"
+  ],
+  "type": "ova",
+  "episodes": 6,
+  "status": "finished",
+  "season": "winter",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2679-zuoq0TZ7taof.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2679",
+      "url": "https://anilist.co/anime/2679"
+    },
+    "k": {
+      "id": "1858",
+      "url": "https://kitsu.io/anime/1858"
+    },
+    "mal": {
+      "id": "2679",
+      "url": "https://myanimelist.net/anime/2679"
+    }
+  }
+}

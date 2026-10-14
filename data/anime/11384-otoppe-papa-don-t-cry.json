@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11384,
+  "slug": "otoppe-papa-don-t-cry",
+  "kind": "anime",
+  "title": "Otoppe: Papa Don't Cry",
+  "titles": {
+    "default": "Otoppe: Papa Don't Cry",
+    "romaji": "Otoppe: Papa Don't Cry",
+    "native": "劇場版 オトッペ パパ・ドント・クライ"
+  },
+  "synonyms": [
+    "Otoppe: Papa Don't Cry",
+    "劇場版 オトッペ パパ・ドント・クライ",
+    "Evangelion: 3.0+1.0 Thrice Upon a Time",
+    "Shin Evangelion Gekijouban :||",
+    "シン・エヴァンゲリオン劇場版:||",
+    "Evangelion: 4.0",
+    "Rebuild of Evangelion 4.0"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132300-K9BBf0wWMocO.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "132300",
+      "url": "https://anilist.co/anime/132300"
+    },
+    "k": {
+      "id": "3252",
+      "url": "https://kitsu.io/anime/3252"
+    },
+    "mal": {
+      "id": "49434",
+      "url": "https://myanimelist.net/anime/49434"
+    },
+    "tx": {
+      "id": "otoppetown",
+      "url": "https://twitter.com/otoppetown"
+    }
+  }
+}

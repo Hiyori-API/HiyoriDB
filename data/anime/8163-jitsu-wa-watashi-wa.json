@@ -1,0 +1,61 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8163,
+  "slug": "jitsu-wa-watashi-wa",
+  "kind": "anime",
+  "title": "Jitsu wa Watashi wa",
+  "titles": {
+    "default": "Jitsu wa Watashi wa",
+    "romaji": "Jitsu wa Watashi wa",
+    "english": "Actually, I Am",
+    "native": "実は私は"
+  },
+  "synonyms": [
+    "Jitsu wa Watashi wa",
+    "Actually, I Am",
+    "実は私は",
+    "จุ๊จุ๊ จะบอกว่าฉันคือ…",
+    "My Monster Secret",
+    "Na verdade, eu sou...",
+    "En realidad, soy...",
+    "Wagnaria!!3",
+    "Working!!!",
+    "ワーキング!!!",
+    "Working!! 3rd Season",
+    "Working!! Third Season"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21033-6RAkCuvCPbFJ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21033",
+      "url": "https://anilist.co/anime/21033"
+    },
+    "k": {
+      "id": "8712",
+      "url": "https://kitsu.io/anime/8712"
+    },
+    "mal": {
+      "id": "29785",
+      "url": "https://myanimelist.net/anime/29785"
+    },
+    "t": {
+      "id": "61012",
+      "url": "https://trakt.tv/shows/61012"
+    },
+    "ttv": {
+      "id": "2203",
+      "url": "https://tubitv.com/series/2203"
+    },
+    "tx": {
+      "id": "jitsuwata_anime",
+      "url": "https://twitter.com/jitsuwata_anime"
+    }
+  }
+}

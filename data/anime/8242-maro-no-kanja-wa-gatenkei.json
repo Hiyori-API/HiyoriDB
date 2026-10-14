@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8242,
+  "slug": "maro-no-kanja-wa-gatenkei",
+  "kind": "anime",
+  "title": "Maro no Kanja wa Gatenkei",
+  "titles": {
+    "default": "Maro no Kanja wa Gatenkei",
+    "romaji": "Maro no Kanja wa Gatenkei",
+    "native": "麻呂の患者はガテン系"
+  },
+  "synonyms": [
+    "Maro no Kanja wa Gatenkei",
+    "麻呂の患者はガテン系",
+    "Hyakka Ryouran: Samurai After",
+    "百花繚乱 サムライアフター",
+    "Hyakka Ryouran OVA"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21161-MkZP5lkADLfz.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21161",
+      "url": "https://anilist.co/anime/21161"
+    },
+    "k": {
+      "id": "8795",
+      "url": "https://kitsu.io/anime/8795"
+    },
+    "mal": {
+      "id": "30454",
+      "url": "https://myanimelist.net/anime/30454"
+    }
+  }
+}

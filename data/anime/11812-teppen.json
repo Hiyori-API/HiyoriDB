@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11812,
+  "slug": "teppen",
+  "kind": "anime",
+  "title": "Teppen!!!!!!!!!!!!!!!",
+  "titles": {
+    "default": "Teppen!!!!!!!!!!!!!!!",
+    "romaji": "Teppen!!!!!!!!!!!!!!!",
+    "english": "TEPPEN!!!!!!!!!!!!!!! Laughing 'til You Cry",
+    "native": "てっぺんっ!!!!!!!!!!!!!!!"
+  },
+  "synonyms": [
+    "Teppen!!!!!!!!!!!!!!!",
+    "TEPPEN!!!!!!!!!!!!!!! Laughing 'til You Cry",
+    "てっぺんっ!!!!!!!!!!!!!!!",
+    "DearS",
+    "ディアーズ"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143417-OINdHnpxb441.png"
+  ],
+  "references": {
+    "al": {
+      "id": "143417",
+      "url": "https://anilist.co/anime/143417"
+    },
+    "cr": {
+      "id": "teppen-laughing-til-you-cry",
+      "url": "https://www.crunchyroll.com/series/teppen-laughing-til-you-cry"
+    },
+    "k": {
+      "id": "44",
+      "url": "https://kitsu.io/anime/44"
+    },
+    "mal": {
+      "id": "50760",
+      "url": "https://myanimelist.net/anime/50760"
+    },
+    "t": {
+      "id": "61051",
+      "url": "https://trakt.tv/shows/61051"
+    },
+    "tx": {
+      "id": "teppen_anime",
+      "url": "https://twitter.com/teppen_anime"
+    }
+  }
+}

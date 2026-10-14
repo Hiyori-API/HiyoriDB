@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 716,
+  "slug": "niea-under-7",
+  "kind": "anime",
+  "title": "NieA Under 7",
+  "titles": {
+    "default": "NieA Under 7",
+    "romaji": "NieA Under 7",
+    "english": "NieA_7",
+    "native": "ニア アンダーセブン"
+  },
+  "synonyms": [
+    "NieA Under 7",
+    "NieA_7",
+    "ニア アンダーセブン",
+    "NieA under 7: Domestic Poor @nimation"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx800-PGdmzmdcVECB.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "800",
+      "url": "https://anilist.co/anime/800"
+    },
+    "k": {
+      "id": "714",
+      "url": "https://kitsu.io/anime/714"
+    },
+    "mal": {
+      "id": "800",
+      "url": "https://myanimelist.net/anime/800"
+    },
+    "t": {
+      "id": "28103",
+      "url": "https://trakt.tv/shows/28103"
+    }
+  }
+}

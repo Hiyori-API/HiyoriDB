@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8370,
+  "slug": "majuu-jouka-shoujo-utea",
+  "kind": "anime",
+  "title": "Majuu Jouka Shoujo Utea",
+  "titles": {
+    "default": "Majuu Jouka Shoujo Utea",
+    "romaji": "Majuu Jouka Shoujo Utea",
+    "native": "魔獣浄化少女ウテア"
+  },
+  "synonyms": [
+    "Majuu Jouka Shoujo Utea",
+    "魔獣浄化少女ウテア",
+    "Hoozuki no Reitetsu OVA",
+    "鬼灯の冷徹 OAD",
+    "Cool-headed Hoozuki OVA",
+    "Hozuki no Reitetsu OVA"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "winter",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21479-wWeNlnVohjVv.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21479",
+      "url": "https://anilist.co/anime/21479"
+    },
+    "k": {
+      "id": "8761",
+      "url": "https://kitsu.io/anime/8761"
+    },
+    "mal": {
+      "id": "31885",
+      "url": "https://myanimelist.net/anime/31885"
+    }
+  }
+}

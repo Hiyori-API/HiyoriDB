@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13989,
+  "slug": "hayate-no-gotoku",
+  "kind": "manga",
+  "title": "Hayate no Gotoku!",
+  "titles": {
+    "default": "Hayate no Gotoku!"
+  },
+  "synonyms": [
+    "Hayate: Mayordomo de Combate",
+    "Hayate The Combat Butler",
+    "ハヤテのごとく",
+    "Hayate no Gotoku!",
+    "ハヤテのごとく！"
+  ],
+  "type": "manga",
+  "chapters": 570,
+  "volumes": 52,
+  "status": "finished",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx30696-tCUTsSaQFTGk.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "14653",
+      "url": "https://anilist.co/anime/9958"
+    },
+    "al_manga": {
+      "id": "14653",
+      "url": "https://anilist.co/manga/14653"
+    }
+  }
+}

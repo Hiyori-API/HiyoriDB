@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14023,
+  "slug": "saishuu-heiki-kanojo",
+  "kind": "manga",
+  "title": "Saishuu Heiki Kanojo",
+  "titles": {
+    "default": "Saishuu Heiki Kanojo"
+  },
+  "synonyms": [
+    "My Girlfriend",
+    "She, the Ultimate Weapon",
+    "Saikano: The Last Love Song on This Little Planet",
+    "Lei, l'arma finale",
+    "El Arma Definitiva, The Last Love Song on This Little Planet",
+    "Larme Ultime",
+    "Saikano",
+    "最終兵器彼女",
+    "Mushrambo",
+    "マシュランボー",
+    "Mashuranboo"
+  ],
+  "type": "manga",
+  "chapters": 72,
+  "volumes": 7,
+  "status": "finished",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30773-0mWYF83HR3D1.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "529",
+      "url": "https://anilist.co/anime/529"
+    },
+    "al_manga": {
+      "id": "529",
+      "url": "https://anilist.co/manga/529"
+    }
+  }
+}

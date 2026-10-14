@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4744,
+  "slug": "chou-supercar-gattiger",
+  "kind": "anime",
+  "title": "Chou Supercar Gattiger",
+  "titles": {
+    "default": "Chou Supercar Gattiger",
+    "romaji": "Chou Supercar Gattiger",
+    "native": "超スーパーカー ガッタイガー"
+  },
+  "synonyms": [
+    "Chou Supercar Gattiger",
+    "超スーパーカー ガッタイガー"
+  ],
+  "type": "tv",
+  "episodes": 25,
+  "status": "finished",
+  "season": "fall",
+  "year": 1977,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9881.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9881",
+      "url": "https://anilist.co/anime/9881"
+    },
+    "k": {
+      "id": "5918",
+      "url": "https://kitsu.io/anime/5918"
+    },
+    "mal": {
+      "id": "9881",
+      "url": "https://myanimelist.net/anime/9881"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15639,
+  "slug": "taishou-yakyuu-musume",
+  "kind": "manga",
+  "title": "Taishou Yakyuu Musume.",
+  "titles": {
+    "default": "Taishou Yakyuu Musume."
+  },
+  "synonyms": [
+    "Taisho Era Baseball Girls",
+    "Taisho Baseball Girls",
+    "大正野球娘。",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "chapters": 32,
+  "volumes": 5,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx44795-Lf4Oh0Y191LC.png"
+  ],
+  "references": {
+    "al": {
+      "id": "5141",
+      "url": "https://anilist.co/anime/5141"
+    },
+    "al_manga": {
+      "id": "5141",
+      "url": "https://anilist.co/manga/5141"
+    }
+  }
+}

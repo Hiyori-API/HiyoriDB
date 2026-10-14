@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14414,
+  "slug": "uchuu-no-stellvia",
+  "kind": "manga",
+  "title": "Uchuu no Stellvia",
+  "titles": {
+    "default": "Uchuu no Stellvia"
+  },
+  "synonyms": [
+    "Stellvia",
+    "宇宙のステルヴィア",
+    "xxxHOLiC",
+    "xxxHolic Rou",
+    "xxxHolic Cage",
+    "xxxHolic•Rou"
+  ],
+  "type": "manga",
+  "chapters": 16,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b33429-IRJPfyANm0mK.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "113",
+      "url": "https://anilist.co/anime/113"
+    },
+    "al_manga": {
+      "id": "113",
+      "url": "https://anilist.co/manga/113"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13859,
+  "slug": "ueki-no-housoku",
+  "kind": "manga",
+  "title": "Ueki no Housoku",
+  "titles": {
+    "default": "Ueki no Housoku"
+  },
+  "synonyms": [
+    "La Ley de Ueki",
+    "La loi d'Ueki",
+    "The Law of Ueki",
+    "うえきの法則",
+    "Full Moon wo Sagashite",
+    "満月〈フルムーン〉をさがして",
+    "Searching for the Full Moon",
+    "Ginyuu Meika"
+  ],
+  "type": "manga",
+  "chapters": 154,
+  "volumes": 16,
+  "status": "finished",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30326-6wR4KqJIo4eT.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "479",
+      "url": "https://anilist.co/anime/479"
+    },
+    "al_manga": {
+      "id": "479",
+      "url": "https://anilist.co/manga/479"
+    }
+  }
+}

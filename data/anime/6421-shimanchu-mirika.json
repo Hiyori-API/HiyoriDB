@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6421,
+  "slug": "shimanchu-mirika",
+  "kind": "anime",
+  "title": "Shimanchu MiRiKa",
+  "titles": {
+    "default": "Shimanchu MiRiKa",
+    "romaji": "Shimanchu MiRiKa",
+    "native": "島んちゅMiRiKa"
+  },
+  "synonyms": [
+    "Shimanchu MiRiKa",
+    "島んちゅMiRiKa",
+    "Shimanchu MiRiKa Special"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10407.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10407",
+      "url": "https://anilist.co/anime/10407"
+    },
+    "k": {
+      "id": "6168",
+      "url": "https://kitsu.io/anime/6168"
+    },
+    "mal": {
+      "id": "10407",
+      "url": "https://myanimelist.net/anime/10407"
+    }
+  }
+}

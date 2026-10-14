@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7624,
+  "slug": "soul-eater-not",
+  "kind": "anime",
+  "title": "Soul Eater Not!",
+  "titles": {
+    "default": "Soul Eater Not!",
+    "romaji": "Soul Eater Not!",
+    "native": "ソウルイータノット！"
+  },
+  "synonyms": [
+    "Soul Eater Not!",
+    "ソウルイータノット！",
+    "Soul Eater NOT!",
+    "ソウルイーターノット！",
+    "SEN!"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20547-w5Gp0a2E4YCe.png"
+  ],
+  "references": {
+    "al": {
+      "id": "20547",
+      "url": "https://anilist.co/anime/20547"
+    },
+    "k": {
+      "id": "8151",
+      "url": "https://kitsu.io/anime/8151"
+    },
+    "mal": {
+      "id": "21507",
+      "url": "https://myanimelist.net/anime/21507"
+    },
+    "t": {
+      "id": "60424",
+      "url": "https://trakt.tv/shows/60424"
+    },
+    "ttv": {
+      "id": "2226",
+      "url": "https://tubitv.com/series/2226"
+    }
+  }
+}

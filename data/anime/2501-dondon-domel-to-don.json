@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2501,
+  "slug": "dondon-domel-to-don",
+  "kind": "anime",
+  "title": "Dondon Domel to Don",
+  "titles": {
+    "default": "Dondon Domel to Don",
+    "romaji": "Dondon Domel to Don",
+    "english": "Wowser",
+    "native": "どんどんドメルとロン"
+  },
+  "synonyms": [
+    "Dondon Domel to Don",
+    "Wowser",
+    "どんどんドメルとロン",
+    "Don-Don Domel to Ron",
+    "Dommel",
+    "Dondon Domeru to Ron"
+  ],
+  "type": "tv",
+  "episodes": 52,
+  "status": "finished",
+  "season": "spring",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2814.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2814",
+      "url": "https://anilist.co/anime/2814"
+    },
+    "k": {
+      "id": "2568",
+      "url": "https://kitsu.io/anime/2568"
+    },
+    "mal": {
+      "id": "2814",
+      "url": "https://myanimelist.net/anime/2814"
+    },
+    "t": {
+      "id": "8630",
+      "url": "https://trakt.tv/shows/8630"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14174,
+  "slug": "shoujo-sect",
+  "kind": "manga",
+  "title": "Shoujo Sect",
+  "titles": {
+    "default": "Shoujo Sect"
+  },
+  "synonyms": [
+    "少女セクト",
+    "xxxHOLiC",
+    "xxxHolic Rou",
+    "xxxHolic Cage",
+    "xxxHolic•Rou"
+  ],
+  "type": "manga",
+  "chapters": 17,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31394-RTwXH5hU5ezY.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4473",
+      "url": "https://anilist.co/anime/4473"
+    },
+    "al_manga": {
+      "id": "4473",
+      "url": "https://anilist.co/manga/4473"
+    }
+  }
+}

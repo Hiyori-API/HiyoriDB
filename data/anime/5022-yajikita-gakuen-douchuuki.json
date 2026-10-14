@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5022,
+  "slug": "yajikita-gakuen-douchuuki",
+  "kind": "anime",
+  "title": "Yajikita Gakuen Douchuuki",
+  "titles": {
+    "default": "Yajikita Gakuen Douchuuki",
+    "romaji": "Yajikita Gakuen Douchuuki",
+    "native": "やじきた学園道中記"
+  },
+  "synonyms": [
+    "Yajikita Gakuen Douchuuki",
+    "やじきた学園道中記",
+    "Tales of Yajikita College",
+    "Kangetsu Ittou: Akuryou Kiri",
+    "寒月一凍 悪霊斬り"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b12795-iifVk0VkmHB4.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12795",
+      "url": "https://anilist.co/anime/12795"
+    },
+    "k": {
+      "id": "7998",
+      "url": "https://kitsu.io/anime/7998"
+    },
+    "mal": {
+      "id": "12795",
+      "url": "https://myanimelist.net/anime/12795"
+    }
+  }
+}

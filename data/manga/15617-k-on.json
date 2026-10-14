@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15617,
+  "slug": "k-on",
+  "kind": "manga",
+  "title": "K-On!",
+  "titles": {
+    "default": "K-On!"
+  },
+  "synonyms": [
+    "Keion",
+    "케이온!",
+    "K-On!",
+    "けいおん!",
+    "Kataomoi no Mukougawa",
+    "片想いの向こう側",
+    "Kataomoi no Mukou Gawa",
+    "Ano Kado o Magareba",
+    "Tenshi ga Kuretamono",
+    "Bitou na Koi",
+    "Kimi to Natsu no Aizu"
+  ],
+  "type": "manga",
+  "chapters": 57,
+  "volumes": 4,
+  "status": "finished",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx43001-yRE3yBmYoIrV.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9734",
+      "url": "https://anilist.co/anime/5680"
+    },
+    "al_manga": {
+      "id": "9734",
+      "url": "https://anilist.co/manga/9734"
+    }
+  }
+}

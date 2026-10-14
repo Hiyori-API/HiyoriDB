@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13350,
+  "slug": "dark-moon-kuro-no-tsuki-tsuki-no-saidan",
+  "kind": "anime",
+  "title": "DARK MOON: Kuro no Tsuki - Tsuki no Saidan",
+  "titles": {
+    "default": "DARK MOON: Kuro no Tsuki - Tsuki no Saidan",
+    "romaji": "DARK MOON: Kuro no Tsuki - Tsuki no Saidan",
+    "english": "DARK MOON: THE BLOOD ALTAR",
+    "native": "DARK MOON　-黒の月: 月の祭壇-"
+  },
+  "synonyms": [
+    "DARK MOON: Kuro no Tsuki - Tsuki no Saidan",
+    "DARK MOON: THE BLOOD ALTAR",
+    "DARK MOON　-黒の月: 月の祭壇-",
+    "DARK MOON: 달의 제단",
+    "DARK MOON: Darui Jedan",
+    "DARK MOON: THE BLOOD ALTAR with ENHYPEN",
+    "DARK MOON: แท่นบูชาพระจันทร์",
+    "In the Clear Moonlit Dusk",
+    "うるわしの宵の月",
+    "Uruwashi no Yoi no Tsuki"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181443-Df41Nlf7xjgI.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "181443",
+      "url": "https://anilist.co/anime/181443"
+    },
+    "cr": {
+      "id": "series/GT00365556/dark-moon-the-blood-altar",
+      "url": "https://www.crunchyroll.com/series/series/GT00365556/dark-moon-the-blood-altar"
+    },
+    "mal": {
+      "id": "59853",
+      "url": "https://myanimelist.net/anime/59853"
+    }
+  }
+}

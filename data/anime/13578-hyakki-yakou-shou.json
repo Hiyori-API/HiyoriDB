@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13578,
+  "slug": "hyakki-yakou-shou",
+  "kind": "anime",
+  "title": "Hyakki Yakou Shou",
+  "titles": {
+    "default": "Hyakki Yakou Shou",
+    "romaji": "Hyakki Yakou Shou",
+    "english": "Hyakki Yakoushou",
+    "native": "百鬼夜行抄"
+  },
+  "synonyms": [
+    "Hyakki Yakou Shou",
+    "Hyakki Yakoushou",
+    "百鬼夜行抄",
+    "Selected Pandemonium",
+    "Tales of a Hundred Ghosts Traveling by the Night",
+    "Hyakkiyakou Shou",
+    "Beyond Twilight",
+    "Le Cortège des cent démons",
+    "La Corte dei Cento Demoni",
+    "บันทึกขบวนร้อยอสูรแห่งรัตติกาล",
+    "This Ugly Yet Beautiful World",
+    "Kono Minikuku mo Utsukushii Sekai",
+    "この醜くも美しい世界"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207675-h3TZK82jG5aD.png"
+  ],
+  "references": {
+    "al": {
+      "id": "207675",
+      "url": "https://anilist.co/anime/207675"
+    },
+    "k": {
+      "id": "124",
+      "url": "https://kitsu.io/anime/124"
+    },
+    "mal": {
+      "id": "63469",
+      "url": "https://myanimelist.net/anime/63469"
+    },
+    "t": {
+      "id": "34001",
+      "url": "https://trakt.tv/shows/34001"
+    }
+  }
+}

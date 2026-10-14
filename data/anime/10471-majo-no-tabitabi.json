@@ -1,0 +1,60 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10471,
+  "slug": "majo-no-tabitabi",
+  "kind": "anime",
+  "title": "Majo no Tabitabi",
+  "titles": {
+    "default": "Majo no Tabitabi",
+    "romaji": "Majo no Tabitabi",
+    "english": "Wandering Witch: The Journey of Elaina",
+    "native": "魔女の旅々"
+  },
+  "synonyms": [
+    "Majo no Tabitabi",
+    "Wandering Witch: The Journey of Elaina",
+    "魔女の旅々",
+    "MajoTabi",
+    "마녀의 여행",
+    "魔女之旅",
+    "Elainas Reise",
+    "การเดินทางของคุณแม่มด",
+    "Странствующая ведьма",
+    "Rozen Maiden",
+    "ローゼンメイデン"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112609-hBCbnYlEHluz.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "112609",
+      "url": "https://anilist.co/anime/112609"
+    },
+    "cr": {
+      "id": "wandering-witch-the-journey-of-elaina",
+      "url": "https://www.crunchyroll.com/series/wandering-witch-the-journey-of-elaina"
+    },
+    "k": {
+      "id": "45",
+      "url": "https://kitsu.io/anime/45"
+    },
+    "mal": {
+      "id": "40571",
+      "url": "https://myanimelist.net/anime/40571"
+    },
+    "t": {
+      "id": "61847",
+      "url": "https://trakt.tv/shows/61847"
+    },
+    "tx": {
+      "id": "majotabi_PR",
+      "url": "https://twitter.com/majotabi_PR"
+    }
+  }
+}

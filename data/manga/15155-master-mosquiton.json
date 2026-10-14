@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15155,
+  "slug": "master-mosquiton",
+  "kind": "manga",
+  "title": "Master Mosquiton",
+  "titles": {
+    "default": "Master Mosquiton"
+  },
+  "synonyms": [
+    "Master of Mosquiton",
+    "マスターモスキートン'",
+    "Kamikaze Kaito Jeanne",
+    "Kamikaze Kaitou Jeanne",
+    "Phantom Thief Jeanne",
+    "神風怪盗ジャンヌ",
+    "Divine Wind Phantom Thief Jeanne"
+  ],
+  "type": "manga",
+  "chapters": 15,
+  "volumes": 4,
+  "status": "finished",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx39757-3kGwkblx2ZYb.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1806",
+      "url": "https://anilist.co/anime/1805"
+    },
+    "al_manga": {
+      "id": "1806",
+      "url": "https://anilist.co/manga/1806"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13422,
+  "slug": "uruwashi-no-yoi-no-tsuki",
+  "kind": "anime",
+  "title": "Uruwashi no Yoi no Tsuki",
+  "titles": {
+    "default": "Uruwashi no Yoi no Tsuki",
+    "romaji": "Uruwashi no Yoi no Tsuki",
+    "english": "In the Clear Moonlit Dusk",
+    "native": "うるわしの宵の月"
+  },
+  "synonyms": [
+    "Uruwashi no Yoi no Tsuki",
+    "In the Clear Moonlit Dusk",
+    "うるわしの宵の月",
+    "เมื่อสาวหล่อขอมีรัก",
+    "Любовь прекрасной Ёи"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192507-SCmImUlUnpAD.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "192507",
+      "url": "https://anilist.co/anime/192507"
+    },
+    "cr": {
+      "id": "series/GT00334040/in-the-clear-moonlit-dusk",
+      "url": "https://www.crunchyroll.com/series/series/GT00334040/in-the-clear-moonlit-dusk"
+    },
+    "mal": {
+      "id": "61663",
+      "url": "https://myanimelist.net/anime/61663"
+    }
+  }
+}

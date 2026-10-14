@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9051,
+  "slug": "ao-no-exorcist-kyoto-fujouou-hen",
+  "kind": "anime",
+  "title": "Ao no Exorcist: Kyoto Fujouou-hen",
+  "titles": {
+    "default": "Ao no Exorcist: Kyoto Fujouou-hen",
+    "romaji": "Ao no Exorcist: Kyoto Fujouou-hen",
+    "english": "Blue Exorcist: Kyoto Saga",
+    "native": "青の祓魔師 京都不浄王篇"
+  },
+  "synonyms": [
+    "Ao no Exorcist: Kyoto Fujouou-hen",
+    "Blue Exorcist: Kyoto Saga",
+    "青の祓魔師 京都不浄王篇",
+    "Blue Exorcist: Kyoto Impure King Arc",
+    "Blue Exorcist Season 2"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21861-KDvJJQenJJlT.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21861",
+      "url": "https://anilist.co/anime/21861"
+    },
+    "cr": {
+      "id": "blue-exorcist",
+      "url": "https://www.crunchyroll.com/series/blue-exorcist"
+    },
+    "mal": {
+      "id": "33506",
+      "url": "https://myanimelist.net/anime/33506"
+    },
+    "nf": {
+      "id": "70304252",
+      "url": "https://www.netflix.com/title/70304252"
+    },
+    "tx": {
+      "id": "aoex_anime",
+      "url": "https://twitter.com/aoex_anime"
+    }
+  }
+}

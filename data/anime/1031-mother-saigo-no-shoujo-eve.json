@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1031,
+  "slug": "mother-saigo-no-shoujo-eve",
+  "kind": "anime",
+  "title": "MOTHER: Saigo no Shoujo Eve",
+  "titles": {
+    "default": "MOTHER: Saigo no Shoujo Eve",
+    "romaji": "MOTHER: Saigo no Shoujo Eve",
+    "english": "E.Y.E.S. of Mars",
+    "native": "MOTHER 最後の少女イヴ"
+  },
+  "synonyms": [
+    "MOTHER: Saigo no Shoujo Eve",
+    "E.Y.E.S. of Mars",
+    "MOTHER 最後の少女イヴ",
+    "Mother: Saigo no Shoujo Eve"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1154.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1154",
+      "url": "https://anilist.co/anime/1154"
+    },
+    "k": {
+      "id": "1035",
+      "url": "https://kitsu.io/anime/1035"
+    },
+    "mal": {
+      "id": "1154",
+      "url": "https://myanimelist.net/anime/1154"
+    }
+  }
+}

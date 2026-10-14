@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14987,
+  "slug": "shin-fortune-quest-l",
+  "kind": "manga",
+  "title": "Shin Fortune Quest L",
+  "titles": {
+    "default": "Shin Fortune Quest L"
+  },
+  "synonyms": [
+    "New Fortune Quest L",
+    "新フォーチュン・クエストＬ",
+    "Yumegari",
+    "夢狩り",
+    "Clamp Gakuen Denki Bunko",
+    "The Dream Catcher"
+  ],
+  "type": "novel",
+  "volumes": 3,
+  "status": "finished",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b132813-df3KOvfgspRZ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3185",
+      "url": "https://anilist.co/anime/3185"
+    },
+    "al_manga": {
+      "id": "3185",
+      "url": "https://anilist.co/manga/3185"
+    }
+  }
+}

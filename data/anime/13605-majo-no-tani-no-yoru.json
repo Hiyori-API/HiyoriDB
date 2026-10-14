@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13605,
+  "slug": "majo-no-tani-no-yoru",
+  "kind": "anime",
+  "title": "Majo no Tani no Yoru",
+  "titles": {
+    "default": "Majo no Tani no Yoru",
+    "romaji": "Majo no Tani no Yoru",
+    "native": "魔女の谷の夜"
+  },
+  "synonyms": [
+    "Majo no Tani no Yoru",
+    "魔女の谷の夜",
+    "Night in the Valley of Witches",
+    "Cowboy Bebop: The Movie",
+    "Cowboy Bebop: Tengoku no Tobira",
+    "Cowboy Bebop: Knockin' on Heaven's Door",
+    "カウボーイビバップ天国の扉"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211232-Bthde3cpWCtq.png"
+  ],
+  "references": {
+    "al": {
+      "id": "211232",
+      "url": "https://anilist.co/anime/211232"
+    },
+    "k": {
+      "id": "2",
+      "url": "https://kitsu.io/anime/2"
+    },
+    "mal": {
+      "id": "64431",
+      "url": "https://myanimelist.net/anime/64431"
+    }
+  }
+}

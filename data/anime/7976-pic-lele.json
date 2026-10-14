@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7976,
+  "slug": "pic-lele",
+  "kind": "anime",
+  "title": "Pic-lele",
+  "titles": {
+    "default": "Pic-lele",
+    "romaji": "Pic-lele",
+    "native": "ピクレレ"
+  },
+  "synonyms": [
+    "Pic-lele",
+    "ピクレレ",
+    "Ukulele Picnic",
+    "Ukulele Picnic in Hawaii",
+    "Love, Chunibyo & Other Delusions!: Heart Throb",
+    "Chuunibyou demo Koi ga Shitai! Ren",
+    "中二病でも恋がしたい！戀",
+    "Chuunibyou demo Koi ga Shitai! 2",
+    "Chu-2 Byo demo Koi ga Shitai! Ren"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115198-P3W2QAy14NaZ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "115198",
+      "url": "https://anilist.co/anime/115198"
+    },
+    "cr": {
+      "id": "love-chunibyo-other-delusions-heart-throb-",
+      "url": "https://www.crunchyroll.com/series/love-chunibyo-other-delusions-heart-throb-"
+    },
+    "k": {
+      "id": "7705",
+      "url": "https://kitsu.io/anime/7705"
+    },
+    "mal": {
+      "id": "21981",
+      "url": "https://myanimelist.net/anime/21981"
+    },
+    "t": {
+      "id": "45251",
+      "url": "https://trakt.tv/shows/45251"
+    }
+  }
+}

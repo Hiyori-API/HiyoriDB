@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15107,
+  "slug": "kidou-butouden-g-gundam-shouen-no-hate",
+  "kind": "manga",
+  "title": "Kidou Butouden G Gundam: Shouen no Hate",
+  "titles": {
+    "default": "Kidou Butouden G Gundam: Shouen no Hate"
+  },
+  "synonyms": [
+    "Mobile Fighter G Gundam: Edge Of Gunsmoke",
+    "機動武闘伝Ｇガンダム 硝煙の果て",
+    "Hidari Te",
+    "左手",
+    "Left Hand",
+    "HidariTe"
+  ],
+  "type": "one_shot",
+  "chapters": 1,
+  "status": "finished",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx180108-qmITac2p7fYj.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3288",
+      "url": "https://anilist.co/anime/96"
+    },
+    "al_manga": {
+      "id": "3288",
+      "url": "https://anilist.co/manga/3288"
+    }
+  }
+}

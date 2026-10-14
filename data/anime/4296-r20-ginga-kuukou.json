@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4296,
+  "slug": "r20-ginga-kuukou",
+  "kind": "anime",
+  "title": "R20: Ginga Kuukou",
+  "titles": {
+    "default": "R20: Ginga Kuukou",
+    "romaji": "R20: Ginga Kuukou",
+    "english": "Route 20: Galactic Airport",
+    "native": "Ｒ２０ 銀河空港"
+  },
+  "synonyms": [
+    "R20: Ginga Kuukou",
+    "Route 20: Galactic Airport",
+    "Ｒ２０ 銀河空港"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6390.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6390",
+      "url": "https://anilist.co/anime/6390"
+    },
+    "k": {
+      "id": "4544",
+      "url": "https://kitsu.io/anime/4544"
+    },
+    "mal": {
+      "id": "6390",
+      "url": "https://myanimelist.net/anime/6390"
+    }
+  }
+}

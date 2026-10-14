@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 583,
+  "slug": "mahou-tsukai-tai-tv",
+  "kind": "anime",
+  "title": "Mahou Tsukai Tai! (TV)",
+  "titles": {
+    "default": "Mahou Tsukai Tai! (TV)",
+    "romaji": "Mahou Tsukai Tai! (TV)",
+    "english": "Magic User's Club! (TV)",
+    "native": "魔法使いTai! (TV)"
+  },
+  "synonyms": [
+    "Mahou Tsukai Tai! (TV)",
+    "Magic User's Club! (TV)",
+    "魔法使いTai! (TV)",
+    "Escola de Bruixes",
+    "Magic User's Club",
+    "Mahoutsukai Tai!",
+    "魔法使いTai!"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx630-KTGunpje4pWz.png"
+  ],
+  "references": {
+    "al": {
+      "id": "630",
+      "url": "https://anilist.co/anime/630"
+    },
+    "cr": {
+      "id": "magic-users-club",
+      "url": "https://www.crunchyroll.com/series/magic-users-club"
+    },
+    "k": {
+      "id": "584",
+      "url": "https://kitsu.io/anime/584"
+    },
+    "mal": {
+      "id": "630",
+      "url": "https://myanimelist.net/anime/630"
+    },
+    "t": {
+      "id": "9550",
+      "url": "https://trakt.tv/shows/9550"
+    }
+  }
+}

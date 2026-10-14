@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14456,
+  "slug": "iketeru-futari",
+  "kind": "manga",
+  "title": "Iketeru Futari",
+  "titles": {
+    "default": "Iketeru Futari"
+  },
+  "synonyms": [
+    "The Hot Couple",
+    "Cool Couple",
+    "Sexy Couple",
+    "イケてる2人",
+    "Kamikaze Kaito Jeanne",
+    "Kamikaze Kaitou Jeanne",
+    "Phantom Thief Jeanne",
+    "神風怪盗ジャンヌ",
+    "Divine Wind Phantom Thief Jeanne"
+  ],
+  "type": "manga",
+  "chapters": 331,
+  "volumes": 33,
+  "status": "finished",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33829-qZrutZVeDpG4.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "637",
+      "url": "https://anilist.co/anime/637"
+    },
+    "al_manga": {
+      "id": "637",
+      "url": "https://anilist.co/manga/637"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2883,
+  "slug": "mikagura-tanteidan",
+  "kind": "anime",
+  "title": "Mikagura Tanteidan",
+  "titles": {
+    "default": "Mikagura Tanteidan",
+    "romaji": "Mikagura Tanteidan",
+    "native": "御神楽探偵団"
+  },
+  "synonyms": [
+    "Mikagura Tanteidan",
+    "御神楽探偵団",
+    "Mikagura Tanteidan - Katsudou Shashin",
+    "Mikagura Detective Agency",
+    "Le Portrait de Petit Cossette",
+    "Cossette no Shouzou",
+    "コゼットの肖像",
+    "Le Portrait de Petite Cossette"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "spring",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3379.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3379",
+      "url": "https://anilist.co/anime/3379"
+    },
+    "k": {
+      "id": "473",
+      "url": "https://kitsu.io/anime/473"
+    },
+    "mal": {
+      "id": "3379",
+      "url": "https://myanimelist.net/anime/3379"
+    }
+  }
+}

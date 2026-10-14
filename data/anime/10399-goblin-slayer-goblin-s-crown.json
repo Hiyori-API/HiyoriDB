@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10399,
+  "slug": "goblin-slayer-goblin-s-crown",
+  "kind": "anime",
+  "title": "Goblin Slayer: GOBLIN'S CROWN",
+  "titles": {
+    "default": "Goblin Slayer: GOBLIN'S CROWN",
+    "romaji": "Goblin Slayer: GOBLIN'S CROWN",
+    "english": "GOBLIN SLAYER -GOBLIN’S CROWN-",
+    "native": "ゴブリンスレイヤー -GOBLIN'S CROWN-"
+  },
+  "synonyms": [
+    "Goblin Slayer: GOBLIN'S CROWN",
+    "GOBLIN SLAYER -GOBLIN’S CROWN-",
+    "ゴブリンスレイヤー -GOBLIN'S CROWN-",
+    "Goblin Slayer: Korona",
+    "Goblin Slayer: Goblin's Crown"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108623-pREPeutedpc2.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "108623",
+      "url": "https://anilist.co/anime/108623"
+    },
+    "cr": {
+      "id": "goblin-slayer",
+      "url": "https://www.crunchyroll.com/series/goblin-slayer"
+    },
+    "mal": {
+      "id": "39576",
+      "url": "https://myanimelist.net/anime/39576"
+    },
+    "tx": {
+      "id": "goblinslayer_ga",
+      "url": "https://twitter.com/goblinslayer_ga"
+    }
+  }
+}

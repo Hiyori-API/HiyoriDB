@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13534,
+  "slug": "reiwa-no-dara-san",
+  "kind": "anime",
+  "title": "Reiwa no Dara-san",
+  "titles": {
+    "default": "Reiwa no Dara-san",
+    "romaji": "Reiwa no Dara-san",
+    "english": "Dara-san of the Reiwa Era",
+    "native": "令和のダラさん"
+  },
+  "synonyms": [
+    "Reiwa no Dara-san",
+    "Dara-san of the Reiwa Era",
+    "令和のダラさん",
+    "Dara-san of Reiwa"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203880-lnruKftb27Nr.png"
+  ],
+  "references": {
+    "al": {
+      "id": "203880",
+      "url": "https://anilist.co/anime/203880"
+    },
+    "cr": {
+      "id": "series/GT00377933/dara-san-of-the-reiwa-era",
+      "url": "https://www.crunchyroll.com/series/series/GT00377933/dara-san-of-the-reiwa-era"
+    },
+    "mal": {
+      "id": "63082",
+      "url": "https://myanimelist.net/anime/63082"
+    }
+  }
+}

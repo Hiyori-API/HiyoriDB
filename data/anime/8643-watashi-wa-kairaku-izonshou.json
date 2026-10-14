@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8643,
+  "slug": "watashi-wa-kairaku-izonshou",
+  "kind": "anime",
+  "title": "Watashi wa, Kairaku Izonshou",
+  "titles": {
+    "default": "Watashi wa, Kairaku Izonshou",
+    "romaji": "Watashi wa, Kairaku Izonshou",
+    "native": "私は、快楽依存症"
+  },
+  "synonyms": [
+    "Watashi wa, Kairaku Izonshou",
+    "私は、快楽依存症",
+    "クイーンズブレイド グリムワール",
+    "Queen's Blade: Grimoire"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx21580-UlNdV1oURZRs.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21580",
+      "url": "https://anilist.co/anime/21580"
+    },
+    "mal": {
+      "id": "32238",
+      "url": "https://myanimelist.net/anime/32238"
+    }
+  }
+}

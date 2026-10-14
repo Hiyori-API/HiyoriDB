@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10874,
+  "slug": "shinkai-densetsu-meremanoid",
+  "kind": "anime",
+  "title": "Shinkai Densetsu MEREMANOID",
+  "titles": {
+    "default": "Shinkai Densetsu MEREMANOID",
+    "romaji": "Shinkai Densetsu MEREMANOID",
+    "native": "深海伝説MEREMANOID"
+  },
+  "synonyms": [
+    "Shinkai Densetsu MEREMANOID",
+    "深海伝説MEREMANOID",
+    "Shinkai Densetsu Meremanoid",
+    "Deep - Sea Legend Meremanoid"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "fall",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15579-MaZnNLMZtRS5.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "15579",
+      "url": "https://anilist.co/anime/15579"
+    },
+    "k": {
+      "id": "7277",
+      "url": "https://kitsu.io/anime/7277"
+    },
+    "mal": {
+      "id": "15579",
+      "url": "https://myanimelist.net/anime/15579"
+    },
+    "t": {
+      "id": "98465",
+      "url": "https://trakt.tv/shows/98465"
+    }
+  }
+}

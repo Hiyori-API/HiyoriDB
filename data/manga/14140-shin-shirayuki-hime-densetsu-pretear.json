@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14140,
+  "slug": "shin-shirayuki-hime-densetsu-pretear",
+  "kind": "manga",
+  "title": "Shin Shirayuki-hime Densetsu Pretear",
+  "titles": {
+    "default": "Shin Shirayuki-hime Densetsu Pretear"
+  },
+  "synonyms": [
+    "Prétear: The New Legend of Snow White",
+    "新白雪姫伝説プリーティア",
+    "Mushrambo",
+    "マシュランボー",
+    "Mashuranboo"
+  ],
+  "type": "manga",
+  "chapters": 18,
+  "volumes": 4,
+  "status": "finished",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b31248-Kf9kbfwXrOJX.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "100",
+      "url": "https://anilist.co/anime/100"
+    },
+    "al_manga": {
+      "id": "100",
+      "url": "https://anilist.co/manga/100"
+    }
+  }
+}

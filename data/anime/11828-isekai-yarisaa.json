@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11828,
+  "slug": "isekai-yarisaa",
+  "kind": "anime",
+  "title": "Isekai Yarisaa",
+  "titles": {
+    "default": "Isekai Yarisaa",
+    "romaji": "Isekai Yarisaa",
+    "native": "異世界ヤリサー"
+  },
+  "synonyms": [
+    "Isekai Yarisaa",
+    "異世界ヤリサー",
+    "Isekai YariCir",
+    "RG Veda",
+    "聖伝"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145016-vhdH28djlLPa.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "145016",
+      "url": "https://anilist.co/anime/145016"
+    },
+    "k": {
+      "id": "402",
+      "url": "https://kitsu.io/anime/402"
+    },
+    "mal": {
+      "id": "51217",
+      "url": "https://myanimelist.net/anime/51217"
+    }
+  }
+}

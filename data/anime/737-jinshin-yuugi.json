@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 737,
+  "slug": "jinshin-yuugi",
+  "kind": "anime",
+  "title": "Jinshin Yuugi",
+  "titles": {
+    "default": "Jinshin Yuugi",
+    "romaji": "Jinshin Yuugi",
+    "english": "Love Lessons",
+    "native": "人心遊戯"
+  },
+  "synonyms": [
+    "Jinshin Yuugi",
+    "Love Lessons",
+    "人心遊戯",
+    "Jinsin",
+    "Jinshin Yugi",
+    "Puni Puni Poemy",
+    "Puni Puni☆Poemii",
+    "ぷにぷに☆ぽえみぃ"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/828.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "828",
+      "url": "https://anilist.co/anime/828"
+    },
+    "k": {
+      "id": "521",
+      "url": "https://kitsu.io/anime/521"
+    },
+    "mal": {
+      "id": "828",
+      "url": "https://myanimelist.net/anime/828"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3316,
+  "slug": "inyouchuu-shoku-ryoushokutou-taimaroku",
+  "kind": "anime",
+  "title": "Inyouchuu Shoku: Ryoushokutou Taimaroku",
+  "titles": {
+    "default": "Inyouchuu Shoku: Ryoushokutou Taimaroku",
+    "romaji": "Inyouchuu Shoku: Ryoushokutou Taimaroku",
+    "native": "淫妖蟲・蝕 ～凌触島退魔録～"
+  },
+  "synonyms": [
+    "Inyouchuu Shoku: Ryoushokutou Taimaroku",
+    "淫妖蟲・蝕 ～凌触島退魔録～",
+    "Inyouchu Shoku",
+    "Yotsunoha",
+    "よつのは"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4057.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4057",
+      "url": "https://anilist.co/anime/4057"
+    },
+    "k": {
+      "id": "2722",
+      "url": "https://kitsu.io/anime/2722"
+    },
+    "mal": {
+      "id": "4057",
+      "url": "https://myanimelist.net/anime/4057"
+    }
+  }
+}

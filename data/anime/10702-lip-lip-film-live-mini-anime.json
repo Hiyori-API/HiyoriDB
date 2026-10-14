@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10702,
+  "slug": "lip-lip-film-live-mini-anime",
+  "kind": "anime",
+  "title": "LIP×LIP FILM×LIVE Mini Anime",
+  "titles": {
+    "default": "LIP×LIP FILM×LIVE Mini Anime",
+    "romaji": "LIP×LIP FILM×LIVE Mini Anime",
+    "native": "LIP×LIP FILM×LIVE ミニアニメ"
+  },
+  "synonyms": [
+    "LIP×LIP FILM×LIVE Mini Anime",
+    "LIP×LIP FILM×LIVE ミニアニメ",
+    "My Hero Academia: Make It! Do-or-Die Survival Training",
+    "僕のヒーローアカデミア 生き残れ！決死のサバイバル訓練",
+    "Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren"
+  ],
+  "type": "ona",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130473-BhJ4bqTnR7yA.png"
+  ],
+  "references": {
+    "al": {
+      "id": "130473",
+      "url": "https://anilist.co/anime/130473"
+    },
+    "mal": {
+      "id": "52486",
+      "url": "https://myanimelist.net/anime/52486"
+    }
+  }
+}

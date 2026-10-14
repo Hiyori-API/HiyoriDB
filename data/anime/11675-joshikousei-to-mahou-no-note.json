@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11675,
+  "slug": "joshikousei-to-mahou-no-note",
+  "kind": "anime",
+  "title": "Joshikousei to Mahou no Note",
+  "titles": {
+    "default": "Joshikousei to Mahou no Note",
+    "romaji": "Joshikousei to Mahou no Note",
+    "native": "女子高生と魔法のノート"
+  },
+  "synonyms": [
+    "Joshikousei to Mahou no Note",
+    "女子高生と魔法のノート",
+    "High School Girl & the Magic Notebook",
+    "Catblue Dynamite",
+    "Catblue: Dynamite",
+    "キャットブルー：ダイナマイト"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b139376-2aREnUwuUiiF.png"
+  ],
+  "references": {
+    "al": {
+      "id": "139376",
+      "url": "https://anilist.co/anime/139376"
+    },
+    "k": {
+      "id": "1645",
+      "url": "https://kitsu.io/anime/1645"
+    },
+    "mal": {
+      "id": "49851",
+      "url": "https://myanimelist.net/anime/49851"
+    },
+    "tx": {
+      "id": "mahounonote",
+      "url": "https://twitter.com/mahounonote"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5731,
+  "slug": "happy-seven-the-tv-manga-chibi-chara-moshimo-gekijou",
+  "kind": "anime",
+  "title": "Happy Seven: The TV Manga - Chibi Chara Moshimo Gekijou",
+  "titles": {
+    "default": "Happy Seven: The TV Manga - Chibi Chara Moshimo Gekijou",
+    "romaji": "Happy Seven: The TV Manga - Chibi Chara Moshimo Gekijou",
+    "native": "はっぴぃセブン ~ざ・テレビまんが~ チビキャラもしも劇場"
+  },
+  "synonyms": [
+    "Happy Seven: The TV Manga - Chibi Chara Moshimo Gekijou",
+    "はっぴぃセブン ~ざ・テレビまんが~ チビキャラもしも劇場",
+    "Happy Seven: The TV Manga Specials",
+    "Happy Seven Chibi Character Theatre",
+    "Usahana: Yumemiru Ballerina",
+    "ウサハナ 夢見るバレリーナ"
+  ],
+  "type": "special",
+  "episodes": 7,
+  "status": "finished",
+  "season": "winter",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129867-hk69ap10Ib7e.png"
+  ],
+  "references": {
+    "al": {
+      "id": "129867",
+      "url": "https://anilist.co/anime/129867"
+    },
+    "k": {
+      "id": "4594",
+      "url": "https://kitsu.io/anime/4594"
+    },
+    "mal": {
+      "id": "35297",
+      "url": "https://myanimelist.net/anime/35297"
+    }
+  }
+}

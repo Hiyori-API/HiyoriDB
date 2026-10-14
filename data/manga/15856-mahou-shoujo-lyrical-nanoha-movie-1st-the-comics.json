@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15856,
+  "slug": "mahou-shoujo-lyrical-nanoha-movie-1st-the-comics",
+  "kind": "manga",
+  "title": "Mahou Shoujo Lyrical Nanoha: Movie 1st the Comics",
+  "titles": {
+    "default": "Mahou Shoujo Lyrical Nanoha: Movie 1st the Comics"
+  },
+  "synonyms": [
+    "Magical Girl Lyrical Nanoha: Movie 1st the Comics",
+    "魔法少女リリカルなのはThe MOVIE 1st",
+    "Simple Knot Loafers",
+    "シンプルノットローファー",
+    "Shinpuru Notto Rofa",
+    "Shinpuru Notto Roofaa",
+    "Simple Not Loafer"
+  ],
+  "type": "manga",
+  "chapters": 18,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/16872.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4985",
+      "url": "https://anilist.co/anime/4985"
+    },
+    "al_manga": {
+      "id": "4985",
+      "url": "https://anilist.co/manga/4985"
+    }
+  }
+}

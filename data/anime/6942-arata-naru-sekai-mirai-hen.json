@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6942,
+  "slug": "arata-naru-sekai-mirai-hen",
+  "kind": "anime",
+  "title": "Arata naru Sekai: Mirai-hen",
+  "titles": {
+    "default": "Arata naru Sekai: Mirai-hen",
+    "romaji": "Arata naru Sekai: Mirai-hen",
+    "native": "アラタなるセカイ 未来編"
+  },
+  "synonyms": [
+    "Arata naru Sekai: Mirai-hen",
+    "アラタなるセカイ 未来編",
+    "Arata-naru Sekai",
+    "Aratanaru Sekai",
+    "The World of Arata",
+    "World's End",
+    "Usogui",
+    "嘘喰い",
+    "The Lie Eater"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/14373.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "14373",
+      "url": "https://anilist.co/anime/14373"
+    },
+    "k": {
+      "id": "6935",
+      "url": "https://kitsu.io/anime/6935"
+    },
+    "mal": {
+      "id": "14373",
+      "url": "https://myanimelist.net/anime/14373"
+    }
+  }
+}

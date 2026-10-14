@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4666,
+  "slug": "uchuujin-pipi",
+  "kind": "anime",
+  "title": "Uchuujin Pipi",
+  "titles": {
+    "default": "Uchuujin Pipi",
+    "romaji": "Uchuujin Pipi",
+    "native": "宇宙人ピピ"
+  },
+  "synonyms": [
+    "Uchuujin Pipi",
+    "宇宙人ピピ"
+  ],
+  "type": "tv",
+  "episodes": 52,
+  "status": "finished",
+  "season": "spring",
+  "year": 1965,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19985.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "19985",
+      "url": "https://anilist.co/anime/19985"
+    },
+    "k": {
+      "id": "9684",
+      "url": "https://kitsu.io/anime/9684"
+    },
+    "mal": {
+      "id": "19985",
+      "url": "https://myanimelist.net/anime/19985"
+    }
+  }
+}

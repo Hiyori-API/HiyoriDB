@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13641,
+  "slug": "sazin-no-nakade",
+  "kind": "anime",
+  "title": "Sazin no Nakade",
+  "titles": {
+    "default": "Sazin no Nakade",
+    "romaji": "Sazin no Nakade",
+    "english": "Dust of the Simulacrum",
+    "native": "砂塵ノ中デ"
+  },
+  "synonyms": [
+    "Sazin no Nakade",
+    "Dust of the Simulacrum",
+    "砂塵ノ中デ",
+    "Cowboy Bebop: The Movie",
+    "Cowboy Bebop: Tengoku no Tobira",
+    "Cowboy Bebop: Knockin' on Heaven's Door",
+    "カウボーイビバップ天国の扉"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214070-DvLRZXO5xGo6.png"
+  ],
+  "references": {
+    "al": {
+      "id": "214070",
+      "url": "https://anilist.co/anime/214070"
+    },
+    "k": {
+      "id": "2",
+      "url": "https://kitsu.io/anime/2"
+    },
+    "mal": {
+      "id": "5",
+      "url": "https://myanimelist.net/anime/5"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15759,
+  "slug": "honto-ni-atta-reibai-sensei",
+  "kind": "manga",
+  "title": "Honto ni Atta! Reibai Sensei",
+  "titles": {
+    "default": "Honto ni Atta! Reibai Sensei"
+  },
+  "synonyms": [
+    "ほんとにあった！霊媒先生",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "chapters": 213,
+  "volumes": 20,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx51529-I9pZGh4T0u12.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10338",
+      "url": "https://anilist.co/anime/10338"
+    },
+    "al_manga": {
+      "id": "10338",
+      "url": "https://anilist.co/manga/10338"
+    }
+  }
+}

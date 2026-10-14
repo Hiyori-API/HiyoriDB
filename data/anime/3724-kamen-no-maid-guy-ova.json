@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3724,
+  "slug": "kamen-no-maid-guy-ova",
+  "kind": "anime",
+  "title": "Kamen no Maid Guy OVA",
+  "titles": {
+    "default": "Kamen no Maid Guy OVA",
+    "romaji": "Kamen no Maid Guy OVA",
+    "native": "仮面のメイドガイ OAD"
+  },
+  "synonyms": [
+    "Kamen no Maid Guy OVA",
+    "仮面のメイドガイ OAD",
+    "Kamen no Maid Guy OAD"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5045.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5045",
+      "url": "https://anilist.co/anime/5045"
+    },
+    "k": {
+      "id": "3903",
+      "url": "https://kitsu.io/anime/3903"
+    },
+    "mal": {
+      "id": "5045",
+      "url": "https://myanimelist.net/anime/5045"
+    }
+  }
+}

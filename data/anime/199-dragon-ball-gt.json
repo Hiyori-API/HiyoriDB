@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 199,
+  "slug": "dragon-ball-gt",
+  "kind": "anime",
+  "title": "Dragon Ball GT",
+  "titles": {
+    "default": "Dragon Ball GT",
+    "romaji": "Dragon Ball GT",
+    "native": "ドラゴンボールGT"
+  },
+  "synonyms": [
+    "Dragon Ball GT",
+    "ドラゴンボールGT",
+    "DBGT",
+    "Драконий жемчуг БП",
+    "Dragonball GT"
+  ],
+  "type": "tv",
+  "episodes": 64,
+  "status": "finished",
+  "season": "winter",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx225-pzkDUVy7tKxH.png"
+  ],
+  "references": {
+    "al": {
+      "id": "225",
+      "url": "https://anilist.co/anime/225"
+    },
+    "cr": {
+      "id": "dragon-ball-gt",
+      "url": "https://www.crunchyroll.com/series/dragon-ball-gt"
+    },
+    "k": {
+      "id": "200",
+      "url": "https://kitsu.io/anime/200"
+    },
+    "mal": {
+      "id": "225",
+      "url": "https://myanimelist.net/anime/225"
+    },
+    "t": {
+      "id": "12641",
+      "url": "https://trakt.tv/shows/12641"
+    }
+  }
+}

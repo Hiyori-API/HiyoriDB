@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10871,
+  "slug": "bucket-de-gohan",
+  "kind": "anime",
+  "title": "Bucket de Gohan",
+  "titles": {
+    "default": "Bucket de Gohan",
+    "romaji": "Bucket de Gohan",
+    "native": "バケツでごはん"
+  },
+  "synonyms": [
+    "Bucket de Gohan",
+    "バケツでごはん",
+    "Meals in a Bucket",
+    "Ginpei the Penguin"
+  ],
+  "type": "tv",
+  "episodes": 20,
+  "status": "finished",
+  "season": "winter",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9540.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9540",
+      "url": "https://anilist.co/anime/9540"
+    },
+    "k": {
+      "id": "5782",
+      "url": "https://kitsu.io/anime/5782"
+    },
+    "mal": {
+      "id": "9540",
+      "url": "https://myanimelist.net/anime/9540"
+    }
+  }
+}

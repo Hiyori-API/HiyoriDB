@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12196,
+  "slug": "tondemo-skill-de-isekai-hourou-meshi",
+  "kind": "anime",
+  "title": "Tondemo Skill de Isekai Hourou Meshi",
+  "titles": {
+    "default": "Tondemo Skill de Isekai Hourou Meshi",
+    "romaji": "Tondemo Skill de Isekai Hourou Meshi",
+    "english": "Campfire Cooking in Another World with my Absurd Skill",
+    "native": "とんでもスキルで異世界放浪メシ"
+  },
+  "synonyms": [
+    "Tondemo Skill de Isekai Hourou Meshi",
+    "Campfire Cooking in Another World with my Absurd Skill",
+    "とんでもスキルで異世界放浪メシ",
+    "Regarding the Display of an Outrageous Skill Which Has Incredible Powers",
+    "Gourmet Adventure of Legendary Tamer",
+    "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก",
+    "Mengembara dan Memasak di Dunia Lain dengan Skil yang Absurd",
+    "Hero Skill - Achats en ligne",
+    "擁有超常技能的異世界流浪美食家",
+    "Кулинар со странными навыками в параллельном мире",
+    "Tonsuki",
+    "Campfire Cooking in Another World with My Absurd Skill"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2023,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx156067-Jovklss4VWIx.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "156067",
+      "url": "https://anilist.co/anime/156067"
+    },
+    "cr": {
+      "id": "series/GG5H5X3EE/campfire-cooking-in-another-world-with-my-absurd-skill",
+      "url": "https://www.crunchyroll.com/series/series/GG5H5X3EE/campfire-cooking-in-another-world-with-my-absurd-skill"
+    },
+    "mal": {
+      "id": "53446",
+      "url": "https://myanimelist.net/anime/53446"
+    },
+    "nf": {
+      "id": "81672787",
+      "url": "https://www.netflix.com/title/81672787"
+    },
+    "tx": {
+      "id": "tonsuki_anime",
+      "url": "https://twitter.com/tonsuki_anime"
+    }
+  }
+}

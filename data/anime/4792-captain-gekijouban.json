@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4792,
+  "slug": "captain-gekijouban",
+  "kind": "anime",
+  "title": "Captain Gekijouban",
+  "titles": {
+    "default": "Captain Gekijouban",
+    "romaji": "Captain Gekijouban",
+    "native": "キャプテン 劇場版"
+  },
+  "synonyms": [
+    "Captain Gekijouban",
+    "キャプテン 劇場版",
+    "Captain the Movie"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1981,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b18759-0ALLOAr7e9DA.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "18759",
+      "url": "https://anilist.co/anime/18759"
+    },
+    "k": {
+      "id": "9812",
+      "url": "https://kitsu.io/anime/9812"
+    },
+    "mal": {
+      "id": "18759",
+      "url": "https://myanimelist.net/anime/18759"
+    }
+  }
+}

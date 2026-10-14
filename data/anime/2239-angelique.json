@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2239,
+  "slug": "angelique",
+  "kind": "anime",
+  "title": "Angelique",
+  "titles": {
+    "default": "Angelique",
+    "romaji": "Angelique",
+    "native": "オリジナルビデオアニメーション アンジェリーク"
+  },
+  "synonyms": [
+    "Angelique",
+    "オリジナルビデオアニメーション アンジェリーク",
+    "Angelique OVA 4",
+    "Le Portrait de Petit Cossette",
+    "Cossette no Shouzou",
+    "コゼットの肖像",
+    "Le Portrait de Petite Cossette"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "spring",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx2534-ZtTiUPlJs5Pu.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2534",
+      "url": "https://anilist.co/anime/2534"
+    },
+    "k": {
+      "id": "473",
+      "url": "https://kitsu.io/anime/473"
+    },
+    "mal": {
+      "id": "2534",
+      "url": "https://myanimelist.net/anime/2534"
+    }
+  }
+}

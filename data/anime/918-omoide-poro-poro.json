@@ -1,0 +1,60 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 918,
+  "slug": "omoide-poro-poro",
+  "kind": "anime",
+  "title": "Omoide Poro Poro",
+  "titles": {
+    "default": "Omoide Poro Poro",
+    "romaji": "Omoide Poro Poro",
+    "english": "Only Yesterday",
+    "native": "おもひでぽろぽろ"
+  },
+  "synonyms": [
+    "Omoide Poro Poro",
+    "Only Yesterday",
+    "おもひでぽろぽろ",
+    "Omoide Poro-poro",
+    "Memories Like Falling Rain Drops",
+    "Memories Like Falling Teardrops",
+    "Recuerdos del Ayer",
+    "Memórias de Ontem",
+    "Dün Gibi",
+    "Pioggia di ricordi",
+    "Powrót do marzeń",
+    "Souvenirs goutte à goutte",
+    "Minnen av igår",
+    "Dagen i går",
+    "Minder fra i går",
+    "Huckleberry no Bouken (Movie)",
+    "ハックルベリィの冒険",
+    "The Adventures of Huckleberry Finn Movie",
+    "Huckleberry no Bouken (1991)"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx1029-Ch9LIVLFnssA.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1029",
+      "url": "https://anilist.co/anime/1029"
+    },
+    "k": {
+      "id": "9329",
+      "url": "https://kitsu.io/anime/9329"
+    },
+    "mal": {
+      "id": "1029",
+      "url": "https://myanimelist.net/anime/1029"
+    },
+    "nf": {
+      "id": "80092922",
+      "url": "https://www.netflix.com/title/80092922"
+    }
+  }
+}

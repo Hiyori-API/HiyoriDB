@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4061,
+  "slug": "fantascope-tylostoma",
+  "kind": "anime",
+  "title": "Fantascope Tylostoma",
+  "titles": {
+    "default": "Fantascope Tylostoma",
+    "romaji": "Fantascope Tylostoma"
+  },
+  "synonyms": [
+    "Fantascope Tylostoma",
+    "Fantascope ~tylostoma~",
+    "Fantascope: Tylostoma",
+    "Fantascope~tylostoma~"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5802.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5802",
+      "url": "https://anilist.co/anime/5802"
+    },
+    "k": {
+      "id": "4280",
+      "url": "https://kitsu.io/anime/4280"
+    },
+    "mal": {
+      "id": "5802",
+      "url": "https://myanimelist.net/anime/5802"
+    }
+  }
+}

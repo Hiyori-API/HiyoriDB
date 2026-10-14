@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14835,
+  "slug": "kobo-chan",
+  "kind": "manga",
+  "title": "Kobo-chan",
+  "titles": {
+    "default": "Kobo-chan"
+  },
+  "synonyms": [
+    "Kobo, the Li'l Rascal",
+    "コボちゃん",
+    "Tetsu no Don Quixote",
+    "鉄のドンキホーテ",
+    "Iron Don Quixote",
+    "Mad Fighter",
+    "Hokuto no Ken The Origins",
+    "Hokuto no Ken Pilot"
+  ],
+  "type": "manga",
+  "volumes": 60,
+  "status": "finished",
+  "year": 1982,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b52910-3gad7L5rvB0Y.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "148078",
+      "url": "https://anilist.co/anime/136490"
+    },
+    "al_manga": {
+      "id": "148078",
+      "url": "https://anilist.co/manga/148078"
+    }
+  }
+}

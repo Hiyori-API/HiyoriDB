@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9115,
+  "slug": "love-kome-we-love-rice",
+  "kind": "anime",
+  "title": "Love Kome: WE LOVE RICE",
+  "titles": {
+    "default": "Love Kome: WE LOVE RICE",
+    "romaji": "Love Kome: WE LOVE RICE",
+    "english": "Love Rice",
+    "native": "ラブ米 -WE LOVE RICE-"
+  },
+  "synonyms": [
+    "Love Kome: WE LOVE RICE",
+    "Love Rice",
+    "ラブ米 -WE LOVE RICE-",
+    "Attack on Titan Season 2",
+    "Shingeki no Kyojin Season 2",
+    "進撃の巨人 Season 2"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx97862-VbUEcxVbADSR.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "97862",
+      "url": "https://anilist.co/anime/97862"
+    },
+    "cr": {
+      "id": "love-rice",
+      "url": "https://www.crunchyroll.com/series/love-rice"
+    },
+    "k": {
+      "id": "8671",
+      "url": "https://kitsu.io/anime/8671"
+    },
+    "mal": {
+      "id": "34402",
+      "url": "https://myanimelist.net/anime/34402"
+    },
+    "t": {
+      "id": "1420",
+      "url": "https://trakt.tv/shows/1420"
+    },
+    "tx": {
+      "id": "lovekome_anime",
+      "url": "https://twitter.com/lovekome_anime"
+    }
+  }
+}

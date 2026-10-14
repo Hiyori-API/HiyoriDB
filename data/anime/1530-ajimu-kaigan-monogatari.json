@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1530,
+  "slug": "ajimu-kaigan-monogatari",
+  "kind": "anime",
+  "title": "Ajimu: Kaigan Monogatari",
+  "titles": {
+    "default": "Ajimu: Kaigan Monogatari",
+    "romaji": "Ajimu: Kaigan Monogatari",
+    "native": "あじむ ～海岸物語～"
+  },
+  "synonyms": [
+    "Ajimu: Kaigan Monogatari",
+    "あじむ ～海岸物語～",
+    "Ajimu: Beach Story"
+  ],
+  "type": "ona",
+  "episodes": 4,
+  "status": "finished",
+  "season": "summer",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1734.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1734",
+      "url": "https://anilist.co/anime/1734"
+    },
+    "k": {
+      "id": "1554",
+      "url": "https://kitsu.io/anime/1554"
+    },
+    "mal": {
+      "id": "1734",
+      "url": "https://myanimelist.net/anime/1734"
+    }
+  }
+}

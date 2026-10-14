@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11417,
+  "slug": "shishunki-no-obenkyou",
+  "kind": "anime",
+  "title": "Shishunki no Obenkyou",
+  "titles": {
+    "default": "Shishunki no Obenkyou",
+    "romaji": "Shishunki no Obenkyou",
+    "english": "Sex Studies",
+    "native": "思春期のお勉強"
+  },
+  "synonyms": [
+    "Shishunki no Obenkyou",
+    "Sex Studies",
+    "思春期のお勉強",
+    "Golden Boy",
+    "ゴールデンボーイ"
+  ],
+  "type": "ova",
+  "episodes": 6,
+  "status": "airing",
+  "season": "fall",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b134469-Ku4foJLXK4Sl.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "134469",
+      "url": "https://anilist.co/anime/134469"
+    },
+    "k": {
+      "id": "243",
+      "url": "https://kitsu.io/anime/243"
+    },
+    "mal": {
+      "id": "49944",
+      "url": "https://myanimelist.net/anime/49944"
+    }
+  }
+}

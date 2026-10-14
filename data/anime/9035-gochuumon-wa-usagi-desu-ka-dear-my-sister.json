@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9035,
+  "slug": "gochuumon-wa-usagi-desu-ka-dear-my-sister",
+  "kind": "anime",
+  "title": "Gochuumon wa Usagi desu ka?? Dear My Sister",
+  "titles": {
+    "default": "Gochuumon wa Usagi desu ka?? Dear My Sister",
+    "romaji": "Gochuumon wa Usagi desu ka?? Dear My Sister",
+    "english": "Is the Order a Rabbit?? ～Dear My Sister～",
+    "native": "ご注文はうさぎですか?? ~Dear My Sister~"
+  },
+  "synonyms": [
+    "Gochuumon wa Usagi desu ka?? Dear My Sister",
+    "Is the Order a Rabbit?? ～Dear My Sister～",
+    "ご注文はうさぎですか?? ~Dear My Sister~",
+    "GochiUsa OVA",
+    "ごちうさ OVA",
+    "Neko Para OVA",
+    "ネコぱらOVA",
+    "Nekopara OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21813-hdHHU5PCF2V5.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21813",
+      "url": "https://anilist.co/anime/21813"
+    },
+    "mal": {
+      "id": "33280",
+      "url": "https://myanimelist.net/anime/33280"
+    },
+    "tx": {
+      "id": "usagi_anime",
+      "url": "https://twitter.com/usagi_anime"
+    }
+  }
+}

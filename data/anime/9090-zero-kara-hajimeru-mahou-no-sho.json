@@ -1,0 +1,64 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9090,
+  "slug": "zero-kara-hajimeru-mahou-no-sho",
+  "kind": "anime",
+  "title": "Zero kara Hajimeru Mahou no Sho",
+  "titles": {
+    "default": "Zero kara Hajimeru Mahou no Sho",
+    "romaji": "Zero kara Hajimeru Mahou no Sho",
+    "english": "Grimoire of Zero",
+    "native": "ゼロから始める魔法の書"
+  },
+  "synonyms": [
+    "Zero kara Hajimeru Mahou no Sho",
+    "Grimoire of Zero",
+    "ゼロから始める魔法の書",
+    "ปฐมมนตรา ตำราพลิกโลก",
+    "Grymuar Zero",
+    "El mágico libro de Zero",
+    "从零开始的魔法书",
+    "제로부터 시작하는 마법의 서",
+    "Attack on Titan Season 2",
+    "Shingeki no Kyojin Season 2",
+    "進撃の巨人 Season 2"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx97682-YRhTwV979zSr.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "97682",
+      "url": "https://anilist.co/anime/97682"
+    },
+    "cr": {
+      "id": "attack-on-titan",
+      "url": "https://www.crunchyroll.com/series/attack-on-titan"
+    },
+    "k": {
+      "id": "8671",
+      "url": "https://kitsu.io/anime/8671"
+    },
+    "mal": {
+      "id": "34176",
+      "url": "https://myanimelist.net/anime/34176"
+    },
+    "nf": {
+      "id": "80192979",
+      "url": "https://www.netflix.com/title/80192979"
+    },
+    "t": {
+      "id": "1420",
+      "url": "https://trakt.tv/shows/1420"
+    },
+    "tx": {
+      "id": "zeronosyo",
+      "url": "https://twitter.com/zeronosyo"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3642,
+  "slug": "summer-specials",
+  "kind": "anime",
+  "title": "_summer Specials",
+  "titles": {
+    "default": "_summer Specials",
+    "romaji": "_summer Specials",
+    "native": "_summer [アンダーバーサマー] 特別"
+  },
+  "synonyms": [
+    "_summer Specials",
+    "_summer [アンダーバーサマー] 特別",
+    "Underbar Summer Specials",
+    "_Summer Specials",
+    "_summer [アンダーバーサマー]"
+  ],
+  "type": "special",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4827.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4827",
+      "url": "https://anilist.co/anime/4827"
+    },
+    "k": {
+      "id": "3813",
+      "url": "https://kitsu.io/anime/3813"
+    },
+    "mal": {
+      "id": "4827",
+      "url": "https://myanimelist.net/anime/4827"
+    }
+  }
+}

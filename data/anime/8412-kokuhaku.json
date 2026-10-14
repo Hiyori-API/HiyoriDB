@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8412,
+  "slug": "kokuhaku",
+  "kind": "anime",
+  "title": "Kokuhaku",
+  "titles": {
+    "default": "Kokuhaku",
+    "romaji": "Kokuhaku",
+    "native": "コクハク"
+  },
+  "synonyms": [
+    "Kokuhaku",
+    "コクハク",
+    "Overlord: Ple Ple Pleiades - Special Edition",
+    "ぷれぷれぷれあです特別編",
+    "Ple Ple Pleiades Special Edition"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/101086-LZ6wVAuvgNHm.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101086",
+      "url": "https://anilist.co/anime/101086"
+    },
+    "mal": {
+      "id": "31634",
+      "url": "https://myanimelist.net/anime/31634"
+    },
+    "yt": {
+      "id": "XVAcXqV8RsI",
+      "url": "https://www.youtube.com/watch?v=XVAcXqV8RsI"
+    }
+  }
+}

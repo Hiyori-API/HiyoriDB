@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3741,
+  "slug": "fabre-sensei-wa-meitantei",
+  "kind": "anime",
+  "title": "Fabre Sensei wa Meitantei",
+  "titles": {
+    "default": "Fabre Sensei wa Meitantei",
+    "romaji": "Fabre Sensei wa Meitantei",
+    "english": "Dr. Fabre is a Detective",
+    "native": "ファーブル先生は名探偵"
+  },
+  "synonyms": [
+    "Fabre Sensei wa Meitantei",
+    "Dr. Fabre is a Detective",
+    "ファーブル先生は名探偵",
+    "Inspector Fabre",
+    "Fabre-sensei wa Meitantei"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5088.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5088",
+      "url": "https://anilist.co/anime/5088"
+    },
+    "k": {
+      "id": "3923",
+      "url": "https://kitsu.io/anime/3923"
+    },
+    "mal": {
+      "id": "5088",
+      "url": "https://myanimelist.net/anime/5088"
+    }
+  }
+}

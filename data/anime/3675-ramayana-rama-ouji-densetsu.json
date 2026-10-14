@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3675,
+  "slug": "ramayana-rama-ouji-densetsu",
+  "kind": "anime",
+  "title": "Ramayana: Rama Ouji Densetsu",
+  "titles": {
+    "default": "Ramayana: Rama Ouji Densetsu",
+    "romaji": "Ramayana: Rama Ouji Densetsu",
+    "english": "Ramayana: The Legend of Prince Rama",
+    "native": "ラーマヤーナ ラーマ王子伝説"
+  },
+  "synonyms": [
+    "Ramayana: Rama Ouji Densetsu",
+    "Ramayana: The Legend of Prince Rama",
+    "ラーマヤーナ ラーマ王子伝説",
+    "The Warrior Prince",
+    "Kingyo Chuuihou! (Movie)",
+    "きんぎょ注意報！",
+    "Goldfish Warning! The Movie"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4921-VA0YoWZBkNpQ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4921",
+      "url": "https://anilist.co/anime/4921"
+    },
+    "k": {
+      "id": "2828",
+      "url": "https://kitsu.io/anime/2828"
+    },
+    "mal": {
+      "id": "4921",
+      "url": "https://myanimelist.net/anime/4921"
+    }
+  }
+}

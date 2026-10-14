@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10899,
+  "slug": "kurogane-no-linebarrels-ova",
+  "kind": "anime",
+  "title": "Kurogane no Linebarrels OVA",
+  "titles": {
+    "default": "Kurogane no Linebarrels OVA",
+    "romaji": "Kurogane no Linebarrels OVA",
+    "english": "Linebarrels of Iron OVA",
+    "native": "鉄のラインバレル OVA"
+  },
+  "synonyms": [
+    "Kurogane no Linebarrels OVA",
+    "Linebarrels of Iron OVA",
+    "鉄のラインバレル OVA",
+    "Mobile Suit Gundam ZZ: Gundam Frag.",
+    "Kidou Senshi Gundam ZZ: Gundam Frag.",
+    "機動戦士ガンダムZZ: GUNDAM FRAG."
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx7540-2yVERJSYCESK.png"
+  ],
+  "references": {
+    "al": {
+      "id": "7540",
+      "url": "https://anilist.co/anime/7540"
+    },
+    "k": {
+      "id": "5831",
+      "url": "https://kitsu.io/anime/5831"
+    },
+    "mal": {
+      "id": "7540",
+      "url": "https://myanimelist.net/anime/7540"
+    }
+  }
+}

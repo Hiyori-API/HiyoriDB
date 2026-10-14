@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8763,
+  "slug": "kuma-miko-ovas",
+  "kind": "anime",
+  "title": "Kuma Miko OVAs",
+  "titles": {
+    "default": "Kuma Miko OVAs",
+    "romaji": "Kuma Miko OVAs",
+    "english": "Kumamiko -Girl Meets Bear Specials",
+    "native": "くまみこ OVAs"
+  },
+  "synonyms": [
+    "Kuma Miko OVAs",
+    "Kumamiko -Girl Meets Bear Specials",
+    "くまみこ OVAs",
+    "初雪の日",
+    "Hatsuyuki no Hi",
+    "ナッちゃん、衝撃デビュー!",
+    "Nacchan, Shougeki Debut!",
+    "Kuma Miko Specials",
+    "Sugar: A Little Snow Fairy Summer Special",
+    "Chicchana Yukitsukai Sugar Specials",
+    "ちっちゃな雪使いシュガー特別編",
+    "Chiccha na Yukitsukai Sugar Special",
+    "Chiccha na Yukitsukai Sugar Tokubetsu Hen"
+  ],
+  "type": "special",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21784-Fw0CjBGzqZoT.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21784",
+      "url": "https://anilist.co/anime/21784"
+    },
+    "k": {
+      "id": "904",
+      "url": "https://kitsu.io/anime/904"
+    },
+    "mal": {
+      "id": "33118",
+      "url": "https://myanimelist.net/anime/33118"
+    },
+    "tx": {
+      "id": "kmmk_anime",
+      "url": "https://twitter.com/kmmk_anime"
+    }
+  }
+}

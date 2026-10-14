@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4427,
+  "slug": "cynical-hysterie-hour-yoru-wa-tanoshii",
+  "kind": "anime",
+  "title": "Cynical Hysterie Hour: Yoru wa Tanoshii",
+  "titles": {
+    "default": "Cynical Hysterie Hour: Yoru wa Tanoshii",
+    "romaji": "Cynical Hysterie Hour: Yoru wa Tanoshii",
+    "native": "シニカル・ヒステリー・アワー 夜は楽しい"
+  },
+  "synonyms": [
+    "Cynical Hysterie Hour: Yoru wa Tanoshii",
+    "シニカル・ヒステリー・アワー 夜は楽しい",
+    "Cynical Hysterie Hour: Through the Night"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6761.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6761",
+      "url": "https://anilist.co/anime/6761"
+    },
+    "k": {
+      "id": "4703",
+      "url": "https://kitsu.io/anime/4703"
+    },
+    "mal": {
+      "id": "6761",
+      "url": "https://myanimelist.net/anime/6761"
+    }
+  }
+}

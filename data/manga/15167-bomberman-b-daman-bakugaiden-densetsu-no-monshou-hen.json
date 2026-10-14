@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15167,
+  "slug": "bomberman-b-daman-bakugaiden-densetsu-no-monshou-hen",
+  "kind": "manga",
+  "title": "Bomberman B-Daman Bakugaiden: Densetsu no Monshou-hen",
+  "titles": {
+    "default": "Bomberman B-Daman Bakugaiden: Densetsu no Monshou-hen"
+  },
+  "synonyms": [
+    "BB-Daman Bakugaiden",
+    "Bakugaiden",
+    "Bomberman Bakugaiden",
+    "Bakugaiden III",
+    "ボンバーマン・ビーダマン爆外伝 伝説の紋章編",
+    "Love Hina",
+    "ラブひな"
+  ],
+  "type": "manga",
+  "chapters": 4,
+  "volumes": 1,
+  "status": "finished",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b176480-nubwCkIGZs6N.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1672",
+      "url": "https://anilist.co/anime/1672"
+    },
+    "al_manga": {
+      "id": "1672",
+      "url": "https://anilist.co/manga/1672"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10019,
+  "slug": "kaijuu-no-kodomo",
+  "kind": "anime",
+  "title": "Kaijuu no Kodomo",
+  "titles": {
+    "default": "Kaijuu no Kodomo",
+    "romaji": "Kaijuu no Kodomo",
+    "english": "Children of the Sea",
+    "native": "海獣の子供"
+  },
+  "synonyms": [
+    "Kaijuu no Kodomo",
+    "Children of the Sea",
+    "海獣の子供",
+    "Los Niños del Mar",
+    "Les enfants de la Mer",
+    "海兽之子",
+    "Дети моря",
+    "I figli del mare",
+    "Dzieci morza",
+    "Cencoroll 2",
+    "センコロール"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103221-Ol5OyQ8fbTqH.png"
+  ],
+  "references": {
+    "al": {
+      "id": "103221",
+      "url": "https://anilist.co/anime/103221"
+    },
+    "k": {
+      "id": "5749",
+      "url": "https://kitsu.io/anime/5749"
+    },
+    "mal": {
+      "id": "37981",
+      "url": "https://myanimelist.net/anime/37981"
+    },
+    "nf": {
+      "id": "81208104",
+      "url": "https://www.netflix.com/title/81208104"
+    },
+    "tx": {
+      "id": "kaiju_no_kodomo",
+      "url": "https://twitter.com/kaiju_no_kodomo"
+    }
+  }
+}

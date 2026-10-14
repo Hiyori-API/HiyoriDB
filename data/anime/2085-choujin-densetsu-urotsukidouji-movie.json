@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2085,
+  "slug": "choujin-densetsu-urotsukidouji-movie",
+  "kind": "anime",
+  "title": "Choujin Densetsu Urotsukidouji Movie",
+  "titles": {
+    "default": "Choujin Densetsu Urotsukidouji Movie",
+    "romaji": "Choujin Densetsu Urotsukidouji Movie",
+    "native": "超神伝説うろつき童子"
+  },
+  "synonyms": [
+    "Choujin Densetsu Urotsukidouji Movie",
+    "超神伝説うろつき童子",
+    "Urotsukidoji: Legend of the Overfiend Movie",
+    "Karura Mau Movie",
+    "Hengen Taima Yakou Karura Mau! Nara Onryou Emaki",
+    "変幻退魔夜行 カルラ舞う！ 奈良怨霊絵巻",
+    "Karura Dance",
+    "Hengentai Mayakou Karura Mau! Nara Onryou Emaki",
+    "Hengentaimayakou Karuramau! Naraon'ryouemaki"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2359.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2359",
+      "url": "https://anilist.co/anime/2359"
+    },
+    "k": {
+      "id": "2841",
+      "url": "https://kitsu.io/anime/2841"
+    },
+    "mal": {
+      "id": "2359",
+      "url": "https://myanimelist.net/anime/2359"
+    }
+  }
+}

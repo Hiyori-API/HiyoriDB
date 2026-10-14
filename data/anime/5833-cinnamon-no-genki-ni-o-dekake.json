@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5833,
+  "slug": "cinnamon-no-genki-ni-o-dekake",
+  "kind": "anime",
+  "title": "Cinnamon no Genki ni o Dekake",
+  "titles": {
+    "default": "Cinnamon no Genki ni o Dekake",
+    "romaji": "Cinnamon no Genki ni o Dekake",
+    "native": "シナモンのげんきにおでかけ"
+  },
+  "synonyms": [
+    "Cinnamon no Genki ni o Dekake",
+    "シナモンのげんきにおでかけ",
+    "Master of Martial Hearts",
+    "Zettai Shougeki: Platonic Heart",
+    "絶対衝激～プラトニックハート～",
+    "Zettai Shogeki"
+  ],
+  "type": "ova",
+  "episodes": 5,
+  "status": "finished",
+  "season": "winter",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b169828-0xBT9xk293RK.png"
+  ],
+  "references": {
+    "al": {
+      "id": "169828",
+      "url": "https://anilist.co/anime/169828"
+    },
+    "cr": {
+      "id": "master-of-martial-hearts",
+      "url": "https://www.crunchyroll.com/series/master-of-martial-hearts"
+    },
+    "k": {
+      "id": "3886",
+      "url": "https://kitsu.io/anime/3886"
+    },
+    "mal": {
+      "id": "52145",
+      "url": "https://myanimelist.net/anime/52145"
+    }
+  }
+}

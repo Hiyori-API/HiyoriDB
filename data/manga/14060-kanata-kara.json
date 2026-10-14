@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14060,
+  "slug": "kanata-kara",
+  "kind": "manga",
+  "title": "Kanata Kara",
+  "titles": {
+    "default": "Kanata Kara"
+  },
+  "synonyms": [
+    "From the Other Side",
+    "Mata Ashita!",
+    "また明日!",
+    "From Far Away",
+    "彼方から",
+    "Kanata kara"
+  ],
+  "type": "manga",
+  "chapters": 61,
+  "volumes": 14,
+  "status": "finished",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30923-jNYRWiCeTitU.png"
+  ],
+  "references": {
+    "al": {
+      "id": "209463",
+      "url": "https://anilist.co/anime/209463"
+    },
+    "al_manga": {
+      "id": "209463",
+      "url": "https://anilist.co/manga/209463"
+    }
+  }
+}

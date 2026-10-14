@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6937,
+  "slug": "sukitte-ii-na-yo",
+  "kind": "anime",
+  "title": "Sukitte Ii na yo.",
+  "titles": {
+    "default": "Sukitte Ii na yo.",
+    "romaji": "Sukitte Ii na yo.",
+    "english": "Say \"I love you\".",
+    "native": "好きっていいなよ。"
+  },
+  "synonyms": [
+    "Sukitte Ii na yo.",
+    "Say \"I love you\".",
+    "好きっていいなよ。",
+    "Sukinayo",
+    "Kill Me Baby",
+    "キルミーベイベー",
+    "Baby",
+    "Please Kill Me."
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx14289-vRTzC8u4XuvW.png"
+  ],
+  "references": {
+    "al": {
+      "id": "14289",
+      "url": "https://anilist.co/anime/14289"
+    },
+    "k": {
+      "id": "6454",
+      "url": "https://kitsu.io/anime/6454"
+    },
+    "mal": {
+      "id": "14289",
+      "url": "https://myanimelist.net/anime/14289"
+    },
+    "t": {
+      "id": "65264",
+      "url": "https://trakt.tv/shows/65264"
+    },
+    "tx": {
+      "id": "sukinayo_anime",
+      "url": "https://twitter.com/sukinayo_anime"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14779,
+  "slug": "wata-no-kuni-hoshi",
+  "kind": "manga",
+  "title": "Wata no Kuni Hoshi",
+  "titles": {
+    "default": "Wata no Kuni Hoshi"
+  },
+  "synonyms": [
+    "The Star of Cottonland",
+    "A Star over the Cotton Country",
+    "Cotton Land",
+    "綿の国星",
+    "Those Obnoxious Aliens",
+    "Urusei Yatsura",
+    "うる星やつら",
+    "Lum",
+    "The Return of Lum",
+    "Lamu",
+    "the Invader Girl"
+  ],
+  "type": "manga",
+  "chapters": 30,
+  "volumes": 7,
+  "status": "finished",
+  "year": 1978,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx39280-8Ftx4M2QwdLM.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101815",
+      "url": "https://anilist.co/anime/1207"
+    },
+    "al_manga": {
+      "id": "101815",
+      "url": "https://anilist.co/manga/101815"
+    }
+  }
+}

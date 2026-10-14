@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2231,
+  "slug": "kekko-kamen",
+  "kind": "anime",
+  "title": "Kekko Kamen",
+  "titles": {
+    "default": "Kekko Kamen",
+    "romaji": "Kekko Kamen",
+    "native": "けっこう仮面"
+  },
+  "synonyms": [
+    "Kekko Kamen",
+    "けっこう仮面",
+    "Delicious Mask",
+    "Splendid Mask",
+    "Kekkou Kamen",
+    "Kekko Kamen - La maschera libidinosa",
+    "The Adventures of Kekkou Kamen",
+    "Doomed Megalopolis",
+    "Teito Monogatari",
+    "帝都物語",
+    "Capital Story"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "summer",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2525-KgfawU1lgTDO.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2525",
+      "url": "https://anilist.co/anime/2525"
+    },
+    "k": {
+      "id": "1029",
+      "url": "https://kitsu.io/anime/1029"
+    },
+    "mal": {
+      "id": "2525",
+      "url": "https://myanimelist.net/anime/2525"
+    }
+  }
+}

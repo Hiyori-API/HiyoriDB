@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14497,
+  "slug": "bbb-koushiki-comic-anthology-black-blood-brothers-ver-c",
+  "kind": "manga",
+  "title": "\"BBB\" Koushiki Comic Anthology: BLACK BLOOD BROTHERS Ver.C",
+  "titles": {
+    "default": "\"BBB\" Koushiki Comic Anthology: BLACK BLOOD BROTHERS Ver.C"
+  },
+  "synonyms": [
+    "B.B.B ver C",
+    "BLACK BLOOD BROTHERS Ver.C",
+    "『BBB』公式コミックアンソロジー BLACK BLOOD BROTHERS Ver.C",
+    "Gekiryuuchi",
+    "激流血～OVER BLEED～",
+    "Over Bleed"
+  ],
+  "type": "manga",
+  "chapters": 5,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx34174-VfUPYS5zw9Ph.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1498",
+      "url": "https://anilist.co/anime/1498"
+    },
+    "al_manga": {
+      "id": "1498",
+      "url": "https://anilist.co/manga/1498"
+    }
+  }
+}

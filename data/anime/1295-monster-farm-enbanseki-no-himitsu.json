@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1295,
+  "slug": "monster-farm-enbanseki-no-himitsu",
+  "kind": "anime",
+  "title": "Monster Farm: Enbanseki no Himitsu",
+  "titles": {
+    "default": "Monster Farm: Enbanseki no Himitsu",
+    "romaji": "Monster Farm: Enbanseki no Himitsu",
+    "english": "Monster Rancher",
+    "native": "モンスターファーム 〜円盤石の秘密〜"
+  },
+  "synonyms": [
+    "Monster Farm: Enbanseki no Himitsu",
+    "Monster Rancher",
+    "モンスターファーム 〜円盤石の秘密〜",
+    "モンスターファーム"
+  ],
+  "type": "tv",
+  "episodes": 48,
+  "status": "finished",
+  "season": "spring",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1469-7kKoYlntt8qV.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1469",
+      "url": "https://anilist.co/anime/1469"
+    },
+    "ap": {
+      "id": "B07Y8YSFGK",
+      "url": "https://www.amazon.com/gp/video/detail/B07Y8YSFGK"
+    },
+    "k": {
+      "id": "1315",
+      "url": "https://kitsu.io/anime/1315"
+    },
+    "mal": {
+      "id": "1469",
+      "url": "https://myanimelist.net/anime/1469"
+    },
+    "t": {
+      "id": "15065",
+      "url": "https://trakt.tv/shows/15065"
+    },
+    "ttv": {
+      "id": "2099",
+      "url": "https://tubitv.com/series/2099"
+    }
+  }
+}

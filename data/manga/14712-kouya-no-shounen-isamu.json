@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14712,
+  "slug": "kouya-no-shounen-isamu",
+  "kind": "manga",
+  "title": "Kouya no Shounen Isamu",
+  "titles": {
+    "default": "Kouya no Shounen Isamu"
+  },
+  "synonyms": [
+    "Sam il ragazzo del West",
+    "Boy of the Wilderness Isamu",
+    "Isam - Go Into the Wild West",
+    "The Rough and Ready Cowboy",
+    "荒野の少年イサム",
+    "Again",
+    "アゲイン"
+  ],
+  "type": "manga",
+  "chapters": 37,
+  "volumes": 12,
+  "status": "finished",
+  "year": 1971,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx102867-xvLSe007jkhv.png"
+  ],
+  "references": {
+    "al": {
+      "id": "4597",
+      "url": "https://anilist.co/anime/4597"
+    },
+    "al_manga": {
+      "id": "4597",
+      "url": "https://anilist.co/manga/4597"
+    }
+  }
+}

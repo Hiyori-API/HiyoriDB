@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1671,
+  "slug": "lucky-star",
+  "kind": "anime",
+  "title": "Lucky☆Star",
+  "titles": {
+    "default": "Lucky☆Star",
+    "romaji": "Lucky☆Star",
+    "native": "らき☆すた"
+  },
+  "synonyms": [
+    "Lucky☆Star",
+    "らき☆すた",
+    "Lucky Star"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "spring",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1887-P36Pucd4qKji.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1887",
+      "url": "https://anilist.co/anime/1887"
+    },
+    "cr": {
+      "id": "series/GY8V7NP8Y/lucky-star",
+      "url": "https://www.crunchyroll.com/series/series/GY8V7NP8Y/lucky-star"
+    },
+    "k": {
+      "id": "1697",
+      "url": "https://kitsu.io/anime/1697"
+    },
+    "mal": {
+      "id": "1887",
+      "url": "https://myanimelist.net/anime/1887"
+    },
+    "t": {
+      "id": "42276",
+      "url": "https://trakt.tv/shows/42276"
+    }
+  }
+}

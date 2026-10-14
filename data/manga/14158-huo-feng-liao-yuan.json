@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14158,
+  "slug": "huo-feng-liao-yuan",
+  "kind": "manga",
+  "title": "Huo Feng Liao Yuan",
+  "titles": {
+    "default": "Huo Feng Liao Yuan"
+  },
+  "synonyms": [
+    "Kahou Ryougen",
+    "三国志群雄伝火鳳燎原",
+    "Sangokushi Gunyuuden Kahou Ryougen",
+    "Sanguozhi Qunxiongzhuan: Huo Feng Liao Yuan",
+    "The Ravages of Time",
+    "火鳳燎原",
+    "Finder Series",
+    "ファインダーシリーズ",
+    "Finder no Hyouteki",
+    "Finder no Ori",
+    "Finder no Sekiyoku",
+    "Love Prize",
+    "Love Surprise",
+    "Target in the Finder",
+    "One Wing",
+    "Baked Sweet Glasses",
+    "Risky Society - God Bless My Justice",
+    "Love Lesson",
+    "Koi wo Suru Shokubutsu",
+    "You're My Loveprize in Viewfinder"
+  ],
+  "type": "manga",
+  "status": "publishing",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31320-34hlJNSVlvbb.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "114107",
+      "url": "https://anilist.co/anime/114107"
+    },
+    "al_manga": {
+      "id": "114107",
+      "url": "https://anilist.co/manga/114107"
+    }
+  }
+}

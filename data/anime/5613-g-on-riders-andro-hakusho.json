@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5613,
+  "slug": "g-on-riders-andro-hakusho",
+  "kind": "anime",
+  "title": "G-on Riders: Andro Hakusho",
+  "titles": {
+    "default": "G-on Riders: Andro Hakusho",
+    "romaji": "G-on Riders: Andro Hakusho",
+    "native": "G-onらいだーす アンドロ白書"
+  },
+  "synonyms": [
+    "G-on Riders: Andro Hakusho",
+    "G-onらいだーす アンドロ白書",
+    "G-on Riders OVA",
+    "G-on Riders Special",
+    "Munto",
+    "MUNTO [ムント]"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b145503-700PM2QxXG7N.png"
+  ],
+  "references": {
+    "al": {
+      "id": "145503",
+      "url": "https://anilist.co/anime/145503"
+    },
+    "k": {
+      "id": "1054",
+      "url": "https://kitsu.io/anime/1054"
+    },
+    "mal": {
+      "id": "24637",
+      "url": "https://myanimelist.net/anime/24637"
+    }
+  }
+}

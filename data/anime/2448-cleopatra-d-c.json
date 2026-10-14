@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2448,
+  "slug": "cleopatra-d-c",
+  "kind": "anime",
+  "title": "Cleopatra D.C.",
+  "titles": {
+    "default": "Cleopatra D.C.",
+    "romaji": "Cleopatra D.C.",
+    "native": "クレオパトラＤ．Ｃ"
+  },
+  "synonyms": [
+    "Cleopatra D.C.",
+    "クレオパトラＤ．Ｃ",
+    "Cleopatra DC"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "spring",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2754.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2754",
+      "url": "https://anilist.co/anime/2754"
+    },
+    "k": {
+      "id": "2514",
+      "url": "https://kitsu.io/anime/2514"
+    },
+    "mal": {
+      "id": "2754",
+      "url": "https://myanimelist.net/anime/2754"
+    }
+  }
+}

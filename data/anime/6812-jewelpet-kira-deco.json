@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6812,
+  "slug": "jewelpet-kira-deco",
+  "kind": "anime",
+  "title": "Jewelpet Kira☆Deco!",
+  "titles": {
+    "default": "Jewelpet Kira☆Deco!",
+    "romaji": "Jewelpet Kira☆Deco!",
+    "native": "ジュエルペットきら☆デコッ!"
+  },
+  "synonyms": [
+    "Jewelpet Kira☆Deco!",
+    "ジュエルペットきら☆デコッ!"
+  ],
+  "type": "tv",
+  "episodes": 52,
+  "status": "finished",
+  "season": "spring",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12963-et2cMSnaKF1r.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12963",
+      "url": "https://anilist.co/anime/12963"
+    },
+    "k": {
+      "id": "6857",
+      "url": "https://kitsu.io/anime/6857"
+    },
+    "mal": {
+      "id": "12963",
+      "url": "https://myanimelist.net/anime/12963"
+    },
+    "t": {
+      "id": "78479",
+      "url": "https://trakt.tv/shows/78479"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15312,
+  "slug": "phantom-requiem-for-the-phantom",
+  "kind": "manga",
+  "title": "Phantom: Requiem for the Phantom",
+  "titles": {
+    "default": "Phantom: Requiem for the Phantom"
+  },
+  "synonyms": [
+    "Phantom",
+    "Phantom ～Requiem for the Phantom～",
+    "Simple Knot Loafers",
+    "シンプルノットローファー",
+    "Shinpuru Notto Rofa",
+    "Shinpuru Notto Roofaa",
+    "Simple Not Loafer"
+  ],
+  "type": "manga",
+  "chapters": 13,
+  "volumes": 3,
+  "status": "finished",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx44804-kPBynwgIrWE9.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5682",
+      "url": "https://anilist.co/anime/5682"
+    },
+    "al_manga": {
+      "id": "5682",
+      "url": "https://anilist.co/manga/5682"
+    }
+  }
+}

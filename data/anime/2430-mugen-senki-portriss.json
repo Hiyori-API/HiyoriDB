@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2430,
+  "slug": "mugen-senki-portriss",
+  "kind": "anime",
+  "title": "Mugen Senki Portriss",
+  "titles": {
+    "default": "Mugen Senki Portriss",
+    "romaji": "Mugen Senki Portriss",
+    "native": "無限戦記ポトリス"
+  },
+  "synonyms": [
+    "Mugen Senki Portriss",
+    "無限戦記ポトリス",
+    "Tank Knights Portriss",
+    "Mugen Senki Fortress"
+  ],
+  "type": "tv",
+  "episodes": 52,
+  "status": "finished",
+  "season": "spring",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2735-NQAu3EkYKvmv.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2735",
+      "url": "https://anilist.co/anime/2735"
+    },
+    "k": {
+      "id": "2495",
+      "url": "https://kitsu.io/anime/2495"
+    },
+    "mal": {
+      "id": "2735",
+      "url": "https://myanimelist.net/anime/2735"
+    }
+  }
+}

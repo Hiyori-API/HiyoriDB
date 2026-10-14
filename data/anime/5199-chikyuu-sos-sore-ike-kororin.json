@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5199,
+  "slug": "chikyuu-sos-sore-ike-kororin",
+  "kind": "anime",
+  "title": "Chikyuu SOS Sore Ike Kororin",
+  "titles": {
+    "default": "Chikyuu SOS Sore Ike Kororin",
+    "romaji": "Chikyuu SOS Sore Ike Kororin",
+    "english": "Do it Kororin Earth SOS",
+    "native": "地球SOSそれいけコロリン"
+  },
+  "synonyms": [
+    "Chikyuu SOS Sore Ike Kororin",
+    "Do it Kororin Earth SOS",
+    "地球SOSそれいけコロリン"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/14623.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "14623",
+      "url": "https://anilist.co/anime/14623"
+    },
+    "k": {
+      "id": "7142",
+      "url": "https://kitsu.io/anime/7142"
+    },
+    "mal": {
+      "id": "14623",
+      "url": "https://myanimelist.net/anime/14623"
+    }
+  }
+}

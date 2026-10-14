@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3421,
+  "slug": "ryuu-seiki",
+  "kind": "anime",
+  "title": "Ryuu Seiki",
+  "titles": {
+    "default": "Ryuu Seiki",
+    "romaji": "Ryuu Seiki",
+    "english": "Dragon Century",
+    "native": "竜世紀"
+  },
+  "synonyms": [
+    "Ryuu Seiki",
+    "Dragon Century",
+    "竜世紀"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4318-tqYvkxs9sHrj.png"
+  ],
+  "references": {
+    "al": {
+      "id": "4318",
+      "url": "https://anilist.co/anime/4318"
+    },
+    "k": {
+      "id": "3555",
+      "url": "https://kitsu.io/anime/3555"
+    },
+    "mal": {
+      "id": "4318",
+      "url": "https://myanimelist.net/anime/4318"
+    }
+  }
+}

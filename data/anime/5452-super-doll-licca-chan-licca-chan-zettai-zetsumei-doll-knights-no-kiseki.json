@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5452,
+  "slug": "super-doll-licca-chan-licca-chan-zettai-zetsumei-doll-knights-no-kiseki",
+  "kind": "anime",
+  "title": "Super Doll★Licca-chan: Licca-chan Zettai Zetsumei! Doll Knights no Kiseki",
+  "titles": {
+    "default": "Super Doll★Licca-chan: Licca-chan Zettai Zetsumei! Doll Knights no Kiseki",
+    "romaji": "Super Doll★Licca-chan: Licca-chan Zettai Zetsumei! Doll Knights no Kiseki",
+    "native": "スーパードール★リカちゃん リカちゃん絶体絶命! ドールナイツの奇跡"
+  },
+  "synonyms": [
+    "Super Doll★Licca-chan: Licca-chan Zettai Zetsumei! Doll Knights no Kiseki",
+    "スーパードール★リカちゃん リカちゃん絶体絶命! ドールナイツの奇跡",
+    "Super Doll Liccachan: Rika-chan's Desperate Situation! The Doll Knights' Miracle",
+    "Super Doll Licca-chan: Licca-chan Zettai Zetsumei! Doll Knights no Kiseki"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10199.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10199",
+      "url": "https://anilist.co/anime/10199"
+    },
+    "k": {
+      "id": "6073",
+      "url": "https://kitsu.io/anime/6073"
+    },
+    "mal": {
+      "id": "10199",
+      "url": "https://myanimelist.net/anime/10199"
+    }
+  }
+}

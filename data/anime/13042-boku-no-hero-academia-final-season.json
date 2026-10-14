@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13042,
+  "slug": "boku-no-hero-academia-final-season",
+  "kind": "anime",
+  "title": "Boku no Hero Academia FINAL SEASON",
+  "titles": {
+    "default": "Boku no Hero Academia FINAL SEASON",
+    "romaji": "Boku no Hero Academia FINAL SEASON",
+    "english": "My Hero Academia FINAL SEASON",
+    "native": "僕のヒーローアカデミア FINAL SEASON"
+  },
+  "synonyms": [
+    "Boku no Hero Academia FINAL SEASON",
+    "My Hero Academia FINAL SEASON",
+    "僕のヒーローアカデミア FINAL SEASON",
+    "Boku no Hero Academia 8",
+    "My Hero Academia 8",
+    "BNHA 8",
+    "MHA 8",
+    "Моя геройская академия 8",
+    "ヒロアカ 8",
+    "มายฮีโร่ อคาเดเมีย ไฟนอลซีซัน",
+    "My Hero Academia Final Season",
+    "Boku no Hero Academia: Final Season"
+  ],
+  "type": "tv",
+  "episodes": 11,
+  "status": "finished",
+  "season": "fall",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182896-mvxTVHGdDB4q.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "182896",
+      "url": "https://anilist.co/anime/182896"
+    },
+    "cr": {
+      "id": "series/G6NQ5DWZ6/my-hero-academia",
+      "url": "https://www.crunchyroll.com/series/series/G6NQ5DWZ6/my-hero-academia"
+    },
+    "mal": {
+      "id": "60098",
+      "url": "https://myanimelist.net/anime/60098"
+    },
+    "tx": {
+      "id": "heroaca_anime",
+      "url": "https://twitter.com/heroaca_anime"
+    }
+  }
+}

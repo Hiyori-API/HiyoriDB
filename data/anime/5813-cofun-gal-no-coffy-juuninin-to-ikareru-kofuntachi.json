@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5813,
+  "slug": "cofun-gal-no-coffy-juuninin-to-ikareru-kofuntachi",
+  "kind": "anime",
+  "title": "Cofun Gal no Coffy ~Juuninin to Ikareru Kofuntachi~",
+  "titles": {
+    "default": "Cofun Gal no Coffy ~Juuninin to Ikareru Kofuntachi~",
+    "romaji": "Cofun Gal no Coffy ~Juuninin to Ikareru Kofuntachi~",
+    "english": "Tumulus Gal Coffy ~the 12 Angry Tumuli~",
+    "native": "古墳ギャルのコフィー ～１２人の怒れる古墳達～"
+  },
+  "synonyms": [
+    "Cofun Gal no Coffy ~Juuninin to Ikareru Kofuntachi~",
+    "Tumulus Gal Coffy ~the 12 Angry Tumuli~",
+    "古墳ギャルのコフィー ～１２人の怒れる古墳達～",
+    "Kofun Gal no Coffy ~Juuninin to Ikareru Kofuntachi~",
+    "Tumulus Gal Coffy: the 12 Angry Tumuli",
+    "Cofun Gal no Coffy: Juuninin to Ikareru Kofun-tachi",
+    "Kofun Gal no Coffy: Juuninin to Ikareru Kofun-tachi"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13509.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "13509",
+      "url": "https://anilist.co/anime/13509"
+    },
+    "k": {
+      "id": "6982",
+      "url": "https://kitsu.io/anime/6982"
+    },
+    "mal": {
+      "id": "13509",
+      "url": "https://myanimelist.net/anime/13509"
+    }
+  }
+}

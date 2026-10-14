@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14510,
+  "slug": "niea-under-7",
+  "kind": "manga",
+  "title": "NieA Under 7",
+  "titles": {
+    "default": "NieA Under 7"
+  },
+  "synonyms": [
+    "NieA_7",
+    "NieA",
+    "NieA Under 7",
+    "ニア アンダーセブン",
+    "Paradise Kiss",
+    "パラダイス・キス",
+    "ParaKiss"
+  ],
+  "type": "manga",
+  "chapters": 15,
+  "volumes": 2,
+  "status": "finished",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4342.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "800",
+      "url": "https://anilist.co/anime/800"
+    },
+    "al_manga": {
+      "id": "800",
+      "url": "https://anilist.co/manga/800"
+    }
+  }
+}

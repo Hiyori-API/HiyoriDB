@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2329,
+  "slug": "the-doraemons-mushimushi-pyonpyon-daisakusen",
+  "kind": "anime",
+  "title": "The☆Doraemons: Mushimushi Pyonpyon Daisakusen!",
+  "titles": {
+    "default": "The☆Doraemons: Mushimushi Pyonpyon Daisakusen!",
+    "romaji": "The☆Doraemons: Mushimushi Pyonpyon Daisakusen!",
+    "native": "ザ☆ドラえもんズ ムシムシぴょんぴょん大作戦！"
+  },
+  "synonyms": [
+    "The☆Doraemons: Mushimushi Pyonpyon Daisakusen!",
+    "ザ☆ドラえもんズ ムシムシぴょんぴょん大作戦！",
+    "Crayon Shin-chan Movie 06: Dengeki! Buta no Hizume Daisakusen",
+    "映画 クレヨンしんちゃん　電撃！ブタのヒヅメ大作戦",
+    "Eiga Crayon Shin-chan: Dengeki! Buta no Hizume Daisakusen",
+    "Crayon Shin-chan: Blitzkrieg! Pig's Hoof's Secret Mission"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2626-8nbkTCdQIdEU.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2626",
+      "url": "https://anilist.co/anime/2626"
+    },
+    "k": {
+      "id": "5309",
+      "url": "https://kitsu.io/anime/5309"
+    },
+    "mal": {
+      "id": "2626",
+      "url": "https://myanimelist.net/anime/2626"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1503,
+  "slug": "yoru-ga-kuru",
+  "kind": "anime",
+  "title": "Yoru ga Kuru!",
+  "titles": {
+    "default": "Yoru ga Kuru!",
+    "romaji": "Yoru ga Kuru!",
+    "english": "Square Of The Moon: The Night Is Coming!",
+    "native": "夜が来る!"
+  },
+  "synonyms": [
+    "Yoru ga Kuru!",
+    "Square Of The Moon: The Night Is Coming!",
+    "夜が来る!",
+    "Yoru ga Kuru! Square of the Moon",
+    "Arcade Gamer Fubuki",
+    "アーケードゲーマーふぶき"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "spring",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1702.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1702",
+      "url": "https://anilist.co/anime/1702"
+    },
+    "k": {
+      "id": "1436",
+      "url": "https://kitsu.io/anime/1436"
+    },
+    "mal": {
+      "id": "1702",
+      "url": "https://myanimelist.net/anime/1702"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1513,
+  "slug": "shin-seiki-den-mars",
+  "kind": "anime",
+  "title": "Shin Seiki Den Mars",
+  "titles": {
+    "default": "Shin Seiki Den Mars",
+    "romaji": "Shin Seiki Den Mars",
+    "native": "神世紀伝　マーズ"
+  },
+  "synonyms": [
+    "Shin Seiki Den Mars",
+    "神世紀伝　マーズ",
+    "Shinseikiden Mars",
+    "Mars",
+    "New Century Legend Mars",
+    "Mars the Terminator"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1712-v6gs8NM01x8R.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1712",
+      "url": "https://anilist.co/anime/1712"
+    },
+    "k": {
+      "id": "1537",
+      "url": "https://kitsu.io/anime/1537"
+    },
+    "mal": {
+      "id": "1712",
+      "url": "https://myanimelist.net/anime/1712"
+    }
+  }
+}

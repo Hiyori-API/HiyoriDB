@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13800,
+  "slug": "mahoromatic",
+  "kind": "manga",
+  "title": "Mahoromatic",
+  "titles": {
+    "default": "Mahoromatic"
+  },
+  "synonyms": [
+    "まほろまてぃっく",
+    "Mahoromatic"
+  ],
+  "type": "manga",
+  "chapters": 47,
+  "volumes": 8,
+  "status": "finished",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30111-3iNudKZJ1mNq.png"
+  ],
+  "references": {
+    "al": {
+      "id": "631",
+      "url": "https://anilist.co/anime/276"
+    },
+    "al_manga": {
+      "id": "631",
+      "url": "https://anilist.co/manga/631"
+    }
+  }
+}

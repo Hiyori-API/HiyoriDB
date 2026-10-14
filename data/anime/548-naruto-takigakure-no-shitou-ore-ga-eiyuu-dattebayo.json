@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 548,
+  "slug": "naruto-takigakure-no-shitou-ore-ga-eiyuu-dattebayo",
+  "kind": "anime",
+  "title": "NARUTO: Takigakure no Shitou - Ore ga Eiyuu Dattebayo!",
+  "titles": {
+    "default": "NARUTO: Takigakure no Shitou - Ore ga Eiyuu Dattebayo!",
+    "romaji": "NARUTO: Takigakure no Shitou - Ore ga Eiyuu Dattebayo!",
+    "english": "Naruto: The Lost Story - Mission: Protect the Waterfall Village",
+    "native": "NARUTO -ナルト- 滝隠れの死闘 オレが英雄だってばよ！"
+  },
+  "synonyms": [
+    "NARUTO: Takigakure no Shitou - Ore ga Eiyuu Dattebayo!",
+    "Naruto: The Lost Story - Mission: Protect the Waterfall Village",
+    "NARUTO -ナルト- 滝隠れの死闘 オレが英雄だってばよ！",
+    "Battle at Hidden Falls. I am the Hero!",
+    "Naruto OVA 2",
+    "Naruto: Jump Festa 2004",
+    "Misión: ¡Proteger la aldea de la cascada!",
+    "Naruto: Takigakure no Shitou - Ore ga Eiyuu Dattebayo!",
+    "滝隠れの死闘　オレが英雄だってばよ!"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/594.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "594",
+      "url": "https://anilist.co/anime/594"
+    },
+    "k": {
+      "id": "549",
+      "url": "https://kitsu.io/anime/549"
+    },
+    "mal": {
+      "id": "594",
+      "url": "https://myanimelist.net/anime/594"
+    }
+  }
+}

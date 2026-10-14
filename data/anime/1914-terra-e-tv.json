@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1914,
+  "slug": "terra-e-tv",
+  "kind": "anime",
+  "title": "Terra e... (TV)",
+  "titles": {
+    "default": "Terra e... (TV)",
+    "romaji": "Terra e... (TV)",
+    "english": "Toward the Terra (TV)",
+    "native": "地球へ… (TV)"
+  },
+  "synonyms": [
+    "Terra e... (TV)",
+    "Toward the Terra (TV)",
+    "地球へ… (TV)",
+    "地球へ…",
+    "Terra e... (2007)",
+    "Terra he...",
+    "Chikyuu he",
+    "Towards the Terra..."
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "spring",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2158-HQQCVlw2B7iz.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2158",
+      "url": "https://anilist.co/anime/2158"
+    },
+    "cr": {
+      "id": "toward-the-terra",
+      "url": "https://www.crunchyroll.com/series/toward-the-terra"
+    },
+    "k": {
+      "id": "1954",
+      "url": "https://kitsu.io/anime/1954"
+    },
+    "mal": {
+      "id": "2158",
+      "url": "https://myanimelist.net/anime/2158"
+    },
+    "t": {
+      "id": "61054",
+      "url": "https://trakt.tv/shows/61054"
+    }
+  }
+}

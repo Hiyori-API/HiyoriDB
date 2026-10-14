@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 358,
+  "slug": "karas",
+  "kind": "anime",
+  "title": "KARAS",
+  "titles": {
+    "default": "KARAS",
+    "romaji": "KARAS",
+    "english": "Karas",
+    "native": "鴉 -KARAS-"
+  },
+  "synonyms": [
+    "KARAS",
+    "Karas",
+    "鴉 -KARAS-",
+    "Crow",
+    "Raven",
+    "Karas: The Prophecy",
+    "Karas: The Revelation"
+  ],
+  "type": "ova",
+  "episodes": 6,
+  "status": "finished",
+  "season": "spring",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/389.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "389",
+      "url": "https://anilist.co/anime/389"
+    },
+    "k": {
+      "id": "356",
+      "url": "https://kitsu.io/anime/356"
+    },
+    "mal": {
+      "id": "389",
+      "url": "https://myanimelist.net/anime/389"
+    }
+  }
+}

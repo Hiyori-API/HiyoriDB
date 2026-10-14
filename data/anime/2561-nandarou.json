@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2561,
+  "slug": "nandarou",
+  "kind": "anime",
+  "title": "Nandarou",
+  "titles": {
+    "default": "Nandarou",
+    "romaji": "Nandarou",
+    "native": "なんだろう"
+  },
+  "synonyms": [
+    "Nandarou",
+    "なんだろう",
+    "What Is It?"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2897.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2897",
+      "url": "https://anilist.co/anime/2897"
+    },
+    "k": {
+      "id": "2630",
+      "url": "https://kitsu.io/anime/2630"
+    },
+    "mal": {
+      "id": "2897",
+      "url": "https://myanimelist.net/anime/2897"
+    }
+  }
+}

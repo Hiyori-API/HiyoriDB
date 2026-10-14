@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7926,
+  "slug": "nemure-omoi-ko-sora-no-shitone-ni",
+  "kind": "anime",
+  "title": "Nemure Omoi Ko, Sora no Shitone ni",
+  "titles": {
+    "default": "Nemure Omoi Ko, Sora no Shitone ni",
+    "romaji": "Nemure Omoi Ko, Sora no Shitone ni",
+    "english": "Sleep tight my baby, cradled in the sky",
+    "native": "ねむれ思い子 空のしとねに"
+  },
+  "synonyms": [
+    "Nemure Omoi Ko, Sora no Shitone ni",
+    "Sleep tight my baby, cradled in the sky",
+    "ねむれ思い子 空のしとねに",
+    "Heaven’s Lost Property Final – The Movie: Eternally My Master",
+    "Sora no Otoshimono Final: Eternal My Master",
+    "そらのおとしものＦｉｎａｌ永遠の私の鳥籠［エターナルマイマスター］",
+    "Sora no Otoshimono Final: Eien no Watashi no Torikago",
+    "Sora no Otoshimono 3"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21885-LoVhf08LlmGk.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21885",
+      "url": "https://anilist.co/anime/21885"
+    },
+    "k": {
+      "id": "6812",
+      "url": "https://kitsu.io/anime/6812"
+    },
+    "mal": {
+      "id": "30473",
+      "url": "https://myanimelist.net/anime/30473"
+    }
+  }
+}

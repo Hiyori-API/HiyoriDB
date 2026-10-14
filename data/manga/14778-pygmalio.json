@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14778,
+  "slug": "pygmalio",
+  "kind": "manga",
+  "title": "Pygmalio",
+  "titles": {
+    "default": "Pygmalio"
+  },
+  "synonyms": [
+    "Pygmalion",
+    "Pigumario",
+    "ピグマリオ",
+    "Those Obnoxious Aliens",
+    "Urusei Yatsura",
+    "うる星やつら",
+    "Lum",
+    "The Return of Lum",
+    "Lamu",
+    "the Invader Girl"
+  ],
+  "type": "manga",
+  "chapters": 164,
+  "volumes": 27,
+  "status": "finished",
+  "year": 1978,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx37448-ECKH7VpBU2dn.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3765",
+      "url": "https://anilist.co/anime/3765"
+    },
+    "al_manga": {
+      "id": "3765",
+      "url": "https://anilist.co/manga/3765"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 291,
+  "slug": "najica-dengeki-sakusen",
+  "kind": "anime",
+  "title": "Najica Dengeki Sakusen",
+  "titles": {
+    "default": "Najica Dengeki Sakusen",
+    "romaji": "Najica Dengeki Sakusen",
+    "english": "Najica Blitz Tactics",
+    "native": "ナジカ電撃作戦"
+  },
+  "synonyms": [
+    "Najica Dengeki Sakusen",
+    "Najica Blitz Tactics",
+    "ナジカ電撃作戦"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/321.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "321",
+      "url": "https://anilist.co/anime/321"
+    },
+    "k": {
+      "id": "288",
+      "url": "https://kitsu.io/anime/288"
+    },
+    "mal": {
+      "id": "321",
+      "url": "https://myanimelist.net/anime/321"
+    },
+    "t": {
+      "id": "34619",
+      "url": "https://trakt.tv/shows/34619"
+    }
+  }
+}

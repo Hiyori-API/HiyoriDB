@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10823,
+  "slug": "ojamanga-yamada-kun",
+  "kind": "anime",
+  "title": "Ojamanga Yamada-kun",
+  "titles": {
+    "default": "Ojamanga Yamada-kun",
+    "romaji": "Ojamanga Yamada-kun",
+    "native": "おじゃまんが山田くん"
+  },
+  "synonyms": [
+    "Ojamanga Yamada-kun",
+    "おじゃまんが山田くん"
+  ],
+  "type": "tv",
+  "episodes": 103,
+  "status": "finished",
+  "season": "fall",
+  "year": 1980,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16530.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "16530",
+      "url": "https://anilist.co/anime/16530"
+    },
+    "k": {
+      "id": "7452",
+      "url": "https://kitsu.io/anime/7452"
+    },
+    "mal": {
+      "id": "16530",
+      "url": "https://myanimelist.net/anime/16530"
+    }
+  }
+}

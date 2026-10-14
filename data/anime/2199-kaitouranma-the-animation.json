@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2199,
+  "slug": "kaitouranma-the-animation",
+  "kind": "anime",
+  "title": "Kaitouranma: THE ANIMATION",
+  "titles": {
+    "default": "Kaitouranma: THE ANIMATION",
+    "romaji": "Kaitouranma: THE ANIMATION",
+    "english": "Samurai: Hunt for the Sword",
+    "native": "快刀乱麻 THE ANIMATION"
+  },
+  "synonyms": [
+    "Kaitouranma: THE ANIMATION",
+    "Samurai: Hunt for the Sword",
+    "快刀乱麻 THE ANIMATION",
+    "Kaitouranma The Animation"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2483.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2483",
+      "url": "https://anilist.co/anime/2483"
+    },
+    "k": {
+      "id": "2253",
+      "url": "https://kitsu.io/anime/2253"
+    },
+    "mal": {
+      "id": "2483",
+      "url": "https://myanimelist.net/anime/2483"
+    }
+  }
+}

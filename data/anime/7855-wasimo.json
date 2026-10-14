@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7855,
+  "slug": "wasimo",
+  "kind": "anime",
+  "title": "wasimo",
+  "titles": {
+    "default": "wasimo",
+    "romaji": "wasimo",
+    "native": "わしも-wasimo-"
+  },
+  "synonyms": [
+    "wasimo",
+    "わしも-wasimo-",
+    "washimo",
+    "Inari Kon Kon",
+    "Inari, Konkon, Koi Iroha.",
+    "いなり、こんこん、恋いろは。",
+    "Inari",
+    "Konkon",
+    "ABCs of Love"
+  ],
+  "type": "tv",
+  "episodes": 10,
+  "status": "finished",
+  "season": "winter",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21047-2DEa05ZiJcQL.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21047",
+      "url": "https://anilist.co/anime/21047"
+    },
+    "k": {
+      "id": "7988",
+      "url": "https://kitsu.io/anime/7988"
+    },
+    "mal": {
+      "id": "22503",
+      "url": "https://myanimelist.net/anime/22503"
+    },
+    "t": {
+      "id": "74178",
+      "url": "https://trakt.tv/shows/74178"
+    }
+  }
+}

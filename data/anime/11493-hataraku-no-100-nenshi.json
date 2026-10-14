@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11493,
+  "slug": "hataraku-no-100-nenshi",
+  "kind": "anime",
+  "title": "\"Hataraku\" no 100-nenshi",
+  "titles": {
+    "default": "\"Hataraku\" no 100-nenshi",
+    "romaji": "\"Hataraku\" no 100-nenshi",
+    "english": "100 Years of Work in Japan",
+    "native": "\"働く\"の100年史"
+  },
+  "synonyms": [
+    "\"Hataraku\" no 100-nenshi",
+    "100 Years of Work in Japan",
+    "\"働く\"の100年史",
+    "Huyao Xiao Hongniang Web Movie",
+    "Fox Spirit Matchmaker Web Movie",
+    "狐妖小红娘 月红2",
+    "Huyao Xiao Hongniang: Yue Hong 2"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b140882-PGlyYvG4bNco.png"
+  ],
+  "references": {
+    "al": {
+      "id": "140882",
+      "url": "https://anilist.co/anime/140882"
+    },
+    "mal": {
+      "id": "49668",
+      "url": "https://myanimelist.net/anime/49668"
+    },
+    "yt": {
+      "id": "kNQMX--3E5Q",
+      "url": "https://www.youtube.com/watch?v=kNQMX--3E5Q"
+    }
+  }
+}

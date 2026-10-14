@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10166,
+  "slug": "uchuu-senkan-tiramisu-ii-specials",
+  "kind": "anime",
+  "title": "Uchuu Senkan Tiramisu II Specials",
+  "titles": {
+    "default": "Uchuu Senkan Tiramisu II Specials",
+    "romaji": "Uchuu Senkan Tiramisu II Specials",
+    "english": "Space Battleship Tiramisu Zwei Specials",
+    "native": "宇宙戦艦ティラミスⅡ（ツヴァイ）"
+  },
+  "synonyms": [
+    "Uchuu Senkan Tiramisu II Specials",
+    "Space Battleship Tiramisu Zwei Specials",
+    "宇宙戦艦ティラミスⅡ（ツヴァイ）",
+    "Shakugan no Shana Specials",
+    "灼眼のシャナたん",
+    "Shakugan no Shana-tan",
+    "Shakugan no Shana-tan Returns",
+    "Itadaki no Hecate-tan",
+    "Banjou no Carmel-san"
+  ],
+  "type": "special",
+  "episodes": 4,
+  "status": "finished",
+  "season": "winter",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx107881-Ab9i09Tnlh0p.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "107881",
+      "url": "https://anilist.co/anime/107881"
+    },
+    "cr": {
+      "id": "space-battleship-tiramisu",
+      "url": "https://www.crunchyroll.com/series/space-battleship-tiramisu"
+    },
+    "k": {
+      "id": "953",
+      "url": "https://kitsu.io/anime/953"
+    },
+    "mal": {
+      "id": "39115",
+      "url": "https://myanimelist.net/anime/39115"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7385,
+  "slug": "one-piece-episode-of-merry-mou-hitori-no-nakama-no-monogatari",
+  "kind": "anime",
+  "title": "ONE PIECE: Episode of Merry - Mou Hitori no Nakama no Monogatari",
+  "titles": {
+    "default": "ONE PIECE: Episode of Merry - Mou Hitori no Nakama no Monogatari",
+    "romaji": "ONE PIECE: Episode of Merry - Mou Hitori no Nakama no Monogatari",
+    "english": "One Piece: Episode of Merry - The Tale of One More Friend",
+    "native": "ONE PIECE エピソードオブメリー 〜もうひとりの仲間の物語〜"
+  },
+  "synonyms": [
+    "ONE PIECE: Episode of Merry - Mou Hitori no Nakama no Monogatari",
+    "One Piece: Episode of Merry - The Tale of One More Friend",
+    "ONE PIECE エピソードオブメリー 〜もうひとりの仲間の物語〜",
+    "One Piece Special",
+    "One Piece: Episode of Merry - Mou Hitori no Nakama no Monogatari",
+    "ワンピース エピソード・オブ・メリー ～もうひとりの仲間の物語～"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx19123-leET1CrSJknT.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "19123",
+      "url": "https://anilist.co/anime/19123"
+    },
+    "k": {
+      "id": "7894",
+      "url": "https://kitsu.io/anime/7894"
+    },
+    "mal": {
+      "id": "19123",
+      "url": "https://myanimelist.net/anime/19123"
+    }
+  }
+}

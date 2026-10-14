@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2456,
+  "slug": "momotarou-umi-no-shinpei",
+  "kind": "anime",
+  "title": "Momotarou: Umi no Shinpei",
+  "titles": {
+    "default": "Momotarou: Umi no Shinpei",
+    "romaji": "Momotarou: Umi no Shinpei",
+    "english": "Momotaro, Sacred Sailors",
+    "native": "桃太郎　海の神兵"
+  },
+  "synonyms": [
+    "Momotarou: Umi no Shinpei",
+    "Momotaro, Sacred Sailors",
+    "桃太郎　海の神兵",
+    "Momotaro - Divine Soldiers of the Sea",
+    "Momotaro",
+    "Momotaro: Sacred Sailors",
+    "Momotaro's Divine Sea Warriors",
+    "Momotaro: Divine Soldiers of the Sea",
+    "Momotarou: Divine Soldiers of the Sea"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1945,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2765-mFlSYnsfVtzR.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2765",
+      "url": "https://anilist.co/anime/2765"
+    },
+    "k": {
+      "id": "2523",
+      "url": "https://kitsu.io/anime/2523"
+    },
+    "mal": {
+      "id": "2765",
+      "url": "https://myanimelist.net/anime/2765"
+    }
+  }
+}

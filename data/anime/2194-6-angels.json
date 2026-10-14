@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2194,
+  "slug": "6-angels",
+  "kind": "anime",
+  "title": "6 Angels",
+  "titles": {
+    "default": "6 Angels",
+    "romaji": "6 Angels",
+    "native": "シックス・エンジェルズ"
+  },
+  "synonyms": [
+    "6 Angels",
+    "シックス・エンジェルズ",
+    "Six Angels"
+  ],
+  "type": "ona",
+  "episodes": 6,
+  "status": "finished",
+  "season": "fall",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2475.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2475",
+      "url": "https://anilist.co/anime/2475"
+    },
+    "k": {
+      "id": "2248",
+      "url": "https://kitsu.io/anime/2248"
+    },
+    "mal": {
+      "id": "2475",
+      "url": "https://myanimelist.net/anime/2475"
+    }
+  }
+}

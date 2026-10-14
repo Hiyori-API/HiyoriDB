@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14207,
+  "slug": "jojo-no-kimyou-na-bouken-sentou-chouryuu",
+  "kind": "manga",
+  "title": "JoJo no Kimyou na Bouken: Sentou Chouryuu",
+  "titles": {
+    "default": "JoJo no Kimyou na Bouken: Sentou Chouryuu"
+  },
+  "synonyms": [
+    "Dai 2 Bu Joseph Joestar: Sono Hokoritakaki Kettou",
+    "JoJo's Bizarre Adventure Part 2 Joseph Joestar: His Proud Lineage",
+    "Le bizzarre avventure di JoJo: Battle Tendency",
+    "JoJo's Bizarre Adventure Part 2: Battle Tendency",
+    "ジョジョの奇妙な冒険 戦闘潮流",
+    "Ranma ½",
+    "Ranma 1/2",
+    "らんま½"
+  ],
+  "type": "manga",
+  "chapters": 69,
+  "volumes": 7,
+  "status": "finished",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31630-Fg8JERVKuWB5.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "14719",
+      "url": "https://anilist.co/anime/14719"
+    },
+    "al_manga": {
+      "id": "14719",
+      "url": "https://anilist.co/manga/14719"
+    }
+  }
+}

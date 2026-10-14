@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13599,
+  "slug": "hell-mode-yarikomi-zuki-no-gamer-wa-haisettei-no-isekai-de-musou-suru-2nd-season",
+  "kind": "anime",
+  "title": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season",
+  "titles": {
+    "default": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season",
+    "romaji": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season",
+    "english": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
+    "native": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ 2nd Season"
+  },
+  "synonyms": [
+    "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season",
+    "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
+    "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ 2nd Season",
+    "HELL MODE ~อยากเล่นโหด ขอโหมดนรก~ ซีซั่น 2",
+    "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
+    "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru 2nd Season"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209983-sFOcKyqMufxb.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "209983",
+      "url": "https://anilist.co/anime/209983"
+    },
+    "mal": {
+      "id": "63817",
+      "url": "https://myanimelist.net/anime/63817"
+    },
+    "tx": {
+      "id": "hellmode_anime",
+      "url": "https://twitter.com/hellmode_anime"
+    }
+  }
+}

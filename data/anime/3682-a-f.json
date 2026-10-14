@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3682,
+  "slug": "a-f",
+  "kind": "anime",
+  "title": "A. F",
+  "titles": {
+    "default": "A. F",
+    "romaji": "A. F",
+    "native": "Ａ.Ｆ"
+  },
+  "synonyms": [
+    "A. F",
+    "Ａ.Ｆ",
+    "Archetypes Forces",
+    "Full Moon wo Sagashite: Kawaii Kawaii Daibouken",
+    "かわいい かわいい 大冒険",
+    "Full Moon wo Sagashite: Cute Cute Big Adventure",
+    "Searching for the Full Moon: Cute Cute Adventure",
+    "Full Moon wo Sagashite: Cute Cute Adventure"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4934.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4934",
+      "url": "https://anilist.co/anime/4934"
+    },
+    "k": {
+      "id": "1797",
+      "url": "https://kitsu.io/anime/1797"
+    },
+    "mal": {
+      "id": "4934",
+      "url": "https://myanimelist.net/anime/4934"
+    }
+  }
+}

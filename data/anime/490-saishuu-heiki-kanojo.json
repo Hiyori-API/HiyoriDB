@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 490,
+  "slug": "saishuu-heiki-kanojo",
+  "kind": "anime",
+  "title": "Saishuu Heiki Kanojo",
+  "titles": {
+    "default": "Saishuu Heiki Kanojo",
+    "romaji": "Saishuu Heiki Kanojo",
+    "english": "She, The Ultimate Weapon",
+    "native": "最終兵器彼女"
+  },
+  "synonyms": [
+    "Saishuu Heiki Kanojo",
+    "She, The Ultimate Weapon",
+    "最終兵器彼女",
+    "Saikano",
+    "Saishuu Heiki Kanojo: The Last Love Song on This Little Planet",
+    "SaiKano",
+    "Saishuuheiki Kanojo: The Last Love Song on This Little Planet"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx529-oJs7fcvpnhyN.png"
+  ],
+  "references": {
+    "al": {
+      "id": "529",
+      "url": "https://anilist.co/anime/529"
+    },
+    "k": {
+      "id": "488",
+      "url": "https://kitsu.io/anime/488"
+    },
+    "mal": {
+      "id": "529",
+      "url": "https://myanimelist.net/anime/529"
+    },
+    "t": {
+      "id": "34622",
+      "url": "https://trakt.tv/shows/34622"
+    }
+  }
+}

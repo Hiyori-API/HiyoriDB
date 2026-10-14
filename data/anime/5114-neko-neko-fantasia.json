@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5114,
+  "slug": "neko-neko-fantasia",
+  "kind": "anime",
+  "title": "Neko Neko Fantasia",
+  "titles": {
+    "default": "Neko Neko Fantasia",
+    "romaji": "Neko Neko Fantasia",
+    "native": "ねこ・ねこ・幻想曲"
+  },
+  "synonyms": [
+    "Neko Neko Fantasia",
+    "ねこ・ねこ・幻想曲",
+    "Kitty-Cat Fantasia"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8496.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8496",
+      "url": "https://anilist.co/anime/8496"
+    },
+    "k": {
+      "id": "5361",
+      "url": "https://kitsu.io/anime/5361"
+    },
+    "mal": {
+      "id": "8496",
+      "url": "https://myanimelist.net/anime/8496"
+    }
+  }
+}

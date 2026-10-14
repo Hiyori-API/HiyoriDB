@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3981,
+  "slug": "fuusen-no-doratarou",
+  "kind": "anime",
+  "title": "Fuusen no Doratarou",
+  "titles": {
+    "default": "Fuusen no Doratarou",
+    "romaji": "Fuusen no Doratarou",
+    "native": "フーセンのドラ太郎"
+  },
+  "synonyms": [
+    "Fuusen no Doratarou",
+    "フーセンのドラ太郎",
+    "Fusen no Dorataro",
+    "Dorataro the Balloon"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 1981,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5594.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5594",
+      "url": "https://anilist.co/anime/5594"
+    },
+    "k": {
+      "id": "4189",
+      "url": "https://kitsu.io/anime/4189"
+    },
+    "mal": {
+      "id": "5594",
+      "url": "https://myanimelist.net/anime/5594"
+    }
+  }
+}

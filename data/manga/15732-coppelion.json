@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15732,
+  "slug": "coppelion",
+  "kind": "manga",
+  "title": "Coppelion",
+  "titles": {
+    "default": "Coppelion"
+  },
+  "synonyms": [
+    "COPPELION",
+    "コッペリオン",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "chapters": 226,
+  "volumes": 26,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx44729-Q6e8l4T5qIkz.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9479",
+      "url": "https://anilist.co/anime/9479"
+    },
+    "al_manga": {
+      "id": "9479",
+      "url": "https://anilist.co/manga/9479"
+    }
+  }
+}

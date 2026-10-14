@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6613,
+  "slug": "busou-chuugakusei-basket-army",
+  "kind": "anime",
+  "title": "Busou Chuugakusei: Basket Army",
+  "titles": {
+    "default": "Busou Chuugakusei: Basket Army",
+    "romaji": "Busou Chuugakusei: Basket Army",
+    "native": "武装中学生 バスケットアーミー"
+  },
+  "synonyms": [
+    "Busou Chuugakusei: Basket Army",
+    "武装中学生 バスケットアーミー",
+    "Basket Army"
+  ],
+  "type": "ona",
+  "episodes": 5,
+  "status": "finished",
+  "season": "winter",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12157.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12157",
+      "url": "https://anilist.co/anime/12157"
+    },
+    "k": {
+      "id": "6679",
+      "url": "https://kitsu.io/anime/6679"
+    },
+    "mal": {
+      "id": "12157",
+      "url": "https://myanimelist.net/anime/12157"
+    }
+  }
+}

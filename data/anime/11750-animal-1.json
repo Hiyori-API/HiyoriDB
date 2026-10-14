@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11750,
+  "slug": "animal-1",
+  "kind": "anime",
+  "title": "Animal 1",
+  "titles": {
+    "default": "Animal 1",
+    "romaji": "Animal 1",
+    "native": "アニマル１"
+  },
+  "synonyms": [
+    "Animal 1",
+    "アニマル１",
+    "Animal One",
+    "アニマルワン"
+  ],
+  "type": "tv",
+  "episodes": 27,
+  "status": "finished",
+  "season": "spring",
+  "year": 1968,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b17671-5FX5kKX8BcaG.png"
+  ],
+  "references": {
+    "al": {
+      "id": "17671",
+      "url": "https://anilist.co/anime/17671"
+    },
+    "k": {
+      "id": "9190",
+      "url": "https://kitsu.io/anime/9190"
+    },
+    "mal": {
+      "id": "17671",
+      "url": "https://myanimelist.net/anime/17671"
+    }
+  }
+}

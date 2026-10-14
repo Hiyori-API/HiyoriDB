@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 441,
+  "slug": "aria-the-animation",
+  "kind": "anime",
+  "title": "ARIA The ANIMATION",
+  "titles": {
+    "default": "ARIA The ANIMATION",
+    "romaji": "ARIA The ANIMATION"
+  },
+  "synonyms": [
+    "ARIA The ANIMATION",
+    "水星领航员",
+    "Aria The Animation"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx477-CdKPHW7rGbUP.png"
+  ],
+  "references": {
+    "al": {
+      "id": "477",
+      "url": "https://anilist.co/anime/477"
+    },
+    "cr": {
+      "id": "aria-the-animation",
+      "url": "https://www.crunchyroll.com/series/aria-the-animation"
+    },
+    "k": {
+      "id": "439",
+      "url": "https://kitsu.io/anime/439"
+    },
+    "mal": {
+      "id": "477",
+      "url": "https://myanimelist.net/anime/477"
+    },
+    "t": {
+      "id": "61720",
+      "url": "https://trakt.tv/shows/61720"
+    },
+    "ttv": {
+      "id": "2344",
+      "url": "https://tubitv.com/series/2344"
+    }
+  }
+}

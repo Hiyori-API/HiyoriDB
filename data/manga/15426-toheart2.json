@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15426,
+  "slug": "toheart2",
+  "kind": "manga",
+  "title": "ToHeart2",
+  "titles": {
+    "default": "ToHeart2"
+  },
+  "synonyms": [
+    "トゥハート2",
+    "ToHeart2",
+    "Guardian Dog"
+  ],
+  "type": "manga",
+  "volumes": 3,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b39990-rIC9ZdRxELiN.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "471",
+      "url": "https://anilist.co/anime/471"
+    },
+    "al_manga": {
+      "id": "471",
+      "url": "https://anilist.co/manga/471"
+    }
+  }
+}

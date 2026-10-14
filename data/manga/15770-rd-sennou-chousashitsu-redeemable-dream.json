@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15770,
+  "slug": "rd-sennou-chousashitsu-redeemable-dream",
+  "kind": "manga",
+  "title": "RD Sennou Chousashitsu Redeemable Dream",
+  "titles": {
+    "default": "RD Sennou Chousashitsu Redeemable Dream"
+  },
+  "synonyms": [
+    "Real Drive Redeemable Dream",
+    "ＲＤ 潜脳調査室　Redeemable Dream",
+    "H+P -HimePara-",
+    "H+P ‐ひめぱら‐"
+  ],
+  "type": "novel",
+  "volumes": 1,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/25067.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3363",
+      "url": "https://anilist.co/anime/3363"
+    },
+    "al_manga": {
+      "id": "3363",
+      "url": "https://anilist.co/manga/3363"
+    }
+  }
+}

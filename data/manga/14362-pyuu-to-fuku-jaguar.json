@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14362,
+  "slug": "pyuu-to-fuku-jaguar",
+  "kind": "manga",
+  "title": "Pyuu to Fuku! Jaguar",
+  "titles": {
+    "default": "Pyuu to Fuku! Jaguar"
+  },
+  "synonyms": [
+    "Pyu to Fuku! Jaguar",
+    "Blow the Flute Jaguar!",
+    "ピューと吹く！ジャガー",
+    "Mushrambo",
+    "マシュランボー",
+    "Mashuranboo"
+  ],
+  "type": "manga",
+  "chapters": 435,
+  "volumes": 20,
+  "status": "finished",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33084-VuRY9wFgfMIg.png"
+  ],
+  "references": {
+    "al": {
+      "id": "5240",
+      "url": "https://anilist.co/anime/17933"
+    },
+    "al_manga": {
+      "id": "5240",
+      "url": "https://anilist.co/manga/5240"
+    }
+  }
+}

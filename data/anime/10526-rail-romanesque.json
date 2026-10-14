@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10526,
+  "slug": "rail-romanesque",
+  "kind": "anime",
+  "title": "Rail Romanesque",
+  "titles": {
+    "default": "Rail Romanesque",
+    "romaji": "Rail Romanesque",
+    "native": "レヱル・ロマネスク"
+  },
+  "synonyms": [
+    "Rail Romanesque",
+    "レヱル・ロマネスク",
+    "Maitetsu",
+    "Riel Romanesco",
+    "Ring ni Kakero 1",
+    "リングにかけろ１",
+    "Put it all in the Ring"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114263-A1mhjXwElS78.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "114263",
+      "url": "https://anilist.co/anime/114263"
+    },
+    "cr": {
+      "id": "rail-romanesque",
+      "url": "https://www.crunchyroll.com/series/rail-romanesque"
+    },
+    "k": {
+      "id": "14",
+      "url": "https://kitsu.io/anime/14"
+    },
+    "mal": {
+      "id": "40958",
+      "url": "https://myanimelist.net/anime/40958"
+    },
+    "t": {
+      "id": "69507",
+      "url": "https://trakt.tv/shows/69507"
+    },
+    "tx": {
+      "id": "rail_romanesque",
+      "url": "https://twitter.com/rail_romanesque"
+    }
+  }
+}

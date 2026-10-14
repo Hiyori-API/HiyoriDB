@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13468,
+  "slug": "kill-ao",
+  "kind": "anime",
+  "title": "Kill Ao",
+  "titles": {
+    "default": "Kill Ao",
+    "romaji": "Kill Ao",
+    "english": "KILL BLUE",
+    "native": "キルアオ"
+  },
+  "synonyms": [
+    "Kill Ao",
+    "KILL BLUE",
+    "キルアオ",
+    "คิลบลู",
+    "Убивая юность",
+    "This Ugly Yet Beautiful World",
+    "Kono Minikuku mo Utsukushii Sekai",
+    "この醜くも美しい世界"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198113-NRa47idWSlnx.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "198113",
+      "url": "https://anilist.co/anime/198113"
+    },
+    "cr": {
+      "id": "series/GT00371896/kill-blue",
+      "url": "https://www.crunchyroll.com/series/series/GT00371896/kill-blue"
+    },
+    "k": {
+      "id": "124",
+      "url": "https://kitsu.io/anime/124"
+    },
+    "mal": {
+      "id": "62391",
+      "url": "https://myanimelist.net/anime/62391"
+    },
+    "nf": {
+      "id": "82757009",
+      "url": "https://www.netflix.com/title/82757009"
+    },
+    "t": {
+      "id": "34001",
+      "url": "https://trakt.tv/shows/34001"
+    }
+  }
+}

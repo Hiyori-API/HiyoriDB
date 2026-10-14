@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4889,
+  "slug": "what-s-michael",
+  "kind": "anime",
+  "title": "What's Michael?",
+  "titles": {
+    "default": "What's Michael?",
+    "romaji": "What's Michael?",
+    "native": "ホワッツ　マイケル？"
+  },
+  "synonyms": [
+    "What's Michael?",
+    "ホワッツ　マイケル？"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12005.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12005",
+      "url": "https://anilist.co/anime/12005"
+    },
+    "k": {
+      "id": "6642",
+      "url": "https://kitsu.io/anime/6642"
+    },
+    "mal": {
+      "id": "12005",
+      "url": "https://myanimelist.net/anime/12005"
+    }
+  }
+}

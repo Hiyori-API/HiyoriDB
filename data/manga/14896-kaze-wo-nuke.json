@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14896,
+  "slug": "kaze-wo-nuke",
+  "kind": "manga",
+  "title": "Kaze wo Nuke!",
+  "titles": {
+    "default": "Kaze wo Nuke!"
+  },
+  "synonyms": [
+    "風を抜け!",
+    "Mai",
+    "Mai, The Psychic Girl",
+    "舞"
+  ],
+  "type": "manga",
+  "chapters": 125,
+  "volumes": 13,
+  "status": "finished",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx137917-fdcNBWkzxzF0.png"
+  ],
+  "references": {
+    "al": {
+      "id": "9748",
+      "url": "https://anilist.co/anime/9748"
+    },
+    "al_manga": {
+      "id": "9748",
+      "url": "https://anilist.co/manga/9748"
+    }
+  }
+}

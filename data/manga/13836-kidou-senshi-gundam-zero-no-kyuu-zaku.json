@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13836,
+  "slug": "kidou-senshi-gundam-zero-no-kyuu-zaku",
+  "kind": "manga",
+  "title": "Kidou Senshi Gundam: Zero no Kyuu Zaku",
+  "titles": {
+    "default": "Kidou Senshi Gundam: Zero no Kyuu Zaku"
+  },
+  "synonyms": [
+    "機動戦士ガンダム ゼロの旧ザク",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "chapters": 14,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx136679-TNY0ctxq2OUS.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "80",
+      "url": "https://anilist.co/anime/80"
+    },
+    "al_manga": {
+      "id": "80",
+      "url": "https://anilist.co/manga/80"
+    }
+  }
+}

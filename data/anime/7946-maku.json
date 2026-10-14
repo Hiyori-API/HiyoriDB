@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7946,
+  "slug": "maku",
+  "kind": "anime",
+  "title": "Maku",
+  "titles": {
+    "default": "Maku",
+    "romaji": "Maku",
+    "native": "幕"
+  },
+  "synonyms": [
+    "Maku",
+    "幕",
+    "When Marnie Was There",
+    "Omoide no Marnie",
+    "思い出のマーニー"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx102099-RpzaLezEksXK.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "102099",
+      "url": "https://anilist.co/anime/102099"
+    },
+    "k": {
+      "id": "8159",
+      "url": "https://kitsu.io/anime/8159"
+    },
+    "mal": {
+      "id": "28989",
+      "url": "https://myanimelist.net/anime/28989"
+    },
+    "nf": {
+      "id": "80036398",
+      "url": "https://www.netflix.com/title/80036398"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1686,
+  "slug": "stratos-4-logbook",
+  "kind": "anime",
+  "title": "Stratos 4: Logbook",
+  "titles": {
+    "default": "Stratos 4: Logbook",
+    "romaji": "Stratos 4: Logbook",
+    "native": "ストラトス・フォー"
+  },
+  "synonyms": [
+    "Stratos 4: Logbook",
+    "ストラトス・フォー"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1903.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1903",
+      "url": "https://anilist.co/anime/1903"
+    },
+    "k": {
+      "id": "1713",
+      "url": "https://kitsu.io/anime/1713"
+    },
+    "mal": {
+      "id": "1903",
+      "url": "https://myanimelist.net/anime/1903"
+    }
+  }
+}

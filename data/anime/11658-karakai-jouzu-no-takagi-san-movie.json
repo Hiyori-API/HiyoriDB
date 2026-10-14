@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11658,
+  "slug": "karakai-jouzu-no-takagi-san-movie",
+  "kind": "anime",
+  "title": "Karakai Jouzu no Takagi-san Movie",
+  "titles": {
+    "default": "Karakai Jouzu no Takagi-san Movie",
+    "romaji": "Karakai Jouzu no Takagi-san Movie",
+    "english": "Teasing Master Takagi-san: The Movie",
+    "native": "劇場版 からかい上手の高木さん"
+  },
+  "synonyms": [
+    "Karakai Jouzu no Takagi-san Movie",
+    "Teasing Master Takagi-san: The Movie",
+    "劇場版 からかい上手の高木さん",
+    "แกล้งนัก รักนะ รู้ยัง? มูฟวี่",
+    "Quand Takagi me Taquine, le Film",
+    "La Maestra de las Bromas Takagi-san: La Película",
+    "Appleseed (Movie)",
+    "アップルシード",
+    "Appleseed (2004)"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx138425-c3yXTMt39DeT.png"
+  ],
+  "references": {
+    "al": {
+      "id": "138425",
+      "url": "https://anilist.co/anime/138425"
+    },
+    "k": {
+      "id": "35",
+      "url": "https://kitsu.io/anime/35"
+    },
+    "mal": {
+      "id": "49722",
+      "url": "https://myanimelist.net/anime/49722"
+    },
+    "tx": {
+      "id": "takagi3_anime",
+      "url": "https://twitter.com/takagi3_anime"
+    }
+  }
+}

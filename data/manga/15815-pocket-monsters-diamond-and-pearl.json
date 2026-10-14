@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15815,
+  "slug": "pocket-monsters-diamond-and-pearl",
+  "kind": "manga",
+  "title": "Pocket Monsters: Diamond and Pearl",
+  "titles": {
+    "default": "Pocket Monsters: Diamond and Pearl"
+  },
+  "synonyms": [
+    "ポケットモンスターダイヤモンド&パール",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "chapters": 29,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx161785-LS9O1iqODlI8.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1565",
+      "url": "https://anilist.co/anime/1565"
+    },
+    "al_manga": {
+      "id": "1565",
+      "url": "https://anilist.co/manga/1565"
+    }
+  }
+}

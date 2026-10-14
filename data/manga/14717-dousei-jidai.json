@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14717,
+  "slug": "dousei-jidai",
+  "kind": "manga",
+  "title": "Dousei Jidai",
+  "titles": {
+    "default": "Dousei Jidai"
+  },
+  "synonyms": [
+    "Lorsque nous vivions ensemble",
+    "Dousei Jidai - L'Età Della Convivenza",
+    "The Age of Cohabitation",
+    "同棲時代",
+    "Dousei Jidai"
+  ],
+  "type": "manga",
+  "chapters": 80,
+  "volumes": 6,
+  "status": "finished",
+  "year": 1972,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx47462-6Sx2pRjZOILB.png"
+  ],
+  "references": {
+    "al": {
+      "id": "121052",
+      "url": "https://anilist.co/anime/121052"
+    },
+    "al_manga": {
+      "id": "121052",
+      "url": "https://anilist.co/manga/121052"
+    }
+  }
+}

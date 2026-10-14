@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9546,
+  "slug": "ssss-gridman",
+  "kind": "anime",
+  "title": "SSSS.GRIDMAN",
+  "titles": {
+    "default": "SSSS.GRIDMAN",
+    "romaji": "SSSS.GRIDMAN"
+  },
+  "synonyms": [
+    "SSSS.GRIDMAN",
+    "SSSS.Gridman"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx99424-9bV9lbUhynar.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "99424",
+      "url": "https://anilist.co/anime/99424"
+    },
+    "cr": {
+      "id": "ssssgridman",
+      "url": "https://www.crunchyroll.com/series/ssssgridman"
+    },
+    "mal": {
+      "id": "35847",
+      "url": "https://myanimelist.net/anime/35847"
+    },
+    "nf": {
+      "id": "81025768",
+      "url": "https://www.netflix.com/title/81025768"
+    },
+    "tx": {
+      "id": "SSSS_GRIDMAN",
+      "url": "https://twitter.com/SSSS_GRIDMAN"
+    }
+  }
+}

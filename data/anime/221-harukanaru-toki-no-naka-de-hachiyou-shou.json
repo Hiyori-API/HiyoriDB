@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 221,
+  "slug": "harukanaru-toki-no-naka-de-hachiyou-shou",
+  "kind": "anime",
+  "title": "Harukanaru Toki no Naka de: Hachiyou Shou",
+  "titles": {
+    "default": "Harukanaru Toki no Naka de: Hachiyou Shou",
+    "romaji": "Harukanaru Toki no Naka de: Hachiyou Shou",
+    "english": "Haruka: Beyond the Stream of Time – A Tale of the Eight Guardians",
+    "native": "遙かなる時空の中で〜八葉抄〜"
+  },
+  "synonyms": [
+    "Harukanaru Toki no Naka de: Hachiyou Shou",
+    "Haruka: Beyond the Stream of Time – A Tale of the Eight Guardians",
+    "遙かなる時空の中で〜八葉抄〜",
+    "HaruToki",
+    "Haruka 8",
+    "Haruka naru Toki no Naka de TV",
+    "Harukanaru Toki no Nakade - Hachiyosho -",
+    "In a Distant Time"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx247-XBzo0yex3xbG.png"
+  ],
+  "references": {
+    "al": {
+      "id": "247",
+      "url": "https://anilist.co/anime/247"
+    },
+    "k": {
+      "id": "222",
+      "url": "https://kitsu.io/anime/222"
+    },
+    "mal": {
+      "id": "247",
+      "url": "https://myanimelist.net/anime/247"
+    },
+    "t": {
+      "id": "27126",
+      "url": "https://trakt.tv/shows/27126"
+    },
+    "ttv": {
+      "id": "1969",
+      "url": "https://tubitv.com/series/1969"
+    }
+  }
+}

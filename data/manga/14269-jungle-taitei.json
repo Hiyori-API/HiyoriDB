@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14269,
+  "slug": "jungle-taitei",
+  "kind": "manga",
+  "title": "Jungle Taitei",
+  "titles": {
+    "default": "Jungle Taitei"
+  },
+  "synonyms": [
+    "Jungle Emperor",
+    "Kimba",
+    "Le Roi Léo",
+    "Kimba the White Lion",
+    "Jungle Emperor Leo",
+    "Jungle Taitei Leo",
+    "Kimba: O Leão Branco",
+    "Kimba, der weisse Löwe",
+    "Viidakon valtias",
+    "Kimba. Il leone bianco",
+    "ジャングル大帝",
+    "Renai Soukanzu",
+    "恋愛相姦図",
+    "Renai Sokanzu",
+    "Pink Sweets"
+  ],
+  "type": "manga",
+  "chapters": 22,
+  "volumes": 3,
+  "status": "finished",
+  "year": 1950,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31771-WXgkHQKcfh1b.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "20381",
+      "url": "https://anilist.co/anime/2556"
+    },
+    "al_manga": {
+      "id": "20381",
+      "url": "https://anilist.co/manga/20381"
+    }
+  }
+}

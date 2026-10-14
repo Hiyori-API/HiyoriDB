@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 188,
+  "slug": "project-a-ko",
+  "kind": "anime",
+  "title": "Project A-Ko",
+  "titles": {
+    "default": "Project A-Ko",
+    "romaji": "Project A-Ko",
+    "english": "Project A-ko",
+    "native": "プロジェクトA子"
+  },
+  "synonyms": [
+    "Project A-Ko",
+    "Project A-ko",
+    "プロジェクトA子",
+    "Projecte A-ko",
+    "Księżniczka z Alfa Sydney",
+    "プロジェクトＡ子"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx212-SSB2S3cbIumn.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "212",
+      "url": "https://anilist.co/anime/212"
+    },
+    "k": {
+      "id": "188",
+      "url": "https://kitsu.io/anime/188"
+    },
+    "mal": {
+      "id": "212",
+      "url": "https://myanimelist.net/anime/212"
+    }
+  }
+}

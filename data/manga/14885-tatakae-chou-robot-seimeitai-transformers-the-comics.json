@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14885,
+  "slug": "tatakae-chou-robot-seimeitai-transformers-the-comics",
+  "kind": "manga",
+  "title": "Tatakae! Chou Robot Seimeitai Transformers the★Comics",
+  "titles": {
+    "default": "Tatakae! Chou Robot Seimeitai Transformers the★Comics"
+  },
+  "synonyms": [
+    "Tatakae! Chōrobotto Seimeitai Toransufōmā Za Kommikusu",
+    "The Story of Super Robot Lifeforms: The Transformers",
+    "The Great Transformer War",
+    "Big War",
+    "Fight! Super Robot Lifeform Transformers: The Comics",
+    "Transformers: The Manga",
+    "戦え!超ロボット生命体トランスフォーマーザ★コミックス",
+    "Mai",
+    "Mai, The Psychic Girl",
+    "舞"
+  ],
+  "type": "manga",
+  "chapters": 51,
+  "volumes": 1,
+  "status": "finished",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/21985.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2268",
+      "url": "https://anilist.co/anime/2268"
+    },
+    "al_manga": {
+      "id": "2268",
+      "url": "https://anilist.co/manga/2268"
+    }
+  }
+}

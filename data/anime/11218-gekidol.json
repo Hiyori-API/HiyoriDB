@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11218,
+  "slug": "gekidol",
+  "kind": "anime",
+  "title": "Gekidol",
+  "titles": {
+    "default": "Gekidol",
+    "romaji": "Gekidol",
+    "native": "ゲキドル"
+  },
+  "synonyms": [
+    "Gekidol",
+    "ゲキドル",
+    "เหล่าไอดอลในโลกหลังภัยพิบัติ",
+    "Театрайдол",
+    "Jakusha Character Tomozaki-kun",
+    "The Low Tier Character \"Tomozaki-kun\"",
+    "Bottom-Tier Character Tomozaki",
+    "弱キャラ友崎くん",
+    "Jaku-Chara Tomozaki-kun"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124131-lLxOgvF6jgu9.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "124131",
+      "url": "https://anilist.co/anime/124131"
+    },
+    "cr": {
+      "id": "gekidol",
+      "url": "https://www.crunchyroll.com/series/gekidol"
+    },
+    "mal": {
+      "id": "32455",
+      "url": "https://myanimelist.net/anime/32455"
+    },
+    "tx": {
+      "id": "gekidol_anime",
+      "url": "https://twitter.com/gekidol_anime"
+    }
+  }
+}

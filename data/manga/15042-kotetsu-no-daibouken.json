@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15042,
+  "slug": "kotetsu-no-daibouken",
+  "kind": "manga",
+  "title": "Kotetsu no Daibouken",
+  "titles": {
+    "default": "Kotetsu no Daibouken"
+  },
+  "synonyms": [
+    "Kotetsu no Daibouken",
+    "The Adventures of Kotetsu",
+    "Kotetsu's Great Adventures",
+    "小鉄の大冒険",
+    "Fushigi Yugi",
+    "Fushigi Yuugi",
+    "ふしぎ遊戯",
+    "Mysterious Play",
+    "Curious Play"
+  ],
+  "type": "manga",
+  "volumes": 9,
+  "status": "finished",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/7746.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2527",
+      "url": "https://anilist.co/anime/2527"
+    },
+    "al_manga": {
+      "id": "2527",
+      "url": "https://anilist.co/manga/2527"
+    }
+  }
+}

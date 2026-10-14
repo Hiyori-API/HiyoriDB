@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9730,
+  "slug": "peace-maker-kurogane-yuumei",
+  "kind": "anime",
+  "title": "PEACE MAKER Kurogane: Yuumei",
+  "titles": {
+    "default": "PEACE MAKER Kurogane: Yuumei",
+    "romaji": "PEACE MAKER Kurogane: Yuumei",
+    "english": "Peacemaker Kurogane: Friend",
+    "native": "PEACE MAKER 鐵 ～ユウメイ～"
+  },
+  "synonyms": [
+    "PEACE MAKER Kurogane: Yuumei",
+    "Peacemaker Kurogane: Friend",
+    "PEACE MAKER 鐵 ～ユウメイ～",
+    "PEACE MAKER KUROGANE – Belief & Friend",
+    "PEACE MAKER 鐵～友命～",
+    "Peace Maker Kurogane Movie 2: Yuumei"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx101369-qfBT5uYBMlcj.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101369",
+      "url": "https://anilist.co/anime/101369"
+    },
+    "mal": {
+      "id": "36556",
+      "url": "https://myanimelist.net/anime/36556"
+    },
+    "tx": {
+      "id": "peacemakeranime",
+      "url": "https://twitter.com/peacemakeranime"
+    }
+  }
+}

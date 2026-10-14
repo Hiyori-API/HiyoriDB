@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5538,
+  "slug": "sore-ike-anpanman-kaiketsu-naganegiman-to-yakisobapanman",
+  "kind": "anime",
+  "title": "Sore Ike! Anpanman: Kaiketsu Naganegiman to Yakisobapanman",
+  "titles": {
+    "default": "Sore Ike! Anpanman: Kaiketsu Naganegiman to Yakisobapanman",
+    "romaji": "Sore Ike! Anpanman: Kaiketsu Naganegiman to Yakisobapanman",
+    "native": "それいけ! アンパンマン 怪傑ナガネギマンとやきそばパンマン"
+  },
+  "synonyms": [
+    "Sore Ike! Anpanman: Kaiketsu Naganegiman to Yakisobapanman",
+    "それいけ! アンパンマン 怪傑ナガネギマンとやきそばパンマン",
+    "Sore Ike! Anpanman: Kaiketsu Naganegiman to Yakisoba Panman"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119836-KyUh8jSVwAN8.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "119836",
+      "url": "https://anilist.co/anime/119836"
+    },
+    "k": {
+      "id": "9616",
+      "url": "https://kitsu.io/anime/9616"
+    },
+    "mal": {
+      "id": "27495",
+      "url": "https://myanimelist.net/anime/27495"
+    }
+  }
+}

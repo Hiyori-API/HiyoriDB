@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4934,
+  "slug": "mugen-shinshi-bouken-katsugeki-hen",
+  "kind": "anime",
+  "title": "Mugen Shinshi: Bouken Katsugeki-hen",
+  "titles": {
+    "default": "Mugen Shinshi: Bouken Katsugeki-hen",
+    "romaji": "Mugen Shinshi: Bouken Katsugeki-hen",
+    "native": "夢幻紳士 冒険活劇編"
+  },
+  "synonyms": [
+    "Mugen Shinshi: Bouken Katsugeki-hen",
+    "夢幻紳士 冒険活劇編",
+    "Mugen Shinshi BKH",
+    "Mugen Shinshi DDG",
+    "Dream Dimension Gentleman",
+    "夢幻紳士　冒険活劇編"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx8162-krBuYgbVtSCv.png"
+  ],
+  "references": {
+    "al": {
+      "id": "8162",
+      "url": "https://anilist.co/anime/8162"
+    },
+    "k": {
+      "id": "5224",
+      "url": "https://kitsu.io/anime/5224"
+    },
+    "mal": {
+      "id": "8162",
+      "url": "https://myanimelist.net/anime/8162"
+    }
+  }
+}

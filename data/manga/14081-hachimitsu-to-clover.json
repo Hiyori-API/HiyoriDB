@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14081,
+  "slug": "hachimitsu-to-clover",
+  "kind": "manga",
+  "title": "Hachimitsu to Clover",
+  "titles": {
+    "default": "Hachimitsu to Clover"
+  },
+  "synonyms": [
+    "HachiKuro",
+    "Honey & Clover",
+    "Sora no Kotori",
+    "Hoshi no Opera",
+    "Honey & Clover: Miel y Trébol",
+    "허니와 클로버",
+    "Honey and Clover",
+    "ハチミツとクローバー",
+    "Mushrambo",
+    "マシュランボー",
+    "Mashuranboo"
+  ],
+  "type": "manga",
+  "chapters": 75,
+  "volumes": 10,
+  "status": "finished",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31009-cPLchnB2J5Qp.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1142",
+      "url": "https://anilist.co/anime/644"
+    },
+    "al_manga": {
+      "id": "1142",
+      "url": "https://anilist.co/manga/1142"
+    }
+  }
+}

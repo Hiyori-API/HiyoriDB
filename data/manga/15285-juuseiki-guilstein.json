@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15285,
+  "slug": "juuseiki-guilstein",
+  "kind": "manga",
+  "title": "Juuseiki Guilstein",
+  "titles": {
+    "default": "Juuseiki Guilstein"
+  },
+  "synonyms": [
+    "Teen Apocalypse: GUILSTEIN",
+    "獣星記 ギルステイン",
+    "Full Moon wo Sagashite",
+    "満月〈フルムーン〉をさがして",
+    "Searching for the Full Moon",
+    "Ginyuu Meika"
+  ],
+  "type": "manga",
+  "volumes": 4,
+  "status": "finished",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx171082-MWEJyHQ04mo4.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11995",
+      "url": "https://anilist.co/anime/11995"
+    },
+    "al_manga": {
+      "id": "11995",
+      "url": "https://anilist.co/manga/11995"
+    }
+  }
+}

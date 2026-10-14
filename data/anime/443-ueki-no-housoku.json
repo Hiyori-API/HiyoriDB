@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 443,
+  "slug": "ueki-no-housoku",
+  "kind": "anime",
+  "title": "Ueki no Housoku",
+  "titles": {
+    "default": "Ueki no Housoku",
+    "romaji": "Ueki no Housoku",
+    "english": "The Law of Ueki",
+    "native": "うえきの法則"
+  },
+  "synonyms": [
+    "Ueki no Housoku",
+    "The Law of Ueki",
+    "うえきの法則",
+    "La Ley de Ueki",
+    "A Lei de Ueki"
+  ],
+  "type": "tv",
+  "episodes": 51,
+  "status": "finished",
+  "season": "spring",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx479-DEz4w5b4JO7h.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "479",
+      "url": "https://anilist.co/anime/479"
+    },
+    "cr": {
+      "id": "the-law-of-ueki",
+      "url": "https://www.crunchyroll.com/series/the-law-of-ueki"
+    },
+    "k": {
+      "id": "441",
+      "url": "https://kitsu.io/anime/441"
+    },
+    "mal": {
+      "id": "479",
+      "url": "https://myanimelist.net/anime/479"
+    },
+    "t": {
+      "id": "34703",
+      "url": "https://trakt.tv/shows/34703"
+    }
+  }
+}

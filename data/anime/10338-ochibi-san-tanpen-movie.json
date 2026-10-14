@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10338,
+  "slug": "ochibi-san-tanpen-movie",
+  "kind": "anime",
+  "title": "Ochibi-san Tanpen Movie",
+  "titles": {
+    "default": "Ochibi-san Tanpen Movie",
+    "romaji": "Ochibi-san Tanpen Movie",
+    "native": "オチビサン短編ムービー"
+  },
+  "synonyms": [
+    "Ochibi-san Tanpen Movie",
+    "オチビサン短編ムービー",
+    "Ochibi-san Short Movie",
+    "Gintama x Monster Strike",
+    "銀魂 ～モンスターストライク編～",
+    "Gintama: Monster Strike-hen"
+  ],
+  "type": "ona",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169685-opDYyezkJOvd.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "169685",
+      "url": "https://anilist.co/anime/169685"
+    },
+    "mal": {
+      "id": "56882",
+      "url": "https://myanimelist.net/anime/56882"
+    },
+    "yt": {
+      "id": "f0ULWwYnHEE",
+      "url": "https://www.youtube.com/watch?v=zokCyGmrg8A"
+    }
+  }
+}

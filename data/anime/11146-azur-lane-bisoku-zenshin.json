@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11146,
+  "slug": "azur-lane-bisoku-zenshin",
+  "kind": "anime",
+  "title": "Azur Lane: Bisoku Zenshin!",
+  "titles": {
+    "default": "Azur Lane: Bisoku Zenshin!",
+    "romaji": "Azur Lane: Bisoku Zenshin!",
+    "english": "Anime AzurLane: Slow Ahead!",
+    "native": "アズールレーンびそくぜんしんっ！"
+  },
+  "synonyms": [
+    "Azur Lane: Bisoku Zenshin!",
+    "Anime AzurLane: Slow Ahead!",
+    "アズールレーンびそくぜんしんっ！",
+    "Azur Lane: Very Slow Advance!",
+    "Azur Lane 4-koma: Slow Ahead!",
+    "Azur Lane: Slow Ahead!",
+    "AzurLane: Slow Ahead!",
+    "Non Non Biyori 3rd Season",
+    "Non Non Biyori Third Season",
+    "Non Non Biyori Nonstop",
+    "のんのんびより のんすとっぷ"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114473-vnLrwMEZ9OfI.png"
+  ],
+  "references": {
+    "al": {
+      "id": "114473",
+      "url": "https://anilist.co/anime/114473"
+    },
+    "cr": {
+      "id": "anime-azurlane-slow-ahead",
+      "url": "https://www.crunchyroll.com/series/anime-azurlane-slow-ahead"
+    },
+    "mal": {
+      "id": "40930",
+      "url": "https://myanimelist.net/anime/40930"
+    },
+    "tx": {
+      "id": "azurlane_bisoku",
+      "url": "https://twitter.com/azurlane_bisoku"
+    }
+  }
+}

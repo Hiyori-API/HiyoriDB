@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2682,
+  "slug": "la-seine-no-hoshi",
+  "kind": "anime",
+  "title": "La Seine no Hoshi",
+  "titles": {
+    "default": "La Seine no Hoshi",
+    "romaji": "La Seine no Hoshi",
+    "native": "ラ・セーヌの星"
+  },
+  "synonyms": [
+    "La Seine no Hoshi",
+    "ラ・セーヌの星",
+    "Star of the Seine",
+    "Étoile de la Seine",
+    "Nadine: Stern der Seine"
+  ],
+  "type": "tv",
+  "episodes": 39,
+  "status": "finished",
+  "season": "spring",
+  "year": 1975,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3054-VVVHXaJ1MIR0.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3054",
+      "url": "https://anilist.co/anime/3054"
+    },
+    "k": {
+      "id": "2754",
+      "url": "https://kitsu.io/anime/2754"
+    },
+    "mal": {
+      "id": "3054",
+      "url": "https://myanimelist.net/anime/3054"
+    },
+    "t": {
+      "id": "19776",
+      "url": "https://trakt.tv/shows/19776"
+    }
+  }
+}

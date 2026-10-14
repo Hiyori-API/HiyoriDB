@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15594,
+  "slug": "sky-girls",
+  "kind": "manga",
+  "title": "Sky Girls",
+  "titles": {
+    "default": "Sky Girls"
+  },
+  "synonyms": [
+    "Sky Girls",
+    "スカイガールズ",
+    "Kataomoi no Mukougawa",
+    "片想いの向こう側",
+    "Kataomoi no Mukou Gawa",
+    "Ano Kado o Magareba",
+    "Tenshi ga Kuretamono",
+    "Bitou na Koi",
+    "Kimi to Natsu no Aizu"
+  ],
+  "type": "manga",
+  "chapters": 4,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/9137.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1480",
+      "url": "https://anilist.co/anime/1480"
+    },
+    "al_manga": {
+      "id": "1480",
+      "url": "https://anilist.co/manga/1480"
+    }
+  }
+}

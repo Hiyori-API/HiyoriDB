@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9749,
+  "slug": "daisuki-na-haha",
+  "kind": "anime",
+  "title": "Daisuki na Haha",
+  "titles": {
+    "default": "Daisuki na Haha",
+    "romaji": "Daisuki na Haha",
+    "native": "大好きな母"
+  },
+  "synonyms": [
+    "Daisuki na Haha",
+    "大好きな母",
+    "Daisuki na Mama",
+    "Beloved Mother",
+    "Mama's Change",
+    "Mother's Other Side",
+    "Mother Fucker",
+    "Gravitation: Lyrics of Love",
+    "グラビテーション"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx101496-ZEfXxBPsbMjc.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101496",
+      "url": "https://anilist.co/anime/101496"
+    },
+    "k": {
+      "id": "466",
+      "url": "https://kitsu.io/anime/466"
+    },
+    "mal": {
+      "id": "37699",
+      "url": "https://myanimelist.net/anime/37699"
+    }
+  }
+}

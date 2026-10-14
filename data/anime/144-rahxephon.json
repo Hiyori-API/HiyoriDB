@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 144,
+  "slug": "rahxephon",
+  "kind": "anime",
+  "title": "RahXephon",
+  "titles": {
+    "default": "RahXephon",
+    "romaji": "RahXephon",
+    "native": "ラーゼフォン"
+  },
+  "synonyms": [
+    "RahXephon",
+    "ラーゼフォン"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "winter",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165-TBPrUsYj4SUL.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "165",
+      "url": "https://anilist.co/anime/165"
+    },
+    "k": {
+      "id": "143",
+      "url": "https://kitsu.io/anime/143"
+    },
+    "mal": {
+      "id": "165",
+      "url": "https://myanimelist.net/anime/165"
+    },
+    "t": {
+      "id": "13317",
+      "url": "https://trakt.tv/shows/13317"
+    }
+  }
+}

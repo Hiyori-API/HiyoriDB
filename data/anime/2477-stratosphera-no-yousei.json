@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2477,
+  "slug": "stratosphera-no-yousei",
+  "kind": "anime",
+  "title": "Stratosphera no Yousei",
+  "titles": {
+    "default": "Stratosphera no Yousei",
+    "romaji": "Stratosphera no Yousei",
+    "english": "Nymphs of the Stratosphere",
+    "native": "ストラトスフェラの妖精"
+  },
+  "synonyms": [
+    "Stratosphera no Yousei",
+    "Nymphs of the Stratosphere",
+    "ストラトスフェラの妖精",
+    "Stratosphere no Yosei",
+    "Galerians: Rion",
+    "ガレリアンズ：リオン",
+    "Galerians: Rion (2003)"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "fall",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2788.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2788",
+      "url": "https://anilist.co/anime/2788"
+    },
+    "k": {
+      "id": "1449",
+      "url": "https://kitsu.io/anime/1449"
+    },
+    "mal": {
+      "id": "2788",
+      "url": "https://myanimelist.net/anime/2788"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 43,
+  "slug": "d-n-angel",
+  "kind": "anime",
+  "title": "D.N.Angel",
+  "titles": {
+    "default": "D.N.Angel",
+    "romaji": "D.N.Angel",
+    "native": "Ｄ・Ｎ・ＡＮＧＥＬ"
+  },
+  "synonyms": [
+    "D.N.Angel",
+    "Ｄ・Ｎ・ＡＮＧＥＬ",
+    "DN Angel",
+    "D.N. Angel",
+    "DNAngel"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/61.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "61",
+      "url": "https://anilist.co/anime/61"
+    },
+    "cr": {
+      "id": "series/GMEHME7KW/dnangel",
+      "url": "https://www.crunchyroll.com/series/series/GMEHME7KW/dnangel"
+    },
+    "k": {
+      "id": "42",
+      "url": "https://kitsu.io/anime/42"
+    },
+    "mal": {
+      "id": "61",
+      "url": "https://myanimelist.net/anime/61"
+    },
+    "t": {
+      "id": "25561",
+      "url": "https://trakt.tv/shows/25561"
+    }
+  }
+}

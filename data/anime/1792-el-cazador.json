@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1792,
+  "slug": "el-cazador",
+  "kind": "anime",
+  "title": "El Cazador",
+  "titles": {
+    "default": "El Cazador",
+    "romaji": "El Cazador",
+    "english": "El Cazador de la Bruja",
+    "native": "エル・カザド"
+  },
+  "synonyms": [
+    "El Cazador",
+    "El Cazador de la Bruja",
+    "エル・カザド",
+    "The Witch Hunter"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2030-ZzuSiixHIRRg.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2030",
+      "url": "https://anilist.co/anime/2030"
+    },
+    "cr": {
+      "id": "el-cazador-de-la-bruja",
+      "url": "https://www.crunchyroll.com/series/el-cazador-de-la-bruja"
+    },
+    "k": {
+      "id": "1829",
+      "url": "https://kitsu.io/anime/1829"
+    },
+    "mal": {
+      "id": "2030",
+      "url": "https://myanimelist.net/anime/2030"
+    },
+    "t": {
+      "id": "31545",
+      "url": "https://trakt.tv/shows/31545"
+    }
+  }
+}

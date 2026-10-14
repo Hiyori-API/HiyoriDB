@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8924,
+  "slug": "kyoto-animation-koushiki-twitter-itsumo-arigatou",
+  "kind": "anime",
+  "title": "Kyoto Animation Koushiki Twitter: Itsumo Arigatou",
+  "titles": {
+    "default": "Kyoto Animation Koushiki Twitter: Itsumo Arigatou",
+    "romaji": "Kyoto Animation Koushiki Twitter: Itsumo Arigatou",
+    "native": "京都アニメーション公式Twitter いつも ありがとう"
+  },
+  "synonyms": [
+    "Kyoto Animation Koushiki Twitter: Itsumo Arigatou",
+    "京都アニメーション公式Twitter いつも ありがとう",
+    "Noblesse Episode 0",
+    "Noblesse: Awakening"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102596-gsWyk6748uoc.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "102596",
+      "url": "https://anilist.co/anime/102596"
+    },
+    "mal": {
+      "id": "36799",
+      "url": "https://myanimelist.net/anime/36799"
+    },
+    "tx": {
+      "id": "kyoani",
+      "url": "https://twitter.com/kyoani"
+    }
+  }
+}

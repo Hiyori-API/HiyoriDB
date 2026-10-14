@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8313,
+  "slug": "arslan-senki-kaki-oroshi-4-koma-manga-no-short-anime",
+  "kind": "anime",
+  "title": "Arslan Senki: Kaki Oroshi 4-Koma Manga no Short Anime",
+  "titles": {
+    "default": "Arslan Senki: Kaki Oroshi 4-Koma Manga no Short Anime",
+    "romaji": "Arslan Senki: Kaki Oroshi 4-Koma Manga no Short Anime",
+    "native": "アルスラーン戦記 描き下ろし四コマ漫画のショートアニメ"
+  },
+  "synonyms": [
+    "Arslan Senki: Kaki Oroshi 4-Koma Manga no Short Anime",
+    "アルスラーン戦記 描き下ろし四コマ漫画のショートアニメ",
+    "Arslan Senki (TV) Specials",
+    "Arslan's Short Comedy Sketch",
+    "Arusen 4-Koma Gekijou",
+    "アル戦 四コマ劇場",
+    "Short Comedy of Arslan",
+    "Overlord Specials",
+    "オーバーロード　ぷれぷれぷれあです",
+    "Overlord: Ple Ple Pleiades"
+  ],
+  "type": "special",
+  "episodes": 8,
+  "status": "finished",
+  "season": "summer",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21317-Sekix8MAtAPM.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21317",
+      "url": "https://anilist.co/anime/21317"
+    },
+    "mal": {
+      "id": "30953",
+      "url": "https://myanimelist.net/anime/30953"
+    },
+    "tx": {
+      "id": "arslan_anime",
+      "url": "https://twitter.com/arslan_anime"
+    }
+  }
+}

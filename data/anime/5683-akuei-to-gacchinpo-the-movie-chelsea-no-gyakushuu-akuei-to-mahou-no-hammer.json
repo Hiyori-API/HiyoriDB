@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5683,
+  "slug": "akuei-to-gacchinpo-the-movie-chelsea-no-gyakushuu-akuei-to-mahou-no-hammer",
+  "kind": "anime",
+  "title": "Akuei to Gacchinpo THE MOVIE: Chelsea no Gyakushuu/Akuei to Mahou no Hammer",
+  "titles": {
+    "default": "Akuei to Gacchinpo THE MOVIE: Chelsea no Gyakushuu/Akuei to Mahou no Hammer",
+    "romaji": "Akuei to Gacchinpo THE MOVIE: Chelsea no Gyakushuu/Akuei to Mahou no Hammer",
+    "native": "アークエとガッチンポー THE MOVIE チェルシーの逆襲 / アークエと魔法のハンマー"
+  },
+  "synonyms": [
+    "Akuei to Gacchinpo THE MOVIE: Chelsea no Gyakushuu/Akuei to Mahou no Hammer",
+    "アークエとガッチンポー THE MOVIE チェルシーの逆襲 / アークエと魔法のハンマー",
+    "Case Closed Movie 09: Strategy Above the Depths",
+    "Detective Conan Movie 09: Strategy Above the Depths",
+    "名探偵コナン　水平線上の陰謀",
+    "Detective Conan - Strategy Above the Depths",
+    "Meitantei Conan: Suihei Senjou no Sutoratejii"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b129157-8UIaqOoHH8oy.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "129157",
+      "url": "https://anilist.co/anime/129157"
+    },
+    "k": {
+      "id": "1351",
+      "url": "https://kitsu.io/anime/1351"
+    },
+    "mal": {
+      "id": "29842",
+      "url": "https://myanimelist.net/anime/29842"
+    }
+  }
+}

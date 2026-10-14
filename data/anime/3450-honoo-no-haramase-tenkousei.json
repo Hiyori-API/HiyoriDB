@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3450,
+  "slug": "honoo-no-haramase-tenkousei",
+  "kind": "anime",
+  "title": "Honoo no Haramase Tenkousei",
+  "titles": {
+    "default": "Honoo no Haramase Tenkousei",
+    "romaji": "Honoo no Haramase Tenkousei",
+    "native": "炎の孕ませ転校生"
+  },
+  "synonyms": [
+    "Honoo no Haramase Tenkousei",
+    "炎の孕ませ転校生",
+    "Honoo no Haramase Tenkousei Ue",
+    "Flaming Impregnating Transfer Student",
+    "Gunparade Orchestra OVA",
+    "ガンパレード・オーケストラ"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "fall",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4399.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4399",
+      "url": "https://anilist.co/anime/4399"
+    },
+    "k": {
+      "id": "5737",
+      "url": "https://kitsu.io/anime/5737"
+    },
+    "mal": {
+      "id": "4399",
+      "url": "https://myanimelist.net/anime/4399"
+    }
+  }
+}

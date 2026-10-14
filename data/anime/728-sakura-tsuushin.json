@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 728,
+  "slug": "sakura-tsuushin",
+  "kind": "anime",
+  "title": "Sakura Tsuushin",
+  "titles": {
+    "default": "Sakura Tsuushin",
+    "romaji": "Sakura Tsuushin",
+    "english": "Sakura Diaries",
+    "native": "桜通信"
+  },
+  "synonyms": [
+    "Sakura Tsuushin",
+    "Sakura Diaries",
+    "桜通信",
+    "Sakura Mail"
+  ],
+  "type": "ova",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b818-KJV5rnRLVKGZ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "818",
+      "url": "https://anilist.co/anime/818"
+    },
+    "k": {
+      "id": "725",
+      "url": "https://kitsu.io/anime/725"
+    },
+    "mal": {
+      "id": "818",
+      "url": "https://myanimelist.net/anime/818"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13677,
+  "slug": "houkago-kitaku-biyori",
+  "kind": "anime",
+  "title": "Houkago Kitaku Biyori",
+  "titles": {
+    "default": "Houkago Kitaku Biyori",
+    "romaji": "Houkago Kitaku Biyori",
+    "native": "放課後帰宅びより"
+  },
+  "synonyms": [
+    "Houkago Kitaku Biyori",
+    "放課後帰宅びより",
+    "Journey Home After School",
+    "Sudden Death",
+    "Sadon Desu",
+    "さどんです"
+  ],
+  "type": "tv",
+  "status": "to_be_aired",
+  "season": "spring",
+  "year": 2027,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187918-LFFlYD1rMutc.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "187918",
+      "url": "https://anilist.co/anime/187918"
+    },
+    "k": {
+      "id": "8275",
+      "url": "https://kitsu.io/anime/8275"
+    },
+    "mal": {
+      "id": "61199",
+      "url": "https://myanimelist.net/anime/61199"
+    }
+  }
+}

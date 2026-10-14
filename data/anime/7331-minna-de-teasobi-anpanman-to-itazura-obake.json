@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7331,
+  "slug": "minna-de-teasobi-anpanman-to-itazura-obake",
+  "kind": "anime",
+  "title": "Minna de Teasobi: Anpanman to Itazura Obake",
+  "titles": {
+    "default": "Minna de Teasobi: Anpanman to Itazura Obake",
+    "romaji": "Minna de Teasobi: Anpanman to Itazura Obake",
+    "native": "みんなでてあそび アンパンマンといたずらオバケ"
+  },
+  "synonyms": [
+    "Minna de Teasobi: Anpanman to Itazura Obake",
+    "みんなでてあそび アンパンマンといたずらオバケ",
+    "Sore Ike! Anpanman: Minna de Teasobi - Anpanman to Itazura Obake"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18355.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "18355",
+      "url": "https://anilist.co/anime/18355"
+    },
+    "k": {
+      "id": "9050",
+      "url": "https://kitsu.io/anime/9050"
+    },
+    "mal": {
+      "id": "18355",
+      "url": "https://myanimelist.net/anime/18355"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14872,
+  "slug": "elf-17",
+  "kind": "manga",
+  "title": "Elf 17",
+  "titles": {
+    "default": "Elf 17"
+  },
+  "synonyms": [
+    "Elf Seventeen",
+    "エルフ・17",
+    "Dragon Ball",
+    "ドラゴンボール",
+    "Dragonball",
+    "Dragon Ball Z",
+    "Dragonball Z"
+  ],
+  "type": "manga",
+  "chapters": 43,
+  "volumes": 8,
+  "status": "finished",
+  "year": 1984,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx99695-9OK4KVON7v7y.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9324",
+      "url": "https://anilist.co/anime/9324"
+    },
+    "al_manga": {
+      "id": "9324",
+      "url": "https://anilist.co/manga/9324"
+    }
+  }
+}

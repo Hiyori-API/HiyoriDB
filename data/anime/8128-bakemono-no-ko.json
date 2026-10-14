@@ -1,0 +1,63 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8128,
+  "slug": "bakemono-no-ko",
+  "kind": "anime",
+  "title": "Bakemono no Ko",
+  "titles": {
+    "default": "Bakemono no Ko",
+    "romaji": "Bakemono no Ko",
+    "english": "The Boy and the Beast",
+    "native": "バケモノの子"
+  },
+  "synonyms": [
+    "Bakemono no Ko",
+    "The Boy and the Beast",
+    "バケモノの子",
+    "El niño y la bestia",
+    "O Rapaz e o Monstro",
+    "El nen i la bèstia",
+    "Учень чудовиська",
+    "Ученик чудовища",
+    "Berniukas ir Pabaisa",
+    "Құбыжықтың шәкірті",
+    "Băiatul și bestia",
+    "Əjdahanın şagirdi",
+    "Odjuret och hans lärling",
+    "Le Garçon et la Bête",
+    "Code Geass: Akito the Exiled 4 - From the Memory of Hatred",
+    "Code Geass: Boukoku no Akito 4 - Nikushimi no Kioku kara",
+    "Code Geass: Akito the Exiled - Memories of Hatred",
+    "コードギアス 亡国のアキト 第４章「憎しみの記憶から」"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20981-D6PAJAOC4jPc.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "20981",
+      "url": "https://anilist.co/anime/20981"
+    },
+    "cr": {
+      "id": "the-boy-and-the-beast",
+      "url": "https://www.crunchyroll.com/series/the-boy-and-the-beast"
+    },
+    "k": {
+      "id": "7229",
+      "url": "https://kitsu.io/anime/7229"
+    },
+    "mal": {
+      "id": "28805",
+      "url": "https://myanimelist.net/anime/28805"
+    },
+    "nf": {
+      "id": "80063800",
+      "url": "https://www.netflix.com/title/80063800"
+    }
+  }
+}

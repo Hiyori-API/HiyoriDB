@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14218,
+  "slug": "kizuna",
+  "kind": "manga",
+  "title": "KIZUNA",
+  "titles": {
+    "default": "KIZUNA"
+  },
+  "synonyms": [
+    "絆",
+    "Kizuna: Bonds of Love",
+    "Bonds of Love",
+    "KIZUNA: Bonds",
+    "KIZUNA－絆－",
+    "Kizuna",
+    "KIZUNA"
+  ],
+  "type": "manga",
+  "chapters": 56,
+  "volumes": 11,
+  "status": "finished",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31578-gDzLV57ChxuF.png"
+  ],
+  "references": {
+    "al": {
+      "id": "734",
+      "url": "https://anilist.co/anime/733"
+    },
+    "al_manga": {
+      "id": "734",
+      "url": "https://anilist.co/manga/734"
+    }
+  }
+}

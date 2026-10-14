@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14019,
+  "slug": "junjou-romantica",
+  "kind": "manga",
+  "title": "Junjou Romantica",
+  "titles": {
+    "default": "Junjou Romantica"
+  },
+  "synonyms": [
+    "Pure Romance",
+    "Jyunjyou Romantica",
+    "Junjou Egoist",
+    "Junjo Romantica",
+    "純情ロマンチカ",
+    "Pure Romance; Junjo Romantica",
+    "Junjou Romantica",
+    "Junjou Terrorist"
+  ],
+  "type": "manga",
+  "status": "publishing",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/765-TAPxKFkDrekO.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "20796",
+      "url": "https://anilist.co/anime/3092"
+    },
+    "al_manga": {
+      "id": "20796",
+      "url": "https://anilist.co/manga/20796"
+    }
+  }
+}

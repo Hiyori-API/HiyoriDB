@@ -1,0 +1,58 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7599,
+  "slug": "psycho-pass-2",
+  "kind": "anime",
+  "title": "PSYCHO-PASS 2",
+  "titles": {
+    "default": "PSYCHO-PASS 2",
+    "romaji": "PSYCHO-PASS 2",
+    "native": "PSYCHO-PASS サイコパス2"
+  },
+  "synonyms": [
+    "PSYCHO-PASS 2",
+    "PSYCHO-PASS サイコパス2",
+    "Psycho-Pass 2",
+    "PSYCHO-PASS サイコパス 2",
+    "Psycho-Pass Second Season",
+    "Psychopath 2nd Season"
+  ],
+  "type": "tv",
+  "episodes": 11,
+  "status": "finished",
+  "season": "fall",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20513-pVQqYhMwBGoh.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "20513",
+      "url": "https://anilist.co/anime/20513"
+    },
+    "cr": {
+      "id": "psycho-pass",
+      "url": "https://www.crunchyroll.com/series/psycho-pass"
+    },
+    "k": {
+      "id": "7863",
+      "url": "https://kitsu.io/anime/7863"
+    },
+    "mal": {
+      "id": "23281",
+      "url": "https://myanimelist.net/anime/23281"
+    },
+    "nf": {
+      "id": "80006146",
+      "url": "https://www.netflix.com/title/80006146"
+    },
+    "t": {
+      "id": "43623",
+      "url": "https://trakt.tv/shows/43623"
+    },
+    "tx": {
+      "id": "psychopass_tv",
+      "url": "https://twitter.com/psychopass_tv"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14681,
+  "slug": "attack-no-1",
+  "kind": "manga",
+  "title": "Attack No.1",
+  "titles": {
+    "default": "Attack No.1"
+  },
+  "synonyms": [
+    "Atakku No.1",
+    "Mila Superstar",
+    "アタックNo.1",
+    "Tiger Mask",
+    "タイガーマスク"
+  ],
+  "type": "manga",
+  "chapters": 135,
+  "volumes": 12,
+  "status": "finished",
+  "year": 1968,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx40199-h24yqCnBo5Or.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1550",
+      "url": "https://anilist.co/anime/1550"
+    },
+    "al_manga": {
+      "id": "1550",
+      "url": "https://anilist.co/manga/1550"
+    }
+  }
+}

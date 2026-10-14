@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12261,
+  "slug": "bishoujo-senshi-sailor-moon-cosmos-kouhen",
+  "kind": "anime",
+  "title": "Bishoujo Senshi Sailor Moon: Cosmos - Kouhen",
+  "titles": {
+    "default": "Bishoujo Senshi Sailor Moon: Cosmos - Kouhen",
+    "romaji": "Bishoujo Senshi Sailor Moon: Cosmos - Kouhen",
+    "english": "Pretty Guardian Sailor Moon Cosmos The Movie: Part 2",
+    "native": "美少女戦士セーラームーンCosmos 後編"
+  },
+  "synonyms": [
+    "Bishoujo Senshi Sailor Moon: Cosmos - Kouhen",
+    "Pretty Guardian Sailor Moon Cosmos The Movie: Part 2",
+    "美少女戦士セーラームーンCosmos 後編",
+    "Bishoujo Senshi Sailor Moon Cosmos Part 2",
+    "Pretty Cure All Stars Movie F",
+    "映画プリキュアオールスターズF",
+    "Precure All Stars Movie F"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2023,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx160850-DuQm6kqO89Lj.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "160850",
+      "url": "https://anilist.co/anime/160850"
+    },
+    "mal": {
+      "id": "54650",
+      "url": "https://myanimelist.net/anime/54650"
+    },
+    "nf": {
+      "id": "81732000",
+      "url": "https://www.netflix.com/title/81732000"
+    },
+    "tx": {
+      "id": "sailor_movie",
+      "url": "https://twitter.com/sailor_movie"
+    }
+  }
+}

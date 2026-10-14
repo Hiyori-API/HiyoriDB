@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9869,
+  "slug": "osake-wa-fuufu-ni-natte-kara-episode-14",
+  "kind": "anime",
+  "title": "Osake wa Fuufu ni Natte kara Episode 14",
+  "titles": {
+    "default": "Osake wa Fuufu ni Natte kara Episode 14",
+    "romaji": "Osake wa Fuufu ni Natte kara Episode 14",
+    "english": "Love is Like a Cocktail Episode 14",
+    "native": "お酒は夫婦になってから 第14話"
+  },
+  "synonyms": [
+    "Osake wa Fuufu ni Natte kara Episode 14",
+    "Love is Like a Cocktail Episode 14",
+    "お酒は夫婦になってから 第14話",
+    "Osake wa Fuufu ni Natte kara Special",
+    "Love is Like a Cocktail: Fourteenth Glass - Yuzu Hot Sake",
+    "お酒は夫婦になってから 14杯め「ゆず熱燗」",
+    "Osake wa Fuufu ni Natte kara: Yuzu Atsukan"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104530-9bHv3T5MbWBz.png"
+  ],
+  "references": {
+    "al": {
+      "id": "104530",
+      "url": "https://anilist.co/anime/104530"
+    },
+    "mal": {
+      "id": "37826",
+      "url": "https://myanimelist.net/anime/37826"
+    }
+  }
+}

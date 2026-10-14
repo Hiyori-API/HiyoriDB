@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6405,
+  "slug": "happy-kappy",
+  "kind": "anime",
+  "title": "Happy Kappy",
+  "titles": {
+    "default": "Happy Kappy",
+    "romaji": "Happy Kappy",
+    "native": "はっぴ〜カッピ"
+  },
+  "synonyms": [
+    "Happy Kappy",
+    "はっぴ〜カッピ",
+    "Happy Kappi"
+  ],
+  "type": "tv",
+  "episodes": 25,
+  "status": "finished",
+  "season": "spring",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10347.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10347",
+      "url": "https://anilist.co/anime/10347"
+    },
+    "k": {
+      "id": "6138",
+      "url": "https://kitsu.io/anime/6138"
+    },
+    "mal": {
+      "id": "10347",
+      "url": "https://myanimelist.net/anime/10347"
+    }
+  }
+}

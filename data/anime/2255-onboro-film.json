@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2255,
+  "slug": "onboro-film",
+  "kind": "anime",
+  "title": "Onboro Film",
+  "titles": {
+    "default": "Onboro Film",
+    "romaji": "Onboro Film",
+    "english": "Broken Down Film",
+    "native": "おんぼろフィルム"
+  },
+  "synonyms": [
+    "Onboro Film",
+    "Broken Down Film",
+    "おんぼろフィルム"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2550.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2550",
+      "url": "https://anilist.co/anime/2550"
+    },
+    "k": {
+      "id": "2315",
+      "url": "https://kitsu.io/anime/2315"
+    },
+    "mal": {
+      "id": "2550",
+      "url": "https://myanimelist.net/anime/2550"
+    }
+  }
+}

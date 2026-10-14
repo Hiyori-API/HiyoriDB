@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9834,
+  "slug": "starmyu-in-halloween",
+  "kind": "anime",
+  "title": "Starmyu in Halloween",
+  "titles": {
+    "default": "Starmyu in Halloween",
+    "romaji": "Starmyu in Halloween",
+    "native": "スタミュ in ハロウィン"
+  },
+  "synonyms": [
+    "Starmyu in Halloween",
+    "スタミュ in ハロウィン",
+    "Starmyu OVA (2018)",
+    "Koukou Hoshi Kageki",
+    "High School Star Musical",
+    "Starmu"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103847-jPW4LLuJ4RPF.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "103847",
+      "url": "https://anilist.co/anime/103847"
+    },
+    "mal": {
+      "id": "36537",
+      "url": "https://myanimelist.net/anime/36537"
+    }
+  }
+}

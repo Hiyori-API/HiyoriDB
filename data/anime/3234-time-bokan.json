@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3234,
+  "slug": "time-bokan",
+  "kind": "anime",
+  "title": "Time Bokan",
+  "titles": {
+    "default": "Time Bokan",
+    "romaji": "Time Bokan",
+    "english": "Time Fighters",
+    "native": "タイムボカン"
+  },
+  "synonyms": [
+    "Time Bokan",
+    "Time Fighters",
+    "タイムボカン",
+    "Time Fighter",
+    "Time Fighters in The Land of Fantasy",
+    "Time Fighters in the Land of Fantasy"
+  ],
+  "type": "tv",
+  "episodes": 61,
+  "status": "finished",
+  "season": "fall",
+  "year": 1975,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3915-BII6vD2PH911.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3915",
+      "url": "https://anilist.co/anime/3915"
+    },
+    "k": {
+      "id": "3346",
+      "url": "https://kitsu.io/anime/3346"
+    },
+    "mal": {
+      "id": "3915",
+      "url": "https://myanimelist.net/anime/3915"
+    },
+    "t": {
+      "id": "64323",
+      "url": "https://trakt.tv/shows/64323"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15244,
+  "slug": "sex-crime",
+  "kind": "manga",
+  "title": "Sex Crime",
+  "titles": {
+    "default": "Sex Crime"
+  },
+  "synonyms": [
+    "Sex Crime Zero",
+    "Zero Sum Game",
+    "Konya dake no Yakusoku",
+    "Kanojo",
+    "セックスクライム",
+    "Mushrambo",
+    "マシュランボー",
+    "Mashuranboo"
+  ],
+  "type": "manga",
+  "chapters": 23,
+  "volumes": 3,
+  "status": "finished",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/35041.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4496",
+      "url": "https://anilist.co/anime/4496"
+    },
+    "al_manga": {
+      "id": "4496",
+      "url": "https://anilist.co/manga/4496"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6067,
+  "slug": "hiyokoi",
+  "kind": "anime",
+  "title": "Hiyokoi",
+  "titles": {
+    "default": "Hiyokoi",
+    "romaji": "Hiyokoi",
+    "native": "ひよ恋"
+  },
+  "synonyms": [
+    "Hiyokoi",
+    "ひよ恋"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8768.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8768",
+      "url": "https://anilist.co/anime/8768"
+    },
+    "k": {
+      "id": "5486",
+      "url": "https://kitsu.io/anime/5486"
+    },
+    "mal": {
+      "id": "8768",
+      "url": "https://myanimelist.net/anime/8768"
+    }
+  }
+}

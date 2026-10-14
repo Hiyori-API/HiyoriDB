@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2233,
+  "slug": "kotetsu-no-daibouken",
+  "kind": "anime",
+  "title": "Kotetsu no Daibouken",
+  "titles": {
+    "default": "Kotetsu no Daibouken",
+    "romaji": "Kotetsu no Daibouken",
+    "english": "The Adventures of Kotetsu",
+    "native": "小鉄の大冒険"
+  },
+  "synonyms": [
+    "Kotetsu no Daibouken",
+    "The Adventures of Kotetsu",
+    "小鉄の大冒険"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2527.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2527",
+      "url": "https://anilist.co/anime/2527"
+    },
+    "k": {
+      "id": "2292",
+      "url": "https://kitsu.io/anime/2292"
+    },
+    "mal": {
+      "id": "2527",
+      "url": "https://myanimelist.net/anime/2527"
+    }
+  }
+}

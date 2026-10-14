@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13861,
+  "slug": "gravitation",
+  "kind": "manga",
+  "title": "Gravitation",
+  "titles": {
+    "default": "Gravitation"
+  },
+  "synonyms": [
+    "Gravitation",
+    "グラビテーション"
+  ],
+  "type": "manga",
+  "chapters": 56,
+  "volumes": 12,
+  "status": "finished",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30332-If2qwvCFTXdH.png"
+  ],
+  "references": {
+    "al": {
+      "id": "507",
+      "url": "https://anilist.co/anime/243"
+    },
+    "al_manga": {
+      "id": "507",
+      "url": "https://anilist.co/manga/507"
+    }
+  }
+}

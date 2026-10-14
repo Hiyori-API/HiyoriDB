@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8759,
+  "slug": "re-zero-kara-hajimeru-kyuukei-jikan-break-time",
+  "kind": "anime",
+  "title": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time)",
+  "titles": {
+    "default": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time)",
+    "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time)",
+    "english": "Re:ZERO ~Starting Break Time From Zero~",
+    "native": "Re:ゼロから始める休憩時間(ブレイクタイム)"
+  },
+  "synonyms": [
+    "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time)",
+    "Re:ZERO ~Starting Break Time From Zero~",
+    "Re:ゼロから始める休憩時間(ブレイクタイム)",
+    "Concrete Revolutio: The Last Song",
+    "コンクリート・レボルティオ～超人幻想～THE LAST SONG",
+    "Concrete Revolutio: Choujin Gensou - The Last Song"
+  ],
+  "type": "tv",
+  "episodes": 11,
+  "status": "finished",
+  "season": "spring",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21780-xCJk0z5vpn57.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21780",
+      "url": "https://anilist.co/anime/21780"
+    },
+    "cr": {
+      "id": "rezero-starting-life-in-another-world-shorts",
+      "url": "https://www.crunchyroll.com/series/rezero-starting-life-in-another-world-shorts"
+    },
+    "mal": {
+      "id": "33142",
+      "url": "https://myanimelist.net/anime/33142"
+    }
+  }
+}

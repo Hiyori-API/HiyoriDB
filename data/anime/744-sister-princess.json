@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 744,
+  "slug": "sister-princess",
+  "kind": "anime",
+  "title": "Sister Princess",
+  "titles": {
+    "default": "Sister Princess",
+    "romaji": "Sister Princess",
+    "native": "シスター・プリンセス"
+  },
+  "synonyms": [
+    "Sister Princess",
+    "シスター・プリンセス",
+    "SP",
+    "sispri"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx836-ZYPEtTbVOJXz.png"
+  ],
+  "references": {
+    "al": {
+      "id": "836",
+      "url": "https://anilist.co/anime/836"
+    },
+    "k": {
+      "id": "741",
+      "url": "https://kitsu.io/anime/741"
+    },
+    "mal": {
+      "id": "836",
+      "url": "https://myanimelist.net/anime/836"
+    },
+    "t": {
+      "id": "62225",
+      "url": "https://trakt.tv/shows/62225"
+    }
+  }
+}

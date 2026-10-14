@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4769,
+  "slug": "zukkoke-knight-don-de-la-mancha",
+  "kind": "anime",
+  "title": "Zukkoke Knight: Don De La Mancha",
+  "titles": {
+    "default": "Zukkoke Knight: Don De La Mancha",
+    "romaji": "Zukkoke Knight: Don De La Mancha",
+    "english": "Don Quixote in the Tales of La Mancha",
+    "native": "ずっこけナイト　ドンデラマンチャ"
+  },
+  "synonyms": [
+    "Zukkoke Knight: Don De La Mancha",
+    "Don Quixote in the Tales of La Mancha",
+    "ずっこけナイト　ドンデラマンチャ",
+    "Don Chisciotte",
+    "Don Quijote y los Cuentos De La Mancha",
+    "Don Quixote"
+  ],
+  "type": "tv",
+  "episodes": 23,
+  "status": "finished",
+  "season": "spring",
+  "year": 1980,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7808.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7808",
+      "url": "https://anilist.co/anime/7808"
+    },
+    "k": {
+      "id": "5129",
+      "url": "https://kitsu.io/anime/5129"
+    },
+    "mal": {
+      "id": "7808",
+      "url": "https://myanimelist.net/anime/7808"
+    }
+  }
+}

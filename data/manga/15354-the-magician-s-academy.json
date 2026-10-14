@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15354,
+  "slug": "the-magician-s-academy",
+  "kind": "manga",
+  "title": "The Magician's Academy",
+  "titles": {
+    "default": "The Magician's Academy"
+  },
+  "synonyms": [
+    "まじしゃんず・あかでみい",
+    "Majishanzu Akademii",
+    "The Magician's Academy",
+    "Love Makes People Grow",
+    "Hito wa Ai wo Tabete Sodatsu",
+    "人は愛を食べて育つ",
+    "Eat Love and Grow",
+    "Hito wa ai o tabete sodatsu"
+  ],
+  "type": "manga",
+  "volumes": 1,
+  "status": "finished",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/8663.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3654",
+      "url": "https://anilist.co/anime/3654"
+    },
+    "al_manga": {
+      "id": "3654",
+      "url": "https://anilist.co/manga/3654"
+    }
+  }
+}

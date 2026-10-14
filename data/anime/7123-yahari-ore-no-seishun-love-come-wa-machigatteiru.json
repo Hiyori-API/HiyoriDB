@@ -1,0 +1,58 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7123,
+  "slug": "yahari-ore-no-seishun-love-come-wa-machigatteiru",
+  "kind": "anime",
+  "title": "Yahari Ore no Seishun Love Come wa Machigatteiru.",
+  "titles": {
+    "default": "Yahari Ore no Seishun Love Come wa Machigatteiru.",
+    "romaji": "Yahari Ore no Seishun Love Come wa Machigatteiru.",
+    "english": "My Teen Romantic Comedy SNAFU",
+    "native": "やはり俺の青春ラブコメはまちがっている。"
+  },
+  "synonyms": [
+    "Yahari Ore no Seishun Love Come wa Machigatteiru.",
+    "My Teen Romantic Comedy SNAFU",
+    "やはり俺の青春ラブコメはまちがっている。",
+    "Oregairu",
+    "My youth romantic comedy is wrong as I expected.",
+    "俺ガイル",
+    "我的青春恋爱物语果然有问题",
+    "กะแล้วชีวิตรักวัยรุ่นของผมมันต้องไม่สดใสเลยสักนิด",
+    "Yahari Ore no Seishun Love Comedy wa Machigatteiru."
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14813-3mNvcKNEQcDs.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "14813",
+      "url": "https://anilist.co/anime/14813"
+    },
+    "cr": {
+      "id": "my-teen-romantic-comedy-snafu",
+      "url": "https://www.crunchyroll.com/series/my-teen-romantic-comedy-snafu"
+    },
+    "k": {
+      "id": "7169",
+      "url": "https://kitsu.io/anime/7169"
+    },
+    "mal": {
+      "id": "14813",
+      "url": "https://myanimelist.net/anime/14813"
+    },
+    "t": {
+      "id": "70013",
+      "url": "https://trakt.tv/shows/70013"
+    },
+    "tx": {
+      "id": "anime_oregairu",
+      "url": "https://twitter.com/anime_oregairu"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14701,
+  "slug": "gamera-tai-daimajuu-jaiga",
+  "kind": "manga",
+  "title": "Gamera Tai Daimajuu Jaiga",
+  "titles": {
+    "default": "Gamera Tai Daimajuu Jaiga"
+  },
+  "synonyms": [
+    "Gamera vs. Jiger",
+    "Gamera vs. Monster X",
+    "ガメラ対大魔獣ジャイガ",
+    "Christmas Snow",
+    "Noel la Neige",
+    "ノエル　ラ　ネージュ",
+    "Noël la neige"
+  ],
+  "type": "one_shot",
+  "chapters": 1,
+  "status": "finished",
+  "year": 1970,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx133935-0WJyZmTPJXLu.png"
+  ],
+  "references": {
+    "al": {
+      "id": "160831",
+      "url": "https://anilist.co/anime/160831"
+    },
+    "al_manga": {
+      "id": "160831",
+      "url": "https://anilist.co/manga/160831"
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4036,
+  "slug": "tanoshii-moomin-ikka-bouken-nikki",
+  "kind": "anime",
+  "title": "Tanoshii Moomin Ikka Bouken Nikki",
+  "titles": {
+    "default": "Tanoshii Moomin Ikka Bouken Nikki",
+    "romaji": "Tanoshii Moomin Ikka Bouken Nikki",
+    "native": "楽しいムーミン一家 冒険日記"
+  },
+  "synonyms": [
+    "Tanoshii Moomin Ikka Bouken Nikki",
+    "楽しいムーミン一家 冒険日記",
+    "Delightful Moomin Family: Adventure Diary",
+    "Tanoshii Muumin Ikka Bouken Nikki",
+    "Muumin",
+    "Muumit",
+    "Mumintroll",
+    "Muumilaakson tarinoita",
+    "I Mumindalen",
+    "Les Moomins",
+    "Los Moomins",
+    "Muminki",
+    "Mumins",
+    "Mumitroldene",
+    "Приключения муми-троллей",
+    "무민 잉글리시",
+    "وادي الأمان",
+    "המומינים"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5712-CfznnIZexohI.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5712",
+      "url": "https://anilist.co/anime/5712"
+    },
+    "k": {
+      "id": "4253",
+      "url": "https://kitsu.io/anime/4253"
+    },
+    "mal": {
+      "id": "5712",
+      "url": "https://myanimelist.net/anime/5712"
+    },
+    "t": {
+      "id": "62396",
+      "url": "https://trakt.tv/shows/62396"
+    }
+  }
+}

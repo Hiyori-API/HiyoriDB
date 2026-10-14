@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5208,
+  "slug": "kobo-chan",
+  "kind": "anime",
+  "title": "Kobo-chan",
+  "titles": {
+    "default": "Kobo-chan",
+    "romaji": "Kobo-chan",
+    "native": "コボちゃん"
+  },
+  "synonyms": [
+    "Kobo-chan",
+    "コボちゃん",
+    "Kobo",
+    "the Li`l Rascal",
+    "the Li'l Rascal"
+  ],
+  "type": "tv",
+  "episodes": 63,
+  "status": "finished",
+  "season": "fall",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19585-wSedJVGXMZGx.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "19585",
+      "url": "https://anilist.co/anime/19585"
+    },
+    "cr": {
+      "id": "kobo-chan",
+      "url": "https://www.crunchyroll.com/series/kobo-chan"
+    },
+    "k": {
+      "id": "9395",
+      "url": "https://kitsu.io/anime/9395"
+    },
+    "mal": {
+      "id": "19585",
+      "url": "https://myanimelist.net/anime/19585"
+    }
+  }
+}

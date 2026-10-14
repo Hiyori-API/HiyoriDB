@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7550,
+  "slug": "nobunagun",
+  "kind": "anime",
+  "title": "Nobunagun",
+  "titles": {
+    "default": "Nobunagun",
+    "romaji": "Nobunagun",
+    "native": "ノブナガン"
+  },
+  "synonyms": [
+    "Nobunagun",
+    "ノブナガン",
+    "Nobunagan"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19855-JTwhrecfZjOV.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "19855",
+      "url": "https://anilist.co/anime/19855"
+    },
+    "cr": {
+      "id": "nobunagun",
+      "url": "https://www.crunchyroll.com/series/nobunagun"
+    },
+    "k": {
+      "id": "7771",
+      "url": "https://kitsu.io/anime/7771"
+    },
+    "mal": {
+      "id": "19855",
+      "url": "https://myanimelist.net/anime/19855"
+    },
+    "t": {
+      "id": "74179",
+      "url": "https://trakt.tv/shows/74179"
+    },
+    "ttv": {
+      "id": "2270",
+      "url": "https://tubitv.com/series/2270"
+    },
+    "tx": {
+      "id": "nobunagun_tv",
+      "url": "https://twitter.com/nobunagun_tv"
+    }
+  }
+}

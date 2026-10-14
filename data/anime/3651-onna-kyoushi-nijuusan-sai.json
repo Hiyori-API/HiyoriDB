@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3651,
+  "slug": "onna-kyoushi-nijuusan-sai",
+  "kind": "anime",
+  "title": "Onna Kyoushi Nijuusan-sai",
+  "titles": {
+    "default": "Onna Kyoushi Nijuusan-sai",
+    "romaji": "Onna Kyoushi Nijuusan-sai",
+    "native": "女教師 二十三歳"
+  },
+  "synonyms": [
+    "Onna Kyoushi Nijuusan-sai",
+    "女教師 二十三歳",
+    "23 year old Female Teacher",
+    "Eiken",
+    "Eiken: Eikenbu yori Ai wo Komete",
+    "エイケン エイケンヴより愛をこめて"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4852.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4852",
+      "url": "https://anilist.co/anime/4852"
+    },
+    "k": {
+      "id": "703",
+      "url": "https://kitsu.io/anime/703"
+    },
+    "mal": {
+      "id": "4852",
+      "url": "https://myanimelist.net/anime/4852"
+    }
+  }
+}

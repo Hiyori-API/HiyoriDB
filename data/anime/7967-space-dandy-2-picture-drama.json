@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7967,
+  "slug": "space-dandy-2-picture-drama",
+  "kind": "anime",
+  "title": "Space☆Dandy 2 Picture Drama",
+  "titles": {
+    "default": "Space☆Dandy 2 Picture Drama",
+    "romaji": "Space☆Dandy 2 Picture Drama",
+    "native": "スペース☆ダンディ2 ピクチャードラマ"
+  },
+  "synonyms": [
+    "Space☆Dandy 2 Picture Drama",
+    "スペース☆ダンディ2 ピクチャードラマ",
+    "Space☆Dandy 2nd Season Picture Drama",
+    "Love Live! School Idol Project: μ's →NEXT LoveLive! 2014 - Endless Parade Makuai Drama",
+    "ラブライブ School idol project！μ's→NEXT LoveLive！2014～ENDLESS PARADE～幕間ドラマ",
+    "Love Live! μ's →NEXT LoveLive! 2014: Endless Parade - Interlude Drama",
+    "Love Live! μ's →NEXT LoveLive! 2014: Endless Parade - Intermission Drama"
+  ],
+  "type": "special",
+  "episodes": 3,
+  "status": "finished",
+  "season": "summer",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b108972-MbgCJ7HVGoy5.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "108972",
+      "url": "https://anilist.co/anime/108972"
+    },
+    "k": {
+      "id": "8846",
+      "url": "https://kitsu.io/anime/8846"
+    },
+    "mal": {
+      "id": "30246",
+      "url": "https://myanimelist.net/anime/30246"
+    }
+  }
+}

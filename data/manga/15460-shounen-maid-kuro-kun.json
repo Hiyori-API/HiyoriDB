@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15460,
+  "slug": "shounen-maid-kuro-kun",
+  "kind": "manga",
+  "title": "Shounen Maid Kuro-kun",
+  "titles": {
+    "default": "Shounen Maid Kuro-kun"
+  },
+  "synonyms": [
+    "Shounen Maid Curo-kun",
+    "Boy Housemaid Curo",
+    "少年メイドクーロ君",
+    "Renai Soukanzu",
+    "恋愛相姦図",
+    "Renai Sokanzu",
+    "Pink Sweets"
+  ],
+  "type": "manga",
+  "chapters": 48,
+  "volumes": 4,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx56526-5m2wakRWBUoj.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7110",
+      "url": "https://anilist.co/anime/7110"
+    },
+    "al_manga": {
+      "id": "7110",
+      "url": "https://anilist.co/manga/7110"
+    }
+  }
+}

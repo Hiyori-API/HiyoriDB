@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15752,
+  "slug": "dantalian-no-shoka",
+  "kind": "manga",
+  "title": "Dantalian no Shoka",
+  "titles": {
+    "default": "Dantalian no Shoka"
+  },
+  "synonyms": [
+    "Bibliotheca Mystica de Dantalian",
+    "Dantalian's Bookshelf",
+    "ダンタリアンの書架",
+    "Kaichou no Joker",
+    "会長の切り札",
+    "Kaichou no Kirifuda"
+  ],
+  "type": "novel",
+  "chapters": 41,
+  "volumes": 8,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx50147-6fhpLfmaHxUo.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8915",
+      "url": "https://anilist.co/anime/8915"
+    },
+    "al_manga": {
+      "id": "8915",
+      "url": "https://anilist.co/manga/8915"
+    }
+  }
+}

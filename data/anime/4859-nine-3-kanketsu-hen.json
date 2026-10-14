@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4859,
+  "slug": "nine-3-kanketsu-hen",
+  "kind": "anime",
+  "title": "Nine 3: Kanketsu-hen",
+  "titles": {
+    "default": "Nine 3: Kanketsu-hen",
+    "romaji": "Nine 3: Kanketsu-hen",
+    "native": "ナイン 完結編"
+  },
+  "synonyms": [
+    "Nine 3: Kanketsu-hen",
+    "ナイン 完結編",
+    "Nine 3: Final"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1984,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9244.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9244",
+      "url": "https://anilist.co/anime/9244"
+    },
+    "k": {
+      "id": "5644",
+      "url": "https://kitsu.io/anime/5644"
+    },
+    "mal": {
+      "id": "9244",
+      "url": "https://myanimelist.net/anime/9244"
+    }
+  }
+}

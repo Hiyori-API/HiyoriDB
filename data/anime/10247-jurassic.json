@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10247,
+  "slug": "jurassic",
+  "kind": "anime",
+  "title": "Jurassic!",
+  "titles": {
+    "default": "Jurassic!",
+    "romaji": "Jurassic!",
+    "native": "ジュラしっく！"
+  },
+  "synonyms": [
+    "Jurassic!",
+    "ジュラしっく！",
+    "Seikai no Senki Special",
+    "星界の戦旗 特別編",
+    "Seikai no Senki Movie",
+    "Battle Flag of the Stars Special Edition",
+    "Seikai no Senki Tokubetsuhen"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110642-B6Vf16qbh2Bj.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "110642",
+      "url": "https://anilist.co/anime/110642"
+    },
+    "k": {
+      "id": "366",
+      "url": "https://kitsu.io/anime/366"
+    },
+    "mal": {
+      "id": "40180",
+      "url": "https://myanimelist.net/anime/40180"
+    },
+    "tx": {
+      "id": "jurassic_anime",
+      "url": "https://twitter.com/jurassic_anime"
+    },
+    "yt": {
+      "id": "COZ5fwIavo0",
+      "url": "https://www.youtube.com/watch?v=COZ5fwIavo0"
+    }
+  }
+}

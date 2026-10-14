@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6120,
+  "slug": "yebisu-celebrities",
+  "kind": "anime",
+  "title": "YEBISU Celebrities",
+  "titles": {
+    "default": "YEBISU Celebrities",
+    "romaji": "YEBISU Celebrities",
+    "native": "YEBISUセレブリティーズ"
+  },
+  "synonyms": [
+    "YEBISU Celebrities",
+    "YEBISUセレブリティーズ",
+    "Yebisu Celebrities 1st",
+    "YEBISUセレブリティーズ1st"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9232.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9232",
+      "url": "https://anilist.co/anime/9232"
+    },
+    "k": {
+      "id": "5639",
+      "url": "https://kitsu.io/anime/5639"
+    },
+    "mal": {
+      "id": "9232",
+      "url": "https://myanimelist.net/anime/9232"
+    }
+  }
+}

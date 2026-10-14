@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 41,
+  "slug": "chobits",
+  "kind": "anime",
+  "title": "Chobits",
+  "titles": {
+    "default": "Chobits",
+    "romaji": "Chobits",
+    "native": "ちょびっツ"
+  },
+  "synonyms": [
+    "Chobits",
+    "ちょびっツ"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx59-0J95ZHgt4uyP.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "59",
+      "url": "https://anilist.co/anime/59"
+    },
+    "cr": {
+      "id": "chobits",
+      "url": "https://www.crunchyroll.com/series/chobits"
+    },
+    "k": {
+      "id": "40",
+      "url": "https://kitsu.io/anime/40"
+    },
+    "mal": {
+      "id": "59",
+      "url": "https://myanimelist.net/anime/59"
+    },
+    "t": {
+      "id": "37369",
+      "url": "https://trakt.tv/shows/37369"
+    }
+  }
+}

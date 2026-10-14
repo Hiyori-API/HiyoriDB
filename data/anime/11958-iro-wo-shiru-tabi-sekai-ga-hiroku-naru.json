@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11958,
+  "slug": "iro-wo-shiru-tabi-sekai-ga-hiroku-naru",
+  "kind": "anime",
+  "title": "Iro wo Shiru Tabi, Sekai ga Hiroku Naru.",
+  "titles": {
+    "default": "Iro wo Shiru Tabi, Sekai ga Hiroku Naru.",
+    "romaji": "Iro wo Shiru Tabi, Sekai ga Hiroku Naru.",
+    "native": "色を知るたび、世界が広くなる。"
+  },
+  "synonyms": [
+    "Iro wo Shiru Tabi, Sekai ga Hiroku Naru.",
+    "色を知るたび、世界が広くなる。",
+    "Advance forward, and you will find your true colors.",
+    "色彩検定協会 ショートアニメ",
+    "Shikisai Kentei Kyoukai Short Anime",
+    "Boku no Hero Academia HLA",
+    "Heroes League Baseball",
+    "Boku no Hero Academia: Warae! Jigoku no You ni",
+    "My Hero Academia ONA",
+    "僕のヒーローアカデミア",
+    "Boku no Hero Academia (ONA)"
+  ],
+  "type": "ona",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx157648-JYryx1p1zyA6.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "157648",
+      "url": "https://anilist.co/anime/157648"
+    },
+    "mal": {
+      "id": "53395",
+      "url": "https://myanimelist.net/anime/53395"
+    },
+    "tx": {
+      "id": "shikisai_kentei",
+      "url": "https://twitter.com/shikisai_kentei"
+    }
+  }
+}

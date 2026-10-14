@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7970,
+  "slug": "carino-coni",
+  "kind": "anime",
+  "title": "Carino Coni",
+  "titles": {
+    "default": "Carino Coni",
+    "romaji": "Carino Coni",
+    "native": "カリーノ・コニ"
+  },
+  "synonyms": [
+    "Carino Coni",
+    "カリーノ・コニ",
+    "The Irregular at Magic High School",
+    "Mahouka Koukou no Rettousei",
+    "魔法科高校の劣等生"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b109011-IwMxVytrawOs.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "109011",
+      "url": "https://anilist.co/anime/109011"
+    },
+    "cr": {
+      "id": "the-irregular-at-magic-high-school",
+      "url": "https://www.crunchyroll.com/series/the-irregular-at-magic-high-school"
+    },
+    "k": {
+      "id": "8053",
+      "url": "https://kitsu.io/anime/8053"
+    },
+    "mal": {
+      "id": "23721",
+      "url": "https://myanimelist.net/anime/23721"
+    },
+    "t": {
+      "id": "60390",
+      "url": "https://trakt.tv/shows/60390"
+    }
+  }
+}

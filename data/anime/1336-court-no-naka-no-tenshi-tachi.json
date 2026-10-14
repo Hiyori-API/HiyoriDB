@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1336,
+  "slug": "court-no-naka-no-tenshi-tachi",
+  "kind": "anime",
+  "title": "Court no Naka no Tenshi-tachi",
+  "titles": {
+    "default": "Court no Naka no Tenshi-tachi",
+    "romaji": "Court no Naka no Tenshi-tachi",
+    "english": "Angels in the Court",
+    "native": "コートの中の天使達"
+  },
+  "synonyms": [
+    "Court no Naka no Tenshi-tachi",
+    "Angels in the Court",
+    "コートの中の天使達",
+    "Maetel Legend",
+    "メーテルレジェンド"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1512.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1512",
+      "url": "https://anilist.co/anime/1512"
+    },
+    "k": {
+      "id": "1341",
+      "url": "https://kitsu.io/anime/1341"
+    },
+    "mal": {
+      "id": "1512",
+      "url": "https://myanimelist.net/anime/1512"
+    }
+  }
+}

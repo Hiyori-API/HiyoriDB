@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10302,
+  "slug": "youkai-watch-youkai-gakuen-y-neko-wa-hero-ni-nareru-ka",
+  "kind": "anime",
+  "title": "Youkai Watch: Youkai Gakuen Y - Neko wa HERO ni Nareru ka",
+  "titles": {
+    "default": "Youkai Watch: Youkai Gakuen Y - Neko wa HERO ni Nareru ka",
+    "romaji": "Youkai Watch: Youkai Gakuen Y - Neko wa HERO ni Nareru ka",
+    "native": "映画 妖怪ウォッチ 妖怪学園Ｙ 猫はHEROになれるか"
+  },
+  "synonyms": [
+    "Youkai Watch: Youkai Gakuen Y - Neko wa HERO ni Nareru ka",
+    "映画 妖怪ウォッチ 妖怪学園Ｙ 猫はHEROになれるか",
+    "Yo-kai Watch Jam The Movie: Yo-kai Academy Y - Can a Cat be a Hero?",
+    "Y School Heroes Movie",
+    "Youkai Watch Movie 6: Youkai Gakuen Y - Neko wa Hero ni Nareru ka"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113273-2HOooeFNzIPb.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "113273",
+      "url": "https://anilist.co/anime/113273"
+    },
+    "mal": {
+      "id": "39529",
+      "url": "https://myanimelist.net/anime/39529"
+    }
+  }
+}

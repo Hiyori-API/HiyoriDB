@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13795,
+  "slug": "yotsuba-to",
+  "kind": "manga",
+  "title": "Yotsuba to!",
+  "titles": {
+    "default": "Yotsuba to!"
+  },
+  "synonyms": [
+    "Yotsuba and!",
+    "Yotsuba!",
+    "Yotsubato",
+    "Ёцуба!",
+    "요츠바랑!",
+    "四葉妹妹!",
+    "Yotsuba&!",
+    "よつばと！",
+    "Yotsubato!",
+    "よつばと!"
+  ],
+  "type": "manga",
+  "status": "publishing",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30104-sUVzNlTWZ5cu.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "147465",
+      "url": "https://anilist.co/anime/21655"
+    },
+    "al_manga": {
+      "id": "147465",
+      "url": "https://anilist.co/manga/147465"
+    },
+    "nf": {
+      "id": "428",
+      "url": "https://www.netflix.com/title/428"
+    }
+  }
+}

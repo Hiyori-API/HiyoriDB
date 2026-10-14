@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14890,
+  "slug": "obocchama-kun",
+  "kind": "manga",
+  "title": "Obocchama-kun",
+  "titles": {
+    "default": "Obocchama-kun"
+  },
+  "synonyms": [
+    "おぼっちゃまくん",
+    "Mai",
+    "Mai, The Psychic Girl",
+    "舞"
+  ],
+  "type": "manga",
+  "volumes": 24,
+  "status": "finished",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx111119-KkqRyNOO2sle.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "20075",
+      "url": "https://anilist.co/anime/20075"
+    },
+    "al_manga": {
+      "id": "20075",
+      "url": "https://anilist.co/manga/20075"
+    }
+  }
+}

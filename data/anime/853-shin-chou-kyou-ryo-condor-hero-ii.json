@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 853,
+  "slug": "shin-chou-kyou-ryo-condor-hero-ii",
+  "kind": "anime",
+  "title": "Shin Chou Kyou Ryo: Condor Hero II",
+  "titles": {
+    "default": "Shin Chou Kyou Ryo: Condor Hero II",
+    "romaji": "Shin Chou Kyou Ryo: Condor Hero II",
+    "english": "Legend of the Condor Hero II",
+    "native": "神鵰俠侶 II 襄陽風雲"
+  },
+  "synonyms": [
+    "Shin Chou Kyou Ryo: Condor Hero II",
+    "Legend of the Condor Hero II",
+    "神鵰俠侶 II 襄陽風雲",
+    "Shen Diao Xia Lu II: Xiang Yang Feng Yun"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "winter",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/960.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "960",
+      "url": "https://anilist.co/anime/960"
+    },
+    "k": {
+      "id": "850",
+      "url": "https://kitsu.io/anime/850"
+    },
+    "mal": {
+      "id": "960",
+      "url": "https://myanimelist.net/anime/960"
+    },
+    "t": {
+      "id": "37400",
+      "url": "https://trakt.tv/shows/37400"
+    }
+  }
+}

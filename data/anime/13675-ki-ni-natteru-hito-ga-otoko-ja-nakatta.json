@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13675,
+  "slug": "ki-ni-natteru-hito-ga-otoko-ja-nakatta",
+  "kind": "anime",
+  "title": "Ki ni Natteru Hito ga Otoko ja Nakatta",
+  "titles": {
+    "default": "Ki ni Natteru Hito ga Otoko ja Nakatta",
+    "romaji": "Ki ni Natteru Hito ga Otoko ja Nakatta",
+    "english": "The Guy She Was Interested In Wasn't a Guy At All",
+    "native": "気になってる人が男じゃなかった"
+  },
+  "synonyms": [
+    "Ki ni Natteru Hito ga Otoko ja Nakatta",
+    "The Guy She Was Interested In Wasn't a Guy At All",
+    "気になってる人が男じゃなかった",
+    "The Guy She Was Interested In Wasn't a Guy at All",
+    "The Person She Fell For Wasn't A Boy",
+    "TGSWIIWAGAA",
+    "Kinioto",
+    "Sudden Death",
+    "Sadon Desu",
+    "さどんです"
+  ],
+  "type": "tv",
+  "status": "to_be_aired",
+  "season": "winter",
+  "year": 2027,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186822-9zsR5NtOP0yJ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "186822",
+      "url": "https://anilist.co/anime/186822"
+    },
+    "k": {
+      "id": "8275",
+      "url": "https://kitsu.io/anime/8275"
+    },
+    "mal": {
+      "id": "61035",
+      "url": "https://myanimelist.net/anime/61035"
+    }
+  }
+}

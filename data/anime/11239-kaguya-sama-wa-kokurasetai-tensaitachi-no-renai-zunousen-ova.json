@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11239,
+  "slug": "kaguya-sama-wa-kokurasetai-tensaitachi-no-renai-zunousen-ova",
+  "kind": "anime",
+  "title": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen OVA",
+  "titles": {
+    "default": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen OVA",
+    "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen OVA",
+    "native": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～OVA"
+  },
+  "synonyms": [
+    "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen OVA",
+    "かぐや様は告らせたい～天才たちの恋愛頭脳戦～OVA",
+    "Kaguya-sama: Love is War OVA",
+    "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen OVA",
+    "かぐや様は告らせたい？ ～天才たちの恋愛頭脳戦～ OVA",
+    "Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx125368-QhcBkbNP0ZfU.png"
+  ],
+  "references": {
+    "al": {
+      "id": "125368",
+      "url": "https://anilist.co/anime/125368"
+    },
+    "mal": {
+      "id": "43609",
+      "url": "https://myanimelist.net/anime/43609"
+    },
+    "tx": {
+      "id": "anime_kaguya",
+      "url": "https://twitter.com/anime_kaguya"
+    }
+  }
+}

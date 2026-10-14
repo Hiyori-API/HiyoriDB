@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10361,
+  "slug": "strike-witches-dai-501-tougou-sentou-koukuudan-road-to-berlin",
+  "kind": "anime",
+  "title": "Strike Witches: Dai-501 Tougou Sentou Koukuudan ROAD to BERLIN",
+  "titles": {
+    "default": "Strike Witches: Dai-501 Tougou Sentou Koukuudan ROAD to BERLIN",
+    "romaji": "Strike Witches: Dai-501 Tougou Sentou Koukuudan ROAD to BERLIN",
+    "english": "Strike Witches: Road to Berlin",
+    "native": "第501統合戦闘航空団 ストライクウィッチーズ ROAD to BERLIN"
+  },
+  "synonyms": [
+    "Strike Witches: Dai-501 Tougou Sentou Koukuudan ROAD to BERLIN",
+    "Strike Witches: Road to Berlin",
+    "第501統合戦闘航空団 ストライクウィッチーズ ROAD to BERLIN",
+    "Strike Witches 3"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103119-5x83l4nwlloI.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "103119",
+      "url": "https://anilist.co/anime/103119"
+    },
+    "cr": {
+      "id": "strike-witches",
+      "url": "https://www.crunchyroll.com/series/strike-witches"
+    },
+    "mal": {
+      "id": "38005",
+      "url": "https://myanimelist.net/anime/38005"
+    },
+    "tx": {
+      "id": "RtbWitch",
+      "url": "https://twitter.com/RtbWitch"
+    }
+  }
+}

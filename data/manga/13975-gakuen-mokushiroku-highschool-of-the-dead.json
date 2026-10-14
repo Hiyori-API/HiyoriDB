@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13975,
+  "slug": "gakuen-mokushiroku-highschool-of-the-dead",
+  "kind": "manga",
+  "title": "Gakuen Mokushiroku: HIGHSCHOOL OF THE DEAD",
+  "titles": {
+    "default": "Gakuen Mokushiroku: HIGHSCHOOL OF THE DEAD"
+  },
+  "synonyms": [
+    "HOTD",
+    "Apocalipsis en el Instituto",
+    "Highschool of the Dead",
+    "学園黙示録 HIGHSCHOOL OF THE DEAD",
+    "The Pain in My Heart",
+    "Boku no Mune ga Itakutemo - Glass",
+    "ぼくの胸が痛くても GLASS"
+  ],
+  "type": "manga",
+  "chapters": 30,
+  "volumes": 7,
+  "status": "discontinued",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30669-LCLtDFVlkA4e.png"
+  ],
+  "references": {
+    "al": {
+      "id": "8074",
+      "url": "https://anilist.co/anime/8074"
+    },
+    "al_manga": {
+      "id": "8074",
+      "url": "https://anilist.co/manga/8074"
+    }
+  }
+}

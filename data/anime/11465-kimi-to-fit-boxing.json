@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11465,
+  "slug": "kimi-to-fit-boxing",
+  "kind": "anime",
+  "title": "Kimi to Fit Boxing",
+  "titles": {
+    "default": "Kimi to Fit Boxing",
+    "romaji": "Kimi to Fit Boxing",
+    "native": "キミとフィットボクシング"
+  },
+  "synonyms": [
+    "Kimi to Fit Boxing",
+    "キミとフィットボクシング",
+    "Fitness Boxing",
+    "Fit Boxing Animation",
+    "Ring ni Kakero 1",
+    "リングにかけろ１",
+    "Put it all in the Ring"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx138383-eWM6ZhzOX0CP.png"
+  ],
+  "references": {
+    "al": {
+      "id": "138383",
+      "url": "https://anilist.co/anime/138383"
+    },
+    "k": {
+      "id": "14",
+      "url": "https://kitsu.io/anime/14"
+    },
+    "mal": {
+      "id": "49664",
+      "url": "https://myanimelist.net/anime/49664"
+    },
+    "t": {
+      "id": "69507",
+      "url": "https://trakt.tv/shows/69507"
+    },
+    "tx": {
+      "id": "fitboxinginfo",
+      "url": "https://twitter.com/fitboxinginfo"
+    }
+  }
+}

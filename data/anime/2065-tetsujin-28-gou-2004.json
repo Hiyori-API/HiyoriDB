@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2065,
+  "slug": "tetsujin-28-gou-2004",
+  "kind": "anime",
+  "title": "Tetsujin 28-gou (2004)",
+  "titles": {
+    "default": "Tetsujin 28-gou (2004)",
+    "romaji": "Tetsujin 28-gou (2004)",
+    "english": "Tetsujin 28",
+    "native": "鉄人２８号 (2004)"
+  },
+  "synonyms": [
+    "Tetsujin 28-gou (2004)",
+    "Tetsujin 28",
+    "鉄人２８号 (2004)",
+    "Gigantor (2004)",
+    "Time of Shura",
+    "Mutsu Enmei Ryuu Gaiden: Shura no Toki",
+    "陸奥圓明流外伝 修羅の刻",
+    "Shura no Toki - Age of Chaos",
+    "Shura no Toki"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2337-5bWtfDud2VHi.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2337",
+      "url": "https://anilist.co/anime/2337"
+    },
+    "cr": {
+      "id": "tetsujin-28",
+      "url": "https://www.crunchyroll.com/series/tetsujin-28"
+    },
+    "k": {
+      "id": "307",
+      "url": "https://kitsu.io/anime/307"
+    },
+    "mal": {
+      "id": "2337",
+      "url": "https://myanimelist.net/anime/2337"
+    },
+    "t": {
+      "id": "60351",
+      "url": "https://trakt.tv/shows/60351"
+    }
+  }
+}

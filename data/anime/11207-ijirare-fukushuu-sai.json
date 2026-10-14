@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11207,
+  "slug": "ijirare-fukushuu-sai",
+  "kind": "anime",
+  "title": "Ijirare: Fukushuu Sai○",
+  "titles": {
+    "default": "Ijirare: Fukushuu Sai○",
+    "romaji": "Ijirare: Fukushuu Sai○",
+    "native": "イジラレ ～復讐催○～"
+  },
+  "synonyms": [
+    "Ijirare: Fukushuu Sai○",
+    "イジラレ ～復讐催○～",
+    "イジラレ ～復讐催眠～",
+    "Ijirare: Fukushuu Saimin",
+    "Bullied ~Revenge Hypnosis~",
+    "Izirare ~Hukusyu Saimin~",
+    "Samurai X: Trust and Betrayal",
+    "Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen",
+    "るろうに剣心―明治剣客浪漫譚―追憶編",
+    "Rurouni Kenshin: Tsuiokuhen",
+    "Rurouni Kenshin: Reminiscence"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "winter",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122954-kOisr0EF5mRW.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "122954",
+      "url": "https://anilist.co/anime/122954"
+    },
+    "k": {
+      "id": "26",
+      "url": "https://kitsu.io/anime/26"
+    },
+    "mal": {
+      "id": "43465",
+      "url": "https://myanimelist.net/anime/43465"
+    }
+  }
+}

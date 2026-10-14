@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15060,
+  "slug": "ryu-seiki",
+  "kind": "manga",
+  "title": "Ryu Seiki",
+  "titles": {
+    "default": "Ryu Seiki"
+  },
+  "synonyms": [
+    "Dragon Century",
+    "ryuu seiki",
+    "竜世紀 ドラゴンセンチュリー",
+    "Dismember",
+    "Kaitai",
+    "解体"
+  ],
+  "type": "manga",
+  "volumes": 4,
+  "status": "finished",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx37176-xfTH4CllesHx.png"
+  ],
+  "references": {
+    "al": {
+      "id": "4318",
+      "url": "https://anilist.co/anime/4318"
+    },
+    "al_manga": {
+      "id": "4318",
+      "url": "https://anilist.co/manga/4318"
+    }
+  }
+}

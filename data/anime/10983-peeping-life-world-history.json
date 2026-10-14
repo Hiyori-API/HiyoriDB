@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10983,
+  "slug": "peeping-life-world-history",
+  "kind": "anime",
+  "title": "Peeping Life: World History",
+  "titles": {
+    "default": "Peeping Life: World History",
+    "romaji": "Peeping Life: World History",
+    "native": "Peeping Life -World History-"
+  },
+  "synonyms": [
+    "Peeping Life: World History",
+    "Peeping Life -World History-"
+  ],
+  "type": "ona",
+  "episodes": 40,
+  "status": "finished",
+  "season": "winter",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17237.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "17237",
+      "url": "https://anilist.co/anime/17237"
+    },
+    "k": {
+      "id": "7614",
+      "url": "https://kitsu.io/anime/7614"
+    },
+    "mal": {
+      "id": "17237",
+      "url": "https://myanimelist.net/anime/17237"
+    }
+  }
+}

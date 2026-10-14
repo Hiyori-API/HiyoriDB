@@ -1,0 +1,61 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1492,
+  "slug": "byousoku-5-centimeter",
+  "kind": "anime",
+  "title": "Byousoku 5 Centimeter",
+  "titles": {
+    "default": "Byousoku 5 Centimeter",
+    "romaji": "Byousoku 5 Centimeter",
+    "english": "5 Centimeters per Second",
+    "native": "秒速５センチメートル"
+  },
+  "synonyms": [
+    "Byousoku 5 Centimeter",
+    "5 Centimeters per Second",
+    "秒速５センチメートル",
+    "Five Centimeters Per Second",
+    "Byousoku 5 Centimeter - a chain of short stories about their distance",
+    "5 cm per second",
+    "5 Centímetros por Segundo",
+    "5 centimètres par seconde",
+    "Másodpercenként 5 centiméter",
+    "ยามซากุระร่วงโรย",
+    "5 centimet trên giây",
+    "5 centymetrów na sekundę",
+    "5 centimetri al secondo",
+    "5 сантиметров в секунду",
+    "5 Centimeters Per Second",
+    "5 Centimetres Per Second"
+  ],
+  "type": "movie",
+  "episodes": 3,
+  "status": "finished",
+  "season": "winter",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1689-rJKhjLEjQHSy.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1689",
+      "url": "https://anilist.co/anime/1689"
+    },
+    "cr": {
+      "id": "5-centimeters-per-second",
+      "url": "https://www.crunchyroll.com/series/5-centimeters-per-second"
+    },
+    "k": {
+      "id": "1517",
+      "url": "https://kitsu.io/anime/1517"
+    },
+    "mal": {
+      "id": "1689",
+      "url": "https://myanimelist.net/anime/1689"
+    },
+    "nf": {
+      "id": "70093699",
+      "url": "https://www.netflix.com/title/70093699"
+    }
+  }
+}

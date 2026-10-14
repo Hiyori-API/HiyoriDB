@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8668,
+  "slug": "noblesse-awakening",
+  "kind": "anime",
+  "title": "NOBLESSE:Awakening",
+  "titles": {
+    "default": "NOBLESSE:Awakening",
+    "romaji": "NOBLESSE:Awakening",
+    "english": "Noblesse: Awakening"
+  },
+  "synonyms": [
+    "NOBLESSE:Awakening",
+    "Noblesse: Awakening",
+    "Noblesse Episode 0"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21629-1TAaEMqxkGC8.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21629",
+      "url": "https://anilist.co/anime/21629"
+    },
+    "cr": {
+      "id": "noblesse-awakening",
+      "url": "https://www.crunchyroll.com/series/noblesse-awakening"
+    },
+    "mal": {
+      "id": "32668",
+      "url": "https://myanimelist.net/anime/32668"
+    }
+  }
+}

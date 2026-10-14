@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13864,
+  "slug": "sakigake-cromartie-koukou",
+  "kind": "manga",
+  "title": "Sakigake!! Cromartie Koukou",
+  "titles": {
+    "default": "Sakigake!! Cromartie Koukou"
+  },
+  "synonyms": [
+    "Cromartie High School",
+    "魁!! クロマティ高校",
+    "Mushrambo",
+    "マシュランボー",
+    "Mashuranboo"
+  ],
+  "type": "manga",
+  "chapters": 335,
+  "volumes": 17,
+  "status": "finished",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30339-kIi3Q3rHfn3w.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "114",
+      "url": "https://anilist.co/anime/114"
+    },
+    "al_manga": {
+      "id": "114",
+      "url": "https://anilist.co/manga/114"
+    }
+  }
+}

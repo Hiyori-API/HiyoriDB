@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6875,
+  "slug": "rui-no-masaiban",
+  "kind": "anime",
+  "title": "Rui no Masaiban",
+  "titles": {
+    "default": "Rui no Masaiban",
+    "romaji": "Rui no Masaiban",
+    "native": "ルイの魔裁判"
+  },
+  "synonyms": [
+    "Rui no Masaiban",
+    "ルイの魔裁判"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13541.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "13541",
+      "url": "https://anilist.co/anime/13541"
+    },
+    "k": {
+      "id": "6989",
+      "url": "https://kitsu.io/anime/6989"
+    },
+    "mal": {
+      "id": "13541",
+      "url": "https://myanimelist.net/anime/13541"
+    }
+  }
+}

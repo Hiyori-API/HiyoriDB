@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11522,
+  "slug": "ankoku-kazoku-warabi-san",
+  "kind": "anime",
+  "title": "Ankoku Kazoku Warabi-san",
+  "titles": {
+    "default": "Ankoku Kazoku Warabi-san",
+    "romaji": "Ankoku Kazoku Warabi-san",
+    "native": "暗黒家族 ワラビさん"
+  },
+  "synonyms": [
+    "Ankoku Kazoku Warabi-san",
+    "暗黒家族 ワラビさん",
+    "Mrs. Warabi",
+    "Xi Xing Ji 3rd Season",
+    "Journey to the West",
+    "Westbound",
+    "Westbound Discipline",
+    "The Westward 3rd Season",
+    "西行纪之宿命篇",
+    "Xi Xing Ji: Suming Pian"
+  ],
+  "type": "ona",
+  "episodes": 20,
+  "status": "finished",
+  "season": "summer",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180850-uOTMrIpD66iD.png"
+  ],
+  "references": {
+    "al": {
+      "id": "180850",
+      "url": "https://anilist.co/anime/180850"
+    },
+    "mal": {
+      "id": "49354",
+      "url": "https://myanimelist.net/anime/49354"
+    },
+    "tx": {
+      "id": "ankoku_warabi",
+      "url": "https://twitter.com/ankoku_warabi"
+    }
+  }
+}

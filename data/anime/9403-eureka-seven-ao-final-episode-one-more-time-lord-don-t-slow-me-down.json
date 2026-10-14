@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9403,
+  "slug": "eureka-seven-ao-final-episode-one-more-time-lord-don-t-slow-me-down",
+  "kind": "anime",
+  "title": "Eureka Seven AO Final Episode: One More Time - Lord Don't Slow Me Down",
+  "titles": {
+    "default": "Eureka Seven AO Final Episode: One More Time - Lord Don't Slow Me Down",
+    "romaji": "Eureka Seven AO Final Episode: One More Time - Lord Don't Slow Me Down",
+    "english": "Eureka Seven AO Final Episode",
+    "native": "エウレカセブンAO 新作エピソード限定公開 Final Episode : One More Time　－ロード・ドント・スロー・ミー・ダウンー"
+  },
+  "synonyms": [
+    "Eureka Seven AO Final Episode: One More Time - Lord Don't Slow Me Down",
+    "Eureka Seven AO Final Episode",
+    "エウレカセブンAO 新作エピソード限定公開 Final Episode : One More Time　－ロード・ドント・スロー・ミー・ダウンー",
+    "エウレカセブンAO Final Episode : One More Time　－ロード・ドント・スロー・ミー・ダウンー",
+    "エウレカセブンAO Final",
+    "パチスロ エウレカセブンAO Final Episode : One More Time －ロード・ドント・スロー・ミー・ダウンー",
+    "Eureka Seven AO: One More Time - Lord Don't Slow Me Down"
+  ],
+  "type": "ona",
+  "episodes": 5,
+  "status": "finished",
+  "season": "winter",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101339-9zSbv7tieeVi.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101339",
+      "url": "https://anilist.co/anime/101339"
+    },
+    "mal": {
+      "id": "34776",
+      "url": "https://myanimelist.net/anime/34776"
+    }
+  }
+}

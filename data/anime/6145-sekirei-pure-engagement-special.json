@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6145,
+  "slug": "sekirei-pure-engagement-special",
+  "kind": "anime",
+  "title": "Sekirei: Pure Engagement Special",
+  "titles": {
+    "default": "Sekirei: Pure Engagement Special",
+    "romaji": "Sekirei: Pure Engagement Special",
+    "native": "セキレイ～Pure Engagement～第零羽 閑話弐題(鶺鴒診断/鶺鴒余暇)"
+  },
+  "synonyms": [
+    "Sekirei: Pure Engagement Special",
+    "セキレイ～Pure Engagement～第零羽 閑話弐題(鶺鴒診断/鶺鴒余暇)",
+    "Sekirei: Pure Engagement Episode 0",
+    "Sekirei 2 Special",
+    "Kanwanidai (Sekirei Shindan/Sekirei Yoka)",
+    "セキレイ～Pure Engagement～第零羽"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9355.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9355",
+      "url": "https://anilist.co/anime/9355"
+    },
+    "k": {
+      "id": "5700",
+      "url": "https://kitsu.io/anime/5700"
+    },
+    "mal": {
+      "id": "9355",
+      "url": "https://myanimelist.net/anime/9355"
+    }
+  }
+}

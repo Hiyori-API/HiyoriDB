@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5115,
+  "slug": "asatte-dance",
+  "kind": "anime",
+  "title": "Asatte Dance",
+  "titles": {
+    "default": "Asatte Dance",
+    "romaji": "Asatte Dance",
+    "english": "Dance Till Tomorrow",
+    "native": "あさってDance"
+  },
+  "synonyms": [
+    "Asatte Dance",
+    "Dance Till Tomorrow",
+    "あさってDance"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8643.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8643",
+      "url": "https://anilist.co/anime/8643"
+    },
+    "k": {
+      "id": "5412",
+      "url": "https://kitsu.io/anime/5412"
+    },
+    "mal": {
+      "id": "8643",
+      "url": "https://myanimelist.net/anime/8643"
+    }
+  }
+}

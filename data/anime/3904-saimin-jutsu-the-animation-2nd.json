@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3904,
+  "slug": "saimin-jutsu-the-animation-2nd",
+  "kind": "anime",
+  "title": "Saimin Jutsu THE ANIMATION 2nd",
+  "titles": {
+    "default": "Saimin Jutsu THE ANIMATION 2nd",
+    "romaji": "Saimin Jutsu THE ANIMATION 2nd",
+    "native": "催眠術 THE ANIMATION 2nd"
+  },
+  "synonyms": [
+    "Saimin Jutsu THE ANIMATION 2nd",
+    "催眠術 THE ANIMATION 2nd",
+    "Saiminjutsu 2",
+    "Switch",
+    "スイッチ"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5455.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5455",
+      "url": "https://anilist.co/anime/5455"
+    },
+    "k": {
+      "id": "3115",
+      "url": "https://kitsu.io/anime/3115"
+    },
+    "mal": {
+      "id": "5455",
+      "url": "https://myanimelist.net/anime/5455"
+    }
+  }
+}

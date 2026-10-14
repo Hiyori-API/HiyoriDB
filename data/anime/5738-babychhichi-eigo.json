@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5738,
+  "slug": "babychhichi-eigo",
+  "kind": "anime",
+  "title": "Babychhichi Eigo",
+  "titles": {
+    "default": "Babychhichi Eigo",
+    "romaji": "Babychhichi Eigo",
+    "native": "ベビチッチえいご"
+  },
+  "synonyms": [
+    "Babychhichi Eigo",
+    "ベビチッチえいご",
+    "Girl Meets Girl OVA",
+    "Kashimashi: Girl Meets Girl - Shoujo wa Shoujo ni Koi wo Shita",
+    "Girl Meets Girl",
+    "かしまし ～ガール・ミーツ・ガール～ 少女は少女に恋をした",
+    "Kasimasi: Girl Meets Girl",
+    "Kashimashi: Girl Meets Girl OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b213434-OtCw7QmJH4J3.png"
+  ],
+  "references": {
+    "al": {
+      "id": "213434",
+      "url": "https://anilist.co/anime/213434"
+    },
+    "k": {
+      "id": "611",
+      "url": "https://kitsu.io/anime/611"
+    },
+    "mal": {
+      "id": "63636",
+      "url": "https://myanimelist.net/anime/63636"
+    }
+  }
+}

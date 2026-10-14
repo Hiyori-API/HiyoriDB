@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14829,
+  "slug": "super-zugan",
+  "kind": "manga",
+  "title": "Super Zugan",
+  "titles": {
+    "default": "Super Zugan"
+  },
+  "synonyms": [
+    "スーパーヅガン",
+    "Magician",
+    "マジシャン"
+  ],
+  "type": "manga",
+  "chapters": 94,
+  "volumes": 9,
+  "status": "finished",
+  "year": 1981,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx167856-yepxE5yi8O5S.png"
+  ],
+  "references": {
+    "al": {
+      "id": "6981",
+      "url": "https://anilist.co/anime/6981"
+    },
+    "al_manga": {
+      "id": "6981",
+      "url": "https://anilist.co/manga/6981"
+    }
+  }
+}

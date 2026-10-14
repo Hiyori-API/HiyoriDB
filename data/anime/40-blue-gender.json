@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 40,
+  "slug": "blue-gender",
+  "kind": "anime",
+  "title": "BLUE GENDER",
+  "titles": {
+    "default": "BLUE GENDER",
+    "romaji": "BLUE GENDER",
+    "english": "Blue Gender"
+  },
+  "synonyms": [
+    "BLUE GENDER",
+    "Blue Gender",
+    "ブルージェンダー"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b58-2KarB5N1dB0P.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "58",
+      "url": "https://anilist.co/anime/58"
+    },
+    "k": {
+      "id": "39",
+      "url": "https://kitsu.io/anime/39"
+    },
+    "mal": {
+      "id": "58",
+      "url": "https://myanimelist.net/anime/58"
+    },
+    "t": {
+      "id": "19762",
+      "url": "https://trakt.tv/shows/19762"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14272,
+  "slug": "legend-of-lemnear",
+  "kind": "manga",
+  "title": "Legend of Lemnear",
+  "titles": {
+    "default": "Legend of Lemnear"
+  },
+  "synonyms": [
+    "Legend of Lemnear",
+    "レジェンド・オブ・レムネア"
+  ],
+  "type": "manga",
+  "chapters": 18,
+  "volumes": 3,
+  "status": "finished",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31780-xxH9WCJcVao2.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "434",
+      "url": "https://anilist.co/anime/434"
+    },
+    "al_manga": {
+      "id": "434",
+      "url": "https://anilist.co/manga/434"
+    }
+  }
+}

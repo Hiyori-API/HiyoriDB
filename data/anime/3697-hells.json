@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3697,
+  "slug": "hells",
+  "kind": "anime",
+  "title": "Hells",
+  "titles": {
+    "default": "Hells",
+    "romaji": "Hells",
+    "native": "ヘルズ"
+  },
+  "synonyms": [
+    "Hells",
+    "ヘルズ",
+    "Hells Angels",
+    "Hell's Angels",
+    "ヘルズ, (ヘルズエンジェルス)"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4983-t1MpNzFXqW8u.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4983",
+      "url": "https://anilist.co/anime/4983"
+    },
+    "k": {
+      "id": "3873",
+      "url": "https://kitsu.io/anime/3873"
+    },
+    "mal": {
+      "id": "4983",
+      "url": "https://myanimelist.net/anime/4983"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5878,
+  "slug": "tennis-no-ouji-sama-ova-zenkoku-taikai-hen-final-chibi-character-flash-animation",
+  "kind": "anime",
+  "title": "Tennis no Ouji-sama OVA: Zenkoku Taikai-hen Final Chibi Character Flash Animation",
+  "titles": {
+    "default": "Tennis no Ouji-sama OVA: Zenkoku Taikai-hen Final Chibi Character Flash Animation",
+    "romaji": "Tennis no Ouji-sama OVA: Zenkoku Taikai-hen Final Chibi Character Flash Animation",
+    "native": "テニスの王子様 OVA 全国大会篇 Final ちびキャラフラッシュアニメ"
+  },
+  "synonyms": [
+    "Tennis no Ouji-sama OVA: Zenkoku Taikai-hen Final Chibi Character Flash Animation",
+    "テニスの王子様 OVA 全国大会篇 Final ちびキャラフラッシュアニメ",
+    "Tennis no Ouji-sama: Mini Theater",
+    "テニスの王子様",
+    "Prince of Tennis: Mini Theater"
+  ],
+  "type": "special",
+  "episodes": 3,
+  "status": "finished",
+  "season": "winter",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b10276-clTBoiKDXRm0.png"
+  ],
+  "references": {
+    "al": {
+      "id": "10276",
+      "url": "https://anilist.co/anime/10276"
+    },
+    "k": {
+      "id": "6110",
+      "url": "https://kitsu.io/anime/6110"
+    },
+    "mal": {
+      "id": "10276",
+      "url": "https://myanimelist.net/anime/10276"
+    }
+  }
+}

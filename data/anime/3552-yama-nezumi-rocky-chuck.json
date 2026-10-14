@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3552,
+  "slug": "yama-nezumi-rocky-chuck",
+  "kind": "anime",
+  "title": "Yama Nezumi Rocky Chuck",
+  "titles": {
+    "default": "Yama Nezumi Rocky Chuck",
+    "romaji": "Yama Nezumi Rocky Chuck",
+    "english": "Fables of the Green Forest",
+    "native": "山ねずみ ロッキーチャック"
+  },
+  "synonyms": [
+    "Yama Nezumi Rocky Chuck",
+    "Fables of the Green Forest",
+    "山ねずみ ロッキーチャック",
+    "Rocky Chuck the Mountain Rat",
+    "Rocky Chuck the Woodchuck",
+    "Peter Conttontail in The Green Forest",
+    "Peter Cottontail and Friends"
+  ],
+  "type": "tv",
+  "episodes": 52,
+  "status": "finished",
+  "season": "winter",
+  "year": 1973,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4615-h4PRtNX3ulCR.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4615",
+      "url": "https://anilist.co/anime/4615"
+    },
+    "k": {
+      "id": "3712",
+      "url": "https://kitsu.io/anime/3712"
+    },
+    "mal": {
+      "id": "4615",
+      "url": "https://myanimelist.net/anime/4615"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10533,
+  "slug": "tenchi-muyou-ryououki-dai-5-ki",
+  "kind": "anime",
+  "title": "Tenchi Muyou! Ryououki Dai 5-ki",
+  "titles": {
+    "default": "Tenchi Muyou! Ryououki Dai 5-ki",
+    "romaji": "Tenchi Muyou! Ryououki Dai 5-ki",
+    "english": "Tenchi Muyo! Ryo-Ohki Season 5",
+    "native": "天地無用! 魎皇鬼 第5期"
+  },
+  "synonyms": [
+    "Tenchi Muyou! Ryououki Dai 5-ki",
+    "Tenchi Muyo! Ryo-Ohki Season 5",
+    "天地無用! 魎皇鬼 第5期",
+    "Tenchi Muyo! Ryo-Ohki 5th Season",
+    "Tenchi Muyou! Ryououki Dai Go-ki",
+    "Tenchi Muyo! Ryo-Ohki 5th Season, Tenchi Muyou! Ryououki Dai Go-ki",
+    "天地無用! 魎皇鬼 第伍期",
+    "Tenchi Muyou! Ryououki 5th Season"
+  ],
+  "type": "ova",
+  "episodes": 6,
+  "status": "finished",
+  "season": "winter",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114442-wEY2gcxKFhdg.png"
+  ],
+  "references": {
+    "al": {
+      "id": "114442",
+      "url": "https://anilist.co/anime/114442"
+    },
+    "cr": {
+      "id": "tenchi-muyo-ryo-ohki",
+      "url": "https://www.crunchyroll.com/series/tenchi-muyo-ryo-ohki"
+    },
+    "mal": {
+      "id": "40097",
+      "url": "https://myanimelist.net/anime/40097"
+    }
+  }
+}

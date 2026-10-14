@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14742,
+  "slug": "uchuu-senkan-yamato",
+  "kind": "manga",
+  "title": "Uchuu Senkan Yamato",
+  "titles": {
+    "default": "Uchuu Senkan Yamato"
+  },
+  "synonyms": [
+    "Cosmoship Yamato",
+    "Uchū Senkan Yamato",
+    "Space Battleship Yamato: The Classic Collection",
+    "Patrulha Estelar Yamato",
+    "Space Battleship Yamato",
+    "宇宙戦艦ヤマト",
+    "Getter Robo",
+    "ゲッターロボ"
+  ],
+  "type": "manga",
+  "chapters": 21,
+  "volumes": 3,
+  "status": "finished",
+  "year": 1974,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx63333-5U3wFCxAYa0q.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "182615",
+      "url": "https://anilist.co/anime/1650"
+    },
+    "al_manga": {
+      "id": "182615",
+      "url": "https://anilist.co/manga/182615"
+    }
+  }
+}

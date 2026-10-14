@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4354,
+  "slug": "bokura-no-saibanin-monogatari",
+  "kind": "anime",
+  "title": "Bokura no Saibanin Monogatari",
+  "titles": {
+    "default": "Bokura no Saibanin Monogatari",
+    "romaji": "Bokura no Saibanin Monogatari",
+    "english": "Our Jury Story",
+    "native": "ぼくらの裁判員物語"
+  },
+  "synonyms": [
+    "Bokura no Saibanin Monogatari",
+    "Our Jury Story",
+    "ぼくらの裁判員物語"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6568-WfSeUXwsi7xW.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6568",
+      "url": "https://anilist.co/anime/6568"
+    },
+    "k": {
+      "id": "4614",
+      "url": "https://kitsu.io/anime/4614"
+    },
+    "mal": {
+      "id": "6568",
+      "url": "https://myanimelist.net/anime/6568"
+    }
+  }
+}

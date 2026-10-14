@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4124,
+  "slug": "nyoro-n-churuya-san",
+  "kind": "anime",
+  "title": "Nyoro-n☆Churuya-san",
+  "titles": {
+    "default": "Nyoro-n☆Churuya-san",
+    "romaji": "Nyoro-n☆Churuya-san",
+    "english": "Nyoron! Churuya-san",
+    "native": "にょろーん☆ちゅるやさん"
+  },
+  "synonyms": [
+    "Nyoro-n☆Churuya-san",
+    "Nyoron! Churuya-san",
+    "にょろーん☆ちゅるやさん",
+    "Nyoroon, Mini Churuya !",
+    "Nyoro-n Churuya-san",
+    "Nyoron Churuya-san",
+    "Nyoron! Churuya-San",
+    "Nyoroon Churuya-san"
+  ],
+  "type": "ona",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5957.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5957",
+      "url": "https://anilist.co/anime/5957"
+    },
+    "k": {
+      "id": "4362",
+      "url": "https://kitsu.io/anime/4362"
+    },
+    "mal": {
+      "id": "5957",
+      "url": "https://myanimelist.net/anime/5957"
+    }
+  }
+}

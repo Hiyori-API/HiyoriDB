@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13755,
+  "slug": "dragon-ball",
+  "kind": "manga",
+  "title": "Dragon Ball",
+  "titles": {
+    "default": "Dragon Ball"
+  },
+  "synonyms": [
+    "Dragonball",
+    "Dragon Ball Z",
+    "Dragonball Z",
+    "Bola de Drac",
+    "七龍珠",
+    "드래곤볼",
+    "ดราก้อนบอล",
+    "Жемчуг дракона",
+    "Dragon Ball - 7 Viên Ngọc Rồng",
+    "Dragon Ball",
+    "ドラゴンボール"
+  ],
+  "type": "manga",
+  "chapters": 520,
+  "volumes": 42,
+  "status": "finished",
+  "year": 1984,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30042-4SetGiEbGc9x.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "985",
+      "url": "https://anilist.co/anime/6033"
+    },
+    "al_manga": {
+      "id": "985",
+      "url": "https://anilist.co/manga/985"
+    }
+  }
+}

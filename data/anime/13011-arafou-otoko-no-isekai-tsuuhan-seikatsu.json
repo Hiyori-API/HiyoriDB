@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13011,
+  "slug": "arafou-otoko-no-isekai-tsuuhan-seikatsu",
+  "kind": "anime",
+  "title": "Arafou Otoko no Isekai Tsuuhan Seikatsu",
+  "titles": {
+    "default": "Arafou Otoko no Isekai Tsuuhan Seikatsu",
+    "romaji": "Arafou Otoko no Isekai Tsuuhan Seikatsu",
+    "english": "The Daily Life of a Middle-Aged Online Shopper in Another World",
+    "native": "アラフォー男の異世界通販生活"
+  },
+  "synonyms": [
+    "Arafou Otoko no Isekai Tsuuhan Seikatsu",
+    "The Daily Life of a Middle-Aged Online Shopper in Another World",
+    "アラフォー男の異世界通販生活",
+    "Around 40 Otoko no Isekai Tsuuhan Seikatsu",
+    "ทะลุมิติไปเป็นยอดนักขายออนไลน์ในต่างโลกของชายวัยสี่สิบ",
+    "El Hazard: The Alternative World",
+    "異次元の世界エルハザード",
+    "Ijigen no Sekai El Hazard",
+    "Ijigen no Sekai El-Hazard"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180292-GG0nwYZ5HeN7.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "180292",
+      "url": "https://anilist.co/anime/180292"
+    },
+    "cr": {
+      "id": "series/GVDHX855Q/the-daily-life-of-a-middle-aged-online-shopper-in-another-world",
+      "url": "https://www.crunchyroll.com/series/series/GVDHX855Q/the-daily-life-of-a-middle-aged-online-shopper-in-another-world"
+    },
+    "k": {
+      "id": "94",
+      "url": "https://kitsu.io/anime/94"
+    },
+    "mal": {
+      "id": "59561",
+      "url": "https://myanimelist.net/anime/59561"
+    },
+    "t": {
+      "id": "63711",
+      "url": "https://trakt.tv/shows/63711"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14841,
+  "slug": "lupin-8-sei",
+  "kind": "manga",
+  "title": "Lupin 8-sei",
+  "titles": {
+    "default": "Lupin 8-sei"
+  },
+  "synonyms": [
+    "Rupan VIII",
+    "Lupin The Eighth",
+    "Lupin The 8th",
+    "Lupin VIII",
+    "ルパン8世",
+    "Tetsu no Don Quixote",
+    "鉄のドンキホーテ",
+    "Iron Don Quixote",
+    "Mad Fighter",
+    "Hokuto no Ken The Origins",
+    "Hokuto no Ken Pilot"
+  ],
+  "type": "manga",
+  "chapters": 10,
+  "volumes": 1,
+  "status": "finished",
+  "year": 1982,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx135281-cFx0SxJzlXZF.png"
+  ],
+  "references": {
+    "al": {
+      "id": "13249",
+      "url": "https://anilist.co/anime/13249"
+    },
+    "al_manga": {
+      "id": "13249",
+      "url": "https://anilist.co/manga/13249"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13484,
+  "slug": "kanagawa-ni-sunderu-elf",
+  "kind": "anime",
+  "title": "#Kanagawa ni Sunderu Elf",
+  "titles": {
+    "default": "#Kanagawa ni Sunderu Elf",
+    "romaji": "#Kanagawa ni Sunderu Elf",
+    "english": "Kanagawa Elves",
+    "native": "#神奈川に住んでるエルフ"
+  },
+  "synonyms": [
+    "#Kanagawa ni Sunderu Elf",
+    "Kanagawa Elves",
+    "#神奈川に住んでるエルフ",
+    "The Invisible Man and His Soon-to-Be Wife",
+    "透明男と人間女～そのうち夫婦になるふたり～",
+    "Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199005-64XpgeaCMfir.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "199005",
+      "url": "https://anilist.co/anime/199005"
+    },
+    "mal": {
+      "id": "62521",
+      "url": "https://myanimelist.net/anime/62521"
+    }
+  }
+}

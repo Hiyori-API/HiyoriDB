@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3634,
+  "slug": "houkago-renai-club",
+  "kind": "anime",
+  "title": "Houkago Renai Club",
+  "titles": {
+    "default": "Houkago Renai Club",
+    "romaji": "Houkago Renai Club",
+    "english": "Casual Romance Club",
+    "native": "放課後恋愛クラブ"
+  },
+  "synonyms": [
+    "Houkago Renai Club",
+    "Casual Romance Club",
+    "放課後恋愛クラブ",
+    "Koikura",
+    "Houkago Renai Club: Koi no Eetude",
+    "Afterschool Romance Club",
+    "Gravitation: Lyrics of Love",
+    "グラビテーション"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4818.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4818",
+      "url": "https://anilist.co/anime/4818"
+    },
+    "k": {
+      "id": "466",
+      "url": "https://kitsu.io/anime/466"
+    },
+    "mal": {
+      "id": "4818",
+      "url": "https://myanimelist.net/anime/4818"
+    }
+  }
+}

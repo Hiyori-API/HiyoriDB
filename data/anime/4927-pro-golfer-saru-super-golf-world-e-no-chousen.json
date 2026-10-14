@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4927,
+  "slug": "pro-golfer-saru-super-golf-world-e-no-chousen",
+  "kind": "anime",
+  "title": "Pro Golfer Saru: Super GOLF World e no Chousen!!",
+  "titles": {
+    "default": "Pro Golfer Saru: Super GOLF World e no Chousen!!",
+    "romaji": "Pro Golfer Saru: Super GOLF World e no Chousen!!",
+    "native": "プロゴルファー猿 スーパーGOLFワールドへの挑戦!!"
+  },
+  "synonyms": [
+    "Pro Golfer Saru: Super GOLF World e no Chousen!!",
+    "プロゴルファー猿 スーパーGOLFワールドへの挑戦!!",
+    "Pro Golfer Saru: Super Golf World e no Chousen!!"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17317.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "17317",
+      "url": "https://anilist.co/anime/17317"
+    },
+    "k": {
+      "id": "7638",
+      "url": "https://kitsu.io/anime/7638"
+    },
+    "mal": {
+      "id": "17317",
+      "url": "https://myanimelist.net/anime/17317"
+    }
+  }
+}

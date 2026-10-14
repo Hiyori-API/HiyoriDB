@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1934,
+  "slug": "slow-step",
+  "kind": "anime",
+  "title": "Slow Step",
+  "titles": {
+    "default": "Slow Step",
+    "romaji": "Slow Step",
+    "native": "スローステップ"
+  },
+  "synonyms": [
+    "Slow Step",
+    "スローステップ"
+  ],
+  "type": "ova",
+  "episodes": 5,
+  "status": "finished",
+  "season": "summer",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2180.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2180",
+      "url": "https://anilist.co/anime/2180"
+    },
+    "k": {
+      "id": "1974",
+      "url": "https://kitsu.io/anime/1974"
+    },
+    "mal": {
+      "id": "2180",
+      "url": "https://myanimelist.net/anime/2180"
+    }
+  }
+}

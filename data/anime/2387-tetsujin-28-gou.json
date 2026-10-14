@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2387,
+  "slug": "tetsujin-28-gou",
+  "kind": "anime",
+  "title": "Tetsujin 28-gou",
+  "titles": {
+    "default": "Tetsujin 28-gou",
+    "romaji": "Tetsujin 28-gou",
+    "english": "Gigantor",
+    "native": "鉄人28号"
+  },
+  "synonyms": [
+    "Tetsujin 28-gou",
+    "Gigantor",
+    "鉄人28号",
+    "Iron Man 28",
+    "Tetsujin 28",
+    "鉄人２８号",
+    "Tetsujin 28-go"
+  ],
+  "type": "tv",
+  "episodes": 83,
+  "status": "finished",
+  "season": "fall",
+  "year": 1963,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2686-TuhNXLgXsszW.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2686",
+      "url": "https://anilist.co/anime/2686"
+    },
+    "k": {
+      "id": "2448",
+      "url": "https://kitsu.io/anime/2448"
+    },
+    "mal": {
+      "id": "2686",
+      "url": "https://myanimelist.net/anime/2686"
+    }
+  }
+}

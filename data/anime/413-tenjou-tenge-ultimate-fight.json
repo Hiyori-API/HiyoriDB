@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 413,
+  "slug": "tenjou-tenge-ultimate-fight",
+  "kind": "anime",
+  "title": "Tenjou Tenge: ULTIMATE FIGHT",
+  "titles": {
+    "default": "Tenjou Tenge: ULTIMATE FIGHT",
+    "romaji": "Tenjou Tenge: ULTIMATE FIGHT",
+    "english": "Tenjho Tenge: The Ultimate Fight",
+    "native": "天上天下ULTIMATE FIGHT"
+  },
+  "synonyms": [
+    "Tenjou Tenge: ULTIMATE FIGHT",
+    "Tenjho Tenge: The Ultimate Fight",
+    "天上天下ULTIMATE FIGHT",
+    "Ultimate Fight",
+    "Tenjou Tenge: The Ultimate Fight"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx448-gbPXMCC1Gkcf.png"
+  ],
+  "references": {
+    "al": {
+      "id": "448",
+      "url": "https://anilist.co/anime/448"
+    },
+    "ap": {
+      "id": "B07ZG6852H",
+      "url": "https://www.amazon.com/gp/video/detail/B07ZG6852H"
+    },
+    "k": {
+      "id": "411",
+      "url": "https://kitsu.io/anime/411"
+    },
+    "mal": {
+      "id": "448",
+      "url": "https://myanimelist.net/anime/448"
+    }
+  }
+}

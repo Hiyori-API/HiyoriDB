@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2285,
+  "slug": "kidou-senshi-gundam-00",
+  "kind": "anime",
+  "title": "Kidou Senshi Gundam 00",
+  "titles": {
+    "default": "Kidou Senshi Gundam 00",
+    "romaji": "Kidou Senshi Gundam 00",
+    "english": "Mobile Suit Gundam 00",
+    "native": "機動戦士ガンダム00"
+  },
+  "synonyms": [
+    "Kidou Senshi Gundam 00",
+    "Mobile Suit Gundam 00",
+    "機動戦士ガンダム00",
+    "Gundam Double O"
+  ],
+  "type": "tv",
+  "episodes": 25,
+  "status": "finished",
+  "season": "fall",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2581-MLEf00dNAfqY.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2581",
+      "url": "https://anilist.co/anime/2581"
+    },
+    "cr": {
+      "id": "mobile-suit-gundam-00",
+      "url": "https://www.crunchyroll.com/series/mobile-suit-gundam-00"
+    },
+    "k": {
+      "id": "2346",
+      "url": "https://kitsu.io/anime/2346"
+    },
+    "mal": {
+      "id": "2581",
+      "url": "https://myanimelist.net/anime/2581"
+    },
+    "t": {
+      "id": "21631",
+      "url": "https://trakt.tv/shows/21631"
+    }
+  }
+}

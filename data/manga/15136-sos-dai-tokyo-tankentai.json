@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15136,
+  "slug": "sos-dai-tokyo-tankentai",
+  "kind": "manga",
+  "title": "SOS Dai Tokyo Tankentai",
+  "titles": {
+    "default": "SOS Dai Tokyo Tankentai"
+  },
+  "synonyms": [
+    "Run",
+    "Speed",
+    "Neko wa Yoku Asagata ni Kaette Kuru",
+    "ＳＯＳ大東京探検隊",
+    "The Life and Times of an Idiot Section Chief",
+    "Kachou Baka Ichidachi",
+    "課長バカ一代",
+    "Kachou Baka Ichidai"
+  ],
+  "type": "manga",
+  "chapters": 14,
+  "volumes": 1,
+  "status": "finished",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx38592-tqisfL0l0vM6.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4471",
+      "url": "https://anilist.co/anime/4471"
+    },
+    "al_manga": {
+      "id": "4471",
+      "url": "https://anilist.co/manga/4471"
+    }
+  }
+}

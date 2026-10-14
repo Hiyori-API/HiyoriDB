@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9993,
+  "slug": "mannaka-no-rikkun",
+  "kind": "anime",
+  "title": "Mannaka no Rikkun",
+  "titles": {
+    "default": "Mannaka no Rikkun",
+    "romaji": "Mannaka no Rikkun",
+    "native": "まんなかのりっくん"
+  },
+  "synonyms": [
+    "Mannaka no Rikkun",
+    "まんなかのりっくん",
+    "Kaguya Wants to be Confessed To: The Geniuses' War of Love and Brains",
+    "Kaguya-sama: Love is War",
+    "かぐや様は告らせたい～天才たちの恋愛頭脳戦～",
+    "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx101579-varMwCYi0BXT.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101579",
+      "url": "https://anilist.co/anime/101579"
+    },
+    "mal": {
+      "id": "37560",
+      "url": "https://myanimelist.net/anime/37560"
+    },
+    "tvt": {
+      "id": "kinder",
+      "url": "http://www.tv-tokyo.co.jp/anime/kinder"
+    }
+  }
+}

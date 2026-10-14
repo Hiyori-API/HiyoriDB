@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1804,
+  "slug": "five-star-stories",
+  "kind": "anime",
+  "title": "Five Star Stories",
+  "titles": {
+    "default": "Five Star Stories",
+    "romaji": "Five Star Stories",
+    "native": "ファイブスター物語"
+  },
+  "synonyms": [
+    "Five Star Stories",
+    "ファイブスター物語",
+    "Five Star Monogatari",
+    "The Five Star Stories Movie",
+    "Wrath of the Ninja",
+    "Sengoku Kitan Youtouden Movie",
+    "戦国奇譚 妖刀伝 劇場版",
+    "Sengoku Kidan Youtouden Gekijouban",
+    "Legend of the Enchanted Swords",
+    "Yotoden Movie"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2042-Y1AjGO4uCdCS.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2042",
+      "url": "https://anilist.co/anime/2042"
+    },
+    "k": {
+      "id": "1232",
+      "url": "https://kitsu.io/anime/1232"
+    },
+    "mal": {
+      "id": "2042",
+      "url": "https://myanimelist.net/anime/2042"
+    }
+  }
+}

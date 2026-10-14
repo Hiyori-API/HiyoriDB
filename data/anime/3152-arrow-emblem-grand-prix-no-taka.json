@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3152,
+  "slug": "arrow-emblem-grand-prix-no-taka",
+  "kind": "anime",
+  "title": "Arrow Emblem: Grand Prix no Taka",
+  "titles": {
+    "default": "Arrow Emblem: Grand Prix no Taka",
+    "romaji": "Arrow Emblem: Grand Prix no Taka",
+    "english": "Grand Prix",
+    "native": "アローエンブレム グランプリの鷹"
+  },
+  "synonyms": [
+    "Arrow Emblem: Grand Prix no Taka",
+    "Grand Prix",
+    "アローエンブレム グランプリの鷹",
+    "Arrow Emblem: Hawk of the Grand Prix",
+    "Super Grand Prix",
+    "O Super Grand Prix",
+    "Arrow Emblem Grand Prix no Taka",
+    "アローエンブレム　グランプリの鷹"
+  ],
+  "type": "tv",
+  "episodes": 44,
+  "status": "finished",
+  "season": "fall",
+  "year": 1977,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3800-nFCpDGU5q5ue.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3800",
+      "url": "https://anilist.co/anime/3800"
+    },
+    "k": {
+      "id": "3258",
+      "url": "https://kitsu.io/anime/3258"
+    },
+    "mal": {
+      "id": "3800",
+      "url": "https://myanimelist.net/anime/3800"
+    }
+  }
+}

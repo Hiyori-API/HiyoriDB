@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10327,
+  "slug": "sore-ike-anpanman-kirameke-ice-no-kuni-no-vanilla-hime",
+  "kind": "anime",
+  "title": "Sore Ike! Anpanman: Kirameke! Ice no Kuni no Vanilla-hime",
+  "titles": {
+    "default": "Sore Ike! Anpanman: Kirameke! Ice no Kuni no Vanilla-hime",
+    "romaji": "Sore Ike! Anpanman: Kirameke! Ice no Kuni no Vanilla-hime",
+    "english": "Anpanman: Twinkle! Princess Vanilla of Ice Cream Land",
+    "native": "それいけ! アンパンマン きらめけ! アイスの国のバニラ姫"
+  },
+  "synonyms": [
+    "Sore Ike! Anpanman: Kirameke! Ice no Kuni no Vanilla-hime",
+    "Anpanman: Twinkle! Princess Vanilla of Ice Cream Land",
+    "それいけ! アンパンマン きらめけ! アイスの国のバニラ姫",
+    "Let's go! Anpanman: Sparkle! Princess Vanilla of the Land of Ice Cream",
+    "Cencoroll 2",
+    "センコロール"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121833-8AhBVgzLSNsj.png"
+  ],
+  "references": {
+    "al": {
+      "id": "121833",
+      "url": "https://anilist.co/anime/121833"
+    },
+    "k": {
+      "id": "5749",
+      "url": "https://kitsu.io/anime/5749"
+    },
+    "mal": {
+      "id": "39002",
+      "url": "https://myanimelist.net/anime/39002"
+    },
+    "nf": {
+      "id": "81719829",
+      "url": "https://www.netflix.com/title/81719829"
+    }
+  }
+}

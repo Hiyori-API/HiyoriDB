@@ -1,0 +1,58 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13094,
+  "slug": "everyday-host",
+  "kind": "anime",
+  "title": "Everyday Host",
+  "titles": {
+    "default": "Everyday Host",
+    "romaji": "Everyday Host",
+    "native": "えぶりでいホスト"
+  },
+  "synonyms": [
+    "Everyday Host",
+    "えぶりでいホスト",
+    "Everyday Host Club",
+    "Ebuhosu",
+    "えぶホス",
+    "Honey and Clover",
+    "Hachimitsu to Clover",
+    "ハチミツとクローバー",
+    "HachiKuro",
+    "Honey & Clover"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "spring",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185584-a5oABU1uknYX.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "185584",
+      "url": "https://anilist.co/anime/185584"
+    },
+    "cr": {
+      "id": "honey-and-clover",
+      "url": "https://www.crunchyroll.com/series/honey-and-clover"
+    },
+    "k": {
+      "id": "7",
+      "url": "https://kitsu.io/anime/7"
+    },
+    "mal": {
+      "id": "60535",
+      "url": "https://myanimelist.net/anime/60535"
+    },
+    "t": {
+      "id": "35263",
+      "url": "https://trakt.tv/shows/35263"
+    },
+    "tvt": {
+      "id": "everydayhost",
+      "url": "http://www.tv-tokyo.co.jp/anime/everydayhost"
+    }
+  }
+}

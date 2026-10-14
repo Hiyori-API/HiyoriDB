@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1841,
+  "slug": "majuu-senshi-luna-varga",
+  "kind": "anime",
+  "title": "Majuu Senshi Luna Varga",
+  "titles": {
+    "default": "Majuu Senshi Luna Varga",
+    "romaji": "Majuu Senshi Luna Varga",
+    "english": "Luna Varga",
+    "native": "魔獣戦士ルナ・ヴァルガー"
+  },
+  "synonyms": [
+    "Majuu Senshi Luna Varga",
+    "Luna Varga",
+    "魔獣戦士ルナ・ヴァルガー",
+    "Demon Warrior Luna Varga",
+    "Akai Hayate",
+    "紅いハヤテ"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "spring",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2079.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2079",
+      "url": "https://anilist.co/anime/2079"
+    },
+    "k": {
+      "id": "3850",
+      "url": "https://kitsu.io/anime/3850"
+    },
+    "mal": {
+      "id": "2079",
+      "url": "https://myanimelist.net/anime/2079"
+    }
+  }
+}

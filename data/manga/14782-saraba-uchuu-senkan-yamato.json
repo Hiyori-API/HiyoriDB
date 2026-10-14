@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14782,
+  "slug": "saraba-uchuu-senkan-yamato",
+  "kind": "manga",
+  "title": "Saraba Uchuu Senkan Yamato",
+  "titles": {
+    "default": "Saraba Uchuu Senkan Yamato"
+  },
+  "synonyms": [
+    "さらば宇宙戦艦ヤマト",
+    "Those Obnoxious Aliens",
+    "Urusei Yatsura",
+    "うる星やつら",
+    "Lum",
+    "The Return of Lum",
+    "Lamu",
+    "the Invader Girl"
+  ],
+  "type": "manga",
+  "volumes": 3,
+  "status": "finished",
+  "year": 1978,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx63367-m5nmc6G9PULK.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3067",
+      "url": "https://anilist.co/anime/3067"
+    },
+    "al_manga": {
+      "id": "3067",
+      "url": "https://anilist.co/manga/3067"
+    }
+  }
+}

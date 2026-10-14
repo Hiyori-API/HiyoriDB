@@ -1,0 +1,61 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9016,
+  "slug": "eromanga-sensei",
+  "kind": "anime",
+  "title": "Eromanga Sensei",
+  "titles": {
+    "default": "Eromanga Sensei",
+    "romaji": "Eromanga Sensei",
+    "native": "エロマンガ先生"
+  },
+  "synonyms": [
+    "Eromanga Sensei",
+    "エロマンガ先生",
+    "Ero Manga Sensei",
+    "情色漫画老师",
+    "น้องสาวของผมคืออาจารย์เอโรมังงะ",
+    "埃罗芒阿老师",
+    "Attack on Titan Season 2",
+    "Shingeki no Kyojin Season 2",
+    "進撃の巨人 Season 2"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21685-h1SrcpaNnrIq.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21685",
+      "url": "https://anilist.co/anime/21685"
+    },
+    "cr": {
+      "id": "eromanga-sensei",
+      "url": "https://www.crunchyroll.com/series/eromanga-sensei"
+    },
+    "k": {
+      "id": "8671",
+      "url": "https://kitsu.io/anime/8671"
+    },
+    "mal": {
+      "id": "32901",
+      "url": "https://myanimelist.net/anime/32901"
+    },
+    "nf": {
+      "id": "80193052",
+      "url": "https://www.netflix.com/title/80193052"
+    },
+    "t": {
+      "id": "1420",
+      "url": "https://trakt.tv/shows/1420"
+    },
+    "tx": {
+      "id": "oreimo_eromanga",
+      "url": "https://twitter.com/oreimo_eromanga"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3148,
+  "slug": "the-supergal",
+  "kind": "anime",
+  "title": "The Supergal",
+  "titles": {
+    "default": "The Supergal",
+    "romaji": "The Supergal",
+    "english": "Maris the Chojo",
+    "native": "ザ・超女"
+  },
+  "synonyms": [
+    "The Supergal",
+    "Maris the Chojo",
+    "ザ・超女",
+    "Rumic World 2",
+    "The Chojo",
+    "Maris the Wondergirl",
+    "Roots Search",
+    "Roots Search: Shokushin Buttai X",
+    "ルーツ・サーチ 食心物体Ｘ",
+    "Roots Search: Life Devourer X"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3787.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3787",
+      "url": "https://anilist.co/anime/3787"
+    },
+    "k": {
+      "id": "2038",
+      "url": "https://kitsu.io/anime/2038"
+    },
+    "mal": {
+      "id": "3787",
+      "url": "https://myanimelist.net/anime/3787"
+    }
+  }
+}

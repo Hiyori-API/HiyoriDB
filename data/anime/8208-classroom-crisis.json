@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8208,
+  "slug": "classroom-crisis",
+  "kind": "anime",
+  "title": "Classroom☆Crisis",
+  "titles": {
+    "default": "Classroom☆Crisis",
+    "romaji": "Classroom☆Crisis",
+    "native": "クラスルーム☆クライシス"
+  },
+  "synonyms": [
+    "Classroom☆Crisis",
+    "クラスルーム☆クライシス",
+    "Classroom Crisis",
+    "Wagnaria!!3",
+    "Working!!!",
+    "ワーキング!!!",
+    "Working!! 3rd Season",
+    "Working!! Third Season"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21112-QHUvpp3hQTqZ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21112",
+      "url": "https://anilist.co/anime/21112"
+    },
+    "cr": {
+      "id": "classroomcrisis",
+      "url": "https://www.crunchyroll.com/series/classroomcrisis"
+    },
+    "k": {
+      "id": "8712",
+      "url": "https://kitsu.io/anime/8712"
+    },
+    "mal": {
+      "id": "30383",
+      "url": "https://myanimelist.net/anime/30383"
+    },
+    "t": {
+      "id": "61012",
+      "url": "https://trakt.tv/shows/61012"
+    },
+    "tx": {
+      "id": "clcr_project",
+      "url": "https://twitter.com/clcr_project"
+    }
+  }
+}

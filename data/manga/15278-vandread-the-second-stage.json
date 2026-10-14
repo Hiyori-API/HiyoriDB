@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15278,
+  "slug": "vandread-the-second-stage",
+  "kind": "manga",
+  "title": "Vandread: the second stage",
+  "titles": {
+    "default": "Vandread: the second stage"
+  },
+  "synonyms": [
+    "ヴァンドレッド the second stage",
+    "Trinity Blood (Novel)",
+    "Trinity Blood: Rage Against the Moons",
+    "トリニティ・ブラッド Rage Against the Moons"
+  ],
+  "type": "novel",
+  "volumes": 3,
+  "status": "finished",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/93797-8UKZVU8gZG5W.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "181",
+      "url": "https://anilist.co/anime/181"
+    },
+    "al_manga": {
+      "id": "181",
+      "url": "https://anilist.co/manga/181"
+    }
+  }
+}

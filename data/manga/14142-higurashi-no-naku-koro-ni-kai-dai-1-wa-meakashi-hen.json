@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14142,
+  "slug": "higurashi-no-naku-koro-ni-kai-dai-1-wa-meakashi-hen",
+  "kind": "manga",
+  "title": "Higurashi no Naku Koro ni Kai - Dai 1-wa: Meakashi-hen",
+  "titles": {
+    "default": "Higurashi no Naku Koro ni Kai - Dai 1-wa: Meakashi-hen"
+  },
+  "synonyms": [
+    "Higurashi When They Cry: Eye Opening Arc",
+    "ひぐらしのなく頃に解 第1話～目明し編～",
+    "H+P -HimePara-",
+    "H+P ‐ひめぱら‐"
+  ],
+  "type": "novel",
+  "volumes": 2,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx125623-Ah5o4LNK8Yt7.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "934",
+      "url": "https://anilist.co/anime/934"
+    },
+    "al_manga": {
+      "id": "934",
+      "url": "https://anilist.co/manga/934"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5626,
+  "slug": "crayon-shin-chan-arashi-wo-yobu-yuuhi-no-kasukabe-boys",
+  "kind": "anime",
+  "title": "Crayon Shin-chan: Arashi wo Yobu! Yuuhi no Kasukabe Boys",
+  "titles": {
+    "default": "Crayon Shin-chan: Arashi wo Yobu! Yuuhi no Kasukabe Boys",
+    "romaji": "Crayon Shin-chan: Arashi wo Yobu! Yuuhi no Kasukabe Boys",
+    "native": "映画 クレヨンしんちゃん　嵐を呼ぶ！夕陽のカスカベボーイズ"
+  },
+  "synonyms": [
+    "Crayon Shin-chan: Arashi wo Yobu! Yuuhi no Kasukabe Boys",
+    "映画 クレヨンしんちゃん　嵐を呼ぶ！夕陽のカスカベボーイズ",
+    "Eiga Crayon Shin-chan: Arashi o Yobu! Yuhi no Kasukabe Boys",
+    "Crayon Shin-chan: The Storm Called: The Kasukabe Boys of the Evening Sun",
+    "Le llamaban Shin-chan",
+    "McDull",
+    "McDull: Boluo You Wang Zi",
+    "McDull, Prince de la Bun",
+    "麥兜菠蘿油王子",
+    "McDull Movie 2",
+    "McDull: The Prince of the Pineapple Bun with Butter"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8364.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8364",
+      "url": "https://anilist.co/anime/8364"
+    },
+    "k": {
+      "id": "5885",
+      "url": "https://kitsu.io/anime/5885"
+    },
+    "mal": {
+      "id": "8364",
+      "url": "https://myanimelist.net/anime/8364"
+    }
+  }
+}

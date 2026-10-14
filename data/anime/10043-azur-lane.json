@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10043,
+  "slug": "azur-lane",
+  "kind": "anime",
+  "title": "Azur Lane",
+  "titles": {
+    "default": "Azur Lane",
+    "romaji": "Azur Lane",
+    "english": "AZUR LANE",
+    "native": "アズールレーン"
+  },
+  "synonyms": [
+    "Azur Lane",
+    "AZUR LANE",
+    "アズールレーン",
+    "Ring ni Kakero 1",
+    "リングにかけろ１",
+    "Put it all in the Ring"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104159-xJoXzhEmtohE.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "104159",
+      "url": "https://anilist.co/anime/104159"
+    },
+    "cr": {
+      "id": "azur-lane",
+      "url": "https://www.crunchyroll.com/series/azur-lane"
+    },
+    "k": {
+      "id": "14",
+      "url": "https://kitsu.io/anime/14"
+    },
+    "mal": {
+      "id": "38328",
+      "url": "https://myanimelist.net/anime/38328"
+    },
+    "t": {
+      "id": "69507",
+      "url": "https://trakt.tv/shows/69507"
+    },
+    "tx": {
+      "id": "azurlane_anime",
+      "url": "https://twitter.com/azurlane_anime"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11561,
+  "slug": "ginga-eiyuu-densetsu-die-neue-these-gekitotsu",
+  "kind": "anime",
+  "title": "Ginga Eiyuu Densetsu: Die Neue These - Gekitotsu",
+  "titles": {
+    "default": "Ginga Eiyuu Densetsu: Die Neue These - Gekitotsu",
+    "romaji": "Ginga Eiyuu Densetsu: Die Neue These - Gekitotsu",
+    "english": "Legend of the Galactic Heroes: Die Neue These - Collision",
+    "native": "銀河英雄伝説 Die Neue These 激突"
+  },
+  "synonyms": [
+    "Ginga Eiyuu Densetsu: Die Neue These - Gekitotsu",
+    "Legend of the Galactic Heroes: Die Neue These - Collision",
+    "銀河英雄伝説 Die Neue These 激突",
+    "Legend of the Galactic Heroes: Die Neue These - Clash",
+    "ตำนานวีรบุรุษกาแล็กซี: Die Neue These – Gekitotsu",
+    "Legend of the Galactic Heroes: Die Neue These Season 3",
+    "Легенда о героях галактики: Новый тезис. Столкновение",
+    "Martial Universe 3rd Season",
+    "Martial Universe 3",
+    "武动乾坤 第三季",
+    "Wu Dong Qian Kun 3rd Season"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124032-li8JjJdJvDVb.png"
+  ],
+  "references": {
+    "al": {
+      "id": "124032",
+      "url": "https://anilist.co/anime/124032"
+    },
+    "cr": {
+      "id": "series/GRW4DXNEY/legend-of-the-galactic-heroes-die-neue-these",
+      "url": "https://www.crunchyroll.com/series/series/GRW4DXNEY/legend-of-the-galactic-heroes-die-neue-these"
+    },
+    "mal": {
+      "id": "42886",
+      "url": "https://myanimelist.net/anime/42886"
+    },
+    "tx": {
+      "id": "gineidenanime",
+      "url": "https://twitter.com/gineidenanime"
+    }
+  }
+}

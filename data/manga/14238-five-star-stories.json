@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14238,
+  "slug": "five-star-stories",
+  "kind": "manga",
+  "title": "Five Star Stories",
+  "titles": {
+    "default": "Five Star Stories"
+  },
+  "synonyms": [
+    "FSS",
+    "Five Star Monogatari",
+    "The Five Star Stories",
+    "ファイブスター物語",
+    "Five Star Stories"
+  ],
+  "type": "manga",
+  "status": "publishing",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31659-QaZ462h8o6M3.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2042",
+      "url": "https://anilist.co/anime/2042"
+    },
+    "al_manga": {
+      "id": "2042",
+      "url": "https://anilist.co/manga/2042"
+    }
+  }
+}

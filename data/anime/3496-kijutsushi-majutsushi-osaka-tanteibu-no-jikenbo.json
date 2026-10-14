@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3496,
+  "slug": "kijutsushi-majutsushi-osaka-tanteibu-no-jikenbo",
+  "kind": "anime",
+  "title": "Kijutsushi × Majutsushi: Osaka Tanteibu no Jikenbo",
+  "titles": {
+    "default": "Kijutsushi × Majutsushi: Osaka Tanteibu no Jikenbo",
+    "romaji": "Kijutsushi × Majutsushi: Osaka Tanteibu no Jikenbo",
+    "native": "奇術師×魔術師 王坂学園探偵部の事件簿"
+  },
+  "synonyms": [
+    "Kijutsushi × Majutsushi: Osaka Tanteibu no Jikenbo",
+    "奇術師×魔術師 王坂学園探偵部の事件簿",
+    "Megami Kouhosei Special Curriculum",
+    "女神候補生 スペシャルカリキュラム",
+    "Candidate for Goddess OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4497.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4497",
+      "url": "https://anilist.co/anime/4497"
+    },
+    "cr": {
+      "id": "pilot-candidate",
+      "url": "https://www.crunchyroll.com/series/pilot-candidate"
+    },
+    "k": {
+      "id": "787",
+      "url": "https://kitsu.io/anime/787"
+    },
+    "mal": {
+      "id": "4497",
+      "url": "https://myanimelist.net/anime/4497"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15649,
+  "slug": "yes-precure-5",
+  "kind": "manga",
+  "title": "Yes! Precure 5",
+  "titles": {
+    "default": "Yes! Precure 5"
+  },
+  "synonyms": [
+    "Yes! Pretty Cure 5",
+    "Yes! プリキュア5",
+    "Gekiryuuchi",
+    "激流血～OVER BLEED～",
+    "Over Bleed"
+  ],
+  "type": "manga",
+  "chapters": 17,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx55925-VLwgIcfnoy4v.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1932",
+      "url": "https://anilist.co/anime/1932"
+    },
+    "al_manga": {
+      "id": "1932",
+      "url": "https://anilist.co/manga/1932"
+    }
+  }
+}

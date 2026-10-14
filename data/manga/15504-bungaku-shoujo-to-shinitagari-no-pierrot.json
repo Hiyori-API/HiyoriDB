@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15504,
+  "slug": "bungaku-shoujo-to-shinitagari-no-pierrot",
+  "kind": "manga",
+  "title": "\"Bungaku Shoujo\" to Shinitagari no Pierrot",
+  "titles": {
+    "default": "\"Bungaku Shoujo\" to Shinitagari no Pierrot"
+  },
+  "synonyms": [
+    "Literature Girl",
+    "สาวน้อยวรรณกรรม กับตัวตลกที่อยากตาย",
+    "Book Girl and the Suicidal Mime",
+    "“文学少女”と死にたがりの道化【ピエロ】",
+    "Ladies versus Butlers!",
+    "れでぃ×ばと!",
+    "Redei Bato!",
+    "Redei x Bato",
+    "Ladies vs Butlers!"
+  ],
+  "type": "novel",
+  "chapters": 8,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx40000-keoh55oPXhko.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8481",
+      "url": "https://anilist.co/anime/7669"
+    },
+    "al_manga": {
+      "id": "8481",
+      "url": "https://anilist.co/manga/8481"
+    }
+  }
+}

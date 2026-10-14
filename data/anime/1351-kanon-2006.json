@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1351,
+  "slug": "kanon-2006",
+  "kind": "anime",
+  "title": "Kanon (2006)",
+  "titles": {
+    "default": "Kanon (2006)",
+    "romaji": "Kanon (2006)",
+    "native": "カノン (2006)"
+  },
+  "synonyms": [
+    "Kanon (2006)",
+    "カノン (2006)",
+    "Kanon Remake",
+    "Kanon 2006",
+    "Kanon"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "fall",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1530-nkzstlVZhZNG.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1530",
+      "url": "https://anilist.co/anime/1530"
+    },
+    "cr": {
+      "id": "kanon",
+      "url": "https://www.crunchyroll.com/series/kanon"
+    },
+    "k": {
+      "id": "122",
+      "url": "https://kitsu.io/anime/122"
+    },
+    "mal": {
+      "id": "1530",
+      "url": "https://myanimelist.net/anime/1530"
+    },
+    "t": {
+      "id": "61385",
+      "url": "https://trakt.tv/shows/61385"
+    }
+  }
+}

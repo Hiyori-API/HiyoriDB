@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1189,
+  "slug": "ad-police",
+  "kind": "anime",
+  "title": "AD Police",
+  "titles": {
+    "default": "AD Police",
+    "romaji": "AD Police",
+    "english": "A.D. Police Files",
+    "native": "ADポリス"
+  },
+  "synonyms": [
+    "AD Police",
+    "A.D. Police Files",
+    "ADポリス",
+    "AD Police Files",
+    "A.D. Police"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "spring",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1346-SkXLEWaU1GeI.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1346",
+      "url": "https://anilist.co/anime/1346"
+    },
+    "k": {
+      "id": "1201",
+      "url": "https://kitsu.io/anime/1201"
+    },
+    "mal": {
+      "id": "1346",
+      "url": "https://myanimelist.net/anime/1346"
+    }
+  }
+}

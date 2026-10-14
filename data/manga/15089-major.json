@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15089,
+  "slug": "major",
+  "kind": "manga",
+  "title": "Major",
+  "titles": {
+    "default": "Major"
+  },
+  "synonyms": [
+    "メジャー",
+    "Yokohama Kaidashi Kikou",
+    "ヨコハマ買い出し紀行",
+    "Yokohama Shopping Log",
+    "Yokohama Shopping Trip",
+    "Touge"
+  ],
+  "type": "manga",
+  "chapters": 747,
+  "volumes": 78,
+  "status": "finished",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx40978-Po9kFRHLoIe4.png"
+  ],
+  "references": {
+    "al": {
+      "id": "11917",
+      "url": "https://anilist.co/anime/627"
+    },
+    "al_manga": {
+      "id": "11917",
+      "url": "https://anilist.co/manga/11917"
+    }
+  }
+}

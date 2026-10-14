@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5393,
+  "slug": "nezumi-kun-no-chokki",
+  "kind": "anime",
+  "title": "Nezumi-kun no Chokki",
+  "titles": {
+    "default": "Nezumi-kun no Chokki",
+    "romaji": "Nezumi-kun no Chokki",
+    "native": "ねずみくんのチョッキ"
+  },
+  "synonyms": [
+    "Nezumi-kun no Chokki",
+    "ねずみくんのチョッキ",
+    "Sakura Diaries",
+    "Sakura Tsuushin",
+    "桜通信",
+    "Sakura Mail"
+  ],
+  "type": "ova",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198412-B8TOnvjsQdi3.png"
+  ],
+  "references": {
+    "al": {
+      "id": "198412",
+      "url": "https://anilist.co/anime/198412"
+    },
+    "k": {
+      "id": "725",
+      "url": "https://kitsu.io/anime/725"
+    },
+    "mal": {
+      "id": "27849",
+      "url": "https://myanimelist.net/anime/27849"
+    }
+  }
+}

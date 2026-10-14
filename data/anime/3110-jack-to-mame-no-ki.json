@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3110,
+  "slug": "jack-to-mame-no-ki",
+  "kind": "anime",
+  "title": "Jack to Mame no Ki",
+  "titles": {
+    "default": "Jack to Mame no Ki",
+    "romaji": "Jack to Mame no Ki",
+    "english": "Jack And The Beanstalk",
+    "native": "ジャックと豆の木"
+  },
+  "synonyms": [
+    "Jack to Mame no Ki",
+    "Jack And The Beanstalk",
+    "ジャックと豆の木",
+    "Jack and the Beanstalk"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1974,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3720-qDbMKKeLkP7B.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3720",
+      "url": "https://anilist.co/anime/3720"
+    },
+    "k": {
+      "id": "3211",
+      "url": "https://kitsu.io/anime/3211"
+    },
+    "mal": {
+      "id": "3720",
+      "url": "https://myanimelist.net/anime/3720"
+    }
+  }
+}

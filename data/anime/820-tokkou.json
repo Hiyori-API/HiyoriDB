@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 820,
+  "slug": "tokkou",
+  "kind": "anime",
+  "title": "TOKKOU",
+  "titles": {
+    "default": "TOKKOU",
+    "romaji": "TOKKOU",
+    "english": "Tokko",
+    "native": "TOKKÔ[特公]"
+  },
+  "synonyms": [
+    "TOKKOU",
+    "Tokko",
+    "TOKKÔ[特公]",
+    "Tokkou"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/916.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "916",
+      "url": "https://anilist.co/anime/916"
+    },
+    "k": {
+      "id": "816",
+      "url": "https://kitsu.io/anime/816"
+    },
+    "mal": {
+      "id": "916",
+      "url": "https://myanimelist.net/anime/916"
+    },
+    "t": {
+      "id": "14287",
+      "url": "https://trakt.tv/shows/14287"
+    }
+  }
+}

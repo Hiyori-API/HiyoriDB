@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4522,
+  "slug": "doraemon-nobita-no-taiyou-ou-densetsu",
+  "kind": "anime",
+  "title": "Doraemon: Nobita no Taiyou Ou Densetsu",
+  "titles": {
+    "default": "Doraemon: Nobita no Taiyou Ou Densetsu",
+    "romaji": "Doraemon: Nobita no Taiyou Ou Densetsu",
+    "english": "Doraemon: Nobita and the Legend of the Sun King",
+    "native": "ドラえもん のび太の太陽王伝説"
+  },
+  "synonyms": [
+    "Doraemon: Nobita no Taiyou Ou Densetsu",
+    "Doraemon: Nobita and the Legend of the Sun King",
+    "ドラえもん のび太の太陽王伝説",
+    "Crayon Shin-chan Movie 08: Arashi wo Yobu Jungle",
+    "映画 クレヨンしんちゃん　嵐を呼ぶジャングル",
+    "Eiga Crayon Shin-chan: Arashi wo Yobu Jungle",
+    "Crayon Shin-chan: The Storm Called The Jungle"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx7045-86snI3wvxyDE.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7045",
+      "url": "https://anilist.co/anime/7045"
+    },
+    "k": {
+      "id": "5311",
+      "url": "https://kitsu.io/anime/5311"
+    },
+    "mal": {
+      "id": "7045",
+      "url": "https://myanimelist.net/anime/7045"
+    }
+  }
+}

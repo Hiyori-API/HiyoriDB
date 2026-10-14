@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15348,
+  "slug": "mahou-shoujo-sae",
+  "kind": "manga",
+  "title": "Mahou Shoujo Sae",
+  "titles": {
+    "default": "Mahou Shoujo Sae"
+  },
+  "synonyms": [
+    "魔法少女沙枝",
+    "Magical Girl Risuka",
+    "Shin Honkaku Mahou Shoujo Risuka",
+    "新本格魔法少女りすか"
+  ],
+  "type": "novel",
+  "chapters": 9,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx90286-0jOzND3bQrtk.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5401",
+      "url": "https://anilist.co/anime/5401"
+    },
+    "al_manga": {
+      "id": "5401",
+      "url": "https://anilist.co/manga/5401"
+    }
+  }
+}

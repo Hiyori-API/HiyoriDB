@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3775,
+  "slug": "all-that-vf-macross-25th-anniversary-air-show-version-f",
+  "kind": "anime",
+  "title": "ALL THAT VF: Macross 25th Anniversary Air Show - Version F",
+  "titles": {
+    "default": "ALL THAT VF: Macross 25th Anniversary Air Show - Version F",
+    "romaji": "ALL THAT VF: Macross 25th Anniversary Air Show - Version F"
+  },
+  "synonyms": [
+    "ALL THAT VF: Macross 25th Anniversary Air Show - Version F",
+    "All That Variable Fighter",
+    "Macross 25th Anniversary: All That VF Macross Zero Version",
+    "マクロス 25周年記念 「ALL THAT VF」Ver.ZERO",
+    "Macross 25th Anniversary Special Eizou: All That VF Macross Zero Version"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5165.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5165",
+      "url": "https://anilist.co/anime/5165"
+    },
+    "k": {
+      "id": "3961",
+      "url": "https://kitsu.io/anime/3961"
+    },
+    "mal": {
+      "id": "5165",
+      "url": "https://myanimelist.net/anime/5165"
+    }
+  }
+}

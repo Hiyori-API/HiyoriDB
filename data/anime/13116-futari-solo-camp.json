@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13116,
+  "slug": "futari-solo-camp",
+  "kind": "anime",
+  "title": "Futari Solo Camp",
+  "titles": {
+    "default": "Futari Solo Camp",
+    "romaji": "Futari Solo Camp",
+    "english": "Solo Camping for Two",
+    "native": "ふたりソロキャンプ"
+  },
+  "synonyms": [
+    "Futari Solo Camp",
+    "Solo Camping for Two",
+    "ふたりソロキャンプ",
+    "แคมป์โซโล่กับสองเรา"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "summer",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185965-LlzTLSTBUbEA.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "185965",
+      "url": "https://anilist.co/anime/185965"
+    },
+    "cr": {
+      "id": "series/G3KHEVDZ8/solo-camping-for-two",
+      "url": "https://www.crunchyroll.com/series/series/G3KHEVDZ8/solo-camping-for-two"
+    },
+    "mal": {
+      "id": "60665",
+      "url": "https://myanimelist.net/anime/60665"
+    }
+  }
+}

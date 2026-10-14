@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6189,
+  "slug": "angel-beats-another-epilogue",
+  "kind": "anime",
+  "title": "Angel Beats!: Another Epilogue",
+  "titles": {
+    "default": "Angel Beats!: Another Epilogue",
+    "romaji": "Angel Beats!: Another Epilogue",
+    "native": "エンジェルビーツ! アナザーエピローグ"
+  },
+  "synonyms": [
+    "Angel Beats!: Another Epilogue",
+    "エンジェルビーツ! アナザーエピローグ"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx10067-83dhqo4TcbTs.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10067",
+      "url": "https://anilist.co/anime/10067"
+    },
+    "k": {
+      "id": "6019",
+      "url": "https://kitsu.io/anime/6019"
+    },
+    "mal": {
+      "id": "10067",
+      "url": "https://myanimelist.net/anime/10067"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8951,
+  "slug": "taka-no-tsume-8-yoshida-kun-no-batten-file",
+  "kind": "anime",
+  "title": "Taka no Tsume 8: Yoshida-kun no Batten File",
+  "titles": {
+    "default": "Taka no Tsume 8: Yoshida-kun no Batten File",
+    "romaji": "Taka no Tsume 8: Yoshida-kun no Batten File",
+    "native": "鷹の爪８ ～吉田くんのＸ（バッテン）ファイル～"
+  },
+  "synonyms": [
+    "Taka no Tsume 8: Yoshida-kun no Batten File",
+    "鷹の爪８ ～吉田くんのＸ（バッテン）ファイル～",
+    "Big Fish & Begonia",
+    "Da Yu Hai Tang",
+    "大鱼海棠",
+    "Da Hai",
+    "Big Fish & Chinese Flowering Crabapple",
+    "大魚海棠"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b117287-BnlcnrQ3QpAy.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "117287",
+      "url": "https://anilist.co/anime/117287"
+    },
+    "k": {
+      "id": "6103",
+      "url": "https://kitsu.io/anime/6103"
+    },
+    "mal": {
+      "id": "33662",
+      "url": "https://myanimelist.net/anime/33662"
+    }
+  }
+}

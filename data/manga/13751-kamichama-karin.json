@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13751,
+  "slug": "kamichama-karin",
+  "kind": "manga",
+  "title": "Kamichama Karin",
+  "titles": {
+    "default": "Kamichama Karin"
+  },
+  "synonyms": [
+    "Little Goddess Karin",
+    "Kamichama Karin",
+    "かみちゃまかりん",
+    "Dewi Karin"
+  ],
+  "type": "manga",
+  "chapters": 32,
+  "volumes": 7,
+  "status": "finished",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30035-U21aSHNfT9x3.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1808",
+      "url": "https://anilist.co/anime/1808"
+    },
+    "al_manga": {
+      "id": "1808",
+      "url": "https://anilist.co/manga/1808"
+    }
+  }
+}

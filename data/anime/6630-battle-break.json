@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6630,
+  "slug": "battle-break",
+  "kind": "anime",
+  "title": "Battle Break",
+  "titles": {
+    "default": "Battle Break",
+    "romaji": "Battle Break",
+    "native": "バトルブレイク"
+  },
+  "synonyms": [
+    "Battle Break",
+    "バトルブレイク",
+    "Fossil Thief and the Dinosaur Stones",
+    "Kaseki Dorobou to Kyouryuuseki",
+    "化石ドロボウと恐竜石",
+    "Creator's World Project 4"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13041.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "13041",
+      "url": "https://anilist.co/anime/13041"
+    },
+    "k": {
+      "id": "8474",
+      "url": "https://kitsu.io/anime/8474"
+    },
+    "mal": {
+      "id": "13041",
+      "url": "https://myanimelist.net/anime/13041"
+    }
+  }
+}

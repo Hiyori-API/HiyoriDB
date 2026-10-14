@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8673,
+  "slug": "kagewani-shou",
+  "kind": "anime",
+  "title": "KAGEWANI: Shou",
+  "titles": {
+    "default": "KAGEWANI: Shou",
+    "romaji": "KAGEWANI: Shou",
+    "english": "Kagewani ~II~",
+    "native": "影鰐-承-"
+  },
+  "synonyms": [
+    "KAGEWANI: Shou",
+    "Kagewani ~II~",
+    "影鰐-承-",
+    "My Hero Academia",
+    "僕のヒーローアカデミア",
+    "Boku no Hero Academia"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21636-9iIglokvMTu2.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21636",
+      "url": "https://anilist.co/anime/21636"
+    },
+    "cr": {
+      "id": "kagewani",
+      "url": "https://www.crunchyroll.com/series/kagewani"
+    },
+    "mal": {
+      "id": "32682",
+      "url": "https://myanimelist.net/anime/32682"
+    },
+    "tx": {
+      "id": "anime_kagewani",
+      "url": "https://twitter.com/anime_kagewani"
+    }
+  }
+}

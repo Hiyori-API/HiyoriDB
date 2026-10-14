@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15342,
+  "slug": "mamoru-kun-ni-megami-no-shukufuku-wo",
+  "kind": "manga",
+  "title": "Mamoru-kun ni Megami no Shukufuku wo!",
+  "titles": {
+    "default": "Mamoru-kun ni Megami no Shukufuku wo!"
+  },
+  "synonyms": [
+    "To Mamoru-kun",
+    "the blessings of the goddess!",
+    "Venus to Mamoru",
+    "護くんに女神の祝福を!",
+    "Magical Girl Risuka",
+    "Shin Honkaku Mahou Shoujo Risuka",
+    "新本格魔法少女りすか"
+  ],
+  "type": "novel",
+  "volumes": 16,
+  "status": "finished",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/25478.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1588",
+      "url": "https://anilist.co/anime/1588"
+    },
+    "al_manga": {
+      "id": "1588",
+      "url": "https://anilist.co/manga/1588"
+    }
+  }
+}

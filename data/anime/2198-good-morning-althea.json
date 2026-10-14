@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2198,
+  "slug": "good-morning-althea",
+  "kind": "anime",
+  "title": "Good Morning Althea",
+  "titles": {
+    "default": "Good Morning Althea",
+    "romaji": "Good Morning Althea",
+    "native": "Good Morning アルテア"
+  },
+  "synonyms": [
+    "Good Morning Althea",
+    "Good Morning アルテア",
+    "グッドモーニング・アルテア"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2482-I8O3i0xWdja4.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2482",
+      "url": "https://anilist.co/anime/2482"
+    },
+    "k": {
+      "id": "2252",
+      "url": "https://kitsu.io/anime/2252"
+    },
+    "mal": {
+      "id": "2482",
+      "url": "https://myanimelist.net/anime/2482"
+    }
+  }
+}

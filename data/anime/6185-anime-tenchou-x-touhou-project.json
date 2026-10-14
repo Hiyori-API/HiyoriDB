@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6185,
+  "slug": "anime-tenchou-x-touhou-project",
+  "kind": "anime",
+  "title": "Anime Tenchou x Touhou Project",
+  "titles": {
+    "default": "Anime Tenchou x Touhou Project",
+    "romaji": "Anime Tenchou x Touhou Project",
+    "native": "アニメ店長x東方Project"
+  },
+  "synonyms": [
+    "Anime Tenchou x Touhou Project",
+    "アニメ店長x東方Project"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b9875-gw5Db9SNgeyz.png"
+  ],
+  "references": {
+    "al": {
+      "id": "9875",
+      "url": "https://anilist.co/anime/9875"
+    },
+    "k": {
+      "id": "5914",
+      "url": "https://kitsu.io/anime/5914"
+    },
+    "mal": {
+      "id": "9875",
+      "url": "https://myanimelist.net/anime/9875"
+    }
+  }
+}

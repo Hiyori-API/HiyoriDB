@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5177,
+  "slug": "sangokushi-daiichibu-eiyuutachi-no-yoake",
+  "kind": "anime",
+  "title": "Sangokushi Daiichibu Eiyuutachi no Yoake",
+  "titles": {
+    "default": "Sangokushi Daiichibu Eiyuutachi no Yoake",
+    "romaji": "Sangokushi Daiichibu Eiyuutachi no Yoake",
+    "native": "三国志 第一部 英雄たちの夜明け"
+  },
+  "synonyms": [
+    "Sangokushi Daiichibu Eiyuutachi no Yoake",
+    "三国志 第一部 英雄たちの夜明け",
+    "Sangokushi [1] Eiyuutachi no Yoake",
+    "Sangokushi Daiichibu Eiyuu-tachi no Yoake"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b7696-zeqXdzeqyeSr.png"
+  ],
+  "references": {
+    "al": {
+      "id": "7696",
+      "url": "https://anilist.co/anime/7696"
+    },
+    "k": {
+      "id": "5084",
+      "url": "https://kitsu.io/anime/5084"
+    },
+    "mal": {
+      "id": "7696",
+      "url": "https://myanimelist.net/anime/7696"
+    }
+  }
+}

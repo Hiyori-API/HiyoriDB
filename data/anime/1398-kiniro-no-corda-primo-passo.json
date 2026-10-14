@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1398,
+  "slug": "kiniro-no-corda-primo-passo",
+  "kind": "anime",
+  "title": "Kiniro no Corda: primo passo",
+  "titles": {
+    "default": "Kiniro no Corda: primo passo",
+    "romaji": "Kiniro no Corda: primo passo",
+    "english": "La Corda D'Oro: Primo Passo",
+    "native": "金色のコルダ ～primo passo～"
+  },
+  "synonyms": [
+    "Kiniro no Corda: primo passo",
+    "La Corda D'Oro: Primo Passo",
+    "金色のコルダ ～primo passo～",
+    "Kin'iro no Chord",
+    "Kiniro no Chord",
+    "Kin-iro no Corda: Primo Passo",
+    "The Golden Chord",
+    "Tokimeki Memorial",
+    "Tokimeki Memorial: Only Love",
+    "ときめきメモリアル Only Love"
+  ],
+  "type": "tv",
+  "episodes": 25,
+  "status": "finished",
+  "season": "fall",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1579-P7iLCX8zNEuO.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1579",
+      "url": "https://anilist.co/anime/1579"
+    },
+    "cr": {
+      "id": "la-corda-doro-primo-passo-and-secondo-passo",
+      "url": "https://www.crunchyroll.com/series/la-corda-doro-primo-passo-and-secondo-passo"
+    },
+    "k": {
+      "id": "1395",
+      "url": "https://kitsu.io/anime/1395"
+    },
+    "mal": {
+      "id": "1579",
+      "url": "https://myanimelist.net/anime/1579"
+    },
+    "t": {
+      "id": "42646",
+      "url": "https://trakt.tv/shows/42646"
+    }
+  }
+}

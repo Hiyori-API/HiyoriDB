@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3500,
+  "slug": "kinkyuu-hasshin-saver-kids",
+  "kind": "anime",
+  "title": "Kinkyuu Hasshin Saver Kids",
+  "titles": {
+    "default": "Kinkyuu Hasshin Saver Kids",
+    "romaji": "Kinkyuu Hasshin Saver Kids",
+    "english": "THE RESCUE KIDS",
+    "native": "緊急発進セイバーキッズ"
+  },
+  "synonyms": [
+    "Kinkyuu Hasshin Saver Kids",
+    "THE RESCUE KIDS",
+    "緊急発進セイバーキッズ",
+    "Kinkyu Hasshin Saver Kids",
+    "Emergency Departure Rescue Kids"
+  ],
+  "type": "tv",
+  "episodes": 50,
+  "status": "finished",
+  "season": "winter",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4504-34WD7uOzTVL7.png"
+  ],
+  "references": {
+    "al": {
+      "id": "4504",
+      "url": "https://anilist.co/anime/4504"
+    },
+    "k": {
+      "id": "3654",
+      "url": "https://kitsu.io/anime/3654"
+    },
+    "mal": {
+      "id": "4504",
+      "url": "https://myanimelist.net/anime/4504"
+    }
+  }
+}

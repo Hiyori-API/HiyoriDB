@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13449,
+  "slug": "grow-up-show-himawari-no-circus-dan",
+  "kind": "anime",
+  "title": "Grow Up Show: Himawari no Circus-dan",
+  "titles": {
+    "default": "Grow Up Show: Himawari no Circus-dan",
+    "romaji": "Grow Up Show: Himawari no Circus-dan",
+    "english": "Grow Up Show",
+    "native": "グロウアップショウ ～ひまわりのサーカス団～"
+  },
+  "synonyms": [
+    "Grow Up Show: Himawari no Circus-dan",
+    "Grow Up Show",
+    "グロウアップショウ ～ひまわりのサーカス団～",
+    "GROW UP SHOW -คณะเซอร์คัสดอกทานตะวัน-",
+    "GROW UP SHOW ~Sunflower Circus~",
+    "Grow Up Show: Sunflower Circus"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196017-GynDNdbDzqzk.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "196017",
+      "url": "https://anilist.co/anime/196017"
+    },
+    "cr": {
+      "id": "series/GT00378063/grow-up-show",
+      "url": "https://www.crunchyroll.com/series/series/GT00378063/grow-up-show"
+    },
+    "mal": {
+      "id": "62051",
+      "url": "https://myanimelist.net/anime/62051"
+    }
+  }
+}

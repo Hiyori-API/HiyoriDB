@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5054,
+  "slug": "b-b-burning-blood",
+  "kind": "anime",
+  "title": "B.B BURNING BLOOD",
+  "titles": {
+    "default": "B.B BURNING BLOOD",
+    "romaji": "B.B BURNING BLOOD",
+    "native": "Ｂ・Ｂ BURNING BLOOD"
+  },
+  "synonyms": [
+    "B.B BURNING BLOOD",
+    "Ｂ・Ｂ BURNING BLOOD",
+    "B.B",
+    "Burning Blood"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "spring",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9177.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9177",
+      "url": "https://anilist.co/anime/9177"
+    },
+    "k": {
+      "id": "5625",
+      "url": "https://kitsu.io/anime/5625"
+    },
+    "mal": {
+      "id": "9177",
+      "url": "https://myanimelist.net/anime/9177"
+    }
+  }
+}

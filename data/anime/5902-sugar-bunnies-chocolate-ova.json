@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5902,
+  "slug": "sugar-bunnies-chocolate-ova",
+  "kind": "anime",
+  "title": "Sugar Bunnies Chocolate! OVA",
+  "titles": {
+    "default": "Sugar Bunnies Chocolate! OVA",
+    "romaji": "Sugar Bunnies Chocolate! OVA",
+    "native": "シュガーバニーズ ショコラ！OVA"
+  },
+  "synonyms": [
+    "Sugar Bunnies Chocolate! OVA",
+    "シュガーバニーズ ショコラ！OVA",
+    "Koihime†Musou OVA",
+    "恋姫†無双 OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126881-rZYa0VJRXPA7.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "126881",
+      "url": "https://anilist.co/anime/126881"
+    },
+    "k": {
+      "id": "4047",
+      "url": "https://kitsu.io/anime/4047"
+    },
+    "mal": {
+      "id": "33999",
+      "url": "https://myanimelist.net/anime/33999"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13525,
+  "slug": "meitantei-precure",
+  "kind": "anime",
+  "title": "Meitantei Precure!",
+  "titles": {
+    "default": "Meitantei Precure!",
+    "romaji": "Meitantei Precure!",
+    "english": "Star Detective Precure!",
+    "native": "名探偵プリキュア！"
+  },
+  "synonyms": [
+    "Meitantei Precure!",
+    "Star Detective Precure!",
+    "名探偵プリキュア！",
+    "TanPre",
+    "たんプリ",
+    "TanPuri"
+  ],
+  "type": "tv",
+  "episodes": 51,
+  "status": "airing",
+  "season": "winter",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202957-fxZGgJTvwXzP.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "202957",
+      "url": "https://anilist.co/anime/202957"
+    },
+    "cr": {
+      "id": "series/GT00369409",
+      "url": "https://www.crunchyroll.com/series/series/GT00369409"
+    },
+    "mal": {
+      "id": "63042",
+      "url": "https://myanimelist.net/anime/63042"
+    }
+  }
+}

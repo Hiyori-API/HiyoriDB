@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6111,
+  "slug": "shukufuku-no-campanella-issho-ni-bath-time",
+  "kind": "anime",
+  "title": "Shukufuku no Campanella Issho ni Bath Time",
+  "titles": {
+    "default": "Shukufuku no Campanella Issho ni Bath Time",
+    "romaji": "Shukufuku no Campanella Issho ni Bath Time",
+    "native": "祝福のカンパネラ いっしょにばすたいむ"
+  },
+  "synonyms": [
+    "Shukufuku no Campanella Issho ni Bath Time",
+    "祝福のカンパネラ いっしょにばすたいむ",
+    "Shukufuku no Campanella Specials",
+    "Hyakka Ryouran: Samurai Girls Specials",
+    "百花繚乱 ～乙女 嬉し恥ずかし将士の契り～",
+    "Hyakka Ryouran ~Otome Ureshi Hazukashi Shoshi no Chigiri~",
+    "Hyakka Ryouran: Samurai Girls OVA"
+  ],
+  "type": "special",
+  "episodes": 6,
+  "status": "finished",
+  "season": "fall",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9167.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9167",
+      "url": "https://anilist.co/anime/9167"
+    },
+    "k": {
+      "id": "5703",
+      "url": "https://kitsu.io/anime/5703"
+    },
+    "mal": {
+      "id": "9167",
+      "url": "https://myanimelist.net/anime/9167"
+    }
+  }
+}

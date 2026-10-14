@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13323,
+  "slug": "shiranuhi",
+  "kind": "anime",
+  "title": "Shiranuhi",
+  "titles": {
+    "default": "Shiranuhi",
+    "romaji": "Shiranuhi",
+    "native": "しらぬひ"
+  },
+  "synonyms": [
+    "Shiranuhi",
+    "しらぬひ",
+    "Cowboy Bebop: The Movie",
+    "Cowboy Bebop: Tengoku no Tobira",
+    "Cowboy Bebop: Knockin' on Heaven's Door",
+    "カウボーイビバップ天国の扉"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176373-355WYOUefrCt.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "176373",
+      "url": "https://anilist.co/anime/176373"
+    },
+    "k": {
+      "id": "2",
+      "url": "https://kitsu.io/anime/2"
+    },
+    "mal": {
+      "id": "63973",
+      "url": "https://myanimelist.net/anime/63973"
+    }
+  }
+}

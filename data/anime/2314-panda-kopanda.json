@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2314,
+  "slug": "panda-kopanda",
+  "kind": "anime",
+  "title": "Panda Kopanda",
+  "titles": {
+    "default": "Panda Kopanda",
+    "romaji": "Panda Kopanda",
+    "english": "Panda! Go Panda!",
+    "native": "パンダコパンダ"
+  },
+  "synonyms": [
+    "Panda Kopanda",
+    "Panda! Go Panda!",
+    "パンダコパンダ",
+    "Panda og vennene hans på eventyr",
+    "パンダ・コパンダ"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1972,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2611-ZF5KS3QolIse.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2611",
+      "url": "https://anilist.co/anime/2611"
+    },
+    "k": {
+      "id": "2375",
+      "url": "https://kitsu.io/anime/2375"
+    },
+    "mal": {
+      "id": "2611",
+      "url": "https://myanimelist.net/anime/2611"
+    }
+  }
+}

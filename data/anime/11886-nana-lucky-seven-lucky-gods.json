@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11886,
+  "slug": "nana-lucky-seven-lucky-gods",
+  "kind": "anime",
+  "title": "Nana Lucky: Seven Lucky Gods",
+  "titles": {
+    "default": "Nana Lucky: Seven Lucky Gods",
+    "romaji": "Nana Lucky: Seven Lucky Gods",
+    "native": "なならき～Seven Lucky Gods～"
+  },
+  "synonyms": [
+    "Nana Lucky: Seven Lucky Gods",
+    "なならき～Seven Lucky Gods～",
+    "Martial Universe 3rd Season",
+    "Martial Universe 3",
+    "武动乾坤 第三季",
+    "Wu Dong Qian Kun 3rd Season"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b148819-sTavLKRqYFuJ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "148819",
+      "url": "https://anilist.co/anime/148819"
+    },
+    "mal": {
+      "id": "51766",
+      "url": "https://myanimelist.net/anime/51766"
+    },
+    "tx": {
+      "id": "nanaluckygods",
+      "url": "https://twitter.com/nanaluckygods"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14465,
+  "slug": "clannad-tomoyo-dearest",
+  "kind": "manga",
+  "title": "CLANNAD: tomoyo dearest",
+  "titles": {
+    "default": "CLANNAD: tomoyo dearest"
+  },
+  "synonyms": [
+    "Clannad ~Tomoyo Dearest~",
+    "CLANNAD ~tomoyo dearest~",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "chapters": 4,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx41777-znAA3Ehmsa7d.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4059",
+      "url": "https://anilist.co/anime/4059"
+    },
+    "al_manga": {
+      "id": "4059",
+      "url": "https://anilist.co/manga/4059"
+    }
+  }
+}

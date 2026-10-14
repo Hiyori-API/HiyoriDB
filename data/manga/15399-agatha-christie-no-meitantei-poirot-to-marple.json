@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15399,
+  "slug": "agatha-christie-no-meitantei-poirot-to-marple",
+  "kind": "manga",
+  "title": "Agatha Christie no Meitantei Poirot to Marple",
+  "titles": {
+    "default": "Agatha Christie no Meitantei Poirot to Marple"
+  },
+  "synonyms": [
+    "Agatha Christie's Great Detectives Poirot and Marple",
+    "アガサ・クリスティーの名探偵ポワロとマープル",
+    "Railroad",
+    "레일로드"
+  ],
+  "type": "manga",
+  "chapters": 15,
+  "volumes": 3,
+  "status": "finished",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b73667-f5OSadrQeAjc.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "244",
+      "url": "https://anilist.co/anime/244"
+    },
+    "al_manga": {
+      "id": "244",
+      "url": "https://anilist.co/manga/244"
+    }
+  }
+}

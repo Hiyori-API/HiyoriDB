@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2219,
+  "slug": "genshiken-2",
+  "kind": "anime",
+  "title": "Genshiken 2",
+  "titles": {
+    "default": "Genshiken 2",
+    "romaji": "Genshiken 2",
+    "native": "げんしけん2"
+  },
+  "synonyms": [
+    "Genshiken 2",
+    "げんしけん2",
+    "Gendai Shikaku Bunka Kenkyuukai 2"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2508-4jK3PHZxI5Au.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2508",
+      "url": "https://anilist.co/anime/2508"
+    },
+    "k": {
+      "id": "2275",
+      "url": "https://kitsu.io/anime/2275"
+    },
+    "mal": {
+      "id": "2508",
+      "url": "https://myanimelist.net/anime/2508"
+    },
+    "t": {
+      "id": "34559",
+      "url": "https://trakt.tv/shows/34559"
+    }
+  }
+}

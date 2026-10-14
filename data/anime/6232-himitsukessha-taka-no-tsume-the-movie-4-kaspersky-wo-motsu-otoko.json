@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6232,
+  "slug": "himitsukessha-taka-no-tsume-the-movie-4-kaspersky-wo-motsu-otoko",
+  "kind": "anime",
+  "title": "Himitsukessha Taka no Tsume THE MOVIE 4: Kaspersky wo Motsu Otoko",
+  "titles": {
+    "default": "Himitsukessha Taka no Tsume THE MOVIE 4: Kaspersky wo Motsu Otoko",
+    "romaji": "Himitsukessha Taka no Tsume THE MOVIE 4: Kaspersky wo Motsu Otoko",
+    "native": "秘密結社鷹の爪 THE MOVIE4 〜カスペルスキーを持つ男〜"
+  },
+  "synonyms": [
+    "Himitsukessha Taka no Tsume THE MOVIE 4: Kaspersky wo Motsu Otoko",
+    "秘密結社鷹の爪 THE MOVIE4 〜カスペルスキーを持つ男〜",
+    "Black★Rock Shooter (OVA)",
+    "ブラック★ロックシューター",
+    "BRS OVA",
+    "Black Rock Shooter OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b120831-WiWLSfhynXBO.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "120831",
+      "url": "https://anilist.co/anime/120831"
+    },
+    "k": {
+      "id": "4854",
+      "url": "https://kitsu.io/anime/4854"
+    },
+    "mal": {
+      "id": "30753",
+      "url": "https://myanimelist.net/anime/30753"
+    }
+  }
+}

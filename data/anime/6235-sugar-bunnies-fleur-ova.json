@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6235,
+  "slug": "sugar-bunnies-fleur-ova",
+  "kind": "anime",
+  "title": "Sugar Bunnies Fleur OVA",
+  "titles": {
+    "default": "Sugar Bunnies Fleur OVA",
+    "romaji": "Sugar Bunnies Fleur OVA",
+    "native": "シュガーバニーズ フルールOVA"
+  },
+  "synonyms": [
+    "Sugar Bunnies Fleur OVA",
+    "シュガーバニーズ フルールOVA",
+    "Zettai Karen Children OVA: Aitazousei! Ubawareta Mirai?",
+    "絶対可憐チルドレン OVA 〜愛多憎生! 奪われた未来?〜",
+    "Absolutely Lovely Children",
+    "Zettai Karen Children OAD",
+    "ZKC OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126880-zDxcZ9MzmIrW.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "126880",
+      "url": "https://anilist.co/anime/126880"
+    },
+    "k": {
+      "id": "5105",
+      "url": "https://kitsu.io/anime/5105"
+    },
+    "mal": {
+      "id": "34000",
+      "url": "https://myanimelist.net/anime/34000"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15673,
+  "slug": "gekijouban-naruto-shippuuden",
+  "kind": "manga",
+  "title": "Gekijouban NARUTO: Shippuuden",
+  "titles": {
+    "default": "Gekijouban NARUTO: Shippuuden"
+  },
+  "synonyms": [
+    "NARUTO: Shippuden the Movie",
+    "劇場版 NARUTO 疾風伝",
+    "MM!",
+    "えむえむっ!",
+    "MM Group",
+    "Emu Emu!"
+  ],
+  "type": "novel",
+  "volumes": 1,
+  "status": "finished",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132770-SBU272frbRyi.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2472",
+      "url": "https://anilist.co/anime/2472"
+    },
+    "al_manga": {
+      "id": "2472",
+      "url": "https://anilist.co/manga/2472"
+    }
+  }
+}

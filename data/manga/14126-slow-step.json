@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14126,
+  "slug": "slow-step",
+  "kind": "manga",
+  "title": "Slow Step",
+  "titles": {
+    "default": "Slow Step"
+  },
+  "synonyms": [
+    "スローステップ",
+    "Nemureru Mori no Binan",
+    "眠れる森美男",
+    "Sleeping Beauty Boy",
+    "The Handsome Man in the Sleeping Woods",
+    "The Sleeping Beauty Man",
+    "The Sleeping Male Beauty in the Woods"
+  ],
+  "type": "manga",
+  "chapters": 55,
+  "volumes": 7,
+  "status": "finished",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31203-RuKdJBjt3xIX.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2180",
+      "url": "https://anilist.co/anime/2180"
+    },
+    "al_manga": {
+      "id": "2180",
+      "url": "https://anilist.co/manga/2180"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11844,
+  "slug": "idol-bu-show-movie",
+  "kind": "anime",
+  "title": "IDOL bu SHOW Movie",
+  "titles": {
+    "default": "IDOL bu SHOW Movie",
+    "romaji": "IDOL bu SHOW Movie",
+    "native": "劇場版 IDOL舞SHOW"
+  },
+  "synonyms": [
+    "IDOL bu SHOW Movie",
+    "劇場版 IDOL舞SHOW",
+    "Eiga Yuru Camp",
+    "Laid-Back Camp: The Movie",
+    "映画 ゆるキャン△",
+    "Yuru Camp△ Movie"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145916-XkQ9CSdKepBQ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "145916",
+      "url": "https://anilist.co/anime/145916"
+    },
+    "mal": {
+      "id": "51147",
+      "url": "https://myanimelist.net/anime/51147"
+    },
+    "tx": {
+      "id": "IDOL_bu_SHOW",
+      "url": "https://twitter.com/IDOL_bu_SHOW"
+    }
+  }
+}

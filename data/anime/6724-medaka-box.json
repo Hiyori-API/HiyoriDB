@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6724,
+  "slug": "medaka-box",
+  "kind": "anime",
+  "title": "Medaka Box",
+  "titles": {
+    "default": "Medaka Box",
+    "romaji": "Medaka Box",
+    "native": "めだかボックス"
+  },
+  "synonyms": [
+    "Medaka Box",
+    "めだかボックス"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11761-7YQ8cqZp65qy.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11761",
+      "url": "https://anilist.co/anime/11761"
+    },
+    "cr": {
+      "id": "medaka-box",
+      "url": "https://www.crunchyroll.com/series/medaka-box"
+    },
+    "k": {
+      "id": "6591",
+      "url": "https://kitsu.io/anime/6591"
+    },
+    "mal": {
+      "id": "11761",
+      "url": "https://myanimelist.net/anime/11761"
+    },
+    "t": {
+      "id": "66100",
+      "url": "https://trakt.tv/shows/66100"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5235,
+  "slug": "rokudenashi-blues-1993",
+  "kind": "anime",
+  "title": "Rokudenashi BLUES 1993",
+  "titles": {
+    "default": "Rokudenashi BLUES 1993",
+    "romaji": "Rokudenashi BLUES 1993",
+    "native": "ろくでなしBLUES 1993"
+  },
+  "synonyms": [
+    "Rokudenashi BLUES 1993",
+    "ろくでなしBLUES 1993",
+    "Good-For-Nothing Blues 1993",
+    "Rokudenashi Blues 1993"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9078-SSQGn7OF2nVB.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9078",
+      "url": "https://anilist.co/anime/9078"
+    },
+    "k": {
+      "id": "5597",
+      "url": "https://kitsu.io/anime/5597"
+    },
+    "mal": {
+      "id": "9078",
+      "url": "https://myanimelist.net/anime/9078"
+    }
+  }
+}

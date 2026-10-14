@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10751,
+  "slug": "eden",
+  "kind": "anime",
+  "title": "Eden",
+  "titles": {
+    "default": "Eden",
+    "romaji": "Eden",
+    "native": "エデン"
+  },
+  "synonyms": [
+    "Eden",
+    "エデン",
+    "อีเดน สวรรค์จักรกล",
+    "Ajimu: Kaigan Monogatari",
+    "あじむ ～海岸物語～",
+    "Ajimu: Beach Story"
+  ],
+  "type": "ona",
+  "episodes": 4,
+  "status": "finished",
+  "season": "spring",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109217-VZ0m6KhY3dHg.png"
+  ],
+  "references": {
+    "al": {
+      "id": "109217",
+      "url": "https://anilist.co/anime/109217"
+    },
+    "k": {
+      "id": "1554",
+      "url": "https://kitsu.io/anime/1554"
+    },
+    "mal": {
+      "id": "39728",
+      "url": "https://myanimelist.net/anime/39728"
+    },
+    "nf": {
+      "id": "80992783",
+      "url": "https://www.netflix.com/title/80992783"
+    }
+  }
+}

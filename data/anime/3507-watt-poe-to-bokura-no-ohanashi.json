@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3507,
+  "slug": "watt-poe-to-bokura-no-ohanashi",
+  "kind": "anime",
+  "title": "Watt Poe to Bokura no Ohanashi",
+  "titles": {
+    "default": "Watt Poe to Bokura no Ohanashi",
+    "romaji": "Watt Poe to Bokura no Ohanashi",
+    "english": "Watt Poe",
+    "native": "ワット・ボーとぼくらのお話"
+  },
+  "synonyms": [
+    "Watt Poe to Bokura no Ohanashi",
+    "Watt Poe",
+    "ワット・ボーとぼくらのお話",
+    "Wat Bo",
+    "Legend of Watt Poe"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4521.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4521",
+      "url": "https://anilist.co/anime/4521"
+    },
+    "k": {
+      "id": "3661",
+      "url": "https://kitsu.io/anime/3661"
+    },
+    "mal": {
+      "id": "4521",
+      "url": "https://myanimelist.net/anime/4521"
+    }
+  }
+}

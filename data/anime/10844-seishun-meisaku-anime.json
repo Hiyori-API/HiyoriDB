@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10844,
+  "slug": "seishun-meisaku-anime",
+  "kind": "anime",
+  "title": "Seishun Meisaku Anime",
+  "titles": {
+    "default": "Seishun Meisaku Anime",
+    "romaji": "Seishun Meisaku Anime",
+    "native": "青春名作アニメ"
+  },
+  "synonyms": [
+    "Seishun Meisaku Anime",
+    "青春名作アニメ",
+    "Seishun Anime Zenshuu Specials",
+    "The Story of Fifteen Boys",
+    "Hitomi no Naka no Shounen: Juugo Shounen Hyouryuuki",
+    "瞳のなかの少年　十五少年漂流記",
+    "Hitomi no Naka no Shounen: 15 Shounen Hyouryuuki"
+  ],
+  "type": "special",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b208213-t44SjQEFkRHC.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "208213",
+      "url": "https://anilist.co/anime/208213"
+    },
+    "k": {
+      "id": "5601",
+      "url": "https://kitsu.io/anime/5601"
+    },
+    "mal": {
+      "id": "32897",
+      "url": "https://myanimelist.net/anime/32897"
+    }
+  }
+}

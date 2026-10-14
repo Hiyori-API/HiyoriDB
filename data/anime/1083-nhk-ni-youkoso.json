@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1083,
+  "slug": "nhk-ni-youkoso",
+  "kind": "anime",
+  "title": "NHK ni Youkoso!",
+  "titles": {
+    "default": "NHK ni Youkoso!",
+    "romaji": "NHK ni Youkoso!",
+    "english": "Welcome to the N-H-K",
+    "native": "N・H・Kにようこそ！"
+  },
+  "synonyms": [
+    "NHK ni Youkoso!",
+    "Welcome to the N-H-K",
+    "N・H・Kにようこそ！",
+    "Welcome to the NHK",
+    "Welcome to the N.H.K.",
+    "欢迎加入NHK！",
+    "Bienvenue dans la NHK"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "summer",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1210-2XotjcgqdcaX.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1210",
+      "url": "https://anilist.co/anime/1210"
+    },
+    "cr": {
+      "id": "welcome-to-the-n-h-k",
+      "url": "https://www.crunchyroll.com/series/welcome-to-the-n-h-k"
+    },
+    "k": {
+      "id": "1088",
+      "url": "https://kitsu.io/anime/1088"
+    },
+    "mal": {
+      "id": "1210",
+      "url": "https://myanimelist.net/anime/1210"
+    },
+    "t": {
+      "id": "42595",
+      "url": "https://trakt.tv/shows/42595"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1559,
+  "slug": "midnight-panther",
+  "kind": "anime",
+  "title": "Midnight Panther",
+  "titles": {
+    "default": "Midnight Panther",
+    "romaji": "Midnight Panther",
+    "native": "ミッドナイトパンサー"
+  },
+  "synonyms": [
+    "Midnight Panther",
+    "ミッドナイトパンサー",
+    "Super Mobile Legend Dinagiga",
+    "Chou Kidou Densetsu DinaGiga",
+    "超機動伝説ダイナギガ"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1763.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1763",
+      "url": "https://anilist.co/anime/1763"
+    },
+    "k": {
+      "id": "2092",
+      "url": "https://kitsu.io/anime/2092"
+    },
+    "mal": {
+      "id": "1763",
+      "url": "https://myanimelist.net/anime/1763"
+    }
+  }
+}

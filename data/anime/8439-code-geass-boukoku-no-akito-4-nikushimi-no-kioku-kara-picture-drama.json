@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8439,
+  "slug": "code-geass-boukoku-no-akito-4-nikushimi-no-kioku-kara-picture-drama",
+  "kind": "anime",
+  "title": "Code Geass: Boukoku no Akito 4 - Nikushimi no Kioku Kara Picture Drama",
+  "titles": {
+    "default": "Code Geass: Boukoku no Akito 4 - Nikushimi no Kioku Kara Picture Drama",
+    "romaji": "Code Geass: Boukoku no Akito 4 - Nikushimi no Kioku Kara Picture Drama",
+    "native": "コードギアス 亡国のアキト 第4章 憎しみの記憶から"
+  },
+  "synonyms": [
+    "Code Geass: Boukoku no Akito 4 - Nikushimi no Kioku Kara Picture Drama",
+    "コードギアス 亡国のアキト 第4章 憎しみの記憶から",
+    "Code Geass: Akito the Exiled - Memories of Hatred Picture Drama",
+    "コードギアス　亡国のアキト 第4章: 憎しみの記憶から",
+    "Code Geass: Boukoku no Akito 4 - Nikushimi no Kioku kara Picture Drama"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b109004-NGx9qAjTVboI.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "109004",
+      "url": "https://anilist.co/anime/109004"
+    },
+    "mal": {
+      "id": "32240",
+      "url": "https://myanimelist.net/anime/32240"
+    }
+  }
+}

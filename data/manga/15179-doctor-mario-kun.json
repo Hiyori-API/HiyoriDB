@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15179,
+  "slug": "doctor-mario-kun",
+  "kind": "manga",
+  "title": "Doctor Mario-kun",
+  "titles": {
+    "default": "Doctor Mario-kun"
+  },
+  "synonyms": [
+    "ドクターマリオくん",
+    "Fujisan",
+    "富士山",
+    "Fuji-san"
+  ],
+  "type": "manga",
+  "chapters": 59,
+  "status": "finished",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b139187-guXqGioC9E7J.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4389",
+      "url": "https://anilist.co/anime/3886"
+    },
+    "al_manga": {
+      "id": "4389",
+      "url": "https://anilist.co/manga/4389"
+    }
+  }
+}

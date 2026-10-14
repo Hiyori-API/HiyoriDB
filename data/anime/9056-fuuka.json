@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9056,
+  "slug": "fuuka",
+  "kind": "anime",
+  "title": "Fuuka",
+  "titles": {
+    "default": "Fuuka",
+    "romaji": "Fuuka",
+    "native": "風夏"
+  },
+  "synonyms": [
+    "Fuuka",
+    "風夏",
+    "Blue Exorcist: Kyoto Impure King Arc",
+    "Blue Exorcist: Kyoto Saga",
+    "青の祓魔師 京都不浄王篇",
+    "Ao no Exorcist: Kyoto Fujouou-hen"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21887-CAq64M7WMgY5.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21887",
+      "url": "https://anilist.co/anime/21887"
+    },
+    "cr": {
+      "id": "fuuka",
+      "url": "https://www.crunchyroll.com/series/fuuka"
+    },
+    "mal": {
+      "id": "33743",
+      "url": "https://myanimelist.net/anime/33743"
+    },
+    "tx": {
+      "id": "fuuka_anime",
+      "url": "https://twitter.com/fuuka_anime"
+    }
+  }
+}

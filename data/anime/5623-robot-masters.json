@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5623,
+  "slug": "robot-masters",
+  "kind": "anime",
+  "title": "Robot Masters",
+  "titles": {
+    "default": "Robot Masters",
+    "romaji": "Robot Masters",
+    "native": "ロボットマスターズ"
+  },
+  "synonyms": [
+    "Robot Masters",
+    "ロボットマスターズ",
+    "Transformers: Robotmasters",
+    "Transformers: Robot Masters",
+    "TRANSFORMERS ROBOT MASTERS (トランスフォーマー ロボットマスターズ)"
+  ],
+  "type": "special",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx7862-SjqMEXFztnCA.png"
+  ],
+  "references": {
+    "al": {
+      "id": "7862",
+      "url": "https://anilist.co/anime/7862"
+    },
+    "k": {
+      "id": "5145",
+      "url": "https://kitsu.io/anime/5145"
+    },
+    "mal": {
+      "id": "7862",
+      "url": "https://myanimelist.net/anime/7862"
+    }
+  }
+}

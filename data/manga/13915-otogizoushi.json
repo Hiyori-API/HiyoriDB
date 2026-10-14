@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13915,
+  "slug": "otogizoushi",
+  "kind": "manga",
+  "title": "Otogizoushi",
+  "titles": {
+    "default": "Otogizoushi"
+  },
+  "synonyms": [
+    "Otogi Zoshi",
+    "お伽草子",
+    "Otogizoushi"
+  ],
+  "type": "manga",
+  "chapters": 10,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30470-aTXdhz84EVnR.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "525",
+      "url": "https://anilist.co/anime/525"
+    },
+    "al_manga": {
+      "id": "525",
+      "url": "https://anilist.co/manga/525"
+    }
+  }
+}

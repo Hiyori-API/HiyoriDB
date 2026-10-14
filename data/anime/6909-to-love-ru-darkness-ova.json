@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6909,
+  "slug": "to-love-ru-darkness-ova",
+  "kind": "anime",
+  "title": "To LOVE-Ru Darkness OVA",
+  "titles": {
+    "default": "To LOVE-Ru Darkness OVA",
+    "romaji": "To LOVE-Ru Darkness OVA",
+    "native": "To LOVEる -とらぶる- ダークネス"
+  },
+  "synonyms": [
+    "To LOVE-Ru Darkness OVA",
+    "To LOVEる -とらぶる- ダークネス",
+    "To LOVE-Ru Trouble Darkness OVA",
+    "To-Love-Ru Darkness OVA",
+    "ToLoveRu Darkness OVA",
+    "To Love Ru Darkness OVA"
+  ],
+  "type": "ova",
+  "episodes": 6,
+  "status": "finished",
+  "season": "summer",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx13851-weaUw8rE19x2.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "13851",
+      "url": "https://anilist.co/anime/13851"
+    },
+    "k": {
+      "id": "7047",
+      "url": "https://kitsu.io/anime/7047"
+    },
+    "mal": {
+      "id": "13851",
+      "url": "https://myanimelist.net/anime/13851"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5381,
+  "slug": "tensai-eri-chan-kingyo-wo-tabeta",
+  "kind": "anime",
+  "title": "Tensai Eri-chan Kingyo wo Tabeta",
+  "titles": {
+    "default": "Tensai Eri-chan Kingyo wo Tabeta",
+    "romaji": "Tensai Eri-chan Kingyo wo Tabeta",
+    "native": "天才えりちゃん金魚を食べた"
+  },
+  "synonyms": [
+    "Tensai Eri-chan Kingyo wo Tabeta",
+    "天才えりちゃん金魚を食べた",
+    "Tensai Eri-chan Kingyo o Tabeta"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18907.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "18907",
+      "url": "https://anilist.co/anime/18907"
+    },
+    "k": {
+      "id": "9666",
+      "url": "https://kitsu.io/anime/9666"
+    },
+    "mal": {
+      "id": "18907",
+      "url": "https://myanimelist.net/anime/18907"
+    }
+  }
+}

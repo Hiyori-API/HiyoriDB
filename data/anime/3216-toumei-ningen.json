@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3216,
+  "slug": "toumei-ningen",
+  "kind": "anime",
+  "title": "Toumei Ningen",
+  "titles": {
+    "default": "Toumei Ningen",
+    "romaji": "Toumei Ningen",
+    "english": "The Invisible Stud",
+    "native": "透明人間"
+  },
+  "synonyms": [
+    "Toumei Ningen",
+    "The Invisible Stud",
+    "透明人間",
+    "Tomei Ningen",
+    "Invisible Man",
+    "Honey x Honey Drops",
+    "Mitsu x Mitsu Drops",
+    "蜜×蜜ドロップス",
+    "Honey & Honey Drops"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3888.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3888",
+      "url": "https://anilist.co/anime/3888"
+    },
+    "k": {
+      "id": "1655",
+      "url": "https://kitsu.io/anime/1655"
+    },
+    "mal": {
+      "id": "3888",
+      "url": "https://myanimelist.net/anime/3888"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14763,
+  "slug": "ganbare-genki",
+  "kind": "manga",
+  "title": "Ganbare Genki",
+  "titles": {
+    "default": "Ganbare Genki"
+  },
+  "synonyms": [
+    "Forza Genki - Forza Sugar",
+    "がんばれ元気",
+    "Shin Kyojin no Hoshi",
+    "新巨人の星"
+  ],
+  "type": "manga",
+  "chapters": 242,
+  "volumes": 28,
+  "status": "finished",
+  "year": 1976,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx53774-6WKH2Xu1mQam.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3213",
+      "url": "https://anilist.co/anime/3213"
+    },
+    "al_manga": {
+      "id": "3213",
+      "url": "https://anilist.co/manga/3213"
+    }
+  }
+}

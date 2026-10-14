@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2691,
+  "slug": "kizuoibito",
+  "kind": "anime",
+  "title": "Kizuoibito",
+  "titles": {
+    "default": "Kizuoibito",
+    "romaji": "Kizuoibito",
+    "english": "Wounded Man",
+    "native": "傷追い人"
+  },
+  "synonyms": [
+    "Kizuoibito",
+    "Wounded Man",
+    "傷追い人"
+  ],
+  "type": "ova",
+  "episodes": 5,
+  "status": "finished",
+  "season": "summer",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3064-E92BJpoEeC95.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3064",
+      "url": "https://anilist.co/anime/3064"
+    },
+    "k": {
+      "id": "2763",
+      "url": "https://kitsu.io/anime/2763"
+    },
+    "mal": {
+      "id": "3064",
+      "url": "https://myanimelist.net/anime/3064"
+    }
+  }
+}

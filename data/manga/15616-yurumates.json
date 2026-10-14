@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15616,
+  "slug": "yurumates",
+  "kind": "manga",
+  "title": "Yurumates",
+  "titles": {
+    "default": "Yurumates"
+  },
+  "synonyms": [
+    "Yurumeitsu",
+    "ゆるめいつ",
+    "Kataomoi no Mukougawa",
+    "片想いの向こう側",
+    "Kataomoi no Mukou Gawa",
+    "Ano Kado o Magareba",
+    "Tenshi ga Kuretamono",
+    "Bitou na Koi",
+    "Kimi to Natsu no Aizu"
+  ],
+  "type": "manga",
+  "chapters": 174,
+  "volumes": 8,
+  "status": "finished",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12960.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "14693",
+      "url": "https://anilist.co/anime/6148"
+    },
+    "al_manga": {
+      "id": "14693",
+      "url": "https://anilist.co/manga/14693"
+    }
+  }
+}

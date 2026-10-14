@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11773,
+  "slug": "gutchonpa-omoshiro-hanashi",
+  "kind": "anime",
+  "title": "Gutchonpa Omoshiro Hanashi",
+  "titles": {
+    "default": "Gutchonpa Omoshiro Hanashi",
+    "romaji": "Gutchonpa Omoshiro Hanashi",
+    "native": "グッチョンパおもしろ話"
+  },
+  "synonyms": [
+    "Gutchonpa Omoshiro Hanashi",
+    "グッチョンパおもしろ話"
+  ],
+  "type": "tv",
+  "episodes": 5,
+  "status": "finished",
+  "season": "fall",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b196238-OybDh5GXfeBI.png"
+  ],
+  "references": {
+    "al": {
+      "id": "196238",
+      "url": "https://anilist.co/anime/196238"
+    },
+    "k": {
+      "id": "9292",
+      "url": "https://kitsu.io/anime/9292"
+    },
+    "mal": {
+      "id": "26089",
+      "url": "https://myanimelist.net/anime/26089"
+    }
+  }
+}

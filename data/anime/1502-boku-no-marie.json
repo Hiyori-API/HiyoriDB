@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1502,
+  "slug": "boku-no-marie",
+  "kind": "anime",
+  "title": "Boku no Marie",
+  "titles": {
+    "default": "Boku no Marie",
+    "romaji": "Boku no Marie",
+    "english": "My Dear Marie",
+    "native": "ぼくのマリー"
+  },
+  "synonyms": [
+    "Boku no Marie",
+    "My Dear Marie",
+    "ぼくのマリー",
+    "Metal Angel Marie"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "spring",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx1701-ar9YTLQGPhar.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1701",
+      "url": "https://anilist.co/anime/1701"
+    },
+    "k": {
+      "id": "1527",
+      "url": "https://kitsu.io/anime/1527"
+    },
+    "mal": {
+      "id": "1701",
+      "url": "https://myanimelist.net/anime/1701"
+    }
+  }
+}

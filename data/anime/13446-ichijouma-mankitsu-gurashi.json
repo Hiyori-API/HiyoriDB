@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13446,
+  "slug": "ichijouma-mankitsu-gurashi",
+  "kind": "anime",
+  "title": "Ichijouma Mankitsu-gurashi!",
+  "titles": {
+    "default": "Ichijouma Mankitsu-gurashi!",
+    "romaji": "Ichijouma Mankitsu-gurashi!",
+    "english": "Ichijyoma Mankitsu Gurashi!",
+    "native": "一畳間まんきつ暮らし！"
+  },
+  "synonyms": [
+    "Ichijouma Mankitsu-gurashi!",
+    "Ichijyoma Mankitsu Gurashi!",
+    "一畳間まんきつ暮らし！",
+    "Shiboyugi: Playing Death Games to Put Food on the Table",
+    "死亡遊戯で飯を食う。",
+    "Shibou Yuugi de Meshi wo Kuu."
+  ],
+  "type": "tv",
+  "episodes": 11,
+  "status": "finished",
+  "season": "spring",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195734-submxAA36thQ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "195734",
+      "url": "https://anilist.co/anime/195734"
+    },
+    "mal": {
+      "id": "62018",
+      "url": "https://myanimelist.net/anime/62018"
+    }
+  }
+}

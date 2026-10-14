@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15512,
+  "slug": "gift-under-the-rainbow",
+  "kind": "manga",
+  "title": "Gift: Under the Rainbow",
+  "titles": {
+    "default": "Gift: Under the Rainbow"
+  },
+  "synonyms": [
+    "ギフト ~under the rainbow~",
+    "The Pain in My Heart",
+    "Boku no Mune ga Itakutemo - Glass",
+    "ぼくの胸が痛くても GLASS"
+  ],
+  "type": "manga",
+  "chapters": 13,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10759.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1581",
+      "url": "https://anilist.co/anime/1581"
+    },
+    "al_manga": {
+      "id": "1581",
+      "url": "https://anilist.co/manga/1581"
+    }
+  }
+}

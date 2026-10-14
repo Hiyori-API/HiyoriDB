@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14590,
+  "slug": "yume-tsukai",
+  "kind": "manga",
+  "title": "Yume Tsukai",
+  "titles": {
+    "default": "Yume Tsukai"
+  },
+  "synonyms": [
+    "YumeTsukai",
+    "Dream Users",
+    "Dream Messengers",
+    "Ловцы снов",
+    "夢的使者",
+    "夢使い",
+    "Full Moon wo Sagashite",
+    "満月〈フルムーン〉をさがして",
+    "Searching for the Full Moon",
+    "Ginyuu Meika"
+  ],
+  "type": "manga",
+  "chapters": 36,
+  "volumes": 6,
+  "status": "finished",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx35682-XQkfIh227NPM.png"
+  ],
+  "references": {
+    "al": {
+      "id": "943",
+      "url": "https://anilist.co/anime/943"
+    },
+    "al_manga": {
+      "id": "943",
+      "url": "https://anilist.co/manga/943"
+    }
+  }
+}

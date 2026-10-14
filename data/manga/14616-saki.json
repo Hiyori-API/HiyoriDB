@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14616,
+  "slug": "saki",
+  "kind": "manga",
+  "title": "Saki",
+  "titles": {
+    "default": "Saki"
+  },
+  "synonyms": [
+    "Saki",
+    "咲 -Saki-",
+    "The Kurosagi Corpse Delivery Service",
+    "Kurosagi Shitai Takuhaibin",
+    "黒鷺死体宅配便"
+  ],
+  "type": "manga",
+  "status": "publishing",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx36310-RSFrpBMqZuNZ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7759",
+      "url": "https://anilist.co/anime/5671"
+    },
+    "al_manga": {
+      "id": "7759",
+      "url": "https://anilist.co/manga/7759"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14431,
+  "slug": "air-master",
+  "kind": "manga",
+  "title": "Air Master",
+  "titles": {
+    "default": "Air Master"
+  },
+  "synonyms": [
+    "エアマスター",
+    "Kamikaze Kaito Jeanne",
+    "Kamikaze Kaitou Jeanne",
+    "Phantom Thief Jeanne",
+    "神風怪盗ジャンヌ",
+    "Divine Wind Phantom Thief Jeanne"
+  ],
+  "type": "manga",
+  "chapters": 221,
+  "volumes": 28,
+  "status": "finished",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33533-H8zMLIv5UqKV.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "230",
+      "url": "https://anilist.co/anime/230"
+    },
+    "al_manga": {
+      "id": "230",
+      "url": "https://anilist.co/manga/230"
+    }
+  }
+}

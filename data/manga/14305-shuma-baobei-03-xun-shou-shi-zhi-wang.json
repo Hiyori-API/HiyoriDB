@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14305,
+  "slug": "shuma-baobei-03-xun-shou-shi-zhi-wang",
+  "kind": "manga",
+  "title": "Shuma Baobei 03: Xun Shou Shi Zhi Wang",
+  "titles": {
+    "default": "Shuma Baobei 03: Xun Shou Shi Zhi Wang"
+  },
+  "synonyms": [
+    "デジモンテイマーズ",
+    "Digimon 03: King Of Tamers",
+    "Digimon Zero 3",
+    "Digimon Tamers",
+    "數碼寶貝03馴獸師之王",
+    "Fujisan",
+    "富士山",
+    "Fuji-san"
+  ],
+  "type": "manga",
+  "chapters": 30,
+  "volumes": 4,
+  "status": "finished",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx32389-M509S2H1CdE1.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "874",
+      "url": "https://anilist.co/anime/874"
+    },
+    "al_manga": {
+      "id": "874",
+      "url": "https://anilist.co/manga/874"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13374,
+  "slug": "kabushiki-gaisha-magi-lumiere-2nd-season",
+  "kind": "anime",
+  "title": "Kabushiki Gaisha Magi Lumiere 2nd Season",
+  "titles": {
+    "default": "Kabushiki Gaisha Magi Lumiere 2nd Season",
+    "romaji": "Kabushiki Gaisha Magi Lumiere 2nd Season",
+    "english": "Magilumiere Magical Girls Inc. Season 2",
+    "native": "株式会社マジルミエ 第2期"
+  },
+  "synonyms": [
+    "Kabushiki Gaisha Magi Lumiere 2nd Season",
+    "Magilumiere Magical Girls Inc. Season 2",
+    "株式会社マジルミエ 第2期",
+    "Magilumiere Co. Ltd., Kabushikigaisha Magilumiere",
+    "Kabushikigaisha Magi-Lumière 2nd Season"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185692-1a8huwOIx7gw.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "185692",
+      "url": "https://anilist.co/anime/185692"
+    },
+    "mal": {
+      "id": "60552",
+      "url": "https://myanimelist.net/anime/60552"
+    }
+  }
+}

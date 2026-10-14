@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2997,
+  "slug": "kochira-katsushikaku-kameari-kouenmae-hashutsujo",
+  "kind": "anime",
+  "title": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo",
+  "titles": {
+    "default": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo",
+    "romaji": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo",
+    "native": "こちら葛飾区亀有公園前派出所"
+  },
+  "synonyms": [
+    "Kochira Katsushikaku Kameari Kouenmae Hashutsujo",
+    "こちら葛飾区亀有公園前派出所",
+    "Kochikame"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3546.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3546",
+      "url": "https://anilist.co/anime/3546"
+    },
+    "k": {
+      "id": "3091",
+      "url": "https://kitsu.io/anime/3091"
+    },
+    "mal": {
+      "id": "3546",
+      "url": "https://myanimelist.net/anime/3546"
+    }
+  }
+}

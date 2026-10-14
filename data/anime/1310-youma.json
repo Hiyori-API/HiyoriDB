@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1310,
+  "slug": "youma",
+  "kind": "anime",
+  "title": "Youma",
+  "titles": {
+    "default": "Youma",
+    "romaji": "Youma",
+    "english": "Blood Reign: Curse of the Yoma",
+    "native": "妖魔"
+  },
+  "synonyms": [
+    "Youma",
+    "Blood Reign: Curse of the Yoma",
+    "妖魔",
+    "Curse of the Undead Yoma",
+    "Yoma",
+    "Blood Reign",
+    "Yoma les ténèbres",
+    "Yoma, La Stirpe Delle Tenebre"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1484-doDfkjX9k1Z6.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1484",
+      "url": "https://anilist.co/anime/1484"
+    },
+    "k": {
+      "id": "1330",
+      "url": "https://kitsu.io/anime/1330"
+    },
+    "mal": {
+      "id": "1484",
+      "url": "https://myanimelist.net/anime/1484"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4697,
+  "slug": "kaitei-toshi-no-dekiru-made",
+  "kind": "anime",
+  "title": "Kaitei Toshi no Dekiru made",
+  "titles": {
+    "default": "Kaitei Toshi no Dekiru made",
+    "romaji": "Kaitei Toshi no Dekiru made",
+    "native": "海底都市のできるまで"
+  },
+  "synonyms": [
+    "Kaitei Toshi no Dekiru made",
+    "海底都市のできるまで",
+    "Till a City Beneath the Sea is Built",
+    "Wonder-kun no Hatsu Yume Uchuu Ryokou",
+    "ワンダー君の初夢宇宙旅行",
+    "First Marvelous Dream In Wonder-Boy's Space Trip",
+    "Space Journey - The First Dream of Wonder-kun"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1969,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213372-C3AabSXQKQFy.png"
+  ],
+  "references": {
+    "al": {
+      "id": "213372",
+      "url": "https://anilist.co/anime/213372"
+    },
+    "k": {
+      "id": "6819",
+      "url": "https://kitsu.io/anime/6819"
+    },
+    "mal": {
+      "id": "21551",
+      "url": "https://myanimelist.net/anime/21551"
+    }
+  }
+}

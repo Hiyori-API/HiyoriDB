@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8301,
+  "slug": "high-school-dxd-born-ishibumi-ichiei-kanzen-kanshuu-mousou-bakuyure-kaijo-original-video",
+  "kind": "anime",
+  "title": "High School DxD BorN: Ishibumi Ichiei Kanzen Kanshuu! Mousou Bakuyure Kaijo Original Video",
+  "titles": {
+    "default": "High School DxD BorN: Ishibumi Ichiei Kanzen Kanshuu! Mousou Bakuyure Kaijo Original Video",
+    "romaji": "High School DxD BorN: Ishibumi Ichiei Kanzen Kanshuu! Mousou Bakuyure Kaijo Original Video",
+    "english": "High School DxD BorN: Maximum Titillation OVA",
+    "native": "ハイスクールDxD BorN: 石踏一榮完全監修！妄想爆揺解除オリジナルビデオ"
+  },
+  "synonyms": [
+    "High School DxD BorN: Ishibumi Ichiei Kanzen Kanshuu! Mousou Bakuyure Kaijo Original Video",
+    "High School DxD BorN: Maximum Titillation OVA",
+    "ハイスクールDxD BorN: 石踏一榮完全監修！妄想爆揺解除オリジナルビデオ",
+    "High School DxD BorN Specials",
+    "ハイスクールD×D BorN  石踏一榮完全監修！妄想爆揺解除オリジナルビデオ",
+    "High School DxD BorN: Ishibumi Ichiei Kanzen Kanshuu! Mousou Bakuyou Kaijo Original Video"
+  ],
+  "type": "special",
+  "episodes": 6,
+  "status": "finished",
+  "season": "summer",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21279-GRbqjLiXLj0i.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21279",
+      "url": "https://anilist.co/anime/21279"
+    },
+    "mal": {
+      "id": "31326",
+      "url": "https://myanimelist.net/anime/31326"
+    }
+  }
+}

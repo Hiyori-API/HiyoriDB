@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9279,
+  "slug": "houseki-no-kuni",
+  "kind": "anime",
+  "title": "Houseki no Kuni",
+  "titles": {
+    "default": "Houseki no Kuni",
+    "romaji": "Houseki no Kuni",
+    "english": "Land of the Lustrous",
+    "native": "宝石の国"
+  },
+  "synonyms": [
+    "Houseki no Kuni",
+    "Land of the Lustrous",
+    "宝石の国",
+    "L'Ère des Cristaux",
+    "Das Land der Juwelen",
+    "Страна самоцветов",
+    "Vương Quốc Bảo Thạch",
+    "ดินแดนอัญมณี",
+    "Country of Jewels"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98707-25nUKb4XUFgY.png"
+  ],
+  "references": {
+    "al": {
+      "id": "98707",
+      "url": "https://anilist.co/anime/98707"
+    },
+    "mal": {
+      "id": "35557",
+      "url": "https://myanimelist.net/anime/35557"
+    },
+    "tx": {
+      "id": "houseki_anime",
+      "url": "https://twitter.com/houseki_anime"
+    }
+  }
+}

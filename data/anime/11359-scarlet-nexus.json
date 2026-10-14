@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11359,
+  "slug": "scarlet-nexus",
+  "kind": "anime",
+  "title": "SCARLET NEXUS",
+  "titles": {
+    "default": "SCARLET NEXUS",
+    "romaji": "SCARLET NEXUS",
+    "english": "Scarlet Nexus"
+  },
+  "synonyms": [
+    "SCARLET NEXUS",
+    "Scarlet Nexus",
+    "スカーレットネクサス",
+    "绯红结系",
+    "Witch Hunter Robin",
+    "ウィッチハンター ロビン",
+    "WHR"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "summer",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131150-YjdcqAvbHfxw.png"
+  ],
+  "references": {
+    "al": {
+      "id": "131150",
+      "url": "https://anilist.co/anime/131150"
+    },
+    "cr": {
+      "id": "scarlet-nexus",
+      "url": "https://www.crunchyroll.com/series/scarlet-nexus"
+    },
+    "k": {
+      "id": "4",
+      "url": "https://kitsu.io/anime/4"
+    },
+    "mal": {
+      "id": "48492",
+      "url": "https://myanimelist.net/anime/48492"
+    },
+    "t": {
+      "id": "1093",
+      "url": "https://trakt.tv/shows/1093"
+    },
+    "tx": {
+      "id": "SNX_ANIME",
+      "url": "https://twitter.com/SNX_ANIME"
+    }
+  }
+}

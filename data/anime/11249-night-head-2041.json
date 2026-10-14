@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11249,
+  "slug": "night-head-2041",
+  "kind": "anime",
+  "title": "NIGHT HEAD 2041",
+  "titles": {
+    "default": "NIGHT HEAD 2041",
+    "romaji": "NIGHT HEAD 2041"
+  },
+  "synonyms": [
+    "NIGHT HEAD 2041",
+    "Sonny Boy",
+    "Sonny Boy (サニーボーイ)"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx125868-apscwA5S0lOs.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "125868",
+      "url": "https://anilist.co/anime/125868"
+    },
+    "cr": {
+      "id": "night-head-2041",
+      "url": "https://www.crunchyroll.com/series/night-head-2041"
+    },
+    "mal": {
+      "id": "43767",
+      "url": "https://myanimelist.net/anime/43767"
+    },
+    "tx": {
+      "id": "nighthead2041",
+      "url": "https://twitter.com/nighthead2041"
+    }
+  }
+}

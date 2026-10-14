@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9765,
+  "slug": "kekkai-sensen-beyond-ova",
+  "kind": "anime",
+  "title": "Kekkai Sensen & BEYOND OVA",
+  "titles": {
+    "default": "Kekkai Sensen & BEYOND OVA",
+    "romaji": "Kekkai Sensen & BEYOND OVA",
+    "english": "Blood Blockade Battlefront & Beyond OVA",
+    "native": "血界戦線 & BEYOND OVA"
+  },
+  "synonyms": [
+    "Kekkai Sensen & BEYOND OVA",
+    "Blood Blockade Battlefront & Beyond OVA",
+    "血界戦線 & BEYOND OVA",
+    "Bloodline Battlefront & Beyond OVA",
+    "Kekkai Sensen: Back 2 Back OVA",
+    "血界戦線 & BEYOND ザップ・レンフロ因果応報中!! / バッカーディオの雫",
+    "Kekkai Sensen & Beyond: Zapp Renfro Ingaouhouchuu!!/Baccardio no Shizuku"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/101695-c9NCxR86yje7.png"
+  ],
+  "references": {
+    "al": {
+      "id": "101695",
+      "url": "https://anilist.co/anime/101695"
+    },
+    "mal": {
+      "id": "37364",
+      "url": "https://myanimelist.net/anime/37364"
+    }
+  }
+}

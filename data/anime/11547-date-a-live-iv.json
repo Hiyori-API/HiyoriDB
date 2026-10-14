@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11547,
+  "slug": "date-a-live-iv",
+  "kind": "anime",
+  "title": "Date A Live IV",
+  "titles": {
+    "default": "Date A Live IV",
+    "romaji": "Date A Live IV",
+    "native": "デート・ア・ライブIV"
+  },
+  "synonyms": [
+    "Date A Live IV",
+    "デート・ア・ライブIV",
+    "Date A Live Season 4",
+    "พิชิตรัก พิทักษ์โลก ภาค 4",
+    "Рандеву с Жизнью 4",
+    "Date A Live 4",
+    "Date A Live Fourth Season",
+    "DAL 4",
+    "デート・ア・ライブⅣ"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116605-uzDakXnaZ1OW.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "116605",
+      "url": "https://anilist.co/anime/116605"
+    },
+    "cr": {
+      "id": "date-a-live",
+      "url": "https://www.crunchyroll.com/series/date-a-live"
+    },
+    "mal": {
+      "id": "41461",
+      "url": "https://myanimelist.net/anime/41461"
+    },
+    "tx": {
+      "id": "date_a_info",
+      "url": "https://twitter.com/date_a_info"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5358,
+  "slug": "magic-knight-rayearth-pilot",
+  "kind": "anime",
+  "title": "Magic Knight Rayearth Pilot",
+  "titles": {
+    "default": "Magic Knight Rayearth Pilot",
+    "romaji": "Magic Knight Rayearth Pilot",
+    "native": "魔法騎士（マジックナイト）レイアース パイロットフィルム"
+  },
+  "synonyms": [
+    "Magic Knight Rayearth Pilot",
+    "魔法騎士（マジックナイト）レイアース パイロットフィルム",
+    "City Hunter: The Secret Service",
+    "シティーハンタースペシャル ザ・シークレット・サービス"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155739-QYJN2PIdKHmu.png"
+  ],
+  "references": {
+    "al": {
+      "id": "155739",
+      "url": "https://anilist.co/anime/155739"
+    },
+    "cr": {
+      "id": "city-hunter",
+      "url": "https://www.crunchyroll.com/series/city-hunter"
+    },
+    "k": {
+      "id": "1323",
+      "url": "https://kitsu.io/anime/1323"
+    },
+    "mal": {
+      "id": "38372",
+      "url": "https://myanimelist.net/anime/38372"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4816,
+  "slug": "tsushima-maru-sayounara-okinawa",
+  "kind": "anime",
+  "title": "Tsushima Maru: Sayounara Okinawa",
+  "titles": {
+    "default": "Tsushima Maru: Sayounara Okinawa",
+    "romaji": "Tsushima Maru: Sayounara Okinawa",
+    "native": "対馬丸 -さようなら沖縄-"
+  },
+  "synonyms": [
+    "Tsushima Maru: Sayounara Okinawa",
+    "対馬丸 -さようなら沖縄-",
+    "Tsushimamaru: Goodbye",
+    "Okinawa"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1982,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12903.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12903",
+      "url": "https://anilist.co/anime/12903"
+    },
+    "k": {
+      "id": "6844",
+      "url": "https://kitsu.io/anime/6844"
+    },
+    "mal": {
+      "id": "12903",
+      "url": "https://myanimelist.net/anime/12903"
+    }
+  }
+}

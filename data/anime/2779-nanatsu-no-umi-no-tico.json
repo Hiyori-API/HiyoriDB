@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2779,
+  "slug": "nanatsu-no-umi-no-tico",
+  "kind": "anime",
+  "title": "Nanatsu no Umi no Tico",
+  "titles": {
+    "default": "Nanatsu no Umi no Tico",
+    "romaji": "Nanatsu no Umi no Tico",
+    "english": "Tico and Friends",
+    "native": "七つの海のティコ"
+  },
+  "synonyms": [
+    "Nanatsu no Umi no Tico",
+    "Tico and Friends",
+    "七つの海のティコ",
+    "Sekai Meisaku Gekijou",
+    "Tico and Nanami",
+    "World Masterpiece Theater",
+    "WMT",
+    "Ein Toller Freund",
+    "Tico et ses amis",
+    "Tico y sus Amigos",
+    "Un oceano di avventure",
+    "Un oceano di avventure per Tico e Nancy"
+  ],
+  "type": "tv",
+  "episodes": 39,
+  "status": "finished",
+  "season": "winter",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n3199-vMMUBCkFaX1m.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3199",
+      "url": "https://anilist.co/anime/3199"
+    },
+    "k": {
+      "id": "2852",
+      "url": "https://kitsu.io/anime/2852"
+    },
+    "mal": {
+      "id": "3199",
+      "url": "https://myanimelist.net/anime/3199"
+    }
+  }
+}

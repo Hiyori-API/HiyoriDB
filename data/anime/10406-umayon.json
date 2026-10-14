@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10406,
+  "slug": "umayon",
+  "kind": "anime",
+  "title": "Umayon",
+  "titles": {
+    "default": "Umayon",
+    "romaji": "Umayon",
+    "english": "UMAYON",
+    "native": "うまよん"
+  },
+  "synonyms": [
+    "Umayon",
+    "UMAYON",
+    "うまよん",
+    "DearS",
+    "ディアーズ"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108941-QDNpgawkxytg.png"
+  ],
+  "references": {
+    "al": {
+      "id": "108941",
+      "url": "https://anilist.co/anime/108941"
+    },
+    "cr": {
+      "id": "umayon",
+      "url": "https://www.crunchyroll.com/series/umayon"
+    },
+    "k": {
+      "id": "44",
+      "url": "https://kitsu.io/anime/44"
+    },
+    "mal": {
+      "id": "38835",
+      "url": "https://myanimelist.net/anime/38835"
+    },
+    "t": {
+      "id": "61051",
+      "url": "https://trakt.tv/shows/61051"
+    },
+    "tx": {
+      "id": "uma_musu",
+      "url": "https://twitter.com/uma_musu"
+    }
+  }
+}

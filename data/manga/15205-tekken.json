@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15205,
+  "slug": "tekken",
+  "kind": "manga",
+  "title": "Tekken",
+  "titles": {
+    "default": "Tekken"
+  },
+  "synonyms": [
+    "Tekken",
+    "鉄拳",
+    "Love Hina",
+    "ラブひな"
+  ],
+  "type": "manga",
+  "chapters": 7,
+  "volumes": 1,
+  "status": "finished",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx134311-pZ5VKoBmCuBk.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "153906",
+      "url": "https://anilist.co/anime/153906"
+    },
+    "al_manga": {
+      "id": "153906",
+      "url": "https://anilist.co/manga/153906"
+    }
+  }
+}

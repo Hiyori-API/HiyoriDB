@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13799,
+  "slug": "wish",
+  "kind": "manga",
+  "title": "Wish",
+  "titles": {
+    "default": "Wish"
+  },
+  "synonyms": [
+    "ウィッシュ",
+    "Wish (위시)",
+    "Wish",
+    "Kare Kano: His and Her Circumstances",
+    "Kareshi Kanojo no Jijou",
+    "彼氏彼女の事情",
+    "His and Hers",
+    "The Tiger and the Chameleon: A Promise for One Week",
+    "Ashita Mata Mori de Aou ne",
+    "Meet Me Again Tomorrow in the Forest",
+    "KKNJ",
+    "Abareru Ousama",
+    "The Raging King"
+  ],
+  "type": "manga",
+  "chapters": 26,
+  "volumes": 4,
+  "status": "finished",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30109-KSkYG2J6X7i2.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1958",
+      "url": "https://anilist.co/anime/1958"
+    },
+    "al_manga": {
+      "id": "1958",
+      "url": "https://anilist.co/manga/1958"
+    }
+  }
+}

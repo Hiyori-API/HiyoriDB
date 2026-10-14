@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10380,
+  "slug": "nekopara",
+  "kind": "anime",
+  "title": "Nekopara",
+  "titles": {
+    "default": "Nekopara",
+    "romaji": "Nekopara",
+    "native": "ネコぱら"
+  },
+  "synonyms": [
+    "Nekopara",
+    "ネコぱら",
+    "Neko Para"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx106863-CxiCK7HejySK.png"
+  ],
+  "references": {
+    "al": {
+      "id": "106863",
+      "url": "https://anilist.co/anime/106863"
+    },
+    "cr": {
+      "id": "nekopara",
+      "url": "https://www.crunchyroll.com/series/nekopara"
+    },
+    "mal": {
+      "id": "38924",
+      "url": "https://myanimelist.net/anime/38924"
+    },
+    "tx": {
+      "id": "nekopara_anime",
+      "url": "https://twitter.com/nekopara_anime"
+    }
+  }
+}

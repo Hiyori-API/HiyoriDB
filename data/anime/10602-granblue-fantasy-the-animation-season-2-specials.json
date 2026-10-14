@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10602,
+  "slug": "granblue-fantasy-the-animation-season-2-specials",
+  "kind": "anime",
+  "title": "GRANBLUE FANTASY The Animation Season 2 Specials",
+  "titles": {
+    "default": "GRANBLUE FANTASY The Animation Season 2 Specials",
+    "romaji": "GRANBLUE FANTASY The Animation Season 2 Specials",
+    "english": "Granblue Fantasy: The Animation Season 2 Specials"
+  },
+  "synonyms": [
+    "GRANBLUE FANTASY The Animation Season 2 Specials",
+    "Granblue Fantasy: The Animation Season 2 Specials",
+    "Granblue Fantasy: The Animation Season 2: Another Journey",
+    "Granblue Fantasy: The Animation Season 2: The Masked Cypher Descends! / A Tale of St. Albion Girls' Academy",
+    "Granblue Fantasy The Animation Season 2: Djeeta-hen",
+    "Granblue Fantasy The Animation Season 2 Specials",
+    "グランブルーファンタジー The Animation Season 2 Extra",
+    "Granblue Fantasy The Animation Season 2 Extras"
+  ],
+  "type": "special",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116968-hVZKqWiJ6vfr.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "116968",
+      "url": "https://anilist.co/anime/116968"
+    },
+    "cr": {
+      "id": "granblue-fantasy-the-animation",
+      "url": "https://www.crunchyroll.com/series/granblue-fantasy-the-animation"
+    },
+    "mal": {
+      "id": "40873",
+      "url": "https://myanimelist.net/anime/40873"
+    },
+    "tx": {
+      "id": "anime_gbf",
+      "url": "https://twitter.com/anime_gbf"
+    }
+  }
+}

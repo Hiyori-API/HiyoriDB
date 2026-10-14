@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13968,
+  "slug": "versailles-no-bara",
+  "kind": "manga",
+  "title": "Versailles no Bara",
+  "titles": {
+    "default": "Versailles no Bara"
+  },
+  "synonyms": [
+    "Berusaiyu no Bara",
+    "Lady Oscar",
+    "Róża Wersalu",
+    "La Rose de Versailles",
+    "Rose of Versailles",
+    "ベルばら",
+    "베르사유의 장미",
+    "黒衣の伯爵夫人の巻",
+    "Lady Oscar - La contessa dall'abito nero",
+    "The Countess in Black",
+    "The Rose of Versailles",
+    "ベルサイユのばら",
+    "Versailles no Bara"
+  ],
+  "type": "manga",
+  "chapters": 85,
+  "volumes": 10,
+  "status": "finished",
+  "year": 1972,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30660-hBFkOt2Ab2Ti.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3868",
+      "url": "https://anilist.co/anime/5415"
+    },
+    "al_manga": {
+      "id": "3868",
+      "url": "https://anilist.co/manga/3868"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1580,
+  "slug": "little-monica-monogatari",
+  "kind": "anime",
+  "title": "Little Monica Monogatari",
+  "titles": {
+    "default": "Little Monica Monogatari",
+    "romaji": "Little Monica Monogatari",
+    "english": "The Story of Little Monica",
+    "native": "リトルモニカ物語"
+  },
+  "synonyms": [
+    "Little Monica Monogatari",
+    "The Story of Little Monica",
+    "リトルモニカ物語",
+    "Little Monica Story",
+    "Tales of Little Monica",
+    "Little Monica's Story",
+    "Araiso Private High School Student Council Executive Committee",
+    "Shiritsu Araiso Koutougakkou Seitokai Shikkoubu",
+    "私立荒磯高等学校生徒会執行部"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1785.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1785",
+      "url": "https://anilist.co/anime/1785"
+    },
+    "k": {
+      "id": "389",
+      "url": "https://kitsu.io/anime/389"
+    },
+    "mal": {
+      "id": "1785",
+      "url": "https://myanimelist.net/anime/1785"
+    }
+  }
+}

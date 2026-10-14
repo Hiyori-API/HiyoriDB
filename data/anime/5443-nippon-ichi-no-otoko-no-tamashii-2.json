@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5443,
+  "slug": "nippon-ichi-no-otoko-no-tamashii-2",
+  "kind": "anime",
+  "title": "Nippon-ichi no Otoko no Tamashii 2",
+  "titles": {
+    "default": "Nippon-ichi no Otoko no Tamashii 2",
+    "romaji": "Nippon-ichi no Otoko no Tamashii 2",
+    "native": "日本一の男の魂２"
+  },
+  "synonyms": [
+    "Nippon-ichi no Otoko no Tamashii 2",
+    "日本一の男の魂２",
+    "Nihon-ichi no Otoko no Tamashii 2",
+    "Most Spirited Man in Japan 2"
+  ],
+  "type": "tv",
+  "episodes": 16,
+  "status": "finished",
+  "season": "spring",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8891.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8891",
+      "url": "https://anilist.co/anime/8891"
+    },
+    "k": {
+      "id": "5521",
+      "url": "https://kitsu.io/anime/5521"
+    },
+    "mal": {
+      "id": "8891",
+      "url": "https://myanimelist.net/anime/8891"
+    }
+  }
+}

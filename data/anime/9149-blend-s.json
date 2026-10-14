@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9149,
+  "slug": "blend-s",
+  "kind": "anime",
+  "title": "Blend S",
+  "titles": {
+    "default": "Blend S",
+    "romaji": "Blend S",
+    "english": "BLEND-S",
+    "native": "ブレンド・S"
+  },
+  "synonyms": [
+    "Blend S",
+    "BLEND-S",
+    "ブレンド・S",
+    "調教咖啡廳"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97994-JZ1rLkJBcO8V.png"
+  ],
+  "references": {
+    "al": {
+      "id": "97994",
+      "url": "https://anilist.co/anime/97994"
+    },
+    "cr": {
+      "id": "blend-s",
+      "url": "https://www.crunchyroll.com/series/blend-s"
+    },
+    "mal": {
+      "id": "34618",
+      "url": "https://myanimelist.net/anime/34618"
+    },
+    "tx": {
+      "id": "blend_s_anime",
+      "url": "https://twitter.com/blend_s_anime"
+    }
+  }
+}

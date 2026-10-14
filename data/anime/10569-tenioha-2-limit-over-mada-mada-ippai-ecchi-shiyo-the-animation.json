@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10569,
+  "slug": "tenioha-2-limit-over-mada-mada-ippai-ecchi-shiyo-the-animation",
+  "kind": "anime",
+  "title": "Tenioha! 2: Limit Over - Mada Mada Ippai, Ecchi Shiyo? THE ANIMATION",
+  "titles": {
+    "default": "Tenioha! 2: Limit Over - Mada Mada Ippai, Ecchi Shiyo? THE ANIMATION",
+    "romaji": "Tenioha! 2: Limit Over - Mada Mada Ippai, Ecchi Shiyo? THE ANIMATION",
+    "native": "てにおはっ！2 リミットオーバー ～まだまだいっぱい、エッチしよ？～ THE ANIMATION"
+  },
+  "synonyms": [
+    "Tenioha! 2: Limit Over - Mada Mada Ippai, Ecchi Shiyo? THE ANIMATION",
+    "てにおはっ！2 リミットオーバー ～まだまだいっぱい、エッチしよ？～ THE ANIMATION",
+    "Tenioha! 2: Limit Over - Shall we keep doing lots of lewd stuff?",
+    "테니오핫! 2 Limit Over ~ 좀 더 많이 엣찌해요? ~ THE ANIMATION",
+    "Bokutachi wa Benkyou ga Dekinai! OVA",
+    "We Never Learn! OVA",
+    "We Never Learn: BOKUBEN - The Church Bells Bless [X]",
+    "ぼくたちは勉強ができない！「チャペルの鐘は[X]を祝福する」",
+    "Bokutachi wa Benkyou ga Dekinai! Chapel no Kane wa [X] wo Shukufuku Suru"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115671-2ESDZ7cI3RHh.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "115671",
+      "url": "https://anilist.co/anime/115671"
+    },
+    "mal": {
+      "id": "41207",
+      "url": "https://myanimelist.net/anime/41207"
+    }
+  }
+}

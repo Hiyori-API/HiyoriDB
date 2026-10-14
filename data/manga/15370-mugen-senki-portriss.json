@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15370,
+  "slug": "mugen-senki-portriss",
+  "kind": "manga",
+  "title": "Mugen Senki Portriss",
+  "titles": {
+    "default": "Mugen Senki Portriss"
+  },
+  "synonyms": [
+    "無限戦記ポトリス",
+    "xxxHOLiC",
+    "xxxHolic Rou",
+    "xxxHolic Cage",
+    "xxxHolic•Rou"
+  ],
+  "type": "manga",
+  "chapters": 11,
+  "status": "finished",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx213852-ULHSr0RQ2nMQ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2735",
+      "url": "https://anilist.co/anime/2735"
+    },
+    "al_manga": {
+      "id": "2735",
+      "url": "https://anilist.co/manga/2735"
+    }
+  }
+}

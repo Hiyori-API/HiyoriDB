@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5808,
+  "slug": "pussycat",
+  "kind": "anime",
+  "title": "Pussycat",
+  "titles": {
+    "default": "Pussycat",
+    "romaji": "Pussycat",
+    "native": "プッシーキャット"
+  },
+  "synonyms": [
+    "Pussycat",
+    "プッシーキャット"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11687-1WMqmk5QQjkx.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11687",
+      "url": "https://anilist.co/anime/11687"
+    },
+    "k": {
+      "id": "6562",
+      "url": "https://kitsu.io/anime/6562"
+    },
+    "mal": {
+      "id": "11687",
+      "url": "https://myanimelist.net/anime/11687"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9703,
+  "slug": "idolish7-vibrato",
+  "kind": "anime",
+  "title": "IDOLiSH7 Vibrato",
+  "titles": {
+    "default": "IDOLiSH7 Vibrato",
+    "romaji": "IDOLiSH7 Vibrato",
+    "native": "アイドリッシュセブンVibrato"
+  },
+  "synonyms": [
+    "IDOLiSH7 Vibrato",
+    "アイドリッシュセブンVibrato",
+    "Idolish Seven",
+    "IDOLiSH7: YouTube Originals",
+    "アイドリッシュセブン Vibrato"
+  ],
+  "type": "ona",
+  "episodes": 8,
+  "status": "finished",
+  "season": "winter",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101169-t5TB7NleAkKr.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101169",
+      "url": "https://anilist.co/anime/101169"
+    },
+    "mal": {
+      "id": "36963",
+      "url": "https://myanimelist.net/anime/36963"
+    },
+    "tx": {
+      "id": "ID7_anime",
+      "url": "https://twitter.com/ID7_anime"
+    }
+  }
+}

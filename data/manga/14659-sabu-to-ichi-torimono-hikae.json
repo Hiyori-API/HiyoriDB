@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14659,
+  "slug": "sabu-to-ichi-torimono-hikae",
+  "kind": "manga",
+  "title": "Sabu to Ichi Torimono Hikae",
+  "titles": {
+    "default": "Sabu to Ichi Torimono Hikae"
+  },
+  "synonyms": [
+    "Sabu and Ichi's Detective Stories",
+    "Sabu & Ichi's Arrest Warrant",
+    "Relatos de Sabu e Ichi",
+    "佐武と市捕物控",
+    "Kuroi Ame ni Utarete",
+    "黒い雨にうたれて",
+    "Struck by Black Rain"
+  ],
+  "type": "manga",
+  "chapters": 83,
+  "volumes": 17,
+  "status": "finished",
+  "year": 1966,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx42427-RbEOS4yNcxbH.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "148818",
+      "url": "https://anilist.co/anime/5997"
+    },
+    "al_manga": {
+      "id": "148818",
+      "url": "https://anilist.co/manga/148818"
+    }
+  }
+}

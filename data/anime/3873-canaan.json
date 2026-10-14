@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3873,
+  "slug": "canaan",
+  "kind": "anime",
+  "title": "Canaan",
+  "titles": {
+    "default": "Canaan",
+    "romaji": "Canaan",
+    "native": "カナン"
+  },
+  "synonyms": [
+    "Canaan",
+    "カナン",
+    "428 ~Fuusa Sareta Shibuya de~ Tokubetsu Hen",
+    "428 ~Fuusasareta Shibuya de~ Special Chapter",
+    "428 the animation",
+    "CANAAN",
+    "428: Fuusa Sareta Shibuya de Tokubetsu-hen",
+    "428: Fuusasareta Shibuya de Special Chapter"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5356-RRwXlRIIYe7g.png"
+  ],
+  "references": {
+    "al": {
+      "id": "5356",
+      "url": "https://anilist.co/anime/5356"
+    },
+    "k": {
+      "id": "4072",
+      "url": "https://kitsu.io/anime/4072"
+    },
+    "mal": {
+      "id": "5356",
+      "url": "https://myanimelist.net/anime/5356"
+    },
+    "t": {
+      "id": "43184",
+      "url": "https://trakt.tv/shows/43184"
+    }
+  }
+}

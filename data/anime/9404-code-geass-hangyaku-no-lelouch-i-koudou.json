@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9404,
+  "slug": "code-geass-hangyaku-no-lelouch-i-koudou",
+  "kind": "anime",
+  "title": "Code Geass: Hangyaku no Lelouch I - Koudou",
+  "titles": {
+    "default": "Code Geass: Hangyaku no Lelouch I - Koudou",
+    "romaji": "Code Geass: Hangyaku no Lelouch I - Koudou",
+    "english": "Code Geass: Lelouch of the Rebellion I - Initiation",
+    "native": "コードギアス 反逆のルルーシュⅠ 興道"
+  },
+  "synonyms": [
+    "Code Geass: Hangyaku no Lelouch I - Koudou",
+    "Code Geass: Lelouch of the Rebellion I - Initiation",
+    "コードギアス 反逆のルルーシュⅠ 興道",
+    "Code Geass: Lelouch of the Rebellion - The Awakening Path",
+    "Genocidal Organ",
+    "Gyakusatsu Kikan",
+    "虐殺器官",
+    "Project Itoh"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101811-pRfRiEvgZn4T.png"
+  ],
+  "references": {
+    "al": {
+      "id": "101811",
+      "url": "https://anilist.co/anime/101811"
+    },
+    "cr": {
+      "id": "code-geass",
+      "url": "https://www.crunchyroll.com/series/code-geass"
+    },
+    "k": {
+      "id": "8737",
+      "url": "https://kitsu.io/anime/8737"
+    },
+    "mal": {
+      "id": "34438",
+      "url": "https://myanimelist.net/anime/34438"
+    }
+  }
+}

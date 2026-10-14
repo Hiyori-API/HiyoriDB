@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11440,
+  "slug": "soshite-watashi-wa-sensei-ni",
+  "kind": "anime",
+  "title": "Soshite Watashi wa Sensei ni......",
+  "titles": {
+    "default": "Soshite Watashi wa Sensei ni......",
+    "romaji": "Soshite Watashi wa Sensei ni......",
+    "native": "そしてわたしはセンセイに……"
+  },
+  "synonyms": [
+    "Soshite Watashi wa Sensei ni......",
+    "そしてわたしはセンセイに……",
+    "Step Up Love Story",
+    "Futari Ecchi",
+    "ふたりエッチ",
+    "Futari H"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "summer",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136270-tva9fipcqk2g.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "136270",
+      "url": "https://anilist.co/anime/136270"
+    },
+    "k": {
+      "id": "349",
+      "url": "https://kitsu.io/anime/349"
+    },
+    "mal": {
+      "id": "49329",
+      "url": "https://myanimelist.net/anime/49329"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8034,
+  "slug": "persona-3-the-movie-3-falling-down",
+  "kind": "anime",
+  "title": "PERSONA 3 THE MOVIE: #3 Falling Down",
+  "titles": {
+    "default": "PERSONA 3 THE MOVIE: #3 Falling Down",
+    "romaji": "PERSONA 3 THE MOVIE: #3 Falling Down",
+    "english": "Persona 3 the Movie: #3 Falling Down",
+    "native": "PERSONA3 THE MOVIE —#3 Falling Down—"
+  },
+  "synonyms": [
+    "PERSONA 3 THE MOVIE: #3 Falling Down",
+    "Persona 3 the Movie: #3 Falling Down",
+    "PERSONA3 THE MOVIE —#3 Falling Down—",
+    "Shin Megami Tensei: Persona 3",
+    "P3M",
+    "ペルソナ3",
+    "Persona 3 the Movie 3: Falling Down"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b20737-6FybEDNF0P6u.png"
+  ],
+  "references": {
+    "al": {
+      "id": "20737",
+      "url": "https://anilist.co/anime/20737"
+    },
+    "k": {
+      "id": "8711",
+      "url": "https://kitsu.io/anime/8711"
+    },
+    "mal": {
+      "id": "24543",
+      "url": "https://myanimelist.net/anime/24543"
+    }
+  }
+}

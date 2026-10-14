@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7332,
+  "slug": "sore-ike-anpanman-tobase-kibou-no-handkerchief",
+  "kind": "anime",
+  "title": "Sore Ike! Anpanman: Tobase! Kibou no Handkerchief",
+  "titles": {
+    "default": "Sore Ike! Anpanman: Tobase! Kibou no Handkerchief",
+    "romaji": "Sore Ike! Anpanman: Tobase! Kibou no Handkerchief",
+    "native": "それいけ! アンパンマン とばせ! 希望のハンカチ"
+  },
+  "synonyms": [
+    "Sore Ike! Anpanman: Tobase! Kibou no Handkerchief",
+    "それいけ! アンパンマン とばせ! 希望のハンカチ"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18357.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "18357",
+      "url": "https://anilist.co/anime/18357"
+    },
+    "k": {
+      "id": "9052",
+      "url": "https://kitsu.io/anime/9052"
+    },
+    "mal": {
+      "id": "18357",
+      "url": "https://myanimelist.net/anime/18357"
+    }
+  }
+}

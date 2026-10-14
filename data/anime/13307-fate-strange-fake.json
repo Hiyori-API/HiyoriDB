@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13307,
+  "slug": "fate-strange-fake",
+  "kind": "anime",
+  "title": "Fate/strange Fake",
+  "titles": {
+    "default": "Fate/strange Fake",
+    "romaji": "Fate/strange Fake"
+  },
+  "synonyms": [
+    "Fate/strange Fake",
+    "Судьба/Странная подделка",
+    "El Hazard: The Alternative World",
+    "異次元の世界エルハザード",
+    "Ijigen no Sekai El Hazard",
+    "Ijigen no Sekai El-Hazard"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166617-34fpC9y47tTx.png"
+  ],
+  "references": {
+    "al": {
+      "id": "166617",
+      "url": "https://anilist.co/anime/166617"
+    },
+    "cr": {
+      "id": "series/G4PH0WJQZ/fatestrange-fake",
+      "url": "https://www.crunchyroll.com/series/series/G4PH0WJQZ/fatestrange-fake"
+    },
+    "k": {
+      "id": "94",
+      "url": "https://kitsu.io/anime/94"
+    },
+    "mal": {
+      "id": "55830",
+      "url": "https://myanimelist.net/anime/55830"
+    },
+    "t": {
+      "id": "63711",
+      "url": "https://trakt.tv/shows/63711"
+    },
+    "tx": {
+      "id": "FateSF_Anime_EN",
+      "url": "https://twitter.com/Fate_SF_Anime"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 389,
+  "slug": "stratos-4-advance",
+  "kind": "anime",
+  "title": "Stratos 4 Advance",
+  "titles": {
+    "default": "Stratos 4 Advance",
+    "romaji": "Stratos 4 Advance",
+    "native": "ストラトス・フォー アドヴァンス"
+  },
+  "synonyms": [
+    "Stratos 4 Advance",
+    "ストラトス・フォー アドヴァンス",
+    "UFO Ultramaiden Valkyrie 3: Bride of Celestial Souls' Day",
+    "UFO Princess Valkyrie 3: Seiresetsu no Hanayome",
+    "円盤皇女ワるきゅーレ 星霊節の花嫁",
+    "UFO Ultramaiden Valkyrie 3",
+    "UFO Princess Walküre 3",
+    "UFO Princess Valkyrie Season 3 - Bride of the Stellar Season",
+    "UFO Princess Valkyrie: Bride of Star Spirit Season"
+  ],
+  "type": "ova",
+  "episodes": 6,
+  "status": "finished",
+  "season": "spring",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/423.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "423",
+      "url": "https://anilist.co/anime/423"
+    },
+    "k": {
+      "id": "1359",
+      "url": "https://kitsu.io/anime/1359"
+    },
+    "mal": {
+      "id": "423",
+      "url": "https://myanimelist.net/anime/423"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5831,
+  "slug": "kochira-katsushikaku-kameari-kouenmae-hashutsujo-special-washi-to-ore-bokura-wa-asakusa-shounen-tanteidan",
+  "kind": "anime",
+  "title": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo Special: Washi to Ore!? - Bokura wa Asakusa Shounen Tanteidan!",
+  "titles": {
+    "default": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo Special: Washi to Ore!? - Bokura wa Asakusa Shounen Tanteidan!",
+    "romaji": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo Special: Washi to Ore!? - Bokura wa Asakusa Shounen Tanteidan!",
+    "native": "こちら葛飾区亀有公園前派出所スペシャル ワシと俺！？〜ぼくらは浅草少年探偵団！〜"
+  },
+  "synonyms": [
+    "Kochira Katsushikaku Kameari Kouenmae Hashutsujo Special: Washi to Ore!? - Bokura wa Asakusa Shounen Tanteidan!",
+    "こちら葛飾区亀有公園前派出所スペシャル ワシと俺！？〜ぼくらは浅草少年探偵団！〜",
+    "Kochikame Special 25",
+    "Myself ; Yourself Specials",
+    "マイセルフ；ユアセルフ"
+  ],
+  "type": "special",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b145783-ByGMskbtb04x.png"
+  ],
+  "references": {
+    "al": {
+      "id": "145783",
+      "url": "https://anilist.co/anime/145783"
+    },
+    "k": {
+      "id": "8040",
+      "url": "https://kitsu.io/anime/8040"
+    },
+    "mal": {
+      "id": "33881",
+      "url": "https://myanimelist.net/anime/33881"
+    }
+  }
+}

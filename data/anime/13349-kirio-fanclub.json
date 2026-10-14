@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13349,
+  "slug": "kirio-fanclub",
+  "kind": "anime",
+  "title": "Kirio Fanclub",
+  "titles": {
+    "default": "Kirio Fanclub",
+    "romaji": "Kirio Fanclub",
+    "english": "Kirio Fan Club",
+    "native": "霧尾ファンクラブ"
+  },
+  "synonyms": [
+    "Kirio Fanclub",
+    "Kirio Fan Club",
+    "霧尾ファンクラブ",
+    "KirioFC",
+    "คิริโอะแฟนคลับ",
+    "This Ugly Yet Beautiful World",
+    "Kono Minikuku mo Utsukushii Sekai",
+    "この醜くも美しい世界"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181284-JJafhd5gDT53.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "181284",
+      "url": "https://anilist.co/anime/181284"
+    },
+    "k": {
+      "id": "124",
+      "url": "https://kitsu.io/anime/124"
+    },
+    "mal": {
+      "id": "59835",
+      "url": "https://myanimelist.net/anime/59835"
+    },
+    "t": {
+      "id": "34001",
+      "url": "https://trakt.tv/shows/34001"
+    }
+  }
+}

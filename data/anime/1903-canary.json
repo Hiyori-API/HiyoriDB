@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1903,
+  "slug": "canary",
+  "kind": "anime",
+  "title": "Canary",
+  "titles": {
+    "default": "Canary",
+    "romaji": "Canary",
+    "native": "カナリア"
+  },
+  "synonyms": [
+    "Canary",
+    "カナリア",
+    "Canaria",
+    "Megami Kouhosei Special Curriculum",
+    "女神候補生 スペシャルカリキュラム",
+    "Candidate for Goddess OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2146-1R8J6uxz1dEV.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2146",
+      "url": "https://anilist.co/anime/2146"
+    },
+    "cr": {
+      "id": "pilot-candidate",
+      "url": "https://www.crunchyroll.com/series/pilot-candidate"
+    },
+    "k": {
+      "id": "787",
+      "url": "https://kitsu.io/anime/787"
+    },
+    "mal": {
+      "id": "2146",
+      "url": "https://myanimelist.net/anime/2146"
+    }
+  }
+}

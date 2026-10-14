@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 438,
+  "slug": "macross-plus",
+  "kind": "anime",
+  "title": "Macross Plus",
+  "titles": {
+    "default": "Macross Plus",
+    "romaji": "Macross Plus",
+    "native": "マクロスプラス"
+  },
+  "synonyms": [
+    "Macross Plus",
+    "マクロスプラス"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "summer",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx474-lyjbbltW5ZX4.png"
+  ],
+  "references": {
+    "al": {
+      "id": "474",
+      "url": "https://anilist.co/anime/474"
+    },
+    "k": {
+      "id": "436",
+      "url": "https://kitsu.io/anime/436"
+    },
+    "mal": {
+      "id": "474",
+      "url": "https://myanimelist.net/anime/474"
+    }
+  }
+}

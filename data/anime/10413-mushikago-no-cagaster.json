@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10413,
+  "slug": "mushikago-no-cagaster",
+  "kind": "anime",
+  "title": "Mushikago no Cagaster",
+  "titles": {
+    "default": "Mushikago no Cagaster",
+    "romaji": "Mushikago no Cagaster",
+    "english": "Cagaster of an Insect Cage",
+    "native": "虫籠のカガステル"
+  },
+  "synonyms": [
+    "Mushikago no Cagaster",
+    "Cagaster of an Insect Cage",
+    "虫籠のカガステル",
+    "التحول المدمر",
+    "Black Jack ONA",
+    "ブラック・ジャック(インターネット版)",
+    "Black Jack: Internet-han"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109586-kCEXqdiTMX0j.png"
+  ],
+  "references": {
+    "al": {
+      "id": "109586",
+      "url": "https://anilist.co/anime/109586"
+    },
+    "k": {
+      "id": "4904",
+      "url": "https://kitsu.io/anime/4904"
+    },
+    "mal": {
+      "id": "38663",
+      "url": "https://myanimelist.net/anime/38663"
+    },
+    "nf": {
+      "id": "80224581",
+      "url": "https://www.netflix.com/title/80224581"
+    }
+  }
+}

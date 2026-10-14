@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8873,
+  "slug": "suntory-minami-alps-no-tennen-mizu",
+  "kind": "anime",
+  "title": "Suntory Minami Alps no Tennen Mizu",
+  "titles": {
+    "default": "Suntory Minami Alps no Tennen Mizu",
+    "romaji": "Suntory Minami Alps no Tennen Mizu",
+    "native": "サントリー 南アルプスの天然水"
+  },
+  "synonyms": [
+    "Suntory Minami Alps no Tennen Mizu",
+    "サントリー 南アルプスの天然水",
+    "Kimi no Na wa.",
+    "Your Name.",
+    "SUNTORY × Kimi no Na wa.",
+    "Chou Henshin Cosprayers Specials",
+    "超変身コス∞プレイヤー"
+  ],
+  "type": "special",
+  "episodes": 3,
+  "status": "finished",
+  "season": "summer",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/97962-3rBcawJt63sG.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "97962",
+      "url": "https://anilist.co/anime/97962"
+    },
+    "k": {
+      "id": "687",
+      "url": "https://kitsu.io/anime/687"
+    },
+    "mal": {
+      "id": "33902",
+      "url": "https://myanimelist.net/anime/33902"
+    }
+  }
+}

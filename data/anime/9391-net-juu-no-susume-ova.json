@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9391,
+  "slug": "net-juu-no-susume-ova",
+  "kind": "anime",
+  "title": "Net-juu no Susume OVA",
+  "titles": {
+    "default": "Net-juu no Susume OVA",
+    "romaji": "Net-juu no Susume OVA",
+    "english": "Recovery of an MMO Junkie OVA",
+    "native": "ネト充のススメ OVA"
+  },
+  "synonyms": [
+    "Net-juu no Susume OVA",
+    "Recovery of an MMO Junkie OVA",
+    "ネト充のススメ OVA",
+    "Neto-juu no Susume OVA",
+    "Netojuu no Susume OVA",
+    "Recommendation of the Wonderful Virtual Life OVA",
+    "Recommendation of The Internet Enhancement OVA",
+    "Netoju OVA",
+    "Recovery of an MMO Junkie Episode 11",
+    "Neto-juu no Susume Episode 11",
+    "Neko Para OVA",
+    "ネコぱらOVA",
+    "Nekopara OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx100684-dTFSHninTMEg.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "100684",
+      "url": "https://anilist.co/anime/100684"
+    },
+    "cr": {
+      "id": "recovery-of-an-mmo-junkie/episode-11-recovery-of-an-mmo-junkie-moriko-logs-in-to-fruits-de-mer-749543",
+      "url": "https://www.crunchyroll.com/series/recovery-of-an-mmo-junkie/episode-11-recovery-of-an-mmo-junkie-moriko-logs-in-to-fruits-de-mer-749543"
+    },
+    "mal": {
+      "id": "36043",
+      "url": "https://myanimelist.net/anime/36043"
+    },
+    "tx": {
+      "id": "netoju_anime",
+      "url": "https://twitter.com/netoju_anime"
+    }
+  }
+}

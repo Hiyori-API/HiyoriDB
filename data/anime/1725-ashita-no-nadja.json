@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1725,
+  "slug": "ashita-no-nadja",
+  "kind": "anime",
+  "title": "Ashita no Nadja",
+  "titles": {
+    "default": "Ashita no Nadja",
+    "romaji": "Ashita no Nadja",
+    "native": "明日のナージャ"
+  },
+  "synonyms": [
+    "Ashita no Nadja",
+    "明日のナージャ",
+    "Tomorrow's Nadja",
+    "Nadja del mañana"
+  ],
+  "type": "tv",
+  "episodes": 50,
+  "status": "finished",
+  "season": "winter",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1946-MLn2pjGSGhHJ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1946",
+      "url": "https://anilist.co/anime/1946"
+    },
+    "k": {
+      "id": "1754",
+      "url": "https://kitsu.io/anime/1754"
+    },
+    "mal": {
+      "id": "1946",
+      "url": "https://myanimelist.net/anime/1946"
+    },
+    "t": {
+      "id": "34672",
+      "url": "https://trakt.tv/shows/34672"
+    }
+  }
+}

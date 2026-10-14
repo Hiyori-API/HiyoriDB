@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1680,
+  "slug": "zettai-muteki-raijin-ou",
+  "kind": "anime",
+  "title": "Zettai Muteki Raijin Ou",
+  "titles": {
+    "default": "Zettai Muteki Raijin Ou",
+    "romaji": "Zettai Muteki Raijin Ou",
+    "english": "Matchless Raijin-Oh",
+    "native": "絶対無敵ライジンオー"
+  },
+  "synonyms": [
+    "Zettai Muteki Raijin Ou",
+    "Matchless Raijin-Oh",
+    "絶対無敵ライジンオー",
+    "Zettai Muteki Raijin-Oh",
+    "Eldran series #1"
+  ],
+  "type": "tv",
+  "episodes": 51,
+  "status": "finished",
+  "season": "spring",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1897-LQFfKxgpTIzM.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1897",
+      "url": "https://anilist.co/anime/1897"
+    },
+    "k": {
+      "id": "1707",
+      "url": "https://kitsu.io/anime/1707"
+    },
+    "mal": {
+      "id": "1897",
+      "url": "https://myanimelist.net/anime/1897"
+    },
+    "t": {
+      "id": "71960",
+      "url": "https://trakt.tv/shows/71960"
+    }
+  }
+}

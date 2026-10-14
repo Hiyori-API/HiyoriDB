@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14109,
+  "slug": "ga-rei",
+  "kind": "manga",
+  "title": "Ga-Rei",
+  "titles": {
+    "default": "Ga-Rei"
+  },
+  "synonyms": [
+    "The Enchained Spiritual Beast Ga-Rei",
+    "喰霊",
+    "Renai Soukanzu",
+    "恋愛相姦図",
+    "Renai Sokanzu",
+    "Pink Sweets"
+  ],
+  "type": "manga",
+  "chapters": 52,
+  "volumes": 12,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx31102-zqZRMIYPBBSw.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4725",
+      "url": "https://anilist.co/anime/4725"
+    },
+    "al_manga": {
+      "id": "4725",
+      "url": "https://anilist.co/manga/4725"
+    }
+  }
+}

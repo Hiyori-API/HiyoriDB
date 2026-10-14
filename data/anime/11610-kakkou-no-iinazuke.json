@@ -1,0 +1,63 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11610,
+  "slug": "kakkou-no-iinazuke",
+  "kind": "anime",
+  "title": "Kakkou no Iinazuke",
+  "titles": {
+    "default": "Kakkou no Iinazuke",
+    "romaji": "Kakkou no Iinazuke",
+    "english": "A Couple of Cuckoos",
+    "native": "カッコウの許嫁"
+  },
+  "synonyms": [
+    "Kakkou no Iinazuke",
+    "A Couple of Cuckoos",
+    "カッコウの許嫁",
+    "รักอลวนคนสลับบ้าน",
+    "Обручённые кукушками",
+    "Honey and Clover",
+    "Hachimitsu to Clover",
+    "ハチミツとクローバー",
+    "HachiKuro",
+    "Honey & Clover"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "spring",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132052-3gDTi19HyW6E.png"
+  ],
+  "references": {
+    "al": {
+      "id": "132052",
+      "url": "https://anilist.co/anime/132052"
+    },
+    "cr": {
+      "id": "series/GXJHM39MP/a-couple-of-cuckoos",
+      "url": "https://www.crunchyroll.com/series/series/GXJHM39MP/a-couple-of-cuckoos"
+    },
+    "k": {
+      "id": "7",
+      "url": "https://kitsu.io/anime/7"
+    },
+    "mal": {
+      "id": "48675",
+      "url": "https://myanimelist.net/anime/48675"
+    },
+    "nf": {
+      "id": "81594245",
+      "url": "https://www.netflix.com/title/81594245"
+    },
+    "t": {
+      "id": "35263",
+      "url": "https://trakt.tv/shows/35263"
+    },
+    "tx": {
+      "id": "cuckoo_anime",
+      "url": "https://twitter.com/cuckoo_anime"
+    }
+  }
+}

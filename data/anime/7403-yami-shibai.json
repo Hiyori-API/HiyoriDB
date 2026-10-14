@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7403,
+  "slug": "yami-shibai",
+  "kind": "anime",
+  "title": "Yami Shibai",
+  "titles": {
+    "default": "Yami Shibai",
+    "romaji": "Yami Shibai",
+    "english": "Theatre of Darkness: Yamishibai",
+    "native": "闇芝居"
+  },
+  "synonyms": [
+    "Yami Shibai",
+    "Theatre of Darkness: Yamishibai",
+    "闇芝居",
+    "Yamishibai: Japanese Ghost Stories",
+    "เรื่องเล่าผีญี่ปุ่น",
+    "Love Lab",
+    "恋愛ラボ",
+    "Renai Lab"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b19383-vmpqTraCFNRg.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "19383",
+      "url": "https://anilist.co/anime/19383"
+    },
+    "cr": {
+      "id": "yamishibai-japanese-ghost-stories",
+      "url": "https://www.crunchyroll.com/series/yamishibai-japanese-ghost-stories"
+    },
+    "k": {
+      "id": "7410",
+      "url": "https://kitsu.io/anime/7410"
+    },
+    "mal": {
+      "id": "19383",
+      "url": "https://myanimelist.net/anime/19383"
+    },
+    "t": {
+      "id": "70755",
+      "url": "https://trakt.tv/shows/70755"
+    },
+    "tvt": {
+      "id": "yamishibai",
+      "url": "http://www.tv-tokyo.co.jp/anime/yamishibai"
+    }
+  }
+}

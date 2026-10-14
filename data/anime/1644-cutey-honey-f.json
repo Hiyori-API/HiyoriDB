@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1644,
+  "slug": "cutey-honey-f",
+  "kind": "anime",
+  "title": "Cutey Honey F",
+  "titles": {
+    "default": "Cutey Honey F",
+    "romaji": "Cutey Honey F",
+    "native": "キューティーハニーＦ"
+  },
+  "synonyms": [
+    "Cutey Honey F",
+    "キューティーハニーＦ",
+    "Cutie Honey F",
+    "Cutey Honey Flash",
+    "キューティーハニーＦ（ﾌﾗｯｼｭ）",
+    "큐티하니 플래쉬"
+  ],
+  "type": "tv",
+  "episodes": 39,
+  "status": "finished",
+  "season": "winter",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1853-8if6LddqJIHO.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1853",
+      "url": "https://anilist.co/anime/1853"
+    },
+    "k": {
+      "id": "1670",
+      "url": "https://kitsu.io/anime/1670"
+    },
+    "mal": {
+      "id": "1853",
+      "url": "https://myanimelist.net/anime/1853"
+    }
+  }
+}

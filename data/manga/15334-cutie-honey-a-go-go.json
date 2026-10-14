@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15334,
+  "slug": "cutie-honey-a-go-go",
+  "kind": "manga",
+  "title": "Cutie Honey a Go Go!",
+  "titles": {
+    "default": "Cutie Honey a Go Go!"
+  },
+  "synonyms": [
+    "Cutey Honey aGoGo!",
+    "Cutie Honey a Go Go!",
+    "キューティーハニー aGoGo!",
+    "Tsubasa RESERVoir CHRoNiCLE",
+    "Tsubasa: RESERVoir CHRoNiCLE",
+    "ツバサ -RESERVoir CHRoNiCLE-",
+    "TRC"
+  ],
+  "type": "manga",
+  "chapters": 10,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx46942-yzktB9pPhc97.png"
+  ],
+  "references": {
+    "al": {
+      "id": "151",
+      "url": "https://anilist.co/anime/151"
+    },
+    "al_manga": {
+      "id": "151",
+      "url": "https://anilist.co/manga/151"
+    }
+  }
+}

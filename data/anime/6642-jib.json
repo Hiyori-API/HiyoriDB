@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6642,
+  "slug": "jib",
+  "kind": "anime",
+  "title": "Jib",
+  "titles": {
+    "default": "Jib",
+    "romaji": "Jib",
+    "native": "집"
+  },
+  "synonyms": [
+    "Jib",
+    "집",
+    "The House",
+    "Treasure Hunting",
+    "Takara-sagashi",
+    "たからさがし",
+    "Treasure Hunt"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17233.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "17233",
+      "url": "https://anilist.co/anime/17233"
+    },
+    "k": {
+      "id": "6697",
+      "url": "https://kitsu.io/anime/6697"
+    },
+    "mal": {
+      "id": "17233",
+      "url": "https://myanimelist.net/anime/17233"
+    }
+  }
+}

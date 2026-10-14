@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11624,
+  "slug": "love-live-nijigasaki-gakuen-school-idol-doukoukai-2",
+  "kind": "anime",
+  "title": "Love Live! Nijigasaki Gakuen School Idol Doukoukai 2",
+  "titles": {
+    "default": "Love Live! Nijigasaki Gakuen School Idol Doukoukai 2",
+    "romaji": "Love Live! Nijigasaki Gakuen School Idol Doukoukai 2",
+    "english": "Love Live! Nijigasaki High School Idol Club Season 2",
+    "native": "ラブライブ！虹ヶ咲学園スクールアイドル同好会 2"
+  },
+  "synonyms": [
+    "Love Live! Nijigasaki Gakuen School Idol Doukoukai 2",
+    "Love Live! Nijigasaki High School Idol Club Season 2",
+    "ラブライブ！虹ヶ咲学園スクールアイドル同好会 2",
+    "เลิฟไลฟ์ ชมรมสคูลไอดอลนิจิกะซากิ ภาค 2",
+    "Лав Лайв! Клуб айдолов академии Нидзигасаки 2",
+    "Love Live! Nijigasaki High School Idol Club 2nd Season",
+    "ラブライブ! 虹ヶ咲学園スクールアイドル同好会",
+    "Love Live! Nijigasaki Gakuen School Idol Doukoukai 2nd Season"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx133891-VzjX5rquZqd0.png"
+  ],
+  "references": {
+    "al": {
+      "id": "133891",
+      "url": "https://anilist.co/anime/133891"
+    },
+    "cr": {
+      "id": "love-live-nijigasaki-high-school-idol-club",
+      "url": "https://www.crunchyroll.com/series/love-live-nijigasaki-high-school-idol-club"
+    },
+    "mal": {
+      "id": "48916",
+      "url": "https://myanimelist.net/anime/48916"
+    },
+    "tx": {
+      "id": "LoveLive_staff",
+      "url": "https://twitter.com/LoveLive_staff"
+    }
+  }
+}

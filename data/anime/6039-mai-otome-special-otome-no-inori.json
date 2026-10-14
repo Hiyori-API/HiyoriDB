@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6039,
+  "slug": "mai-otome-special-otome-no-inori",
+  "kind": "anime",
+  "title": "Mai-Otome Special: Otome no Inori",
+  "titles": {
+    "default": "Mai-Otome Special: Otome no Inori",
+    "romaji": "Mai-Otome Special: Otome no Inori",
+    "native": "舞-乙HiME"
+  },
+  "synonyms": [
+    "Mai-Otome Special: Otome no Inori",
+    "舞-乙HiME",
+    "Mai-Otome Picture Drama"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8518.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8518",
+      "url": "https://anilist.co/anime/8518"
+    },
+    "k": {
+      "id": "5368",
+      "url": "https://kitsu.io/anime/5368"
+    },
+    "mal": {
+      "id": "8518",
+      "url": "https://myanimelist.net/anime/8518"
+    }
+  }
+}

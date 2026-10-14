@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13995,
+  "slug": "shingetsutan-tsukihime",
+  "kind": "manga",
+  "title": "Shingetsutan Tsukihime",
+  "titles": {
+    "default": "Shingetsutan Tsukihime"
+  },
+  "synonyms": [
+    "True Lunar Chronicle Tsukihime",
+    "Lunar Legend Chronicles",
+    "진월담 월희",
+    "Lunar Legend Tsukihime",
+    "真月譚 月姫",
+    "Shingetsutan Tsukihime"
+  ],
+  "type": "manga",
+  "chapters": 75,
+  "volumes": 10,
+  "status": "finished",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30705-SoAVZ3WsyoB5.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "169",
+      "url": "https://anilist.co/anime/169"
+    },
+    "al_manga": {
+      "id": "169",
+      "url": "https://anilist.co/manga/169"
+    }
+  }
+}

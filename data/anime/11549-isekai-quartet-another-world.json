@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11549,
+  "slug": "isekai-quartet-another-world",
+  "kind": "anime",
+  "title": "Isekai Quartet: Another World",
+  "titles": {
+    "default": "Isekai Quartet: Another World",
+    "romaji": "Isekai Quartet: Another World",
+    "english": "Isekai Quartet The Movie: Another World",
+    "native": "異世界かるてっと ～あなざーわーるど～"
+  },
+  "synonyms": [
+    "Isekai Quartet: Another World",
+    "Isekai Quartet The Movie: Another World",
+    "異世界かるてっと ～あなざーわーるど～",
+    "Magical Circle Guru Guru Movie",
+    "Mahoujin Guru Guru Movie",
+    "魔法陣グルグル",
+    "The Pickle of Happiness"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx117074-kgucq8a1ZeOw.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "117074",
+      "url": "https://anilist.co/anime/117074"
+    },
+    "cr": {
+      "id": "isekai-quartet",
+      "url": "https://www.crunchyroll.com/series/isekai-quartet"
+    },
+    "k": {
+      "id": "710",
+      "url": "https://kitsu.io/anime/710"
+    },
+    "mal": {
+      "id": "41567",
+      "url": "https://myanimelist.net/anime/41567"
+    },
+    "tx": {
+      "id": "isekai_quartet",
+      "url": "https://twitter.com/isekai_quartet"
+    }
+  }
+}

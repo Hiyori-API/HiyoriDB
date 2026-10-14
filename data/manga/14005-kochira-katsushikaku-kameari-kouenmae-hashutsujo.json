@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14005,
+  "slug": "kochira-katsushikaku-kameari-kouenmae-hashutsujo",
+  "kind": "manga",
+  "title": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo",
+  "titles": {
+    "default": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo"
+  },
+  "synonyms": [
+    "Kochira Katsushika-ku Kamearikouen-mae Hashutsujo",
+    "Kochikame",
+    "This is the Police Station in Front of Kameari Park in Katsushika Ward",
+    "Kochikame: Aquí la comisaría de enfrente del parque Kameari, distrito de Katsushika",
+    "こちら葛飾区亀有公園前派出所",
+    "Kochira Katsushikaku Kameari Kouenmae Hashutsujo",
+    "Robot Santapei"
+  ],
+  "type": "manga",
+  "chapters": 1968,
+  "volumes": 203,
+  "status": "finished",
+  "year": 1976,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx30733-QmyPwBhjbgyX.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "204361",
+      "url": "https://anilist.co/anime/3545"
+    },
+    "al_manga": {
+      "id": "204361",
+      "url": "https://anilist.co/manga/204361"
+    }
+  }
+}

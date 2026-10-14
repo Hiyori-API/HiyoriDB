@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3995,
+  "slug": "dokonjou-gaeru",
+  "kind": "anime",
+  "title": "Dokonjou Gaeru",
+  "titles": {
+    "default": "Dokonjou Gaeru",
+    "romaji": "Dokonjou Gaeru",
+    "english": "The Gutsy Frog",
+    "native": "ど根性ガエル"
+  },
+  "synonyms": [
+    "Dokonjou Gaeru",
+    "The Gutsy Frog",
+    "ど根性ガエル",
+    "Frog With Guts!",
+    "La Rana Raponchi",
+    "La Rana Valiente",
+    "Hiroshi y Raponchi",
+    "Dokonjo Gaeru"
+  ],
+  "type": "tv",
+  "episodes": 103,
+  "status": "finished",
+  "season": "fall",
+  "year": 1972,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5618-y1q6PqL5uRuc.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5618",
+      "url": "https://anilist.co/anime/5618"
+    },
+    "k": {
+      "id": "4204",
+      "url": "https://kitsu.io/anime/4204"
+    },
+    "mal": {
+      "id": "5618",
+      "url": "https://myanimelist.net/anime/5618"
+    }
+  }
+}

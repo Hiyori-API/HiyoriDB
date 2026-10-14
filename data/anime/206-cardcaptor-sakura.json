@@ -1,0 +1,64 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 206,
+  "slug": "cardcaptor-sakura",
+  "kind": "anime",
+  "title": "Cardcaptor Sakura",
+  "titles": {
+    "default": "Cardcaptor Sakura",
+    "romaji": "Cardcaptor Sakura",
+    "native": "カードキャプターさくら"
+  },
+  "synonyms": [
+    "Cardcaptor Sakura",
+    "カードキャプターさくら",
+    "CCS",
+    "Cardcaptors",
+    "Card Captor Sakura",
+    "Card Captors",
+    "Sakura, Cazadora de Cartas",
+    "Sakura, la Caçadora de Cartes",
+    "카드캡터 체리",
+    "魔卡少女樱",
+    "Pesca la tua carta, Sakura",
+    "סאקורה לוכדת הקלפים",
+    "Οι Περιπέτειες της Νίκης",
+    "Sakura, a Caçadora de Cartas",
+    "ซากุระ มือปราบไพ่ทาโรต์",
+    "Sakura, Chasseuse de Cartes"
+  ],
+  "type": "tv",
+  "episodes": 70,
+  "status": "finished",
+  "season": "spring",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx232-ERyKCNNPJJeh.png"
+  ],
+  "references": {
+    "al": {
+      "id": "232",
+      "url": "https://anilist.co/anime/232"
+    },
+    "cr": {
+      "id": "cardcaptor-sakura",
+      "url": "https://www.crunchyroll.com/series/cardcaptor-sakura"
+    },
+    "k": {
+      "id": "207",
+      "url": "https://kitsu.io/anime/207"
+    },
+    "mal": {
+      "id": "232",
+      "url": "https://myanimelist.net/anime/232"
+    },
+    "nf": {
+      "id": "70309056",
+      "url": "https://www.netflix.com/title/70309056"
+    },
+    "t": {
+      "id": "35636",
+      "url": "https://trakt.tv/shows/35636"
+    }
+  }
+}

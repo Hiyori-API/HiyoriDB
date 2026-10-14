@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11122,
+  "slug": "kamen-rider-zero-one-everyone-s-daily-life",
+  "kind": "anime",
+  "title": "Kamen Rider Zero-One: EVERYONE'S DAILY LIFE",
+  "titles": {
+    "default": "Kamen Rider Zero-One: EVERYONE'S DAILY LIFE",
+    "romaji": "Kamen Rider Zero-One: EVERYONE'S DAILY LIFE",
+    "native": "仮面ライダーゼロワン EVERYONE'S DAILY LIFE"
+  },
+  "synonyms": [
+    "Kamen Rider Zero-One: EVERYONE'S DAILY LIFE",
+    "仮面ライダーゼロワン EVERYONE'S DAILY LIFE",
+    "Kamen Rider Zero-One Short Anime",
+    "仮面ライダーゼロワン ショートアニメ EVERYONE’S DAILY LIFE",
+    "Kamen Rider Zero-One: Short Anime - Everyone's Daily Life"
+  ],
+  "type": "ona",
+  "episodes": 5,
+  "status": "finished",
+  "season": "summer",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121592-kFwbOab16RSM.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "121592",
+      "url": "https://anilist.co/anime/121592"
+    },
+    "mal": {
+      "id": "42491",
+      "url": "https://myanimelist.net/anime/42491"
+    }
+  }
+}

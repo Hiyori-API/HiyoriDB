@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4394,
+  "slug": "chinyuuki-tarou-to-yukai-na-nakama-tachi",
+  "kind": "anime",
+  "title": "Chinyuuki: Tarou to Yukai na Nakama-tachi",
+  "titles": {
+    "default": "Chinyuuki: Tarou to Yukai na Nakama-tachi",
+    "romaji": "Chinyuuki: Tarou to Yukai na Nakama-tachi",
+    "native": "珍遊記　～太郎とゆかいな仲間たち～"
+  },
+  "synonyms": [
+    "Chinyuuki: Tarou to Yukai na Nakama-tachi",
+    "珍遊記　～太郎とゆかいな仲間たち～",
+    "Utsurun Desu.",
+    "伝染るんです。",
+    "Utsurundesu."
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "summer",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6687.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6687",
+      "url": "https://anilist.co/anime/6687"
+    },
+    "k": {
+      "id": "4599",
+      "url": "https://kitsu.io/anime/4599"
+    },
+    "mal": {
+      "id": "6687",
+      "url": "https://myanimelist.net/anime/6687"
+    }
+  }
+}

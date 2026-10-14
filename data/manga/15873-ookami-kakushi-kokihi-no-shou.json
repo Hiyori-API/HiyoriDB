@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15873,
+  "slug": "ookami-kakushi-kokihi-no-shou",
+  "kind": "manga",
+  "title": "Ookami Kakushi: Kokihi no Shou",
+  "titles": {
+    "default": "Ookami Kakushi: Kokihi no Shou"
+  },
+  "synonyms": [
+    "Ookami Kakushi: Fukahi no Shou",
+    "Wolfed Away ~Deep Scarlet Chapter~",
+    "Ookamikakushi: Kokihi no Shou",
+    "おおかみかくし ～深緋の章～",
+    "Simple Knot Loafers",
+    "シンプルノットローファー",
+    "Shinpuru Notto Rofa",
+    "Shinpuru Notto Roofaa",
+    "Simple Not Loafer"
+  ],
+  "type": "manga",
+  "chapters": 15,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx48815-qU3Kmgw26O7t.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7079",
+      "url": "https://anilist.co/anime/7079"
+    },
+    "al_manga": {
+      "id": "7079",
+      "url": "https://anilist.co/manga/7079"
+    }
+  }
+}

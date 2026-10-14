@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 605,
+  "slug": "touhai-densetsu-akagi-yami-ni-maiorita-tensai",
+  "kind": "anime",
+  "title": "Touhai Densetsu Akagi: Yami ni Maiorita Tensai",
+  "titles": {
+    "default": "Touhai Densetsu Akagi: Yami ni Maiorita Tensai",
+    "romaji": "Touhai Densetsu Akagi: Yami ni Maiorita Tensai",
+    "english": "Akagi",
+    "native": "闘牌伝説アカギ 闇に舞い降りた天才"
+  },
+  "synonyms": [
+    "Touhai Densetsu Akagi: Yami ni Maiorita Tensai",
+    "Akagi",
+    "闘牌伝説アカギ 闇に舞い降りた天才",
+    "Mahjong Legend Akagi: The Genius Who Descended Into the Darkness",
+    "闘牌伝説アカギ　闇に舞い降りた天才",
+    "The Legend of Mahjong: Akagi"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx658-vfMTeXswhOzl.png"
+  ],
+  "references": {
+    "al": {
+      "id": "658",
+      "url": "https://anilist.co/anime/658"
+    },
+    "cr": {
+      "id": "akagi",
+      "url": "https://www.crunchyroll.com/series/akagi"
+    },
+    "k": {
+      "id": "605",
+      "url": "https://kitsu.io/anime/605"
+    },
+    "mal": {
+      "id": "658",
+      "url": "https://myanimelist.net/anime/658"
+    },
+    "t": {
+      "id": "42651",
+      "url": "https://trakt.tv/shows/42651"
+    }
+  }
+}

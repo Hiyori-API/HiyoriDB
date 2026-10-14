@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4954,
+  "slug": "norakuro-kun",
+  "kind": "anime",
+  "title": "Norakuro-kun",
+  "titles": {
+    "default": "Norakuro-kun",
+    "romaji": "Norakuro-kun",
+    "native": "のらくろクン"
+  },
+  "synonyms": [
+    "Norakuro-kun",
+    "のらくろクン",
+    "Little Norakuro"
+  ],
+  "type": "tv",
+  "episodes": 50,
+  "status": "finished",
+  "season": "fall",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16393-0RMHnSnSV1WV.png"
+  ],
+  "references": {
+    "al": {
+      "id": "16393",
+      "url": "https://anilist.co/anime/16393"
+    },
+    "k": {
+      "id": "7419",
+      "url": "https://kitsu.io/anime/7419"
+    },
+    "mal": {
+      "id": "16393",
+      "url": "https://myanimelist.net/anime/16393"
+    }
+  }
+}

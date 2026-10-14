@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9975,
+  "slug": "chihayafuru-3",
+  "kind": "anime",
+  "title": "Chihayafuru 3",
+  "titles": {
+    "default": "Chihayafuru 3",
+    "romaji": "Chihayafuru 3",
+    "native": "ちはやふる 3"
+  },
+  "synonyms": [
+    "Chihayafuru 3",
+    "ちはやふる 3",
+    "Chihayafull 3"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "fall",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101215-8TTRNAYJnPMW.png"
+  ],
+  "references": {
+    "al": {
+      "id": "101215",
+      "url": "https://anilist.co/anime/101215"
+    },
+    "cr": {
+      "id": "chihayafuru",
+      "url": "https://www.crunchyroll.com/series/chihayafuru"
+    },
+    "mal": {
+      "id": "37379",
+      "url": "https://myanimelist.net/anime/37379"
+    },
+    "tx": {
+      "id": "chihaya_anime",
+      "url": "https://twitter.com/chihaya_anime"
+    }
+  }
+}

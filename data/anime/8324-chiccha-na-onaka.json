@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8324,
+  "slug": "chiccha-na-onaka",
+  "kind": "anime",
+  "title": "Chiccha na Onaka",
+  "titles": {
+    "default": "Chiccha na Onaka",
+    "romaji": "Chiccha na Onaka",
+    "native": "ちっちゃなおなか"
+  },
+  "synonyms": [
+    "Chiccha na Onaka",
+    "ちっちゃなおなか",
+    "Chicchana Onaka",
+    "Yona: The girl standing in the blush of dawn",
+    "Akatsuki no Yona: Sono Se ni wa",
+    "Akatsuki no Yona: Zeno-hen",
+    "Yona of the Dawn OVA",
+    "暁のヨナ",
+    "Akatsuki no Yona OVA"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "fall",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21333-nPB91LTCpnyG.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21333",
+      "url": "https://anilist.co/anime/21333"
+    },
+    "mal": {
+      "id": "31740",
+      "url": "https://myanimelist.net/anime/31740"
+    }
+  }
+}

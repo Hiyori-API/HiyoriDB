@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13971,
+  "slug": "rec",
+  "kind": "manga",
+  "title": "Rec",
+  "titles": {
+    "default": "Rec"
+  },
+  "synonyms": [
+    "Rec: Yume no Kiroku",
+    "Silver Street Romance",
+    "レック",
+    "●Rec",
+    "●REC",
+    "Gin no Machi Romantic"
+  ],
+  "type": "manga",
+  "chapters": 124,
+  "volumes": 16,
+  "status": "finished",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30663-8JXKq5BVU1BZ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "710",
+      "url": "https://anilist.co/anime/710"
+    },
+    "al_manga": {
+      "id": "710",
+      "url": "https://anilist.co/manga/710"
+    }
+  }
+}

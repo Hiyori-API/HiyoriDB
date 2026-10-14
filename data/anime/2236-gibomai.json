@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2236,
+  "slug": "gibomai",
+  "kind": "anime",
+  "title": "Gibomai",
+  "titles": {
+    "default": "Gibomai",
+    "romaji": "Gibomai",
+    "native": "犠母妹"
+  },
+  "synonyms": [
+    "Gibomai",
+    "犠母妹",
+    "Step Sister",
+    "Stepsister",
+    "I''s",
+    "フロムアイズ ～もうひとつの夏の物語～",
+    "From I''s",
+    "I''s OVA",
+    "Aizu",
+    "From I\"s"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2531.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2531",
+      "url": "https://anilist.co/anime/2531"
+    },
+    "k": {
+      "id": "969",
+      "url": "https://kitsu.io/anime/969"
+    },
+    "mal": {
+      "id": "2531",
+      "url": "https://myanimelist.net/anime/2531"
+    }
+  }
+}

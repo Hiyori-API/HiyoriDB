@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11937,
+  "slug": "human-bug-daigaku",
+  "kind": "anime",
+  "title": "Human Bug Daigaku",
+  "titles": {
+    "default": "Human Bug Daigaku",
+    "romaji": "Human Bug Daigaku",
+    "english": "The Human Crazy University",
+    "native": "ヒューマンバグ大学"
+  },
+  "synonyms": [
+    "Human Bug Daigaku",
+    "The Human Crazy University",
+    "ヒューマンバグ大学",
+    "Ring ni Kakero 1",
+    "リングにかけろ１",
+    "Put it all in the Ring"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154545-V8HOiDY7keu0.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "154545",
+      "url": "https://anilist.co/anime/154545"
+    },
+    "cr": {
+      "id": "series/G0XHWM5GQ/the-human-crazy-university",
+      "url": "https://www.crunchyroll.com/series/series/G0XHWM5GQ/the-human-crazy-university"
+    },
+    "k": {
+      "id": "14",
+      "url": "https://kitsu.io/anime/14"
+    },
+    "mal": {
+      "id": "53012",
+      "url": "https://myanimelist.net/anime/53012"
+    },
+    "t": {
+      "id": "69507",
+      "url": "https://trakt.tv/shows/69507"
+    },
+    "tx": {
+      "id": "humanbug_anime",
+      "url": "https://twitter.com/humanbug_anime"
+    }
+  }
+}

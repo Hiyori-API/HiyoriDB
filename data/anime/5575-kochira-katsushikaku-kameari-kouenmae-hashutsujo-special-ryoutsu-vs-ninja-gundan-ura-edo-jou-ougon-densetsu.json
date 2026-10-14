@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5575,
+  "slug": "kochira-katsushikaku-kameari-kouenmae-hashutsujo-special-ryoutsu-vs-ninja-gundan-ura-edo-jou-ougon-densetsu",
+  "kind": "anime",
+  "title": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo Special: Ryoutsu VS Ninja Gundan! Ura Edo-jou Ougon Densetsu",
+  "titles": {
+    "default": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo Special: Ryoutsu VS Ninja Gundan! Ura Edo-jou Ougon Densetsu",
+    "romaji": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo Special: Ryoutsu VS Ninja Gundan! Ura Edo-jou Ougon Densetsu",
+    "native": "こちら葛飾区亀有公園前派出所スペシャル 両津VS忍者軍団！裏江戸城黄金伝説"
+  },
+  "synonyms": [
+    "Kochira Katsushikaku Kameari Kouenmae Hashutsujo Special: Ryoutsu VS Ninja Gundan! Ura Edo-jou Ougon Densetsu",
+    "こちら葛飾区亀有公園前派出所スペシャル 両津VS忍者軍団！裏江戸城黄金伝説",
+    "Kochikame Special 13",
+    "Full Moon wo Sagashite: Kawaii Kawaii Daibouken",
+    "かわいい かわいい 大冒険",
+    "Full Moon wo Sagashite: Cute Cute Big Adventure",
+    "Searching for the Full Moon: Cute Cute Adventure",
+    "Full Moon wo Sagashite: Cute Cute Adventure"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b145771-XWlv50RBakRm.png"
+  ],
+  "references": {
+    "al": {
+      "id": "145771",
+      "url": "https://anilist.co/anime/145771"
+    },
+    "k": {
+      "id": "1797",
+      "url": "https://kitsu.io/anime/1797"
+    },
+    "mal": {
+      "id": "1996",
+      "url": "https://myanimelist.net/anime/1996"
+    }
+  }
+}

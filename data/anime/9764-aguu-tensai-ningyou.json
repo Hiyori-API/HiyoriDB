@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9764,
+  "slug": "aguu-tensai-ningyou",
+  "kind": "anime",
+  "title": "Aguu: Tensai Ningyou",
+  "titles": {
+    "default": "Aguu: Tensai Ningyou",
+    "romaji": "Aguu: Tensai Ningyou",
+    "english": "Aguu: Genius Dolls",
+    "native": "悪偶 -天才人形-"
+  },
+  "synonyms": [
+    "Aguu: Tensai Ningyou",
+    "Aguu: Genius Dolls",
+    "悪偶 -天才人形-",
+    "天才玩偶",
+    "High Score Girl",
+    "ハイスコアガール",
+    "Hi Score Girl"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101631-pLnusY8Mee42.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101631",
+      "url": "https://anilist.co/anime/101631"
+    },
+    "k": {
+      "id": "8158",
+      "url": "https://kitsu.io/anime/8158"
+    },
+    "mal": {
+      "id": "37769",
+      "url": "https://myanimelist.net/anime/37769"
+    },
+    "nf": {
+      "id": "80997338",
+      "url": "https://www.netflix.com/title/80997338"
+    },
+    "tx": {
+      "id": "aguu_anime",
+      "url": "https://twitter.com/aguu_anime"
+    }
+  }
+}

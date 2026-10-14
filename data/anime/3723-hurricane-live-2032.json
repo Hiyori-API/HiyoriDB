@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3723,
+  "slug": "hurricane-live-2032",
+  "kind": "anime",
+  "title": "Hurricane Live! 2032",
+  "titles": {
+    "default": "Hurricane Live! 2032",
+    "romaji": "Hurricane Live! 2032",
+    "native": "バブルガムクライシス Hurricane Live! 2032"
+  },
+  "synonyms": [
+    "Hurricane Live! 2032",
+    "バブルガムクライシス Hurricane Live! 2032",
+    "Bubblegum Crisis: Hurricane Live! (1988 version)"
+  ],
+  "type": "special",
+  "episodes": 6,
+  "status": "finished",
+  "season": "spring",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx5043-nhhbQHxgt87C.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5043",
+      "url": "https://anilist.co/anime/5043"
+    },
+    "k": {
+      "id": "3902",
+      "url": "https://kitsu.io/anime/3902"
+    },
+    "mal": {
+      "id": "5043",
+      "url": "https://myanimelist.net/anime/5043"
+    }
+  }
+}

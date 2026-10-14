@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14243,
+  "slug": "ribbon-no-kishi",
+  "kind": "manga",
+  "title": "Ribbon no Kishi",
+  "titles": {
+    "default": "Ribbon no Kishi"
+  },
+  "synonyms": [
+    "Princesse Saphir",
+    "Ribbon Knight",
+    "La Princesa Caballero",
+    "A Princesa e O Cavaleiro",
+    "Princess Knight",
+    "リボンの騎士",
+    "Ribbon no Kishi"
+  ],
+  "type": "manga",
+  "chapters": 27,
+  "volumes": 3,
+  "status": "finished",
+  "year": 1953,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b31676-ReKRBqwbdml1.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "211308",
+      "url": "https://anilist.co/anime/3024"
+    },
+    "al_manga": {
+      "id": "211308",
+      "url": "https://anilist.co/manga/211308"
+    }
+  }
+}

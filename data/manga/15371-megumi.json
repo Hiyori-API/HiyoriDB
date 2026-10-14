@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15371,
+  "slug": "megumi",
+  "kind": "manga",
+  "title": "Megumi",
+  "titles": {
+    "default": "Megumi"
+  },
+  "synonyms": [
+    "Megumi: Documentary Manga on Abductions by North Korea",
+    "Megumi",
+    "めぐみ",
+    "Railroad",
+    "레일로드"
+  ],
+  "type": "manga",
+  "chapters": 14,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/7006.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4187",
+      "url": "https://anilist.co/anime/4187"
+    },
+    "al_manga": {
+      "id": "4187",
+      "url": "https://anilist.co/manga/4187"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 997,
+  "slug": "junkers-come-here",
+  "kind": "anime",
+  "title": "Junkers Come Here",
+  "titles": {
+    "default": "Junkers Come Here",
+    "romaji": "Junkers Come Here",
+    "native": "ユンカース・カム・ヒア"
+  },
+  "synonyms": [
+    "Junkers Come Here",
+    "ユンカース・カム・ヒア",
+    "Yookasu Come Here",
+    "Junkers Come Home",
+    "Dragon Ball Z Movie 12: Fusion Reborn",
+    "Dragon Ball Z Movie 12: Fukkatsu no Fusion!! Gokuu to Vegeta",
+    "ドラゴンボールＺ 復活のフュージョン!!悟空とベジータ",
+    "Dragon Ball Z: Revival Fusion",
+    "Dragon Ball Z: The Rebirth of Fusion!! Goku and Vegeta"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1116-hoHyyuyGEAVm.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1116",
+      "url": "https://anilist.co/anime/1116"
+    },
+    "cr": {
+      "id": "series/GQWH0M1GG/dragon-ball-z-movies",
+      "url": "https://www.crunchyroll.com/series/series/GQWH0M1GG/dragon-ball-z-movies"
+    },
+    "k": {
+      "id": "805",
+      "url": "https://kitsu.io/anime/805"
+    },
+    "mal": {
+      "id": "1116",
+      "url": "https://myanimelist.net/anime/1116"
+    }
+  }
+}

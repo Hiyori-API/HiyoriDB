@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9857,
+  "slug": "monster-strike-the-animation",
+  "kind": "anime",
+  "title": "Monster Strike The Animation",
+  "titles": {
+    "default": "Monster Strike The Animation",
+    "romaji": "Monster Strike The Animation",
+    "native": "アニメ モンスターストライク"
+  },
+  "synonyms": [
+    "Monster Strike The Animation",
+    "アニメ モンスターストライク",
+    "Anime Monster Strike",
+    "モンストアニメ",
+    "Monster Strike the Animation",
+    "モンスターストライク The Animation"
+  ],
+  "type": "ona",
+  "episodes": 64,
+  "status": "finished",
+  "season": "summer",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104188-9DVTT1TVRnzn.png"
+  ],
+  "references": {
+    "al": {
+      "id": "104188",
+      "url": "https://anilist.co/anime/104188"
+    },
+    "cr": {
+      "id": "monster-strike",
+      "url": "https://www.crunchyroll.com/series/monster-strike"
+    },
+    "mal": {
+      "id": "38022",
+      "url": "https://myanimelist.net/anime/38022"
+    },
+    "tx": {
+      "id": "monst_animation",
+      "url": "https://twitter.com/monst_animation"
+    }
+  }
+}

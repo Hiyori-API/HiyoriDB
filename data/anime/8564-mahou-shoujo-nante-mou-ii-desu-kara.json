@@ -1,0 +1,61 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8564,
+  "slug": "mahou-shoujo-nante-mou-ii-desu-kara",
+  "kind": "anime",
+  "title": "Mahou Shoujo Nante Mou Ii desu kara.",
+  "titles": {
+    "default": "Mahou Shoujo Nante Mou Ii desu kara.",
+    "romaji": "Mahou Shoujo Nante Mou Ii desu kara.",
+    "english": "Mahou Shoujo Nante Mouiidesukara",
+    "native": "魔法少女なんてもういいですから。"
+  },
+  "synonyms": [
+    "Mahou Shoujo Nante Mou Ii desu kara.",
+    "Mahou Shoujo Nante Mouiidesukara",
+    "魔法少女なんてもういいですから。",
+    "Mahoii",
+    "I've Had Enough of Being a Magical Girl",
+    "Durarara!!x2 Ketsu",
+    "Durarara!! x2 Ketsu",
+    "デュラララ!!×2 結"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21422-jbHQOtmJKft5.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21422",
+      "url": "https://anilist.co/anime/21422"
+    },
+    "cr": {
+      "id": "mahou-shoujo-nante-mouiidesukara",
+      "url": "https://www.crunchyroll.com/series/mahou-shoujo-nante-mouiidesukara"
+    },
+    "k": {
+      "id": "9725",
+      "url": "https://kitsu.io/anime/9725"
+    },
+    "mal": {
+      "id": "31793",
+      "url": "https://myanimelist.net/anime/31793"
+    },
+    "nf": {
+      "id": "80047029",
+      "url": "https://www.netflix.com/title/80047029"
+    },
+    "t": {
+      "id": "42187",
+      "url": "https://trakt.tv/shows/42187"
+    },
+    "tx": {
+      "id": "mouii_desukara",
+      "url": "https://twitter.com/mouii_desukara"
+    }
+  }
+}

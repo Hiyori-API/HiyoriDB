@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5673,
+  "slug": "fantastic-children-special",
+  "kind": "anime",
+  "title": "Fantastic Children Special",
+  "titles": {
+    "default": "Fantastic Children Special",
+    "romaji": "Fantastic Children Special",
+    "native": "ファンタジックチルドレン"
+  },
+  "synonyms": [
+    "Fantastic Children Special",
+    "ファンタジックチルドレン",
+    "Fantastic Children Extended Ending",
+    "Fantastic Children Alternate Ending",
+    "Ah! My Buddha Special",
+    "Amaenaide yo!!: Yasumanaide yo!!",
+    "あまえないでよっ!!: 休まないでよっ!!",
+    "Amaenaide yo!! Special"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15159.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "15159",
+      "url": "https://anilist.co/anime/15159"
+    },
+    "k": {
+      "id": "1569",
+      "url": "https://kitsu.io/anime/1569"
+    },
+    "mal": {
+      "id": "15159",
+      "url": "https://myanimelist.net/anime/15159"
+    }
+  }
+}

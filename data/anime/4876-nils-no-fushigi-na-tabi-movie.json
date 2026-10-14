@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4876,
+  "slug": "nils-no-fushigi-na-tabi-movie",
+  "kind": "anime",
+  "title": "Nils no Fushigi na Tabi: Movie",
+  "titles": {
+    "default": "Nils no Fushigi na Tabi: Movie",
+    "romaji": "Nils no Fushigi na Tabi: Movie",
+    "english": "The Wonderful Adventures of Nils Movie",
+    "native": "ニルスのふしぎな旅 劇場版"
+  },
+  "synonyms": [
+    "Nils no Fushigi na Tabi: Movie",
+    "The Wonderful Adventures of Nils Movie",
+    "ニルスのふしぎな旅 劇場版",
+    "The Wonderful Adventures of Nils: The Film",
+    "Nils Holgerssons forunderlige reise",
+    "Angel's Egg",
+    "Tenshi no Tamago",
+    "天使のたまご"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx7664-sjQHEZpAJoEk.png"
+  ],
+  "references": {
+    "al": {
+      "id": "7664",
+      "url": "https://anilist.co/anime/7664"
+    },
+    "k": {
+      "id": "785",
+      "url": "https://kitsu.io/anime/785"
+    },
+    "mal": {
+      "id": "7664",
+      "url": "https://myanimelist.net/anime/7664"
+    }
+  }
+}

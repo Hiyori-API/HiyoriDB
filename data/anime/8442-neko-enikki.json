@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8442,
+  "slug": "neko-enikki",
+  "kind": "anime",
+  "title": "Neko Enikki",
+  "titles": {
+    "default": "Neko Enikki",
+    "romaji": "Neko Enikki",
+    "native": "猫絵日記"
+  },
+  "synonyms": [
+    "Neko Enikki",
+    "猫絵日記",
+    "Picture Diary of Cat Lover",
+    "Who Was Born into a Family of Cat Haters",
+    "Living With Cats",
+    "Nekokirai no Ie ni Umareta Nekosuki ga Neko to Kurashi Enikki",
+    "Wagnaria!!3",
+    "Working!!!",
+    "ワーキング!!!",
+    "Working!! 3rd Season",
+    "Working!! Third Season"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115197-835EPG2EcTPi.png"
+  ],
+  "references": {
+    "al": {
+      "id": "115197",
+      "url": "https://anilist.co/anime/115197"
+    },
+    "k": {
+      "id": "8712",
+      "url": "https://kitsu.io/anime/8712"
+    },
+    "mal": {
+      "id": "31361",
+      "url": "https://myanimelist.net/anime/31361"
+    },
+    "t": {
+      "id": "61012",
+      "url": "https://trakt.tv/shows/61012"
+    }
+  }
+}

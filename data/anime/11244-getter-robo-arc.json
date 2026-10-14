@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11244,
+  "slug": "getter-robo-arc",
+  "kind": "anime",
+  "title": "Getter Robo Arc",
+  "titles": {
+    "default": "Getter Robo Arc",
+    "romaji": "Getter Robo Arc",
+    "native": "ゲッターロボ アーク"
+  },
+  "synonyms": [
+    "Getter Robo Arc",
+    "ゲッターロボ アーク",
+    "The Curtain Rises",
+    "Opera Girl!",
+    "Kageki Shojo!!",
+    "かげきしょうじょ!!",
+    "Kageki Shoujo!!"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx125640-RghOmQmgKzWi.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "125640",
+      "url": "https://anilist.co/anime/125640"
+    },
+    "mal": {
+      "id": "43741",
+      "url": "https://myanimelist.net/anime/43741"
+    },
+    "tx": {
+      "id": "getterrobot_arc",
+      "url": "https://twitter.com/getterrobot_arc"
+    }
+  }
+}

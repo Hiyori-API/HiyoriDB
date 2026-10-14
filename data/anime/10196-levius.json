@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10196,
+  "slug": "levius",
+  "kind": "anime",
+  "title": "Levius",
+  "titles": {
+    "default": "Levius",
+    "romaji": "Levius",
+    "native": "レビウス"
+  },
+  "synonyms": [
+    "Levius",
+    "レビウス",
+    "ليفيوس",
+    "Levius -レビウス-"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108598-RGcBgF8J7fec.png"
+  ],
+  "references": {
+    "al": {
+      "id": "108598",
+      "url": "https://anilist.co/anime/108598"
+    },
+    "mal": {
+      "id": "39574",
+      "url": "https://myanimelist.net/anime/39574"
+    },
+    "nf": {
+      "id": "80156799",
+      "url": "https://www.netflix.com/title/80156799"
+    }
+  }
+}

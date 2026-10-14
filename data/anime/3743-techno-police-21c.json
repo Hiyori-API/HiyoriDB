@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3743,
+  "slug": "techno-police-21c",
+  "kind": "anime",
+  "title": "Techno Police 21C",
+  "titles": {
+    "default": "Techno Police 21C",
+    "romaji": "Techno Police 21C",
+    "english": "Techno Police",
+    "native": "テクノポリス21C"
+  },
+  "synonyms": [
+    "Techno Police 21C",
+    "Techno Police",
+    "テクノポリス21C",
+    "The Robots are The... Technopolice"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1982,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx5090-1mG04H6qTLoh.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5090",
+      "url": "https://anilist.co/anime/5090"
+    },
+    "k": {
+      "id": "3925",
+      "url": "https://kitsu.io/anime/3925"
+    },
+    "mal": {
+      "id": "5090",
+      "url": "https://myanimelist.net/anime/5090"
+    }
+  }
+}

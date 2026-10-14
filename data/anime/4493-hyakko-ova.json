@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4493,
+  "slug": "hyakko-ova",
+  "kind": "anime",
+  "title": "Hyakko OVA",
+  "titles": {
+    "default": "Hyakko OVA",
+    "romaji": "Hyakko OVA",
+    "native": "ヒャッコOVA"
+  },
+  "synonyms": [
+    "Hyakko OVA",
+    "ヒャッコOVA",
+    "Hyakko Extra"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6958.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6958",
+      "url": "https://anilist.co/anime/6958"
+    },
+    "k": {
+      "id": "4807",
+      "url": "https://kitsu.io/anime/4807"
+    },
+    "mal": {
+      "id": "6958",
+      "url": "https://myanimelist.net/anime/6958"
+    }
+  }
+}

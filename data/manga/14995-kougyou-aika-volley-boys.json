@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14995,
+  "slug": "kougyou-aika-volley-boys",
+  "kind": "manga",
+  "title": "Kougyou Aika Volley Boys",
+  "titles": {
+    "default": "Kougyou Aika Volley Boys"
+  },
+  "synonyms": [
+    "Kougyouaika Volleyboys",
+    "工業哀歌バレーボーイズ",
+    "Four Steps to Romance",
+    "Romance Godan Katsuyou",
+    "ろまんす五段活用",
+    "Romantic Princess"
+  ],
+  "type": "manga",
+  "chapters": 545,
+  "volumes": 50,
+  "status": "finished",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx147131-LirKymIwY4AS.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "126071",
+      "url": "https://anilist.co/anime/126071"
+    },
+    "al_manga": {
+      "id": "126071",
+      "url": "https://anilist.co/manga/126071"
+    }
+  }
+}

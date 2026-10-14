@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 639,
+  "slug": "kanon-kazahana",
+  "kind": "anime",
+  "title": "Kanon: Kazahana",
+  "titles": {
+    "default": "Kanon: Kazahana",
+    "romaji": "Kanon: Kazahana",
+    "native": "カノン 風花"
+  },
+  "synonyms": [
+    "Kanon: Kazahana",
+    "カノン 風花",
+    "Kanon: Wind Flower",
+    "Papillon Rose OVA",
+    "Lingerie Senshi Papillon Rose",
+    "ランジェリー戦士パピヨンローゼ",
+    "Lingerie Soldier Papillon Rose"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx704-Szb9OaoyahU7.png"
+  ],
+  "references": {
+    "al": {
+      "id": "704",
+      "url": "https://anilist.co/anime/704"
+    },
+    "k": {
+      "id": "1796",
+      "url": "https://kitsu.io/anime/1796"
+    },
+    "mal": {
+      "id": "704",
+      "url": "https://myanimelist.net/anime/704"
+    }
+  }
+}

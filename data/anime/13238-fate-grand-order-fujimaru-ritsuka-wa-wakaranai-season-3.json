@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13238,
+  "slug": "fate-grand-order-fujimaru-ritsuka-wa-wakaranai-season-3",
+  "kind": "anime",
+  "title": "Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai Season 3",
+  "titles": {
+    "default": "Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai Season 3",
+    "romaji": "Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai Season 3",
+    "english": "Fate/Grand Order: You've Lost Ritsuka Fujimaru Season 3",
+    "native": "Fate/Grand Order 藤丸立香はわからない Season3"
+  },
+  "synonyms": [
+    "Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai Season 3",
+    "Fate/Grand Order: You've Lost Ritsuka Fujimaru Season 3",
+    "Fate/Grand Order 藤丸立香はわからない Season3",
+    "Fate/Grand Order: Fujimaru Ritsuka Doesn't Get It Season 3"
+  ],
+  "type": "ona",
+  "episodes": 24,
+  "status": "finished",
+  "season": "summer",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b197094-PrIYsM8fZ3bT.png"
+  ],
+  "references": {
+    "al": {
+      "id": "197094",
+      "url": "https://anilist.co/anime/197094"
+    },
+    "mal": {
+      "id": "62149",
+      "url": "https://myanimelist.net/anime/62149"
+    }
+  }
+}

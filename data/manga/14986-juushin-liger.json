@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14986,
+  "slug": "juushin-liger",
+  "kind": "manga",
+  "title": "Juushin Liger",
+  "titles": {
+    "default": "Juushin Liger"
+  },
+  "synonyms": [
+    "獣神ライガー",
+    "Four Steps to Romance",
+    "Romance Godan Katsuyou",
+    "ろまんす五段活用",
+    "Romantic Princess"
+  ],
+  "type": "manga",
+  "volumes": 2,
+  "status": "finished",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx56034-9zDwAXiXL4yN.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4119",
+      "url": "https://anilist.co/anime/4119"
+    },
+    "al_manga": {
+      "id": "4119",
+      "url": "https://anilist.co/manga/4119"
+    }
+  }
+}

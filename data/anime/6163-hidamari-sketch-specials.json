@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6163,
+  "slug": "hidamari-sketch-specials",
+  "kind": "anime",
+  "title": "Hidamari Sketch × ☆☆☆ Specials",
+  "titles": {
+    "default": "Hidamari Sketch × ☆☆☆ Specials",
+    "romaji": "Hidamari Sketch × ☆☆☆ Specials",
+    "english": "Hidamari Sketch x Hoshimittsu Specials",
+    "native": "ひだまりスケッチ × ☆☆☆ Specials"
+  },
+  "synonyms": [
+    "Hidamari Sketch × ☆☆☆ Specials",
+    "Hidamari Sketch x Hoshimittsu Specials",
+    "ひだまりスケッチ × ☆☆☆ Specials",
+    "Hidamari Sketch x ☆☆☆ Tokubetsu-hen",
+    "Hidamari Sketch x Hoshi Mittsu",
+    "Hidamari Sketch x ☆☆☆ Specials",
+    "ひだまりスケッチ×☆☆☆"
+  ],
+  "type": "special",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9563-v7KaiqWpmPU0.png"
+  ],
+  "references": {
+    "al": {
+      "id": "9563",
+      "url": "https://anilist.co/anime/9563"
+    },
+    "k": {
+      "id": "5793",
+      "url": "https://kitsu.io/anime/5793"
+    },
+    "mal": {
+      "id": "9563",
+      "url": "https://myanimelist.net/anime/9563"
+    }
+  }
+}

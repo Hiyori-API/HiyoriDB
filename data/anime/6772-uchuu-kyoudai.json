@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6772,
+  "slug": "uchuu-kyoudai",
+  "kind": "anime",
+  "title": "Uchuu Kyoudai",
+  "titles": {
+    "default": "Uchuu Kyoudai",
+    "romaji": "Uchuu Kyoudai",
+    "english": "Space Brothers",
+    "native": "宇宙兄弟"
+  },
+  "synonyms": [
+    "Uchuu Kyoudai",
+    "Space Brothers",
+    "宇宙兄弟",
+    "Uchu Kyodai",
+    "Space Bros",
+    "Uchuu Kyodai"
+  ],
+  "type": "tv",
+  "episodes": 99,
+  "status": "finished",
+  "season": "spring",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12431-vL6wmxLsTzzS.png"
+  ],
+  "references": {
+    "al": {
+      "id": "12431",
+      "url": "https://anilist.co/anime/12431"
+    },
+    "cr": {
+      "id": "space-brothers",
+      "url": "https://www.crunchyroll.com/series/space-brothers"
+    },
+    "k": {
+      "id": "6729",
+      "url": "https://kitsu.io/anime/6729"
+    },
+    "mal": {
+      "id": "12431",
+      "url": "https://myanimelist.net/anime/12431"
+    },
+    "t": {
+      "id": "44961",
+      "url": "https://trakt.tv/shows/44961"
+    }
+  }
+}

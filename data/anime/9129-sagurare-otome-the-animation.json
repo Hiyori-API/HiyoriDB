@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9129,
+  "slug": "sagurare-otome-the-animation",
+  "kind": "anime",
+  "title": "Sagurare Otome THE ANIMATION",
+  "titles": {
+    "default": "Sagurare Otome THE ANIMATION",
+    "romaji": "Sagurare Otome THE ANIMATION",
+    "native": "サグラレ堕メ THE ANIMATION"
+  },
+  "synonyms": [
+    "Sagurare Otome THE ANIMATION",
+    "サグラレ堕メ THE ANIMATION",
+    "Amanchu! OVA",
+    "Amanchu Episode 13",
+    "Amanchu! Episode 13: The Story of the Promised Summer and New Memories",
+    "あまんちゅ！約束の夏と新しい思い出のコト",
+    "Amanchu!: Yakusoku no Natsu to Atarashii Omoide no Koto"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/97911-c6lN9eiTP0qD.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "97911",
+      "url": "https://anilist.co/anime/97911"
+    },
+    "mal": {
+      "id": "34491",
+      "url": "https://myanimelist.net/anime/34491"
+    }
+  }
+}

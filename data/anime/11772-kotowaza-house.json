@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11772,
+  "slug": "kotowaza-house",
+  "kind": "anime",
+  "title": "Kotowaza House",
+  "titles": {
+    "default": "Kotowaza House",
+    "romaji": "Kotowaza House",
+    "native": "ことわざハウス"
+  },
+  "synonyms": [
+    "Kotowaza House",
+    "ことわざハウス"
+  ],
+  "type": "tv",
+  "episodes": 773,
+  "status": "finished",
+  "season": "spring",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20117.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "20117",
+      "url": "https://anilist.co/anime/20117"
+    },
+    "k": {
+      "id": "9404",
+      "url": "https://kitsu.io/anime/9404"
+    },
+    "mal": {
+      "id": "20117",
+      "url": "https://myanimelist.net/anime/20117"
+    }
+  }
+}

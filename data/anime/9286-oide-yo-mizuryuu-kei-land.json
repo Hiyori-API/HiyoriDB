@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9286,
+  "slug": "oide-yo-mizuryuu-kei-land",
+  "kind": "anime",
+  "title": "Oide yo! Mizuryuu Kei Land",
+  "titles": {
+    "default": "Oide yo! Mizuryuu Kei Land",
+    "romaji": "Oide yo! Mizuryuu Kei Land",
+    "native": "おいでよ! 水龍敬ランド"
+  },
+  "synonyms": [
+    "Oide yo! Mizuryuu Kei Land",
+    "おいでよ! 水龍敬ランド",
+    "Oideyo! Mizuryuu Kei Land",
+    "Come here! Mizuryuu Kei Land",
+    "Gravitation: Lyrics of Love",
+    "グラビテーション"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98769-cgwAYgZgaTJV.png"
+  ],
+  "references": {
+    "al": {
+      "id": "98769",
+      "url": "https://anilist.co/anime/98769"
+    },
+    "k": {
+      "id": "466",
+      "url": "https://kitsu.io/anime/466"
+    },
+    "mal": {
+      "id": "35581",
+      "url": "https://myanimelist.net/anime/35581"
+    }
+  }
+}

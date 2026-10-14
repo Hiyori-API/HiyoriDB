@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5661,
+  "slug": "3tsu-no-kumo",
+  "kind": "anime",
+  "title": "3tsu no Kumo",
+  "titles": {
+    "default": "3tsu no Kumo",
+    "romaji": "3tsu no Kumo",
+    "english": "Trilogy about Clouds",
+    "native": "３つの雲"
+  },
+  "synonyms": [
+    "3tsu no Kumo",
+    "Trilogy about Clouds",
+    "３つの雲",
+    "Mittsu no Kumo",
+    "Trilogy about Cloud",
+    "3-tsu no Kumo"
+  ],
+  "type": "movie",
+  "episodes": 3,
+  "status": "finished",
+  "season": "summer",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7809.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7809",
+      "url": "https://anilist.co/anime/7809"
+    },
+    "k": {
+      "id": "5130",
+      "url": "https://kitsu.io/anime/5130"
+    },
+    "mal": {
+      "id": "7809",
+      "url": "https://myanimelist.net/anime/7809"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2201,
+  "slug": "takahashi-rumiko-anthology",
+  "kind": "anime",
+  "title": "Takahashi Rumiko Anthology",
+  "titles": {
+    "default": "Takahashi Rumiko Anthology",
+    "romaji": "Takahashi Rumiko Anthology",
+    "native": "高橋留美子劇場"
+  },
+  "synonyms": [
+    "Takahashi Rumiko Anthology",
+    "高橋留美子劇場",
+    "Takahashi Rumiko Gekijou",
+    "Rumic Theater",
+    "Rumiko Takahashi Theater",
+    "Rumic World TV",
+    "Ikki Tousen",
+    "Ikkitousen",
+    "一騎当千",
+    "Ikki-Tosen: Legendary Fighter",
+    "Battle Vixens"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2486.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2486",
+      "url": "https://anilist.co/anime/2486"
+    },
+    "cr": {
+      "id": "series/G24H1NZXD/ikki-tousen",
+      "url": "https://www.crunchyroll.com/series/series/G24H1NZXD/ikki-tousen"
+    },
+    "k": {
+      "id": "232",
+      "url": "https://kitsu.io/anime/232"
+    },
+    "mal": {
+      "id": "2486",
+      "url": "https://myanimelist.net/anime/2486"
+    },
+    "t": {
+      "id": "37426",
+      "url": "https://trakt.tv/shows/37426"
+    }
+  }
+}

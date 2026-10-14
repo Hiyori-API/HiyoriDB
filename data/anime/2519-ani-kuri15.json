@@ -1,0 +1,65 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2519,
+  "slug": "ani-kuri15",
+  "kind": "anime",
+  "title": "Ani*Kuri15",
+  "titles": {
+    "default": "Ani*Kuri15",
+    "romaji": "Ani*Kuri15",
+    "native": "アニ＊クリ15"
+  },
+  "synonyms": [
+    "Ani*Kuri15",
+    "アニ＊クリ15",
+    "Ani Kuri 15",
+    "Ani-Kuri 15",
+    "Anikuri 15",
+    "Attack of Higashimachi Ni Chome",
+    "Attack of Higashimachi 2nd Burough",
+    "Namida no Mukou",
+    "From the Other Side of the Tears",
+    "Hyotoko",
+    "Blaze Man",
+    "Sancha Blues",
+    "The Aromatic Tea Blues",
+    "Uchujin Raikou Hiroshi no Baai",
+    "Invasion from Space - Hiroshi's Case",
+    "Project Mermaid",
+    "\"yurururu\" ~Nichijou Hen~",
+    "Gyrosopter",
+    "Sport Captain Episode No.18: Assassin Descended from the Mountain Hunt!!",
+    "Wandaba Kiss",
+    "Neko no Shuukai",
+    "A Gathering of Cats",
+    "Onmitsu Hime",
+    "Okkakekko",
+    "Project Omega",
+    "Ohayou",
+    "Good Morning",
+    "Ohayo",
+    "Ani*Cre15"
+  ],
+  "type": "special",
+  "episodes": 15,
+  "status": "finished",
+  "season": "spring",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2832-XXrQ4JlYsX0f.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2832",
+      "url": "https://anilist.co/anime/2832"
+    },
+    "k": {
+      "id": "2586",
+      "url": "https://kitsu.io/anime/2586"
+    },
+    "mal": {
+      "id": "2832",
+      "url": "https://myanimelist.net/anime/2832"
+    }
+  }
+}

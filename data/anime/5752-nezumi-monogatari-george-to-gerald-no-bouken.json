@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5752,
+  "slug": "nezumi-monogatari-george-to-gerald-no-bouken",
+  "kind": "anime",
+  "title": "Nezumi Monogatari: George to Gerald no Bouken",
+  "titles": {
+    "default": "Nezumi Monogatari: George to Gerald no Bouken",
+    "romaji": "Nezumi Monogatari: George to Gerald no Bouken",
+    "native": "ねずみ物語 ジョージとジェラルドの冒険"
+  },
+  "synonyms": [
+    "Nezumi Monogatari: George to Gerald no Bouken",
+    "ねずみ物語 ジョージとジェラルドの冒険",
+    "Mouse Story: The Adventures of George and Gerald"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9789-tfBflETadtCG.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9789",
+      "url": "https://anilist.co/anime/9789"
+    },
+    "k": {
+      "id": "5868",
+      "url": "https://kitsu.io/anime/5868"
+    },
+    "mal": {
+      "id": "9789",
+      "url": "https://myanimelist.net/anime/9789"
+    }
+  }
+}

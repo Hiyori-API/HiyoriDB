@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14733,
+  "slug": "mazinger-z",
+  "kind": "manga",
+  "title": "Mazinger Z",
+  "titles": {
+    "default": "Mazinger Z"
+  },
+  "synonyms": [
+    "Mazinger Z",
+    "マジンガーZ",
+    "Onward Towards Our Noble Deaths",
+    "Souin Gyokusai seyo!",
+    "総員玉砕せよ！",
+    "The Banzai! Charge",
+    "Operation Death",
+    "Opération Mort",
+    "Let us all die honorably!"
+  ],
+  "type": "manga",
+  "chapters": 12,
+  "volumes": 6,
+  "status": "finished",
+  "year": 1973,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx129528-ZyX9iBuuuiyy.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2253",
+      "url": "https://anilist.co/anime/2253"
+    },
+    "al_manga": {
+      "id": "2253",
+      "url": "https://anilist.co/manga/2253"
+    }
+  }
+}

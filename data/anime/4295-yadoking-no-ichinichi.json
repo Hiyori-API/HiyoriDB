@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4295,
+  "slug": "yadoking-no-ichinichi",
+  "kind": "anime",
+  "title": "Yadoking no Ichinichi",
+  "titles": {
+    "default": "Yadoking no Ichinichi",
+    "romaji": "Yadoking no Ichinichi",
+    "native": "ヤドキングのいちにち"
+  },
+  "synonyms": [
+    "Yadoking no Ichinichi",
+    "ヤドキングのいちにち",
+    "Pocket Monsters: Yadoking no Ichinichi",
+    "Slowking's Day",
+    "Pokemon: Slowking's Day",
+    "Pokemon: Yadoking no Ichinichi",
+    "ポケットモンスター ヤドキングのいちにち",
+    "Pocket Monsters: Slowking no Ichinichi"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6385.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6385",
+      "url": "https://anilist.co/anime/6385"
+    },
+    "k": {
+      "id": "4543",
+      "url": "https://kitsu.io/anime/4543"
+    },
+    "mal": {
+      "id": "6385",
+      "url": "https://myanimelist.net/anime/6385"
+    }
+  }
+}

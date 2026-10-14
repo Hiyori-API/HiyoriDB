@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13718,
+  "slug": "houkago-no-idol-ni-wa-himitsu-ga-aru",
+  "kind": "anime",
+  "title": "Houkago no Idol ni wa Himitsu ga Aru",
+  "titles": {
+    "default": "Houkago no Idol ni wa Himitsu ga Aru",
+    "romaji": "Houkago no Idol ni wa Himitsu ga Aru",
+    "english": "Everyone’s Darling Has a Secret",
+    "native": "放課後のアイドルには秘密がある"
+  },
+  "synonyms": [
+    "Houkago no Idol ni wa Himitsu ga Aru",
+    "Everyone’s Darling Has a Secret",
+    "放課後のアイドルには秘密がある",
+    "Sudden Death",
+    "Sadon Desu",
+    "さどんです"
+  ],
+  "type": "tv",
+  "status": "to_be_aired",
+  "season": "spring",
+  "year": 2027,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217457-6ULbOL7Wg4pU.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "217457",
+      "url": "https://anilist.co/anime/217457"
+    },
+    "cr": {
+      "id": "",
+      "url": "https://www.crunchyroll.com/series/"
+    },
+    "k": {
+      "id": "8275",
+      "url": "https://kitsu.io/anime/8275"
+    },
+    "mal": {
+      "id": "65080",
+      "url": "https://myanimelist.net/anime/65080"
+    }
+  }
+}

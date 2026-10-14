@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8538,
+  "slug": "hundred",
+  "kind": "anime",
+  "title": "Hundred",
+  "titles": {
+    "default": "Hundred",
+    "romaji": "Hundred",
+    "native": "ハンドレッド"
+  },
+  "synonyms": [
+    "Hundred",
+    "ハンドレッド",
+    "ฮันเดรด",
+    "Tanaka-kun is Always Listless",
+    "田中くんはいつもけだるげ",
+    "Tanaka-kun wa Itsumo Kedaruge"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21362-7YZq4TZ112Il.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21362",
+      "url": "https://anilist.co/anime/21362"
+    },
+    "cr": {
+      "id": "hundred",
+      "url": "https://www.crunchyroll.com/series/hundred"
+    },
+    "mal": {
+      "id": "31338",
+      "url": "https://myanimelist.net/anime/31338"
+    },
+    "tx": {
+      "id": "hundred_PR",
+      "url": "https://twitter.com/hundred_PR"
+    }
+  }
+}

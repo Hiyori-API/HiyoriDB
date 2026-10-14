@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11275,
+  "slug": "100-man-no-inochi-no-ue-ni-ore-wa-tatteiru-2nd-season",
+  "kind": "anime",
+  "title": "100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season",
+  "titles": {
+    "default": "100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season",
+    "romaji": "100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season",
+    "english": "I'm Standing on a Million Lives Season 2",
+    "native": "100万の命の上に俺は立っている 第2シーズン"
+  },
+  "synonyms": [
+    "100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season",
+    "I'm Standing on a Million Lives Season 2",
+    "100万の命の上に俺は立っている 第2シーズン",
+    "I'm standing on 1,000,000 lives. Season 2",
+    "ข้าก้าวผ่าน 1 ล้านชีวิตเพื่อพิชิตเกมมรณะ ภาค 2",
+    "Tôi Gánh Trên Vai Một Triệu Sinh Mạng S2",
+    "Tensura 2",
+    "That Time I Got Reincarnated as a Slime Season 2 Part 2",
+    "転生したらスライムだった件",
+    "Tensei shitara Slime Datta Ken 2nd Season Part 2"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx127366-nQRRRvVbPIDt.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "127366",
+      "url": "https://anilist.co/anime/127366"
+    },
+    "cr": {
+      "id": "im-standing-on-a-million-lives",
+      "url": "https://www.crunchyroll.com/series/im-standing-on-a-million-lives"
+    },
+    "mal": {
+      "id": "44881",
+      "url": "https://myanimelist.net/anime/44881"
+    },
+    "tx": {
+      "id": "mlives_anime",
+      "url": "https://twitter.com/1000000_lives"
+    }
+  }
+}

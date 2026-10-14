@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12605,
+  "slug": "harimaware-koinu",
+  "kind": "anime",
+  "title": "Harimaware! Koinu",
+  "titles": {
+    "default": "Harimaware! Koinu",
+    "romaji": "Harimaware! Koinu",
+    "native": "貼りまわれ！こいぬ"
+  },
+  "synonyms": [
+    "Harimaware! Koinu",
+    "貼りまわれ！こいぬ",
+    "Stick it around! KOINU",
+    "A Sign of Affection",
+    "ゆびさきと恋々",
+    "Yubisaki to Renren"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2024,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169291-0100fuVsTZVD.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "169291",
+      "url": "https://anilist.co/anime/169291"
+    },
+    "mal": {
+      "id": "57012",
+      "url": "https://myanimelist.net/anime/57012"
+    },
+    "tx": {
+      "id": "hari_koinuPR",
+      "url": "https://twitter.com/hari_koinuPR"
+    }
+  }
+}

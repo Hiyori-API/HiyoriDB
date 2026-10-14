@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5801,
+  "slug": "ice-movie",
+  "kind": "anime",
+  "title": "ICE (Movie)",
+  "titles": {
+    "default": "ICE (Movie)",
+    "romaji": "ICE (Movie)",
+    "native": "ICE"
+  },
+  "synonyms": [
+    "ICE (Movie)",
+    "ICE",
+    "Ice Gekijouban",
+    "ICE - The last Generation Movie",
+    "Project Ice Movie",
+    "Ice Movie",
+    "ICE 劇場版",
+    "ICE: The last Generation Movie"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9053.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9053",
+      "url": "https://anilist.co/anime/9053"
+    },
+    "k": {
+      "id": "5587",
+      "url": "https://kitsu.io/anime/5587"
+    },
+    "mal": {
+      "id": "9053",
+      "url": "https://myanimelist.net/anime/9053"
+    }
+  }
+}

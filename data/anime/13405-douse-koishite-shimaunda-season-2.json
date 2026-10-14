@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13405,
+  "slug": "douse-koishite-shimaunda-season-2",
+  "kind": "anime",
+  "title": "Douse, Koishite Shimaunda. Season 2",
+  "titles": {
+    "default": "Douse, Koishite Shimaunda. Season 2",
+    "romaji": "Douse, Koishite Shimaunda. Season 2",
+    "english": "Anyway, I'm Falling in Love with You. Season 2",
+    "native": "どうせ、恋してしまうんだ。Season 2"
+  },
+  "synonyms": [
+    "Douse, Koishite Shimaunda. Season 2",
+    "Anyway, I'm Falling in Love with You. Season 2",
+    "どうせ、恋してしまうんだ。Season 2",
+    "恋しま 2",
+    "Koishima 2",
+    "ทำไงได้ ก็คนมันรักไปแล้ว ซีซัน 2",
+    "'Tis Time for \"Torture,\" Princess Season 2",
+    "姫様“拷問”の時間です 第2期",
+    "Himesama \"Goumon\" no Jikan desu 2nd Season"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189137-cCXaEiX0bJb4.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "189137",
+      "url": "https://anilist.co/anime/189137"
+    },
+    "cr": {
+      "id": "series/GJ0H7QGGM/anyway-im-falling-in-love-with-you",
+      "url": "https://www.crunchyroll.com/series/series/GJ0H7QGGM/anyway-im-falling-in-love-with-you"
+    },
+    "mal": {
+      "id": "61325",
+      "url": "https://myanimelist.net/anime/61325"
+    }
+  }
+}

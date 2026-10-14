@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6740,
+  "slug": "mahou-shoujo-madoka-magica-hajimari-no-monogatari",
+  "kind": "anime",
+  "title": "Mahou Shoujo Madoka☆Magica: Hajimari no Monogatari",
+  "titles": {
+    "default": "Mahou Shoujo Madoka☆Magica: Hajimari no Monogatari",
+    "romaji": "Mahou Shoujo Madoka☆Magica: Hajimari no Monogatari",
+    "english": "Puella Magi Madoka Magica the Movie Part 1: Beginnings",
+    "native": "劇場版 魔法少女まどか☆マギカ 始まりの物語"
+  },
+  "synonyms": [
+    "Mahou Shoujo Madoka☆Magica: Hajimari no Monogatari",
+    "Puella Magi Madoka Magica the Movie Part 1: Beginnings",
+    "劇場版 魔法少女まどか☆マギカ 始まりの物語",
+    "Mahou Shoujo Madoka Magika Movie 1",
+    "Magical Girl Madoka Magica Movie 1",
+    "Puella Magi Madoka Magica the Movie Part I: Beginnings",
+    "Puella Magi Madoka Magica the Movie Part 2: Eternal",
+    "Mahou Shoujo Madoka★Magica Movie 2: Eien no Monogatari",
+    "劇場版 魔法少女まどか☆マギカ 永遠の物語",
+    "Mahou Shoujo Madoka Magika Movie 2",
+    "Magical Girl Madoka Magica Movie 2"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11977-HxMeU4kjzSnE.png"
+  ],
+  "references": {
+    "al": {
+      "id": "11977",
+      "url": "https://anilist.co/anime/11977"
+    },
+    "k": {
+      "id": "6637",
+      "url": "https://kitsu.io/anime/6637"
+    },
+    "mal": {
+      "id": "11977",
+      "url": "https://myanimelist.net/anime/11977"
+    },
+    "nf": {
+      "id": "80041087",
+      "url": "https://www.netflix.com/title/80041087"
+    }
+  }
+}

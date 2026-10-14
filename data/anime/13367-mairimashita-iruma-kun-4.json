@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13367,
+  "slug": "mairimashita-iruma-kun-4",
+  "kind": "anime",
+  "title": "Mairimashita! Iruma-kun 4",
+  "titles": {
+    "default": "Mairimashita! Iruma-kun 4",
+    "romaji": "Mairimashita! Iruma-kun 4",
+    "english": "Welcome to Demon School! Iruma-kun Season 4",
+    "native": "魔入りました！入間くん 第4シリーズ"
+  },
+  "synonyms": [
+    "Mairimashita! Iruma-kun 4",
+    "Welcome to Demon School! Iruma-kun Season 4",
+    "魔入りました！入間くん 第4シリーズ",
+    "อิรุมะคุง ผจญในแดนปีศาจ ซีซั่น 4",
+    "Mairimashita! Iruma-kun 4th Season"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "spring",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184492-KUVFGieuMaOx.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "184492",
+      "url": "https://anilist.co/anime/184492"
+    },
+    "cr": {
+      "id": "series/G6NVG970Y/welcome-to-demon-school-iruma-kun",
+      "url": "https://www.crunchyroll.com/series/series/G6NVG970Y/welcome-to-demon-school-iruma-kun"
+    },
+    "mal": {
+      "id": "60310",
+      "url": "https://myanimelist.net/anime/60310"
+    },
+    "tx": {
+      "id": "iruma_kun",
+      "url": "https://twitter.com/nep_irumakun"
+    }
+  }
+}

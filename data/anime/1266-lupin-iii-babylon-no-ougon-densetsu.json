@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1266,
+  "slug": "lupin-iii-babylon-no-ougon-densetsu",
+  "kind": "anime",
+  "title": "Lupin III: Babylon no Ougon Densetsu",
+  "titles": {
+    "default": "Lupin III: Babylon no Ougon Densetsu",
+    "romaji": "Lupin III: Babylon no Ougon Densetsu",
+    "english": "Lupin the 3rd: The Legend of the Gold of Babylon",
+    "native": "ルパン三世　バビロンの黄金伝説"
+  },
+  "synonyms": [
+    "Lupin III: Babylon no Ougon Densetsu",
+    "Lupin the 3rd: The Legend of the Gold of Babylon",
+    "ルパン三世　バビロンの黄金伝説",
+    "Rupan Sansei: Babylon no Ougon Densetsu",
+    "Lupin III: A Lenda do Ouro da Babilônia",
+    "Edgar de la Cambriole : L'Or de Babylone",
+    "La leggenda dell'oro di Babilonia",
+    "Lupin III: The Legend of the Gold of Babylon",
+    "Lupin the Third: The Legend of the Gold of Babylon"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1433.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1433",
+      "url": "https://anilist.co/anime/1433"
+    },
+    "k": {
+      "id": "1286",
+      "url": "https://kitsu.io/anime/1286"
+    },
+    "mal": {
+      "id": "1433",
+      "url": "https://myanimelist.net/anime/1433"
+    }
+  }
+}

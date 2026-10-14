@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 339,
+  "slug": "burn-up-excess",
+  "kind": "anime",
+  "title": "BURN-UP EXCESS",
+  "titles": {
+    "default": "BURN-UP EXCESS",
+    "romaji": "BURN-UP EXCESS",
+    "english": "Burn Up Excess"
+  },
+  "synonyms": [
+    "BURN-UP EXCESS",
+    "Burn Up Excess",
+    "バーンナップEXCESS",
+    "Burn Up! X",
+    "El Hazard: The Alternative World",
+    "異次元の世界エルハザード",
+    "Ijigen no Sekai El Hazard",
+    "Ijigen no Sekai El-Hazard"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx370-j56XWmfJXKwo.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "370",
+      "url": "https://anilist.co/anime/370"
+    },
+    "k": {
+      "id": "94",
+      "url": "https://kitsu.io/anime/94"
+    },
+    "mal": {
+      "id": "370",
+      "url": "https://myanimelist.net/anime/370"
+    },
+    "t": {
+      "id": "63711",
+      "url": "https://trakt.tv/shows/63711"
+    }
+  }
+}

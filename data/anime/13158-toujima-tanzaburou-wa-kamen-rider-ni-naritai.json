@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13158,
+  "slug": "toujima-tanzaburou-wa-kamen-rider-ni-naritai",
+  "kind": "anime",
+  "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
+  "titles": {
+    "default": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
+    "romaji": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
+    "english": "Tojima Wants to Be a Kamen Rider",
+    "native": "東島丹三郎は仮面ライダーになりたい"
+  },
+  "synonyms": [
+    "Toujima Tanzaburou wa Kamen Rider ni Naritai",
+    "Tojima Wants to Be a Kamen Rider",
+    "東島丹三郎は仮面ライダーになりたい",
+    "Tojima Tanzaburo Wants To Be A Masked Rider",
+    "โทจิมะอยากเป็นคาเมนไรเดอร์",
+    "토지마 탄자부로는 가면라이더가 되고 싶어",
+    "Desert Punk",
+    "Sunabouzu",
+    "砂ぼうず",
+    "Sunabozu"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "fall",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187464-NJtK3VC54vPm.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "187464",
+      "url": "https://anilist.co/anime/187464"
+    },
+    "cr": {
+      "id": "series/GT00364945/tojima-wants-to-be-a-kamen-rider",
+      "url": "https://www.crunchyroll.com/series/series/GT00364945/tojima-wants-to-be-a-kamen-rider"
+    },
+    "k": {
+      "id": "16",
+      "url": "https://kitsu.io/anime/16"
+    },
+    "mal": {
+      "id": "61159",
+      "url": "https://myanimelist.net/anime/61159"
+    },
+    "t": {
+      "id": "31532",
+      "url": "https://trakt.tv/shows/31532"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11220,
+  "slug": "otona-no-bouguya-san-ii",
+  "kind": "anime",
+  "title": "Otona no Bouguya-san II",
+  "titles": {
+    "default": "Otona no Bouguya-san II",
+    "romaji": "Otona no Bouguya-san II",
+    "english": "Armor Shop for Ladies & Gentlemen II",
+    "native": "おとなの防具屋さんII"
+  },
+  "synonyms": [
+    "Otona no Bouguya-san II",
+    "Armor Shop for Ladies & Gentlemen II",
+    "おとなの防具屋さんII",
+    "Otona no Bouguya-san 2nd Season",
+    "Zhen Dao Ge: Qian li bu Liu Xing",
+    "枕刀歌: 千里不留行",
+    "On The Edge",
+    "枕刀歌",
+    "Zhen Dao Ge"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124136-vmrRRFsjwcD8.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "124136",
+      "url": "https://anilist.co/anime/124136"
+    },
+    "cr": {
+      "id": "armor-shop-for-ladies-gentlemen",
+      "url": "https://www.crunchyroll.com/series/armor-shop-for-ladies-gentlemen"
+    },
+    "mal": {
+      "id": "42862",
+      "url": "https://myanimelist.net/anime/42862"
+    },
+    "tx": {
+      "id": "otonabougu",
+      "url": "https://twitter.com/otonabougu"
+    }
+  }
+}

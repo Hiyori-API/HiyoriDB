@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14275,
+  "slug": "shuffle",
+  "kind": "manga",
+  "title": "Shuffle!",
+  "titles": {
+    "default": "Shuffle!"
+  },
+  "synonyms": [
+    "Shuffle! Days in the Bloom",
+    "Shuffle",
+    "SHUFFLE! -DAYS IN THE BLOOM-",
+    "Shuffle!",
+    "Tsubasa RESERVoir CHRoNiCLE",
+    "Tsubasa: RESERVoir CHRoNiCLE",
+    "ツバサ -RESERVoir CHRoNiCLE-",
+    "TRC"
+  ],
+  "type": "manga",
+  "chapters": 36,
+  "volumes": 6,
+  "status": "finished",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1788.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "79",
+      "url": "https://anilist.co/anime/79"
+    },
+    "al_manga": {
+      "id": "79",
+      "url": "https://anilist.co/manga/79"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14996,
+  "slug": "yokohama-meibutsu-otoko-katayama-gumi",
+  "kind": "manga",
+  "title": "Yokohama Meibutsu: Otoko Katayama-gumi!",
+  "titles": {
+    "default": "Yokohama Meibutsu: Otoko Katayama-gumi!"
+  },
+  "synonyms": [
+    "横浜名物男片山組!",
+    "Four Steps to Romance",
+    "Romance Godan Katsuyou",
+    "ろまんす五段活用",
+    "Romantic Princess"
+  ],
+  "type": "manga",
+  "volumes": 15,
+  "status": "finished",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx167889-ZGDpy3rwQush.png"
+  ],
+  "references": {
+    "al": {
+      "id": "10113",
+      "url": "https://anilist.co/anime/10113"
+    },
+    "al_manga": {
+      "id": "10113",
+      "url": "https://anilist.co/manga/10113"
+    }
+  }
+}

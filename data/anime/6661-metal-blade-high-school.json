@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6661,
+  "slug": "metal-blade-high-school",
+  "kind": "anime",
+  "title": "METAL BLADE HIGH-SCHOOL",
+  "titles": {
+    "default": "METAL BLADE HIGH-SCHOOL",
+    "romaji": "METAL BLADE HIGH-SCHOOL"
+  },
+  "synonyms": [
+    "METAL BLADE HIGH-SCHOOL",
+    "FLOWMAN'S SHOW METAL BLADE HIGH-SCHOOL",
+    "Amagami SS: Little Sister",
+    "Amagami SS: Tachibana Miya-hen - Imouto",
+    "アマガミSS 橘美也編 イモウト",
+    "Amagami SS: Imouto",
+    "Amagami SS Special",
+    "Amagami SS Tachibana Miya Arc",
+    "Amagami SS Tachibana Miya Chapter",
+    "Amagami SS Episode 26"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b208835-EJqbs37CXiWf.png"
+  ],
+  "references": {
+    "al": {
+      "id": "208835",
+      "url": "https://anilist.co/anime/208835"
+    },
+    "k": {
+      "id": "5943",
+      "url": "https://kitsu.io/anime/5943"
+    },
+    "mal": {
+      "id": "63488",
+      "url": "https://myanimelist.net/anime/63488"
+    }
+  }
+}

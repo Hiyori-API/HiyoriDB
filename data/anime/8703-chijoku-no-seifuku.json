@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8703,
+  "slug": "chijoku-no-seifuku",
+  "kind": "anime",
+  "title": "Chijoku no Seifuku",
+  "titles": {
+    "default": "Chijoku no Seifuku",
+    "romaji": "Chijoku no Seifuku",
+    "native": "恥辱の制服"
+  },
+  "synonyms": [
+    "Chijoku no Seifuku",
+    "恥辱の制服",
+    "Shokugeki no Souma: Jump Festa 2015 Special",
+    "Food Wars! Shokugeki no Soma OVA",
+    "Food Wars! OVA",
+    "食戟のソーマ",
+    "Shokugeki no Souma OVA"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx21693-viEEM9TploWZ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21693",
+      "url": "https://anilist.co/anime/21693"
+    },
+    "mal": {
+      "id": "32895",
+      "url": "https://myanimelist.net/anime/32895"
+    }
+  }
+}

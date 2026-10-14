@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3253,
+  "slug": "kakyuusei-2-sketchbook",
+  "kind": "anime",
+  "title": "Kakyuusei 2: Sketchbook",
+  "titles": {
+    "default": "Kakyuusei 2: Sketchbook",
+    "romaji": "Kakyuusei 2: Sketchbook",
+    "native": "下級生2～Sketchbook～"
+  },
+  "synonyms": [
+    "Kakyuusei 2: Sketchbook",
+    "下級生2～Sketchbook～",
+    "Sousei no Aquarion OVA",
+    "ＯＶＡ『創星のアクエリオン』",
+    "Genesis of Aquarion OVA",
+    "Sousei no Aquarion: Uragiri no Tsubasa",
+    "Sousei no Aquarion: Taiyou no Tsubasa"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3945-HC855IhWqQxb.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3945",
+      "url": "https://anilist.co/anime/3945"
+    },
+    "k": {
+      "id": "1965",
+      "url": "https://kitsu.io/anime/1965"
+    },
+    "mal": {
+      "id": "3945",
+      "url": "https://myanimelist.net/anime/3945"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2759,
+  "slug": "makiba-no-shoujo-katri",
+  "kind": "anime",
+  "title": "Makiba no Shoujo Katri",
+  "titles": {
+    "default": "Makiba no Shoujo Katri",
+    "romaji": "Makiba no Shoujo Katri",
+    "english": "Katri",
+    "native": "牧場の少女カトリ"
+  },
+  "synonyms": [
+    "Makiba no Shoujo Katri",
+    "Katri",
+    "牧場の少女カトリ",
+    "Katri Girl of the Meadows",
+    "World Masterpiece Theater",
+    "WMT",
+    "Das Mädchen von der Farm",
+    "Katoli",
+    "Katri, Girl of the Meadows"
+  ],
+  "type": "tv",
+  "episodes": 49,
+  "status": "finished",
+  "season": "winter",
+  "year": 1984,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3162-91KVah5tQXGw.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3162",
+      "url": "https://anilist.co/anime/3162"
+    },
+    "k": {
+      "id": "2832",
+      "url": "https://kitsu.io/anime/2832"
+    },
+    "mal": {
+      "id": "3162",
+      "url": "https://myanimelist.net/anime/3162"
+    }
+  }
+}

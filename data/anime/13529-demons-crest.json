@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13529,
+  "slug": "demons-crest",
+  "kind": "anime",
+  "title": "Demons' Crest",
+  "titles": {
+    "default": "Demons' Crest",
+    "romaji": "Demons' Crest",
+    "english": "Devils' Crest",
+    "native": "デモンズ・クレスト"
+  },
+  "synonyms": [
+    "Demons' Crest",
+    "Devils' Crest",
+    "デモンズ・クレスト",
+    "デモクレ",
+    "DemoKure",
+    "Despera",
+    "ですぺら",
+    "Desupera"
+  ],
+  "type": "tv",
+  "status": "to_be_aired",
+  "season": "fall",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203275-YyNHygkzIjMC.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "203275",
+      "url": "https://anilist.co/anime/203275"
+    },
+    "k": {
+      "id": "4584",
+      "url": "https://kitsu.io/anime/4584"
+    },
+    "mal": {
+      "id": "63045",
+      "url": "https://myanimelist.net/anime/63045"
+    }
+  }
+}

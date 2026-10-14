@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12383,
+  "slug": "odekake-kozame-gamera-rebirth",
+  "kind": "anime",
+  "title": "Odekake Kozame × GAMERA: Rebirth",
+  "titles": {
+    "default": "Odekake Kozame × GAMERA: Rebirth",
+    "romaji": "Odekake Kozame × GAMERA: Rebirth",
+    "native": "おでかけ子ザメ × GAMERA -Rebirth-"
+  },
+  "synonyms": [
+    "Odekake Kozame × GAMERA: Rebirth",
+    "おでかけ子ザメ × GAMERA -Rebirth-",
+    "ガメラVS子ザメラ",
+    "Gamera VS Kozame",
+    "Little Shark × GAMERA -Rebirth-",
+    "Gamera VS Little Shark",
+    "ChroNoiR Episode.0"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2023,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169442-QKqo9tOgR9XS.png"
+  ],
+  "references": {
+    "al": {
+      "id": "169442",
+      "url": "https://anilist.co/anime/169442"
+    },
+    "mal": {
+      "id": "56702",
+      "url": "https://myanimelist.net/anime/56702"
+    },
+    "yt": {
+      "id": "Ppk9DZoR2nQ",
+      "url": "https://www.youtube.com/watch?v=Ppk9DZoR2nQ"
+    }
+  }
+}

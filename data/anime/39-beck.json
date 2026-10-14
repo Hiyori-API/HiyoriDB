@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 39,
+  "slug": "beck",
+  "kind": "anime",
+  "title": "BECK",
+  "titles": {
+    "default": "BECK",
+    "romaji": "BECK",
+    "english": "Beck: Mongolian Chop Squad"
+  },
+  "synonyms": [
+    "BECK",
+    "Beck: Mongolian Chop Squad",
+    "ベック",
+    "Beck",
+    "Mongolian Chop Squad"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx57-4wTOlaVSgKoy.png"
+  ],
+  "references": {
+    "al": {
+      "id": "57",
+      "url": "https://anilist.co/anime/57"
+    },
+    "k": {
+      "id": "38",
+      "url": "https://kitsu.io/anime/38"
+    },
+    "mal": {
+      "id": "57",
+      "url": "https://myanimelist.net/anime/57"
+    },
+    "t": {
+      "id": "43059",
+      "url": "https://trakt.tv/shows/43059"
+    },
+    "tvt": {
+      "id": "beck",
+      "url": "http://www.tv-tokyo.co.jp/anime/beck"
+    }
+  }
+}

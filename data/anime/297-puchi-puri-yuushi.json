@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 297,
+  "slug": "puchi-puri-yuushi",
+  "kind": "anime",
+  "title": "Puchi Puri * Yuushi",
+  "titles": {
+    "default": "Puchi Puri * Yuushi",
+    "romaji": "Puchi Puri * Yuushi",
+    "english": "Petite Princess Yucie",
+    "native": "ぷちぷり*ユーシィ"
+  },
+  "synonyms": [
+    "Puchi Puri * Yuushi",
+    "Petite Princess Yucie",
+    "ぷちぷり*ユーシィ",
+    "Pecola",
+    "ペコラ"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx327-wiB9azurNfU3.png"
+  ],
+  "references": {
+    "al": {
+      "id": "327",
+      "url": "https://anilist.co/anime/327"
+    },
+    "k": {
+      "id": "6712",
+      "url": "https://kitsu.io/anime/6712"
+    },
+    "mal": {
+      "id": "327",
+      "url": "https://myanimelist.net/anime/327"
+    },
+    "t": {
+      "id": "10990",
+      "url": "https://trakt.tv/shows/10990"
+    }
+  }
+}

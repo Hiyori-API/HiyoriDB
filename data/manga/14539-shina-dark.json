@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14539,
+  "slug": "shina-dark",
+  "kind": "manga",
+  "title": "Shina Dark",
+  "titles": {
+    "default": "Shina Dark"
+  },
+  "synonyms": [
+    "Shina Dark - Kuroki Tsuki no Ou to Souheki no Tsuki no Himegimi",
+    "Shina Dark: King of Dark Moon and Blue Moon's Princess",
+    "シャイナ・ダルク ～黒き月の王と蒼碧の月の姫君～",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "chapters": 20,
+  "volumes": 4,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx34780-q2P4f6HPf5Yh.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3642",
+      "url": "https://anilist.co/anime/3642"
+    },
+    "al_manga": {
+      "id": "3642",
+      "url": "https://anilist.co/manga/3642"
+    }
+  }
+}

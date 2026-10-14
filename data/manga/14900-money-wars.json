@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14900,
+  "slug": "money-wars",
+  "kind": "manga",
+  "title": "Money Wars",
+  "titles": {
+    "default": "Money Wars"
+  },
+  "synonyms": [
+    "マネーウォーズ",
+    "Mai",
+    "Mai, The Psychic Girl",
+    "舞"
+  ],
+  "type": "manga",
+  "volumes": 9,
+  "status": "finished",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx203065-KkoyBZtR62hW.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "18743",
+      "url": "https://anilist.co/anime/18743"
+    },
+    "al_manga": {
+      "id": "18743",
+      "url": "https://anilist.co/manga/18743"
+    }
+  }
+}

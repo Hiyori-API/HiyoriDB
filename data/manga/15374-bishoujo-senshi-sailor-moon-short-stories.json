@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15374,
+  "slug": "bishoujo-senshi-sailor-moon-short-stories",
+  "kind": "manga",
+  "title": "Bishoujo Senshi Sailor Moon: Short Stories",
+  "titles": {
+    "default": "Bishoujo Senshi Sailor Moon: Short Stories"
+  },
+  "synonyms": [
+    "Parallel Sailor Moon",
+    "Ami-chan's First Love!",
+    "Sailor Moon Short Stories",
+    "美少女戦士セーラームーン ショートストーリーズ",
+    "Railroad",
+    "레일로드"
+  ],
+  "type": "manga",
+  "chapters": 10,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx38552-eOTAXBgW5lJ6.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "997",
+      "url": "https://anilist.co/anime/1278"
+    },
+    "al_manga": {
+      "id": "997",
+      "url": "https://anilist.co/manga/997"
+    }
+  }
+}

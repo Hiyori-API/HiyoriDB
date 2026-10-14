@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6459,
+  "slug": "doraemon-shin-nobita-to-tetsujin-heidan-habatake-tenshi-tachi",
+  "kind": "anime",
+  "title": "Doraemon: Shin Nobita to Tetsujin Heidan - Habatake Tenshi-tachi",
+  "titles": {
+    "default": "Doraemon: Shin Nobita to Tetsujin Heidan - Habatake Tenshi-tachi",
+    "romaji": "Doraemon: Shin Nobita to Tetsujin Heidan - Habatake Tenshi-tachi",
+    "native": "映画ドラえもん 新・のび太と鉄人兵団 ～はばたけ 天使たち～"
+  },
+  "synonyms": [
+    "Doraemon: Shin Nobita to Tetsujin Heidan - Habatake Tenshi-tachi",
+    "映画ドラえもん 新・のび太と鉄人兵団 ～はばたけ 天使たち～",
+    "Doraemon: Nobita and the New Steel Troops - Angel Wings",
+    "Rolling Stars (Movie)",
+    "Lolling Seutajeu (Movie)",
+    "롤링 스타즈"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10534-LuDSnMVDBvmq.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10534",
+      "url": "https://anilist.co/anime/10534"
+    },
+    "k": {
+      "id": "7583",
+      "url": "https://kitsu.io/anime/7583"
+    },
+    "mal": {
+      "id": "10534",
+      "url": "https://myanimelist.net/anime/10534"
+    }
+  }
+}

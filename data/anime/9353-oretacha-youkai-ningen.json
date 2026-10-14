@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9353,
+  "slug": "oretacha-youkai-ningen",
+  "kind": "anime",
+  "title": "Oretacha Youkai Ningen",
+  "titles": {
+    "default": "Oretacha Youkai Ningen",
+    "romaji": "Oretacha Youkai Ningen",
+    "native": "俺たちゃ妖怪人間"
+  },
+  "synonyms": [
+    "Oretacha Youkai Ningen",
+    "俺たちゃ妖怪人間",
+    "The Magician's Bride",
+    "Mahoyome",
+    "The Ancient Magus' Bride",
+    "魔法使いの嫁",
+    "Mahoutsukai no Yome"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "fall",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx99856-f4AJlEqKKGwg.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "99856",
+      "url": "https://anilist.co/anime/99856"
+    },
+    "mal": {
+      "id": "36135",
+      "url": "https://myanimelist.net/anime/36135"
+    },
+    "tx": {
+      "id": "bem_50th",
+      "url": "https://twitter.com/bem_50th"
+    }
+  }
+}

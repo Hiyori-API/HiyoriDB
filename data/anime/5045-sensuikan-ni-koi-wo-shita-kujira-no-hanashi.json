@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5045,
+  "slug": "sensuikan-ni-koi-wo-shita-kujira-no-hanashi",
+  "kind": "anime",
+  "title": "Sensuikan ni Koi wo Shita Kujira no Hanashi",
+  "titles": {
+    "default": "Sensuikan ni Koi wo Shita Kujira no Hanashi",
+    "romaji": "Sensuikan ni Koi wo Shita Kujira no Hanashi",
+    "native": "せんすい艦に恋をしたクジラの話"
+  },
+  "synonyms": [
+    "Sensuikan ni Koi wo Shita Kujira no Hanashi",
+    "せんすい艦に恋をしたクジラの話"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206726-IXEcxL3lqx09.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "206726",
+      "url": "https://anilist.co/anime/206726"
+    },
+    "k": {
+      "id": "9575",
+      "url": "https://kitsu.io/anime/9575"
+    },
+    "mal": {
+      "id": "25329",
+      "url": "https://myanimelist.net/anime/25329"
+    }
+  }
+}

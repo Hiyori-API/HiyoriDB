@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8154,
+  "slug": "dramatical-murder-ova-data-xx-transitory",
+  "kind": "anime",
+  "title": "DRAMAtical Murder OVA: Data_xx_Transitory",
+  "titles": {
+    "default": "DRAMAtical Murder OVA: Data_xx_Transitory",
+    "romaji": "DRAMAtical Murder OVA: Data_xx_Transitory",
+    "native": "ドラマティカル マーダー OVA「Data_xx_Transitory」"
+  },
+  "synonyms": [
+    "DRAMAtical Murder OVA: Data_xx_Transitory",
+    "ドラマティカル マーダー OVA「Data_xx_Transitory」",
+    "Tokyo Ghoul: Pinto",
+    "東京喰種 トーキョーグール【PINTO】",
+    "Tokyo Ghoul: \"Pinto\""
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21011-epk9eE3LfxaP.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21011",
+      "url": "https://anilist.co/anime/21011"
+    },
+    "mal": {
+      "id": "25567",
+      "url": "https://myanimelist.net/anime/25567"
+    }
+  }
+}

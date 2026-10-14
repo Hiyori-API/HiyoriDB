@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1470,
+  "slug": "babel-nisei-1992",
+  "kind": "anime",
+  "title": "Babel Nisei (1992)",
+  "titles": {
+    "default": "Babel Nisei (1992)",
+    "romaji": "Babel Nisei (1992)",
+    "english": "Babel II",
+    "native": "バビル２世"
+  },
+  "synonyms": [
+    "Babel Nisei (1992)",
+    "Babel II",
+    "バビル２世",
+    "Babel II OVA",
+    "Babel II OAV",
+    "Babil Junior: la leggenda",
+    "Babel Nisei (OVA)"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "winter",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1665-NaVb4xDxRqCS.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1665",
+      "url": "https://anilist.co/anime/1665"
+    },
+    "k": {
+      "id": "8930",
+      "url": "https://kitsu.io/anime/8930"
+    },
+    "mal": {
+      "id": "1665",
+      "url": "https://myanimelist.net/anime/1665"
+    }
+  }
+}

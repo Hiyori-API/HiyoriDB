@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15061,
+  "slug": "ike-ina-chuu-takkyuubu",
+  "kind": "manga",
+  "title": "Ike! Ina-chuu Takkyuubu",
+  "titles": {
+    "default": "Ike! Ina-chuu Takkyuubu"
+  },
+  "synonyms": [
+    "Go! Ina Junior High Ping Pong Club",
+    "The Ping Pong Club",
+    "行け！稲中卓球部",
+    "Dismember",
+    "Kaitai",
+    "解体"
+  ],
+  "type": "manga",
+  "chapters": 157,
+  "volumes": 13,
+  "status": "finished",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/7577.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "914",
+      "url": "https://anilist.co/anime/914"
+    },
+    "al_manga": {
+      "id": "914",
+      "url": "https://anilist.co/manga/914"
+    }
+  }
+}

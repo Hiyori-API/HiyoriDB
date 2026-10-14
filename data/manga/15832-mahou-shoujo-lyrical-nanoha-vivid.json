@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15832,
+  "slug": "mahou-shoujo-lyrical-nanoha-vivid",
+  "kind": "manga",
+  "title": "Mahou Shoujo Lyrical Nanoha ViVid",
+  "titles": {
+    "default": "Mahou Shoujo Lyrical Nanoha ViVid"
+  },
+  "synonyms": [
+    "Magical Girl Lyrical Nanoha ViVid",
+    "魔法少女リリカルなのはViVid",
+    "Simple Knot Loafers",
+    "シンプルノットローファー",
+    "Shinpuru Notto Rofa",
+    "Shinpuru Notto Roofaa",
+    "Simple Not Loafer"
+  ],
+  "type": "manga",
+  "chapters": 102,
+  "volumes": 20,
+  "status": "finished",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx44238-0UYWSPfYzTIm.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "20820",
+      "url": "https://anilist.co/anime/20820"
+    },
+    "al_manga": {
+      "id": "20820",
+      "url": "https://anilist.co/manga/20820"
+    }
+  }
+}

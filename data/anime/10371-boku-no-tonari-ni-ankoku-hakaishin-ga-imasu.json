@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10371,
+  "slug": "boku-no-tonari-ni-ankoku-hakaishin-ga-imasu",
+  "kind": "anime",
+  "title": "Boku no Tonari ni Ankoku Hakaishin ga Imasu.",
+  "titles": {
+    "default": "Boku no Tonari ni Ankoku Hakaishin ga Imasu.",
+    "romaji": "Boku no Tonari ni Ankoku Hakaishin ga Imasu.",
+    "english": "A Destructive God Sits Next to Me",
+    "native": "ぼくのとなりに暗黒破壊神がいます。"
+  },
+  "synonyms": [
+    "Boku no Tonari ni Ankoku Hakaishin ga Imasu.",
+    "A Destructive God Sits Next to Me",
+    "ぼくのとなりに暗黒破壊神がいます。",
+    "Bokuhaka",
+    "Toilet-Bound Hanako-kun",
+    "地縛少年花子くん",
+    "Jibaku Shounen Hanako-kun"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104936-pj2LwAKTPZ4u.png"
+  ],
+  "references": {
+    "al": {
+      "id": "104936",
+      "url": "https://anilist.co/anime/104936"
+    },
+    "cr": {
+      "id": "a-destructive-god-sits-next-to-me",
+      "url": "https://www.crunchyroll.com/series/a-destructive-god-sits-next-to-me"
+    },
+    "mal": {
+      "id": "38302",
+      "url": "https://myanimelist.net/anime/38302"
+    },
+    "tx": {
+      "id": "bokuhaka_anime",
+      "url": "https://twitter.com/bokuhaka_anime"
+    }
+  }
+}

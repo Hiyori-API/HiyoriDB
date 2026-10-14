@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7327,
+  "slug": "white-album-2",
+  "kind": "anime",
+  "title": "WHITE ALBUM 2",
+  "titles": {
+    "default": "WHITE ALBUM 2",
+    "romaji": "WHITE ALBUM 2",
+    "english": "White Album 2"
+  },
+  "synonyms": [
+    "WHITE ALBUM 2",
+    "White Album 2",
+    "WA2",
+    "ホワイトアルバム2",
+    "Coppelion",
+    "コッペリオン"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18245-7eMtaBsi00dl.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "18245",
+      "url": "https://anilist.co/anime/18245"
+    },
+    "cr": {
+      "id": "white-album-2",
+      "url": "https://www.crunchyroll.com/series/white-album-2"
+    },
+    "k": {
+      "id": "5746",
+      "url": "https://kitsu.io/anime/5746"
+    },
+    "mal": {
+      "id": "18245",
+      "url": "https://myanimelist.net/anime/18245"
+    },
+    "t": {
+      "id": "72043",
+      "url": "https://trakt.tv/shows/72043"
+    },
+    "tx": {
+      "id": "wa2_anime",
+      "url": "https://twitter.com/wa2_anime"
+    }
+  }
+}

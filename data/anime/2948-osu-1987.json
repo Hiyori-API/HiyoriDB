@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2948,
+  "slug": "osu-1987",
+  "kind": "anime",
+  "title": "Osu (1987)",
+  "titles": {
+    "default": "Osu (1987)",
+    "romaji": "Osu (1987)",
+    "english": "Push",
+    "native": "おす (1987)"
+  },
+  "synonyms": [
+    "Osu (1987)",
+    "Push",
+    "おす (1987)",
+    "Dragon Ball Movie 2: Sleeping Princess in Devil's Castle",
+    "Dragon Ball Movie 2: Majinjou no Nemuri Hime",
+    "ドラゴンボール 魔神城のねむり姫"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3474-IfwOMkDvBtYB.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3474",
+      "url": "https://anilist.co/anime/3474"
+    },
+    "k": {
+      "id": "791",
+      "url": "https://kitsu.io/anime/791"
+    },
+    "mal": {
+      "id": "3474",
+      "url": "https://myanimelist.net/anime/3474"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2764,
+  "slug": "ryoujoku-hitozuma-onsen",
+  "kind": "anime",
+  "title": "Ryoujoku Hitozuma Onsen",
+  "titles": {
+    "default": "Ryoujoku Hitozuma Onsen",
+    "romaji": "Ryoujoku Hitozuma Onsen",
+    "english": "Spa of Love",
+    "native": "凌辱人妻温泉"
+  },
+  "synonyms": [
+    "Ryoujoku Hitozuma Onsen",
+    "Spa of Love",
+    "凌辱人妻温泉",
+    "School Rumble Ichi Gakki Hoshuu",
+    "スクールランブル一学期補習",
+    "School Rumble OVA",
+    "School Rumble: First Extra Term"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3171.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3171",
+      "url": "https://anilist.co/anime/3171"
+    },
+    "k": {
+      "id": "476",
+      "url": "https://kitsu.io/anime/476"
+    },
+    "mal": {
+      "id": "3171",
+      "url": "https://myanimelist.net/anime/3171"
+    }
+  }
+}

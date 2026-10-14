@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14929,
+  "slug": "pihyoro-ikka",
+  "kind": "manga",
+  "title": "Pihyoro Ikka",
+  "titles": {
+    "default": "Pihyoro Ikka"
+  },
+  "synonyms": [
+    "ぴーひょろ一家",
+    "Nemureru Mori no Binan",
+    "眠れる森美男",
+    "Sleeping Beauty Boy",
+    "The Handsome Man in the Sleeping Woods",
+    "The Sleeping Beauty Man",
+    "The Sleeping Male Beauty in the Woods"
+  ],
+  "type": "manga",
+  "volumes": 9,
+  "status": "finished",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b216857-yGCWiVYonulL.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "118075",
+      "url": "https://anilist.co/anime/118075"
+    },
+    "al_manga": {
+      "id": "118075",
+      "url": "https://anilist.co/manga/118075"
+    }
+  }
+}

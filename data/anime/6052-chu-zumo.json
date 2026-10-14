@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6052,
+  "slug": "chu-zumo",
+  "kind": "anime",
+  "title": "Chu Zumo",
+  "titles": {
+    "default": "Chu Zumo",
+    "romaji": "Chu Zumo",
+    "english": "A Sumo Wrestler's Tail",
+    "native": "ちゅうずもう"
+  },
+  "synonyms": [
+    "Chu Zumo",
+    "A Sumo Wrestler's Tail",
+    "ちゅうずもう",
+    "Chuu-Zumou",
+    "Chuzumo",
+    "Chuuzumou",
+    "Time of Eve",
+    "Eve no Jikan (Movie)",
+    "イヴの時間",
+    "Eve's Time",
+    "Eve no Jikan 1st Season Complete Edition",
+    "Gekijouban Eve no Jikan"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8632-wbS7P2vHB1Wp.png"
+  ],
+  "references": {
+    "al": {
+      "id": "8632",
+      "url": "https://anilist.co/anime/8632"
+    },
+    "cr": {
+      "id": "time-of-eve",
+      "url": "https://www.crunchyroll.com/series/time-of-eve"
+    },
+    "k": {
+      "id": "2836",
+      "url": "https://kitsu.io/anime/2836"
+    },
+    "mal": {
+      "id": "8632",
+      "url": "https://myanimelist.net/anime/8632"
+    }
+  }
+}

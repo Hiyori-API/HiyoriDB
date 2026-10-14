@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15710,
+  "slug": "kuroko-no-basket",
+  "kind": "manga",
+  "title": "Kuroko no Basket",
+  "titles": {
+    "default": "Kuroko no Basket"
+  },
+  "synonyms": [
+    "Kuroko no Basuke",
+    "The Basketball Which Kuroko Plays",
+    "O Basquete de Kuroko",
+    "Kuroko’nun Basketbolu",
+    "Kuroko's Basket",
+    "Kuroko's Basketball",
+    "黒子のバスケ",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "chapters": 276,
+  "volumes": 30,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx41652-GXnIbmI4lUoM.png"
+  ],
+  "references": {
+    "al": {
+      "id": "98704",
+      "url": "https://anilist.co/anime/16894"
+    },
+    "al_manga": {
+      "id": "98704",
+      "url": "https://anilist.co/manga/98704"
+    }
+  }
+}

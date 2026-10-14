@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6648,
+  "slug": "47-todoufuken",
+  "kind": "anime",
+  "title": "47 Todoufuken",
+  "titles": {
+    "default": "47 Todoufuken",
+    "romaji": "47 Todoufuken",
+    "native": "47都道府犬"
+  },
+  "synonyms": [
+    "47 Todoufuken",
+    "47都道府犬",
+    "Hanasaku Iroha ~Blossoms for Tomorrow~",
+    "Hanasaku Iroha",
+    "Hanasaku Iroha: Blossoms for Tomorrow",
+    "花咲くいろは",
+    "Hana-Saku Iroha"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n106507-wRbeyiZbRLrm.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "106507",
+      "url": "https://anilist.co/anime/106507"
+    },
+    "cr": {
+      "id": "hanasaku-iroha",
+      "url": "https://www.crunchyroll.com/series/hanasaku-iroha"
+    },
+    "k": {
+      "id": "5657",
+      "url": "https://kitsu.io/anime/5657"
+    },
+    "mal": {
+      "id": "27589",
+      "url": "https://myanimelist.net/anime/27589"
+    },
+    "t": {
+      "id": "42194",
+      "url": "https://trakt.tv/shows/42194"
+    }
+  }
+}

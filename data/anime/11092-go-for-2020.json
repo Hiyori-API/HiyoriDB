@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11092,
+  "slug": "go-for-2020",
+  "kind": "anime",
+  "title": "Go for 2020",
+  "titles": {
+    "default": "Go for 2020",
+    "romaji": "Go for 2020"
+  },
+  "synonyms": [
+    "Go for 2020",
+    "Nihonbashi City Dressing for TOKYO 2020",
+    "日本橋シティドレッシング for TOKYO 2020",
+    "Inko Colors the Animation",
+    "インコカラーズ The animation"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126167-zgg2WcF7nwUX.png"
+  ],
+  "references": {
+    "al": {
+      "id": "126167",
+      "url": "https://anilist.co/anime/126167"
+    },
+    "mal": {
+      "id": "41298",
+      "url": "https://myanimelist.net/anime/41298"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1482,
+  "slug": "young-harlock-wo-oe-cosmo-warrior-zero-gaiden",
+  "kind": "anime",
+  "title": "Young Harlock wo Oe! Cosmo Warrior Zero Gaiden",
+  "titles": {
+    "default": "Young Harlock wo Oe! Cosmo Warrior Zero Gaiden",
+    "romaji": "Young Harlock wo Oe! Cosmo Warrior Zero Gaiden",
+    "native": "ヤングハーロックを追え! コスモウォーリアー零外伝"
+  },
+  "synonyms": [
+    "Young Harlock wo Oe! Cosmo Warrior Zero Gaiden",
+    "ヤングハーロックを追え! コスモウォーリアー零外伝",
+    "Cosmo Warrior Zero Specials",
+    "Ie Naki Ko Rémi Specials (2001)",
+    "Sekai Meisaku Gekijou Kanketsu Ban: Ie Naki Ko Remi",
+    "World Masterpiece Theater Complete Edition: Homeless Child Remy",
+    "Nobody's Girl Remi",
+    "Remi the Homeless Girl",
+    "世界名作劇場・完結版 家なき子レミ",
+    "Ie Naki Ko Remy Specials (2001)"
+  ],
+  "type": "tv",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1677.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1677",
+      "url": "https://anilist.co/anime/1677"
+    },
+    "ap": {
+      "id": "B07WWJBV3K",
+      "url": "https://www.amazon.com/gp/video/detail/B07WWJBV3K"
+    },
+    "mal": {
+      "id": "1677",
+      "url": "https://myanimelist.net/anime/1677"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2359,
+  "slug": "doraemon-nobita-no-wan-nyan-jikuuden",
+  "kind": "anime",
+  "title": "Doraemon: Nobita no Wan Nyan Jikuuden",
+  "titles": {
+    "default": "Doraemon: Nobita no Wan Nyan Jikuuden",
+    "romaji": "Doraemon: Nobita no Wan Nyan Jikuuden",
+    "english": "Doraemon: Nobita's Wannyan Space-Time Legend",
+    "native": "ドラえもん のび太のワンニャン時空伝"
+  },
+  "synonyms": [
+    "Doraemon: Nobita no Wan Nyan Jikuuden",
+    "Doraemon: Nobita's Wannyan Space-Time Legend",
+    "ドラえもん のび太のワンニャン時空伝",
+    "Crayon Shin-chan Movie 12: Arashi wo Yobu! Yuuhi no Kasukabe Boys",
+    "映画 クレヨンしんちゃん　嵐を呼ぶ！夕陽のカスカベボーイズ",
+    "Eiga Crayon Shin-chan: Arashi o Yobu! Yuhi no Kasukabe Boys",
+    "Crayon Shin-chan: The Storm Called: The Kasukabe Boys of the Evening Sun"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2656.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2656",
+      "url": "https://anilist.co/anime/2656"
+    },
+    "k": {
+      "id": "5313",
+      "url": "https://kitsu.io/anime/5313"
+    },
+    "mal": {
+      "id": "2656",
+      "url": "https://myanimelist.net/anime/2656"
+    }
+  }
+}

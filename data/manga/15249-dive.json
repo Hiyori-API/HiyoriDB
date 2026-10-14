@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15249,
+  "slug": "dive",
+  "kind": "manga",
+  "title": "Dive!!",
+  "titles": {
+    "default": "Dive!!"
+  },
+  "synonyms": [
+    "Dive!!",
+    "ダイブ!!",
+    "Maburaho",
+    "まぶらほ",
+    "Maburaho Tanpen"
+  ],
+  "type": "novel",
+  "chapters": 45,
+  "volumes": 4,
+  "status": "finished",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/99825-9XREHDGLULRd.png"
+  ],
+  "references": {
+    "al": {
+      "id": "97921",
+      "url": "https://anilist.co/anime/97921"
+    },
+    "al_manga": {
+      "id": "97921",
+      "url": "https://anilist.co/manga/97921"
+    }
+  }
+}

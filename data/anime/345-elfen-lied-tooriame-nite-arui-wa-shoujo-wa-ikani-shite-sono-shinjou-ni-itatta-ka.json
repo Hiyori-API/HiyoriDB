@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 345,
+  "slug": "elfen-lied-tooriame-nite-arui-wa-shoujo-wa-ikani-shite-sono-shinjou-ni-itatta-ka",
+  "kind": "anime",
+  "title": "Elfen Lied: Tooriame nite - Arui wa, Shoujo wa Ikani Shite Sono Shinjou ni Itatta ka?",
+  "titles": {
+    "default": "Elfen Lied: Tooriame nite - Arui wa, Shoujo wa Ikani Shite Sono Shinjou ni Itatta ka?",
+    "romaji": "Elfen Lied: Tooriame nite - Arui wa, Shoujo wa Ikani Shite Sono Shinjou ni Itatta ka?",
+    "english": "Elfen Lied: Just How Did the Young Girl Arrive at Those Feelings?",
+    "native": "エルフェンリート 通り雨にて 或いは、少女はいかにしてその心情に至ったか?（REGENSCHAUER）"
+  },
+  "synonyms": [
+    "Elfen Lied: Tooriame nite - Arui wa, Shoujo wa Ikani Shite Sono Shinjou ni Itatta ka?",
+    "Elfen Lied: Just How Did the Young Girl Arrive at Those Feelings?",
+    "エルフェンリート 通り雨にて 或いは、少女はいかにしてその心情に至ったか?（REGENSCHAUER）",
+    "Elfen Lied OVA",
+    "Elfen Lied Special",
+    "エルフェンリート 特別編",
+    "Elfen Lied: In Passing Showers",
+    "Elfen Lied: E14 - Bajo la lluvia",
+    "Boku wa Imouto ni Koi wo Suru",
+    "僕は妹に恋をする",
+    "I'm My Little Sister's Secret",
+    "I'm in Love With My Little Sister"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b376-BWSoURbn8HZR.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "376",
+      "url": "https://anilist.co/anime/376"
+    },
+    "k": {
+      "id": "726",
+      "url": "https://kitsu.io/anime/726"
+    },
+    "mal": {
+      "id": "376",
+      "url": "https://myanimelist.net/anime/376"
+    }
+  }
+}

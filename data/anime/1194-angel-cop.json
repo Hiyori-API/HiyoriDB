@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1194,
+  "slug": "angel-cop",
+  "kind": "anime",
+  "title": "Angel Cop",
+  "titles": {
+    "default": "Angel Cop",
+    "romaji": "Angel Cop",
+    "native": "エンジェルコップ"
+  },
+  "synonyms": [
+    "Angel Cop",
+    "エンジェルコップ"
+  ],
+  "type": "ova",
+  "episodes": 6,
+  "status": "finished",
+  "season": "fall",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1351-jSbFKT36hmv6.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1351",
+      "url": "https://anilist.co/anime/1351"
+    },
+    "cr": {
+      "id": "series/G24H1NWNJ/angel-cop",
+      "url": "https://www.crunchyroll.com/series/series/G24H1NWNJ/angel-cop"
+    },
+    "k": {
+      "id": "1206",
+      "url": "https://kitsu.io/anime/1206"
+    },
+    "mal": {
+      "id": "1351",
+      "url": "https://myanimelist.net/anime/1351"
+    }
+  }
+}

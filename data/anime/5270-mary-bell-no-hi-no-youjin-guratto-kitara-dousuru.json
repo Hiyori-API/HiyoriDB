@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5270,
+  "slug": "mary-bell-no-hi-no-youjin-guratto-kitara-dousuru",
+  "kind": "anime",
+  "title": "Mary Bell no Hi no Youjin: Guratto Kitara Dousuru",
+  "titles": {
+    "default": "Mary Bell no Hi no Youjin: Guratto Kitara Dousuru",
+    "romaji": "Mary Bell no Hi no Youjin: Guratto Kitara Dousuru",
+    "native": "マリーベルの火の用心　グラッときたらどうする"
+  },
+  "synonyms": [
+    "Mary Bell no Hi no Youjin: Guratto Kitara Dousuru",
+    "マリーベルの火の用心　グラッときたらどうする",
+    "Ushio and Tora: Comically Deformed Theater",
+    "Ushio to Tora: Comically Deformed Theater",
+    "うしおととら コミカル・デフォルメ劇場",
+    "Ushio & Tora: Comically Deformed Theater"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b213100-5lZ93tHHlNHz.png"
+  ],
+  "references": {
+    "al": {
+      "id": "213100",
+      "url": "https://anilist.co/anime/213100"
+    },
+    "k": {
+      "id": "4050",
+      "url": "https://kitsu.io/anime/4050"
+    },
+    "mal": {
+      "id": "39153",
+      "url": "https://myanimelist.net/anime/39153"
+    }
+  }
+}

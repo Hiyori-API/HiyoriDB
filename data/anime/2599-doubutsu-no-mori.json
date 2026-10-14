@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2599,
+  "slug": "doubutsu-no-mori",
+  "kind": "anime",
+  "title": "Doubutsu no Mori",
+  "titles": {
+    "default": "Doubutsu no Mori",
+    "romaji": "Doubutsu no Mori",
+    "native": "どうぶつの森"
+  },
+  "synonyms": [
+    "Doubutsu no Mori",
+    "どうぶつの森",
+    "Animal Forest",
+    "Animal Crossing",
+    "Animal Crossing: The Movie"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2950-CclgYXpqfbGh.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2950",
+      "url": "https://anilist.co/anime/2950"
+    },
+    "k": {
+      "id": "2670",
+      "url": "https://kitsu.io/anime/2670"
+    },
+    "mal": {
+      "id": "2950",
+      "url": "https://myanimelist.net/anime/2950"
+    }
+  }
+}

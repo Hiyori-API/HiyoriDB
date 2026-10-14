@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15689,
+  "slug": "akane-iro-ni-somaru-saka",
+  "kind": "manga",
+  "title": "Akane-iro ni Somaru Saka",
+  "titles": {
+    "default": "Akane-iro ni Somaru Saka"
+  },
+  "synonyms": [
+    "あかね色に染まる坂",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "chapters": 11,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx38897-eT00zv9WlruZ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4744",
+      "url": "https://anilist.co/anime/4744"
+    },
+    "al_manga": {
+      "id": "4744",
+      "url": "https://anilist.co/manga/4744"
+    }
+  }
+}

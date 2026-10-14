@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5398,
+  "slug": "maze-bakunetsu-jikuu-tenpen-kyoui-no-giant",
+  "kind": "anime",
+  "title": "MAZE☆Bakunetsu Jikuu: Tenpen Kyoui no Giant",
+  "titles": {
+    "default": "MAZE☆Bakunetsu Jikuu: Tenpen Kyoui no Giant",
+    "romaji": "MAZE☆Bakunetsu Jikuu: Tenpen Kyoui no Giant",
+    "native": "MAZE☆爆熱時空 天変脅威の大巨人"
+  },
+  "synonyms": [
+    "MAZE☆Bakunetsu Jikuu: Tenpen Kyoui no Giant",
+    "MAZE☆爆熱時空 天変脅威の大巨人",
+    "MAZE Bakunetsu Jikuu Movie",
+    "MAZE Movie",
+    "MAZE☆The Mega-Burst Space Movie",
+    "Maze☆Bakunetsu Jikuu: Tenpen Kyoui no Giant",
+    "Maze Bakunetsu Jikuu Movie"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx8442-UBpY6w1S4Nmu.png"
+  ],
+  "references": {
+    "al": {
+      "id": "8442",
+      "url": "https://anilist.co/anime/8442"
+    },
+    "k": {
+      "id": "5336",
+      "url": "https://kitsu.io/anime/5336"
+    },
+    "mal": {
+      "id": "8442",
+      "url": "https://myanimelist.net/anime/8442"
+    }
+  }
+}

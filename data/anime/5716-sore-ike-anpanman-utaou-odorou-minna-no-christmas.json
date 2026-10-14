@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5716,
+  "slug": "sore-ike-anpanman-utaou-odorou-minna-no-christmas",
+  "kind": "anime",
+  "title": "Sore Ike! Anpanman: Utaou! Odorou! Minna no Christmas",
+  "titles": {
+    "default": "Sore Ike! Anpanman: Utaou! Odorou! Minna no Christmas",
+    "romaji": "Sore Ike! Anpanman: Utaou! Odorou! Minna no Christmas",
+    "native": "それいけ!アンパンマン うたおう!おどろう!みんなのクリスマス"
+  },
+  "synonyms": [
+    "Sore Ike! Anpanman: Utaou! Odorou! Minna no Christmas",
+    "それいけ!アンパンマン うたおう!おどろう!みんなのクリスマス",
+    "Go! Anpanman: Sing! Dance! Everybody's Christmas",
+    "Sore Ike! Anpanman: Sing! Dance! Everybody's Christmas",
+    "House Hunting",
+    "Yadosagashi",
+    "やどさがし",
+    "Looking for a Home"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17006.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "17006",
+      "url": "https://anilist.co/anime/17006"
+    },
+    "k": {
+      "id": "3111",
+      "url": "https://kitsu.io/anime/3111"
+    },
+    "mal": {
+      "id": "17006",
+      "url": "https://myanimelist.net/anime/17006"
+    }
+  }
+}

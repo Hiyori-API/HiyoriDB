@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7323,
+  "slug": "world-fool-news",
+  "kind": "anime",
+  "title": "World Fool News",
+  "titles": {
+    "default": "World Fool News",
+    "romaji": "World Fool News",
+    "native": "ワールド フールニュース"
+  },
+  "synonyms": [
+    "World Fool News",
+    "ワールド フールニュース"
+  ],
+  "type": "ona",
+  "episodes": 6,
+  "status": "finished",
+  "season": "spring",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18205.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "18205",
+      "url": "https://anilist.co/anime/18205"
+    },
+    "k": {
+      "id": "8527",
+      "url": "https://kitsu.io/anime/8527"
+    },
+    "mal": {
+      "id": "24437",
+      "url": "https://myanimelist.net/anime/24437"
+    },
+    "yt": {
+      "id": "Al_tcWxGHgw",
+      "url": "https://www.youtube.com/watch?v=Al_tcWxGHgw"
+    }
+  }
+}

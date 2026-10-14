@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13607,
+  "slug": "harem-tou-e-youkoso",
+  "kind": "anime",
+  "title": "Harem-tou e Youkoso!",
+  "titles": {
+    "default": "Harem-tou e Youkoso!",
+    "romaji": "Harem-tou e Youkoso!",
+    "native": "ハーレム島へようこそ！"
+  },
+  "synonyms": [
+    "Harem-tou e Youkoso!",
+    "ハーレム島へようこそ！",
+    "Welcome to Paradise Island!",
+    "Harem Shima e Youkoso!",
+    "Ultra Maniac OVA",
+    "ウルトラマニアック",
+    "Tokimeki Fushigi Diary: Ultra Maniac"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "airing",
+  "season": "summer",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211338-If49uIjNKPgt.png"
+  ],
+  "references": {
+    "al": {
+      "id": "211338",
+      "url": "https://anilist.co/anime/211338"
+    },
+    "k": {
+      "id": "156",
+      "url": "https://kitsu.io/anime/156"
+    },
+    "mal": {
+      "id": "64095",
+      "url": "https://myanimelist.net/anime/64095"
+    }
+  }
+}

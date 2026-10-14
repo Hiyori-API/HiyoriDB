@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7140,
+  "slug": "kira-kira-5th-anniversary-live-anime-kick-start-generation",
+  "kind": "anime",
+  "title": "Kira☆Kira 5th Anniversary Live Anime: KICK START GENERATION",
+  "titles": {
+    "default": "Kira☆Kira 5th Anniversary Live Anime: KICK START GENERATION",
+    "romaji": "Kira☆Kira 5th Anniversary Live Anime: KICK START GENERATION",
+    "native": "キラ☆キラ 5th Anniversary Live Anime KICK START GENERATION"
+  },
+  "synonyms": [
+    "Kira☆Kira 5th Anniversary Live Anime: KICK START GENERATION",
+    "キラ☆キラ 5th Anniversary Live Anime KICK START GENERATION",
+    "Kira Kira 5th Anniversary Live Anime: Kick Start Generation"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15279.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "15279",
+      "url": "https://anilist.co/anime/15279"
+    },
+    "k": {
+      "id": "7235",
+      "url": "https://kitsu.io/anime/7235"
+    },
+    "mal": {
+      "id": "15279",
+      "url": "https://myanimelist.net/anime/15279"
+    }
+  }
+}

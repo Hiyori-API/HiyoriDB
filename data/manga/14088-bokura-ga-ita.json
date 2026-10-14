@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14088,
+  "slug": "bokura-ga-ita",
+  "kind": "manga",
+  "title": "Bokura ga Ita",
+  "titles": {
+    "default": "Bokura ga Ita"
+  },
+  "synonyms": [
+    "C'était nous",
+    "Here We Are",
+    "Érase una vez nosotros",
+    "우리들이 있었다",
+    "Takoví jsme byli",
+    "We Were There",
+    "僕等がいた",
+    "Fujisan",
+    "富士山",
+    "Fuji-san"
+  ],
+  "type": "manga",
+  "chapters": 74,
+  "volumes": 16,
+  "status": "finished",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31031-2eOpCSSpI7DM.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1222",
+      "url": "https://anilist.co/anime/1222"
+    },
+    "al_manga": {
+      "id": "1222",
+      "url": "https://anilist.co/manga/1222"
+    }
+  }
+}

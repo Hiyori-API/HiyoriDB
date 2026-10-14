@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2043,
+  "slug": "shounen-kenya",
+  "kind": "anime",
+  "title": "Shounen Kenya",
+  "titles": {
+    "default": "Shounen Kenya",
+    "romaji": "Shounen Kenya",
+    "english": "Kenya Boy",
+    "native": "少年ケニヤ"
+  },
+  "synonyms": [
+    "Shounen Kenya",
+    "Kenya Boy",
+    "少年ケニヤ",
+    "KB",
+    "Shounen Keniya",
+    "Jungle Boy",
+    "Jumping",
+    "ジャンピング"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1984,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx2311-w6yd3u52T1P5.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2311",
+      "url": "https://anilist.co/anime/2311"
+    },
+    "k": {
+      "id": "2002",
+      "url": "https://kitsu.io/anime/2002"
+    },
+    "mal": {
+      "id": "2311",
+      "url": "https://myanimelist.net/anime/2311"
+    }
+  }
+}

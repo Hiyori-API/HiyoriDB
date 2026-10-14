@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15737,
+  "slug": "shukufuku-no-campanella",
+  "kind": "manga",
+  "title": "Shukufuku no Campanella",
+  "titles": {
+    "default": "Shukufuku no Campanella"
+  },
+  "synonyms": [
+    "Shukufuku no Kanpanera",
+    "La Campanella Della Benedizione",
+    "The Campanella of the Blessing!",
+    "祝福のカンパネラ",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "volumes": 3,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/16381.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6979",
+      "url": "https://anilist.co/anime/6979"
+    },
+    "al_manga": {
+      "id": "6979",
+      "url": "https://anilist.co/manga/6979"
+    }
+  }
+}

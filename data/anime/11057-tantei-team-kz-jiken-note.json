@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11057,
+  "slug": "tantei-team-kz-jiken-note",
+  "kind": "anime",
+  "title": "Tantei Team KZ Jiken Note",
+  "titles": {
+    "default": "Tantei Team KZ Jiken Note",
+    "romaji": "Tantei Team KZ Jiken Note",
+    "native": "探偵チームＫＺ事件ノート"
+  },
+  "synonyms": [
+    "Tantei Team KZ Jiken Note",
+    "探偵チームＫＺ事件ノート",
+    "The Disappearance of Nagato Yuki-chan",
+    "Nagato Yuki-chan no Shoushitsu",
+    "長門有希ちゃんの消失",
+    "The Vanishing of Nagato Yuki-chan"
+  ],
+  "type": "tv",
+  "episodes": 16,
+  "status": "finished",
+  "season": "fall",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21283-SUCnXw3ILEVT.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21283",
+      "url": "https://anilist.co/anime/21283"
+    },
+    "cr": {
+      "id": "tantei-team-kz-jiken-note",
+      "url": "https://www.crunchyroll.com/series/tantei-team-kz-jiken-note"
+    },
+    "k": {
+      "id": "8144",
+      "url": "https://kitsu.io/anime/8144"
+    },
+    "mal": {
+      "id": "31221",
+      "url": "https://myanimelist.net/anime/31221"
+    },
+    "t": {
+      "id": "96680",
+      "url": "https://trakt.tv/shows/96680"
+    }
+  }
+}

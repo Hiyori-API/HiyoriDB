@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 296,
+  "slug": "petshop-of-horrors",
+  "kind": "anime",
+  "title": "Petshop of Horrors",
+  "titles": {
+    "default": "Petshop of Horrors",
+    "romaji": "Petshop of Horrors"
+  },
+  "synonyms": [
+    "Petshop of Horrors",
+    "Pet Shop of Horrors",
+    "ペットショップ・オブ・ホラーズ",
+    "Pet Shop of Horrors (ペットショップ・オブ・ホラーズ)"
+  ],
+  "type": "tv",
+  "episodes": 4,
+  "status": "finished",
+  "season": "winter",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx326-dCwCoSAE7dWZ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "326",
+      "url": "https://anilist.co/anime/326"
+    },
+    "k": {
+      "id": "293",
+      "url": "https://kitsu.io/anime/293"
+    },
+    "mal": {
+      "id": "326",
+      "url": "https://myanimelist.net/anime/326"
+    },
+    "t": {
+      "id": "45212",
+      "url": "https://trakt.tv/shows/45212"
+    }
+  }
+}

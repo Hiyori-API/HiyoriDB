@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14940,
+  "slug": "kidou-senshi-gundam-gyakushuu-no-char",
+  "kind": "manga",
+  "title": "Kidou Senshi Gundam: Gyakushuu no Char",
+  "titles": {
+    "default": "Kidou Senshi Gundam: Gyakushuu no Char"
+  },
+  "synonyms": [
+    "Mobile Suit Gundam: Char's Counterattack",
+    "機動戦士ガンダム 逆襲のシャア",
+    "Love Hina",
+    "ラブひな"
+  ],
+  "type": "manga",
+  "chapters": 4,
+  "volumes": 1,
+  "status": "finished",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx90921-Tkc6yODisG9i.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "87",
+      "url": "https://anilist.co/anime/87"
+    },
+    "al_manga": {
+      "id": "87",
+      "url": "https://anilist.co/manga/87"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1932,
+  "slug": "highlander",
+  "kind": "anime",
+  "title": "Highlander",
+  "titles": {
+    "default": "Highlander",
+    "romaji": "Highlander",
+    "english": "Highlander: The Search for Vengeance",
+    "native": "ハイランダー"
+  },
+  "synonyms": [
+    "Highlander",
+    "Highlander: The Search for Vengeance",
+    "ハイランダー",
+    "Highlander: Vengeance",
+    "ハイランダー 〜ディレクターズカット版〜",
+    "Highlander: Director's Cut-han",
+    "Tumulus Gal Coffy: The Battle of Okehazama",
+    "Cofun Gal no Coffy: Okehazama no Tatakai",
+    "古墳ギャルのコフィー　～桶狭間の戦い～",
+    "Cofun Gal no Coffy Movie 1"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2178.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2178",
+      "url": "https://anilist.co/anime/2178"
+    },
+    "k": {
+      "id": "6981",
+      "url": "https://kitsu.io/anime/6981"
+    },
+    "mal": {
+      "id": "2178",
+      "url": "https://myanimelist.net/anime/2178"
+    }
+  }
+}

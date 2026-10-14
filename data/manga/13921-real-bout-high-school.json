@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13921,
+  "slug": "real-bout-high-school",
+  "kind": "manga",
+  "title": "Real Bout High School",
+  "titles": {
+    "default": "Real Bout High School"
+  },
+  "synonyms": [
+    "Samurai Girl",
+    "Samurai Girl: Real Bout High School",
+    "リアルバウトハイスクール",
+    "Love Hina",
+    "ラブひな"
+  ],
+  "type": "manga",
+  "chapters": 45,
+  "volumes": 6,
+  "status": "finished",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30496-OQBIt2zToMGZ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1098",
+      "url": "https://anilist.co/anime/1098"
+    },
+    "al_manga": {
+      "id": "1098",
+      "url": "https://anilist.co/manga/1098"
+    }
+  }
+}

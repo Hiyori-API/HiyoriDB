@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7684,
+  "slug": "rokujouma-no-shinryakusha",
+  "kind": "anime",
+  "title": "Rokujouma no Shinryakusha!?",
+  "titles": {
+    "default": "Rokujouma no Shinryakusha!?",
+    "romaji": "Rokujouma no Shinryakusha!?",
+    "english": "Invaders of the Rokujoma!?",
+    "native": "六畳間の侵略者!?"
+  },
+  "synonyms": [
+    "Rokujouma no Shinryakusha!?",
+    "Invaders of the Rokujoma!?",
+    "六畳間の侵略者!?",
+    "ห้องเช่าป่วนก๊วนคนแปลก",
+    "Sabagebu! -Survival Game Club!-",
+    "Sabage-bu!",
+    "さばげぶっ!",
+    "Survival Game Club!"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20638-SbFNGXcc4Fgi.png"
+  ],
+  "references": {
+    "al": {
+      "id": "20638",
+      "url": "https://anilist.co/anime/20638"
+    },
+    "cr": {
+      "id": "sabagebu-survival-game-club-",
+      "url": "https://www.crunchyroll.com/series/sabagebu-survival-game-club-"
+    },
+    "k": {
+      "id": "8016",
+      "url": "https://kitsu.io/anime/8016"
+    },
+    "mal": {
+      "id": "22865",
+      "url": "https://myanimelist.net/anime/22865"
+    },
+    "t": {
+      "id": "77560",
+      "url": "https://trakt.tv/shows/77560"
+    }
+  }
+}

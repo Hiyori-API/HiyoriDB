@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11005,
+  "slug": "momoya-peeping-life-go-en-desu-yo",
+  "kind": "anime",
+  "title": "Momoya × Peeping Life: Go en Desu yo!",
+  "titles": {
+    "default": "Momoya × Peeping Life: Go en Desu yo!",
+    "romaji": "Momoya × Peeping Life: Go en Desu yo!",
+    "native": "桃屋×Peeping Life ご縁ですよ！"
+  },
+  "synonyms": [
+    "Momoya × Peeping Life: Go en Desu yo!",
+    "桃屋×Peeping Life ご縁ですよ！",
+    "Peeping Life: This Is Fate!",
+    "Momoya x Peeping Life: Go en Desu yo!"
+  ],
+  "type": "ona",
+  "episodes": 4,
+  "status": "finished",
+  "season": "spring",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19337.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "19337",
+      "url": "https://anilist.co/anime/19337"
+    },
+    "k": {
+      "id": "8369",
+      "url": "https://kitsu.io/anime/8369"
+    },
+    "mal": {
+      "id": "19337",
+      "url": "https://myanimelist.net/anime/19337"
+    }
+  }
+}

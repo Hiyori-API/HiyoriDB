@@ -1,0 +1,72 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6923,
+  "slug": "pocket-monsters-best-wishes-season-2",
+  "kind": "anime",
+  "title": "Pocket Monsters Best Wishes! Season 2",
+  "titles": {
+    "default": "Pocket Monsters Best Wishes! Season 2",
+    "romaji": "Pocket Monsters Best Wishes! Season 2",
+    "english": "Pokémon BW: Rival Destinies",
+    "native": "ポケットモンスター ベストウイッシュ シーズン2"
+  },
+  "synonyms": [
+    "Pocket Monsters Best Wishes! Season 2",
+    "Pokémon BW: Rival Destinies",
+    "ポケットモンスター ベストウイッシュ シーズン2",
+    "Pocket Monsters: Best Wishes! 2",
+    "Pokemon: Rival Destinies",
+    "Pokémon: BW Rivaliserende skjebner",
+    "Pokémon Nero e Bianco: Destini Rivali",
+    "Pokémon Černý a Bílý: Opačné Osudy",
+    "Pokémon: BW Rivaliserende Lotsbestemmingen",
+    "Pokémon: BW Kilpailevat kohtalot",
+    "Pokémon Noir & Blanc: Destinées Rivales",
+    "Pokémon Schwarz & Weiß: Rivalen des Schicksals",
+    "Πόκεμον Μαύρο & Άσπρο: Αντίπαλα Πεπρωμένα",
+    "पोकेमोन: BW राईवल डेस्टिनीस",
+    "Pokémon Czerń i Biel: Ścieżki Przeznaczenia",
+    "Pokémon Preto e Branco: Destinos Rivais",
+    "Покемон: Чёрное и Белое - Судьбы Соперников",
+    "Покемон: ЧБ Судьбы соперников",
+    "Pokémon Negro y Blanco: Destinos Rivales",
+    "Pokémon: BW Rivaliserande Öden",
+    "பொகெமொன்: BW ரைவல் டெஸ்டினிஸ்",
+    "పోకీమాన్: BW రివల్ డెస్టినీస్",
+    "Pokémon Siyah ve Beyaz: Rakip Yazgılar﻿",
+    "Muv-Luv Alternative: Total Eclipse",
+    "マブラヴ オルタネイティヴ トータル・イクリプス",
+    "MuvLuv Alternative Total Eclipse",
+    "MLA TE"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "summer",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14093-1O75wVFVAiDY.png"
+  ],
+  "references": {
+    "al": {
+      "id": "14093",
+      "url": "https://anilist.co/anime/14093"
+    },
+    "cr": {
+      "id": "total-eclipse",
+      "url": "https://www.crunchyroll.com/series/total-eclipse"
+    },
+    "k": {
+      "id": "6442",
+      "url": "https://kitsu.io/anime/6442"
+    },
+    "mal": {
+      "id": "14093",
+      "url": "https://myanimelist.net/anime/14093"
+    },
+    "t": {
+      "id": "66989",
+      "url": "https://trakt.tv/shows/66989"
+    }
+  }
+}

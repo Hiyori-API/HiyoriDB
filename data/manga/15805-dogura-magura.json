@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15805,
+  "slug": "dogura-magura",
+  "kind": "manga",
+  "title": "Dogura Magura",
+  "titles": {
+    "default": "Dogura Magura"
+  },
+  "synonyms": [
+    "Dogra Magra",
+    "ドグラ・マグラ",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "chapters": 9,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b107983-wb0di6Xs35kQ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "182141",
+      "url": "https://anilist.co/anime/182141"
+    },
+    "al_manga": {
+      "id": "182141",
+      "url": "https://anilist.co/manga/182141"
+    }
+  }
+}

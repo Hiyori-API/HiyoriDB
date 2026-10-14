@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8777,
+  "slug": "kubikiri-cycle-aoiro-savant-to-zaregotozukai",
+  "kind": "anime",
+  "title": "Kubikiri Cycle: Aoiro Savant to Zaregotozukai",
+  "titles": {
+    "default": "Kubikiri Cycle: Aoiro Savant to Zaregotozukai",
+    "romaji": "Kubikiri Cycle: Aoiro Savant to Zaregotozukai",
+    "english": "Kubikiri Cycle: The Blue Savant and the Nonsense User",
+    "native": "クビキリサイクル 青色サヴァンと戯言遣い"
+  },
+  "synonyms": [
+    "Kubikiri Cycle: Aoiro Savant to Zaregotozukai",
+    "Kubikiri Cycle: The Blue Savant and the Nonsense User",
+    "クビキリサイクル 青色サヴァンと戯言遣い",
+    "Zaregoto Series",
+    "Decapitation Cycle",
+    "Kubikiri Cycle: Aoiro Savant to Zaregoto Tsukai",
+    "The Headless Cycle",
+    "The Beheading Cycle: The Blue Savant and the Nonsense Bearer",
+    "The Kubikiri Cycle"
+  ],
+  "type": "ova",
+  "episodes": 8,
+  "status": "finished",
+  "season": "fall",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21803-BAQClgq6Q0DP.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21803",
+      "url": "https://anilist.co/anime/21803"
+    },
+    "mal": {
+      "id": "33263",
+      "url": "https://myanimelist.net/anime/33263"
+    },
+    "tx": {
+      "id": "nisioisin_anime",
+      "url": "https://twitter.com/nisioisin_anime"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4998,
+  "slug": "tama-friends-3-choume-monogatari",
+  "kind": "anime",
+  "title": "TAMA & FRIENDS: 3 Choume Monogatari",
+  "titles": {
+    "default": "TAMA & FRIENDS: 3 Choume Monogatari",
+    "romaji": "TAMA & FRIENDS: 3 Choume Monogatari",
+    "native": "TAMA&FRIENDS 3丁目物語"
+  },
+  "synonyms": [
+    "TAMA & FRIENDS: 3 Choume Monogatari",
+    "TAMA&FRIENDS 3丁目物語",
+    "タマ&フレンズ 3丁目物語",
+    "Tama & Friends: Third Street Story",
+    "うちのタマ知りませんか? オリジナルシリーズ",
+    "Uchi no Tama Shirimasen ka? Original Series",
+    "Kidou Keisatsu Patlabor",
+    "Patlabor: The Mobile Police",
+    "機動警察パトレイバー",
+    "Patlabor The Mobile Police: The Original Series",
+    "Kido Keisatsu Patlabor: Early Days",
+    "Mobile Police Patlabor"
+  ],
+  "type": "ova",
+  "episodes": 7,
+  "status": "finished",
+  "season": "fall",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b151763-0I4HVCv4erd0.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "151763",
+      "url": "https://anilist.co/anime/151763"
+    },
+    "k": {
+      "id": "1162",
+      "url": "https://kitsu.io/anime/1162"
+    },
+    "mal": {
+      "id": "1288",
+      "url": "https://myanimelist.net/anime/1288"
+    }
+  }
+}

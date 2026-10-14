@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4655,
+  "slug": "wan-wan-chuushingura",
+  "kind": "anime",
+  "title": "Wan Wan Chuushingura",
+  "titles": {
+    "default": "Wan Wan Chuushingura",
+    "romaji": "Wan Wan Chuushingura",
+    "native": "わんわん忠臣蔵"
+  },
+  "synonyms": [
+    "Wan Wan Chuushingura",
+    "わんわん忠臣蔵",
+    "Doggie March"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1963,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9228-UvXR069uBSJy.png"
+  ],
+  "references": {
+    "al": {
+      "id": "9228",
+      "url": "https://anilist.co/anime/9228"
+    },
+    "k": {
+      "id": "5638",
+      "url": "https://kitsu.io/anime/5638"
+    },
+    "mal": {
+      "id": "9228",
+      "url": "https://myanimelist.net/anime/9228"
+    }
+  }
+}

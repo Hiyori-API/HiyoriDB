@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 567,
+  "slug": "onmyou-tai-senki",
+  "kind": "anime",
+  "title": "Onmyou Tai Senki",
+  "titles": {
+    "default": "Onmyou Tai Senki",
+    "romaji": "Onmyou Tai Senki",
+    "native": "陰陽大戦記"
+  },
+  "synonyms": [
+    "Onmyou Tai Senki",
+    "陰陽大戦記",
+    "Onmyou Taisenki",
+    "The Chronicle of the Big Battle between Yin and Yang"
+  ],
+  "type": "tv",
+  "episodes": 52,
+  "status": "finished",
+  "season": "fall",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx613-ZVhexGR0Gk1C.png"
+  ],
+  "references": {
+    "al": {
+      "id": "613",
+      "url": "https://anilist.co/anime/613"
+    },
+    "k": {
+      "id": "568",
+      "url": "https://kitsu.io/anime/568"
+    },
+    "mal": {
+      "id": "613",
+      "url": "https://myanimelist.net/anime/613"
+    },
+    "t": {
+      "id": "34028",
+      "url": "https://trakt.tv/shows/34028"
+    }
+  }
+}

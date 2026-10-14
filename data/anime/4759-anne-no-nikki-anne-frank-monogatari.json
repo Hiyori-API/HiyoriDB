@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4759,
+  "slug": "anne-no-nikki-anne-frank-monogatari",
+  "kind": "anime",
+  "title": "Anne no Nikki: Anne Frank Monogatari",
+  "titles": {
+    "default": "Anne no Nikki: Anne Frank Monogatari",
+    "romaji": "Anne no Nikki: Anne Frank Monogatari",
+    "native": "アンネの日記　アンネ・フランク物語"
+  },
+  "synonyms": [
+    "Anne no Nikki: Anne Frank Monogatari",
+    "アンネの日記　アンネ・フランク物語",
+    "Anne Frank Monogatari: Anne no Nikki to Douwa Yori",
+    "Daddy Long-Legs",
+    "Ashinaga Ojisan",
+    "あしながおじさん"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1979,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b12027-mhbVdI7CMfr4.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12027",
+      "url": "https://anilist.co/anime/12027"
+    },
+    "k": {
+      "id": "8507",
+      "url": "https://kitsu.io/anime/8507"
+    },
+    "mal": {
+      "id": "12027",
+      "url": "https://myanimelist.net/anime/12027"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15265,
+  "slug": "croket",
+  "kind": "manga",
+  "title": "CROKET!",
+  "titles": {
+    "default": "CROKET!"
+  },
+  "synonyms": [
+    "Croquette!",
+    "コロッケ!",
+    "Full Moon wo Sagashite",
+    "満月〈フルムーン〉をさがして",
+    "Searching for the Full Moon",
+    "Ginyuu Meika"
+  ],
+  "type": "manga",
+  "chapters": 84,
+  "volumes": 15,
+  "status": "finished",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx47005-UELfJizUHMVM.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5071",
+      "url": "https://anilist.co/anime/5071"
+    },
+    "al_manga": {
+      "id": "5071",
+      "url": "https://anilist.co/manga/5071"
+    }
+  }
+}

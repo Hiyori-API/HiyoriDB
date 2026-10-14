@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9817,
+  "slug": "youkai-watch-forever-friends",
+  "kind": "anime",
+  "title": "Youkai Watch: FOREVER FRIENDS",
+  "titles": {
+    "default": "Youkai Watch: FOREVER FRIENDS",
+    "romaji": "Youkai Watch: FOREVER FRIENDS",
+    "native": "映画 妖怪ウォッチ FOREVER FRIENDS"
+  },
+  "synonyms": [
+    "Youkai Watch: FOREVER FRIENDS",
+    "映画 妖怪ウォッチ FOREVER FRIENDS",
+    "Youkai Watch: Forever Friends",
+    "Youkai Watch Movie 5: Forever Friends",
+    "Eiga Youkai Watch: Forever Friends"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103050-4NJ7yDf7iA2J.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "103050",
+      "url": "https://anilist.co/anime/103050"
+    },
+    "mal": {
+      "id": "37969",
+      "url": "https://myanimelist.net/anime/37969"
+    },
+    "tx": {
+      "id": "eiga_yokai",
+      "url": "https://twitter.com/eiga_yokai"
+    }
+  }
+}

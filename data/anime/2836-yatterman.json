@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2836,
+  "slug": "yatterman",
+  "kind": "anime",
+  "title": "Yatterman",
+  "titles": {
+    "default": "Yatterman",
+    "romaji": "Yatterman",
+    "native": "ヤッターマン"
+  },
+  "synonyms": [
+    "Yatterman",
+    "ヤッターマン",
+    "Yattaman New Series",
+    "Yattaman Remake",
+    "Yattaaman 2",
+    "Yatterman (2008)"
+  ],
+  "type": "tv",
+  "episodes": 60,
+  "status": "finished",
+  "season": "winter",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3295-NmY28wKQFvS1.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3295",
+      "url": "https://anilist.co/anime/3295"
+    },
+    "k": {
+      "id": "2915",
+      "url": "https://kitsu.io/anime/2915"
+    },
+    "mal": {
+      "id": "3295",
+      "url": "https://myanimelist.net/anime/3295"
+    },
+    "t": {
+      "id": "65745",
+      "url": "https://trakt.tv/shows/65745"
+    }
+  }
+}

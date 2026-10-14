@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13757,
+  "slug": "gintama",
+  "kind": "manga",
+  "title": "Gintama",
+  "titles": {
+    "default": "Gintama"
+  },
+  "synonyms": [
+    "Dandelion",
+    "Shiro Kuro",
+    "Black and White",
+    "גינטמה",
+    "กินทามะ",
+    "은혼",
+    "Gin Tama",
+    "銀魂",
+    "Gintama",
+    "Shirokuro",
+    "13",
+    "Thirteen",
+    "Bankara-san ga Tooru",
+    "Here Comes Mr. Uncivilised",
+    "Silver Soul"
+  ],
+  "type": "manga",
+  "chapters": 709,
+  "volumes": 77,
+  "status": "finished",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30044-vPmoz3vTPvZs.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "15335",
+      "url": "https://anilist.co/anime/2951"
+    },
+    "al_manga": {
+      "id": "15335",
+      "url": "https://anilist.co/manga/15335"
+    }
+  }
+}

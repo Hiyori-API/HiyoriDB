@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9557,
+  "slug": "thunderbolt-fantasy-touriken-yuuki-2",
+  "kind": "anime",
+  "title": "Thunderbolt Fantasy: Touriken Yuuki 2",
+  "titles": {
+    "default": "Thunderbolt Fantasy: Touriken Yuuki 2",
+    "romaji": "Thunderbolt Fantasy: Touriken Yuuki 2",
+    "english": "Thunderbolt Fantasy Sword Seekers 2",
+    "native": "Thunderbolt Fantasy: 東離劍遊紀 2"
+  },
+  "synonyms": [
+    "Thunderbolt Fantasy: Touriken Yuuki 2",
+    "Thunderbolt Fantasy Sword Seekers 2",
+    "Thunderbolt Fantasy: 東離劍遊紀 2",
+    "Thunderbolt Fantasy 2",
+    "Thunderbolt Fantasy: Sword Travels from the East 2",
+    "AoButa",
+    "Rascal Does Not Dream of Bunny Girl Senpai",
+    "青春ブタ野郎はバニーガール先輩の夢を見ない",
+    "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99557-AiXG7q4CsRFG.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "99557",
+      "url": "https://anilist.co/anime/99557"
+    },
+    "cr": {
+      "id": "thunderbolt-fantasy",
+      "url": "https://www.crunchyroll.com/series/thunderbolt-fantasy"
+    },
+    "mal": {
+      "id": "37450",
+      "url": "https://myanimelist.net/anime/37450"
+    },
+    "tx": {
+      "id": "TBF_PR",
+      "url": "https://twitter.com/TBF_PR"
+    }
+  }
+}

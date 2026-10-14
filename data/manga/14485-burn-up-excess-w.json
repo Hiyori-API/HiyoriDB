@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14485,
+  "slug": "burn-up-excess-w",
+  "kind": "manga",
+  "title": "BURN-UP: EXCESS & W",
+  "titles": {
+    "default": "BURN-UP: EXCESS & W"
+  },
+  "synonyms": [
+    "Burn Up",
+    "Burn-Up",
+    "BURN-UP EXCESS&W",
+    "E's",
+    "エス",
+    "E's Otherwise",
+    "Es"
+  ],
+  "type": "manga",
+  "chapters": 3,
+  "volumes": 1,
+  "status": "finished",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b34102-xxPekuWE7zgZ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "370",
+      "url": "https://anilist.co/anime/370"
+    },
+    "al_manga": {
+      "id": "370",
+      "url": "https://anilist.co/manga/370"
+    }
+  }
+}

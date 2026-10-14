@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15309,
+  "slug": "mitama-shinobi",
+  "kind": "manga",
+  "title": "Mitama: Shinobi",
+  "titles": {
+    "default": "Mitama: Shinobi"
+  },
+  "synonyms": [
+    "Mitama: Nin",
+    "御魂～忍～",
+    "Devil May Cry",
+    "デビル メイ クライ",
+    "DMC",
+    "Devil May Cry 2"
+  ],
+  "type": "novel",
+  "volumes": 1,
+  "status": "finished",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b92393-eO88tP4SYNvr.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6120",
+      "url": "https://anilist.co/anime/6120"
+    },
+    "al_manga": {
+      "id": "6120",
+      "url": "https://anilist.co/manga/6120"
+    }
+  }
+}

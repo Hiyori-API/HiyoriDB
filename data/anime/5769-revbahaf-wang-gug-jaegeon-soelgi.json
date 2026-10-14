@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5769,
+  "slug": "revbahaf-wang-gug-jaegeon-soelgi",
+  "kind": "anime",
+  "title": "Revbahaf Wang-gug Jaegeon-soelgi",
+  "titles": {
+    "default": "Revbahaf Wang-gug Jaegeon-soelgi",
+    "romaji": "Revbahaf Wang-gug Jaegeon-soelgi",
+    "native": "르브바하프 왕국 재건설기"
+  },
+  "synonyms": [
+    "Revbahaf Wang-gug Jaegeon-soelgi",
+    "르브바하프 왕국 재건설기",
+    "ルブバハフ王国再建設記",
+    "Revbahaf Kingdom Rebuilding Story",
+    "The Legend of Prince Van",
+    "Revbahaf: The Story of Rebuilding the Kingdom",
+    "Nagasarete Airantou",
+    "ながされて藍蘭島",
+    "Drift off to Blue Orchid Island",
+    "Casted Away - Airan Island"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19467.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "19467",
+      "url": "https://anilist.co/anime/19467"
+    },
+    "cr": {
+      "id": "nagasarete-airanto",
+      "url": "https://www.crunchyroll.com/series/nagasarete-airanto"
+    },
+    "k": {
+      "id": "1543",
+      "url": "https://kitsu.io/anime/1543"
+    },
+    "mal": {
+      "id": "19467",
+      "url": "https://myanimelist.net/anime/19467"
+    },
+    "t": {
+      "id": "34568",
+      "url": "https://trakt.tv/shows/34568"
+    }
+  }
+}

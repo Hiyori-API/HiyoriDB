@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13774,
+  "slug": "ai-yori-aoshi",
+  "kind": "manga",
+  "title": "Ai Yori Aoshi",
+  "titles": {
+    "default": "Ai Yori Aoshi"
+  },
+  "synonyms": [
+    "Bluer than Indigo",
+    "Ai Yori Aoshi",
+    "藍より青し",
+    "Ai yori Aoshi"
+  ],
+  "type": "manga",
+  "chapters": 153,
+  "volumes": 17,
+  "status": "finished",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30075-KALbVbbTDPZ0.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6709",
+      "url": "https://anilist.co/anime/53"
+    },
+    "al_manga": {
+      "id": "6709",
+      "url": "https://anilist.co/manga/6709"
+    }
+  }
+}

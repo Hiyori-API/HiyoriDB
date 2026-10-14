@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5691,
+  "slug": "nepos-napos",
+  "kind": "anime",
+  "title": "Nepos Napos",
+  "titles": {
+    "default": "Nepos Napos",
+    "romaji": "Nepos Napos",
+    "native": "ネポス・ナポス"
+  },
+  "synonyms": [
+    "Nepos Napos",
+    "ネポス・ナポス",
+    "Negima!",
+    "Mahou Sensei Negima!",
+    "魔法先生 ネギま！",
+    "Magister Negi Magi"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "winter",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b180823-b3Pe0T9nZvqC.png"
+  ],
+  "references": {
+    "al": {
+      "id": "180823",
+      "url": "https://anilist.co/anime/180823"
+    },
+    "k": {
+      "id": "135",
+      "url": "https://kitsu.io/anime/135"
+    },
+    "mal": {
+      "id": "30409",
+      "url": "https://myanimelist.net/anime/30409"
+    },
+    "t": {
+      "id": "8813",
+      "url": "https://trakt.tv/shows/8813"
+    }
+  }
+}

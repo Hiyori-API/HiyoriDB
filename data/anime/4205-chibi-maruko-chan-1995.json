@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4205,
+  "slug": "chibi-maruko-chan-1995",
+  "kind": "anime",
+  "title": "Chibi Maruko-chan (1995)",
+  "titles": {
+    "default": "Chibi Maruko-chan (1995)",
+    "romaji": "Chibi Maruko-chan (1995)",
+    "english": "Chibi Maruko-chan",
+    "native": "ちびまる子ちゃん"
+  },
+  "synonyms": [
+    "Chibi Maruko-chan (1995)",
+    "Chibi Maruko-chan",
+    "ちびまる子ちゃん",
+    "Maruko-chan",
+    "Little Miss Maruko",
+    "His and Hers",
+    "Elle et Lui",
+    "Kare Kano: As Razões Dele, Os Motivos Dela",
+    "Las Cosas de El y Ella",
+    "Le Situazioni Di Lui E Lei",
+    "Он и она и их обстоятельства",
+    "男女蹺蹺板",
+    "그남자! 그여자!",
+    "Karekano",
+    "Kare Kano: His and Her Circumstances",
+    "彼氏彼女の事情",
+    "Kareshi Kanojo no Jijou"
+  ],
+  "type": "tv",
+  "status": "airing",
+  "season": "summer",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6149-w9IRcMlFkn4i.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6149",
+      "url": "https://anilist.co/anime/6149"
+    },
+    "cr": {
+      "id": "series/GG5H5XQK4/chibi-maruko-chan",
+      "url": "https://www.crunchyroll.com/series/series/GG5H5XQK4/chibi-maruko-chan"
+    },
+    "mal": {
+      "id": "6149",
+      "url": "https://myanimelist.net/anime/6149"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6072,
+  "slug": "yosuga-no-sora",
+  "kind": "anime",
+  "title": "Yosuga no Sora",
+  "titles": {
+    "default": "Yosuga no Sora",
+    "romaji": "Yosuga no Sora",
+    "english": "Yosuga no Sora: In Solitude Where We are Least Alone",
+    "native": "ヨスガノソラ"
+  },
+  "synonyms": [
+    "Yosuga no Sora",
+    "Yosuga no Sora: In Solitude Where We are Least Alone",
+    "ヨスガノソラ",
+    "Sky of Connection",
+    "缘之空",
+    "MM!",
+    "えむえむっ!",
+    "MM! Group",
+    "Emu Emu!"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx8861-DZKseZpdtBwp.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8861",
+      "url": "https://anilist.co/anime/8861"
+    },
+    "cr": {
+      "id": "yosuga-no-sora-in-solitude-where-we-are-least-alone",
+      "url": "https://www.crunchyroll.com/series/yosuga-no-sora-in-solitude-where-we-are-least-alone"
+    },
+    "k": {
+      "id": "5329",
+      "url": "https://kitsu.io/anime/5329"
+    },
+    "mal": {
+      "id": "8861",
+      "url": "https://myanimelist.net/anime/8861"
+    },
+    "t": {
+      "id": "61067",
+      "url": "https://trakt.tv/shows/61067"
+    }
+  }
+}

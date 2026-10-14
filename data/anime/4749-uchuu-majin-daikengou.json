@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4749,
+  "slug": "uchuu-majin-daikengou",
+  "kind": "anime",
+  "title": "Uchuu Majin Daikengou",
+  "titles": {
+    "default": "Uchuu Majin Daikengou",
+    "romaji": "Uchuu Majin Daikengou",
+    "native": "宇宙魔神ダイケンゴー"
+  },
+  "synonyms": [
+    "Uchuu Majin Daikengou",
+    "宇宙魔神ダイケンゴー",
+    "Daikengo",
+    "The Guardian of Space",
+    "Uchuu Majin Daikengo",
+    "Uchuu Mazin Daikengo"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "summer",
+  "year": 1978,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10224-AD8kuVw38DMg.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10224",
+      "url": "https://anilist.co/anime/10224"
+    },
+    "k": {
+      "id": "6086",
+      "url": "https://kitsu.io/anime/6086"
+    },
+    "mal": {
+      "id": "10224",
+      "url": "https://myanimelist.net/anime/10224"
+    }
+  }
+}

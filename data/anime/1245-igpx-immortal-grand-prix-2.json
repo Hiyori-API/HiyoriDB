@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1245,
+  "slug": "igpx-immortal-grand-prix-2",
+  "kind": "anime",
+  "title": "IGPX Immortal Grand Prix 2",
+  "titles": {
+    "default": "IGPX Immortal Grand Prix 2",
+    "romaji": "IGPX Immortal Grand Prix 2",
+    "english": "IGPX 2"
+  },
+  "synonyms": [
+    "IGPX Immortal Grand Prix 2",
+    "IGPX 2",
+    "igpx 2",
+    "IGPX: Immortal Grand Prix (2005) Season 2",
+    "IGPX: Immortal Grand Prix (2005) 2nd Season",
+    "IGPX: Immortal Grand Prix",
+    "IGPX -Immortal Grand Prix-"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1410-pTZlJ70Vxkt7.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1410",
+      "url": "https://anilist.co/anime/1410"
+    },
+    "k": {
+      "id": "1263",
+      "url": "https://kitsu.io/anime/1263"
+    },
+    "mal": {
+      "id": "1410",
+      "url": "https://myanimelist.net/anime/1410"
+    },
+    "t": {
+      "id": "64030",
+      "url": "https://trakt.tv/shows/64030"
+    }
+  }
+}

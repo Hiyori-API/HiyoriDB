@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13939,
+  "slug": "gantz",
+  "kind": "manga",
+  "title": "GANTZ",
+  "titles": {
+    "default": "GANTZ"
+  },
+  "synonyms": [
+    "ガンツ",
+    "Gantz/Osaka",
+    "간츠",
+    "Gantz",
+    "GANTZ",
+    "GANTZ: T",
+    "GANTZ:T",
+    "GANTZ杀戮都市",
+    "Ганц",
+    "กันสึ",
+    "杀戮都市"
+  ],
+  "type": "manga",
+  "chapters": 383,
+  "volumes": 37,
+  "status": "finished",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30564-RbyFbLzbnKea.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21496",
+      "url": "https://anilist.co/anime/384"
+    },
+    "al_manga": {
+      "id": "21496",
+      "url": "https://anilist.co/manga/21496"
+    }
+  }
+}

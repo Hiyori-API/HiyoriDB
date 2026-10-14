@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6492,
+  "slug": "naruto-honoo-no-chuunin-shiken-naruto-vs-konohamaru",
+  "kind": "anime",
+  "title": "NARUTO: Honoo no Chuunin Shiken! Naruto vs Konohamaru!!",
+  "titles": {
+    "default": "NARUTO: Honoo no Chuunin Shiken! Naruto vs Konohamaru!!",
+    "romaji": "NARUTO: Honoo no Chuunin Shiken! Naruto vs Konohamaru!!",
+    "native": "NARUTO -ナルト- 炎の中忍試験! ナルトvs木ノ葉丸!!"
+  },
+  "synonyms": [
+    "NARUTO: Honoo no Chuunin Shiken! Naruto vs Konohamaru!!",
+    "NARUTO -ナルト- 炎の中忍試験! ナルトvs木ノ葉丸!!",
+    "Naruto Shippuden: Chuunin Exam on Fire! Naruto vs. Konohamaru!",
+    "Chunin Exam on Fire! and Naruto vs. Konohamaru!",
+    "Naruto: Honoo no Chuunin Shiken! Naruto vs. Konohamaru!!",
+    "炎の中忍試験! ナルトvs木ノ葉丸!!"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10686-8ix95Jans8z6.png"
+  ],
+  "references": {
+    "al": {
+      "id": "10686",
+      "url": "https://anilist.co/anime/10686"
+    },
+    "k": {
+      "id": "6292",
+      "url": "https://kitsu.io/anime/6292"
+    },
+    "mal": {
+      "id": "10686",
+      "url": "https://myanimelist.net/anime/10686"
+    }
+  }
+}

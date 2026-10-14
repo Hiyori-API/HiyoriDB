@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 569,
+  "slug": "nurse-witch-komugi-chan-magikarte",
+  "kind": "anime",
+  "title": "Nurse Witch Komugi-chan Magikarte",
+  "titles": {
+    "default": "Nurse Witch Komugi-chan Magikarte",
+    "romaji": "Nurse Witch Komugi-chan Magikarte",
+    "english": "Nurse Witch Komugi",
+    "native": "ナースウィッチ小麦ちゃんマジカルて"
+  },
+  "synonyms": [
+    "Nurse Witch Komugi-chan Magikarte",
+    "Nurse Witch Komugi",
+    "ナースウィッチ小麦ちゃんマジカルて"
+  ],
+  "type": "ova",
+  "episodes": 5,
+  "status": "finished",
+  "season": "summer",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/615.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "615",
+      "url": "https://anilist.co/anime/615"
+    },
+    "k": {
+      "id": "570",
+      "url": "https://kitsu.io/anime/570"
+    },
+    "mal": {
+      "id": "615",
+      "url": "https://myanimelist.net/anime/615"
+    }
+  }
+}

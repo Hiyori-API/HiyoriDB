@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2920,
+  "slug": "joou-heika-no-petite-angie",
+  "kind": "anime",
+  "title": "Joou Heika no Petite Angie",
+  "titles": {
+    "default": "Joou Heika no Petite Angie",
+    "romaji": "Joou Heika no Petite Angie",
+    "english": "Charlotte Holmes",
+    "native": "女王陛下のプティアンジェ"
+  },
+  "synonyms": [
+    "Joou Heika no Petite Angie",
+    "Charlotte Holmes",
+    "女王陛下のプティアンジェ",
+    "Angie, détective en herbe",
+    "Przgody Charlotte Holmes",
+    "Annemarie",
+    "المتحرية إنجي",
+    "The Casebook of Charlotte Holmes",
+    "Her Majesty's Petite Angie",
+    "Angie Girl",
+    "Joou-heika no Petite Angie"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 1977,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3435.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3435",
+      "url": "https://anilist.co/anime/3435"
+    },
+    "k": {
+      "id": "3008",
+      "url": "https://kitsu.io/anime/3008"
+    },
+    "mal": {
+      "id": "3435",
+      "url": "https://myanimelist.net/anime/3435"
+    },
+    "t": {
+      "id": "73997",
+      "url": "https://trakt.tv/shows/73997"
+    }
+  }
+}

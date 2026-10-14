@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10592,
+  "slug": "burn-the-witch",
+  "kind": "anime",
+  "title": "BURN THE WITCH",
+  "titles": {
+    "default": "BURN THE WITCH",
+    "romaji": "BURN THE WITCH"
+  },
+  "synonyms": [
+    "BURN THE WITCH",
+    "Burn the Witch"
+  ],
+  "type": "ona",
+  "episodes": 3,
+  "status": "finished",
+  "season": "fall",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116673-cy4sgiliurpR.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "116673",
+      "url": "https://anilist.co/anime/116673"
+    },
+    "cr": {
+      "id": "burn-the-witch",
+      "url": "https://www.crunchyroll.com/series/burn-the-witch"
+    },
+    "mal": {
+      "id": "41468",
+      "url": "https://myanimelist.net/anime/41468"
+    },
+    "tx": {
+      "id": "BTW_anime",
+      "url": "https://twitter.com/BTW_anime"
+    }
+  }
+}

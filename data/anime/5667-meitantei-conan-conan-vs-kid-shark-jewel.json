@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5667,
+  "slug": "meitantei-conan-conan-vs-kid-shark-jewel",
+  "kind": "anime",
+  "title": "Meitantei Conan: Conan vs. Kid - SHARK & JEWEL",
+  "titles": {
+    "default": "Meitantei Conan: Conan vs. Kid - SHARK & JEWEL",
+    "romaji": "Meitantei Conan: Conan vs. Kid - SHARK & JEWEL",
+    "native": "名探偵コナン コナンvsキッド SHARK & JEWEL"
+  },
+  "synonyms": [
+    "Meitantei Conan: Conan vs. Kid - SHARK & JEWEL",
+    "名探偵コナン コナンvsキッド SHARK & JEWEL",
+    "Detective Conan: Conan vs. Kid - SHARK & JEWEL",
+    "Case Closed: Conan vs. Kid - Shark & Jewel",
+    "Detective Conan: Conan vs. Kid - Shark & Jewel",
+    "Meitantei Conan: Conan vs. Kid - Shark & Jewel"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9785.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9785",
+      "url": "https://anilist.co/anime/9785"
+    },
+    "k": {
+      "id": "5866",
+      "url": "https://kitsu.io/anime/5866"
+    },
+    "mal": {
+      "id": "9785",
+      "url": "https://myanimelist.net/anime/9785"
+    }
+  }
+}

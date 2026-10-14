@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4634,
+  "slug": "ousama-no-shippo",
+  "kind": "anime",
+  "title": "Ousama no Shippo",
+  "titles": {
+    "default": "Ousama no Shippo",
+    "romaji": "Ousama no Shippo",
+    "native": "王様のしっぽ"
+  },
+  "synonyms": [
+    "Ousama no Shippo",
+    "王様のしっぽ",
+    "The King's Tail"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1949,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7526.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7526",
+      "url": "https://anilist.co/anime/7526"
+    },
+    "k": {
+      "id": "5016",
+      "url": "https://kitsu.io/anime/5016"
+    },
+    "mal": {
+      "id": "7526",
+      "url": "https://myanimelist.net/anime/7526"
+    }
+  }
+}

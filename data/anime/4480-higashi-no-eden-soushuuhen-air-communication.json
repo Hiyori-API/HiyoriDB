@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4480,
+  "slug": "higashi-no-eden-soushuuhen-air-communication",
+  "kind": "anime",
+  "title": "Higashi no Eden Soushuuhen: Air Communication",
+  "titles": {
+    "default": "Higashi no Eden Soushuuhen: Air Communication",
+    "romaji": "Higashi no Eden Soushuuhen: Air Communication",
+    "english": "Eden of The East Compilation: Air Communication",
+    "native": "東のエデン 総集編 Air Communication"
+  },
+  "synonyms": [
+    "Higashi no Eden Soushuuhen: Air Communication",
+    "Eden of The East Compilation: Air Communication",
+    "東のエデン 総集編 Air Communication",
+    "Eden of the East: Air Communication",
+    "Higashi no Eden: Air Communication",
+    "Eden of The East Compilation: Air Communication; Higashi no Eden Recap"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6927-fAlvggrr6PTy.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6927",
+      "url": "https://anilist.co/anime/6927"
+    },
+    "k": {
+      "id": "4789",
+      "url": "https://kitsu.io/anime/4789"
+    },
+    "mal": {
+      "id": "6927",
+      "url": "https://myanimelist.net/anime/6927"
+    }
+  }
+}

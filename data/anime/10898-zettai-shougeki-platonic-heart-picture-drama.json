@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10898,
+  "slug": "zettai-shougeki-platonic-heart-picture-drama",
+  "kind": "anime",
+  "title": "Zettai Shougeki: PLATONIC HEART Picture Drama",
+  "titles": {
+    "default": "Zettai Shougeki: PLATONIC HEART Picture Drama",
+    "romaji": "Zettai Shougeki: PLATONIC HEART Picture Drama",
+    "english": "Master of Martial Hearts Picture Drama",
+    "native": "絶対衝激 ~PLATONIC HEART~ ピクチャードラマ"
+  },
+  "synonyms": [
+    "Zettai Shougeki: PLATONIC HEART Picture Drama",
+    "Master of Martial Hearts Picture Drama",
+    "絶対衝激 ~PLATONIC HEART~ ピクチャードラマ",
+    "Zettai Shougeki: Platonic Heart Picture Drama"
+  ],
+  "type": "special",
+  "episodes": 4,
+  "status": "finished",
+  "season": "fall",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119835-g5IFZgKHJoqm.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "119835",
+      "url": "https://anilist.co/anime/119835"
+    },
+    "k": {
+      "id": "8470",
+      "url": "https://kitsu.io/anime/8470"
+    },
+    "mal": {
+      "id": "21215",
+      "url": "https://myanimelist.net/anime/21215"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2537,
+  "slug": "tokineiro",
+  "kind": "anime",
+  "title": "Tokineiro",
+  "titles": {
+    "default": "Tokineiro",
+    "romaji": "Tokineiro",
+    "english": "A Time to Screw",
+    "native": "刻音色"
+  },
+  "synonyms": [
+    "Tokineiro",
+    "A Time to Screw",
+    "刻音色",
+    "Tokyo Daigaku Monogatari",
+    "東京大学物語",
+    "Tokyo University Story"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2862.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2862",
+      "url": "https://anilist.co/anime/2862"
+    },
+    "k": {
+      "id": "943",
+      "url": "https://kitsu.io/anime/943"
+    },
+    "mal": {
+      "id": "2862",
+      "url": "https://myanimelist.net/anime/2862"
+    }
+  }
+}

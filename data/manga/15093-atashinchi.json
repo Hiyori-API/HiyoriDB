@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15093,
+  "slug": "atashinchi",
+  "kind": "manga",
+  "title": "Atashinchi",
+  "titles": {
+    "default": "Atashinchi"
+  },
+  "synonyms": [
+    "Atashinchi",
+    "あたしンち",
+    "Atashin'chi"
+  ],
+  "type": "manga",
+  "volumes": 21,
+  "status": "finished",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx46621-ev5y1rKuymiY.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "203146",
+      "url": "https://anilist.co/anime/9795"
+    },
+    "al_manga": {
+      "id": "203146",
+      "url": "https://anilist.co/manga/203146"
+    }
+  }
+}

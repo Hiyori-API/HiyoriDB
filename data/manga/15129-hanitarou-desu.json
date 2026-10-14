@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15129,
+  "slug": "hanitarou-desu",
+  "kind": "manga",
+  "title": "Hanitarou desu.",
+  "titles": {
+    "default": "Hanitarou desu."
+  },
+  "synonyms": [
+    "ハニ太郎です。",
+    "Kare Kano: His and Her Circumstances",
+    "Kareshi Kanojo no Jijou",
+    "彼氏彼女の事情",
+    "His and Hers",
+    "The Tiger and the Chameleon: A Promise for One Week",
+    "Ashita Mata Mori de Aou ne",
+    "Meet Me Again Tomorrow in the Forest",
+    "KKNJ",
+    "Abareru Ousama",
+    "The Raging King"
+  ],
+  "type": "manga",
+  "volumes": 14,
+  "status": "finished",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx147869-BsLWybEKCco7.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "180865",
+      "url": "https://anilist.co/anime/180865"
+    },
+    "al_manga": {
+      "id": "180865",
+      "url": "https://anilist.co/manga/180865"
+    }
+  }
+}

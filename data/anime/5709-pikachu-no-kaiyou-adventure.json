@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5709,
+  "slug": "pikachu-no-kaiyou-adventure",
+  "kind": "anime",
+  "title": "Pikachu no Kaiyou Adventure",
+  "titles": {
+    "default": "Pikachu no Kaiyou Adventure",
+    "romaji": "Pikachu no Kaiyou Adventure",
+    "english": "Pokémon 4D: Pikachu's Ocean Adventure",
+    "native": "ピカチュウの海洋アドベンチャー"
+  },
+  "synonyms": [
+    "Pikachu no Kaiyou Adventure",
+    "Pokémon 4D: Pikachu's Ocean Adventure",
+    "ピカチュウの海洋アドベンチャー",
+    "Pocket Monsters: Pikachu no Kaiyou Adventure",
+    "Pokemon: Senritsu no Mirage Pokemon",
+    "Pokemon: The Mastermind of Mirage Pokemon",
+    "ポケットモンスター 戦慄のミラージュポケモン",
+    "Pocket Monsters: Senritsu no Mirage Pokemon"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11009-8emGZfVIhwwU.png"
+  ],
+  "references": {
+    "al": {
+      "id": "11009",
+      "url": "https://anilist.co/anime/11009"
+    },
+    "k": {
+      "id": "1369",
+      "url": "https://kitsu.io/anime/1369"
+    },
+    "mal": {
+      "id": "11009",
+      "url": "https://myanimelist.net/anime/11009"
+    }
+  }
+}

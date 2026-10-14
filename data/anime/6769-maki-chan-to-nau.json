@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6769,
+  "slug": "maki-chan-to-nau",
+  "kind": "anime",
+  "title": "Maki-chan to Nau.",
+  "titles": {
+    "default": "Maki-chan to Nau.",
+    "romaji": "Maki-chan to Nau.",
+    "english": "With Maki-chan",
+    "native": "真希ちゃんとなう。"
+  },
+  "synonyms": [
+    "Maki-chan to Nau.",
+    "With Maki-chan",
+    "真希ちゃんとなう。",
+    "Maki-chan to Now.",
+    "Ai no Kusabi (2012)",
+    "間の楔"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "winter",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx12375-ADJ81bPYj2Zc.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12375",
+      "url": "https://anilist.co/anime/12375"
+    },
+    "k": {
+      "id": "4276",
+      "url": "https://kitsu.io/anime/4276"
+    },
+    "mal": {
+      "id": "12375",
+      "url": "https://myanimelist.net/anime/12375"
+    }
+  }
+}

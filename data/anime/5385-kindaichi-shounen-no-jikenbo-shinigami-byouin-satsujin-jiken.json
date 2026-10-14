@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5385,
+  "slug": "kindaichi-shounen-no-jikenbo-shinigami-byouin-satsujin-jiken",
+  "kind": "anime",
+  "title": "Kindaichi Shounen no Jikenbo: Shinigami Byouin Satsujin Jiken",
+  "titles": {
+    "default": "Kindaichi Shounen no Jikenbo: Shinigami Byouin Satsujin Jiken",
+    "romaji": "Kindaichi Shounen no Jikenbo: Shinigami Byouin Satsujin Jiken",
+    "native": "金田一少年の事件簿 SP「死神病院殺人事件」"
+  },
+  "synonyms": [
+    "Kindaichi Shounen no Jikenbo: Shinigami Byouin Satsujin Jiken",
+    "金田一少年の事件簿 SP「死神病院殺人事件」",
+    "The Cases of Young Kindaichi: Shinigami Hospital Murder",
+    "Shinigami Hospital Murder"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102428-tJLmQWlTjECr.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "102428",
+      "url": "https://anilist.co/anime/102428"
+    },
+    "k": {
+      "id": "8783",
+      "url": "https://kitsu.io/anime/8783"
+    },
+    "mal": {
+      "id": "21701",
+      "url": "https://myanimelist.net/anime/21701"
+    }
+  }
+}

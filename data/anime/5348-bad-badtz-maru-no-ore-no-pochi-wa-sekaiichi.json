@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5348,
+  "slug": "bad-badtz-maru-no-ore-no-pochi-wa-sekaiichi",
+  "kind": "anime",
+  "title": "Bad Badtz-maru no Ore no Pochi wa Sekaiichi",
+  "titles": {
+    "default": "Bad Badtz-maru no Ore no Pochi wa Sekaiichi",
+    "romaji": "Bad Badtz-maru no Ore no Pochi wa Sekaiichi",
+    "native": "バッドばつ丸のオレのポチは世界一"
+  },
+  "synonyms": [
+    "Bad Badtz-maru no Ore no Pochi wa Sekaiichi",
+    "バッドばつ丸のオレのポチは世界一",
+    "Bad Badtz-Maru no Ore no Pochi wa Sekaiichi"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17479.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "17479",
+      "url": "https://anilist.co/anime/17479"
+    },
+    "k": {
+      "id": "8962",
+      "url": "https://kitsu.io/anime/8962"
+    },
+    "mal": {
+      "id": "17479",
+      "url": "https://myanimelist.net/anime/17479"
+    }
+  }
+}

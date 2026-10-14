@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15182,
+  "slug": "cyborg-kuro-chan",
+  "kind": "manga",
+  "title": "Cyborg Kuro-chan",
+  "titles": {
+    "default": "Cyborg Kuro-chan"
+  },
+  "synonyms": [
+    "サイボーグクロちゃん",
+    "Love Hina",
+    "ラブひな"
+  ],
+  "type": "manga",
+  "chapters": 57,
+  "volumes": 11,
+  "status": "finished",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx38095-qpG8rMp63Z6Z.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2907",
+      "url": "https://anilist.co/anime/2907"
+    },
+    "al_manga": {
+      "id": "2907",
+      "url": "https://anilist.co/manga/2907"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15684,
+  "slug": "toriko",
+  "kind": "manga",
+  "title": "Toriko",
+  "titles": {
+    "default": "Toriko"
+  },
+  "synonyms": [
+    "美食獵人 TORIKO",
+    "美食的俘虏",
+    "토리코",
+    "Toriko",
+    "トリコ",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "chapters": 396,
+  "volumes": 43,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx37887-eYfLTjygqwK8.png"
+  ],
+  "references": {
+    "al": {
+      "id": "10033",
+      "url": "https://anilist.co/anime/6941"
+    },
+    "al_manga": {
+      "id": "10033",
+      "url": "https://anilist.co/manga/10033"
+    }
+  }
+}

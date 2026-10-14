@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6703,
+  "slug": "tantei-opera-milky-holmes-dai-2-maku",
+  "kind": "anime",
+  "title": "Tantei Opera Milky Holmes Dai 2 Maku",
+  "titles": {
+    "default": "Tantei Opera Milky Holmes Dai 2 Maku",
+    "romaji": "Tantei Opera Milky Holmes Dai 2 Maku",
+    "english": "Detective Opera Milky Holmes 2",
+    "native": "探偵オペラ ミルキィホームズ 第2幕"
+  },
+  "synonyms": [
+    "Tantei Opera Milky Holmes Dai 2 Maku",
+    "Detective Opera Milky Holmes 2",
+    "探偵オペラ ミルキィホームズ 第2幕",
+    "Tantei Opera Milky Holmes 2"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11341-QLilHfOnk46Q.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11341",
+      "url": "https://anilist.co/anime/11341"
+    },
+    "k": {
+      "id": "6496",
+      "url": "https://kitsu.io/anime/6496"
+    },
+    "mal": {
+      "id": "11341",
+      "url": "https://myanimelist.net/anime/11341"
+    },
+    "t": {
+      "id": "64894",
+      "url": "https://trakt.tv/shows/64894"
+    }
+  }
+}

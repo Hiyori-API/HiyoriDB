@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11142,
+  "slug": "hortensia-saga",
+  "kind": "anime",
+  "title": "Hortensia Saga",
+  "titles": {
+    "default": "Hortensia Saga",
+    "romaji": "Hortensia Saga",
+    "english": "Hortensia SAGA",
+    "native": "オルタンシア・サーガ"
+  },
+  "synonyms": [
+    "Hortensia Saga",
+    "Hortensia SAGA",
+    "オルタンシア・サーガ",
+    "ตำนานฮอร์เท็นเซีย",
+    "Non Non Biyori 3rd Season",
+    "Non Non Biyori Third Season",
+    "Non Non Biyori Nonstop",
+    "のんのんびより のんすとっぷ"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114301-Qig3ulYPd9ur.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "114301",
+      "url": "https://anilist.co/anime/114301"
+    },
+    "cr": {
+      "id": "hortensia-saga",
+      "url": "https://www.crunchyroll.com/series/hortensia-saga"
+    },
+    "mal": {
+      "id": "40961",
+      "url": "https://myanimelist.net/anime/40961"
+    },
+    "tx": {
+      "id": "Hortensia_PR",
+      "url": "https://twitter.com/Hortensia_PR"
+    }
+  }
+}

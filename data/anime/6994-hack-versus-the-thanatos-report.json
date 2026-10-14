@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6994,
+  "slug": "hack-versus-the-thanatos-report",
+  "kind": "anime",
+  "title": ".hack//Versus: The Thanatos Report",
+  "titles": {
+    "default": ".hack//Versus: The Thanatos Report",
+    "romaji": ".hack//Versus: The Thanatos Report",
+    "native": ".hack//Versus タナトスレポート"
+  },
+  "synonyms": [
+    ".hack//Versus: The Thanatos Report",
+    ".hack//Versus タナトスレポート",
+    ".hack//Versus OVA",
+    ".hack//Versus Special"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15219.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "15219",
+      "url": "https://anilist.co/anime/15219"
+    },
+    "k": {
+      "id": "7232",
+      "url": "https://kitsu.io/anime/7232"
+    },
+    "mal": {
+      "id": "15219",
+      "url": "https://myanimelist.net/anime/15219"
+    }
+  }
+}

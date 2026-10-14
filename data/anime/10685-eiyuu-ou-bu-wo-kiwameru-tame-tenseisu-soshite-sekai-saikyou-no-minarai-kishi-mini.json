@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10685,
+  "slug": "eiyuu-ou-bu-wo-kiwameru-tame-tenseisu-soshite-sekai-saikyou-no-minarai-kishi-mini",
+  "kind": "anime",
+  "title": "Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀ Mini",
+  "titles": {
+    "default": "Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀ Mini",
+    "romaji": "Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀ Mini",
+    "native": "英雄王、武を極めるため転生す ～そして、世界最強の見習い騎士♀～ ミニ"
+  },
+  "synonyms": [
+    "Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀ Mini",
+    "英雄王、武を極めるため転生す ～そして、世界最強の見習い騎士♀～ ミニ",
+    "My Hero Academia: Make It! Do-or-Die Survival Training",
+    "僕のヒーローアカデミア 生き残れ！決死のサバイバル訓練",
+    "Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren"
+  ],
+  "type": "ona",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b125647-jwD3FkarbTAr.png"
+  ],
+  "references": {
+    "al": {
+      "id": "125647",
+      "url": "https://anilist.co/anime/125647"
+    },
+    "mal": {
+      "id": "43727",
+      "url": "https://myanimelist.net/anime/43727"
+    }
+  }
+}

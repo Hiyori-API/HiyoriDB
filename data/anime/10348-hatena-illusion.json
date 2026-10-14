@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10348,
+  "slug": "hatena-illusion",
+  "kind": "anime",
+  "title": "Hatena☆Illusion",
+  "titles": {
+    "default": "Hatena☆Illusion",
+    "romaji": "Hatena☆Illusion",
+    "english": "Hatena Illusion",
+    "native": "はてな☆イリュージョン"
+  },
+  "synonyms": [
+    "Hatena☆Illusion",
+    "Hatena Illusion",
+    "はてな☆イリュージョン",
+    "Toilet-Bound Hanako-kun",
+    "地縛少年花子くん",
+    "Jibaku Shounen Hanako-kun"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98515-sSZiUx4VI0KH.png"
+  ],
+  "references": {
+    "al": {
+      "id": "98515",
+      "url": "https://anilist.co/anime/98515"
+    },
+    "cr": {
+      "id": "hatena-illusion",
+      "url": "https://www.crunchyroll.com/series/hatena-illusion"
+    },
+    "mal": {
+      "id": "35252",
+      "url": "https://myanimelist.net/anime/35252"
+    },
+    "tx": {
+      "id": "hatena_anime",
+      "url": "https://twitter.com/hatena_anime"
+    }
+  }
+}

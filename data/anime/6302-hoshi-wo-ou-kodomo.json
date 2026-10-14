@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6302,
+  "slug": "hoshi-wo-ou-kodomo",
+  "kind": "anime",
+  "title": "Hoshi wo Ou Kodomo",
+  "titles": {
+    "default": "Hoshi wo Ou Kodomo",
+    "romaji": "Hoshi wo Ou Kodomo",
+    "english": "Children who Chase Lost Voices",
+    "native": "星を追う子ども"
+  },
+  "synonyms": [
+    "Hoshi wo Ou Kodomo",
+    "Children who Chase Lost Voices",
+    "星を追う子ども",
+    "Children who Chase Lost Voices from Deep Below",
+    "Journey to Agartha",
+    "Viaje a Agartha",
+    "Csillaghajsza",
+    "Voyage vers Agartha",
+    "Die Reise nach Agartha",
+    "Viaggio verso Agartha",
+    "I bambini che inseguono le stelle",
+    "Houkago no Pleiades: Manner Movie",
+    "劇場版 放課後のプレアデス   マナームービー"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9760-Ur2uU0HuF1Iz.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9760",
+      "url": "https://anilist.co/anime/9760"
+    },
+    "k": {
+      "id": "6308",
+      "url": "https://kitsu.io/anime/6308"
+    },
+    "mal": {
+      "id": "9760",
+      "url": "https://myanimelist.net/anime/9760"
+    },
+    "nf": {
+      "id": "80104167",
+      "url": "https://www.netflix.com/title/80104167"
+    }
+  }
+}

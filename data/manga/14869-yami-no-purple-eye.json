@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14869,
+  "slug": "yami-no-purple-eye",
+  "kind": "manga",
+  "title": "Yami no Purple Eye",
+  "titles": {
+    "default": "Yami no Purple Eye"
+  },
+  "synonyms": [
+    "Purple Eyes in the Dark",
+    "Yami no Paapuru",
+    "Yami no Paapuru Ai",
+    "Yami no Purple Eye",
+    "어둠의 퍼플아이",
+    "闇のパープル・アイ",
+    "Dragon Ball",
+    "ドラゴンボール",
+    "Dragonball",
+    "Dragon Ball Z",
+    "Dragonball Z"
+  ],
+  "type": "manga",
+  "chapters": 47,
+  "volumes": 12,
+  "status": "finished",
+  "year": 1984,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx45449-RYJ5eax3cWLk.png"
+  ],
+  "references": {
+    "al": {
+      "id": "9509",
+      "url": "https://anilist.co/anime/9509"
+    },
+    "al_manga": {
+      "id": "9509",
+      "url": "https://anilist.co/manga/9509"
+    }
+  }
+}

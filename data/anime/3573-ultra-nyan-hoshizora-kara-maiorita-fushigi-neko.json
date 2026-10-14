@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3573,
+  "slug": "ultra-nyan-hoshizora-kara-maiorita-fushigi-neko",
+  "kind": "anime",
+  "title": "Ultra Nyan: Hoshizora kara Maiorita Fushigi Neko",
+  "titles": {
+    "default": "Ultra Nyan: Hoshizora kara Maiorita Fushigi Neko",
+    "romaji": "Ultra Nyan: Hoshizora kara Maiorita Fushigi Neko",
+    "native": "ウルトラニャン　星空から舞い降りたふしぎネコ"
+  },
+  "synonyms": [
+    "Ultra Nyan: Hoshizora kara Maiorita Fushigi Neko",
+    "ウルトラニャン　星空から舞い降りたふしぎネコ",
+    "Ultra Nyan: Extraordinary Cat who Descended from the Starry Sky",
+    "Ultra Meow"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4681.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4681",
+      "url": "https://anilist.co/anime/4681"
+    },
+    "k": {
+      "id": "3735",
+      "url": "https://kitsu.io/anime/3735"
+    },
+    "mal": {
+      "id": "4681",
+      "url": "https://myanimelist.net/anime/4681"
+    }
+  }
+}

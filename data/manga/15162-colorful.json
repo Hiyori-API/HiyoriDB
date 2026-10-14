@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15162,
+  "slug": "colorful",
+  "kind": "manga",
+  "title": "Colorful",
+  "titles": {
+    "default": "Colorful"
+  },
+  "synonyms": [
+    "カラフル",
+    "Colorful",
+    "COLORFUL (カラフル)"
+  ],
+  "type": "manga",
+  "chapters": 182,
+  "volumes": 7,
+  "status": "finished",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx45162-9oi3u5Cc6ucz.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "841",
+      "url": "https://anilist.co/anime/841"
+    },
+    "al_manga": {
+      "id": "841",
+      "url": "https://anilist.co/manga/841"
+    }
+  }
+}

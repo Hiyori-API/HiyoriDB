@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14129,
+  "slug": "okane-ga-nai",
+  "kind": "manga",
+  "title": "Okane ga Nai",
+  "titles": {
+    "default": "Okane ga Nai"
+  },
+  "synonyms": [
+    "No Money",
+    "お金がないっ",
+    "Okane ga Nai",
+    "No Money!"
+  ],
+  "type": "manga",
+  "status": "publishing",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31213-cNQO869TH6YX.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2148",
+      "url": "https://anilist.co/anime/2148"
+    },
+    "al_manga": {
+      "id": "2148",
+      "url": "https://anilist.co/manga/2148"
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10564,
+  "slug": "kami-no-tou-tower-of-god",
+  "kind": "anime",
+  "title": "Kami no Tou: Tower of God",
+  "titles": {
+    "default": "Kami no Tou: Tower of God",
+    "romaji": "Kami no Tou: Tower of God",
+    "english": "Tower of God",
+    "native": "神之塔 -Tower of God-"
+  },
+  "synonyms": [
+    "Kami no Tou: Tower of God",
+    "Tower of God",
+    "神之塔 -Tower of God-",
+    "タワーオブ・ゴッド",
+    "신의 탑",
+    "Sinui Tap",
+    "Kami no Tou",
+    "TOG",
+    "Башня Бога",
+    "Prétear: The New Legend of Snow White",
+    "Shin Shirayuki-hime Densetsu Prétear",
+    "新白雪姫伝説プリーティア",
+    "Shin Shirayuki-hime Densetsu Pretear"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115230-QHOdSN7yt8ab.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "115230",
+      "url": "https://anilist.co/anime/115230"
+    },
+    "cr": {
+      "id": "tower-of-god",
+      "url": "https://www.crunchyroll.com/series/tower-of-god"
+    },
+    "k": {
+      "id": "79",
+      "url": "https://kitsu.io/anime/79"
+    },
+    "mal": {
+      "id": "40221",
+      "url": "https://myanimelist.net/anime/40221"
+    },
+    "nf": {
+      "id": "81329313",
+      "url": "https://www.netflix.com/title/81329313"
+    },
+    "t": {
+      "id": "42703",
+      "url": "https://trakt.tv/shows/42703"
+    },
+    "tx": {
+      "id": "tog_anime",
+      "url": "https://twitter.com/anime_ToG"
+    }
+  }
+}

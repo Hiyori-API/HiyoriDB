@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8704,
+  "slug": "bishoujo-yuugi-unit-crane-game-girls",
+  "kind": "anime",
+  "title": "Bishoujo Yuugi Unit Crane Game Girls",
+  "titles": {
+    "default": "Bishoujo Yuugi Unit Crane Game Girls",
+    "romaji": "Bishoujo Yuugi Unit Crane Game Girls",
+    "english": "Crane Game Girls",
+    "native": "美少女遊戯ユニットクレーンゲール"
+  },
+  "synonyms": [
+    "Bishoujo Yuugi Unit Crane Game Girls",
+    "Crane Game Girls",
+    "美少女遊戯ユニットクレーンゲール",
+    "As Meninas do Fliperama de Garra",
+    "Juego de \"La Garra\" para niñas",
+    "Space Patrol Luluco",
+    "宇宙パトロールルル子",
+    "Uchuu Patrol Luluco"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21694-bqpL6xjM13DH.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21694",
+      "url": "https://anilist.co/anime/21694"
+    },
+    "cr": {
+      "id": "crane-game-girls",
+      "url": "https://www.crunchyroll.com/series/crane-game-girls"
+    },
+    "mal": {
+      "id": "32906",
+      "url": "https://myanimelist.net/anime/32906"
+    },
+    "tx": {
+      "id": "cranegamegirls",
+      "url": "https://twitter.com/cranegamegirls"
+    }
+  }
+}

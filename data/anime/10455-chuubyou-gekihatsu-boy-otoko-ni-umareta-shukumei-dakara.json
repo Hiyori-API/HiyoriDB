@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10455,
+  "slug": "chuubyou-gekihatsu-boy-otoko-ni-umareta-shukumei-dakara",
+  "kind": "anime",
+  "title": "Chuubyou Gekihatsu Boy: Otoko ni Umareta Shukumei Dakara",
+  "titles": {
+    "default": "Chuubyou Gekihatsu Boy: Otoko ni Umareta Shukumei Dakara",
+    "romaji": "Chuubyou Gekihatsu Boy: Otoko ni Umareta Shukumei Dakara",
+    "english": "Outburst Dreamer Boys: It's the Destiny of Those Born as Men",
+    "native": "厨病激発ボーイ 男に生まれた宿命だから"
+  },
+  "synonyms": [
+    "Chuubyou Gekihatsu Boy: Otoko ni Umareta Shukumei Dakara",
+    "Outburst Dreamer Boys: It's the Destiny of Those Born as Men",
+    "厨病激発ボーイ 男に生まれた宿命だから",
+    "Young Disease Outburst Boy OVA",
+    "Chuubyou Gekihatsu Boy Episode 12",
+    "Outburst Dreamer Boys OVA",
+    "Voices of a Distant Star",
+    "Hoshi no Koe",
+    "ほしのこえ"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112166-DkjlCbe33Zzo.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "112166",
+      "url": "https://anilist.co/anime/112166"
+    },
+    "cr": {
+      "id": "voices-of-a-distant-star",
+      "url": "https://www.crunchyroll.com/series/voices-of-a-distant-star"
+    },
+    "k": {
+      "id": "231",
+      "url": "https://kitsu.io/anime/231"
+    },
+    "mal": {
+      "id": "40465",
+      "url": "https://myanimelist.net/anime/40465"
+    },
+    "tx": {
+      "id": "chubyou_p",
+      "url": "https://twitter.com/chubyou_p"
+    }
+  }
+}

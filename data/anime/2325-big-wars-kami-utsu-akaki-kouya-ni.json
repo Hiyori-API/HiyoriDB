@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2325,
+  "slug": "big-wars-kami-utsu-akaki-kouya-ni",
+  "kind": "anime",
+  "title": "Big Wars: Kami Utsu Akaki Kouya ni",
+  "titles": {
+    "default": "Big Wars: Kami Utsu Akaki Kouya ni",
+    "romaji": "Big Wars: Kami Utsu Akaki Kouya ni",
+    "english": "Big Wars",
+    "native": "ビッグ・ウォーズ 神撃つ朱き荒野に"
+  },
+  "synonyms": [
+    "Big Wars: Kami Utsu Akaki Kouya ni",
+    "Big Wars",
+    "ビッグ・ウォーズ 神撃つ朱き荒野に",
+    "Legend of the Galactic Heroes: Overture to a New War",
+    "Ginga Eiyuu Densetsu: Arata Naru Tatakai no Overture",
+    "銀河英雄伝説外伝　新たなる戦いの序曲[オーヴァチュア]",
+    "Legend of Galactic Heroes Movie 2",
+    "LoGH: Overture to a New War",
+    "Ginga Eiyu Densetsu Aratanaru Tatakai no Jokyoku",
+    "Legend of the Galactic Heroes MOVIE (1993)"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2622-qzYvHuOyliml.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2622",
+      "url": "https://anilist.co/anime/2622"
+    },
+    "k": {
+      "id": "2726",
+      "url": "https://kitsu.io/anime/2726"
+    },
+    "mal": {
+      "id": "2622",
+      "url": "https://myanimelist.net/anime/2622"
+    }
+  }
+}

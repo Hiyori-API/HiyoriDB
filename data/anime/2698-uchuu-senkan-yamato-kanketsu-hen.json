@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2698,
+  "slug": "uchuu-senkan-yamato-kanketsu-hen",
+  "kind": "anime",
+  "title": "Uchuu Senkan Yamato: Kanketsu-hen",
+  "titles": {
+    "default": "Uchuu Senkan Yamato: Kanketsu-hen",
+    "romaji": "Uchuu Senkan Yamato: Kanketsu-hen",
+    "english": "Space Battleship Yamato - Final Chapter",
+    "native": "宇宙戦艦ヤマト・完結編"
+  },
+  "synonyms": [
+    "Uchuu Senkan Yamato: Kanketsu-hen",
+    "Space Battleship Yamato - Final Chapter",
+    "宇宙戦艦ヤマト・完結編",
+    "Final Yamato",
+    "Uchu Senkan Yamato Kanketsu Hen",
+    "Golgo 13: The Professional",
+    "Golgo 13",
+    "ゴルゴ１３"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1983,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3072-IrYBKIlNGPaT.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3072",
+      "url": "https://anilist.co/anime/3072"
+    },
+    "k": {
+      "id": "1580",
+      "url": "https://kitsu.io/anime/1580"
+    },
+    "mal": {
+      "id": "3072",
+      "url": "https://myanimelist.net/anime/3072"
+    }
+  }
+}

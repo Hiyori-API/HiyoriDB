@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5707,
+  "slug": "ski-jumping-pairs-road-to-torino-2006",
+  "kind": "anime",
+  "title": "Ski Jumping Pairs: Road to TORINO 2006",
+  "titles": {
+    "default": "Ski Jumping Pairs: Road to TORINO 2006",
+    "romaji": "Ski Jumping Pairs: Road to TORINO 2006",
+    "native": "スキージャンプ・ペア ~Road to TORINO 2006~"
+  },
+  "synonyms": [
+    "Ski Jumping Pairs: Road to TORINO 2006",
+    "スキージャンプ・ペア ~Road to TORINO 2006~",
+    "Ski Jumping Pairs",
+    "Ski Jumping Large-hill Pairs",
+    "Ski Jumping Pairs: Road to Torino 2006"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10627.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10627",
+      "url": "https://anilist.co/anime/10627"
+    },
+    "k": {
+      "id": "6271",
+      "url": "https://kitsu.io/anime/6271"
+    },
+    "mal": {
+      "id": "10627",
+      "url": "https://myanimelist.net/anime/10627"
+    }
+  }
+}

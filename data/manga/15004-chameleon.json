@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15004,
+  "slug": "chameleon",
+  "kind": "manga",
+  "title": "Chameleon",
+  "titles": {
+    "default": "Chameleon"
+  },
+  "synonyms": [
+    "Kamereon",
+    "Bite me! Chameleon",
+    "カメレオン",
+    "Shouryou Tsukai Elementalors",
+    "精霊使いエレメンタラー",
+    "Elementalors",
+    "Shouryou Tsukai Erementara",
+    "les Elémentalistes"
+  ],
+  "type": "manga",
+  "chapters": 430,
+  "volumes": 47,
+  "status": "finished",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx49640-NCdOviyI3ADW.png"
+  ],
+  "references": {
+    "al": {
+      "id": "5353",
+      "url": "https://anilist.co/anime/5353"
+    },
+    "al_manga": {
+      "id": "5353",
+      "url": "https://anilist.co/manga/5353"
+    }
+  }
+}

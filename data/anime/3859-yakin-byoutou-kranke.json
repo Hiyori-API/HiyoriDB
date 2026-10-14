@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3859,
+  "slug": "yakin-byoutou-kranke",
+  "kind": "anime",
+  "title": "Yakin Byoutou Kranke",
+  "titles": {
+    "default": "Yakin Byoutou Kranke",
+    "romaji": "Yakin Byoutou Kranke",
+    "english": "Night Shift Nurses: Kranke",
+    "native": "夜勤病棟 Ｋｒａｎｋｅ"
+  },
+  "synonyms": [
+    "Yakin Byoutou Kranke",
+    "Night Shift Nurses: Kranke",
+    "夜勤病棟 Ｋｒａｎｋｅ",
+    "Super Robot Wars Original Generation: The Animation",
+    "Super Robot Taisen OG The Animation",
+    "スーパーロボット大戦 ORIGINAL GENERATION THE ANIMATION",
+    "Super Robot Taisen Original Generation - The Animation",
+    "Super Robot Wars OG: The Animation",
+    "SRWOG"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "spring",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5324.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5324",
+      "url": "https://anilist.co/anime/5324"
+    },
+    "cr": {
+      "id": "super-robot-wars-original-generation",
+      "url": "https://www.crunchyroll.com/series/super-robot-wars-original-generation"
+    },
+    "k": {
+      "id": "1385",
+      "url": "https://kitsu.io/anime/1385"
+    },
+    "mal": {
+      "id": "5324",
+      "url": "https://myanimelist.net/anime/5324"
+    }
+  }
+}

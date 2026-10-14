@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1791,
+  "slug": "sirius-no-densetsu",
+  "kind": "anime",
+  "title": "Sirius no Densetsu",
+  "titles": {
+    "default": "Sirius no Densetsu",
+    "romaji": "Sirius no Densetsu",
+    "english": "Sea Prince and the Fire Child",
+    "native": "シリウスの伝説"
+  },
+  "synonyms": [
+    "Sirius no Densetsu",
+    "Sea Prince and the Fire Child",
+    "シリウスの伝説",
+    "Legend of Sirius",
+    "The Sea Prince and the Fire Child"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1981,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2029-DZm3iwKmvBRi.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2029",
+      "url": "https://anilist.co/anime/2029"
+    },
+    "cr": {
+      "id": "sea-prince-and-the-fire-child",
+      "url": "https://www.crunchyroll.com/series/sea-prince-and-the-fire-child"
+    },
+    "k": {
+      "id": "1828",
+      "url": "https://kitsu.io/anime/1828"
+    },
+    "mal": {
+      "id": "2029",
+      "url": "https://myanimelist.net/anime/2029"
+    }
+  }
+}

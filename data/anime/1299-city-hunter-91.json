@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1299,
+  "slug": "city-hunter-91",
+  "kind": "anime",
+  "title": "City Hunter '91",
+  "titles": {
+    "default": "City Hunter '91",
+    "romaji": "City Hunter '91",
+    "native": "シティーハンター'91"
+  },
+  "synonyms": [
+    "City Hunter '91",
+    "シティーハンター'91",
+    "City Hunter 4"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1473-2L3kL5SdYdqU.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1473",
+      "url": "https://anilist.co/anime/1473"
+    },
+    "cr": {
+      "id": "city-hunter",
+      "url": "https://www.crunchyroll.com/series/city-hunter"
+    },
+    "k": {
+      "id": "1319",
+      "url": "https://kitsu.io/anime/1319"
+    },
+    "mal": {
+      "id": "1473",
+      "url": "https://myanimelist.net/anime/1473"
+    },
+    "t": {
+      "id": "35890",
+      "url": "https://trakt.tv/shows/35890"
+    }
+  }
+}

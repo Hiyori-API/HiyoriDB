@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6618,
+  "slug": "takara-sagashi",
+  "kind": "anime",
+  "title": "Takara-sagashi",
+  "titles": {
+    "default": "Takara-sagashi",
+    "romaji": "Takara-sagashi",
+    "english": "Treasure Hunting",
+    "native": "たからさがし"
+  },
+  "synonyms": [
+    "Takara-sagashi",
+    "Treasure Hunting",
+    "たからさがし",
+    "Treasure Hunt",
+    "Sore Ike! Anpanman: Sukue! Kokorin to Kiseki no Hoshi",
+    "それいけ! アンパンマン すくえ! ココリンと奇跡の星"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12267.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12267",
+      "url": "https://anilist.co/anime/12267"
+    },
+    "k": {
+      "id": "6290",
+      "url": "https://kitsu.io/anime/6290"
+    },
+    "mal": {
+      "id": "12267",
+      "url": "https://myanimelist.net/anime/12267"
+    }
+  }
+}

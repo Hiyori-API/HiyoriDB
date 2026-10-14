@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2954,
+  "slug": "madonna",
+  "kind": "anime",
+  "title": "Madonna",
+  "titles": {
+    "default": "Madonna",
+    "romaji": "Madonna",
+    "native": "マドンナ"
+  },
+  "synonyms": [
+    "Madonna",
+    "マドンナ"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx3482-j26xUJ3gJ90N.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3482",
+      "url": "https://anilist.co/anime/3482"
+    },
+    "k": {
+      "id": "3042",
+      "url": "https://kitsu.io/anime/3042"
+    },
+    "mal": {
+      "id": "3482",
+      "url": "https://myanimelist.net/anime/3482"
+    }
+  }
+}

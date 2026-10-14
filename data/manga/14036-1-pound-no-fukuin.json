@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14036,
+  "slug": "1-pound-no-fukuin",
+  "kind": "manga",
+  "title": "1-Pound no Fukuin",
+  "titles": {
+    "default": "1-Pound no Fukuin"
+  },
+  "synonyms": [
+    "Ichi Pound no Fukuin",
+    "Ichi-Pound No Fukuin",
+    "1 Pound No Fukuin",
+    "One Pound Gospel",
+    "One-Pound Gospel",
+    "1파운드의 복음",
+    "1磅的福音",
+    "一磅的福音",
+    "One♥Pound Gospel",
+    "1ポンドの福音",
+    "1 Pound no Fukuin",
+    "Ichi-Pound no Fukuin"
+  ],
+  "type": "manga",
+  "chapters": 37,
+  "volumes": 4,
+  "status": "finished",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30844-1qyrphyWaTrp.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1328",
+      "url": "https://anilist.co/anime/1328"
+    },
+    "al_manga": {
+      "id": "1328",
+      "url": "https://anilist.co/manga/1328"
+    }
+  }
+}

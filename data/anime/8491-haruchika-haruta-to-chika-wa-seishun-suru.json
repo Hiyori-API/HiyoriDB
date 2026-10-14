@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8491,
+  "slug": "haruchika-haruta-to-chika-wa-seishun-suru",
+  "kind": "anime",
+  "title": "Haruchika: Haruta to Chika wa Seishun Suru",
+  "titles": {
+    "default": "Haruchika: Haruta to Chika wa Seishun Suru",
+    "romaji": "Haruchika: Haruta to Chika wa Seishun Suru",
+    "english": "Haruchika - Haruta & Chika",
+    "native": "ハルチカ～ハルタとチカは青春する～"
+  },
+  "synonyms": [
+    "Haruchika: Haruta to Chika wa Seishun Suru",
+    "Haruchika - Haruta & Chika",
+    "ハルチカ～ハルタとチカは青春する～",
+    "Durarara!!x2 Ketsu",
+    "Durarara!! x2 Ketsu",
+    "デュラララ!!×2 結"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21213-9TdiQ4jB6Jiv.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21213",
+      "url": "https://anilist.co/anime/21213"
+    },
+    "k": {
+      "id": "9725",
+      "url": "https://kitsu.io/anime/9725"
+    },
+    "mal": {
+      "id": "30895",
+      "url": "https://myanimelist.net/anime/30895"
+    },
+    "nf": {
+      "id": "80047029",
+      "url": "https://www.netflix.com/title/80047029"
+    },
+    "t": {
+      "id": "42187",
+      "url": "https://trakt.tv/shows/42187"
+    },
+    "tx": {
+      "id": "haruta_chika",
+      "url": "https://twitter.com/haruta_chika"
+    }
+  }
+}

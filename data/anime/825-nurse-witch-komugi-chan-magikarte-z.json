@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 825,
+  "slug": "nurse-witch-komugi-chan-magikarte-z",
+  "kind": "anime",
+  "title": "Nurse Witch Komugi-chan Magikarte Z",
+  "titles": {
+    "default": "Nurse Witch Komugi-chan Magikarte Z",
+    "romaji": "Nurse Witch Komugi-chan Magikarte Z",
+    "native": "ナースウィッチ小麦ちゃんマジカルてZ"
+  },
+  "synonyms": [
+    "Nurse Witch Komugi-chan Magikarte Z",
+    "ナースウィッチ小麦ちゃんマジカルてZ"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/921.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "921",
+      "url": "https://anilist.co/anime/921"
+    },
+    "k": {
+      "id": "821",
+      "url": "https://kitsu.io/anime/821"
+    },
+    "mal": {
+      "id": "921",
+      "url": "https://myanimelist.net/anime/921"
+    }
+  }
+}

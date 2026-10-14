@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13776,
+  "slug": "sora-wa-akai-kawa-no-hotori",
+  "kind": "manga",
+  "title": "Sora wa Akai Kawa no Hotori",
+  "titles": {
+    "default": "Sora wa Akai Kawa no Hotori"
+  },
+  "synonyms": [
+    "Anatolia Story",
+    "Heaven by the Red River",
+    "Orontes Renka",
+    "Orontes Love Song",
+    "ตะวันรักที่ปลายฟ้า",
+    "하늘은 붉은 강가",
+    "Red River",
+    "天は赤い河のほとり",
+    "Sora wa Akai Kawa no Hotori",
+    "Where the Sky and the Red River meet"
+  ],
+  "type": "manga",
+  "chapters": 99,
+  "volumes": 28,
+  "status": "finished",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30079-7EBm14wL7QlD.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "207809",
+      "url": "https://anilist.co/anime/207809"
+    },
+    "al_manga": {
+      "id": "207809",
+      "url": "https://anilist.co/manga/207809"
+    }
+  }
+}

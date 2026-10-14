@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13822,
+  "slug": "boys-be",
+  "kind": "manga",
+  "title": "Boys Be ...",
+  "titles": {
+    "default": "Boys Be ..."
+  },
+  "synonyms": [
+    "Boys Be",
+    "Boys Be ...",
+    "新恋愛白書",
+    "Boys Be...",
+    "BOYS BE…"
+  ],
+  "type": "manga",
+  "chapters": 255,
+  "volumes": 32,
+  "status": "finished",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30152-njHoNnwmir53.png"
+  ],
+  "references": {
+    "al": {
+      "id": "105",
+      "url": "https://anilist.co/anime/105"
+    },
+    "al_manga": {
+      "id": "105",
+      "url": "https://anilist.co/manga/105"
+    }
+  }
+}

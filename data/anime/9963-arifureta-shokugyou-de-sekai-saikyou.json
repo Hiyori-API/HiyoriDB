@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9963,
+  "slug": "arifureta-shokugyou-de-sekai-saikyou",
+  "kind": "anime",
+  "title": "Arifureta Shokugyou de Sekai Saikyou",
+  "titles": {
+    "default": "Arifureta Shokugyou de Sekai Saikyou",
+    "romaji": "Arifureta Shokugyou de Sekai Saikyou",
+    "english": "Arifureta: From Commonplace to World's Strongest",
+    "native": "ありふれた職業で世界最強"
+  },
+  "synonyms": [
+    "Arifureta Shokugyou de Sekai Saikyou",
+    "Arifureta: From Commonplace to World's Strongest",
+    "ありふれた職業で世界最強",
+    "平凡职业造就世界最强",
+    "อาชีพกระจอกแล้วทำไม ยังไงข้าก็เทพ",
+    "From Common Job Class to the Strongest in the World"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100668-DvOn5bMOt4cy.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "100668",
+      "url": "https://anilist.co/anime/100668"
+    },
+    "cr": {
+      "id": "arifureta-from-commonplace-to-worlds-strongest",
+      "url": "https://www.crunchyroll.com/series/arifureta-from-commonplace-to-worlds-strongest"
+    },
+    "mal": {
+      "id": "36882",
+      "url": "https://myanimelist.net/anime/36882"
+    },
+    "tx": {
+      "id": "Arifureta_anime",
+      "url": "https://twitter.com/ARIFURETA_info"
+    }
+  }
+}

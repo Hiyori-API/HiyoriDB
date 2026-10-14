@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4685,
+  "slug": "moomin",
+  "kind": "anime",
+  "title": "Moomin",
+  "titles": {
+    "default": "Moomin",
+    "romaji": "Moomin",
+    "native": "ムーミン"
+  },
+  "synonyms": [
+    "Moomin",
+    "ムーミン",
+    "Mumin",
+    "Muumin"
+  ],
+  "type": "tv",
+  "episodes": 65,
+  "status": "finished",
+  "season": "fall",
+  "year": 1969,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx8234-QwZruOPEXm6H.png"
+  ],
+  "references": {
+    "al": {
+      "id": "8234",
+      "url": "https://anilist.co/anime/8234"
+    },
+    "k": {
+      "id": "5258",
+      "url": "https://kitsu.io/anime/5258"
+    },
+    "mal": {
+      "id": "8234",
+      "url": "https://myanimelist.net/anime/8234"
+    }
+  }
+}

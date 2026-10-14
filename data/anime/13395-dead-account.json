@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13395,
+  "slug": "dead-account",
+  "kind": "anime",
+  "title": "Dead Account",
+  "titles": {
+    "default": "Dead Account",
+    "romaji": "Dead Account",
+    "native": "デッドアカウント"
+  },
+  "synonyms": [
+    "Dead Account",
+    "デッドアカウント",
+    "デドアカ",
+    "เดดแอ็กเคานต์ พิฆาตบัญชีมรณะ",
+    "You and I Are Polar Opposites",
+    "正反対な君と僕",
+    "Seihantai na Kimi to Boku"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187901-T91HmZAaNwOF.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "187901",
+      "url": "https://anilist.co/anime/187901"
+    },
+    "cr": {
+      "id": "series/GT00365559/dead-account",
+      "url": "https://www.crunchyroll.com/series/series/GT00365559/dead-account"
+    },
+    "mal": {
+      "id": "61196",
+      "url": "https://myanimelist.net/anime/61196"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5838,
+  "slug": "umineko-no-naku-koro-ni-specials",
+  "kind": "anime",
+  "title": "Umineko no Naku Koro ni Specials",
+  "titles": {
+    "default": "Umineko no Naku Koro ni Specials",
+    "romaji": "Umineko no Naku Koro ni Specials",
+    "english": "When the Seagulls Cry Specials",
+    "native": "うみねこのなく頃に"
+  },
+  "synonyms": [
+    "Umineko no Naku Koro ni Specials",
+    "When the Seagulls Cry Specials",
+    "うみねこのなく頃に",
+    "Uraneko",
+    "When They Cry 3 Specials"
+  ],
+  "type": "special",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7568.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7568",
+      "url": "https://anilist.co/anime/7568"
+    },
+    "k": {
+      "id": "5030",
+      "url": "https://kitsu.io/anime/5030"
+    },
+    "mal": {
+      "id": "7568",
+      "url": "https://myanimelist.net/anime/7568"
+    }
+  }
+}

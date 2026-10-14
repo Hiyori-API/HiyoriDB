@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11774,
+  "slug": "mama-ohanashi-kikasete",
+  "kind": "anime",
+  "title": "Mama Ohanashi Kikasete",
+  "titles": {
+    "default": "Mama Ohanashi Kikasete",
+    "romaji": "Mama Ohanashi Kikasete",
+    "native": "ママお話きかせて"
+  },
+  "synonyms": [
+    "Mama Ohanashi Kikasete",
+    "ママお話きかせて",
+    "Mama Ohanashi wo Shikikasete",
+    "Watch with Mother",
+    "Mama Ohanashi o Shikikasete"
+  ],
+  "type": "tv",
+  "episodes": 15,
+  "status": "finished",
+  "season": "spring",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b196239-IZAo9Emsz0Vo.png"
+  ],
+  "references": {
+    "al": {
+      "id": "196239",
+      "url": "https://anilist.co/anime/196239"
+    },
+    "k": {
+      "id": "9429",
+      "url": "https://kitsu.io/anime/9429"
+    },
+    "mal": {
+      "id": "26087",
+      "url": "https://myanimelist.net/anime/26087"
+    }
+  }
+}

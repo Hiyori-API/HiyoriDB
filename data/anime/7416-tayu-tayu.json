@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7416,
+  "slug": "tayu-tayu",
+  "kind": "anime",
+  "title": "Tayu Tayu",
+  "titles": {
+    "default": "Tayu Tayu",
+    "romaji": "Tayu Tayu",
+    "native": "たゆたゆ"
+  },
+  "synonyms": [
+    "Tayu Tayu",
+    "たゆたゆ",
+    "Tayutayu",
+    "Vanquished Queens",
+    "ヴァンキッシュド・クイーンズ",
+    "Queen's Blade"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "fall",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19631.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "19631",
+      "url": "https://anilist.co/anime/19631"
+    },
+    "k": {
+      "id": "7412",
+      "url": "https://kitsu.io/anime/7412"
+    },
+    "mal": {
+      "id": "19631",
+      "url": "https://myanimelist.net/anime/19631"
+    }
+  }
+}

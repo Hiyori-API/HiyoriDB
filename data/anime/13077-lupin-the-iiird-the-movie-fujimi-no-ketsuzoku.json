@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13077,
+  "slug": "lupin-the-iiird-the-movie-fujimi-no-ketsuzoku",
+  "kind": "anime",
+  "title": "LUPIN THE IIIRD THE MOVIE: Fujimi no Ketsuzoku",
+  "titles": {
+    "default": "LUPIN THE IIIRD THE MOVIE: Fujimi no Ketsuzoku",
+    "romaji": "LUPIN THE IIIRD THE MOVIE: Fujimi no Ketsuzoku",
+    "english": "LUPIN THE IIIRD: The Movie - The Immortal Bloodline",
+    "native": "LUPIN THE IIIRD THE MOVIE 不死身の血族"
+  },
+  "synonyms": [
+    "LUPIN THE IIIRD THE MOVIE: Fujimi no Ketsuzoku",
+    "LUPIN THE IIIRD: The Movie - The Immortal Bloodline",
+    "LUPIN THE IIIRD THE MOVIE 不死身の血族",
+    "Lupin the IIIrd the Movie: Nieśmiertelny rodowód",
+    "Lupin The IIIrd - The Movie: La Stirpe Immortale",
+    "Lupin the IIIrd the Movie: The Immortal Bloodline",
+    "Lupin the IIIrd the Movie: Fujimi no Ketsuzoku"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185084-aY9Drgo6tDRA.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "185084",
+      "url": "https://anilist.co/anime/185084"
+    },
+    "mal": {
+      "id": "60408",
+      "url": "https://myanimelist.net/anime/60408"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11127,
+  "slug": "show-by-rock-stars",
+  "kind": "anime",
+  "title": "SHOW BY ROCK!! STARS!!",
+  "titles": {
+    "default": "SHOW BY ROCK!! STARS!!",
+    "romaji": "SHOW BY ROCK!! STARS!!",
+    "english": "Show by Rock!! Stars!!",
+    "native": "SHOW BY ROCK!!STARS!!"
+  },
+  "synonyms": [
+    "SHOW BY ROCK!! STARS!!",
+    "Show by Rock!! Stars!!",
+    "SHOW BY ROCK!!STARS!!",
+    "Show by Rock!! Stars!! ภาค 4"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113476-X0y7eSl4TAHd.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "113476",
+      "url": "https://anilist.co/anime/113476"
+    },
+    "mal": {
+      "id": "41520",
+      "url": "https://myanimelist.net/anime/41520"
+    },
+    "tx": {
+      "id": "SB69A",
+      "url": "https://twitter.com/SB69A"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9527,
+  "slug": "ramen-daisuki-koizumi-san",
+  "kind": "anime",
+  "title": "Ramen Daisuki Koizumi-san",
+  "titles": {
+    "default": "Ramen Daisuki Koizumi-san",
+    "romaji": "Ramen Daisuki Koizumi-san",
+    "english": "Ms. Koizumi Loves Ramen Noodles",
+    "native": "ラーメン大好き小泉さん"
+  },
+  "synonyms": [
+    "Ramen Daisuki Koizumi-san",
+    "Ms. Koizumi Loves Ramen Noodles",
+    "ラーメン大好き小泉さん",
+    "High Score Girl",
+    "ハイスコアガール",
+    "Hi Score Girl"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98529-EwZwzKGNaU8b.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98529",
+      "url": "https://anilist.co/anime/98529"
+    },
+    "cr": {
+      "id": "ms-koizumi-loves-ramen-noodles",
+      "url": "https://www.crunchyroll.com/series/ms-koizumi-loves-ramen-noodles"
+    },
+    "k": {
+      "id": "8158",
+      "url": "https://kitsu.io/anime/8158"
+    },
+    "mal": {
+      "id": "35298",
+      "url": "https://myanimelist.net/anime/35298"
+    },
+    "nf": {
+      "id": "80997338",
+      "url": "https://www.netflix.com/title/80997338"
+    },
+    "tx": {
+      "id": "ramen_koizumi",
+      "url": "https://twitter.com/ramen_koizumi"
+    }
+  }
+}

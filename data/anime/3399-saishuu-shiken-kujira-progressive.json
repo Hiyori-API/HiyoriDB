@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3399,
+  "slug": "saishuu-shiken-kujira-progressive",
+  "kind": "anime",
+  "title": "Saishuu Shiken Kujira Progressive",
+  "titles": {
+    "default": "Saishuu Shiken Kujira Progressive",
+    "romaji": "Saishuu Shiken Kujira Progressive",
+    "english": "Final Examination Kujira Progressive",
+    "native": "最終試験くじら Progressive"
+  },
+  "synonyms": [
+    "Saishuu Shiken Kujira Progressive",
+    "Final Examination Kujira Progressive",
+    "最終試験くじら Progressive",
+    "Saishuu Shiken Kujira OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4213.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4213",
+      "url": "https://anilist.co/anime/4213"
+    },
+    "k": {
+      "id": "3528",
+      "url": "https://kitsu.io/anime/3528"
+    },
+    "mal": {
+      "id": "4213",
+      "url": "https://myanimelist.net/anime/4213"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1886,
+  "slug": "chouja-raideen",
+  "kind": "anime",
+  "title": "Chouja Raideen",
+  "titles": {
+    "default": "Chouja Raideen",
+    "romaji": "Chouja Raideen",
+    "native": "超者ライディーン"
+  },
+  "synonyms": [
+    "Chouja Raideen",
+    "超者ライディーン",
+    "Chouja Reideen",
+    "Choja Raideen",
+    "Reideen the Superior"
+  ],
+  "type": "tv",
+  "episodes": 38,
+  "status": "finished",
+  "season": "fall",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2127-BtlFFjcOOnJq.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2127",
+      "url": "https://anilist.co/anime/2127"
+    },
+    "k": {
+      "id": "1924",
+      "url": "https://kitsu.io/anime/1924"
+    },
+    "mal": {
+      "id": "2127",
+      "url": "https://myanimelist.net/anime/2127"
+    }
+  }
+}

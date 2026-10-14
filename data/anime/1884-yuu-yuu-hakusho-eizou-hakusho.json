@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1884,
+  "slug": "yuu-yuu-hakusho-eizou-hakusho",
+  "kind": "anime",
+  "title": "Yuu☆Yuu☆Hakusho: Eizou Hakusho",
+  "titles": {
+    "default": "Yuu☆Yuu☆Hakusho: Eizou Hakusho",
+    "romaji": "Yuu☆Yuu☆Hakusho: Eizou Hakusho",
+    "english": "Yu Yu Hakusho: Eizou Hakusho",
+    "native": "幽☆遊☆白書 映像白書 暗黒武術会の章 上巻 & 下巻"
+  },
+  "synonyms": [
+    "Yuu☆Yuu☆Hakusho: Eizou Hakusho",
+    "Yu Yu Hakusho: Eizou Hakusho",
+    "幽☆遊☆白書 映像白書 暗黒武術会の章 上巻 & 下巻",
+    "Yu Yu Hakusho: Eizou Hakusho: Ankoku Bujutsukai no Shou - Joukan & Gekan",
+    "Yu Yu Hakusho: Image Hakusho: Dark Tournament Chapter - First & Second Volumes",
+    "Ranma ½ Specials",
+    "Ranma ½: Yomigaeru Kioku",
+    "らんま１／２",
+    "Ranma 1/2 Specials"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2125.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2125",
+      "url": "https://anilist.co/anime/2125"
+    },
+    "k": {
+      "id": "898",
+      "url": "https://kitsu.io/anime/898"
+    },
+    "mal": {
+      "id": "2125",
+      "url": "https://myanimelist.net/anime/2125"
+    }
+  }
+}

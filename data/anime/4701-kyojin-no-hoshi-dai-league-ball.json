@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4701,
+  "slug": "kyojin-no-hoshi-dai-league-ball",
+  "kind": "anime",
+  "title": "Kyojin no Hoshi: Dai League Ball",
+  "titles": {
+    "default": "Kyojin no Hoshi: Dai League Ball",
+    "romaji": "Kyojin no Hoshi: Dai League Ball",
+    "native": "巨人の星 大リーグボール"
+  },
+  "synonyms": [
+    "Kyojin no Hoshi: Dai League Ball",
+    "巨人の星 大リーグボール"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1970,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17445-7kN08mce1Mdf.png"
+  ],
+  "references": {
+    "al": {
+      "id": "17445",
+      "url": "https://anilist.co/anime/17445"
+    },
+    "k": {
+      "id": "9414",
+      "url": "https://kitsu.io/anime/9414"
+    },
+    "mal": {
+      "id": "17445",
+      "url": "https://myanimelist.net/anime/17445"
+    }
+  }
+}

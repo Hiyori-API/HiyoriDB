@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2621,
+  "slug": "the-humanoid-ai-no-wakusei-lezaria",
+  "kind": "anime",
+  "title": "The Humanoid: Ai no Wakusei Lezaria",
+  "titles": {
+    "default": "The Humanoid: Ai no Wakusei Lezaria",
+    "romaji": "The Humanoid: Ai no Wakusei Lezaria",
+    "english": "The Humanoid",
+    "native": "ザ・ヒューマノイド 哀の惑星レザリア"
+  },
+  "synonyms": [
+    "The Humanoid: Ai no Wakusei Lezaria",
+    "The Humanoid",
+    "ザ・ヒューマノイド 哀の惑星レザリア",
+    "Humanoid - Ai no Wakusei Lezeria",
+    "Metallia",
+    "The Humanoid: Ai no Wakusei Lezeria"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2974-2RhkjrUR4Sfu.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2974",
+      "url": "https://anilist.co/anime/2974"
+    },
+    "k": {
+      "id": "2691",
+      "url": "https://kitsu.io/anime/2691"
+    },
+    "mal": {
+      "id": "2974",
+      "url": "https://myanimelist.net/anime/2974"
+    }
+  }
+}

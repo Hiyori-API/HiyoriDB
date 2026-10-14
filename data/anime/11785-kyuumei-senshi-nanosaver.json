@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11785,
+  "slug": "kyuumei-senshi-nanosaver",
+  "kind": "anime",
+  "title": "Kyuumei Senshi Nanosaver",
+  "titles": {
+    "default": "Kyuumei Senshi Nanosaver",
+    "romaji": "Kyuumei Senshi Nanosaver",
+    "native": "救命戦士ナノセイバー"
+  },
+  "synonyms": [
+    "Kyuumei Senshi Nanosaver",
+    "救命戦士ナノセイバー",
+    "Rescue Warrior Nanosaver"
+  ],
+  "type": "tv",
+  "episodes": 28,
+  "status": "finished",
+  "season": "spring",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180849-GXWHoe4tyPZI.png"
+  ],
+  "references": {
+    "al": {
+      "id": "180849",
+      "url": "https://anilist.co/anime/180849"
+    },
+    "k": {
+      "id": "9420",
+      "url": "https://kitsu.io/anime/9420"
+    },
+    "mal": {
+      "id": "27393",
+      "url": "https://myanimelist.net/anime/27393"
+    }
+  }
+}

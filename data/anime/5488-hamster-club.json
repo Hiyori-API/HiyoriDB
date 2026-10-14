@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5488,
+  "slug": "hamster-club",
+  "kind": "anime",
+  "title": "Hamster Club",
+  "titles": {
+    "default": "Hamster Club",
+    "romaji": "Hamster Club",
+    "native": "ハムスター倶楽部"
+  },
+  "synonyms": [
+    "Hamster Club",
+    "ハムスター倶楽部"
+  ],
+  "type": "tv",
+  "episodes": 130,
+  "status": "finished",
+  "season": "fall",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9900-ezuTbHlkkwPd.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9900",
+      "url": "https://anilist.co/anime/9900"
+    },
+    "k": {
+      "id": "5929",
+      "url": "https://kitsu.io/anime/5929"
+    },
+    "mal": {
+      "id": "9900",
+      "url": "https://myanimelist.net/anime/9900"
+    }
+  }
+}

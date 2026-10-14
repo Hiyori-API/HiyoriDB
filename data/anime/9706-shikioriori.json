@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9706,
+  "slug": "shikioriori",
+  "kind": "anime",
+  "title": "Shikioriori",
+  "titles": {
+    "default": "Shikioriori",
+    "romaji": "Shikioriori",
+    "english": "Flavors of Youth",
+    "native": "詩季織々"
+  },
+  "synonyms": [
+    "Shikioriori",
+    "Flavors of Youth",
+    "詩季織々",
+    "肆式青春",
+    "Si Shi Qing Chun",
+    "Shiki Oriori: O Sabor da Juventude",
+    "詩季織々（しきおりおり）"
+  ],
+  "type": "movie",
+  "episodes": 3,
+  "status": "finished",
+  "season": "summer",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101231-8X1CanhPk9iw.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101231",
+      "url": "https://anilist.co/anime/101231"
+    },
+    "mal": {
+      "id": "37396",
+      "url": "https://myanimelist.net/anime/37396"
+    },
+    "nf": {
+      "id": "80234491",
+      "url": "https://www.netflix.com/title/80234491"
+    }
+  }
+}

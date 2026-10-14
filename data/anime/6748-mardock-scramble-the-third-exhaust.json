@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6748,
+  "slug": "mardock-scramble-the-third-exhaust",
+  "kind": "anime",
+  "title": "Mardock Scramble: The Third Exhaust",
+  "titles": {
+    "default": "Mardock Scramble: The Third Exhaust",
+    "romaji": "Mardock Scramble: The Third Exhaust",
+    "native": "マルドゥック・スクランブル 排気"
+  },
+  "synonyms": [
+    "Mardock Scramble: The Third Exhaust",
+    "マルドゥック・スクランブル 排気",
+    "Blue Exorcist The Movie",
+    "Ao no Exorcist Movie",
+    "劇場版 青の祓魔師（エクソシスト）",
+    "Ao no Exorcist Gekijouban",
+    "Ao no Futsumashi Movie",
+    "Blue Exorcist Movie"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12053-Jf9xTHCDpUis.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12053",
+      "url": "https://anilist.co/anime/12053"
+    },
+    "k": {
+      "id": "6580",
+      "url": "https://kitsu.io/anime/6580"
+    },
+    "mal": {
+      "id": "12053",
+      "url": "https://myanimelist.net/anime/12053"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15252,
+  "slug": "karen",
+  "kind": "manga",
+  "title": "Karen",
+  "titles": {
+    "default": "Karen"
+  },
+  "synonyms": [
+    "Usu Kagami",
+    "Karen",
+    "Practice Hard",
+    "Pain and Miss",
+    "Hot Break",
+    "Present Hard",
+    "Present for me Present for you",
+    "The Thin Mirror",
+    "KAREN ～カレン～",
+    "Mushrambo",
+    "マシュランボー",
+    "Mashuranboo"
+  ],
+  "type": "manga",
+  "chapters": 11,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx120319-CzU1aSK3lxuS.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3560",
+      "url": "https://anilist.co/anime/3560"
+    },
+    "al_manga": {
+      "id": "3560",
+      "url": "https://anilist.co/manga/3560"
+    }
+  }
+}

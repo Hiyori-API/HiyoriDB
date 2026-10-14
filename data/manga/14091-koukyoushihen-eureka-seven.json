@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14091,
+  "slug": "koukyoushihen-eureka-seven",
+  "kind": "manga",
+  "title": "Koukyoushihen Eureka Seven",
+  "titles": {
+    "default": "Koukyoushihen Eureka Seven"
+  },
+  "synonyms": [
+    "Eureka 7 Novel",
+    "Eureka Seven Psalms of Planets Novel",
+    "Koukyoushi Hen: Eureka Seven Novel",
+    "Eureka Seven Novel",
+    "交響詩篇エウレカセブン",
+    "Young Gun Carnaval",
+    "ヤングガン・カルナバル"
+  ],
+  "type": "novel",
+  "volumes": 4,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx53550-fOeuB5xU8ywg.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "237",
+      "url": "https://anilist.co/anime/237"
+    },
+    "al_manga": {
+      "id": "237",
+      "url": "https://anilist.co/manga/237"
+    }
+  }
+}

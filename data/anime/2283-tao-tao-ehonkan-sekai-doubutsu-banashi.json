@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2283,
+  "slug": "tao-tao-ehonkan-sekai-doubutsu-banashi",
+  "kind": "anime",
+  "title": "Tao Tao Ehonkan Sekai Doubutsu Banashi",
+  "titles": {
+    "default": "Tao Tao Ehonkan Sekai Doubutsu Banashi",
+    "romaji": "Tao Tao Ehonkan Sekai Doubutsu Banashi",
+    "native": "タオタオ絵本館・世界動物ばなし"
+  },
+  "synonyms": [
+    "Tao Tao Ehonkan Sekai Doubutsu Banashi",
+    "タオタオ絵本館・世界動物ばなし",
+    "Pandi-Panda",
+    "Tao Tao Ehonkan",
+    "Tao Tao Picturebook Mansion",
+    "パンダのタオタオ絵本館",
+    "Tao Tao - Tiergeschichten aus aller Welt",
+    "TaoTao Ehonkan Sekai Doubutsu Banashi",
+    "タオタオ絵本館",
+    "Taotao Picturebook Mansion"
+  ],
+  "type": "tv",
+  "episodes": 52,
+  "status": "finished",
+  "season": "fall",
+  "year": 1983,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2578-8bQJlc0WgvgD.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2578",
+      "url": "https://anilist.co/anime/2578"
+    },
+    "k": {
+      "id": "2343",
+      "url": "https://kitsu.io/anime/2343"
+    },
+    "mal": {
+      "id": "2578",
+      "url": "https://myanimelist.net/anime/2578"
+    },
+    "t": {
+      "id": "20419",
+      "url": "https://trakt.tv/shows/20419"
+    }
+  }
+}

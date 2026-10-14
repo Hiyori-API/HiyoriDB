@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12772,
+  "slug": "okaimono-panda",
+  "kind": "anime",
+  "title": "Okaimono Panda!",
+  "titles": {
+    "default": "Okaimono Panda!",
+    "romaji": "Okaimono Panda!",
+    "english": "Okaimono Panda",
+    "native": "お買いものパンダ！"
+  },
+  "synonyms": [
+    "Okaimono Panda!",
+    "Okaimono Panda",
+    "お買いものパンダ！",
+    "Rakuten Panda!",
+    "Shopping Panda",
+    "Dragon Ball Daima",
+    "ドラゴンボール ダイマ"
+  ],
+  "type": "tv",
+  "episodes": 20,
+  "status": "finished",
+  "season": "fall",
+  "year": 2024,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177603-OLyvQoVBW101.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "177603",
+      "url": "https://anilist.co/anime/177603"
+    },
+    "mal": {
+      "id": "58827",
+      "url": "https://myanimelist.net/anime/58827"
+    },
+    "tx": {
+      "id": "a_okaimonopanda",
+      "url": "https://twitter.com/a_okaimonopanda"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10623,
+  "slug": "kamisama-ni-natta-hi",
+  "kind": "anime",
+  "title": "Kamisama ni Natta Hi",
+  "titles": {
+    "default": "Kamisama ni Natta Hi",
+    "romaji": "Kamisama ni Natta Hi",
+    "english": "The Day I Became a God",
+    "native": "神様になった日"
+  },
+  "synonyms": [
+    "Kamisama ni Natta Hi",
+    "The Day I Became a God",
+    "神様になった日",
+    "День, когда я стала Богом",
+    "Ring ni Kakero 1",
+    "リングにかけろ１",
+    "Put it all in the Ring"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118419-li8RpQcLgiKK.png"
+  ],
+  "references": {
+    "al": {
+      "id": "118419",
+      "url": "https://anilist.co/anime/118419"
+    },
+    "cr": {
+      "id": "the-day-i-became-a-god",
+      "url": "https://www.crunchyroll.com/series/the-day-i-became-a-god"
+    },
+    "k": {
+      "id": "14",
+      "url": "https://kitsu.io/anime/14"
+    },
+    "mal": {
+      "id": "41930",
+      "url": "https://myanimelist.net/anime/41930"
+    },
+    "t": {
+      "id": "69507",
+      "url": "https://trakt.tv/shows/69507"
+    },
+    "tx": {
+      "id": "kamisama_Ch_AB",
+      "url": "https://twitter.com/kamisama_Ch_AB"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12330,
+  "slug": "shuumatsu-no-valkyrie-ii-part-2",
+  "kind": "anime",
+  "title": "Shuumatsu no Valkyrie II Part 2",
+  "titles": {
+    "default": "Shuumatsu no Valkyrie II Part 2",
+    "romaji": "Shuumatsu no Valkyrie II Part 2",
+    "english": "Record of Ragnarok II Part 2",
+    "native": "終末のワルキューレⅡ 後編"
+  },
+  "synonyms": [
+    "Shuumatsu no Valkyrie II Part 2",
+    "Record of Ragnarok II Part 2",
+    "終末のワルキューレⅡ 後編",
+    "Record of Ragnarock Season 2 Part 2",
+    "Ontama!",
+    "おんたま!"
+  ],
+  "type": "ona",
+  "episodes": 5,
+  "status": "finished",
+  "season": "summer",
+  "year": 2023,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165356-JllyKMqTyVpe.png"
+  ],
+  "references": {
+    "al": {
+      "id": "165356",
+      "url": "https://anilist.co/anime/165356"
+    },
+    "k": {
+      "id": "4771",
+      "url": "https://kitsu.io/anime/4771"
+    },
+    "mal": {
+      "id": "55454",
+      "url": "https://myanimelist.net/anime/55454"
+    },
+    "nf": {
+      "id": "81281579",
+      "url": "https://www.netflix.com/title/81281579"
+    },
+    "tx": {
+      "id": "ragnarok_pr",
+      "url": "https://twitter.com/ragnarok_pr"
+    }
+  }
+}

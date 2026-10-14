@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5770,
+  "slug": "dai-chan-daisuki",
+  "kind": "anime",
+  "title": "Dai-chan, Daisuki.",
+  "titles": {
+    "default": "Dai-chan, Daisuki.",
+    "romaji": "Dai-chan, Daisuki.",
+    "native": "大ちゃん、だいすき。"
+  },
+  "synonyms": [
+    "Dai-chan, Daisuki.",
+    "大ちゃん、だいすき。",
+    "Daichan",
+    "Daisuki.",
+    "大ちゃん, だいすき."
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19905.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "19905",
+      "url": "https://anilist.co/anime/19905"
+    },
+    "k": {
+      "id": "9241",
+      "url": "https://kitsu.io/anime/9241"
+    },
+    "mal": {
+      "id": "19905",
+      "url": "https://myanimelist.net/anime/19905"
+    }
+  }
+}

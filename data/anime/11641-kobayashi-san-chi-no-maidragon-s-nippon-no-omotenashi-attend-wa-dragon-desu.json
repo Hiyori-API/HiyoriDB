@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11641,
+  "slug": "kobayashi-san-chi-no-maidragon-s-nippon-no-omotenashi-attend-wa-dragon-desu",
+  "kind": "anime",
+  "title": "Kobayashi-san Chi no Maidragon S: Nippon no Omotenashi (Attend wa Dragon desu)",
+  "titles": {
+    "default": "Kobayashi-san Chi no Maidragon S: Nippon no Omotenashi (Attend wa Dragon desu)",
+    "romaji": "Kobayashi-san Chi no Maidragon S: Nippon no Omotenashi (Attend wa Dragon desu)",
+    "english": "Miss Kobayashi’s Dragon Maid S: Japanese Hospitality (The Attendant Is a Dragon)",
+    "native": "小林さんちのメイドラゴンＳ ニッポンのおもてなし（アテンドはドラゴンです）"
+  },
+  "synonyms": [
+    "Kobayashi-san Chi no Maidragon S: Nippon no Omotenashi (Attend wa Dragon desu)",
+    "Miss Kobayashi’s Dragon Maid S: Japanese Hospitality (The Attendant Is a Dragon)",
+    "小林さんちのメイドラゴンＳ ニッポンのおもてなし（アテンドはドラゴンです）",
+    "Miss Kobayashi's Dragon Maid S Special",
+    "Miss Kobayashi's Dragon Maid S Episode 13",
+    "Kobayashi-san Chi no Maidragon S Episode 13",
+    "Voices of a Distant Star",
+    "Hoshi no Koe",
+    "ほしのこえ"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136436-Pirva3Ad2uWc.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "136436",
+      "url": "https://anilist.co/anime/136436"
+    },
+    "cr": {
+      "id": "miss-kobayashis-dragon-maid/episode-13-japanese-hospitality-the-attendant-is-a-dragon-814608",
+      "url": "https://www.crunchyroll.com/series/miss-kobayashis-dragon-maid/episode-13-japanese-hospitality-the-attendant-is-a-dragon-814608"
+    },
+    "k": {
+      "id": "231",
+      "url": "https://kitsu.io/anime/231"
+    },
+    "mal": {
+      "id": "49893",
+      "url": "https://myanimelist.net/anime/49893"
+    },
+    "tx": {
+      "id": "MissKobayashiEN",
+      "url": "https://twitter.com/maidragon_anime"
+    }
+  }
+}

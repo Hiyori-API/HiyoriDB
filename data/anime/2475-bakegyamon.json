@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2475,
+  "slug": "bakegyamon",
+  "kind": "anime",
+  "title": "Bakegyamon",
+  "titles": {
+    "default": "Bakegyamon",
+    "romaji": "Bakegyamon",
+    "native": "妖逆門"
+  },
+  "synonyms": [
+    "Bakegyamon",
+    "妖逆門",
+    "Kiba",
+    "牙-KIBA-",
+    "Fang"
+  ],
+  "type": "tv",
+  "episodes": 51,
+  "status": "finished",
+  "season": "spring",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2786.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2786",
+      "url": "https://anilist.co/anime/2786"
+    },
+    "k": {
+      "id": "749",
+      "url": "https://kitsu.io/anime/749"
+    },
+    "mal": {
+      "id": "2786",
+      "url": "https://myanimelist.net/anime/2786"
+    },
+    "t": {
+      "id": "31601",
+      "url": "https://trakt.tv/shows/31601"
+    }
+  }
+}

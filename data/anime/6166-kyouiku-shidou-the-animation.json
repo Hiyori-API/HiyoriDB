@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6166,
+  "slug": "kyouiku-shidou-the-animation",
+  "kind": "anime",
+  "title": "Kyouiku Shidou The Animation",
+  "titles": {
+    "default": "Kyouiku Shidou The Animation",
+    "romaji": "Kyouiku Shidou The Animation",
+    "native": "教育指導 The Animation"
+  },
+  "synonyms": [
+    "Kyouiku Shidou The Animation",
+    "教育指導 The Animation",
+    "Mayo Elle Otoko no Ko",
+    "迷elleオトコノ娘",
+    "Mayo elle Otokonoko"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9588.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9588",
+      "url": "https://anilist.co/anime/9588"
+    },
+    "k": {
+      "id": "5684",
+      "url": "https://kitsu.io/anime/5684"
+    },
+    "mal": {
+      "id": "9588",
+      "url": "https://myanimelist.net/anime/9588"
+    }
+  }
+}

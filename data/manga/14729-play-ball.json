@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14729,
+  "slug": "play-ball",
+  "kind": "manga",
+  "title": "Play Ball",
+  "titles": {
+    "default": "Play Ball"
+  },
+  "synonyms": [
+    "プレイボール",
+    "Onward Towards Our Noble Deaths",
+    "Souin Gyokusai seyo!",
+    "総員玉砕せよ！",
+    "The Banzai! Charge",
+    "Operation Death",
+    "Opération Mort",
+    "Let us all die honorably!"
+  ],
+  "type": "manga",
+  "chapters": 129,
+  "volumes": 22,
+  "status": "finished",
+  "year": 1973,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx91570-Z2QBroER2o8p.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3769",
+      "url": "https://anilist.co/anime/3768"
+    },
+    "al_manga": {
+      "id": "3769",
+      "url": "https://anilist.co/manga/3769"
+    }
+  }
+}

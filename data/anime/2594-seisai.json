@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2594,
+  "slug": "seisai",
+  "kind": "anime",
+  "title": "Seisai",
+  "titles": {
+    "default": "Seisai",
+    "romaji": "Seisai",
+    "english": "Perverse Investigations",
+    "native": "性裁"
+  },
+  "synonyms": [
+    "Seisai",
+    "Perverse Investigations",
+    "性裁",
+    "Sex Judge",
+    "Eiken",
+    "Eiken: Eikenbu yori Ai wo Komete",
+    "エイケン エイケンヴより愛をこめて"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2944.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2944",
+      "url": "https://anilist.co/anime/2944"
+    },
+    "k": {
+      "id": "703",
+      "url": "https://kitsu.io/anime/703"
+    },
+    "mal": {
+      "id": "2944",
+      "url": "https://myanimelist.net/anime/2944"
+    }
+  }
+}

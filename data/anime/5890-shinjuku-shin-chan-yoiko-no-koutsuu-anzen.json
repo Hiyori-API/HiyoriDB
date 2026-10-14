@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5890,
+  "slug": "shinjuku-shin-chan-yoiko-no-koutsuu-anzen",
+  "kind": "anime",
+  "title": "Shinjuku Shin-chan: Yoiko no Koutsuu Anzen",
+  "titles": {
+    "default": "Shinjuku Shin-chan: Yoiko no Koutsuu Anzen",
+    "romaji": "Shinjuku Shin-chan: Yoiko no Koutsuu Anzen",
+    "native": "新宿シンちゃん　よいこの交通安全"
+  },
+  "synonyms": [
+    "Shinjuku Shin-chan: Yoiko no Koutsuu Anzen",
+    "新宿シンちゃん　よいこの交通安全",
+    "Shinjuku Shin-chan: Traffic Safety for Good Kids"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/14069.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "14069",
+      "url": "https://anilist.co/anime/14069"
+    },
+    "k": {
+      "id": "7076",
+      "url": "https://kitsu.io/anime/7076"
+    },
+    "mal": {
+      "id": "14069",
+      "url": "https://myanimelist.net/anime/14069"
+    }
+  }
+}

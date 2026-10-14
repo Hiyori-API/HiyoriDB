@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6685,
+  "slug": "nogizaka-haruka-no-himitsu-finale",
+  "kind": "anime",
+  "title": "Nogizaka Haruka no Himitsu: Finale♪",
+  "titles": {
+    "default": "Nogizaka Haruka no Himitsu: Finale♪",
+    "romaji": "Nogizaka Haruka no Himitsu: Finale♪",
+    "english": "Haruka Nogizaka's Secret: Finale",
+    "native": "乃木坂春香の秘密 ふぃな～れ♪"
+  },
+  "synonyms": [
+    "Nogizaka Haruka no Himitsu: Finale♪",
+    "Haruka Nogizaka's Secret: Finale",
+    "乃木坂春香の秘密 ふぃな～れ♪",
+    "Nogizaka Haruka no Himitsu 3",
+    "Haruka Nogizaka's Secret 3",
+    "Nogizaka Haruka no Himitsu: Finale"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "summer",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10928-1XCxOJ9N7WwT.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10928",
+      "url": "https://anilist.co/anime/10928"
+    },
+    "k": {
+      "id": "6410",
+      "url": "https://kitsu.io/anime/6410"
+    },
+    "mal": {
+      "id": "10928",
+      "url": "https://myanimelist.net/anime/10928"
+    }
+  }
+}

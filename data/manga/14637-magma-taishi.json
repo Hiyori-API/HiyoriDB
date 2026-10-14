@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14637,
+  "slug": "magma-taishi",
+  "kind": "manga",
+  "title": "Magma Taishi",
+  "titles": {
+    "default": "Magma Taishi"
+  },
+  "synonyms": [
+    "Maguma Taishi",
+    "Ambassador Taishi",
+    "Ambassador Magma",
+    "マグマ大使",
+    "Renai Soukanzu",
+    "恋愛相姦図",
+    "Renai Sokanzu",
+    "Pink Sweets"
+  ],
+  "type": "manga",
+  "chapters": 21,
+  "volumes": 3,
+  "status": "finished",
+  "year": 1965,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b52260-LKWbxRPCFWha.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "158571",
+      "url": "https://anilist.co/anime/3235"
+    },
+    "al_manga": {
+      "id": "158571",
+      "url": "https://anilist.co/manga/158571"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1104,
+  "slug": "aozora-shoujotai",
+  "kind": "anime",
+  "title": "Aozora Shoujotai",
+  "titles": {
+    "default": "Aozora Shoujotai",
+    "romaji": "Aozora Shoujotai",
+    "english": "801 T.T.S. Airbats",
+    "native": "青空少女隊"
+  },
+  "synonyms": [
+    "Aozora Shoujotai",
+    "801 T.T.S. Airbats",
+    "青空少女隊",
+    "Blue Sky Girl Squadron",
+    "The Blue Sky Girls Squad",
+    "Japan Air Self Defence Force Tactical Training Squadron 801 T.T.S. Airbats",
+    "Aozora Shoujo-tai"
+  ],
+  "type": "ova",
+  "episodes": 7,
+  "status": "finished",
+  "season": "fall",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1233-Dhuy0t2vPU0d.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1233",
+      "url": "https://anilist.co/anime/1233"
+    },
+    "k": {
+      "id": "1109",
+      "url": "https://kitsu.io/anime/1109"
+    },
+    "mal": {
+      "id": "1233",
+      "url": "https://myanimelist.net/anime/1233"
+    }
+  }
+}

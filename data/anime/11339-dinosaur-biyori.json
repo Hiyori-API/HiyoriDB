@@ -1,0 +1,61 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11339,
+  "slug": "dinosaur-biyori",
+  "kind": "anime",
+  "title": "Dinosaur Biyori",
+  "titles": {
+    "default": "Dinosaur Biyori",
+    "romaji": "Dinosaur Biyori",
+    "native": "ダイナ荘びより"
+  },
+  "synonyms": [
+    "Dinosaur Biyori",
+    "ダイナ荘びより",
+    "Cowboy Bebop",
+    "カウボーイビバップ",
+    "COWBOY BEBOP"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130515-vjQ9jp77ggqk.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "130515",
+      "url": "https://anilist.co/anime/130515"
+    },
+    "ap": {
+      "id": "B06VW8K7ZJ",
+      "url": "https://www.amazon.com/gp/video/detail/B06VW8K7ZJ"
+    },
+    "cr": {
+      "id": "cowboy-bebop",
+      "url": "https://www.crunchyroll.com/series/cowboy-bebop"
+    },
+    "k": {
+      "id": "1",
+      "url": "https://kitsu.io/anime/1"
+    },
+    "mal": {
+      "id": "45618",
+      "url": "https://myanimelist.net/anime/45618"
+    },
+    "t": {
+      "id": "30857",
+      "url": "https://trakt.tv/shows/30857"
+    },
+    "ttv": {
+      "id": "2052",
+      "url": "https://tubitv.com/series/2052"
+    },
+    "tx": {
+      "id": "dinosaur_biyori",
+      "url": "https://twitter.com/dinosaur_biyori"
+    }
+  }
+}

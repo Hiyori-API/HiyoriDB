@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4703,
+  "slug": "tiger-mask-movie",
+  "kind": "anime",
+  "title": "Tiger Mask (Movie)",
+  "titles": {
+    "default": "Tiger Mask (Movie)",
+    "romaji": "Tiger Mask (Movie)",
+    "native": "タイガーマスク"
+  },
+  "synonyms": [
+    "Tiger Mask (Movie)",
+    "タイガーマスク"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1970,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18061.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "18061",
+      "url": "https://anilist.co/anime/18061"
+    },
+    "k": {
+      "id": "9670",
+      "url": "https://kitsu.io/anime/9670"
+    },
+    "mal": {
+      "id": "18061",
+      "url": "https://myanimelist.net/anime/18061"
+    }
+  }
+}

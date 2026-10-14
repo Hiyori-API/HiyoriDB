@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8660,
+  "slug": "seisen-cerberus-ryuukoku-no-fatalit",
+  "kind": "anime",
+  "title": "Seisen Cerberus: Ryuukoku no Fatalité",
+  "titles": {
+    "default": "Seisen Cerberus: Ryuukoku no Fatalité",
+    "romaji": "Seisen Cerberus: Ryuukoku no Fatalité",
+    "english": "Cerberus",
+    "native": "聖戦ケルベロス 竜刻のファタリテ"
+  },
+  "synonyms": [
+    "Seisen Cerberus: Ryuukoku no Fatalité",
+    "Cerberus",
+    "聖戦ケルベロス 竜刻のファタリテ",
+    "المعركة المقدسة كيربيروس",
+    "Ushio and Tora",
+    "Ushio & Tora (2016)",
+    "うしおととら",
+    "Ushio to Tora (TV) 2nd Season"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21608-GLCcfAMg1nv4.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21608",
+      "url": "https://anilist.co/anime/21608"
+    },
+    "cr": {
+      "id": "cerberus",
+      "url": "https://www.crunchyroll.com/series/cerberus"
+    },
+    "mal": {
+      "id": "32595",
+      "url": "https://myanimelist.net/anime/32595"
+    },
+    "tx": {
+      "id": "cerberus_anime",
+      "url": "https://twitter.com/cerberus_anime"
+    }
+  }
+}

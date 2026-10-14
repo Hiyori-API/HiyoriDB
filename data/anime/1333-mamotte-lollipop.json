@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1333,
+  "slug": "mamotte-lollipop",
+  "kind": "anime",
+  "title": "Mamotte! Lollipop",
+  "titles": {
+    "default": "Mamotte! Lollipop",
+    "romaji": "Mamotte! Lollipop",
+    "english": "Save Me! Lollipop",
+    "native": "まもって！ロリポップ"
+  },
+  "synonyms": [
+    "Mamotte! Lollipop",
+    "Save Me! Lollipop",
+    "まもって！ロリポップ"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1509-oouBMWdpaRO7.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1509",
+      "url": "https://anilist.co/anime/1509"
+    },
+    "cr": {
+      "id": "save-me-lollipop",
+      "url": "https://www.crunchyroll.com/series/save-me-lollipop"
+    },
+    "k": {
+      "id": "1354",
+      "url": "https://kitsu.io/anime/1354"
+    },
+    "mal": {
+      "id": "1509",
+      "url": "https://myanimelist.net/anime/1509"
+    },
+    "t": {
+      "id": "37360",
+      "url": "https://trakt.tv/shows/37360"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 850,
+  "slug": "saiunkoku-monogatari",
+  "kind": "anime",
+  "title": "Saiunkoku Monogatari",
+  "titles": {
+    "default": "Saiunkoku Monogatari",
+    "romaji": "Saiunkoku Monogatari",
+    "english": "The Story of Saiunkoku",
+    "native": "彩雲国物語"
+  },
+  "synonyms": [
+    "Saiunkoku Monogatari",
+    "The Story of Saiunkoku",
+    "彩雲国物語",
+    "The Tale of Saiun Country",
+    "Story of the Land of Many-Colored Clouds",
+    "Kokumono",
+    "Saimono",
+    "Tales of Saiunkoku",
+    "Colourcloud Palace",
+    "ColourCloud Palace"
+  ],
+  "type": "tv",
+  "episodes": 39,
+  "status": "finished",
+  "season": "spring",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx957-FgHMLrokWm4x.png"
+  ],
+  "references": {
+    "al": {
+      "id": "957",
+      "url": "https://anilist.co/anime/957"
+    },
+    "ap": {
+      "id": "B08LMGX9M4",
+      "url": "https://www.amazon.com/gp/video/detail/B08LMGX9M4"
+    },
+    "k": {
+      "id": "847",
+      "url": "https://kitsu.io/anime/847"
+    },
+    "mal": {
+      "id": "957",
+      "url": "https://myanimelist.net/anime/957"
+    },
+    "t": {
+      "id": "62606",
+      "url": "https://trakt.tv/shows/62606"
+    },
+    "ttv": {
+      "id": "300006926",
+      "url": "https://tubitv.com/series/300006926"
+    }
+  }
+}

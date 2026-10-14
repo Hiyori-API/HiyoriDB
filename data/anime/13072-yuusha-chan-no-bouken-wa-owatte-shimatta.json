@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13072,
+  "slug": "yuusha-chan-no-bouken-wa-owatte-shimatta",
+  "kind": "anime",
+  "title": "Yuusha-chan no Bouken wa Owatte Shimatta!",
+  "titles": {
+    "default": "Yuusha-chan no Bouken wa Owatte Shimatta!",
+    "romaji": "Yuusha-chan no Bouken wa Owatte Shimatta!",
+    "native": "勇者ちゃんの冒険は終わってしまった！"
+  },
+  "synonyms": [
+    "Yuusha-chan no Bouken wa Owatte Shimatta!",
+    "勇者ちゃんの冒険は終わってしまった！",
+    "This Hero Girl's Adventure is OVER!",
+    "Araiso Private High School Student Council Executive Committee",
+    "Shiritsu Araiso Koutougakkou Seitokai Shikkoubu",
+    "私立荒磯高等学校生徒会執行部"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184824-UcbgUai3o3xd.png"
+  ],
+  "references": {
+    "al": {
+      "id": "184824",
+      "url": "https://anilist.co/anime/184824"
+    },
+    "k": {
+      "id": "389",
+      "url": "https://kitsu.io/anime/389"
+    },
+    "mal": {
+      "id": "60642",
+      "url": "https://myanimelist.net/anime/60642"
+    }
+  }
+}

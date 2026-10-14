@@ -1,0 +1,62 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12116,
+  "slug": "itou-junji-maniac",
+  "kind": "anime",
+  "title": "Itou Junji: Maniac",
+  "titles": {
+    "default": "Itou Junji: Maniac",
+    "romaji": "Itou Junji: Maniac",
+    "english": "Junji Ito Maniac: Japanese Tales of the Macabre",
+    "native": "伊藤潤二『マニアック』"
+  },
+  "synonyms": [
+    "Itou Junji: Maniac",
+    "Junji Ito Maniac: Japanese Tales of the Macabre",
+    "伊藤潤二『マニアック』",
+    "Junji Ito: Histórias Macabras do Japão",
+    "Junji Ito Maniac: Relatos japoneses de lo macabro",
+    "Junji Ito: Makabryczne japońskie opowieści",
+    "Маніяк: Японські історії жахів Дзюндзі Іто",
+    "جونجي إيتو: حكايات يابانية مرعبة",
+    "Maniac par Junji Ito : Anthologie macabre",
+    "Τζούντζι Ίτο: Μακάβριες Ιαπωνικές Ιστορίες",
+    "이토 준지: 매니악",
+    "Contos Macabros de Junji Ito",
+    "Maniacul Junji Ito: Povești macabre japoneze",
+    "จุนจิ อิโต้: รวมเรื่องสยองขวัญญี่ปุ่น",
+    "Black Jack ONA",
+    "ブラック・ジャック(インターネット版)",
+    "Black Jack: Internet-han"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2023,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150653-80BlGKvUBmaS.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "150653",
+      "url": "https://anilist.co/anime/150653"
+    },
+    "k": {
+      "id": "4904",
+      "url": "https://kitsu.io/anime/4904"
+    },
+    "mal": {
+      "id": "52031",
+      "url": "https://myanimelist.net/anime/52031"
+    },
+    "nf": {
+      "id": "81295011",
+      "url": "https://www.netflix.com/title/81295011"
+    },
+    "tx": {
+      "id": "itojunji_anime",
+      "url": "https://twitter.com/itojunji_anime"
+    }
+  }
+}

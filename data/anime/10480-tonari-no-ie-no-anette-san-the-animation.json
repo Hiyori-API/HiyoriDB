@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10480,
+  "slug": "tonari-no-ie-no-anette-san-the-animation",
+  "kind": "anime",
+  "title": "Tonari no Ie no Anette-san THE ANIMATION",
+  "titles": {
+    "default": "Tonari no Ie no Anette-san THE ANIMATION",
+    "romaji": "Tonari no Ie no Anette-san THE ANIMATION",
+    "native": "となりの家のアネットさん THE ANIMATION"
+  },
+  "synonyms": [
+    "Tonari no Ie no Anette-san THE ANIMATION",
+    "となりの家のアネットさん THE ANIMATION",
+    "My Next Door Neighbor Anette-san The Animation",
+    "Phantom: The Animation",
+    "Phantom The Animation",
+    "ファントム THE ANIMATION"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "winter",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112908-lVszdNQrsn4J.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "112908",
+      "url": "https://anilist.co/anime/112908"
+    },
+    "k": {
+      "id": "401",
+      "url": "https://kitsu.io/anime/401"
+    },
+    "mal": {
+      "id": "40639",
+      "url": "https://myanimelist.net/anime/40639"
+    }
+  }
+}

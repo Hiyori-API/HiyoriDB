@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8728,
+  "slug": "buddy-go",
+  "kind": "anime",
+  "title": "Buddy Go!",
+  "titles": {
+    "default": "Buddy Go!",
+    "romaji": "Buddy Go!",
+    "native": "バディゴ!"
+  },
+  "synonyms": [
+    "Buddy Go!",
+    "バディゴ!",
+    "Maria Watches Over Us Specials",
+    "Maria-sama ga Miteru Specials",
+    "マリア様がみてる",
+    "MariMite",
+    "La Vierge Marie Vous Regarde",
+    "The Virgin Mary is Watching You"
+  ],
+  "type": "special",
+  "episodes": 7,
+  "status": "finished",
+  "season": "spring",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21734-8b7eqYszHesj.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21734",
+      "url": "https://anilist.co/anime/21734"
+    },
+    "k": {
+      "id": "136",
+      "url": "https://kitsu.io/anime/136"
+    },
+    "mal": {
+      "id": "33056",
+      "url": "https://myanimelist.net/anime/33056"
+    }
+  }
+}

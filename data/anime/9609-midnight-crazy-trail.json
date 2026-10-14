@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9609,
+  "slug": "midnight-crazy-trail",
+  "kind": "anime",
+  "title": "Midnight Crazy Trail",
+  "titles": {
+    "default": "Midnight Crazy Trail",
+    "romaji": "Midnight Crazy Trail"
+  },
+  "synonyms": [
+    "Midnight Crazy Trail",
+    "2018 Young Animator Training Project",
+    "Anime Mirai 2018",
+    "Anime Tamago 2018",
+    "Mint",
+    "MINT"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100361-XrdR7dcYd8pW.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "100361",
+      "url": "https://anilist.co/anime/100361"
+    },
+    "k": {
+      "id": "8098",
+      "url": "https://kitsu.io/anime/8098"
+    },
+    "mal": {
+      "id": "35683",
+      "url": "https://myanimelist.net/anime/35683"
+    }
+  }
+}

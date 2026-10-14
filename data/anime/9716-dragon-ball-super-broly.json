@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9716,
+  "slug": "dragon-ball-super-broly",
+  "kind": "anime",
+  "title": "Dragon Ball Super: Broly",
+  "titles": {
+    "default": "Dragon Ball Super: Broly",
+    "romaji": "Dragon Ball Super: Broly",
+    "native": "ドラゴンボール超 ブロリー"
+  },
+  "synonyms": [
+    "Dragon Ball Super: Broly",
+    "ドラゴンボール超 ブロリー",
+    "Драконий жемчуг: Супер — Броли",
+    "Mint",
+    "MINT"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101302-7L0lcwYeFQQM.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101302",
+      "url": "https://anilist.co/anime/101302"
+    },
+    "cr": {
+      "id": "series/GMTE00019933/dragon-ball-super-broly",
+      "url": "https://www.crunchyroll.com/series/series/GMTE00019933/dragon-ball-super-broly"
+    },
+    "k": {
+      "id": "8098",
+      "url": "https://kitsu.io/anime/8098"
+    },
+    "mal": {
+      "id": "36946",
+      "url": "https://myanimelist.net/anime/36946"
+    }
+  }
+}

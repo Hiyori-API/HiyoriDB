@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1554,
+  "slug": "di-gi-charat-tsuyu-special",
+  "kind": "anime",
+  "title": "Di Gi Charat: Tsuyu Special",
+  "titles": {
+    "default": "Di Gi Charat: Tsuyu Special",
+    "romaji": "Di Gi Charat: Tsuyu Special",
+    "english": "Di Gi Charat: Omake Specials",
+    "native": "Di Gi Charat 梅雨スペシャル"
+  },
+  "synonyms": [
+    "Di Gi Charat: Tsuyu Special",
+    "Di Gi Charat: Omake Specials",
+    "Di Gi Charat 梅雨スペシャル",
+    "Di Gi Charat: Ohanami Special Omake",
+    "Di Gi Charat Rainy Season Specials",
+    "Di Gi Charat Tsuyu Specials",
+    "Di Gi Charat Other Specials"
+  ],
+  "type": "special",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1758.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1758",
+      "url": "https://anilist.co/anime/1758"
+    },
+    "k": {
+      "id": "1578",
+      "url": "https://kitsu.io/anime/1578"
+    },
+    "mal": {
+      "id": "1758",
+      "url": "https://myanimelist.net/anime/1758"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11403,
+  "slug": "shichigahama-de-mitsuketa",
+  "kind": "anime",
+  "title": "Shichigahama de Mitsuketa",
+  "titles": {
+    "default": "Shichigahama de Mitsuketa",
+    "romaji": "Shichigahama de Mitsuketa",
+    "native": "七ヶ浜でみつけた"
+  },
+  "synonyms": [
+    "Shichigahama de Mitsuketa",
+    "七ヶ浜でみつけた",
+    "I Found it in Shichigahama",
+    "Our Jury Story",
+    "Bokura no Saibanin Monogatari",
+    "ぼくらの裁判員物語"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx133138-O1Fppg9Q2K06.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "133138",
+      "url": "https://anilist.co/anime/133138"
+    },
+    "k": {
+      "id": "4614",
+      "url": "https://kitsu.io/anime/4614"
+    },
+    "mal": {
+      "id": "48512",
+      "url": "https://myanimelist.net/anime/48512"
+    }
+  }
+}

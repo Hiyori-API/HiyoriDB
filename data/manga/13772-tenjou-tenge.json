@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13772,
+  "slug": "tenjou-tenge",
+  "kind": "manga",
+  "title": "Tenjou Tenge",
+  "titles": {
+    "default": "Tenjou Tenge"
+  },
+  "synonyms": [
+    "TenTen",
+    "Heaven and Earth",
+    "Enfer et Paradis",
+    "Inferno e paradiso",
+    "Tenjho Tenge",
+    "Tenjo Tenge",
+    "天上天下",
+    "Tenjou Tenge"
+  ],
+  "type": "manga",
+  "chapters": 136,
+  "volumes": 22,
+  "status": "finished",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30073-yWexDmfmuxrX.png"
+  ],
+  "references": {
+    "al": {
+      "id": "174",
+      "url": "https://anilist.co/anime/174"
+    },
+    "al_manga": {
+      "id": "174",
+      "url": "https://anilist.co/manga/174"
+    }
+  }
+}

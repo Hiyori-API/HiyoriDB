@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2125,
+  "slug": "kodomo-no-jikan",
+  "kind": "anime",
+  "title": "Kodomo no Jikan",
+  "titles": {
+    "default": "Kodomo no Jikan",
+    "romaji": "Kodomo no Jikan",
+    "native": "こどものじかん"
+  },
+  "synonyms": [
+    "Kodomo no Jikan",
+    "こどものじかん",
+    "Nymphet",
+    "A Child's Time",
+    "Kojika",
+    "Kodomo no Jikan (TV)"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2403-vZ99B6GVLMCr.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2403",
+      "url": "https://anilist.co/anime/2403"
+    },
+    "k": {
+      "id": "2179",
+      "url": "https://kitsu.io/anime/2179"
+    },
+    "mal": {
+      "id": "2403",
+      "url": "https://myanimelist.net/anime/2403"
+    },
+    "t": {
+      "id": "45923",
+      "url": "https://trakt.tv/shows/45923"
+    }
+  }
+}

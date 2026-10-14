@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4949,
+  "slug": "bari-bari-densetsu-1987",
+  "kind": "anime",
+  "title": "Bari Bari Densetsu (1987)",
+  "titles": {
+    "default": "Bari Bari Densetsu (1987)",
+    "romaji": "Bari Bari Densetsu (1987)",
+    "native": "バリバリ伝説"
+  },
+  "synonyms": [
+    "Bari Bari Densetsu (1987)",
+    "バリバリ伝説",
+    "Baribari Densetsu (1987)",
+    "Bari-Den (1987)",
+    "Motorcycle Legend (1987)",
+    "Legend of Rolling Wheels (1987)"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12745.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12745",
+      "url": "https://anilist.co/anime/12745"
+    },
+    "k": {
+      "id": "6802",
+      "url": "https://kitsu.io/anime/6802"
+    },
+    "mal": {
+      "id": "12745",
+      "url": "https://myanimelist.net/anime/12745"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14255,
+  "slug": "nabari-no-ou",
+  "kind": "manga",
+  "title": "Nabari no Ou",
+  "titles": {
+    "default": "Nabari no Ou"
+  },
+  "synonyms": [
+    "Nabari",
+    "Nabari no Ou",
+    "隠の王",
+    "Railroad",
+    "레일로드"
+  ],
+  "type": "manga",
+  "chapters": 72,
+  "volumes": 14,
+  "status": "finished",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b31721-Of9YMbcG8z6A.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3655",
+      "url": "https://anilist.co/anime/3655"
+    },
+    "al_manga": {
+      "id": "3655",
+      "url": "https://anilist.co/manga/3655"
+    }
+  }
+}

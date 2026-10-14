@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9839,
+  "slug": "chiisana-eiyuu-kani-to-tamago-to-toumei-ningen",
+  "kind": "anime",
+  "title": "Chiisana Eiyuu: Kani to Tamago to Toumei Ningen",
+  "titles": {
+    "default": "Chiisana Eiyuu: Kani to Tamago to Toumei Ningen",
+    "romaji": "Chiisana Eiyuu: Kani to Tamago to Toumei Ningen",
+    "english": "Modest Heroes: Ponoc Short Films Theatre, Volume 1",
+    "native": "ちいさな英雄－カニとタマゴと透明人間－"
+  },
+  "synonyms": [
+    "Chiisana Eiyuu: Kani to Tamago to Toumei Ningen",
+    "Modest Heroes: Ponoc Short Films Theatre, Volume 1",
+    "ちいさな英雄－カニとタマゴと透明人間－",
+    "Héroes Humildes",
+    "Heróis Modestos",
+    "Skromni Bohaterowie",
+    "أبطال عاديون",
+    "Héros modestes",
+    "Ponoc Tanpen Gekijou",
+    "Ponoc Short Films Theatre",
+    "Modest Heroes"
+  ],
+  "type": "movie",
+  "episodes": 3,
+  "status": "finished",
+  "season": "summer",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx103887-aopAwhEi716k.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "103887",
+      "url": "https://anilist.co/anime/103887"
+    },
+    "mal": {
+      "id": "37623",
+      "url": "https://myanimelist.net/anime/37623"
+    },
+    "nf": {
+      "id": "81143068",
+      "url": "https://www.netflix.com/title/81143068"
+    }
+  }
+}

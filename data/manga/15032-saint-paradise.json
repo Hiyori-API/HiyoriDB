@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15032,
+  "slug": "saint-paradise",
+  "kind": "manga",
+  "title": "Saint Paradise",
+  "titles": {
+    "default": "Saint Paradise"
+  },
+  "synonyms": [
+    "セイントパラダイス",
+    "Baby & Me",
+    "Akachan to Boku",
+    "赤ちゃんと僕",
+    "AkaBoku",
+    "Baby and Me",
+    "Time Limit",
+    "Secret Boy ni Tee Dasuna!!",
+    "Baka de Karukute Wagamama de",
+    "Natsu to Kimi no Irradiation"
+  ],
+  "type": "manga",
+  "status": "finished",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx142777-yRidGBqUpMzZ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1256",
+      "url": "https://anilist.co/anime/1254"
+    },
+    "al_manga": {
+      "id": "1256",
+      "url": "https://anilist.co/manga/1256"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 876,
+  "slug": "dragon-ball-z-saiya-jin-zetsumetsu-keikaku",
+  "kind": "anime",
+  "title": "Dragon Ball Z: Saiya-jin Zetsumetsu Keikaku",
+  "titles": {
+    "default": "Dragon Ball Z: Saiya-jin Zetsumetsu Keikaku",
+    "romaji": "Dragon Ball Z: Saiya-jin Zetsumetsu Keikaku",
+    "english": "Dragon Ball Z: Plan to Eradicate the Saiyans",
+    "native": "ドラゴンボールＺ サイヤ人絶滅計画"
+  },
+  "synonyms": [
+    "Dragon Ball Z: Saiya-jin Zetsumetsu Keikaku",
+    "Dragon Ball Z: Plan to Eradicate the Saiyans",
+    "ドラゴンボールＺ サイヤ人絶滅計画",
+    "Dragon Ball Z Gaiden: Saiya-jin Zetsumetsu Keikaku",
+    "ドラゴンボールＺ外伝 サイヤ人絶滅計画",
+    "Dragon Ball Z Side-Story: Plan to Eradicate the Saiyans",
+    "Dragon Ball Z: Plan to Eradicate the Saiyajin",
+    "Драконий жемчуг Зет: План по уничтожению сайянов",
+    "ドラゴンボールＺ: 外伝・サイヤ人絶滅計画",
+    "Dragon Ball Z: Plan to Destroy the Saiyajin"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx984-TshBxryrxr5u.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "984",
+      "url": "https://anilist.co/anime/984"
+    },
+    "k": {
+      "id": "874",
+      "url": "https://kitsu.io/anime/874"
+    },
+    "mal": {
+      "id": "984",
+      "url": "https://myanimelist.net/anime/984"
+    }
+  }
+}

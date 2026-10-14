@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15825,
+  "slug": "nagato-yuki-chan-no-shoushitsu",
+  "kind": "manga",
+  "title": "Nagato Yuki-chan no Shoushitsu",
+  "titles": {
+    "default": "Nagato Yuki-chan no Shoushitsu"
+  },
+  "synonyms": [
+    "小長門有希的消失",
+    "The Disappearance of Nagato Yuki-chan",
+    "長門有希ちゃんの消失",
+    "Simple Knot Loafers",
+    "シンプルノットローファー",
+    "Shinpuru Notto Rofa",
+    "Shinpuru Notto Roofaa",
+    "Simple Not Loafer"
+  ],
+  "type": "manga",
+  "chapters": 79,
+  "volumes": 10,
+  "status": "finished",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx43544-cgesI4qojHnk.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21122",
+      "url": "https://anilist.co/anime/20566"
+    },
+    "al_manga": {
+      "id": "21122",
+      "url": "https://anilist.co/manga/21122"
+    }
+  }
+}

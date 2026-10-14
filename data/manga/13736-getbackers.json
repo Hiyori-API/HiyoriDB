@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13736,
+  "slug": "getbackers",
+  "kind": "manga",
+  "title": "GetBackers",
+  "titles": {
+    "default": "GetBackers"
+  },
+  "synonyms": [
+    "Get Backers: Dakkanya",
+    "ゲットバッカーズ -奪還屋-",
+    "GetBackers",
+    "GetBackers -奪還屋-",
+    "Get Backers: Dakkan-ya"
+  ],
+  "type": "manga",
+  "chapters": 344,
+  "volumes": 39,
+  "status": "finished",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30019-MHE8UAhOKzpQ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "132",
+      "url": "https://anilist.co/anime/132"
+    },
+    "al_manga": {
+      "id": "132",
+      "url": "https://anilist.co/manga/132"
+    }
+  }
+}

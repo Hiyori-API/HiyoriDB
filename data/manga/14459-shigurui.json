@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14459,
+  "slug": "shigurui",
+  "kind": "manga",
+  "title": "Shigurui",
+  "titles": {
+    "default": "Shigurui"
+  },
+  "synonyms": [
+    "Death Frenzy",
+    "Crazy for Death",
+    "シグルイ",
+    "xxxHOLiC",
+    "xxxHolic Rou",
+    "xxxHolic Cage",
+    "xxxHolic•Rou"
+  ],
+  "type": "manga",
+  "chapters": 84,
+  "volumes": 15,
+  "status": "finished",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33868-vxzm7DjflTrx.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2216",
+      "url": "https://anilist.co/anime/2216"
+    },
+    "al_manga": {
+      "id": "2216",
+      "url": "https://anilist.co/manga/2216"
+    }
+  }
+}

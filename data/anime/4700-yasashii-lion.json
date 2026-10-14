@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4700,
+  "slug": "yasashii-lion",
+  "kind": "anime",
+  "title": "Yasashii Lion",
+  "titles": {
+    "default": "Yasashii Lion",
+    "romaji": "Yasashii Lion",
+    "native": "やさしいライオン"
+  },
+  "synonyms": [
+    "Yasashii Lion",
+    "やさしいライオン",
+    "The Kindly Lion",
+    "The Gentle Lion"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1970,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12789.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12789",
+      "url": "https://anilist.co/anime/12789"
+    },
+    "k": {
+      "id": "6813",
+      "url": "https://kitsu.io/anime/6813"
+    },
+    "mal": {
+      "id": "12789",
+      "url": "https://myanimelist.net/anime/12789"
+    }
+  }
+}

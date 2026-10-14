@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 67,
+  "slug": "kidou-senshi-gundam-gyakushuu-no-char",
+  "kind": "anime",
+  "title": "Kidou Senshi Gundam: Gyakushuu no Char",
+  "titles": {
+    "default": "Kidou Senshi Gundam: Gyakushuu no Char",
+    "romaji": "Kidou Senshi Gundam: Gyakushuu no Char",
+    "english": "Mobile Suit Gundam: Char's Counterattack",
+    "native": "機動戦士ガンダム 逆襲のシャア"
+  },
+  "synonyms": [
+    "Kidou Senshi Gundam: Gyakushuu no Char",
+    "Mobile Suit Gundam: Char's Counterattack",
+    "機動戦士ガンダム 逆襲のシャア",
+    "Mobile Suit Gundam: Odwet Chara",
+    "Grave of the Fireflies",
+    "Hotaru no Haka",
+    "火垂るの墓",
+    "Tombstone for Fireflies"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx87-SCCIlaJZjSvz.png"
+  ],
+  "references": {
+    "al": {
+      "id": "87",
+      "url": "https://anilist.co/anime/87"
+    },
+    "cr": {
+      "id": "mobile-suit-gundam/mobile-suit-gundam-chars-counterattack-mobile-suit-gundam-chars-counterattack-851199",
+      "url": "https://www.crunchyroll.com/series/mobile-suit-gundam/mobile-suit-gundam-chars-counterattack-mobile-suit-gundam-chars-counterattack-851199"
+    },
+    "k": {
+      "id": "534",
+      "url": "https://kitsu.io/anime/534"
+    },
+    "mal": {
+      "id": "87",
+      "url": "https://myanimelist.net/anime/87"
+    },
+    "nf": {
+      "id": "60024179",
+      "url": "https://www.netflix.com/title/60024179"
+    },
+    "yt": {
+      "id": "mAxCyrDuNiA",
+      "url": "https://www.youtube.com/watch?v=mAxCyrDuNiA"
+    }
+  }
+}

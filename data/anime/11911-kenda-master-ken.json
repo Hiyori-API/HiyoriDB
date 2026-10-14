@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11911,
+  "slug": "kenda-master-ken",
+  "kind": "anime",
+  "title": "Kenda Master Ken",
+  "titles": {
+    "default": "Kenda Master Ken",
+    "romaji": "Kenda Master Ken",
+    "native": "ケンダマスター拳"
+  },
+  "synonyms": [
+    "Kenda Master Ken",
+    "ケンダマスター拳",
+    "Ascendance of a Bookworm 3rd Season",
+    "Ascendance of a Bookworm Season 3",
+    "本好きの下剋上 ～司書になるためには手段を選んでいられません～ 第3期",
+    "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season"
+  ],
+  "type": "tv",
+  "episodes": 10,
+  "status": "finished",
+  "season": "spring",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b151660-c3I5jGjMLmtv.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "151660",
+      "url": "https://anilist.co/anime/151660"
+    },
+    "mal": {
+      "id": "51636",
+      "url": "https://myanimelist.net/anime/51636"
+    }
+  }
+}

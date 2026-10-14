@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1134,
+  "slug": "yoroiden-samurai-troopers-gaiden",
+  "kind": "anime",
+  "title": "Yoroiden Samurai Troopers Gaiden",
+  "titles": {
+    "default": "Yoroiden Samurai Troopers Gaiden",
+    "romaji": "Yoroiden Samurai Troopers Gaiden",
+    "english": "Ronin Warriors Gaiden",
+    "native": "鎧伝サムライトルーパー外伝"
+  },
+  "synonyms": [
+    "Yoroiden Samurai Troopers Gaiden",
+    "Ronin Warriors Gaiden",
+    "鎧伝サムライトルーパー外伝",
+    "Ronin Warriors OAV"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1265-gZiyQ1ld0Y3n.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1265",
+      "url": "https://anilist.co/anime/1265"
+    },
+    "k": {
+      "id": "1140",
+      "url": "https://kitsu.io/anime/1140"
+    },
+    "mal": {
+      "id": "1265",
+      "url": "https://myanimelist.net/anime/1265"
+    }
+  }
+}

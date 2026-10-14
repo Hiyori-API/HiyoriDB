@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14521,
+  "slug": "gankutsuou",
+  "kind": "manga",
+  "title": "Gankutsuou",
+  "titles": {
+    "default": "Gankutsuou"
+  },
+  "synonyms": [
+    "Le Comte de Monte Cristo",
+    "Le Comte de Monte-Cristo",
+    "The Count of Monte Cristo",
+    "巌窟王",
+    "Renai Soukanzu",
+    "恋愛相姦図",
+    "Renai Sokanzu",
+    "Pink Sweets"
+  ],
+  "type": "manga",
+  "chapters": 17,
+  "volumes": 3,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b34519-rbjyBK2mRIPk.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "239",
+      "url": "https://anilist.co/anime/239"
+    },
+    "al_manga": {
+      "id": "239",
+      "url": "https://anilist.co/manga/239"
+    }
+  }
+}

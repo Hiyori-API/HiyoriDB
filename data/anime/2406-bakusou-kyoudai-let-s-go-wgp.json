@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2406,
+  "slug": "bakusou-kyoudai-let-s-go-wgp",
+  "kind": "anime",
+  "title": "Bakusou Kyoudai Let's & Go!! WGP",
+  "titles": {
+    "default": "Bakusou Kyoudai Let's & Go!! WGP",
+    "romaji": "Bakusou Kyoudai Let's & Go!! WGP",
+    "native": "爆走兄弟レッツ＆ゴー!!　ＷＧＰ"
+  },
+  "synonyms": [
+    "Bakusou Kyoudai Let's & Go!! WGP",
+    "爆走兄弟レッツ＆ゴー!!　ＷＧＰ",
+    "The Racing Brothers",
+    "Lets and Go WGP",
+    "Bakusou Kyoudai Let`s & Go WGP",
+    "سابق ولاحق",
+    "Bakusou Kyoudai Let's & Go WGP"
+  ],
+  "type": "tv",
+  "episodes": 51,
+  "status": "finished",
+  "season": "winter",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2706.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2706",
+      "url": "https://anilist.co/anime/2706"
+    },
+    "k": {
+      "id": "2468",
+      "url": "https://kitsu.io/anime/2468"
+    },
+    "mal": {
+      "id": "2706",
+      "url": "https://myanimelist.net/anime/2706"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8567,
+  "slug": "garo-divine-flame",
+  "kind": "anime",
+  "title": "GARO: Divine Flame",
+  "titles": {
+    "default": "GARO: Divine Flame",
+    "romaji": "GARO: Divine Flame",
+    "native": "牙狼〈GARO〉-DIVINE FLAME-"
+  },
+  "synonyms": [
+    "GARO: Divine Flame",
+    "牙狼〈GARO〉-DIVINE FLAME-",
+    "劇場版 牙狼〈GARO〉‐DIVINE FLAME‐",
+    "Garo Movie: Divine Flame"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21426-VXIooRCA91lv.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21426",
+      "url": "https://anilist.co/anime/21426"
+    },
+    "mal": {
+      "id": "28539",
+      "url": "https://myanimelist.net/anime/28539"
+    },
+    "tx": {
+      "id": "anime_garo",
+      "url": "https://twitter.com/anime_garo"
+    }
+  }
+}

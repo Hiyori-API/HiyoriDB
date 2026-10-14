@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6841,
+  "slug": "hishoka-drop-the-animation",
+  "kind": "anime",
+  "title": "Hishoka Drop THE ANIMATION",
+  "titles": {
+    "default": "Hishoka Drop THE ANIMATION",
+    "romaji": "Hishoka Drop THE ANIMATION",
+    "native": "秘書課ドロップ THE ANIMATION"
+  },
+  "synonyms": [
+    "Hishoka Drop THE ANIMATION",
+    "秘書課ドロップ THE ANIMATION",
+    "Another: The Other",
+    "Another: The Other - Inga",
+    "アナザー The Other -因果-",
+    "Another 00",
+    "Another: The Other -Inga-",
+    "Another OAD",
+    "Another OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13217.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "13217",
+      "url": "https://anilist.co/anime/13217"
+    },
+    "k": {
+      "id": "6569",
+      "url": "https://kitsu.io/anime/6569"
+    },
+    "mal": {
+      "id": "13217",
+      "url": "https://myanimelist.net/anime/13217"
+    }
+  }
+}

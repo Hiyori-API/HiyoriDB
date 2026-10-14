@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5936,
+  "slug": "machi-gurumi-no-wana-hakudaku-ni-mamireta-shitai",
+  "kind": "anime",
+  "title": "Machi Gurumi no Wana: Hakudaku ni Mamireta Shitai",
+  "titles": {
+    "default": "Machi Gurumi no Wana: Hakudaku ni Mamireta Shitai",
+    "romaji": "Machi Gurumi no Wana: Hakudaku ni Mamireta Shitai",
+    "english": "The Salacious City: Head-to-Toe Harassment",
+    "native": "町ぐるみの罠～白濁にまみれた肢体～"
+  },
+  "synonyms": [
+    "Machi Gurumi no Wana: Hakudaku ni Mamireta Shitai",
+    "The Salacious City: Head-to-Toe Harassment",
+    "町ぐるみの罠～白濁にまみれた肢体～",
+    "Machigurumi no Wana: Hakudaku ni Mamireta Shitai",
+    "The town-entrenched trap: Bodies stained in white",
+    "Yondemasu yo, Azazel-san.",
+    "よんでますよ、アザゼルさん。"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "winter",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7708.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7708",
+      "url": "https://anilist.co/anime/7708"
+    },
+    "k": {
+      "id": "5112",
+      "url": "https://kitsu.io/anime/5112"
+    },
+    "mal": {
+      "id": "7708",
+      "url": "https://myanimelist.net/anime/7708"
+    }
+  }
+}

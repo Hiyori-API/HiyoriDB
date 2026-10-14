@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6628,
+  "slug": "mahou-tsukai-jiji",
+  "kind": "anime",
+  "title": "Mahou Tsukai Jiji",
+  "titles": {
+    "default": "Mahou Tsukai Jiji",
+    "romaji": "Mahou Tsukai Jiji",
+    "native": "まほうつかいじじぃ"
+  },
+  "synonyms": [
+    "Mahou Tsukai Jiji",
+    "まほうつかいじじぃ",
+    "Shuukan Shimakou Special",
+    "大怪獣島耕作の巻",
+    "Yuruani",
+    "Weekly Shimakou Special",
+    "Shuukan Shimakou Daikaijuu Shima Kosaku no Maki Special"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12755.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12755",
+      "url": "https://anilist.co/anime/12755"
+    },
+    "k": {
+      "id": "6548",
+      "url": "https://kitsu.io/anime/6548"
+    },
+    "mal": {
+      "id": "12755",
+      "url": "https://myanimelist.net/anime/12755"
+    }
+  }
+}

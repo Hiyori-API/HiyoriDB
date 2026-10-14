@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10016,
+  "slug": "re-stage-dream-days",
+  "kind": "anime",
+  "title": "Re:Stage! Dream Days♪",
+  "titles": {
+    "default": "Re:Stage! Dream Days♪",
+    "romaji": "Re:Stage! Dream Days♪",
+    "english": "Re:Stage! Dream Days",
+    "native": "Re:ステージ! ドリームデイズ♪"
+  },
+  "synonyms": [
+    "Re:Stage! Dream Days♪",
+    "Re:Stage! Dream Days",
+    "Re:ステージ! ドリームデイズ♪"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103048-f3hrT5ZmVPKr.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "103048",
+      "url": "https://anilist.co/anime/103048"
+    },
+    "mal": {
+      "id": "38009",
+      "url": "https://myanimelist.net/anime/38009"
+    },
+    "tx": {
+      "id": "rst_project",
+      "url": "https://twitter.com/rst_project"
+    }
+  }
+}

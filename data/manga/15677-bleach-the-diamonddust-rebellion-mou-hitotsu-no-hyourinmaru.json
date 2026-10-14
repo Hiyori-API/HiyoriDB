@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15677,
+  "slug": "bleach-the-diamonddust-rebellion-mou-hitotsu-no-hyourinmaru",
+  "kind": "manga",
+  "title": "BLEACH: The DiamondDust Rebellion - Mou Hitotsu no Hyourinmaru",
+  "titles": {
+    "default": "BLEACH: The DiamondDust Rebellion - Mou Hitotsu no Hyourinmaru"
+  },
+  "synonyms": [
+    "Bleach the Movie: The DiamondDust Rebellion",
+    "BLEACH The DiamondDust Rebellion もう一つの氷輪丸",
+    "MM!",
+    "えむえむっ!",
+    "MM Group",
+    "Emu Emu!"
+  ],
+  "type": "novel",
+  "volumes": 1,
+  "status": "finished",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx141701-UU4K04U3Hyma.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2889",
+      "url": "https://anilist.co/anime/2889"
+    },
+    "al_manga": {
+      "id": "2889",
+      "url": "https://anilist.co/manga/2889"
+    }
+  }
+}

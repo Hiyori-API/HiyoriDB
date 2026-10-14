@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1249,
+  "slug": "lupin-iii-tenshi-no-tactics-yume-no-kakera-wa-koroshi-no-kaori",
+  "kind": "anime",
+  "title": "Lupin III: Tenshi no Tactics - Yume no Kakera wa Koroshi no Kaori",
+  "titles": {
+    "default": "Lupin III: Tenshi no Tactics - Yume no Kakera wa Koroshi no Kaori",
+    "romaji": "Lupin III: Tenshi no Tactics - Yume no Kakera wa Koroshi no Kaori",
+    "english": "Lupin III: Angel Tactics",
+    "native": "ルパン三世 天使の策略(タクティクス) ～夢のカケラは殺しの香り～"
+  },
+  "synonyms": [
+    "Lupin III: Tenshi no Tactics - Yume no Kakera wa Koroshi no Kaori",
+    "Lupin III: Angel Tactics",
+    "ルパン三世 天使の策略(タクティクス) ～夢のカケラは殺しの香り～",
+    "Rupan Sansei: Tenshi no sakuryaku takutikusu Yume no kakera wa koroshi no kaori",
+    "Lupin III: An Angel's Tactics - Fragments of a Dream Are the Scent of Murder",
+    "Lupin III - Le tattiche degli angeli",
+    "Lupin the Third:  An Angel's Tactics - Fragments of a Dream Are the Scent of Murder",
+    "Lupin Sansei: Tenshi no Tactics - Yume no Kakera wa Koroshi no Kaori",
+    "ルパン三世 - 天使の策略（タクティクス）～夢のカケラは殺しの香り～"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1414.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1414",
+      "url": "https://anilist.co/anime/1414"
+    },
+    "k": {
+      "id": "1267",
+      "url": "https://kitsu.io/anime/1267"
+    },
+    "mal": {
+      "id": "1414",
+      "url": "https://myanimelist.net/anime/1414"
+    }
+  }
+}

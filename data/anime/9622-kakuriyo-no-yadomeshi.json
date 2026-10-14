@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9622,
+  "slug": "kakuriyo-no-yadomeshi",
+  "kind": "anime",
+  "title": "Kakuriyo no Yadomeshi",
+  "titles": {
+    "default": "Kakuriyo no Yadomeshi",
+    "romaji": "Kakuriyo no Yadomeshi",
+    "english": "Kakuriyo -Bed & Breakfast for Spirits-",
+    "native": "かくりよの宿飯"
+  },
+  "synonyms": [
+    "Kakuriyo no Yadomeshi",
+    "Kakuriyo -Bed & Breakfast for Spirits-",
+    "かくりよの宿飯",
+    "Kakuriyo: Bed & Breakfast for Spirits"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100500-D1InEy2GriJV.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "100500",
+      "url": "https://anilist.co/anime/100500"
+    },
+    "cr": {
+      "id": "kakuriyo-bed-breakfast-for-spirits-",
+      "url": "https://www.crunchyroll.com/series/kakuriyo-bed-breakfast-for-spirits-"
+    },
+    "mal": {
+      "id": "36754",
+      "url": "https://myanimelist.net/anime/36754"
+    },
+    "tx": {
+      "id": "kakuriyo_anime",
+      "url": "https://twitter.com/kakuriyo_anime"
+    }
+  }
+}

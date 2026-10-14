@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8568,
+  "slug": "kaitou-joker-3",
+  "kind": "anime",
+  "title": "Kaitou Joker 3",
+  "titles": {
+    "default": "Kaitou Joker 3",
+    "romaji": "Kaitou Joker 3",
+    "english": "Mysterious Joker Season 3",
+    "native": "怪盗ジョーカー 3"
+  },
+  "synonyms": [
+    "Kaitou Joker 3",
+    "Mysterious Joker Season 3",
+    "怪盗ジョーカー 3",
+    "JOKER 3",
+    "Mysterious Joker Third Season",
+    "JOKER 3rd Season",
+    "怪盗ジョーカー シーズン",
+    "Kaitou Joker 3rd Season"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21427-Cp70Jla7JfmJ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21427",
+      "url": "https://anilist.co/anime/21427"
+    },
+    "cr": {
+      "id": "joker",
+      "url": "https://www.crunchyroll.com/series/joker"
+    },
+    "mal": {
+      "id": "31670",
+      "url": "https://myanimelist.net/anime/31670"
+    },
+    "tx": {
+      "id": "mjoker_anime",
+      "url": "https://twitter.com/mjoker_anime"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2495,
+  "slug": "yadamon",
+  "kind": "anime",
+  "title": "Yadamon",
+  "titles": {
+    "default": "Yadamon",
+    "romaji": "Yadamon",
+    "english": "Yadamon: Magical Dreamer",
+    "native": "ヤダモン"
+  },
+  "synonyms": [
+    "Yadamon",
+    "Yadamon: Magical Dreamer",
+    "ヤダモン",
+    "Chibikko Kaijuu Yadamon"
+  ],
+  "type": "tv",
+  "episodes": 170,
+  "status": "finished",
+  "season": "summer",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2806.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2806",
+      "url": "https://anilist.co/anime/2806"
+    },
+    "k": {
+      "id": "2562",
+      "url": "https://kitsu.io/anime/2562"
+    },
+    "mal": {
+      "id": "2806",
+      "url": "https://myanimelist.net/anime/2806"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10054,
+  "slug": "oushitsu-kyoushi-heine-movie",
+  "kind": "anime",
+  "title": "Oushitsu Kyoushi Heine Movie",
+  "titles": {
+    "default": "Oushitsu Kyoushi Heine Movie",
+    "romaji": "Oushitsu Kyoushi Heine Movie",
+    "english": "The Royal Tutor Movie",
+    "native": "劇場版王室教師ハイネ"
+  },
+  "synonyms": [
+    "Oushitsu Kyoushi Heine Movie",
+    "The Royal Tutor Movie",
+    "劇場版王室教師ハイネ",
+    "Cencoroll 2",
+    "センコロール"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx104286-1PcHf85lFQYR.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "104286",
+      "url": "https://anilist.co/anime/104286"
+    },
+    "cr": {
+      "id": "the-royal-tutor",
+      "url": "https://www.crunchyroll.com/series/the-royal-tutor"
+    },
+    "k": {
+      "id": "5749",
+      "url": "https://kitsu.io/anime/5749"
+    },
+    "mal": {
+      "id": "38313",
+      "url": "https://myanimelist.net/anime/38313"
+    },
+    "tx": {
+      "id": "heine_pr",
+      "url": "https://twitter.com/heine_pr"
+    }
+  }
+}

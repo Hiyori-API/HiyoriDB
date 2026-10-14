@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9674,
+  "slug": "fumikiri-jikan",
+  "kind": "anime",
+  "title": "Fumikiri Jikan",
+  "titles": {
+    "default": "Fumikiri Jikan",
+    "romaji": "Fumikiri Jikan",
+    "english": "Crossing Time",
+    "native": "踏切時間"
+  },
+  "synonyms": [
+    "Fumikiri Jikan",
+    "Crossing Time",
+    "踏切時間",
+    "Fumikirijikan",
+    "High Score Girl",
+    "ハイスコアガール",
+    "Hi Score Girl"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx101002-tBiVbnDLzfb6.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101002",
+      "url": "https://anilist.co/anime/101002"
+    },
+    "cr": {
+      "id": "crossing-time",
+      "url": "https://www.crunchyroll.com/series/crossing-time"
+    },
+    "k": {
+      "id": "8158",
+      "url": "https://kitsu.io/anime/8158"
+    },
+    "mal": {
+      "id": "37188",
+      "url": "https://myanimelist.net/anime/37188"
+    },
+    "nf": {
+      "id": "80997338",
+      "url": "https://www.netflix.com/title/80997338"
+    },
+    "tx": {
+      "id": "fumikiri_anime",
+      "url": "https://twitter.com/fumikiri_anime"
+    }
+  }
+}

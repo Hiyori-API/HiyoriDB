@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15569,
+  "slug": "bleach-memories-of-nobody",
+  "kind": "manga",
+  "title": "BLEACH: MEMORIES OF NOBODY",
+  "titles": {
+    "default": "BLEACH: MEMORIES OF NOBODY"
+  },
+  "synonyms": [
+    "Bleach the Movie: Memories of Nobody",
+    "BLEACH: MEMORIES OF NOBODY",
+    "Ladies versus Butlers!",
+    "れでぃ×ばと!",
+    "Redei Bato!",
+    "Redei x Bato",
+    "Ladies vs Butlers!"
+  ],
+  "type": "novel",
+  "volumes": 1,
+  "status": "finished",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx141700-4JC9o68f6JlY.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1686",
+      "url": "https://anilist.co/anime/1686"
+    },
+    "al_manga": {
+      "id": "1686",
+      "url": "https://anilist.co/manga/1686"
+    }
+  }
+}

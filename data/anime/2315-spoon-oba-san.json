@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2315,
+  "slug": "spoon-oba-san",
+  "kind": "anime",
+  "title": "Spoon Oba-san",
+  "titles": {
+    "default": "Spoon Oba-san",
+    "romaji": "Spoon Oba-san",
+    "english": "Mrs. Pepperpot",
+    "native": "スプーンおばさん"
+  },
+  "synonyms": [
+    "Spoon Oba-san",
+    "Mrs. Pepperpot",
+    "スプーンおばさん",
+    "Old-Lady Spoon",
+    "Teskjekjerringa",
+    "Teskedsgumman",
+    "גברת פלפלת",
+    "Frau Pfeffertopf",
+    "Alf Prøysen’s Teskjekjerringa",
+    "Cudowny talizman",
+    "Pani Łyżeczka",
+    "Lo strano mondo di Minù",
+    "Spoon Obasan"
+  ],
+  "type": "tv",
+  "episodes": 130,
+  "status": "finished",
+  "season": "spring",
+  "year": 1983,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2612.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2612",
+      "url": "https://anilist.co/anime/2612"
+    },
+    "k": {
+      "id": "2376",
+      "url": "https://kitsu.io/anime/2376"
+    },
+    "mal": {
+      "id": "2612",
+      "url": "https://myanimelist.net/anime/2612"
+    },
+    "t": {
+      "id": "65452",
+      "url": "https://trakt.tv/shows/65452"
+    }
+  }
+}

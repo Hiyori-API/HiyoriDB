@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13750,
+  "slug": "di-gi-charat-dejiko-adventure",
+  "kind": "manga",
+  "title": "Di Gi Charat Dejiko★Adventure",
+  "titles": {
+    "default": "Di Gi Charat Dejiko★Adventure"
+  },
+  "synonyms": [
+    "Di Gi Charat - Dejiko's Adventure",
+    "でじこあどべんちゃー",
+    "Di Gi Charat Theater: Dejiko's Adventure",
+    "Di Gi Charatでじこ★あどべんちゃー",
+    "Full Moon wo Sagashite",
+    "満月〈フルムーン〉をさがして",
+    "Searching for the Full Moon",
+    "Ginyuu Meika"
+  ],
+  "type": "manga",
+  "chapters": 51,
+  "volumes": 3,
+  "status": "finished",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx42447-qEEktIsol1Fl.png"
+  ],
+  "references": {
+    "al": {
+      "id": "293",
+      "url": "https://anilist.co/anime/293"
+    },
+    "al_manga": {
+      "id": "293",
+      "url": "https://anilist.co/manga/293"
+    }
+  }
+}

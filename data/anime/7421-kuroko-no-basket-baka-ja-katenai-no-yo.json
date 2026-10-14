@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7421,
+  "slug": "kuroko-no-basket-baka-ja-katenai-no-yo",
+  "kind": "anime",
+  "title": "Kuroko no Basket: Baka ja Katenai no yo!",
+  "titles": {
+    "default": "Kuroko no Basket: Baka ja Katenai no yo!",
+    "romaji": "Kuroko no Basket: Baka ja Katenai no yo!",
+    "english": "Kuroko's Basketball OVA",
+    "native": "黒子のバスケ バカじゃ勝てないのよ!"
+  },
+  "synonyms": [
+    "Kuroko no Basket: Baka ja Katenai no yo!",
+    "Kuroko's Basketball OVA",
+    "黒子のバスケ バカじゃ勝てないのよ!",
+    "Kuroko no Basket OAD",
+    "Kuroko no Basket OVA",
+    "Kuroko's Basketball: A Monkey Can't Win!"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19669-QUUj3sy8egt5.png"
+  ],
+  "references": {
+    "al": {
+      "id": "19669",
+      "url": "https://anilist.co/anime/19669"
+    },
+    "k": {
+      "id": "7903",
+      "url": "https://kitsu.io/anime/7903"
+    },
+    "mal": {
+      "id": "19669",
+      "url": "https://myanimelist.net/anime/19669"
+    }
+  }
+}

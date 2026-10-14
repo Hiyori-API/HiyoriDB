@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9828,
+  "slug": "maken-no-hime-wa-ero-ero-desu-himekishi-no-hiwaina-kousoku",
+  "kind": "anime",
+  "title": "Maken no Hime wa Ero Ero desu: Himekishi no Hiwaina Kousoku",
+  "titles": {
+    "default": "Maken no Hime wa Ero Ero desu: Himekishi no Hiwaina Kousoku",
+    "romaji": "Maken no Hime wa Ero Ero desu: Himekishi no Hiwaina Kousoku",
+    "native": "魔剣の姫はエロエロです 姫騎士の卑猥な拘束っ"
+  },
+  "synonyms": [
+    "Maken no Hime wa Ero Ero desu: Himekishi no Hiwaina Kousoku",
+    "魔剣の姫はエロエロです 姫騎士の卑猥な拘束っ",
+    "Maken no Hime wa Ero Ero Desu",
+    "Mysterious Play: Eikoden",
+    "Fushigi Yuugi: Eikouden",
+    "ふしぎ遊戯 -永光伝",
+    "Fushigi Yuugi OVA 3"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "fall",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx103574-fj3BRJ6Pbipp.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "103574",
+      "url": "https://anilist.co/anime/103574"
+    },
+    "cr": {
+      "id": "fushigi-yugi-eikoden",
+      "url": "https://www.crunchyroll.com/series/fushigi-yugi-eikoden"
+    },
+    "k": {
+      "id": "103",
+      "url": "https://kitsu.io/anime/103"
+    },
+    "mal": {
+      "id": "38107",
+      "url": "https://myanimelist.net/anime/38107"
+    }
+  }
+}

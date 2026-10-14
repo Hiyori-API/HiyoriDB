@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11938,
+  "slug": "watashi-dake-no-okosama-lunch",
+  "kind": "anime",
+  "title": "Watashi dake no Okosama Lunch",
+  "titles": {
+    "default": "Watashi dake no Okosama Lunch",
+    "romaji": "Watashi dake no Okosama Lunch",
+    "native": "わたしだけのお子さまランチ"
+  },
+  "synonyms": [
+    "Watashi dake no Okosama Lunch",
+    "わたしだけのお子さまランチ",
+    "My Precious Lunch",
+    "みんなのお子さまランチ",
+    "Our Precious Lunch",
+    "My Very Own Kid's Lunch",
+    "Seikai no Senki Special",
+    "星界の戦旗 特別編",
+    "Seikai no Senki Movie",
+    "Battle Flag of the Stars Special Edition",
+    "Seikai no Senki Tokubetsuhen"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154678-6gEnTuqLrNLF.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "154678",
+      "url": "https://anilist.co/anime/154678"
+    },
+    "k": {
+      "id": "366",
+      "url": "https://kitsu.io/anime/366"
+    },
+    "mal": {
+      "id": "53196",
+      "url": "https://myanimelist.net/anime/53196"
+    },
+    "tx": {
+      "id": "precure_movie",
+      "url": "https://twitter.com/precure_movie"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15428,
+  "slug": "hoshi-no-samidare",
+  "kind": "manga",
+  "title": "Hoshi no Samidare",
+  "titles": {
+    "default": "Hoshi no Samidare"
+  },
+  "synonyms": [
+    "Wakusei no Samidare",
+    "The Lucifer and Biscuit Hammer",
+    "Lucifer BH",
+    "Lúcifer e O Martelo",
+    "Samidare - Lucifer and the biscuit hammer",
+    "Lucifer and the Biscuit Hammer",
+    "惑星のさみだれ",
+    "Renai Soukanzu",
+    "恋愛相姦図",
+    "Renai Sokanzu",
+    "Pink Sweets"
+  ],
+  "type": "manga",
+  "chapters": 65,
+  "volumes": 10,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx40552-cf6WGOEu9qyA.png"
+  ],
+  "references": {
+    "al": {
+      "id": "144323",
+      "url": "https://anilist.co/anime/144323"
+    },
+    "al_manga": {
+      "id": "144323",
+      "url": "https://anilist.co/manga/144323"
+    }
+  }
+}

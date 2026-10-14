@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14224,
+  "slug": "sakura-tsuushin",
+  "kind": "manga",
+  "title": "Sakura Tsuushin",
+  "titles": {
+    "default": "Sakura Tsuushin"
+  },
+  "synonyms": [
+    "Sakura Diaries",
+    "Cherry Tree Communication",
+    "Sakura Mail",
+    "桜通信",
+    "Sakura Tsuushin"
+  ],
+  "type": "manga",
+  "chapters": 223,
+  "volumes": 20,
+  "status": "finished",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b31603-9M2uJvT9gp1e.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "818",
+      "url": "https://anilist.co/anime/818"
+    },
+    "al_manga": {
+      "id": "818",
+      "url": "https://anilist.co/manga/818"
+    }
+  }
+}

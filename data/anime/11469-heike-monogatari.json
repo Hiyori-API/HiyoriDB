@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11469,
+  "slug": "heike-monogatari",
+  "kind": "anime",
+  "title": "Heike Monogatari",
+  "titles": {
+    "default": "Heike Monogatari",
+    "romaji": "Heike Monogatari",
+    "english": "The Heike Story",
+    "native": "平家物語"
+  },
+  "synonyms": [
+    "Heike Monogatari",
+    "The Heike Story",
+    "平家物語",
+    "เรื่องของเฮเกะ",
+    "YanYan Machiko",
+    "やんやんマチコ"
+  ],
+  "type": "ona",
+  "episodes": 11,
+  "status": "finished",
+  "season": "fall",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx138714-dLyXT5qyTYbr.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "138714",
+      "url": "https://anilist.co/anime/138714"
+    },
+    "cr": {
+      "id": "the-heike-story",
+      "url": "https://www.crunchyroll.com/series/the-heike-story"
+    },
+    "k": {
+      "id": "5408",
+      "url": "https://kitsu.io/anime/5408"
+    },
+    "mal": {
+      "id": "49738",
+      "url": "https://myanimelist.net/anime/49738"
+    },
+    "tx": {
+      "id": "heike_anime",
+      "url": "https://twitter.com/heike_anime"
+    }
+  }
+}

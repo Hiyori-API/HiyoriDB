@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15145,
+  "slug": "yakushiji-ryouko-no-kaiki-jikenbo",
+  "kind": "manga",
+  "title": "Yakushiji Ryouko no Kaiki Jikenbo",
+  "titles": {
+    "default": "Yakushiji Ryouko no Kaiki Jikenbo"
+  },
+  "synonyms": [
+    "薬師寺涼子の怪奇事件簿",
+    "Yumegari",
+    "夢狩り",
+    "Clamp Gakuen Denki Bunko",
+    "The Dream Catcher"
+  ],
+  "type": "novel",
+  "volumes": 8,
+  "status": "finished",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/50523.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3614",
+      "url": "https://anilist.co/anime/3614"
+    },
+    "al_manga": {
+      "id": "3614",
+      "url": "https://anilist.co/manga/3614"
+    }
+  }
+}

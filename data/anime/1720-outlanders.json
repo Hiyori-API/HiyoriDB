@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1720,
+  "slug": "outlanders",
+  "kind": "anime",
+  "title": "Outlanders",
+  "titles": {
+    "default": "Outlanders",
+    "romaji": "Outlanders",
+    "english": "OUTLANDERS",
+    "native": "アウトランダーズ"
+  },
+  "synonyms": [
+    "Outlanders",
+    "OUTLANDERS",
+    "アウトランダーズ"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx1940-YnTDiD43H3mI.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1940",
+      "url": "https://anilist.co/anime/1940"
+    },
+    "k": {
+      "id": "1749",
+      "url": "https://kitsu.io/anime/1749"
+    },
+    "mal": {
+      "id": "1940",
+      "url": "https://myanimelist.net/anime/1940"
+    }
+  }
+}

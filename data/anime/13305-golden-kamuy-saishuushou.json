@@ -1,0 +1,58 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13305,
+  "slug": "golden-kamuy-saishuushou",
+  "kind": "anime",
+  "title": "Golden Kamuy: Saishuushou",
+  "titles": {
+    "default": "Golden Kamuy: Saishuushou",
+    "romaji": "Golden Kamuy: Saishuushou",
+    "english": "Golden Kamuy Final Season",
+    "native": "ゴールデンカムイ 最終章"
+  },
+  "synonyms": [
+    "Golden Kamuy: Saishuushou",
+    "Golden Kamuy Final Season",
+    "ゴールデンカムイ 最終章",
+    "Golden Kamuy Season 5",
+    "Golden Kamuy: The Final Chapter",
+    "El Hazard: The Alternative World",
+    "異次元の世界エルハザード",
+    "Ijigen no Sekai El Hazard",
+    "Ijigen no Sekai El-Hazard"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b166521-yvCHzltGGU2X.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "166521",
+      "url": "https://anilist.co/anime/166521"
+    },
+    "cr": {
+      "id": "series/GY8DWQN5Y/golden-kamuy",
+      "url": "https://www.crunchyroll.com/series/series/GY8DWQN5Y/golden-kamuy"
+    },
+    "k": {
+      "id": "94",
+      "url": "https://kitsu.io/anime/94"
+    },
+    "mal": {
+      "id": "55772",
+      "url": "https://myanimelist.net/anime/55772"
+    },
+    "t": {
+      "id": "63711",
+      "url": "https://trakt.tv/shows/63711"
+    },
+    "tx": {
+      "id": "kamuy_anime",
+      "url": "https://twitter.com/kamuy_anime"
+    }
+  }
+}

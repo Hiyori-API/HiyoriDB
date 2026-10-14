@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13760,
+  "slug": "tennis-no-ouji-sama",
+  "kind": "manga",
+  "title": "Tennis no Ouji-sama",
+  "titles": {
+    "default": "Tennis no Ouji-sama"
+  },
+  "synonyms": [
+    "Tennis no Oujisama",
+    "TeniPuri",
+    "Prince du Tennis",
+    "The Prince of Tennis",
+    "テニスの王子様",
+    "Tennis no Ouji-sama",
+    "Prince of Tennis"
+  ],
+  "type": "manga",
+  "chapters": 379,
+  "volumes": 42,
+  "status": "finished",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30049-ipwZTsHitrhC.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2752",
+      "url": "https://anilist.co/anime/22"
+    },
+    "al_manga": {
+      "id": "2752",
+      "url": "https://anilist.co/manga/2752"
+    }
+  }
+}

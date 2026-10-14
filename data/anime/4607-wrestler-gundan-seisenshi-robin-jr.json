@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4607,
+  "slug": "wrestler-gundan-seisenshi-robin-jr",
+  "kind": "anime",
+  "title": "Wrestler Gundan Seisenshi Robin Jr.",
+  "titles": {
+    "default": "Wrestler Gundan Seisenshi Robin Jr.",
+    "romaji": "Wrestler Gundan Seisenshi Robin Jr.",
+    "native": "レスラー軍団＜銀河編＞ 聖戦士ロビンＪｒ．"
+  },
+  "synonyms": [
+    "Wrestler Gundan Seisenshi Robin Jr.",
+    "レスラー軍団＜銀河編＞ 聖戦士ロビンＪｒ．",
+    "Wrestler Corps Commander Holy Warrior Robin Jr.",
+    "Wrestler Gundan Ginga Hen",
+    "Holy Warrior Robin Jr.",
+    "Gundan Seisenshi Robin Jr",
+    "Wrestler Gundan Ginga-hen"
+  ],
+  "type": "tv",
+  "episodes": 50,
+  "status": "finished",
+  "season": "fall",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7419.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7419",
+      "url": "https://anilist.co/anime/7419"
+    },
+    "k": {
+      "id": "4965",
+      "url": "https://kitsu.io/anime/4965"
+    },
+    "mal": {
+      "id": "7419",
+      "url": "https://myanimelist.net/anime/7419"
+    }
+  }
+}

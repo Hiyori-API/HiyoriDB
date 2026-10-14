@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11138,
+  "slug": "world-trigger-2nd-season",
+  "kind": "anime",
+  "title": "World Trigger 2nd Season",
+  "titles": {
+    "default": "World Trigger 2nd Season",
+    "romaji": "World Trigger 2nd Season",
+    "native": "ワールドトリガー 2ndシーズン"
+  },
+  "synonyms": [
+    "World Trigger 2nd Season",
+    "ワールドトリガー 2ndシーズン",
+    "Импульс мира 2",
+    "ワールドトリガー"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114087-5sSD98EFqQZ5.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "114087",
+      "url": "https://anilist.co/anime/114087"
+    },
+    "cr": {
+      "id": "world-trigger",
+      "url": "https://www.crunchyroll.com/series/world-trigger"
+    },
+    "mal": {
+      "id": "40907",
+      "url": "https://myanimelist.net/anime/40907"
+    },
+    "nf": {
+      "id": "80149562",
+      "url": "https://www.netflix.com/title/80149562"
+    },
+    "tx": {
+      "id": "Anime_W_Trigger",
+      "url": "https://twitter.com/Anime_W_Trigger"
+    }
+  }
+}

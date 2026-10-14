@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7230,
+  "slug": "kotonoha-no-niwa",
+  "kind": "anime",
+  "title": "Kotonoha no Niwa",
+  "titles": {
+    "default": "Kotonoha no Niwa",
+    "romaji": "Kotonoha no Niwa",
+    "english": "The Garden of Words",
+    "native": "言の葉の庭"
+  },
+  "synonyms": [
+    "Kotonoha no Niwa",
+    "The Garden of Words",
+    "言の葉の庭",
+    "Koto no Ha no Niwa",
+    "The Garden of Kotonoha",
+    "El Jardín de las Palabras",
+    "A szavak kertje",
+    "ยามสายฝนโปรยปราย",
+    "Ogród słów",
+    "Сад изящных слов",
+    "Il giardino delle parole"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16782-qpFGk18UqaHn.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "16782",
+      "url": "https://anilist.co/anime/16782"
+    },
+    "k": {
+      "id": "7515",
+      "url": "https://kitsu.io/anime/7515"
+    },
+    "mal": {
+      "id": "16782",
+      "url": "https://myanimelist.net/anime/16782"
+    },
+    "nf": {
+      "id": "70291121",
+      "url": "https://www.netflix.com/title/70291121"
+    }
+  }
+}

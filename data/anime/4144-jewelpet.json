@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4144,
+  "slug": "jewelpet",
+  "kind": "anime",
+  "title": "Jewelpet",
+  "titles": {
+    "default": "Jewelpet",
+    "romaji": "Jewelpet",
+    "native": "ジュエルペット"
+  },
+  "synonyms": [
+    "Jewelpet",
+    "ジュエルペット",
+    "Jewel Pet"
+  ],
+  "type": "tv",
+  "episodes": 52,
+  "status": "finished",
+  "season": "spring",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6008-di6Irqm37I5s.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6008",
+      "url": "https://anilist.co/anime/6008"
+    },
+    "k": {
+      "id": "4383",
+      "url": "https://kitsu.io/anime/4383"
+    },
+    "mal": {
+      "id": "6008",
+      "url": "https://myanimelist.net/anime/6008"
+    },
+    "t": {
+      "id": "78479",
+      "url": "https://trakt.tv/shows/78479"
+    }
+  }
+}

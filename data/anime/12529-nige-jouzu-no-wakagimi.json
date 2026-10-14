@@ -1,0 +1,62 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12529,
+  "slug": "nige-jouzu-no-wakagimi",
+  "kind": "anime",
+  "title": "Nige Jouzu no Wakagimi",
+  "titles": {
+    "default": "Nige Jouzu no Wakagimi",
+    "romaji": "Nige Jouzu no Wakagimi",
+    "english": "The Elusive Samurai",
+    "native": "逃げ上手の若君"
+  },
+  "synonyms": [
+    "Nige Jouzu no Wakagimi",
+    "The Elusive Samurai",
+    "逃げ上手の若君",
+    "Nigewaka",
+    "นายน้อยจอมโกยก้าวสู่เส้นทางแห่งวีรบุรุษ",
+    "Héroe fugitivo",
+    "Беглый самурай",
+    "DearS",
+    "ディアーズ"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2024,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162896-hSMTVceb50GY.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "162896",
+      "url": "https://anilist.co/anime/162896"
+    },
+    "cr": {
+      "id": "series/GQWH0M19X/the-elusive-samurai",
+      "url": "https://www.crunchyroll.com/series/series/GQWH0M19X/the-elusive-samurai"
+    },
+    "k": {
+      "id": "44",
+      "url": "https://kitsu.io/anime/44"
+    },
+    "mal": {
+      "id": "54724",
+      "url": "https://myanimelist.net/anime/54724"
+    },
+    "nf": {
+      "id": "81907835",
+      "url": "https://www.netflix.com/title/81907835"
+    },
+    "t": {
+      "id": "61051",
+      "url": "https://trakt.tv/shows/61051"
+    },
+    "tx": {
+      "id": "nigewaka_anime",
+      "url": "https://twitter.com/nigewaka_anime"
+    }
+  }
+}

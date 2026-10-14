@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14503,
+  "slug": "shoot",
+  "kind": "manga",
+  "title": "Shoot!",
+  "titles": {
+    "default": "Shoot!"
+  },
+  "synonyms": [
+    "シュート！",
+    "Shouryou Tsukai Elementalors",
+    "精霊使いエレメンタラー",
+    "Elementalors",
+    "Shouryou Tsukai Erementara",
+    "les Elémentalistes"
+  ],
+  "type": "manga",
+  "chapters": 288,
+  "volumes": 33,
+  "status": "finished",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx34222-MGx21kG80XJT.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1327",
+      "url": "https://anilist.co/anime/1327"
+    },
+    "al_manga": {
+      "id": "1327",
+      "url": "https://anilist.co/manga/1327"
+    }
+  }
+}

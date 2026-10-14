@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8170,
+  "slug": "wasimo-2",
+  "kind": "anime",
+  "title": "wasimo 2",
+  "titles": {
+    "default": "wasimo 2",
+    "romaji": "wasimo 2",
+    "native": "わしも-wasimo-(第2シリーズ)"
+  },
+  "synonyms": [
+    "wasimo 2",
+    "わしも-wasimo-(第2シリーズ)",
+    "Washimo 2",
+    "JoJo's Bizarre Adventure: Stardust Crusaders - Battle in Egypt",
+    "JoJo no Kimyou na Bouken: Stardust Crusaders 2nd Season",
+    "ジョジョの奇妙な冒険 スターダストクルセイダース",
+    "JoJo's Bizarre Adventure Part 3",
+    "JoJo's Bizarre Adventure: Stardust Crusaders - Egypt Arc"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "winter",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21048-aJOCEHXKCzeg.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21048",
+      "url": "https://anilist.co/anime/21048"
+    },
+    "cr": {
+      "id": "jojos-bizarre-adventure",
+      "url": "https://www.crunchyroll.com/series/jojos-bizarre-adventure"
+    },
+    "k": {
+      "id": "8739",
+      "url": "https://kitsu.io/anime/8739"
+    },
+    "mal": {
+      "id": "29099",
+      "url": "https://myanimelist.net/anime/29099"
+    },
+    "nf": {
+      "id": "80179831",
+      "url": "https://www.netflix.com/title/80179831"
+    },
+    "t": {
+      "id": "45537",
+      "url": "https://trakt.tv/shows/45537"
+    }
+  }
+}

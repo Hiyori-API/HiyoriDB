@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8028,
+  "slug": "sarusuberi-miss-hokusai",
+  "kind": "anime",
+  "title": "Sarusuberi: Miss HOKUSAI",
+  "titles": {
+    "default": "Sarusuberi: Miss HOKUSAI",
+    "romaji": "Sarusuberi: Miss HOKUSAI",
+    "english": "Miss Hokusai",
+    "native": "百日紅 〜Miss HOKUSAI〜"
+  },
+  "synonyms": [
+    "Sarusuberi: Miss HOKUSAI",
+    "Miss Hokusai",
+    "百日紅 〜Miss HOKUSAI〜",
+    "Mirto crespo",
+    "Sarusuberi: Miss Hokusai",
+    "百日紅～Miss HOKUSAI～"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20709-3hRxtuoucQRI.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "20709",
+      "url": "https://anilist.co/anime/20709"
+    },
+    "cr": {
+      "id": "miss-hokusai",
+      "url": "https://www.crunchyroll.com/series/miss-hokusai"
+    },
+    "k": {
+      "id": "8483",
+      "url": "https://kitsu.io/anime/8483"
+    },
+    "mal": {
+      "id": "23987",
+      "url": "https://myanimelist.net/anime/23987"
+    },
+    "nf": {
+      "id": "80075828",
+      "url": "https://www.netflix.com/title/80075828"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11721,
+  "slug": "shoot-goal-to-the-future",
+  "kind": "anime",
+  "title": "Shoot! Goal to the Future",
+  "titles": {
+    "default": "Shoot! Goal to the Future",
+    "romaji": "Shoot! Goal to the Future",
+    "native": "シュート！Goal to the Future"
+  },
+  "synonyms": [
+    "Shoot! Goal to the Future",
+    "シュート！Goal to the Future",
+    "Classroom of the Elite 2nd Season",
+    "You-jitsu 2nd Season",
+    "You-zitsu 2nd Season",
+    "Classroom of the Elite II",
+    "ようこそ実力至上主義の教室へ 2nd Season",
+    "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141775-2ixoFSe09cxA.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "141775",
+      "url": "https://anilist.co/anime/141775"
+    },
+    "cr": {
+      "id": "shoot-goal-to-the-future",
+      "url": "https://www.crunchyroll.com/series/shoot-goal-to-the-future"
+    },
+    "mal": {
+      "id": "50379",
+      "url": "https://myanimelist.net/anime/50379"
+    },
+    "tx": {
+      "id": "shoot_anime",
+      "url": "https://twitter.com/shoot_anime"
+    }
+  }
+}

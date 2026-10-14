@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8037,
+  "slug": "koufuku-graffiti",
+  "kind": "anime",
+  "title": "Koufuku Graffiti",
+  "titles": {
+    "default": "Koufuku Graffiti",
+    "romaji": "Koufuku Graffiti",
+    "english": "Gourmet Girl Graffiti",
+    "native": "幸腹グラフィティ"
+  },
+  "synonyms": [
+    "Koufuku Graffiti",
+    "Gourmet Girl Graffiti",
+    "幸腹グラフィティ",
+    "Happy Cooking Graffiti"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20744-efsZNvz4iPQ3.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "20744",
+      "url": "https://anilist.co/anime/20744"
+    },
+    "cr": {
+      "id": "gourmet-girl-graffiti",
+      "url": "https://www.crunchyroll.com/series/gourmet-girl-graffiti"
+    },
+    "k": {
+      "id": "8647",
+      "url": "https://kitsu.io/anime/8647"
+    },
+    "mal": {
+      "id": "24629",
+      "url": "https://myanimelist.net/anime/24629"
+    },
+    "t": {
+      "id": "79690",
+      "url": "https://trakt.tv/shows/79690"
+    },
+    "tx": {
+      "id": "koufuku_g",
+      "url": "https://twitter.com/koufuku_g"
+    }
+  }
+}

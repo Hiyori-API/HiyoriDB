@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14988,
+  "slug": "violence-jack-jigoku-machi",
+  "kind": "manga",
+  "title": "Violence Jack: Jigoku Machi",
+  "titles": {
+    "default": "Violence Jack: Jigoku Machi"
+  },
+  "synonyms": [
+    "Violence Jack:  EVIL TOWN",
+    "バイオレンスジャック 地獄街",
+    "Christmas Snow",
+    "Noel la Neige",
+    "ノエル　ラ　ネージュ",
+    "Noël la neige"
+  ],
+  "type": "one_shot",
+  "chapters": 1,
+  "status": "finished",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/44021.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1342",
+      "url": "https://anilist.co/anime/1342"
+    },
+    "al_manga": {
+      "id": "1342",
+      "url": "https://anilist.co/manga/1342"
+    }
+  }
+}

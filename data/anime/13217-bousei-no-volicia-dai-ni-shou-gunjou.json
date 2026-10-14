@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13217,
+  "slug": "bousei-no-volicia-dai-ni-shou-gunjou",
+  "kind": "anime",
+  "title": "Bousei no Volicia Dai Ni Shou: Gunjou",
+  "titles": {
+    "default": "Bousei no Volicia Dai Ni Shou: Gunjou",
+    "romaji": "Bousei no Volicia Dai Ni Shou: Gunjou",
+    "native": "忘星のヴァリシア 第二章：群青"
+  },
+  "synonyms": [
+    "Bousei no Volicia Dai Ni Shou: Gunjou",
+    "忘星のヴァリシア 第二章：群青",
+    "​Volicia of Pluto Chapter 2: Ultramarine​",
+    "Appleseed (Movie)",
+    "アップルシード",
+    "Appleseed (2004)"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194706-MJ5gea97481Z.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "194706",
+      "url": "https://anilist.co/anime/194706"
+    },
+    "k": {
+      "id": "35",
+      "url": "https://kitsu.io/anime/35"
+    },
+    "mal": {
+      "id": "61865",
+      "url": "https://myanimelist.net/anime/61865"
+    },
+    "yt": {
+      "id": "OKd-JftX9lo",
+      "url": "https://www.youtube.com/watch?v=OKd-JftX9lo"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10632,
+  "slug": "pok-toon",
+  "kind": "anime",
+  "title": "POKÉTOON",
+  "titles": {
+    "default": "POKÉTOON",
+    "romaji": "POKÉTOON"
+  },
+  "synonyms": [
+    "POKÉTOON",
+    "Zuruggu to Mimikkyu",
+    "Hero ni Naritai Yancham",
+    "Yume no Tsubomi",
+    "Mattete ne! Koiking",
+    "Poka Poka Magumaggu House",
+    "Gengar ni Nacchatta!?",
+    "Fubuki no Natsu Yasumi",
+    "The Pokémon Cartoon Animation",
+    "Scraggy and Mimikyu",
+    "Wait for Me, Magikarp",
+    "Blossom's Dream",
+    "Scraggy & Mikikyu",
+    "Jigglypuff's Song",
+    "Help! I've Turned into a Gengar",
+    "The Slugma-Powered Home",
+    "The Pancham Who Wants to Be a Hero",
+    "Snorunt's Summmer Vacation",
+    "Pokétoon",
+    "Zuruggu to Mimikkyu - Chase the Beans",
+    "Hero ni Naritai Yanchamu",
+    "Pokapoka Magumaggu House",
+    "Poketoon"
+  ],
+  "type": "ona",
+  "episodes": 8,
+  "status": "finished",
+  "season": "spring",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119964-9CGb99VzyuCQ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "119964",
+      "url": "https://anilist.co/anime/119964"
+    },
+    "mal": {
+      "id": "42161",
+      "url": "https://myanimelist.net/anime/42161"
+    }
+  }
+}

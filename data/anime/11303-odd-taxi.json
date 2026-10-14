@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11303,
+  "slug": "odd-taxi",
+  "kind": "anime",
+  "title": "Odd Taxi",
+  "titles": {
+    "default": "Odd Taxi",
+    "romaji": "Odd Taxi",
+    "english": "ODDTAXI",
+    "native": "オッドタクシー"
+  },
+  "synonyms": [
+    "Odd Taxi",
+    "ODDTAXI",
+    "オッドタクシー",
+    "Необычное такси",
+    "Futakoi Alternative",
+    "フタコイ オルタナティブ",
+    "Futakoi 2"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128547-nNekWTKqmvEi.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "128547",
+      "url": "https://anilist.co/anime/128547"
+    },
+    "cr": {
+      "id": "oddtaxi",
+      "url": "https://www.crunchyroll.com/series/oddtaxi"
+    },
+    "k": {
+      "id": "105",
+      "url": "https://kitsu.io/anime/105"
+    },
+    "mal": {
+      "id": "46102",
+      "url": "https://myanimelist.net/anime/46102"
+    },
+    "t": {
+      "id": "34638",
+      "url": "https://trakt.tv/shows/34638"
+    },
+    "tx": {
+      "id": "oddtaxi_",
+      "url": "https://twitter.com/oddtaxi_"
+    }
+  }
+}

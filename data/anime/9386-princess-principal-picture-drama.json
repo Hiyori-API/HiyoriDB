@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9386,
+  "slug": "princess-principal-picture-drama",
+  "kind": "anime",
+  "title": "Princess Principal Picture Drama",
+  "titles": {
+    "default": "Princess Principal Picture Drama",
+    "romaji": "Princess Principal Picture Drama",
+    "native": "プリンセス・プリンシパル ピクチャードラマ"
+  },
+  "synonyms": [
+    "Princess Principal Picture Drama",
+    "プリンセス・プリンシパル ピクチャードラマ",
+    "Maria Watches Over Us: Printemps Specials",
+    "Maria-sama ga Miteru: Haru Specials",
+    "マリア様がみてる～春～",
+    "The Virgin Mary is Watching You: Spring",
+    "MariMite: Haru",
+    "La Vierge Marie Vous Regarde",
+    "Maria-sama ni wa Naisho",
+    "Don't tell the Virgin Mary"
+  ],
+  "type": "special",
+  "episodes": 6,
+  "status": "finished",
+  "season": "fall",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx100519-gid50JBELlPi.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "100519",
+      "url": "https://anilist.co/anime/100519"
+    },
+    "k": {
+      "id": "407",
+      "url": "https://kitsu.io/anime/407"
+    },
+    "mal": {
+      "id": "36485",
+      "url": "https://myanimelist.net/anime/36485"
+    },
+    "tx": {
+      "id": "pripri_anime",
+      "url": "https://twitter.com/pripri_anime"
+    }
+  }
+}

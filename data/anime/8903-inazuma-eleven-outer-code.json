@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8903,
+  "slug": "inazuma-eleven-outer-code",
+  "kind": "anime",
+  "title": "Inazuma Eleven: Outer Code",
+  "titles": {
+    "default": "Inazuma Eleven: Outer Code",
+    "romaji": "Inazuma Eleven: Outer Code",
+    "native": "イナズマイレブン アウターコード"
+  },
+  "synonyms": [
+    "Inazuma Eleven: Outer Code",
+    "イナズマイレブン アウターコード",
+    "The Wings of Rean",
+    "Rean no Tsubasa",
+    "リーンの翼"
+  ],
+  "type": "ona",
+  "episodes": 6,
+  "status": "finished",
+  "season": "fall",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99059-kA7alh9r8L9Y.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "99059",
+      "url": "https://anilist.co/anime/99059"
+    },
+    "k": {
+      "id": "531",
+      "url": "https://kitsu.io/anime/531"
+    },
+    "mal": {
+      "id": "34178",
+      "url": "https://myanimelist.net/anime/34178"
+    }
+  }
+}

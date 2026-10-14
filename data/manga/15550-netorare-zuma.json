@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15550,
+  "slug": "netorare-zuma",
+  "kind": "manga",
+  "title": "Netorare Zuma",
+  "titles": {
+    "default": "Netorare Zuma"
+  },
+  "synonyms": [
+    "Happening",
+    "Haitokuzuma",
+    "Girl Under the Rain",
+    "Netorare Wife Anna",
+    "ネトラレヅマ",
+    "Love Makes People Grow",
+    "Hito wa Ai wo Tabete Sodatsu",
+    "人は愛を食べて育つ",
+    "Eat Love and Grow",
+    "Hito wa ai o tabete sodatsu"
+  ],
+  "type": "manga",
+  "chapters": 28,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/33819.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "14657",
+      "url": "https://anilist.co/anime/2137"
+    },
+    "al_manga": {
+      "id": "14657",
+      "url": "https://anilist.co/manga/14657"
+    }
+  }
+}

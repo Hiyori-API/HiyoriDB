@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11129,
+  "slug": "planetarian-snow-globe",
+  "kind": "anime",
+  "title": "planetarian: Snow Globe",
+  "titles": {
+    "default": "planetarian: Snow Globe",
+    "romaji": "planetarian: Snow Globe",
+    "native": "planetarian ～雪圏球（スノーグローブ）"
+  },
+  "synonyms": [
+    "planetarian: Snow Globe",
+    "planetarian ～雪圏球（スノーグローブ）",
+    "planetarian ~雪圏球[スノーグローブ]~",
+    "Planetarian: Snow Globe"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113595-2xZa6aoYq0ck.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "113595",
+      "url": "https://anilist.co/anime/113595"
+    },
+    "mal": {
+      "id": "40778",
+      "url": "https://myanimelist.net/anime/40778"
+    },
+    "tx": {
+      "id": "planetarian_pj",
+      "url": "https://twitter.com/planetarian_pj"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13084,
+  "slug": "neko-ni-naritai-tamagawa-kun",
+  "kind": "anime",
+  "title": "Neko ni Naritai Tamagawa-kun",
+  "titles": {
+    "default": "Neko ni Naritai Tamagawa-kun",
+    "romaji": "Neko ni Naritai Tamagawa-kun",
+    "native": "猫になりたい田万川くん"
+  },
+  "synonyms": [
+    "Neko ni Naritai Tamagawa-kun",
+    "猫になりたい田万川くん",
+    "Hikaru no Go: Journey to the North Star Cup",
+    "ヒカルの碁 北斗杯への道",
+    "Hikaru no Go: Kita Hokuto Hai e no Michi"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185261-hJehR0xUg9cf.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "185261",
+      "url": "https://anilist.co/anime/185261"
+    },
+    "k": {
+      "id": "593",
+      "url": "https://kitsu.io/anime/593"
+    },
+    "mal": {
+      "id": "60662",
+      "url": "https://myanimelist.net/anime/60662"
+    }
+  }
+}

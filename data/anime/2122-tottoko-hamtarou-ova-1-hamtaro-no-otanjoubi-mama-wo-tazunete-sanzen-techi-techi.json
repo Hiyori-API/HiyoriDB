@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2122,
+  "slug": "tottoko-hamtarou-ova-1-hamtaro-no-otanjoubi-mama-wo-tazunete-sanzen-techi-techi",
+  "kind": "anime",
+  "title": "Tottoko Hamtarou OVA 1: Hamtaro no Otanjoubi ~Mama wo Tazunete Sanzen Techi Techi~",
+  "titles": {
+    "default": "Tottoko Hamtarou OVA 1: Hamtaro no Otanjoubi ~Mama wo Tazunete Sanzen Techi Techi~",
+    "romaji": "Tottoko Hamtarou OVA 1: Hamtaro no Otanjoubi ~Mama wo Tazunete Sanzen Techi Techi~",
+    "english": "Hamtaro: Hamtaro's Birthday! - 3000 Hammy Steps in Search of Mommy",
+    "native": "ハム太郎のおたんじょうび 〜ママをたずねて三千てちてち〜"
+  },
+  "synonyms": [
+    "Tottoko Hamtarou OVA 1: Hamtaro no Otanjoubi ~Mama wo Tazunete Sanzen Techi Techi~",
+    "Hamtaro: Hamtaro's Birthday! - 3000 Hammy Steps in Search of Mommy",
+    "ハム太郎のおたんじょうび 〜ママをたずねて三千てちてち〜",
+    "Tottoko Hamtarou OVA 1: Hamtaro no Otanjoubi - Mama wo Tasunete Sanzen Techi Techi",
+    "Hamutarou no Otanjobi"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2399.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2399",
+      "url": "https://anilist.co/anime/2399"
+    },
+    "k": {
+      "id": "2176",
+      "url": "https://kitsu.io/anime/2176"
+    },
+    "mal": {
+      "id": "2399",
+      "url": "https://myanimelist.net/anime/2399"
+    }
+  }
+}

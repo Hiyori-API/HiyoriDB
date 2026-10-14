@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6432,
+  "slug": "kyoukaisenjou-no-horizon",
+  "kind": "anime",
+  "title": "Kyoukaisenjou no Horizon",
+  "titles": {
+    "default": "Kyoukaisenjou no Horizon",
+    "romaji": "Kyoukaisenjou no Horizon",
+    "english": "Horizon in the Middle of Nowhere",
+    "native": "境界線上のホライゾン"
+  },
+  "synonyms": [
+    "Kyoukaisenjou no Horizon",
+    "Horizon in the Middle of Nowhere",
+    "境界線上のホライゾン",
+    "Horizon on the Middle of Nowhere",
+    "Kyoukai Senjou no Horizon",
+    "Fate/Zero",
+    "フェイト/ゼロ"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10456-HgdpzfTdg7XE.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10456",
+      "url": "https://anilist.co/anime/10456"
+    },
+    "cr": {
+      "id": "fatezero",
+      "url": "https://www.crunchyroll.com/series/fatezero"
+    },
+    "k": {
+      "id": "6028",
+      "url": "https://kitsu.io/anime/6028"
+    },
+    "mal": {
+      "id": "10456",
+      "url": "https://myanimelist.net/anime/10456"
+    },
+    "t": {
+      "id": "74325",
+      "url": "https://trakt.tv/shows/74325"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4136,
+  "slug": "tsuyoshi-shikkari-shinasai",
+  "kind": "anime",
+  "title": "Tsuyoshi Shikkari Shinasai",
+  "titles": {
+    "default": "Tsuyoshi Shikkari Shinasai",
+    "romaji": "Tsuyoshi Shikkari Shinasai",
+    "native": "ツヨシしっかりしなさい"
+  },
+  "synonyms": [
+    "Tsuyoshi Shikkari Shinasai",
+    "ツヨシしっかりしなさい",
+    "Hang in There",
+    "Tsuyoshi",
+    "Get a Grip",
+    "أنا وأخواتي",
+    "Un garçon formidable"
+  ],
+  "type": "tv",
+  "episodes": 112,
+  "status": "finished",
+  "season": "fall",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5992.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5992",
+      "url": "https://anilist.co/anime/5992"
+    },
+    "k": {
+      "id": "4375",
+      "url": "https://kitsu.io/anime/4375"
+    },
+    "mal": {
+      "id": "5992",
+      "url": "https://myanimelist.net/anime/5992"
+    }
+  }
+}

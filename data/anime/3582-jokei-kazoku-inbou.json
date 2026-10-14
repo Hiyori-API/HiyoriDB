@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3582,
+  "slug": "jokei-kazoku-inbou",
+  "kind": "anime",
+  "title": "Jokei Kazoku: Inbou",
+  "titles": {
+    "default": "Jokei Kazoku: Inbou",
+    "romaji": "Jokei Kazoku: Inbou",
+    "english": "The Immorals",
+    "native": "女系家族 ～淫謀～"
+  },
+  "synonyms": [
+    "Jokei Kazoku: Inbou",
+    "The Immorals",
+    "女系家族 ～淫謀～",
+    "Jokei Kazoku ~Inbou~",
+    "Feminine Family",
+    "Stratos 4 Advance Kanketsu-hen",
+    "ストラトス・フォー アドヴァンス 完結編"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4698.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4698",
+      "url": "https://anilist.co/anime/4698"
+    },
+    "k": {
+      "id": "1424",
+      "url": "https://kitsu.io/anime/1424"
+    },
+    "mal": {
+      "id": "4698",
+      "url": "https://myanimelist.net/anime/4698"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5454,
+  "slug": "pikachu-no-fuyuyasumi-2000",
+  "kind": "anime",
+  "title": "Pikachu no Fuyuyasumi 2000",
+  "titles": {
+    "default": "Pikachu no Fuyuyasumi 2000",
+    "romaji": "Pikachu no Fuyuyasumi 2000",
+    "english": "Pokémon: Pikachu's Winter Vacation 2",
+    "native": "ピカチュウのふゆやすみ2000"
+  },
+  "synonyms": [
+    "Pikachu no Fuyuyasumi 2000",
+    "Pokémon: Pikachu's Winter Vacation 2",
+    "ピカチュウのふゆやすみ2000",
+    "Pocket Monsters: Pikachu no Fuyuyasumi (2000)",
+    "Stantler's Little Helpers",
+    "Winter Games",
+    "Pokemon: Pikachu's Winter Vacation (2000)",
+    "Pokemon: Pikachu no Fuyuyasumi (2000)",
+    "Let's Play on the Ice!"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx10916-Q0dYdu9lqllD.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10916",
+      "url": "https://anilist.co/anime/10916"
+    },
+    "k": {
+      "id": "6404",
+      "url": "https://kitsu.io/anime/6404"
+    },
+    "mal": {
+      "id": "10916",
+      "url": "https://myanimelist.net/anime/10916"
+    }
+  }
+}

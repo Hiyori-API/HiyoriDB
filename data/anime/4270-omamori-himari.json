@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4270,
+  "slug": "omamori-himari",
+  "kind": "anime",
+  "title": "Omamori Himari",
+  "titles": {
+    "default": "Omamori Himari",
+    "romaji": "Omamori Himari",
+    "native": "おまもりひまり"
+  },
+  "synonyms": [
+    "Omamori Himari",
+    "おまもりひまり",
+    "Protective Charm Himari",
+    "OmaHima"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6324.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6324",
+      "url": "https://anilist.co/anime/6324"
+    },
+    "cr": {
+      "id": "omamori-himari",
+      "url": "https://www.crunchyroll.com/series/omamori-himari"
+    },
+    "k": {
+      "id": "4519",
+      "url": "https://kitsu.io/anime/4519"
+    },
+    "mal": {
+      "id": "6324",
+      "url": "https://myanimelist.net/anime/6324"
+    },
+    "t": {
+      "id": "37397",
+      "url": "https://trakt.tv/shows/37397"
+    }
+  }
+}

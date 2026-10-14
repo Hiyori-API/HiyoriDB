@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11123,
+  "slug": "kaiju-decode",
+  "kind": "anime",
+  "title": "KAIJU DECODE",
+  "titles": {
+    "default": "KAIJU DECODE",
+    "romaji": "KAIJU DECODE"
+  },
+  "synonyms": [
+    "KAIJU DECODE",
+    "怪獣デコード",
+    "Catblue Dynamite",
+    "Catblue: Dynamite",
+    "キャットブルー：ダイナマイト"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113363-LjhLGYgUaoqL.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "113363",
+      "url": "https://anilist.co/anime/113363"
+    },
+    "k": {
+      "id": "1645",
+      "url": "https://kitsu.io/anime/1645"
+    },
+    "mal": {
+      "id": "40717",
+      "url": "https://myanimelist.net/anime/40717"
+    }
+  }
+}

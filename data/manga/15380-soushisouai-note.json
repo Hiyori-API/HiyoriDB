@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15380,
+  "slug": "soushisouai-note",
+  "kind": "manga",
+  "title": "Soushisouai Note",
+  "titles": {
+    "default": "Soushisouai Note"
+  },
+  "synonyms": [
+    "Soushisouai Note Nisatsume",
+    "Anti-Aging Mama",
+    "Itsunomanika Futari Wa",
+    "Don't Trust the Elder Sexy Girl",
+    "相思相愛ノート",
+    "Railroad",
+    "레일로드"
+  ],
+  "type": "manga",
+  "chapters": 19,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx42723-d2GlkOGXOi3V.png"
+  ],
+  "references": {
+    "al": {
+      "id": "16474",
+      "url": "https://anilist.co/anime/16474"
+    },
+    "al_manga": {
+      "id": "16474",
+      "url": "https://anilist.co/manga/16474"
+    }
+  }
+}

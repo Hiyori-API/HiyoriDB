@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14428,
+  "slug": "kidou-butou-gaiden-gundam-fight-7th",
+  "kind": "manga",
+  "title": "Kidou Butou Gaiden: Gundam Fight 7th",
+  "titles": {
+    "default": "Kidou Butou Gaiden: Gundam Fight 7th"
+  },
+  "synonyms": [
+    "Mobile Fighter G Gundam: 7th Fight",
+    "機動武闘外伝ガンダムファイト7th",
+    "The Life and Times of an Idiot Section Chief",
+    "Kachou Baka Ichidachi",
+    "課長バカ一代",
+    "Kachou Baka Ichidai"
+  ],
+  "type": "manga",
+  "volumes": 1,
+  "status": "finished",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b150708-kb9oH7hwp5mZ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "96",
+      "url": "https://anilist.co/anime/96"
+    },
+    "al_manga": {
+      "id": "96",
+      "url": "https://anilist.co/manga/96"
+    }
+  }
+}

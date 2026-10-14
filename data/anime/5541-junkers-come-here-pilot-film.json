@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5541,
+  "slug": "junkers-come-here-pilot-film",
+  "kind": "anime",
+  "title": "Junkers Come Here: Pilot Film",
+  "titles": {
+    "default": "Junkers Come Here: Pilot Film",
+    "romaji": "Junkers Come Here: Pilot Film",
+    "native": "ユンカース・カム・ヒア パイロットフィルム"
+  },
+  "synonyms": [
+    "Junkers Come Here: Pilot Film",
+    "ユンカース・カム・ヒア パイロットフィルム",
+    "Mahoromatic End Year Special",
+    "まほろまてぃっく",
+    "Mahoromatic Episode 10.5",
+    "Mahoromatic Recap",
+    "Mahoromatic Special",
+    "Mahoromatic: Saimatsu Special"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122029-2LWffmYjCFXc.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "122029",
+      "url": "https://anilist.co/anime/122029"
+    },
+    "k": {
+      "id": "586",
+      "url": "https://kitsu.io/anime/586"
+    },
+    "mal": {
+      "id": "42228",
+      "url": "https://myanimelist.net/anime/42228"
+    }
+  }
+}

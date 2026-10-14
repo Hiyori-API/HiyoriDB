@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3435,
+  "slug": "fireball",
+  "kind": "anime",
+  "title": "Fireball",
+  "titles": {
+    "default": "Fireball",
+    "romaji": "Fireball",
+    "native": "ファイアボール"
+  },
+  "synonyms": [
+    "Fireball",
+    "ファイアボール",
+    "Fireball Shorts",
+    "파이어볼"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4362-FQXr9Ds459IK.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4362",
+      "url": "https://anilist.co/anime/4362"
+    },
+    "k": {
+      "id": "3571",
+      "url": "https://kitsu.io/anime/3571"
+    },
+    "mal": {
+      "id": "4362",
+      "url": "https://myanimelist.net/anime/4362"
+    },
+    "t": {
+      "id": "21228",
+      "url": "https://trakt.tv/shows/21228"
+    }
+  }
+}

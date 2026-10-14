@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8958,
+  "slug": "nintama-rantarou-no-uchuu-daibouken-with-cosmic-front-next",
+  "kind": "anime",
+  "title": "Nintama Rantarou no Uchuu Daibouken with Cosmic Front☆NEXT",
+  "titles": {
+    "default": "Nintama Rantarou no Uchuu Daibouken with Cosmic Front☆NEXT",
+    "romaji": "Nintama Rantarou no Uchuu Daibouken with Cosmic Front☆NEXT",
+    "native": "忍たま乱太郎の宇宙大冒険 with コズミックフロント☆NEXT"
+  },
+  "synonyms": [
+    "Nintama Rantarou no Uchuu Daibouken with Cosmic Front☆NEXT",
+    "忍たま乱太郎の宇宙大冒険 with コズミックフロント☆NEXT",
+    "To LOVE Ru Darkness 2 Specials",
+    "To LOVEる -とらぶる- ダークネス2nd",
+    "To LOVE-Ru Darkness 2nd Specials"
+  ],
+  "type": "special",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126606-U9IM2XY0Jzpu.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "126606",
+      "url": "https://anilist.co/anime/126606"
+    },
+    "mal": {
+      "id": "32773",
+      "url": "https://myanimelist.net/anime/32773"
+    }
+  }
+}

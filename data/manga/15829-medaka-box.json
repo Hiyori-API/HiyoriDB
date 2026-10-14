@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15829,
+  "slug": "medaka-box",
+  "kind": "manga",
+  "title": "Medaka Box",
+  "titles": {
+    "default": "Medaka Box"
+  },
+  "synonyms": [
+    "Good Loser Kumagawa",
+    "めだかボックス",
+    "Simple Knot Loafers",
+    "シンプルノットローファー",
+    "Shinpuru Notto Rofa",
+    "Shinpuru Notto Roofaa",
+    "Simple Not Loafer"
+  ],
+  "type": "manga",
+  "chapters": 194,
+  "volumes": 22,
+  "status": "finished",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx43949-sSgW4VE0nQKH.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "14527",
+      "url": "https://anilist.co/anime/11761"
+    },
+    "al_manga": {
+      "id": "14527",
+      "url": "https://anilist.co/manga/14527"
+    }
+  }
+}

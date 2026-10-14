@@ -1,0 +1,65 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10622,
+  "slug": "hanyou-no-yashahime",
+  "kind": "anime",
+  "title": "Hanyou no Yashahime",
+  "titles": {
+    "default": "Hanyou no Yashahime",
+    "romaji": "Hanyou no Yashahime",
+    "english": "Yashahime: Princess Half-Demon",
+    "native": "半妖の夜叉姫"
+  },
+  "synonyms": [
+    "Hanyou no Yashahime",
+    "Yashahime: Princess Half-Demon",
+    "半妖の夜叉姫",
+    "ยาฉะฮิเมะ: เจ้าหญิงครึ่งอสูร",
+    "Chrono Crusade",
+    "Chrno Crusade",
+    "クロノクルセイド",
+    "Chrno Crusade: Mary Magdalene"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "fall",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118399-sgHg8NQVQixB.png"
+  ],
+  "references": {
+    "al": {
+      "id": "118399",
+      "url": "https://anilist.co/anime/118399"
+    },
+    "cr": {
+      "id": "yashahime-princess-half-demon",
+      "url": "https://www.crunchyroll.com/series/yashahime-princess-half-demon"
+    },
+    "k": {
+      "id": "41",
+      "url": "https://kitsu.io/anime/41"
+    },
+    "mal": {
+      "id": "41911",
+      "url": "https://myanimelist.net/anime/41911"
+    },
+    "nf": {
+      "id": "81336398",
+      "url": "https://www.netflix.com/title/81336398"
+    },
+    "t": {
+      "id": "33914",
+      "url": "https://trakt.tv/shows/33914"
+    },
+    "ttv": {
+      "id": "300007290",
+      "url": "https://tubitv.com/series/300007290"
+    },
+    "tx": {
+      "id": "hanyo_yashahime",
+      "url": "https://twitter.com/hanyo_yashahime"
+    }
+  }
+}

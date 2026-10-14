@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5668,
+  "slug": "w-wish-omake",
+  "kind": "anime",
+  "title": "W: Wish Omake",
+  "titles": {
+    "default": "W: Wish Omake",
+    "romaji": "W: Wish Omake",
+    "native": "W 〜ウィッシュ〜"
+  },
+  "synonyms": [
+    "W: Wish Omake",
+    "W 〜ウィッシュ〜",
+    "W Wish Special"
+  ],
+  "type": "special",
+  "episodes": 4,
+  "status": "finished",
+  "season": "winter",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9967.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9967",
+      "url": "https://anilist.co/anime/9967"
+    },
+    "k": {
+      "id": "5969",
+      "url": "https://kitsu.io/anime/5969"
+    },
+    "mal": {
+      "id": "9967",
+      "url": "https://myanimelist.net/anime/9967"
+    }
+  }
+}

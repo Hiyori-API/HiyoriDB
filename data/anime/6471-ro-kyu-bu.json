@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6471,
+  "slug": "ro-kyu-bu",
+  "kind": "anime",
+  "title": "Ro-Kyu-Bu!",
+  "titles": {
+    "default": "Ro-Kyu-Bu!",
+    "romaji": "Ro-Kyu-Bu!",
+    "english": "Ro-Kyu-Bu ~ Fast Break!",
+    "native": "ロウきゅーぶ!"
+  },
+  "synonyms": [
+    "Ro-Kyu-Bu!",
+    "Ro-Kyu-Bu ~ Fast Break!",
+    "ロウきゅーぶ!",
+    "Rou-Kyuu-Bu!",
+    "Rou-Kyu–Bu!",
+    "Ro-Kyu-Bu: Fast Break",
+    "บาสใสวัยซน!",
+    "Sacred Seven",
+    "セイクリッドセブン",
+    "Sacred 7"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10572-MVk1asGo1rQP.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10572",
+      "url": "https://anilist.co/anime/10572"
+    },
+    "k": {
+      "id": "6058",
+      "url": "https://kitsu.io/anime/6058"
+    },
+    "mal": {
+      "id": "10572",
+      "url": "https://myanimelist.net/anime/10572"
+    },
+    "t": {
+      "id": "42281",
+      "url": "https://trakt.tv/shows/42281"
+    },
+    "tx": {
+      "id": "rokyubu",
+      "url": "https://twitter.com/rokyubu"
+    }
+  }
+}

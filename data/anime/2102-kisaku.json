@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2102,
+  "slug": "kisaku",
+  "kind": "anime",
+  "title": "Kisaku",
+  "titles": {
+    "default": "Kisaku",
+    "romaji": "Kisaku",
+    "native": "鬼作"
+  },
+  "synonyms": [
+    "Kisaku",
+    "鬼作",
+    "Kisaku The Letch III",
+    "Digital Juice",
+    "デジタルジュース",
+    "KEIKAKU",
+    "Chicken's Insurance",
+    "Tsukiyo no Ban ni",
+    "TOJIN KIT",
+    "In the Evening of a Moonlit Night",
+    "Table and Fishman",
+    "The Saloon in the Air"
+  ],
+  "type": "ova",
+  "episodes": 6,
+  "status": "finished",
+  "season": "winter",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2377.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2377",
+      "url": "https://anilist.co/anime/2377"
+    },
+    "k": {
+      "id": "990",
+      "url": "https://kitsu.io/anime/990"
+    },
+    "mal": {
+      "id": "2377",
+      "url": "https://myanimelist.net/anime/2377"
+    }
+  }
+}

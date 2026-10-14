@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15175,
+  "slug": "shin-tenchi-muyou-ryououhki",
+  "kind": "manga",
+  "title": "Shin Tenchi Muyou! Ryououhki",
+  "titles": {
+    "default": "Shin Tenchi Muyou! Ryououhki"
+  },
+  "synonyms": [
+    "Shin Tenchi Muyo! Ryo-ohki",
+    "True Tenchi Muyo!",
+    "真・天地無用!魎皇鬼",
+    "Yumegari",
+    "夢狩り",
+    "Clamp Gakuen Denki Bunko",
+    "The Dream Catcher"
+  ],
+  "type": "novel",
+  "volumes": 3,
+  "status": "finished",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx122401-HtUHcTAxoXaT.png"
+  ],
+  "references": {
+    "al": {
+      "id": "539",
+      "url": "https://anilist.co/anime/539"
+    },
+    "al_manga": {
+      "id": "539",
+      "url": "https://anilist.co/manga/539"
+    }
+  }
+}

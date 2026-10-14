@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13518,
+  "slug": "mata-korosarete-shimatta-no-desu-ne-tantei-sama",
+  "kind": "anime",
+  "title": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
+  "titles": {
+    "default": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
+    "romaji": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
+    "english": "Killed again, Mr. Detective.",
+    "native": "また殺されてしまったのですね、探偵様"
+  },
+  "synonyms": [
+    "Mata Korosarete Shimatta no desu ne, Tantei-sama",
+    "Killed again, Mr. Detective.",
+    "また殺されてしまったのですね、探偵様",
+    "またころ",
+    "Matakoro",
+    "Killed Again, Mr. Detective?",
+    "This Ugly Yet Beautiful World",
+    "Kono Minikuku mo Utsukushii Sekai",
+    "この醜くも美しい世界"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202381-bxgyUXGtGtZj.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "202381",
+      "url": "https://anilist.co/anime/202381"
+    },
+    "cr": {
+      "id": "series/GT00371787/killed-again-mr-detective",
+      "url": "https://www.crunchyroll.com/series/series/GT00371787/killed-again-mr-detective"
+    },
+    "k": {
+      "id": "124",
+      "url": "https://kitsu.io/anime/124"
+    },
+    "mal": {
+      "id": "62964",
+      "url": "https://myanimelist.net/anime/62964"
+    },
+    "t": {
+      "id": "34001",
+      "url": "https://trakt.tv/shows/34001"
+    }
+  }
+}

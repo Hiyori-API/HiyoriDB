@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1528,
+  "slug": "negima-natsu-special",
+  "kind": "anime",
+  "title": "Negima!? Natsu Special!?",
+  "titles": {
+    "default": "Negima!? Natsu Special!?",
+    "romaji": "Negima!? Natsu Special!?",
+    "english": "Negima!? Magister Negi Magi: Summer",
+    "native": "ネギま!?夏 スペシャル!?"
+  },
+  "synonyms": [
+    "Negima!? Natsu Special!?",
+    "Negima!? Magister Negi Magi: Summer",
+    "ネギま!?夏 スペシャル!?",
+    "Mahou Sensei Negima! OVA Natsu",
+    "Magic Teacher Negima! Summer OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1732.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1732",
+      "url": "https://anilist.co/anime/1732"
+    },
+    "k": {
+      "id": "1552",
+      "url": "https://kitsu.io/anime/1552"
+    },
+    "mal": {
+      "id": "1732",
+      "url": "https://myanimelist.net/anime/1732"
+    }
+  }
+}

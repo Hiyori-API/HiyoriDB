@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 584,
+  "slug": "mahoromatic-natsu-no-tv-special",
+  "kind": "anime",
+  "title": "Mahoromatic: Natsu no TV Special",
+  "titles": {
+    "default": "Mahoromatic: Natsu no TV Special",
+    "romaji": "Mahoromatic: Natsu no TV Special",
+    "english": "Mahoromatic Summer Special",
+    "native": "まほろまてぃっく 夏のTVスペシャル"
+  },
+  "synonyms": [
+    "Mahoromatic: Natsu no TV Special",
+    "Mahoromatic Summer Special",
+    "まほろまてぃっく 夏のTVスペシャル",
+    "Mahoromatic Summer 2003 TV Special"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx631-evpm5edHXGPs.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "631",
+      "url": "https://anilist.co/anime/631"
+    },
+    "k": {
+      "id": "585",
+      "url": "https://kitsu.io/anime/585"
+    },
+    "mal": {
+      "id": "631",
+      "url": "https://myanimelist.net/anime/631"
+    }
+  }
+}

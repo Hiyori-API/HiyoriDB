@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14247,
+  "slug": "kamichu",
+  "kind": "manga",
+  "title": "Kamichu!",
+  "titles": {
+    "default": "Kamichu!"
+  },
+  "synonyms": [
+    "Kami-chu!",
+    "かみちゅ!",
+    "Renai Soukanzu",
+    "恋愛相姦図",
+    "Renai Sokanzu",
+    "Pink Sweets"
+  ],
+  "type": "manga",
+  "chapters": 20,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31690-X0aOhOSIzWNX.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "489",
+      "url": "https://anilist.co/anime/489"
+    },
+    "al_manga": {
+      "id": "489",
+      "url": "https://anilist.co/manga/489"
+    }
+  }
+}

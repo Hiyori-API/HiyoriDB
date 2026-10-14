@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7174,
+  "slug": "seitokai-no-shukujitsu",
+  "kind": "anime",
+  "title": "Seitokai no Shukujitsu",
+  "titles": {
+    "default": "Seitokai no Shukujitsu",
+    "romaji": "Seitokai no Shukujitsu",
+    "english": "Student Council's Holidays",
+    "native": "生徒会の祝日"
+  },
+  "synonyms": [
+    "Seitokai no Shukujitsu",
+    "Student Council's Holidays",
+    "生徒会の祝日",
+    "Seitokai no Ichizon Lv.2 OVA",
+    "Seitokai no Ichizon (2013)",
+    "Seitokai no Ichizon Lv.2: Watasu Seitokai",
+    "生徒会の一存 Lv.2 渡す生徒会"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15963.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "15963",
+      "url": "https://anilist.co/anime/15963"
+    },
+    "k": {
+      "id": "7349",
+      "url": "https://kitsu.io/anime/7349"
+    },
+    "mal": {
+      "id": "15963",
+      "url": "https://myanimelist.net/anime/15963"
+    }
+  }
+}

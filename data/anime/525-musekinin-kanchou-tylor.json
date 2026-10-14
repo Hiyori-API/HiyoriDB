@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 525,
+  "slug": "musekinin-kanchou-tylor",
+  "kind": "anime",
+  "title": "Musekinin Kanchou Tylor",
+  "titles": {
+    "default": "Musekinin Kanchou Tylor",
+    "romaji": "Musekinin Kanchou Tylor",
+    "english": "The Irresponsible Captain Tylor",
+    "native": "無責任艦長タイラー"
+  },
+  "synonyms": [
+    "Musekinin Kanchou Tylor",
+    "The Irresponsible Captain Tylor",
+    "無責任艦長タイラー"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "winter",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx569-xlw4m3TkFBll.png"
+  ],
+  "references": {
+    "al": {
+      "id": "569",
+      "url": "https://anilist.co/anime/569"
+    },
+    "cr": {
+      "id": "the-irresponsible-captain-tylor",
+      "url": "https://www.crunchyroll.com/series/the-irresponsible-captain-tylor"
+    },
+    "k": {
+      "id": "526",
+      "url": "https://kitsu.io/anime/526"
+    },
+    "mal": {
+      "id": "569",
+      "url": "https://myanimelist.net/anime/569"
+    },
+    "t": {
+      "id": "34042",
+      "url": "https://trakt.tv/shows/34042"
+    },
+    "ttv": {
+      "id": "1035",
+      "url": "https://tubitv.com/series/1035"
+    }
+  }
+}

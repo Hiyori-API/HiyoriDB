@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14566,
+  "slug": "p-no-higeki",
+  "kind": "manga",
+  "title": "P no Higeki",
+  "titles": {
+    "default": "P no Higeki"
+  },
+  "synonyms": [
+    "Takahashi Rumiko Gekijou",
+    "Takahashi Rumiko Kessakushuu",
+    "La Tragedia de P",
+    "高橋留美子傑作集",
+    "Rumic Theater",
+    "Pの悲劇",
+    "Yokohama Kaidashi Kikou",
+    "ヨコハマ買い出し紀行",
+    "Yokohama Shopping Log",
+    "Yokohama Shopping Trip",
+    "Touge"
+  ],
+  "type": "manga",
+  "chapters": 6,
+  "volumes": 1,
+  "status": "finished",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/91928-0DFUdxfaTpMQ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2486",
+      "url": "https://anilist.co/anime/2486"
+    },
+    "al_manga": {
+      "id": "2486",
+      "url": "https://anilist.co/manga/2486"
+    }
+  }
+}

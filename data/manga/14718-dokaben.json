@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14718,
+  "slug": "dokaben",
+  "kind": "manga",
+  "title": "Dokaben",
+  "titles": {
+    "default": "Dokaben"
+  },
+  "synonyms": [
+    "ドカベン",
+    "Dokaben"
+  ],
+  "type": "manga",
+  "chapters": 499,
+  "volumes": 48,
+  "status": "finished",
+  "year": 1972,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/18020.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3825",
+      "url": "https://anilist.co/anime/3825"
+    },
+    "al_manga": {
+      "id": "3825",
+      "url": "https://anilist.co/manga/3825"
+    }
+  }
+}

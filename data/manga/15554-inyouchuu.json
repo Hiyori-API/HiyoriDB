@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15554,
+  "slug": "inyouchuu",
+  "kind": "manga",
+  "title": "Inyouchuu",
+  "titles": {
+    "default": "Inyouchuu"
+  },
+  "synonyms": [
+    "淫妖蟲",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "chapters": 8,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx53510-xavqZCWz0jHJ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3747",
+      "url": "https://anilist.co/anime/3747"
+    },
+    "al_manga": {
+      "id": "3747",
+      "url": "https://anilist.co/manga/3747"
+    }
+  }
+}

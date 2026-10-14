@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15470,
+  "slug": "cartagra-tsuki-gurui-no-yamai",
+  "kind": "manga",
+  "title": "Cartagra: Tsuki Gurui no Yamai",
+  "titles": {
+    "default": "Cartagra: Tsuki Gurui no Yamai"
+  },
+  "synonyms": [
+    "Cartagra: Tsuki Kurui no Yamai",
+    "カルタグラ～ツキ狂イノ病～",
+    "Young Gun Carnaval",
+    "ヤングガン・カルナバル"
+  ],
+  "type": "novel",
+  "volumes": 2,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b93370-KjBbsAFYfP30.png"
+  ],
+  "references": {
+    "al": {
+      "id": "6422",
+      "url": "https://anilist.co/anime/6422"
+    },
+    "al_manga": {
+      "id": "6422",
+      "url": "https://anilist.co/manga/6422"
+    }
+  }
+}

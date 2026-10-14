@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10255,
+  "slug": "null-peta",
+  "kind": "anime",
+  "title": "Null Peta",
+  "titles": {
+    "default": "Null Peta",
+    "romaji": "Null Peta",
+    "english": "Null & Peta",
+    "native": "ぬるぺた"
+  },
+  "synonyms": [
+    "Null Peta",
+    "Null & Peta",
+    "ぬるぺた"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110789-BElJ4Jcqq9Fl.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "110789",
+      "url": "https://anilist.co/anime/110789"
+    },
+    "cr": {
+      "id": "null-peta",
+      "url": "https://www.crunchyroll.com/series/null-peta"
+    },
+    "mal": {
+      "id": "40178",
+      "url": "https://myanimelist.net/anime/40178"
+    },
+    "tx": {
+      "id": "nullpeta",
+      "url": "https://twitter.com/nullpeta"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6234,
+  "slug": "sore-ike-anpanman-hashire-wakuwaku-anpanman-grand-prix",
+  "kind": "anime",
+  "title": "Sore Ike! Anpanman: Hashire! Wakuwaku Anpanman Grand Prix",
+  "titles": {
+    "default": "Sore Ike! Anpanman: Hashire! Wakuwaku Anpanman Grand Prix",
+    "romaji": "Sore Ike! Anpanman: Hashire! Wakuwaku Anpanman Grand Prix",
+    "native": "それいけ! アンパンマン はしれ! わくわく アンパンマングランプリ"
+  },
+  "synonyms": [
+    "Sore Ike! Anpanman: Hashire! Wakuwaku Anpanman Grand Prix",
+    "それいけ! アンパンマン はしれ! わくわく アンパンマングランプリ"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b121835-f8XIMjaSe8bH.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "121835",
+      "url": "https://anilist.co/anime/121835"
+    },
+    "k": {
+      "id": "9612",
+      "url": "https://kitsu.io/anime/9612"
+    },
+    "mal": {
+      "id": "27569",
+      "url": "https://myanimelist.net/anime/27569"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13115,
+  "slug": "hibi-wa-sugiredo-meshi-umashi",
+  "kind": "anime",
+  "title": "Hibi wa Sugiredo Meshi Umashi",
+  "titles": {
+    "default": "Hibi wa Sugiredo Meshi Umashi",
+    "romaji": "Hibi wa Sugiredo Meshi Umashi",
+    "english": "Food for the Soul",
+    "native": "日々は過ぎれど飯うまし"
+  },
+  "synonyms": [
+    "Hibi wa Sugiredo Meshi Umashi",
+    "Food for the Soul",
+    "日々は過ぎれど飯うまし",
+    "Hibimeshi",
+    "ひびめし",
+    "歲月流逝飯菜依舊美味",
+    "This Ugly Yet Beautiful World",
+    "Kono Minikuku mo Utsukushii Sekai",
+    "この醜くも美しい世界"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185939-hqt1He153el8.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "185939",
+      "url": "https://anilist.co/anime/185939"
+    },
+    "cr": {
+      "id": "series/GJ0H7QGZM/food-for-the-soul",
+      "url": "https://www.crunchyroll.com/series/series/GJ0H7QGZM/food-for-the-soul"
+    },
+    "k": {
+      "id": "124",
+      "url": "https://kitsu.io/anime/124"
+    },
+    "mal": {
+      "id": "60658",
+      "url": "https://myanimelist.net/anime/60658"
+    },
+    "t": {
+      "id": "34001",
+      "url": "https://trakt.tv/shows/34001"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13592,
+  "slug": "suterare-seijo-no-isekai-gohantabi-kakure-skill-de-camping-car-wo-shoukan-shimashita",
+  "kind": "anime",
+  "title": "Suterare Seijo no Isekai Gohantabi: Kakure Skill de Camping Car wo Shoukan Shimashita",
+  "titles": {
+    "default": "Suterare Seijo no Isekai Gohantabi: Kakure Skill de Camping Car wo Shoukan Shimashita",
+    "romaji": "Suterare Seijo no Isekai Gohantabi: Kakure Skill de Camping Car wo Shoukan Shimashita",
+    "english": "The Forsaken Saintess and Her Foodie Roadtrip in Another World",
+    "native": "捨てられ聖女の異世界ごはん旅 隠れスキルでキャンピングカーを召喚しました"
+  },
+  "synonyms": [
+    "Suterare Seijo no Isekai Gohantabi: Kakure Skill de Camping Car wo Shoukan Shimashita",
+    "The Forsaken Saintess and Her Foodie Roadtrip in Another World",
+    "捨てられ聖女の異世界ごはん旅 隠れスキルでキャンピングカーを召喚しました",
+    "สตรีศักดิ์สิทธิ์ผู้ถูกทอดทิ้ง ออกเดินทางชิมอาหารในต่างโลกด้วยสกิลลับอัญเชิญรถบ้านแคมป์ปิ้ง",
+    "Isekai CamPer - I viaggi culinari in un altro mondo della santa rinnegata: Ho evocato un camper grazie a una skill nascosta",
+    "DearS",
+    "ディアーズ"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209504-yRxHWxKuNGtg.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "209504",
+      "url": "https://anilist.co/anime/209504"
+    },
+    "cr": {
+      "id": "series/GRZXD528Y/dears",
+      "url": "https://www.crunchyroll.com/series/series/GRZXD528Y/dears"
+    },
+    "k": {
+      "id": "44",
+      "url": "https://kitsu.io/anime/44"
+    },
+    "mal": {
+      "id": "63752",
+      "url": "https://myanimelist.net/anime/63752"
+    },
+    "t": {
+      "id": "61051",
+      "url": "https://trakt.tv/shows/61051"
+    }
+  }
+}

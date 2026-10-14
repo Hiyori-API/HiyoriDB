@@ -1,0 +1,58 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1213,
+  "slug": "hi-no-tori",
+  "kind": "anime",
+  "title": "Hi no Tori",
+  "titles": {
+    "default": "Hi no Tori",
+    "romaji": "Hi no Tori",
+    "english": "Phoenix",
+    "native": "火の鳥"
+  },
+  "synonyms": [
+    "Hi no Tori",
+    "Phoenix",
+    "火の鳥",
+    "Hinotori",
+    "The Phoenix",
+    "Midori Days",
+    "Midori no Hibi",
+    "美鳥の日々",
+    "My Days With Midori"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1371.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1371",
+      "url": "https://anilist.co/anime/1371"
+    },
+    "cr": {
+      "id": "phoenix",
+      "url": "https://www.crunchyroll.com/series/phoenix"
+    },
+    "k": {
+      "id": "297",
+      "url": "https://kitsu.io/anime/297"
+    },
+    "mal": {
+      "id": "1371",
+      "url": "https://myanimelist.net/anime/1371"
+    },
+    "t": {
+      "id": "62190",
+      "url": "https://trakt.tv/shows/62190"
+    },
+    "ttv": {
+      "id": "2058",
+      "url": "https://tubitv.com/series/2058"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8587,
+  "slug": "last-exile-ginyoku-no-fam-over-the-wishes",
+  "kind": "anime",
+  "title": "Last Exile: Ginyoku no Fam - Over the Wishes",
+  "titles": {
+    "default": "Last Exile: Ginyoku no Fam - Over the Wishes",
+    "romaji": "Last Exile: Ginyoku no Fam - Over the Wishes",
+    "native": "ラストエグザイル −銀翼のファム- Over the Wishes"
+  },
+  "synonyms": [
+    "Last Exile: Ginyoku no Fam - Over the Wishes",
+    "ラストエグザイル −銀翼のファム- Over the Wishes",
+    "Kizumonogatari Part 1: Tekketsu",
+    "Kizumonogatari I: Tekketsu-hen",
+    "傷物語〈Ⅰ鉄血篇〉",
+    "Koyomi Vamp"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21469-yUZJL5YJn5WU.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21469",
+      "url": "https://anilist.co/anime/21469"
+    },
+    "k": {
+      "id": "5649",
+      "url": "https://kitsu.io/anime/5649"
+    },
+    "mal": {
+      "id": "31866",
+      "url": "https://myanimelist.net/anime/31866"
+    },
+    "t": {
+      "id": "45938",
+      "url": "https://trakt.tv/shows/45938"
+    }
+  }
+}

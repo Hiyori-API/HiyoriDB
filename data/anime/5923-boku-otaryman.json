@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5923,
+  "slug": "boku-otaryman",
+  "kind": "anime",
+  "title": "Boku, Otaryman",
+  "titles": {
+    "default": "Boku, Otaryman",
+    "romaji": "Boku, Otaryman",
+    "native": "ぼく、オタリーマン."
+  },
+  "synonyms": [
+    "Boku, Otaryman",
+    "ぼく、オタリーマン.",
+    "Boku, Otaryman.",
+    "ぼく、オタリーマン。"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7597.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7597",
+      "url": "https://anilist.co/anime/7597"
+    },
+    "k": {
+      "id": "5047",
+      "url": "https://kitsu.io/anime/5047"
+    },
+    "mal": {
+      "id": "7597",
+      "url": "https://myanimelist.net/anime/7597"
+    }
+  }
+}

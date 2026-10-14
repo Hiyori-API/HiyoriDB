@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3516,
+  "slug": "yagami-kun-no-katei-no-jijou",
+  "kind": "anime",
+  "title": "Yagami-kun no Katei no Jijou",
+  "titles": {
+    "default": "Yagami-kun no Katei no Jijou",
+    "romaji": "Yagami-kun no Katei no Jijou",
+    "native": "八神くんの家庭の事情"
+  },
+  "synonyms": [
+    "Yagami-kun no Katei no Jijou",
+    "八神くんの家庭の事情",
+    "Yagami's Family Affairs",
+    "Yagami-kun's Family Affairs"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "spring",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4537.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4537",
+      "url": "https://anilist.co/anime/4537"
+    },
+    "k": {
+      "id": "3670",
+      "url": "https://kitsu.io/anime/3670"
+    },
+    "mal": {
+      "id": "4537",
+      "url": "https://myanimelist.net/anime/4537"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1752,
+  "slug": "osu",
+  "kind": "anime",
+  "title": "Osu",
+  "titles": {
+    "default": "Osu",
+    "romaji": "Osu",
+    "english": "Male",
+    "native": "おす"
+  },
+  "synonyms": [
+    "Osu",
+    "Male",
+    "おす"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1962,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx1982-XW3AItdy1oRi.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1982",
+      "url": "https://anilist.co/anime/1982"
+    },
+    "k": {
+      "id": "1784",
+      "url": "https://kitsu.io/anime/1784"
+    },
+    "mal": {
+      "id": "1982",
+      "url": "https://myanimelist.net/anime/1982"
+    }
+  }
+}

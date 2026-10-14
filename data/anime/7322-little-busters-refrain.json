@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7322,
+  "slug": "little-busters-refrain",
+  "kind": "anime",
+  "title": "Little Busters!: Refrain",
+  "titles": {
+    "default": "Little Busters!: Refrain",
+    "romaji": "Little Busters!: Refrain",
+    "english": "Little Busters! Refrain",
+    "native": "リトルバスターズ! ~Refrain~"
+  },
+  "synonyms": [
+    "Little Busters!: Refrain",
+    "Little Busters! Refrain",
+    "リトルバスターズ! ~Refrain~",
+    "Coppelion",
+    "コッペリオン"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18195-r62KJesiZQWb.png"
+  ],
+  "references": {
+    "al": {
+      "id": "18195",
+      "url": "https://anilist.co/anime/18195"
+    },
+    "cr": {
+      "id": "little-busters",
+      "url": "https://www.crunchyroll.com/series/little-busters"
+    },
+    "k": {
+      "id": "5746",
+      "url": "https://kitsu.io/anime/5746"
+    },
+    "mal": {
+      "id": "18195",
+      "url": "https://myanimelist.net/anime/18195"
+    },
+    "t": {
+      "id": "72043",
+      "url": "https://trakt.tv/shows/72043"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15751,
+  "slug": "asa-made-jugyou-chu",
+  "kind": "manga",
+  "title": "Asa made Jugyou Chu!",
+  "titles": {
+    "default": "Asa made Jugyou Chu!"
+  },
+  "synonyms": [
+    "See Me After Class",
+    "朝まで授業Chu!",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "chapters": 49,
+  "volumes": 4,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx49555-4gPHxqybf81S.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12581",
+      "url": "https://anilist.co/anime/12581"
+    },
+    "al_manga": {
+      "id": "12581",
+      "url": "https://anilist.co/manga/12581"
+    }
+  }
+}

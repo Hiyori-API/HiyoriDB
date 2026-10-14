@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5130,
+  "slug": "yokohama-meibutsu-otoko-katayama-gumi",
+  "kind": "anime",
+  "title": "Yokohama Meibutsu: Otoko Katayama-gumi!",
+  "titles": {
+    "default": "Yokohama Meibutsu: Otoko Katayama-gumi!",
+    "romaji": "Yokohama Meibutsu: Otoko Katayama-gumi!",
+    "native": "横浜名物：男片山組！"
+  },
+  "synonyms": [
+    "Yokohama Meibutsu: Otoko Katayama-gumi!",
+    "横浜名物：男片山組！"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10113.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10113",
+      "url": "https://anilist.co/anime/10113"
+    },
+    "k": {
+      "id": "6041",
+      "url": "https://kitsu.io/anime/6041"
+    },
+    "mal": {
+      "id": "10113",
+      "url": "https://myanimelist.net/anime/10113"
+    }
+  }
+}

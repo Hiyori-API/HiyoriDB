@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5154,
+  "slug": "money-wars-nerawareta-waterfront-keikaku",
+  "kind": "anime",
+  "title": "Money Wars: Nerawareta Waterfront Keikaku",
+  "titles": {
+    "default": "Money Wars: Nerawareta Waterfront Keikaku",
+    "romaji": "Money Wars: Nerawareta Waterfront Keikaku",
+    "native": "マネーウォーズ 狙われたウォーターフロント計画"
+  },
+  "synonyms": [
+    "Money Wars: Nerawareta Waterfront Keikaku",
+    "マネーウォーズ 狙われたウォーターフロント計画",
+    "Ninja Ryuukenden",
+    "忍者龍剣伝",
+    "Ninja Gaiden",
+    "Ninja Ryukenden",
+    "Tale of Ninja Ryuuken",
+    "Ninja Ryu: The Dragon Sword Story"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18743.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "18743",
+      "url": "https://anilist.co/anime/18743"
+    },
+    "k": {
+      "id": "574",
+      "url": "https://kitsu.io/anime/574"
+    },
+    "mal": {
+      "id": "18743",
+      "url": "https://myanimelist.net/anime/18743"
+    }
+  }
+}

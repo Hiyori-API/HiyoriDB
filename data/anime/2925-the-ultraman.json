@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2925,
+  "slug": "the-ultraman",
+  "kind": "anime",
+  "title": "The☆Ultraman",
+  "titles": {
+    "default": "The☆Ultraman",
+    "romaji": "The☆Ultraman",
+    "native": "ザ☆ウルトラマン"
+  },
+  "synonyms": [
+    "The☆Ultraman",
+    "ザ☆ウルトラマン",
+    "Ultraman Jonias",
+    "Ultraman Joe"
+  ],
+  "type": "tv",
+  "episodes": 50,
+  "status": "finished",
+  "season": "spring",
+  "year": 1979,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3444-8dXzcjNcyDpL.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3444",
+      "url": "https://anilist.co/anime/3444"
+    },
+    "k": {
+      "id": "3014",
+      "url": "https://kitsu.io/anime/3014"
+    },
+    "mal": {
+      "id": "3444",
+      "url": "https://myanimelist.net/anime/3444"
+    },
+    "t": {
+      "id": "3403",
+      "url": "https://trakt.tv/shows/3403"
+    }
+  }
+}

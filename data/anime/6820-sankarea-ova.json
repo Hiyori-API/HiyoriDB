@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6820,
+  "slug": "sankarea-ova",
+  "kind": "anime",
+  "title": "Sankarea (OVA)",
+  "titles": {
+    "default": "Sankarea (OVA)",
+    "romaji": "Sankarea (OVA)",
+    "native": "さんかれあ (OVA)"
+  },
+  "synonyms": [
+    "Sankarea (OVA)",
+    "さんかれあ (OVA)",
+    "Sankarea Episode 0",
+    "Sankarea Episode 14",
+    "Sankarea OVA",
+    "さんかれあ",
+    "Sankarea Episodes 00 & 14"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx13055-IckRpUES0oDD.png"
+  ],
+  "references": {
+    "al": {
+      "id": "13055",
+      "url": "https://anilist.co/anime/13055"
+    },
+    "k": {
+      "id": "6873",
+      "url": "https://kitsu.io/anime/6873"
+    },
+    "mal": {
+      "id": "13055",
+      "url": "https://myanimelist.net/anime/13055"
+    }
+  }
+}

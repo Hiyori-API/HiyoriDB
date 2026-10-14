@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15359,
+  "slug": "naikaku-kenryoku-hanzai-kyousei-torishimarikan-zaizen-joutarou",
+  "kind": "manga",
+  "title": "Naikaku Kenryoku Hanzai Kyousei Torishimarikan Zaizen Joutarou",
+  "titles": {
+    "default": "Naikaku Kenryoku Hanzai Kyousei Torishimarikan Zaizen Joutarou"
+  },
+  "synonyms": [
+    "Government Crime Investigation Agent Zaizen Jotaro",
+    "内閣権力犯罪強制取締官 財前丈太郎",
+    "xxxHOLiC",
+    "xxxHolic Rou",
+    "xxxHolic Cage",
+    "xxxHolic•Rou"
+  ],
+  "type": "manga",
+  "chapters": 166,
+  "volumes": 17,
+  "status": "finished",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/95888-WJ7NlWyJbJMb.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1740",
+      "url": "https://anilist.co/anime/1740"
+    },
+    "al_manga": {
+      "id": "1740",
+      "url": "https://anilist.co/manga/1740"
+    }
+  }
+}

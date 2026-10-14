@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2136,
+  "slug": "assemble-insert",
+  "kind": "anime",
+  "title": "Assemble Insert",
+  "titles": {
+    "default": "Assemble Insert",
+    "romaji": "Assemble Insert",
+    "native": "アッセンブル・インサート"
+  },
+  "synonyms": [
+    "Assemble Insert",
+    "アッセンブル・インサート"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx2414-oUqmkyRgBdxc.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2414",
+      "url": "https://anilist.co/anime/2414"
+    },
+    "k": {
+      "id": "2190",
+      "url": "https://kitsu.io/anime/2190"
+    },
+    "mal": {
+      "id": "2414",
+      "url": "https://myanimelist.net/anime/2414"
+    }
+  }
+}

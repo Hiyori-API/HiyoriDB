@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3415,
+  "slug": "kara-no-kyoukai-mujun-rasen",
+  "kind": "anime",
+  "title": "Kara no Kyoukai: Mujun Rasen",
+  "titles": {
+    "default": "Kara no Kyoukai: Mujun Rasen",
+    "romaji": "Kara no Kyoukai: Mujun Rasen",
+    "english": "the Garden of sinners Chapter 5: Paradox Paradigm",
+    "native": "空の境界 矛盾螺旋"
+  },
+  "synonyms": [
+    "Kara no Kyoukai: Mujun Rasen",
+    "the Garden of sinners Chapter 5: Paradox Paradigm",
+    "空の境界 矛盾螺旋",
+    "Storm Rider: Clash of the Evils",
+    "Feng Yun Jue",
+    "風雲決",
+    "Wind and Cloud Duel"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4282-R19YmET0glSZ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4282",
+      "url": "https://anilist.co/anime/4282"
+    },
+    "cr": {
+      "id": "the-garden-of-sinners/episode-5-paradox-paradigm-763123",
+      "url": "https://www.crunchyroll.com/series/the-garden-of-sinners/episode-5-paradox-paradigm-763123"
+    },
+    "k": {
+      "id": "4125",
+      "url": "https://kitsu.io/anime/4125"
+    },
+    "mal": {
+      "id": "4282",
+      "url": "https://myanimelist.net/anime/4282"
+    }
+  }
+}

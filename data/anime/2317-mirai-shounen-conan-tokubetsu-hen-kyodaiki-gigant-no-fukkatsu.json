@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2317,
+  "slug": "mirai-shounen-conan-tokubetsu-hen-kyodaiki-gigant-no-fukkatsu",
+  "kind": "anime",
+  "title": "Mirai Shounen Conan: Tokubetsu-hen - Kyodaiki Gigant no Fukkatsu",
+  "titles": {
+    "default": "Mirai Shounen Conan: Tokubetsu-hen - Kyodaiki Gigant no Fukkatsu",
+    "romaji": "Mirai Shounen Conan: Tokubetsu-hen - Kyodaiki Gigant no Fukkatsu",
+    "native": "未来少年コナン特別篇　巨大機ギガントの復活"
+  },
+  "synonyms": [
+    "Mirai Shounen Conan: Tokubetsu-hen - Kyodaiki Gigant no Fukkatsu",
+    "未来少年コナン特別篇　巨大機ギガントの復活",
+    "Future Boy Conan",
+    "Jumping",
+    "ジャンピング"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1984,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2614.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2614",
+      "url": "https://anilist.co/anime/2614"
+    },
+    "k": {
+      "id": "2002",
+      "url": "https://kitsu.io/anime/2002"
+    },
+    "mal": {
+      "id": "2614",
+      "url": "https://myanimelist.net/anime/2614"
+    }
+  }
+}

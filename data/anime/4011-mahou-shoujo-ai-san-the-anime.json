@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4011,
+  "slug": "mahou-shoujo-ai-san-the-anime",
+  "kind": "anime",
+  "title": "Mahou Shoujo Ai San: THE ANIME",
+  "titles": {
+    "default": "Mahou Shoujo Ai San: THE ANIME",
+    "romaji": "Mahou Shoujo Ai San: THE ANIME",
+    "english": "Sexy Magical Girl Ai",
+    "native": "魔法少女アイ参 THE ANIME"
+  },
+  "synonyms": [
+    "Mahou Shoujo Ai San: THE ANIME",
+    "Sexy Magical Girl Ai",
+    "魔法少女アイ参 THE ANIME",
+    "Kodomo no Jikan: Ni Gakki",
+    "こどものじかん 2学期",
+    "Kodomo no Jikan: Second Term",
+    "Kodomo no Jikan OVA 3"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "winter",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5653.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5653",
+      "url": "https://anilist.co/anime/5653"
+    },
+    "k": {
+      "id": "3515",
+      "url": "https://kitsu.io/anime/3515"
+    },
+    "mal": {
+      "id": "5653",
+      "url": "https://myanimelist.net/anime/5653"
+    }
+  }
+}

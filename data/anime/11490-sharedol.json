@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11490,
+  "slug": "sharedol",
+  "kind": "anime",
+  "title": "SHAREDOL",
+  "titles": {
+    "default": "SHAREDOL",
+    "romaji": "SHAREDOL",
+    "native": "洒落どる"
+  },
+  "synonyms": [
+    "SHAREDOL",
+    "洒落どる",
+    "しゃれどる",
+    "SHAREDOL (Pilot Film)",
+    "洒落どる (パイロットフィルム)",
+    "Catblue Dynamite",
+    "Catblue: Dynamite",
+    "キャットブルー：ダイナマイト"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140689-pBwpe7zvUPfg.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "140689",
+      "url": "https://anilist.co/anime/140689"
+    },
+    "k": {
+      "id": "1645",
+      "url": "https://kitsu.io/anime/1645"
+    },
+    "mal": {
+      "id": "50136",
+      "url": "https://myanimelist.net/anime/50136"
+    },
+    "tx": {
+      "id": "sharedol",
+      "url": "https://twitter.com/sharedol"
+    },
+    "yt": {
+      "id": "2GSSxcq5A5c",
+      "url": "https://www.youtube.com/watch?v=2GSSxcq5A5c"
+    }
+  }
+}

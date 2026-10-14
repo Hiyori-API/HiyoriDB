@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8623,
+  "slug": "kochinpa",
+  "kind": "anime",
+  "title": "KochinPa!",
+  "titles": {
+    "default": "KochinPa!",
+    "romaji": "KochinPa!",
+    "native": "コチンPa！"
+  },
+  "synonyms": [
+    "KochinPa!",
+    "コチンPa！",
+    "Aira",
+    "アイラ",
+    "Durarara!!x2 Ketsu",
+    "Durarara!! x2 Ketsu",
+    "デュラララ!!×2 結"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21530-h0ycBEoWHFBA.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21530",
+      "url": "https://anilist.co/anime/21530"
+    },
+    "k": {
+      "id": "9725",
+      "url": "https://kitsu.io/anime/9725"
+    },
+    "mal": {
+      "id": "32400",
+      "url": "https://myanimelist.net/anime/32400"
+    },
+    "nf": {
+      "id": "80047029",
+      "url": "https://www.netflix.com/title/80047029"
+    },
+    "t": {
+      "id": "42187",
+      "url": "https://trakt.tv/shows/42187"
+    }
+  }
+}

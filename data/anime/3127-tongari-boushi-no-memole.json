@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3127,
+  "slug": "tongari-boushi-no-memole",
+  "kind": "anime",
+  "title": "Tongari Boushi no Memole",
+  "titles": {
+    "default": "Tongari Boushi no Memole",
+    "romaji": "Tongari Boushi no Memole",
+    "native": "とんがり帽子のメモル"
+  },
+  "synonyms": [
+    "Tongari Boushi no Memole",
+    "とんがり帽子のメモル",
+    "Memoru in the Pointed Hat",
+    "Tongari Boushi no Memoru",
+    "Wee Wendy"
+  ],
+  "type": "tv",
+  "episodes": 50,
+  "status": "finished",
+  "season": "spring",
+  "year": 1984,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3754-RP5ACc7zQrm7.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3754",
+      "url": "https://anilist.co/anime/3754"
+    },
+    "k": {
+      "id": "3231",
+      "url": "https://kitsu.io/anime/3231"
+    },
+    "mal": {
+      "id": "3754",
+      "url": "https://myanimelist.net/anime/3754"
+    },
+    "t": {
+      "id": "72201",
+      "url": "https://trakt.tv/shows/72201"
+    }
+  }
+}

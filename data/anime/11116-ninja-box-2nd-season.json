@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11116,
+  "slug": "ninja-box-2nd-season",
+  "kind": "anime",
+  "title": "Ninja Box 2nd Season",
+  "titles": {
+    "default": "Ninja Box 2nd Season",
+    "romaji": "Ninja Box 2nd Season",
+    "native": "ニンジャボックス シーズン２"
+  },
+  "synonyms": [
+    "Ninja Box 2nd Season",
+    "ニンジャボックス シーズン２",
+    "Wings of the World",
+    "万国志",
+    "Wan Guo Zhi"
+  ],
+  "type": "ona",
+  "episodes": 16,
+  "status": "finished",
+  "season": "fall",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b116222-xKFmhAe7QoAL.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "116222",
+      "url": "https://anilist.co/anime/116222"
+    },
+    "mal": {
+      "id": "41199",
+      "url": "https://myanimelist.net/anime/41199"
+    }
+  }
+}

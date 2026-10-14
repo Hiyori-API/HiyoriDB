@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14595,
+  "slug": "shin-lupin-iii",
+  "kind": "manga",
+  "title": "Shin Lupin III",
+  "titles": {
+    "default": "Shin Lupin III"
+  },
+  "synonyms": [
+    "Shin Lupin Sansei",
+    "New Lupin III",
+    "Lupin III: World's Most Wanted",
+    "新ルパン三世",
+    "NonNonBa",
+    "Nonnonbaa to Ore",
+    "のんのんばあとオレ"
+  ],
+  "type": "manga",
+  "chapters": 187,
+  "volumes": 21,
+  "status": "finished",
+  "year": 1977,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx35733-TyRLWfkytasx.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1426",
+      "url": "https://anilist.co/anime/1426"
+    },
+    "al_manga": {
+      "id": "1426",
+      "url": "https://anilist.co/manga/1426"
+    }
+  }
+}

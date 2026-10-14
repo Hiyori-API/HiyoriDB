@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2461,
+  "slug": "sf-shin-seiki-lensman",
+  "kind": "anime",
+  "title": "SF Shin Seiki Lensman",
+  "titles": {
+    "default": "SF Shin Seiki Lensman",
+    "romaji": "SF Shin Seiki Lensman",
+    "english": "Lensman",
+    "native": "SF新世紀レンズマン"
+  },
+  "synonyms": [
+    "SF Shin Seiki Lensman",
+    "Lensman",
+    "SF新世紀レンズマン",
+    "Science Fiction New Century Lensman",
+    "Lensman Movie",
+    "Lensman: Secret of the Lense",
+    "SF Shinseiki Lensman",
+    "SF新世紀 レンズマン"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1984,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2770.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2770",
+      "url": "https://anilist.co/anime/2770"
+    },
+    "k": {
+      "id": "2528",
+      "url": "https://kitsu.io/anime/2528"
+    },
+    "mal": {
+      "id": "2770",
+      "url": "https://myanimelist.net/anime/2770"
+    }
+  }
+}

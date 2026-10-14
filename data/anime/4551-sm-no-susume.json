@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4551,
+  "slug": "sm-no-susume",
+  "kind": "anime",
+  "title": "SM no Susume",
+  "titles": {
+    "default": "SM no Susume",
+    "romaji": "SM no Susume",
+    "native": "SMノススメ"
+  },
+  "synonyms": [
+    "SM no Susume",
+    "SMノススメ",
+    "Kai Doh Maru",
+    "怪童丸",
+    "Kaidoumaru",
+    "Kaidomaru"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7154.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7154",
+      "url": "https://anilist.co/anime/7154"
+    },
+    "k": {
+      "id": "1457",
+      "url": "https://kitsu.io/anime/1457"
+    },
+    "mal": {
+      "id": "7154",
+      "url": "https://myanimelist.net/anime/7154"
+    }
+  }
+}

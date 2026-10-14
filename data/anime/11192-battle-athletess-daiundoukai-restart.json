@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11192,
+  "slug": "battle-athletess-daiundoukai-restart",
+  "kind": "anime",
+  "title": "Battle Athletess Daiundoukai: ReSTART!",
+  "titles": {
+    "default": "Battle Athletess Daiundoukai: ReSTART!",
+    "romaji": "Battle Athletess Daiundoukai: ReSTART!",
+    "english": "Battle Athletes Victory ReSTART!",
+    "native": "バトルアスリーテス 大運動会ReSTART!"
+  },
+  "synonyms": [
+    "Battle Athletess Daiundoukai: ReSTART!",
+    "Battle Athletes Victory ReSTART!",
+    "バトルアスリーテス 大運動会ReSTART!",
+    "Backflip!!",
+    "バクテン!!",
+    "Bakuten!!"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120534-KfgwJhYlMAPY.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "120534",
+      "url": "https://anilist.co/anime/120534"
+    },
+    "cr": {
+      "id": "battle-athletes-victory-restart",
+      "url": "https://www.crunchyroll.com/series/battle-athletes-victory-restart"
+    },
+    "mal": {
+      "id": "42321",
+      "url": "https://myanimelist.net/anime/42321"
+    },
+    "tx": {
+      "id": "daiundokai_r",
+      "url": "https://twitter.com/daiundokai_r"
+    }
+  }
+}

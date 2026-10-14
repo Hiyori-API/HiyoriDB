@@ -1,0 +1,31 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14962,
+  "slug": "tenkuu-senki-shurato",
+  "kind": "manga",
+  "title": "Tenkuu Senki Shurato",
+  "titles": {
+    "default": "Tenkuu Senki Shurato"
+  },
+  "synonyms": [
+    "天空戦記シュラト",
+    "Tenkuu Senki Shurato"
+  ],
+  "type": "manga",
+  "volumes": 2,
+  "status": "finished",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/45501.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2113",
+      "url": "https://anilist.co/anime/2113"
+    },
+    "al_manga": {
+      "id": "2113",
+      "url": "https://anilist.co/manga/2113"
+    }
+  }
+}

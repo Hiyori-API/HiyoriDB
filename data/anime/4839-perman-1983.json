@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4839,
+  "slug": "perman-1983",
+  "kind": "anime",
+  "title": "Perman (1983)",
+  "titles": {
+    "default": "Perman (1983)",
+    "romaji": "Perman (1983)",
+    "english": "Superkid (1983)",
+    "native": "パーマン (1983)"
+  },
+  "synonyms": [
+    "Perman (1983)",
+    "Superkid (1983)",
+    "パーマン (1983)",
+    "Paman (1983)",
+    "Paaman (1983)",
+    "Super Boy Perman (1983)",
+    "P-Man",
+    "Perman",
+    "Superkid",
+    "パーマン",
+    "Paaman",
+    "Paman",
+    "Super Boy Perman",
+    "Paa man",
+    "P-man",
+    "Paaman TV 2"
+  ],
+  "type": "tv",
+  "episodes": 526,
+  "status": "finished",
+  "season": "spring",
+  "year": 1983,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11595.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11595",
+      "url": "https://anilist.co/anime/11595"
+    },
+    "k": {
+      "id": "6545",
+      "url": "https://kitsu.io/anime/6545"
+    },
+    "mal": {
+      "id": "11595",
+      "url": "https://myanimelist.net/anime/11595"
+    }
+  }
+}

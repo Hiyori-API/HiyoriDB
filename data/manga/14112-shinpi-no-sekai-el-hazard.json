@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14112,
+  "slug": "shinpi-no-sekai-el-hazard",
+  "kind": "manga",
+  "title": "Shinpi no Sekai El-Hazard",
+  "titles": {
+    "default": "Shinpi no Sekai El-Hazard"
+  },
+  "synonyms": [
+    "El Hazard - Shimpi no Sekai",
+    "El Hazard - The Magnificent World",
+    "神秘の世界エルハザード",
+    "The Life and Times of an Idiot Section Chief",
+    "Kachou Baka Ichidachi",
+    "課長バカ一代",
+    "Kachou Baka Ichidai"
+  ],
+  "type": "manga",
+  "chapters": 15,
+  "volumes": 3,
+  "status": "finished",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/31114-BAS29bHhVo59.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "117",
+      "url": "https://anilist.co/anime/117"
+    },
+    "al_manga": {
+      "id": "117",
+      "url": "https://anilist.co/manga/117"
+    }
+  }
+}

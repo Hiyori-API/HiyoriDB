@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6221,
+  "slug": "youchien-senshi-hanamaru-girls",
+  "kind": "anime",
+  "title": "Youchien Senshi: Hanamaru Girls",
+  "titles": {
+    "default": "Youchien Senshi: Hanamaru Girls",
+    "romaji": "Youchien Senshi: Hanamaru Girls",
+    "native": "幼稚園戦士 はなまるガールズ"
+  },
+  "synonyms": [
+    "Youchien Senshi: Hanamaru Girls",
+    "幼稚園戦士 はなまるガールズ",
+    "Kindergarten Warriors: Hanamaru Girls"
+  ],
+  "type": "special",
+  "episodes": 3,
+  "status": "finished",
+  "season": "summer",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16648.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "16648",
+      "url": "https://anilist.co/anime/16648"
+    },
+    "k": {
+      "id": "7482",
+      "url": "https://kitsu.io/anime/7482"
+    },
+    "mal": {
+      "id": "16648",
+      "url": "https://myanimelist.net/anime/16648"
+    }
+  }
+}

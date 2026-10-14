@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1258,
+  "slug": "lupin-iii-napoleon-no-jisho-wo-ubae",
+  "kind": "anime",
+  "title": "Lupin III: Napoleon no Jisho wo Ubae",
+  "titles": {
+    "default": "Lupin III: Napoleon no Jisho wo Ubae",
+    "romaji": "Lupin III: Napoleon no Jisho wo Ubae",
+    "english": "Lupin the 3rd: Napoleon's Dictionary",
+    "native": "ルパン三世『ナポレオンの辞書を奪え』"
+  },
+  "synonyms": [
+    "Lupin III: Napoleon no Jisho wo Ubae",
+    "Lupin the 3rd: Napoleon's Dictionary",
+    "ルパン三世『ナポレオンの辞書を奪え』",
+    "Rupan Sansei: Napoleon no Jisho wo Ubae",
+    "Lupin III: Steal Napoleon's Dictionary",
+    "Edgar de la Cambriole : Le Dictionnaire de Napoléon",
+    "Lupin III: Napoleon's Dictionary",
+    "Lupin III - Ruba il dizionario di Napoleone!",
+    "Lupin III - Il tesoro degli avi",
+    "Lupin the Third: Napoleon",
+    "Lupin III: Napoleon"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1423-UwqCv3CNMcnc.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1423",
+      "url": "https://anilist.co/anime/1423"
+    },
+    "k": {
+      "id": "1276",
+      "url": "https://kitsu.io/anime/1276"
+    },
+    "mal": {
+      "id": "1423",
+      "url": "https://myanimelist.net/anime/1423"
+    }
+  }
+}

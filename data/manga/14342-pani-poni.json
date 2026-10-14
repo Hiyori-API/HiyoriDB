@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14342,
+  "slug": "pani-poni",
+  "kind": "manga",
+  "title": "Pani Poni",
+  "titles": {
+    "default": "Pani Poni"
+  },
+  "synonyms": [
+    "PaniPoni",
+    "Pani-Poni",
+    "ぱにぽに",
+    "Mushrambo",
+    "マシュランボー",
+    "Mashuranboo"
+  ],
+  "type": "manga",
+  "chapters": 240,
+  "volumes": 17,
+  "status": "finished",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33002-6bpHmJCDiWvj.png"
+  ],
+  "references": {
+    "al": {
+      "id": "490",
+      "url": "https://anilist.co/anime/490"
+    },
+    "al_manga": {
+      "id": "490",
+      "url": "https://anilist.co/manga/490"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13804,
+  "slug": "erementar-gerad-aozora-no-senki",
+  "kind": "manga",
+  "title": "EREMENTAR GERAD: Aozora no Senki",
+  "titles": {
+    "default": "EREMENTAR GERAD: Aozora no Senki"
+  },
+  "synonyms": [
+    "Elemental Gelade: Flag of Bluesky",
+    "Elemental Gelade: Flag Of The Blue Sky",
+    "Erementar Gerad: Flag of Bluesky",
+    "Erementar Gerade: Flag of Bluesky",
+    "EREMENTAR GERAD －蒼空の戦旗－",
+    "Yotsuba&!",
+    "Yotsubato!",
+    "よつばと!"
+  ],
+  "type": "manga",
+  "status": "publishing",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30115-dZrOAyjMTS1Z.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "17693",
+      "url": "https://anilist.co/anime/17693"
+    },
+    "al_manga": {
+      "id": "17693",
+      "url": "https://anilist.co/manga/17693"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11949,
+  "slug": "rock-n-oyone",
+  "kind": "anime",
+  "title": "Rock'n Oyone",
+  "titles": {
+    "default": "Rock'n Oyone",
+    "romaji": "Rock'n Oyone",
+    "native": "ロックンおヨネ"
+  },
+  "synonyms": [
+    "Rock'n Oyone",
+    "ロックンおヨネ",
+    "Anime no Tane 2022",
+    "Young Animator Training Project 2022",
+    "School Days ONA",
+    "スクールデイズ",
+    "School Days"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155913-C4STRd86RyUs.png"
+  ],
+  "references": {
+    "al": {
+      "id": "155913",
+      "url": "https://anilist.co/anime/155913"
+    },
+    "k": {
+      "id": "678",
+      "url": "https://kitsu.io/anime/678"
+    },
+    "mal": {
+      "id": "51413",
+      "url": "https://myanimelist.net/anime/51413"
+    }
+  }
+}

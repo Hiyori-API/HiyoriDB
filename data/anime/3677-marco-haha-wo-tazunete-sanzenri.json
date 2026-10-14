@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3677,
+  "slug": "marco-haha-wo-tazunete-sanzenri",
+  "kind": "anime",
+  "title": "Marco: Haha wo Tazunete Sanzenri",
+  "titles": {
+    "default": "Marco: Haha wo Tazunete Sanzenri",
+    "romaji": "Marco: Haha wo Tazunete Sanzenri",
+    "native": "Marco: 母をたずねて三千里"
+  },
+  "synonyms": [
+    "Marco: Haha wo Tazunete Sanzenri",
+    "Marco: 母をたずねて三千里",
+    "Marco ~Haha wo Tazunete Sanzen Ri~",
+    "Marco the Movie - 3000 Leagues in Search of Mother",
+    "From the Apennines to the Andes: The Movie",
+    "Marco Movie: Haha eo Tazunete Sanzenri"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4926-M3niJH1XYP2P.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4926",
+      "url": "https://anilist.co/anime/4926"
+    },
+    "k": {
+      "id": "3851",
+      "url": "https://kitsu.io/anime/3851"
+    },
+    "mal": {
+      "id": "4926",
+      "url": "https://myanimelist.net/anime/4926"
+    }
+  }
+}

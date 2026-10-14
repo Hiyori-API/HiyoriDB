@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 411,
+  "slug": "wei-kreuz-gl-hen",
+  "kind": "anime",
+  "title": "Weiß kreuz Glühen",
+  "titles": {
+    "default": "Weiß kreuz Glühen",
+    "romaji": "Weiß kreuz Glühen",
+    "english": "Knight Hunters Eternity",
+    "native": "ヴァイスクロイツ・グリーエン"
+  },
+  "synonyms": [
+    "Weiß kreuz Glühen",
+    "Knight Hunters Eternity",
+    "ヴァイスクロイツ・グリーエン",
+    "Weiss Kreuz Gluehen",
+    "White Cross Glowing",
+    "Weiß Kreuz Glühen"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx446-RSMnmUSP8iZo.png"
+  ],
+  "references": {
+    "al": {
+      "id": "446",
+      "url": "https://anilist.co/anime/446"
+    },
+    "k": {
+      "id": "409",
+      "url": "https://kitsu.io/anime/409"
+    },
+    "mal": {
+      "id": "446",
+      "url": "https://myanimelist.net/anime/446"
+    },
+    "t": {
+      "id": "64566",
+      "url": "https://trakt.tv/shows/64566"
+    }
+  }
+}

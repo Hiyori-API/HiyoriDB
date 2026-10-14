@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7698,
+  "slug": "ano-natsu-de-matteru-bokutachi-wa-koukou-saigo-no-natsu-wo-sugoshinagara-ano-natsu-de-matteru",
+  "kind": "anime",
+  "title": "Ano Natsu de Matteru: Bokutachi wa Koukou Saigo no Natsu wo Sugoshinagara, Ano Natsu de Matteru.",
+  "titles": {
+    "default": "Ano Natsu de Matteru: Bokutachi wa Koukou Saigo no Natsu wo Sugoshinagara, Ano Natsu de Matteru.",
+    "romaji": "Ano Natsu de Matteru: Bokutachi wa Koukou Saigo no Natsu wo Sugoshinagara, Ano Natsu de Matteru.",
+    "english": "Waiting in the Summer OVA",
+    "native": "あの夏を待っている 僕達は高校最後の夏を過ごしながら、あの夏を待っている。"
+  },
+  "synonyms": [
+    "Ano Natsu de Matteru: Bokutachi wa Koukou Saigo no Natsu wo Sugoshinagara, Ano Natsu de Matteru.",
+    "Waiting in the Summer OVA",
+    "あの夏を待っている 僕達は高校最後の夏を過ごしながら、あの夏を待っている。",
+    "Natsumachi OVA",
+    "Girls & Panzer: Kore ga Hontou no Anzio-sen desu!",
+    "Girls & Panzer: This is the Real Anzio Battle!",
+    "ガールズ&パンツァー　これが本当のアンツィオ戦です！",
+    "Girls und Panzer OVA",
+    "Girls und Panzer: This is the true battle of Anzio!"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx20659-QjdqWaC05Tsn.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "20659",
+      "url": "https://anilist.co/anime/20659"
+    },
+    "k": {
+      "id": "7981",
+      "url": "https://kitsu.io/anime/7981"
+    },
+    "mal": {
+      "id": "23447",
+      "url": "https://myanimelist.net/anime/23447"
+    },
+    "tx": {
+      "id": "NatsumachiAnime",
+      "url": "https://twitter.com/NatsumachiAnime"
+    }
+  }
+}

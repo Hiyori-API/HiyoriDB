@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9411,
+  "slug": "slide",
+  "kind": "anime",
+  "title": "SLIDE",
+  "titles": {
+    "default": "SLIDE",
+    "romaji": "SLIDE"
+  },
+  "synonyms": [
+    "SLIDE",
+    "Slide (2015)",
+    "Gundam Build Fighters: GM's Counterattack",
+    "ガンダムビルドファイターズ GMの逆襲",
+    "Gundam Build Fighters: GM no Gyakushuu"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102454-gmr1k5Vsd0M0.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "102454",
+      "url": "https://anilist.co/anime/102454"
+    },
+    "mal": {
+      "id": "37775",
+      "url": "https://myanimelist.net/anime/37775"
+    }
+  }
+}

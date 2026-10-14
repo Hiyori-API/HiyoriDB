@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10068,
+  "slug": "egao-no-daika",
+  "kind": "anime",
+  "title": "Egao no Daika",
+  "titles": {
+    "default": "Egao no Daika",
+    "romaji": "Egao no Daika",
+    "english": "The Price of Smiles",
+    "native": "エガオノダイカ"
+  },
+  "synonyms": [
+    "Egao no Daika",
+    "The Price of Smiles",
+    "エガオノダイカ",
+    "The Cost of Smiles",
+    "The Promised Neverland",
+    "約束のネバーランド",
+    "Yakusoku no Neverland"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx104674-jnKhbLm4PNyy.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "104674",
+      "url": "https://anilist.co/anime/104674"
+    },
+    "cr": {
+      "id": "the-price-of-smiles",
+      "url": "https://www.crunchyroll.com/series/the-price-of-smiles"
+    },
+    "mal": {
+      "id": "38544",
+      "url": "https://myanimelist.net/anime/38544"
+    },
+    "tx": {
+      "id": "egaonodaika",
+      "url": "https://twitter.com/egaonodaika"
+    }
+  }
+}

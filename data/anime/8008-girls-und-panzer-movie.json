@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8008,
+  "slug": "girls-und-panzer-movie",
+  "kind": "anime",
+  "title": "Girls und Panzer Movie",
+  "titles": {
+    "default": "Girls und Panzer Movie",
+    "romaji": "Girls und Panzer Movie",
+    "english": "Girls und Panzer der Film",
+    "native": "ガールズ&パンツァー 劇場版"
+  },
+  "synonyms": [
+    "Girls und Panzer Movie",
+    "Girls und Panzer der Film",
+    "ガールズ&パンツァー 劇場版",
+    "Girls & Panzer Movie",
+    "Gekijouban Girls und Panzer",
+    "Girls & Panzer Gekijouban"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx18617-bzfsyLDahhm8.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "18617",
+      "url": "https://anilist.co/anime/18617"
+    },
+    "k": {
+      "id": "7904",
+      "url": "https://kitsu.io/anime/7904"
+    },
+    "mal": {
+      "id": "18617",
+      "url": "https://myanimelist.net/anime/18617"
+    },
+    "nf": {
+      "id": "80159876",
+      "url": "https://www.netflix.com/title/80159876"
+    },
+    "tx": {
+      "id": "garupan",
+      "url": "https://twitter.com/garupan"
+    }
+  }
+}

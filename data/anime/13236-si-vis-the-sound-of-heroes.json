@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13236,
+  "slug": "si-vis-the-sound-of-heroes",
+  "kind": "anime",
+  "title": "SI-VIS: The Sound of Heroes",
+  "titles": {
+    "default": "SI-VIS: The Sound of Heroes",
+    "romaji": "SI-VIS: The Sound of Heroes"
+  },
+  "synonyms": [
+    "SI-VIS: The Sound of Heroes",
+    "シーヴィス",
+    "Desert Punk",
+    "Sunabouzu",
+    "砂ぼうず",
+    "Sunabozu"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "fall",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196553-D3VP02WhYXsX.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "196553",
+      "url": "https://anilist.co/anime/196553"
+    },
+    "cr": {
+      "id": "series/G4PH0WJ8V/si-vis-the-sound-of-heroes",
+      "url": "https://www.crunchyroll.com/series/series/G4PH0WJ8V/si-vis-the-sound-of-heroes"
+    },
+    "k": {
+      "id": "16",
+      "url": "https://kitsu.io/anime/16"
+    },
+    "mal": {
+      "id": "62126",
+      "url": "https://myanimelist.net/anime/62126"
+    },
+    "t": {
+      "id": "31532",
+      "url": "https://trakt.tv/shows/31532"
+    }
+  }
+}

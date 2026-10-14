@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1935,
+  "slug": "tank-s-w-a-t-01",
+  "kind": "anime",
+  "title": "Tank S.W.A.T. 01",
+  "titles": {
+    "default": "Tank S.W.A.T. 01",
+    "romaji": "Tank S.W.A.T. 01",
+    "native": "警察戦車隊"
+  },
+  "synonyms": [
+    "Tank S.W.A.T. 01",
+    "警察戦車隊",
+    "Keisatsu Sensha Tai TANK S.W.A.T. 01",
+    "Keisatsu Sensha Tai TANK SWAT 01",
+    "TANK S.W.A.T. 01"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2181.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2181",
+      "url": "https://anilist.co/anime/2181"
+    },
+    "k": {
+      "id": "1975",
+      "url": "https://kitsu.io/anime/1975"
+    },
+    "mal": {
+      "id": "2181",
+      "url": "https://myanimelist.net/anime/2181"
+    }
+  }
+}

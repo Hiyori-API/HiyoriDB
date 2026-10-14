@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13819,
+  "slug": "beck",
+  "kind": "manga",
+  "title": "BECK",
+  "titles": {
+    "default": "BECK"
+  },
+  "synonyms": [
+    "ベック",
+    "Beck: Mongolian Chop Squad",
+    "BECK",
+    "BECK: Mongolian Chop Squad",
+    "Beck"
+  ],
+  "type": "manga",
+  "chapters": 103,
+  "volumes": 34,
+  "status": "finished",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30145-ipNuwNgD5AJS.png"
+  ],
+  "references": {
+    "al": {
+      "id": "57",
+      "url": "https://anilist.co/anime/57"
+    },
+    "al_manga": {
+      "id": "57",
+      "url": "https://anilist.co/manga/57"
+    }
+  }
+}

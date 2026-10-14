@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8688,
+  "slug": "amaama-to-inazuma",
+  "kind": "anime",
+  "title": "Amaama to Inazuma",
+  "titles": {
+    "default": "Amaama to Inazuma",
+    "romaji": "Amaama to Inazuma",
+    "english": "Sweetness & Lightning",
+    "native": "甘々と稲妻"
+  },
+  "synonyms": [
+    "Amaama to Inazuma",
+    "Sweetness & Lightning",
+    "甘々と稲妻"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21659-r1nnqXPIcl9D.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21659",
+      "url": "https://anilist.co/anime/21659"
+    },
+    "mal": {
+      "id": "32828",
+      "url": "https://myanimelist.net/anime/32828"
+    },
+    "tx": {
+      "id": "amaama_anime",
+      "url": "https://twitter.com/amaama_anime"
+    }
+  }
+}

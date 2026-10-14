@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10896,
+  "slug": "yawaraka-atom",
+  "kind": "anime",
+  "title": "Yawaraka Atom",
+  "titles": {
+    "default": "Yawaraka Atom",
+    "romaji": "Yawaraka Atom",
+    "native": "やわらかアトム"
+  },
+  "synonyms": [
+    "Yawaraka Atom",
+    "やわらかアトム",
+    "Soft Atom"
+  ],
+  "type": "ona",
+  "episodes": 4,
+  "status": "finished",
+  "season": "fall",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126871-brLd2TltNzlt.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "126871",
+      "url": "https://anilist.co/anime/126871"
+    },
+    "k": {
+      "id": "9062",
+      "url": "https://kitsu.io/anime/9062"
+    },
+    "mal": {
+      "id": "21277",
+      "url": "https://myanimelist.net/anime/21277"
+    }
+  }
+}

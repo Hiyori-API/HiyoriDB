@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7431,
+  "slug": "hunter-hunter-the-last-mission",
+  "kind": "anime",
+  "title": "HUNTER×HUNTER: THE LAST MISSION",
+  "titles": {
+    "default": "HUNTER×HUNTER: THE LAST MISSION",
+    "romaji": "HUNTER×HUNTER: THE LAST MISSION",
+    "english": "Hunter x Hunter: The Last Mission",
+    "native": "劇場版 HUNTER×HUNTER THE LAST MISSION"
+  },
+  "synonyms": [
+    "HUNTER×HUNTER: THE LAST MISSION",
+    "Hunter x Hunter: The Last Mission",
+    "劇場版 HUNTER×HUNTER THE LAST MISSION",
+    "HxH",
+    "HxH: The Last Mission",
+    "Hunter x Hunter: A Última Missão",
+    "Hunter x Hunter Movie 2: The Last Mission",
+    "劇場版 HUNTERxHUNTER THE LAST MISSION",
+    "Gekijouban Hunter x Hunter"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx19951-kouyrYvcEyGP.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "19951",
+      "url": "https://anilist.co/anime/19951"
+    },
+    "k": {
+      "id": "7908",
+      "url": "https://kitsu.io/anime/7908"
+    },
+    "mal": {
+      "id": "19951",
+      "url": "https://myanimelist.net/anime/19951"
+    },
+    "nf": {
+      "id": "80108453",
+      "url": "https://www.netflix.com/title/80108453"
+    }
+  }
+}

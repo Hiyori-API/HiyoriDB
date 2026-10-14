@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10596,
+  "slug": "origami-ninja-koyan-kintele",
+  "kind": "anime",
+  "title": "Origami Ninja Koyan @ KinTele",
+  "titles": {
+    "default": "Origami Ninja Koyan @ KinTele",
+    "romaji": "Origami Ninja Koyan @ KinTele",
+    "native": "おりがみにんじゃ コーヤン＠きんてれ"
+  },
+  "synonyms": [
+    "Origami Ninja Koyan @ KinTele",
+    "おりがみにんじゃ コーヤン＠きんてれ",
+    "Happy Smile ♡ Dream",
+    "Lord of the Mysteries",
+    "Lord of Mysteries",
+    "诡秘之主",
+    "Guimi Zhi Zhu"
+  ],
+  "type": "tv",
+  "status": "airing",
+  "season": "spring",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116787-bY3XdWwCXTV9.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "116787",
+      "url": "https://anilist.co/anime/116787"
+    },
+    "mal": {
+      "id": "41458",
+      "url": "https://myanimelist.net/anime/41458"
+    },
+    "tvt": {
+      "id": "kinder",
+      "url": "http://www.tv-tokyo.co.jp/anime/kinder"
+    }
+  }
+}

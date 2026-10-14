@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4740,
+  "slug": "chogattai-majutsu-robot-ginguiser",
+  "kind": "anime",
+  "title": "Chogattai Majutsu Robot Ginguiser",
+  "titles": {
+    "default": "Chogattai Majutsu Robot Ginguiser",
+    "romaji": "Chogattai Majutsu Robot Ginguiser",
+    "native": "超合体魔術ロボ　ギンガイザー"
+  },
+  "synonyms": [
+    "Chogattai Majutsu Robot Ginguiser",
+    "超合体魔術ロボ　ギンガイザー",
+    "Ultra-Transforming Magic Robot Ginguiser"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 1977,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8375.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8375",
+      "url": "https://anilist.co/anime/8375"
+    },
+    "k": {
+      "id": "5321",
+      "url": "https://kitsu.io/anime/5321"
+    },
+    "mal": {
+      "id": "8375",
+      "url": "https://myanimelist.net/anime/8375"
+    }
+  }
+}

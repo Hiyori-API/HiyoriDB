@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14843,
+  "slug": "gu-gu-ganmo",
+  "kind": "manga",
+  "title": "Gu-Gu Ganmo",
+  "titles": {
+    "default": "Gu-Gu Ganmo"
+  },
+  "synonyms": [
+    "Gu Gu Ganmo",
+    "Gu-Guガンモ",
+    "Tetsu no Don Quixote",
+    "鉄のドンキホーテ",
+    "Iron Don Quixote",
+    "Mad Fighter",
+    "Hokuto no Ken The Origins",
+    "Hokuto no Ken Pilot"
+  ],
+  "type": "manga",
+  "chapters": 146,
+  "volumes": 12,
+  "status": "finished",
+  "year": 1982,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx141232-MTTtPVTwOufR.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "19751",
+      "url": "https://anilist.co/anime/3020"
+    },
+    "al_manga": {
+      "id": "19751",
+      "url": "https://anilist.co/manga/19751"
+    }
+  }
+}

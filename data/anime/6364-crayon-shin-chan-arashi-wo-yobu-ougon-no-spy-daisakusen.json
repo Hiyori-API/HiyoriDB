@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6364,
+  "slug": "crayon-shin-chan-arashi-wo-yobu-ougon-no-spy-daisakusen",
+  "kind": "anime",
+  "title": "Crayon Shin-chan: Arashi wo Yobu Ougon no Spy Daisakusen",
+  "titles": {
+    "default": "Crayon Shin-chan: Arashi wo Yobu Ougon no Spy Daisakusen",
+    "romaji": "Crayon Shin-chan: Arashi wo Yobu Ougon no Spy Daisakusen",
+    "native": "映画 クレヨンしんちゃん 嵐を呼ぶ黄金のスパイ大作戦"
+  },
+  "synonyms": [
+    "Crayon Shin-chan: Arashi wo Yobu Ougon no Spy Daisakusen",
+    "映画 クレヨンしんちゃん 嵐を呼ぶ黄金のスパイ大作戦",
+    "Eiga Crayon Shin-chan: Arashi wo Yobu Ougon no Spy Daisakusen",
+    "Shin-chan: Operación espía de oro",
+    "BUDDHA",
+    "Tezuka Osamu no Buddha: Akai Sabaku yo! Utsukushiku",
+    "手塚治虫のブッダ－赤い砂漠よ！美しく－",
+    "Osamu Tezuka's Buddha Movie 1: The Red Desert! It's Beautiful",
+    "Buddha: The Great Departure"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b10116-FUPSYjkzWZkI.png"
+  ],
+  "references": {
+    "al": {
+      "id": "10116",
+      "url": "https://anilist.co/anime/10116"
+    },
+    "k": {
+      "id": "4831",
+      "url": "https://kitsu.io/anime/4831"
+    },
+    "mal": {
+      "id": "10116",
+      "url": "https://myanimelist.net/anime/10116"
+    }
+  }
+}

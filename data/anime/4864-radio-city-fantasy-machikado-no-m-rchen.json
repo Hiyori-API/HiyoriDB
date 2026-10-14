@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4864,
+  "slug": "radio-city-fantasy-machikado-no-m-rchen",
+  "kind": "anime",
+  "title": "Radio City Fantasy: Machikado no Märchen",
+  "titles": {
+    "default": "Radio City Fantasy: Machikado no Märchen",
+    "romaji": "Radio City Fantasy: Machikado no Märchen",
+    "native": "Radio City Fantasy 街角のメルヘン"
+  },
+  "synonyms": [
+    "Radio City Fantasy: Machikado no Märchen",
+    "Radio City Fantasy 街角のメルヘン",
+    "Machikado no Meruhen",
+    "Machikado no Märchen"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1984,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11221-1m1uCP08c3z9.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11221",
+      "url": "https://anilist.co/anime/11221"
+    },
+    "k": {
+      "id": "6476",
+      "url": "https://kitsu.io/anime/6476"
+    },
+    "mal": {
+      "id": "11221",
+      "url": "https://myanimelist.net/anime/11221"
+    }
+  }
+}

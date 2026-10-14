@@ -1,0 +1,61 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11431,
+  "slug": "waccha-primagi",
+  "kind": "anime",
+  "title": "Waccha PriMagi!",
+  "titles": {
+    "default": "Waccha PriMagi!",
+    "romaji": "Waccha PriMagi!",
+    "native": "ワッチャプリマジ！"
+  },
+  "synonyms": [
+    "Waccha PriMagi!",
+    "ワッチャプリマジ！",
+    "Fullmetal Alchemist",
+    "Hagane no Renkinjutsushi",
+    "鋼の錬金術師",
+    "FMA",
+    "Full Metal Alchemist",
+    "Fullmetal Alchemist (2003)",
+    "HagaRen"
+  ],
+  "type": "tv",
+  "episodes": 51,
+  "status": "finished",
+  "season": "fall",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136119-vuJsJpnJeyL7.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "136119",
+      "url": "https://anilist.co/anime/136119"
+    },
+    "k": {
+      "id": "100",
+      "url": "https://kitsu.io/anime/100"
+    },
+    "mal": {
+      "id": "49285",
+      "url": "https://myanimelist.net/anime/49285"
+    },
+    "nf": {
+      "id": "70204980",
+      "url": "https://www.netflix.com/title/70204980"
+    },
+    "t": {
+      "id": "37705",
+      "url": "https://trakt.tv/shows/37705"
+    },
+    "tvt": {
+      "id": "primagi",
+      "url": "http://www.tv-tokyo.co.jp/anime/primagi"
+    },
+    "tx": {
+      "id": "PrettySeriesPR",
+      "url": "https://twitter.com/PrettySeriesPR"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8901,
+  "slug": "rance-01-hikari-wo-motomete-the-animation-eizou-tokuten-leazas-no-yami",
+  "kind": "anime",
+  "title": "Rance 01: Hikari wo Motomete THE ANIMATION - Eizou Tokuten \"Leazas no Yami\"",
+  "titles": {
+    "default": "Rance 01: Hikari wo Motomete THE ANIMATION - Eizou Tokuten \"Leazas no Yami\"",
+    "romaji": "Rance 01: Hikari wo Motomete THE ANIMATION - Eizou Tokuten \"Leazas no Yami\"",
+    "native": "ランス01 光をもとめて THE ANIMATION 映像特典「リーザスの闇」"
+  },
+  "synonyms": [
+    "Rance 01: Hikari wo Motomete THE ANIMATION - Eizou Tokuten \"Leazas no Yami\"",
+    "ランス01 光をもとめて THE ANIMATION 映像特典「リーザスの闇」",
+    "Rance 01: The Quest for Hikari Extra",
+    "Rance 01: The Quest for Hikari Exclusive Video -The Darkness of Leazas-",
+    "Rance 01: Hikari wo Motomete The Animation Bonus Video",
+    "Working!!! Episode 14",
+    "WORKING!!! 第14話「ロード・オブ・ザ・小鳥遊」",
+    "Working!!! Lord of the Takanashi"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98971-Fy82dolF9ohs.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98971",
+      "url": "https://anilist.co/anime/98971"
+    },
+    "mal": {
+      "id": "33104",
+      "url": "https://myanimelist.net/anime/33104"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6420,
+  "slug": "spelunker-sensei",
+  "kind": "anime",
+  "title": "Spelunker Sensei",
+  "titles": {
+    "default": "Spelunker Sensei",
+    "romaji": "Spelunker Sensei",
+    "english": "Spelunker Is a Teacher",
+    "native": "スペランカー先生"
+  },
+  "synonyms": [
+    "Spelunker Sensei",
+    "Spelunker Is a Teacher",
+    "スペランカー先生",
+    "Cat Planet Cuties: Come Drop By",
+    "Asobi ni Iku yo!: Asobi ni Oide",
+    "あそびにいくヨ! あそびにおいで",
+    "Asobi ni Ikuyo! OVA",
+    "Let's Go Play! OVA",
+    "Asobi ni Ikuyo: Bombshells from the Sky OVA",
+    "Cat Planet Cuties OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10406.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10406",
+      "url": "https://anilist.co/anime/10406"
+    },
+    "k": {
+      "id": "5811",
+      "url": "https://kitsu.io/anime/5811"
+    },
+    "mal": {
+      "id": "10406",
+      "url": "https://myanimelist.net/anime/10406"
+    }
+  }
+}

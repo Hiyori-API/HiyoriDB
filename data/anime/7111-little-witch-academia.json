@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7111,
+  "slug": "little-witch-academia",
+  "kind": "anime",
+  "title": "Little Witch Academia",
+  "titles": {
+    "default": "Little Witch Academia",
+    "romaji": "Little Witch Academia",
+    "native": "リトルウィッチアカデミア"
+  },
+  "synonyms": [
+    "Little Witch Academia",
+    "リトルウィッチアカデミア",
+    "LWA",
+    "Wakate Animator Ikusei Project",
+    "2012 Young Animator Training Project",
+    "Anime Mirai 2012"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14349-zvSfbgjZr4LW.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "14349",
+      "url": "https://anilist.co/anime/14349"
+    },
+    "k": {
+      "id": "7115",
+      "url": "https://kitsu.io/anime/7115"
+    },
+    "mal": {
+      "id": "14349",
+      "url": "https://myanimelist.net/anime/14349"
+    }
+  }
+}

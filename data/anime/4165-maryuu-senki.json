@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4165,
+  "slug": "maryuu-senki",
+  "kind": "anime",
+  "title": "Maryuu Senki",
+  "titles": {
+    "default": "Maryuu Senki",
+    "romaji": "Maryuu Senki",
+    "native": "魔龍戦紀"
+  },
+  "synonyms": [
+    "Maryuu Senki",
+    "魔龍戦紀",
+    "Evil Dragon War Chronicles",
+    "Maryu Senki",
+    "Maryuu Hensei",
+    "Maryuu Shinken",
+    "Yotoden: Chronicle of the Warlord Period",
+    "Sengoku Kitan Youtouden",
+    "戦国奇譚妖刀伝",
+    "Sengoku Kidan Youtouden",
+    "Yotoden OVA"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "spring",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6061-yoUgV6WVJaKl.png"
+  ],
+  "references": {
+    "al": {
+      "id": "6061",
+      "url": "https://anilist.co/anime/6061"
+    },
+    "k": {
+      "id": "3134",
+      "url": "https://kitsu.io/anime/3134"
+    },
+    "mal": {
+      "id": "6061",
+      "url": "https://myanimelist.net/anime/6061"
+    }
+  }
+}

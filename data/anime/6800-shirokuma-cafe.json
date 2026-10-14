@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6800,
+  "slug": "shirokuma-cafe",
+  "kind": "anime",
+  "title": "Shirokuma Cafe",
+  "titles": {
+    "default": "Shirokuma Cafe",
+    "romaji": "Shirokuma Cafe",
+    "english": "Polar Bear's Café",
+    "native": "しろくまカフェ"
+  },
+  "synonyms": [
+    "Shirokuma Cafe",
+    "Polar Bear's Café",
+    "しろくまカフェ",
+    "Polar Bear Cafe",
+    "Shirokuma Café",
+    "Polar Bear Café"
+  ],
+  "type": "tv",
+  "episodes": 50,
+  "status": "finished",
+  "season": "spring",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12815.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12815",
+      "url": "https://anilist.co/anime/12815"
+    },
+    "cr": {
+      "id": "polar-bear-cafe",
+      "url": "https://www.crunchyroll.com/series/polar-bear-cafe"
+    },
+    "k": {
+      "id": "6821",
+      "url": "https://kitsu.io/anime/6821"
+    },
+    "mal": {
+      "id": "12815",
+      "url": "https://myanimelist.net/anime/12815"
+    },
+    "t": {
+      "id": "45603",
+      "url": "https://trakt.tv/shows/45603"
+    }
+  }
+}

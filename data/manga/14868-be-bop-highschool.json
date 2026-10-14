@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14868,
+  "slug": "be-bop-highschool",
+  "kind": "manga",
+  "title": "BE-BOP-HIGHSCHOOL",
+  "titles": {
+    "default": "BE-BOP-HIGHSCHOOL"
+  },
+  "synonyms": [
+    "ビーバップハイスクール",
+    "ビー・バップ・ハイスクール",
+    "BE-BOP-HIGHSCHOOL",
+    "Dragon Ball",
+    "ドラゴンボール",
+    "Dragonball",
+    "Dragon Ball Z",
+    "Dragonball Z"
+  ],
+  "type": "manga",
+  "chapters": 308,
+  "volumes": 48,
+  "status": "finished",
+  "year": 1984,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx42094-aa3zFQZFWIol.png"
+  ],
+  "references": {
+    "al": {
+      "id": "9645",
+      "url": "https://anilist.co/anime/9645"
+    },
+    "al_manga": {
+      "id": "9645",
+      "url": "https://anilist.co/manga/9645"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6634,
+  "slug": "himitsukessha-taka-no-tsume-the-planetarium-burabura-black-hole-no-nazo",
+  "kind": "anime",
+  "title": "Himitsukessha Taka no Tsume THE PLANETARIUM: Burabura! Black Hole no Nazo",
+  "titles": {
+    "default": "Himitsukessha Taka no Tsume THE PLANETARIUM: Burabura! Black Hole no Nazo",
+    "romaji": "Himitsukessha Taka no Tsume THE PLANETARIUM: Burabura! Black Hole no Nazo",
+    "english": "Eagle Talon the Planetarium: Mystery of the Black Hole",
+    "native": "秘密結社鷹の爪 THE PLANETARIUM: ブラブラ！ブラックホールの謎"
+  },
+  "synonyms": [
+    "Himitsukessha Taka no Tsume THE PLANETARIUM: Burabura! Black Hole no Nazo",
+    "Eagle Talon the Planetarium: Mystery of the Black Hole",
+    "秘密結社鷹の爪 THE PLANETARIUM: ブラブラ！ブラックホールの謎"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13499.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "13499",
+      "url": "https://anilist.co/anime/13499"
+    },
+    "k": {
+      "id": "6978",
+      "url": "https://kitsu.io/anime/6978"
+    },
+    "mal": {
+      "id": "13499",
+      "url": "https://myanimelist.net/anime/13499"
+    }
+  }
+}

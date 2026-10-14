@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14508,
+  "slug": "outlanders",
+  "kind": "manga",
+  "title": "Outlanders",
+  "titles": {
+    "default": "Outlanders"
+  },
+  "synonyms": [
+    "Out Landers",
+    "Outlanders",
+    "アウトランダーズ",
+    "Mai",
+    "Mai, The Psychic Girl",
+    "舞"
+  ],
+  "type": "manga",
+  "chapters": 33,
+  "volumes": 8,
+  "status": "finished",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx34281-lMTsclbOuVap.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1940",
+      "url": "https://anilist.co/anime/1940"
+    },
+    "al_manga": {
+      "id": "1940",
+      "url": "https://anilist.co/manga/1940"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 550,
+  "slug": "chobits-chibits-sumomo-kotoko-todokeru",
+  "kind": "anime",
+  "title": "Chobits: Chibits - Sumomo, Kotoko Todokeru",
+  "titles": {
+    "default": "Chobits: Chibits - Sumomo, Kotoko Todokeru",
+    "romaji": "Chobits: Chibits - Sumomo, Kotoko Todokeru",
+    "native": "ちょびっツ ちびっツ すもも・琴子　届ける"
+  },
+  "synonyms": [
+    "Chobits: Chibits - Sumomo, Kotoko Todokeru",
+    "ちょびっツ ちびっツ すもも・琴子　届ける",
+    "Chobits Special",
+    "Lupin the Third: Operation Return the Treasure",
+    "Lupin III: Otakara Henkyaku Daisakusen!!",
+    "Lupin III: Operation Return the Treasure",
+    "ルパン三世: お宝返却大作戦！！",
+    "Rupan Sansei"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/596.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "596",
+      "url": "https://anilist.co/anime/596"
+    },
+    "k": {
+      "id": "1277",
+      "url": "https://kitsu.io/anime/1277"
+    },
+    "mal": {
+      "id": "596",
+      "url": "https://myanimelist.net/anime/596"
+    }
+  }
+}

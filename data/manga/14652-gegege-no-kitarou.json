@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14652,
+  "slug": "gegege-no-kitarou",
+  "kind": "manga",
+  "title": "GeGeGe no Kitarou",
+  "titles": {
+    "default": "GeGeGe no Kitarou"
+  },
+  "synonyms": [
+    "Graveyard Kitarou",
+    "Hakaba no Kitarou",
+    "墓場の鬼太郎",
+    "Kitaro le repoussant",
+    "Kitaro dei cimiteri",
+    "GeGeGe no Kitaro",
+    "ゲゲゲの鬼太郎",
+    "Renai Soukanzu",
+    "恋愛相姦図",
+    "Renai Sokanzu",
+    "Pink Sweets"
+  ],
+  "type": "manga",
+  "chapters": 117,
+  "volumes": 12,
+  "status": "finished",
+  "year": 1965,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx40499-5wwifw9Od7Fy.png"
+  ],
+  "references": {
+    "al": {
+      "id": "176579",
+      "url": "https://anilist.co/anime/7619"
+    },
+    "al_manga": {
+      "id": "176579",
+      "url": "https://anilist.co/manga/176579"
+    }
+  }
+}

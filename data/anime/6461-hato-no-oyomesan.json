@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6461,
+  "slug": "hato-no-oyomesan",
+  "kind": "anime",
+  "title": "Hato no Oyomesan",
+  "titles": {
+    "default": "Hato no Oyomesan",
+    "romaji": "Hato no Oyomesan",
+    "native": "ハトのおよめさん"
+  },
+  "synonyms": [
+    "Hato no Oyomesan",
+    "ハトのおよめさん",
+    "Yuruani",
+    "Honto ni Atta! Reibai Sensei",
+    "ほんとにあった! 霊媒先生"
+  ],
+  "type": "tv",
+  "episodes": 22,
+  "status": "finished",
+  "season": "spring",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10539-qceiNljvIkXK.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10539",
+      "url": "https://anilist.co/anime/10539"
+    },
+    "k": {
+      "id": "6135",
+      "url": "https://kitsu.io/anime/6135"
+    },
+    "mal": {
+      "id": "10539",
+      "url": "https://myanimelist.net/anime/10539"
+    },
+    "t": {
+      "id": "65700",
+      "url": "https://trakt.tv/shows/65700"
+    }
+  }
+}

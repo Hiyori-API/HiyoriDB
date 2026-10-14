@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13400,
+  "slug": "saishuu-gakushou-hibike-euphonium-zenpen",
+  "kind": "anime",
+  "title": "Saishuu Gakushou Hibike! Euphonium - Zenpen",
+  "titles": {
+    "default": "Saishuu Gakushou Hibike! Euphonium - Zenpen",
+    "romaji": "Saishuu Gakushou Hibike! Euphonium - Zenpen",
+    "native": "最終楽章 響け！ユーフォニアム 前編"
+  },
+  "synonyms": [
+    "Saishuu Gakushou Hibike! Euphonium - Zenpen",
+    "最終楽章 響け！ユーフォニアム 前編",
+    "Sound! Euphonium, The Final Movie Part 1",
+    "Final Movement: Sound! Euphonium",
+    "Appleseed (Movie)",
+    "アップルシード",
+    "Appleseed (2004)"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188035-wTA4Yse8APa1.png"
+  ],
+  "references": {
+    "al": {
+      "id": "188035",
+      "url": "https://anilist.co/anime/188035"
+    },
+    "cr": {
+      "id": "series/GRDQNQW9Y/sound-euphonium",
+      "url": "https://www.crunchyroll.com/series/series/GRDQNQW9Y/sound-euphonium"
+    },
+    "k": {
+      "id": "35",
+      "url": "https://kitsu.io/anime/35"
+    },
+    "mal": {
+      "id": "61230",
+      "url": "https://myanimelist.net/anime/61230"
+    }
+  }
+}

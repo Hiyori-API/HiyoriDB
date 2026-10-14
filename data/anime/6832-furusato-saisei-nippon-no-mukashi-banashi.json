@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6832,
+  "slug": "furusato-saisei-nippon-no-mukashi-banashi",
+  "kind": "anime",
+  "title": "Furusato Saisei: Nippon no Mukashi Banashi",
+  "titles": {
+    "default": "Furusato Saisei: Nippon no Mukashi Banashi",
+    "romaji": "Furusato Saisei: Nippon no Mukashi Banashi",
+    "english": "Folktales from Japan",
+    "native": "ふるさと再生 日本の昔ばなし"
+  },
+  "synonyms": [
+    "Furusato Saisei: Nippon no Mukashi Banashi",
+    "Folktales from Japan",
+    "ふるさと再生 日本の昔ばなし",
+    "Furusato Saisei: Nippon no Mukashibanashi",
+    "Hometown Rebuilding: Folktales from Japan"
+  ],
+  "type": "tv",
+  "episodes": 258,
+  "status": "finished",
+  "season": "spring",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx13163-AhI6svZpXqty.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "13163",
+      "url": "https://anilist.co/anime/13163"
+    },
+    "cr": {
+      "id": "folktales-from-japan",
+      "url": "https://www.crunchyroll.com/series/folktales-from-japan"
+    },
+    "k": {
+      "id": "6897",
+      "url": "https://kitsu.io/anime/6897"
+    },
+    "mal": {
+      "id": "13163",
+      "url": "https://myanimelist.net/anime/13163"
+    },
+    "t": {
+      "id": "44686",
+      "url": "https://trakt.tv/shows/44686"
+    }
+  }
+}

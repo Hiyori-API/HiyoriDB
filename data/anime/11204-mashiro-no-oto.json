@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11204,
+  "slug": "mashiro-no-oto",
+  "kind": "anime",
+  "title": "Mashiro no Oto",
+  "titles": {
+    "default": "Mashiro no Oto",
+    "romaji": "Mashiro no Oto",
+    "english": "Those Snow White Notes",
+    "native": "ましろのおと"
+  },
+  "synonyms": [
+    "Mashiro no Oto",
+    "Those Snow White Notes",
+    "ましろのおと",
+    "This Ugly Yet Beautiful World",
+    "Kono Minikuku mo Utsukushii Sekai",
+    "この醜くも美しい世界"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122348-FawMIyUnMDW5.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "122348",
+      "url": "https://anilist.co/anime/122348"
+    },
+    "cr": {
+      "id": "those-snow-white-notes",
+      "url": "https://www.crunchyroll.com/series/those-snow-white-notes"
+    },
+    "k": {
+      "id": "124",
+      "url": "https://kitsu.io/anime/124"
+    },
+    "mal": {
+      "id": "42590",
+      "url": "https://myanimelist.net/anime/42590"
+    },
+    "t": {
+      "id": "34001",
+      "url": "https://trakt.tv/shows/34001"
+    },
+    "tx": {
+      "id": "mashironooto_pr",
+      "url": "https://twitter.com/mashironooto_pr"
+    }
+  }
+}

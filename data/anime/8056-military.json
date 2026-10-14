@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8056,
+  "slug": "military",
+  "kind": "anime",
+  "title": "Military!",
+  "titles": {
+    "default": "Military!",
+    "romaji": "Military!",
+    "native": "みりたり！"
+  },
+  "synonyms": [
+    "Military!",
+    "みりたり！",
+    "Militari!",
+    "みりたり!",
+    "Miritari!"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20793-xRbYORwAATLJ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "20793",
+      "url": "https://anilist.co/anime/20793"
+    },
+    "cr": {
+      "id": "military",
+      "url": "https://www.crunchyroll.com/series/military"
+    },
+    "k": {
+      "id": "8850",
+      "url": "https://kitsu.io/anime/8850"
+    },
+    "mal": {
+      "id": "26085",
+      "url": "https://myanimelist.net/anime/26085"
+    },
+    "t": {
+      "id": "82215",
+      "url": "https://trakt.tv/shows/82215"
+    }
+  }
+}

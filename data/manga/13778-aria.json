@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13778,
+  "slug": "aria",
+  "kind": "manga",
+  "title": "ARIA",
+  "titles": {
+    "default": "ARIA"
+  },
+  "synonyms": [
+    "アリア",
+    "Ария",
+    "Aria: The Masterpiece",
+    "Aria",
+    "ARIA",
+    "Aria The Masterpiece"
+  ],
+  "type": "manga",
+  "chapters": 67,
+  "volumes": 12,
+  "status": "finished",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30081-oCRaPkTGq4vP.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2563",
+      "url": "https://anilist.co/anime/4772"
+    },
+    "al_manga": {
+      "id": "2563",
+      "url": "https://anilist.co/manga/2563"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1437,
+  "slug": "genma-taisen",
+  "kind": "anime",
+  "title": "Genma Taisen",
+  "titles": {
+    "default": "Genma Taisen",
+    "romaji": "Genma Taisen",
+    "english": "Harmagedon",
+    "native": "幻魔大戦"
+  },
+  "synonyms": [
+    "Genma Taisen",
+    "Harmagedon",
+    "幻魔大戦",
+    "Ghenma Wars",
+    "Great War with Genma"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1983,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1626-f7Uv9NRj3Bbu.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1626",
+      "url": "https://anilist.co/anime/1626"
+    },
+    "k": {
+      "id": "8376",
+      "url": "https://kitsu.io/anime/8376"
+    },
+    "mal": {
+      "id": "1626",
+      "url": "https://myanimelist.net/anime/1626"
+    }
+  }
+}

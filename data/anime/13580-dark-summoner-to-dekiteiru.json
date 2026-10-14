@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13580,
+  "slug": "dark-summoner-to-dekiteiru",
+  "kind": "anime",
+  "title": "Dark Summoner to Dekiteiru",
+  "titles": {
+    "default": "Dark Summoner to Dekiteiru",
+    "romaji": "Dark Summoner to Dekiteiru",
+    "english": "I'm Dating a Dark Summoner",
+    "native": "ダークサモナーとデキている"
+  },
+  "synonyms": [
+    "Dark Summoner to Dekiteiru",
+    "I'm Dating a Dark Summoner",
+    "ダークサモナーとデキている",
+    "Firefly Wedding",
+    "ホタルの嫁入り",
+    "Hotaru no Yomeiri"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "airing",
+  "season": "fall",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208025-JKvqWNr8rz8l.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "208025",
+      "url": "https://anilist.co/anime/208025"
+    },
+    "mal": {
+      "id": "63509",
+      "url": "https://myanimelist.net/anime/63509"
+    }
+  }
+}

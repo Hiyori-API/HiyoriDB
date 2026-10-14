@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4442,
+  "slug": "saa-ikou-tamagotchi",
+  "kind": "anime",
+  "title": "Saa Ikou! Tamagotchi",
+  "titles": {
+    "default": "Saa Ikou! Tamagotchi",
+    "romaji": "Saa Ikou! Tamagotchi",
+    "english": "Let's Go! TAMAGOTCHI",
+    "native": "さぁイコー！たまごっち"
+  },
+  "synonyms": [
+    "Saa Ikou! Tamagotchi",
+    "Let's Go! TAMAGOTCHI",
+    "さぁイコー！たまごっち",
+    "Saa Ikoo! Tamagotchi",
+    "Let's Go! Tamagotchi",
+    "Prism Ark",
+    "プリズム・アーク"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6798.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6798",
+      "url": "https://anilist.co/anime/6798"
+    },
+    "k": {
+      "id": "1626",
+      "url": "https://kitsu.io/anime/1626"
+    },
+    "mal": {
+      "id": "6798",
+      "url": "https://myanimelist.net/anime/6798"
+    },
+    "t": {
+      "id": "64076",
+      "url": "https://trakt.tv/shows/64076"
+    }
+  }
+}

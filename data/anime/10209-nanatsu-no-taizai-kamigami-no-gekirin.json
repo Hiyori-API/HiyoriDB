@@ -1,0 +1,63 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10209,
+  "slug": "nanatsu-no-taizai-kamigami-no-gekirin",
+  "kind": "anime",
+  "title": "Nanatsu no Taizai: Kamigami no Gekirin",
+  "titles": {
+    "default": "Nanatsu no Taizai: Kamigami no Gekirin",
+    "romaji": "Nanatsu no Taizai: Kamigami no Gekirin",
+    "english": "The Seven Deadly Sins: Imperial Wrath of the Gods",
+    "native": "七つの大罪 神々の逆鱗"
+  },
+  "synonyms": [
+    "Nanatsu no Taizai: Kamigami no Gekirin",
+    "The Seven Deadly Sins: Imperial Wrath of the Gods",
+    "七つの大罪 神々の逆鱗",
+    "The Seven Deadly Sins: Wrath of the Gods",
+    "ศึกตำนาน 7 อัศวิน ภาค 3 เพลิงพิโรธของเหล่าทวยเทพ",
+    "Семь смертных грехов: Гнев богов",
+    "Chrono Crusade",
+    "Chrno Crusade",
+    "クロノクルセイド",
+    "Chrno Crusade: Mary Magdalene"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "fall",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108928-DuyUzi0JyPIr.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "108928",
+      "url": "https://anilist.co/anime/108928"
+    },
+    "cr": {
+      "id": "chrono-crusade",
+      "url": "https://www.crunchyroll.com/series/chrono-crusade"
+    },
+    "k": {
+      "id": "41",
+      "url": "https://kitsu.io/anime/41"
+    },
+    "mal": {
+      "id": "39701",
+      "url": "https://myanimelist.net/anime/39701"
+    },
+    "nf": {
+      "id": "80050063",
+      "url": "https://www.netflix.com/title/80050063"
+    },
+    "t": {
+      "id": "33914",
+      "url": "https://trakt.tv/shows/33914"
+    },
+    "tx": {
+      "id": "7_taizai",
+      "url": "https://twitter.com/7_taizai"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13689,
+  "slug": "kusuriya-no-hitorigoto-3rd-season-part-2",
+  "kind": "anime",
+  "title": "Kusuriya no Hitorigoto 3rd Season Part 2",
+  "titles": {
+    "default": "Kusuriya no Hitorigoto 3rd Season Part 2",
+    "romaji": "Kusuriya no Hitorigoto 3rd Season Part 2",
+    "native": "薬屋のひとりごと 第3期 第2クール"
+  },
+  "synonyms": [
+    "Kusuriya no Hitorigoto 3rd Season Part 2",
+    "薬屋のひとりごと 第3期 第2クール",
+    "The Apothecary Diaries Season 3 Part 2",
+    "The Apothecary Diaries Season 3 Cour 2",
+    "The Pharmacist's Monologue",
+    "Drugstore Soliloquy",
+    "The Apothecary Diaries Season 3",
+    "薬屋のひとりごと 第3期",
+    "Kusuriya no Hitorigoto 3rd Season"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "to_be_aired",
+  "season": "spring",
+  "year": 2027,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200927-IXFYyIb728bM.png"
+  ],
+  "references": {
+    "al": {
+      "id": "200927",
+      "url": "https://anilist.co/anime/200927"
+    },
+    "cr": {
+      "id": "series/G3KHEVDJ7/the-apothecary-diaries",
+      "url": "https://www.crunchyroll.com/series/series/G3KHEVDJ7/the-apothecary-diaries"
+    },
+    "mal": {
+      "id": "62841",
+      "url": "https://myanimelist.net/anime/62841"
+    },
+    "tx": {
+      "id": "kusuriya_PR",
+      "url": "https://twitter.com/kusuriya_PR"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14137,
+  "slug": "mahou-shoujo-lyrical-nanoha-strikers-the-comics",
+  "kind": "manga",
+  "title": "Mahou Shoujo Lyrical Nanoha StrikerS THE COMICS",
+  "titles": {
+    "default": "Mahou Shoujo Lyrical Nanoha StrikerS THE COMICS"
+  },
+  "synonyms": [
+    "Nanoha StrikerS: A's to StrikerS",
+    "Magical Girl Lyrical Nanoha StrikerS THE COMICS",
+    "魔法少女リリカルなのはStrikerS THE COMICS",
+    "The Pain in My Heart",
+    "Boku no Mune ga Itakutemo - Glass",
+    "ぼくの胸が痛くても GLASS"
+  ],
+  "type": "manga",
+  "chapters": 15,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1231.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1915",
+      "url": "https://anilist.co/anime/1915"
+    },
+    "al_manga": {
+      "id": "1915",
+      "url": "https://anilist.co/manga/1915"
+    }
+  }
+}

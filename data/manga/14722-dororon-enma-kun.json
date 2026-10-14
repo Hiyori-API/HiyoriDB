@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14722,
+  "slug": "dororon-enma-kun",
+  "kind": "manga",
+  "title": "Dororon Enma-kun",
+  "titles": {
+    "default": "Dororon Enma-kun"
+  },
+  "synonyms": [
+    "SATANIKUS!",
+    "ドロロンえん魔くん",
+    "Onward Towards Our Noble Deaths",
+    "Souin Gyokusai seyo!",
+    "総員玉砕せよ！",
+    "The Banzai! Charge",
+    "Operation Death",
+    "Opération Mort",
+    "Let us all die honorably!"
+  ],
+  "type": "manga",
+  "chapters": 21,
+  "volumes": 3,
+  "status": "finished",
+  "year": 1973,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx37700-aKraGyPH0cD8.png"
+  ],
+  "references": {
+    "al": {
+      "id": "9493",
+      "url": "https://anilist.co/anime/1337"
+    },
+    "al_manga": {
+      "id": "9493",
+      "url": "https://anilist.co/manga/9493"
+    }
+  }
+}

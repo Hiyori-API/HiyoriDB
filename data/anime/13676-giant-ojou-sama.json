@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13676,
+  "slug": "giant-ojou-sama",
+  "kind": "anime",
+  "title": "Giant Ojou-sama",
+  "titles": {
+    "default": "Giant Ojou-sama",
+    "romaji": "Giant Ojou-sama",
+    "native": "ジャイアントお嬢様"
+  },
+  "synonyms": [
+    "Giant Ojou-sama",
+    "ジャイアントお嬢様",
+    "Despera",
+    "ですぺら",
+    "Desupera"
+  ],
+  "type": "tv",
+  "status": "to_be_aired",
+  "season": "winter",
+  "year": 2027,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187303-ZY8i5D8JA5cB.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "187303",
+      "url": "https://anilist.co/anime/187303"
+    },
+    "k": {
+      "id": "4584",
+      "url": "https://kitsu.io/anime/4584"
+    },
+    "mal": {
+      "id": "61135",
+      "url": "https://myanimelist.net/anime/61135"
+    }
+  }
+}

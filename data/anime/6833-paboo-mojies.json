@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6833,
+  "slug": "paboo-mojies",
+  "kind": "anime",
+  "title": "Paboo & Mojies",
+  "titles": {
+    "default": "Paboo & Mojies",
+    "romaji": "Paboo & Mojies",
+    "native": "パブー＆モジーズ"
+  },
+  "synonyms": [
+    "Paboo & Mojies",
+    "パブー＆モジーズ",
+    "빠뿌야 놀자"
+  ],
+  "type": "tv",
+  "episodes": 52,
+  "status": "finished",
+  "season": "spring",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13165.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "13165",
+      "url": "https://anilist.co/anime/13165"
+    },
+    "k": {
+      "id": "6898",
+      "url": "https://kitsu.io/anime/6898"
+    },
+    "mal": {
+      "id": "13165",
+      "url": "https://myanimelist.net/anime/13165"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11930,
+  "slug": "sekigahara-gassen-kiro-ni-tatta-tarui-no-bushou-tachi",
+  "kind": "anime",
+  "title": "Sekigahara Gassen: Kiro ni Tatta Tarui no Bushou-tachi",
+  "titles": {
+    "default": "Sekigahara Gassen: Kiro ni Tatta Tarui no Bushou-tachi",
+    "romaji": "Sekigahara Gassen: Kiro ni Tatta Tarui no Bushou-tachi",
+    "native": "関ヶ原合戦 岐路に立った垂井の武将たち"
+  },
+  "synonyms": [
+    "Sekigahara Gassen: Kiro ni Tatta Tarui no Bushou-tachi",
+    "関ヶ原合戦 岐路に立った垂井の武将たち",
+    "The Princess of Yoshino",
+    "Yoshino no Hime",
+    "吉野の姫制"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154163-Od51jwikNX5j.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "154163",
+      "url": "https://anilist.co/anime/154163"
+    },
+    "k": {
+      "id": "3727",
+      "url": "https://kitsu.io/anime/3727"
+    },
+    "mal": {
+      "id": "51236",
+      "url": "https://myanimelist.net/anime/51236"
+    },
+    "yt": {
+      "id": "wOuB8JzfW3Y",
+      "url": "https://www.youtube.com/watch?v=wOuB8JzfW3Y"
+    }
+  }
+}

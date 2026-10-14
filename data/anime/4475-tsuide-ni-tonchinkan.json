@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4475,
+  "slug": "tsuide-ni-tonchinkan",
+  "kind": "anime",
+  "title": "Tsuide ni Tonchinkan",
+  "titles": {
+    "default": "Tsuide ni Tonchinkan",
+    "romaji": "Tsuide ni Tonchinkan",
+    "native": "ついでにとんちんかん"
+  },
+  "synonyms": [
+    "Tsuide ni Tonchinkan",
+    "ついでにとんちんかん",
+    "Regarding Tonchinkan",
+    "Tsuideni Tonchinkan",
+    "Anyway, It Doesn't Matter",
+    "Anyway"
+  ],
+  "type": "tv",
+  "episodes": 43,
+  "status": "finished",
+  "season": "fall",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6917-RChcvXKDRSnH.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6917",
+      "url": "https://anilist.co/anime/6917"
+    },
+    "k": {
+      "id": "4784",
+      "url": "https://kitsu.io/anime/4784"
+    },
+    "mal": {
+      "id": "6917",
+      "url": "https://myanimelist.net/anime/6917"
+    }
+  }
+}

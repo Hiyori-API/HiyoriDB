@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7301,
+  "slug": "danball-senki-wars",
+  "kind": "anime",
+  "title": "Danball Senki Wars",
+  "titles": {
+    "default": "Danball Senki Wars",
+    "romaji": "Danball Senki Wars",
+    "native": "ダンボール戦機WARS"
+  },
+  "synonyms": [
+    "Danball Senki Wars",
+    "ダンボール戦機WARS",
+    "Danbooru Senki Wars",
+    "ダンボール戦機ウォーズ"
+  ],
+  "type": "tv",
+  "episodes": 37,
+  "status": "finished",
+  "season": "spring",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17917-GbEBPto3bo9L.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "17917",
+      "url": "https://anilist.co/anime/17917"
+    },
+    "mal": {
+      "id": "17917",
+      "url": "https://myanimelist.net/anime/17917"
+    }
+  }
+}

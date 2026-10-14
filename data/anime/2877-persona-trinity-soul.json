@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2877,
+  "slug": "persona-trinity-soul",
+  "kind": "anime",
+  "title": "PERSONA -trinity soul-",
+  "titles": {
+    "default": "PERSONA -trinity soul-",
+    "romaji": "PERSONA -trinity soul-",
+    "english": "Persona -trinity soul-"
+  },
+  "synonyms": [
+    "PERSONA -trinity soul-",
+    "Persona -trinity soul-",
+    "ペルソナ 〜トリニティ・ソウル〜",
+    "Persona: Trinity Soul"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "winter",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3366.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3366",
+      "url": "https://anilist.co/anime/3366"
+    },
+    "k": {
+      "id": "2959",
+      "url": "https://kitsu.io/anime/2959"
+    },
+    "mal": {
+      "id": "3366",
+      "url": "https://myanimelist.net/anime/3366"
+    },
+    "t": {
+      "id": "61661",
+      "url": "https://trakt.tv/shows/61661"
+    }
+  }
+}

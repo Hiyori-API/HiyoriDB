@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10911,
+  "slug": "kuroshitsuji-ii-ova",
+  "kind": "anime",
+  "title": "Kuroshitsuji II OVA",
+  "titles": {
+    "default": "Kuroshitsuji II OVA",
+    "romaji": "Kuroshitsuji II OVA",
+    "english": "Black Butler II OVA",
+    "native": "黒執事II OVA"
+  },
+  "synonyms": [
+    "Kuroshitsuji II OVA",
+    "Black Butler II OVA",
+    "黒執事II OVA",
+    "Welcome to the Phantomhive Family",
+    "Ciel in Wonderland",
+    "คนลึกไขปริศนาลับ ภาค 2 OVA",
+    "คนลึกไขปริศนาลับ II OVA",
+    "Ghost Messenger",
+    "고스트 메신저"
+  ],
+  "type": "ova",
+  "episodes": 6,
+  "status": "finished",
+  "season": "fall",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx9136-ya8hYWZUmNMW.png"
+  ],
+  "references": {
+    "al": {
+      "id": "9136",
+      "url": "https://anilist.co/anime/9136"
+    },
+    "cr": {
+      "id": "series/GYQ43P3E6/black-butler",
+      "url": "https://www.crunchyroll.com/series/series/GYQ43P3E6/black-butler"
+    },
+    "k": {
+      "id": "6391",
+      "url": "https://kitsu.io/anime/6391"
+    },
+    "mal": {
+      "id": "9136",
+      "url": "https://myanimelist.net/anime/9136"
+    },
+    "nf": {
+      "id": "70204955",
+      "url": "https://www.netflix.com/title/70204955"
+    }
+  }
+}

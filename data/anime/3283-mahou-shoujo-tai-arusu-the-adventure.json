@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3283,
+  "slug": "mahou-shoujo-tai-arusu-the-adventure",
+  "kind": "anime",
+  "title": "Mahou Shoujo Tai Arusu THE ADVENTURE",
+  "titles": {
+    "default": "Mahou Shoujo Tai Arusu THE ADVENTURE",
+    "romaji": "Mahou Shoujo Tai Arusu THE ADVENTURE",
+    "english": "Tweeny Witches: The Adventures",
+    "native": "魔法少女隊アルス THE ADVENTURE"
+  },
+  "synonyms": [
+    "Mahou Shoujo Tai Arusu THE ADVENTURE",
+    "Tweeny Witches: The Adventures",
+    "魔法少女隊アルス THE ADVENTURE",
+    "Mahou Shoujo Tai - Alice Adventure",
+    "Arusu Adventure",
+    "Tweeny Witches: The Adventure",
+    "Tweeny Witches: Alice Adventures",
+    "Mahou Shoujo-tai Arusu the Adventure",
+    "魔法少女隊アルス the Adventure",
+    "Mahou Shoujo-tai: Alice Adventure"
+  ],
+  "type": "ova",
+  "episodes": 6,
+  "status": "finished",
+  "season": "fall",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3991-qb67k1GY2TSy.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3991",
+      "url": "https://anilist.co/anime/3991"
+    },
+    "k": {
+      "id": "3399",
+      "url": "https://kitsu.io/anime/3399"
+    },
+    "mal": {
+      "id": "3991",
+      "url": "https://myanimelist.net/anime/3991"
+    }
+  }
+}

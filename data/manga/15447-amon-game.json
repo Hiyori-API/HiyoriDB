@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15447,
+  "slug": "amon-game",
+  "kind": "manga",
+  "title": "Amon Game",
+  "titles": {
+    "default": "Amon Game"
+  },
+  "synonyms": [
+    "Cencoroll",
+    "アモン·ゲーム",
+    "Amon Game",
+    "アモン・ゲーム"
+  ],
+  "type": "one_shot",
+  "chapters": 1,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b46759-zGZxapCs7GTH.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3087",
+      "url": "https://anilist.co/anime/3087"
+    },
+    "al_manga": {
+      "id": "3087",
+      "url": "https://anilist.co/manga/3087"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8280,
+  "slug": "kuroko-no-basket-saikou-no-present-desu",
+  "kind": "anime",
+  "title": "Kuroko no Basket: Saikou no Present Desu",
+  "titles": {
+    "default": "Kuroko no Basket: Saikou no Present Desu",
+    "romaji": "Kuroko no Basket: Saikou no Present Desu",
+    "english": "Kuroko's Basketball: The Greatest Present",
+    "native": "黒子のバスケ ~最高のプレゼントです~"
+  },
+  "synonyms": [
+    "Kuroko no Basket: Saikou no Present Desu",
+    "Kuroko's Basketball: The Greatest Present",
+    "黒子のバスケ ~最高のプレゼントです~",
+    "Bokura wa Minna Kawai-sou: Hajimete no",
+    "僕らはみんな河合荘 初めての",
+    "The Kawai Complex Guide to Manors and Hostel Behavior: First Time",
+    "Bokura wa Minna Kawaisou: Hajimete no",
+    "Bokura wa Minna Kawaisou Special"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21235-XTGPhgyRVlY4.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21235",
+      "url": "https://anilist.co/anime/21235"
+    },
+    "cr": {
+      "id": "kurokos-basketball/episode-755-the-greatest-present-728751",
+      "url": "https://www.crunchyroll.com/series/kurokos-basketball/episode-755-the-greatest-present-728751"
+    },
+    "k": {
+      "id": "8536",
+      "url": "https://kitsu.io/anime/8536"
+    },
+    "mal": {
+      "id": "31051",
+      "url": "https://myanimelist.net/anime/31051"
+    }
+  }
+}

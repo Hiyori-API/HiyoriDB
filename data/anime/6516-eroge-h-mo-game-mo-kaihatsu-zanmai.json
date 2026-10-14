@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6516,
+  "slug": "eroge-h-mo-game-mo-kaihatsu-zanmai",
+  "kind": "anime",
+  "title": "Eroge!: H mo Game mo Kaihatsu Zanmai",
+  "titles": {
+    "default": "Eroge!: H mo Game mo Kaihatsu Zanmai",
+    "romaji": "Eroge!: H mo Game mo Kaihatsu Zanmai",
+    "english": "Eroge! Sex and Gamedev",
+    "native": "えろげー! ～Hもゲームも開発三昧～"
+  },
+  "synonyms": [
+    "Eroge!: H mo Game mo Kaihatsu Zanmai",
+    "Eroge! Sex and Gamedev",
+    "えろげー! ～Hもゲームも開発三昧～",
+    "Eroge! Sex & Game Make Sexy Games",
+    "에로 게임！야한 짓도 게임도 개발 삼매경",
+    "Hakuoki ~Demon of the Fleeting Blossom~ A Memory of Snow Flowers",
+    "Hakuouki Sekkaroku",
+    "薄桜鬼 雪華録",
+    "Hakuouki Hekketsuroku OVA"
+  ],
+  "type": "ova",
+  "episodes": 6,
+  "status": "finished",
+  "season": "summer",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10779-5cxtbMVFJ3jp.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10779",
+      "url": "https://anilist.co/anime/10779"
+    },
+    "k": {
+      "id": "6141",
+      "url": "https://kitsu.io/anime/6141"
+    },
+    "mal": {
+      "id": "10779",
+      "url": "https://myanimelist.net/anime/10779"
+    },
+    "t": {
+      "id": "44073",
+      "url": "https://trakt.tv/shows/44073"
+    }
+  }
+}

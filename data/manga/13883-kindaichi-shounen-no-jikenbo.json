@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13883,
+  "slug": "kindaichi-shounen-no-jikenbo",
+  "kind": "manga",
+  "title": "Kindaichi Shounen no Jikenbo",
+  "titles": {
+    "default": "Kindaichi Shounen no Jikenbo"
+  },
+  "synonyms": [
+    "Kindaichi Shonen no Jikenbo",
+    "Zapiski detyktywa Kindaichi",
+    "Detektyw Kindaichi",
+    "The Kindaichi Case Files",
+    "金田一少年の事件簿",
+    "Fushigi Yugi",
+    "Fushigi Yuugi",
+    "ふしぎ遊戯",
+    "Mysterious Play",
+    "Curious Play"
+  ],
+  "type": "manga",
+  "chapters": 219,
+  "volumes": 27,
+  "status": "finished",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30393-1OQNCv5LIsx8.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2076",
+      "url": "https://anilist.co/anime/2076"
+    },
+    "al_manga": {
+      "id": "2076",
+      "url": "https://anilist.co/manga/2076"
+    }
+  }
+}

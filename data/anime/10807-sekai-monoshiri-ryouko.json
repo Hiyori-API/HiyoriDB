@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10807,
+  "slug": "sekai-monoshiri-ryouko",
+  "kind": "anime",
+  "title": "Sekai Monoshiri Ryouko",
+  "titles": {
+    "default": "Sekai Monoshiri Ryouko",
+    "romaji": "Sekai Monoshiri Ryouko",
+    "native": "世界ものしり旅行"
+  },
+  "synonyms": [
+    "Sekai Monoshiri Ryouko",
+    "世界ものしり旅行",
+    "The Instructive Trip Around the World",
+    "Sekai Monoshiri Ryoko"
+  ],
+  "type": "tv",
+  "episodes": 1006,
+  "status": "finished",
+  "season": "fall",
+  "year": 1971,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10241.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10241",
+      "url": "https://anilist.co/anime/10241"
+    },
+    "k": {
+      "id": "6092",
+      "url": "https://kitsu.io/anime/6092"
+    },
+    "mal": {
+      "id": "10241",
+      "url": "https://myanimelist.net/anime/10241"
+    }
+  }
+}

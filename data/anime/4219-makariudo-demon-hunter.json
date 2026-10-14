@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4219,
+  "slug": "makariudo-demon-hunter",
+  "kind": "anime",
+  "title": "Makariudo: Demon Hunter",
+  "titles": {
+    "default": "Makariudo: Demon Hunter",
+    "romaji": "Makariudo: Demon Hunter",
+    "native": "魔狩人 Demon Hunter"
+  },
+  "synonyms": [
+    "Makariudo: Demon Hunter",
+    "魔狩人 Demon Hunter",
+    "Demon Hunter Makaryuudo",
+    "魔狩人 デーモンハンター",
+    "Makaryuudo Demon Hunter",
+    "魔狩人",
+    "Makaryudo",
+    "Demon Hunter"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6184-VIrKJ5rZJCd6.png"
+  ],
+  "references": {
+    "al": {
+      "id": "6184",
+      "url": "https://anilist.co/anime/6184"
+    },
+    "k": {
+      "id": "4464",
+      "url": "https://kitsu.io/anime/4464"
+    },
+    "mal": {
+      "id": "6184",
+      "url": "https://myanimelist.net/anime/6184"
+    }
+  }
+}

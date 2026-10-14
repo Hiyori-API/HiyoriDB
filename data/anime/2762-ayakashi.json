@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2762,
+  "slug": "ayakashi",
+  "kind": "anime",
+  "title": "Ayakashi",
+  "titles": {
+    "default": "Ayakashi",
+    "romaji": "Ayakashi",
+    "native": "アヤカシ"
+  },
+  "synonyms": [
+    "Ayakashi",
+    "アヤカシ",
+    "Kodomo no Jikan (TV)",
+    "こどものじかん",
+    "Nymphet",
+    "A Child's Time",
+    "Kojika"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3166.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3166",
+      "url": "https://anilist.co/anime/3166"
+    },
+    "k": {
+      "id": "2179",
+      "url": "https://kitsu.io/anime/2179"
+    },
+    "mal": {
+      "id": "3166",
+      "url": "https://myanimelist.net/anime/3166"
+    },
+    "t": {
+      "id": "45923",
+      "url": "https://trakt.tv/shows/45923"
+    }
+  }
+}

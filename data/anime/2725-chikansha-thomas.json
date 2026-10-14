@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2725,
+  "slug": "chikansha-thomas",
+  "kind": "anime",
+  "title": "Chikansha Thomas",
+  "titles": {
+    "default": "Chikansha Thomas",
+    "romaji": "Chikansha Thomas",
+    "english": "Perverted Thomas",
+    "native": "痴漢者トーマス"
+  },
+  "synonyms": [
+    "Chikansha Thomas",
+    "Perverted Thomas",
+    "痴漢者トーマス",
+    "Tenkuu Danzai Skelter+Heaven",
+    "天空断罪スケルターヘブン",
+    "Skelter Heaven"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3105.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3105",
+      "url": "https://anilist.co/anime/3105"
+    },
+    "k": {
+      "id": "2910",
+      "url": "https://kitsu.io/anime/2910"
+    },
+    "mal": {
+      "id": "3105",
+      "url": "https://myanimelist.net/anime/3105"
+    }
+  }
+}

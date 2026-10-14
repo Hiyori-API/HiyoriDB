@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13563,
+  "slug": "kimi-to-hanabi-to-yakusoku-to",
+  "kind": "anime",
+  "title": "Kimi to Hanabi to Yakusoku to",
+  "titles": {
+    "default": "Kimi to Hanabi to Yakusoku to",
+    "romaji": "Kimi to Hanabi to Yakusoku to",
+    "native": "君と花火と約束と"
+  },
+  "synonyms": [
+    "Kimi to Hanabi to Yakusoku to",
+    "君と花火と約束と",
+    "KimiHana",
+    "You, Fireworks, and Our Promise",
+    "Cowboy Bebop: The Movie",
+    "Cowboy Bebop: Tengoku no Tobira",
+    "Cowboy Bebop: Knockin' on Heaven's Door",
+    "カウボーイビバップ天国の扉"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206819-9VJOdSC6yFET.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "206819",
+      "url": "https://anilist.co/anime/206819"
+    },
+    "k": {
+      "id": "2",
+      "url": "https://kitsu.io/anime/2"
+    },
+    "mal": {
+      "id": "63366",
+      "url": "https://myanimelist.net/anime/63366"
+    }
+  }
+}

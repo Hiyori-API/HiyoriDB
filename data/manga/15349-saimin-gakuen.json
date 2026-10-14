@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15349,
+  "slug": "saimin-gakuen",
+  "kind": "manga",
+  "title": "Saimin Gakuen",
+  "titles": {
+    "default": "Saimin Gakuen"
+  },
+  "synonyms": [
+    "催眠学園",
+    "Magical Girl Risuka",
+    "Shin Honkaku Mahou Shoujo Risuka",
+    "新本格魔法少女りすか"
+  ],
+  "type": "novel",
+  "chapters": 12,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/90877-idk5HwsFBLwm.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5212",
+      "url": "https://anilist.co/anime/5212"
+    },
+    "al_manga": {
+      "id": "5212",
+      "url": "https://anilist.co/manga/5212"
+    }
+  }
+}

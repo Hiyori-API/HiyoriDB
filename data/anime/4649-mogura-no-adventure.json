@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4649,
+  "slug": "mogura-no-adventure",
+  "kind": "anime",
+  "title": "Mogura no Adventure",
+  "titles": {
+    "default": "Mogura no Adventure",
+    "romaji": "Mogura no Adventure",
+    "native": "もぐらのアバンチュール"
+  },
+  "synonyms": [
+    "Mogura no Adventure",
+    "もぐらのアバンチュール",
+    "Mole's Adventure"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1958,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19125.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "19125",
+      "url": "https://anilist.co/anime/19125"
+    },
+    "k": {
+      "id": "7803",
+      "url": "https://kitsu.io/anime/7803"
+    },
+    "mal": {
+      "id": "19125",
+      "url": "https://myanimelist.net/anime/19125"
+    }
+  }
+}

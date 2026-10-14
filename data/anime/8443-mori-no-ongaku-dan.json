@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8443,
+  "slug": "mori-no-ongaku-dan",
+  "kind": "anime",
+  "title": "Mori no Ongaku-dan",
+  "titles": {
+    "default": "Mori no Ongaku-dan",
+    "romaji": "Mori no Ongaku-dan",
+    "native": "森のおんがくだん"
+  },
+  "synonyms": [
+    "Mori no Ongaku-dan",
+    "森のおんがくだん",
+    "Way of Choices",
+    "Fighter of the Destiny",
+    "择天记",
+    "Ze Tian Ji"
+  ],
+  "type": "ona",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119795-vbXlaSW6rBIQ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "119795",
+      "url": "https://anilist.co/anime/119795"
+    },
+    "mal": {
+      "id": "31369",
+      "url": "https://myanimelist.net/anime/31369"
+    }
+  }
+}

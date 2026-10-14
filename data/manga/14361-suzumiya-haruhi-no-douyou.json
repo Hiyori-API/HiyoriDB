@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14361,
+  "slug": "suzumiya-haruhi-no-douyou",
+  "kind": "manga",
+  "title": "Suzumiya Haruhi no Douyou",
+  "titles": {
+    "default": "Suzumiya Haruhi no Douyou"
+  },
+  "synonyms": [
+    "L'inquetudine di Haruhi Suzumiya",
+    "The Wavering of Haruhi Suzumiya",
+    "涼宮ハルヒの動揺",
+    "Young Gun Carnaval",
+    "ヤングガン・カルナバル"
+  ],
+  "type": "novel",
+  "chapters": 5,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx145594-wURR2hX2HMkg.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4382",
+      "url": "https://anilist.co/anime/849"
+    },
+    "al_manga": {
+      "id": "4382",
+      "url": "https://anilist.co/manga/4382"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1090,
+  "slug": "tonagura",
+  "kind": "anime",
+  "title": "Tonagura!",
+  "titles": {
+    "default": "Tonagura!",
+    "romaji": "Tonagura!",
+    "native": "となグラ！"
+  },
+  "synonyms": [
+    "Tonagura!",
+    "となグラ！",
+    "Tona-gura!"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1218-Pd4W6etyI3uW.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1218",
+      "url": "https://anilist.co/anime/1218"
+    },
+    "k": {
+      "id": "1095",
+      "url": "https://kitsu.io/anime/1095"
+    },
+    "mal": {
+      "id": "1218",
+      "url": "https://myanimelist.net/anime/1218"
+    },
+    "t": {
+      "id": "34515",
+      "url": "https://trakt.tv/shows/34515"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12467,
+  "slug": "suki-demo-kirai-na-amanojaku",
+  "kind": "anime",
+  "title": "Suki demo Kirai na Amanojaku",
+  "titles": {
+    "default": "Suki demo Kirai na Amanojaku",
+    "romaji": "Suki demo Kirai na Amanojaku",
+    "english": "My Oni Girl",
+    "native": "好きでも嫌いなあまのじゃく"
+  },
+  "synonyms": [
+    "Suki demo Kirai na Amanojaku",
+    "My Oni Girl",
+    "好きでも嫌いなあまのじゃく",
+    "Mon oni à moi",
+    "Minha Querida Oni",
+    "A Minha Oni",
+    "Mi querida oni",
+    "มาย โอนิ เกิร์ล",
+    "좋아해도 싫어하는",
+    "فتاتي العفريتة",
+    "Appleseed (Movie)",
+    "アップルシード",
+    "Appleseed (2004)"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2024,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx148080-2wVRYUghiaAq.png"
+  ],
+  "references": {
+    "al": {
+      "id": "148080",
+      "url": "https://anilist.co/anime/148080"
+    },
+    "k": {
+      "id": "35",
+      "url": "https://kitsu.io/anime/35"
+    },
+    "mal": {
+      "id": "58449",
+      "url": "https://myanimelist.net/anime/58449"
+    },
+    "nf": {
+      "id": "81582442",
+      "url": "https://www.netflix.com/title/81582442"
+    }
+  }
+}

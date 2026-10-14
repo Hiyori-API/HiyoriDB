@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4132,
+  "slug": "ristorante-paradiso",
+  "kind": "anime",
+  "title": "Ristorante Paradiso",
+  "titles": {
+    "default": "Ristorante Paradiso",
+    "romaji": "Ristorante Paradiso",
+    "native": "リストランテ・パラディーゾ"
+  },
+  "synonyms": [
+    "Ristorante Paradiso",
+    "リストランテ・パラディーゾ",
+    "リストランテパラディーゾ"
+  ],
+  "type": "tv",
+  "episodes": 11,
+  "status": "finished",
+  "season": "spring",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5984-xUyb6AQ4dzei.png"
+  ],
+  "references": {
+    "al": {
+      "id": "5984",
+      "url": "https://anilist.co/anime/5984"
+    },
+    "cr": {
+      "id": "ristorante-paradiso",
+      "url": "https://www.crunchyroll.com/series/ristorante-paradiso"
+    },
+    "k": {
+      "id": "4371",
+      "url": "https://kitsu.io/anime/4371"
+    },
+    "mal": {
+      "id": "5984",
+      "url": "https://myanimelist.net/anime/5984"
+    },
+    "t": {
+      "id": "34706",
+      "url": "https://trakt.tv/shows/34706"
+    }
+  }
+}

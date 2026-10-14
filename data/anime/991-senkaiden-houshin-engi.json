@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 991,
+  "slug": "senkaiden-houshin-engi",
+  "kind": "anime",
+  "title": "Senkaiden Houshin Engi",
+  "titles": {
+    "default": "Senkaiden Houshin Engi",
+    "romaji": "Senkaiden Houshin Engi",
+    "english": "Soul Hunter",
+    "native": "仙界伝 封神演義"
+  },
+  "synonyms": [
+    "Senkaiden Houshin Engi",
+    "Soul Hunter",
+    "仙界伝 封神演義",
+    "Romances of Sealed Gods",
+    "Soul Hunter - Battle of the Immortals",
+    "Soul Hunter-Im Auftrag der Unsterblichen",
+    "Soul Hunter: Battle of the Immortals"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "summer",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1108-eO4LD0uqqkcT.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1108",
+      "url": "https://anilist.co/anime/1108"
+    },
+    "cr": {
+      "id": "soul-hunter",
+      "url": "https://www.crunchyroll.com/series/soul-hunter"
+    },
+    "k": {
+      "id": "993",
+      "url": "https://kitsu.io/anime/993"
+    },
+    "mal": {
+      "id": "1108",
+      "url": "https://myanimelist.net/anime/1108"
+    },
+    "t": {
+      "id": "26950",
+      "url": "https://trakt.tv/shows/26950"
+    }
+  }
+}

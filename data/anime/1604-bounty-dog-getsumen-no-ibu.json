@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1604,
+  "slug": "bounty-dog-getsumen-no-ibu",
+  "kind": "anime",
+  "title": "Bounty Dog: Getsumen no Ibu",
+  "titles": {
+    "default": "Bounty Dog: Getsumen no Ibu",
+    "romaji": "Bounty Dog: Getsumen no Ibu",
+    "english": "Bounty Dog",
+    "native": "バウンティドッグ~月面のイブ~"
+  },
+  "synonyms": [
+    "Bounty Dog: Getsumen no Ibu",
+    "Bounty Dog",
+    "バウンティドッグ~月面のイブ~"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1811-dM3uV5FiMGW6.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1811",
+      "url": "https://anilist.co/anime/1811"
+    },
+    "k": {
+      "id": "1629",
+      "url": "https://kitsu.io/anime/1629"
+    },
+    "mal": {
+      "id": "1811",
+      "url": "https://myanimelist.net/anime/1811"
+    }
+  }
+}

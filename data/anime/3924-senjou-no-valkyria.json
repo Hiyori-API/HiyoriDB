@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3924,
+  "slug": "senjou-no-valkyria",
+  "kind": "anime",
+  "title": "Senjou no Valkyria",
+  "titles": {
+    "default": "Senjou no Valkyria",
+    "romaji": "Senjou no Valkyria",
+    "english": "Valkyria Chronicles",
+    "native": "戦場のヴァルキュリア"
+  },
+  "synonyms": [
+    "Senjou no Valkyria",
+    "Valkyria Chronicles",
+    "戦場のヴァルキュリア",
+    "Battlefield Valkyria: Gallian Chronicles",
+    "戦場のヴァルキュリア -Gallian Chronicles-",
+    "Senjou no Valkyria: Gallian Chronicles"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx5507-t2Y938ikcLBa.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5507",
+      "url": "https://anilist.co/anime/5507"
+    },
+    "k": {
+      "id": "4130",
+      "url": "https://kitsu.io/anime/4130"
+    },
+    "mal": {
+      "id": "5507",
+      "url": "https://myanimelist.net/anime/5507"
+    },
+    "t": {
+      "id": "62053",
+      "url": "https://trakt.tv/shows/62053"
+    }
+  }
+}

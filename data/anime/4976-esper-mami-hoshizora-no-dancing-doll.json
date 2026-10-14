@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4976,
+  "slug": "esper-mami-hoshizora-no-dancing-doll",
+  "kind": "anime",
+  "title": "Esper Mami: Hoshizora no Dancing Doll",
+  "titles": {
+    "default": "Esper Mami: Hoshizora no Dancing Doll",
+    "romaji": "Esper Mami: Hoshizora no Dancing Doll",
+    "native": "エスパー魔美 星空のダンシングドール"
+  },
+  "synonyms": [
+    "Esper Mami: Hoshizora no Dancing Doll",
+    "エスパー魔美 星空のダンシングドール",
+    "Mami the ESPer: Dancing Dolls in a Starry Sky",
+    "My Neighbor Totoro",
+    "Tonari no Totoro",
+    "となりのトトロ",
+    "My Neighbour Totoro"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9880.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9880",
+      "url": "https://anilist.co/anime/9880"
+    },
+    "k": {
+      "id": "482",
+      "url": "https://kitsu.io/anime/482"
+    },
+    "mal": {
+      "id": "9880",
+      "url": "https://myanimelist.net/anime/9880"
+    },
+    "nf": {
+      "id": "60032294",
+      "url": "https://www.netflix.com/title/60032294"
+    }
+  }
+}

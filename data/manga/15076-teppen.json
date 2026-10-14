@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15076,
+  "slug": "teppen",
+  "kind": "manga",
+  "title": "Teppen",
+  "titles": {
+    "default": "Teppen"
+  },
+  "synonyms": [
+    "てっぺん",
+    "Yokohama Kaidashi Kikou",
+    "ヨコハマ買い出し紀行",
+    "Yokohama Shopping Log",
+    "Yokohama Shopping Trip",
+    "Touge"
+  ],
+  "type": "manga",
+  "volumes": 14,
+  "status": "discontinued",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx139368-fYvjoMBpF2mX.png"
+  ],
+  "references": {
+    "al": {
+      "id": "126319",
+      "url": "https://anilist.co/anime/126319"
+    },
+    "al_manga": {
+      "id": "126319",
+      "url": "https://anilist.co/manga/126319"
+    }
+  }
+}

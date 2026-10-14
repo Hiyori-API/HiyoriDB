@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4182,
+  "slug": "hon-ran",
+  "kind": "anime",
+  "title": "Hon Ran",
+  "titles": {
+    "default": "Hon Ran",
+    "romaji": "Hon Ran",
+    "english": "Crimson Wolf",
+    "native": "紅狼"
+  },
+  "synonyms": [
+    "Hon Ran",
+    "Crimson Wolf",
+    "紅狼",
+    "Hong Lang",
+    "紅狼[ホンラン]"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6090-rEHs9UmF6321.png"
+  ],
+  "references": {
+    "al": {
+      "id": "6090",
+      "url": "https://anilist.co/anime/6090"
+    },
+    "k": {
+      "id": "4420",
+      "url": "https://kitsu.io/anime/4420"
+    },
+    "mal": {
+      "id": "6090",
+      "url": "https://myanimelist.net/anime/6090"
+    }
+  }
+}

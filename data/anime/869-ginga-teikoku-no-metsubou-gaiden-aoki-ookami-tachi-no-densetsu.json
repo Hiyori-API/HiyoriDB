@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 869,
+  "slug": "ginga-teikoku-no-metsubou-gaiden-aoki-ookami-tachi-no-densetsu",
+  "kind": "anime",
+  "title": "Ginga Teikoku no Metsubou Gaiden: Aoki Ookami Tachi no Densetsu",
+  "titles": {
+    "default": "Ginga Teikoku no Metsubou Gaiden: Aoki Ookami Tachi no Densetsu",
+    "romaji": "Ginga Teikoku no Metsubou Gaiden: Aoki Ookami Tachi no Densetsu",
+    "english": "The Legend of the Blue Wolves",
+    "native": "銀河帝国の滅亡・外伝　蒼き狼たちの伝説"
+  },
+  "synonyms": [
+    "Ginga Teikoku no Metsubou Gaiden: Aoki Ookami Tachi no Densetsu",
+    "The Legend of the Blue Wolves",
+    "銀河帝国の滅亡・外伝　蒼き狼たちの伝説",
+    "Legend of the Blue Wolf",
+    "Legend of the Four Horsemen of the Apocalypse",
+    "Hot Space Cowboys",
+    "Seikimatsu★Darling",
+    "世紀末★ダーリン",
+    "Seikimatsu Darling",
+    "End of Century - Darling"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b977-FWq4kMwuO7Yd.png"
+  ],
+  "references": {
+    "al": {
+      "id": "977",
+      "url": "https://anilist.co/anime/977"
+    },
+    "k": {
+      "id": "1094",
+      "url": "https://kitsu.io/anime/1094"
+    },
+    "mal": {
+      "id": "977",
+      "url": "https://myanimelist.net/anime/977"
+    }
+  }
+}

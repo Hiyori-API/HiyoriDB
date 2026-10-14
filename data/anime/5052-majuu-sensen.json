@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5052,
+  "slug": "majuu-sensen",
+  "kind": "anime",
+  "title": "Majuu Sensen",
+  "titles": {
+    "default": "Majuu Sensen",
+    "romaji": "Majuu Sensen",
+    "native": "魔獣戦線"
+  },
+  "synonyms": [
+    "Majuu Sensen",
+    "魔獣戦線",
+    "Demon Beast Phalanx",
+    "Magical Beast Front",
+    "Beast Wars"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "fall",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9043.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9043",
+      "url": "https://anilist.co/anime/9043"
+    },
+    "k": {
+      "id": "5584",
+      "url": "https://kitsu.io/anime/5584"
+    },
+    "mal": {
+      "id": "9043",
+      "url": "https://myanimelist.net/anime/9043"
+    }
+  }
+}

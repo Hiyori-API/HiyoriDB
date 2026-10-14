@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6458,
+  "slug": "fujilog",
+  "kind": "anime",
+  "title": "Fujilog",
+  "titles": {
+    "default": "Fujilog",
+    "romaji": "Fujilog",
+    "native": "フジログ"
+  },
+  "synonyms": [
+    "Fujilog",
+    "フジログ",
+    "Dog Days",
+    "ドッグデイズ"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10533-kATqSObfqXJo.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10533",
+      "url": "https://anilist.co/anime/10533"
+    },
+    "cr": {
+      "id": "dog-days",
+      "url": "https://www.crunchyroll.com/series/dog-days"
+    },
+    "k": {
+      "id": "6057",
+      "url": "https://kitsu.io/anime/6057"
+    },
+    "mal": {
+      "id": "10533",
+      "url": "https://myanimelist.net/anime/10533"
+    },
+    "t": {
+      "id": "44069",
+      "url": "https://trakt.tv/shows/44069"
+    }
+  }
+}

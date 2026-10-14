@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9943,
+  "slug": "fate-stay-night-heaven-s-feel-ii-lost-butterfly",
+  "kind": "anime",
+  "title": "Fate/stay night [Heaven's Feel] II. lost butterfly",
+  "titles": {
+    "default": "Fate/stay night [Heaven's Feel] II. lost butterfly",
+    "romaji": "Fate/stay night [Heaven's Feel] II. lost butterfly",
+    "native": "Fate/stay night[Heaven's Feel] ⅠⅠ.lost butterfly"
+  },
+  "synonyms": [
+    "Fate/stay night [Heaven's Feel] II. lost butterfly",
+    "Fate/stay night[Heaven's Feel] ⅠⅠ.lost butterfly",
+    "Fate/HF II",
+    "Судьба/Ночь схватки: Прикосновение небес 2",
+    "Fate/stay night Movie: Heaven's Feel 2",
+    "Fate/stay night: Heaven's Feel - II. Lost Butterfly",
+    "劇場版「Fate/stay night [Heaven's Feel] II.lost butterfly」",
+    "Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21718-Hjj26Sapx1bd.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21718",
+      "url": "https://anilist.co/anime/21718"
+    },
+    "mal": {
+      "id": "33049",
+      "url": "https://myanimelist.net/anime/33049"
+    },
+    "nf": {
+      "id": "81169358",
+      "url": "https://www.netflix.com/title/81169358"
+    },
+    "tx": {
+      "id": "Fate_SN_Anime",
+      "url": "https://twitter.com/Fate_SN_Anime"
+    }
+  }
+}

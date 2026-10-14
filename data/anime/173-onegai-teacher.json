@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 173,
+  "slug": "onegai-teacher",
+  "kind": "anime",
+  "title": "Onegai☆Teacher",
+  "titles": {
+    "default": "Onegai☆Teacher",
+    "romaji": "Onegai☆Teacher",
+    "english": "Please☆Teacher!",
+    "native": "おねがい☆ティーチャー"
+  },
+  "synonyms": [
+    "Onegai☆Teacher",
+    "Please☆Teacher!",
+    "おねがい☆ティーチャー",
+    "Onegai Sensei",
+    "Onegai Teacher",
+    "พลีสทีชเชอร์ สอนนักรักซะ",
+    "Please Teacher!"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195-0qMiRJbg60Tc.png"
+  ],
+  "references": {
+    "al": {
+      "id": "195",
+      "url": "https://anilist.co/anime/195"
+    },
+    "cr": {
+      "id": "please-teacher",
+      "url": "https://www.crunchyroll.com/series/please-teacher"
+    },
+    "k": {
+      "id": "172",
+      "url": "https://kitsu.io/anime/172"
+    },
+    "mal": {
+      "id": "195",
+      "url": "https://myanimelist.net/anime/195"
+    },
+    "t": {
+      "id": "19689",
+      "url": "https://trakt.tv/shows/19689"
+    }
+  }
+}

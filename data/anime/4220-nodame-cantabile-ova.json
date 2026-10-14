@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4220,
+  "slug": "nodame-cantabile-ova",
+  "kind": "anime",
+  "title": "Nodame Cantabile OVA",
+  "titles": {
+    "default": "Nodame Cantabile OVA",
+    "romaji": "Nodame Cantabile OVA",
+    "native": "のだめカンタービレ OVA"
+  },
+  "synonyms": [
+    "Nodame Cantabile OVA",
+    "のだめカンタービレ OVA",
+    "Nodame Cantabile OAD"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6187.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6187",
+      "url": "https://anilist.co/anime/6187"
+    },
+    "k": {
+      "id": "4465",
+      "url": "https://kitsu.io/anime/4465"
+    },
+    "mal": {
+      "id": "6187",
+      "url": "https://myanimelist.net/anime/6187"
+    }
+  }
+}

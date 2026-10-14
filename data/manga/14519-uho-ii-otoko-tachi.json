@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14519,
+  "slug": "uho-ii-otoko-tachi",
+  "kind": "manga",
+  "title": "Uho! Ii Otoko-tachi",
+  "titles": {
+    "default": "Uho! Ii Otoko-tachi"
+  },
+  "synonyms": [
+    "Uho! Ii Otokotachi",
+    "ウホッ!! いい男たち ヤマジュン・パーフェクト",
+    "ウホッ！！いい男たち2　ヤマジュン・未発表作品集",
+    "Uho! Ii Otokotachi YamaJun Perfect",
+    "ウホッ!! いい男たち",
+    "xxxHOLiC",
+    "xxxHolic Rou",
+    "xxxHolic Cage",
+    "xxxHolic•Rou"
+  ],
+  "type": "manga",
+  "chapters": 40,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx107130-rkDEwdgCl4N8.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "170593",
+      "url": "https://anilist.co/anime/170593"
+    },
+    "al_manga": {
+      "id": "170593",
+      "url": "https://anilist.co/manga/170593"
+    }
+  }
+}

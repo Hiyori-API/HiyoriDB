@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 371,
+  "slug": "otogi-juushi-akazukin-ova",
+  "kind": "anime",
+  "title": "Otogi-juushi Akazukin (OVA)",
+  "titles": {
+    "default": "Otogi-juushi Akazukin (OVA)",
+    "romaji": "Otogi-juushi Akazukin (OVA)",
+    "native": "おとぎ銃士 赤ずきん (OVA)"
+  },
+  "synonyms": [
+    "Otogi-juushi Akazukin (OVA)",
+    "おとぎ銃士 赤ずきん (OVA)",
+    "Fairy Musketeers (OVA)",
+    "Otogi-juushi Little Red Riding Hood (OVA)",
+    "Otogi Juushi Akazukin OVA",
+    "おとぎ銃士 赤ずきん",
+    "Fairy Musketeers Little Red Riding Hood"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx402-Xkz8RLoOxqWA.png"
+  ],
+  "references": {
+    "al": {
+      "id": "402",
+      "url": "https://anilist.co/anime/402"
+    },
+    "k": {
+      "id": "369",
+      "url": "https://kitsu.io/anime/369"
+    },
+    "mal": {
+      "id": "402",
+      "url": "https://myanimelist.net/anime/402"
+    },
+    "tvt": {
+      "id": "akazukin",
+      "url": "http://www.tv-tokyo.co.jp/anime/akazukin"
+    }
+  }
+}

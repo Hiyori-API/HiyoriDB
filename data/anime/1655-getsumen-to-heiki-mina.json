@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1655,
+  "slug": "getsumen-to-heiki-mina",
+  "kind": "anime",
+  "title": "Getsumen To Heiki Mina",
+  "titles": {
+    "default": "Getsumen To Heiki Mina",
+    "romaji": "Getsumen To Heiki Mina",
+    "english": "Mina",
+    "native": "月面兎兵器ミーナ"
+  },
+  "synonyms": [
+    "Getsumen To Heiki Mina",
+    "Mina",
+    "月面兎兵器ミーナ",
+    "Getsumen Usagi Heiki Miina",
+    "Lunar Bunny Weapon Mina",
+    "Getsumen To Heiki Miina"
+  ],
+  "type": "tv",
+  "episodes": 11,
+  "status": "finished",
+  "season": "winter",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1865.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1865",
+      "url": "https://anilist.co/anime/1865"
+    },
+    "cr": {
+      "id": "series/GQWH0M18K/mina",
+      "url": "https://www.crunchyroll.com/series/series/GQWH0M18K/mina"
+    },
+    "k": {
+      "id": "1682",
+      "url": "https://kitsu.io/anime/1682"
+    },
+    "mal": {
+      "id": "1865",
+      "url": "https://myanimelist.net/anime/1865"
+    },
+    "t": {
+      "id": "42739",
+      "url": "https://trakt.tv/shows/42739"
+    }
+  }
+}

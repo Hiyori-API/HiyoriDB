@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14445,
+  "slug": "asagiri-no-miko",
+  "kind": "manga",
+  "title": "Asagiri no Miko",
+  "titles": {
+    "default": "Asagiri no Miko"
+  },
+  "synonyms": [
+    "Shrine of the Morning Mist",
+    "朝霧の巫女",
+    "Mushrambo",
+    "マシュランボー",
+    "Mashuranboo"
+  ],
+  "type": "manga",
+  "chapters": 85,
+  "volumes": 9,
+  "status": "finished",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx33730-epOrGyZV8qmm.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "231",
+      "url": "https://anilist.co/anime/231"
+    },
+    "al_manga": {
+      "id": "231",
+      "url": "https://anilist.co/manga/231"
+    }
+  }
+}

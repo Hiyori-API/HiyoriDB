@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1416,
+  "slug": "casshern",
+  "kind": "anime",
+  "title": "Casshern",
+  "titles": {
+    "default": "Casshern",
+    "romaji": "Casshern",
+    "english": "Casshan: Robot Hunter",
+    "native": "キャシャーン"
+  },
+  "synonyms": [
+    "Casshern",
+    "Casshan: Robot Hunter",
+    "キャシャーン",
+    "Casshern: Robot Hunter",
+    "新造人間キャシャーン"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "summer",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx1598-2p6wAuyMHN7z.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1598",
+      "url": "https://anilist.co/anime/1598"
+    },
+    "k": {
+      "id": "1438",
+      "url": "https://kitsu.io/anime/1438"
+    },
+    "mal": {
+      "id": "1598",
+      "url": "https://myanimelist.net/anime/1598"
+    }
+  }
+}

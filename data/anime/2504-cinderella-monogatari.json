@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2504,
+  "slug": "cinderella-monogatari",
+  "kind": "anime",
+  "title": "Cinderella Monogatari",
+  "titles": {
+    "default": "Cinderella Monogatari",
+    "romaji": "Cinderella Monogatari",
+    "english": "The Story of Cinderella",
+    "native": "シンデレラ物語"
+  },
+  "synonyms": [
+    "Cinderella Monogatari",
+    "The Story of Cinderella",
+    "シンデレラ物語",
+    "Cenerentola",
+    "Cendrillon"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2817-mB2pQYkCZQt1.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2817",
+      "url": "https://anilist.co/anime/2817"
+    },
+    "k": {
+      "id": "2571",
+      "url": "https://kitsu.io/anime/2571"
+    },
+    "mal": {
+      "id": "2817",
+      "url": "https://myanimelist.net/anime/2817"
+    },
+    "t": {
+      "id": "68793",
+      "url": "https://trakt.tv/shows/68793"
+    }
+  }
+}

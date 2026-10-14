@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11679,
+  "slug": "tales-of-luminaria-the-fateful-crossroad",
+  "kind": "anime",
+  "title": "TALES OF LUMINARIA: The Fateful Crossroad",
+  "titles": {
+    "default": "TALES OF LUMINARIA: The Fateful Crossroad",
+    "romaji": "TALES OF LUMINARIA: The Fateful Crossroad",
+    "english": "Tales of Luminaria the Fateful Crossroad",
+    "native": "TALES OF LUMINARIA The Fateful Crossroad"
+  },
+  "synonyms": [
+    "TALES OF LUMINARIA: The Fateful Crossroad",
+    "Tales of Luminaria the Fateful Crossroad",
+    "TALES OF LUMINARIA The Fateful Crossroad",
+    "テイルズ オブ ルミナリア",
+    "Kotatsu Neko (ONA)",
+    "コタツネコ",
+    "Kotatsuneko",
+    "Kotatsu Cat"
+  ],
+  "type": "ona",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139592-b0NguDFqSsfZ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "139592",
+      "url": "https://anilist.co/anime/139592"
+    },
+    "cr": {
+      "id": "tales-of-luminaria-the-fateful-crossroad",
+      "url": "https://www.crunchyroll.com/series/tales-of-luminaria-the-fateful-crossroad"
+    },
+    "k": {
+      "id": "4300",
+      "url": "https://kitsu.io/anime/4300"
+    },
+    "mal": {
+      "id": "49942",
+      "url": "https://myanimelist.net/anime/49942"
+    },
+    "tx": {
+      "id": "to_luminaria",
+      "url": "https://twitter.com/to_luminaria"
+    }
+  }
+}

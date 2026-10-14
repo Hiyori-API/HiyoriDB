@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9330,
+  "slug": "imouto-bitch-ni-shiboraretai",
+  "kind": "anime",
+  "title": "Imouto Bitch ni Shiboraretai",
+  "titles": {
+    "default": "Imouto Bitch ni Shiboraretai",
+    "romaji": "Imouto Bitch ni Shiboraretai",
+    "native": "妹ビッチに搾られたい"
+  },
+  "synonyms": [
+    "Imouto Bitch ni Shiboraretai",
+    "妹ビッチに搾られたい",
+    "I wanna be jerked off by my slutty little sister",
+    "Samurai X: Reflection",
+    "Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou-hen",
+    "るろうに剣心 -明治剣客浪漫譚- 星霜編",
+    "Rurouni Kenshin: Seisouhen",
+    "Rurouni Kenshin OVA 2"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx99555-G3kTjOT6Gx1i.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "99555",
+      "url": "https://anilist.co/anime/99555"
+    },
+    "k": {
+      "id": "368",
+      "url": "https://kitsu.io/anime/368"
+    },
+    "mal": {
+      "id": "35936",
+      "url": "https://myanimelist.net/anime/35936"
+    }
+  }
+}

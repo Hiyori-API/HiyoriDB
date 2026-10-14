@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2005,
+  "slug": "jungle-taitei-movie-1997",
+  "kind": "anime",
+  "title": "Jungle Taitei Movie (1997)",
+  "titles": {
+    "default": "Jungle Taitei Movie (1997)",
+    "romaji": "Jungle Taitei Movie (1997)",
+    "english": "Jungle Emperor Leo",
+    "native": "ジャングル大帝 劇場版 (1997)"
+  },
+  "synonyms": [
+    "Jungle Taitei Movie (1997)",
+    "Jungle Emperor Leo",
+    "ジャングル大帝 劇場版 (1997)",
+    "Léo, roi de la jungle",
+    "ジャングル大帝　劇場版"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2264-VbfihmZuBy84.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2264",
+      "url": "https://anilist.co/anime/2264"
+    },
+    "cr": {
+      "id": "jungle-emperor-leo",
+      "url": "https://www.crunchyroll.com/series/jungle-emperor-leo"
+    },
+    "k": {
+      "id": "8901",
+      "url": "https://kitsu.io/anime/8901"
+    },
+    "mal": {
+      "id": "2264",
+      "url": "https://myanimelist.net/anime/2264"
+    }
+  }
+}

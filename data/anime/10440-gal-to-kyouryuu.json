@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10440,
+  "slug": "gal-to-kyouryuu",
+  "kind": "anime",
+  "title": "Gal to Kyouryuu",
+  "titles": {
+    "default": "Gal to Kyouryuu",
+    "romaji": "Gal to Kyouryuu",
+    "english": "Gal & Dino",
+    "native": "ギャルと恐竜"
+  },
+  "synonyms": [
+    "Gal to Kyouryuu",
+    "Gal & Dino",
+    "ギャルと恐竜",
+    "GAL and Dinosaur",
+    "Gyaru and Dinosaur",
+    "This Ugly Yet Beautiful World",
+    "Kono Minikuku mo Utsukushii Sekai",
+    "この醜くも美しい世界"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx111323-quqYgAchD9PM.png"
+  ],
+  "references": {
+    "al": {
+      "id": "111323",
+      "url": "https://anilist.co/anime/111323"
+    },
+    "cr": {
+      "id": "gal-dino",
+      "url": "https://www.crunchyroll.com/series/gal-dino"
+    },
+    "k": {
+      "id": "124",
+      "url": "https://kitsu.io/anime/124"
+    },
+    "mal": {
+      "id": "40358",
+      "url": "https://myanimelist.net/anime/40358"
+    },
+    "t": {
+      "id": "34001",
+      "url": "https://trakt.tv/shows/34001"
+    },
+    "tx": {
+      "id": "galkyo_info",
+      "url": "https://twitter.com/galkyo_info"
+    }
+  }
+}

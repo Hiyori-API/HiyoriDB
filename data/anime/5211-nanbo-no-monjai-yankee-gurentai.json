@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5211,
+  "slug": "nanbo-no-monjai-yankee-gurentai",
+  "kind": "anime",
+  "title": "Nanbo no Monjai! Yankee Gurentai",
+  "titles": {
+    "default": "Nanbo no Monjai! Yankee Gurentai",
+    "romaji": "Nanbo no Monjai! Yankee Gurentai",
+    "native": "なんぼのもんじゃい! ヤンキー愚連隊"
+  },
+  "synonyms": [
+    "Nanbo no Monjai! Yankee Gurentai",
+    "なんぼのもんじゃい! ヤンキー愚連隊",
+    "なんぼのもんじゃい!1 ヤンキー愚連隊",
+    "なんぼのもんじゃい!2 ヤンキー愚連隊",
+    "Green Legend Ran",
+    "グリーンレジェンド乱"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "fall",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b19783-pIoKcydiOifR.png"
+  ],
+  "references": {
+    "al": {
+      "id": "19783",
+      "url": "https://anilist.co/anime/19783"
+    },
+    "k": {
+      "id": "1050",
+      "url": "https://kitsu.io/anime/1050"
+    },
+    "mal": {
+      "id": "19783",
+      "url": "https://myanimelist.net/anime/19783"
+    }
+  }
+}

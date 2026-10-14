@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7423,
+  "slug": "kyousougiga-tv",
+  "kind": "anime",
+  "title": "Kyousougiga (TV)",
+  "titles": {
+    "default": "Kyousougiga (TV)",
+    "romaji": "Kyousougiga (TV)",
+    "english": "Kyousougiga",
+    "native": "京騒戯画 (TV)"
+  },
+  "synonyms": [
+    "Kyousougiga (TV)",
+    "Kyousougiga",
+    "京騒戯画 (TV)",
+    "Kyousogiga",
+    "Kyousou Giga",
+    "Kyousogiga (TV)",
+    "京騒戯画",
+    "Kyousou Giga (TV)"
+  ],
+  "type": "tv",
+  "episodes": 10,
+  "status": "finished",
+  "season": "fall",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19703-OpohqKDqXIp9.png"
+  ],
+  "references": {
+    "al": {
+      "id": "19703",
+      "url": "https://anilist.co/anime/19703"
+    },
+    "cr": {
+      "id": "kyousougiga",
+      "url": "https://www.crunchyroll.com/series/kyousougiga"
+    },
+    "mal": {
+      "id": "19703",
+      "url": "https://myanimelist.net/anime/19703"
+    },
+    "tx": {
+      "id": "kyousougiga_tv",
+      "url": "https://twitter.com/kyousougiga_tv"
+    }
+  }
+}

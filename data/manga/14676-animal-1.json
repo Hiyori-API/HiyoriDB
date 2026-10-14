@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14676,
+  "slug": "animal-1",
+  "kind": "manga",
+  "title": "Animal 1",
+  "titles": {
+    "default": "Animal 1"
+  },
+  "synonyms": [
+    "Animal One",
+    "アニマルワン",
+    "アニマル1",
+    "Lupin III",
+    "Lupin Sansei",
+    "Lupin the 3rd",
+    "ルパン三世"
+  ],
+  "type": "manga",
+  "chapters": 24,
+  "volumes": 5,
+  "status": "finished",
+  "year": 1967,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx139382-X0dGwV3s6sFJ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "17671",
+      "url": "https://anilist.co/anime/17671"
+    },
+    "al_manga": {
+      "id": "17671",
+      "url": "https://anilist.co/manga/17671"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13294,
+  "slug": "mahou-shoujo-madoka-magica-walpurgis-no-kaiten",
+  "kind": "anime",
+  "title": "Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten",
+  "titles": {
+    "default": "Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten",
+    "romaji": "Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten",
+    "english": "Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-",
+    "native": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉"
+  },
+  "synonyms": [
+    "Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten",
+    "Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-",
+    "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
+    "Magical Girl Madoka Magica Movie 4",
+    "Puella Magi Madoka Magica Movie 4",
+    "Slayers: The Motion Picture",
+    "劇場版スレイヤーズ",
+    "Slayers Perfect",
+    "Gekijouban Slayers",
+    "Slayers Movie 1"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx133007-5gOUXDvzxy9S.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "133007",
+      "url": "https://anilist.co/anime/133007"
+    },
+    "k": {
+      "id": "495",
+      "url": "https://kitsu.io/anime/495"
+    },
+    "mal": {
+      "id": "48820",
+      "url": "https://myanimelist.net/anime/48820"
+    },
+    "tx": {
+      "id": "MadokaMagicaUSA",
+      "url": "https://twitter.com/madoka_magica"
+    }
+  }
+}

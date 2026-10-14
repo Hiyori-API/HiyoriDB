@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10949,
+  "slug": "black-rock-shooter-tv",
+  "kind": "anime",
+  "title": "Black★Rock Shooter (TV)",
+  "titles": {
+    "default": "Black★Rock Shooter (TV)",
+    "romaji": "Black★Rock Shooter (TV)",
+    "english": "Black Rock Shooter",
+    "native": "ブラック★ロックシューター (TV)"
+  },
+  "synonyms": [
+    "Black★Rock Shooter (TV)",
+    "Black Rock Shooter",
+    "ブラック★ロックシューター (TV)",
+    "BRS TV",
+    "Black Rock Shooter TV",
+    "ブラック★ロックシューター",
+    "BRS (TV)"
+  ],
+  "type": "tv",
+  "episodes": 8,
+  "status": "finished",
+  "season": "winter",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11285-uO6GgQUjikbf.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11285",
+      "url": "https://anilist.co/anime/11285"
+    },
+    "cr": {
+      "id": "series/GMEHME53W/black-rock-shooter",
+      "url": "https://www.crunchyroll.com/series/series/GMEHME53W/black-rock-shooter"
+    },
+    "k": {
+      "id": "6489",
+      "url": "https://kitsu.io/anime/6489"
+    },
+    "mal": {
+      "id": "11285",
+      "url": "https://myanimelist.net/anime/11285"
+    },
+    "t": {
+      "id": "42852",
+      "url": "https://trakt.tv/shows/42852"
+    }
+  }
+}

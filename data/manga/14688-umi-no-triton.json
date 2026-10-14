@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14688,
+  "slug": "umi-no-triton",
+  "kind": "manga",
+  "title": "Umi no Triton",
+  "titles": {
+    "default": "Umi no Triton"
+  },
+  "synonyms": [
+    "Blue Triton",
+    "Aoi Toriton",
+    "Triton Of The Sea",
+    "Triton of the Sea",
+    "海のトリトン",
+    "The Crater",
+    "ザ・クレーター"
+  ],
+  "type": "manga",
+  "chapters": 33,
+  "volumes": 4,
+  "status": "finished",
+  "year": 1969,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b49490-yxX5Y2vFrnxr.png"
+  ],
+  "references": {
+    "al": {
+      "id": "148745",
+      "url": "https://anilist.co/anime/7626"
+    },
+    "al_manga": {
+      "id": "148745",
+      "url": "https://anilist.co/manga/148745"
+    }
+  }
+}

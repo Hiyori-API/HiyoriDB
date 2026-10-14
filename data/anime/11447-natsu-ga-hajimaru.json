@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11447,
+  "slug": "natsu-ga-hajimaru",
+  "kind": "anime",
+  "title": "Natsu ga Hajimaru.",
+  "titles": {
+    "default": "Natsu ga Hajimaru.",
+    "romaji": "Natsu ga Hajimaru.",
+    "native": "夏がはじまる。"
+  },
+  "synonyms": [
+    "Natsu ga Hajimaru.",
+    "夏がはじまる。",
+    "CalorieMate web movie",
+    "カロリーメイト web movie",
+    "Surges",
+    "Hoshizora Kiseki",
+    "星空キセキ"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136795-srm01urEt7gD.png"
+  ],
+  "references": {
+    "al": {
+      "id": "136795",
+      "url": "https://anilist.co/anime/136795"
+    },
+    "k": {
+      "id": "1097",
+      "url": "https://kitsu.io/anime/1097"
+    },
+    "mal": {
+      "id": "49581",
+      "url": "https://myanimelist.net/anime/49581"
+    },
+    "yt": {
+      "id": "wf8mZVmof2g",
+      "url": "https://www.youtube.com/watch?v=wf8mZVmof2g"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7901,
+  "slug": "sei-shoujo-seido-ikusei-gakuen-the-animation",
+  "kind": "anime",
+  "title": "Sei Shoujo: Seido Ikusei Gakuen THE ANIMATION",
+  "titles": {
+    "default": "Sei Shoujo: Seido Ikusei Gakuen THE ANIMATION",
+    "romaji": "Sei Shoujo: Seido Ikusei Gakuen THE ANIMATION",
+    "english": "St. Prostitute  ~Sex School Education Academy~",
+    "native": "聖娼女 ～性奴育成学園～ THE ANIMATION"
+  },
+  "synonyms": [
+    "Sei Shoujo: Seido Ikusei Gakuen THE ANIMATION",
+    "St. Prostitute  ~Sex School Education Academy~",
+    "聖娼女 ～性奴育成学園～ THE ANIMATION",
+    "Sacred Prostitutes: The Animation",
+    "Choujigen Game Neptune The Animation OVA",
+    "超次元ゲイム ネプテューヌ THE ANIMATION",
+    "Choujigen Game Neptune: The Animation Episode 13",
+    "Kami Jigen Game Neptune V OVA",
+    "Hyperdimension Neptunia Victory OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21529-m2zT1k7tK0tE.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21529",
+      "url": "https://anilist.co/anime/21529"
+    },
+    "k": {
+      "id": "8071",
+      "url": "https://kitsu.io/anime/8071"
+    },
+    "mal": {
+      "id": "24021",
+      "url": "https://myanimelist.net/anime/24021"
+    }
+  }
+}

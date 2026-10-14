@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6734,
+  "slug": "danshi-koukousei-no-nichijou",
+  "kind": "anime",
+  "title": "Danshi Koukousei no Nichijou",
+  "titles": {
+    "default": "Danshi Koukousei no Nichijou",
+    "romaji": "Danshi Koukousei no Nichijou",
+    "english": "Daily Lives of High School Boys",
+    "native": "男子高校生の日常"
+  },
+  "synonyms": [
+    "Danshi Koukousei no Nichijou",
+    "Daily Lives of High School Boys",
+    "男子高校生の日常",
+    "Nichibros",
+    "La vie quotidienne de lycéens"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11843-ui2jBcuQUqnl.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11843",
+      "url": "https://anilist.co/anime/11843"
+    },
+    "cr": {
+      "id": "daily-lives-of-high-school-boys",
+      "url": "https://www.crunchyroll.com/series/daily-lives-of-high-school-boys"
+    },
+    "k": {
+      "id": "6616",
+      "url": "https://kitsu.io/anime/6616"
+    },
+    "mal": {
+      "id": "11843",
+      "url": "https://myanimelist.net/anime/11843"
+    },
+    "t": {
+      "id": "65309",
+      "url": "https://trakt.tv/shows/65309"
+    },
+    "ttv": {
+      "id": "300007493",
+      "url": "https://tubitv.com/series/300007493"
+    }
+  }
+}

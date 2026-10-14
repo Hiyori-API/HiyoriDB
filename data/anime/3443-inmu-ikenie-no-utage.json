@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3443,
+  "slug": "inmu-ikenie-no-utage",
+  "kind": "anime",
+  "title": "Inmu: Ikenie no Utage",
+  "titles": {
+    "default": "Inmu: Ikenie no Utage",
+    "romaji": "Inmu: Ikenie no Utage",
+    "english": "Inmu: Feast of Victims",
+    "native": "淫夢～生贄の宴～"
+  },
+  "synonyms": [
+    "Inmu: Ikenie no Utage",
+    "Inmu: Feast of Victims",
+    "淫夢～生贄の宴～",
+    "Angelique: Shiroi Tsubasa no Memoire",
+    "アンジェリーク　～白い翼のメモワール～",
+    "Angelique: White Wing Memoirs",
+    "Angelique OVA 1"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4379-NlRb4H7Jj6SN.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4379",
+      "url": "https://anilist.co/anime/4379"
+    },
+    "k": {
+      "id": "2301",
+      "url": "https://kitsu.io/anime/2301"
+    },
+    "mal": {
+      "id": "4379",
+      "url": "https://myanimelist.net/anime/4379"
+    }
+  }
+}

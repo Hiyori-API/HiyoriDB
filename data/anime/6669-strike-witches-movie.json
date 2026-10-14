@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6669,
+  "slug": "strike-witches-movie",
+  "kind": "anime",
+  "title": "Strike Witches Movie",
+  "titles": {
+    "default": "Strike Witches Movie",
+    "romaji": "Strike Witches Movie",
+    "english": "Strike Witches: The Movie",
+    "native": "ストライクウィッチーズ 劇場版"
+  },
+  "synonyms": [
+    "Strike Witches Movie",
+    "Strike Witches: The Movie",
+    "ストライクウィッチーズ 劇場版",
+    "强袭魔女 剧场版",
+    "Toshokan Sensou: Kakumei no Tsubasa",
+    "図書館戦争 革命のつばさ",
+    "Library War the Movie",
+    "Gekijouban Toshokan Sensou",
+    "Library War: The Wings of Revolution"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9751-HZPD9Jz8pK12.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9751",
+      "url": "https://anilist.co/anime/9751"
+    },
+    "cr": {
+      "id": "Strike-Witches",
+      "url": "https://www.crunchyroll.com/series/Strike-Witches"
+    },
+    "k": {
+      "id": "6436",
+      "url": "https://kitsu.io/anime/6436"
+    },
+    "mal": {
+      "id": "9751",
+      "url": "https://myanimelist.net/anime/9751"
+    }
+  }
+}

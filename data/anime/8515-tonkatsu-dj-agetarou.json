@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8515,
+  "slug": "tonkatsu-dj-agetarou",
+  "kind": "anime",
+  "title": "Tonkatsu DJ Agetarou",
+  "titles": {
+    "default": "Tonkatsu DJ Agetarou",
+    "romaji": "Tonkatsu DJ Agetarou",
+    "english": "Tonkatsu DJ Agetaro",
+    "native": "とんかつＤＪアゲ太郎"
+  },
+  "synonyms": [
+    "Tonkatsu DJ Agetarou",
+    "Tonkatsu DJ Agetaro",
+    "とんかつＤＪアゲ太郎",
+    "とんかつDJアゲ太郎"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21297-Q1bE9nf22rmD.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21297",
+      "url": "https://anilist.co/anime/21297"
+    },
+    "cr": {
+      "id": "tonkatsu-dj-agetaro",
+      "url": "https://www.crunchyroll.com/series/tonkatsu-dj-agetaro"
+    },
+    "mal": {
+      "id": "31370",
+      "url": "https://myanimelist.net/anime/31370"
+    },
+    "tx": {
+      "id": "tonkatsu_DJ",
+      "url": "https://twitter.com/tonkatsu_DJ"
+    }
+  }
+}

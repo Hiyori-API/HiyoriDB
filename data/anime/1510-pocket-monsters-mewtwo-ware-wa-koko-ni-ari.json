@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1510,
+  "slug": "pocket-monsters-mewtwo-ware-wa-koko-ni-ari",
+  "kind": "anime",
+  "title": "Pocket Monsters: Mewtwo! Ware wa Koko ni Ari",
+  "titles": {
+    "default": "Pocket Monsters: Mewtwo! Ware wa Koko ni Ari",
+    "romaji": "Pocket Monsters: Mewtwo! Ware wa Koko ni Ari",
+    "english": "Pokémon: Mewtwo Returns",
+    "native": "ポケットモンスター ミュウツー! 我ハココニ在リ"
+  },
+  "synonyms": [
+    "Pocket Monsters: Mewtwo! Ware wa Koko ni Ari",
+    "Pokémon: Mewtwo Returns",
+    "ポケットモンスター ミュウツー! 我ハココニ在リ",
+    "Pocket Monsters: Myuutsu! I Exist Here",
+    "Pokemon: Mewtwo Returns",
+    "Pokémon: Mewtwo regresa",
+    "Pokémon: Mewtwo powracaMewtwo visszatér",
+    "Pokémon: Powrót Mewtwo",
+    "Pokémon: Mewtwo Återkomsten",
+    "Chikyuu Bouei Kazoku Special",
+    "The Daichis: Earth's Defence Family - Into the Depths of Marital Hell",
+    "地球防衛家族 絶叫!愛の迷宮地獄",
+    "The Daichis: Earth Defence Family Special",
+    "Chikyu Boei Kazoku",
+    "Chikyu Boei Kazoku alternative ep 11",
+    "Chikyu Boei Kazoku ep 11.5"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1709-vQoFgnySwLOq.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1709",
+      "url": "https://anilist.co/anime/1709"
+    },
+    "k": {
+      "id": "4620",
+      "url": "https://kitsu.io/anime/4620"
+    },
+    "mal": {
+      "id": "1709",
+      "url": "https://myanimelist.net/anime/1709"
+    }
+  }
+}

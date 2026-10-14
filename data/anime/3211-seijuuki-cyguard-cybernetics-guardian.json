@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3211,
+  "slug": "seijuuki-cyguard-cybernetics-guardian",
+  "kind": "anime",
+  "title": "Seijuuki Cyguard: CYBERNETICS GUARDIAN",
+  "titles": {
+    "default": "Seijuuki Cyguard: CYBERNETICS GUARDIAN",
+    "romaji": "Seijuuki Cyguard: CYBERNETICS GUARDIAN",
+    "english": "CYBERNETICS GUARDIAN",
+    "native": "聖獣機サイガード -CYBERNETICS・GUARDIAN-"
+  },
+  "synonyms": [
+    "Seijuuki Cyguard: CYBERNETICS GUARDIAN",
+    "CYBERNETICS GUARDIAN",
+    "聖獣機サイガード -CYBERNETICS・GUARDIAN-",
+    "Seijuki Cyguard",
+    "Cybernetics Guardian",
+    "Seijuuki Cyguard",
+    "聖獣機サイガード"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3882-abnfQXzLVEpD.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3882",
+      "url": "https://anilist.co/anime/3882"
+    },
+    "k": {
+      "id": "3322",
+      "url": "https://kitsu.io/anime/3322"
+    },
+    "mal": {
+      "id": "3882",
+      "url": "https://myanimelist.net/anime/3882"
+    }
+  }
+}

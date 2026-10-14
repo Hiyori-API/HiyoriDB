@@ -1,0 +1,63 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10536,
+  "slug": "pocket-monsters-coco",
+  "kind": "anime",
+  "title": "Pocket Monsters: Coco",
+  "titles": {
+    "default": "Pocket Monsters: Coco",
+    "romaji": "Pocket Monsters: Coco",
+    "english": "Pokémon the Movie: Secrets of the Jungle",
+    "native": "ポケットモンスターココ"
+  },
+  "synonyms": [
+    "Pocket Monsters: Coco",
+    "Pokémon the Movie: Secrets of the Jungle",
+    "ポケットモンスターココ",
+    "Pokémon: Koko",
+    "Pokémon Movie 23: Koko",
+    "Pocket Monsters: Koko",
+    "Pokemon: Coco",
+    "Pokémonfilmen: Jungelens Hemmeligheter",
+    "Film Pokémon: Sekrety Dżungli",
+    "Pokémon Filmen: Djungelns Hemligheter",
+    "Samurai X: The Motion Picture",
+    "Rurouni Kenshin: Meiji Kenkaku Romantan - Ishinshishi e no Chinkonka",
+    "るろうに剣心 -明治剣客浪漫譚- 維新志士への鎮魂歌",
+    "Rurouni Kenshin: Ishinshishi e no Requiem",
+    "Kenshin - Samurai X",
+    "Rurouni Kenshin Movie",
+    "Rurouni Kenshin - Requiem for the Restoration Royalists",
+    "Rurouni Kenshin: Meiji Kenkaku Romantan - Ishinshishi e no Requiem"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114564-Imh6m5Tejii6.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "114564",
+      "url": "https://anilist.co/anime/114564"
+    },
+    "k": {
+      "id": "28",
+      "url": "https://kitsu.io/anime/28"
+    },
+    "mal": {
+      "id": "40881",
+      "url": "https://myanimelist.net/anime/40881"
+    },
+    "nf": {
+      "id": "81346307",
+      "url": "https://www.netflix.com/title/81346307"
+    },
+    "tx": {
+      "id": "pokemon_movie",
+      "url": "https://twitter.com/pokemon_movie"
+    }
+  }
+}

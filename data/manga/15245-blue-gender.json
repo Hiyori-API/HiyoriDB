@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15245,
+  "slug": "blue-gender",
+  "kind": "manga",
+  "title": "Blue Gender",
+  "titles": {
+    "default": "Blue Gender"
+  },
+  "synonyms": [
+    "ブルージェンダー",
+    "Mushrambo",
+    "マシュランボー",
+    "Mashuranboo"
+  ],
+  "type": "manga",
+  "volumes": 1,
+  "status": "finished",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/40203.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "58",
+      "url": "https://anilist.co/anime/58"
+    },
+    "al_manga": {
+      "id": "58",
+      "url": "https://anilist.co/manga/58"
+    }
+  }
+}

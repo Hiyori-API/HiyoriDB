@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4549,
+  "slug": "ladies-versus-butlers",
+  "kind": "anime",
+  "title": "Ladies versus Butlers!",
+  "titles": {
+    "default": "Ladies versus Butlers!",
+    "romaji": "Ladies versus Butlers!",
+    "english": "Ladies Versus Butlers",
+    "native": "れでぃ×ばと!"
+  },
+  "synonyms": [
+    "Ladies versus Butlers!",
+    "Ladies Versus Butlers",
+    "れでぃ×ばと!",
+    "Ladies vs. Butlers!",
+    "Redei x Bato"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx7148-nLJGo6aO9FQX.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7148",
+      "url": "https://anilist.co/anime/7148"
+    },
+    "cr": {
+      "id": "ladies-versus-butlers",
+      "url": "https://www.crunchyroll.com/series/ladies-versus-butlers"
+    },
+    "k": {
+      "id": "4879",
+      "url": "https://kitsu.io/anime/4879"
+    },
+    "mal": {
+      "id": "7148",
+      "url": "https://myanimelist.net/anime/7148"
+    },
+    "t": {
+      "id": "37709",
+      "url": "https://trakt.tv/shows/37709"
+    },
+    "ttv": {
+      "id": "4823",
+      "url": "https://tubitv.com/series/4823"
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11297,
+  "slug": "fairy-ranmaru-anata-no-kokoro-otasuke-shimasu",
+  "kind": "anime",
+  "title": "Fairy Ranmaru: Anata no Kokoro Otasuke Shimasu",
+  "titles": {
+    "default": "Fairy Ranmaru: Anata no Kokoro Otasuke Shimasu",
+    "romaji": "Fairy Ranmaru: Anata no Kokoro Otasuke Shimasu",
+    "english": "Fairy Ranmaru",
+    "native": "Fairy蘭丸～あなたの心お助けします～"
+  },
+  "synonyms": [
+    "Fairy Ranmaru: Anata no Kokoro Otasuke Shimasu",
+    "Fairy Ranmaru",
+    "Fairy蘭丸～あなたの心お助けします～",
+    "F-Ran",
+    "F蘭丸",
+    "แฟร์รี่ รันมารุ จะช่วยหัวใจเธอเอง",
+    "This Ugly Yet Beautiful World",
+    "Kono Minikuku mo Utsukushii Sekai",
+    "この醜くも美しい世界"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128399-vNFzJFr7tXdZ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "128399",
+      "url": "https://anilist.co/anime/128399"
+    },
+    "cr": {
+      "id": "fairy-ranmaru",
+      "url": "https://www.crunchyroll.com/series/fairy-ranmaru"
+    },
+    "k": {
+      "id": "124",
+      "url": "https://kitsu.io/anime/124"
+    },
+    "mal": {
+      "id": "45665",
+      "url": "https://myanimelist.net/anime/45665"
+    },
+    "t": {
+      "id": "34001",
+      "url": "https://trakt.tv/shows/34001"
+    },
+    "tx": {
+      "id": "FairyRanmaru",
+      "url": "https://twitter.com/FairyRanmaru"
+    }
+  }
+}

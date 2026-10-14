@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7334,
+  "slug": "mini-van",
+  "kind": "anime",
+  "title": "Mini Van",
+  "titles": {
+    "default": "Mini Van",
+    "romaji": "Mini Van",
+    "native": "みにヴぁん"
+  },
+  "synonyms": [
+    "Mini Van",
+    "みにヴぁん",
+    "Danbooru Senki Wars",
+    "ダンボール戦機ウォーズ",
+    "Danball Senki Wars"
+  ],
+  "type": "tv",
+  "episodes": 37,
+  "status": "finished",
+  "season": "spring",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18391-PptwEVitGwJ5.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "18391",
+      "url": "https://anilist.co/anime/18391"
+    },
+    "mal": {
+      "id": "18391",
+      "url": "https://myanimelist.net/anime/18391"
+    }
+  }
+}

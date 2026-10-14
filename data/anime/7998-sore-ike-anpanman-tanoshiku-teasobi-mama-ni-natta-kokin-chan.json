@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7998,
+  "slug": "sore-ike-anpanman-tanoshiku-teasobi-mama-ni-natta-kokin-chan",
+  "kind": "anime",
+  "title": "Sore Ike! Anpanman: Tanoshiku Teasobi Mama ni Natta Kokin-chan!?",
+  "titles": {
+    "default": "Sore Ike! Anpanman: Tanoshiku Teasobi Mama ni Natta Kokin-chan!?",
+    "romaji": "Sore Ike! Anpanman: Tanoshiku Teasobi Mama ni Natta Kokin-chan!?",
+    "native": "それいけ！アンパンマン たのしくてあそび ママになったコキンちゃん!?"
+  },
+  "synonyms": [
+    "Sore Ike! Anpanman: Tanoshiku Teasobi Mama ni Natta Kokin-chan!?",
+    "それいけ！アンパンマン たのしくてあそび ママになったコキンちゃん!?",
+    "Spo-chan Taiketsu: Youkai Daikessen",
+    "スポチャン対決~妖怪大決戦~"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b176874-ZefQTqGCX52B.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "176874",
+      "url": "https://anilist.co/anime/176874"
+    },
+    "k": {
+      "id": "8568",
+      "url": "https://kitsu.io/anime/8568"
+    },
+    "mal": {
+      "id": "52473",
+      "url": "https://myanimelist.net/anime/52473"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1180,
+  "slug": "kyoushoku-soukou-guyver-act-ii",
+  "kind": "anime",
+  "title": "Kyoushoku Soukou Guyver ACT II",
+  "titles": {
+    "default": "Kyoushoku Soukou Guyver ACT II",
+    "romaji": "Kyoushoku Soukou Guyver ACT II",
+    "english": "The Guyver: Bio-Booster Armor",
+    "native": "強殖装甲ガイバー ACT II"
+  },
+  "synonyms": [
+    "Kyoushoku Soukou Guyver ACT II",
+    "The Guyver: Bio-Booster Armor",
+    "強殖装甲ガイバー ACT II",
+    "Bio-Booster Armor Guyver",
+    "The Guyver",
+    "Kyoushoku Soukou Guyver",
+    "The Guyver Act II",
+    "Kyoushoku Soukou Guyver II",
+    "強殖装甲ガイバー II",
+    "Guyver: The Bio-boosted Armor II"
+  ],
+  "type": "ova",
+  "episodes": 6,
+  "status": "finished",
+  "season": "fall",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1336-xHgX3rWZXZWD.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1336",
+      "url": "https://anilist.co/anime/1336"
+    },
+    "k": {
+      "id": "8124",
+      "url": "https://kitsu.io/anime/8124"
+    },
+    "mal": {
+      "id": "1336",
+      "url": "https://myanimelist.net/anime/1336"
+    }
+  }
+}

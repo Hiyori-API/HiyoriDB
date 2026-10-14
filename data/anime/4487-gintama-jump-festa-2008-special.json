@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4487,
+  "slug": "gintama-jump-festa-2008-special",
+  "kind": "anime",
+  "title": "Gintama: Jump Festa 2008 Special",
+  "titles": {
+    "default": "Gintama: Jump Festa 2008 Special",
+    "romaji": "Gintama: Jump Festa 2008 Special",
+    "native": "ジャンプアニメツアー 2008 白夜叉降誕"
+  },
+  "synonyms": [
+    "Gintama: Jump Festa 2008 Special",
+    "ジャンプアニメツアー 2008 白夜叉降誕",
+    "Gintama OVA: Shiroyasha Koutan",
+    "Gintama: Jump Anime Tour 2008 Special",
+    "Naruto: The Cross Roads",
+    "ナルト サ・クロスローズ",
+    "Naruto's 10th Anniversary"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6945.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6945",
+      "url": "https://anilist.co/anime/6945"
+    },
+    "k": {
+      "id": "4953",
+      "url": "https://kitsu.io/anime/4953"
+    },
+    "mal": {
+      "id": "6945",
+      "url": "https://myanimelist.net/anime/6945"
+    }
+  }
+}

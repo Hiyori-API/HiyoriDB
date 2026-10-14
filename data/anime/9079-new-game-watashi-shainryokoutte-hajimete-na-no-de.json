@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9079,
+  "slug": "new-game-watashi-shainryokoutte-hajimete-na-no-de",
+  "kind": "anime",
+  "title": "NEW GAME!: Watashi, Shainryokoutte Hajimete na no de...",
+  "titles": {
+    "default": "NEW GAME!: Watashi, Shainryokoutte Hajimete na no de...",
+    "romaji": "NEW GAME!: Watashi, Shainryokoutte Hajimete na no de...",
+    "native": "NEW GAME! 私、社員旅行って初めてなので…"
+  },
+  "synonyms": [
+    "NEW GAME!: Watashi, Shainryokoutte Hajimete na no de...",
+    "NEW GAME! 私、社員旅行って初めてなので…",
+    "New Game! OVA: My First Time on a Company Vacation...",
+    "New Game Episode 13",
+    "New Game! Watashi, Shain Ryokou tte Hajimete nanode..."
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97637-rNs2Yd3OvBAx.png"
+  ],
+  "references": {
+    "al": {
+      "id": "97637",
+      "url": "https://anilist.co/anime/97637"
+    },
+    "mal": {
+      "id": "34277",
+      "url": "https://myanimelist.net/anime/34277"
+    },
+    "tx": {
+      "id": "nganime",
+      "url": "https://twitter.com/nganime"
+    }
+  }
+}

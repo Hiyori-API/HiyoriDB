@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4888,
+  "slug": "micro-teukgongdae-diatron-5",
+  "kind": "anime",
+  "title": "Micro Teukgongdae Diatron 5",
+  "titles": {
+    "default": "Micro Teukgongdae Diatron 5",
+    "romaji": "Micro Teukgongdae Diatron 5",
+    "english": "Space Transformers",
+    "native": "마이크로 특공대 다이야트론 5"
+  },
+  "synonyms": [
+    "Micro Teukgongdae Diatron 5",
+    "Space Transformers",
+    "마이크로 특공대 다이야트론 5",
+    "Micro Teukgongdae Daiyateuron 5",
+    "Micro Commando Diatron 5",
+    "Micro 特攻隊",
+    "Space Transformer"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11357.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11357",
+      "url": "https://anilist.co/anime/11357"
+    },
+    "k": {
+      "id": "6499",
+      "url": "https://kitsu.io/anime/6499"
+    },
+    "mal": {
+      "id": "11357",
+      "url": "https://myanimelist.net/anime/11357"
+    }
+  }
+}

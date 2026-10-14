@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14135,
+  "slug": "maria-sama-ga-miteru",
+  "kind": "manga",
+  "title": "Maria-sama ga Miteru",
+  "titles": {
+    "default": "Maria-sama ga Miteru"
+  },
+  "synonyms": [
+    "Rosen unter Marias Obhut",
+    "The Virgin Mary is Watching",
+    "Maria Watches Over Us",
+    "Marimite",
+    "マリア様がみてる",
+    "xxxHOLiC",
+    "xxxHolic Rou",
+    "xxxHolic Cage",
+    "xxxHolic•Rou"
+  ],
+  "type": "manga",
+  "chapters": 48,
+  "volumes": 9,
+  "status": "finished",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31227-EkQQae7DsCfv.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3750",
+      "url": "https://anilist.co/anime/158"
+    },
+    "al_manga": {
+      "id": "3750",
+      "url": "https://anilist.co/manga/3750"
+    }
+  }
+}

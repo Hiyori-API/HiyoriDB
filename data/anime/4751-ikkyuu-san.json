@@ -1,0 +1,58 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4751,
+  "slug": "ikkyuu-san",
+  "kind": "anime",
+  "title": "Ikkyuu-san",
+  "titles": {
+    "default": "Ikkyuu-san",
+    "romaji": "Ikkyuu-san",
+    "native": "一球さん"
+  },
+  "synonyms": [
+    "Ikkyuu-san",
+    "一球さん",
+    "Ikkyu-san",
+    "Highschool Baseball Ninja",
+    "عدنان ولينا",
+    "Future Boy Conan",
+    "Mirai Shounen Conan",
+    "Conan, el Niño del Futuro",
+    "Conan le fils du futur",
+    "Conan, Boy in The Future",
+    "Conan il ragazzo del futuro",
+    "未来少年コナン",
+    "미래소년 코난",
+    "Conan O Rapaz do Futuro",
+    "未來少年柯南",
+    "The Boy in Future",
+    "Conan, le garçon de l'avenir",
+    "Conan, ragazzo del 2000"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 1978,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19947.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "19947",
+      "url": "https://anilist.co/anime/19947"
+    },
+    "k": {
+      "id": "276",
+      "url": "https://kitsu.io/anime/276"
+    },
+    "mal": {
+      "id": "19947",
+      "url": "https://myanimelist.net/anime/19947"
+    },
+    "t": {
+      "id": "19150",
+      "url": "https://trakt.tv/shows/19150"
+    }
+  }
+}

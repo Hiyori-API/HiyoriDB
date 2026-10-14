@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7276,
+  "slug": "koitabi-true-tours-nanto",
+  "kind": "anime",
+  "title": "Koitabi: True Tours Nanto",
+  "titles": {
+    "default": "Koitabi: True Tours Nanto",
+    "romaji": "Koitabi: True Tours Nanto",
+    "native": "恋旅~True Tours Nanto"
+  },
+  "synonyms": [
+    "Koitabi: True Tours Nanto",
+    "恋旅~True Tours Nanto"
+  ],
+  "type": "special",
+  "episodes": 6,
+  "status": "finished",
+  "season": "spring",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17635.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "17635",
+      "url": "https://anilist.co/anime/17635"
+    },
+    "k": {
+      "id": "7717",
+      "url": "https://kitsu.io/anime/7717"
+    },
+    "mal": {
+      "id": "17635",
+      "url": "https://myanimelist.net/anime/17635"
+    }
+  }
+}

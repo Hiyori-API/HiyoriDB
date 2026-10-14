@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2755,
+  "slug": "kingyo-chuuihou-movie",
+  "kind": "anime",
+  "title": "Kingyo Chuuihou! (Movie)",
+  "titles": {
+    "default": "Kingyo Chuuihou! (Movie)",
+    "romaji": "Kingyo Chuuihou! (Movie)",
+    "native": "きんぎょ注意報! (Movie)"
+  },
+  "synonyms": [
+    "Kingyo Chuuihou! (Movie)",
+    "きんぎょ注意報! (Movie)",
+    "Goldfish Warning! The Movie",
+    "Kingyo Chuuihou! Movie",
+    "きんぎょ注意報!劇場版",
+    "きんぎょ注意報！"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3155-KSz5Ix9N2bKh.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3155",
+      "url": "https://anilist.co/anime/3155"
+    },
+    "k": {
+      "id": "2828",
+      "url": "https://kitsu.io/anime/2828"
+    },
+    "mal": {
+      "id": "3155",
+      "url": "https://myanimelist.net/anime/3155"
+    }
+  }
+}

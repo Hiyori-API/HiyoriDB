@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14326,
+  "slug": "najica-dengeki-sakusen",
+  "kind": "manga",
+  "title": "Najica Dengeki Sakusen",
+  "titles": {
+    "default": "Najica Dengeki Sakusen"
+  },
+  "synonyms": [
+    "Najica",
+    "Najica Blitz Tactics",
+    "ナジカ電撃作戦",
+    "Railroad",
+    "레일로드"
+  ],
+  "type": "manga",
+  "chapters": 18,
+  "volumes": 3,
+  "status": "finished",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx32910-p40oIhMiUO0T.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "321",
+      "url": "https://anilist.co/anime/321"
+    },
+    "al_manga": {
+      "id": "321",
+      "url": "https://anilist.co/manga/321"
+    }
+  }
+}

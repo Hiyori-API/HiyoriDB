@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3013,
+  "slug": "renzu-futari-no-kyori",
+  "kind": "anime",
+  "title": "Renzu: Futari no Kyori",
+  "titles": {
+    "default": "Renzu: Futari no Kyori",
+    "romaji": "Renzu: Futari no Kyori",
+    "english": "Renzu: The Distance Between the Two",
+    "native": "恋図〜ふたりの距離〜"
+  },
+  "synonyms": [
+    "Renzu: Futari no Kyori",
+    "Renzu: The Distance Between the Two",
+    "恋図〜ふたりの距離〜",
+    "Locke the Superman: Mirror Ring",
+    "Choujin Locke: Mirror Ring",
+    "超人ロック～ミラーリング～"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3567.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3567",
+      "url": "https://anilist.co/anime/3567"
+    },
+    "k": {
+      "id": "3869",
+      "url": "https://kitsu.io/anime/3869"
+    },
+    "mal": {
+      "id": "3567",
+      "url": "https://myanimelist.net/anime/3567"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13080,
+  "slug": "akogare-no-onna-joushi-ga-aibeya-shucchou-no-tonari-no-bed-de-zetsurin-otoko-ni-netorarete-iru",
+  "kind": "anime",
+  "title": "Akogare no Onna Joushi ga, Aibeya Shucchou no Tonari no Bed de Zetsurin Otoko ni Netorarete Iru",
+  "titles": {
+    "default": "Akogare no Onna Joushi ga, Aibeya Shucchou no Tonari no Bed de Zetsurin Otoko ni Netorarete Iru",
+    "romaji": "Akogare no Onna Joushi ga, Aibeya Shucchou no Tonari no Bed de Zetsurin Otoko ni Netorarete Iru",
+    "native": "憧れの女上司が、相部屋出張の隣のベッドで絶倫男に寝取られている"
+  },
+  "synonyms": [
+    "Akogare no Onna Joushi ga, Aibeya Shucchou no Tonari no Bed de Zetsurin Otoko ni Netorarete Iru",
+    "憧れの女上司が、相部屋出張の隣のベッドで絶倫男に寝取られている",
+    "RG Veda",
+    "聖伝"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185166-nRoGrSNTd13z.png"
+  ],
+  "references": {
+    "al": {
+      "id": "185166",
+      "url": "https://anilist.co/anime/185166"
+    },
+    "k": {
+      "id": "402",
+      "url": "https://kitsu.io/anime/402"
+    },
+    "mal": {
+      "id": "61166",
+      "url": "https://myanimelist.net/anime/61166"
+    }
+  }
+}

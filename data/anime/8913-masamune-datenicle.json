@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8913,
+  "slug": "masamune-datenicle",
+  "kind": "anime",
+  "title": "Masamune Datenicle",
+  "titles": {
+    "default": "Masamune Datenicle",
+    "romaji": "Masamune Datenicle",
+    "native": "正宗ダテニクル"
+  },
+  "synonyms": [
+    "Masamune Datenicle",
+    "正宗ダテニクル",
+    "Hennako-chan",
+    "へんな子ちゃん",
+    "Hen na Ko chan"
+  ],
+  "type": "ona",
+  "episodes": 6,
+  "status": "finished",
+  "season": "spring",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101911-me0f21hsv1rA.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101911",
+      "url": "https://anilist.co/anime/101911"
+    },
+    "k": {
+      "id": "3601",
+      "url": "https://kitsu.io/anime/3601"
+    },
+    "mal": {
+      "id": "32248",
+      "url": "https://myanimelist.net/anime/32248"
+    },
+    "tx": {
+      "id": "datenikuru",
+      "url": "https://twitter.com/datenikuru"
+    }
+  }
+}

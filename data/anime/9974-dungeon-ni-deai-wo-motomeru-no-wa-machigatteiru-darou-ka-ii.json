@@ -1,0 +1,64 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9974,
+  "slug": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ii",
+  "kind": "anime",
+  "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II",
+  "titles": {
+    "default": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II",
+    "romaji": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II",
+    "english": "Is It Wrong to Try to Pick Up Girls in a Dungeon? II",
+    "native": "ダンジョンに出会いを求めるのは間違っているだろうかⅡ"
+  },
+  "synonyms": [
+    "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II",
+    "Is It Wrong to Try to Pick Up Girls in a Dungeon? II",
+    "ダンジョンに出会いを求めるのは間違っているだろうかⅡ",
+    "Danmachi II",
+    "ダンジョンに出会いを求めるのは間違っているだろうか2",
+    "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka 2",
+    "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth II",
+    "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน ภาค 2",
+    "ダンまちⅡ",
+    "DearS",
+    "ディアーズ"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101167-Yasvj97UR9ue.png"
+  ],
+  "references": {
+    "al": {
+      "id": "101167",
+      "url": "https://anilist.co/anime/101167"
+    },
+    "cr": {
+      "id": "is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon",
+      "url": "https://www.crunchyroll.com/series/is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon"
+    },
+    "k": {
+      "id": "44",
+      "url": "https://kitsu.io/anime/44"
+    },
+    "mal": {
+      "id": "37347",
+      "url": "https://myanimelist.net/anime/37347"
+    },
+    "nf": {
+      "id": "80185873",
+      "url": "https://www.netflix.com/title/80185873"
+    },
+    "t": {
+      "id": "61051",
+      "url": "https://trakt.tv/shows/61051"
+    },
+    "tx": {
+      "id": "danmachi_anime",
+      "url": "https://twitter.com/danmachi_anime"
+    }
+  }
+}

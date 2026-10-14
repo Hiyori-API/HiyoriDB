@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7981,
+  "slug": "buddy-complex-daremo-shiranai-ashita-e",
+  "kind": "anime",
+  "title": "Buddy Complex: Daremo Shiranai Ashita e",
+  "titles": {
+    "default": "Buddy Complex: Daremo Shiranai Ashita e",
+    "romaji": "Buddy Complex: Daremo Shiranai Ashita e",
+    "native": "バディ・コンプレックス 特別編集版「―誰も知らない明日へ―」"
+  },
+  "synonyms": [
+    "Buddy Complex: Daremo Shiranai Ashita e",
+    "バディ・コンプレックス 特別編集版「―誰も知らない明日へ―」",
+    "Toukiden Kiwami",
+    "討鬼伝 極"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119665-g9Z8ck25AdCh.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "119665",
+      "url": "https://anilist.co/anime/119665"
+    },
+    "k": {
+      "id": "9102",
+      "url": "https://kitsu.io/anime/9102"
+    },
+    "mal": {
+      "id": "31105",
+      "url": "https://myanimelist.net/anime/31105"
+    }
+  }
+}

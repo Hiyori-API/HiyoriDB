@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9222,
+  "slug": "daraku-reijou-the-animation-hakoiri-ojousama-netorare-choukyou-kiroku",
+  "kind": "anime",
+  "title": "Daraku Reijou THE ANIMATION: Hakoiri Ojousama Netorare Choukyou Kiroku",
+  "titles": {
+    "default": "Daraku Reijou THE ANIMATION: Hakoiri Ojousama Netorare Choukyou Kiroku",
+    "romaji": "Daraku Reijou THE ANIMATION: Hakoiri Ojousama Netorare Choukyou Kiroku",
+    "english": "Sexual Sacrifice",
+    "native": "堕落令嬢 THE ANIMATION 箱入りお嬢様寝取られ調教記録"
+  },
+  "synonyms": [
+    "Daraku Reijou THE ANIMATION: Hakoiri Ojousama Netorare Choukyou Kiroku",
+    "Sexual Sacrifice",
+    "堕落令嬢 THE ANIMATION 箱入りお嬢様寝取られ調教記録",
+    "Morning Glory and Kase-san",
+    "Your Light: Kase-san and Morning Glories",
+    "キミノヒカリ ～あさがおと加瀬さん。～",
+    "Kimi no Hikari: Asagao to Kase-san."
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98480-d52iCTMJ5rtB.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98480",
+      "url": "https://anilist.co/anime/98480"
+    },
+    "mal": {
+      "id": "35178",
+      "url": "https://myanimelist.net/anime/35178"
+    }
+  }
+}

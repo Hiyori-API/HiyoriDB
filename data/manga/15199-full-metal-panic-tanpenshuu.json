@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15199,
+  "slug": "full-metal-panic-tanpenshuu",
+  "kind": "manga",
+  "title": "Full Metal Panic!: Tanpenshuu",
+  "titles": {
+    "default": "Full Metal Panic!: Tanpenshuu"
+  },
+  "synonyms": [
+    "Full Metal Panic! SS",
+    "Full Metal Panic! Short Stories",
+    "フルメタル・パニック! 短編集",
+    "The Borderline of Emptiness",
+    "Kara no Kyoukai: The Garden of Sinners",
+    "空の境界 the Garden of sinners",
+    "Rakkyo",
+    "Boundry of Emptiness"
+  ],
+  "type": "novel",
+  "chapters": 51,
+  "volumes": 9,
+  "status": "finished",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx67371-SDiDTvFdEMgk.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "72",
+      "url": "https://anilist.co/anime/72"
+    },
+    "al_manga": {
+      "id": "72",
+      "url": "https://anilist.co/manga/72"
+    }
+  }
+}

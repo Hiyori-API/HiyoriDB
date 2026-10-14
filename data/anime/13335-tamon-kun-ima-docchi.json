@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13335,
+  "slug": "tamon-kun-ima-docchi",
+  "kind": "anime",
+  "title": "Tamon-kun Ima Docchi!?",
+  "titles": {
+    "default": "Tamon-kun Ima Docchi!?",
+    "romaji": "Tamon-kun Ima Docchi!?",
+    "english": "Tamon's B-Side",
+    "native": "多聞くん今どっち！？"
+  },
+  "synonyms": [
+    "Tamon-kun Ima Docchi!?",
+    "Tamon's B-Side",
+    "多聞くん今どっち！？",
+    "Two F/aced Tamon",
+    "Which Face Does Tamon Have Now?",
+    "ทามอนคุง ตอนนี้อยู่โหมดไหน!?",
+    "Nyoron! Churuya-san",
+    "Nyoro-n Churuya-san",
+    "にょろーん☆ちゅるやさん",
+    "Nyoron Churuya-san",
+    "Nyoron! Churuya-San",
+    "Nyoroon Churuya-san"
+  ],
+  "type": "ona",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178005-pCEReATswrup.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "178005",
+      "url": "https://anilist.co/anime/178005"
+    },
+    "cr": {
+      "id": "series/GT00365598/tamons-b-side",
+      "url": "https://www.crunchyroll.com/series/series/GT00365598/tamons-b-side"
+    },
+    "k": {
+      "id": "4362",
+      "url": "https://kitsu.io/anime/4362"
+    },
+    "mal": {
+      "id": "59047",
+      "url": "https://myanimelist.net/anime/59047"
+    }
+  }
+}

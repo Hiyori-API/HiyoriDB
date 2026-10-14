@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11996,
+  "slug": "collar-malice-deep-cover",
+  "kind": "anime",
+  "title": "Collar×Malice: deep cover",
+  "titles": {
+    "default": "Collar×Malice: deep cover",
+    "romaji": "Collar×Malice: deep cover",
+    "native": "劇場版 Collar×Malice -deep cover-"
+  },
+  "synonyms": [
+    "Collar×Malice: deep cover",
+    "劇場版 Collar×Malice -deep cover-",
+    "カラー×マリス",
+    "Collar x Malice: deep cover",
+    "劇場版アイドリッシュセブン LIVE 4bit BEYOND THE PERiOD",
+    "IDOLiSH7 Movie: LIVE 4bit - BEYOND THE PERiOD"
+  ],
+  "type": "movie",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2023,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109821-CmsUKhwlaMW3.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "109821",
+      "url": "https://anilist.co/anime/109821"
+    },
+    "mal": {
+      "id": "39905",
+      "url": "https://myanimelist.net/anime/39905"
+    },
+    "tx": {
+      "id": "CM_otomate",
+      "url": "https://twitter.com/CM_otomate"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11333,
+  "slug": "wave-surfing-yappe-tv",
+  "kind": "anime",
+  "title": "WAVE!! Surfing Yappe!! (TV)",
+  "titles": {
+    "default": "WAVE!! Surfing Yappe!! (TV)",
+    "romaji": "WAVE!! Surfing Yappe!! (TV)",
+    "english": "WAVE!! -Let's go surfing!!- (TV)",
+    "native": "WAVE!!～サーフィンやっぺ!!～ (TV)"
+  },
+  "synonyms": [
+    "WAVE!! Surfing Yappe!! (TV)",
+    "WAVE!! -Let's go surfing!!- (TV)",
+    "WAVE!!～サーフィンやっぺ!!～ (TV)",
+    "ก๊วนวัยใสหนุ่มโต้คลื่น",
+    "Jakusha Character Tomozaki-kun",
+    "The Low Tier Character \"Tomozaki-kun\"",
+    "Bottom-Tier Character Tomozaki",
+    "弱キャラ友崎くん",
+    "Jaku-Chara Tomozaki-kun"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130402-rx1MDFeAyILr.png"
+  ],
+  "references": {
+    "al": {
+      "id": "130402",
+      "url": "https://anilist.co/anime/130402"
+    },
+    "cr": {
+      "id": "wave-lets-go-surfing-",
+      "url": "https://www.crunchyroll.com/series/wave-lets-go-surfing-"
+    },
+    "mal": {
+      "id": "46118",
+      "url": "https://myanimelist.net/anime/46118"
+    },
+    "tx": {
+      "id": "WAVE_animation",
+      "url": "https://twitter.com/WAVE_animation"
+    }
+  }
+}

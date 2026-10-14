@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15122,
+  "slug": "yoru-no-uta",
+  "kind": "manga",
+  "title": "Yoru no Uta",
+  "titles": {
+    "default": "Yoru no Uta"
+  },
+  "synonyms": [
+    "Fujito Kazuhiro Tanpenshuu",
+    "Night Songs",
+    "Karakuri no Kimi",
+    "The Puppet Princess",
+    "The Clockwork Ones",
+    "Tenohira no Uta",
+    "Song of the Open Palm",
+    "Renrakusen Kitan",
+    "Strange Ferry Tale",
+    "Merry-Go-Round e!",
+    "To the Merry-Go-Round!",
+    "Yoru ni Sanpo shinai ka ne",
+    "藤田和日郎短編集 夜の歌",
+    "Kare Kano: His and Her Circumstances",
+    "Kareshi Kanojo no Jijou",
+    "彼氏彼女の事情",
+    "His and Hers",
+    "The Tiger and the Chameleon: A Promise for One Week",
+    "Ashita Mata Mori de Aou ne",
+    "Meet Me Again Tomorrow in the Forest",
+    "KKNJ",
+    "Abareru Ousama",
+    "The Raging King"
+  ],
+  "type": "manga",
+  "chapters": 6,
+  "volumes": 1,
+  "status": "finished",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx95565-Pbm01qjcLMW1.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1658",
+      "url": "https://anilist.co/anime/1658"
+    },
+    "al_manga": {
+      "id": "1658",
+      "url": "https://anilist.co/manga/1658"
+    }
+  }
+}

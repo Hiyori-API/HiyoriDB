@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13661,
+  "slug": "anemone",
+  "kind": "anime",
+  "title": "Anemone",
+  "titles": {
+    "default": "Anemone",
+    "romaji": "Anemone",
+    "native": "姉モネ"
+  },
+  "synonyms": [
+    "Anemone",
+    "姉モネ",
+    "Delete"
+  ],
+  "type": "ova",
+  "status": "to_be_aired",
+  "season": "fall",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217459-zA6NwJAqr5m7.png"
+  ],
+  "references": {
+    "al": {
+      "id": "217459",
+      "url": "https://anilist.co/anime/217459"
+    },
+    "k": {
+      "id": "8729",
+      "url": "https://kitsu.io/anime/8729"
+    },
+    "mal": {
+      "id": "65117",
+      "url": "https://myanimelist.net/anime/65117"
+    }
+  }
+}

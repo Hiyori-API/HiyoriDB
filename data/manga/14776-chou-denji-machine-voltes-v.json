@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14776,
+  "slug": "chou-denji-machine-voltes-v",
+  "kind": "manga",
+  "title": "Chou Denji Machine Voltes V",
+  "titles": {
+    "default": "Chou Denji Machine Voltes V"
+  },
+  "synonyms": [
+    "超電磁マシーン ボルテスV",
+    "NonNonBa",
+    "Nonnonbaa to Ore",
+    "のんのんばあとオレ"
+  ],
+  "type": "manga",
+  "status": "finished",
+  "year": 1977,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b136399-qahBE6sn5tQS.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1069",
+      "url": "https://anilist.co/anime/1069"
+    },
+    "al_manga": {
+      "id": "1069",
+      "url": "https://anilist.co/manga/1069"
+    }
+  }
+}

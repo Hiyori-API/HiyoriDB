@@ -1,0 +1,58 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7546,
+  "slug": "kanojo-ga-flag-wo-oraretara",
+  "kind": "anime",
+  "title": "Kanojo ga Flag wo Oraretara",
+  "titles": {
+    "default": "Kanojo ga Flag wo Oraretara",
+    "romaji": "Kanojo ga Flag wo Oraretara",
+    "english": "If Her Flag Breaks",
+    "native": "彼女がフラグをおられたら"
+  },
+  "synonyms": [
+    "Kanojo ga Flag wo Oraretara",
+    "If Her Flag Breaks",
+    "彼女がフラグをおられたら",
+    "がをられ",
+    "Gaworare"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19685-ureQLpQjTt00.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "19685",
+      "url": "https://anilist.co/anime/19685"
+    },
+    "cr": {
+      "id": "kanojo-ga-flag-wo-oraretara-if-her-flag-breaks",
+      "url": "https://www.crunchyroll.com/series/kanojo-ga-flag-wo-oraretara-if-her-flag-breaks"
+    },
+    "k": {
+      "id": "8011",
+      "url": "https://kitsu.io/anime/8011"
+    },
+    "mal": {
+      "id": "19685",
+      "url": "https://myanimelist.net/anime/19685"
+    },
+    "t": {
+      "id": "60392",
+      "url": "https://trakt.tv/shows/60392"
+    },
+    "ttv": {
+      "id": "300007913",
+      "url": "https://tubitv.com/series/300007913"
+    },
+    "tx": {
+      "id": "gaworare_TV",
+      "url": "https://twitter.com/gaworare_TV"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3876,
+  "slug": "seisenshi-dunbine-new-story-of-aura-battler-dunbine",
+  "kind": "anime",
+  "title": "Seisenshi Dunbine: New Story of AURA BATTLER Dunbine",
+  "titles": {
+    "default": "Seisenshi Dunbine: New Story of AURA BATTLER Dunbine",
+    "romaji": "Seisenshi Dunbine: New Story of AURA BATTLER Dunbine",
+    "native": "聖戦士ダンバイン　New Story of AURA BATTLER Dunbine"
+  },
+  "synonyms": [
+    "Seisenshi Dunbine: New Story of AURA BATTLER Dunbine",
+    "聖戦士ダンバイン　New Story of AURA BATTLER Dunbine",
+    "New Story of AURA BATTLER Dunbine",
+    "Seisenshi Dunbine OVA",
+    "Aura Battler Dunbine: The Tale of Neo Byston Well",
+    "聖戦士ダンバイン",
+    "Aura Battler Dunbine OVA",
+    "The Tale of Neo Byston Well"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "winter",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5372-P6Eg46HNeXFE.png"
+  ],
+  "references": {
+    "al": {
+      "id": "5372",
+      "url": "https://anilist.co/anime/5372"
+    },
+    "k": {
+      "id": "4075",
+      "url": "https://kitsu.io/anime/4075"
+    },
+    "mal": {
+      "id": "5372",
+      "url": "https://myanimelist.net/anime/5372"
+    }
+  }
+}

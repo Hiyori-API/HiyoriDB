@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4933,
+  "slug": "maple-town-monogatari-movie",
+  "kind": "anime",
+  "title": "Maple Town Monogatari (Movie)",
+  "titles": {
+    "default": "Maple Town Monogatari (Movie)",
+    "romaji": "Maple Town Monogatari (Movie)",
+    "native": "メイプルタウン物語"
+  },
+  "synonyms": [
+    "Maple Town Monogatari (Movie)",
+    "メイプルタウン物語",
+    "Castle in the Sky",
+    "Tenkuu no Shiro Laputa",
+    "天空の城ラピュタ",
+    "Tenkuu no Shiro Rapyuta"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b213098-qH47pvP3EeOQ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "213098",
+      "url": "https://anilist.co/anime/213098"
+    },
+    "k": {
+      "id": "472",
+      "url": "https://kitsu.io/anime/472"
+    },
+    "mal": {
+      "id": "34826",
+      "url": "https://myanimelist.net/anime/34826"
+    },
+    "nf": {
+      "id": "60027393",
+      "url": "https://www.netflix.com/title/60027393"
+    }
+  }
+}

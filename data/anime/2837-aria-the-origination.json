@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2837,
+  "slug": "aria-the-origination",
+  "kind": "anime",
+  "title": "ARIA The ORIGINATION",
+  "titles": {
+    "default": "ARIA The ORIGINATION",
+    "romaji": "ARIA The ORIGINATION"
+  },
+  "synonyms": [
+    "ARIA The ORIGINATION",
+    "アリア ジ オリジネーション",
+    "Aria The Origination",
+    "Aria Season 3"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3297-FHuyO7uiefNg.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3297",
+      "url": "https://anilist.co/anime/3297"
+    },
+    "cr": {
+      "id": "aria-the-animation",
+      "url": "https://www.crunchyroll.com/series/aria-the-animation"
+    },
+    "k": {
+      "id": "2916",
+      "url": "https://kitsu.io/anime/2916"
+    },
+    "mal": {
+      "id": "3297",
+      "url": "https://myanimelist.net/anime/3297"
+    },
+    "t": {
+      "id": "61720",
+      "url": "https://trakt.tv/shows/61720"
+    },
+    "ttv": {
+      "id": "2344",
+      "url": "https://tubitv.com/series/2344"
+    }
+  }
+}

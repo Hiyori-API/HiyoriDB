@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14824,
+  "slug": "uchuu-senkan-yamato-iii",
+  "kind": "manga",
+  "title": "Uchuu Senkan Yamato III",
+  "titles": {
+    "default": "Uchuu Senkan Yamato III"
+  },
+  "synonyms": [
+    "ヤマトIII",
+    "宇宙戦艦ヤマト3",
+    "ヤマト3",
+    "Yamato III",
+    "Yamato 3",
+    "宇宙戦艦ヤマトIII",
+    "Magician",
+    "マジシャン"
+  ],
+  "type": "manga",
+  "volumes": 2,
+  "status": "finished",
+  "year": 1981,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx63373-QWx1zFKE9RcP.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1652",
+      "url": "https://anilist.co/anime/1652"
+    },
+    "al_manga": {
+      "id": "1652",
+      "url": "https://anilist.co/manga/1652"
+    }
+  }
+}

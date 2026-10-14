@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15328,
+  "slug": "guilty-gear-xtra",
+  "kind": "manga",
+  "title": "Guilty Gear Xtra",
+  "titles": {
+    "default": "Guilty Gear Xtra"
+  },
+  "synonyms": [
+    "ギルティギアXtra",
+    "Tsubasa RESERVoir CHRoNiCLE",
+    "Tsubasa: RESERVoir CHRoNiCLE",
+    "ツバサ -RESERVoir CHRoNiCLE-",
+    "TRC"
+  ],
+  "type": "manga",
+  "chapters": 10,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10394.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "178046",
+      "url": "https://anilist.co/anime/178046"
+    },
+    "al_manga": {
+      "id": "178046",
+      "url": "https://anilist.co/manga/178046"
+    }
+  }
+}

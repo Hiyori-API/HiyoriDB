@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15011,
+  "slug": "kanojo-no-omoide",
+  "kind": "manga",
+  "title": "Kanojo no Omoide...",
+  "titles": {
+    "default": "Kanojo no Omoide..."
+  },
+  "synonyms": [
+    "Her Memories...",
+    "Memories of Her...",
+    "Memories",
+    "彼女の想いで・・・",
+    "Shouryou Tsukai Elementalors",
+    "精霊使いエレメンタラー",
+    "Elementalors",
+    "Shouryou Tsukai Erementara",
+    "les Elémentalistes"
+  ],
+  "type": "manga",
+  "chapters": 16,
+  "volumes": 1,
+  "status": "finished",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx102011-2vRHoLUf0Fhg.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "17677",
+      "url": "https://anilist.co/anime/1462"
+    },
+    "al_manga": {
+      "id": "17677",
+      "url": "https://anilist.co/manga/17677"
+    }
+  }
+}

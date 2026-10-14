@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6527,
+  "slug": "suite-precure-torimodose-kokoro-ga-tsunagu-kiseki-no-melody",
+  "kind": "anime",
+  "title": "Suite Precure♪: Torimodose! Kokoro ga Tsunagu Kiseki no Melody♪",
+  "titles": {
+    "default": "Suite Precure♪: Torimodose! Kokoro ga Tsunagu Kiseki no Melody♪",
+    "romaji": "Suite Precure♪: Torimodose! Kokoro ga Tsunagu Kiseki no Melody♪",
+    "native": "スイートプリキュア♪ とりもどせ! 心がつなぐ奇跡のメロディ♪"
+  },
+  "synonyms": [
+    "Suite Precure♪: Torimodose! Kokoro ga Tsunagu Kiseki no Melody♪",
+    "スイートプリキュア♪ とりもどせ! 心がつなぐ奇跡のメロディ♪",
+    "Eiga Suite Pretty Cure♪: Torimodose! Kokoro ga Tsunaku Kiseki no Merodi♪",
+    "Suite Precure The Movie : Take it back! The Miraculous Melody that Connects Hearts",
+    "Suite Precure♪ Movie: Torimodose! Kokoro ga Tsunagu Kiseki no Melody♪",
+    "映画 スイートプリキュア♪ とりもどせ! 心がつなぐ奇跡のメロディ♪",
+    "Suite Precure The Movie: Take it back! The Miraculous Melody that Connects Hearts",
+    "Eiga Suite Pretty Cure♪: Torimodose! Kokoro ga Tsunagu Kiseki no Merodi♪"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10821-0RO2tkriIgoh.png"
+  ],
+  "references": {
+    "al": {
+      "id": "10821",
+      "url": "https://anilist.co/anime/10821"
+    },
+    "k": {
+      "id": "6368",
+      "url": "https://kitsu.io/anime/6368"
+    },
+    "mal": {
+      "id": "10821",
+      "url": "https://myanimelist.net/anime/10821"
+    }
+  }
+}

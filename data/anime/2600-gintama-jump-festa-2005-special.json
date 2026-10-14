@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2600,
+  "slug": "gintama-jump-festa-2005-special",
+  "kind": "anime",
+  "title": "Gintama: Jump Festa 2005 Special",
+  "titles": {
+    "default": "Gintama: Jump Festa 2005 Special",
+    "romaji": "Gintama: Jump Festa 2005 Special",
+    "native": "銀魂ジャンプフェスタアニメツアー’０５"
+  },
+  "synonyms": [
+    "Gintama: Jump Festa 2005 Special",
+    "銀魂ジャンプフェスタアニメツアー’０５",
+    "Gintama OVA",
+    "One Piece: Nenmatsu Tokubetsu Kikaku! Mugiwara no Luffy Oyabun Torimonochou",
+    "ワンピース 年末特別企画！麦わらのルフィ親分捕物帖",
+    "One Piece Special: The Detective Memoirs of Chief Straw Hat Luffy"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2951-rl0US7OuMXbA.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2951",
+      "url": "https://anilist.co/anime/2951"
+    },
+    "k": {
+      "id": "1819",
+      "url": "https://kitsu.io/anime/1819"
+    },
+    "mal": {
+      "id": "2951",
+      "url": "https://myanimelist.net/anime/2951"
+    }
+  }
+}

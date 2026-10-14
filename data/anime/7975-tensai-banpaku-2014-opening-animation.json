@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7975,
+  "slug": "tensai-banpaku-2014-opening-animation",
+  "kind": "anime",
+  "title": "Tensai Banpaku 2014 Opening Animation",
+  "titles": {
+    "default": "Tensai Banpaku 2014 Opening Animation",
+    "romaji": "Tensai Banpaku 2014 Opening Animation",
+    "english": "TENSAI BANPAKU Opening Animation",
+    "native": "天才万博2014 オープニングアニメーション"
+  },
+  "synonyms": [
+    "Tensai Banpaku 2014 Opening Animation",
+    "TENSAI BANPAKU Opening Animation",
+    "天才万博2014 オープニングアニメーション",
+    "Tensai Banpaku Genius Expo",
+    "Kamisama no Inai Nichiyoubi: Kioku",
+    "Sunday Without God: Memories",
+    "神さまのいない日曜日 第13話 「記憶」",
+    "Kami-sama no Inai Nichiyoubi Special",
+    "Kamisama no Inai Nichiyoubi Special",
+    "The Sunday Without God Episode 13",
+    "Kami-Nai Episode 13"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b114436-1HhjXTWi5r1y.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "114436",
+      "url": "https://anilist.co/anime/114436"
+    },
+    "k": {
+      "id": "7989",
+      "url": "https://kitsu.io/anime/7989"
+    },
+    "mal": {
+      "id": "29173",
+      "url": "https://myanimelist.net/anime/29173"
+    }
+  }
+}

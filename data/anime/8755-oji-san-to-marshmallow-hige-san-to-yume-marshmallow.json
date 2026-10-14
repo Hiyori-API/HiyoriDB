@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8755,
+  "slug": "oji-san-to-marshmallow-hige-san-to-yume-marshmallow",
+  "kind": "anime",
+  "title": "Oji-san to Marshmallow: Hige-san to Yume Marshmallow",
+  "titles": {
+    "default": "Oji-san to Marshmallow: Hige-san to Yume Marshmallow",
+    "romaji": "Oji-san to Marshmallow: Hige-san to Yume Marshmallow",
+    "english": "Ojisan to Marshmallow: Hige-san and Marshmallow",
+    "native": "おじさんとマシュマロ 日下さんと夢マシュマロ"
+  },
+  "synonyms": [
+    "Oji-san to Marshmallow: Hige-san to Yume Marshmallow",
+    "Ojisan to Marshmallow: Hige-san and Marshmallow",
+    "おじさんとマシュマロ 日下さんと夢マシュマロ",
+    "Ojimasu: Hige-san to Yume Marshmallow",
+    "Love Hina Spring Movie",
+    "Love Hina Haru Special: Kimi Sakura Chiru Nakare!!",
+    "ラブひな春スペシャル 〜キミサクラチルナカレ!!〜",
+    "Love Hina Spring Special"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21774-Tx2kLPMXzKNf.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21774",
+      "url": "https://anilist.co/anime/21774"
+    },
+    "cr": {
+      "id": "ojisan-and-marshmallow",
+      "url": "https://www.crunchyroll.com/series/ojisan-and-marshmallow"
+    },
+    "k": {
+      "id": "169",
+      "url": "https://kitsu.io/anime/169"
+    },
+    "mal": {
+      "id": "33201",
+      "url": "https://myanimelist.net/anime/33201"
+    },
+    "tx": {
+      "id": "anime_ojms",
+      "url": "https://twitter.com/anime_ojms"
+    }
+  }
+}

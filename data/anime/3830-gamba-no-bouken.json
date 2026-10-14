@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3830,
+  "slug": "gamba-no-bouken",
+  "kind": "anime",
+  "title": "Gamba no Bouken",
+  "titles": {
+    "default": "Gamba no Bouken",
+    "romaji": "Gamba no Bouken",
+    "english": "Gamba's Adventure",
+    "native": "ガンバの冒険"
+  },
+  "synonyms": [
+    "Gamba no Bouken",
+    "Gamba's Adventure",
+    "ガンバの冒険",
+    "Ganba no Bouken",
+    "Ratinho Gamba e sua Turma",
+    "Adventure of Gamba",
+    "ガンバの冒險",
+    "The Adventures of Ganba"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 1975,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5267-fuVRXlljXTVm.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5267",
+      "url": "https://anilist.co/anime/5267"
+    },
+    "k": {
+      "id": "4023",
+      "url": "https://kitsu.io/anime/4023"
+    },
+    "mal": {
+      "id": "5267",
+      "url": "https://myanimelist.net/anime/5267"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14740,
+  "slug": "great-mazinger",
+  "kind": "manga",
+  "title": "Great Mazinger",
+  "titles": {
+    "default": "Great Mazinger"
+  },
+  "synonyms": [
+    "Gureto Majinga",
+    "Great Mazinga",
+    "グレートマジンガー",
+    "Getter Robo",
+    "ゲッターロボ"
+  ],
+  "type": "manga",
+  "chapters": 13,
+  "volumes": 2,
+  "status": "finished",
+  "year": 1974,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b159248-hRqy7oJix3qo.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5658",
+      "url": "https://anilist.co/anime/5658"
+    },
+    "al_manga": {
+      "id": "5658",
+      "url": "https://anilist.co/manga/5658"
+    }
+  }
+}

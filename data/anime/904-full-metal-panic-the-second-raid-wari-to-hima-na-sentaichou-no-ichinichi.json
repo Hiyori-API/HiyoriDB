@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 904,
+  "slug": "full-metal-panic-the-second-raid-wari-to-hima-na-sentaichou-no-ichinichi",
+  "kind": "anime",
+  "title": "Full Metal Panic! The Second Raid: Wari to Hima na Sentaichou no Ichinichi",
+  "titles": {
+    "default": "Full Metal Panic! The Second Raid: Wari to Hima na Sentaichou no Ichinichi",
+    "romaji": "Full Metal Panic! The Second Raid: Wari to Hima na Sentaichou no Ichinichi",
+    "english": "Full Metal Panic! The Second Raid: A Relatively Leisurely Day in the Life of a Fleet Captain",
+    "native": "わりとヒマな戦隊長の一日"
+  },
+  "synonyms": [
+    "Full Metal Panic! The Second Raid: Wari to Hima na Sentaichou no Ichinichi",
+    "Full Metal Panic! The Second Raid: A Relatively Leisurely Day in the Life of a Fleet Captain",
+    "わりとヒマな戦隊長の一日",
+    "The Commanding Officer's Rather Quiet Day",
+    "Full Metal Panic! The Second Raid Special",
+    "Full Metal Panic! The Second Raid OVA",
+    "Ar Tonelico: Sekai no Owari de Utai Tsuzukeru Shoujo",
+    "アルトネリコ 世界の終わりで詩い続ける少女",
+    "Ar Tonelico: The Girl Who Sings at the End of the World"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1015-GKd8zzF8I3H7.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1015",
+      "url": "https://anilist.co/anime/1015"
+    },
+    "k": {
+      "id": "1080",
+      "url": "https://kitsu.io/anime/1080"
+    },
+    "mal": {
+      "id": "1015",
+      "url": "https://myanimelist.net/anime/1015"
+    }
+  }
+}

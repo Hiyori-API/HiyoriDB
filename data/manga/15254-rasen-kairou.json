@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15254,
+  "slug": "rasen-kairou",
+  "kind": "manga",
+  "title": "Rasen Kairou",
+  "titles": {
+    "default": "Rasen Kairou"
+  },
+  "synonyms": [
+    "螺旋回廊",
+    "Maburaho",
+    "まぶらほ",
+    "Maburaho Tanpen"
+  ],
+  "type": "novel",
+  "volumes": 1,
+  "status": "finished",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b152280-kZGJdXZ6PKHh.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5610",
+      "url": "https://anilist.co/anime/5610"
+    },
+    "al_manga": {
+      "id": "5610",
+      "url": "https://anilist.co/manga/5610"
+    }
+  }
+}

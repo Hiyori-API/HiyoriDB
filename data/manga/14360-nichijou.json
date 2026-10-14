@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14360,
+  "slug": "nichijou",
+  "kind": "manga",
+  "title": "Nichijou",
+  "titles": {
+    "default": "Nichijou"
+  },
+  "synonyms": [
+    "Everyday",
+    "My Ordinary Life",
+    "Arki",
+    "Nichijou",
+    "日常",
+    "The Kurosagi Corpse Delivery Service",
+    "Kurosagi Shitai Takuhaibin",
+    "黒鷺死体宅配便"
+  ],
+  "type": "manga",
+  "status": "publishing",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33082-YrGJ9Tj3UJ3a.png"
+  ],
+  "references": {
+    "al": {
+      "id": "177513",
+      "url": "https://anilist.co/anime/8857"
+    },
+    "al_manga": {
+      "id": "177513",
+      "url": "https://anilist.co/manga/177513"
+    }
+  }
+}

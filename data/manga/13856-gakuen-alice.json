@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13856,
+  "slug": "gakuen-alice",
+  "kind": "manga",
+  "title": "Gakuen Alice",
+  "titles": {
+    "default": "Gakuen Alice"
+  },
+  "synonyms": [
+    "Alice Academy",
+    "Gaku-Ali",
+    "Alice, Escuela de Magia",
+    "L'académie Alice",
+    "퍼니퍼니 학원 앨리스",
+    "Gakuen Alice",
+    "学園アリス",
+    "Fujisan",
+    "富士山",
+    "Fuji-san"
+  ],
+  "type": "manga",
+  "chapters": 180,
+  "volumes": 31,
+  "status": "finished",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30320-YHT3CjKwSH9j.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "74",
+      "url": "https://anilist.co/anime/74"
+    },
+    "al_manga": {
+      "id": "74",
+      "url": "https://anilist.co/manga/74"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13775,
+  "slug": "aka-chan-to-boku",
+  "kind": "manga",
+  "title": "Aka-chan to Boku",
+  "titles": {
+    "default": "Aka-chan to Boku"
+  },
+  "synonyms": [
+    "Akachan to Boku",
+    "Akachan Boku",
+    "AkaBoku",
+    "Baby and Me",
+    "Time Limit",
+    "Secret Boy ni Tee Dasuna!!",
+    "Baka de Karukete Wagamama de",
+    "Natsu to Kimi no Irradiation",
+    "Baby & Me",
+    "赤ちゃんと僕",
+    "Baka de Karukute Wagamama de"
+  ],
+  "type": "manga",
+  "chapters": 108,
+  "volumes": 18,
+  "status": "finished",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30076-t7ZNsdjosv98.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1485",
+      "url": "https://anilist.co/anime/1485"
+    },
+    "al_manga": {
+      "id": "1485",
+      "url": "https://anilist.co/manga/1485"
+    }
+  }
+}

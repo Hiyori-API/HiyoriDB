@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1636,
+  "slug": "gaiking-legend-of-daiku-maryu",
+  "kind": "anime",
+  "title": "Gaiking: Legend of Daiku-Maryu",
+  "titles": {
+    "default": "Gaiking: Legend of Daiku-Maryu",
+    "romaji": "Gaiking: Legend of Daiku-Maryu",
+    "native": "ガイキング Legend of Daiku-Maryu"
+  },
+  "synonyms": [
+    "Gaiking: Legend of Daiku-Maryu",
+    "ガイキング Legend of Daiku-Maryu",
+    "Great Sky Demon Dragon Gaiking",
+    "Gaiking: Legend of Daikuu-Maryuu"
+  ],
+  "type": "tv",
+  "episodes": 39,
+  "status": "finished",
+  "season": "fall",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1845-qkImnNGNZ1SV.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1845",
+      "url": "https://anilist.co/anime/1845"
+    },
+    "k": {
+      "id": "1662",
+      "url": "https://kitsu.io/anime/1662"
+    },
+    "mal": {
+      "id": "1845",
+      "url": "https://myanimelist.net/anime/1845"
+    },
+    "t": {
+      "id": "21112",
+      "url": "https://trakt.tv/shows/21112"
+    },
+    "ttv": {
+      "id": "1833",
+      "url": "https://tubitv.com/series/1833"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3566,
+  "slug": "arad-senki-slap-up-party",
+  "kind": "anime",
+  "title": "Arad Senki: Slap Up Party",
+  "titles": {
+    "default": "Arad Senki: Slap Up Party",
+    "romaji": "Arad Senki: Slap Up Party",
+    "native": "アラド戦記 ～スラップアップパーティー～"
+  },
+  "synonyms": [
+    "Arad Senki: Slap Up Party",
+    "アラド戦記 ～スラップアップパーティー～",
+    "Slap Up Party Arad Senki",
+    "Dungeon & Fighter - The Animation",
+    "Dungeon & Fighter - Arad Senki"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4657-6pEc6zlGUQpM.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4657",
+      "url": "https://anilist.co/anime/4657"
+    },
+    "k": {
+      "id": "3726",
+      "url": "https://kitsu.io/anime/3726"
+    },
+    "mal": {
+      "id": "4657",
+      "url": "https://myanimelist.net/anime/4657"
+    },
+    "t": {
+      "id": "23998",
+      "url": "https://trakt.tv/shows/23998"
+    }
+  }
+}

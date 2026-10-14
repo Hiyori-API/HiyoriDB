@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3828,
+  "slug": "shugo-chara-doki",
+  "kind": "anime",
+  "title": "Shugo Chara!! Doki",
+  "titles": {
+    "default": "Shugo Chara!! Doki",
+    "romaji": "Shugo Chara!! Doki",
+    "native": "しゅごキャラ！！どきっ"
+  },
+  "synonyms": [
+    "Shugo Chara!! Doki",
+    "しゅごキャラ！！どきっ",
+    "Shugo Chara Ninenme",
+    "Shugo Chara! Second Year",
+    "Psychic Squad",
+    "Zettai Karen Children",
+    "絶対可憐チルドレン",
+    "Absolutely Lovely Children",
+    "ZKC"
+  ],
+  "type": "tv",
+  "episodes": 51,
+  "status": "finished",
+  "season": "fall",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5262-QdR7ooiQfYLY.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5262",
+      "url": "https://anilist.co/anime/5262"
+    },
+    "cr": {
+      "id": "shugo-chara",
+      "url": "https://www.crunchyroll.com/series/shugo-chara"
+    },
+    "k": {
+      "id": "3425",
+      "url": "https://kitsu.io/anime/3425"
+    },
+    "mal": {
+      "id": "5262",
+      "url": "https://myanimelist.net/anime/5262"
+    },
+    "t": {
+      "id": "61181",
+      "url": "https://trakt.tv/shows/61181"
+    }
+  }
+}

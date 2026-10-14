@@ -1,0 +1,58 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11616,
+  "slug": "gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu",
+  "kind": "anime",
+  "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",
+  "titles": {
+    "default": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",
+    "romaji": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",
+    "english": "Skeleton Knight in Another World",
+    "native": "骸骨騎士様、只今異世界へお出掛け中"
+  },
+  "synonyms": [
+    "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",
+    "Skeleton Knight in Another World",
+    "骸骨騎士様、只今異世界へお出掛け中",
+    "บันทึกการเดินทางต่างโลกของท่านอัศวินกระดูก",
+    "Kesatria Tengkorak Berkelana di Dunia Lain",
+    "Hiệp Sĩ Xương Trên Đường Du Hành Đến Thế Giới Khác",
+    "This Ugly Yet Beautiful World",
+    "Kono Minikuku mo Utsukushii Sekai",
+    "この醜くも美しい世界"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132474-J2ECHSPkfb9g.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "132474",
+      "url": "https://anilist.co/anime/132474"
+    },
+    "cr": {
+      "id": "skeleton-knight-in-another-world",
+      "url": "https://www.crunchyroll.com/series/skeleton-knight-in-another-world"
+    },
+    "k": {
+      "id": "124",
+      "url": "https://kitsu.io/anime/124"
+    },
+    "mal": {
+      "id": "48760",
+      "url": "https://myanimelist.net/anime/48760"
+    },
+    "t": {
+      "id": "34001",
+      "url": "https://trakt.tv/shows/34001"
+    },
+    "tx": {
+      "id": "gaikotsukishi",
+      "url": "https://twitter.com/gaikotsukishi"
+    }
+  }
+}

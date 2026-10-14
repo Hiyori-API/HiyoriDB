@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11756,
+  "slug": "nippon-tanjou",
+  "kind": "anime",
+  "title": "Nippon Tanjou",
+  "titles": {
+    "default": "Nippon Tanjou",
+    "romaji": "Nippon Tanjou",
+    "native": "日本誕生"
+  },
+  "synonyms": [
+    "Nippon Tanjou",
+    "日本誕生",
+    "Birth of Japan",
+    "Nihon Tanjou"
+  ],
+  "type": "tv",
+  "episodes": 5,
+  "status": "finished",
+  "season": "spring",
+  "year": 1970,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213370-QB4lsx0wlIrd.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "213370",
+      "url": "https://anilist.co/anime/213370"
+    },
+    "k": {
+      "id": "9489",
+      "url": "https://kitsu.io/anime/9489"
+    },
+    "mal": {
+      "id": "22999",
+      "url": "https://myanimelist.net/anime/22999"
+    }
+  }
+}

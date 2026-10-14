@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13611,
+  "slug": "kanojo-no-tomodachi",
+  "kind": "anime",
+  "title": "Kanojo no Tomodachi",
+  "titles": {
+    "default": "Kanojo no Tomodachi",
+    "romaji": "Kanojo no Tomodachi",
+    "english": "My Girlfriend's Friend",
+    "native": "彼女の友達"
+  },
+  "synonyms": [
+    "Kanojo no Tomodachi",
+    "My Girlfriend's Friend",
+    "彼女の友達",
+    "There Is Also a Hole in the Student Organization!",
+    "Even the Student Council Has Its Holes!",
+    "生徒会にも穴はある！",
+    "Seitokai ni mo Ana wa Aru!"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "airing",
+  "season": "fall",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211877-yWQ2r7XmWvG6.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "211877",
+      "url": "https://anilist.co/anime/211877"
+    },
+    "mal": {
+      "id": "64131",
+      "url": "https://myanimelist.net/anime/64131"
+    }
+  }
+}

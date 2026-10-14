@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8379,
+  "slug": "lovely-cation-the-animation",
+  "kind": "anime",
+  "title": "LOVELY×CATION THE ANIMATION",
+  "titles": {
+    "default": "LOVELY×CATION THE ANIMATION",
+    "romaji": "LOVELY×CATION THE ANIMATION"
+  },
+  "synonyms": [
+    "LOVELY×CATION THE ANIMATION",
+    "Nanatsu no Taizai: Ban no Bangai-hen",
+    "The Seven Deadly Sins: Ban's Side Story",
+    "The Seven Deadly Sins: Bandit Ban OVA 1",
+    "The Seven Deadly Sins: Ban's Side Story OVA",
+    "七つの大罪",
+    "Nanatsu no Taizai OVA"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21547-nWl6grz02eY1.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21547",
+      "url": "https://anilist.co/anime/21547"
+    },
+    "mal": {
+      "id": "29083",
+      "url": "https://myanimelist.net/anime/29083"
+    }
+  }
+}

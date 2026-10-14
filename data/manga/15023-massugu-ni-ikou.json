@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15023,
+  "slug": "massugu-ni-ikou",
+  "kind": "manga",
+  "title": "Massugu ni Ikou.",
+  "titles": {
+    "default": "Massugu ni Ikou."
+  },
+  "synonyms": [
+    "まっすぐにいこう。",
+    "Baby & Me",
+    "Akachan to Boku",
+    "赤ちゃんと僕",
+    "AkaBoku",
+    "Baby and Me",
+    "Time Limit",
+    "Secret Boy ni Tee Dasuna!!",
+    "Baka de Karukute Wagamama de",
+    "Natsu to Kimi no Irradiation"
+  ],
+  "type": "manga",
+  "volumes": 26,
+  "status": "finished",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx78775-mAvilUySjc58.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3182",
+      "url": "https://anilist.co/anime/1617"
+    },
+    "al_manga": {
+      "id": "3182",
+      "url": "https://anilist.co/manga/3182"
+    }
+  }
+}

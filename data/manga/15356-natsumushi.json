@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15356,
+  "slug": "natsumushi",
+  "kind": "manga",
+  "title": "Natsumushi",
+  "titles": {
+    "default": "Natsumushi"
+  },
+  "synonyms": [
+    "夏蟲",
+    "xxxHOLiC",
+    "xxxHolic Rou",
+    "xxxHolic Cage",
+    "xxxHolic•Rou"
+  ],
+  "type": "manga",
+  "chapters": 11,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/92420-832o3HDldBEa.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7276",
+      "url": "https://anilist.co/anime/7276"
+    },
+    "al_manga": {
+      "id": "7276",
+      "url": "https://anilist.co/manga/7276"
+    }
+  }
+}

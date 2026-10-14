@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13231,
+  "slug": "sugar-sugar-rune-les-deux-sorci-res",
+  "kind": "anime",
+  "title": "SUGAR SUGAR RUNE: Les deux sorcières",
+  "titles": {
+    "default": "SUGAR SUGAR RUNE: Les deux sorcières",
+    "romaji": "SUGAR SUGAR RUNE: Les deux sorcières"
+  },
+  "synonyms": [
+    "SUGAR SUGAR RUNE: Les deux sorcières",
+    "シュガシュガルーン レ・ドゥー・ソルシエール",
+    "Seikai no Senki Special",
+    "星界の戦旗 特別編",
+    "Seikai no Senki Movie",
+    "Battle Flag of the Stars Special Edition",
+    "Seikai no Senki Tokubetsuhen"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195517-7rdcy3jbuW81.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "195517",
+      "url": "https://anilist.co/anime/195517"
+    },
+    "k": {
+      "id": "366",
+      "url": "https://kitsu.io/anime/366"
+    },
+    "mal": {
+      "id": "61997",
+      "url": "https://myanimelist.net/anime/61997"
+    },
+    "yt": {
+      "id": "qidzapjAMVc",
+      "url": "https://www.youtube.com/watch?v=qidzapjAMVc"
+    }
+  }
+}

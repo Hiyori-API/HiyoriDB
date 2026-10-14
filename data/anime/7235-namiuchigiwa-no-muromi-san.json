@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7235,
+  "slug": "namiuchigiwa-no-muromi-san",
+  "kind": "anime",
+  "title": "Namiuchigiwa no Muromi-san",
+  "titles": {
+    "default": "Namiuchigiwa no Muromi-san",
+    "romaji": "Namiuchigiwa no Muromi-san",
+    "english": "Muromi-san",
+    "native": "波打際のむろみさん"
+  },
+  "synonyms": [
+    "Namiuchigiwa no Muromi-san",
+    "Muromi-san",
+    "波打際のむろみさん"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16910-QL0eRd65nv4x.png"
+  ],
+  "references": {
+    "al": {
+      "id": "16910",
+      "url": "https://anilist.co/anime/16910"
+    },
+    "cr": {
+      "id": "muromi-san",
+      "url": "https://www.crunchyroll.com/series/muromi-san"
+    },
+    "k": {
+      "id": "7549",
+      "url": "https://kitsu.io/anime/7549"
+    },
+    "mal": {
+      "id": "16910",
+      "url": "https://myanimelist.net/anime/16910"
+    },
+    "t": {
+      "id": "70104",
+      "url": "https://trakt.tv/shows/70104"
+    }
+  }
+}

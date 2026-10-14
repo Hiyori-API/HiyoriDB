@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8341,
+  "slug": "creamy-pie",
+  "kind": "anime",
+  "title": "Creamy Pie",
+  "titles": {
+    "default": "Creamy Pie",
+    "romaji": "Creamy Pie",
+    "native": "くりぃみぃパイ"
+  },
+  "synonyms": [
+    "Creamy Pie",
+    "くりぃみぃパイ",
+    "Hyakka Ryouran: Samurai After",
+    "百花繚乱 サムライアフター",
+    "Hyakka Ryouran OVA"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx21371-6FxhpazMnWiJ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21371",
+      "url": "https://anilist.co/anime/21371"
+    },
+    "k": {
+      "id": "8795",
+      "url": "https://kitsu.io/anime/8795"
+    },
+    "mal": {
+      "id": "31401",
+      "url": "https://myanimelist.net/anime/31401"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1952,
+  "slug": "waga-seishun-no-arcadia-mugen-kidou-ssx",
+  "kind": "anime",
+  "title": "Waga Seishun no Arcadia: Mugen Kidou SSX",
+  "titles": {
+    "default": "Waga Seishun no Arcadia: Mugen Kidou SSX",
+    "romaji": "Waga Seishun no Arcadia: Mugen Kidou SSX",
+    "english": "Captain Harlock: Arcadia of my Youth - Endless Orbit SSX",
+    "native": "わが青春のアルカディア・無限軌道ＳＳＸ"
+  },
+  "synonyms": [
+    "Waga Seishun no Arcadia: Mugen Kidou SSX",
+    "Captain Harlock: Arcadia of my Youth - Endless Orbit SSX",
+    "わが青春のアルカディア・無限軌道ＳＳＸ",
+    "Arcadia of My Youth: Endless Orbit SSX",
+    "Albator 84",
+    "Arcadia of My Youth: Infinite Course SSX",
+    "Harlock 84",
+    "Endless Orbit SSX",
+    "My Youth in Arcadia: Endless Road SSX"
+  ],
+  "type": "tv",
+  "episodes": 22,
+  "status": "finished",
+  "season": "fall",
+  "year": 1982,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2203-2SKplVCINxKb.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2203",
+      "url": "https://anilist.co/anime/2203"
+    },
+    "cr": {
+      "id": "captain-harlock-arcadia-of-my-youth-endless-orbit-ssx",
+      "url": "https://www.crunchyroll.com/series/captain-harlock-arcadia-of-my-youth-endless-orbit-ssx"
+    },
+    "k": {
+      "id": "1994",
+      "url": "https://kitsu.io/anime/1994"
+    },
+    "mal": {
+      "id": "2203",
+      "url": "https://myanimelist.net/anime/2203"
+    },
+    "t": {
+      "id": "37235",
+      "url": "https://trakt.tv/shows/37235"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15194,
+  "slug": "super-doll-licca-chan",
+  "kind": "manga",
+  "title": "Super Doll Licca-chan",
+  "titles": {
+    "default": "Super Doll Licca-chan"
+  },
+  "synonyms": [
+    "Mia Ikumi",
+    "Superdoll Rika Chan",
+    "スーパードール★リカちゃん",
+    "Super Doll ★ Licca-chan",
+    "スーパードール・リカちゃん",
+    "Love Hina",
+    "ラブひな"
+  ],
+  "type": "manga",
+  "chapters": 12,
+  "volumes": 2,
+  "status": "finished",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b50569-mhM9nOHFy5ds.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2766",
+      "url": "https://anilist.co/anime/2766"
+    },
+    "al_manga": {
+      "id": "2766",
+      "url": "https://anilist.co/manga/2766"
+    }
+  }
+}

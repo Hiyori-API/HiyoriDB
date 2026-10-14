@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3475,
+  "slug": "lucky-star-ova",
+  "kind": "anime",
+  "title": "Lucky☆Star OVA",
+  "titles": {
+    "default": "Lucky☆Star OVA",
+    "romaji": "Lucky☆Star OVA",
+    "native": "らき☆すた OVA"
+  },
+  "synonyms": [
+    "Lucky☆Star OVA",
+    "らき☆すた OVA",
+    "Lucky☆Star: Original na Visual to Animation",
+    "らき☆すた OVA（オリジナルなビジュアルとアニメーション）",
+    "Lucky Star OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4472-I4r5rkEdA6zK.png"
+  ],
+  "references": {
+    "al": {
+      "id": "4472",
+      "url": "https://anilist.co/anime/4472"
+    },
+    "k": {
+      "id": "3628",
+      "url": "https://kitsu.io/anime/3628"
+    },
+    "mal": {
+      "id": "4472",
+      "url": "https://myanimelist.net/anime/4472"
+    }
+  }
+}

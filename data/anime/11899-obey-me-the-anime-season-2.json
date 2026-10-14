@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11899,
+  "slug": "obey-me-the-anime-season-2",
+  "kind": "anime",
+  "title": "Obey Me! The Anime Season 2",
+  "titles": {
+    "default": "Obey Me! The Anime Season 2",
+    "romaji": "Obey Me! The Anime Season 2"
+  },
+  "synonyms": [
+    "Obey Me! The Anime Season 2",
+    "JoJo's Bizarre Adventure: Stone Ocean Part 2",
+    "ジョジョの奇妙な冒険 ストーンオーシャン",
+    "JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 2"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150697-fLd2gHCvhTYx.png"
+  ],
+  "references": {
+    "al": {
+      "id": "150697",
+      "url": "https://anilist.co/anime/150697"
+    },
+    "cr": {
+      "id": "obey-me",
+      "url": "https://www.crunchyroll.com/series/obey-me"
+    },
+    "mal": {
+      "id": "52045",
+      "url": "https://myanimelist.net/anime/52045"
+    },
+    "tx": {
+      "id": "ObeyMeOfficial1",
+      "url": "https://twitter.com/ObeyMeOfficial"
+    }
+  }
+}

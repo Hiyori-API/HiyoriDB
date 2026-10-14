@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1573,
+  "slug": "kaze-no-tairiku",
+  "kind": "anime",
+  "title": "Kaze no Tairiku",
+  "titles": {
+    "default": "Kaze no Tairiku",
+    "romaji": "Kaze no Tairiku",
+    "english": "The Weathering Continent",
+    "native": "風の大陸"
+  },
+  "synonyms": [
+    "Kaze no Tairiku",
+    "The Weathering Continent",
+    "風の大陸",
+    "Le Continent du vent"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1777-O4bzZO1KgLKl.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1777",
+      "url": "https://anilist.co/anime/1777"
+    },
+    "k": {
+      "id": "1597",
+      "url": "https://kitsu.io/anime/1597"
+    },
+    "mal": {
+      "id": "1777",
+      "url": "https://myanimelist.net/anime/1777"
+    }
+  }
+}

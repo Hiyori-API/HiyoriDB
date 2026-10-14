@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4716,
+  "slug": "ryuuichi-manga-gekijou-onbu-obake",
+  "kind": "anime",
+  "title": "Ryuuichi Manga Gekijou: Onbu Obake",
+  "titles": {
+    "default": "Ryuuichi Manga Gekijou: Onbu Obake",
+    "romaji": "Ryuuichi Manga Gekijou: Onbu Obake",
+    "native": "隆一まんが劇場　おんぶおばけ"
+  },
+  "synonyms": [
+    "Ryuuichi Manga Gekijou: Onbu Obake",
+    "隆一まんが劇場　おんぶおばけ",
+    "Piggyback Ghost",
+    "Ryuuichi Manga Gekijou Onbu Obake",
+    "おんぶおばけ"
+  ],
+  "type": "tv",
+  "episodes": 52,
+  "status": "finished",
+  "season": "fall",
+  "year": 1972,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx8685-kIU1hMdBcM9O.png"
+  ],
+  "references": {
+    "al": {
+      "id": "8685",
+      "url": "https://anilist.co/anime/8685"
+    },
+    "k": {
+      "id": "5442",
+      "url": "https://kitsu.io/anime/5442"
+    },
+    "mal": {
+      "id": "8685",
+      "url": "https://myanimelist.net/anime/8685"
+    }
+  }
+}

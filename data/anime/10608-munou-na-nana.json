@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10608,
+  "slug": "munou-na-nana",
+  "kind": "anime",
+  "title": "Munou na Nana",
+  "titles": {
+    "default": "Munou na Nana",
+    "romaji": "Munou na Nana",
+    "english": "Talentless Nana",
+    "native": "無能なナナ"
+  },
+  "synonyms": [
+    "Munou na Nana",
+    "Talentless Nana",
+    "無能なナナ",
+    "Twin Love",
+    "Futakoi",
+    "双恋"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx117343-NgCLZTaxallv.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "117343",
+      "url": "https://anilist.co/anime/117343"
+    },
+    "cr": {
+      "id": "talentless-nana",
+      "url": "https://www.crunchyroll.com/series/talentless-nana"
+    },
+    "k": {
+      "id": "104",
+      "url": "https://kitsu.io/anime/104"
+    },
+    "mal": {
+      "id": "41619",
+      "url": "https://myanimelist.net/anime/41619"
+    },
+    "t": {
+      "id": "34677",
+      "url": "https://trakt.tv/shows/34677"
+    },
+    "tx": {
+      "id": "munounanana",
+      "url": "https://twitter.com/munounanana"
+    }
+  }
+}

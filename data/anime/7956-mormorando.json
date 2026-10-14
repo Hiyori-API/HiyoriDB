@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7956,
+  "slug": "mormorando",
+  "kind": "anime",
+  "title": "Mormorando",
+  "titles": {
+    "default": "Mormorando",
+    "romaji": "Mormorando",
+    "native": "モルモランド"
+  },
+  "synonyms": [
+    "Mormorando",
+    "モルモランド",
+    "When Marnie Was There",
+    "Omoide no Marnie",
+    "思い出のマーニー"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102770-loOlSazT8R35.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "102770",
+      "url": "https://anilist.co/anime/102770"
+    },
+    "k": {
+      "id": "8159",
+      "url": "https://kitsu.io/anime/8159"
+    },
+    "mal": {
+      "id": "31834",
+      "url": "https://myanimelist.net/anime/31834"
+    },
+    "nf": {
+      "id": "80036398",
+      "url": "https://www.netflix.com/title/80036398"
+    }
+  }
+}

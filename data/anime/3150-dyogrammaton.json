@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3150,
+  "slug": "dyogrammaton",
+  "kind": "anime",
+  "title": "Dyogrammaton",
+  "titles": {
+    "default": "Dyogrammaton",
+    "romaji": "Dyogrammaton",
+    "native": "ジオグラマトン"
+  },
+  "synonyms": [
+    "Dyogrammaton",
+    "ジオグラマトン",
+    "Stratos 4 Advance Kanketsu-hen",
+    "ストラトス・フォー アドヴァンス 完結編"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3793.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3793",
+      "url": "https://anilist.co/anime/3793"
+    },
+    "k": {
+      "id": "1424",
+      "url": "https://kitsu.io/anime/1424"
+    },
+    "mal": {
+      "id": "3793",
+      "url": "https://myanimelist.net/anime/3793"
+    }
+  }
+}

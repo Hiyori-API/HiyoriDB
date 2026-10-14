@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10168,
+  "slug": "pandora-to-akubi",
+  "kind": "anime",
+  "title": "Pandora to Akubi",
+  "titles": {
+    "default": "Pandora to Akubi",
+    "romaji": "Pandora to Akubi",
+    "native": "パンドラとアクビ"
+  },
+  "synonyms": [
+    "Pandora to Akubi",
+    "パンドラとアクビ",
+    "Pandora and Yawn",
+    "Kouya no Juugeki-sen",
+    "Seirei to Kaijuu no Machi",
+    "Cencoroll 2",
+    "センコロール"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx107908-ElAOLjBJCuWd.png"
+  ],
+  "references": {
+    "al": {
+      "id": "107908",
+      "url": "https://anilist.co/anime/107908"
+    },
+    "k": {
+      "id": "5749",
+      "url": "https://kitsu.io/anime/5749"
+    },
+    "mal": {
+      "id": "39249",
+      "url": "https://myanimelist.net/anime/39249"
+    },
+    "tx": {
+      "id": "anime_dorabi",
+      "url": "https://twitter.com/anime_dorabi"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1408,
+  "slug": "bartender",
+  "kind": "anime",
+  "title": "Bartender",
+  "titles": {
+    "default": "Bartender",
+    "romaji": "Bartender",
+    "native": "バーテンダー"
+  },
+  "synonyms": [
+    "Bartender",
+    "バーテンダー",
+    "Ace Bartender Bartender",
+    "Barman",
+    "Jyu-Oh-Sei: Planet of the Beast King",
+    "Jyu Oh Sei",
+    "獣王星",
+    "Juuousei"
+  ],
+  "type": "tv",
+  "episodes": 11,
+  "status": "finished",
+  "season": "fall",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1589-w7J6h6DdE3NT.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1589",
+      "url": "https://anilist.co/anime/1589"
+    },
+    "cr": {
+      "id": "bartender",
+      "url": "https://www.crunchyroll.com/series/bartender"
+    },
+    "k": {
+      "id": "845",
+      "url": "https://kitsu.io/anime/845"
+    },
+    "mal": {
+      "id": "1589",
+      "url": "https://myanimelist.net/anime/1589"
+    },
+    "t": {
+      "id": "31562",
+      "url": "https://trakt.tv/shows/31562"
+    }
+  }
+}

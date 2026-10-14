@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15387,
+  "slug": "marshmellow-tsuushin",
+  "kind": "manga",
+  "title": "Marshmellow Tsuushin",
+  "titles": {
+    "default": "Marshmellow Tsuushin"
+  },
+  "synonyms": [
+    "Marshmellow Times",
+    "マシュマロ通信",
+    "Railroad",
+    "레일로드"
+  ],
+  "type": "manga",
+  "chapters": 52,
+  "volumes": 12,
+  "status": "finished",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b48136-4pHmVj9CbFGa.png"
+  ],
+  "references": {
+    "al": {
+      "id": "7955",
+      "url": "https://anilist.co/anime/7955"
+    },
+    "al_manga": {
+      "id": "7955",
+      "url": "https://anilist.co/manga/7955"
+    }
+  }
+}

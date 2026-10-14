@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2360,
+  "slug": "doraemon-nobita-to-ryuu-no-kishi",
+  "kind": "anime",
+  "title": "Doraemon: Nobita to Ryuu no Kishi",
+  "titles": {
+    "default": "Doraemon: Nobita to Ryuu no Kishi",
+    "romaji": "Doraemon: Nobita to Ryuu no Kishi",
+    "english": "Doraemon: Nobita and the Dragon Rider",
+    "native": "ドラえもん のび太と竜の騎士"
+  },
+  "synonyms": [
+    "Doraemon: Nobita to Ryuu no Kishi",
+    "Doraemon: Nobita and the Dragon Rider",
+    "ドラえもん のび太と竜の騎士",
+    "Pro Golfer Saru: Kouga Hikyou! Kage no Ninpou Golfer Sanjou!",
+    "プロゴルファー猿 甲賀秘境! 影の忍法ゴルファー参上!"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2657-afg3dpcrYhqB.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2657",
+      "url": "https://anilist.co/anime/2657"
+    },
+    "k": {
+      "id": "7640",
+      "url": "https://kitsu.io/anime/7640"
+    },
+    "mal": {
+      "id": "2657",
+      "url": "https://myanimelist.net/anime/2657"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14651,
+  "slug": "uchuu-ace",
+  "kind": "manga",
+  "title": "Uchuu Ace",
+  "titles": {
+    "default": "Uchuu Ace"
+  },
+  "synonyms": [
+    "Space Ace",
+    "宇宙エース",
+    "Kamui Den",
+    "カムイ伝",
+    "The Legend of Kamui"
+  ],
+  "type": "manga",
+  "chapters": 9,
+  "volumes": 4,
+  "status": "finished",
+  "year": 1964,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx170524-Jz0unZGmQTwr.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6989",
+      "url": "https://anilist.co/anime/6989"
+    },
+    "al_manga": {
+      "id": "6989",
+      "url": "https://anilist.co/manga/6989"
+    }
+  }
+}

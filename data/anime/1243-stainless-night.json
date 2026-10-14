@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1243,
+  "slug": "stainless-night",
+  "kind": "anime",
+  "title": "Stainless Night",
+  "titles": {
+    "default": "Stainless Night",
+    "romaji": "Stainless Night",
+    "native": "ステンレス・ナイト"
+  },
+  "synonyms": [
+    "Stainless Night",
+    "ステンレス・ナイト",
+    "Iczelion",
+    "Iczer-Girl Iczelion",
+    "戦-少女[イクサーガール]イクセリオン",
+    "Sen-shoujo Iczelion",
+    "Iczer Gal Iczelion"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1407-DVMih1LwKxTJ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1407",
+      "url": "https://anilist.co/anime/1407"
+    },
+    "k": {
+      "id": "1648",
+      "url": "https://kitsu.io/anime/1648"
+    },
+    "mal": {
+      "id": "1407",
+      "url": "https://myanimelist.net/anime/1407"
+    }
+  }
+}

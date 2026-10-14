@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1960,
+  "slug": "bakuretsu-tenshi-infinity-specials",
+  "kind": "anime",
+  "title": "Bakuretsu Tenshi: Infinity Specials",
+  "titles": {
+    "default": "Bakuretsu Tenshi: Infinity Specials",
+    "romaji": "Bakuretsu Tenshi: Infinity Specials",
+    "native": "爆裂天使 -Infinity-"
+  },
+  "synonyms": [
+    "Bakuretsu Tenshi: Infinity Specials",
+    "爆裂天使 -Infinity-",
+    "Bakuretsu Tenshi OVA",
+    "Burst Angel: Tenchi Sairin",
+    "Burst Angel The Angel's Second Coming",
+    "Burst Angel OVA Specials",
+    "Burst Angel: Infinity Special",
+    "Bakuretsu Tenshi: Infinity Special",
+    "Burst Angel OVA Special"
+  ],
+  "type": "special",
+  "episodes": 3,
+  "status": "finished",
+  "season": "spring",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2212-xBTWKbIeXrf7.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2212",
+      "url": "https://anilist.co/anime/2212"
+    },
+    "k": {
+      "id": "2003",
+      "url": "https://kitsu.io/anime/2003"
+    },
+    "mal": {
+      "id": "2212",
+      "url": "https://myanimelist.net/anime/2212"
+    }
+  }
+}

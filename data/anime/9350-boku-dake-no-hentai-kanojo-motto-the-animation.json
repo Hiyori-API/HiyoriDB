@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9350,
+  "slug": "boku-dake-no-hentai-kanojo-motto-the-animation",
+  "kind": "anime",
+  "title": "Boku dake no Hentai Kanojo Motto♥ THE ANIMATION",
+  "titles": {
+    "default": "Boku dake no Hentai Kanojo Motto♥ THE ANIMATION",
+    "romaji": "Boku dake no Hentai Kanojo Motto♥ THE ANIMATION",
+    "native": "僕だけのヘンタイカノジョ もっと♥ THE ANIMATION"
+  },
+  "synonyms": [
+    "Boku dake no Hentai Kanojo Motto♥ THE ANIMATION",
+    "僕だけのヘンタイカノジョ もっと♥ THE ANIMATION",
+    "My Perverted Girlfriend: More",
+    "Yama no Susume OVA",
+    "Encouragement of Climb: \"Omoide\" Present",
+    "ヤマノススメ おもいでプレゼント",
+    "Yama no Susume: Omoide Present"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/99817-fVSREBjmENse.png"
+  ],
+  "references": {
+    "al": {
+      "id": "99817",
+      "url": "https://anilist.co/anime/99817"
+    },
+    "mal": {
+      "id": "36109",
+      "url": "https://myanimelist.net/anime/36109"
+    }
+  }
+}

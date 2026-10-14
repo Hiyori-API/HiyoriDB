@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14444,
+  "slug": "natsu-no-arashi",
+  "kind": "manga",
+  "title": "Natsu no Arashi!",
+  "titles": {
+    "default": "Natsu no Arashi!"
+  },
+  "synonyms": [
+    "Summer Storm!",
+    "夏のあらし!",
+    "Love Makes People Grow",
+    "Hito wa Ai wo Tabete Sodatsu",
+    "人は愛を食べて育つ",
+    "Eat Love and Grow",
+    "Hito wa ai o tabete sodatsu"
+  ],
+  "type": "manga",
+  "chapters": 50,
+  "volumes": 8,
+  "status": "finished",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3728.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6712",
+      "url": "https://anilist.co/anime/5597"
+    },
+    "al_manga": {
+      "id": "6712",
+      "url": "https://anilist.co/manga/6712"
+    }
+  }
+}

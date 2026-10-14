@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3413,
+  "slug": "shishunki-shoujo",
+  "kind": "anime",
+  "title": "Shishunki Shoujo",
+  "titles": {
+    "default": "Shishunki Shoujo",
+    "romaji": "Shishunki Shoujo",
+    "native": "思春期少女"
+  },
+  "synonyms": [
+    "Shishunki Shoujo",
+    "思春期少女",
+    "Shishunki Shoujo: Kari Kari",
+    "Yotsunoha",
+    "よつのは"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4278.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4278",
+      "url": "https://anilist.co/anime/4278"
+    },
+    "k": {
+      "id": "2722",
+      "url": "https://kitsu.io/anime/2722"
+    },
+    "mal": {
+      "id": "4278",
+      "url": "https://myanimelist.net/anime/4278"
+    }
+  }
+}

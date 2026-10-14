@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14547,
+  "slug": "binchou-tan",
+  "kind": "manga",
+  "title": "Binchou-tan",
+  "titles": {
+    "default": "Binchou-tan"
+  },
+  "synonyms": [
+    "Binchotan",
+    "びんちょうタン",
+    "xxxHOLiC",
+    "xxxHolic Rou",
+    "xxxHolic Cage",
+    "xxxHolic•Rou"
+  ],
+  "type": "manga",
+  "volumes": 4,
+  "status": "finished",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5098.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "750",
+      "url": "https://anilist.co/anime/750"
+    },
+    "al_manga": {
+      "id": "750",
+      "url": "https://anilist.co/manga/750"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5505,
+  "slug": "kakyuusei-hajimemashite-tina",
+  "kind": "anime",
+  "title": "Kakyuusei: Hajimemashite Tina!",
+  "titles": {
+    "default": "Kakyuusei: Hajimemashite Tina!",
+    "romaji": "Kakyuusei: Hajimemashite Tina!",
+    "native": "下級生はじめまして ティナ!"
+  },
+  "synonyms": [
+    "Kakyuusei: Hajimemashite Tina!",
+    "下級生はじめまして ティナ!",
+    "Kakyuusei Episode 14",
+    "Amigo Tomodachi",
+    "アミーゴ 友だち"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b117411-SnZxvlB76N9w.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "117411",
+      "url": "https://anilist.co/anime/117411"
+    },
+    "k": {
+      "id": "8957",
+      "url": "https://kitsu.io/anime/8957"
+    },
+    "mal": {
+      "id": "36528",
+      "url": "https://myanimelist.net/anime/36528"
+    }
+  }
+}

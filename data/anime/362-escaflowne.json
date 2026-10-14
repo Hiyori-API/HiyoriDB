@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 362,
+  "slug": "escaflowne",
+  "kind": "anime",
+  "title": "Escaflowne",
+  "titles": {
+    "default": "Escaflowne",
+    "romaji": "Escaflowne",
+    "english": "Escaflowne: A Girl in Gaea",
+    "native": "エスカフローネ"
+  },
+  "synonyms": [
+    "Escaflowne",
+    "Escaflowne: A Girl in Gaea",
+    "エスカフローネ",
+    "Escaflowne: The Movie",
+    "Ojamajo Doremi Sharp Movie",
+    "おジャ魔女どれみ♯",
+    "Ojamajo Doremi # Movie",
+    "Useless Witch Doremi Sharp",
+    "Bothersome Witch Doremi Sharp",
+    "Ojamjo Doremi #: Pop and the Queen's Cursed Rose"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx393-KAkauYiiSWGa.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "393",
+      "url": "https://anilist.co/anime/393"
+    },
+    "k": {
+      "id": "2668",
+      "url": "https://kitsu.io/anime/2668"
+    },
+    "mal": {
+      "id": "393",
+      "url": "https://myanimelist.net/anime/393"
+    }
+  }
+}

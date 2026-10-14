@@ -1,0 +1,61 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6370,
+  "slug": "c-the-money-of-soul-and-possibility-control",
+  "kind": "anime",
+  "title": "C: THE MONEY OF SOUL AND POSSIBILITY CONTROL",
+  "titles": {
+    "default": "C: THE MONEY OF SOUL AND POSSIBILITY CONTROL",
+    "romaji": "C: THE MONEY OF SOUL AND POSSIBILITY CONTROL",
+    "english": "[C] - CONTROL - The Money and Soul of Possibility",
+    "native": "「C」 THE MONEY OF SOUL AND POSSIBILITY CONTROL"
+  },
+  "synonyms": [
+    "C: THE MONEY OF SOUL AND POSSIBILITY CONTROL",
+    "[C] - CONTROL - The Money and Soul of Possibility",
+    "「C」 THE MONEY OF SOUL AND POSSIBILITY CONTROL",
+    "[C] The Money of Soul and Possibility Control",
+    "[C] - Control",
+    "C-Control",
+    "The Money of Souland Possibility Controul",
+    "Dusza na sprzedaż",
+    "C",
+    "C - Control",
+    "C: The Money of Soul and Possibility Control",
+    "[C] CONTROL - The Money and Soul of Possibility"
+  ],
+  "type": "tv",
+  "episodes": 11,
+  "status": "finished",
+  "season": "spring",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10163-DGTY24yRLZrt.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10163",
+      "url": "https://anilist.co/anime/10163"
+    },
+    "cr": {
+      "id": "c-control",
+      "url": "https://www.crunchyroll.com/series/c-control"
+    },
+    "k": {
+      "id": "6061",
+      "url": "https://kitsu.io/anime/6061"
+    },
+    "mal": {
+      "id": "10163",
+      "url": "https://myanimelist.net/anime/10163"
+    },
+    "t": {
+      "id": "39268",
+      "url": "https://trakt.tv/shows/39268"
+    },
+    "ttv": {
+      "id": "2268",
+      "url": "https://tubitv.com/series/2268"
+    }
+  }
+}

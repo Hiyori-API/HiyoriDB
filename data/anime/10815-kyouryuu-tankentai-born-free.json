@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10815,
+  "slug": "kyouryuu-tankentai-born-free",
+  "kind": "anime",
+  "title": "Kyouryuu Tankentai Born Free",
+  "titles": {
+    "default": "Kyouryuu Tankentai Born Free",
+    "romaji": "Kyouryuu Tankentai Born Free",
+    "english": "Return of the Dinosaurs",
+    "native": "恐竜探検隊ボーンフリー"
+  },
+  "synonyms": [
+    "Kyouryuu Tankentai Born Free",
+    "Return of the Dinosaurs",
+    "恐竜探検隊ボーンフリー"
+  ],
+  "type": "tv",
+  "episodes": 25,
+  "status": "finished",
+  "season": "fall",
+  "year": 1976,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9978.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9978",
+      "url": "https://anilist.co/anime/9978"
+    },
+    "k": {
+      "id": "5976",
+      "url": "https://kitsu.io/anime/5976"
+    },
+    "mal": {
+      "id": "9978",
+      "url": "https://myanimelist.net/anime/9978"
+    }
+  }
+}

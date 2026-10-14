@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6546,
+  "slug": "itsuka-tenma-no-kuro-usagi-ova",
+  "kind": "anime",
+  "title": "Itsuka Tenma no Kuro Usagi OVA",
+  "titles": {
+    "default": "Itsuka Tenma no Kuro Usagi OVA",
+    "romaji": "Itsuka Tenma no Kuro Usagi OVA",
+    "english": "A Dark Rabbit has Seven Lives OVA",
+    "native": "いつか天魔の黒ウサギ OVA"
+  },
+  "synonyms": [
+    "Itsuka Tenma no Kuro Usagi OVA",
+    "A Dark Rabbit has Seven Lives OVA",
+    "いつか天魔の黒ウサギ OVA",
+    "Itsuka Tenma no Kuro Usagi OAD",
+    "Itsuka Tenma no Kuro Usagi Episode 13",
+    "Itsuka Tenma no Kuro-Usagi OVA",
+    "Itsuten",
+    "Itsu-ten"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10934.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10934",
+      "url": "https://anilist.co/anime/10934"
+    },
+    "k": {
+      "id": "6412",
+      "url": "https://kitsu.io/anime/6412"
+    },
+    "mal": {
+      "id": "10934",
+      "url": "https://myanimelist.net/anime/10934"
+    }
+  }
+}

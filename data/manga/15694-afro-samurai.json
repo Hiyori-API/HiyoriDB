@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15694,
+  "slug": "afro-samurai",
+  "kind": "manga",
+  "title": "Afro Samurai",
+  "titles": {
+    "default": "Afro Samurai"
+  },
+  "synonyms": [
+    "Afro Samurai",
+    "アフロサムライ",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "chapters": 10,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx39935-5FrTNT7dGt7Y.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1292",
+      "url": "https://anilist.co/anime/1292"
+    },
+    "al_manga": {
+      "id": "1292",
+      "url": "https://anilist.co/manga/1292"
+    }
+  }
+}

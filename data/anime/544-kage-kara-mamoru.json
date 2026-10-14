@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 544,
+  "slug": "kage-kara-mamoru",
+  "kind": "anime",
+  "title": "Kage kara Mamoru!",
+  "titles": {
+    "default": "Kage kara Mamoru!",
+    "romaji": "Kage kara Mamoru!",
+    "english": "Guardian Ninja Mamoru",
+    "native": "陰からマモル！"
+  },
+  "synonyms": [
+    "Kage kara Mamoru!",
+    "Guardian Ninja Mamoru",
+    "陰からマモル！",
+    "Protect from the Shadows!"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/590.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "590",
+      "url": "https://anilist.co/anime/590"
+    },
+    "k": {
+      "id": "545",
+      "url": "https://kitsu.io/anime/545"
+    },
+    "mal": {
+      "id": "590",
+      "url": "https://myanimelist.net/anime/590"
+    },
+    "t": {
+      "id": "34059",
+      "url": "https://trakt.tv/shows/34059"
+    }
+  }
+}

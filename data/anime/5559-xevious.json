@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5559,
+  "slug": "xevious",
+  "kind": "anime",
+  "title": "Xevious",
+  "titles": {
+    "default": "Xevious",
+    "romaji": "Xevious",
+    "native": "ゼビウス"
+  },
+  "synonyms": [
+    "Xevious",
+    "ゼビウス"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12799.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12799",
+      "url": "https://anilist.co/anime/12799"
+    },
+    "k": {
+      "id": "6817",
+      "url": "https://kitsu.io/anime/6817"
+    },
+    "mal": {
+      "id": "12799",
+      "url": "https://myanimelist.net/anime/12799"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 217,
+  "slug": "gravitation",
+  "kind": "anime",
+  "title": "Gravitation",
+  "titles": {
+    "default": "Gravitation",
+    "romaji": "Gravitation",
+    "english": "Gravitation TV",
+    "native": "グラビテーション"
+  },
+  "synonyms": [
+    "Gravitation",
+    "Gravitation TV",
+    "グラビテーション"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/243.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "243",
+      "url": "https://anilist.co/anime/243"
+    },
+    "cr": {
+      "id": "series/G9VHN9DXX/gravitation",
+      "url": "https://www.crunchyroll.com/series/series/G9VHN9DXX/gravitation"
+    },
+    "k": {
+      "id": "218",
+      "url": "https://kitsu.io/anime/218"
+    },
+    "mal": {
+      "id": "243",
+      "url": "https://myanimelist.net/anime/243"
+    },
+    "t": {
+      "id": "63992",
+      "url": "https://trakt.tv/shows/63992"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1500,
+  "slug": "nodame-cantabile",
+  "kind": "anime",
+  "title": "Nodame Cantabile",
+  "titles": {
+    "default": "Nodame Cantabile",
+    "romaji": "Nodame Cantabile",
+    "native": "のだめカンタービレ"
+  },
+  "synonyms": [
+    "Nodame Cantabile",
+    "のだめカンタービレ"
+  ],
+  "type": "tv",
+  "episodes": 23,
+  "status": "finished",
+  "season": "winter",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx1698-VhVaiOLkcGCp.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1698",
+      "url": "https://anilist.co/anime/1698"
+    },
+    "k": {
+      "id": "1525",
+      "url": "https://kitsu.io/anime/1525"
+    },
+    "mal": {
+      "id": "1698",
+      "url": "https://myanimelist.net/anime/1698"
+    },
+    "t": {
+      "id": "62171",
+      "url": "https://trakt.tv/shows/62171"
+    }
+  }
+}

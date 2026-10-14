@@ -1,0 +1,58 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10527,
+  "slug": "sword-art-online-alicization-war-of-underworld-part-2",
+  "kind": "anime",
+  "title": "Sword Art Online: Alicization - War of Underworld Part 2",
+  "titles": {
+    "default": "Sword Art Online: Alicization - War of Underworld Part 2",
+    "romaji": "Sword Art Online: Alicization - War of Underworld Part 2",
+    "native": "ソードアート・オンライン アリシゼーション War of Underworld 最終章 (2nd Season)"
+  },
+  "synonyms": [
+    "Sword Art Online: Alicization - War of Underworld Part 2",
+    "ソードアート・オンライン アリシゼーション War of Underworld 最終章 (2nd Season)",
+    "Sword Art Online: Alicization - War of Underworld Last Season",
+    "SAOV",
+    "SAO5",
+    "Sword Art Online: Alicization 3rd Season",
+    "Sword Art Online III 3rd Season",
+    "SAO Alicization 3rd Season",
+    "Sword Art Online 3 3rd Season",
+    "SAO 3 3rd Season",
+    "SAO III 3rd Season",
+    "Sword Art Online: Alicization - War of Underworld - The Last Season",
+    "ソードアート・オンライン アリシゼーション War of Underworld",
+    "Sword Art Online: Alicization - War of Underworld 2nd Season"
+  ],
+  "type": "tv",
+  "episodes": 11,
+  "status": "finished",
+  "season": "summer",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114308-8UBiS7U9buzu.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "114308",
+      "url": "https://anilist.co/anime/114308"
+    },
+    "cr": {
+      "id": "sword-art-online",
+      "url": "https://www.crunchyroll.com/series/sword-art-online"
+    },
+    "mal": {
+      "id": "40540",
+      "url": "https://myanimelist.net/anime/40540"
+    },
+    "nf": {
+      "id": "70302573",
+      "url": "https://www.netflix.com/title/70302573"
+    },
+    "tx": {
+      "id": "sao_anime",
+      "url": "https://twitter.com/sao_anime"
+    }
+  }
+}

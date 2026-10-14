@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9958,
+  "slug": "z-x-code-reunion",
+  "kind": "anime",
+  "title": "Z/X: Code reunion",
+  "titles": {
+    "default": "Z/X: Code reunion",
+    "romaji": "Z/X: Code reunion",
+    "english": "Z/X: Code Reunion",
+    "native": "Z/X Code reunion"
+  },
+  "synonyms": [
+    "Z/X: Code reunion",
+    "Z/X: Code Reunion",
+    "Z/X Code reunion",
+    "Please Take My Brother Away 3",
+    "Kuai Ba Wo Ge Daizou 3",
+    "快把我哥带走3",
+    "Take My Brother Away 3",
+    "兄に付ける薬はない！3",
+    "Ani ni Tsukeru Kusuri wa Nai! 3"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100246-Lx3geAxrhAU9.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "100246",
+      "url": "https://anilist.co/anime/100246"
+    },
+    "mal": {
+      "id": "37268",
+      "url": "https://myanimelist.net/anime/37268"
+    },
+    "tx": {
+      "id": "zxtcg",
+      "url": "https://twitter.com/zxtcg"
+    }
+  }
+}

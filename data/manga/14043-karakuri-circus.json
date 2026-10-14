@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14043,
+  "slug": "karakuri-circus",
+  "kind": "manga",
+  "title": "Karakuri Circus",
+  "titles": {
+    "default": "Karakuri Circus"
+  },
+  "synonyms": [
+    "Le Cirque de Karakuri",
+    "からくりサーカス",
+    "Karakuri Circus"
+  ],
+  "type": "manga",
+  "chapters": 425,
+  "volumes": 43,
+  "status": "finished",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx30868-XGCo1uKIecx3.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101336",
+      "url": "https://anilist.co/anime/101336"
+    },
+    "al_manga": {
+      "id": "101336",
+      "url": "https://anilist.co/manga/101336"
+    }
+  }
+}

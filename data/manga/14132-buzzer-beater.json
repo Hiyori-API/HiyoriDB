@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14132,
+  "slug": "buzzer-beater",
+  "kind": "manga",
+  "title": "BUZZER BEATER",
+  "titles": {
+    "default": "BUZZER BEATER"
+  },
+  "synonyms": [
+    "ブザービーター",
+    "零秒出手",
+    "BUZZER BEATER",
+    "Kamikaze Kaito Jeanne",
+    "Kamikaze Kaitou Jeanne",
+    "Phantom Thief Jeanne",
+    "神風怪盗ジャンヌ",
+    "Divine Wind Phantom Thief Jeanne"
+  ],
+  "type": "manga",
+  "chapters": 80,
+  "volumes": 4,
+  "status": "finished",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31221-uIszH8Cao2DL.png"
+  ],
+  "references": {
+    "al": {
+      "id": "406",
+      "url": "https://anilist.co/anime/406"
+    },
+    "al_manga": {
+      "id": "406",
+      "url": "https://anilist.co/manga/406"
+    }
+  }
+}

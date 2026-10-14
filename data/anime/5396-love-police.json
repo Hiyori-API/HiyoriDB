@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5396,
+  "slug": "love-police",
+  "kind": "anime",
+  "title": "Love² Police",
+  "titles": {
+    "default": "Love² Police",
+    "romaji": "Love² Police",
+    "english": "Love2 Police",
+    "native": "Love²ポリス"
+  },
+  "synonyms": [
+    "Love² Police",
+    "Love2 Police",
+    "Love²ポリス",
+    "Secret Anima Series 9 Love2 Police",
+    "DNA Sights 999.9",
+    "火聖旅団[ファイアーフォース]ダナサイト９９９．９[フォーナイン]",
+    "Kasei Ryodan Danasaito 999.9",
+    "Fire Force DNA Sights 999.9",
+    "Danasite 999.9",
+    "Kasei Ryodan Dnasights Four-Nine"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7908.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7908",
+      "url": "https://anilist.co/anime/7908"
+    },
+    "k": {
+      "id": "1818",
+      "url": "https://kitsu.io/anime/1818"
+    },
+    "mal": {
+      "id": "7908",
+      "url": "https://myanimelist.net/anime/7908"
+    }
+  }
+}

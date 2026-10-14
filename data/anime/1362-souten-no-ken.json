@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1362,
+  "slug": "souten-no-ken",
+  "kind": "anime",
+  "title": "Souten no Ken",
+  "titles": {
+    "default": "Souten no Ken",
+    "romaji": "Souten no Ken",
+    "english": "Fist of the Blue Sky",
+    "native": "蒼天の拳"
+  },
+  "synonyms": [
+    "Souten no Ken",
+    "Fist of the Blue Sky",
+    "蒼天の拳"
+  ],
+  "type": "tv",
+  "episodes": 22,
+  "status": "finished",
+  "season": "fall",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1541.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1541",
+      "url": "https://anilist.co/anime/1541"
+    },
+    "k": {
+      "id": "1382",
+      "url": "https://kitsu.io/anime/1382"
+    },
+    "mal": {
+      "id": "1541",
+      "url": "https://myanimelist.net/anime/1541"
+    },
+    "t": {
+      "id": "65761",
+      "url": "https://trakt.tv/shows/65761"
+    }
+  }
+}

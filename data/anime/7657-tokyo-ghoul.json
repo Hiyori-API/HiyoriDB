@@ -1,0 +1,63 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7657,
+  "slug": "tokyo-ghoul",
+  "kind": "anime",
+  "title": "Tokyo Ghoul",
+  "titles": {
+    "default": "Tokyo Ghoul",
+    "romaji": "Tokyo Ghoul",
+    "native": "東京喰種 トーキョーグール"
+  },
+  "synonyms": [
+    "Tokyo Ghoul",
+    "東京喰種 トーキョーグール",
+    "Tokyo Kushu",
+    "שדי טוקיו",
+    "东京食种",
+    "طوكيو غول",
+    "Токийский гуль",
+    "Sabagebu! -Survival Game Club!-",
+    "Sabage-bu!",
+    "さばげぶっ!",
+    "Survival Game Club!"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b20605-k665mVkSug8D.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "20605",
+      "url": "https://anilist.co/anime/20605"
+    },
+    "ap": {
+      "id": "B015O6OK4G",
+      "url": "https://www.amazon.com/gp/video/detail/B015O6OK4G"
+    },
+    "cr": {
+      "id": "en-gb/tokyo-ghoul",
+      "url": "https://www.crunchyroll.com/series/en-gb/tokyo-ghoul"
+    },
+    "k": {
+      "id": "8016",
+      "url": "https://kitsu.io/anime/8016"
+    },
+    "mal": {
+      "id": "22319",
+      "url": "https://myanimelist.net/anime/22319"
+    },
+    "nf": {
+      "id": "80023687",
+      "url": "https://www.netflix.com/title/80023687"
+    },
+    "t": {
+      "id": "77560",
+      "url": "https://trakt.tv/shows/77560"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11909,
+  "slug": "isekai-meikyuu-de-harem-wo-ova",
+  "kind": "anime",
+  "title": "Isekai Meikyuu de Harem wo OVA",
+  "titles": {
+    "default": "Isekai Meikyuu de Harem wo OVA",
+    "romaji": "Isekai Meikyuu de Harem wo OVA",
+    "native": "異世界迷宮でハーレムを OVA"
+  },
+  "synonyms": [
+    "Isekai Meikyuu de Harem wo OVA",
+    "異世界迷宮でハーレムを OVA",
+    "Harem in the Labyrinth of Another World OVA",
+    "異世界迷宮でハーレムを 体を洗ったあとは……",
+    "異世界迷宮でハーレムを ロクサーヌと最後まで。",
+    "Isekai Meikyuu de Harem wo: Karada wo Aratta Ato wa......",
+    "Isekai Meikyuu de Harem wo: Roxanne to Saigo ma de.",
+    "Isekai Meikyuu de Harem wo Specials",
+    "Samurai X: Reflection",
+    "Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou-hen",
+    "るろうに剣心 -明治剣客浪漫譚- 星霜編",
+    "Rurouni Kenshin: Seisouhen",
+    "Rurouni Kenshin OVA 2"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151632-awVg6I4mukra.png"
+  ],
+  "references": {
+    "al": {
+      "id": "151632",
+      "url": "https://anilist.co/anime/151632"
+    },
+    "k": {
+      "id": "368",
+      "url": "https://kitsu.io/anime/368"
+    },
+    "mal": {
+      "id": "52281",
+      "url": "https://myanimelist.net/anime/52281"
+    },
+    "tx": {
+      "id": "isekaiharem_ani",
+      "url": "https://twitter.com/isekaiharem_ani"
+    }
+  }
+}

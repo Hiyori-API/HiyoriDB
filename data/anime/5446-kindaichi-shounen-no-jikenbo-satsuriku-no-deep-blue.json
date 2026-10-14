@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5446,
+  "slug": "kindaichi-shounen-no-jikenbo-satsuriku-no-deep-blue",
+  "kind": "anime",
+  "title": "Kindaichi Shounen no Jikenbo: Satsuriku no Deep Blue",
+  "titles": {
+    "default": "Kindaichi Shounen no Jikenbo: Satsuriku no Deep Blue",
+    "romaji": "Kindaichi Shounen no Jikenbo: Satsuriku no Deep Blue",
+    "english": "Young Kindaichi's Casebook: Deep Blue Massacre",
+    "native": "金田一少年の事件簿 殺戮のディープブルー"
+  },
+  "synonyms": [
+    "Kindaichi Shounen no Jikenbo: Satsuriku no Deep Blue",
+    "Young Kindaichi's Casebook: Deep Blue Massacre",
+    "金田一少年の事件簿 殺戮のディープブルー",
+    "Kindaichi Shounen no Jikenbo Movie 2: Satsuriku no Deep Blue"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9154-itbm8XaBkMFc.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9154",
+      "url": "https://anilist.co/anime/9154"
+    },
+    "k": {
+      "id": "5615",
+      "url": "https://kitsu.io/anime/5615"
+    },
+    "mal": {
+      "id": "9154",
+      "url": "https://myanimelist.net/anime/9154"
+    }
+  }
+}

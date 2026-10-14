@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6531,
+  "slug": "hagane-no-renkinjutsushi-milos-no-seinaru-hoshi-tokubetsu-eizou",
+  "kind": "anime",
+  "title": "Hagane no Renkinjutsushi: Milos no Seinaru Hoshi Tokubetsu Eizou",
+  "titles": {
+    "default": "Hagane no Renkinjutsushi: Milos no Seinaru Hoshi Tokubetsu Eizou",
+    "romaji": "Hagane no Renkinjutsushi: Milos no Seinaru Hoshi Tokubetsu Eizou",
+    "native": "鋼の錬金術師 嘆きの丘[ミロス]の聖なる星 特別動画"
+  },
+  "synonyms": [
+    "Hagane no Renkinjutsushi: Milos no Seinaru Hoshi Tokubetsu Eizou",
+    "鋼の錬金術師 嘆きの丘[ミロス]の聖なる星 特別動画",
+    "Fullmetal Alchemist: Milos no Seinaru Hoshi Specials",
+    "Princess Jellyfish Specials",
+    "Kuragehime: Eiyuu Retsuden☆",
+    "海月姫 英雄列伝☆",
+    "Kuragehime Heroes☆",
+    "Kuragehime Specials"
+  ],
+  "type": "special",
+  "episodes": 4,
+  "status": "finished",
+  "season": "summer",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10842.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10842",
+      "url": "https://anilist.co/anime/10842"
+    },
+    "k": {
+      "id": "5852",
+      "url": "https://kitsu.io/anime/5852"
+    },
+    "mal": {
+      "id": "10842",
+      "url": "https://myanimelist.net/anime/10842"
+    }
+  }
+}

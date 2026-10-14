@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6860,
+  "slug": "kono-naka-ni-hitori-imouto-ga-iru",
+  "kind": "anime",
+  "title": "Kono Naka ni Hitori, Imouto ga Iru!",
+  "titles": {
+    "default": "Kono Naka ni Hitori, Imouto ga Iru!",
+    "romaji": "Kono Naka ni Hitori, Imouto ga Iru!",
+    "english": "NAKAIMO - My Little Sister Is Among Them!",
+    "native": "この中に1人, 妹がいる！"
+  },
+  "synonyms": [
+    "Kono Naka ni Hitori, Imouto ga Iru!",
+    "NAKAIMO - My Little Sister Is Among Them!",
+    "この中に1人, 妹がいる！",
+    "この中に1人、妹がいる！",
+    "NakaImo",
+    "One of Them is My Younger Sister!",
+    "Who is Imouto?"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx13367-mjPgNBIcatlt.png"
+  ],
+  "references": {
+    "al": {
+      "id": "13367",
+      "url": "https://anilist.co/anime/13367"
+    },
+    "k": {
+      "id": "6947",
+      "url": "https://kitsu.io/anime/6947"
+    },
+    "mal": {
+      "id": "13367",
+      "url": "https://myanimelist.net/anime/13367"
+    },
+    "t": {
+      "id": "67005",
+      "url": "https://trakt.tv/shows/67005"
+    }
+  }
+}

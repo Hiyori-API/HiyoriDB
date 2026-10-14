@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4379,
+  "slug": "higashi-no-eden-movie-ii-paradise-lost",
+  "kind": "anime",
+  "title": "Higashi no Eden Movie II: Paradise Lost",
+  "titles": {
+    "default": "Higashi no Eden Movie II: Paradise Lost",
+    "romaji": "Higashi no Eden Movie II: Paradise Lost",
+    "english": "Eden of the East the Movie II: Paradise Lost",
+    "native": "東のエデン 劇場版II Paradise Lost"
+  },
+  "synonyms": [
+    "Higashi no Eden Movie II: Paradise Lost",
+    "Eden of the East the Movie II: Paradise Lost",
+    "東のエデン 劇場版II Paradise Lost",
+    "Higashi no Eden: Gekijouban II Paradise Lost",
+    "Eden of the East: Paradise Lost",
+    "Eden of The East the Movie II: Paradise Lost"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6637-26qRqL3enXYB.png"
+  ],
+  "references": {
+    "al": {
+      "id": "6637",
+      "url": "https://anilist.co/anime/6637"
+    },
+    "cr": {
+      "id": "eden-of-the-east",
+      "url": "https://www.crunchyroll.com/series/eden-of-the-east"
+    },
+    "k": {
+      "id": "4646",
+      "url": "https://kitsu.io/anime/4646"
+    },
+    "mal": {
+      "id": "6637",
+      "url": "https://myanimelist.net/anime/6637"
+    }
+  }
+}

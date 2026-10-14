@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8814,
+  "slug": "soushin-shoujo-matoi",
+  "kind": "anime",
+  "title": "Soushin Shoujo Matoi",
+  "titles": {
+    "default": "Soushin Shoujo Matoi",
+    "romaji": "Soushin Shoujo Matoi",
+    "english": "Matoi the Sacred Slayer",
+    "native": "装神少女まとい"
+  },
+  "synonyms": [
+    "Soushin Shoujo Matoi",
+    "Matoi the Sacred Slayer",
+    "装神少女まとい",
+    "Bungo Stray Dogs 2",
+    "文豪ストレイドッグス",
+    "Bungou Stray Dogs 2nd Season"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21873-oIbHpgBRuNa6.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21873",
+      "url": "https://anilist.co/anime/21873"
+    },
+    "mal": {
+      "id": "33668",
+      "url": "https://myanimelist.net/anime/33668"
+    },
+    "tx": {
+      "id": "matoi_anime",
+      "url": "https://twitter.com/matoi_anime"
+    }
+  }
+}

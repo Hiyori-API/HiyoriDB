@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15875,
+  "slug": "uta-no-prince-sama",
+  "kind": "manga",
+  "title": "Uta no☆Prince-sama♪",
+  "titles": {
+    "default": "Uta no☆Prince-sama♪"
+  },
+  "synonyms": [
+    "UtaPri",
+    "Uta no Prince-sama: Debut",
+    "うたの☆プリンスさまっ♪",
+    "Simple Knot Loafers",
+    "シンプルノットローファー",
+    "Shinpuru Notto Rofa",
+    "Shinpuru Notto Roofaa",
+    "Simple Not Loafer"
+  ],
+  "type": "manga",
+  "volumes": 2,
+  "status": "finished",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx48096-R08LB2Od9yq7.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10321",
+      "url": "https://anilist.co/anime/10321"
+    },
+    "al_manga": {
+      "id": "10321",
+      "url": "https://anilist.co/manga/10321"
+    }
+  }
+}

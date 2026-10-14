@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3681,
+  "slug": "muu-no-hakugei",
+  "kind": "anime",
+  "title": "Muu no Hakugei",
+  "titles": {
+    "default": "Muu no Hakugei",
+    "romaji": "Muu no Hakugei",
+    "english": "The White Whale of Mu",
+    "native": "ムーの白鯨"
+  },
+  "synonyms": [
+    "Muu no Hakugei",
+    "The White Whale of Mu",
+    "ムーの白鯨",
+    "Moo no Hakugei"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 1980,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4933-eOYkz2Fz2f8y.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4933",
+      "url": "https://anilist.co/anime/4933"
+    },
+    "k": {
+      "id": "3855",
+      "url": "https://kitsu.io/anime/3855"
+    },
+    "mal": {
+      "id": "4933",
+      "url": "https://myanimelist.net/anime/4933"
+    }
+  }
+}

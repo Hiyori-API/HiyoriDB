@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15859,
+  "slug": "one-piece-strong-world",
+  "kind": "manga",
+  "title": "ONE PIECE: STRONG WORLD",
+  "titles": {
+    "default": "ONE PIECE: STRONG WORLD"
+  },
+  "synonyms": [
+    "One Piece Volume 0",
+    "ワンピース 0",
+    "ONE PIECE STRONG WORLD",
+    "Fushou no Musuko"
+  ],
+  "type": "one_shot",
+  "chapters": 1,
+  "status": "finished",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n47152-v3AqgrZH9BsU.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8740",
+      "url": "https://anilist.co/anime/8740"
+    },
+    "al_manga": {
+      "id": "8740",
+      "url": "https://anilist.co/manga/8740"
+    }
+  }
+}

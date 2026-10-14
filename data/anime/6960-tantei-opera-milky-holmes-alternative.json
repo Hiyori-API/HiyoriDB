@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6960,
+  "slug": "tantei-opera-milky-holmes-alternative",
+  "kind": "anime",
+  "title": "Tantei Opera Milky Holmes: Alternative",
+  "titles": {
+    "default": "Tantei Opera Milky Holmes: Alternative",
+    "romaji": "Tantei Opera Milky Holmes: Alternative",
+    "english": "Detective Opera Milky Holmes: Alternative",
+    "native": "探偵オペラ ミルキィホームズ Alternative"
+  },
+  "synonyms": [
+    "Tantei Opera Milky Holmes: Alternative",
+    "Detective Opera Milky Holmes: Alternative",
+    "探偵オペラ ミルキィホームズ Alternative"
+  ],
+  "type": "special",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/14647.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "14647",
+      "url": "https://anilist.co/anime/14647"
+    },
+    "k": {
+      "id": "7147",
+      "url": "https://kitsu.io/anime/7147"
+    },
+    "mal": {
+      "id": "14647",
+      "url": "https://myanimelist.net/anime/14647"
+    }
+  }
+}

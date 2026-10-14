@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7169,
+  "slug": "onii-chan-dakedo-ai-sae-areba-kankeinai-yo-ne-specials",
+  "kind": "anime",
+  "title": "Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne! Specials",
+  "titles": {
+    "default": "Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne! Specials",
+    "romaji": "Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne! Specials",
+    "english": "OniAi Specials",
+    "native": "お兄ちゃんだけど愛さえあれば関係ないよねっ 特別"
+  },
+  "synonyms": [
+    "Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne! Specials",
+    "OniAi Specials",
+    "お兄ちゃんだけど愛さえあれば関係ないよねっ 特別",
+    "Tamako Market Specials",
+    "たまこまーけっと ぺったんこアニメ",
+    "Tamako Market: Dera's BAR",
+    "Tamako Market: Oh Choco Choi-chan"
+  ],
+  "type": "special",
+  "episodes": 6,
+  "status": "finished",
+  "season": "winter",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15881.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "15881",
+      "url": "https://anilist.co/anime/15881"
+    },
+    "k": {
+      "id": "7772",
+      "url": "https://kitsu.io/anime/7772"
+    },
+    "mal": {
+      "id": "15881",
+      "url": "https://myanimelist.net/anime/15881"
+    }
+  }
+}

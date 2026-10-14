@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9261,
+  "slug": "sengoku-night-blood",
+  "kind": "anime",
+  "title": "Sengoku Night Blood",
+  "titles": {
+    "default": "Sengoku Night Blood",
+    "romaji": "Sengoku Night Blood",
+    "english": "SENGOKU NIGHT BLOOD",
+    "native": "戦刻ナイトブラッド"
+  },
+  "synonyms": [
+    "Sengoku Night Blood",
+    "SENGOKU NIGHT BLOOD",
+    "戦刻ナイトブラッド",
+    "Noite Sangrenta de Sengoku",
+    "Country of Jewels",
+    "Land of the Lustrous",
+    "宝石の国",
+    "Houseki no Kuni"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98603-PPWyXBNCgWvd.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98603",
+      "url": "https://anilist.co/anime/98603"
+    },
+    "cr": {
+      "id": "sengoku-night-blood",
+      "url": "https://www.crunchyroll.com/series/sengoku-night-blood"
+    },
+    "mal": {
+      "id": "35251",
+      "url": "https://myanimelist.net/anime/35251"
+    },
+    "tx": {
+      "id": "senbura_info",
+      "url": "https://twitter.com/senbura_info"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11484,
+  "slug": "papa-katsu",
+  "kind": "anime",
+  "title": "Papa Katsu!",
+  "titles": {
+    "default": "Papa Katsu!",
+    "romaji": "Papa Katsu!",
+    "native": "パパ喝ッ！"
+  },
+  "synonyms": [
+    "Papa Katsu!",
+    "パパ喝ッ！",
+    "Mysterious Play: Eikoden",
+    "Fushigi Yuugi: Eikouden",
+    "ふしぎ遊戯 -永光伝",
+    "Fushigi Yuugi OVA 3"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "fall",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139883-Hi2qyNPKzaKz.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "139883",
+      "url": "https://anilist.co/anime/139883"
+    },
+    "cr": {
+      "id": "fushigi-yugi-eikoden",
+      "url": "https://www.crunchyroll.com/series/fushigi-yugi-eikoden"
+    },
+    "k": {
+      "id": "103",
+      "url": "https://kitsu.io/anime/103"
+    },
+    "mal": {
+      "id": "49987",
+      "url": "https://myanimelist.net/anime/49987"
+    }
+  }
+}

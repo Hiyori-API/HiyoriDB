@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15430,
+  "slug": "fushigiboshi-no-futagohime",
+  "kind": "manga",
+  "title": "Fushigiboshi no☆Futagohime",
+  "titles": {
+    "default": "Fushigiboshi no☆Futagohime"
+  },
+  "synonyms": [
+    "Fushigiboshi no Futagohime - Lovely Kingdom",
+    "Fushigiboshi no Star Futago Hime",
+    "Mysterious Star of the Twin Princesses",
+    "Twin Princess of Wonder Planet",
+    "ふしぎ星の☆ふたご姫",
+    "Renai Soukanzu",
+    "恋愛相姦図",
+    "Renai Sokanzu",
+    "Pink Sweets"
+  ],
+  "type": "manga",
+  "chapters": 11,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx41567-I3FO3tftEd33.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "505",
+      "url": "https://anilist.co/anime/505"
+    },
+    "al_manga": {
+      "id": "505",
+      "url": "https://anilist.co/manga/505"
+    }
+  }
+}

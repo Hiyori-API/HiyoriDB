@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15030,
+  "slug": "totsugeki-pappara-tai",
+  "kind": "manga",
+  "title": "Totsugeki! Pappara-tai",
+  "titles": {
+    "default": "Totsugeki! Pappara-tai"
+  },
+  "synonyms": [
+    "突撃！パッパラ隊",
+    "Baby & Me",
+    "Akachan to Boku",
+    "赤ちゃんと僕",
+    "AkaBoku",
+    "Baby and Me",
+    "Time Limit",
+    "Secret Boy ni Tee Dasuna!!",
+    "Baka de Karukute Wagamama de",
+    "Natsu to Kimi no Irradiation"
+  ],
+  "type": "manga",
+  "chapters": 144,
+  "volumes": 18,
+  "status": "finished",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b116156-QOcOeTXSSZPj.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5278",
+      "url": "https://anilist.co/anime/5278"
+    },
+    "al_manga": {
+      "id": "5278",
+      "url": "https://anilist.co/manga/5278"
+    }
+  }
+}

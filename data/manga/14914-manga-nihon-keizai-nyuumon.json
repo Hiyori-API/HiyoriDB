@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14914,
+  "slug": "manga-nihon-keizai-nyuumon",
+  "kind": "manga",
+  "title": "Manga: Nihon Keizai Nyuumon",
+  "titles": {
+    "default": "Manga: Nihon Keizai Nyuumon"
+  },
+  "synonyms": [
+    "Comic: An Introduction to Japanese Economics",
+    "Japan Inc.: An Introduction to Japanese Economics",
+    "マンガ日本経済入門",
+    "Nemureru Mori no Binan",
+    "眠れる森美男",
+    "Sleeping Beauty Boy",
+    "The Handsome Man in the Sleeping Woods",
+    "The Sleeping Beauty Man",
+    "The Sleeping Male Beauty in the Woods"
+  ],
+  "type": "manga",
+  "chapters": 22,
+  "volumes": 4,
+  "status": "finished",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx62715-8HUv6Wr7hSDo.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10709",
+      "url": "https://anilist.co/anime/10709"
+    },
+    "al_manga": {
+      "id": "10709",
+      "url": "https://anilist.co/manga/10709"
+    }
+  }
+}

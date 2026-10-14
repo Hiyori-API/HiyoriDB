@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13013,
+  "slug": "ame-to-kimi-to",
+  "kind": "anime",
+  "title": "Ame to Kimi to",
+  "titles": {
+    "default": "Ame to Kimi to",
+    "romaji": "Ame to Kimi to",
+    "english": "With You and the Rain",
+    "native": "雨と君と"
+  },
+  "synonyms": [
+    "Ame to Kimi to",
+    "With You and the Rain",
+    "雨と君と",
+    "AmeKimi",
+    "雨君",
+    "DearS",
+    "ディアーズ"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180425-e5yNWog1hDuu.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "180425",
+      "url": "https://anilist.co/anime/180425"
+    },
+    "cr": {
+      "id": "series/GW4HM7WDV/with-you-and-the-rain",
+      "url": "https://www.crunchyroll.com/series/series/GW4HM7WDV/with-you-and-the-rain"
+    },
+    "k": {
+      "id": "44",
+      "url": "https://kitsu.io/anime/44"
+    },
+    "mal": {
+      "id": "59619",
+      "url": "https://myanimelist.net/anime/59619"
+    },
+    "t": {
+      "id": "61051",
+      "url": "https://trakt.tv/shows/61051"
+    }
+  }
+}

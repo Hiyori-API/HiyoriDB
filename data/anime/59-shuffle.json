@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 59,
+  "slug": "shuffle",
+  "kind": "anime",
+  "title": "SHUFFLE!",
+  "titles": {
+    "default": "SHUFFLE!",
+    "romaji": "SHUFFLE!"
+  },
+  "synonyms": [
+    "SHUFFLE!",
+    "シャッフル！",
+    "Shuffle!",
+    "SHUFFLE! (シャッフル!)"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "summer",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx79-I1ODM0WcMlsn.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "79",
+      "url": "https://anilist.co/anime/79"
+    },
+    "cr": {
+      "id": "shuffle",
+      "url": "https://www.crunchyroll.com/series/shuffle"
+    },
+    "k": {
+      "id": "58",
+      "url": "https://kitsu.io/anime/58"
+    },
+    "mal": {
+      "id": "79",
+      "url": "https://myanimelist.net/anime/79"
+    },
+    "t": {
+      "id": "46215",
+      "url": "https://trakt.tv/shows/46215"
+    }
+  }
+}

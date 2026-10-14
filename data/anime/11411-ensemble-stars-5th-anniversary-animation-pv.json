@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11411,
+  "slug": "ensemble-stars-5th-anniversary-animation-pv",
+  "kind": "anime",
+  "title": "Ensemble Stars!! 5th Anniversary ANIMATION PV",
+  "titles": {
+    "default": "Ensemble Stars!! 5th Anniversary ANIMATION PV",
+    "romaji": "Ensemble Stars!! 5th Anniversary ANIMATION PV",
+    "native": "あんさんぶるスターズ！！ 5th Anniversary ANIMATION PV"
+  },
+  "synonyms": [
+    "Ensemble Stars!! 5th Anniversary ANIMATION PV",
+    "あんさんぶるスターズ！！ 5th Anniversary ANIMATION PV",
+    "Shiguang Dailiren Episode 5.5",
+    "Link Click Episode 5.5",
+    "时光代理人 番外篇 比武招亲",
+    "Shiguang Dailiren Fanwai Pian: Biwu Zhaoqin"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx133849-8OVECO09WTBy.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "133849",
+      "url": "https://anilist.co/anime/133849"
+    },
+    "mal": {
+      "id": "49060",
+      "url": "https://myanimelist.net/anime/49060"
+    },
+    "tx": {
+      "id": "ensemble_stars",
+      "url": "https://twitter.com/ensemble_stars"
+    },
+    "yt": {
+      "id": "PlQU6G-bStQ",
+      "url": "https://www.youtube.com/watch?v=PlQU6G-bStQ"
+    }
+  }
+}

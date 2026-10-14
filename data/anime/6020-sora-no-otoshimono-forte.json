@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6020,
+  "slug": "sora-no-otoshimono-forte",
+  "kind": "anime",
+  "title": "Sora no Otoshimono: Forte",
+  "titles": {
+    "default": "Sora no Otoshimono: Forte",
+    "romaji": "Sora no Otoshimono: Forte",
+    "english": "Heaven's Lost Property: Forte",
+    "native": "そらのおとしものf（フォルテ）"
+  },
+  "synonyms": [
+    "Sora no Otoshimono: Forte",
+    "Heaven's Lost Property: Forte",
+    "そらのおとしものf（フォルテ）",
+    "Sora no Otoshimono: f",
+    "Lost Property of the Sky 2",
+    "Misplaced by Heaven 2",
+    "Heaven's Lost Property 2"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx8407-lgUv2tUNTONy.png"
+  ],
+  "references": {
+    "al": {
+      "id": "8407",
+      "url": "https://anilist.co/anime/8407"
+    },
+    "cr": {
+      "id": "heavens-lost-property",
+      "url": "https://www.crunchyroll.com/series/heavens-lost-property"
+    },
+    "k": {
+      "id": "5323",
+      "url": "https://kitsu.io/anime/5323"
+    },
+    "mal": {
+      "id": "8407",
+      "url": "https://myanimelist.net/anime/8407"
+    },
+    "t": {
+      "id": "37279",
+      "url": "https://trakt.tv/shows/37279"
+    }
+  }
+}

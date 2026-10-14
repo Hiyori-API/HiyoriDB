@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9611,
+  "slug": "sns-police",
+  "kind": "anime",
+  "title": "SNS Police",
+  "titles": {
+    "default": "SNS Police",
+    "romaji": "SNS Police",
+    "native": "SNSポリス"
+  },
+  "synonyms": [
+    "SNS Police",
+    "SNSポリス",
+    "Isekai Izakaya: Japanese Food From Another World",
+    "異世界居酒屋～古都アイテーリアの居酒屋のぶ～",
+    "Isekai Izakaya: Koto Aitheria no Izakaya Nobu"
+  ],
+  "type": "ona",
+  "episodes": 24,
+  "status": "finished",
+  "season": "spring",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx100400-xTwLZlUtdxAB.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "100400",
+      "url": "https://anilist.co/anime/100400"
+    },
+    "mal": {
+      "id": "36623",
+      "url": "https://myanimelist.net/anime/36623"
+    },
+    "tx": {
+      "id": "SNSPolice_MOV",
+      "url": "https://twitter.com/SNSPolice_MOV"
+    }
+  }
+}

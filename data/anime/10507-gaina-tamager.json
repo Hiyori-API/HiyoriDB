@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10507,
+  "slug": "gaina-tamager",
+  "kind": "anime",
+  "title": "Gaina Tamager",
+  "titles": {
+    "default": "Gaina Tamager",
+    "romaji": "Gaina Tamager",
+    "native": "ガイナタマガー"
+  },
+  "synonyms": [
+    "Gaina Tamager",
+    "ガイナタマガー",
+    "Gainatamager",
+    "Lord of the Mysteries",
+    "Lord of Mysteries",
+    "诡秘之主",
+    "Guimi Zhi Zhu"
+  ],
+  "type": "ona",
+  "status": "airing",
+  "season": "winter",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113863-0spZC2wRaTwb.png"
+  ],
+  "references": {
+    "al": {
+      "id": "113863",
+      "url": "https://anilist.co/anime/113863"
+    },
+    "mal": {
+      "id": "40768",
+      "url": "https://myanimelist.net/anime/40768"
+    },
+    "tx": {
+      "id": "gainatamager",
+      "url": "https://twitter.com/gainatamager"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 489,
+  "slug": "pocket-monsters-mewtwo-no-gyakushuu",
+  "kind": "anime",
+  "title": "Pocket Monsters: Mewtwo no Gyakushuu",
+  "titles": {
+    "default": "Pocket Monsters: Mewtwo no Gyakushuu",
+    "romaji": "Pocket Monsters: Mewtwo no Gyakushuu",
+    "english": "Pokémon: The First Movie",
+    "native": "ポケットモンスター ミュウツーの逆襲"
+  },
+  "synonyms": [
+    "Pocket Monsters: Mewtwo no Gyakushuu",
+    "Pokémon: The First Movie",
+    "ポケットモンスター ミュウツーの逆襲",
+    "Gekijouban Pocket Monsters: Mewtwo Strikes Back",
+    "Pokemon Movie 1",
+    "Pokemon: The Origin of Mewtwo",
+    "Pokemon: The First Movie Kanzenban",
+    "Pokemon: Mewtwo no Gyakushuu",
+    "Pokémon Filmen: Mewtwo slår tilbake",
+    "Pokémon: Film pierwszy",
+    "Pokemon the First Movie - Mewtwo vs. Mew",
+    "Pokémon Filmen: Mewtwo slår tillbaka",
+    "Pokemon: Pikachu's Summer Vacation",
+    "Pokemon: Pikachu no Natsuyasumi",
+    "ピカチュウのなつやすみ",
+    "Pocket Monsters: Pikachu no Natsuyasumi",
+    "Pikachu Short 1"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx528-HIz7955MvEnN.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "528",
+      "url": "https://anilist.co/anime/528"
+    },
+    "k": {
+      "id": "4136",
+      "url": "https://kitsu.io/anime/4136"
+    },
+    "mal": {
+      "id": "528",
+      "url": "https://myanimelist.net/anime/528"
+    }
+  }
+}

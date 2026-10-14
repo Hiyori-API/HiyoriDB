@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6813,
+  "slug": "jewelpet-movie-sweets-dance-princess",
+  "kind": "anime",
+  "title": "Jewelpet Movie: Sweets Dance Princess",
+  "titles": {
+    "default": "Jewelpet Movie: Sweets Dance Princess",
+    "romaji": "Jewelpet Movie: Sweets Dance Princess",
+    "native": "映画ジュエルペット スウィーツダンスプリンセス"
+  },
+  "synonyms": [
+    "Jewelpet Movie: Sweets Dance Princess",
+    "映画ジュエルペット スウィーツダンスプリンセス",
+    "Eiga Jewelpet Sweets Dance Princess"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12965.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12965",
+      "url": "https://anilist.co/anime/12965"
+    },
+    "k": {
+      "id": "6858",
+      "url": "https://kitsu.io/anime/6858"
+    },
+    "mal": {
+      "id": "12965",
+      "url": "https://myanimelist.net/anime/12965"
+    }
+  }
+}

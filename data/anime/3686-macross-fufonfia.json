@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3686,
+  "slug": "macross-fufonfia",
+  "kind": "anime",
+  "title": "Macross fufonfia",
+  "titles": {
+    "default": "Macross fufonfia",
+    "romaji": "Macross fufonfia",
+    "native": "マクロスfufonfia"
+  },
+  "synonyms": [
+    "Macross fufonfia",
+    "マクロスfufonfia",
+    "Macross Fufonfia"
+  ],
+  "type": "ona",
+  "episodes": 20,
+  "status": "finished",
+  "season": "spring",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4939.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4939",
+      "url": "https://anilist.co/anime/4939"
+    },
+    "k": {
+      "id": "3860",
+      "url": "https://kitsu.io/anime/3860"
+    },
+    "mal": {
+      "id": "4939",
+      "url": "https://myanimelist.net/anime/4939"
+    }
+  }
+}

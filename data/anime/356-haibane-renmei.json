@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 356,
+  "slug": "haibane-renmei",
+  "kind": "anime",
+  "title": "Haibane Renmei",
+  "titles": {
+    "default": "Haibane Renmei",
+    "romaji": "Haibane Renmei",
+    "native": "灰羽連盟"
+  },
+  "synonyms": [
+    "Haibane Renmei",
+    "灰羽連盟",
+    "Charcoal Feather Federation",
+    "Une fille qui a des ailes grises",
+    "Ailes Grises",
+    "Ali grigie",
+    "Haibane renmei: Stowarzyszenie Szaropiórych",
+    "Союз Серокрылых"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx387-dS4aJivu0zPB.png"
+  ],
+  "references": {
+    "al": {
+      "id": "387",
+      "url": "https://anilist.co/anime/387"
+    },
+    "cr": {
+      "id": "haibane-renmei",
+      "url": "https://www.crunchyroll.com/series/haibane-renmei"
+    },
+    "k": {
+      "id": "354",
+      "url": "https://kitsu.io/anime/354"
+    },
+    "mal": {
+      "id": "387",
+      "url": "https://myanimelist.net/anime/387"
+    },
+    "t": {
+      "id": "34017",
+      "url": "https://trakt.tv/shows/34017"
+    }
+  }
+}

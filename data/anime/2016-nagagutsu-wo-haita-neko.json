@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2016,
+  "slug": "nagagutsu-wo-haita-neko",
+  "kind": "anime",
+  "title": "Nagagutsu wo Haita Neko",
+  "titles": {
+    "default": "Nagagutsu wo Haita Neko",
+    "romaji": "Nagagutsu wo Haita Neko",
+    "english": "The Wonderful World of Puss 'n Boots",
+    "native": "長靴をはいた猫"
+  },
+  "synonyms": [
+    "Nagagutsu wo Haita Neko",
+    "The Wonderful World of Puss 'n Boots",
+    "長靴をはいた猫",
+    "Perix der Kater und die drei Mausketiere",
+    "Le Chat botté",
+    "Mästerkatten i Stövlar",
+    "Kot w Butach",
+    "Puss-in-Boots",
+    "Puss in the Boots"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1969,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2279-Ruw2GfDQJI21.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2279",
+      "url": "https://anilist.co/anime/2279"
+    },
+    "k": {
+      "id": "2064",
+      "url": "https://kitsu.io/anime/2064"
+    },
+    "mal": {
+      "id": "2279",
+      "url": "https://myanimelist.net/anime/2279"
+    }
+  }
+}

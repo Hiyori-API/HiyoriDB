@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6705,
+  "slug": "hack-the-movie-sekai-no-mukou-ni",
+  "kind": "anime",
+  "title": ".hack//The Movie: Sekai no Mukou ni",
+  "titles": {
+    "default": ".hack//The Movie: Sekai no Mukou ni",
+    "romaji": ".hack//The Movie: Sekai no Mukou ni",
+    "native": ".hack//The Movie セカイの向こうに"
+  },
+  "synonyms": [
+    ".hack//The Movie: Sekai no Mukou ni",
+    ".hack//The Movie セカイの向こうに",
+    ".hack//Beyond the World"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11375.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11375",
+      "url": "https://anilist.co/anime/11375"
+    },
+    "k": {
+      "id": "6502",
+      "url": "https://kitsu.io/anime/6502"
+    },
+    "mal": {
+      "id": "11375",
+      "url": "https://myanimelist.net/anime/11375"
+    }
+  }
+}

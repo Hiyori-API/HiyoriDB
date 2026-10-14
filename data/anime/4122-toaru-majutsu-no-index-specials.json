@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4122,
+  "slug": "toaru-majutsu-no-index-specials",
+  "kind": "anime",
+  "title": "Toaru Majutsu no Index Specials",
+  "titles": {
+    "default": "Toaru Majutsu no Index Specials",
+    "romaji": "Toaru Majutsu no Index Specials",
+    "english": "A Certain Magical Index Specials",
+    "native": "とある魔術のいんでっくすたん"
+  },
+  "synonyms": [
+    "Toaru Majutsu no Index Specials",
+    "A Certain Magical Index Specials",
+    "とある魔術のいんでっくすたん",
+    "Toaru Majutsu no Index-tan",
+    "A Certain Magical Index-tan",
+    "A Certain Magical Index: Specials",
+    "A Certain Magical Index-tan Specials"
+  ],
+  "type": "special",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5955.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5955",
+      "url": "https://anilist.co/anime/5955"
+    },
+    "k": {
+      "id": "4360",
+      "url": "https://kitsu.io/anime/4360"
+    },
+    "mal": {
+      "id": "5955",
+      "url": "https://myanimelist.net/anime/5955"
+    }
+  }
+}

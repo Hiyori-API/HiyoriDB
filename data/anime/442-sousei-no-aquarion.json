@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 442,
+  "slug": "sousei-no-aquarion",
+  "kind": "anime",
+  "title": "Sousei no Aquarion",
+  "titles": {
+    "default": "Sousei no Aquarion",
+    "romaji": "Sousei no Aquarion",
+    "english": "Aquarion",
+    "native": "創聖のアクエリオン"
+  },
+  "synonyms": [
+    "Sousei no Aquarion",
+    "Aquarion",
+    "創聖のアクエリオン",
+    "Genesis of Aquarion",
+    "Holy Genesis Aquarion"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx478-aRiAdGczAsMg.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "478",
+      "url": "https://anilist.co/anime/478"
+    },
+    "cr": {
+      "id": "aquarion",
+      "url": "https://www.crunchyroll.com/series/aquarion"
+    },
+    "k": {
+      "id": "440",
+      "url": "https://kitsu.io/anime/440"
+    },
+    "mal": {
+      "id": "478",
+      "url": "https://myanimelist.net/anime/478"
+    },
+    "t": {
+      "id": "8826",
+      "url": "https://trakt.tv/shows/8826"
+    },
+    "ttv": {
+      "id": "2049",
+      "url": "https://tubitv.com/series/2049"
+    }
+  }
+}

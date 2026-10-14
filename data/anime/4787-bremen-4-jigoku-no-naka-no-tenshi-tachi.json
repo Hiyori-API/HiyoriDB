@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4787,
+  "slug": "bremen-4-jigoku-no-naka-no-tenshi-tachi",
+  "kind": "anime",
+  "title": "Bremen 4: Jigoku no Naka no Tenshi-tachi",
+  "titles": {
+    "default": "Bremen 4: Jigoku no Naka no Tenshi-tachi",
+    "romaji": "Bremen 4: Jigoku no Naka no Tenshi-tachi",
+    "native": "ブレーメン４ - 地獄の中の天使たち -"
+  },
+  "synonyms": [
+    "Bremen 4: Jigoku no Naka no Tenshi-tachi",
+    "ブレーメン４ - 地獄の中の天使たち -",
+    "Bremen Four",
+    "Bremen 4: Angels in Hell",
+    "Bremen 4",
+    "ブレーメン４ 地獄の中の天使たち",
+    "Brehmen 4: Angels in Hell",
+    "24 Hour TV Specials"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1981,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b9991-MXRmrgsVlfEm.png"
+  ],
+  "references": {
+    "al": {
+      "id": "9991",
+      "url": "https://anilist.co/anime/9991"
+    },
+    "k": {
+      "id": "5983",
+      "url": "https://kitsu.io/anime/5983"
+    },
+    "mal": {
+      "id": "9991",
+      "url": "https://myanimelist.net/anime/9991"
+    }
+  }
+}

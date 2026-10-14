@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2312,
+  "slug": "kakyuusei-tv",
+  "kind": "anime",
+  "title": "Kakyuusei (TV)",
+  "titles": {
+    "default": "Kakyuusei (TV)",
+    "romaji": "Kakyuusei (TV)",
+    "native": "下級生 (TV)"
+  },
+  "synonyms": [
+    "Kakyuusei (TV)",
+    "下級生 (TV)",
+    "A Girl in a Lower Grade",
+    "下級生"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2609-EppvBPqSfTMc.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2609",
+      "url": "https://anilist.co/anime/2609"
+    },
+    "k": {
+      "id": "2373",
+      "url": "https://kitsu.io/anime/2373"
+    },
+    "mal": {
+      "id": "2609",
+      "url": "https://myanimelist.net/anime/2609"
+    },
+    "t": {
+      "id": "97260",
+      "url": "https://trakt.tv/shows/97260"
+    }
+  }
+}

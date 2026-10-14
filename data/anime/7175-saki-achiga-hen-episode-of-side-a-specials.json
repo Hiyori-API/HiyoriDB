@@ -1,0 +1,60 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7175,
+  "slug": "saki-achiga-hen-episode-of-side-a-specials",
+  "kind": "anime",
+  "title": "Saki: Achiga-hen - episode of side-A Specials",
+  "titles": {
+    "default": "Saki: Achiga-hen - episode of side-A Specials",
+    "romaji": "Saki: Achiga-hen - episode of side-A Specials",
+    "english": "Saki - Episode of Side A Specials",
+    "native": "咲-Saki-阿知賀編 episode of side-A スペシャルエピソード 13話～16話"
+  },
+  "synonyms": [
+    "Saki: Achiga-hen - episode of side-A Specials",
+    "Saki - Episode of Side A Specials",
+    "咲-Saki-阿知賀編 episode of side-A スペシャルエピソード 13話～16話",
+    "Saki Achiga-hen: Episode of Side-A Episodes 13, 14, 15, and 16",
+    "Saki - Episode of Side A Part 2",
+    "Saki - Episode of Side A",
+    "Saki Achiga-hen: Episode of Side-A Specials",
+    "Saki Achiga-hen: Episode of Side-A Episodes 13",
+    "14",
+    "15",
+    "and 16"
+  ],
+  "type": "special",
+  "episodes": 4,
+  "status": "finished",
+  "season": "winter",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15989-RHAaDyzOL5mf.png"
+  ],
+  "references": {
+    "al": {
+      "id": "15989",
+      "url": "https://anilist.co/anime/15989"
+    },
+    "cr": {
+      "id": "saki-episode-of-side-a",
+      "url": "https://www.crunchyroll.com/series/saki-episode-of-side-a"
+    },
+    "k": {
+      "id": "7353",
+      "url": "https://kitsu.io/anime/7353"
+    },
+    "mal": {
+      "id": "15989",
+      "url": "https://myanimelist.net/anime/15989"
+    },
+    "tvt": {
+      "id": "saki2",
+      "url": "http://www.tv-tokyo.co.jp/anime/saki2"
+    },
+    "tx": {
+      "id": "SakiAnime",
+      "url": "https://twitter.com/SakiAnime"
+    }
+  }
+}

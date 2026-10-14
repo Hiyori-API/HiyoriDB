@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15114,
+  "slug": "high-score",
+  "kind": "manga",
+  "title": "High Score",
+  "titles": {
+    "default": "High Score"
+  },
+  "synonyms": [
+    "HIGH SCORE",
+    "High Score"
+  ],
+  "type": "manga",
+  "status": "publishing",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx45099-DCUHR2MnDgUS.png"
+  ],
+  "references": {
+    "al": {
+      "id": "10958",
+      "url": "https://anilist.co/anime/10958"
+    },
+    "al_manga": {
+      "id": "10958",
+      "url": "https://anilist.co/manga/10958"
+    }
+  }
+}

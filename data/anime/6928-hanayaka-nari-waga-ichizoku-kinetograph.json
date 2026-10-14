@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6928,
+  "slug": "hanayaka-nari-waga-ichizoku-kinetograph",
+  "kind": "anime",
+  "title": "Hanayaka Nari, Waga Ichizoku: Kinetograph",
+  "titles": {
+    "default": "Hanayaka Nari, Waga Ichizoku: Kinetograph",
+    "romaji": "Hanayaka Nari, Waga Ichizoku: Kinetograph",
+    "native": "華ヤカ哉, 我ガ一族 キネトグラフ"
+  },
+  "synonyms": [
+    "Hanayaka Nari, Waga Ichizoku: Kinetograph",
+    "華ヤカ哉, 我ガ一族 キネトグラフ"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14145-jVHOZ6OoAKVl.png"
+  ],
+  "references": {
+    "al": {
+      "id": "14145",
+      "url": "https://anilist.co/anime/14145"
+    },
+    "k": {
+      "id": "7088",
+      "url": "https://kitsu.io/anime/7088"
+    },
+    "mal": {
+      "id": "14145",
+      "url": "https://myanimelist.net/anime/14145"
+    }
+  }
+}

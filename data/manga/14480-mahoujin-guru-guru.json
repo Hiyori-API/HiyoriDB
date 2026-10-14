@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14480,
+  "slug": "mahoujin-guru-guru",
+  "kind": "manga",
+  "title": "Mahoujin Guru Guru",
+  "titles": {
+    "default": "Mahoujin Guru Guru"
+  },
+  "synonyms": [
+    "Magical circle guru guru",
+    "Guru Guru - Il girotondo della magia",
+    "魔法陣グルグル",
+    "Fushigi Yugi",
+    "Fushigi Yuugi",
+    "ふしぎ遊戯",
+    "Mysterious Play",
+    "Curious Play"
+  ],
+  "type": "manga",
+  "chapters": 158,
+  "volumes": 16,
+  "status": "finished",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx34080-fAOLdrXI6sNs.png"
+  ],
+  "references": {
+    "al": {
+      "id": "168576",
+      "url": "https://anilist.co/anime/331"
+    },
+    "al_manga": {
+      "id": "168576",
+      "url": "https://anilist.co/manga/168576"
+    }
+  }
+}

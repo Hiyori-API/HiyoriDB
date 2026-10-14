@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7112,
+  "slug": "death-billiards",
+  "kind": "anime",
+  "title": "Death Billiards",
+  "titles": {
+    "default": "Death Billiards",
+    "romaji": "Death Billiards",
+    "native": "デス・ビリヤード"
+  },
+  "synonyms": [
+    "Death Billiards",
+    "デス・ビリヤード",
+    "Wakate Animator Ikusei Project",
+    "2012 Young Animator Training Project",
+    "Anime Mirai 2012"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14353-aV7ePEFdUQ52.png"
+  ],
+  "references": {
+    "al": {
+      "id": "14353",
+      "url": "https://anilist.co/anime/14353"
+    },
+    "k": {
+      "id": "7116",
+      "url": "https://kitsu.io/anime/7116"
+    },
+    "mal": {
+      "id": "14353",
+      "url": "https://myanimelist.net/anime/14353"
+    }
+  }
+}

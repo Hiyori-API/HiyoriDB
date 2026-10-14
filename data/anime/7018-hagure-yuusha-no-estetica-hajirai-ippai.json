@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7018,
+  "slug": "hagure-yuusha-no-estetica-hajirai-ippai",
+  "kind": "anime",
+  "title": "Hagure Yuusha no Estetica: Hajirai Ippai",
+  "titles": {
+    "default": "Hagure Yuusha no Estetica: Hajirai Ippai",
+    "romaji": "Hagure Yuusha no Estetica: Hajirai Ippai",
+    "english": "Aesthetica of a Rogue Hero Specials",
+    "native": "はぐれ勇者の鬼畜美学 恥じらいいっぱい"
+  },
+  "synonyms": [
+    "Hagure Yuusha no Estetica: Hajirai Ippai",
+    "Aesthetica of a Rogue Hero Specials",
+    "はぐれ勇者の鬼畜美学 恥じらいいっぱい",
+    "Hagure Yuusha no Estetica Specials",
+    "Hagure Yuusha no Aesthetica",
+    "Girls & Panzer OVAs",
+    "Girls & Panzer Specials",
+    "ガールズ&パンツァー",
+    "Girls und Panzer"
+  ],
+  "type": "special",
+  "episodes": 6,
+  "status": "finished",
+  "season": "fall",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15729.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "15729",
+      "url": "https://anilist.co/anime/15729"
+    },
+    "k": {
+      "id": "7315",
+      "url": "https://kitsu.io/anime/7315"
+    },
+    "mal": {
+      "id": "15729",
+      "url": "https://myanimelist.net/anime/15729"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1101,
+  "slug": "innocent-venus",
+  "kind": "anime",
+  "title": "Innocent Venus",
+  "titles": {
+    "default": "Innocent Venus",
+    "romaji": "Innocent Venus",
+    "native": "イノセント・ヴィーナス"
+  },
+  "synonyms": [
+    "Innocent Venus",
+    "イノセント・ヴィーナス"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1230-ntjhDVD5oOFa.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1230",
+      "url": "https://anilist.co/anime/1230"
+    },
+    "k": {
+      "id": "1106",
+      "url": "https://kitsu.io/anime/1106"
+    },
+    "mal": {
+      "id": "1230",
+      "url": "https://myanimelist.net/anime/1230"
+    },
+    "t": {
+      "id": "33979",
+      "url": "https://trakt.tv/shows/33979"
+    }
+  }
+}

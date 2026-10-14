@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6948,
+  "slug": "medaka-box-abnormal",
+  "kind": "anime",
+  "title": "Medaka Box Abnormal",
+  "titles": {
+    "default": "Medaka Box Abnormal",
+    "romaji": "Medaka Box Abnormal",
+    "native": "めだかボックス アブノーマル"
+  },
+  "synonyms": [
+    "Medaka Box Abnormal",
+    "めだかボックス アブノーマル",
+    "Medaka Box 2",
+    "Hidamari Sketch x Honeycomb",
+    "ひだまりスケッチ×ハニカム",
+    "Hidamari Sketch x Hanikamu",
+    "Hidamari Sketch Dai Yon Ki",
+    "Hidamari Sketch Fourth Series",
+    "Hidamari Sketch 4th Season"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14527-7rNlGdUA9sgM.png"
+  ],
+  "references": {
+    "al": {
+      "id": "14527",
+      "url": "https://anilist.co/anime/14527"
+    },
+    "cr": {
+      "id": "medaka-box",
+      "url": "https://www.crunchyroll.com/series/medaka-box"
+    },
+    "k": {
+      "id": "6480",
+      "url": "https://kitsu.io/anime/6480"
+    },
+    "mal": {
+      "id": "14527",
+      "url": "https://myanimelist.net/anime/14527"
+    },
+    "t": {
+      "id": "45640",
+      "url": "https://trakt.tv/shows/45640"
+    }
+  }
+}

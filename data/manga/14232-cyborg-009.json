@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14232,
+  "slug": "cyborg-009",
+  "kind": "manga",
+  "title": "Cyborg 009",
+  "titles": {
+    "default": "Cyborg 009"
+  },
+  "synonyms": [
+    "Cyborg 009",
+    "サイボーグ009",
+    "Kamui Den",
+    "カムイ伝",
+    "The Legend of Kamui"
+  ],
+  "type": "manga",
+  "chapters": 206,
+  "volumes": 27,
+  "status": "finished",
+  "year": 1964,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31639-IDnWDZIHHLUY.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "196223",
+      "url": "https://anilist.co/anime/4690"
+    },
+    "al_manga": {
+      "id": "196223",
+      "url": "https://anilist.co/manga/196223"
+    }
+  }
+}

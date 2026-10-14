@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5490,
+  "slug": "pichu-to-pikachu-no-fuyuyasumi-2001",
+  "kind": "anime",
+  "title": "Pichu to Pikachu no Fuyuyasumi 2001",
+  "titles": {
+    "default": "Pichu to Pikachu no Fuyuyasumi 2001",
+    "romaji": "Pichu to Pikachu no Fuyuyasumi 2001",
+    "english": "Pokémon: Pikachu's Winter Vacation (2001)",
+    "native": "ピチューとピカチュウのふゆやすみ2001"
+  },
+  "synonyms": [
+    "Pichu to Pikachu no Fuyuyasumi 2001",
+    "Pokémon: Pikachu's Winter Vacation (2001)",
+    "ピチューとピカチュウのふゆやすみ2001",
+    "Pichu & Pikachu's Winter Vacation 2001",
+    "Delibird's Dilemma",
+    "Snorlax Snowman",
+    "Trouble in Big Town",
+    "Pokemon: Pikachu's Winter Vacation (2001)",
+    "Pokemon: Pikachu no Fuyuyasumi (2001)",
+    "ピカチュウのふゆやすみ2001",
+    "Pocket Monsters: Pikachu no Fuyuyasumi (2001)",
+    "Delibird's Present",
+    "White Story",
+    "We are the Pichu Brothers - Balloon Disturbance"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "fall",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx10917-2RIr9c3BbivO.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10917",
+      "url": "https://anilist.co/anime/10917"
+    },
+    "k": {
+      "id": "6405",
+      "url": "https://kitsu.io/anime/6405"
+    },
+    "mal": {
+      "id": "10917",
+      "url": "https://myanimelist.net/anime/10917"
+    }
+  }
+}

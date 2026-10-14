@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5774,
+  "slug": "glass-no-kantai-la-legende-du-vent-de-l-univers-specials",
+  "kind": "anime",
+  "title": "Glass no Kantai: La legende du vent de l'univers Specials",
+  "titles": {
+    "default": "Glass no Kantai: La legende du vent de l'univers Specials",
+    "romaji": "Glass no Kantai: La legende du vent de l'univers Specials",
+    "english": "Glass Fleet: The Legend of the Wind of the Universe Specials",
+    "native": "ガラスの艦隊～La legende du vent de l'univers～特典"
+  },
+  "synonyms": [
+    "Glass no Kantai: La legende du vent de l'univers Specials",
+    "Glass Fleet: The Legend of the Wind of the Universe Specials",
+    "ガラスの艦隊～La legende du vent de l'univers～特典",
+    "Fleet of Glass Specials",
+    "憧憬のごとく…",
+    "Doukei no Gotoku...",
+    "抱擁のごとく…",
+    "Houyou no Gotoku...",
+    "Glass no Kantai 16.5",
+    "Glass no Kantai 20.5",
+    "Glass no Kantai: La Legende du Vent de l'Univers Specials",
+    "ガラスの艦隊～La legende du vent de l'univers～",
+    "Garasu no Kantai Special",
+    "Garasu no Kantai 16.5",
+    "DVD Extra Episode - Episode 20.5"
+  ],
+  "type": "special",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20563.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "20563",
+      "url": "https://anilist.co/anime/20563"
+    },
+    "cr": {
+      "id": "glass-fleet",
+      "url": "https://www.crunchyroll.com/series/glass-fleet"
+    },
+    "k": {
+      "id": "4224",
+      "url": "https://kitsu.io/anime/4224"
+    },
+    "mal": {
+      "id": "5652",
+      "url": "https://myanimelist.net/anime/5652"
+    }
+  }
+}

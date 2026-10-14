@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4064,
+  "slug": "tori-no-uta",
+  "kind": "anime",
+  "title": "Tori no Uta",
+  "titles": {
+    "default": "Tori no Uta",
+    "romaji": "Tori no Uta",
+    "native": "鳥の歌"
+  },
+  "synonyms": [
+    "Tori no Uta",
+    "鳥の歌",
+    "Bird's Song; Bird's Poem",
+    "Bird Song",
+    "Bird Poem"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5819-C0s7Hxz8lQBC.png"
+  ],
+  "references": {
+    "al": {
+      "id": "5819",
+      "url": "https://anilist.co/anime/5819"
+    },
+    "k": {
+      "id": "4287",
+      "url": "https://kitsu.io/anime/4287"
+    },
+    "mal": {
+      "id": "5819",
+      "url": "https://myanimelist.net/anime/5819"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11784,
+  "slug": "injuu-seisen-xx",
+  "kind": "anime",
+  "title": "Injuu Seisen XX",
+  "titles": {
+    "default": "Injuu Seisen XX",
+    "romaji": "Injuu Seisen XX",
+    "english": "Twin Angels (2)",
+    "native": "淫獣聖戦XX"
+  },
+  "synonyms": [
+    "Injuu Seisen XX",
+    "Twin Angels (2)",
+    "淫獣聖戦XX",
+    "Nezumi-kun no Chokki",
+    "ねずみくんのチョッキ"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "summer",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12061.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12061",
+      "url": "https://anilist.co/anime/12061"
+    },
+    "k": {
+      "id": "9793",
+      "url": "https://kitsu.io/anime/9793"
+    },
+    "mal": {
+      "id": "12061",
+      "url": "https://myanimelist.net/anime/12061"
+    }
+  }
+}

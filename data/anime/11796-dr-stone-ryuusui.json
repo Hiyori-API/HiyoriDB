@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11796,
+  "slug": "dr-stone-ryuusui",
+  "kind": "anime",
+  "title": "Dr. STONE: Ryuusui",
+  "titles": {
+    "default": "Dr. STONE: Ryuusui",
+    "romaji": "Dr. STONE: Ryuusui",
+    "english": "Dr. STONE Special Episode – RYUSUI",
+    "native": "Dr.STONE 龍水"
+  },
+  "synonyms": [
+    "Dr. STONE: Ryuusui",
+    "Dr. STONE Special Episode – RYUSUI",
+    "Dr.STONE 龍水",
+    "Dr. STONE: Ryusui",
+    "Доктор Стоун: Рюсуй",
+    "Seikai no Senki Special",
+    "星界の戦旗 特別編",
+    "Seikai no Senki Movie",
+    "Battle Flag of the Stars Special Edition",
+    "Seikai no Senki Tokubetsuhen"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142876-izO35hPP2DZ9.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "142876",
+      "url": "https://anilist.co/anime/142876"
+    },
+    "cr": {
+      "id": "series/GYEXQKJG6/dr-stone",
+      "url": "https://www.crunchyroll.com/series/series/GYEXQKJG6/dr-stone"
+    },
+    "k": {
+      "id": "366",
+      "url": "https://kitsu.io/anime/366"
+    },
+    "mal": {
+      "id": "50612",
+      "url": "https://myanimelist.net/anime/50612"
+    },
+    "tx": {
+      "id": "stone_anime_off",
+      "url": "https://twitter.com/stone_anime_off"
+    }
+  }
+}

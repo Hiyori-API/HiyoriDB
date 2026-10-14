@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6945,
+  "slug": "k",
+  "kind": "anime",
+  "title": "K",
+  "titles": {
+    "default": "K",
+    "romaji": "K"
+  },
+  "synonyms": [
+    "K",
+    "K-Project (K-プロジェクト)",
+    "K -eine weitere Geschichte-",
+    "Code:Breaker",
+    "CØDE:BREAKER",
+    "Code Breaker"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14467-TQjwOvq4jkYS.png"
+  ],
+  "references": {
+    "al": {
+      "id": "14467",
+      "url": "https://anilist.co/anime/14467"
+    },
+    "cr": {
+      "id": "k",
+      "url": "https://www.crunchyroll.com/series/k"
+    },
+    "k": {
+      "id": "6570",
+      "url": "https://kitsu.io/anime/6570"
+    },
+    "mal": {
+      "id": "14467",
+      "url": "https://myanimelist.net/anime/14467"
+    },
+    "nf": {
+      "id": "80040118",
+      "url": "https://www.netflix.com/title/80040118"
+    },
+    "t": {
+      "id": "67796",
+      "url": "https://trakt.tv/shows/67796"
+    },
+    "ttv": {
+      "id": "2186",
+      "url": "https://tubitv.com/series/2186"
+    }
+  }
+}

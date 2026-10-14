@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4973,
+  "slug": "shirahata-no-shoujo-ryuuko",
+  "kind": "anime",
+  "title": "Shirahata no Shoujo Ryuuko",
+  "titles": {
+    "default": "Shirahata no Shoujo Ryuuko",
+    "romaji": "Shirahata no Shoujo Ryuuko",
+    "native": "白旗の少女 琉子"
+  },
+  "synonyms": [
+    "Shirahata no Shoujo Ryuuko",
+    "白旗の少女 琉子",
+    "The Girl with the White Flag"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9546.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9546",
+      "url": "https://anilist.co/anime/9546"
+    },
+    "k": {
+      "id": "5786",
+      "url": "https://kitsu.io/anime/5786"
+    },
+    "mal": {
+      "id": "9546",
+      "url": "https://myanimelist.net/anime/9546"
+    }
+  }
+}

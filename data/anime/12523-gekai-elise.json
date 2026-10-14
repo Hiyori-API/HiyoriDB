@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12523,
+  "slug": "gekai-elise",
+  "kind": "anime",
+  "title": "Gekai Elise",
+  "titles": {
+    "default": "Gekai Elise",
+    "romaji": "Gekai Elise",
+    "english": "Doctor Elise: The Royal Lady with the Lamp",
+    "native": "外科医エリーゼ"
+  },
+  "synonyms": [
+    "Gekai Elise",
+    "Doctor Elise: The Royal Lady with the Lamp",
+    "外科医エリーゼ",
+    "Surgeon Elise",
+    "Oegwauisa Elise",
+    "외과의사 엘리제",
+    "เอลิเซ่ แพทย์หญิงทะลุมิติ",
+    "L'Impérieux Destin du Dr. Elise",
+    "Доктор Элизе: леди со скальпелем",
+    "Doctor Elise: Queen with a Scalpel"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2024,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162144-T0y7XyTFhSYJ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "162144",
+      "url": "https://anilist.co/anime/162144"
+    },
+    "cr": {
+      "id": "series/GVDHX853V/doctor-elise-the-royal-lady-with-the-lamp",
+      "url": "https://www.crunchyroll.com/series/series/GVDHX853V/doctor-elise-the-royal-lady-with-the-lamp"
+    },
+    "mal": {
+      "id": "54632",
+      "url": "https://myanimelist.net/anime/54632"
+    },
+    "tx": {
+      "id": "surgeon_elise",
+      "url": "https://twitter.com/surgeon_elise"
+    }
+  }
+}

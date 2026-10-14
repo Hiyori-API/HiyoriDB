@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15558,
+  "slug": "kunoichi-sakuya-shinobishi-omoi-wa-chijoku-ni-nurete",
+  "kind": "manga",
+  "title": "Kunoichi Sakuya: \"Shinobishi Omoi wa Chijoku ni Nurete......\"",
+  "titles": {
+    "default": "Kunoichi Sakuya: \"Shinobishi Omoi wa Chijoku ni Nurete......\""
+  },
+  "synonyms": [
+    "くのいち・咲夜「忍びし想いは恥辱に濡れて……」",
+    "Ladies versus Butlers!",
+    "れでぃ×ばと!",
+    "Redei Bato!",
+    "Redei x Bato",
+    "Ladies vs Butlers!"
+  ],
+  "type": "novel",
+  "chapters": 6,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/91881-l1FmLxm6rzpa.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9939",
+      "url": "https://anilist.co/anime/9939"
+    },
+    "al_manga": {
+      "id": "9939",
+      "url": "https://anilist.co/manga/9939"
+    }
+  }
+}

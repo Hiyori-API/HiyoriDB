@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14985,
+  "slug": "kidou-senshi-gundam-0080-pocket-no-naka-no-sensou",
+  "kind": "manga",
+  "title": "Kidou Senshi Gundam 0080 Pocket no Naka no Sensou",
+  "titles": {
+    "default": "Kidou Senshi Gundam 0080 Pocket no Naka no Sensou"
+  },
+  "synonyms": [
+    "Mobile Suit Gundam 0080: War in the Pocket",
+    "機動戦士ガンダム0080 ポケットの中の戦争",
+    "Four Steps to Romance",
+    "Romance Godan Katsuyou",
+    "ろまんす五段活用",
+    "Romantic Princess"
+  ],
+  "type": "manga",
+  "chapters": 5,
+  "volumes": 1,
+  "status": "finished",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b53869-fgYUySqIjjgs.png"
+  ],
+  "references": {
+    "al": {
+      "id": "82",
+      "url": "https://anilist.co/anime/82"
+    },
+    "al_manga": {
+      "id": "82",
+      "url": "https://anilist.co/manga/82"
+    }
+  }
+}

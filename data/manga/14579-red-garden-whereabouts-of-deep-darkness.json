@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14579,
+  "slug": "red-garden-whereabouts-of-deep-darkness",
+  "kind": "manga",
+  "title": "Red Garden: Whereabouts of Deep Darkness",
+  "titles": {
+    "default": "Red Garden: Whereabouts of Deep Darkness"
+  },
+  "synonyms": [
+    "RED GARDEN～深き闇の行方～",
+    "MM!",
+    "えむえむっ!",
+    "MM Group",
+    "Emu Emu!"
+  ],
+  "type": "novel",
+  "chapters": 12,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/23403.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1601",
+      "url": "https://anilist.co/anime/1601"
+    },
+    "al_manga": {
+      "id": "1601",
+      "url": "https://anilist.co/manga/1601"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9860,
+  "slug": "lupin-wa-ima-mo-moete-iru-ka",
+  "kind": "anime",
+  "title": "Lupin wa Ima mo Moete Iru ka?",
+  "titles": {
+    "default": "Lupin wa Ima mo Moete Iru ka?",
+    "romaji": "Lupin wa Ima mo Moete Iru ka?",
+    "english": "Is Lupin Still Burning?",
+    "native": "ルパンは今も燃えているか？"
+  },
+  "synonyms": [
+    "Lupin wa Ima mo Moete Iru ka?",
+    "Is Lupin Still Burning?",
+    "ルパンは今も燃えているか？",
+    "Lupin III: Part V - Special",
+    "Lupin III (2018) Special",
+    "Lupin the Third - 50th Anniversary Special",
+    "Lupin III - Lupin contro tutti!",
+    "Lupin Ainda Está Queimando?",
+    "Lupin Contra o Tempo?",
+    "One Piece: Defeat the Pirate Ganzack!",
+    "One Piece: Taose! Kaizoku Ganzack",
+    "ワンピース 倒せ！海賊ギャンザック"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx104257-D7AKMDDVf0lV.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "104257",
+      "url": "https://anilist.co/anime/104257"
+    },
+    "k": {
+      "id": "428",
+      "url": "https://kitsu.io/anime/428"
+    },
+    "mal": {
+      "id": "36967",
+      "url": "https://myanimelist.net/anime/36967"
+    }
+  }
+}

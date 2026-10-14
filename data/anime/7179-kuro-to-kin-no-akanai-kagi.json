@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7179,
+  "slug": "kuro-to-kin-no-akanai-kagi",
+  "kind": "anime",
+  "title": "Kuro to Kin no Akanai Kagi.",
+  "titles": {
+    "default": "Kuro to Kin no Akanai Kagi.",
+    "romaji": "Kuro to Kin no Akanai Kagi.",
+    "native": "黒と金の開かない鍵。"
+  },
+  "synonyms": [
+    "Kuro to Kin no Akanai Kagi.",
+    "黒と金の開かない鍵。",
+    "Kuro to Kin no Hirakanai Kagi."
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16023-OraV3aqJw0mG.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "16023",
+      "url": "https://anilist.co/anime/16023"
+    },
+    "k": {
+      "id": "7361",
+      "url": "https://kitsu.io/anime/7361"
+    },
+    "mal": {
+      "id": "16023",
+      "url": "https://myanimelist.net/anime/16023"
+    }
+  }
+}

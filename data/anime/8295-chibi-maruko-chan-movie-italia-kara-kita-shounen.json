@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8295,
+  "slug": "chibi-maruko-chan-movie-italia-kara-kita-shounen",
+  "kind": "anime",
+  "title": "Chibi Maruko-chan Movie: Italia Kara Kita Shounen",
+  "titles": {
+    "default": "Chibi Maruko-chan Movie: Italia Kara Kita Shounen",
+    "romaji": "Chibi Maruko-chan Movie: Italia Kara Kita Shounen",
+    "native": "映画ちびまる子ちゃん イタリアから来た少年"
+  },
+  "synonyms": [
+    "Chibi Maruko-chan Movie: Italia Kara Kita Shounen",
+    "映画ちびまる子ちゃん イタリアから来た少年",
+    "樱桃小丸子：来自意大利的少年",
+    "Girls und Panzer der Film",
+    "Girls & Panzer Movie",
+    "ガールズ&パンツァー 劇場版",
+    "Girls und Panzer Movie",
+    "Gekijouban Girls und Panzer",
+    "Girls & Panzer Gekijouban"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21267-wtKUmsAsbx2Y.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21267",
+      "url": "https://anilist.co/anime/21267"
+    },
+    "k": {
+      "id": "7904",
+      "url": "https://kitsu.io/anime/7904"
+    },
+    "mal": {
+      "id": "31202",
+      "url": "https://myanimelist.net/anime/31202"
+    }
+  }
+}

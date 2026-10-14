@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1457,
+  "slug": "uchuu-senkan-yamato-2",
+  "kind": "anime",
+  "title": "Uchuu Senkan Yamato 2",
+  "titles": {
+    "default": "Uchuu Senkan Yamato 2",
+    "romaji": "Uchuu Senkan Yamato 2",
+    "english": "Star Blazers: The Comet Empire",
+    "native": "宇宙戦艦ヤマト2"
+  },
+  "synonyms": [
+    "Uchuu Senkan Yamato 2",
+    "Star Blazers: The Comet Empire",
+    "宇宙戦艦ヤマト2",
+    "Space Battleship Yamato 2",
+    "Star Blazers 2",
+    "Space Cruiser Yamato 2",
+    "Uchu Senkan Yamato 2"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 1978,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1651-AVojwgPHoiuH.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1651",
+      "url": "https://anilist.co/anime/1651"
+    },
+    "k": {
+      "id": "1484",
+      "url": "https://kitsu.io/anime/1484"
+    },
+    "mal": {
+      "id": "1651",
+      "url": "https://myanimelist.net/anime/1651"
+    },
+    "t": {
+      "id": "13281",
+      "url": "https://trakt.tv/shows/13281"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13871,
+  "slug": "wolf-s-rain",
+  "kind": "manga",
+  "title": "Wolf's Rain",
+  "titles": {
+    "default": "Wolf's Rain"
+  },
+  "synonyms": [
+    "Wolf's Rain",
+    "ウルフズ・レイン",
+    "WOLF'S RAIN"
+  ],
+  "type": "manga",
+  "chapters": 11,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30357-qZe4tSHENTeE.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "202",
+      "url": "https://anilist.co/anime/202"
+    },
+    "al_manga": {
+      "id": "202",
+      "url": "https://anilist.co/manga/202"
+    }
+  }
+}

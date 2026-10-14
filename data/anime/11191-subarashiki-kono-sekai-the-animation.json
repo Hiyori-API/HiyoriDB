@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11191,
+  "slug": "subarashiki-kono-sekai-the-animation",
+  "kind": "anime",
+  "title": "Subarashiki Kono Sekai The Animation",
+  "titles": {
+    "default": "Subarashiki Kono Sekai The Animation",
+    "romaji": "Subarashiki Kono Sekai The Animation",
+    "english": "The World Ends with You The Animation",
+    "native": "すばらしきこのせかい The Animation"
+  },
+  "synonyms": [
+    "Subarashiki Kono Sekai The Animation",
+    "The World Ends with You The Animation",
+    "すばらしきこのせかい The Animation",
+    "TWEWY",
+    "It's a Wonderful World",
+    "Subaseka",
+    "The power of the saint is all around.",
+    "The Saint's Magic Power is Omnipotent",
+    "聖女の魔力は万能です",
+    "Seijo no Maryoku wa Bannou desu"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120376-t98raKtxXLtF.png"
+  ],
+  "references": {
+    "al": {
+      "id": "120376",
+      "url": "https://anilist.co/anime/120376"
+    },
+    "cr": {
+      "id": "the-world-ends-with-you-the-animation",
+      "url": "https://www.crunchyroll.com/series/the-world-ends-with-you-the-animation"
+    },
+    "mal": {
+      "id": "42307",
+      "url": "https://myanimelist.net/anime/42307"
+    },
+    "tx": {
+      "id": "TWEWY_PR",
+      "url": "https://twitter.com/TWEWY_PR"
+    }
+  }
+}

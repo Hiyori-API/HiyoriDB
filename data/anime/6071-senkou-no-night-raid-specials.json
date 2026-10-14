@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6071,
+  "slug": "senkou-no-night-raid-specials",
+  "kind": "anime",
+  "title": "Senkou no Night Raid Specials",
+  "titles": {
+    "default": "Senkou no Night Raid Specials",
+    "romaji": "Senkou no Night Raid Specials",
+    "english": "Night Raid 1931 Specials",
+    "native": "閃光のナイトレイド"
+  },
+  "synonyms": [
+    "Senkou no Night Raid Specials",
+    "Night Raid 1931 Specials",
+    "閃光のナイトレイド",
+    "The Tatami Galaxy Specials",
+    "Yojouhan Shinwa Taikei Specials",
+    "四畳半神話大系",
+    "Yojo-Han Shinwa Taikei",
+    "Yojou-Han Shinwa Taikei",
+    "Yojohan Shinwa Taikei"
+  ],
+  "type": "special",
+  "episodes": 3,
+  "status": "finished",
+  "season": "summer",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx8800-sBNUXNf21r8z.png"
+  ],
+  "references": {
+    "al": {
+      "id": "8800",
+      "url": "https://anilist.co/anime/8800"
+    },
+    "k": {
+      "id": "5561",
+      "url": "https://kitsu.io/anime/5561"
+    },
+    "mal": {
+      "id": "8800",
+      "url": "https://myanimelist.net/anime/8800"
+    }
+  }
+}

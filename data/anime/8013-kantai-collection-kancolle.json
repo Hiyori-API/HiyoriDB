@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8013,
+  "slug": "kantai-collection-kancolle",
+  "kind": "anime",
+  "title": "Kantai Collection: KanColle",
+  "titles": {
+    "default": "Kantai Collection: KanColle",
+    "romaji": "Kantai Collection: KanColle",
+    "english": "KanColle",
+    "native": "艦隊これくしょん -艦これ-"
+  },
+  "synonyms": [
+    "Kantai Collection: KanColle",
+    "KanColle",
+    "艦隊これくしょん -艦これ-",
+    "KanKore",
+    "KanColle: Kantai Collection",
+    "Kankore",
+    "Kan Colle"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20553-IwO19mSAgBo4.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "20553",
+      "url": "https://anilist.co/anime/20553"
+    },
+    "cr": {
+      "id": "kancolle",
+      "url": "https://www.crunchyroll.com/series/kancolle"
+    },
+    "k": {
+      "id": "8039",
+      "url": "https://kitsu.io/anime/8039"
+    },
+    "mal": {
+      "id": "21511",
+      "url": "https://myanimelist.net/anime/21511"
+    },
+    "t": {
+      "id": "76603",
+      "url": "https://trakt.tv/shows/76603"
+    },
+    "tx": {
+      "id": "anime_KanColle",
+      "url": "https://twitter.com/anime_KanColle"
+    }
+  }
+}

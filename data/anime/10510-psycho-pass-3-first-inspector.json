@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10510,
+  "slug": "psycho-pass-3-first-inspector",
+  "kind": "anime",
+  "title": "PSYCHO-PASS 3: FIRST INSPECTOR",
+  "titles": {
+    "default": "PSYCHO-PASS 3: FIRST INSPECTOR",
+    "romaji": "PSYCHO-PASS 3: FIRST INSPECTOR",
+    "english": "PSYCHO-PASS 3: First Inspector",
+    "native": "PSYCHO-PASS サイコパス 3 FIRST INSPECTOR"
+  },
+  "synonyms": [
+    "PSYCHO-PASS 3: FIRST INSPECTOR",
+    "PSYCHO-PASS 3: First Inspector",
+    "PSYCHO-PASS サイコパス 3 FIRST INSPECTOR",
+    "PSYCHO-PASS 3: PRIMEIRO INSPETOR",
+    "Psycho-Pass 3: First Inspector"
+  ],
+  "type": "ona",
+  "episodes": 3,
+  "status": "finished",
+  "season": "spring",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113917-lmW1flyIYU78.png"
+  ],
+  "references": {
+    "al": {
+      "id": "113917",
+      "url": "https://anilist.co/anime/113917"
+    },
+    "cr": {
+      "id": "psycho-pass",
+      "url": "https://www.crunchyroll.com/series/psycho-pass"
+    },
+    "mal": {
+      "id": "40858",
+      "url": "https://myanimelist.net/anime/40858"
+    },
+    "tx": {
+      "id": "psychopass_tv",
+      "url": "https://twitter.com/psychopass_tv"
+    }
+  }
+}

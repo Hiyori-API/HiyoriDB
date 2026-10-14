@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7236,
+  "slug": "kuroko-no-basket-tip-off",
+  "kind": "anime",
+  "title": "Kuroko no Basket: Tip Off",
+  "titles": {
+    "default": "Kuroko no Basket: Tip Off",
+    "romaji": "Kuroko no Basket: Tip Off",
+    "english": "Kuroko's Basketball: Tip Off",
+    "native": "黒子のバスケ 第22.5Q 「Tip off」"
+  },
+  "synonyms": [
+    "Kuroko no Basket: Tip Off",
+    "Kuroko's Basketball: Tip Off",
+    "黒子のバスケ 第22.5Q 「Tip off」",
+    "Kuroko no Basket Special",
+    "Kuroko no Basket Episode 22.5",
+    "Kuroko's Basketball Special"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16916.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "16916",
+      "url": "https://anilist.co/anime/16916"
+    },
+    "cr": {
+      "id": "kurokos-basketball/episode-225-tip-off-690095",
+      "url": "https://www.crunchyroll.com/series/kurokos-basketball/episode-225-tip-off-690095"
+    },
+    "k": {
+      "id": "7552",
+      "url": "https://kitsu.io/anime/7552"
+    },
+    "mal": {
+      "id": "16916",
+      "url": "https://myanimelist.net/anime/16916"
+    }
+  }
+}

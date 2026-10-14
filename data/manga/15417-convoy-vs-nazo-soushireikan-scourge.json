@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15417,
+  "slug": "convoy-vs-nazo-soushireikan-scourge",
+  "kind": "manga",
+  "title": "Convoy VS Nazo Soushireikan Scourge",
+  "titles": {
+    "default": "Convoy VS Nazo Soushireikan Scourge"
+  },
+  "synonyms": [
+    "Supreme Commander Optimus Prime VS Dark Commander Scourge",
+    "Transformers: Super Link Another Story",
+    "コンボイVS謎の総司令官スカージ",
+    "Railroad",
+    "레일로드"
+  ],
+  "type": "manga",
+  "chapters": 2,
+  "status": "finished",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx174008-X3VSZh6cSARF.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "927",
+      "url": "https://anilist.co/anime/927"
+    },
+    "al_manga": {
+      "id": "927",
+      "url": "https://anilist.co/manga/927"
+    }
+  }
+}

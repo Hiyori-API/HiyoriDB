@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11108,
+  "slug": "golden-kamuy-golden-douga-gekijou-specials",
+  "kind": "anime",
+  "title": "Golden Kamuy: Golden Douga Gekijou Specials",
+  "titles": {
+    "default": "Golden Kamuy: Golden Douga Gekijou Specials",
+    "romaji": "Golden Kamuy: Golden Douga Gekijou Specials",
+    "native": "ゴールデンカムイ 「ゴールデン道画劇場」 Specials"
+  },
+  "synonyms": [
+    "Golden Kamuy: Golden Douga Gekijou Specials",
+    "ゴールデンカムイ 「ゴールデン道画劇場」 Specials",
+    "Golden Kamuy Short Anime: Golden Douga Gekijou Specials",
+    "ゴールデン道画劇場",
+    "Golden Douga Gekijou Specials"
+  ],
+  "type": "special",
+  "episodes": 7,
+  "status": "finished",
+  "season": "summer",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154125-m8mfHLoH5Hn5.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "154125",
+      "url": "https://anilist.co/anime/154125"
+    },
+    "mal": {
+      "id": "51149",
+      "url": "https://myanimelist.net/anime/51149"
+    }
+  }
+}

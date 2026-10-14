@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11574,
+  "slug": "doraemon-nobita-no-little-star-wars-2021",
+  "kind": "anime",
+  "title": "Doraemon: Nobita no Little Star Wars 2021",
+  "titles": {
+    "default": "Doraemon: Nobita no Little Star Wars 2021",
+    "romaji": "Doraemon: Nobita no Little Star Wars 2021",
+    "native": "映画ドラえもん のび太の宇宙小戦争 2021"
+  },
+  "synonyms": [
+    "Doraemon: Nobita no Little Star Wars 2021",
+    "映画ドラえもん のび太の宇宙小戦争 2021",
+    "Doraemon: Nobita's Little Star Wars 2021",
+    "哆啦A梦 大雄的宇宙小战争2021",
+    "Doraemon the Movie 2021: Nobita's Space War, Doraemon the Movie 2021: Nobita no Uchuu Shou Sensou",
+    "Doraemon the Movie 2021: Nobita's Space War (Little Star Wars)",
+    "映画ドラえもん のび太の宇宙小戦争（リトルスターウォーズ） 2021",
+    "Doraemon Movie 41: Nobita no Little Star Wars"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126783-sgkzDqBL7Gb0.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "126783",
+      "url": "https://anilist.co/anime/126783"
+    },
+    "mal": {
+      "id": "44025",
+      "url": "https://myanimelist.net/anime/44025"
+    },
+    "tx": {
+      "id": "doraemonChannel",
+      "url": "https://twitter.com/doraemonChannel"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7983,
+  "slug": "oniku-daisuki-zeushi-kun",
+  "kind": "anime",
+  "title": "Oniku Daisuki! Zeushi-kun",
+  "titles": {
+    "default": "Oniku Daisuki! Zeushi-kun",
+    "romaji": "Oniku Daisuki! Zeushi-kun",
+    "native": "おにくだいすき! ゼウシくん"
+  },
+  "synonyms": [
+    "Oniku Daisuki! Zeushi-kun",
+    "おにくだいすき! ゼウシくん",
+    "Barakamon Specials",
+    "みじかもん",
+    "Mijikamon"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119793-BPZXdTAmww18.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "119793",
+      "url": "https://anilist.co/anime/119793"
+    },
+    "mal": {
+      "id": "22541",
+      "url": "https://myanimelist.net/anime/22541"
+    }
+  }
+}

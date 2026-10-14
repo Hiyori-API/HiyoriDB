@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4791,
+  "slug": "ojamanga-yamada-kun-movie",
+  "kind": "anime",
+  "title": "Ojamanga Yamada-kun (Movie)",
+  "titles": {
+    "default": "Ojamanga Yamada-kun (Movie)",
+    "romaji": "Ojamanga Yamada-kun (Movie)",
+    "native": "おじゃまんが山田くん"
+  },
+  "synonyms": [
+    "Ojamanga Yamada-kun (Movie)",
+    "おじゃまんが山田くん",
+    "Jarinko Chie",
+    "じゃりン子チエ",
+    "Chie the Brat",
+    "Jarinko Chie (Movie)"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1981,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16730.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "16730",
+      "url": "https://anilist.co/anime/16730"
+    },
+    "k": {
+      "id": "3369",
+      "url": "https://kitsu.io/anime/3369"
+    },
+    "mal": {
+      "id": "16730",
+      "url": "https://myanimelist.net/anime/16730"
+    }
+  }
+}

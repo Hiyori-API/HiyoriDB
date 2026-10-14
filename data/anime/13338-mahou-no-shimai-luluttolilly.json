@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13338,
+  "slug": "mahou-no-shimai-luluttolilly",
+  "kind": "anime",
+  "title": "Mahou no Shimai LuluttoLilly",
+  "titles": {
+    "default": "Mahou no Shimai LuluttoLilly",
+    "romaji": "Mahou no Shimai LuluttoLilly",
+    "english": "Magical Sisters LuluttoLilly",
+    "native": "魔法の姉妹ルルットリリィ"
+  },
+  "synonyms": [
+    "Mahou no Shimai LuluttoLilly",
+    "Magical Sisters LuluttoLilly",
+    "魔法の姉妹ルルットリリィ",
+    "るるりり",
+    "MSLL",
+    "This Ugly Yet Beautiful World",
+    "Kono Minikuku mo Utsukushii Sekai",
+    "この醜くも美しい世界"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178749-2TRwfr1T7jzI.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "178749",
+      "url": "https://anilist.co/anime/178749"
+    },
+    "k": {
+      "id": "124",
+      "url": "https://kitsu.io/anime/124"
+    },
+    "mal": {
+      "id": "59176",
+      "url": "https://myanimelist.net/anime/59176"
+    },
+    "t": {
+      "id": "34001",
+      "url": "https://trakt.tv/shows/34001"
+    }
+  }
+}

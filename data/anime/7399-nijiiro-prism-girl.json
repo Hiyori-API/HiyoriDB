@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7399,
+  "slug": "nijiiro-prism-girl",
+  "kind": "anime",
+  "title": "Nijiiro☆Prism Girl",
+  "titles": {
+    "default": "Nijiiro☆Prism Girl",
+    "romaji": "Nijiiro☆Prism Girl",
+    "native": "にじいろ☆プリズムガール"
+  },
+  "synonyms": [
+    "Nijiiro☆Prism Girl",
+    "にじいろ☆プリズムガール"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "summer",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b19351-16Uqgal8aLxp.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "19351",
+      "url": "https://anilist.co/anime/19351"
+    },
+    "k": {
+      "id": "7859",
+      "url": "https://kitsu.io/anime/7859"
+    },
+    "mal": {
+      "id": "19351",
+      "url": "https://myanimelist.net/anime/19351"
+    }
+  }
+}

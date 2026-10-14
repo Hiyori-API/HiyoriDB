@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11553,
+  "slug": "bang-dream-poppin-dream",
+  "kind": "anime",
+  "title": "BanG Dream! Poppin' Dream!",
+  "titles": {
+    "default": "BanG Dream! Poppin' Dream!",
+    "romaji": "BanG Dream! Poppin' Dream!",
+    "native": "BanG Dream! ぽっぴん'どりーむ!"
+  },
+  "synonyms": [
+    "BanG Dream! Poppin' Dream!",
+    "BanG Dream! ぽっぴん'どりーむ!",
+    "BanG Dream! Movie: Poppin' Dream!",
+    "Gekijouban Bang Dream! Poppin' Dream!",
+    "BanG Dream! Poppin'Dream!",
+    "劇場版 BanG Dream! ぽっぴん'どりーむ！"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx117765-R9vazugUMUE0.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "117765",
+      "url": "https://anilist.co/anime/117765"
+    },
+    "cr": {
+      "id": "bang-dream-movies",
+      "url": "https://www.crunchyroll.com/series/bang-dream-movies"
+    },
+    "mal": {
+      "id": "41782",
+      "url": "https://myanimelist.net/anime/41782"
+    },
+    "tx": {
+      "id": "bang_dream_info",
+      "url": "https://twitter.com/bang_dream_info"
+    }
+  }
+}

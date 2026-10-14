@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8339,
+  "slug": "honoo-no-haramase-motto-hatsuiku-karada-sokutei-2-the-animation",
+  "kind": "anime",
+  "title": "Honoo no Haramase Motto! Hatsuiku! Karada Sokutei 2 THE ANIMATION",
+  "titles": {
+    "default": "Honoo no Haramase Motto! Hatsuiku! Karada Sokutei 2 THE ANIMATION",
+    "romaji": "Honoo no Haramase Motto! Hatsuiku! Karada Sokutei 2 THE ANIMATION",
+    "native": "炎の孕ませもっと！発育っ！身体測定2 THE ANIMATION"
+  },
+  "synonyms": [
+    "Honoo no Haramase Motto! Hatsuiku! Karada Sokutei 2 THE ANIMATION",
+    "炎の孕ませもっと！発育っ！身体測定2 THE ANIMATION",
+    "One Punch Man OVA",
+    "One Punch-Man OVA",
+    "One-Punch Man OVA",
+    "ワンパンマン OVA「ロード・トゥ・ヒーロー」",
+    "One Punch Man: Road to Hero"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21369-GrNczBOIxb5p.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21369",
+      "url": "https://anilist.co/anime/21369"
+    },
+    "mal": {
+      "id": "31518",
+      "url": "https://myanimelist.net/anime/31518"
+    }
+  }
+}

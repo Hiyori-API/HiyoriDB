@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 786,
+  "slug": "yuu-yuu-hakusho-the-golden-seal",
+  "kind": "anime",
+  "title": "Yuu☆Yuu☆Hakusho: The Golden Seal",
+  "titles": {
+    "default": "Yuu☆Yuu☆Hakusho: The Golden Seal",
+    "romaji": "Yuu☆Yuu☆Hakusho: The Golden Seal",
+    "english": "Yu Yu Hakusho: The Movie",
+    "native": "幽☆遊☆白書 (1993)"
+  },
+  "synonyms": [
+    "Yuu☆Yuu☆Hakusho: The Golden Seal",
+    "Yu Yu Hakusho: The Movie",
+    "幽☆遊☆白書 (1993)",
+    "Yu Yu Hakusho Movie 1",
+    "Yuu Yuu Hakusho (1993)",
+    "YYH Movie 1",
+    "YYH: The Movie",
+    "YYH: The Golden Seal",
+    "Yu Yu Hakusho - Il sigillo d'oro",
+    "Yuu☆Yuu☆Hakusho (Movie)",
+    "幽☆遊☆白書",
+    "YuYu Hakusho: The Golden Seal"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx882-3TdRv5W4DZaS.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "882",
+      "url": "https://anilist.co/anime/882"
+    },
+    "k": {
+      "id": "782",
+      "url": "https://kitsu.io/anime/782"
+    },
+    "mal": {
+      "id": "882",
+      "url": "https://myanimelist.net/anime/882"
+    }
+  }
+}

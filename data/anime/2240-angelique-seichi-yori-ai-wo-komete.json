@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2240,
+  "slug": "angelique-seichi-yori-ai-wo-komete",
+  "kind": "anime",
+  "title": "Angelique: Seichi yori Ai wo Komete",
+  "titles": {
+    "default": "Angelique: Seichi yori Ai wo Komete",
+    "romaji": "Angelique: Seichi yori Ai wo Komete",
+    "native": "アンジェリーク　聖地より愛をこめて"
+  },
+  "synonyms": [
+    "Angelique: Seichi yori Ai wo Komete",
+    "アンジェリーク　聖地より愛をこめて",
+    "Angelique: From the Sanctuary with Love",
+    "Angelique OVA2"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "winter",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2535-IrjVnPSAi2EY.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2535",
+      "url": "https://anilist.co/anime/2535"
+    },
+    "k": {
+      "id": "2300",
+      "url": "https://kitsu.io/anime/2300"
+    },
+    "mal": {
+      "id": "2535",
+      "url": "https://myanimelist.net/anime/2535"
+    }
+  }
+}

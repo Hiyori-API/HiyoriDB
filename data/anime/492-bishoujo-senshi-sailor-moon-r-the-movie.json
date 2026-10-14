@@ -1,0 +1,61 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 492,
+  "slug": "bishoujo-senshi-sailor-moon-r-the-movie",
+  "kind": "anime",
+  "title": "Bishoujo Senshi Sailor Moon R: THE MOVIE",
+  "titles": {
+    "default": "Bishoujo Senshi Sailor Moon R: THE MOVIE",
+    "romaji": "Bishoujo Senshi Sailor Moon R: THE MOVIE",
+    "english": "Sailor Moon R: The Movie",
+    "native": "美少女戦士セーラームーンＲ THE MOVIE"
+  },
+  "synonyms": [
+    "Bishoujo Senshi Sailor Moon R: THE MOVIE",
+    "Sailor Moon R: The Movie",
+    "美少女戦士セーラームーンＲ THE MOVIE",
+    "Sailor Moon R: The Promise of the Rose",
+    "Sailor Moon R: Dangerous Flowers",
+    "Sailor Moon R - The Movie - La promessa della rosa",
+    "Sailor Moon, le film: La Fleur Maléfique",
+    "Sailor Moon R: Czarodziejka z Księżyca – Film kinowy",
+    "Sailor Moon R: A Promessa da Rosa",
+    "Sailor Moon R: Gefährliche Blumen",
+    "Bishoujo Senshi Sailor Moon R: The Movie",
+    "Sailor Moon R the Movie: Promise of the Rose"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx531-FCc5IMkzRlrU.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "531",
+      "url": "https://anilist.co/anime/531"
+    },
+    "cr": {
+      "id": "sailor-moon-r-the-movie",
+      "url": "https://www.crunchyroll.com/series/sailor-moon-r-the-movie"
+    },
+    "k": {
+      "id": "490",
+      "url": "https://kitsu.io/anime/490"
+    },
+    "mal": {
+      "id": "531",
+      "url": "https://myanimelist.net/anime/531"
+    },
+    "nf": {
+      "id": "26588007",
+      "url": "https://www.netflix.com/title/26588007"
+    },
+    "yt": {
+      "id": "mq9bKHDWZSo",
+      "url": "https://www.youtube.com/watch?v=mq9bKHDWZSo"
+    }
+  }
+}

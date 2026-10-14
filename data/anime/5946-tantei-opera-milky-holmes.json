@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5946,
+  "slug": "tantei-opera-milky-holmes",
+  "kind": "anime",
+  "title": "Tantei Opera Milky Holmes",
+  "titles": {
+    "default": "Tantei Opera Milky Holmes",
+    "romaji": "Tantei Opera Milky Holmes",
+    "english": "Detective Opera Milky Holmes",
+    "native": "探偵オペラ ミルキィホームズ"
+  },
+  "synonyms": [
+    "Tantei Opera Milky Holmes",
+    "Detective Opera Milky Holmes",
+    "探偵オペラ ミルキィホームズ"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7768.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7768",
+      "url": "https://anilist.co/anime/7768"
+    },
+    "k": {
+      "id": "5113",
+      "url": "https://kitsu.io/anime/5113"
+    },
+    "mal": {
+      "id": "7768",
+      "url": "https://myanimelist.net/anime/7768"
+    },
+    "t": {
+      "id": "64894",
+      "url": "https://trakt.tv/shows/64894"
+    }
+  }
+}

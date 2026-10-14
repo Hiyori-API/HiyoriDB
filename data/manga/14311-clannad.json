@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14311,
+  "slug": "clannad",
+  "kind": "manga",
+  "title": "CLANNAD",
+  "titles": {
+    "default": "CLANNAD"
+  },
+  "synonyms": [
+    "CLANNAD",
+    "Gekiryuuchi",
+    "激流血～OVER BLEED～",
+    "Over Bleed"
+  ],
+  "type": "manga",
+  "chapters": 37,
+  "volumes": 5,
+  "status": "finished",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx149957-foRpMGC6L6bN.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2167",
+      "url": "https://anilist.co/anime/2167"
+    },
+    "al_manga": {
+      "id": "2167",
+      "url": "https://anilist.co/manga/2167"
+    }
+  }
+}

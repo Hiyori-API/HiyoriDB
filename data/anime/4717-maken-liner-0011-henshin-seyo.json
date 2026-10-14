@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4717,
+  "slug": "maken-liner-0011-henshin-seyo",
+  "kind": "anime",
+  "title": "Maken Liner 0011 Henshin Seyo!",
+  "titles": {
+    "default": "Maken Liner 0011 Henshin Seyo!",
+    "romaji": "Maken Liner 0011 Henshin Seyo!",
+    "native": "魔犬ライナー００１１変身せよ"
+  },
+  "synonyms": [
+    "Maken Liner 0011 Henshin Seyo!",
+    "魔犬ライナー００１１変身せよ",
+    "Hellhound Liner 0011 Transform!"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1972,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11269-GoqJXD0DCE4e.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11269",
+      "url": "https://anilist.co/anime/11269"
+    },
+    "k": {
+      "id": "6486",
+      "url": "https://kitsu.io/anime/6486"
+    },
+    "mal": {
+      "id": "11269",
+      "url": "https://myanimelist.net/anime/11269"
+    }
+  }
+}

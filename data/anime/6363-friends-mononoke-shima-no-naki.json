@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6363,
+  "slug": "friends-mononoke-shima-no-naki",
+  "kind": "anime",
+  "title": "friends: Mononoke Shima no Naki",
+  "titles": {
+    "default": "friends: Mononoke Shima no Naki",
+    "romaji": "friends: Mononoke Shima no Naki",
+    "english": "Friends: Naki of Monster Island",
+    "native": "friends -フレンズ- もののけ島のナキ"
+  },
+  "synonyms": [
+    "friends: Mononoke Shima no Naki",
+    "Friends: Naki of Monster Island",
+    "friends -フレンズ- もののけ島のナキ",
+    "Friends: Mononoke Shima no Naki"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10115.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10115",
+      "url": "https://anilist.co/anime/10115"
+    },
+    "k": {
+      "id": "6043",
+      "url": "https://kitsu.io/anime/6043"
+    },
+    "mal": {
+      "id": "10115",
+      "url": "https://myanimelist.net/anime/10115"
+    }
+  }
+}

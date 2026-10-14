@@ -1,0 +1,59 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10759,
+  "slug": "zombie-land-saga-revenge",
+  "kind": "anime",
+  "title": "Zombie Land Saga: Revenge",
+  "titles": {
+    "default": "Zombie Land Saga: Revenge",
+    "romaji": "Zombie Land Saga: Revenge",
+    "english": "ZOMBIE LAND SAGA REVENGE",
+    "native": "ゾンビランドサガ リベンジ"
+  },
+  "synonyms": [
+    "Zombie Land Saga: Revenge",
+    "ZOMBIE LAND SAGA REVENGE",
+    "ゾンビランドサガ リベンジ",
+    "Zombieland Saga: Revenge",
+    "佐贺偶像是传奇 Revenge",
+    "ซอมบี้เเลนด์ซากะ Revenge",
+    "Зомбилэнд-Сага: Возмездие",
+    "This Ugly Yet Beautiful World",
+    "Kono Minikuku mo Utsukushii Sekai",
+    "この醜くも美しい世界"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110733-mv2p0VBBD3jz.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "110733",
+      "url": "https://anilist.co/anime/110733"
+    },
+    "cr": {
+      "id": "zombie-land-saga",
+      "url": "https://www.crunchyroll.com/series/zombie-land-saga"
+    },
+    "k": {
+      "id": "124",
+      "url": "https://kitsu.io/anime/124"
+    },
+    "mal": {
+      "id": "40174",
+      "url": "https://myanimelist.net/anime/40174"
+    },
+    "t": {
+      "id": "34001",
+      "url": "https://trakt.tv/shows/34001"
+    },
+    "tx": {
+      "id": "zombielandsaga",
+      "url": "https://twitter.com/zombielandsaga"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3217,
+  "slug": "junk-boy",
+  "kind": "anime",
+  "title": "Junk Boy",
+  "titles": {
+    "default": "Junk Boy",
+    "romaji": "Junk Boy",
+    "native": "ジャンクボーイ"
+  },
+  "synonyms": [
+    "Junk Boy",
+    "ジャンクボーイ",
+    "The Incredible Gyoukai Video Junk Boy"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3889.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3889",
+      "url": "https://anilist.co/anime/3889"
+    },
+    "k": {
+      "id": "3328",
+      "url": "https://kitsu.io/anime/3328"
+    },
+    "mal": {
+      "id": "3889",
+      "url": "https://myanimelist.net/anime/3889"
+    }
+  }
+}

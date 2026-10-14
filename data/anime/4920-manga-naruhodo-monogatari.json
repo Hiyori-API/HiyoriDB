@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4920,
+  "slug": "manga-naruhodo-monogatari",
+  "kind": "anime",
+  "title": "Manga Naruhodo Monogatari",
+  "titles": {
+    "default": "Manga Naruhodo Monogatari",
+    "romaji": "Manga Naruhodo Monogatari",
+    "native": "まんがなるほど物語"
+  },
+  "synonyms": [
+    "Manga Naruhodo Monogatari",
+    "まんがなるほど物語",
+    "Animated Stories to Understand Things"
+  ],
+  "type": "tv",
+  "episodes": 102,
+  "status": "finished",
+  "season": "spring",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10137.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10137",
+      "url": "https://anilist.co/anime/10137"
+    },
+    "k": {
+      "id": "6051",
+      "url": "https://kitsu.io/anime/6051"
+    },
+    "mal": {
+      "id": "10137",
+      "url": "https://myanimelist.net/anime/10137"
+    }
+  }
+}

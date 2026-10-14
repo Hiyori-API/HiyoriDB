@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10867,
+  "slug": "asobo-toy-chan",
+  "kind": "anime",
+  "title": "Asobo Toy-chan",
+  "titles": {
+    "default": "Asobo Toy-chan",
+    "romaji": "Asobo Toy-chan",
+    "native": "あそぼトイちゃん"
+  },
+  "synonyms": [
+    "Asobo Toy-chan",
+    "あそぼトイちゃん"
+  ],
+  "type": "tv",
+  "episodes": 53,
+  "status": "finished",
+  "season": "fall",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b108751-JsRBRLDDMJwL.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "108751",
+      "url": "https://anilist.co/anime/108751"
+    },
+    "k": {
+      "id": "9202",
+      "url": "https://kitsu.io/anime/9202"
+    },
+    "mal": {
+      "id": "21553",
+      "url": "https://myanimelist.net/anime/21553"
+    }
+  }
+}

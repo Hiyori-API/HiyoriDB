@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14267,
+  "slug": "midnight-panther",
+  "kind": "manga",
+  "title": "Midnight Panther",
+  "titles": {
+    "default": "Midnight Panther"
+  },
+  "synonyms": [
+    "ミッドナイトパンサー",
+    "Midnight Panther"
+  ],
+  "type": "manga",
+  "chapters": 23,
+  "volumes": 4,
+  "status": "finished",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n31765-3DU382imVNqF.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1763",
+      "url": "https://anilist.co/anime/1763"
+    },
+    "al_manga": {
+      "id": "1763",
+      "url": "https://anilist.co/manga/1763"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10337,
+  "slug": "korasho-no-kaitei-wakuwaku-daibouken",
+  "kind": "anime",
+  "title": "Korasho no Kaitei Wakuwaku Daibouken!",
+  "titles": {
+    "default": "Korasho no Kaitei Wakuwaku Daibouken!",
+    "romaji": "Korasho no Kaitei Wakuwaku Daibouken!",
+    "native": "映画コラショの海底わくわく大冒険!"
+  },
+  "synonyms": [
+    "Korasho no Kaitei Wakuwaku Daibouken!",
+    "映画コラショの海底わくわく大冒険!",
+    "Cencoroll 2",
+    "センコロール"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166051-SHoQg0DjVspt.png"
+  ],
+  "references": {
+    "al": {
+      "id": "166051",
+      "url": "https://anilist.co/anime/166051"
+    },
+    "k": {
+      "id": "5749",
+      "url": "https://kitsu.io/anime/5749"
+    },
+    "mal": {
+      "id": "38743",
+      "url": "https://myanimelist.net/anime/38743"
+    }
+  }
+}

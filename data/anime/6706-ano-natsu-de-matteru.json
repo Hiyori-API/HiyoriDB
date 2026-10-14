@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6706,
+  "slug": "ano-natsu-de-matteru",
+  "kind": "anime",
+  "title": "Ano Natsu de Matteru",
+  "titles": {
+    "default": "Ano Natsu de Matteru",
+    "romaji": "Ano Natsu de Matteru",
+    "english": "Waiting in the Summer",
+    "native": "あの夏で待ってる"
+  },
+  "synonyms": [
+    "Ano Natsu de Matteru",
+    "Waiting in the Summer",
+    "あの夏で待ってる",
+    "Natsumachi"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11433-KLEzZeK6D46g.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11433",
+      "url": "https://anilist.co/anime/11433"
+    },
+    "cr": {
+      "id": "ano-natsu-de-matteru",
+      "url": "https://www.crunchyroll.com/series/ano-natsu-de-matteru"
+    },
+    "k": {
+      "id": "6508",
+      "url": "https://kitsu.io/anime/6508"
+    },
+    "mal": {
+      "id": "11433",
+      "url": "https://myanimelist.net/anime/11433"
+    },
+    "t": {
+      "id": "42275",
+      "url": "https://trakt.tv/shows/42275"
+    },
+    "tx": {
+      "id": "NatsumachiAnime",
+      "url": "https://twitter.com/NatsumachiAnime"
+    }
+  }
+}

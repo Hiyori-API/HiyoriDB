@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5978,
+  "slug": "uchuu-show-e-youkoso",
+  "kind": "anime",
+  "title": "Uchuu Show e Youkoso",
+  "titles": {
+    "default": "Uchuu Show e Youkoso",
+    "romaji": "Uchuu Show e Youkoso",
+    "english": "Welcome to THE SPACE SHOW",
+    "native": "宇宙ショーへようこそ"
+  },
+  "synonyms": [
+    "Uchuu Show e Youkoso",
+    "Welcome to THE SPACE SHOW",
+    "宇宙ショーへようこそ",
+    "Uchu Show e Youkoso"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8115-qrLeUTMHOxiQ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8115",
+      "url": "https://anilist.co/anime/8115"
+    },
+    "cr": {
+      "id": "welcome-to-the-space-show",
+      "url": "https://www.crunchyroll.com/series/welcome-to-the-space-show"
+    },
+    "k": {
+      "id": "5201",
+      "url": "https://kitsu.io/anime/5201"
+    },
+    "mal": {
+      "id": "8115",
+      "url": "https://myanimelist.net/anime/8115"
+    }
+  }
+}

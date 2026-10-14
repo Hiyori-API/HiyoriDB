@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 865,
+  "slug": "bible-black-gaiden",
+  "kind": "anime",
+  "title": "Bible Black Gaiden",
+  "titles": {
+    "default": "Bible Black Gaiden",
+    "romaji": "Bible Black Gaiden",
+    "english": "Bible Black Origins",
+    "native": "バイブルブラック 外伝"
+  },
+  "synonyms": [
+    "Bible Black Gaiden",
+    "Bible Black Origins",
+    "バイブルブラック 外伝",
+    "Angel Tales",
+    "Otogi Story Tenshi no Shippo Specials",
+    "おとぎストーリー　天使のしっぽ",
+    "Otogi Story Tenshi no Shippo Episodes 5.5 and 13",
+    "Angel Tail Special Episodes",
+    "Angel Tales Specials"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/972.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "972",
+      "url": "https://anilist.co/anime/972"
+    },
+    "k": {
+      "id": "624",
+      "url": "https://kitsu.io/anime/624"
+    },
+    "mal": {
+      "id": "972",
+      "url": "https://myanimelist.net/anime/972"
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14055,
+  "slug": "itou-junji-kyoufu-manga-collection",
+  "kind": "manga",
+  "title": "Itou Junji Kyoufu Manga Collection",
+  "titles": {
+    "default": "Itou Junji Kyoufu Manga Collection"
+  },
+  "synonyms": [
+    "Tomie",
+    "富江",
+    "Niku-iro no Kai",
+    "肉色の怪",
+    "Flesh-Colored Horror",
+    "Kao Dorobou",
+    "顔泥棒",
+    "The Face Burglar",
+    "Souichi no Tanoshii Nikki",
+    "双一の楽しい日記",
+    "Souichi's Diary of Delights",
+    "Souichi no Noroi Nikki",
+    "双一の呪いの日記",
+    "Namekuji no Shoujo",
+    "なめくじ少女",
+    "Chi Tamaki",
+    "血玉樹",
+    "Kubi Gensou",
+    "Ayatsuri no Yashiki",
+    "あやつり屋敷",
+    "Michi no Nai Machi",
+    "道のない街",
+    "Ijimetsu Musume",
+    "いじめっ娘",
+    "Ijimekko",
+    "Circus ga Kita",
+    "サーカスが来た",
+    "Tunnel no Tan",
+    "トンネル奇譚",
+    "Shibito no Koiwazurai",
+    "死びとの恋わずらい",
+    "Frankenstein",
+    "フランケンシュタイン",
+    "Junji Ito Horror Comic Collection",
+    "伊藤潤二恐怖マンガCollection",
+    "Kamikaze Kaito Jeanne",
+    "Kamikaze Kaitou Jeanne",
+    "Phantom Thief Jeanne",
+    "神風怪盗ジャンヌ",
+    "Divine Wind Phantom Thief Jeanne"
+  ],
+  "type": "manga",
+  "chapters": 93,
+  "volumes": 16,
+  "status": "finished",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx145235-gv0foCglMlss.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "150653",
+      "url": "https://anilist.co/anime/99940"
+    },
+    "al_manga": {
+      "id": "150653",
+      "url": "https://anilist.co/manga/150653"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14749,
+  "slug": "11-nin-iru",
+  "kind": "manga",
+  "title": "11-nin Iru!",
+  "titles": {
+    "default": "11-nin Iru!"
+  },
+  "synonyms": [
+    "They Were Eleven",
+    "Juuichi nin Iru",
+    "They Were Eleven!",
+    "Było ich jedenaścioro",
+    "¿Quién es el 11º pasajero?",
+    "Nous sommes onze !",
+    "O 11º Tripulante",
+    "They Were 11!",
+    "11人いる!",
+    "Devil of Blood and Roses",
+    "Chi to Bara no Akuma",
+    "血とばらの悪魔"
+  ],
+  "type": "manga",
+  "chapters": 4,
+  "volumes": 1,
+  "status": "finished",
+  "year": 1975,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx48752-dUxu94oTFdyK.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1901",
+      "url": "https://anilist.co/anime/1901"
+    },
+    "al_manga": {
+      "id": "1901",
+      "url": "https://anilist.co/manga/1901"
+    }
+  }
+}

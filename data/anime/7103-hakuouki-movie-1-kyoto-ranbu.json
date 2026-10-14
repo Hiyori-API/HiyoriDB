@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7103,
+  "slug": "hakuouki-movie-1-kyoto-ranbu",
+  "kind": "anime",
+  "title": "Hakuouki Movie 1: Kyoto Ranbu",
+  "titles": {
+    "default": "Hakuouki Movie 1: Kyoto Ranbu",
+    "romaji": "Hakuouki Movie 1: Kyoto Ranbu",
+    "english": "HAKUOKI: WILD DANCE OF TOKYO",
+    "native": "劇場版 薄桜鬼 第一章 京都乱舞"
+  },
+  "synonyms": [
+    "Hakuouki Movie 1: Kyoto Ranbu",
+    "HAKUOKI: WILD DANCE OF TOKYO",
+    "劇場版 薄桜鬼 第一章 京都乱舞",
+    "Hakuoki Movie 1",
+    "Hakuouki Shinsengumi Kitan Movie 1",
+    "Hakuoki ~Demon of the Fleeting Blossom~ Wild Dance of Kyoto",
+    "Hakuoki: Wild Dance of Kyoto"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx13117-SnbqHc88xWaP.png"
+  ],
+  "references": {
+    "al": {
+      "id": "13117",
+      "url": "https://anilist.co/anime/13117"
+    },
+    "k": {
+      "id": "6885",
+      "url": "https://kitsu.io/anime/6885"
+    },
+    "mal": {
+      "id": "13117",
+      "url": "https://myanimelist.net/anime/13117"
+    },
+    "t": {
+      "id": "44073",
+      "url": "https://trakt.tv/shows/44073"
+    }
+  }
+}

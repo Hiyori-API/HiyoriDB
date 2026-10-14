@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10244,
+  "slug": "lupin-iii-the-first",
+  "kind": "anime",
+  "title": "Lupin III: THE FIRST",
+  "titles": {
+    "default": "Lupin III: THE FIRST",
+    "romaji": "Lupin III: THE FIRST",
+    "english": "Lupin III: The First",
+    "native": "ルパン三世 THE FIRST"
+  },
+  "synonyms": [
+    "Lupin III: THE FIRST",
+    "Lupin III: The First",
+    "ルパン三世 THE FIRST",
+    "Lupin Sansei: The First",
+    "Lupin III – O PRIMEIRO"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110413-0KLlv2NsuSyI.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "110413",
+      "url": "https://anilist.co/anime/110413"
+    },
+    "mal": {
+      "id": "40082",
+      "url": "https://myanimelist.net/anime/40082"
+    },
+    "tx": {
+      "id": "lupin_3rd_movie",
+      "url": "https://twitter.com/lupin_3rd_movie"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13673,
+  "slug": "ramen-aka-neko-sono-ni",
+  "kind": "anime",
+  "title": "Ramen Aka Neko: Sono ni",
+  "titles": {
+    "default": "Ramen Aka Neko: Sono ni",
+    "romaji": "Ramen Aka Neko: Sono ni",
+    "native": "ラーメン赤猫 其の二"
+  },
+  "synonyms": [
+    "Ramen Aka Neko: Sono ni",
+    "ラーメン赤猫 其の二",
+    "Ramen Akaneko Season 2",
+    "ラーメン赤猫 第2期",
+    "Ramen Aka Neko 2nd Season",
+    "Despera",
+    "ですぺら",
+    "Desupera"
+  ],
+  "type": "tv",
+  "status": "to_be_aired",
+  "season": "winter",
+  "year": 2027,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185699-4L2mtzKvHgaf.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "185699",
+      "url": "https://anilist.co/anime/185699"
+    },
+    "k": {
+      "id": "4584",
+      "url": "https://kitsu.io/anime/4584"
+    },
+    "mal": {
+      "id": "60555",
+      "url": "https://myanimelist.net/anime/60555"
+    }
+  }
+}

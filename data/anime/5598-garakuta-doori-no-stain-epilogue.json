@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5598,
+  "slug": "garakuta-doori-no-stain-epilogue",
+  "kind": "anime",
+  "title": "Garakuta-doori no Stain: Epilogue",
+  "titles": {
+    "default": "Garakuta-doori no Stain: Epilogue",
+    "romaji": "Garakuta-doori no Stain: Epilogue",
+    "english": "Mr. Stain on Junk Alley: Epilogue",
+    "native": "ガラクタ通りのステイン"
+  },
+  "synonyms": [
+    "Garakuta-doori no Stain: Epilogue",
+    "Mr. Stain on Junk Alley: Epilogue",
+    "ガラクタ通りのステイン",
+    "Ga-Ra-Ku-Ta: Mr. Stain on Junk Alley: Epilogue",
+    "Garakuta-dori no Sutein: Epilogue"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12497.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12497",
+      "url": "https://anilist.co/anime/12497"
+    },
+    "k": {
+      "id": "6747",
+      "url": "https://kitsu.io/anime/6747"
+    },
+    "mal": {
+      "id": "12497",
+      "url": "https://myanimelist.net/anime/12497"
+    }
+  }
+}

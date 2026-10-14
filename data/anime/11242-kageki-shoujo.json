@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11242,
+  "slug": "kageki-shoujo",
+  "kind": "anime",
+  "title": "Kageki Shoujo!!",
+  "titles": {
+    "default": "Kageki Shoujo!!",
+    "romaji": "Kageki Shoujo!!",
+    "english": "Kageki Shojo!!",
+    "native": "かげきしょうじょ!!"
+  },
+  "synonyms": [
+    "Kageki Shoujo!!",
+    "Kageki Shojo!!",
+    "かげきしょうじょ!!",
+    "Opera Girl!!",
+    "คาเงกิ โชโจะ!",
+    "The Curtain Rises",
+    "Opera Girl!"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx125446-EXB91ho7ffCn.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "125446",
+      "url": "https://anilist.co/anime/125446"
+    },
+    "cr": {
+      "id": "kageki-shojo",
+      "url": "https://www.crunchyroll.com/series/kageki-shojo"
+    },
+    "mal": {
+      "id": "43691",
+      "url": "https://myanimelist.net/anime/43691"
+    },
+    "tx": {
+      "id": "kageki_anime",
+      "url": "https://twitter.com/kageki_anime"
+    }
+  }
+}

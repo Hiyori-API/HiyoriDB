@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4353,
+  "slug": "urusei-yatsura-the-shougaibutsu-suieitaikai",
+  "kind": "anime",
+  "title": "Urusei Yatsura: The Shougaibutsu Suieitaikai",
+  "titles": {
+    "default": "Urusei Yatsura: The Shougaibutsu Suieitaikai",
+    "romaji": "Urusei Yatsura: The Shougaibutsu Suieitaikai",
+    "english": "Urusei Yatsura: The Obstacle Course Swim Meet",
+    "native": "うる星やつら ザ・障害物水泳大会"
+  },
+  "synonyms": [
+    "Urusei Yatsura: The Shougaibutsu Suieitaikai",
+    "Urusei Yatsura: The Obstacle Course Swim Meet",
+    "うる星やつら ザ・障害物水泳大会",
+    "Urusei Yatsura: Za Shougaibutsu Suiei Taikai",
+    "ザ障害物水泳大会",
+    "It's a Rumic World: Urusei Yatsura"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6567.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6567",
+      "url": "https://anilist.co/anime/6567"
+    },
+    "k": {
+      "id": "4613",
+      "url": "https://kitsu.io/anime/4613"
+    },
+    "mal": {
+      "id": "6567",
+      "url": "https://myanimelist.net/anime/6567"
+    }
+  }
+}

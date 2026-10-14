@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2356,
+  "slug": "doraemon-ganbare-gian",
+  "kind": "anime",
+  "title": "Doraemon: Ganbare! Gian!!",
+  "titles": {
+    "default": "Doraemon: Ganbare! Gian!!",
+    "romaji": "Doraemon: Ganbare! Gian!!",
+    "native": "ドラえもん がんばれ！ジャイアン！！"
+  },
+  "synonyms": [
+    "Doraemon: Ganbare! Gian!!",
+    "ドラえもん がんばれ！ジャイアン！！",
+    "Crayon Shin-chan Movie 09: Arashi wo Yobu Mouretsu! Otona Teikoku no Gyakushuu",
+    "映画　クレヨンしんちゃん　嵐を呼ぶモーレツ！オトナ帝国の逆襲",
+    "Eiga Crayon Shin-chan: Arashi wo Yobu Mouretsu! Otona Teikoku Gyakushuu",
+    "Crayon Shin-chan: The Storm Called: The Adult Empire Strikes Back"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2653.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2653",
+      "url": "https://anilist.co/anime/2653"
+    },
+    "k": {
+      "id": "2224",
+      "url": "https://kitsu.io/anime/2224"
+    },
+    "mal": {
+      "id": "2653",
+      "url": "https://myanimelist.net/anime/2653"
+    }
+  }
+}

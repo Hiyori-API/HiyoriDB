@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2786,
+  "slug": "ganbare-genki",
+  "kind": "anime",
+  "title": "Ganbare Genki",
+  "titles": {
+    "default": "Ganbare Genki",
+    "romaji": "Ganbare Genki",
+    "native": "がんばれ元気"
+  },
+  "synonyms": [
+    "Ganbare Genki",
+    "がんばれ元気",
+    "Forza Sugar",
+    "Genki The Boy Champ",
+    "Go For It! Genki",
+    "Genki le champion de boxe"
+  ],
+  "type": "tv",
+  "episodes": 35,
+  "status": "finished",
+  "season": "summer",
+  "year": 1980,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3213.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3213",
+      "url": "https://anilist.co/anime/3213"
+    },
+    "k": {
+      "id": "2859",
+      "url": "https://kitsu.io/anime/2859"
+    },
+    "mal": {
+      "id": "3213",
+      "url": "https://myanimelist.net/anime/3213"
+    },
+    "t": {
+      "id": "42994",
+      "url": "https://trakt.tv/shows/42994"
+    }
+  }
+}

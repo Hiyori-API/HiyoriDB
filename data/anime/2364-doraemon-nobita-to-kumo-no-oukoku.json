@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2364,
+  "slug": "doraemon-nobita-to-kumo-no-oukoku",
+  "kind": "anime",
+  "title": "Doraemon: Nobita to Kumo no Oukoku",
+  "titles": {
+    "default": "Doraemon: Nobita to Kumo no Oukoku",
+    "romaji": "Doraemon: Nobita to Kumo no Oukoku",
+    "english": "Doraemon: Nobita and the Kingdom of Clouds",
+    "native": "ドラえもん のび太と雲の王国"
+  },
+  "synonyms": [
+    "Doraemon: Nobita to Kumo no Oukoku",
+    "Doraemon: Nobita and the Kingdom of Clouds",
+    "ドラえもん のび太と雲の王国",
+    "Doraemon The Movie - Il Regno delle Nuvole",
+    "Sore Ike! Anpanman: Tsumiki Shiro no Himitsu",
+    "それいけ! アンパンマン つみき城のひみつ",
+    "Soreike! Anpanman: The Secret of Building Block Castle",
+    "Sore Ike! Anpanman: Tsumikijou no Himitsu"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2661-t74APVa55OZw.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2661",
+      "url": "https://anilist.co/anime/2661"
+    },
+    "k": {
+      "id": "6016",
+      "url": "https://kitsu.io/anime/6016"
+    },
+    "mal": {
+      "id": "2661",
+      "url": "https://myanimelist.net/anime/2661"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6298,
+  "slug": "sengoku-basara-the-last-party",
+  "kind": "anime",
+  "title": "Sengoku BASARA: The Last Party",
+  "titles": {
+    "default": "Sengoku BASARA: The Last Party",
+    "romaji": "Sengoku BASARA: The Last Party",
+    "english": "Sengoku Basara - Samurai Kings: The Movie",
+    "native": "劇場版 戦国BASARA -The Last Party-"
+  },
+  "synonyms": [
+    "Sengoku BASARA: The Last Party",
+    "Sengoku Basara - Samurai Kings: The Movie",
+    "劇場版 戦国BASARA -The Last Party-",
+    "Gekijouban Sengoku Basara: The Last Party",
+    "Sengoku Basara Movie: The Last Party"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9745-2IUfJems8Asg.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9745",
+      "url": "https://anilist.co/anime/9745"
+    },
+    "k": {
+      "id": "5847",
+      "url": "https://kitsu.io/anime/5847"
+    },
+    "mal": {
+      "id": "9745",
+      "url": "https://myanimelist.net/anime/9745"
+    }
+  }
+}

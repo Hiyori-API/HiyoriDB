@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2375,
+  "slug": "doraemon-nobita-no-shin-makai-daibouken-shichinin-no-mahoutsukai",
+  "kind": "anime",
+  "title": "Doraemon: Nobita no Shin Makai Daibouken - Shichinin no Mahoutsukai",
+  "titles": {
+    "default": "Doraemon: Nobita no Shin Makai Daibouken - Shichinin no Mahoutsukai",
+    "romaji": "Doraemon: Nobita no Shin Makai Daibouken - Shichinin no Mahoutsukai",
+    "english": "Doraemon The Movie 2007",
+    "native": "ドラえもん のび太の新魔界大冒険～7人の魔法使い～"
+  },
+  "synonyms": [
+    "Doraemon: Nobita no Shin Makai Daibouken - Shichinin no Mahoutsukai",
+    "Doraemon The Movie 2007",
+    "ドラえもん のび太の新魔界大冒険～7人の魔法使い～",
+    "Nobita's New Adventure Into The Magic Planet",
+    "哆啦A梦：大雄的奇幻大冒险",
+    "Doraemon: Nobita's New Great Adventure into the Underworld",
+    "Doraemon the Movie: Nobita's New Great Adventure into the Underworld",
+    "Doraemon Movie 27: Nobita no Shin Makai Daibouken - 7-nin no Mahoutsukai",
+    "映画 ドラえもん のび太の新魔界大冒険～7人の魔法使い～",
+    "Nobita's New Adventure into the Magic Planet",
+    "Doraemon: Nobita's New Great Adventure into the Underworld - The Seven Magic Users"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2673-BlZ3DzHQNqB2.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2673",
+      "url": "https://anilist.co/anime/2673"
+    },
+    "k": {
+      "id": "2436",
+      "url": "https://kitsu.io/anime/2436"
+    },
+    "mal": {
+      "id": "2673",
+      "url": "https://myanimelist.net/anime/2673"
+    }
+  }
+}

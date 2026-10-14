@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11865,
+  "slug": "otome-wa-boku-ni-koishiteru-mittsu-no-kiraboshi-the-animation-2022",
+  "kind": "anime",
+  "title": "Otome wa Boku ni Koishiteru: Mittsu no Kiraboshi - The Animation (2022)",
+  "titles": {
+    "default": "Otome wa Boku ni Koishiteru: Mittsu no Kiraboshi - The Animation (2022)",
+    "romaji": "Otome wa Boku ni Koishiteru: Mittsu no Kiraboshi - The Animation (2022)",
+    "native": "処女はお姉さまに恋してる 三つのきら星 The Animation"
+  },
+  "synonyms": [
+    "Otome wa Boku ni Koishiteru: Mittsu no Kiraboshi - The Animation (2022)",
+    "処女はお姉さまに恋してる 三つのきら星 The Animation",
+    "Moriarty the Patriot OVA",
+    "憂国のモリアーティ",
+    "Yuukoku no Moriarty OVA"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146742-XfLVyLPkq5Kv.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "146742",
+      "url": "https://anilist.co/anime/146742"
+    },
+    "mal": {
+      "id": "51594",
+      "url": "https://myanimelist.net/anime/51594"
+    }
+  }
+}

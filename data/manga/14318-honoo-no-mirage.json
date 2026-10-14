@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14318,
+  "slug": "honoo-no-mirage",
+  "kind": "manga",
+  "title": "Honoo no Mirage",
+  "titles": {
+    "default": "Honoo no Mirage"
+  },
+  "synonyms": [
+    "Mirage of Blaze",
+    "Honoo no Shinkirou",
+    "炎の蜃気楼(ミラージュ)",
+    "Yokohama Kaidashi Kikou",
+    "ヨコハマ買い出し紀行",
+    "Yokohama Shopping Log",
+    "Yokohama Shopping Trip",
+    "Touge"
+  ],
+  "type": "manga",
+  "chapters": 16,
+  "volumes": 4,
+  "status": "finished",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx32714-KxuefGzbyLaM.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1019",
+      "url": "https://anilist.co/anime/1019"
+    },
+    "al_manga": {
+      "id": "1019",
+      "url": "https://anilist.co/manga/1019"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10333,
+  "slug": "dayan-to-tama-to-tobi-neko-to-3-tsu-no-neko-no-monogatari",
+  "kind": "anime",
+  "title": "Dayan to Tama to Tobi Neko to: 3-tsu no Neko no Monogatari",
+  "titles": {
+    "default": "Dayan to Tama to Tobi Neko to: 3-tsu no Neko no Monogatari",
+    "romaji": "Dayan to Tama to Tobi Neko to: 3-tsu no Neko no Monogatari",
+    "native": "ダヤンとタマと飛び猫と ～3つの猫の物語～"
+  },
+  "synonyms": [
+    "Dayan to Tama to Tobi Neko to: 3-tsu no Neko no Monogatari",
+    "ダヤンとタマと飛び猫と ～3つの猫の物語～",
+    "Cats Tail's Tales",
+    "Cencoroll 2",
+    "センコロール"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b129159-jIxMO2qCfDhv.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "129159",
+      "url": "https://anilist.co/anime/129159"
+    },
+    "k": {
+      "id": "5749",
+      "url": "https://kitsu.io/anime/5749"
+    },
+    "mal": {
+      "id": "39351",
+      "url": "https://myanimelist.net/anime/39351"
+    }
+  }
+}

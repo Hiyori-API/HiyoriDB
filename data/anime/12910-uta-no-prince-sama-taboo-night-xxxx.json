@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12910,
+  "slug": "uta-no-prince-sama-taboo-night-xxxx",
+  "kind": "anime",
+  "title": "Uta no☆Prince-sama♪ TABOO NIGHT XXXX",
+  "titles": {
+    "default": "Uta no☆Prince-sama♪ TABOO NIGHT XXXX",
+    "romaji": "Uta no☆Prince-sama♪ TABOO NIGHT XXXX",
+    "native": "うたの☆プリンスさまっ♪ TABOO NIGHT XXXX"
+  },
+  "synonyms": [
+    "Uta no☆Prince-sama♪ TABOO NIGHT XXXX",
+    "うたの☆プリンスさまっ♪ TABOO NIGHT XXXX",
+    "うた☆プリ QUARTET NIGHT",
+    "UtaPri Movie 3",
+    "うたの☆プリンスさまっ♪ タブーナイト キスィズ",
+    "Uta no☆Prince-sama♪ TABOO NIGHT KISSES",
+    "UTA☆PRI TABOO NIGHT XXXX",
+    "Appleseed (Movie)",
+    "アップルシード",
+    "Appleseed (2004)"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172393-8dwjbJYYGi9W.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "172393",
+      "url": "https://anilist.co/anime/172393"
+    },
+    "k": {
+      "id": "35",
+      "url": "https://kitsu.io/anime/35"
+    },
+    "mal": {
+      "id": "57622",
+      "url": "https://myanimelist.net/anime/57622"
+    },
+    "tx": {
+      "id": "utapriMAJILOVE",
+      "url": "https://twitter.com/utapriMAJILOVE"
+    }
+  }
+}

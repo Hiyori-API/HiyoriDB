@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3603,
+  "slug": "papa-to-odorou",
+  "kind": "anime",
+  "title": "Papa to Odorou",
+  "titles": {
+    "default": "Papa to Odorou",
+    "romaji": "Papa to Odorou",
+    "english": "Let's Dance with Papa",
+    "native": "パパと踊ろう"
+  },
+  "synonyms": [
+    "Papa to Odorou",
+    "Let's Dance with Papa",
+    "パパと踊ろう"
+  ],
+  "type": "tv",
+  "episodes": 16,
+  "status": "finished",
+  "season": "summer",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4742-35gEcmINa9Mx.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4742",
+      "url": "https://anilist.co/anime/4742"
+    },
+    "k": {
+      "id": "3771",
+      "url": "https://kitsu.io/anime/3771"
+    },
+    "mal": {
+      "id": "4742",
+      "url": "https://myanimelist.net/anime/4742"
+    }
+  }
+}

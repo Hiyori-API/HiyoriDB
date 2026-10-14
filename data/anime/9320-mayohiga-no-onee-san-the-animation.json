@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9320,
+  "slug": "mayohiga-no-onee-san-the-animation",
+  "kind": "anime",
+  "title": "Mayohiga no Onee-san THE ANIMATION",
+  "titles": {
+    "default": "Mayohiga no Onee-san THE ANIMATION",
+    "romaji": "Mayohiga no Onee-san THE ANIMATION",
+    "english": "Lusty Ladies of Mayohiga",
+    "native": "マヨヒガのお姉さん THE ANIMATION"
+  },
+  "synonyms": [
+    "Mayohiga no Onee-san THE ANIMATION",
+    "Lusty Ladies of Mayohiga",
+    "マヨヒガのお姉さん THE ANIMATION",
+    "KonoSuba: God's Blessing on This Wonderful World! Second Season OVA",
+    "Kono Subarashii Sekai ni Shukufuku wo! 2 OVA",
+    "KonoSuba: God's Blessing on This Wonderful World! 2 - God's Blessing on This Wonderful Art!",
+    "この素晴らしい世界に祝福を！2 この素晴らしい芸術に祝福を！",
+    "Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/99347-WTLu5SsoPU97.png"
+  ],
+  "references": {
+    "al": {
+      "id": "99347",
+      "url": "https://anilist.co/anime/99347"
+    },
+    "mal": {
+      "id": "35727",
+      "url": "https://myanimelist.net/anime/35727"
+    }
+  }
+}

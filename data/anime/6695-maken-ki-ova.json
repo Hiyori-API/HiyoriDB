@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6695,
+  "slug": "maken-ki-ova",
+  "kind": "anime",
+  "title": "Maken-Ki! OVA",
+  "titles": {
+    "default": "Maken-Ki! OVA",
+    "romaji": "Maken-Ki! OVA",
+    "native": "マケン姫っ！ OVA"
+  },
+  "synonyms": [
+    "Maken-Ki! OVA",
+    "マケン姫っ！ OVA",
+    "Maken-Ki! It's Summer! It's Swimsuits! It's Training Camp!",
+    "Maken-Ki! Takeru Turns into a Woman!? Naked in a Southern Island!",
+    "Natsu Da! Mizugi Da! Gasshuku Da!",
+    "It's Summer! It's Swimsuits! It's Training Camp!",
+    "Takeru Nyotaika!? Minami no Shima de Supoon",
+    "Maken-ki! Two: Takeru Nyotaika!? Minami no Shima de Supoon"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11209.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11209",
+      "url": "https://anilist.co/anime/11209"
+    },
+    "k": {
+      "id": "6474",
+      "url": "https://kitsu.io/anime/6474"
+    },
+    "mal": {
+      "id": "11209",
+      "url": "https://myanimelist.net/anime/11209"
+    },
+    "t": {
+      "id": "60297",
+      "url": "https://trakt.tv/shows/60297"
+    }
+  }
+}

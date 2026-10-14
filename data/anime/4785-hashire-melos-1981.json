@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4785,
+  "slug": "hashire-melos-1981",
+  "kind": "anime",
+  "title": "Hashire Melos (1981)",
+  "titles": {
+    "default": "Hashire Melos (1981)",
+    "romaji": "Hashire Melos (1981)",
+    "native": "走れメロス (1981)"
+  },
+  "synonyms": [
+    "Hashire Melos (1981)",
+    "走れメロス (1981)",
+    "Melos",
+    "Run Melos (1981)",
+    "Run Melos",
+    "走れメロス"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1981,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx8554-ZAaQ6f2ukhVG.png"
+  ],
+  "references": {
+    "al": {
+      "id": "8554",
+      "url": "https://anilist.co/anime/8554"
+    },
+    "k": {
+      "id": "5388",
+      "url": "https://kitsu.io/anime/5388"
+    },
+    "mal": {
+      "id": "8554",
+      "url": "https://myanimelist.net/anime/8554"
+    }
+  }
+}

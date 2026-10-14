@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9197,
+  "slug": "yuyushiki-ova-komarasetari-komarasaretari",
+  "kind": "anime",
+  "title": "Yuyushiki OVA: Komarasetari, Komarasaretari",
+  "titles": {
+    "default": "Yuyushiki OVA: Komarasetari, Komarasaretari",
+    "romaji": "Yuyushiki OVA: Komarasetari, Komarasaretari",
+    "native": "ゆゆ式 OVA「困らせたり、困らされたり」"
+  },
+  "synonyms": [
+    "Yuyushiki OVA: Komarasetari, Komarasaretari",
+    "ゆゆ式 OVA「困らせたり、困らされたり」",
+    "Yuyushiki OVA",
+    "Yuyushiki Special",
+    "ゆゆ式 OVA『困らせたり、困らされたり』",
+    "Yuyushiki: Komarasetari, Komarasaretari"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98344-TP6X9RrB4zIc.png"
+  ],
+  "references": {
+    "al": {
+      "id": "98344",
+      "url": "https://anilist.co/anime/98344"
+    },
+    "mal": {
+      "id": "33035",
+      "url": "https://myanimelist.net/anime/33035"
+    },
+    "tx": {
+      "id": "yuyushiki_anime",
+      "url": "https://twitter.com/yuyushiki_anime"
+    }
+  }
+}

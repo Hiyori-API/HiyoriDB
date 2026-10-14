@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13201,
+  "slug": "chibizenji-sensei-inokori-kougiroku",
+  "kind": "anime",
+  "title": "Chibizenji-sensei Inokori Kougiroku",
+  "titles": {
+    "default": "Chibizenji-sensei Inokori Kougiroku",
+    "romaji": "Chibizenji-sensei Inokori Kougiroku",
+    "native": "ちびぜんじ先生 居残り講義録"
+  },
+  "synonyms": [
+    "Chibizenji-sensei Inokori Kougiroku",
+    "ちびぜんじ先生 居残り講義録",
+    "中禅寺先生ミニアニメ",
+    "Chuuzenji-sensei Mini Anime",
+    "Ling Cage 2nd Season",
+    "Ling Cage 2",
+    "灵笼 第二季",
+    "Ling Long 2nd Season"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx193242-0pIv8EQ3ijOA.png"
+  ],
+  "references": {
+    "al": {
+      "id": "193242",
+      "url": "https://anilist.co/anime/193242"
+    },
+    "mal": {
+      "id": "61491",
+      "url": "https://myanimelist.net/anime/61491"
+    }
+  }
+}

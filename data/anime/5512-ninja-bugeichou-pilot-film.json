@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5512,
+  "slug": "ninja-bugeichou-pilot-film",
+  "kind": "anime",
+  "title": "Ninja Bugeichou Pilot Film",
+  "titles": {
+    "default": "Ninja Bugeichou Pilot Film",
+    "romaji": "Ninja Bugeichou Pilot Film",
+    "native": "忍者武芸帳 パイロットフィルム"
+  },
+  "synonyms": [
+    "Ninja Bugeichou Pilot Film",
+    "忍者武芸帳 パイロットフィルム",
+    "Manual of Ninja Martial Arts Pilot Film",
+    "Band of Ninja Pilot Film",
+    "Seikai no Monshou Special",
+    "星界の紋章 総集編",
+    "Seikai no Monshou Movie",
+    "Crest of the Stars Special Edition"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150007-HjX5bN2xpJ91.png"
+  ],
+  "references": {
+    "al": {
+      "id": "150007",
+      "url": "https://anilist.co/anime/150007"
+    },
+    "k": {
+      "id": "1235",
+      "url": "https://kitsu.io/anime/1235"
+    },
+    "mal": {
+      "id": "40302",
+      "url": "https://myanimelist.net/anime/40302"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7142,
+  "slug": "gintama-kanketsu-hen-yorozuya-yo-eien-nare",
+  "kind": "anime",
+  "title": "Gintama: Kanketsu-hen - Yorozuya yo Eien Nare",
+  "titles": {
+    "default": "Gintama: Kanketsu-hen - Yorozuya yo Eien Nare",
+    "romaji": "Gintama: Kanketsu-hen - Yorozuya yo Eien Nare",
+    "english": "Gintama: The Final Chapter - Be Forever Yorozuya",
+    "native": "劇場版 銀魂 完結篇 万事屋よ永遠なれ"
+  },
+  "synonyms": [
+    "Gintama: Kanketsu-hen - Yorozuya yo Eien Nare",
+    "Gintama: The Final Chapter - Be Forever Yorozuya",
+    "劇場版 銀魂 完結篇 万事屋よ永遠なれ",
+    "Gintama Movie 2",
+    "Gintama the Final Movie",
+    "Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15335-QjijwChGTBs0.png"
+  ],
+  "references": {
+    "al": {
+      "id": "15335",
+      "url": "https://anilist.co/anime/15335"
+    },
+    "k": {
+      "id": "7241",
+      "url": "https://kitsu.io/anime/7241"
+    },
+    "mal": {
+      "id": "15335",
+      "url": "https://myanimelist.net/anime/15335"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5168,
+  "slug": "bakabon-osomatsu-no-curry-wo-tazunete-sanzenri",
+  "kind": "anime",
+  "title": "Bakabon Osomatsu no Curry wo Tazunete Sanzenri",
+  "titles": {
+    "default": "Bakabon Osomatsu no Curry wo Tazunete Sanzenri",
+    "romaji": "Bakabon Osomatsu no Curry wo Tazunete Sanzenri",
+    "native": "バカボンおそ松のカレーをたずねて三千里"
+  },
+  "synonyms": [
+    "Bakabon Osomatsu no Curry wo Tazunete Sanzenri",
+    "バカボンおそ松のカレーをたずねて三千里",
+    "Ask for the curry of Bakabon and Osomatsu",
+    "Honey & Clover Specials",
+    "Honey and Clover Specials",
+    "ハチミツとクローバー",
+    "Hachimitsu to Clover Specials"
+  ],
+  "type": "special",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx138871-GLWM151vBaiM.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "138871",
+      "url": "https://anilist.co/anime/138871"
+    },
+    "mal": {
+      "id": "24373",
+      "url": "https://myanimelist.net/anime/24373"
+    }
+  }
+}

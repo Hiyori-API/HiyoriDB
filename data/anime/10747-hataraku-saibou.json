@@ -1,0 +1,66 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10747,
+  "slug": "hataraku-saibou",
+  "kind": "anime",
+  "title": "Hataraku Saibou!!",
+  "titles": {
+    "default": "Hataraku Saibou!!",
+    "romaji": "Hataraku Saibou!!",
+    "english": "Cells at Work!!",
+    "native": "はたらく細胞!!"
+  },
+  "synonyms": [
+    "Hataraku Saibou!!",
+    "Cells at Work!!",
+    "はたらく細胞!!",
+    "Les brigades immunitaires 2",
+    "เซลล์ขยัน พันธุ์เดือด ภาค 2",
+    "The Cosmopolitan Prayers",
+    "Chou Henshin Cosprayers",
+    "超変身コス∞プレイヤー",
+    "Super Transformation Cosprayers"
+  ],
+  "type": "tv",
+  "episodes": 8,
+  "status": "finished",
+  "season": "winter",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108631-R3yjfHmOJDET.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "108631",
+      "url": "https://anilist.co/anime/108631"
+    },
+    "cr": {
+      "id": "cells-at-work",
+      "url": "https://www.crunchyroll.com/series/cells-at-work"
+    },
+    "k": {
+      "id": "91",
+      "url": "https://kitsu.io/anime/91"
+    },
+    "mal": {
+      "id": "39586",
+      "url": "https://myanimelist.net/anime/39586"
+    },
+    "nf": {
+      "id": "81028791",
+      "url": "https://www.netflix.com/title/81028791"
+    },
+    "t": {
+      "id": "64764",
+      "url": "https://trakt.tv/shows/64764"
+    },
+    "tx": {
+      "id": "hataraku_saibou",
+      "url": "https://twitter.com/hataraku_saibou"
+    },
+    "yt": {
+      "id": "Nu6SsBBHXXk",
+      "url": "https://www.youtube.com/watch?v=Nu6SsBBHXXk"
+    }
+  }
+}

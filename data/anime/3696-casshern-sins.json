@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3696,
+  "slug": "casshern-sins",
+  "kind": "anime",
+  "title": "Casshern Sins",
+  "titles": {
+    "default": "Casshern Sins",
+    "romaji": "Casshern Sins",
+    "native": "キャシャーンSins"
+  },
+  "synonyms": [
+    "Casshern Sins",
+    "キャシャーンSins",
+    "A Certain Magical Index",
+    "Toaru Majutsu no Index",
+    "とある魔術の禁書目録",
+    "Toaru Majutsu no Kinsho Mokuroku"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "fall",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4981-V6MbMiJUqdvP.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4981",
+      "url": "https://anilist.co/anime/4981"
+    },
+    "cr": {
+      "id": "casshern-sins",
+      "url": "https://www.crunchyroll.com/series/casshern-sins"
+    },
+    "k": {
+      "id": "3725",
+      "url": "https://kitsu.io/anime/3725"
+    },
+    "mal": {
+      "id": "4981",
+      "url": "https://myanimelist.net/anime/4981"
+    },
+    "t": {
+      "id": "61091",
+      "url": "https://trakt.tv/shows/61091"
+    },
+    "ttv": {
+      "id": "2313",
+      "url": "https://tubitv.com/series/2313"
+    }
+  }
+}

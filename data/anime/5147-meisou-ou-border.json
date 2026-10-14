@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5147,
+  "slug": "meisou-ou-border",
+  "kind": "anime",
+  "title": "Meisou-Ou Border",
+  "titles": {
+    "default": "Meisou-Ou Border",
+    "romaji": "Meisou-Ou Border",
+    "native": "迷走王 ボーダー"
+  },
+  "synonyms": [
+    "Meisou-Ou Border",
+    "迷走王 ボーダー",
+    "Ninja Ryuukenden",
+    "忍者龍剣伝",
+    "Ninja Gaiden",
+    "Ninja Ryukenden",
+    "Tale of Ninja Ryuuken",
+    "Ninja Ryu: The Dragon Sword Story"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16255-nO0bdbialkbG.png"
+  ],
+  "references": {
+    "al": {
+      "id": "16255",
+      "url": "https://anilist.co/anime/16255"
+    },
+    "k": {
+      "id": "574",
+      "url": "https://kitsu.io/anime/574"
+    },
+    "mal": {
+      "id": "16255",
+      "url": "https://myanimelist.net/anime/16255"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5816,
+  "slug": "hakken-taiken-daisuki-shimajirou",
+  "kind": "anime",
+  "title": "Hakken Taiken Daisuki! Shimajirou",
+  "titles": {
+    "default": "Hakken Taiken Daisuki! Shimajirou",
+    "romaji": "Hakken Taiken Daisuki! Shimajirou",
+    "native": "はっけん たいけん だいすき! しまじろう"
+  },
+  "synonyms": [
+    "Hakken Taiken Daisuki! Shimajirou",
+    "はっけん たいけん だいすき! しまじろう",
+    "Penguin no Mondai",
+    "ペンギンの問題",
+    "A Penguin's Troubles"
+  ],
+  "type": "tv",
+  "episodes": 101,
+  "status": "finished",
+  "season": "spring",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18937.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "18937",
+      "url": "https://anilist.co/anime/18937"
+    },
+    "k": {
+      "id": "3557",
+      "url": "https://kitsu.io/anime/3557"
+    },
+    "mal": {
+      "id": "18937",
+      "url": "https://myanimelist.net/anime/18937"
+    },
+    "t": {
+      "id": "98218",
+      "url": "https://trakt.tv/shows/98218"
+    }
+  }
+}

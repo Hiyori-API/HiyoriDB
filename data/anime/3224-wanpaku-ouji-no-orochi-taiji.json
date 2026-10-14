@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3224,
+  "slug": "wanpaku-ouji-no-orochi-taiji",
+  "kind": "anime",
+  "title": "Wanpaku Ouji no Orochi Taiji",
+  "titles": {
+    "default": "Wanpaku Ouji no Orochi Taiji",
+    "romaji": "Wanpaku Ouji no Orochi Taiji",
+    "english": "Orochi, the Eight-Headed Dragon",
+    "native": "わんぱく王子の大蛇退治"
+  },
+  "synonyms": [
+    "Wanpaku Ouji no Orochi Taiji",
+    "Orochi, the Eight-Headed Dragon",
+    "わんぱく王子の大蛇退治",
+    "The Little Prince and the Eight-Headed Dragon",
+    "The Wicked Prince`s Hunt of the Big Snake",
+    "Orochi",
+    "the Eight-Headed Dragon",
+    "Principe Suzano e o Dragão de Oito Cabeças",
+    "Principe Suzano e o Dragão de 8 Cabeças",
+    "The Wicked Prince's Hunt of the Big Snake"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1963,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3905-uu3lXujtSS6M.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3905",
+      "url": "https://anilist.co/anime/3905"
+    },
+    "k": {
+      "id": "3336",
+      "url": "https://kitsu.io/anime/3336"
+    },
+    "mal": {
+      "id": "3905",
+      "url": "https://myanimelist.net/anime/3905"
+    }
+  }
+}

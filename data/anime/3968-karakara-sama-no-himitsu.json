@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3968,
+  "slug": "karakara-sama-no-himitsu",
+  "kind": "anime",
+  "title": "Karakara-sama no Himitsu",
+  "titles": {
+    "default": "Karakara-sama no Himitsu",
+    "romaji": "Karakara-sama no Himitsu",
+    "native": "カラカラ様のひみつ"
+  },
+  "synonyms": [
+    "Karakara-sama no Himitsu",
+    "カラカラ様のひみつ",
+    "Secret of...",
+    "Karakara-sama's secret: the Goddess from Heaven",
+    "Kai Doh Maru",
+    "怪童丸",
+    "Kaidoumaru",
+    "Kaidomaru"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5575.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5575",
+      "url": "https://anilist.co/anime/5575"
+    },
+    "k": {
+      "id": "1457",
+      "url": "https://kitsu.io/anime/1457"
+    },
+    "mal": {
+      "id": "5575",
+      "url": "https://myanimelist.net/anime/5575"
+    }
+  }
+}

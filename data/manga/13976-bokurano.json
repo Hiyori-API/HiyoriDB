@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13976,
+  "slug": "bokurano",
+  "kind": "manga",
+  "title": "Bokurano",
+  "titles": {
+    "default": "Bokurano"
+  },
+  "synonyms": [
+    "Bokura no",
+    "Bokurano ~Mou Hitotsu no Bokurano~",
+    "Bokurano, notre enjeu",
+    "Bokurano: Ours",
+    "ぼくらの",
+    "Ours",
+    "Bokurano"
+  ],
+  "type": "manga",
+  "chapters": 66,
+  "volumes": 11,
+  "status": "finished",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30670-pDFNVLQRGfAj.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1690",
+      "url": "https://anilist.co/anime/1690"
+    },
+    "al_manga": {
+      "id": "1690",
+      "url": "https://anilist.co/manga/1690"
+    }
+  }
+}

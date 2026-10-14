@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 299,
+  "slug": "planetes",
+  "kind": "anime",
+  "title": "Planetes",
+  "titles": {
+    "default": "Planetes",
+    "romaji": "Planetes",
+    "native": "プラネテス"
+  },
+  "synonyms": [
+    "Planetes",
+    "プラネテス",
+    "ΠΛΑΝΗΤΕΣ"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx329-4xwXdazRA7Ph.png"
+  ],
+  "references": {
+    "al": {
+      "id": "329",
+      "url": "https://anilist.co/anime/329"
+    },
+    "cr": {
+      "id": "series/G9VHN9Q14/planetes?utm_source=editorial_cr&utm_medium=news&utm_campaign=article_driven&referrer=editorial_cr_news_article_driven",
+      "url": "https://www.crunchyroll.com/series/series/G9VHN9Q14/planetes?utm_source=editorial_cr&utm_medium=news&utm_campaign=article_driven&referrer=editorial_cr_news_article_driven"
+    },
+    "k": {
+      "id": "296",
+      "url": "https://kitsu.io/anime/296"
+    },
+    "mal": {
+      "id": "329",
+      "url": "https://myanimelist.net/anime/329"
+    },
+    "t": {
+      "id": "33955",
+      "url": "https://trakt.tv/shows/33955"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10861,
+  "slug": "shounen-ashibe-2",
+  "kind": "anime",
+  "title": "Shounen Ashibe 2",
+  "titles": {
+    "default": "Shounen Ashibe 2",
+    "romaji": "Shounen Ashibe 2",
+    "native": "少年アシベ2"
+  },
+  "synonyms": [
+    "Shounen Ashibe 2",
+    "少年アシベ2",
+    "Shonen Ashibe 2",
+    "Young Ashibe 2",
+    "少年アシベ２"
+  ],
+  "type": "tv",
+  "episodes": 25,
+  "status": "finished",
+  "season": "fall",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8832.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8832",
+      "url": "https://anilist.co/anime/8832"
+    },
+    "k": {
+      "id": "5503",
+      "url": "https://kitsu.io/anime/5503"
+    },
+    "mal": {
+      "id": "8832",
+      "url": "https://myanimelist.net/anime/8832"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15124,
+  "slug": "iblard-monogatari-laputa-no-aru-fuukei",
+  "kind": "manga",
+  "title": "Iblard Monogatari: Laputa no Aru Fuukei",
+  "titles": {
+    "default": "Iblard Monogatari: Laputa no Aru Fuukei"
+  },
+  "synonyms": [
+    "Chroniques d'Iblard",
+    "Iblard Stories",
+    "Iblard Legend: The Scenery of Laputas",
+    "イバラード物語―ラピュタのある風景",
+    "Kare Kano: His and Her Circumstances",
+    "Kareshi Kanojo no Jijou",
+    "彼氏彼女の事情",
+    "His and Hers",
+    "The Tiger and the Chameleon: A Promise for One Week",
+    "Ashita Mata Mori de Aou ne",
+    "Meet Me Again Tomorrow in the Forest",
+    "KKNJ",
+    "Abareru Ousama",
+    "The Raging King"
+  ],
+  "type": "manga",
+  "chapters": 12,
+  "volumes": 1,
+  "status": "finished",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx104790-VxdmGu9g0Ajj.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6463",
+      "url": "https://anilist.co/anime/2891"
+    },
+    "al_manga": {
+      "id": "6463",
+      "url": "https://anilist.co/manga/6463"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9120,
+  "slug": "kekkai-sensen-beyond",
+  "kind": "anime",
+  "title": "Kekkai Sensen & BEYOND",
+  "titles": {
+    "default": "Kekkai Sensen & BEYOND",
+    "romaji": "Kekkai Sensen & BEYOND",
+    "english": "Blood Blockade Battlefront & Beyond",
+    "native": "血界戦線 & BEYOND"
+  },
+  "synonyms": [
+    "Kekkai Sensen & BEYOND",
+    "Blood Blockade Battlefront & Beyond",
+    "血界戦線 & BEYOND",
+    "Bloodline Battlefront & Beyond",
+    "Kekkai Sensen & Beyond"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx97886-iArtYIxZzGcR.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "97886",
+      "url": "https://anilist.co/anime/97886"
+    },
+    "mal": {
+      "id": "34451",
+      "url": "https://myanimelist.net/anime/34451"
+    },
+    "nf": {
+      "id": "80205560",
+      "url": "https://www.netflix.com/title/80205560"
+    },
+    "tx": {
+      "id": "kekkaisensen",
+      "url": "https://twitter.com/kekkaisensen"
+    }
+  }
+}

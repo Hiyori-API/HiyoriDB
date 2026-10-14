@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15284,
+  "slug": "chou-denji-taisen-victory-five",
+  "kind": "manga",
+  "title": "Chou Denji Taisen Victory Five",
+  "titles": {
+    "default": "Chou Denji Taisen Victory Five"
+  },
+  "synonyms": [
+    "Super Electromagnetic Wars Victory Five",
+    "超電磁大戦ビクトリーファイブ",
+    "Full Moon wo Sagashite",
+    "満月〈フルムーン〉をさがして",
+    "Searching for the Full Moon",
+    "Ginyuu Meika"
+  ],
+  "type": "manga",
+  "chapters": 12,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx138742-GFN6eLs1Rsvx.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1068",
+      "url": "https://anilist.co/anime/2816"
+    },
+    "al_manga": {
+      "id": "1068",
+      "url": "https://anilist.co/manga/1068"
+    }
+  }
+}

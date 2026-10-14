@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4258,
+  "slug": "akikan-ova",
+  "kind": "anime",
+  "title": "Akikan! OVA",
+  "titles": {
+    "default": "Akikan! OVA",
+    "romaji": "Akikan! OVA",
+    "native": "アキカン！"
+  },
+  "synonyms": [
+    "Akikan! OVA",
+    "アキカン！",
+    "Akikan!: Kan Ippatsu!? Onsen Panic",
+    "アキカン! カン一発!?温泉パニック"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6287.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6287",
+      "url": "https://anilist.co/anime/6287"
+    },
+    "k": {
+      "id": "4508",
+      "url": "https://kitsu.io/anime/4508"
+    },
+    "mal": {
+      "id": "6287",
+      "url": "https://myanimelist.net/anime/6287"
+    }
+  }
+}

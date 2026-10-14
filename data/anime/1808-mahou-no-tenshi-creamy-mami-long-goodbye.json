@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1808,
+  "slug": "mahou-no-tenshi-creamy-mami-long-goodbye",
+  "kind": "anime",
+  "title": "Mahou no Tenshi Creamy Mami: Long Goodbye",
+  "titles": {
+    "default": "Mahou no Tenshi Creamy Mami: Long Goodbye",
+    "romaji": "Mahou no Tenshi Creamy Mami: Long Goodbye",
+    "english": "Creamy Mami: Long Goodbye",
+    "native": "魔法の天使クリィミーマミ　ロング・グッドバイ"
+  },
+  "synonyms": [
+    "Mahou no Tenshi Creamy Mami: Long Goodbye",
+    "Creamy Mami: Long Goodbye",
+    "魔法の天使クリィミーマミ　ロング・グッドバイ",
+    "Magical Princess Minky Momo: La Ronde in my Dream",
+    "Mahou no Princess Minky Momo: Yume no Naka no Rondo",
+    "魔法のプリンセス ミンキーモモ夢の中の輪舞",
+    "Gigi and the Fountain of Youth"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx2046-oUtWxaM6LjSk.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2046",
+      "url": "https://anilist.co/anime/2046"
+    },
+    "k": {
+      "id": "2058",
+      "url": "https://kitsu.io/anime/2058"
+    },
+    "mal": {
+      "id": "2046",
+      "url": "https://myanimelist.net/anime/2046"
+    }
+  }
+}

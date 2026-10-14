@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14536,
+  "slug": "hyakki-yakou-shou",
+  "kind": "manga",
+  "title": "Hyakki Yakou Shou",
+  "titles": {
+    "default": "Hyakki Yakou Shou"
+  },
+  "synonyms": [
+    "Selected Pandemonium",
+    "Hyakki Yakoushou",
+    "Tales of a Hundred Ghosts Traveling by the Night",
+    "Hyakkiyakou Shou",
+    "Beyond Twilight",
+    "Le Cortège des cent démons",
+    "La Corte dei Cento Demoni",
+    "百鬼夜行抄",
+    "Detective Conan",
+    "Meitantei Conan",
+    "Case Closed",
+    "Detektif Conan",
+    "名探偵コナン",
+    "Detective Conan Kaito Kid Special Collection"
+  ],
+  "type": "manga",
+  "status": "publishing",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx34623-PdYiV1hpkWo5.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "207675",
+      "url": "https://anilist.co/anime/207675"
+    },
+    "al_manga": {
+      "id": "207675",
+      "url": "https://anilist.co/manga/207675"
+    }
+  }
+}

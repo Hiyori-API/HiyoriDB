@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4386,
+  "slug": "byeolnala-samchongsa",
+  "kind": "anime",
+  "title": "Byeolnala Samchongsa",
+  "titles": {
+    "default": "Byeolnala Samchongsa",
+    "romaji": "Byeolnala Samchongsa",
+    "english": "Space Three Musketeers",
+    "native": "별나라 삼총사"
+  },
+  "synonyms": [
+    "Byeolnala Samchongsa",
+    "Space Three Musketeers",
+    "별나라 삼총사",
+    "Space of 3 Musketeers",
+    "The Starland Trio",
+    "Les 3 mousquetaires dans l'espace",
+    "Byeolnara Samchongsa"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1979,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6671-29fGbywuzTF9.png"
+  ],
+  "references": {
+    "al": {
+      "id": "6671",
+      "url": "https://anilist.co/anime/6671"
+    },
+    "k": {
+      "id": "4656",
+      "url": "https://kitsu.io/anime/4656"
+    },
+    "mal": {
+      "id": "6671",
+      "url": "https://myanimelist.net/anime/6671"
+    }
+  }
+}

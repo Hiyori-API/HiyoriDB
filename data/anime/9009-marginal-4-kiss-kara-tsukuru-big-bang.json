@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9009,
+  "slug": "marginal-4-kiss-kara-tsukuru-big-bang",
+  "kind": "anime",
+  "title": "MARGINAL#4: KISS kara Tsukuru Big Bang",
+  "titles": {
+    "default": "MARGINAL#4: KISS kara Tsukuru Big Bang",
+    "romaji": "MARGINAL#4: KISS kara Tsukuru Big Bang",
+    "english": "MARGINAL #4 the Animation",
+    "native": "MARGINAL#4 KISSから創造るBig Bang"
+  },
+  "synonyms": [
+    "MARGINAL#4: KISS kara Tsukuru Big Bang",
+    "MARGINAL #4 the Animation",
+    "MARGINAL#4 KISSから創造るBig Bang",
+    "Gintama (2017)",
+    "Gintama Season 5",
+    "銀魂。",
+    "Gintama."
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21645-XN8vOm2VPEbO.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21645",
+      "url": "https://anilist.co/anime/21645"
+    },
+    "cr": {
+      "id": "marginal-4-the-animation",
+      "url": "https://www.crunchyroll.com/series/marginal-4-the-animation"
+    },
+    "mal": {
+      "id": "33788",
+      "url": "https://myanimelist.net/anime/33788"
+    },
+    "tx": {
+      "id": "marginal4_anime",
+      "url": "https://twitter.com/marginal4_anime"
+    }
+  }
+}

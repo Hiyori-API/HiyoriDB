@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1379,
+  "slug": "choujin-gakuen-gowcaizer-the-voltage-fighters",
+  "kind": "anime",
+  "title": "Choujin Gakuen Gowcaizer: THE VOLTAGE FIGHTERS",
+  "titles": {
+    "default": "Choujin Gakuen Gowcaizer: THE VOLTAGE FIGHTERS",
+    "romaji": "Choujin Gakuen Gowcaizer: THE VOLTAGE FIGHTERS",
+    "english": "Voltage Fighter Gowcaizer",
+    "native": "超人学園ゴウカイザー THE VOLTAGE FIGHTERS"
+  },
+  "synonyms": [
+    "Choujin Gakuen Gowcaizer: THE VOLTAGE FIGHTERS",
+    "Voltage Fighter Gowcaizer",
+    "超人学園ゴウカイザー THE VOLTAGE FIGHTERS",
+    "Choujin Gakuen Gowcaizer - The Voltage Fighters",
+    "Choujin Gakuen Gowkaiser",
+    "Superhuman Academy Gowcaizer",
+    "Voltage Fighter Gowcaizer: The Movie",
+    "Choujin Gakuen Gowcaizer: The Voltage Fighters",
+    "超人学園ゴウカイザー　ＴＨＥ　ＶＯＬＴＡＧＥ　ＦＩＧＨＴＥＲＳ"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "fall",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1560-HQlAZAAjYUnb.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1560",
+      "url": "https://anilist.co/anime/1560"
+    },
+    "k": {
+      "id": "1400",
+      "url": "https://kitsu.io/anime/1400"
+    },
+    "mal": {
+      "id": "1560",
+      "url": "https://myanimelist.net/anime/1560"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15228,
+  "slug": "pikachu-tankentai",
+  "kind": "manga",
+  "title": "Pikachu Tankentai",
+  "titles": {
+    "default": "Pikachu Tankentai"
+  },
+  "synonyms": [
+    "Pocket Monsters: Pikachu Tankentai",
+    "Pikachu Rescue Adventure",
+    "ピカチュウたんけんたい",
+    "Rurouni Kenshin: Yahiko's Reversed-Edge Sword",
+    "Rurouni Kenshin: Yahiko no Sakabatou",
+    "るろうに剣心 弥彦の逆刃刀",
+    "Rurouni Kenshin: Yahiko's Sakabatou"
+  ],
+  "type": "one_shot",
+  "chapters": 1,
+  "status": "finished",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx114363-6UnRlqhDaeTS.png"
+  ],
+  "references": {
+    "al": {
+      "id": "4792",
+      "url": "https://anilist.co/anime/4792"
+    },
+    "al_manga": {
+      "id": "4792",
+      "url": "https://anilist.co/manga/4792"
+    }
+  }
+}

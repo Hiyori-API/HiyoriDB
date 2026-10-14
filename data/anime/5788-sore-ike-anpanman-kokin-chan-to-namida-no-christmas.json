@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5788,
+  "slug": "sore-ike-anpanman-kokin-chan-to-namida-no-christmas",
+  "kind": "anime",
+  "title": "Sore Ike! Anpanman: Kokin-chan to Namida no Christmas",
+  "titles": {
+    "default": "Sore Ike! Anpanman: Kokin-chan to Namida no Christmas",
+    "romaji": "Sore Ike! Anpanman: Kokin-chan to Namida no Christmas",
+    "native": "それいけ!アンパンマン コキンちゃんとなみだのクリスマス"
+  },
+  "synonyms": [
+    "Sore Ike! Anpanman: Kokin-chan to Namida no Christmas",
+    "それいけ!アンパンマン コキンちゃんとなみだのクリスマス",
+    "Eiga de Toujou! Tamagotchi Dokidoki! Uchuu no Maigotchi!?",
+    "えいがでとーじょー！ たまごっち ドキドキ！うちゅーのまいごっち！？"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b171762-1snLUsxditvQ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "171762",
+      "url": "https://anilist.co/anime/171762"
+    },
+    "k": {
+      "id": "4591",
+      "url": "https://kitsu.io/anime/4591"
+    },
+    "mal": {
+      "id": "21955",
+      "url": "https://myanimelist.net/anime/21955"
+    }
+  }
+}

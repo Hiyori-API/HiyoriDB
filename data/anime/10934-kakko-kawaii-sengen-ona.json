@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10934,
+  "slug": "kakko-kawaii-sengen-ona",
+  "kind": "anime",
+  "title": "Kakko Kawaii Sengen! (ONA)",
+  "titles": {
+    "default": "Kakko Kawaii Sengen! (ONA)",
+    "romaji": "Kakko Kawaii Sengen! (ONA)",
+    "native": "カッコカワイイ宣言！(ONA)"
+  },
+  "synonyms": [
+    "Kakko Kawaii Sengen! (ONA)",
+    "カッコカワイイ宣言！(ONA)",
+    "Kakko-Kawaii Sengen! 2",
+    "KakoKawa2",
+    "Kakko Kawaii Sengen! 2nd Season",
+    "Busou Shinki Moon Angel",
+    "武装神姫 Moon Angel"
+  ],
+  "type": "ona",
+  "episodes": 10,
+  "status": "finished",
+  "season": "summer",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b10908-ORETdSwA7GUv.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10908",
+      "url": "https://anilist.co/anime/10908"
+    },
+    "k": {
+      "id": "6461",
+      "url": "https://kitsu.io/anime/6461"
+    },
+    "mal": {
+      "id": "10908",
+      "url": "https://myanimelist.net/anime/10908"
+    }
+  }
+}

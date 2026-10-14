@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7180,
+  "slug": "karneval-tv",
+  "kind": "anime",
+  "title": "Karneval (TV)",
+  "titles": {
+    "default": "Karneval (TV)",
+    "romaji": "Karneval (TV)",
+    "native": "カーニヴァル (TV)"
+  },
+  "synonyms": [
+    "Karneval (TV)",
+    "カーニヴァル (TV)",
+    "ล่าทรชน",
+    "Karneval",
+    "カーニヴァル",
+    "Karneval (2013)"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16035-TAbW2i7rtXVM.png"
+  ],
+  "references": {
+    "al": {
+      "id": "16035",
+      "url": "https://anilist.co/anime/16035"
+    },
+    "cr": {
+      "id": "karneval",
+      "url": "https://www.crunchyroll.com/series/karneval"
+    },
+    "k": {
+      "id": "7364",
+      "url": "https://kitsu.io/anime/7364"
+    },
+    "mal": {
+      "id": "16035",
+      "url": "https://myanimelist.net/anime/16035"
+    },
+    "t": {
+      "id": "69825",
+      "url": "https://trakt.tv/shows/69825"
+    }
+  }
+}

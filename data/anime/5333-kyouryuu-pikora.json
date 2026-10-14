@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5333,
+  "slug": "kyouryuu-pikora",
+  "kind": "anime",
+  "title": "Kyouryuu Pikora",
+  "titles": {
+    "default": "Kyouryuu Pikora",
+    "romaji": "Kyouryuu Pikora",
+    "native": "恐竜ピコラ"
+  },
+  "synonyms": [
+    "Kyouryuu Pikora",
+    "恐竜ピコラ",
+    "Lupin the Third: The Pursuit of Harimao's Treasure",
+    "Lupin III: Harimao no Zaihou wo Oe!!",
+    "Lupin III: The Pursuit of Harimao's Treasure",
+    "ルパン三世『ハリマオの財宝を追え!!』",
+    "Rupan Sansei: Harimao no Zaiho wo oe!!",
+    "Lupin III Special Part 7"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b206886-O8gN2tt1sJBj.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "206886",
+      "url": "https://anilist.co/anime/206886"
+    },
+    "ap": {
+      "id": "B0B33WX6BV",
+      "url": "https://www.amazon.com/gp/video/detail/B0B33WX6BV"
+    },
+    "k": {
+      "id": "1287",
+      "url": "https://kitsu.io/anime/1287"
+    },
+    "mal": {
+      "id": "29493",
+      "url": "https://myanimelist.net/anime/29493"
+    }
+  }
+}

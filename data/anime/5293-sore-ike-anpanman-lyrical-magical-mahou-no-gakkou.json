@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5293,
+  "slug": "sore-ike-anpanman-lyrical-magical-mahou-no-gakkou",
+  "kind": "anime",
+  "title": "Sore Ike! Anpanman: Lyrical☆Magical Mahou no Gakkou",
+  "titles": {
+    "default": "Sore Ike! Anpanman: Lyrical☆Magical Mahou no Gakkou",
+    "romaji": "Sore Ike! Anpanman: Lyrical☆Magical Mahou no Gakkou",
+    "native": "それいけ! アンパンマン リリカル☆マジカルまほうの学校"
+  },
+  "synonyms": [
+    "Sore Ike! Anpanman: Lyrical☆Magical Mahou no Gakkou",
+    "それいけ! アンパンマン リリカル☆マジカルまほうの学校"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121838-FuoyuswZKbb8.png"
+  ],
+  "references": {
+    "al": {
+      "id": "121838",
+      "url": "https://anilist.co/anime/121838"
+    },
+    "k": {
+      "id": "9620",
+      "url": "https://kitsu.io/anime/9620"
+    },
+    "mal": {
+      "id": "22035",
+      "url": "https://myanimelist.net/anime/22035"
+    }
+  }
+}

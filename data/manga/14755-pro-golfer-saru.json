@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14755,
+  "slug": "pro-golfer-saru",
+  "kind": "manga",
+  "title": "Pro Golfer Saru",
+  "titles": {
+    "default": "Pro Golfer Saru"
+  },
+  "synonyms": [
+    "プロゴルファー猿",
+    "Devil of Blood and Roses",
+    "Chi to Bara no Akuma",
+    "血とばらの悪魔"
+  ],
+  "type": "manga",
+  "volumes": 19,
+  "status": "finished",
+  "year": 1975,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx166042-rjyIrKmlOweN.png"
+  ],
+  "references": {
+    "al": {
+      "id": "16650",
+      "url": "https://anilist.co/anime/16650"
+    },
+    "al_manga": {
+      "id": "16650",
+      "url": "https://anilist.co/manga/16650"
+    }
+  }
+}

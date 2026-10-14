@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7554,
+  "slug": "wizard-barristers-benmashi-cecil",
+  "kind": "anime",
+  "title": "Wizard Barristers: Benmashi Cecil",
+  "titles": {
+    "default": "Wizard Barristers: Benmashi Cecil",
+    "romaji": "Wizard Barristers: Benmashi Cecil",
+    "english": "Wizard Barristers",
+    "native": "ウィザード・バリスターズ 弁魔士セシル"
+  },
+  "synonyms": [
+    "Wizard Barristers: Benmashi Cecil",
+    "Wizard Barristers",
+    "ウィザード・バリスターズ 弁魔士セシル",
+    "ウィザード・バリスターズ～弁魔士セシル"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20053-PIdMAmmoFI6l.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "20053",
+      "url": "https://anilist.co/anime/20053"
+    },
+    "cr": {
+      "id": "wizard-barristers",
+      "url": "https://www.crunchyroll.com/series/wizard-barristers"
+    },
+    "k": {
+      "id": "7898",
+      "url": "https://kitsu.io/anime/7898"
+    },
+    "mal": {
+      "id": "20053",
+      "url": "https://myanimelist.net/anime/20053"
+    },
+    "t": {
+      "id": "74209",
+      "url": "https://trakt.tv/shows/74209"
+    },
+    "tx": {
+      "id": "wb_cecil",
+      "url": "https://twitter.com/wb_cecil"
+    }
+  }
+}

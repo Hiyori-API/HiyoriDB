@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10193,
+  "slug": "keishicho-tokumu-bu-tokushu-kyoaku-han-taisaku-shitsu-dai-nana-ka-tokunana",
+  "kind": "anime",
+  "title": "Keishicho Tokumu-bu Tokushu Kyoaku-han Taisaku-Shitsu Dai-Nana-ka: Tokunana",
+  "titles": {
+    "default": "Keishicho Tokumu-bu Tokushu Kyoaku-han Taisaku-Shitsu Dai-Nana-ka: Tokunana",
+    "romaji": "Keishicho Tokumu-bu Tokushu Kyoaku-han Taisaku-Shitsu Dai-Nana-ka: Tokunana",
+    "english": "Special 7: Special Crime Investigation Unit",
+    "native": "警視庁 特務部 特殊凶悪犯対策室 第七課 -トクナナ-"
+  },
+  "synonyms": [
+    "Keishicho Tokumu-bu Tokushu Kyoaku-han Taisaku-Shitsu Dai-Nana-ka: Tokunana",
+    "Special 7: Special Crime Investigation Unit",
+    "警視庁 特務部 特殊凶悪犯対策室 第七課 -トクナナ-",
+    "Special Crime Investigation Unit Special 7",
+    "Ring ni Kakero 1",
+    "リングにかけろ１",
+    "Put it all in the Ring"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108554-e9tmHhFJ25Ct.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "108554",
+      "url": "https://anilist.co/anime/108554"
+    },
+    "cr": {
+      "id": "special-7-special-crime-investigation-unit",
+      "url": "https://www.crunchyroll.com/series/special-7-special-crime-investigation-unit"
+    },
+    "k": {
+      "id": "14",
+      "url": "https://kitsu.io/anime/14"
+    },
+    "mal": {
+      "id": "39567",
+      "url": "https://myanimelist.net/anime/39567"
+    },
+    "t": {
+      "id": "69507",
+      "url": "https://trakt.tv/shows/69507"
+    },
+    "tx": {
+      "id": "tokunana_PR",
+      "url": "https://twitter.com/tokunana_PR"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9117,
+  "slug": "frame-arms-girl",
+  "kind": "anime",
+  "title": "Frame Arms Girl",
+  "titles": {
+    "default": "Frame Arms Girl",
+    "romaji": "Frame Arms Girl",
+    "native": "フレームアームズ・ガール"
+  },
+  "synonyms": [
+    "Frame Arms Girl",
+    "フレームアームズ・ガール",
+    "Frame Arms Girls",
+    "F.A. Girl",
+    "Attack on Titan Season 2",
+    "Shingeki no Kyojin Season 2",
+    "進撃の巨人 Season 2"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97874-Jmo0bNydRHJl.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "97874",
+      "url": "https://anilist.co/anime/97874"
+    },
+    "cr": {
+      "id": "attack-on-titan",
+      "url": "https://www.crunchyroll.com/series/attack-on-titan"
+    },
+    "k": {
+      "id": "8671",
+      "url": "https://kitsu.io/anime/8671"
+    },
+    "mal": {
+      "id": "34427",
+      "url": "https://myanimelist.net/anime/34427"
+    },
+    "t": {
+      "id": "1420",
+      "url": "https://trakt.tv/shows/1420"
+    },
+    "tx": {
+      "id": "fagirl_official",
+      "url": "https://twitter.com/fagirl_official"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13308,
+  "slug": "yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku",
+  "kind": "anime",
+  "title": "Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
+  "titles": {
+    "default": "Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
+    "romaji": "Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
+    "english": "Sentenced to Be a Hero",
+    "native": "勇者刑に処す 懲罰勇者9004隊刑務記録"
+  },
+  "synonyms": [
+    "Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
+    "Sentenced to Be a Hero",
+    "勇者刑に処す 懲罰勇者9004隊刑務記録",
+    "ผู้กล้าโทษประหาร : บันทึกการรับโทษของหน่วยผู้กล้าต้องโทษ 9004",
+    "용사형에 처함",
+    "Sentenced to Brave Punishment",
+    "Punishment for Brave Hero: 9004 Corps Prison Record, Sentenced to Hero Punishment: The Service Records of the 9004th Penitent Hero Corps",
+    "Hero Punishment",
+    "Sentenced to Be a Hero: The Prison Records of Penal Hero Unit 9004",
+    "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx167152-O1pm6DWwifBD.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "167152",
+      "url": "https://anilist.co/anime/167152"
+    },
+    "cr": {
+      "id": "series/GT00356809/sentenced-to-be-a-hero",
+      "url": "https://www.crunchyroll.com/series/series/GT00356809/sentenced-to-be-a-hero"
+    },
+    "mal": {
+      "id": "56009",
+      "url": "https://myanimelist.net/anime/56009"
+    },
+    "tx": {
+      "id": "yushakei_PJ",
+      "url": "https://twitter.com/yushakei_PJ"
+    }
+  }
+}

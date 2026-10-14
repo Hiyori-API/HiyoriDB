@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15090,
+  "slug": "ai-to-yuuki-no-pig-girl-tonde-buurin",
+  "kind": "manga",
+  "title": "Ai to Yuuki no Pig Girl Tonde Buurin",
+  "titles": {
+    "default": "Ai to Yuuki no Pig Girl Tonde Buurin"
+  },
+  "synonyms": [
+    "Tonde Buurin",
+    "Pig Girl of Love and Courage",
+    "Super Boink",
+    "Tonde Boorin",
+    "Super Pig",
+    "とんでぶーりん",
+    "Yokohama Kaidashi Kikou",
+    "ヨコハマ買い出し紀行",
+    "Yokohama Shopping Log",
+    "Yokohama Shopping Trip",
+    "Touge"
+  ],
+  "type": "manga",
+  "chapters": 16,
+  "volumes": 3,
+  "status": "finished",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx42643-juEQvK5blxam.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2041",
+      "url": "https://anilist.co/anime/2041"
+    },
+    "al_manga": {
+      "id": "2041",
+      "url": "https://anilist.co/manga/2041"
+    }
+  }
+}

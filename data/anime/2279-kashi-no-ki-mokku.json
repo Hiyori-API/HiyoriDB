@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2279,
+  "slug": "kashi-no-ki-mokku",
+  "kind": "anime",
+  "title": "Kashi no Ki Mokku",
+  "titles": {
+    "default": "Kashi no Ki Mokku",
+    "romaji": "Kashi no Ki Mokku",
+    "native": "樫の木モック"
+  },
+  "synonyms": [
+    "Kashi no Ki Mokku",
+    "樫の木モック",
+    "Saban's Adventures of Pinocchio"
+  ],
+  "type": "tv",
+  "episodes": 52,
+  "status": "finished",
+  "season": "winter",
+  "year": 1972,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2574-zxZShnJj9lRl.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2574",
+      "url": "https://anilist.co/anime/2574"
+    },
+    "k": {
+      "id": "2339",
+      "url": "https://kitsu.io/anime/2339"
+    },
+    "mal": {
+      "id": "2574",
+      "url": "https://myanimelist.net/anime/2574"
+    }
+  }
+}

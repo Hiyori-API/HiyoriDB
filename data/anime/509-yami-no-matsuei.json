@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 509,
+  "slug": "yami-no-matsuei",
+  "kind": "anime",
+  "title": "Yami no Matsuei",
+  "titles": {
+    "default": "Yami no Matsuei",
+    "romaji": "Yami no Matsuei",
+    "english": "Descendants of Darkness",
+    "native": "闇の末裔"
+  },
+  "synonyms": [
+    "Yami no Matsuei",
+    "Descendants of Darkness",
+    "闇の末裔",
+    "Descent into Darkness",
+    "The Darker Descendant"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx553-wVV3ieHk3D9G.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "553",
+      "url": "https://anilist.co/anime/553"
+    },
+    "k": {
+      "id": "510",
+      "url": "https://kitsu.io/anime/510"
+    },
+    "mal": {
+      "id": "553",
+      "url": "https://myanimelist.net/anime/553"
+    },
+    "t": {
+      "id": "62229",
+      "url": "https://trakt.tv/shows/62229"
+    }
+  }
+}

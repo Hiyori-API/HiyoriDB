@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6078,
+  "slug": "star-driver-kagayaki-no-takuto",
+  "kind": "anime",
+  "title": "STAR DRIVER: Kagayaki no Takuto",
+  "titles": {
+    "default": "STAR DRIVER: Kagayaki no Takuto",
+    "romaji": "STAR DRIVER: Kagayaki no Takuto",
+    "english": "Star Driver",
+    "native": "STAR DRIVER 輝きのタクト"
+  },
+  "synonyms": [
+    "STAR DRIVER: Kagayaki no Takuto",
+    "Star Driver",
+    "STAR DRIVER 輝きのタクト",
+    "Star Driver: Kagayaki no Takuto",
+    "STAR DRIVER: Shining Takuto"
+  ],
+  "type": "tv",
+  "episodes": 25,
+  "status": "finished",
+  "season": "fall",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx8934-mfuWBKMTWeJK.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8934",
+      "url": "https://anilist.co/anime/8934"
+    },
+    "cr": {
+      "id": "star-driver",
+      "url": "https://www.crunchyroll.com/series/star-driver"
+    },
+    "k": {
+      "id": "5538",
+      "url": "https://kitsu.io/anime/5538"
+    },
+    "mal": {
+      "id": "8934",
+      "url": "https://myanimelist.net/anime/8934"
+    },
+    "t": {
+      "id": "36944",
+      "url": "https://trakt.tv/shows/36944"
+    }
+  }
+}

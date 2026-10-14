@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2045,
+  "slug": "tanoshii-moomin-ikka-moomindani-no-suisei",
+  "kind": "anime",
+  "title": "Tanoshii Moomin Ikka: Moomindani no Suisei",
+  "titles": {
+    "default": "Tanoshii Moomin Ikka: Moomindani no Suisei",
+    "romaji": "Tanoshii Moomin Ikka: Moomindani no Suisei",
+    "english": "Comet in Moominland",
+    "native": "楽しいムーミン一家 ムーミン谷の彗星"
+  },
+  "synonyms": [
+    "Tanoshii Moomin Ikka: Moomindani no Suisei",
+    "Comet in Moominland",
+    "楽しいムーミン一家 ムーミン谷の彗星",
+    "Tanoshii Moomin Ikka Movie",
+    "Muumipeikko ja Pyrstötähti",
+    "Mumintrollen: Kometen kommer",
+    "Komet im Mumintal",
+    "Les Moomins et la Comète",
+    "Mummitrollene - kometen kommer",
+    "Kometa nad Doliną Muminków",
+    "Mumintrollet och hans vänner: kometen kommer",
+    "Mumintrollet på kometjakt",
+    "Muumindani no Suisei",
+    "ムーミン谷の彗星",
+    "A Comet in Moominvalley",
+    "Muumin Movie"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2313-p6yEnLwcoBID.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2313",
+      "url": "https://anilist.co/anime/2313"
+    },
+    "k": {
+      "id": "2095",
+      "url": "https://kitsu.io/anime/2095"
+    },
+    "mal": {
+      "id": "2313",
+      "url": "https://myanimelist.net/anime/2313"
+    }
+  }
+}

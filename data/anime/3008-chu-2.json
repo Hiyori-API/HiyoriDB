@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3008,
+  "slug": "chu-2",
+  "kind": "anime",
+  "title": "Chu^2",
+  "titles": {
+    "default": "Chu^2",
+    "romaji": "Chu^2",
+    "english": "Chu2",
+    "native": "ちゅっ^2"
+  },
+  "synonyms": [
+    "Chu^2",
+    "Chu2",
+    "ちゅっ^2",
+    "Baby☆Love",
+    "ベイビィ☆LOVE"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3562.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3562",
+      "url": "https://anilist.co/anime/3562"
+    },
+    "k": {
+      "id": "651",
+      "url": "https://kitsu.io/anime/651"
+    },
+    "mal": {
+      "id": "3562",
+      "url": "https://myanimelist.net/anime/3562"
+    }
+  }
+}

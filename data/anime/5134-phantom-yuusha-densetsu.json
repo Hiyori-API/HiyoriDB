@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5134,
+  "slug": "phantom-yuusha-densetsu",
+  "kind": "anime",
+  "title": "Phantom Yuusha Densetsu",
+  "titles": {
+    "default": "Phantom Yuusha Densetsu",
+    "romaji": "Phantom Yuusha Densetsu",
+    "native": "ファントム勇者伝説"
+  },
+  "synonyms": [
+    "Phantom Yuusha Densetsu",
+    "ファントム勇者伝説"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10466.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10466",
+      "url": "https://anilist.co/anime/10466"
+    },
+    "k": {
+      "id": "6195",
+      "url": "https://kitsu.io/anime/6195"
+    },
+    "mal": {
+      "id": "10466",
+      "url": "https://myanimelist.net/anime/10466"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15506,
+  "slug": "shigofumi-stories-of-last-letter",
+  "kind": "manga",
+  "title": "Shigofumi: Stories of Last Letter",
+  "titles": {
+    "default": "Shigofumi: Stories of Last Letter"
+  },
+  "synonyms": [
+    "シゴフミ ～Stories of Last Letter～",
+    "Ladies versus Butlers!",
+    "れでぃ×ばと!",
+    "Redei Bato!",
+    "Redei x Bato",
+    "Ladies vs Butlers!"
+  ],
+  "type": "novel",
+  "volumes": 4,
+  "status": "finished",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10078.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3420",
+      "url": "https://anilist.co/anime/3420"
+    },
+    "al_manga": {
+      "id": "3420",
+      "url": "https://anilist.co/manga/3420"
+    }
+  }
+}

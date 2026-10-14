@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4624,
+  "slug": "ano-ko-ni-1000",
+  "kind": "anime",
+  "title": "Ano Ko ni 1000%",
+  "titles": {
+    "default": "Ano Ko ni 1000%",
+    "romaji": "Ano Ko ni 1000%",
+    "english": "That Girl is 1000%",
+    "native": "あの子に1000％"
+  },
+  "synonyms": [
+    "Ano Ko ni 1000%",
+    "That Girl is 1000%",
+    "あの子に1000％",
+    "Anoko ni 1000%",
+    "1000% For That Girl"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7475.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7475",
+      "url": "https://anilist.co/anime/7475"
+    },
+    "k": {
+      "id": "4992",
+      "url": "https://kitsu.io/anime/4992"
+    },
+    "mal": {
+      "id": "7475",
+      "url": "https://myanimelist.net/anime/7475"
+    }
+  }
+}

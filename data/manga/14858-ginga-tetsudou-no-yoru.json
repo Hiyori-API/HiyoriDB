@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14858,
+  "slug": "ginga-tetsudou-no-yoru",
+  "kind": "manga",
+  "title": "Ginga Tetsudou no Yoru",
+  "titles": {
+    "default": "Ginga Tetsudou no Yoru"
+  },
+  "synonyms": [
+    "Fantasy Railroad In The Stars",
+    "Milky Way Railroad",
+    "Night Train to the Stars",
+    "Ginga Tetsudo no Yoru",
+    "Night on the Galactic Railroad",
+    "銀河鉄道の夜",
+    "Kataomoi no Mukougawa",
+    "片想いの向こう側",
+    "Kataomoi no Mukou Gawa",
+    "Ano Kado o Magareba",
+    "Tenshi ga Kuretamono",
+    "Bitou na Koi",
+    "Kimi to Natsu no Aizu"
+  ],
+  "type": "manga",
+  "chapters": 5,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx71207-tswLU1DgF4KL.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1441",
+      "url": "https://anilist.co/anime/1441"
+    },
+    "al_manga": {
+      "id": "1441",
+      "url": "https://anilist.co/manga/1441"
+    }
+  }
+}

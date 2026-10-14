@@ -1,0 +1,60 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7348,
+  "slug": "free",
+  "kind": "anime",
+  "title": "Free!",
+  "titles": {
+    "default": "Free!",
+    "romaji": "Free!",
+    "english": "Free! -Iwatobi Swim Club-"
+  },
+  "synonyms": [
+    "Free!",
+    "Free! -Iwatobi Swim Club-",
+    "フリー！",
+    "Free! - Iwatobi Swim Club"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18507-RajfCYPpBfT3.png"
+  ],
+  "references": {
+    "al": {
+      "id": "18507",
+      "url": "https://anilist.co/anime/18507"
+    },
+    "ap": {
+      "id": "B072WLY3MN",
+      "url": "https://www.amazon.com/gp/video/detail/B072WLY3MN"
+    },
+    "cr": {
+      "id": "free-iwatobi-swim-club",
+      "url": "https://www.crunchyroll.com/series/free-iwatobi-swim-club"
+    },
+    "k": {
+      "id": "7664",
+      "url": "https://kitsu.io/anime/7664"
+    },
+    "mal": {
+      "id": "18507",
+      "url": "https://myanimelist.net/anime/18507"
+    },
+    "nf": {
+      "id": "80186018",
+      "url": "https://www.netflix.com/title/80186018"
+    },
+    "t": {
+      "id": "70834",
+      "url": "https://trakt.tv/shows/70834"
+    },
+    "tx": {
+      "id": "iwatobi_sc",
+      "url": "https://twitter.com/iwatobi_sc"
+    }
+  }
+}

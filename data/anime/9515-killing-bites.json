@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9515,
+  "slug": "killing-bites",
+  "kind": "anime",
+  "title": "Killing Bites",
+  "titles": {
+    "default": "Killing Bites",
+    "romaji": "Killing Bites",
+    "native": "キリングバイツ"
+  },
+  "synonyms": [
+    "Killing Bites",
+    "キリングバイツ",
+    "Mordidas Mortais",
+    "High Score Girl",
+    "ハイスコアガール",
+    "Hi Score Girl"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98389-xDRFlDQwu2I9.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98389",
+      "url": "https://anilist.co/anime/98389"
+    },
+    "k": {
+      "id": "8158",
+      "url": "https://kitsu.io/anime/8158"
+    },
+    "mal": {
+      "id": "34964",
+      "url": "https://myanimelist.net/anime/34964"
+    },
+    "nf": {
+      "id": "80997338",
+      "url": "https://www.netflix.com/title/80997338"
+    },
+    "tx": {
+      "id": "killingbites",
+      "url": "https://twitter.com/killingbites"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5024,
+  "slug": "himitsu-no-akko-chan-umi-da-obake-da-natsu-matsuri",
+  "kind": "anime",
+  "title": "Himitsu no Akko-chan: Umi da! Obake da!! Natsu Matsuri",
+  "titles": {
+    "default": "Himitsu no Akko-chan: Umi da! Obake da!! Natsu Matsuri",
+    "romaji": "Himitsu no Akko-chan: Umi da! Obake da!! Natsu Matsuri",
+    "native": "ひみつのアッコちゃん 海だ! おばけだ!! 夏祭り"
+  },
+  "synonyms": [
+    "Himitsu no Akko-chan: Umi da! Obake da!! Natsu Matsuri",
+    "ひみつのアッコちゃん 海だ! おばけだ!! 夏祭り"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12971.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12971",
+      "url": "https://anilist.co/anime/12971"
+    },
+    "k": {
+      "id": "6860",
+      "url": "https://kitsu.io/anime/6860"
+    },
+    "mal": {
+      "id": "12971",
+      "url": "https://myanimelist.net/anime/12971"
+    }
+  }
+}

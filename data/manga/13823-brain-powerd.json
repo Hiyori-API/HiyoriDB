@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13823,
+  "slug": "brain-powerd",
+  "kind": "manga",
+  "title": "Brain Powerd",
+  "titles": {
+    "default": "Brain Powerd"
+  },
+  "synonyms": [
+    "Brain Powerd",
+    "Brain Powered",
+    "ブレンパワード",
+    "Kamikaze Kaito Jeanne",
+    "Kamikaze Kaitou Jeanne",
+    "Phantom Thief Jeanne",
+    "神風怪盗ジャンヌ",
+    "Divine Wind Phantom Thief Jeanne"
+  ],
+  "type": "manga",
+  "chapters": 26,
+  "volumes": 4,
+  "status": "finished",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30155-f2wFKNTEWTMu.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1542",
+      "url": "https://anilist.co/anime/1542"
+    },
+    "al_manga": {
+      "id": "1542",
+      "url": "https://anilist.co/manga/1542"
+    }
+  }
+}

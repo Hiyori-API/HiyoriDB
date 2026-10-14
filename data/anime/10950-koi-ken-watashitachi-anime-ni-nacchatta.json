@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10950,
+  "slug": "koi-ken-watashitachi-anime-ni-nacchatta",
+  "kind": "anime",
+  "title": "Koi-ken! Watashitachi Anime ni Nacchatta!",
+  "titles": {
+    "default": "Koi-ken! Watashitachi Anime ni Nacchatta!",
+    "romaji": "Koi-ken! Watashitachi Anime ni Nacchatta!",
+    "native": "こいけん！～私たちアニメになっちゃった！～"
+  },
+  "synonyms": [
+    "Koi-ken! Watashitachi Anime ni Nacchatta!",
+    "こいけん！～私たちアニメになっちゃった！～",
+    "Koiken!: Watashitachi Anime ni Nacchatta!",
+    "Koi-ken!: Watashitachi Anime ni Nacchatta!"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12237.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12237",
+      "url": "https://anilist.co/anime/12237"
+    },
+    "k": {
+      "id": "6692",
+      "url": "https://kitsu.io/anime/6692"
+    },
+    "mal": {
+      "id": "12237",
+      "url": "https://myanimelist.net/anime/12237"
+    }
+  }
+}

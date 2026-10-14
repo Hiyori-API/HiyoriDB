@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9329,
+  "slug": "kidou-senshi-gundam-thunderbolt-bandit-flower",
+  "kind": "anime",
+  "title": "Kidou Senshi Gundam Thunderbolt: BANDIT FLOWER",
+  "titles": {
+    "default": "Kidou Senshi Gundam Thunderbolt: BANDIT FLOWER",
+    "romaji": "Kidou Senshi Gundam Thunderbolt: BANDIT FLOWER",
+    "english": "Mobile Suit Gundam Thunderbolt: Bandit Flower",
+    "native": "特別編 機動戦士ガンダムサンダーボルト BANDIT FLOWER"
+  },
+  "synonyms": [
+    "Kidou Senshi Gundam Thunderbolt: BANDIT FLOWER",
+    "Mobile Suit Gundam Thunderbolt: Bandit Flower",
+    "特別編 機動戦士ガンダムサンダーボルト BANDIT FLOWER",
+    "Fate/stay night: Heaven's Feel I. Presage Flower",
+    "Gekijouban Fate/stay night: Heaven's Feel I. Presage Flower",
+    "劇場版「Fate/stay night [Heaven's Feel] Ⅰ.presage flower」"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99547-CrjeWJXe8zIA.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "99547",
+      "url": "https://anilist.co/anime/99547"
+    },
+    "k": {
+      "id": "8675",
+      "url": "https://kitsu.io/anime/8675"
+    },
+    "mal": {
+      "id": "35949",
+      "url": "https://myanimelist.net/anime/35949"
+    },
+    "tx": {
+      "id": "gundam_tb",
+      "url": "https://twitter.com/gundam_tb"
+    }
+  }
+}

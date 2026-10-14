@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2976,
+  "slug": "hal-bons",
+  "kind": "anime",
+  "title": "Hal & Bons",
+  "titles": {
+    "default": "Hal & Bons",
+    "romaji": "Hal & Bons",
+    "native": "ハル&ボンス"
+  },
+  "synonyms": [
+    "Hal & Bons",
+    "ハル&ボンス",
+    "Hal and Bons"
+  ],
+  "type": "ova",
+  "episodes": 5,
+  "status": "finished",
+  "season": "fall",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3516.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3516",
+      "url": "https://anilist.co/anime/3516"
+    },
+    "k": {
+      "id": "3067",
+      "url": "https://kitsu.io/anime/3067"
+    },
+    "mal": {
+      "id": "3516",
+      "url": "https://myanimelist.net/anime/3516"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6295,
+  "slug": "gintama-shinyaku-benizakura-hen-special",
+  "kind": "anime",
+  "title": "Gintama: Shinyaku Benizakura-hen Special",
+  "titles": {
+    "default": "Gintama: Shinyaku Benizakura-hen Special",
+    "romaji": "Gintama: Shinyaku Benizakura-hen Special",
+    "native": "銀魂 新訳紅桜篇"
+  },
+  "synonyms": [
+    "Gintama: Shinyaku Benizakura-hen Special",
+    "銀魂 新訳紅桜篇",
+    "Gintama: Shinyaku Benizakura-hen OVA",
+    "Gintama: Benizakura Arc - A New Retelling",
+    "Gintama Movie: Crimson Sakura Chapter New Edition",
+    "Gintama: Shin-yaku Benizakura-hen",
+    "Gosick Recap",
+    "春来たるＧＯＳＩＣＫスペシャル－美しき怪物は混沌の先を視る－",
+    "Haru Kitaru Gosick Special: Utsukushiki Kaibutsu wa Kondon no Saki wo Miru"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9735.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9735",
+      "url": "https://anilist.co/anime/9735"
+    },
+    "k": {
+      "id": "6211",
+      "url": "https://kitsu.io/anime/6211"
+    },
+    "mal": {
+      "id": "9735",
+      "url": "https://myanimelist.net/anime/9735"
+    }
+  }
+}

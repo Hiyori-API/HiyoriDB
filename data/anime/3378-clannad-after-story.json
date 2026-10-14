@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3378,
+  "slug": "clannad-after-story",
+  "kind": "anime",
+  "title": "CLANNAD: After Story",
+  "titles": {
+    "default": "CLANNAD: After Story",
+    "romaji": "CLANNAD: After Story",
+    "english": "Clannad: After Story",
+    "native": "ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー"
+  },
+  "synonyms": [
+    "CLANNAD: After Story",
+    "Clannad: After Story",
+    "ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー",
+    "Clannad ~After Story~",
+    "CLANNAD〜AFTER STORY〜 クラナド アフターストーリー"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "fall",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4181-zUKE7BZC62OF.png"
+  ],
+  "references": {
+    "al": {
+      "id": "4181",
+      "url": "https://anilist.co/anime/4181"
+    },
+    "ap": {
+      "id": "B01MY6K92X",
+      "url": "https://www.amazon.com/gp/video/detail/B01MY6K92X"
+    },
+    "k": {
+      "id": "3505",
+      "url": "https://kitsu.io/anime/3505"
+    },
+    "mal": {
+      "id": "4181",
+      "url": "https://myanimelist.net/anime/4181"
+    },
+    "t": {
+      "id": "24724",
+      "url": "https://trakt.tv/shows/24724"
+    }
+  }
+}

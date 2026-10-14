@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11147,
+  "slug": "fumetsu-no-anata-e",
+  "kind": "anime",
+  "title": "Fumetsu no Anata e",
+  "titles": {
+    "default": "Fumetsu no Anata e",
+    "romaji": "Fumetsu no Anata e",
+    "english": "To Your Eternity",
+    "native": "不滅のあなたへ"
+  },
+  "synonyms": [
+    "Fumetsu no Anata e",
+    "To Your Eternity",
+    "不滅のあなたへ",
+    "To You, the Immortal",
+    "Uma vida imortal",
+    "致不灭的你",
+    "A te, l'immortale",
+    "Ku twej wieczności",
+    "불멸의 그대에게",
+    "Untukmu yang Abadi",
+    "Gửi em, người bất tử",
+    "แด่เธอผู้เป็นนิรันดร์"
+  ],
+  "type": "tv",
+  "episodes": 20,
+  "status": "finished",
+  "season": "spring",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114535-y3NnjexcqKG1.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "114535",
+      "url": "https://anilist.co/anime/114535"
+    },
+    "cr": {
+      "id": "to-your-eternity",
+      "url": "https://www.crunchyroll.com/series/to-your-eternity"
+    },
+    "mal": {
+      "id": "41025",
+      "url": "https://myanimelist.net/anime/41025"
+    },
+    "nf": {
+      "id": "81333467",
+      "url": "https://www.netflix.com/title/81333467"
+    },
+    "tx": {
+      "id": "nep_fumetsu",
+      "url": "https://twitter.com/EternityAnimeEN"
+    }
+  }
+}

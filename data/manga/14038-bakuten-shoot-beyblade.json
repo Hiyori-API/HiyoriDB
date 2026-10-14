@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14038,
+  "slug": "bakuten-shoot-beyblade",
+  "kind": "manga",
+  "title": "Bakuten Shoot Beyblade",
+  "titles": {
+    "default": "Bakuten Shoot Beyblade"
+  },
+  "synonyms": [
+    "Beyblade",
+    "爆転シュート ベイブレード",
+    "Paradise Kiss",
+    "パラダイス・キス",
+    "ParaKiss"
+  ],
+  "type": "manga",
+  "chapters": 62,
+  "volumes": 14,
+  "status": "finished",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30852-SlUySN9HmKBG.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "288",
+      "url": "https://anilist.co/anime/288"
+    },
+    "al_manga": {
+      "id": "288",
+      "url": "https://anilist.co/manga/288"
+    }
+  }
+}

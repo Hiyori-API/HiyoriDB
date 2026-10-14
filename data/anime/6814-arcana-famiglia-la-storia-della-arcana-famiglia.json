@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6814,
+  "slug": "arcana-famiglia-la-storia-della-arcana-famiglia",
+  "kind": "anime",
+  "title": "Arcana Famiglia: La storia della Arcana Famiglia",
+  "titles": {
+    "default": "Arcana Famiglia: La storia della Arcana Famiglia",
+    "romaji": "Arcana Famiglia: La storia della Arcana Famiglia",
+    "english": "La Storia Della Arcana Famiglia",
+    "native": "アルカナ・ファミリア －La storia della Arcana Famiglia－"
+  },
+  "synonyms": [
+    "Arcana Famiglia: La storia della Arcana Famiglia",
+    "La Storia Della Arcana Famiglia",
+    "アルカナ・ファミリア －La storia della Arcana Famiglia－",
+    "La storia della Arcana Famiglia",
+    "Arcana Famiglia",
+    "Arcana Famiglia: La Storia Della Arcana Famiglia"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12967-mO3zrHfsSocQ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12967",
+      "url": "https://anilist.co/anime/12967"
+    },
+    "cr": {
+      "id": "la-storia-della-arcana-famiglia",
+      "url": "https://www.crunchyroll.com/series/la-storia-della-arcana-famiglia"
+    },
+    "k": {
+      "id": "6859",
+      "url": "https://kitsu.io/anime/6859"
+    },
+    "mal": {
+      "id": "12967",
+      "url": "https://myanimelist.net/anime/12967"
+    },
+    "t": {
+      "id": "45027",
+      "url": "https://trakt.tv/shows/45027"
+    }
+  }
+}

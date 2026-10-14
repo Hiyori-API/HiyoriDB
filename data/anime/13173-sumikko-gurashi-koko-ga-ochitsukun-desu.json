@@ -1,0 +1,61 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13173,
+  "slug": "sumikko-gurashi-koko-ga-ochitsukun-desu",
+  "kind": "anime",
+  "title": "Sumikko Gurashi: Koko ga Ochitsukun Desu",
+  "titles": {
+    "default": "Sumikko Gurashi: Koko ga Ochitsukun Desu",
+    "romaji": "Sumikko Gurashi: Koko ga Ochitsukun Desu",
+    "native": "すみっコぐらし ここがおちつくんです"
+  },
+  "synonyms": [
+    "Sumikko Gurashi: Koko ga Ochitsukun Desu",
+    "すみっコぐらし ここがおちつくんです",
+    "Cowboy Bebop",
+    "カウボーイビバップ",
+    "COWBOY BEBOP"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188884-pmEMLEcpTovv.png"
+  ],
+  "references": {
+    "al": {
+      "id": "188884",
+      "url": "https://anilist.co/anime/188884"
+    },
+    "ap": {
+      "id": "B06VW8K7ZJ",
+      "url": "https://www.amazon.com/gp/video/detail/B06VW8K7ZJ"
+    },
+    "cr": {
+      "id": "cowboy-bebop",
+      "url": "https://www.crunchyroll.com/series/cowboy-bebop"
+    },
+    "k": {
+      "id": "1",
+      "url": "https://kitsu.io/anime/1"
+    },
+    "mal": {
+      "id": "61300",
+      "url": "https://myanimelist.net/anime/61300"
+    },
+    "t": {
+      "id": "30857",
+      "url": "https://trakt.tv/shows/30857"
+    },
+    "ttv": {
+      "id": "2052",
+      "url": "https://tubitv.com/series/2052"
+    },
+    "yt": {
+      "id": "8Xjo2jcwbJg",
+      "url": "https://www.youtube.com/watch?v=8Xjo2jcwbJg"
+    }
+  }
+}

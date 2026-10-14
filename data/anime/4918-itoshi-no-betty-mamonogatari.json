@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4918,
+  "slug": "itoshi-no-betty-mamonogatari",
+  "kind": "anime",
+  "title": "Itoshi no Betty Mamonogatari",
+  "titles": {
+    "default": "Itoshi no Betty Mamonogatari",
+    "romaji": "Itoshi no Betty Mamonogatari",
+    "native": "愛しのベティ 魔物語"
+  },
+  "synonyms": [
+    "Itoshi no Betty Mamonogatari",
+    "愛しのベティ 魔物語"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9496.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9496",
+      "url": "https://anilist.co/anime/9496"
+    },
+    "k": {
+      "id": "5754",
+      "url": "https://kitsu.io/anime/5754"
+    },
+    "mal": {
+      "id": "9496",
+      "url": "https://myanimelist.net/anime/9496"
+    }
+  }
+}

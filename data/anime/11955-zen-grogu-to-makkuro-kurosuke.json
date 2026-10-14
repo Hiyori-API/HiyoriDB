@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11955,
+  "slug": "zen-grogu-to-makkuro-kurosuke",
+  "kind": "anime",
+  "title": "Zen: Grogu to Makkuro-Kurosuke",
+  "titles": {
+    "default": "Zen: Grogu to Makkuro-Kurosuke",
+    "romaji": "Zen: Grogu to Makkuro-Kurosuke",
+    "english": "-Zen- Grogu and Dust Bunnies",
+    "native": "禅 グローグーとマックロクロスケ"
+  },
+  "synonyms": [
+    "Zen: Grogu to Makkuro-Kurosuke",
+    "-Zen- Grogu and Dust Bunnies",
+    "禅 グローグーとマックロクロスケ",
+    "Star Wars x Studio Ghibli",
+    "LucasFilm x Studio Ghibli",
+    "-Zen- Grogu y las criaturas del estudio Ghibli",
+    "Zen – Grogu i koty z kurzu",
+    "Catblue Dynamite",
+    "Catblue: Dynamite",
+    "キャットブルー：ダイナマイト"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx157062-l7DO5kLKw6Vm.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "157062",
+      "url": "https://anilist.co/anime/157062"
+    },
+    "k": {
+      "id": "1645",
+      "url": "https://kitsu.io/anime/1645"
+    },
+    "mal": {
+      "id": "53599",
+      "url": "https://myanimelist.net/anime/53599"
+    }
+  }
+}

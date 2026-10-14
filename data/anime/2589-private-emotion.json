@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2589,
+  "slug": "private-emotion",
+  "kind": "anime",
+  "title": "Private Emotion",
+  "titles": {
+    "default": "Private Emotion",
+    "romaji": "Private Emotion",
+    "native": "プライベートエモーション"
+  },
+  "synonyms": [
+    "Private Emotion",
+    "プライベートエモーション",
+    "Dirty Thoughts",
+    "Eiken",
+    "Eiken: Eikenbu yori Ai wo Komete",
+    "エイケン エイケンヴより愛をこめて"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2936.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2936",
+      "url": "https://anilist.co/anime/2936"
+    },
+    "k": {
+      "id": "703",
+      "url": "https://kitsu.io/anime/703"
+    },
+    "mal": {
+      "id": "2936",
+      "url": "https://myanimelist.net/anime/2936"
+    }
+  }
+}

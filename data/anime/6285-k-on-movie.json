@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6285,
+  "slug": "k-on-movie",
+  "kind": "anime",
+  "title": "K-ON! Movie",
+  "titles": {
+    "default": "K-ON! Movie",
+    "romaji": "K-ON! Movie",
+    "english": "K-ON!: The Movie",
+    "native": "映画けいおん！"
+  },
+  "synonyms": [
+    "K-ON! Movie",
+    "K-ON!: The Movie",
+    "映画けいおん！",
+    "Eiga K-On!",
+    "Keion Movie",
+    "K on Movie",
+    "Film K-On!",
+    "K-ON! The Movie",
+    "K-On! Movie",
+    "映画 けいおん！"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9617-Z2RA1TIkcNEg.png"
+  ],
+  "references": {
+    "al": {
+      "id": "9617",
+      "url": "https://anilist.co/anime/9617"
+    },
+    "k": {
+      "id": "5810",
+      "url": "https://kitsu.io/anime/5810"
+    },
+    "mal": {
+      "id": "9617",
+      "url": "https://myanimelist.net/anime/9617"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15511,
+  "slug": "fight-ippatsu-juuden-chan",
+  "kind": "manga",
+  "title": "Fight Ippatsu! Juuden-chan!!",
+  "titles": {
+    "default": "Fight Ippatsu! Juuden-chan!!"
+  },
+  "synonyms": [
+    "Fight Ippatsu Juuden-Chan",
+    "Fight Ippatsu! Juuden-Chan!!",
+    "ファイト一発！充電ちゃん！！",
+    "Love Makes People Grow",
+    "Hito wa Ai wo Tabete Sodatsu",
+    "人は愛を食べて育つ",
+    "Eat Love and Grow",
+    "Hito wa ai o tabete sodatsu"
+  ],
+  "type": "manga",
+  "chapters": 74,
+  "volumes": 10,
+  "status": "finished",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10672.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5973",
+      "url": "https://anilist.co/anime/5973"
+    },
+    "al_manga": {
+      "id": "5973",
+      "url": "https://anilist.co/manga/5973"
+    }
+  }
+}

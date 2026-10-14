@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4589,
+  "slug": "suzumiya-haruhi-no-shoushitsu",
+  "kind": "anime",
+  "title": "Suzumiya Haruhi no Shoushitsu",
+  "titles": {
+    "default": "Suzumiya Haruhi no Shoushitsu",
+    "romaji": "Suzumiya Haruhi no Shoushitsu",
+    "english": "The Disappearance of Haruhi Suzumiya",
+    "native": "涼宮ハルヒの消失"
+  },
+  "synonyms": [
+    "Suzumiya Haruhi no Shoushitsu",
+    "The Disappearance of Haruhi Suzumiya",
+    "涼宮ハルヒの消失",
+    "스즈미야 하루히의 소실",
+    "La Disparition de Haruhi Suzumiya",
+    "La Scomparsa di Haruhi Suzumiya",
+    "Исчезновение Харухи Судзумии",
+    "The Vanishment of Haruhi Suzumiya",
+    "Suzumiya Haruhi no Syoshitsu",
+    "Haruhi Movie"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx7311-9Mfc1YRHwCCW.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7311",
+      "url": "https://anilist.co/anime/7311"
+    },
+    "cr": {
+      "id": "the-disappearance-of-haruhi-suzumiya",
+      "url": "https://www.crunchyroll.com/series/the-disappearance-of-haruhi-suzumiya"
+    },
+    "k": {
+      "id": "4938",
+      "url": "https://kitsu.io/anime/4938"
+    },
+    "mal": {
+      "id": "7311",
+      "url": "https://myanimelist.net/anime/7311"
+    }
+  }
+}

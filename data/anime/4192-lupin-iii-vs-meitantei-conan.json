@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4192,
+  "slug": "lupin-iii-vs-meitantei-conan",
+  "kind": "anime",
+  "title": "Lupin III vs Meitantei Conan",
+  "titles": {
+    "default": "Lupin III vs Meitantei Conan",
+    "romaji": "Lupin III vs Meitantei Conan",
+    "english": "Lupin the 3rd Vs Detective Conan",
+    "native": "ルパン三世 vs 名探偵コナン"
+  },
+  "synonyms": [
+    "Lupin III vs Meitantei Conan",
+    "Lupin the 3rd Vs Detective Conan",
+    "ルパン三世 vs 名探偵コナン",
+    "Lupin III vs. Detective Conan",
+    "Lupin Sansei vs Meitantei Conan",
+    "Lupin III contra Detective Conan: La Película",
+    "Lupin III vs. Meitantei Conan"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6115.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6115",
+      "url": "https://anilist.co/anime/6115"
+    },
+    "k": {
+      "id": "4431",
+      "url": "https://kitsu.io/anime/4431"
+    },
+    "mal": {
+      "id": "6115",
+      "url": "https://myanimelist.net/anime/6115"
+    }
+  }
+}

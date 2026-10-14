@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7296,
+  "slug": "yonhyakunijuu-renpai-girl",
+  "kind": "anime",
+  "title": "Yonhyakunijuu Renpai Girl",
+  "titles": {
+    "default": "Yonhyakunijuu Renpai Girl",
+    "romaji": "Yonhyakunijuu Renpai Girl",
+    "native": "四百二十連敗ガール"
+  },
+  "synonyms": [
+    "Yonhyakunijuu Renpai Girl",
+    "四百二十連敗ガール",
+    "420 Renpai Girl",
+    "If I don't successfully pick up 420 girls",
+    "If I don't successfully pick up 420 girls, I am going to die in a lot of different ways."
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17871.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "17871",
+      "url": "https://anilist.co/anime/17871"
+    },
+    "k": {
+      "id": "7825",
+      "url": "https://kitsu.io/anime/7825"
+    },
+    "mal": {
+      "id": "17871",
+      "url": "https://myanimelist.net/anime/17871"
+    }
+  }
+}

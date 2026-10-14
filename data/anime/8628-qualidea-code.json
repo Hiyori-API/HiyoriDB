@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8628,
+  "slug": "qualidea-code",
+  "kind": "anime",
+  "title": "Qualidea Code",
+  "titles": {
+    "default": "Qualidea Code",
+    "romaji": "Qualidea Code",
+    "native": "クオリディア・コード"
+  },
+  "synonyms": [
+    "Qualidea Code",
+    "クオリディア・コード",
+    "Handa-kun",
+    "はんだくん"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21557-Z5r4cvbl9R6R.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21557",
+      "url": "https://anilist.co/anime/21557"
+    },
+    "cr": {
+      "id": "qualidea-code",
+      "url": "https://www.crunchyroll.com/series/qualidea-code"
+    },
+    "mal": {
+      "id": "32360",
+      "url": "https://myanimelist.net/anime/32360"
+    },
+    "tx": {
+      "id": "QUALIDEACODE",
+      "url": "https://twitter.com/QUALIDEACODE"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13725,
+  "slug": "full-moon-wo-sagashite",
+  "kind": "manga",
+  "title": "Full Moon wo Sagashite",
+  "titles": {
+    "default": "Full Moon wo Sagashite"
+  },
+  "synonyms": [
+    "Searching for the Full Moon",
+    "Ginyuu Meika",
+    "FullMoon: En busca de la luna llena",
+    "Full Moon - Canto d'amore",
+    "Full Moon : À la Recherche de la Pleine Lune",
+    "Full Moon",
+    "満月をさがして",
+    "Full Moon wo Sagashite",
+    "満月〈フルムーン〉をさがして"
+  ],
+  "type": "manga",
+  "chapters": 42,
+  "volumes": 7,
+  "status": "finished",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30008-gETc2OY1tby1.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1996",
+      "url": "https://anilist.co/anime/122"
+    },
+    "al_manga": {
+      "id": "1996",
+      "url": "https://anilist.co/manga/1996"
+    }
+  }
+}

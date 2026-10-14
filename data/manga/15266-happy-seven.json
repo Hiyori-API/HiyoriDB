@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15266,
+  "slug": "happy-seven",
+  "kind": "manga",
+  "title": "Happy Seven",
+  "titles": {
+    "default": "Happy Seven"
+  },
+  "synonyms": [
+    "はっぴぃセブン",
+    "Happy Seven",
+    "Happy 7"
+  ],
+  "type": "novel",
+  "volumes": 6,
+  "status": "finished",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b47948-AYyPGKW0Ttfn.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1193",
+      "url": "https://anilist.co/anime/1193"
+    },
+    "al_manga": {
+      "id": "1193",
+      "url": "https://anilist.co/manga/1193"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 594,
+  "slug": "haunted-junction",
+  "kind": "anime",
+  "title": "HAUNTED Junction",
+  "titles": {
+    "default": "HAUNTED Junction",
+    "romaji": "HAUNTED Junction",
+    "native": "HAUNTED じゃんくしょん"
+  },
+  "synonyms": [
+    "HAUNTED Junction",
+    "HAUNTED じゃんくしょん",
+    "Haunted Junction"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx646-szQ0blrVms6A.png"
+  ],
+  "references": {
+    "al": {
+      "id": "646",
+      "url": "https://anilist.co/anime/646"
+    },
+    "k": {
+      "id": "594",
+      "url": "https://kitsu.io/anime/594"
+    },
+    "mal": {
+      "id": "646",
+      "url": "https://myanimelist.net/anime/646"
+    },
+    "t": {
+      "id": "33978",
+      "url": "https://trakt.tv/shows/33978"
+    }
+  }
+}

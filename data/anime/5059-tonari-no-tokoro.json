@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5059,
+  "slug": "tonari-no-tokoro",
+  "kind": "anime",
+  "title": "Tonari no Tokoro",
+  "titles": {
+    "default": "Tonari no Tokoro",
+    "romaji": "Tonari no Tokoro",
+    "native": "となりのトコロ"
+  },
+  "synonyms": [
+    "Tonari no Tokoro",
+    "となりのトコロ"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9825.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9825",
+      "url": "https://anilist.co/anime/9825"
+    },
+    "k": {
+      "id": "5891",
+      "url": "https://kitsu.io/anime/5891"
+    },
+    "mal": {
+      "id": "9825",
+      "url": "https://myanimelist.net/anime/9825"
+    }
+  }
+}

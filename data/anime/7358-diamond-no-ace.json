@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7358,
+  "slug": "diamond-no-ace",
+  "kind": "anime",
+  "title": "Diamond no Ace",
+  "titles": {
+    "default": "Diamond no Ace",
+    "romaji": "Diamond no Ace",
+    "english": "Ace of the Diamond",
+    "native": "ダイヤのA"
+  },
+  "synonyms": [
+    "Diamond no Ace",
+    "Ace of the Diamond",
+    "ダイヤのA",
+    "Daiya no Ace",
+    "Ace of Diamond",
+    "Daiya no A",
+    "Dia no A",
+    "ダイヤのA[エース]"
+  ],
+  "type": "tv",
+  "episodes": 75,
+  "status": "finished",
+  "season": "fall",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18689-LRIiRcgTJS1f.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "18689",
+      "url": "https://anilist.co/anime/18689"
+    },
+    "cr": {
+      "id": "ace-of-the-diamond",
+      "url": "https://www.crunchyroll.com/series/ace-of-the-diamond"
+    },
+    "mal": {
+      "id": "18689",
+      "url": "https://myanimelist.net/anime/18689"
+    },
+    "tvt": {
+      "id": "diaace",
+      "url": "http://www.tv-tokyo.co.jp/anime/diaace"
+    }
+  }
+}

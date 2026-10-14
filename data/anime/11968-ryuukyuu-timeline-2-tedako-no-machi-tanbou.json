@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11968,
+  "slug": "ryuukyuu-timeline-2-tedako-no-machi-tanbou",
+  "kind": "anime",
+  "title": "Ryuukyuu Timeline 2: Tedako no Machi Tanbou",
+  "titles": {
+    "default": "Ryuukyuu Timeline 2: Tedako no Machi Tanbou",
+    "romaji": "Ryuukyuu Timeline 2: Tedako no Machi Tanbou",
+    "native": "琉球タイムライン2 -てだこのまち探訪-"
+  },
+  "synonyms": [
+    "Ryuukyuu Timeline 2: Tedako no Machi Tanbou",
+    "琉球タイムライン2 -てだこのまち探訪-",
+    "ミルキー☆ハイウェイ",
+    "Milky☆Highway"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b162745-Xp84Z2CIOnuc.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "162745",
+      "url": "https://anilist.co/anime/162745"
+    },
+    "mal": {
+      "id": "53861",
+      "url": "https://myanimelist.net/anime/53861"
+    },
+    "yt": {
+      "id": "6H-KORaVGn4",
+      "url": "https://www.youtube.com/watch?v=6H-KORaVGn4"
+    }
+  }
+}

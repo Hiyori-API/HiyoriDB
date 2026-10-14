@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 823,
+  "slug": "ray-the-animation",
+  "kind": "anime",
+  "title": "RAY THE ANIMATION",
+  "titles": {
+    "default": "RAY THE ANIMATION",
+    "romaji": "RAY THE ANIMATION",
+    "english": "Ray"
+  },
+  "synonyms": [
+    "RAY THE ANIMATION",
+    "Ray",
+    "Ray Project",
+    "Ray The Animation",
+    "Ray: The Animation"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx919-5xFFHNsIkDsa.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "919",
+      "url": "https://anilist.co/anime/919"
+    },
+    "k": {
+      "id": "819",
+      "url": "https://kitsu.io/anime/819"
+    },
+    "mal": {
+      "id": "919",
+      "url": "https://myanimelist.net/anime/919"
+    },
+    "t": {
+      "id": "8759",
+      "url": "https://trakt.tv/shows/8759"
+    }
+  }
+}

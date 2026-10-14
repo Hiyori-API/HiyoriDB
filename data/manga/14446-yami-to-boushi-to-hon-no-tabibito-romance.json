@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14446,
+  "slug": "yami-to-boushi-to-hon-no-tabibito-romance",
+  "kind": "manga",
+  "title": "Yami to Boushi to Hon no Tabibito: Romance",
+  "titles": {
+    "default": "Yami to Boushi to Hon no Tabibito: Romance"
+  },
+  "synonyms": [
+    "Yamibou",
+    "ヤミと帽子と本の旅人～ロマンス～",
+    "xxxHOLiC",
+    "xxxHolic Rou",
+    "xxxHolic Cage",
+    "xxxHolic•Rou"
+  ],
+  "type": "manga",
+  "chapters": 5,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3740.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "497",
+      "url": "https://anilist.co/anime/497"
+    },
+    "al_manga": {
+      "id": "497",
+      "url": "https://anilist.co/manga/497"
+    }
+  }
+}

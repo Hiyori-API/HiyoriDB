@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12106,
+  "slug": "uma-musume-pretty-derby-road-to-the-top",
+  "kind": "anime",
+  "title": "Uma Musume: Pretty Derby - ROAD TO THE TOP",
+  "titles": {
+    "default": "Uma Musume: Pretty Derby - ROAD TO THE TOP",
+    "romaji": "Uma Musume: Pretty Derby - ROAD TO THE TOP",
+    "english": "Umamusume: Pretty Derby - Road to the Top",
+    "native": "ウマ娘 プリティーダービー ROAD TO THE TOP"
+  },
+  "synonyms": [
+    "Uma Musume: Pretty Derby - ROAD TO THE TOP",
+    "Umamusume: Pretty Derby - Road to the Top",
+    "ウマ娘 プリティーダービー ROAD TO THE TOP",
+    "ウマ娘ロードトゥーザトップ",
+    "Uma Musume: Pretty Derby RTTT",
+    "Ajimu: Kaigan Monogatari",
+    "あじむ ～海岸物語～",
+    "Ajimu: Beach Story"
+  ],
+  "type": "ona",
+  "episodes": 4,
+  "status": "finished",
+  "season": "spring",
+  "year": 2023,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx148370-db0LjJfaOCg9.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "148370",
+      "url": "https://anilist.co/anime/148370"
+    },
+    "k": {
+      "id": "1554",
+      "url": "https://kitsu.io/anime/1554"
+    },
+    "mal": {
+      "id": "51761",
+      "url": "https://myanimelist.net/anime/51761"
+    },
+    "tx": {
+      "id": "uma_musu_anime",
+      "url": "https://twitter.com/uma_musu_anime"
+    }
+  }
+}

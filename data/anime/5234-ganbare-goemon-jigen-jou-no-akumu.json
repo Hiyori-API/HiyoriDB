@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5234,
+  "slug": "ganbare-goemon-jigen-jou-no-akumu",
+  "kind": "anime",
+  "title": "Ganbare Goemon: Jigen Jou no Akumu",
+  "titles": {
+    "default": "Ganbare Goemon: Jigen Jou no Akumu",
+    "romaji": "Ganbare Goemon: Jigen Jou no Akumu",
+    "native": "がんばれゴエモン 次元城の悪夢"
+  },
+  "synonyms": [
+    "Ganbare Goemon: Jigen Jou no Akumu",
+    "がんばれゴエモン 次元城の悪夢",
+    "The Fashion Boy is Cool",
+    "Oshare Kozou wa Hanamaru",
+    "お洒落小僧は花マルッ"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8862.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8862",
+      "url": "https://anilist.co/anime/8862"
+    },
+    "k": {
+      "id": "1890",
+      "url": "https://kitsu.io/anime/1890"
+    },
+    "mal": {
+      "id": "8862",
+      "url": "https://myanimelist.net/anime/8862"
+    }
+  }
+}

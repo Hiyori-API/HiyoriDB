@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4804,
+  "slug": "cybot-robocchi",
+  "kind": "anime",
+  "title": "Cybot Robocchi",
+  "titles": {
+    "default": "Cybot Robocchi",
+    "romaji": "Cybot Robocchi",
+    "english": "Robby the Rascal",
+    "native": "サイボットロボッチ"
+  },
+  "synonyms": [
+    "Cybot Robocchi",
+    "Robby the Rascal",
+    "サイボットロボッチ",
+    "Saibotto Robocchi",
+    "Cybot Robotchi"
+  ],
+  "type": "tv",
+  "episodes": 39,
+  "status": "finished",
+  "season": "fall",
+  "year": 1982,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7956.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7956",
+      "url": "https://anilist.co/anime/7956"
+    },
+    "k": {
+      "id": "5162",
+      "url": "https://kitsu.io/anime/5162"
+    },
+    "mal": {
+      "id": "7956",
+      "url": "https://myanimelist.net/anime/7956"
+    },
+    "t": {
+      "id": "44824",
+      "url": "https://trakt.tv/shows/44824"
+    }
+  }
+}

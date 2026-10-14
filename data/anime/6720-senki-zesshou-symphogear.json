@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6720,
+  "slug": "senki-zesshou-symphogear",
+  "kind": "anime",
+  "title": "Senki Zesshou Symphogear",
+  "titles": {
+    "default": "Senki Zesshou Symphogear",
+    "romaji": "Senki Zesshou Symphogear",
+    "english": "Symphogear",
+    "native": "戦姫絶唱シンフォギア"
+  },
+  "synonyms": [
+    "Senki Zesshou Symphogear",
+    "Symphogear",
+    "戦姫絶唱シンフォギア",
+    "Senhime Zesshou Symphogear"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11751-CNf1IlrvzbEa.png"
+  ],
+  "references": {
+    "al": {
+      "id": "11751",
+      "url": "https://anilist.co/anime/11751"
+    },
+    "cr": {
+      "id": "symphogear",
+      "url": "https://www.crunchyroll.com/series/symphogear"
+    },
+    "k": {
+      "id": "6587",
+      "url": "https://kitsu.io/anime/6587"
+    },
+    "mal": {
+      "id": "11751",
+      "url": "https://myanimelist.net/anime/11751"
+    },
+    "t": {
+      "id": "65280",
+      "url": "https://trakt.tv/shows/65280"
+    },
+    "tx": {
+      "id": "SYMPHOGEAR",
+      "url": "https://twitter.com/SYMPHOGEAR"
+    }
+  }
+}

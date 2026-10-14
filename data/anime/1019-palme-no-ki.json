@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1019,
+  "slug": "palme-no-ki",
+  "kind": "anime",
+  "title": "Palme no Ki",
+  "titles": {
+    "default": "Palme no Ki",
+    "romaji": "Palme no Ki",
+    "english": "A Tree of Palme",
+    "native": "パルムの樹"
+  },
+  "synonyms": [
+    "Palme no Ki",
+    "A Tree of Palme",
+    "パルムの樹",
+    "Arbre de Palmem",
+    "Case Closed: The Phantom of Baker Street",
+    "Detective Conan Movie 06: The Phantom of Baker Street",
+    "名探偵コナン　ベイカー街(ストリート)の亡霊",
+    "Meitantei Conan: Baker Street no Bourei"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1141-vhjeoRdDlJG1.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1141",
+      "url": "https://anilist.co/anime/1141"
+    },
+    "k": {
+      "id": "1219",
+      "url": "https://kitsu.io/anime/1219"
+    },
+    "mal": {
+      "id": "1141",
+      "url": "https://myanimelist.net/anime/1141"
+    }
+  }
+}

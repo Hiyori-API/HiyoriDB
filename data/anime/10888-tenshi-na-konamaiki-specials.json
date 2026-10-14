@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10888,
+  "slug": "tenshi-na-konamaiki-specials",
+  "kind": "anime",
+  "title": "Tenshi na Konamaiki Specials",
+  "titles": {
+    "default": "Tenshi na Konamaiki Specials",
+    "romaji": "Tenshi na Konamaiki Specials",
+    "english": "Cheeky Angel DVD Specials",
+    "native": "天使な小生意気DVDスペシャル"
+  },
+  "synonyms": [
+    "Tenshi na Konamaiki Specials",
+    "Cheeky Angel DVD Specials",
+    "天使な小生意気DVDスペシャル"
+  ],
+  "type": "special",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/14367.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "14367",
+      "url": "https://anilist.co/anime/14367"
+    },
+    "k": {
+      "id": "7119",
+      "url": "https://kitsu.io/anime/7119"
+    },
+    "mal": {
+      "id": "14367",
+      "url": "https://myanimelist.net/anime/14367"
+    }
+  }
+}

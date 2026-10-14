@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11967,
+  "slug": "uniteup-mini-drama",
+  "kind": "anime",
+  "title": "UniteUp! Mini Drama",
+  "titles": {
+    "default": "UniteUp! Mini Drama",
+    "romaji": "UniteUp! Mini Drama",
+    "native": "「UniteUp!」ミニドラマ"
+  },
+  "synonyms": [
+    "UniteUp! Mini Drama",
+    "「UniteUp!」ミニドラマ",
+    "『ゆないとあっぷ！』",
+    "King of Fighters: Another Day",
+    "ザ・キング・オブ・ファイターズ アナザーデイ",
+    "KOF"
+  ],
+  "type": "ona",
+  "episodes": 4,
+  "status": "finished",
+  "season": "fall",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162726-MczRmK5Vnakp.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "162726",
+      "url": "https://anilist.co/anime/162726"
+    },
+    "k": {
+      "id": "732",
+      "url": "https://kitsu.io/anime/732"
+    },
+    "mal": {
+      "id": "825",
+      "url": "https://myanimelist.net/anime/825"
+    }
+  }
+}

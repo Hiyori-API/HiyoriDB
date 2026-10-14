@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9303,
+  "slug": "haikyuu-concept-no-tatakai",
+  "kind": "anime",
+  "title": "Haikyuu!!: Concept no Tatakai",
+  "titles": {
+    "default": "Haikyuu!!: Concept no Tatakai",
+    "romaji": "Haikyuu!!: Concept no Tatakai",
+    "english": "Haikyu!! The Movie: Battle of Concepts",
+    "native": "ハイキュー!! コンセプトの戦い"
+  },
+  "synonyms": [
+    "Haikyuu!!: Concept no Tatakai",
+    "Haikyu!! The Movie: Battle of Concepts",
+    "ハイキュー!! コンセプトの戦い",
+    "Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou Recap",
+    "Haikyuu!! Recap 4",
+    "排球少年剧场版 观念之战",
+    "ไฮคิว!! คู่ตบฟ้าประทาน เดอะมูฟวี่ 4",
+    "Genocidal Organ",
+    "Gyakusatsu Kikan",
+    "虐殺器官",
+    "Project Itoh"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98885-xzHYFUr0keBT.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98885",
+      "url": "https://anilist.co/anime/98885"
+    },
+    "cr": {
+      "id": "haikyu/-779529",
+      "url": "https://www.crunchyroll.com/series/haikyu/-779529"
+    },
+    "k": {
+      "id": "8737",
+      "url": "https://kitsu.io/anime/8737"
+    },
+    "mal": {
+      "id": "35111",
+      "url": "https://myanimelist.net/anime/35111"
+    },
+    "nf": {
+      "id": "81030152",
+      "url": "https://www.netflix.com/title/81030152"
+    }
+  }
+}

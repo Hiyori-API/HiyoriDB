@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14998,
+  "slug": "hoshikuzu-paradise",
+  "kind": "manga",
+  "title": "Hoshikuzu Paradise",
+  "titles": {
+    "default": "Hoshikuzu Paradise"
+  },
+  "synonyms": [
+    "Star Family",
+    "Stardust Paradise",
+    "星くずパラダイス",
+    "Shouryou Tsukai Elementalors",
+    "精霊使いエレメンタラー",
+    "Elementalors",
+    "Shouryou Tsukai Erementara",
+    "les Elémentalistes"
+  ],
+  "type": "manga",
+  "volumes": 11,
+  "status": "finished",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/7228.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4452",
+      "url": "https://anilist.co/anime/4452"
+    },
+    "al_manga": {
+      "id": "4452",
+      "url": "https://anilist.co/manga/4452"
+    }
+  }
+}

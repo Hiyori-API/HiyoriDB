@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7007,
+  "slug": "shining-hearts-shiawase-no-pan-specials",
+  "kind": "anime",
+  "title": "Shining Hearts: Shiawase no Pan Specials",
+  "titles": {
+    "default": "Shining Hearts: Shiawase no Pan Specials",
+    "romaji": "Shining Hearts: Shiawase no Pan Specials",
+    "native": "シャイニング・ハーツ 〜幸せのパン〜"
+  },
+  "synonyms": [
+    "Shining Hearts: Shiawase no Pan Specials",
+    "シャイニング・ハーツ 〜幸せのパン〜",
+    "Shining Hearts: Bread of Happiness Specials",
+    "シャイニング・ハーツ ～幸せのパン～ 「ル・クール業務日誌」"
+  ],
+  "type": "special",
+  "episodes": 6,
+  "status": "finished",
+  "season": "summer",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15505.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "15505",
+      "url": "https://anilist.co/anime/15505"
+    },
+    "k": {
+      "id": "7264",
+      "url": "https://kitsu.io/anime/7264"
+    },
+    "mal": {
+      "id": "15505",
+      "url": "https://myanimelist.net/anime/15505"
+    }
+  }
+}

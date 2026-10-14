@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9621,
+  "slug": "youkoso-sukebe-elf-no-mori-e",
+  "kind": "anime",
+  "title": "Youkoso! Sukebe Elf no Mori e",
+  "titles": {
+    "default": "Youkoso! Sukebe Elf no Mori e",
+    "romaji": "Youkoso! Sukebe Elf no Mori e",
+    "english": "Welcome to the SUKEBE ELF Forest",
+    "native": "ようこそ！ スケベエルフの森へ"
+  },
+  "synonyms": [
+    "Youkoso! Sukebe Elf no Mori e",
+    "Welcome to the SUKEBE ELF Forest",
+    "ようこそ！ スケベエルフの森へ",
+    "Welcome! to the forest of lewd elves",
+    "Welcome! To The Slutty Elf Village",
+    "Legend of the Crystals: Final Fantasy",
+    "Final Fantasy",
+    "ファイナルファンタジー"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "winter",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx100486-cktttsMQDvNp.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "100486",
+      "url": "https://anilist.co/anime/100486"
+    },
+    "k": {
+      "id": "390",
+      "url": "https://kitsu.io/anime/390"
+    },
+    "mal": {
+      "id": "36720",
+      "url": "https://myanimelist.net/anime/36720"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 122,
+  "slug": "kannazuki-no-miko",
+  "kind": "anime",
+  "title": "Kannazuki no Miko",
+  "titles": {
+    "default": "Kannazuki no Miko",
+    "romaji": "Kannazuki no Miko",
+    "english": "Destiny of the Shrine Maiden",
+    "native": "神無月の巫女"
+  },
+  "synonyms": [
+    "Kannazuki no Miko",
+    "Destiny of the Shrine Maiden",
+    "神無月の巫女",
+    "Kannaduki no Miko",
+    "Priestesses of the Godless Month",
+    "La sacerdotisa de Octubre",
+    "A Sacerdotisa de Outubro",
+    "Kapłanki przeklętych dni"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143-RcqeTmjW0Amu.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "143",
+      "url": "https://anilist.co/anime/143"
+    },
+    "k": {
+      "id": "121",
+      "url": "https://kitsu.io/anime/121"
+    },
+    "mal": {
+      "id": "143",
+      "url": "https://myanimelist.net/anime/143"
+    },
+    "t": {
+      "id": "46162",
+      "url": "https://trakt.tv/shows/46162"
+    }
+  }
+}

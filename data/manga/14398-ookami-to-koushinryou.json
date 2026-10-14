@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14398,
+  "slug": "ookami-to-koushinryou",
+  "kind": "manga",
+  "title": "Ookami to Koushinryou",
+  "titles": {
+    "default": "Ookami to Koushinryou"
+  },
+  "synonyms": [
+    "Okami to Koshinryo",
+    "Spice and Wolf",
+    "Волчица и пряности",
+    "狼與辛香料",
+    "Spice & Wolf",
+    "狼と香辛料",
+    "Kataomoi no Mukougawa",
+    "片想いの向こう側",
+    "Kataomoi no Mukou Gawa",
+    "Ano Kado o Magareba",
+    "Tenshi ga Kuretamono",
+    "Bitou na Koi",
+    "Kimi to Natsu no Aizu"
+  ],
+  "type": "manga",
+  "chapters": 108,
+  "volumes": 16,
+  "status": "finished",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33299-nUzvmDAp3fvA.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2966",
+      "url": "https://anilist.co/anime/2966"
+    },
+    "al_manga": {
+      "id": "2966",
+      "url": "https://anilist.co/manga/2966"
+    }
+  }
+}

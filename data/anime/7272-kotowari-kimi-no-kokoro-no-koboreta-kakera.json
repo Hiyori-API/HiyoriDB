@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7272,
+  "slug": "kotowari-kimi-no-kokoro-no-koboreta-kakera",
+  "kind": "anime",
+  "title": "Kotowari: Kimi no Kokoro no Koboreta Kakera",
+  "titles": {
+    "default": "Kotowari: Kimi no Kokoro no Koboreta Kakera",
+    "romaji": "Kotowari: Kimi no Kokoro no Koboreta Kakera",
+    "native": "理－コトワリ－ ~キミの心の零れた欠片~"
+  },
+  "synonyms": [
+    "Kotowari: Kimi no Kokoro no Koboreta Kakera",
+    "理－コトワリ－ ~キミの心の零れた欠片~",
+    "Hakuouki Reimeiroku Tokuten Disc",
+    "薄桜鬼　黎明録　特典ディスク　"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17541-p65zLeyxjTNQ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "17541",
+      "url": "https://anilist.co/anime/17541"
+    },
+    "k": {
+      "id": "8422",
+      "url": "https://kitsu.io/anime/8422"
+    },
+    "mal": {
+      "id": "17541",
+      "url": "https://myanimelist.net/anime/17541"
+    }
+  }
+}

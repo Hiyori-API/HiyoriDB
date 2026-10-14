@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6305,
+  "slug": "toriko-hime-hakudaku-mamire-no-reijou",
+  "kind": "anime",
+  "title": "Toriko Hime: Hakudaku Mamire no Reijou",
+  "titles": {
+    "default": "Toriko Hime: Hakudaku Mamire no Reijou",
+    "romaji": "Toriko Hime: Hakudaku Mamire no Reijou",
+    "native": "虜姫～白濁まみれの令嬢～"
+  },
+  "synonyms": [
+    "Toriko Hime: Hakudaku Mamire no Reijou",
+    "虜姫～白濁まみれの令嬢～",
+    "Baka & Test - Summon the Beasts OVA",
+    "Baka to Test to Shoukanjuu: Matsuri",
+    "バカとテストと召喚獣 ～祭～",
+    "Baka to Test to Shoukanjuu OVA",
+    "Baka to Test to Shokanju OVA",
+    "The Idiot",
+    "the Tests",
+    "and the Summoned Creatures OVA",
+    "Baka and Test: Summon the Beasts OVA"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9778.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9778",
+      "url": "https://anilist.co/anime/9778"
+    },
+    "k": {
+      "id": "5745",
+      "url": "https://kitsu.io/anime/5745"
+    },
+    "mal": {
+      "id": "9778",
+      "url": "https://myanimelist.net/anime/9778"
+    }
+  }
+}

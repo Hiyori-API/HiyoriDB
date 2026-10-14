@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11985,
+  "slug": "mygo-member-no-nichijou",
+  "kind": "anime",
+  "title": "MyGO!!!!! Member no Nichijou",
+  "titles": {
+    "default": "MyGO!!!!! Member no Nichijou",
+    "romaji": "MyGO!!!!! Member no Nichijou",
+    "native": "MyGO!!!!!メンバーの日常"
+  },
+  "synonyms": [
+    "MyGO!!!!! Member no Nichijou",
+    "MyGO!!!!!メンバーの日常",
+    "MyGO!!!!! Members' Daily Life"
+  ],
+  "type": "ona",
+  "episodes": 0,
+  "status": "airing",
+  "season": "summer",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx193414-FEAnoXeSVW5H.png"
+  ],
+  "references": {
+    "al": {
+      "id": "193414",
+      "url": "https://anilist.co/anime/193414"
+    },
+    "mal": {
+      "id": "56903",
+      "url": "https://myanimelist.net/anime/56903"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 901,
+  "slug": "ranma-1-2-chou-musabetsu-kessen-ranma-team-vs-densetsu-no-houou",
+  "kind": "anime",
+  "title": "Ranma 1/2: Chou Musabetsu Kessen! Ranma Team VS Densetsu no Houou",
+  "titles": {
+    "default": "Ranma 1/2: Chou Musabetsu Kessen! Ranma Team VS Densetsu no Houou",
+    "romaji": "Ranma 1/2: Chou Musabetsu Kessen! Ranma Team VS Densetsu no Houou",
+    "english": "Ranma ½: One Flew Over the Kuno's Nest",
+    "native": "らんま1/2 超無差別決戦! 乱馬チームVS伝説の鳳凰"
+  },
+  "synonyms": [
+    "Ranma 1/2: Chou Musabetsu Kessen! Ranma Team VS Densetsu no Houou",
+    "Ranma ½: One Flew Over the Kuno's Nest",
+    "らんま1/2 超無差別決戦! 乱馬チームVS伝説の鳳凰",
+    "Ranma 1/2 : Movie 3",
+    "Ranma 1/2: Decisive Batte! Team Ranma vs. The Legendary Phoenix",
+    "Ranma contro la leggendaria fenice",
+    "Ranma ½: Team Ranma vs. The Legendary Phoenix",
+    "Ranma ½: Chou Musabetsu Kessen! Ranma Team vs. Densetsu no Houou",
+    "らんま１／２ 超無差別決戦！ 乱馬チームVS伝説の鳳凰",
+    "Ranma 1/2: Movie 3"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1010-lnoMM9Yc9osK.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1010",
+      "url": "https://anilist.co/anime/1010"
+    },
+    "k": {
+      "id": "900",
+      "url": "https://kitsu.io/anime/900"
+    },
+    "mal": {
+      "id": "1010",
+      "url": "https://myanimelist.net/anime/1010"
+    }
+  }
+}

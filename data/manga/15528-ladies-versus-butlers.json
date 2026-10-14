@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15528,
+  "slug": "ladies-versus-butlers",
+  "kind": "manga",
+  "title": "Ladies versus Butlers!",
+  "titles": {
+    "default": "Ladies versus Butlers!"
+  },
+  "synonyms": [
+    "Ladies Vs Butlers!",
+    "Redei x Bato!",
+    "れでぃ×ばと",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "chapters": 10,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx47417-akHHgOg8p5fU.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7148",
+      "url": "https://anilist.co/anime/7148"
+    },
+    "al_manga": {
+      "id": "7148",
+      "url": "https://anilist.co/manga/7148"
+    }
+  }
+}

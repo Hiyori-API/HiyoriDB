@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14518,
+  "slug": "anime-tenchou",
+  "kind": "manga",
+  "title": "Anime Tenchou",
+  "titles": {
+    "default": "Anime Tenchou"
+  },
+  "synonyms": [
+    "Captain Animate",
+    "Anime Tencho",
+    "アニメ店長",
+    "Mushrambo",
+    "マシュランボー",
+    "Mashuranboo"
+  ],
+  "type": "manga",
+  "volumes": 6,
+  "status": "finished",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b34483-RlsuqjRTkB9l.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3080",
+      "url": "https://anilist.co/anime/3080"
+    },
+    "al_manga": {
+      "id": "3080",
+      "url": "https://anilist.co/manga/3080"
+    }
+  }
+}

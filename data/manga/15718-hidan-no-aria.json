@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15718,
+  "slug": "hidan-no-aria",
+  "kind": "manga",
+  "title": "Hidan no Aria",
+  "titles": {
+    "default": "Hidan no Aria"
+  },
+  "synonyms": [
+    "Aria the Scarlet Ammo",
+    "緋弾のアリア",
+    "Sekai no Kiki Hamekurumeku!",
+    "世界の危機はめくるめく!",
+    "Set off a world crisis!"
+  ],
+  "type": "novel",
+  "status": "publishing",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx42297-cLGo2Mk2rgvT.png"
+  ],
+  "references": {
+    "al": {
+      "id": "8630",
+      "url": "https://anilist.co/anime/10604"
+    },
+    "al_manga": {
+      "id": "8630",
+      "url": "https://anilist.co/manga/8630"
+    }
+  }
+}

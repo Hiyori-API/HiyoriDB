@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4325,
+  "slug": "sugar-bunnies-fleur",
+  "kind": "anime",
+  "title": "Sugar Bunnies Fleur",
+  "titles": {
+    "default": "Sugar Bunnies Fleur",
+    "romaji": "Sugar Bunnies Fleur",
+    "native": "シュガーバニーズ フルール"
+  },
+  "synonyms": [
+    "Sugar Bunnies Fleur",
+    "シュガーバニーズ フルール",
+    "Sugar Bunnies 3",
+    "Sugarbunnies"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6481.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6481",
+      "url": "https://anilist.co/anime/6481"
+    },
+    "k": {
+      "id": "4576",
+      "url": "https://kitsu.io/anime/4576"
+    },
+    "mal": {
+      "id": "6481",
+      "url": "https://myanimelist.net/anime/6481"
+    }
+  }
+}

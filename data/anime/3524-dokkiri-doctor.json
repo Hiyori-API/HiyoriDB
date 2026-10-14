@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3524,
+  "slug": "dokkiri-doctor",
+  "kind": "anime",
+  "title": "Dokkiri Doctor",
+  "titles": {
+    "default": "Dokkiri Doctor",
+    "romaji": "Dokkiri Doctor",
+    "english": "Startling Doctor",
+    "native": "どっきりドクター"
+  },
+  "synonyms": [
+    "Dokkiri Doctor",
+    "Startling Doctor",
+    "どっきりドクター",
+    "Dr. Dokkiri"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4554-flGGF75U98cH.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4554",
+      "url": "https://anilist.co/anime/4554"
+    },
+    "k": {
+      "id": "3680",
+      "url": "https://kitsu.io/anime/3680"
+    },
+    "mal": {
+      "id": "4554",
+      "url": "https://myanimelist.net/anime/4554"
+    }
+  }
+}

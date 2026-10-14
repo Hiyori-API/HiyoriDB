@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13862,
+  "slug": "gto",
+  "kind": "manga",
+  "title": "GTO",
+  "titles": {
+    "default": "GTO"
+  },
+  "synonyms": [
+    "ジーティーオー",
+    "GTO: Tomoko's Big Adventures",
+    "Great Teacher Onizuka",
+    "グレート・ティーチャー・オニヅカ",
+    "GTO คุณครูพันธ์หายาก",
+    "GTO: Great Teacher Onizuka",
+    "GTO"
+  ],
+  "type": "manga",
+  "chapters": 208,
+  "volumes": 25,
+  "status": "finished",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30336-KWTPMwsNTeSa.png"
+  ],
+  "references": {
+    "al": {
+      "id": "245",
+      "url": "https://anilist.co/anime/245"
+    },
+    "al_manga": {
+      "id": "245",
+      "url": "https://anilist.co/manga/245"
+    }
+  }
+}

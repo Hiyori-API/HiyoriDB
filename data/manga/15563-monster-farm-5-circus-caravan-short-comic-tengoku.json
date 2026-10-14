@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15563,
+  "slug": "monster-farm-5-circus-caravan-short-comic-tengoku",
+  "kind": "manga",
+  "title": "Monster Farm 5: Circus Caravan Short Comic - Tengoku",
+  "titles": {
+    "default": "Monster Farm 5: Circus Caravan Short Comic - Tengoku"
+  },
+  "synonyms": [
+    "Monster Rancher 5: Circus Caravan",
+    "モンスターファーム5サーカスキャラバンショートコミック天国",
+    "The Pain in My Heart",
+    "Boku no Mune ga Itakutemo - Glass",
+    "ぼくの胸が痛くても GLASS"
+  ],
+  "type": "manga",
+  "volumes": 1,
+  "status": "finished",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b94406-4ec8oiujKzsb.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "15937",
+      "url": "https://anilist.co/anime/15937"
+    },
+    "al_manga": {
+      "id": "15937",
+      "url": "https://anilist.co/manga/15937"
+    }
+  }
+}

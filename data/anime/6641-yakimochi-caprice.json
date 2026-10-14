@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6641,
+  "slug": "yakimochi-caprice",
+  "kind": "anime",
+  "title": "Yakimochi Caprice",
+  "titles": {
+    "default": "Yakimochi Caprice",
+    "romaji": "Yakimochi Caprice",
+    "native": "やきもち狂想曲"
+  },
+  "synonyms": [
+    "Yakimochi Caprice",
+    "やきもち狂想曲",
+    "A Certain Magical Index II: Specials",
+    "Toaru Majutsu no Index-tan II",
+    "とある魔術のいんでっくすたん",
+    "Toaru Majutsu no Index-tan II Specials",
+    "A Certain Magical Index-tan II"
+  ],
+  "type": "special",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15533.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "15533",
+      "url": "https://anilist.co/anime/15533"
+    },
+    "k": {
+      "id": "6098",
+      "url": "https://kitsu.io/anime/6098"
+    },
+    "mal": {
+      "id": "15533",
+      "url": "https://myanimelist.net/anime/15533"
+    }
+  }
+}

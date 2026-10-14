@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14531,
+  "slug": "eden-s-bowy",
+  "kind": "manga",
+  "title": "Eden's Bowy",
+  "titles": {
+    "default": "Eden's Bowy"
+  },
+  "synonyms": [
+    "Edens Bowy",
+    "Ëdens Bowy",
+    "Eden's Bowy",
+    "エデンズ ボゥイ",
+    "Dismember",
+    "Kaitai",
+    "解体"
+  ],
+  "type": "manga",
+  "chapters": 121,
+  "volumes": 20,
+  "status": "finished",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4610.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1189",
+      "url": "https://anilist.co/anime/1189"
+    },
+    "al_manga": {
+      "id": "1189",
+      "url": "https://anilist.co/manga/1189"
+    }
+  }
+}

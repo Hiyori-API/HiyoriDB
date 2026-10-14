@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14515,
+  "slug": "oooku",
+  "kind": "manga",
+  "title": "Oooku",
+  "titles": {
+    "default": "Oooku"
+  },
+  "synonyms": [
+    "Ohoku",
+    "O-oku",
+    "Le Pavillon des Hommes",
+    "Ooku",
+    "Ooku - Le stanze proibite",
+    "Ōoku: Los Aposentos Privados",
+    "오오쿠",
+    "Ôoku: The Inner Chambers",
+    "Ōoku: The Inner Chambers",
+    "大奥",
+    "Railroad",
+    "레일로드"
+  ],
+  "type": "manga",
+  "chapters": 79,
+  "volumes": 19,
+  "status": "finished",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx34423-ovDKLTkD94KF.png"
+  ],
+  "references": {
+    "al": {
+      "id": "163137",
+      "url": "https://anilist.co/anime/163137"
+    },
+    "al_manga": {
+      "id": "163137",
+      "url": "https://anilist.co/manga/163137"
+    }
+  }
+}

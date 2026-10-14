@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6710,
+  "slug": "high-school-dxd",
+  "kind": "anime",
+  "title": "High School DxD",
+  "titles": {
+    "default": "High School DxD",
+    "romaji": "High School DxD",
+    "native": "ハイスクールDxD"
+  },
+  "synonyms": [
+    "High School DxD",
+    "ハイスクールDxD",
+    "תיכון די אקס די",
+    "Highschool DxD",
+    "ハイスクールD×D"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx11617-nmxMU9Zh3H5R.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11617",
+      "url": "https://anilist.co/anime/11617"
+    },
+    "cr": {
+      "id": "high-school-dxd",
+      "url": "https://www.crunchyroll.com/series/high-school-dxd"
+    },
+    "k": {
+      "id": "6550",
+      "url": "https://kitsu.io/anime/6550"
+    },
+    "mal": {
+      "id": "11617",
+      "url": "https://myanimelist.net/anime/11617"
+    },
+    "nf": {
+      "id": "80005873",
+      "url": "https://www.netflix.com/title/80005873"
+    },
+    "t": {
+      "id": "65266",
+      "url": "https://trakt.tv/shows/65266"
+    }
+  }
+}

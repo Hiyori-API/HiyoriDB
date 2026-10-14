@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14086,
+  "slug": "darker-than-black-kuro-no-keiyakusha",
+  "kind": "manga",
+  "title": "DARKER THAN BLACK: Kuro no Keiyakusha",
+  "titles": {
+    "default": "DARKER THAN BLACK: Kuro no Keiyakusha"
+  },
+  "synonyms": [
+    "Kuro no Keiyakusha",
+    "Darker than Black",
+    "DARKER THAN BLACK -黒の契約者-",
+    "Gekiryuuchi",
+    "激流血～OVER BLEED～",
+    "Over Bleed"
+  ],
+  "type": "manga",
+  "chapters": 9,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31016-ifJ4ZS8RWd1o.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2025",
+      "url": "https://anilist.co/anime/2025"
+    },
+    "al_manga": {
+      "id": "2025",
+      "url": "https://anilist.co/manga/2025"
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8480,
+  "slug": "doukyuusei",
+  "kind": "anime",
+  "title": "Doukyuusei",
+  "titles": {
+    "default": "Doukyuusei",
+    "romaji": "Doukyuusei",
+    "english": "Doukyuusei -Classmates-",
+    "native": "同級生"
+  },
+  "synonyms": [
+    "Doukyuusei",
+    "Doukyuusei -Classmates-",
+    "同級生",
+    "Classmates",
+    "Kizumonogatari Part 1: Tekketsu",
+    "Kizumonogatari I: Tekketsu-hen",
+    "傷物語〈Ⅰ鉄血篇〉",
+    "Koyomi Vamp"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx21096-1wIOxpjtXb7J.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21096",
+      "url": "https://anilist.co/anime/21096"
+    },
+    "ap": {
+      "id": "B07MVM99SN",
+      "url": "https://www.amazon.com/gp/video/detail/B07MVM99SN"
+    },
+    "k": {
+      "id": "5649",
+      "url": "https://kitsu.io/anime/5649"
+    },
+    "mal": {
+      "id": "30346",
+      "url": "https://myanimelist.net/anime/30346"
+    },
+    "t": {
+      "id": "45938",
+      "url": "https://trakt.tv/shows/45938"
+    },
+    "tx": {
+      "id": "doukyusei_anime",
+      "url": "https://twitter.com/doukyusei_anime"
+    }
+  }
+}

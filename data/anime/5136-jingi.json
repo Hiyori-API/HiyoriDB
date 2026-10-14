@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5136,
+  "slug": "jingi",
+  "kind": "anime",
+  "title": "Jingi",
+  "titles": {
+    "default": "Jingi",
+    "romaji": "Jingi",
+    "native": "仁義"
+  },
+  "synonyms": [
+    "Jingi",
+    "仁義"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10741.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10741",
+      "url": "https://anilist.co/anime/10741"
+    },
+    "k": {
+      "id": "6328",
+      "url": "https://kitsu.io/anime/6328"
+    },
+    "mal": {
+      "id": "10741",
+      "url": "https://myanimelist.net/anime/10741"
+    }
+  }
+}

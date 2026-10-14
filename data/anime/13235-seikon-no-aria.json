@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13235,
+  "slug": "seikon-no-aria",
+  "kind": "anime",
+  "title": "Seikon no Aria",
+  "titles": {
+    "default": "Seikon no Aria",
+    "romaji": "Seikon no Aria",
+    "native": "聖痕のアリア"
+  },
+  "synonyms": [
+    "Seikon no Aria",
+    "聖痕のアリア",
+    "Stigma-ARIA",
+    "The Summer You Were There: The Eternity For You",
+    "The Eternity for You: \"The Summer You Were There\"",
+    "君に贈る永遠",
+    "Kimi ni Okuru Eien"
+  ],
+  "type": "ova",
+  "status": "airing",
+  "season": "fall",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196540-bgmJs8Kou7zD.png"
+  ],
+  "references": {
+    "al": {
+      "id": "196540",
+      "url": "https://anilist.co/anime/196540"
+    },
+    "mal": {
+      "id": "62314",
+      "url": "https://myanimelist.net/anime/62314"
+    }
+  }
+}

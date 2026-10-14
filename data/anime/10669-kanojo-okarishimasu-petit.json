@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10669,
+  "slug": "kanojo-okarishimasu-petit",
+  "kind": "anime",
+  "title": "Kanojo, Okarishimasu Petit",
+  "titles": {
+    "default": "Kanojo, Okarishimasu Petit",
+    "romaji": "Kanojo, Okarishimasu Petit",
+    "native": "彼女、お借りします ぷち"
+  },
+  "synonyms": [
+    "Kanojo, Okarishimasu Petit",
+    "彼女、お借りします ぷち",
+    "Rent-a-Girlfriend Chibi",
+    "Kanojo, Okarishimasu Mini Anime",
+    "TGCF",
+    "Tian Guan Ci Fu",
+    "Heaven Official's Blessing",
+    "天官賜福",
+    "Tian Guan Cifu"
+  ],
+  "type": "ona",
+  "episodes": 11,
+  "status": "finished",
+  "season": "summer",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b123901-SE2GQngZ22fy.png"
+  ],
+  "references": {
+    "al": {
+      "id": "123901",
+      "url": "https://anilist.co/anime/123901"
+    },
+    "mal": {
+      "id": "42867",
+      "url": "https://myanimelist.net/anime/42867"
+    },
+    "tx": {
+      "id": "kanokari_anime",
+      "url": "https://twitter.com/kanokari_anime"
+    }
+  }
+}

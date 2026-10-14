@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11999,
+  "slug": "amrita-no-kyouen",
+  "kind": "anime",
+  "title": "Amrita no Kyouen",
+  "titles": {
+    "default": "Amrita no Kyouen",
+    "romaji": "Amrita no Kyouen",
+    "english": "Feast of Amrita",
+    "native": "アムリタの饗宴"
+  },
+  "synonyms": [
+    "Amrita no Kyouen",
+    "Feast of Amrita",
+    "アムリタの饗宴",
+    "Appleseed (Movie)",
+    "アップルシード",
+    "Appleseed (2004)"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2023,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114606-QL8O50ivpnFy.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "114606",
+      "url": "https://anilist.co/anime/114606"
+    },
+    "k": {
+      "id": "35",
+      "url": "https://kitsu.io/anime/35"
+    },
+    "mal": {
+      "id": "41029",
+      "url": "https://myanimelist.net/anime/41029"
+    },
+    "tx": {
+      "id": "ara_mushi",
+      "url": "https://twitter.com/ara_mushi"
+    }
+  }
+}

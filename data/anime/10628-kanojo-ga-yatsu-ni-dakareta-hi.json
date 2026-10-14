@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10628,
+  "slug": "kanojo-ga-yatsu-ni-dakareta-hi",
+  "kind": "anime",
+  "title": "Kanojo ga Yatsu ni Dakareta hi",
+  "titles": {
+    "default": "Kanojo ga Yatsu ni Dakareta hi",
+    "romaji": "Kanojo ga Yatsu ni Dakareta hi",
+    "native": "彼女がヤツに抱かれたヒ"
+  },
+  "synonyms": [
+    "Kanojo ga Yatsu ni Dakareta hi",
+    "彼女がヤツに抱かれたヒ",
+    "The Day That Guy Embraced Her",
+    "Step Up Love Story",
+    "Futari Ecchi",
+    "ふたりエッチ",
+    "Futari H"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "summer",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119254-WwnChLQIewTC.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "119254",
+      "url": "https://anilist.co/anime/119254"
+    },
+    "k": {
+      "id": "349",
+      "url": "https://kitsu.io/anime/349"
+    },
+    "mal": {
+      "id": "42141",
+      "url": "https://myanimelist.net/anime/42141"
+    }
+  }
+}

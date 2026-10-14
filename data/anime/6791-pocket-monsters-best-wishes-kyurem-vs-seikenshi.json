@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6791,
+  "slug": "pocket-monsters-best-wishes-kyurem-vs-seikenshi",
+  "kind": "anime",
+  "title": "Pocket Monsters Best Wishes: Kyurem VS Seikenshi",
+  "titles": {
+    "default": "Pocket Monsters Best Wishes: Kyurem VS Seikenshi",
+    "romaji": "Pocket Monsters Best Wishes: Kyurem VS Seikenshi",
+    "english": "Pokémon the Movie: Kyurem VS. The Sword of Justice",
+    "native": "劇場版 ポケットモンスター ベストウイッシュ キュレムVS聖剣士"
+  },
+  "synonyms": [
+    "Pocket Monsters Best Wishes: Kyurem VS Seikenshi",
+    "Pokémon the Movie: Kyurem VS. The Sword of Justice",
+    "劇場版 ポケットモンスター ベストウイッシュ キュレムVS聖剣士",
+    "Gekijouban Pocket Monsters Best Wishes 2: Kyurem vs. Seikenshi",
+    "Pocket Monsters Best Wishes! 2 the Movie: Kyurem vs. Seikenshi",
+    "Pokemon Best Wishes!: Kyurem vs. the Sacred Swordsman Keldeo",
+    "Pokémon Filmen: Kyurem vs Rettferdighetens Sverd",
+    "Pokémon: Kyurem kontra Miecz Sprawiedliwości",
+    "Pokemon the Movie: Kyurem VS. The Sword of Justice",
+    "Pokemon Best Wishes! Season 2: Kyurem vs. Seikenshi",
+    "Pokemon Movie 15"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12671-q8KLIPmicj8R.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12671",
+      "url": "https://anilist.co/anime/12671"
+    },
+    "k": {
+      "id": "6786",
+      "url": "https://kitsu.io/anime/6786"
+    },
+    "mal": {
+      "id": "12671",
+      "url": "https://myanimelist.net/anime/12671"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7832,
+  "slug": "swing-out-sisters-2014",
+  "kind": "anime",
+  "title": "Swing Out Sisters (2014)",
+  "titles": {
+    "default": "Swing Out Sisters (2014)",
+    "romaji": "Swing Out Sisters (2014)",
+    "native": "スウィング アウト シスターズ"
+  },
+  "synonyms": [
+    "Swing Out Sisters (2014)",
+    "スウィング アウト シスターズ",
+    "Mitsuwano",
+    "みツわの"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20934-sB5WijwbcfhJ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "20934",
+      "url": "https://anilist.co/anime/20934"
+    },
+    "k": {
+      "id": "8140",
+      "url": "https://kitsu.io/anime/8140"
+    },
+    "mal": {
+      "id": "22069",
+      "url": "https://myanimelist.net/anime/22069"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9881,
+  "slug": "black-clover-all-mahou-kishi-kanshasai",
+  "kind": "anime",
+  "title": "Black Clover: All Mahou Kishi Kanshasai",
+  "titles": {
+    "default": "Black Clover: All Mahou Kishi Kanshasai",
+    "romaji": "Black Clover: All Mahou Kishi Kanshasai",
+    "english": "Black Clover: The All Magic Knights Thanksgiving Festa",
+    "native": "ブラッククローバー オール魔法騎士感謝祭"
+  },
+  "synonyms": [
+    "Black Clover: All Mahou Kishi Kanshasai",
+    "Black Clover: The All Magic Knights Thanksgiving Festa",
+    "ブラッククローバー オール魔法騎士感謝祭",
+    "JSAF2018 Special Anime All Mahou Kishi Kanshasai",
+    "Black Clover: JSAF2018 La Thanksgiving des Chevaliers-Mages",
+    "Black Clover: Jump Festa 2018 Special",
+    "JSAF2018 オール魔法騎士感謝祭",
+    "Naruto: The Lost Story - Mission: Protect the Waterfall Village",
+    "Naruto: Takigakure no Shitou - Ore ga Eiyuu Dattebayo!",
+    "滝隠れの死闘　オレが英雄だってばよ!",
+    "Battle at Hidden Falls. I am the Hero!",
+    "Naruto OVA 2",
+    "Naruto: Jump Festa 2004"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx106223-TfmLcrFbAPK7.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "106223",
+      "url": "https://anilist.co/anime/106223"
+    },
+    "cr": {
+      "id": "black-clover/black-clover-the-all-magic-knights-thanksgiving-festa-780145",
+      "url": "https://www.crunchyroll.com/series/black-clover/black-clover-the-all-magic-knights-thanksgiving-festa-780145"
+    },
+    "k": {
+      "id": "549",
+      "url": "https://kitsu.io/anime/549"
+    },
+    "mal": {
+      "id": "38768",
+      "url": "https://myanimelist.net/anime/38768"
+    }
+  }
+}

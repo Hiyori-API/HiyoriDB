@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3950,
+  "slug": "eguchi-hisashi-no-nantoka-narudesho",
+  "kind": "anime",
+  "title": "Eguchi Hisashi no NANTOKA NARUDESHO!",
+  "titles": {
+    "default": "Eguchi Hisashi no NANTOKA NARUDESHO!",
+    "romaji": "Eguchi Hisashi no NANTOKA NARUDESHO!",
+    "native": "江口寿史のNANTOKA NARUDESHO!"
+  },
+  "synonyms": [
+    "Eguchi Hisashi no NANTOKA NARUDESHO!",
+    "江口寿史のNANTOKA NARUDESHO!",
+    "Eguchi Hisashi no Nantoka Narudesho!"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5554-G18t8njcL2iC.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5554",
+      "url": "https://anilist.co/anime/5554"
+    },
+    "k": {
+      "id": "4157",
+      "url": "https://kitsu.io/anime/4157"
+    },
+    "mal": {
+      "id": "5554",
+      "url": "https://myanimelist.net/anime/5554"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6792,
+  "slug": "papa-no-iukoto-wo-kikinasai-pokkapoka",
+  "kind": "anime",
+  "title": "Papa no Iukoto wo Kikinasai!: Pokkapoka",
+  "titles": {
+    "default": "Papa no Iukoto wo Kikinasai!: Pokkapoka",
+    "romaji": "Papa no Iukoto wo Kikinasai!: Pokkapoka",
+    "native": "パパのいうことを聞きなさい！ぽっかぽか"
+  },
+  "synonyms": [
+    "Papa no Iukoto wo Kikinasai!: Pokkapoka",
+    "パパのいうことを聞きなさい！ぽっかぽか",
+    "Papakiki Special",
+    "Listen to Me",
+    "Girls",
+    "I'm Your Father! Special",
+    "Papa no Iu Koto o Kikinasai! Special",
+    "Listen to Me, Girls. I Am Your Father! Warm Fuzzies",
+    "Girls. I Am Your Father!: Warm Fuzzies"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12673.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12673",
+      "url": "https://anilist.co/anime/12673"
+    },
+    "k": {
+      "id": "6787",
+      "url": "https://kitsu.io/anime/6787"
+    },
+    "mal": {
+      "id": "12673",
+      "url": "https://myanimelist.net/anime/12673"
+    }
+  }
+}

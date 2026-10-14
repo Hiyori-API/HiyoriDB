@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13727,
+  "slug": "xxxholic",
+  "kind": "manga",
+  "title": "xxxHolic",
+  "titles": {
+    "default": "xxxHolic"
+  },
+  "synonyms": [
+    "xxxHolic•籠",
+    "×××ホリック•ロウ",
+    "xxxHolic Rou",
+    "xxxHolic Cage",
+    "Holic",
+    "×××HOLiC (×××홀릭)",
+    "xxxHOLiC",
+    "×××ホリック",
+    "xxxHolic•Rou"
+  ],
+  "type": "manga",
+  "chapters": 214,
+  "volumes": 19,
+  "status": "finished",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30010-NEPm8nwp7e0M.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3091",
+      "url": "https://anilist.co/anime/4918"
+    },
+    "al_manga": {
+      "id": "3091",
+      "url": "https://anilist.co/manga/3091"
+    }
+  }
+}

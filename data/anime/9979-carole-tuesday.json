@@ -1,0 +1,63 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9979,
+  "slug": "carole-tuesday",
+  "kind": "anime",
+  "title": "Carole & Tuesday",
+  "titles": {
+    "default": "Carole & Tuesday",
+    "romaji": "Carole & Tuesday",
+    "native": "キャロル＆チューズデイ"
+  },
+  "synonyms": [
+    "Carole & Tuesday",
+    "キャロル＆チューズデイ",
+    "C&T",
+    "Carole y Tuesday",
+    "عشق الموسيقى",
+    "แครอลกับทูสเดย์",
+    "Honey and Clover",
+    "Hachimitsu to Clover",
+    "ハチミツとクローバー",
+    "HachiKuro",
+    "Honey & Clover"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "spring",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101281-s1UoXUaYXhxn.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101281",
+      "url": "https://anilist.co/anime/101281"
+    },
+    "cr": {
+      "id": "honey-and-clover",
+      "url": "https://www.crunchyroll.com/series/honey-and-clover"
+    },
+    "k": {
+      "id": "7",
+      "url": "https://kitsu.io/anime/7"
+    },
+    "mal": {
+      "id": "37435",
+      "url": "https://myanimelist.net/anime/37435"
+    },
+    "nf": {
+      "id": "80992137",
+      "url": "https://www.netflix.com/title/80992137"
+    },
+    "t": {
+      "id": "35263",
+      "url": "https://trakt.tv/shows/35263"
+    },
+    "tx": {
+      "id": "carole_tuesday",
+      "url": "https://twitter.com/carole_tuesday"
+    }
+  }
+}

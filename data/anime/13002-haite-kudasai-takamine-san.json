@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13002,
+  "slug": "haite-kudasai-takamine-san",
+  "kind": "anime",
+  "title": "Haite Kudasai, Takamine-san",
+  "titles": {
+    "default": "Haite Kudasai, Takamine-san",
+    "romaji": "Haite Kudasai, Takamine-san",
+    "english": "Please Put Them On, Takamine-san",
+    "native": "履いてください、鷹峰さん"
+  },
+  "synonyms": [
+    "Haite Kudasai, Takamine-san",
+    "Please Put Them On, Takamine-san",
+    "履いてください、鷹峰さん",
+    "Let Me Put Your Panties On, Takamine-san",
+    "Please Put These On, Takamine",
+    "This Ugly Yet Beautiful World",
+    "Kono Minikuku mo Utsukushii Sekai",
+    "この醜くも美しい世界"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179965-EwqzG3xSyxwc.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "179965",
+      "url": "https://anilist.co/anime/179965"
+    },
+    "cr": {
+      "id": "series/G3KHEVD1D/please-put-them-on-takamine-san",
+      "url": "https://www.crunchyroll.com/series/series/G3KHEVD1D/please-put-them-on-takamine-san"
+    },
+    "k": {
+      "id": "124",
+      "url": "https://kitsu.io/anime/124"
+    },
+    "mal": {
+      "id": "59457",
+      "url": "https://myanimelist.net/anime/59457"
+    },
+    "t": {
+      "id": "34001",
+      "url": "https://trakt.tv/shows/34001"
+    }
+  }
+}

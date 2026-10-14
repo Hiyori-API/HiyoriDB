@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3193,
+  "slug": "konchuu-monogatari-minashigo-hutch",
+  "kind": "anime",
+  "title": "Konchuu Monogatari Minashigo Hutch",
+  "titles": {
+    "default": "Konchuu Monogatari Minashigo Hutch",
+    "romaji": "Konchuu Monogatari Minashigo Hutch",
+    "english": "The Adventures of Hutch the Honeybee",
+    "native": "昆虫物語みなしごハッチ"
+  },
+  "synonyms": [
+    "Konchuu Monogatari Minashigo Hutch",
+    "The Adventures of Hutch the Honeybee",
+    "昆虫物語みなしごハッチ",
+    "Insect Story: Honey Bee Hutch",
+    "Las aventuras de Hatchi",
+    "La abejita Hutch",
+    "Las aventuras de José Miel",
+    "A Abelhinha Hutch",
+    "A Abelhinha Guerreira",
+    "Un alveare d'avventure per l'ape Magà",
+    "Le Petit Prince Orphelin",
+    "Hacou I'abeille",
+    "Micky l'abeille",
+    "Flitz das bienenkind",
+    "Honingbij hutch",
+    "Hutch Miodowe Serce",
+    "Пчелка Хатч",
+    "مغامرات بشّار",
+    "مغامرات نحول , بشار",
+    "Hutchi"
+  ],
+  "type": "tv",
+  "episodes": 91,
+  "status": "finished",
+  "season": "spring",
+  "year": 1970,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3858-dEpXfLaIAFak.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3858",
+      "url": "https://anilist.co/anime/3858"
+    },
+    "k": {
+      "id": "3304",
+      "url": "https://kitsu.io/anime/3304"
+    },
+    "mal": {
+      "id": "3858",
+      "url": "https://myanimelist.net/anime/3858"
+    }
+  }
+}

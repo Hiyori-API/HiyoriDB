@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14184,
+  "slug": "sex-pistols",
+  "kind": "manga",
+  "title": "SEX PISTOLS",
+  "titles": {
+    "default": "SEX PISTOLS"
+  },
+  "synonyms": [
+    "Love Pistols",
+    "SEX PISTOLS",
+    "Strawberry Marshmallow",
+    "Ichigo Mashimaro",
+    "苺ましまろ"
+  ],
+  "type": "manga",
+  "status": "publishing",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31439-jUnDJAxVTlfL.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5719",
+      "url": "https://anilist.co/anime/5719"
+    },
+    "al_manga": {
+      "id": "5719",
+      "url": "https://anilist.co/manga/5719"
+    }
+  }
+}

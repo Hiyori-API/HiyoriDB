@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1508,
+  "slug": "kinnikuman-nisei",
+  "kind": "anime",
+  "title": "Kinnikuman Nisei",
+  "titles": {
+    "default": "Kinnikuman Nisei",
+    "romaji": "Kinnikuman Nisei",
+    "english": "Ultimate Muscle",
+    "native": "キン肉マンII世"
+  },
+  "synonyms": [
+    "Kinnikuman Nisei",
+    "Ultimate Muscle",
+    "キン肉マンII世",
+    "Kinnikuman II",
+    "Kinnikuman Second Generations",
+    "Ultimate Muscle: The Kinnikuman Legacy",
+    "MR. MUSCLEMAN Second Generation",
+    "Kinnikuman II Sei"
+  ],
+  "type": "tv",
+  "episodes": 51,
+  "status": "finished",
+  "season": "winter",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1707.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1707",
+      "url": "https://anilist.co/anime/1707"
+    },
+    "k": {
+      "id": "1532",
+      "url": "https://kitsu.io/anime/1532"
+    },
+    "mal": {
+      "id": "1707",
+      "url": "https://myanimelist.net/anime/1707"
+    },
+    "t": {
+      "id": "9502",
+      "url": "https://trakt.tv/shows/9502"
+    }
+  }
+}

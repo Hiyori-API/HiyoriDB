@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9848,
+  "slug": "sono-toki-kanojo-wa",
+  "kind": "anime",
+  "title": "Sono Toki, Kanojo wa.",
+  "titles": {
+    "default": "Sono Toki, Kanojo wa.",
+    "romaji": "Sono Toki, Kanojo wa.",
+    "native": "その時、カノジョは。"
+  },
+  "synonyms": [
+    "Sono Toki, Kanojo wa.",
+    "その時、カノジョは。",
+    "At That Time, She.",
+    "High Score Girl",
+    "ハイスコアガール",
+    "Hi Score Girl"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx104073-OQ8YBTy7zmKf.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "104073",
+      "url": "https://anilist.co/anime/104073"
+    },
+    "k": {
+      "id": "8158",
+      "url": "https://kitsu.io/anime/8158"
+    },
+    "mal": {
+      "id": "38251",
+      "url": "https://myanimelist.net/anime/38251"
+    },
+    "nf": {
+      "id": "80997338",
+      "url": "https://www.netflix.com/title/80997338"
+    }
+  }
+}

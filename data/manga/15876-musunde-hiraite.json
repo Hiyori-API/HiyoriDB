@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15876,
+  "slug": "musunde-hiraite",
+  "kind": "manga",
+  "title": "Musunde Hiraite",
+  "titles": {
+    "default": "Musunde Hiraite"
+  },
+  "synonyms": [
+    "むすんでひらいて",
+    "Simple Knot Loafers",
+    "シンプルノットローファー",
+    "Shinpuru Notto Rofa",
+    "Shinpuru Notto Roofaa",
+    "Simple Not Loafer"
+  ],
+  "type": "manga",
+  "chapters": 42,
+  "volumes": 8,
+  "status": "finished",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx48197-4U9PmQZ7Yzvz.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "136222",
+      "url": "https://anilist.co/anime/136222"
+    },
+    "al_manga": {
+      "id": "136222",
+      "url": "https://anilist.co/manga/136222"
+    }
+  }
+}

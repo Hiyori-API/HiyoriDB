@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12989,
+  "slug": "jigoku-sensei-nube-2025",
+  "kind": "anime",
+  "title": "Jigoku Sensei Nube (2025)",
+  "titles": {
+    "default": "Jigoku Sensei Nube (2025)",
+    "romaji": "Jigoku Sensei Nube (2025)",
+    "english": "Hell Teacher: Jigoku Sensei Nube (2025)",
+    "native": "地獄先生ぬ～べ～ (2025)"
+  },
+  "synonyms": [
+    "Jigoku Sensei Nube (2025)",
+    "Hell Teacher: Jigoku Sensei Nube (2025)",
+    "地獄先生ぬ～べ～ (2025)",
+    "地獄先生ぬ～べ～ (新アニメ)",
+    "Jigoku Sensei Nube (Shin Anime)",
+    "Secrets of the Silent Witch",
+    "サイレント・ウィッチ 沈黙の魔女の隠しごと",
+    "Silent Witch: Chinmoku no Majo no Kakushigoto"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179678-1isykDVghv8Q.png"
+  ],
+  "references": {
+    "al": {
+      "id": "179678",
+      "url": "https://anilist.co/anime/179678"
+    },
+    "mal": {
+      "id": "59342",
+      "url": "https://myanimelist.net/anime/59342"
+    }
+  }
+}

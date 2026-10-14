@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3874,
+  "slug": "tsumiki-no-ie",
+  "kind": "anime",
+  "title": "Tsumiki no Ie",
+  "titles": {
+    "default": "Tsumiki no Ie",
+    "romaji": "Tsumiki no Ie",
+    "english": "La Maison en Petits Cubes",
+    "native": "つみきのいえ"
+  },
+  "synonyms": [
+    "Tsumiki no Ie",
+    "La Maison en Petits Cubes",
+    "つみきのいえ",
+    "House of Small Cubes",
+    "Dom z małych kostek",
+    "Ponyo",
+    "Gake no Ue no Ponyo",
+    "崖の上のポニョ",
+    "Ponyo on the Cliff by the Sea"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5365-kUWu68IfUZ97.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5365",
+      "url": "https://anilist.co/anime/5365"
+    },
+    "k": {
+      "id": "2624",
+      "url": "https://kitsu.io/anime/2624"
+    },
+    "mal": {
+      "id": "5365",
+      "url": "https://myanimelist.net/anime/5365"
+    },
+    "nf": {
+      "id": "70106454",
+      "url": "https://www.netflix.com/title/70106454"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7965,
+  "slug": "47-todoufuken-r",
+  "kind": "anime",
+  "title": "47 Todoufuken R",
+  "titles": {
+    "default": "47 Todoufuken R",
+    "romaji": "47 Todoufuken R",
+    "native": "47都道府犬R"
+  },
+  "synonyms": [
+    "47 Todoufuken R",
+    "47都道府犬R",
+    "Love, Chunibyo & Other Delusions!: Heart Throb",
+    "Chuunibyou demo Koi ga Shitai! Ren",
+    "中二病でも恋がしたい！戀",
+    "Chuunibyou demo Koi ga Shitai! 2",
+    "Chu-2 Byo demo Koi ga Shitai! Ren"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b108743-N0shlbVNfTN3.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "108743",
+      "url": "https://anilist.co/anime/108743"
+    },
+    "cr": {
+      "id": "love-chunibyo-other-delusions-heart-throb-",
+      "url": "https://www.crunchyroll.com/series/love-chunibyo-other-delusions-heart-throb-"
+    },
+    "k": {
+      "id": "7705",
+      "url": "https://kitsu.io/anime/7705"
+    },
+    "mal": {
+      "id": "23149",
+      "url": "https://myanimelist.net/anime/23149"
+    },
+    "t": {
+      "id": "45251",
+      "url": "https://trakt.tv/shows/45251"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2780,
+  "slug": "serendipity-monogatari-pyuatou-no-nakamatachi",
+  "kind": "anime",
+  "title": "Serendipity Monogatari: Pyuatou no Nakamatachi",
+  "titles": {
+    "default": "Serendipity Monogatari: Pyuatou no Nakamatachi",
+    "romaji": "Serendipity Monogatari: Pyuatou no Nakamatachi",
+    "english": "Serendipity the Pink Dragon",
+    "native": "セレンディピティ物語 ピュア島の仲間たち"
+  },
+  "synonyms": [
+    "Serendipity Monogatari: Pyuatou no Nakamatachi",
+    "Serendipity the Pink Dragon",
+    "セレンディピティ物語 ピュア島の仲間たち",
+    "Pure-tou no Nakama-tachi"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "summer",
+  "year": 1983,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3201.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3201",
+      "url": "https://anilist.co/anime/3201"
+    },
+    "k": {
+      "id": "2853",
+      "url": "https://kitsu.io/anime/2853"
+    },
+    "mal": {
+      "id": "3201",
+      "url": "https://myanimelist.net/anime/3201"
+    }
+  }
+}

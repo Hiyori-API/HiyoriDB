@@ -1,0 +1,31 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15053,
+  "slug": "go-go-mario-paint",
+  "kind": "manga",
+  "title": "GO! GO! Mario Paint",
+  "titles": {
+    "default": "GO! GO! Mario Paint"
+  },
+  "synonyms": [
+    "GO! GO! マリオペイント",
+    "X",
+    "X/1999"
+  ],
+  "type": "manga",
+  "status": "finished",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx139184-LnIGQQYaiX4z.png"
+  ],
+  "references": {
+    "al": {
+      "id": "103364",
+      "url": "https://anilist.co/anime/118581"
+    },
+    "al_manga": {
+      "id": "103364",
+      "url": "https://anilist.co/manga/103364"
+    }
+  }
+}

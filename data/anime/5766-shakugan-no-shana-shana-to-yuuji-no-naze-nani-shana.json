@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5766,
+  "slug": "shakugan-no-shana-shana-to-yuuji-no-naze-nani-shana",
+  "kind": "anime",
+  "title": "Shakugan no  SHANA: Shana to Yuuji no Naze Nani Shana",
+  "titles": {
+    "default": "Shakugan no  SHANA: Shana to Yuuji no Naze Nani Shana",
+    "romaji": "Shakugan no  SHANA: Shana to Yuuji no Naze Nani Shana"
+  },
+  "synonyms": [
+    "Shakugan no  SHANA: Shana to Yuuji no Naze Nani Shana",
+    "Emma: A Victorian Romance - Intermission",
+    "Eikoku Koi Monogatari Emma: Intermission",
+    "英國戀物語エマ"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17551.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "17551",
+      "url": "https://anilist.co/anime/17551"
+    },
+    "k": {
+      "id": "2283",
+      "url": "https://kitsu.io/anime/2283"
+    },
+    "mal": {
+      "id": "17551",
+      "url": "https://myanimelist.net/anime/17551"
+    }
+  }
+}

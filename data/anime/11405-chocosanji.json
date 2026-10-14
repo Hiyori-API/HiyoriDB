@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11405,
+  "slug": "chocosanji",
+  "kind": "anime",
+  "title": "Chocosanji",
+  "titles": {
+    "default": "Chocosanji",
+    "romaji": "Chocosanji",
+    "english": "Snack Time!",
+    "native": "ちょこさんじ"
+  },
+  "synonyms": [
+    "Chocosanji",
+    "Snack Time!",
+    "ちょこさんじ",
+    "Nijisanji",
+    "Luo Xiao Hei Zhan Ji",
+    "The Legend of Luoxiaohei: The Gate of All Living Beings",
+    "罗小黑战记 众生之门",
+    "Luo Xiaohei Zhanji: Zhongsheng Zhi Men"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx133340-1U8gRlCKGDNq.png"
+  ],
+  "references": {
+    "al": {
+      "id": "133340",
+      "url": "https://anilist.co/anime/133340"
+    },
+    "mal": {
+      "id": "55594",
+      "url": "https://myanimelist.net/anime/55594"
+    }
+  }
+}

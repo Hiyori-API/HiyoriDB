@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7184,
+  "slug": "chouyaku-hyakuninisshu-uta-koi-sake-to-kikoushi-murasaki-kishikibu-to-kintou",
+  "kind": "anime",
+  "title": "Chouyaku Hyakuninisshu: Uta Koi. - Sake to Kikoushi ~ Murasaki Kishikibu to Kintou",
+  "titles": {
+    "default": "Chouyaku Hyakuninisshu: Uta Koi. - Sake to Kikoushi ~ Murasaki Kishikibu to Kintou",
+    "romaji": "Chouyaku Hyakuninisshu: Uta Koi. - Sake to Kikoushi ~ Murasaki Kishikibu to Kintou",
+    "native": "超訳百人一首 うた恋い。酒と貴公子～藤式部と公任"
+  },
+  "synonyms": [
+    "Chouyaku Hyakuninisshu: Uta Koi. - Sake to Kikoushi ~ Murasaki Kishikibu to Kintou",
+    "超訳百人一首 うた恋い。酒と貴公子～藤式部と公任",
+    "Utakoi. Special",
+    "Chouyaku Hyakuninisshu: Uta Koi. Special"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16119.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "16119",
+      "url": "https://anilist.co/anime/16119"
+    },
+    "k": {
+      "id": "7374",
+      "url": "https://kitsu.io/anime/7374"
+    },
+    "mal": {
+      "id": "16119",
+      "url": "https://myanimelist.net/anime/16119"
+    }
+  }
+}

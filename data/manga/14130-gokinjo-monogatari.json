@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14130,
+  "slug": "gokinjo-monogatari",
+  "kind": "manga",
+  "title": "Gokinjo Monogatari",
+  "titles": {
+    "default": "Gokinjo Monogatari"
+  },
+  "synonyms": [
+    "내 남자친구 이야기",
+    "芳邻同盟会",
+    "Gokinjo, une vie de quartier",
+    "Historia de un Vecindario",
+    "Cortili del cuore",
+    "芳鄰物語",
+    "Sąsiedzka opowieść",
+    "Neighborhood Story",
+    "ご近所物語",
+    "Kare Kano: His and Her Circumstances",
+    "Kareshi Kanojo no Jijou",
+    "彼氏彼女の事情",
+    "His and Hers",
+    "The Tiger and the Chameleon: A Promise for One Week",
+    "Ashita Mata Mori de Aou ne",
+    "Meet Me Again Tomorrow in the Forest",
+    "KKNJ",
+    "Abareru Ousama",
+    "The Raging King"
+  ],
+  "type": "manga",
+  "chapters": 34,
+  "volumes": 7,
+  "status": "finished",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31216-3n5n6gxWelpl.png"
+  ],
+  "references": {
+    "al": {
+      "id": "852",
+      "url": "https://anilist.co/anime/852"
+    },
+    "al_manga": {
+      "id": "852",
+      "url": "https://anilist.co/manga/852"
+    }
+  }
+}

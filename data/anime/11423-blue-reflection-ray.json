@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11423,
+  "slug": "blue-reflection-ray",
+  "kind": "anime",
+  "title": "Blue Reflection Ray!",
+  "titles": {
+    "default": "Blue Reflection Ray!",
+    "romaji": "Blue Reflection Ray!",
+    "native": "ぶるりふ・れいっ！"
+  },
+  "synonyms": [
+    "Blue Reflection Ray!",
+    "ぶるりふ・れいっ！",
+    "No Doubt In Us",
+    "两不疑",
+    "Liang Bu Yi"
+  ],
+  "type": "ona",
+  "episodes": 24,
+  "status": "finished",
+  "season": "spring",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx135381-eIj09rbPytlR.png"
+  ],
+  "references": {
+    "al": {
+      "id": "135381",
+      "url": "https://anilist.co/anime/135381"
+    },
+    "mal": {
+      "id": "48610",
+      "url": "https://myanimelist.net/anime/48610"
+    },
+    "tx": {
+      "id": "BRRAY_anime",
+      "url": "https://twitter.com/BRRAY_anime"
+    }
+  }
+}

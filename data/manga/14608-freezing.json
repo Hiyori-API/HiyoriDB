@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14608,
+  "slug": "freezing",
+  "kind": "manga",
+  "title": "Freezing",
+  "titles": {
+    "default": "Freezing"
+  },
+  "synonyms": [
+    "프리징",
+    "Freezing",
+    "フリージング",
+    "Don't Be Cruel",
+    "Hidoku Shinaide",
+    "酷くしないで",
+    "Treat me gently",
+    "Please, Don't be Coldhearted",
+    "Please, After School Secret",
+    "Wagamama mo Aishite",
+    "Love the Selfish, Too",
+    "Hindered by Underwear",
+    "Don't Take Off the Sailor Uniform, Please",
+    "Don't be Cruel",
+    "Please",
+    "Don't be Coldhearted",
+    "After School Secret",
+    "Love the Selfish",
+    "Too",
+    "Don't Take Off the Sailor Uniform"
+  ],
+  "type": "manga",
+  "status": "publishing",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx35911-kdz8D5Rtmwyq.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "18001",
+      "url": "https://anilist.co/anime/9367"
+    },
+    "al_manga": {
+      "id": "18001",
+      "url": "https://anilist.co/manga/18001"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5090,
+  "slug": "dakaretai-onna",
+  "kind": "anime",
+  "title": "Dakaretai Onna",
+  "titles": {
+    "default": "Dakaretai Onna",
+    "romaji": "Dakaretai Onna",
+    "native": "抱かれたい女"
+  },
+  "synonyms": [
+    "Dakaretai Onna",
+    "抱かれたい女",
+    "Goddamn",
+    "ガッデム"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19747.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "19747",
+      "url": "https://anilist.co/anime/19747"
+    },
+    "k": {
+      "id": "5818",
+      "url": "https://kitsu.io/anime/5818"
+    },
+    "mal": {
+      "id": "19747",
+      "url": "https://myanimelist.net/anime/19747"
+    }
+  }
+}

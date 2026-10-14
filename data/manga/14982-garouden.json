@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14982,
+  "slug": "garouden",
+  "kind": "manga",
+  "title": "Garouden",
+  "titles": {
+    "default": "Garouden"
+  },
+  "synonyms": [
+    "Ga-rou-den",
+    "Ga-Ro-Den",
+    "Legend of the Hungry Wolves",
+    "餓狼伝",
+    "The Life and Times of an Idiot Section Chief",
+    "Kachou Baka Ichidachi",
+    "課長バカ一代",
+    "Kachou Baka Ichidai"
+  ],
+  "type": "manga",
+  "chapters": 238,
+  "volumes": 25,
+  "status": "finished",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b37921-VZxr1XsgeWn0.png"
+  ],
+  "references": {
+    "al": {
+      "id": "177106",
+      "url": "https://anilist.co/anime/177106"
+    },
+    "al_manga": {
+      "id": "177106",
+      "url": "https://anilist.co/manga/177106"
+    }
+  }
+}

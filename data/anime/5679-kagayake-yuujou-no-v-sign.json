@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5679,
+  "slug": "kagayake-yuujou-no-v-sign",
+  "kind": "anime",
+  "title": "Kagayake! Yuujou no V Sign",
+  "titles": {
+    "default": "Kagayake! Yuujou no V Sign",
+    "romaji": "Kagayake! Yuujou no V Sign",
+    "native": "輝け!友情のVサイン"
+  },
+  "synonyms": [
+    "Kagayake! Yuujou no V Sign",
+    "輝け!友情のVサイン"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18475.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "18475",
+      "url": "https://anilist.co/anime/18475"
+    },
+    "k": {
+      "id": "9357",
+      "url": "https://kitsu.io/anime/9357"
+    },
+    "mal": {
+      "id": "18475",
+      "url": "https://myanimelist.net/anime/18475"
+    }
+  }
+}

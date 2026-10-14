@@ -1,0 +1,60 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8524,
+  "slug": "ao-no-kanata-no-four-rhythm",
+  "kind": "anime",
+  "title": "Ao no Kanata no Four Rhythm",
+  "titles": {
+    "default": "Ao no Kanata no Four Rhythm",
+    "romaji": "Ao no Kanata no Four Rhythm",
+    "english": "AOKANA: Four Rhythm Across the Blue",
+    "native": "蒼の彼方のフォーリズム"
+  },
+  "synonyms": [
+    "Ao no Kanata no Four Rhythm",
+    "AOKANA: Four Rhythm Across the Blue",
+    "蒼の彼方のフォーリズム",
+    "AoKana",
+    "Durarara!!x2 Ketsu",
+    "Durarara!! x2 Ketsu",
+    "デュラララ!!×2 結"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21319-U2RmvTzscBT3.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21319",
+      "url": "https://anilist.co/anime/21319"
+    },
+    "cr": {
+      "id": "aokana",
+      "url": "https://www.crunchyroll.com/series/aokana"
+    },
+    "k": {
+      "id": "9725",
+      "url": "https://kitsu.io/anime/9725"
+    },
+    "mal": {
+      "id": "28391",
+      "url": "https://myanimelist.net/anime/28391"
+    },
+    "nf": {
+      "id": "80047029",
+      "url": "https://www.netflix.com/title/80047029"
+    },
+    "t": {
+      "id": "42187",
+      "url": "https://trakt.tv/shows/42187"
+    },
+    "tx": {
+      "id": "aokana_TVanime",
+      "url": "https://twitter.com/aokana_TVanime"
+    }
+  }
+}

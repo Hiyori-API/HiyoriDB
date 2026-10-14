@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8752,
+  "slug": "yahari-ore-no-seishun-love-come-wa-machigatteiru-zoku-kitto-onnanoko-wa-osatou-to-spice-to-suteki-na-nanika-de-dekiteiru",
+  "kind": "anime",
+  "title": "Yahari Ore no Seishun Love Come wa Machigatteiru. Zoku: Kitto, Onnanoko wa Osatou to Spice to Suteki na Nanika de Dekiteiru",
+  "titles": {
+    "default": "Yahari Ore no Seishun Love Come wa Machigatteiru. Zoku: Kitto, Onnanoko wa Osatou to Spice to Suteki na Nanika de Dekiteiru",
+    "romaji": "Yahari Ore no Seishun Love Come wa Machigatteiru. Zoku: Kitto, Onnanoko wa Osatou to Spice to Suteki na Nanika de Dekiteiru",
+    "english": "My Teen Romantic Comedy SNAFU TOO! OVA",
+    "native": "やはり俺の青春ラブコメはまちがっている。 続 「きっと、女の子はお砂糖とスパイスと素敵な何かでできている。」"
+  },
+  "synonyms": [
+    "Yahari Ore no Seishun Love Come wa Machigatteiru. Zoku: Kitto, Onnanoko wa Osatou to Spice to Suteki na Nanika de Dekiteiru",
+    "My Teen Romantic Comedy SNAFU TOO! OVA",
+    "やはり俺の青春ラブコメはまちがっている。 続 「きっと、女の子はお砂糖とスパイスと素敵な何かでできている。」",
+    "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA",
+    "やはり俺の青春ラブコメはまちがっている。 続 OVA",
+    "Oregairu Zoku OVA",
+    "Trick or Alice",
+    "トリック・オア・アリス"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21769-ZBoT6szJKGZv.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21769",
+      "url": "https://anilist.co/anime/21769"
+    },
+    "k": {
+      "id": "8100",
+      "url": "https://kitsu.io/anime/8100"
+    },
+    "mal": {
+      "id": "33161",
+      "url": "https://myanimelist.net/anime/33161"
+    },
+    "tx": {
+      "id": "anime_oregairu",
+      "url": "https://twitter.com/anime_oregairu"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14711,
+  "slug": "babel-2-sei",
+  "kind": "manga",
+  "title": "Babel 2-sei",
+  "titles": {
+    "default": "Babel 2-sei"
+  },
+  "synonyms": [
+    "Babiru Nisei",
+    "Babel II",
+    "Babel Nisei",
+    "バビル2世",
+    "Again",
+    "アゲイン"
+  ],
+  "type": "manga",
+  "chapters": 63,
+  "volumes": 12,
+  "status": "finished",
+  "year": 1971,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b71437-Xg6mrrh1fgYe.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1664",
+      "url": "https://anilist.co/anime/1666"
+    },
+    "al_manga": {
+      "id": "1664",
+      "url": "https://anilist.co/manga/1664"
+    }
+  }
+}

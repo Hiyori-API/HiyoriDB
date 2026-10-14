@@ -1,0 +1,61 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10586,
+  "slug": "tonikaku-kawaii",
+  "kind": "anime",
+  "title": "Tonikaku Kawaii",
+  "titles": {
+    "default": "Tonikaku Kawaii",
+    "romaji": "Tonikaku Kawaii",
+    "english": "TONIKAWA: Over The Moon For You",
+    "native": "トニカクカワイイ"
+  },
+  "synonyms": [
+    "Tonikaku Kawaii",
+    "TONIKAWA: Over The Moon For You",
+    "トニカクカワイイ",
+    "Fly Me to the Moon",
+    "Tonikaku Cawaii",
+    "Generally Cute",
+    "总之就是非常可爱",
+    "จะยังไงภรรยาของผมก็น่ารัก",
+    "Красавица: Унеси меня на Луну",
+    "Ring ni Kakero 1",
+    "リングにかけろ１",
+    "Put it all in the Ring"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116267-Eo1biPBTlL4i.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "116267",
+      "url": "https://anilist.co/anime/116267"
+    },
+    "cr": {
+      "id": "tonikawa-over-the-moon-for-you",
+      "url": "https://www.crunchyroll.com/series/tonikawa-over-the-moon-for-you"
+    },
+    "k": {
+      "id": "14",
+      "url": "https://kitsu.io/anime/14"
+    },
+    "mal": {
+      "id": "41389",
+      "url": "https://myanimelist.net/anime/41389"
+    },
+    "t": {
+      "id": "69507",
+      "url": "https://trakt.tv/shows/69507"
+    },
+    "tx": {
+      "id": "tonikawa_en",
+      "url": "https://twitter.com/tonikawa_anime"
+    }
+  }
+}

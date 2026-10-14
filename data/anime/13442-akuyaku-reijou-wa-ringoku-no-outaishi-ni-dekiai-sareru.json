@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13442,
+  "slug": "akuyaku-reijou-wa-ringoku-no-outaishi-ni-dekiai-sareru",
+  "kind": "anime",
+  "title": "Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai Sareru",
+  "titles": {
+    "default": "Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai Sareru",
+    "romaji": "Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai Sareru",
+    "english": "The Villainess Is Adored by the Prince of the Neighbor Kingdom",
+    "native": "悪役令嬢は隣国の王太子に溺愛される"
+  },
+  "synonyms": [
+    "Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai Sareru",
+    "The Villainess Is Adored by the Prince of the Neighbor Kingdom",
+    "悪役令嬢は隣国の王太子に溺愛される",
+    "The Villainess Is Being Doted on by the Crown Prince of the Neighboring Country",
+    "ท่านหญิงนางร้ายถูกเจ้าชายรัชทายาท ของอาณาจักรข้างเคียงหลงรัก",
+    "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing",
+    "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～",
+    "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195518-XXcYHi6tXM6v.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "195518",
+      "url": "https://anilist.co/anime/195518"
+    },
+    "cr": {
+      "id": "series/GT00365613/the-villainess-is-adored-by-the-prince-of-the-neighbor-kingdom",
+      "url": "https://www.crunchyroll.com/series/series/GT00365613/the-villainess-is-adored-by-the-prince-of-the-neighbor-kingdom"
+    },
+    "mal": {
+      "id": "62000",
+      "url": "https://myanimelist.net/anime/62000"
+    }
+  }
+}

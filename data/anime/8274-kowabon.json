@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8274,
+  "slug": "kowabon",
+  "kind": "anime",
+  "title": "Kowabon",
+  "titles": {
+    "default": "Kowabon",
+    "romaji": "Kowabon",
+    "english": "KOWABON",
+    "native": "こわぼん"
+  },
+  "synonyms": [
+    "Kowabon",
+    "KOWABON",
+    "こわぼん",
+    "RE-KAN!",
+    "Re-Kan!",
+    "レーカン！"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21224-eQoxsSrPZEA2.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21224",
+      "url": "https://anilist.co/anime/21224"
+    },
+    "cr": {
+      "id": "kowabon",
+      "url": "https://www.crunchyroll.com/series/kowabon"
+    },
+    "k": {
+      "id": "8668",
+      "url": "https://kitsu.io/anime/8668"
+    },
+    "mal": {
+      "id": "30948",
+      "url": "https://myanimelist.net/anime/30948"
+    },
+    "t": {
+      "id": "94050",
+      "url": "https://trakt.tv/shows/94050"
+    },
+    "ttv": {
+      "id": "3827",
+      "url": "https://tubitv.com/series/3827"
+    }
+  }
+}

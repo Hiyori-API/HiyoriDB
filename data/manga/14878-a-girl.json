@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14878,
+  "slug": "a-girl",
+  "kind": "manga",
+  "title": "A-Girl",
+  "titles": {
+    "default": "A-Girl"
+  },
+  "synonyms": [
+    "A-Girl",
+    "Dragon Ball",
+    "ドラゴンボール",
+    "Dragonball",
+    "Dragon Ball Z",
+    "Dragonball Z"
+  ],
+  "type": "manga",
+  "volumes": 2,
+  "status": "finished",
+  "year": 1984,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx157817-bCU0U3yfLr1h.png"
+  ],
+  "references": {
+    "al": {
+      "id": "5447",
+      "url": "https://anilist.co/anime/5447"
+    },
+    "al_manga": {
+      "id": "5447",
+      "url": "https://anilist.co/manga/5447"
+    }
+  }
+}

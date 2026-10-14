@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6526,
+  "slug": "kami-nomi-zo-shiru-sekai-4-nin-to-idol",
+  "kind": "anime",
+  "title": "Kami nomi zo Shiru Sekai: 4-nin to Idol",
+  "titles": {
+    "default": "Kami nomi zo Shiru Sekai: 4-nin to Idol",
+    "romaji": "Kami nomi zo Shiru Sekai: 4-nin to Idol",
+    "english": "The World God Only Knows: 4 Girls and an Idol",
+    "native": "神のみぞ知るセカイ　４人とアイドル"
+  },
+  "synonyms": [
+    "Kami nomi zo Shiru Sekai: 4-nin to Idol",
+    "The World God Only Knows: 4 Girls and an Idol",
+    "神のみぞ知るセカイ　４人とアイドル",
+    "Kami nomi zo Shiru Sekai: Yonin to Idol",
+    "Kaminomi OVA",
+    "Kami Nomi zo Shiru Sekai OVA",
+    "The World God Only Knows: Four Girls and an Idol",
+    "The World God Only Knows: Four People and an Idol"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10805.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10805",
+      "url": "https://anilist.co/anime/10805"
+    },
+    "k": {
+      "id": "6359",
+      "url": "https://kitsu.io/anime/6359"
+    },
+    "mal": {
+      "id": "10805",
+      "url": "https://myanimelist.net/anime/10805"
+    }
+  }
+}

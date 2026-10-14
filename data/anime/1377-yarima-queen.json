@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1377,
+  "slug": "yarima-queen",
+  "kind": "anime",
+  "title": "Yarima Queen",
+  "titles": {
+    "default": "Yarima Queen",
+    "romaji": "Yarima Queen",
+    "english": "Sex Demon Queen",
+    "native": "ヤーリマクィーン"
+  },
+  "synonyms": [
+    "Yarima Queen",
+    "Sex Demon Queen",
+    "ヤーリマクィーン",
+    "Hino Hideshi Toukaidou Yotsuya Kaidan",
+    "日野日出志 東海道 四谷怪談"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1558-Kpa1P6MSfbLI.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1558",
+      "url": "https://anilist.co/anime/1558"
+    },
+    "k": {
+      "id": "8942",
+      "url": "https://kitsu.io/anime/8942"
+    },
+    "mal": {
+      "id": "1558",
+      "url": "https://myanimelist.net/anime/1558"
+    }
+  }
+}

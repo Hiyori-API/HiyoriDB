@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6542,
+  "slug": "hakoiri-shoujo-virgin-territory",
+  "kind": "anime",
+  "title": "Hakoiri Shoujo: Virgin Territory",
+  "titles": {
+    "default": "Hakoiri Shoujo: Virgin Territory",
+    "romaji": "Hakoiri Shoujo: Virgin Territory",
+    "native": "箱入少女-Virgin Territory-"
+  },
+  "synonyms": [
+    "Hakoiri Shoujo: Virgin Territory",
+    "箱入少女-Virgin Territory-",
+    "Legend of the Heroes: Trails in the Sky",
+    "Eiyuu Densetsu: Sora no Kiseki The Animation",
+    "英雄伝説 空の軌跡 THE ANIMATION"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10906.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10906",
+      "url": "https://anilist.co/anime/10906"
+    },
+    "k": {
+      "id": "6104",
+      "url": "https://kitsu.io/anime/6104"
+    },
+    "mal": {
+      "id": "10906",
+      "url": "https://myanimelist.net/anime/10906"
+    }
+  }
+}

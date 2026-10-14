@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15469,
+  "slug": "magical-witch-academy-boku-to-sensei-no-magical-lesson",
+  "kind": "manga",
+  "title": "Magical Witch Academy: Boku to Sensei no Magical Lesson",
+  "titles": {
+    "default": "Magical Witch Academy: Boku to Sensei no Magical Lesson"
+  },
+  "synonyms": [
+    "マジカルウィッチアカデミー ～ボクと先生のマジカルレッスン～",
+    "Young Gun Carnaval",
+    "ヤングガン・カルナバル"
+  ],
+  "type": "novel",
+  "volumes": 1,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/92594-OqV0CbjRt2GU.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3916",
+      "url": "https://anilist.co/anime/3916"
+    },
+    "al_manga": {
+      "id": "3916",
+      "url": "https://anilist.co/manga/3916"
+    }
+  }
+}

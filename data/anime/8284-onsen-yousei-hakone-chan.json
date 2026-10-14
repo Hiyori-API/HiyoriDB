@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8284,
+  "slug": "onsen-yousei-hakone-chan",
+  "kind": "anime",
+  "title": "Onsen Yousei Hakone-chan",
+  "titles": {
+    "default": "Onsen Yousei Hakone-chan",
+    "romaji": "Onsen Yousei Hakone-chan",
+    "english": "Hakone-chan",
+    "native": "温泉幼精ハコネちゃん"
+  },
+  "synonyms": [
+    "Onsen Yousei Hakone-chan",
+    "Hakone-chan",
+    "温泉幼精ハコネちゃん",
+    "RE-KAN!",
+    "Re-Kan!",
+    "レーカン！"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21246-yTJbgjNYSTF8.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21246",
+      "url": "https://anilist.co/anime/21246"
+    },
+    "cr": {
+      "id": "hakone",
+      "url": "https://www.crunchyroll.com/series/hakone"
+    },
+    "k": {
+      "id": "8668",
+      "url": "https://kitsu.io/anime/8668"
+    },
+    "mal": {
+      "id": "31143",
+      "url": "https://myanimelist.net/anime/31143"
+    },
+    "t": {
+      "id": "94050",
+      "url": "https://trakt.tv/shows/94050"
+    },
+    "tx": {
+      "id": "onsenyosei",
+      "url": "https://twitter.com/onsenyosei"
+    }
+  }
+}

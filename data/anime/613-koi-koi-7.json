@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 613,
+  "slug": "koi-koi-7",
+  "kind": "anime",
+  "title": "Koi Koi 7",
+  "titles": {
+    "default": "Koi Koi 7",
+    "romaji": "Koi Koi 7",
+    "english": "Koi Koi Seven",
+    "native": "こいこい7"
+  },
+  "synonyms": [
+    "Koi Koi 7",
+    "Koi Koi Seven",
+    "こいこい7",
+    "Koikoi7",
+    "Koikoi 7",
+    "Love Love Seven"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/668.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "668",
+      "url": "https://anilist.co/anime/668"
+    },
+    "cr": {
+      "id": "koi-koi-seven",
+      "url": "https://www.crunchyroll.com/series/koi-koi-seven"
+    },
+    "k": {
+      "id": "612",
+      "url": "https://kitsu.io/anime/612"
+    },
+    "mal": {
+      "id": "668",
+      "url": "https://myanimelist.net/anime/668"
+    },
+    "t": {
+      "id": "63596",
+      "url": "https://trakt.tv/shows/63596"
+    }
+  }
+}

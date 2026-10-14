@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14604,
+  "slug": "onikirimaru",
+  "kind": "manga",
+  "title": "Onikirimaru",
+  "titles": {
+    "default": "Onikirimaru"
+  },
+  "synonyms": [
+    "Ogre Slayer",
+    "鬼切丸",
+    "Baby & Me",
+    "Akachan to Boku",
+    "赤ちゃんと僕",
+    "AkaBoku",
+    "Baby and Me",
+    "Time Limit",
+    "Secret Boy ni Tee Dasuna!!",
+    "Baka de Karukute Wagamama de",
+    "Natsu to Kimi no Irradiation"
+  ],
+  "type": "manga",
+  "volumes": 20,
+  "status": "finished",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx35877-JaYzqEfVcdZz.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3913",
+      "url": "https://anilist.co/anime/3913"
+    },
+    "al_manga": {
+      "id": "3913",
+      "url": "https://anilist.co/manga/3913"
+    }
+  }
+}

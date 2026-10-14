@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10528,
+  "slug": "gundam-g-no-reconguista-ii-bellri-gekishin",
+  "kind": "anime",
+  "title": "Gundam: G no Reconguista II - Bellri Gekishin",
+  "titles": {
+    "default": "Gundam: G no Reconguista II - Bellri Gekishin",
+    "romaji": "Gundam: G no Reconguista II - Bellri Gekishin",
+    "english": "Reconguista in G the Movie II Bellri’s Fierce Charge",
+    "native": "Ｇのレコンギスタ Ⅱ ベルリ 撃進"
+  },
+  "synonyms": [
+    "Gundam: G no Reconguista II - Bellri Gekishin",
+    "Reconguista in G the Movie II Bellri’s Fierce Charge",
+    "Ｇのレコンギスタ Ⅱ ベルリ 撃進",
+    "Gundam Reconguista in G II",
+    "Gekijouban Gundam G no Reconguista 2",
+    "Gundam: G no Reconguista Movie 2 - Bellri Advances",
+    "G-Reco Movie 2",
+    "Venus Wars",
+    "Venus Senki",
+    "ヴィナス戦記"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114334-dnyyhvuS20dU.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "114334",
+      "url": "https://anilist.co/anime/114334"
+    },
+    "k": {
+      "id": "502",
+      "url": "https://kitsu.io/anime/502"
+    },
+    "mal": {
+      "id": "40890",
+      "url": "https://myanimelist.net/anime/40890"
+    },
+    "tx": {
+      "id": "gundam_reco",
+      "url": "https://twitter.com/gundam_reco"
+    }
+  }
+}

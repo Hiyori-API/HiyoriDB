@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9077,
+  "slug": "king-of-prism-pride-the-hero",
+  "kind": "anime",
+  "title": "KING OF PRISM: PRIDE the HERO",
+  "titles": {
+    "default": "KING OF PRISM: PRIDE the HERO",
+    "romaji": "KING OF PRISM: PRIDE the HERO",
+    "native": "KING OF PRISM -PRIDE the HERO-"
+  },
+  "synonyms": [
+    "KING OF PRISM: PRIDE the HERO",
+    "KING OF PRISM -PRIDE the HERO-",
+    "King of Prism: Pride the Hero"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b97631-r1ZHgsHvyABi.png"
+  ],
+  "references": {
+    "al": {
+      "id": "97631",
+      "url": "https://anilist.co/anime/97631"
+    },
+    "mal": {
+      "id": "34032",
+      "url": "https://myanimelist.net/anime/34032"
+    }
+  }
+}

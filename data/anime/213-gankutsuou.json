@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 213,
+  "slug": "gankutsuou",
+  "kind": "anime",
+  "title": "Gankutsuou",
+  "titles": {
+    "default": "Gankutsuou",
+    "romaji": "Gankutsuou",
+    "english": "Gankutsuou: The Count of Monte Cristo",
+    "native": "巌窟王"
+  },
+  "synonyms": [
+    "Gankutsuou",
+    "Gankutsuou: The Count of Monte Cristo",
+    "巌窟王",
+    "גנקוטסואו: הרוזן ממונטה כריסטו",
+    "Il conte di Montecristo",
+    "Gankutsuou: Hrabia Monte Cristo",
+    "غانكوتسو: الكونت دي مونت كريستو",
+    "The King of the Cavern"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "fall",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx239-eldiiZxky1Ul.png"
+  ],
+  "references": {
+    "al": {
+      "id": "239",
+      "url": "https://anilist.co/anime/239"
+    },
+    "cr": {
+      "id": "gankutsuou",
+      "url": "https://www.crunchyroll.com/series/gankutsuou"
+    },
+    "k": {
+      "id": "214",
+      "url": "https://kitsu.io/anime/214"
+    },
+    "mal": {
+      "id": "239",
+      "url": "https://myanimelist.net/anime/239"
+    },
+    "t": {
+      "id": "9495",
+      "url": "https://trakt.tv/shows/9495"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13698,
+  "slug": "odebu-akujo-ni-tensei-shitara-naze-ka-last-boss-ouji-sama-ni-shuuchaku-sareteimasu",
+  "kind": "anime",
+  "title": "Odebu Akujo ni Tensei Shitara, Naze ka Last Boss Ouji-sama ni Shuuchaku Sareteimasu",
+  "titles": {
+    "default": "Odebu Akujo ni Tensei Shitara, Naze ka Last Boss Ouji-sama ni Shuuchaku Sareteimasu",
+    "romaji": "Odebu Akujo ni Tensei Shitara, Naze ka Last Boss Ouji-sama ni Shuuchaku Sareteimasu",
+    "native": "おデブ悪女に転生したら、なぜかラスボス王子様に執着されています"
+  },
+  "synonyms": [
+    "Odebu Akujo ni Tensei Shitara, Naze ka Last Boss Ouji-sama ni Shuuchaku Sareteimasu",
+    "おデブ悪女に転生したら、なぜかラスボス王子様に執着されています",
+    "The Final-Boss Prince is Somehow Obsessed with the Chubby Villainess: Reincarnated Me",
+    "When I Reincarnated as a Chubby Villainess, For Some Reason, I'm Being Relentlessly Pursued by the Final Boss Prince!",
+    "Odebu Akujo",
+    "Despera",
+    "ですぺら",
+    "Desupera"
+  ],
+  "type": "tv",
+  "status": "to_be_aired",
+  "season": "winter",
+  "year": 2027,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207782-wKac51K7adn3.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "207782",
+      "url": "https://anilist.co/anime/207782"
+    },
+    "k": {
+      "id": "4584",
+      "url": "https://kitsu.io/anime/4584"
+    },
+    "mal": {
+      "id": "63476",
+      "url": "https://myanimelist.net/anime/63476"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8712,
+  "slug": "coco-nico",
+  "kind": "anime",
+  "title": "CoCO & NiCO",
+  "titles": {
+    "default": "CoCO & NiCO",
+    "romaji": "CoCO & NiCO",
+    "native": "ココとニコ"
+  },
+  "synonyms": [
+    "CoCO & NiCO",
+    "ココとニコ",
+    "JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai",
+    "Diamond is not Crash",
+    "JoJo's Bizarre Adventure: Diamond Is Unbreakable",
+    "ジョジョの奇妙な冒険 ダイヤモンドは砕けない"
+  ],
+  "type": "tv",
+  "episodes": 39,
+  "status": "finished",
+  "season": "spring",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21706-hZkEHLv538dy.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21706",
+      "url": "https://anilist.co/anime/21706"
+    },
+    "mal": {
+      "id": "32944",
+      "url": "https://myanimelist.net/anime/32944"
+    }
+  }
+}

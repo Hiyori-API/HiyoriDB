@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 181,
+  "slug": "yumeria",
+  "kind": "anime",
+  "title": "Yumeria",
+  "titles": {
+    "default": "Yumeria",
+    "romaji": "Yumeria",
+    "native": "ゆめりあ"
+  },
+  "synonyms": [
+    "Yumeria",
+    "ゆめりあ"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/204.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "204",
+      "url": "https://anilist.co/anime/204"
+    },
+    "k": {
+      "id": "180",
+      "url": "https://kitsu.io/anime/180"
+    },
+    "mal": {
+      "id": "204",
+      "url": "https://myanimelist.net/anime/204"
+    },
+    "t": {
+      "id": "61409",
+      "url": "https://trakt.tv/shows/61409"
+    }
+  }
+}

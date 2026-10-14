@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 847,
+  "slug": "magical-nyan-nyan-taruto",
+  "kind": "anime",
+  "title": "Magical Nyan Nyan Taruto",
+  "titles": {
+    "default": "Magical Nyan Nyan Taruto",
+    "romaji": "Magical Nyan Nyan Taruto",
+    "english": "Magical Meow Meow Taruto",
+    "native": "魔法少女猫[まじかる にゃん にゃん]たると"
+  },
+  "synonyms": [
+    "Magical Nyan Nyan Taruto",
+    "Magical Meow Meow Taruto",
+    "魔法少女猫[まじかる にゃん にゃん]たると",
+    "Mahou Shoujo Neko Taruto",
+    "MNNT"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/952.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "952",
+      "url": "https://anilist.co/anime/952"
+    },
+    "k": {
+      "id": "844",
+      "url": "https://kitsu.io/anime/844"
+    },
+    "mal": {
+      "id": "952",
+      "url": "https://myanimelist.net/anime/952"
+    },
+    "t": {
+      "id": "65454",
+      "url": "https://trakt.tv/shows/65454"
+    },
+    "ttv": {
+      "id": "2097",
+      "url": "https://tubitv.com/series/2097"
+    }
+  }
+}

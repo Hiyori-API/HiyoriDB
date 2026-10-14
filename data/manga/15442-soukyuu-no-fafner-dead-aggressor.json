@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15442,
+  "slug": "soukyuu-no-fafner-dead-aggressor",
+  "kind": "manga",
+  "title": "Soukyuu no Fafner: Dead Aggressor",
+  "titles": {
+    "default": "Soukyuu no Fafner: Dead Aggressor"
+  },
+  "synonyms": [
+    "Fafner",
+    "Fafner Novel",
+    "Fafner: Dead Aggressor",
+    "蒼穹のファフナー Dead Aggressor",
+    "Young Gun Carnaval",
+    "ヤングガン・カルナバル"
+  ],
+  "type": "novel",
+  "chapters": 5,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx43393-Y0TClHe2DlBu.png"
+  ],
+  "references": {
+    "al": {
+      "id": "75",
+      "url": "https://anilist.co/anime/75"
+    },
+    "al_manga": {
+      "id": "75",
+      "url": "https://anilist.co/manga/75"
+    }
+  }
+}

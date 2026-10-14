@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12873,
+  "slug": "bullet-bullet",
+  "kind": "anime",
+  "title": "BULLET/BULLET",
+  "titles": {
+    "default": "BULLET/BULLET",
+    "romaji": "BULLET/BULLET"
+  },
+  "synonyms": [
+    "BULLET/BULLET",
+    "バレット/バレット",
+    "Saishuu Shiken Kujira",
+    "最終試験くじら",
+    "Final Examination Kujira"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx157960-IrnEWE1pvoT3.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "157960",
+      "url": "https://anilist.co/anime/157960"
+    },
+    "k": {
+      "id": "2685",
+      "url": "https://kitsu.io/anime/2685"
+    },
+    "mal": {
+      "id": "53722",
+      "url": "https://myanimelist.net/anime/53722"
+    }
+  }
+}

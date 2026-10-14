@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1695,
+  "slug": "shounan-junai-gumi",
+  "kind": "anime",
+  "title": "Shounan Junai Gumi!",
+  "titles": {
+    "default": "Shounan Junai Gumi!",
+    "romaji": "Shounan Junai Gumi!",
+    "native": "湘南純愛組!"
+  },
+  "synonyms": [
+    "Shounan Junai Gumi!",
+    "湘南純愛組!",
+    "Pure Love Gang of Shounan",
+    "Young GTO",
+    "Shonan Junai Gumi!",
+    "Shounan Junai Gumi",
+    "Shounan Jun'ai-gumi!",
+    "Shonan Junai-gumi!"
+  ],
+  "type": "ova",
+  "episodes": 5,
+  "status": "finished",
+  "season": "winter",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1913-jsiD6dL81mMk.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1913",
+      "url": "https://anilist.co/anime/1913"
+    },
+    "k": {
+      "id": "1723",
+      "url": "https://kitsu.io/anime/1723"
+    },
+    "mal": {
+      "id": "1913",
+      "url": "https://myanimelist.net/anime/1913"
+    }
+  }
+}

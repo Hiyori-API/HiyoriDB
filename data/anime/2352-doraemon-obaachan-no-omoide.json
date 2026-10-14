@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2352,
+  "slug": "doraemon-obaachan-no-omoide",
+  "kind": "anime",
+  "title": "Doraemon: Obaachan no Omoide",
+  "titles": {
+    "default": "Doraemon: Obaachan no Omoide",
+    "romaji": "Doraemon: Obaachan no Omoide",
+    "english": "Doraemon: A Grandmother's Recollections",
+    "native": "ドラえもん おばあちゃんの思い出"
+  },
+  "synonyms": [
+    "Doraemon: Obaachan no Omoide",
+    "Doraemon: A Grandmother's Recollections",
+    "ドラえもん おばあちゃんの思い出"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2649.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2649",
+      "url": "https://anilist.co/anime/2649"
+    },
+    "k": {
+      "id": "2413",
+      "url": "https://kitsu.io/anime/2413"
+    },
+    "mal": {
+      "id": "2649",
+      "url": "https://myanimelist.net/anime/2649"
+    }
+  }
+}

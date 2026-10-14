@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9985,
+  "slug": "made-in-abyss-hourou-suru-tasogare",
+  "kind": "anime",
+  "title": "Made in Abyss: Hourou Suru Tasogare",
+  "titles": {
+    "default": "Made in Abyss: Hourou Suru Tasogare",
+    "romaji": "Made in Abyss: Hourou Suru Tasogare",
+    "english": "Made in Abyss: Wandering Twilight",
+    "native": "メイドインアビス 放浪する黄昏"
+  },
+  "synonyms": [
+    "Made in Abyss: Hourou Suru Tasogare",
+    "Made in Abyss: Wandering Twilight",
+    "メイドインアビス 放浪する黄昏",
+    "Cencoroll 2",
+    "センコロール"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101344-NbEG3Ryria9S.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101344",
+      "url": "https://anilist.co/anime/101344"
+    },
+    "k": {
+      "id": "5749",
+      "url": "https://kitsu.io/anime/5749"
+    },
+    "mal": {
+      "id": "37515",
+      "url": "https://myanimelist.net/anime/37515"
+    },
+    "tx": {
+      "id": "miabyss_anime",
+      "url": "https://twitter.com/miabyss_anime"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7478,
+  "slug": "wasureboshi",
+  "kind": "anime",
+  "title": "Wasureboshi",
+  "titles": {
+    "default": "Wasureboshi",
+    "romaji": "Wasureboshi",
+    "native": "忘れ星"
+  },
+  "synonyms": [
+    "Wasureboshi",
+    "忘れ星",
+    "Wasure-boshi"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98568-ndecaQoygG1I.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98568",
+      "url": "https://anilist.co/anime/98568"
+    },
+    "k": {
+      "id": "8440",
+      "url": "https://kitsu.io/anime/8440"
+    },
+    "mal": {
+      "id": "21591",
+      "url": "https://myanimelist.net/anime/21591"
+    }
+  }
+}

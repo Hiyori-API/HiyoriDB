@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2379,
+  "slug": "doraemon-nobita-to-animal-planet",
+  "kind": "anime",
+  "title": "Doraemon: Nobita to Animal Planet",
+  "titles": {
+    "default": "Doraemon: Nobita to Animal Planet",
+    "romaji": "Doraemon: Nobita to Animal Planet",
+    "english": "Doraemon: Nobita's Animal Planet",
+    "native": "ドラえもん のび太とアニマル惑星(プラネット)"
+  },
+  "synonyms": [
+    "Doraemon: Nobita to Animal Planet",
+    "Doraemon: Nobita's Animal Planet",
+    "ドラえもん のび太とアニマル惑星(プラネット)",
+    "Doraemon the Movie: Nobita and the Animal Planet",
+    "Doraemon Movie 11: Nobita to Animal Planet",
+    "映画 ドラえもん のび太とアニマル惑星[プラネット]"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2677-qXFRaK9rIeSu.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2677",
+      "url": "https://anilist.co/anime/2677"
+    },
+    "k": {
+      "id": "2440",
+      "url": "https://kitsu.io/anime/2440"
+    },
+    "mal": {
+      "id": "2677",
+      "url": "https://myanimelist.net/anime/2677"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13423,
+  "slug": "heroine-seijo-iie-all-works-maid-desu-ko",
+  "kind": "anime",
+  "title": "Heroine? Seijo? Iie, All Works Maid desu (Ko)!",
+  "titles": {
+    "default": "Heroine? Seijo? Iie, All Works Maid desu (Ko)!",
+    "romaji": "Heroine? Seijo? Iie, All Works Maid desu (Ko)!",
+    "english": "Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!",
+    "native": "ヒロイン？聖女？いいえ、オールワークスメイドです（誇）！"
+  },
+  "synonyms": [
+    "Heroine? Seijo? Iie, All Works Maid desu (Ko)!",
+    "Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!",
+    "ヒロイン？聖女？いいえ、オールワークスメイドです（誇）！",
+    "Saishuu Shiken Kujira",
+    "最終試験くじら",
+    "Final Examination Kujira"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192800-r8zlO0VY0jJP.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "192800",
+      "url": "https://anilist.co/anime/192800"
+    },
+    "cr": {
+      "id": "series/GT00378069/",
+      "url": "https://www.crunchyroll.com/series/series/GT00378069/"
+    },
+    "k": {
+      "id": "2685",
+      "url": "https://kitsu.io/anime/2685"
+    },
+    "mal": {
+      "id": "61686",
+      "url": "https://myanimelist.net/anime/61686"
+    }
+  }
+}

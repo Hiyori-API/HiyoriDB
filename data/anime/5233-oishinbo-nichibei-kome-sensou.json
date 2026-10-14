@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5233,
+  "slug": "oishinbo-nichibei-kome-sensou",
+  "kind": "anime",
+  "title": "Oishinbo: Nichibei Kome Sensou",
+  "titles": {
+    "default": "Oishinbo: Nichibei Kome Sensou",
+    "romaji": "Oishinbo: Nichibei Kome Sensou",
+    "english": "Oishinbo: The Japan-America Rice War",
+    "native": "美味しんぼ　日米コメ戦争"
+  },
+  "synonyms": [
+    "Oishinbo: Nichibei Kome Sensou",
+    "Oishinbo: The Japan-America Rice War",
+    "美味しんぼ　日米コメ戦争",
+    "Oishinbo: Nichibei Kome Senso"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8842.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8842",
+      "url": "https://anilist.co/anime/8842"
+    },
+    "k": {
+      "id": "5508",
+      "url": "https://kitsu.io/anime/5508"
+    },
+    "mal": {
+      "id": "8842",
+      "url": "https://myanimelist.net/anime/8842"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10849,
+  "slug": "manga-hajimete-omoshiro-juku",
+  "kind": "anime",
+  "title": "Manga Hajimete Omoshiro Juku",
+  "titles": {
+    "default": "Manga Hajimete Omoshiro Juku",
+    "romaji": "Manga Hajimete Omoshiro Juku",
+    "native": "まんがはじめて面白塾"
+  },
+  "synonyms": [
+    "Manga Hajimete Omoshiro Juku",
+    "まんがはじめて面白塾"
+  ],
+  "type": "tv",
+  "episodes": 110,
+  "status": "finished",
+  "season": "winter",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10138.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10138",
+      "url": "https://anilist.co/anime/10138"
+    },
+    "k": {
+      "id": "6052",
+      "url": "https://kitsu.io/anime/6052"
+    },
+    "mal": {
+      "id": "10138",
+      "url": "https://myanimelist.net/anime/10138"
+    }
+  }
+}

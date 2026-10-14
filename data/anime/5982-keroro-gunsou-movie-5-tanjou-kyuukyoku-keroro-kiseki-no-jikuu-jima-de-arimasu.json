@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5982,
+  "slug": "keroro-gunsou-movie-5-tanjou-kyuukyoku-keroro-kiseki-no-jikuu-jima-de-arimasu",
+  "kind": "anime",
+  "title": "Keroro Gunsou Movie 5: Tanjou! Kyuukyoku Keroro, Kiseki no Jikuu-jima, de arimasu!!",
+  "titles": {
+    "default": "Keroro Gunsou Movie 5: Tanjou! Kyuukyoku Keroro, Kiseki no Jikuu-jima, de arimasu!!",
+    "romaji": "Keroro Gunsou Movie 5: Tanjou! Kyuukyoku Keroro, Kiseki no Jikuu-jima, de arimasu!!",
+    "english": "Sergeant Keroro: The Super Duper Movie 5",
+    "native": "超劇場版ケロロ軍曹 誕生!究極ケロロ奇跡の時空島であります!!"
+  },
+  "synonyms": [
+    "Keroro Gunsou Movie 5: Tanjou! Kyuukyoku Keroro, Kiseki no Jikuu-jima, de arimasu!!",
+    "Sergeant Keroro: The Super Duper Movie 5",
+    "超劇場版ケロロ軍曹 誕生!究極ケロロ奇跡の時空島であります!!",
+    "Chou Gekijou-ban Keroro Gunsou: Tanjou! Kyuukyoku Keroro",
+    "Kiseki no Jikuu-jima",
+    "de arimasu!!",
+    "Keroro Gunso the Super Movie: Creation! Ultimate Keroro",
+    "Keroro Gunso the Super Movie: Creation! Ultimate Keroro, Wonder Space-Time Island!!"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx8134-mXWFfToczIbd.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8134",
+      "url": "https://anilist.co/anime/8134"
+    },
+    "k": {
+      "id": "5208",
+      "url": "https://kitsu.io/anime/5208"
+    },
+    "mal": {
+      "id": "8134",
+      "url": "https://myanimelist.net/anime/8134"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9384,
+  "slug": "thunderbolt-fantasy-seishi-ikken",
+  "kind": "anime",
+  "title": "Thunderbolt Fantasy: Seishi Ikken",
+  "titles": {
+    "default": "Thunderbolt Fantasy: Seishi Ikken",
+    "romaji": "Thunderbolt Fantasy: Seishi Ikken",
+    "english": "Thunderbolt Fantasy: The Sword of Life and Death",
+    "native": "Thunderbolt Fantasy: 生死一劍"
+  },
+  "synonyms": [
+    "Thunderbolt Fantasy: Seishi Ikken",
+    "Thunderbolt Fantasy: The Sword of Life and Death",
+    "Thunderbolt Fantasy: 生死一劍",
+    "Fate/stay night: Heaven's Feel I. Presage Flower",
+    "Gekijouban Fate/stay night: Heaven's Feel I. Presage Flower",
+    "劇場版「Fate/stay night [Heaven's Feel] Ⅰ.presage flower」"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx100484-ZrpgxXQ3SIkj.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "100484",
+      "url": "https://anilist.co/anime/100484"
+    },
+    "cr": {
+      "id": "thunderbolt-fantasy",
+      "url": "https://www.crunchyroll.com/series/thunderbolt-fantasy"
+    },
+    "k": {
+      "id": "8675",
+      "url": "https://kitsu.io/anime/8675"
+    },
+    "mal": {
+      "id": "25537",
+      "url": "https://myanimelist.net/anime/25537"
+    }
+  }
+}

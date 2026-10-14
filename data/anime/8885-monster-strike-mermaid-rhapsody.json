@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8885,
+  "slug": "monster-strike-mermaid-rhapsody",
+  "kind": "anime",
+  "title": "Monster Strike: Mermaid Rhapsody",
+  "titles": {
+    "default": "Monster Strike: Mermaid Rhapsody",
+    "romaji": "Monster Strike: Mermaid Rhapsody",
+    "english": "Monster Strike the Animation: Summer Special - Mermaid Rhapsody",
+    "native": "モンスターストライク『マーメイド・ラプソディ』"
+  },
+  "synonyms": [
+    "Monster Strike: Mermaid Rhapsody",
+    "Monster Strike the Animation: Summer Special - Mermaid Rhapsody",
+    "モンスターストライク『マーメイド・ラプソディ』",
+    "Hoshizora Kiseki",
+    "星空キセキ"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98094-gg1IiLJTrhJ6.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98094",
+      "url": "https://anilist.co/anime/98094"
+    },
+    "k": {
+      "id": "1097",
+      "url": "https://kitsu.io/anime/1097"
+    },
+    "mal": {
+      "id": "33546",
+      "url": "https://myanimelist.net/anime/33546"
+    }
+  }
+}

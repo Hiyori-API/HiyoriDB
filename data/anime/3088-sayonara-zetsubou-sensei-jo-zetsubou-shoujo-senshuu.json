@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3088,
+  "slug": "sayonara-zetsubou-sensei-jo-zetsubou-shoujo-senshuu",
+  "kind": "anime",
+  "title": "Sayonara Zetsubou Sensei Jo: Zetsubou Shoujo Senshuu",
+  "titles": {
+    "default": "Sayonara Zetsubou Sensei Jo: Zetsubou Shoujo Senshuu",
+    "romaji": "Sayonara Zetsubou Sensei Jo: Zetsubou Shoujo Senshuu",
+    "native": "さよなら絶望先生 序〜絶望少女撰集〜"
+  },
+  "synonyms": [
+    "Sayonara Zetsubou Sensei Jo: Zetsubou Shoujo Senshuu",
+    "さよなら絶望先生 序〜絶望少女撰集〜",
+    "Sayonara Zetsubou Sensei - Preface -Zetsubou Girls Collection-"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3674-M61nw5jhN016.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3674",
+      "url": "https://anilist.co/anime/3674"
+    },
+    "k": {
+      "id": "3186",
+      "url": "https://kitsu.io/anime/3186"
+    },
+    "mal": {
+      "id": "3674",
+      "url": "https://myanimelist.net/anime/3674"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3586,
+  "slug": "aesop-world",
+  "kind": "anime",
+  "title": "Aesop World",
+  "titles": {
+    "default": "Aesop World",
+    "romaji": "Aesop World",
+    "native": "イソップ・ワールド"
+  },
+  "synonyms": [
+    "Aesop World",
+    "イソップ・ワールド",
+    "Aesop's World"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4709-qQWapqZmIU5J.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4709",
+      "url": "https://anilist.co/anime/4709"
+    },
+    "k": {
+      "id": "3752",
+      "url": "https://kitsu.io/anime/3752"
+    },
+    "mal": {
+      "id": "4709",
+      "url": "https://myanimelist.net/anime/4709"
+    }
+  }
+}

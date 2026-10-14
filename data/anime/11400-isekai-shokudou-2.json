@@ -1,0 +1,58 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11400,
+  "slug": "isekai-shokudou-2",
+  "kind": "anime",
+  "title": "Isekai Shokudou 2",
+  "titles": {
+    "default": "Isekai Shokudou 2",
+    "romaji": "Isekai Shokudou 2",
+    "english": "Restaurant to Another World 2",
+    "native": "異世界食堂２"
+  },
+  "synonyms": [
+    "Isekai Shokudou 2",
+    "Restaurant to Another World 2",
+    "異世界食堂２",
+    "异世界食堂 2",
+    "异世界食堂第二季",
+    "ร้านอาหารต่างโลก ภาค 2",
+    "Ring ni Kakero 1",
+    "リングにかけろ１",
+    "Put it all in the Ring"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132806-fuOSzS2YOpIt.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "132806",
+      "url": "https://anilist.co/anime/132806"
+    },
+    "cr": {
+      "id": "series/GR49493P6/restaurant-to-another-world",
+      "url": "https://www.crunchyroll.com/series/series/GR49493P6/restaurant-to-another-world"
+    },
+    "k": {
+      "id": "14",
+      "url": "https://kitsu.io/anime/14"
+    },
+    "mal": {
+      "id": "48804",
+      "url": "https://myanimelist.net/anime/48804"
+    },
+    "t": {
+      "id": "69507",
+      "url": "https://trakt.tv/shows/69507"
+    },
+    "tx": {
+      "id": "nekoya_PR",
+      "url": "https://twitter.com/nekoya_PR"
+    }
+  }
+}

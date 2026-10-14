@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10113,
+  "slug": "tenki-no-ko",
+  "kind": "anime",
+  "title": "Tenki no Ko",
+  "titles": {
+    "default": "Tenki no Ko",
+    "romaji": "Tenki no Ko",
+    "english": "Weathering With You",
+    "native": "天気の子"
+  },
+  "synonyms": [
+    "Tenki no Ko",
+    "Weathering With You",
+    "天気の子",
+    "El Tiempo Contigo",
+    "Weathering With You - Das Mädchen, das die Sonne berührte",
+    "Les enfants du temps",
+    "O Tempo Com Você",
+    "天气之子",
+    "La ragazza del tempo",
+    "Дитя погоды",
+    "Cencoroll 2",
+    "センコロール"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx106286-5COcpd0J9VbL.png"
+  ],
+  "references": {
+    "al": {
+      "id": "106286",
+      "url": "https://anilist.co/anime/106286"
+    },
+    "k": {
+      "id": "5749",
+      "url": "https://kitsu.io/anime/5749"
+    },
+    "mal": {
+      "id": "38826",
+      "url": "https://myanimelist.net/anime/38826"
+    },
+    "nf": {
+      "id": "81172898",
+      "url": "https://www.netflix.com/title/81172898"
+    },
+    "tx": {
+      "id": "tenkinoko_movie",
+      "url": "https://twitter.com/tenkinoko_movie"
+    }
+  }
+}

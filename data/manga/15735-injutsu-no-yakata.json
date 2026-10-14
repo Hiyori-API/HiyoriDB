@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15735,
+  "slug": "injutsu-no-yakata",
+  "kind": "manga",
+  "title": "Injutsu no Yakata",
+  "titles": {
+    "default": "Injutsu no Yakata"
+  },
+  "synonyms": [
+    "Residence of Obscene Art",
+    "The First Errand",
+    "Beast on the Heart",
+    "Hajimete no Otsukai",
+    "Tsubaki Innyuu Ninpouchou",
+    "Ginga Tokukei Cats Blade",
+    "淫術の館",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "chapters": 9,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx46133-4bKnkxiX5Cfr.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21561",
+      "url": "https://anilist.co/anime/21561"
+    },
+    "al_manga": {
+      "id": "21561",
+      "url": "https://anilist.co/manga/21561"
+    }
+  }
+}

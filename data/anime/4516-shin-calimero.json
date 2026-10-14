@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4516,
+  "slug": "shin-calimero",
+  "kind": "anime",
+  "title": "Shin Calimero",
+  "titles": {
+    "default": "Shin Calimero",
+    "romaji": "Shin Calimero",
+    "english": "Calimero (1992)",
+    "native": "新 カリメロ"
+  },
+  "synonyms": [
+    "Shin Calimero",
+    "Calimero (1992)",
+    "新 カリメロ"
+  ],
+  "type": "tv",
+  "episodes": 52,
+  "status": "finished",
+  "season": "fall",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b7004-o1An1Ehu27Mf.png"
+  ],
+  "references": {
+    "al": {
+      "id": "7004",
+      "url": "https://anilist.co/anime/7004"
+    },
+    "k": {
+      "id": "4830",
+      "url": "https://kitsu.io/anime/4830"
+    },
+    "mal": {
+      "id": "7004",
+      "url": "https://myanimelist.net/anime/7004"
+    }
+  }
+}

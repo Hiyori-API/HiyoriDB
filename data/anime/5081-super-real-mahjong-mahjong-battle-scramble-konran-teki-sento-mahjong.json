@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5081,
+  "slug": "super-real-mahjong-mahjong-battle-scramble-konran-teki-sento-mahjong",
+  "kind": "anime",
+  "title": "Super Real Mahjong: Mahjong Battle Scramble - Konran-teki Sento Mahjong",
+  "titles": {
+    "default": "Super Real Mahjong: Mahjong Battle Scramble - Konran-teki Sento Mahjong",
+    "romaji": "Super Real Mahjong: Mahjong Battle Scramble - Konran-teki Sento Mahjong",
+    "native": "麻雀バトルスクランブル 混乱的戦斗麻雀 (スーパーリアル麻雀／麻雀バトルスクランブル)"
+  },
+  "synonyms": [
+    "Super Real Mahjong: Mahjong Battle Scramble - Konran-teki Sento Mahjong",
+    "麻雀バトルスクランブル 混乱的戦斗麻雀 (スーパーリアル麻雀／麻雀バトルスクランブル)"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17989.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "17989",
+      "url": "https://anilist.co/anime/17989"
+    },
+    "k": {
+      "id": "9645",
+      "url": "https://kitsu.io/anime/9645"
+    },
+    "mal": {
+      "id": "17989",
+      "url": "https://myanimelist.net/anime/17989"
+    }
+  }
+}

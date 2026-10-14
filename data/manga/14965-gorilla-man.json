@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14965,
+  "slug": "gorilla-man",
+  "kind": "manga",
+  "title": "Gorilla-Man",
+  "titles": {
+    "default": "Gorilla-Man"
+  },
+  "synonyms": [
+    "A Man Called Gorilla-man",
+    "The Gorilla Man",
+    "ゴリラーマン",
+    "Vaelber Saga",
+    "ヴェルバーサーガ"
+  ],
+  "type": "manga",
+  "chapters": 218,
+  "volumes": 19,
+  "status": "finished",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/90450-B5PTF5zww9mw.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "126070",
+      "url": "https://anilist.co/anime/126070"
+    },
+    "al_manga": {
+      "id": "126070",
+      "url": "https://anilist.co/manga/126070"
+    }
+  }
+}

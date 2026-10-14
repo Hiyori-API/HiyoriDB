@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15813,
+  "slug": "nisemonogatari",
+  "kind": "manga",
+  "title": "Nisemonogatari",
+  "titles": {
+    "default": "Nisemonogatari"
+  },
+  "synonyms": [
+    "Karen Bee",
+    "Tsukihi Phoenix",
+    "Nisemonogatari - Légendes Illusoires",
+    "Nisemonogatari: Fake Tale",
+    "偽物語",
+    "Kaichou no Joker",
+    "会長の切り札",
+    "Kaichou no Kirifuda"
+  ],
+  "type": "novel",
+  "chapters": 35,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx143703-nOs1h4qBtt61.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11597",
+      "url": "https://anilist.co/anime/11597"
+    },
+    "al_manga": {
+      "id": "11597",
+      "url": "https://anilist.co/manga/11597"
+    }
+  }
+}

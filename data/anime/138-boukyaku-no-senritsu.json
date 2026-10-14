@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 138,
+  "slug": "boukyaku-no-senritsu",
+  "kind": "anime",
+  "title": "Boukyaku no Senritsu",
+  "titles": {
+    "default": "Boukyaku no Senritsu",
+    "romaji": "Boukyaku no Senritsu",
+    "english": "Melody of Oblivion",
+    "native": "忘却の旋律"
+  },
+  "synonyms": [
+    "Boukyaku no Senritsu",
+    "Melody of Oblivion",
+    "忘却の旋律",
+    "The Melody of Oblivion"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "spring",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/159.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "159",
+      "url": "https://anilist.co/anime/159"
+    },
+    "cr": {
+      "id": "the-melody-of-oblivion",
+      "url": "https://www.crunchyroll.com/series/the-melody-of-oblivion"
+    },
+    "k": {
+      "id": "137",
+      "url": "https://kitsu.io/anime/137"
+    },
+    "mal": {
+      "id": "159",
+      "url": "https://myanimelist.net/anime/159"
+    },
+    "t": {
+      "id": "34653",
+      "url": "https://trakt.tv/shows/34653"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13767,
+  "slug": "hanazakari-no-kimitachi-e",
+  "kind": "manga",
+  "title": "Hanazakari no Kimitachi e",
+  "titles": {
+    "default": "Hanazakari no Kimitachi e"
+  },
+  "synonyms": [
+    "Hana Kimi",
+    "For You in Full Blossom",
+    "Hanakimi",
+    "Parmi eux",
+    "아름다운 그대에게 애장판",
+    "花樣少年少女",
+    "偷偷愛著你",
+    "女生勿進",
+    "Hana-Kimi: For You in Full Blossom",
+    "花ざかりの君たちへ",
+    "Hanazakari no Kimitachi e",
+    "HanaKimi",
+    "The Thirsty Moon",
+    "The Cage of Summer",
+    "Natsu no Ori",
+    "Kawaki no Tsuki"
+  ],
+  "type": "manga",
+  "chapters": 148,
+  "volumes": 23,
+  "status": "finished",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30057-j84ueZYLxdoC.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "209669",
+      "url": "https://anilist.co/anime/177580"
+    },
+    "al_manga": {
+      "id": "209669",
+      "url": "https://anilist.co/manga/209669"
+    }
+  }
+}

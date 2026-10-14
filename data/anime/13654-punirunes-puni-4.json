@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13654,
+  "slug": "punirunes-puni-4",
+  "kind": "anime",
+  "title": "Punirunes Puni 4",
+  "titles": {
+    "default": "Punirunes Puni 4",
+    "romaji": "Punirunes Puni 4",
+    "native": "ぷにるんず ぷに４"
+  },
+  "synonyms": [
+    "Punirunes Puni 4",
+    "ぷにるんず ぷに４",
+    "Sore Ike! Anpanman",
+    "それいけ!アンパンマン",
+    "Soreike! Anpanman",
+    "Go! Anpanman",
+    "Anpanman TV"
+  ],
+  "type": "tv",
+  "status": "airing",
+  "season": "fall",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216860-ghfSopHbPVNa.png"
+  ],
+  "references": {
+    "al": {
+      "id": "216860",
+      "url": "https://anilist.co/anime/216860"
+    },
+    "k": {
+      "id": "1766",
+      "url": "https://kitsu.io/anime/1766"
+    },
+    "mal": {
+      "id": "1960",
+      "url": "https://myanimelist.net/anime/1960"
+    },
+    "t": {
+      "id": "56034",
+      "url": "https://trakt.tv/shows/56034"
+    },
+    "tx": {
+      "id": "punirunes",
+      "url": "https://twitter.com/punirunes"
+    }
+  }
+}

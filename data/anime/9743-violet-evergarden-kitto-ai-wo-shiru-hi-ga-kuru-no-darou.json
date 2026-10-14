@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9743,
+  "slug": "violet-evergarden-kitto-ai-wo-shiru-hi-ga-kuru-no-darou",
+  "kind": "anime",
+  "title": "Violet Evergarden: Kitto \"Ai\" wo Shiru Hi ga Kuru no Darou",
+  "titles": {
+    "default": "Violet Evergarden: Kitto \"Ai\" wo Shiru Hi ga Kuru no Darou",
+    "romaji": "Violet Evergarden: Kitto \"Ai\" wo Shiru Hi ga Kuru no Darou",
+    "english": "Violet Evergarden: Special",
+    "native": "ヴァイオレット・エヴァーガーデン きっと\"愛\"を知る日が来るのだろう"
+  },
+  "synonyms": [
+    "Violet Evergarden: Kitto \"Ai\" wo Shiru Hi ga Kuru no Darou",
+    "Violet Evergarden: Special",
+    "ヴァイオレット・エヴァーガーデン きっと\"愛\"を知る日が来るのだろう",
+    "فيوليت: رسالة",
+    "Ultra Maniac OVA",
+    "ウルトラマニアック",
+    "Tokimeki Fushigi Diary: Ultra Maniac"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101432-NQSedsCDQ6dP.png"
+  ],
+  "references": {
+    "al": {
+      "id": "101432",
+      "url": "https://anilist.co/anime/101432"
+    },
+    "k": {
+      "id": "156",
+      "url": "https://kitsu.io/anime/156"
+    },
+    "mal": {
+      "id": "37095",
+      "url": "https://myanimelist.net/anime/37095"
+    },
+    "nf": {
+      "id": "81010662",
+      "url": "https://www.netflix.com/title/81010662"
+    },
+    "tx": {
+      "id": "Violet_Letter",
+      "url": "https://twitter.com/Violet_Letter"
+    }
+  }
+}

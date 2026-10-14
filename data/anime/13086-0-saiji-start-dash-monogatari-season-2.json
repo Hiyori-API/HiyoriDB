@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13086,
+  "slug": "0-saiji-start-dash-monogatari-season-2",
+  "kind": "anime",
+  "title": "0-saiji Start Dash Monogatari Season 2",
+  "titles": {
+    "default": "0-saiji Start Dash Monogatari Season 2",
+    "romaji": "0-saiji Start Dash Monogatari Season 2",
+    "english": "HEAD START AT BIRTH - Season 2",
+    "native": "0歳児スタートダッシュ物語 シーズン2"
+  },
+  "synonyms": [
+    "0-saiji Start Dash Monogatari Season 2",
+    "HEAD START AT BIRTH - Season 2",
+    "0歳児スタートダッシュ物語 シーズン2",
+    "0 years old child starting dash story season2",
+    "Mono: Weekend Animation",
+    "mono",
+    "Mono"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b185462-63GUMNU2RGUd.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "185462",
+      "url": "https://anilist.co/anime/185462"
+    },
+    "mal": {
+      "id": "60425",
+      "url": "https://myanimelist.net/anime/60425"
+    }
+  }
+}

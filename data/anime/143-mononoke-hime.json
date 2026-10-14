@@ -1,0 +1,59 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 143,
+  "slug": "mononoke-hime",
+  "kind": "anime",
+  "title": "Mononoke-hime",
+  "titles": {
+    "default": "Mononoke-hime",
+    "romaji": "Mononoke-hime",
+    "english": "Princess Mononoke",
+    "native": "もののけ姫"
+  },
+  "synonyms": [
+    "Mononoke-hime",
+    "Princess Mononoke",
+    "もののけ姫",
+    "La Princesa Mononoke",
+    "Księżniczka Mononoke",
+    "Principessa Mononoke",
+    "الأميرة مونونوكي",
+    "Prenses Mononoke",
+    "Princesse Mononoké",
+    "Princesa Mononoke",
+    "A Princesa Mononoke",
+    "Prinzessin Mononoke",
+    "Πριγκίπισσα Μονονόκε",
+    "Prinsessan Mononoke",
+    "Prinsesse Mononoke",
+    "Mononoke Prinsessa",
+    "Eikou e no Spur: Igaya Chiharu Monogatari",
+    "栄光へのシュプール 猪谷千春物語"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx164-ySuGzCWVw2cL.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "164",
+      "url": "https://anilist.co/anime/164"
+    },
+    "k": {
+      "id": "9257",
+      "url": "https://kitsu.io/anime/9257"
+    },
+    "mal": {
+      "id": "164",
+      "url": "https://myanimelist.net/anime/164"
+    },
+    "nf": {
+      "id": "28630857",
+      "url": "https://www.netflix.com/title/28630857"
+    }
+  }
+}

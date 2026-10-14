@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13034,
+  "slug": "kinnikuman-kanpeki-choujin-shiso-hen-season-2",
+  "kind": "anime",
+  "title": "Kinnikuman: Kanpeki Choujin Shiso-hen Season 2",
+  "titles": {
+    "default": "Kinnikuman: Kanpeki Choujin Shiso-hen Season 2",
+    "romaji": "Kinnikuman: Kanpeki Choujin Shiso-hen Season 2",
+    "english": "Kinnikuman Perfect Origin Arc Season 2",
+    "native": "キン肉マン 完璧超人始祖編 Season 2"
+  },
+  "synonyms": [
+    "Kinnikuman: Kanpeki Choujin Shiso-hen Season 2",
+    "Kinnikuman Perfect Origin Arc Season 2",
+    "キン肉マン 完璧超人始祖編 Season 2",
+    "Sakamoto Days",
+    "SAKAMOTO DAYS"
+  ],
+  "type": "tv",
+  "episodes": 11,
+  "status": "finished",
+  "season": "winter",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181886-gEqtKp6Wt2U2.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "181886",
+      "url": "https://anilist.co/anime/181886"
+    },
+    "mal": {
+      "id": "59914",
+      "url": "https://myanimelist.net/anime/59914"
+    },
+    "nf": {
+      "id": "81781519",
+      "url": "https://www.netflix.com/title/81781519"
+    },
+    "tx": {
+      "id": "kin29man_anime",
+      "url": "https://twitter.com/kin29man_anime"
+    }
+  }
+}

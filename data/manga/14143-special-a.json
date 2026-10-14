@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14143,
+  "slug": "special-a",
+  "kind": "manga",
+  "title": "Special A",
+  "titles": {
+    "default": "Special A"
+  },
+  "synonyms": [
+    "S.A.",
+    "S・A",
+    "SA",
+    "S A",
+    "S.A: Special A",
+    "Ｓ・Ａ　スペシャル・エー",
+    "xxxHOLiC",
+    "xxxHolic Rou",
+    "xxxHolic Cage",
+    "xxxHolic•Rou"
+  ],
+  "type": "manga",
+  "chapters": 104,
+  "volumes": 17,
+  "status": "finished",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31271-qP7Iilm8r1Tn.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3470",
+      "url": "https://anilist.co/anime/3470"
+    },
+    "al_manga": {
+      "id": "3470",
+      "url": "https://anilist.co/manga/3470"
+    }
+  }
+}

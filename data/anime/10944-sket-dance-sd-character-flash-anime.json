@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10944,
+  "slug": "sket-dance-sd-character-flash-anime",
+  "kind": "anime",
+  "title": "SKET Dance: SD Character Flash Anime",
+  "titles": {
+    "default": "SKET Dance: SD Character Flash Anime",
+    "romaji": "SKET Dance: SD Character Flash Anime",
+    "native": "スケットダンス SDキャラフラッシュアニメ"
+  },
+  "synonyms": [
+    "SKET Dance: SD Character Flash Anime",
+    "スケットダンス SDキャラフラッシュアニメ"
+  ],
+  "type": "ona",
+  "episodes": 16,
+  "status": "finished",
+  "season": "spring",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16718-Y32QUZ9UrsIM.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "16718",
+      "url": "https://anilist.co/anime/16718"
+    },
+    "k": {
+      "id": "7497",
+      "url": "https://kitsu.io/anime/7497"
+    },
+    "mal": {
+      "id": "16718",
+      "url": "https://myanimelist.net/anime/16718"
+    }
+  }
+}

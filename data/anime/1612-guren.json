@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1612,
+  "slug": "guren",
+  "kind": "anime",
+  "title": "Guren",
+  "titles": {
+    "default": "Guren",
+    "romaji": "Guren",
+    "english": "Blood Shadow",
+    "native": "紅蓮"
+  },
+  "synonyms": [
+    "Guren",
+    "Blood Shadow",
+    "紅蓮",
+    "Crimson Lotus",
+    "Red Lotus",
+    "BloodShadow",
+    "Blood Shadow: Guren",
+    "Le Lotus Rouge",
+    "Civil Engineering and Our Lives",
+    "Watashitachi no Kurashi to Doboku",
+    "私たちの暮らしと土木",
+    "Watashi-tachi no Kurashi to Doboku Series"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "fall",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1821.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1821",
+      "url": "https://anilist.co/anime/1821"
+    },
+    "k": {
+      "id": "9693",
+      "url": "https://kitsu.io/anime/9693"
+    },
+    "mal": {
+      "id": "1821",
+      "url": "https://myanimelist.net/anime/1821"
+    }
+  }
+}

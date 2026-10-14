@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5250,
+  "slug": "kero-kero-keroppi-no-daibouken-pink-no-kinoko",
+  "kind": "anime",
+  "title": "Kero Kero Keroppi no Daibouken: Pink no Kinoko",
+  "titles": {
+    "default": "Kero Kero Keroppi no Daibouken: Pink no Kinoko",
+    "romaji": "Kero Kero Keroppi no Daibouken: Pink no Kinoko",
+    "native": "けろけろけろっぴの大冒険~ピンクのきのこ"
+  },
+  "synonyms": [
+    "Kero Kero Keroppi no Daibouken: Pink no Kinoko",
+    "けろけろけろっぴの大冒険~ピンクのきのこ",
+    "Hello Kitty in Heidi",
+    "Hello Kitty no Alps no Shoujo Heidi",
+    "ハローキティのアルプスの少女ハイジ",
+    "Hello Kitty and Friends: Heidi"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1993,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18087.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "18087",
+      "url": "https://anilist.co/anime/18087"
+    },
+    "k": {
+      "id": "9303",
+      "url": "https://kitsu.io/anime/9303"
+    },
+    "mal": {
+      "id": "18087",
+      "url": "https://myanimelist.net/anime/18087"
+    }
+  }
+}

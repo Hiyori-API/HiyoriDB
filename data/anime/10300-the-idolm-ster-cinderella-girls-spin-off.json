@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10300,
+  "slug": "the-idolm-ster-cinderella-girls-spin-off",
+  "kind": "anime",
+  "title": "THE IDOLM@STER CINDERELLA GIRLS: Spin-off!",
+  "titles": {
+    "default": "THE IDOLM@STER CINDERELLA GIRLS: Spin-off!",
+    "romaji": "THE IDOLM@STER CINDERELLA GIRLS: Spin-off!",
+    "native": "THE IDOLM@STER CINDERELLA GIRLS Spin-off!"
+  },
+  "synonyms": [
+    "THE IDOLM@STER CINDERELLA GIRLS: Spin-off!",
+    "THE IDOLM@STER CINDERELLA GIRLS Spin-off!",
+    "アイドルマスター シンデレラガールズ Spin-off!",
+    "The iDOLM@STER Cinderella Girls: Spin-off!"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b113221-DlRbl5HcIDoM.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "113221",
+      "url": "https://anilist.co/anime/113221"
+    },
+    "mal": {
+      "id": "40693",
+      "url": "https://myanimelist.net/anime/40693"
+    },
+    "yt": {
+      "id": "LKuUDHz13Jg",
+      "url": "https://www.youtube.com/watch?v=LKuUDHz13Jg"
+    }
+  }
+}

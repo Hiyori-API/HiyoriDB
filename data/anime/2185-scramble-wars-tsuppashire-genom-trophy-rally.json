@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2185,
+  "slug": "scramble-wars-tsuppashire-genom-trophy-rally",
+  "kind": "anime",
+  "title": "Scramble Wars: Tsuppashire! Genom Trophy Rally",
+  "titles": {
+    "default": "Scramble Wars: Tsuppashire! Genom Trophy Rally",
+    "romaji": "Scramble Wars: Tsuppashire! Genom Trophy Rally",
+    "native": "スクランブル・ウォーズ　突っ走る！ゲノムトロフィーラリー"
+  },
+  "synonyms": [
+    "Scramble Wars: Tsuppashire! Genom Trophy Rally",
+    "スクランブル・ウォーズ　突っ走る！ゲノムトロフィーラリー",
+    "Super Deformed Double Feature"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2466.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2466",
+      "url": "https://anilist.co/anime/2466"
+    },
+    "k": {
+      "id": "2240",
+      "url": "https://kitsu.io/anime/2240"
+    },
+    "mal": {
+      "id": "2466",
+      "url": "https://myanimelist.net/anime/2466"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11944,
+  "slug": "road-of-naruto",
+  "kind": "anime",
+  "title": "ROAD OF NARUTO",
+  "titles": {
+    "default": "ROAD OF NARUTO",
+    "romaji": "ROAD OF NARUTO"
+  },
+  "synonyms": [
+    "ROAD OF NARUTO",
+    "NARUTO - ナルト -  20 周年記念",
+    "NARUTO 20 Shuunenkinen",
+    "Naruto 20th Anniversary PV",
+    "Tonikawa: Over The Moon For You - Uniform",
+    "トニカクカワイイ ~制服~",
+    "Tonikaku Kawaii: Seifuku"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155348-4ipji8SvTjyh.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "155348",
+      "url": "https://anilist.co/anime/155348"
+    },
+    "mal": {
+      "id": "53236",
+      "url": "https://myanimelist.net/anime/53236"
+    },
+    "yt": {
+      "id": "yKELA1qBAKA",
+      "url": "https://www.youtube.com/watch?v=yKELA1qBAKA"
+    }
+  }
+}

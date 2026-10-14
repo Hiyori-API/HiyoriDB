@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4466,
+  "slug": "oni-chichi",
+  "kind": "anime",
+  "title": "Oni Chichi",
+  "titles": {
+    "default": "Oni Chichi",
+    "romaji": "Oni Chichi",
+    "english": "Demon Father",
+    "native": "鬼父"
+  },
+  "synonyms": [
+    "Oni Chichi",
+    "Demon Father",
+    "鬼父",
+    "Zan Sayonara Zetsubou Sensei Bangaichi",
+    "懺さよなら絶望先生 番外地",
+    "Zan Sayonara Zetsubou Sensei OVA",
+    "Zan Sayonara Zetsubou Sensei No Man's Land",
+    "ZSZSB"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6893-vit3lBhizfEY.png"
+  ],
+  "references": {
+    "al": {
+      "id": "6893",
+      "url": "https://anilist.co/anime/6893"
+    },
+    "k": {
+      "id": "4847",
+      "url": "https://kitsu.io/anime/4847"
+    },
+    "mal": {
+      "id": "6893",
+      "url": "https://myanimelist.net/anime/6893"
+    }
+  }
+}

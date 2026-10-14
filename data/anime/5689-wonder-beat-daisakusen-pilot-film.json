@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5689,
+  "slug": "wonder-beat-daisakusen-pilot-film",
+  "kind": "anime",
+  "title": "Wonder Beat Daisakusen: Pilot Film",
+  "titles": {
+    "default": "Wonder Beat Daisakusen: Pilot Film",
+    "romaji": "Wonder Beat Daisakusen: Pilot Film",
+    "native": "パイロットフィルム「ワンダービート　大作戦」"
+  },
+  "synonyms": [
+    "Wonder Beat Daisakusen: Pilot Film",
+    "パイロットフィルム「ワンダービート　大作戦」",
+    "Wonder Beat Scramble Pilot",
+    "ワンダービート大作戦「よみがえれ美しい音」",
+    "Wonder Beat Daisakusen: Yomigaere Utsukushii Oto",
+    "Ah! My Buddha Special",
+    "Amaenaide yo!!: Yasumanaide yo!!",
+    "あまえないでよっ!!: 休まないでよっ!!",
+    "Amaenaide yo!! Special"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b145795-dgxAi6396bom.png"
+  ],
+  "references": {
+    "al": {
+      "id": "145795",
+      "url": "https://anilist.co/anime/145795"
+    },
+    "k": {
+      "id": "1569",
+      "url": "https://kitsu.io/anime/1569"
+    },
+    "mal": {
+      "id": "1749",
+      "url": "https://myanimelist.net/anime/1749"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14378,
+  "slug": "tokyo-underground",
+  "kind": "manga",
+  "title": "Tokyo Underground",
+  "titles": {
+    "default": "Tokyo Underground"
+  },
+  "synonyms": [
+    "Tokyo Underground",
+    "東京アンダーグラウンド",
+    "Kamikaze Kaito Jeanne",
+    "Kamikaze Kaitou Jeanne",
+    "Phantom Thief Jeanne",
+    "神風怪盗ジャンヌ",
+    "Divine Wind Phantom Thief Jeanne"
+  ],
+  "type": "manga",
+  "chapters": 84,
+  "volumes": 14,
+  "status": "finished",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3211.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "175",
+      "url": "https://anilist.co/anime/175"
+    },
+    "al_manga": {
+      "id": "175",
+      "url": "https://anilist.co/manga/175"
+    }
+  }
+}

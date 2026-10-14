@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5599,
+  "slug": "initial-d-to-the-next-stage-project-d-e-mukete",
+  "kind": "anime",
+  "title": "Initial D to the Next Stage: Project D e Mukete",
+  "titles": {
+    "default": "Initial D to the Next Stage: Project D e Mukete",
+    "romaji": "Initial D to the Next Stage: Project D e Mukete",
+    "native": "頭文字[イニシャル]D to the Next Stage ～プロジェクトDへ向けて～"
+  },
+  "synonyms": [
+    "Initial D to the Next Stage: Project D e Mukete",
+    "頭文字[イニシャル]D to the Next Stage ～プロジェクトDへ向けて～",
+    "Initial D: Project D to the Next Stage - Speculations on Project D",
+    "Fighting Spirit: Champion Road",
+    "Hajime no Ippo: Champion Road",
+    "はじめの一歩 -Champion Road-",
+    "The First Step - Champion Road"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12725-CcU0ICZWAbi0.png"
+  ],
+  "references": {
+    "al": {
+      "id": "12725",
+      "url": "https://anilist.co/anime/12725"
+    },
+    "cr": {
+      "id": "series/GW4HM7N7X/hajime-no-ippo-the-fighting",
+      "url": "https://www.crunchyroll.com/series/series/GW4HM7N7X/hajime-no-ippo-the-fighting"
+    },
+    "k": {
+      "id": "239",
+      "url": "https://kitsu.io/anime/239"
+    },
+    "mal": {
+      "id": "12725",
+      "url": "https://myanimelist.net/anime/12725"
+    }
+  }
+}

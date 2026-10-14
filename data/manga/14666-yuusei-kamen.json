@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14666,
+  "slug": "yuusei-kamen",
+  "kind": "manga",
+  "title": "Yuusei Kamen",
+  "titles": {
+    "default": "Yuusei Kamen"
+  },
+  "synonyms": [
+    "遊星仮面",
+    "Kuroi Ame ni Utarete",
+    "黒い雨にうたれて",
+    "Struck by Black Rain"
+  ],
+  "type": "manga",
+  "volumes": 3,
+  "status": "finished",
+  "year": 1966,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx136455-DzepZfMBHBuw.png"
+  ],
+  "references": {
+    "al": {
+      "id": "12767",
+      "url": "https://anilist.co/anime/12767"
+    },
+    "al_manga": {
+      "id": "12767",
+      "url": "https://anilist.co/manga/12767"
+    }
+  }
+}

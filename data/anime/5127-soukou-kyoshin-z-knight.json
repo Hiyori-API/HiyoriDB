@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5127,
+  "slug": "soukou-kyoshin-z-knight",
+  "kind": "anime",
+  "title": "Soukou Kyoshin Z-Knight",
+  "titles": {
+    "default": "Soukou Kyoshin Z-Knight",
+    "romaji": "Soukou Kyoshin Z-Knight",
+    "native": "装甲巨神Zナイト"
+  },
+  "synonyms": [
+    "Soukou Kyoshin Z-Knight",
+    "装甲巨神Zナイト",
+    "Soukou Kyojin Z-Knight"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9965.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9965",
+      "url": "https://anilist.co/anime/9965"
+    },
+    "k": {
+      "id": "5968",
+      "url": "https://kitsu.io/anime/5968"
+    },
+    "mal": {
+      "id": "9965",
+      "url": "https://myanimelist.net/anime/9965"
+    }
+  }
+}

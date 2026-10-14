@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6453,
+  "slug": "mahou-shoujo-sonico-magica",
+  "kind": "anime",
+  "title": "Mahou Shoujo Sonico☆Magica",
+  "titles": {
+    "default": "Mahou Shoujo Sonico☆Magica",
+    "romaji": "Mahou Shoujo Sonico☆Magica",
+    "english": "Puella Magi Sonico Magica",
+    "native": "魔法少女そに子☆マギカ"
+  },
+  "synonyms": [
+    "Mahou Shoujo Sonico☆Magica",
+    "Puella Magi Sonico Magica",
+    "魔法少女そに子☆マギカ",
+    "Mahou Shoujo Sonico Magika",
+    "Mahou Shoujo Sonico★Magica",
+    "Mahou Shoujo Madoka★Magica April Fools'"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10519.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10519",
+      "url": "https://anilist.co/anime/10519"
+    },
+    "k": {
+      "id": "6218",
+      "url": "https://kitsu.io/anime/6218"
+    },
+    "mal": {
+      "id": "10519",
+      "url": "https://myanimelist.net/anime/10519"
+    }
+  }
+}

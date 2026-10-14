@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15222,
+  "slug": "daraku",
+  "kind": "manga",
+  "title": "Daraku",
+  "titles": {
+    "default": "Daraku"
+  },
+  "synonyms": [
+    "Depravity",
+    "堕落",
+    "Paradise Kiss",
+    "パラダイス・キス",
+    "ParaKiss"
+  ],
+  "type": "manga",
+  "chapters": 9,
+  "volumes": 1,
+  "status": "finished",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx75437-6rp8f0e1nPpe.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3578",
+      "url": "https://anilist.co/anime/3578"
+    },
+    "al_manga": {
+      "id": "3578",
+      "url": "https://anilist.co/manga/3578"
+    }
+  }
+}

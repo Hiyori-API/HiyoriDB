@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4369,
+  "slug": "ibara-no-ou-king-of-thorn",
+  "kind": "anime",
+  "title": "Ibara no Ou: King of Thorn",
+  "titles": {
+    "default": "Ibara no Ou: King of Thorn",
+    "romaji": "Ibara no Ou: King of Thorn",
+    "english": "King of Thorn",
+    "native": "いばらの王 -King of Thorn-"
+  },
+  "synonyms": [
+    "Ibara no Ou: King of Thorn",
+    "King of Thorn",
+    "いばらの王 -King of Thorn-",
+    "Ibara no Oh",
+    "Ibara no Ou",
+    "いばらの王"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6610.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6610",
+      "url": "https://anilist.co/anime/6610"
+    },
+    "cr": {
+      "id": "king-of-thorn",
+      "url": "https://www.crunchyroll.com/series/king-of-thorn"
+    },
+    "k": {
+      "id": "4634",
+      "url": "https://kitsu.io/anime/4634"
+    },
+    "mal": {
+      "id": "6610",
+      "url": "https://myanimelist.net/anime/6610"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10312,
+  "slug": "chokotto-anime-kemono-friends-3",
+  "kind": "anime",
+  "title": "Chokotto Anime Kemono Friends 3",
+  "titles": {
+    "default": "Chokotto Anime Kemono Friends 3",
+    "romaji": "Chokotto Anime Kemono Friends 3",
+    "native": "ちょこっとアニメ けものフレンズ３"
+  },
+  "synonyms": [
+    "Chokotto Anime Kemono Friends 3",
+    "ちょこっとアニメ けものフレンズ３",
+    "Xiong Bing Lian 2nd Season",
+    "Super Seminary 6th Season",
+    "Chao Shen Xueyuan 6th Season",
+    "The Black Troop 2nd Season",
+    "雄兵连Ⅱ 诸天降临",
+    "Xiong Bing Lian II: Zhu Tian Jianglin"
+  ],
+  "type": "ona",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115238-1nK7TTco0HC4.png"
+  ],
+  "references": {
+    "al": {
+      "id": "115238",
+      "url": "https://anilist.co/anime/115238"
+    },
+    "mal": {
+      "id": "39653",
+      "url": "https://myanimelist.net/anime/39653"
+    }
+  }
+}

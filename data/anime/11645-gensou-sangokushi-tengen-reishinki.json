@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11645,
+  "slug": "gensou-sangokushi-tengen-reishinki",
+  "kind": "anime",
+  "title": "Gensou Sangokushi: Tengen Reishinki",
+  "titles": {
+    "default": "Gensou Sangokushi: Tengen Reishinki",
+    "romaji": "Gensou Sangokushi: Tengen Reishinki",
+    "english": "Fantasia Sango - Realm of Legends",
+    "native": "幻想三國誌 -天元霊心記"
+  },
+  "synonyms": [
+    "Gensou Sangokushi: Tengen Reishinki",
+    "Fantasia Sango - Realm of Legends",
+    "幻想三國誌 -天元霊心記",
+    "Vanitas no Shuki 2nd Season",
+    "Memoir of Vanitas 2nd Season",
+    "Vanitas no Carte 2nd Season",
+    "The Case Study of Vanitas Part 2",
+    "ヴァニタスの手記",
+    "Vanitas no Karte Part 2"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137247-JAj22GZfrbUk.png"
+  ],
+  "references": {
+    "al": {
+      "id": "137247",
+      "url": "https://anilist.co/anime/137247"
+    },
+    "cr": {
+      "id": "fantasia-sango-realm-of-legends",
+      "url": "https://www.crunchyroll.com/series/fantasia-sango-realm-of-legends"
+    },
+    "mal": {
+      "id": "49514",
+      "url": "https://myanimelist.net/anime/49514"
+    },
+    "tx": {
+      "id": "gensou_3gokushi",
+      "url": "https://twitter.com/gensou_3gokushi"
+    }
+  }
+}

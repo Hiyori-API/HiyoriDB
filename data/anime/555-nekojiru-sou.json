@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 555,
+  "slug": "nekojiru-sou",
+  "kind": "anime",
+  "title": "Nekojiru-sou",
+  "titles": {
+    "default": "Nekojiru-sou",
+    "romaji": "Nekojiru-sou",
+    "english": "Cat Soup",
+    "native": "ねこぢる草"
+  },
+  "synonyms": [
+    "Nekojiru-sou",
+    "Cat Soup",
+    "ねこぢる草",
+    "Kocia zupa",
+    "Кошачий суп",
+    "L'herbe du chat Jiru"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b601-ti6XlGiU2tUA.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "601",
+      "url": "https://anilist.co/anime/601"
+    },
+    "k": {
+      "id": "556",
+      "url": "https://kitsu.io/anime/556"
+    },
+    "mal": {
+      "id": "601",
+      "url": "https://myanimelist.net/anime/601"
+    }
+  }
+}

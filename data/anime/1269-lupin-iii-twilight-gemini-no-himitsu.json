@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1269,
+  "slug": "lupin-iii-twilight-gemini-no-himitsu",
+  "kind": "anime",
+  "title": "Lupin III: \"Twilight☆Gemini no Himitsu\"",
+  "titles": {
+    "default": "Lupin III: \"Twilight☆Gemini no Himitsu\"",
+    "romaji": "Lupin III: \"Twilight☆Gemini no Himitsu\"",
+    "english": "Lupin the 3rd: The Secret of Twilight Gemini",
+    "native": "ルパン三世『トワイライト☆ジェミニの秘密』"
+  },
+  "synonyms": [
+    "Lupin III: \"Twilight☆Gemini no Himitsu\"",
+    "Lupin the 3rd: The Secret of Twilight Gemini",
+    "ルパン三世『トワイライト☆ジェミニの秘密』",
+    "Rupan Sansei: Twilight Gemini no Himitsu",
+    "Lupin III Special Part 8",
+    "Lupin III: The Secret of Twilight Gemini",
+    "Lupin III - Il segreto del Diamante Penombra",
+    "Lupin III - Una cascata di diamanti",
+    "Lupin the Third: The Secret of Twilight Gemini",
+    "Lupin III: Twilight Gemini no Himitsu",
+    "Lupin III: The Legend of Twilight Gemini"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1436-4K1j2oR4RYZy.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1436",
+      "url": "https://anilist.co/anime/1436"
+    },
+    "ap": {
+      "id": "B092PX1Q83",
+      "url": "https://www.amazon.com/gp/video/detail/B092PX1Q83"
+    },
+    "k": {
+      "id": "1289",
+      "url": "https://kitsu.io/anime/1289"
+    },
+    "mal": {
+      "id": "1436",
+      "url": "https://myanimelist.net/anime/1436"
+    }
+  }
+}

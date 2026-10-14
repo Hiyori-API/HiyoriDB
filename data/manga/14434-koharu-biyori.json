@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14434,
+  "slug": "koharu-biyori",
+  "kind": "manga",
+  "title": "Koharu Biyori",
+  "titles": {
+    "default": "Koharu Biyori"
+  },
+  "synonyms": [
+    "Indian Summer",
+    "Koharubiyori",
+    "こはるびより",
+    "Full Moon wo Sagashite",
+    "満月〈フルムーン〉をさがして",
+    "Searching for the Full Moon",
+    "Ginyuu Meika"
+  ],
+  "type": "manga",
+  "chapters": 61,
+  "volumes": 7,
+  "status": "finished",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33602-SGCaOa3P0rGS.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3085",
+      "url": "https://anilist.co/anime/3085"
+    },
+    "al_manga": {
+      "id": "3085",
+      "url": "https://anilist.co/manga/3085"
+    }
+  }
+}

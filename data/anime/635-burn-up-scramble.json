@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 635,
+  "slug": "burn-up-scramble",
+  "kind": "anime",
+  "title": "Burn Up Scramble",
+  "titles": {
+    "default": "Burn Up Scramble",
+    "romaji": "Burn Up Scramble",
+    "english": "Burn-Up Scramble",
+    "native": "バーンナップスクランブル"
+  },
+  "synonyms": [
+    "Burn Up Scramble",
+    "Burn-Up Scramble",
+    "バーンナップスクランブル",
+    "Burn Up! Scramble"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx693-2vsA1F4SK84h.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "693",
+      "url": "https://anilist.co/anime/693"
+    },
+    "k": {
+      "id": "634",
+      "url": "https://kitsu.io/anime/634"
+    },
+    "mal": {
+      "id": "693",
+      "url": "https://myanimelist.net/anime/693"
+    },
+    "t": {
+      "id": "8861",
+      "url": "https://trakt.tv/shows/8861"
+    }
+  }
+}

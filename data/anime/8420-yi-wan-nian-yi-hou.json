@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8420,
+  "slug": "yi-wan-nian-yi-hou",
+  "kind": "anime",
+  "title": "Yi Wan Nian Yi Hou",
+  "titles": {
+    "default": "Yi Wan Nian Yi Hou",
+    "romaji": "Yi Wan Nian Yi Hou",
+    "english": "10000 Years Later",
+    "native": "天籁之一萬年以后"
+  },
+  "synonyms": [
+    "Yi Wan Nian Yi Hou",
+    "10000 Years Later",
+    "天籁之一萬年以后",
+    "Teana: 10000 Years Later",
+    "Psycho-Pass: The Movie",
+    "Psycho-Pass Movie",
+    "劇場版 サイコパス",
+    "Psychopath Movie"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx102304-amI7nLiTsOxG.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "102304",
+      "url": "https://anilist.co/anime/102304"
+    },
+    "cr": {
+      "id": "series/G8DHV7DV0/psycho-pass---the-movie",
+      "url": "https://www.crunchyroll.com/series/series/G8DHV7DV0/psycho-pass---the-movie"
+    },
+    "k": {
+      "id": "7986",
+      "url": "https://kitsu.io/anime/7986"
+    },
+    "mal": {
+      "id": "35432",
+      "url": "https://myanimelist.net/anime/35432"
+    },
+    "t": {
+      "id": "43623",
+      "url": "https://trakt.tv/shows/43623"
+    }
+  }
+}

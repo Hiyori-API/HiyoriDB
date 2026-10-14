@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 234,
+  "slug": "happy-lesson-advance",
+  "kind": "anime",
+  "title": "HAPPY☆LESSON: ADVANCE",
+  "titles": {
+    "default": "HAPPY☆LESSON: ADVANCE",
+    "romaji": "HAPPY☆LESSON: ADVANCE",
+    "native": "HAPPY☆LESSON ADVANCE"
+  },
+  "synonyms": [
+    "HAPPY☆LESSON: ADVANCE",
+    "HAPPY☆LESSON ADVANCE",
+    "Happy☆Lesson: Advance",
+    "Happy Lesson: Advance"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/261.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "261",
+      "url": "https://anilist.co/anime/261"
+    },
+    "k": {
+      "id": "236",
+      "url": "https://kitsu.io/anime/236"
+    },
+    "mal": {
+      "id": "261",
+      "url": "https://myanimelist.net/anime/261"
+    },
+    "t": {
+      "id": "12373",
+      "url": "https://trakt.tv/shows/12373"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5496,
+  "slug": "hino-hideshi-toukaidou-yotsuya-kaidan",
+  "kind": "anime",
+  "title": "Hino Hideshi Toukaidou Yotsuya Kaidan",
+  "titles": {
+    "default": "Hino Hideshi Toukaidou Yotsuya Kaidan",
+    "romaji": "Hino Hideshi Toukaidou Yotsuya Kaidan",
+    "native": "日野日出志 東海道 四谷怪談"
+  },
+  "synonyms": [
+    "Hino Hideshi Toukaidou Yotsuya Kaidan",
+    "日野日出志 東海道 四谷怪談"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17405.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "17405",
+      "url": "https://anilist.co/anime/17405"
+    },
+    "k": {
+      "id": "8942",
+      "url": "https://kitsu.io/anime/8942"
+    },
+    "mal": {
+      "id": "17405",
+      "url": "https://myanimelist.net/anime/17405"
+    }
+  }
+}

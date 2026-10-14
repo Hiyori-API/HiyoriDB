@@ -1,0 +1,63 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 132,
+  "slug": "juuni-kokuki",
+  "kind": "anime",
+  "title": "Juuni Kokuki",
+  "titles": {
+    "default": "Juuni Kokuki",
+    "romaji": "Juuni Kokuki",
+    "english": "The Twelve Kingdoms",
+    "native": "十二国記"
+  },
+  "synonyms": [
+    "Juuni Kokuki",
+    "The Twelve Kingdoms",
+    "十二国記",
+    "12 Kingdoms",
+    "Juuni Kokki",
+    "Les 12 Royaumes",
+    "12 อาณาจักรเทพยุทธ์",
+    "Thập nhị quốc ký",
+    "Doce Reinos",
+    "Двенадцать королевств"
+  ],
+  "type": "tv",
+  "episodes": 45,
+  "status": "finished",
+  "season": "spring",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153-pLhZPQCYk7hl.png"
+  ],
+  "references": {
+    "al": {
+      "id": "153",
+      "url": "https://anilist.co/anime/153"
+    },
+    "ap": {
+      "id": "B07GHW2RB7",
+      "url": "https://www.amazon.com/gp/video/detail/B07GHW2RB7"
+    },
+    "cr": {
+      "id": "the-twelve-kingdoms",
+      "url": "https://www.crunchyroll.com/series/the-twelve-kingdoms"
+    },
+    "k": {
+      "id": "131",
+      "url": "https://kitsu.io/anime/131"
+    },
+    "mal": {
+      "id": "153",
+      "url": "https://myanimelist.net/anime/153"
+    },
+    "t": {
+      "id": "42504",
+      "url": "https://trakt.tv/shows/42504"
+    },
+    "ttv": {
+      "id": "4729",
+      "url": "https://tubitv.com/series/4729"
+    }
+  }
+}

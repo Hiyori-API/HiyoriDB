@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15332,
+  "slug": "yokuwakaru-gendaimahou",
+  "kind": "manga",
+  "title": "Yokuwakaru Gendaimahou",
+  "titles": {
+    "default": "Yokuwakaru Gendaimahou"
+  },
+  "synonyms": [
+    "Modern Magic for Dummies",
+    "Properly Learned Modern Magic",
+    "Yoku Wakaru Gendai Mahou",
+    "Manageable Modern Magic",
+    "よくわかる現代魔法",
+    "Yokuwakaru Gendaimahou"
+  ],
+  "type": "novel",
+  "status": "publishing",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/16065.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5454",
+      "url": "https://anilist.co/anime/6748"
+    },
+    "al_manga": {
+      "id": "5454",
+      "url": "https://anilist.co/manga/5454"
+    }
+  }
+}

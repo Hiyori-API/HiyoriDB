@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14877,
+  "slug": "pelican-road",
+  "kind": "manga",
+  "title": "Pelican Road",
+  "titles": {
+    "default": "Pelican Road"
+  },
+  "synonyms": [
+    "ペリカンロード",
+    "Dragon Ball",
+    "ドラゴンボール",
+    "Dragonball",
+    "Dragon Ball Z",
+    "Dragonball Z"
+  ],
+  "type": "manga",
+  "volumes": 14,
+  "status": "finished",
+  "year": 1984,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx151622-0vdTnlPyHQrZ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "8324",
+      "url": "https://anilist.co/anime/8324"
+    },
+    "al_manga": {
+      "id": "8324",
+      "url": "https://anilist.co/manga/8324"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14052,
+  "slug": "full-metal-panic-sigma",
+  "kind": "manga",
+  "title": "Full Metal Panic! Sigma",
+  "titles": {
+    "default": "Full Metal Panic! Sigma"
+  },
+  "synonyms": [
+    "Full Metal Panic",
+    "Full Metal Panic! Sigma",
+    "フルメタル・パニック! Σ",
+    "Renai Soukanzu",
+    "恋愛相姦図",
+    "Renai Sokanzu",
+    "Pink Sweets"
+  ],
+  "type": "manga",
+  "chapters": 90,
+  "volumes": 19,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/895.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1015",
+      "url": "https://anilist.co/anime/73"
+    },
+    "al_manga": {
+      "id": "1015",
+      "url": "https://anilist.co/manga/1015"
+    }
+  }
+}

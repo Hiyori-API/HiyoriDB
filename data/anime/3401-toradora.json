@@ -1,0 +1,63 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3401,
+  "slug": "toradora",
+  "kind": "anime",
+  "title": "Toradora!",
+  "titles": {
+    "default": "Toradora!",
+    "romaji": "Toradora!",
+    "native": "とらドラ！"
+  },
+  "synonyms": [
+    "Toradora!",
+    "とらドラ！",
+    "Tiger X Dragon",
+    "龙与虎",
+    "النمر والتنين",
+    "ยัยเสือใสกับนายหน้าโหด",
+    "Τίγρης και Δράκος"
+  ],
+  "type": "tv",
+  "episodes": 25,
+  "status": "finished",
+  "season": "fall",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4224-PXVMBLNwy2aF.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4224",
+      "url": "https://anilist.co/anime/4224"
+    },
+    "cr": {
+      "id": "toradora",
+      "url": "https://www.crunchyroll.com/series/toradora"
+    },
+    "k": {
+      "id": "3532",
+      "url": "https://kitsu.io/anime/3532"
+    },
+    "mal": {
+      "id": "4224",
+      "url": "https://myanimelist.net/anime/4224"
+    },
+    "nf": {
+      "id": "80049275",
+      "url": "https://www.netflix.com/title/80049275"
+    },
+    "t": {
+      "id": "61405",
+      "url": "https://trakt.tv/shows/61405"
+    },
+    "ttv": {
+      "id": "300007821",
+      "url": "https://tubitv.com/series/300007821"
+    },
+    "tvt": {
+      "id": "toradora",
+      "url": "http://www.tv-tokyo.co.jp/anime/toradora"
+    }
+  }
+}

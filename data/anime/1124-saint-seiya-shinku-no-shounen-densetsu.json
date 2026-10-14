@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1124,
+  "slug": "saint-seiya-shinku-no-shounen-densetsu",
+  "kind": "anime",
+  "title": "Saint Seiya: Shinku no Shounen Densetsu",
+  "titles": {
+    "default": "Saint Seiya: Shinku no Shounen Densetsu",
+    "romaji": "Saint Seiya: Shinku no Shounen Densetsu",
+    "english": "Saint Seiya: Legend of Crimson Youth",
+    "native": "聖闘士星矢 真紅の少年伝説"
+  },
+  "synonyms": [
+    "Saint Seiya: Shinku no Shounen Densetsu",
+    "Saint Seiya: Legend of Crimson Youth",
+    "聖闘士星矢 真紅の少年伝説",
+    "Os Cavaleiros do Zodíaco: A Lenda dos Defensores de Atena"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1255-Jhh95SAoZqQq.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1255",
+      "url": "https://anilist.co/anime/1255"
+    },
+    "k": {
+      "id": "1130",
+      "url": "https://kitsu.io/anime/1130"
+    },
+    "mal": {
+      "id": "1255",
+      "url": "https://myanimelist.net/anime/1255"
+    }
+  }
+}

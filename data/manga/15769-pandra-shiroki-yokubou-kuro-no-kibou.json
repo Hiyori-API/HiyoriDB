@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15769,
+  "slug": "pandra-shiroki-yokubou-kuro-no-kibou",
+  "kind": "manga",
+  "title": "PANDRA: Shiroki Yokubou Kuro no Kibou",
+  "titles": {
+    "default": "PANDRA: Shiroki Yokubou Kuro no Kibou"
+  },
+  "synonyms": [
+    "Injutsu no Yakata Zero: Fear of the Dark",
+    "Residence of Obscene Art Zero~Fear of the Dark~",
+    "PANDRA",
+    "PANDRA -白き欲望 黒の希望-",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "chapters": 16,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx54508-obFwhQidZ0oi.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21535",
+      "url": "https://anilist.co/anime/21535"
+    },
+    "al_manga": {
+      "id": "21535",
+      "url": "https://anilist.co/manga/21535"
+    }
+  }
+}

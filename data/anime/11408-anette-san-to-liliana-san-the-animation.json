@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11408,
+  "slug": "anette-san-to-liliana-san-the-animation",
+  "kind": "anime",
+  "title": "Anette-san to Liliana-san THE ANIMATION",
+  "titles": {
+    "default": "Anette-san to Liliana-san THE ANIMATION",
+    "romaji": "Anette-san to Liliana-san THE ANIMATION",
+    "native": "アネットさんとリリアナさん THE ANIMATION"
+  },
+  "synonyms": [
+    "Anette-san to Liliana-san THE ANIMATION",
+    "アネットさんとリリアナさん THE ANIMATION",
+    "ANNET & LILIANA THE ANIMATION",
+    "Tonikaku Kawaii OVA",
+    "Tonikawa",
+    "Tonikaku Kawaii Episode 13",
+    "Tonikawa: Over The Moon For You - SNS",
+    "トニカクカワイイ 〜SNS〜",
+    "Tonikaku Kawaii: SNS"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx133483-EzUfLR3U6q2N.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "133483",
+      "url": "https://anilist.co/anime/133483"
+    },
+    "mal": {
+      "id": "48880",
+      "url": "https://myanimelist.net/anime/48880"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11326,
+  "slug": "maou-evelogia-ni-mi-wo-sasageyo",
+  "kind": "anime",
+  "title": "Maou Evelogia ni Mi wo Sasageyo",
+  "titles": {
+    "default": "Maou Evelogia ni Mi wo Sasageyo",
+    "romaji": "Maou Evelogia ni Mi wo Sasageyo",
+    "english": "Everything for Demon King Evelogia",
+    "native": "魔王イブロギアに身を捧げよ"
+  },
+  "synonyms": [
+    "Maou Evelogia ni Mi wo Sasageyo",
+    "Everything for Demon King Evelogia",
+    "魔王イブロギアに身を捧げよ",
+    "Reincarnated Into Demon King Evelogia's World",
+    "Tudo pelo Rei Demônio Evelogia",
+    "Halo Legends",
+    "ヘイロー・レジェンズ",
+    "Halo Anime",
+    "Halo Animation"
+  ],
+  "type": "ona",
+  "episodes": 9,
+  "status": "finished",
+  "season": "fall",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129973-5klO2qjNeM4q.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "129973",
+      "url": "https://anilist.co/anime/129973"
+    },
+    "k": {
+      "id": "4760",
+      "url": "https://kitsu.io/anime/4760"
+    },
+    "mal": {
+      "id": "47792",
+      "url": "https://myanimelist.net/anime/47792"
+    },
+    "nf": {
+      "id": "70129415",
+      "url": "https://www.netflix.com/title/70129415"
+    },
+    "tx": {
+      "id": "af_originalBL",
+      "url": "https://twitter.com/af_originalBL"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6223,
+  "slug": "seiyuu-deka",
+  "kind": "anime",
+  "title": "Seiyuu Deka",
+  "titles": {
+    "default": "Seiyuu Deka",
+    "romaji": "Seiyuu Deka",
+    "native": "声優刑事"
+  },
+  "synonyms": [
+    "Seiyuu Deka",
+    "声優刑事",
+    "성우형사"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18047.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "18047",
+      "url": "https://anilist.co/anime/18047"
+    },
+    "k": {
+      "id": "8914",
+      "url": "https://kitsu.io/anime/8914"
+    },
+    "mal": {
+      "id": "18047",
+      "url": "https://myanimelist.net/anime/18047"
+    },
+    "yt": {
+      "id": "HbPnbRri1tk",
+      "url": "https://www.youtube.com/watch?v=scIWrdckzYs"
+    }
+  }
+}

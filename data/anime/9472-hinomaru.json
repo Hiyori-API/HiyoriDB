@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9472,
+  "slug": "hinomaru",
+  "kind": "anime",
+  "title": "HINOMARU!",
+  "titles": {
+    "default": "HINOMARU!",
+    "romaji": "HINOMARU!",
+    "native": "ヒノマル!"
+  },
+  "synonyms": [
+    "HINOMARU!",
+    "ヒノマル!",
+    "Welcome to the Classroom of the Elite",
+    "You-jitsu",
+    "You-zitsu",
+    "Classroom of the Elite",
+    "ようこそ実力至上主義の教室へ",
+    "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx157196-B4IigxbXLjyt.png"
+  ],
+  "references": {
+    "al": {
+      "id": "157196",
+      "url": "https://anilist.co/anime/157196"
+    },
+    "mal": {
+      "id": "36231",
+      "url": "https://myanimelist.net/anime/36231"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3017,
+  "slug": "mach-gogogo-1997",
+  "kind": "anime",
+  "title": "Mach GoGoGo (1997)",
+  "titles": {
+    "default": "Mach GoGoGo (1997)",
+    "romaji": "Mach GoGoGo (1997)",
+    "english": "Speed Racer X",
+    "native": "マッハGoGoGo (1997)"
+  },
+  "synonyms": [
+    "Mach GoGoGo (1997)",
+    "Speed Racer X",
+    "マッハGoGoGo (1997)",
+    "Mach Go Go Go",
+    "Mach Go Go Go: Restart",
+    "マッハGoGoGo"
+  ],
+  "type": "tv",
+  "episodes": 34,
+  "status": "finished",
+  "season": "winter",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3571-LqtGxKpHYVAe.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3571",
+      "url": "https://anilist.co/anime/3571"
+    },
+    "k": {
+      "id": "3112",
+      "url": "https://kitsu.io/anime/3112"
+    },
+    "mal": {
+      "id": "3571",
+      "url": "https://myanimelist.net/anime/3571"
+    }
+  }
+}

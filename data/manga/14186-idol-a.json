@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14186,
+  "slug": "idol-a",
+  "kind": "manga",
+  "title": "Idol A",
+  "titles": {
+    "default": "Idol A"
+  },
+  "synonyms": [
+    "Idol Ace",
+    "아이돌 에이스",
+    "アイドルA",
+    "Renai Soukanzu",
+    "恋愛相姦図",
+    "Renai Sokanzu",
+    "Pink Sweets"
+  ],
+  "type": "manga",
+  "chapters": 6,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/32401.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7569",
+      "url": "https://anilist.co/anime/7569"
+    },
+    "al_manga": {
+      "id": "7569",
+      "url": "https://anilist.co/manga/7569"
+    }
+  }
+}

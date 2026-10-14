@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1694,
+  "slug": "marginal-prince-gekkeiju-no-ouji-tachi",
+  "kind": "anime",
+  "title": "Marginal Prince: Gekkeiju no Ouji-tachi",
+  "titles": {
+    "default": "Marginal Prince: Gekkeiju no Ouji-tachi",
+    "romaji": "Marginal Prince: Gekkeiju no Ouji-tachi",
+    "english": "Marginal Prince",
+    "native": "マージナルプリンス -月桂樹の王子達-"
+  },
+  "synonyms": [
+    "Marginal Prince: Gekkeiju no Ouji-tachi",
+    "Marginal Prince",
+    "マージナルプリンス -月桂樹の王子達-",
+    "Marginal Prince: Gekkeijyu no Oujitachi",
+    "Marginal Prince: Gekkeiju no Ohji Tachi",
+    "Gakuen Heaven",
+    "学園ヘヴン",
+    "Boy's Love Scramble"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1912.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1912",
+      "url": "https://anilist.co/anime/1912"
+    },
+    "cr": {
+      "id": "series/G1XHJV08V/marginal-prince",
+      "url": "https://www.crunchyroll.com/series/series/G1XHJV08V/marginal-prince"
+    },
+    "k": {
+      "id": "752",
+      "url": "https://kitsu.io/anime/752"
+    },
+    "mal": {
+      "id": "1912",
+      "url": "https://myanimelist.net/anime/1912"
+    },
+    "t": {
+      "id": "8753",
+      "url": "https://trakt.tv/shows/8753"
+    }
+  }
+}

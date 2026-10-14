@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3926,
+  "slug": "onegai-my-melody-sukkiri",
+  "kind": "anime",
+  "title": "Onegai My Melody Sukkiri♪",
+  "titles": {
+    "default": "Onegai My Melody Sukkiri♪",
+    "romaji": "Onegai My Melody Sukkiri♪",
+    "native": "おねがい マイメロディ すっきり♪"
+  },
+  "synonyms": [
+    "Onegai My Melody Sukkiri♪",
+    "おねがい マイメロディ すっきり♪",
+    "Hayate the Combat Butler",
+    "Hayate no Gotoku!",
+    "ハヤテのごとく！"
+  ],
+  "type": "tv",
+  "episodes": 52,
+  "status": "finished",
+  "season": "spring",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5520.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5520",
+      "url": "https://anilist.co/anime/5520"
+    },
+    "cr": {
+      "id": "hayate-the-combat-butler-season-1-2",
+      "url": "https://www.crunchyroll.com/series/hayate-the-combat-butler-season-1-2"
+    },
+    "k": {
+      "id": "1825",
+      "url": "https://kitsu.io/anime/1825"
+    },
+    "mal": {
+      "id": "5520",
+      "url": "https://myanimelist.net/anime/5520"
+    },
+    "t": {
+      "id": "56000",
+      "url": "https://trakt.tv/shows/56000"
+    }
+  }
+}

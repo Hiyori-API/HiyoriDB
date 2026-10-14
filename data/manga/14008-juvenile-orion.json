@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14008,
+  "slug": "juvenile-orion",
+  "kind": "manga",
+  "title": "Juvenile Orion",
+  "titles": {
+    "default": "Juvenile Orion"
+  },
+  "synonyms": [
+    "Aquarian Age - Juvenile Orion",
+    "Orion no Shounen",
+    "Juvenile Orion",
+    "Orion no Shounen: Aquarian Age",
+    "Aquarian Age: Juvenile Orion",
+    "オリオンの少年 アクエリアンエイジ"
+  ],
+  "type": "manga",
+  "chapters": 25,
+  "volumes": 5,
+  "status": "finished",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/739.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1268",
+      "url": "https://anilist.co/anime/1224"
+    },
+    "al_manga": {
+      "id": "1268",
+      "url": "https://anilist.co/manga/1268"
+    }
+  }
+}

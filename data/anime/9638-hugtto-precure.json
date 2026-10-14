@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9638,
+  "slug": "hugtto-precure",
+  "kind": "anime",
+  "title": "HUGtto! Precure",
+  "titles": {
+    "default": "HUGtto! Precure",
+    "romaji": "HUGtto! Precure",
+    "native": "HUGっと！プリキュア"
+  },
+  "synonyms": [
+    "HUGtto! Precure",
+    "HUGっと！プリキュア",
+    "Hugtto! Pretty Cure",
+    "Hug tto! Precure",
+    "Hugtto Precure",
+    "Hug! Pretty Cure",
+    "HuGっと！プリキュア"
+  ],
+  "type": "tv",
+  "episodes": 49,
+  "status": "finished",
+  "season": "winter",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100661-XT2NWXKklV5T.png"
+  ],
+  "references": {
+    "al": {
+      "id": "100661",
+      "url": "https://anilist.co/anime/100661"
+    },
+    "mal": {
+      "id": "36593",
+      "url": "https://myanimelist.net/anime/36593"
+    }
+  }
+}

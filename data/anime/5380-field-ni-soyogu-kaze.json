@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5380,
+  "slug": "field-ni-soyogu-kaze",
+  "kind": "anime",
+  "title": "Field ni Soyogu Kaze",
+  "titles": {
+    "default": "Field ni Soyogu Kaze",
+    "romaji": "Field ni Soyogu Kaze",
+    "native": "フィールドにそよぐ風"
+  },
+  "synonyms": [
+    "Field ni Soyogu Kaze",
+    "フィールドにそよぐ風",
+    "The Winds of Victory",
+    "A Breeze Across the Field"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1997,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18443-GjDyc6Lhll4f.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "18443",
+      "url": "https://anilist.co/anime/18443"
+    },
+    "k": {
+      "id": "9260",
+      "url": "https://kitsu.io/anime/9260"
+    },
+    "mal": {
+      "id": "18443",
+      "url": "https://myanimelist.net/anime/18443"
+    }
+  }
+}

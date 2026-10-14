@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14118,
+  "slug": "hokuto-no-ken",
+  "kind": "manga",
+  "title": "Hokuto no Ken",
+  "titles": {
+    "default": "Hokuto no Ken"
+  },
+  "synonyms": [
+    "El Puño de la Estrella del Norte",
+    "Pięść Gwiazd Północy",
+    "북두의 권",
+    "北斗之拳",
+    "Ken le survivant",
+    "Fist of the North Star",
+    "北斗の拳",
+    "Hokuto no Ken"
+  ],
+  "type": "manga",
+  "chapters": 245,
+  "volumes": 27,
+  "status": "finished",
+  "year": 1983,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31149-TOwqxOlY1Zs0.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "169228",
+      "url": "https://anilist.co/anime/1358"
+    },
+    "al_manga": {
+      "id": "169228",
+      "url": "https://anilist.co/manga/169228"
+    }
+  }
+}

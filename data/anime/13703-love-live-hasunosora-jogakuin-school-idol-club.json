@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13703,
+  "slug": "love-live-hasunosora-jogakuin-school-idol-club",
+  "kind": "anime",
+  "title": "Love Live! Hasunosora Jogakuin School Idol Club",
+  "titles": {
+    "default": "Love Live! Hasunosora Jogakuin School Idol Club",
+    "romaji": "Love Live! Hasunosora Jogakuin School Idol Club",
+    "native": "ラブライブ！蓮ノ空女学院スクールアイドルクラブ"
+  },
+  "synonyms": [
+    "Love Live! Hasunosora Jogakuin School Idol Club",
+    "ラブライブ！蓮ノ空女学院スクールアイドルクラブ",
+    "Despera",
+    "ですぺら",
+    "Desupera"
+  ],
+  "type": "tv",
+  "status": "to_be_aired",
+  "season": "winter",
+  "year": 2027,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210157-TsOt9K0ADCmK.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "210157",
+      "url": "https://anilist.co/anime/210157"
+    },
+    "k": {
+      "id": "4584",
+      "url": "https://kitsu.io/anime/4584"
+    },
+    "mal": {
+      "id": "63851",
+      "url": "https://myanimelist.net/anime/63851"
+    }
+  }
+}

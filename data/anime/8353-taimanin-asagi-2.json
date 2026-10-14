@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8353,
+  "slug": "taimanin-asagi-2",
+  "kind": "anime",
+  "title": "Taimanin Asagi 2",
+  "titles": {
+    "default": "Taimanin Asagi 2",
+    "romaji": "Taimanin Asagi 2",
+    "native": "対魔忍アサギ2"
+  },
+  "synonyms": [
+    "Taimanin Asagi 2",
+    "対魔忍アサギ2",
+    "Noragami Aragoto OAD",
+    "ノラガミ OAD",
+    "Noragami Aragoto OVA"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21401-OJlgpIta1HOM.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21401",
+      "url": "https://anilist.co/anime/21401"
+    },
+    "mal": {
+      "id": "31652",
+      "url": "https://myanimelist.net/anime/31652"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7415,
+  "slug": "zecchou-rocket",
+  "kind": "anime",
+  "title": "Zecchou Rocket",
+  "titles": {
+    "default": "Zecchou Rocket",
+    "romaji": "Zecchou Rocket",
+    "native": "絶頂ロケット"
+  },
+  "synonyms": [
+    "Zecchou Rocket",
+    "絶頂ロケット",
+    "Orgasm Rocket",
+    "Hidamari Sketch: Sae Hiro Sotsugyou-hen",
+    "ひだまりスケッチ 沙英ヒロ 卒業編"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19629.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "19629",
+      "url": "https://anilist.co/anime/19629"
+    },
+    "k": {
+      "id": "8021",
+      "url": "https://kitsu.io/anime/8021"
+    },
+    "mal": {
+      "id": "19629",
+      "url": "https://myanimelist.net/anime/19629"
+    }
+  }
+}

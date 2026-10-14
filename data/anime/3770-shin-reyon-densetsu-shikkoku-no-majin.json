@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3770,
+  "slug": "shin-reyon-densetsu-shikkoku-no-majin",
+  "kind": "anime",
+  "title": "Shin Reyon Densetsu: Shikkoku no Majin",
+  "titles": {
+    "default": "Shin Reyon Densetsu: Shikkoku no Majin",
+    "romaji": "Shin Reyon Densetsu: Shikkoku no Majin",
+    "english": "Legend of Reyon: The God of Darkness",
+    "native": "新リヨン伝説　漆黒の魔神"
+  },
+  "synonyms": [
+    "Shin Reyon Densetsu: Shikkoku no Majin",
+    "Legend of Reyon: The God of Darkness",
+    "新リヨン伝説　漆黒の魔神",
+    "Shin Riyon Densetsu: Shikkoku no Majin",
+    "Best of Kitty #2 (2)",
+    "Panzer Dragoon",
+    "パンツァードラグーン"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5159.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5159",
+      "url": "https://anilist.co/anime/5159"
+    },
+    "k": {
+      "id": "2548",
+      "url": "https://kitsu.io/anime/2548"
+    },
+    "mal": {
+      "id": "5159",
+      "url": "https://myanimelist.net/anime/5159"
+    }
+  }
+}

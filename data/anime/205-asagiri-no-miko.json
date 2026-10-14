@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 205,
+  "slug": "asagiri-no-miko",
+  "kind": "anime",
+  "title": "Asagiri no Miko",
+  "titles": {
+    "default": "Asagiri no Miko",
+    "romaji": "Asagiri no Miko",
+    "english": "Shrine of the Morning Mist",
+    "native": "朝霧の巫女"
+  },
+  "synonyms": [
+    "Asagiri no Miko",
+    "Shrine of the Morning Mist",
+    "朝霧の巫女",
+    "Maidens of Morning Mist",
+    "Priestesses of the Morning Mist"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "summer",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx231-UJnVQhD8oKAW.png"
+  ],
+  "references": {
+    "al": {
+      "id": "231",
+      "url": "https://anilist.co/anime/231"
+    },
+    "cr": {
+      "id": "shrine-of-the-morning-mist",
+      "url": "https://www.crunchyroll.com/series/shrine-of-the-morning-mist"
+    },
+    "k": {
+      "id": "206",
+      "url": "https://kitsu.io/anime/206"
+    },
+    "mal": {
+      "id": "231",
+      "url": "https://myanimelist.net/anime/231"
+    },
+    "t": {
+      "id": "33966",
+      "url": "https://trakt.tv/shows/33966"
+    }
+  }
+}

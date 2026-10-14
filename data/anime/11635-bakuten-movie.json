@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11635,
+  "slug": "bakuten-movie",
+  "kind": "anime",
+  "title": "Bakuten!! Movie",
+  "titles": {
+    "default": "Bakuten!! Movie",
+    "romaji": "Bakuten!! Movie",
+    "english": "Backflip!! The Movie",
+    "native": "映画 バクテン!!"
+  },
+  "synonyms": [
+    "Bakuten!! Movie",
+    "Backflip!! The Movie",
+    "映画 バクテン!!",
+    "Aim for the Ace! (1979)",
+    "Ace wo Nerae! (1979)",
+    "エースをねらえ！",
+    "Ace o Nerae: Theatrical Version",
+    "Aim for the Ace! Movie",
+    "Aim for the Best!",
+    "Jump High Hiromi!"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136064-QGODtauftkFb.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "136064",
+      "url": "https://anilist.co/anime/136064"
+    },
+    "cr": {
+      "id": "series/GXJHM3NEV/backflip",
+      "url": "https://www.crunchyroll.com/series/series/GXJHM3NEV/backflip"
+    },
+    "k": {
+      "id": "283",
+      "url": "https://kitsu.io/anime/283"
+    },
+    "mal": {
+      "id": "49283",
+      "url": "https://myanimelist.net/anime/49283"
+    },
+    "tx": {
+      "id": "bakuten_pr",
+      "url": "https://twitter.com/bakuten_pr"
+    }
+  }
+}

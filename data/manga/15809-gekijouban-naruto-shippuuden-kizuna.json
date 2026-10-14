@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15809,
+  "slug": "gekijouban-naruto-shippuuden-kizuna",
+  "kind": "manga",
+  "title": "Gekijouban NARUTO: Shippuuden - Kizuna",
+  "titles": {
+    "default": "Gekijouban NARUTO: Shippuuden - Kizuna"
+  },
+  "synonyms": [
+    "Naruto: Shippuuden the Movie 2: Bonds",
+    "劇場版 NARUTO 疾風伝 絆",
+    "H+P -HimePara-",
+    "H+P ‐ひめぱら‐"
+  ],
+  "type": "novel",
+  "volumes": 1,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132771-F0KmFhI51b9Q.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4437",
+      "url": "https://anilist.co/anime/4437"
+    },
+    "al_manga": {
+      "id": "4437",
+      "url": "https://anilist.co/manga/4437"
+    }
+  }
+}

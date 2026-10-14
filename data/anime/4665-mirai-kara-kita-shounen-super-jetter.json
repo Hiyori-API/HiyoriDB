@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4665,
+  "slug": "mirai-kara-kita-shounen-super-jetter",
+  "kind": "anime",
+  "title": "Mirai Kara Kita Shounen Super Jetter",
+  "titles": {
+    "default": "Mirai Kara Kita Shounen Super Jetter",
+    "romaji": "Mirai Kara Kita Shounen Super Jetter",
+    "native": "未来から来た少年 スーパージェッター"
+  },
+  "synonyms": [
+    "Mirai Kara Kita Shounen Super Jetter",
+    "未来から来た少年 スーパージェッター"
+  ],
+  "type": "tv",
+  "episodes": 52,
+  "status": "finished",
+  "season": "winter",
+  "year": 1965,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b16159-EDXmZx1azpAj.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "16159",
+      "url": "https://anilist.co/anime/16159"
+    },
+    "k": {
+      "id": "7380",
+      "url": "https://kitsu.io/anime/7380"
+    },
+    "mal": {
+      "id": "16159",
+      "url": "https://myanimelist.net/anime/16159"
+    }
+  }
+}

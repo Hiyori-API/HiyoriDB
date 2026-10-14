@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15733,
+  "slug": "ichiban-ushiro-no-daimaou",
+  "kind": "manga",
+  "title": "Ichiban Ushiro no Daimaou",
+  "titles": {
+    "default": "Ichiban Ushiro no Daimaou"
+  },
+  "synonyms": [
+    "Ichiban Ushiro no Dai Maoh",
+    "นักเรียนน้องใหม่ สายพันธุ์จอมมาร",
+    "Demon King Daimaou",
+    "いちばんうしろの大魔王",
+    "Kaichou no Joker",
+    "会長の切り札",
+    "Kaichou no Kirifuda"
+  ],
+  "type": "novel",
+  "chapters": 77,
+  "volumes": 13,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/18926.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7088",
+      "url": "https://anilist.co/anime/7088"
+    },
+    "al_manga": {
+      "id": "7088",
+      "url": "https://anilist.co/manga/7088"
+    }
+  }
+}

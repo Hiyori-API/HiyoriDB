@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1084,
+  "slug": "macross-plus-movie-edition",
+  "kind": "anime",
+  "title": "Macross Plus MOVIE EDITION",
+  "titles": {
+    "default": "Macross Plus MOVIE EDITION",
+    "romaji": "Macross Plus MOVIE EDITION",
+    "english": "Macross Plus Movie Edition",
+    "native": "マクロスプラス　ＭＯＶＩＥ　ＥＤＩＴＩＯＮ"
+  },
+  "synonyms": [
+    "Macross Plus MOVIE EDITION",
+    "Macross Plus Movie Edition",
+    "マクロスプラス　ＭＯＶＩＥ　ＥＤＩＴＩＯＮ"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1211-0HhVts22SYvB.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1211",
+      "url": "https://anilist.co/anime/1211"
+    },
+    "k": {
+      "id": "1089",
+      "url": "https://kitsu.io/anime/1089"
+    },
+    "mal": {
+      "id": "1211",
+      "url": "https://myanimelist.net/anime/1211"
+    }
+  }
+}

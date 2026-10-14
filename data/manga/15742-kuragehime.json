@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15742,
+  "slug": "kuragehime",
+  "kind": "manga",
+  "title": "Kuragehime",
+  "titles": {
+    "default": "Kuragehime"
+  },
+  "synonyms": [
+    "Công Chúa Sứa",
+    "Kuragehime la principessa delle meduse",
+    "Princesa Medusa",
+    "Princess Jellyfish",
+    "海月姫",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "chapters": 94,
+  "volumes": 17,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx47904-8UyJdg7HR52D.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8129",
+      "url": "https://anilist.co/anime/8129"
+    },
+    "al_manga": {
+      "id": "8129",
+      "url": "https://anilist.co/manga/8129"
+    }
+  }
+}

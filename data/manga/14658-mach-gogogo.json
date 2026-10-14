@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14658,
+  "slug": "mach-gogogo",
+  "kind": "manga",
+  "title": "Mach GoGoGo",
+  "titles": {
+    "default": "Mach GoGoGo"
+  },
+  "synonyms": [
+    "Mach Go Go Go",
+    "Speed Racer",
+    "マッハGoGoGo",
+    "Kuroi Ame ni Utarete",
+    "黒い雨にうたれて",
+    "Struck by Black Rain"
+  ],
+  "type": "manga",
+  "chapters": 10,
+  "volumes": 2,
+  "status": "finished",
+  "year": 1966,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b37546-LIuVgvpoHws7.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1445",
+      "url": "https://anilist.co/anime/3571"
+    },
+    "al_manga": {
+      "id": "1445",
+      "url": "https://anilist.co/manga/1445"
+    }
+  }
+}

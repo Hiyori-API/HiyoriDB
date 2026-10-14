@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13478,
+  "slug": "tefuda-ga-oome-no-victoria",
+  "kind": "anime",
+  "title": "Tefuda ga Oome no Victoria",
+  "titles": {
+    "default": "Tefuda ga Oome no Victoria",
+    "romaji": "Tefuda ga Oome no Victoria",
+    "english": "Victoria of Many Faces",
+    "native": "手札が多めのビクトリア"
+  },
+  "synonyms": [
+    "Tefuda ga Oome no Victoria",
+    "Victoria of Many Faces",
+    "手札が多めのビクトリア",
+    "วิกตอเรียผู้มีสารพัดไพ่ลับในมือ",
+    "Resourceful Victoria: Former Operative Rebuilds Her Life"
+  ],
+  "type": "tv",
+  "episodes": 9,
+  "status": "finished",
+  "season": "summer",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198709-3PFLvU6eqPvf.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "198709",
+      "url": "https://anilist.co/anime/198709"
+    },
+    "cr": {
+      "id": "series/GT00378126/victoria-of-many-faces",
+      "url": "https://www.crunchyroll.com/series/series/GT00378126/victoria-of-many-faces"
+    },
+    "mal": {
+      "id": "62476",
+      "url": "https://myanimelist.net/anime/62476"
+    }
+  }
+}

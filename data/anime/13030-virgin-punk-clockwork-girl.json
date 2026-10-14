@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13030,
+  "slug": "virgin-punk-clockwork-girl",
+  "kind": "anime",
+  "title": "Virgin Punk: Clockwork Girl",
+  "titles": {
+    "default": "Virgin Punk: Clockwork Girl",
+    "romaji": "Virgin Punk: Clockwork Girl",
+    "english": "VIRGIN PUNK Clockwork Girl",
+    "native": "ヴァージン・パンク Clockwork Girl"
+  },
+  "synonyms": [
+    "Virgin Punk: Clockwork Girl",
+    "VIRGIN PUNK Clockwork Girl",
+    "ヴァージン・パンク Clockwork Girl",
+    "VIRGIN PUNK Beaten down by repeated misfortunes, she became a mere shadow of herself.",
+    "ヴァージン・パンク"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181449-OciICz3Pgl29.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "181449",
+      "url": "https://anilist.co/anime/181449"
+    },
+    "mal": {
+      "id": "59848",
+      "url": "https://myanimelist.net/anime/59848"
+    }
+  }
+}

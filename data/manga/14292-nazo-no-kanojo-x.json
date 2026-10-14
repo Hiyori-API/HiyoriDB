@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14292,
+  "slug": "nazo-no-kanojo-x",
+  "kind": "manga",
+  "title": "Nazo no Kanojo X",
+  "titles": {
+    "default": "Nazo no Kanojo X"
+  },
+  "synonyms": [
+    "MGX",
+    "NazoKanoX",
+    "Mysterious Girlfriend X",
+    "謎の彼女Ｘ",
+    "Railroad",
+    "레일로드"
+  ],
+  "type": "manga",
+  "chapters": 101,
+  "volumes": 12,
+  "status": "finished",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31926-OIw9CUgaD2Hj.png"
+  ],
+  "references": {
+    "al": {
+      "id": "12467",
+      "url": "https://anilist.co/anime/12467"
+    },
+    "al_manga": {
+      "id": "12467",
+      "url": "https://anilist.co/manga/12467"
+    }
+  }
+}

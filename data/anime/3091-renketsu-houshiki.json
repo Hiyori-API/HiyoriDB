@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3091,
+  "slug": "renketsu-houshiki",
+  "kind": "anime",
+  "title": "Renketsu Houshiki",
+  "titles": {
+    "default": "Renketsu Houshiki",
+    "romaji": "Renketsu Houshiki",
+    "native": "連結方式"
+  },
+  "synonyms": [
+    "Renketsu Houshiki",
+    "連結方式",
+    "Consolidated System",
+    "Method of Coupling",
+    "Hoshi no Umi no Amuri",
+    "星の海のアムリ",
+    "Amuri in Star Ocean"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "winter",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3679.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3679",
+      "url": "https://anilist.co/anime/3679"
+    },
+    "k": {
+      "id": "2977",
+      "url": "https://kitsu.io/anime/2977"
+    },
+    "mal": {
+      "id": "3679",
+      "url": "https://myanimelist.net/anime/3679"
+    }
+  }
+}

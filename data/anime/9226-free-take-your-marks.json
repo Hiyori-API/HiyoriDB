@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9226,
+  "slug": "free-take-your-marks",
+  "kind": "anime",
+  "title": "Free!: Take Your Marks",
+  "titles": {
+    "default": "Free!: Take Your Marks",
+    "romaji": "Free!: Take Your Marks",
+    "english": "Free! -Take Your Marks-",
+    "native": "特別版 Free!-Take Your Marks-"
+  },
+  "synonyms": [
+    "Free!: Take Your Marks",
+    "Free! -Take Your Marks-",
+    "特別版 Free!-Take Your Marks-",
+    "特別版 Free!-Take Your Marks- キャラクター舞台挨拶",
+    "Free! Take Your Marks: Character Butai Aisatsu"
+  ],
+  "type": "movie",
+  "episodes": 4,
+  "status": "finished",
+  "season": "fall",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98497-6HJBfNzL704B.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98497",
+      "url": "https://anilist.co/anime/98497"
+    },
+    "cr": {
+      "id": "series/GRDQV2VWY/free---iwatobi-swim-club",
+      "url": "https://www.crunchyroll.com/series/series/GRDQV2VWY/free---iwatobi-swim-club"
+    },
+    "mal": {
+      "id": "35198",
+      "url": "https://myanimelist.net/anime/35198"
+    },
+    "tx": {
+      "id": "iwatobi_sc",
+      "url": "https://twitter.com/iwatobi_sc"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14821,
+  "slug": "futari-taka",
+  "kind": "manga",
+  "title": "Futari Taka",
+  "titles": {
+    "default": "Futari Taka"
+  },
+  "synonyms": [
+    "Futari Daka",
+    "Twin Hawks",
+    "ふたり鷹",
+    "Magician",
+    "マジシャン"
+  ],
+  "type": "manga",
+  "chapters": 188,
+  "volumes": 19,
+  "status": "finished",
+  "year": 1981,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx53246-Wvv44LLu0SY5.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3808",
+      "url": "https://anilist.co/anime/3808"
+    },
+    "al_manga": {
+      "id": "3808",
+      "url": "https://anilist.co/manga/3808"
+    }
+  }
+}

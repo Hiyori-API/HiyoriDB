@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14131,
+  "slug": "akagi-yami-ni-oritatta-tensai",
+  "kind": "manga",
+  "title": "Akagi: Yami ni Oritatta Tensai",
+  "titles": {
+    "default": "Akagi: Yami ni Oritatta Tensai"
+  },
+  "synonyms": [
+    "Mahjong Legend Akagi",
+    "Tohai Densetsu Akagi",
+    "アカギ ～闇に降り立った天才～",
+    "Baby & Me",
+    "Akachan to Boku",
+    "赤ちゃんと僕",
+    "AkaBoku",
+    "Baby and Me",
+    "Time Limit",
+    "Secret Boy ni Tee Dasuna!!",
+    "Baka de Karukute Wagamama de",
+    "Natsu to Kimi no Irradiation"
+  ],
+  "type": "manga",
+  "chapters": 306,
+  "volumes": 36,
+  "status": "finished",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31218-BuD2zbvvPH5B.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "658",
+      "url": "https://anilist.co/anime/658"
+    },
+    "al_manga": {
+      "id": "658",
+      "url": "https://anilist.co/manga/658"
+    }
+  }
+}

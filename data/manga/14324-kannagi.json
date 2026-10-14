@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14324,
+  "slug": "kannagi",
+  "kind": "manga",
+  "title": "Kannagi",
+  "titles": {
+    "default": "Kannagi"
+  },
+  "synonyms": [
+    "Kaiketsu Yousei Puniata",
+    "The Amazing Fairy Puniata",
+    "Hildegard no Shiro",
+    "Molly",
+    "Croquis",
+    "Kannagi: Crazy Shrine Maidens",
+    "かんなぎ",
+    "Renai Soukanzu",
+    "恋愛相姦図",
+    "Renai Sokanzu",
+    "Pink Sweets"
+  ],
+  "type": "manga",
+  "chapters": 84,
+  "volumes": 12,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx32893-bAs3BdnhNsW2.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3958",
+      "url": "https://anilist.co/anime/3958"
+    },
+    "al_manga": {
+      "id": "3958",
+      "url": "https://anilist.co/manga/3958"
+    }
+  }
+}

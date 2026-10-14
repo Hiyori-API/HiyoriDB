@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14345,
+  "slug": "jojo-no-kimyou-na-bouken-stone-ocean",
+  "kind": "manga",
+  "title": "JoJo no Kimyou na Bouken: Stone Ocean",
+  "titles": {
+    "default": "JoJo no Kimyou na Bouken: Stone Ocean"
+  },
+  "synonyms": [
+    "Dai 6 Bu Kuujou Jolyne: Stone Ocean",
+    "JoJo's Bizarre Adventure Part 6 Jolyne Kujo: Stone Ocean",
+    "Le bizzarre avventure di JoJo: Stone Ocean",
+    "JoJo's Bizarre Adventure Part 6: Stone Ocean",
+    "ジョジョの奇妙な冒険 ストーンオーシャン",
+    "Paradise Kiss",
+    "パラダイス・キス",
+    "ParaKiss"
+  ],
+  "type": "manga",
+  "chapters": 158,
+  "volumes": 17,
+  "status": "finished",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx33009-jF9dqLJcZC4n.png"
+  ],
+  "references": {
+    "al": {
+      "id": "146722",
+      "url": "https://anilist.co/anime/131942"
+    },
+    "al_manga": {
+      "id": "146722",
+      "url": "https://anilist.co/manga/146722"
+    }
+  }
+}

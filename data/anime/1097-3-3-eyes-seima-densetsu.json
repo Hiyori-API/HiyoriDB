@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1097,
+  "slug": "3-3-eyes-seima-densetsu",
+  "kind": "anime",
+  "title": "3×3 EYES Seima Densetsu",
+  "titles": {
+    "default": "3×3 EYES Seima Densetsu",
+    "romaji": "3×3 EYES Seima Densetsu",
+    "english": "3x3 Eyes: Legend of the Divine Demon",
+    "native": "3×3 EYES聖魔伝説"
+  },
+  "synonyms": [
+    "3×3 EYES Seima Densetsu",
+    "3x3 Eyes: Legend of the Divine Demon",
+    "3×3 EYES聖魔伝説",
+    "Shin 3x3 Eyes",
+    "Sazan Eyes: Seima Densetsu",
+    "3x3 Eyes Seima Densetsu"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "summer",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1225-FXHCKAknHdG7.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1225",
+      "url": "https://anilist.co/anime/1225"
+    },
+    "k": {
+      "id": "1102",
+      "url": "https://kitsu.io/anime/1102"
+    },
+    "mal": {
+      "id": "1225",
+      "url": "https://myanimelist.net/anime/1225"
+    }
+  }
+}

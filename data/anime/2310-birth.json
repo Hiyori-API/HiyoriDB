@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2310,
+  "slug": "birth",
+  "kind": "anime",
+  "title": "BIRTH",
+  "titles": {
+    "default": "BIRTH",
+    "romaji": "BIRTH",
+    "native": "バース"
+  },
+  "synonyms": [
+    "BIRTH",
+    "バース",
+    "Planet Busters",
+    "World of the Talisman",
+    "El mundo del talismán",
+    "Mir Talismana",
+    "Birth"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1984,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2607-Ym0flVqbrphI.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2607",
+      "url": "https://anilist.co/anime/2607"
+    },
+    "k": {
+      "id": "2371",
+      "url": "https://kitsu.io/anime/2371"
+    },
+    "mal": {
+      "id": "2607",
+      "url": "https://myanimelist.net/anime/2607"
+    }
+  }
+}

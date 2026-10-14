@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14939,
+  "slug": "souryuuden",
+  "kind": "manga",
+  "title": "Souryuuden",
+  "titles": {
+    "default": "Souryuuden"
+  },
+  "synonyms": [
+    "Sohryuden: Legend of the Dragon Kings",
+    "Dragon Brothers - Les 4 frères",
+    "創竜伝",
+    "Kidou Senshi Gundam: Gyakushuu no Char - High Streamer",
+    "機動戦士ガンダム 逆襲のシャア ハイ・ストリーマー",
+    "Mobile Suit Gundam: Char's Counterattack - High Streamer"
+  ],
+  "type": "novel",
+  "volumes": 15,
+  "status": "finished",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx55713-TojcVbDb3cEb.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1742",
+      "url": "https://anilist.co/anime/1742"
+    },
+    "al_manga": {
+      "id": "1742",
+      "url": "https://anilist.co/manga/1742"
+    }
+  }
+}

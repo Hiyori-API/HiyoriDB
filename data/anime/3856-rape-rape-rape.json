@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3856,
+  "slug": "rape-rape-rape",
+  "kind": "anime",
+  "title": "Rape! Rape! Rape!",
+  "titles": {
+    "default": "Rape! Rape! Rape!",
+    "romaji": "Rape! Rape! Rape!",
+    "native": "レイプ！レイプ！レイプ！"
+  },
+  "synonyms": [
+    "Rape! Rape! Rape!",
+    "レイプ！レイプ！レイプ！",
+    "reipu! reipu! reipu!",
+    "Goodbye Mr. Despair OAD",
+    "Goku Sayonara Zetsubou Sensei",
+    "獄・さよなら絶望先生",
+    "Sayonara Zetsubou Sensei OAD",
+    "Goodbye Mr. Despair OVA",
+    "GSZS"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "fall",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5316-KWi8BhqjYC7p.png"
+  ],
+  "references": {
+    "al": {
+      "id": "5316",
+      "url": "https://anilist.co/anime/5316"
+    },
+    "k": {
+      "id": "3832",
+      "url": "https://kitsu.io/anime/3832"
+    },
+    "mal": {
+      "id": "5316",
+      "url": "https://myanimelist.net/anime/5316"
+    }
+  }
+}

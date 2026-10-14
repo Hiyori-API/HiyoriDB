@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2365,
+  "slug": "doraemon-nobita-no-uchuu-kaitakushi",
+  "kind": "anime",
+  "title": "Doraemon: Nobita no Uchuu Kaitakushi",
+  "titles": {
+    "default": "Doraemon: Nobita no Uchuu Kaitakushi",
+    "romaji": "Doraemon: Nobita no Uchuu Kaitakushi",
+    "native": "のび太の宇宙開拓史"
+  },
+  "synonyms": [
+    "Doraemon: Nobita no Uchuu Kaitakushi",
+    "のび太の宇宙開拓史",
+    "Doraemon: Nobita No Uchukaitakush",
+    "Doraemon: The Records of Nobita, Spaceblazer",
+    "Doraemon: Nobita's Space Story",
+    "Doraemon esplora lo spazio",
+    "Kaibutsu-kun: Kaibutsu Land e no Shoutai",
+    "怪物くん 怪物ランドへの招待"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1981,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2662.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2662",
+      "url": "https://anilist.co/anime/2662"
+    },
+    "k": {
+      "id": "9117",
+      "url": "https://kitsu.io/anime/9117"
+    },
+    "mal": {
+      "id": "2662",
+      "url": "https://myanimelist.net/anime/2662"
+    }
+  }
+}

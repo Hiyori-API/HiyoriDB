@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5618,
+  "slug": "sore-ike-anpanman-kaiketsu-naganegiman-to-doremi-hime",
+  "kind": "anime",
+  "title": "Sore Ike! Anpanman: Kaiketsu Naganegiman to Doremi-hime",
+  "titles": {
+    "default": "Sore Ike! Anpanman: Kaiketsu Naganegiman to Doremi-hime",
+    "romaji": "Sore Ike! Anpanman: Kaiketsu Naganegiman to Doremi-hime",
+    "native": "それいけ! アンパンマン 怪傑ナガネギマンとドレミ姫"
+  },
+  "synonyms": [
+    "Sore Ike! Anpanman: Kaiketsu Naganegiman to Doremi-hime",
+    "それいけ! アンパンマン 怪傑ナガネギマンとドレミ姫",
+    "Sore Ike! Anpanman: Kaiketsu Naganegiman to Doremi Hime"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b171929-ALf2xSt3vd7W.png"
+  ],
+  "references": {
+    "al": {
+      "id": "171929",
+      "url": "https://anilist.co/anime/171929"
+    },
+    "k": {
+      "id": "9615",
+      "url": "https://kitsu.io/anime/9615"
+    },
+    "mal": {
+      "id": "27491",
+      "url": "https://myanimelist.net/anime/27491"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10902,
+  "slug": "noobow-mini-theater",
+  "kind": "anime",
+  "title": "Noobow: Mini Theater",
+  "titles": {
+    "default": "Noobow: Mini Theater",
+    "romaji": "Noobow: Mini Theater",
+    "native": "ぬ~ぼ~ミニシアター"
+  },
+  "synonyms": [
+    "Noobow: Mini Theater",
+    "ぬ~ぼ~ミニシアター",
+    "Noobow: Na Kokoro",
+    "ぬ～ぼ～なこころ"
+  ],
+  "type": "ona",
+  "episodes": 52,
+  "status": "finished",
+  "season": "summer",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18577.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "18577",
+      "url": "https://anilist.co/anime/18577"
+    },
+    "k": {
+      "id": "9497",
+      "url": "https://kitsu.io/anime/9497"
+    },
+    "mal": {
+      "id": "18577",
+      "url": "https://myanimelist.net/anime/18577"
+    }
+  }
+}

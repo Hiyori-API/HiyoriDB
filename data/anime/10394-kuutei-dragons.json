@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10394,
+  "slug": "kuutei-dragons",
+  "kind": "anime",
+  "title": "Kuutei Dragons",
+  "titles": {
+    "default": "Kuutei Dragons",
+    "romaji": "Kuutei Dragons",
+    "english": "Drifting Dragons",
+    "native": "空挺ドラゴンズ"
+  },
+  "synonyms": [
+    "Kuutei Dragons",
+    "Drifting Dragons",
+    "空挺ドラゴンズ",
+    "Queen Zaza – Die letzten Drachenfänger",
+    "زازا قاهرة التنانين",
+    "La chasse aux dragons",
+    "Black Jack ONA",
+    "ブラック・ジャック(インターネット版)",
+    "Black Jack: Internet-han"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108450-egUEb5lOpGxS.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "108450",
+      "url": "https://anilist.co/anime/108450"
+    },
+    "k": {
+      "id": "4904",
+      "url": "https://kitsu.io/anime/4904"
+    },
+    "mal": {
+      "id": "39531",
+      "url": "https://myanimelist.net/anime/39531"
+    },
+    "nf": {
+      "id": "80992788",
+      "url": "https://www.netflix.com/title/80992788"
+    },
+    "tx": {
+      "id": "kuteidragons_PR",
+      "url": "https://twitter.com/kuteidragons_PR"
+    }
+  }
+}

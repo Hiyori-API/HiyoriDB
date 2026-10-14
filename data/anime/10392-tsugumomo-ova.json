@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10392,
+  "slug": "tsugumomo-ova",
+  "kind": "anime",
+  "title": "Tsugumomo OVA",
+  "titles": {
+    "default": "Tsugumomo OVA",
+    "romaji": "Tsugumomo OVA",
+    "english": "Tsugumomo2 OVA",
+    "native": "つぐもも OVA"
+  },
+  "synonyms": [
+    "Tsugumomo OVA",
+    "Tsugumomo2 OVA",
+    "つぐもも OVA",
+    "สึกุโมโมะ ภูตสาวแสบดุ OVA",
+    "Ascendance of a Bookworm: Side Story One, Ascendance of a Bookworm: Side Story Two",
+    "Ascendance of a Bookworm: Side Story",
+    "本好きの下剋上 ～司書になるためには手段を選んでいられません～ OVA",
+    "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b108267-x0xwGxioqKbh.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "108267",
+      "url": "https://anilist.co/anime/108267"
+    },
+    "cr": {
+      "id": "series/G675QE8JR/tsugumomo",
+      "url": "https://www.crunchyroll.com/series/series/G675QE8JR/tsugumomo"
+    },
+    "mal": {
+      "id": "39470",
+      "url": "https://myanimelist.net/anime/39470"
+    }
+  }
+}

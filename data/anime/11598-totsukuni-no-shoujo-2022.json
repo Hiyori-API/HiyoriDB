@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11598,
+  "slug": "totsukuni-no-shoujo-2022",
+  "kind": "anime",
+  "title": "Totsukuni no Shoujo (2022)",
+  "titles": {
+    "default": "Totsukuni no Shoujo (2022)",
+    "romaji": "Totsukuni no Shoujo (2022)",
+    "english": "The Girl from the Other Side",
+    "native": "とつくにの少女 (2022)"
+  },
+  "synonyms": [
+    "Totsukuni no Shoujo (2022)",
+    "The Girl from the Other Side",
+    "とつくにの少女 (2022)",
+    "Siúil, a Rún",
+    "L'Enfant et le Maudit",
+    "Siúil, a Rún OVA",
+    "Totsukuni no Shoujo OAD",
+    "The Girl From the Other Side",
+    "とつくにの少女"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130550-TNuuHlL1BIMZ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "130550",
+      "url": "https://anilist.co/anime/130550"
+    },
+    "cr": {
+      "id": "the-girl-from-the-other-side",
+      "url": "https://www.crunchyroll.com/series/the-girl-from-the-other-side"
+    },
+    "mal": {
+      "id": "48405",
+      "url": "https://myanimelist.net/anime/48405"
+    },
+    "tx": {
+      "id": "totsukunishoujo",
+      "url": "https://twitter.com/totsukunishoujo"
+    }
+  }
+}

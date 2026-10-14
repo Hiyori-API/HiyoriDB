@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4846,
+  "slug": "daicon-iv-opening-animation",
+  "kind": "anime",
+  "title": "DAICON IV Opening Animation",
+  "titles": {
+    "default": "DAICON IV Opening Animation",
+    "romaji": "DAICON IV Opening Animation",
+    "native": "DAICONⅣ オープニングアニメ"
+  },
+  "synonyms": [
+    "DAICON IV Opening Animation",
+    "DAICONⅣ オープニングアニメ",
+    "DAICON4 OPENING ANIMATION",
+    "DAICON FILM",
+    "Daicon IV",
+    "DAICON 4",
+    "ダイコン",
+    "Barefoot Gen",
+    "Hadashi no Gen",
+    "はだしのゲン",
+    "Gen of Hiroshima"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1983,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121664-W0B2xLXXNxpj.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "121664",
+      "url": "https://anilist.co/anime/121664"
+    },
+    "k": {
+      "id": "1641",
+      "url": "https://kitsu.io/anime/1641"
+    },
+    "mal": {
+      "id": "1824",
+      "url": "https://myanimelist.net/anime/1824"
+    }
+  }
+}

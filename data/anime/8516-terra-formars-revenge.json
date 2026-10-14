@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8516,
+  "slug": "terra-formars-revenge",
+  "kind": "anime",
+  "title": "Terra Formars: Revenge",
+  "titles": {
+    "default": "Terra Formars: Revenge",
+    "romaji": "Terra Formars: Revenge",
+    "native": "テラフォーマーズ リベンジ"
+  },
+  "synonyms": [
+    "Terra Formars: Revenge",
+    "テラフォーマーズ リベンジ",
+    "Terra Formars 2nd Season",
+    "Terraformars 2",
+    "Space Patrol Luluco",
+    "宇宙パトロールルル子",
+    "Uchuu Patrol Luluco"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21300-zetpWksKrHJv.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21300",
+      "url": "https://anilist.co/anime/21300"
+    },
+    "ap": {
+      "id": "B0GW2YWLF8",
+      "url": "https://www.amazon.com/gp/video/detail/B0GW2YWLF8"
+    },
+    "cr": {
+      "id": "terraformars",
+      "url": "https://www.crunchyroll.com/series/terraformars"
+    },
+    "mal": {
+      "id": "31430",
+      "url": "https://myanimelist.net/anime/31430"
+    },
+    "ttv": {
+      "id": "1795",
+      "url": "https://tubitv.com/series/1795"
+    },
+    "tx": {
+      "id": "_terraformars",
+      "url": "https://twitter.com/_terraformars"
+    }
+  }
+}

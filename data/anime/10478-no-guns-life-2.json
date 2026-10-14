@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10478,
+  "slug": "no-guns-life-2",
+  "kind": "anime",
+  "title": "No Guns Life 2",
+  "titles": {
+    "default": "No Guns Life 2",
+    "romaji": "No Guns Life 2",
+    "english": "No Guns Life Season 2",
+    "native": "ノー・ガンズ・ライフ 2"
+  },
+  "synonyms": [
+    "No Guns Life 2",
+    "No Guns Life Season 2",
+    "ノー・ガンズ・ライフ 2",
+    "ノー・ガンズ・ライフ",
+    "No Guns Life 2nd Season"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112803-GTBPrkKvlyV5.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "112803",
+      "url": "https://anilist.co/anime/112803"
+    },
+    "cr": {
+      "id": "no-guns-life",
+      "url": "https://www.crunchyroll.com/series/no-guns-life"
+    },
+    "mal": {
+      "id": "40529",
+      "url": "https://myanimelist.net/anime/40529"
+    },
+    "tx": {
+      "id": "noguns_anime",
+      "url": "https://twitter.com/noguns_anime"
+    }
+  }
+}

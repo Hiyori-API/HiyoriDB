@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5166,
+  "slug": "little-polar-bear-shirokuma-kun-fune-ni-noru",
+  "kind": "anime",
+  "title": "Little Polar Bear: Shirokuma-kun, Fune ni Noru",
+  "titles": {
+    "default": "Little Polar Bear: Shirokuma-kun, Fune ni Noru",
+    "romaji": "Little Polar Bear: Shirokuma-kun, Fune ni Noru",
+    "native": "リトルポーラベア しろくまくん, ふねにのる"
+  },
+  "synonyms": [
+    "Little Polar Bear: Shirokuma-kun, Fune ni Noru",
+    "リトルポーラベア しろくまくん, ふねにのる"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b118040-jrAIvHwTFhgE.png"
+  ],
+  "references": {
+    "al": {
+      "id": "118040",
+      "url": "https://anilist.co/anime/118040"
+    },
+    "k": {
+      "id": "8800",
+      "url": "https://kitsu.io/anime/8800"
+    },
+    "mal": {
+      "id": "25029",
+      "url": "https://myanimelist.net/anime/25029"
+    }
+  }
+}

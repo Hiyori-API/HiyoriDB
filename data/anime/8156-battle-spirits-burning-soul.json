@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8156,
+  "slug": "battle-spirits-burning-soul",
+  "kind": "anime",
+  "title": "Battle Spirits: Burning Soul",
+  "titles": {
+    "default": "Battle Spirits: Burning Soul",
+    "romaji": "Battle Spirits: Burning Soul",
+    "native": "バトルスピリッツ 烈火魂"
+  },
+  "synonyms": [
+    "Battle Spirits: Burning Soul",
+    "バトルスピリッツ 烈火魂",
+    "バトルスピリッツバーニングソウル",
+    "バトルスピリッツ烈火魂〈バーニングソウル〉",
+    "Battle Spirits 2015",
+    "Battle Spirits Season 8"
+  ],
+  "type": "tv",
+  "episodes": 51,
+  "status": "finished",
+  "season": "spring",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21020-NTBIpthsCJ5k.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21020",
+      "url": "https://anilist.co/anime/21020"
+    },
+    "k": {
+      "id": "9804",
+      "url": "https://kitsu.io/anime/9804"
+    },
+    "mal": {
+      "id": "27737",
+      "url": "https://myanimelist.net/anime/27737"
+    },
+    "t": {
+      "id": "97677",
+      "url": "https://trakt.tv/shows/97677"
+    },
+    "tx": {
+      "id": "bs_animation",
+      "url": "https://twitter.com/bs_animation"
+    }
+  }
+}

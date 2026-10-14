@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15863,
+  "slug": "mashiroiro-symphony",
+  "kind": "manga",
+  "title": "Mashiroiro Symphony",
+  "titles": {
+    "default": "Mashiroiro Symphony"
+  },
+  "synonyms": [
+    "Mashiro-iro Symphony",
+    "ましろ色シンフォニー",
+    "Simple Knot Loafers",
+    "シンプルノットローファー",
+    "Shinpuru Notto Rofa",
+    "Shinpuru Notto Roofaa",
+    "Simple Not Loafer"
+  ],
+  "type": "manga",
+  "chapters": 12,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/17328.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10397",
+      "url": "https://anilist.co/anime/10397"
+    },
+    "al_manga": {
+      "id": "10397",
+      "url": "https://anilist.co/manga/10397"
+    }
+  }
+}

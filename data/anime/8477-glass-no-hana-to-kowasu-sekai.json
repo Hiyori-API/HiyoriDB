@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8477,
+  "slug": "glass-no-hana-to-kowasu-sekai",
+  "kind": "anime",
+  "title": "Glass no Hana to Kowasu Sekai",
+  "titles": {
+    "default": "Glass no Hana to Kowasu Sekai",
+    "romaji": "Glass no Hana to Kowasu Sekai",
+    "english": "Garakowa -Restore the World-",
+    "native": "ガラスの花と壊す世界"
+  },
+  "synonyms": [
+    "Glass no Hana to Kowasu Sekai",
+    "Garakowa -Restore the World-",
+    "ガラスの花と壊す世界",
+    "Vitreous Flower & Destroy the World",
+    "D.backup",
+    "Garasu no Hana to Kowasu Sekai",
+    "Vitreous Flower Destroy the World"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21042-CQprtsf0iq2H.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21042",
+      "url": "https://anilist.co/anime/21042"
+    },
+    "cr": {
+      "id": "garakowa",
+      "url": "https://www.crunchyroll.com/series/garakowa"
+    },
+    "k": {
+      "id": "8971",
+      "url": "https://kitsu.io/anime/8971"
+    },
+    "mal": {
+      "id": "25907",
+      "url": "https://myanimelist.net/anime/25907"
+    },
+    "tx": {
+      "id": "garakowa_a",
+      "url": "https://twitter.com/garakowa_a"
+    }
+  }
+}

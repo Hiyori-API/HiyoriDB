@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9084,
+  "slug": "knight-s-magic",
+  "kind": "anime",
+  "title": "Knight's & Magic",
+  "titles": {
+    "default": "Knight's & Magic",
+    "romaji": "Knight's & Magic",
+    "native": "ナイツ&マジック"
+  },
+  "synonyms": [
+    "Knight's & Magic",
+    "ナイツ&マジック",
+    "Knight's and Magic",
+    "Naitsuma",
+    "ไนท์ & แมจิก"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97663-4TMJDIpm3toz.png"
+  ],
+  "references": {
+    "al": {
+      "id": "97663",
+      "url": "https://anilist.co/anime/97663"
+    },
+    "cr": {
+      "id": "knights-magic",
+      "url": "https://www.crunchyroll.com/series/knights-magic"
+    },
+    "mal": {
+      "id": "34104",
+      "url": "https://myanimelist.net/anime/34104"
+    },
+    "tx": {
+      "id": "naitsuma_anime",
+      "url": "https://twitter.com/naitsuma_anime"
+    }
+  }
+}

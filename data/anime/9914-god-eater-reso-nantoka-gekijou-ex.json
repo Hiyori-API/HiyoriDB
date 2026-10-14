@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9914,
+  "slug": "god-eater-reso-nantoka-gekijou-ex",
+  "kind": "anime",
+  "title": "GOD EATER Reso Nantoka Gekijou #EX",
+  "titles": {
+    "default": "GOD EATER Reso Nantoka Gekijou #EX",
+    "romaji": "GOD EATER Reso Nantoka Gekijou #EX",
+    "native": "GOD EATER レゾなんとか劇場 #EX"
+  },
+  "synonyms": [
+    "GOD EATER Reso Nantoka Gekijou #EX",
+    "GOD EATER レゾなんとか劇場 #EX",
+    "ゴッドイーター",
+    "Hitori no Shita: The Outcast - Fanwai Pian",
+    "Yi Ren Zhi Xia: Tianshi Xia Shan",
+    "The Outcast OVA",
+    "The Outcast: Extra Story",
+    "The Outcast: Taoist Master Goes Down The Mountain",
+    "一人之下 天师下山 番外篇",
+    "Yi Ren Zhi Xia: Fanwai Pian"
+  ],
+  "type": "ona",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126888-JIutSlcMlpTw.png"
+  ],
+  "references": {
+    "al": {
+      "id": "126888",
+      "url": "https://anilist.co/anime/126888"
+    },
+    "mal": {
+      "id": "38433",
+      "url": "https://myanimelist.net/anime/38433"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9107,
+  "slug": "shikkoku-no-shaga-the-animation",
+  "kind": "anime",
+  "title": "Shikkoku no Shaga THE ANIMATION",
+  "titles": {
+    "default": "Shikkoku no Shaga THE ANIMATION",
+    "romaji": "Shikkoku no Shaga THE ANIMATION",
+    "english": "Jet-Black Shaga THE ANIMATION",
+    "native": "漆黒のシャガ THE ANIMATION"
+  },
+  "synonyms": [
+    "Shikkoku no Shaga THE ANIMATION",
+    "Jet-Black Shaga THE ANIMATION",
+    "漆黒のシャガ THE ANIMATION",
+    "Phantom: The Animation",
+    "Phantom The Animation",
+    "ファントム THE ANIMATION"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "winter",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx97851-zYqRK69NB6MN.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "97851",
+      "url": "https://anilist.co/anime/97851"
+    },
+    "k": {
+      "id": "401",
+      "url": "https://kitsu.io/anime/401"
+    },
+    "mal": {
+      "id": "34388",
+      "url": "https://myanimelist.net/anime/34388"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11380,
+  "slug": "gokushufudou-part-2",
+  "kind": "anime",
+  "title": "Gokushufudou Part 2",
+  "titles": {
+    "default": "Gokushufudou Part 2",
+    "romaji": "Gokushufudou Part 2",
+    "english": "The Way of the Househusband Part 2",
+    "native": "極主夫道 パート2"
+  },
+  "synonyms": [
+    "Gokushufudou Part 2",
+    "The Way of the Househusband Part 2",
+    "極主夫道 パート2",
+    "พ่อบ้านสุดเก๋า พาร์ท 2",
+    "La Voie du Tablier Partie 2",
+    "De yakuza a amo de casa parte 2",
+    "Шлях домогосподаря 2",
+    "The Way of the House Husband 2",
+    "The Way of the Househusband 2",
+    "Gokushufudou 2",
+    "極主夫道"
+  ],
+  "type": "ona",
+  "episodes": 5,
+  "status": "finished",
+  "season": "fall",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132193-sooBNRHdfLZu.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "132193",
+      "url": "https://anilist.co/anime/132193"
+    },
+    "mal": {
+      "id": "48707",
+      "url": "https://myanimelist.net/anime/48707"
+    },
+    "nf": {
+      "id": "81261669",
+      "url": "https://www.netflix.com/title/81261669"
+    }
+  }
+}

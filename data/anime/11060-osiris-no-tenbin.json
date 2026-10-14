@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11060,
+  "slug": "osiris-no-tenbin",
+  "kind": "anime",
+  "title": "Osiris no Tenbin",
+  "titles": {
+    "default": "Osiris no Tenbin",
+    "romaji": "Osiris no Tenbin",
+    "native": "オシリスの天秤"
+  },
+  "synonyms": [
+    "Osiris no Tenbin",
+    "オシリスの天秤",
+    "Spiritual Domain",
+    "Spiritual Field",
+    "Spirit Realm",
+    "The World of Fantasy",
+    "灵域",
+    "Ling Yu"
+  ],
+  "type": "ona",
+  "episodes": 10,
+  "status": "finished",
+  "season": "summer",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21393-dZJcLSZuIaJB.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21393",
+      "url": "https://anilist.co/anime/21393"
+    },
+    "mal": {
+      "id": "31362",
+      "url": "https://myanimelist.net/anime/31362"
+    },
+    "tx": {
+      "id": "osirisnotenbin",
+      "url": "https://twitter.com/osirisnotenbin"
+    }
+  }
+}

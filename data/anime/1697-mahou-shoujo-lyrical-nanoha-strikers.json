@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1697,
+  "slug": "mahou-shoujo-lyrical-nanoha-strikers",
+  "kind": "anime",
+  "title": "Mahou Shoujo Lyrical Nanoha StrikerS",
+  "titles": {
+    "default": "Mahou Shoujo Lyrical Nanoha StrikerS",
+    "romaji": "Mahou Shoujo Lyrical Nanoha StrikerS",
+    "english": "Magical Girl Lyrical Nanoha StrikerS",
+    "native": "魔法少女リリカルなのはStrikerS"
+  },
+  "synonyms": [
+    "Mahou Shoujo Lyrical Nanoha StrikerS",
+    "Magical Girl Lyrical Nanoha StrikerS",
+    "魔法少女リリカルなのはStrikerS",
+    "Nanoha Season 3"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1915-IKthftm6s36b.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1915",
+      "url": "https://anilist.co/anime/1915"
+    },
+    "k": {
+      "id": "1725",
+      "url": "https://kitsu.io/anime/1725"
+    },
+    "mal": {
+      "id": "1915",
+      "url": "https://myanimelist.net/anime/1915"
+    },
+    "t": {
+      "id": "19744",
+      "url": "https://trakt.tv/shows/19744"
+    }
+  }
+}

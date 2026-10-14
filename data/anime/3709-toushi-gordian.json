@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3709,
+  "slug": "toushi-gordian",
+  "kind": "anime",
+  "title": "Toushi Gordian",
+  "titles": {
+    "default": "Toushi Gordian",
+    "romaji": "Toushi Gordian",
+    "english": "Gordian Warrior",
+    "native": "闘士ゴーディアン"
+  },
+  "synonyms": [
+    "Toushi Gordian",
+    "Gordian Warrior",
+    "闘士ゴーディアン",
+    "Toshi Gordian",
+    "Champion of Gordian",
+    "Gardian",
+    "Champion Gordian",
+    "Fighter Gordian"
+  ],
+  "type": "tv",
+  "episodes": 73,
+  "status": "finished",
+  "season": "fall",
+  "year": 1979,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5022-Ew1V697rQJft.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5022",
+      "url": "https://anilist.co/anime/5022"
+    },
+    "k": {
+      "id": "3887",
+      "url": "https://kitsu.io/anime/3887"
+    },
+    "mal": {
+      "id": "5022",
+      "url": "https://myanimelist.net/anime/5022"
+    },
+    "t": {
+      "id": "65788",
+      "url": "https://trakt.tv/shows/65788"
+    }
+  }
+}

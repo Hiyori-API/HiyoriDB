@@ -1,0 +1,65 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12450,
+  "slug": "chiyu-mahou-no-machigatta-tsukaikata",
+  "kind": "anime",
+  "title": "Chiyu Mahou no Machigatta Tsukaikata",
+  "titles": {
+    "default": "Chiyu Mahou no Machigatta Tsukaikata",
+    "romaji": "Chiyu Mahou no Machigatta Tsukaikata",
+    "english": "The Wrong Way to Use Healing Magic",
+    "native": "治癒魔法の間違った使い方"
+  },
+  "synonyms": [
+    "Chiyu Mahou no Machigatta Tsukaikata",
+    "The Wrong Way to Use Healing Magic",
+    "治癒魔法の間違った使い方",
+    "Penggunaan Sihir Penyembuh yang Keliru",
+    "เวทรักษาที่ไหนเขาใช้กันแบบนี้",
+    "Cách dùng sai của ma thuật chữa trị",
+    "Как (не) стоит использовать магию исцеления",
+    "الطريقة الخاطئة لاستخدام سحر الشفاء",
+    "El Hazard: The Alternative World",
+    "異次元の世界エルハザード",
+    "Ijigen no Sekai El Hazard",
+    "Ijigen no Sekai El-Hazard"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2024,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137908-50af3lKVbst2.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "137908",
+      "url": "https://anilist.co/anime/137908"
+    },
+    "cr": {
+      "id": "series/G0XHWM1EK/the-wrong-way-to-use-healing-magic",
+      "url": "https://www.crunchyroll.com/series/series/G0XHWM1EK/the-wrong-way-to-use-healing-magic"
+    },
+    "k": {
+      "id": "94",
+      "url": "https://kitsu.io/anime/94"
+    },
+    "mal": {
+      "id": "49613",
+      "url": "https://myanimelist.net/anime/49613"
+    },
+    "nf": {
+      "id": "81747942",
+      "url": "https://www.netflix.com/title/81747942"
+    },
+    "t": {
+      "id": "63711",
+      "url": "https://trakt.tv/shows/63711"
+    },
+    "tx": {
+      "id": "chiyumahou_PR",
+      "url": "https://twitter.com/chiyumahou_PR"
+    }
+  }
+}

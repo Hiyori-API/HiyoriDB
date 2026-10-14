@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2958,
+  "slug": "genji-monogatari",
+  "kind": "anime",
+  "title": "Genji Monogatari",
+  "titles": {
+    "default": "Genji Monogatari",
+    "romaji": "Genji Monogatari",
+    "native": "源氏物語"
+  },
+  "synonyms": [
+    "Genji Monogatari",
+    "源氏物語",
+    "The Tale of Genji",
+    "Murasaki Shikibu's Tale of Genji"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3488-W2NRtIuzwGKX.png"
+  ],
+  "references": {
+    "al": {
+      "id": "3488",
+      "url": "https://anilist.co/anime/3488"
+    },
+    "k": {
+      "id": "3047",
+      "url": "https://kitsu.io/anime/3047"
+    },
+    "mal": {
+      "id": "3488",
+      "url": "https://myanimelist.net/anime/3488"
+    }
+  }
+}

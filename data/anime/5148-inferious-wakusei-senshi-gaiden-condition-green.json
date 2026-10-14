@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5148,
+  "slug": "inferious-wakusei-senshi-gaiden-condition-green",
+  "kind": "anime",
+  "title": "Inferious Wakusei Senshi Gaiden: CONDITION GREEN",
+  "titles": {
+    "default": "Inferious Wakusei Senshi Gaiden: CONDITION GREEN",
+    "romaji": "Inferious Wakusei Senshi Gaiden: CONDITION GREEN",
+    "native": "インフェリウス惑星戦史外伝 CONDITION GREEN"
+  },
+  "synonyms": [
+    "Inferious Wakusei Senshi Gaiden: CONDITION GREEN",
+    "インフェリウス惑星戦史外伝 CONDITION GREEN",
+    "Inferious Interplanetary War Chronicle Condition Green",
+    "Inferious Wakusei Senshi Gaiden Condition Green",
+    "Condition Green"
+  ],
+  "type": "ova",
+  "episodes": 6,
+  "status": "finished",
+  "season": "fall",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16259.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "16259",
+      "url": "https://anilist.co/anime/16259"
+    },
+    "k": {
+      "id": "7398",
+      "url": "https://kitsu.io/anime/7398"
+    },
+    "mal": {
+      "id": "16259",
+      "url": "https://myanimelist.net/anime/16259"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 614,
+  "slug": "kujibiki-unbalance",
+  "kind": "anime",
+  "title": "Kujibiki Unbalance",
+  "titles": {
+    "default": "Kujibiki Unbalance",
+    "romaji": "Kujibiki Unbalance",
+    "native": "くじびきアンバランス"
+  },
+  "synonyms": [
+    "Kujibiki Unbalance",
+    "くじびきアンバランス",
+    "Interlude",
+    "インタールード"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "winter",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/669.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "669",
+      "url": "https://anilist.co/anime/669"
+    },
+    "cr": {
+      "id": "interlude",
+      "url": "https://www.crunchyroll.com/series/interlude"
+    },
+    "k": {
+      "id": "970",
+      "url": "https://kitsu.io/anime/970"
+    },
+    "mal": {
+      "id": "669",
+      "url": "https://myanimelist.net/anime/669"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8968,
+  "slug": "haru-no-niji-no-soushiki",
+  "kind": "anime",
+  "title": "Haru no Niji no Soushiki",
+  "titles": {
+    "default": "Haru no Niji no Soushiki",
+    "romaji": "Haru no Niji no Soushiki",
+    "native": "ハルの虹の葬式"
+  },
+  "synonyms": [
+    "Haru no Niji no Soushiki",
+    "ハルの虹の葬式",
+    "Haru's Funeral of a Rainbow",
+    "School Days ONA",
+    "スクールデイズ",
+    "School Days"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b148642-HmQlOb2Uq0Ej.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "148642",
+      "url": "https://anilist.co/anime/148642"
+    },
+    "k": {
+      "id": "678",
+      "url": "https://kitsu.io/anime/678"
+    },
+    "mal": {
+      "id": "51249",
+      "url": "https://myanimelist.net/anime/51249"
+    },
+    "yt": {
+      "id": "x7mQkfiAqaI",
+      "url": "https://www.youtube.com/watch?v=x7mQkfiAqaI"
+    }
+  }
+}

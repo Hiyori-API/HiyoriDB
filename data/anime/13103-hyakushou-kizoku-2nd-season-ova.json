@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13103,
+  "slug": "hyakushou-kizoku-2nd-season-ova",
+  "kind": "anime",
+  "title": "Hyakushou Kizoku 2nd Season OVA",
+  "titles": {
+    "default": "Hyakushou Kizoku 2nd Season OVA",
+    "romaji": "Hyakushou Kizoku 2nd Season OVA",
+    "native": "百姓貴族 2nd Season OVA"
+  },
+  "synonyms": [
+    "Hyakushou Kizoku 2nd Season OVA",
+    "百姓貴族 2nd Season OVA",
+    "Hyakusho Kizoku-the farmer's days 2 OVA",
+    "十勝へGO！",
+    "Tokachi e GO!",
+    "百姓貴族 第2期 OVA",
+    "KonoSuba: God's Blessing on This Wonderful World! 3 OVA",
+    "この素晴らしい世界に祝福を！３ーBONUS STAGEー",
+    "Kono Subarashii Sekai ni Shukufuku wo! 3: Bonus Stage"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2025,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185716-LYQR7AFNEC0m.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "185716",
+      "url": "https://anilist.co/anime/185716"
+    },
+    "mal": {
+      "id": "60595",
+      "url": "https://myanimelist.net/anime/60595"
+    },
+    "tx": {
+      "id": "anime_hyakusho",
+      "url": "https://twitter.com/anime_hyakusho"
+    }
+  }
+}

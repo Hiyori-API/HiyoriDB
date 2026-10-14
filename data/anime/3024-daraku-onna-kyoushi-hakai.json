@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3024,
+  "slug": "daraku-onna-kyoushi-hakai",
+  "kind": "anime",
+  "title": "Daraku: Onna Kyoushi Hakai",
+  "titles": {
+    "default": "Daraku: Onna Kyoushi Hakai",
+    "romaji": "Daraku: Onna Kyoushi Hakai",
+    "english": "Depravity: Destruction of a Female Teacher",
+    "native": "堕落 ～女教師破壊～"
+  },
+  "synonyms": [
+    "Daraku: Onna Kyoushi Hakai",
+    "Depravity: Destruction of a Female Teacher",
+    "堕落 ～女教師破壊～",
+    "Galerians: Rion",
+    "ガレリアンズ：リオン",
+    "Galerians: Rion (2003)"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "fall",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3578.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3578",
+      "url": "https://anilist.co/anime/3578"
+    },
+    "k": {
+      "id": "1449",
+      "url": "https://kitsu.io/anime/1449"
+    },
+    "mal": {
+      "id": "3578",
+      "url": "https://myanimelist.net/anime/3578"
+    }
+  }
+}

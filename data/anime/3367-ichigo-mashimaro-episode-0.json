@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3367,
+  "slug": "ichigo-mashimaro-episode-0",
+  "kind": "anime",
+  "title": "Ichigo Mashimaro Episode 0",
+  "titles": {
+    "default": "Ichigo Mashimaro Episode 0",
+    "romaji": "Ichigo Mashimaro Episode 0",
+    "native": "苺ましまろ"
+  },
+  "synonyms": [
+    "Ichigo Mashimaro Episode 0",
+    "苺ましまろ",
+    "Strawberry Marshmallow Prologue",
+    "Ichigo Mashimaro - S1",
+    "Lupin the Third:  An Angel's Tactics - Fragments of a Dream Are the Scent of Murder",
+    "Lupin Sansei: Tenshi no Tactics - Yume no Kakera wa Koroshi no Kaori",
+    "Lupin III: An Angel's Tactics - Fragments of a Dream Are the Scent of Murder",
+    "ルパン三世 - 天使の策略（タクティクス）～夢のカケラは殺しの香り～",
+    "Lupin III: Angel Tactics"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4156.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4156",
+      "url": "https://anilist.co/anime/4156"
+    },
+    "k": {
+      "id": "1267",
+      "url": "https://kitsu.io/anime/1267"
+    },
+    "mal": {
+      "id": "4156",
+      "url": "https://myanimelist.net/anime/4156"
+    }
+  }
+}

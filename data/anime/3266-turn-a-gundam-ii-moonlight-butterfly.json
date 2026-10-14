@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3266,
+  "slug": "turn-a-gundam-ii-moonlight-butterfly",
+  "kind": "anime",
+  "title": "Turn A Gundam II: Moonlight Butterfly",
+  "titles": {
+    "default": "Turn A Gundam II: Moonlight Butterfly",
+    "romaji": "Turn A Gundam II: Moonlight Butterfly",
+    "english": "∀ Gundam II: Moonlight Butterfly",
+    "native": "劇場版∀ガンダムII 月光蝶"
+  },
+  "synonyms": [
+    "Turn A Gundam II: Moonlight Butterfly",
+    "∀ Gundam II: Moonlight Butterfly",
+    "劇場版∀ガンダムII 月光蝶",
+    "∀ Gundam II: Gekkou Chou",
+    "Turn A Gundam II Movie: Moonlight Butterfly"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3964.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3964",
+      "url": "https://anilist.co/anime/3964"
+    },
+    "k": {
+      "id": "3382",
+      "url": "https://kitsu.io/anime/3382"
+    },
+    "mal": {
+      "id": "3964",
+      "url": "https://myanimelist.net/anime/3964"
+    }
+  }
+}

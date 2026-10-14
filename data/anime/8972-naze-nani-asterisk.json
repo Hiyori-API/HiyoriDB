@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8972,
+  "slug": "naze-nani-asterisk",
+  "kind": "anime",
+  "title": "Naze Nani!? Asterisk",
+  "titles": {
+    "default": "Naze Nani!? Asterisk",
+    "romaji": "Naze Nani!? Asterisk",
+    "native": "なぜなに!?アスタリスク"
+  },
+  "synonyms": [
+    "Naze Nani!? Asterisk",
+    "なぜなに!?アスタリスク",
+    "Catman Series II",
+    "キャットマン",
+    "Catman",
+    "Catman 2nd Season"
+  ],
+  "type": "ona",
+  "episodes": 8,
+  "status": "finished",
+  "season": "winter",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b175048-FE07sGJVnQVk.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "175048",
+      "url": "https://anilist.co/anime/175048"
+    },
+    "k": {
+      "id": "3602",
+      "url": "https://kitsu.io/anime/3602"
+    },
+    "mal": {
+      "id": "41153",
+      "url": "https://myanimelist.net/anime/41153"
+    },
+    "yt": {
+      "id": "dAwmBmjobx0",
+      "url": "https://www.youtube.com/watch?v=dAwmBmjobx0"
+    }
+  }
+}

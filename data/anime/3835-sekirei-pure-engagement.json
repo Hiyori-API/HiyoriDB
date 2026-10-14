@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3835,
+  "slug": "sekirei-pure-engagement",
+  "kind": "anime",
+  "title": "Sekirei: Pure Engagement",
+  "titles": {
+    "default": "Sekirei: Pure Engagement",
+    "romaji": "Sekirei: Pure Engagement",
+    "native": "セキレイ～Pure Engagement～"
+  },
+  "synonyms": [
+    "Sekirei: Pure Engagement",
+    "セキレイ～Pure Engagement～",
+    "Sekirei 2"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5277-FVXhVU8xoY6z.png"
+  ],
+  "references": {
+    "al": {
+      "id": "5277",
+      "url": "https://anilist.co/anime/5277"
+    },
+    "k": {
+      "id": "4029",
+      "url": "https://kitsu.io/anime/4029"
+    },
+    "mal": {
+      "id": "5277",
+      "url": "https://myanimelist.net/anime/5277"
+    },
+    "t": {
+      "id": "34656",
+      "url": "https://trakt.tv/shows/34656"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8001,
+  "slug": "kidou-senshi-gundam-the-origin",
+  "kind": "anime",
+  "title": "Kidou Senshi Gundam: THE ORIGIN",
+  "titles": {
+    "default": "Kidou Senshi Gundam: THE ORIGIN",
+    "romaji": "Kidou Senshi Gundam: THE ORIGIN",
+    "english": "Mobile Suit Gundam: The Origin",
+    "native": "機動戦士ガンダムTHE ORIGIN"
+  },
+  "synonyms": [
+    "Kidou Senshi Gundam: THE ORIGIN",
+    "Mobile Suit Gundam: The Origin",
+    "機動戦士ガンダムTHE ORIGIN",
+    "Aoi Hitomi no Casval",
+    "Kanashimi no Artesia",
+    "Akatsuki no Houki",
+    "Kidou Senshi Gundam: The Origin"
+  ],
+  "type": "ova",
+  "episodes": 6,
+  "status": "finished",
+  "season": "winter",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10937-yNrI4MUsigat.png"
+  ],
+  "references": {
+    "al": {
+      "id": "10937",
+      "url": "https://anilist.co/anime/10937"
+    },
+    "cr": {
+      "id": "series/G3KHEV0NW/mobile-suit-gundam-the-origin",
+      "url": "https://www.crunchyroll.com/series/series/G3KHEV0NW/mobile-suit-gundam-the-origin"
+    },
+    "mal": {
+      "id": "10937",
+      "url": "https://myanimelist.net/anime/10937"
+    },
+    "tx": {
+      "id": "G_THE_ORIGIN",
+      "url": "https://twitter.com/G_THE_ORIGIN"
+    }
+  }
+}

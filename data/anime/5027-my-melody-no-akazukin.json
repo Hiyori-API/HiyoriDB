@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5027,
+  "slug": "my-melody-no-akazukin",
+  "kind": "anime",
+  "title": "My Melody no Akazukin",
+  "titles": {
+    "default": "My Melody no Akazukin",
+    "romaji": "My Melody no Akazukin",
+    "native": "マイメロディの赤ずきん"
+  },
+  "synonyms": [
+    "My Melody no Akazukin",
+    "マイメロディの赤ずきん",
+    "My Melody's Little Red Riding Hood"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1989,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/14253.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "14253",
+      "url": "https://anilist.co/anime/14253"
+    },
+    "k": {
+      "id": "7105",
+      "url": "https://kitsu.io/anime/7105"
+    },
+    "mal": {
+      "id": "14253",
+      "url": "https://myanimelist.net/anime/14253"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13756,
+  "slug": "eyeshield-21",
+  "kind": "manga",
+  "title": "Eyeshield 21",
+  "titles": {
+    "default": "Eyeshield 21"
+  },
+  "synonyms": [
+    "Eyeshield 21",
+    "アイシールド21"
+  ],
+  "type": "manga",
+  "chapters": 333,
+  "volumes": 37,
+  "status": "finished",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30043-b2SqUjwSzfIH.png"
+  ],
+  "references": {
+    "al": {
+      "id": "15",
+      "url": "https://anilist.co/anime/15"
+    },
+    "al_manga": {
+      "id": "15",
+      "url": "https://anilist.co/manga/15"
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12527,
+  "slug": "tokidoki-bosotto-rossiya-go-de-dereru-tonari-no-alya-san",
+  "kind": "anime",
+  "title": "Tokidoki Bosotto Rossiya-go de Dereru Tonari no Alya-san",
+  "titles": {
+    "default": "Tokidoki Bosotto Rossiya-go de Dereru Tonari no Alya-san",
+    "romaji": "Tokidoki Bosotto Rossiya-go de Dereru Tonari no Alya-san",
+    "english": "Alya Sometimes Hides Her Feelings in Russian",
+    "native": "時々ボソッとロシア語でデレる隣のアーリャさん"
+  },
+  "synonyms": [
+    "Tokidoki Bosotto Rossiya-go de Dereru Tonari no Alya-san",
+    "Alya Sometimes Hides Her Feelings in Russian",
+    "時々ボソッとロシア語でデレる隣のアーリャさん",
+    "Roshidere",
+    "ロシデレ",
+    "คุณอาเรียโต๊ะข้างๆพูดรัสเซียหวานใส่ซะหัวใจจะวาย",
+    "Иногда Аля внезапно кокетничает по-русски",
+    "不時輕聲地以俄語遮羞的鄰座艾莉同學",
+    "Full Metal Panic? Fumoffu",
+    "フルメタル・パニック? ふもっふ",
+    "Full Metal Panic Fumoffu",
+    "Fullmetal Panic? Fumoffu"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2024,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162804-TBeptcAfvqTd.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "162804",
+      "url": "https://anilist.co/anime/162804"
+    },
+    "cr": {
+      "id": "series/G1XHJV0XM/alya-sometimes-hides-her-feelings-in-russian",
+      "url": "https://www.crunchyroll.com/series/series/G1XHJV0XM/alya-sometimes-hides-her-feelings-in-russian"
+    },
+    "k": {
+      "id": "52",
+      "url": "https://kitsu.io/anime/52"
+    },
+    "mal": {
+      "id": "54744",
+      "url": "https://myanimelist.net/anime/54744"
+    },
+    "nf": {
+      "id": "81661821",
+      "url": "https://www.netflix.com/title/81661821"
+    },
+    "t": {
+      "id": "12432",
+      "url": "https://trakt.tv/shows/12432"
+    },
+    "ttv": {
+      "id": "2377",
+      "url": "https://tubitv.com/series/2377"
+    },
+    "tx": {
+      "id": "roshidere",
+      "url": "https://twitter.com/roshidere"
+    }
+  }
+}

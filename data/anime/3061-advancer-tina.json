@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3061,
+  "slug": "advancer-tina",
+  "kind": "anime",
+  "title": "Advancer Tina",
+  "titles": {
+    "default": "Advancer Tina",
+    "romaji": "Advancer Tina",
+    "native": "アドバンサー・ティナ"
+  },
+  "synonyms": [
+    "Advancer Tina",
+    "アドバンサー・ティナ",
+    "Ultraman: Chou Toushi Gekiden - Suisei Senjin Tsuifon Toujou",
+    "ウルトラマン超闘士激伝 彗星戦神ツイフォン登場"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3635.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3635",
+      "url": "https://anilist.co/anime/3635"
+    },
+    "k": {
+      "id": "9058",
+      "url": "https://kitsu.io/anime/9058"
+    },
+    "mal": {
+      "id": "3635",
+      "url": "https://myanimelist.net/anime/3635"
+    }
+  }
+}

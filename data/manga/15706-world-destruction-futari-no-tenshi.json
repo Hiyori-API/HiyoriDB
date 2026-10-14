@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15706,
+  "slug": "world-destruction-futari-no-tenshi",
+  "kind": "manga",
+  "title": "World Destruction - Futari no Tenshi",
+  "titles": {
+    "default": "World Destruction - Futari no Tenshi"
+  },
+  "synonyms": [
+    "World Destruction: The Two Angels",
+    "ワールド・デストラクション ～ふたりの天使～",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "volumes": 2,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/11408.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4415",
+      "url": "https://anilist.co/anime/4415"
+    },
+    "al_manga": {
+      "id": "4415",
+      "url": "https://anilist.co/manga/4415"
+    }
+  }
+}

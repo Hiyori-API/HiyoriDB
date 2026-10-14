@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5730,
+  "slug": "hoshi-no-oujisama-petit-prince-specials",
+  "kind": "anime",
+  "title": "Hoshi no Oujisama Petit Prince Specials",
+  "titles": {
+    "default": "Hoshi no Oujisama Petit Prince Specials",
+    "romaji": "Hoshi no Oujisama Petit Prince Specials",
+    "native": "星の王子さま プチ プランス"
+  },
+  "synonyms": [
+    "Hoshi no Oujisama Petit Prince Specials",
+    "星の王子さま プチ プランス",
+    "Shakugan no Shana Specials",
+    "灼眼のシャナたん",
+    "Shakugan no Shana-tan",
+    "Shakugan no Shana-tan Returns",
+    "Itadaki no Hecate-tan",
+    "Banjou no Carmel-san"
+  ],
+  "type": "special",
+  "episodes": 4,
+  "status": "finished",
+  "season": "winter",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126318-LZq6bprDUjh5.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "126318",
+      "url": "https://anilist.co/anime/126318"
+    },
+    "k": {
+      "id": "953",
+      "url": "https://kitsu.io/anime/953"
+    },
+    "mal": {
+      "id": "34014",
+      "url": "https://myanimelist.net/anime/34014"
+    }
+  }
+}

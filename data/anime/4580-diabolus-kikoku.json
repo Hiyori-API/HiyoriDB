@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4580,
+  "slug": "diabolus-kikoku",
+  "kind": "anime",
+  "title": "Diabolus: Kikoku",
+  "titles": {
+    "default": "Diabolus: Kikoku",
+    "romaji": "Diabolus: Kikoku",
+    "native": "Diabolus～鬼哭～"
+  },
+  "synonyms": [
+    "Diabolus: Kikoku",
+    "Diabolus～鬼哭～",
+    "Strawberry Marshmallow Encore",
+    "Ichigo Mashimaro Encore",
+    "苺ましまろencore",
+    "Ichigo Mashimaro OVA 2"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7268.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7268",
+      "url": "https://anilist.co/anime/7268"
+    },
+    "k": {
+      "id": "3800",
+      "url": "https://kitsu.io/anime/3800"
+    },
+    "mal": {
+      "id": "7268",
+      "url": "https://myanimelist.net/anime/7268"
+    }
+  }
+}

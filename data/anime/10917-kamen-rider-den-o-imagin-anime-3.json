@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10917,
+  "slug": "kamen-rider-den-o-imagin-anime-3",
+  "kind": "anime",
+  "title": "Kamen Rider Den-O: Imagin Anime 3",
+  "titles": {
+    "default": "Kamen Rider Den-O: Imagin Anime 3",
+    "romaji": "Kamen Rider Den-O: Imagin Anime 3",
+    "native": "仮面ライダー電王: イマジンあにめ 3"
+  },
+  "synonyms": [
+    "Kamen Rider Den-O: Imagin Anime 3",
+    "仮面ライダー電王: イマジンあにめ 3",
+    "Masked Rider Den-O: Imagin Anime 3"
+  ],
+  "type": "ova",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10202.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10202",
+      "url": "https://anilist.co/anime/10202"
+    },
+    "k": {
+      "id": "6076",
+      "url": "https://kitsu.io/anime/6076"
+    },
+    "mal": {
+      "id": "10202",
+      "url": "https://myanimelist.net/anime/10202"
+    }
+  }
+}

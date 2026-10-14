@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3996,
+  "slug": "uchuu-enban-dai-sensou",
+  "kind": "anime",
+  "title": "Uchuu Enban Dai-Sensou",
+  "titles": {
+    "default": "Uchuu Enban Dai-Sensou",
+    "romaji": "Uchuu Enban Dai-Sensou",
+    "native": "宇宙円盤大戦争"
+  },
+  "synonyms": [
+    "Uchuu Enban Dai-Sensou",
+    "宇宙円盤大戦争",
+    "The Great Battle of the Flying Saucers",
+    "The Great War of the Flying Saucers",
+    "Uchu Enban Daisenso"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1975,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5620.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5620",
+      "url": "https://anilist.co/anime/5620"
+    },
+    "k": {
+      "id": "4205",
+      "url": "https://kitsu.io/anime/4205"
+    },
+    "mal": {
+      "id": "5620",
+      "url": "https://myanimelist.net/anime/5620"
+    }
+  }
+}

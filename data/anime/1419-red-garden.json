@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1419,
+  "slug": "red-garden",
+  "kind": "anime",
+  "title": "Red Garden",
+  "titles": {
+    "default": "Red Garden",
+    "romaji": "Red Garden",
+    "native": "レッド ガーデン"
+  },
+  "synonyms": [
+    "Red Garden",
+    "レッド ガーデン",
+    "RG",
+    "Fist of the Blue Sky",
+    "Souten no Ken",
+    "蒼天の拳"
+  ],
+  "type": "tv",
+  "episodes": 22,
+  "status": "finished",
+  "season": "fall",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx1601-cvfDZsR6D98V.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1601",
+      "url": "https://anilist.co/anime/1601"
+    },
+    "cr": {
+      "id": "red-garden",
+      "url": "https://www.crunchyroll.com/series/red-garden"
+    },
+    "k": {
+      "id": "1382",
+      "url": "https://kitsu.io/anime/1382"
+    },
+    "mal": {
+      "id": "1601",
+      "url": "https://myanimelist.net/anime/1601"
+    },
+    "t": {
+      "id": "65761",
+      "url": "https://trakt.tv/shows/65761"
+    }
+  }
+}

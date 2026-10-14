@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4146,
+  "slug": "megami-tantei-vinus-file",
+  "kind": "anime",
+  "title": "Megami Tantei Vinus File",
+  "titles": {
+    "default": "Megami Tantei Vinus File",
+    "romaji": "Megami Tantei Vinus File",
+    "english": "Detective Goddess",
+    "native": "女神探偵"
+  },
+  "synonyms": [
+    "Megami Tantei Vinus File",
+    "Detective Goddess",
+    "女神探偵",
+    "Vinus File",
+    "女神探偵 Vinus File",
+    "Papillon Rose OVA",
+    "Lingerie Senshi Papillon Rose",
+    "ランジェリー戦士パピヨンローゼ",
+    "Lingerie Soldier Papillon Rose"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6015.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6015",
+      "url": "https://anilist.co/anime/6015"
+    },
+    "k": {
+      "id": "1796",
+      "url": "https://kitsu.io/anime/1796"
+    },
+    "mal": {
+      "id": "6015",
+      "url": "https://myanimelist.net/anime/6015"
+    }
+  }
+}

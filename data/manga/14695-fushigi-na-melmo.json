@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14695,
+  "slug": "fushigi-na-melmo",
+  "kind": "manga",
+  "title": "Fushigi na Melmo",
+  "titles": {
+    "default": "Fushigi na Melmo"
+  },
+  "synonyms": [
+    "Mamaa-chan",
+    "Marvelous Melmo",
+    "ふしぎなメルモ",
+    "Ryuu no Michi",
+    "リュウの道",
+    "The Road of Ryuu"
+  ],
+  "type": "manga",
+  "chapters": 19,
+  "volumes": 1,
+  "status": "finished",
+  "year": 1970,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b39275-bqX9cotLfxRR.png"
+  ],
+  "references": {
+    "al": {
+      "id": "5476",
+      "url": "https://anilist.co/anime/5476"
+    },
+    "al_manga": {
+      "id": "5476",
+      "url": "https://anilist.co/manga/5476"
+    }
+  }
+}

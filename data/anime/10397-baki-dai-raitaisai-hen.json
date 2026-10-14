@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10397,
+  "slug": "baki-dai-raitaisai-hen",
+  "kind": "anime",
+  "title": "Baki: Dai Raitaisai-hen",
+  "titles": {
+    "default": "Baki: Dai Raitaisai-hen",
+    "romaji": "Baki: Dai Raitaisai-hen",
+    "english": "Baki: The Great Raitai Tournament Saga",
+    "native": "バキ 大擂台賽編"
+  },
+  "synonyms": [
+    "Baki: Dai Raitaisai-hen",
+    "Baki: The Great Raitai Tournament Saga",
+    "バキ 大擂台賽編",
+    "Baki 2nd Season",
+    "Баки: Великий турнир Райтай",
+    "BAKI: La saga del gran torneo de Raitai",
+    "Baki. Saga Wielkiego Turnieju Raitai",
+    "Chocolate Underground",
+    "チョコレート・アンダーグラウンド"
+  ],
+  "type": "ona",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108522-XQmYISWCnTGg.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "108522",
+      "url": "https://anilist.co/anime/108522"
+    },
+    "k": {
+      "id": "3380",
+      "url": "https://kitsu.io/anime/3380"
+    },
+    "mal": {
+      "id": "39555",
+      "url": "https://myanimelist.net/anime/39555"
+    },
+    "nf": {
+      "id": "80204451",
+      "url": "https://www.netflix.com/title/80204451"
+    },
+    "tx": {
+      "id": "baki_anime",
+      "url": "https://twitter.com/baki_anime"
+    }
+  }
+}

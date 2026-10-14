@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5652,
+  "slug": "bleach-memories-in-the-rain",
+  "kind": "anime",
+  "title": "BLEACH: memories in the rain",
+  "titles": {
+    "default": "BLEACH: memories in the rain",
+    "romaji": "BLEACH: memories in the rain",
+    "native": "BLEACH memories in the rain"
+  },
+  "synonyms": [
+    "BLEACH: memories in the rain",
+    "BLEACH memories in the rain",
+    "Bleach: Jump Festa 2004",
+    "ブリーチ Memories in the Rain",
+    "Maze: The Mega-Burst Space - Hot Springs",
+    "Maze☆Bakunetsu Jikuu: Hot Springs",
+    "MAZE☆爆熱時空",
+    "Maze☆Bakunetsu Jikuu Special",
+    "Maze Megaburst Space Special"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b154037-7VSs4aDUL2ZG.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "154037",
+      "url": "https://anilist.co/anime/154037"
+    },
+    "k": {
+      "id": "3324",
+      "url": "https://kitsu.io/anime/3324"
+    },
+    "mal": {
+      "id": "762",
+      "url": "https://myanimelist.net/anime/762"
+    }
+  }
+}

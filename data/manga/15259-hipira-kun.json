@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15259,
+  "slug": "hipira-kun",
+  "kind": "manga",
+  "title": "Hipira-kun",
+  "titles": {
+    "default": "Hipira-kun"
+  },
+  "synonyms": [
+    "Hipira: The Little Vampire",
+    "Hipira",
+    "ヒピラくん",
+    "Full Moon wo Sagashite",
+    "満月〈フルムーン〉をさがして",
+    "Searching for the Full Moon",
+    "Ginyuu Meika"
+  ],
+  "type": "manga",
+  "chapters": 5,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx37755-g9UXi3v3Zkq1.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "104435",
+      "url": "https://anilist.co/anime/7723"
+    },
+    "al_manga": {
+      "id": "104435",
+      "url": "https://anilist.co/manga/104435"
+    }
+  }
+}

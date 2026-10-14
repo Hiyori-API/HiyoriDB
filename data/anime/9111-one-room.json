@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9111,
+  "slug": "one-room",
+  "kind": "anime",
+  "title": "One Room",
+  "titles": {
+    "default": "One Room",
+    "romaji": "One Room",
+    "english": "OneRoom"
+  },
+  "synonyms": [
+    "One Room",
+    "OneRoom",
+    "ワンルーム",
+    "В одной комнате",
+    "Gintama (2017)",
+    "Gintama Season 5",
+    "銀魂。",
+    "Gintama."
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97857-ICKs86L2ymjU.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "97857",
+      "url": "https://anilist.co/anime/97857"
+    },
+    "cr": {
+      "id": "oneroom",
+      "url": "https://www.crunchyroll.com/series/oneroom"
+    },
+    "mal": {
+      "id": "34392",
+      "url": "https://myanimelist.net/anime/34392"
+    },
+    "tx": {
+      "id": "anime_one_room",
+      "url": "https://twitter.com/anime_one_room"
+    }
+  }
+}

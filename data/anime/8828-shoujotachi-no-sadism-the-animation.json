@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8828,
+  "slug": "shoujotachi-no-sadism-the-animation",
+  "kind": "anime",
+  "title": "Shoujotachi no Sadism THE ANIMATION",
+  "titles": {
+    "default": "Shoujotachi no Sadism THE ANIMATION",
+    "romaji": "Shoujotachi no Sadism THE ANIMATION",
+    "english": "Too Hot For Teacher",
+    "native": "少女達の茶道ism THE ANIMATION"
+  },
+  "synonyms": [
+    "Shoujotachi no Sadism THE ANIMATION",
+    "Too Hot For Teacher",
+    "少女達の茶道ism THE ANIMATION",
+    "Shoujo-tachi no Sadism THE ANIMATION",
+    "MonMusu OVA",
+    "Monster Musume: Everyday Life with Monster Girls OVA",
+    "モンスター娘のいる日常 OVA",
+    "Monster Musume no Iru Nichijou OVA"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx87456-b4ypWGMayrQc.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "87456",
+      "url": "https://anilist.co/anime/87456"
+    },
+    "mal": {
+      "id": "33962",
+      "url": "https://myanimelist.net/anime/33962"
+    }
+  }
+}

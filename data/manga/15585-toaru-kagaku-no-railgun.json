@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15585,
+  "slug": "toaru-kagaku-no-railgun",
+  "kind": "manga",
+  "title": "Toaru Kagaku no Railgun",
+  "titles": {
+    "default": "Toaru Kagaku no Railgun"
+  },
+  "synonyms": [
+    "To Aru Kagaku no Choudenjihou",
+    "Toaru Jihanki no Sonzai Shoumei",
+    "A Certain Vending Machine's Proof of Existence",
+    "เรลกัน แฟ้มลับคดีวิทยาศาสตร์",
+    "科學超電磁砲",
+    "A Certain Scientific Railgun",
+    "とある科学の超電磁砲",
+    "Kataomoi no Mukougawa",
+    "片想いの向こう側",
+    "Kataomoi no Mukou Gawa",
+    "Ano Kado o Magareba",
+    "Tenshi ga Kuretamono",
+    "Bitou na Koi",
+    "Kimi to Natsu no Aizu"
+  ],
+  "type": "manga",
+  "chapters": 180,
+  "volumes": 21,
+  "status": "finished",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx37776-4DWOI7BlCEPq.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "186743",
+      "url": "https://anilist.co/anime/6213"
+    },
+    "al_manga": {
+      "id": "186743",
+      "url": "https://anilist.co/manga/186743"
+    }
+  }
+}

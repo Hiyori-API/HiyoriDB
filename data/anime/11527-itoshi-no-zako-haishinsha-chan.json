@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11527,
+  "slug": "itoshi-no-zako-haishinsha-chan",
+  "kind": "anime",
+  "title": "Itoshi no Zako Haishinsha-chan",
+  "titles": {
+    "default": "Itoshi no Zako Haishinsha-chan",
+    "romaji": "Itoshi no Zako Haishinsha-chan",
+    "native": "愛しのザコ配信者ちゃん"
+  },
+  "synonyms": [
+    "Itoshi no Zako Haishinsha-chan",
+    "愛しのザコ配信者ちゃん",
+    "My Beloved Low-Level Streamer",
+    "TGCF",
+    "Heaven Official's Blessing: Tian Guan Ci Fu",
+    "天官赐福",
+    "Tian Guan Cifu"
+  ],
+  "type": "ona",
+  "status": "airing",
+  "season": "fall",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b213428-DJwbdLhDhoFJ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "213428",
+      "url": "https://anilist.co/anime/213428"
+    },
+    "mal": {
+      "id": "64433",
+      "url": "https://myanimelist.net/anime/64433"
+    }
+  }
+}

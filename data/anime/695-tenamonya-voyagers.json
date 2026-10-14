@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 695,
+  "slug": "tenamonya-voyagers",
+  "kind": "anime",
+  "title": "Tenamonya Voyagers",
+  "titles": {
+    "default": "Tenamonya Voyagers",
+    "romaji": "Tenamonya Voyagers",
+    "native": "てなもんやボイジャーズ"
+  },
+  "synonyms": [
+    "Tenamonya Voyagers",
+    "てなもんやボイジャーズ"
+  ],
+  "type": "ova",
+  "episodes": 4,
+  "status": "finished",
+  "season": "summer",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx773-ZRJZxMqYqqS9.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "773",
+      "url": "https://anilist.co/anime/773"
+    },
+    "k": {
+      "id": "693",
+      "url": "https://kitsu.io/anime/693"
+    },
+    "mal": {
+      "id": "773",
+      "url": "https://myanimelist.net/anime/773"
+    },
+    "ttv": {
+      "id": "2247",
+      "url": "https://tubitv.com/series/2247"
+    }
+  }
+}

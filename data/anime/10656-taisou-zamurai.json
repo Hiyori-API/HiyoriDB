@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10656,
+  "slug": "taisou-zamurai",
+  "kind": "anime",
+  "title": "Taisou Zamurai",
+  "titles": {
+    "default": "Taisou Zamurai",
+    "romaji": "Taisou Zamurai",
+    "english": "The Gymnastics Samurai",
+    "native": "体操ザムライ"
+  },
+  "synonyms": [
+    "Taisou Zamurai",
+    "The Gymnastics Samurai",
+    "体操ザムライ",
+    "Taiso Samurai"
+  ],
+  "type": "tv",
+  "episodes": 11,
+  "status": "finished",
+  "season": "fall",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122807-m8jdQLQRSSUI.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "122807",
+      "url": "https://anilist.co/anime/122807"
+    },
+    "cr": {
+      "id": "the-gymnastics-samurai",
+      "url": "https://www.crunchyroll.com/series/the-gymnastics-samurai"
+    },
+    "mal": {
+      "id": "42668",
+      "url": "https://myanimelist.net/anime/42668"
+    },
+    "nf": {
+      "id": "81349350",
+      "url": "https://www.netflix.com/title/81349350"
+    },
+    "tx": {
+      "id": "taiso_samurai",
+      "url": "https://twitter.com/taiso_samurai"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6005,
+  "slug": "ojou-sama-wa-h-ga-osuki-the-animation",
+  "kind": "anime",
+  "title": "Ojou-sama wa H ga Osuki: THE ANIMATION",
+  "titles": {
+    "default": "Ojou-sama wa H ga Osuki: THE ANIMATION",
+    "romaji": "Ojou-sama wa H ga Osuki: THE ANIMATION",
+    "native": "お嬢様はHがお好き～THE ANIMATION～"
+  },
+  "synonyms": [
+    "Ojou-sama wa H ga Osuki: THE ANIMATION",
+    "お嬢様はHがお好き～THE ANIMATION～",
+    "Milady is Obsessed with Sex",
+    "Ojousama wa H ga Osuki",
+    "xxxHOLiC Rou",
+    "×××HOLiC・籠",
+    "xxxHOLiC Rou: Adayume"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8291.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8291",
+      "url": "https://anilist.co/anime/8291"
+    },
+    "k": {
+      "id": "4759",
+      "url": "https://kitsu.io/anime/4759"
+    },
+    "mal": {
+      "id": "8291",
+      "url": "https://myanimelist.net/anime/8291"
+    }
+  }
+}

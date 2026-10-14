@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2367,
+  "slug": "doraemon-nobita-to-tetsujin-heidan",
+  "kind": "anime",
+  "title": "Doraemon: Nobita to Tetsujin Heidan",
+  "titles": {
+    "default": "Doraemon: Nobita to Tetsujin Heidan",
+    "romaji": "Doraemon: Nobita to Tetsujin Heidan",
+    "english": "Doraemon: Nobita and the Platoon of Iron Men",
+    "native": "ドラえもん のび太と鉄人兵団"
+  },
+  "synonyms": [
+    "Doraemon: Nobita to Tetsujin Heidan",
+    "Doraemon: Nobita and the Platoon of Iron Men",
+    "ドラえもん のび太と鉄人兵団",
+    "Pro Golfer Saru: Super Golf World e no Chousen!!",
+    "プロゴルファー猿 スーパーGOLFワールドへの挑戦!!"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2665-mnohfB1j7y8y.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2665",
+      "url": "https://anilist.co/anime/2665"
+    },
+    "k": {
+      "id": "7638",
+      "url": "https://kitsu.io/anime/7638"
+    },
+    "mal": {
+      "id": "2665",
+      "url": "https://myanimelist.net/anime/2665"
+    }
+  }
+}

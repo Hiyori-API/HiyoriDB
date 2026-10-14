@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10600,
+  "slug": "eizouken-mini-anime",
+  "kind": "anime",
+  "title": "Eizouken Mini Anime",
+  "titles": {
+    "default": "Eizouken Mini Anime",
+    "romaji": "Eizouken Mini Anime",
+    "native": "映像研 ミニアニメ"
+  },
+  "synonyms": [
+    "Eizouken Mini Anime",
+    "映像研 ミニアニメ",
+    "Black Jack ONA",
+    "ブラック・ジャック(インターネット版)",
+    "Black Jack: Internet-han"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116923-ASmRIGda4ZZb.png"
+  ],
+  "references": {
+    "al": {
+      "id": "116923",
+      "url": "https://anilist.co/anime/116923"
+    },
+    "k": {
+      "id": "4904",
+      "url": "https://kitsu.io/anime/4904"
+    },
+    "mal": {
+      "id": "41454",
+      "url": "https://myanimelist.net/anime/41454"
+    },
+    "tx": {
+      "id": "search",
+      "url": "https://twitter.com/search"
+    }
+  }
+}

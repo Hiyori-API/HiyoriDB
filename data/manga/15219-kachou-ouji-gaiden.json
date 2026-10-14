@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15219,
+  "slug": "kachou-ouji-gaiden",
+  "kind": "manga",
+  "title": "Kachou Ouji Gaiden",
+  "titles": {
+    "default": "Kachou Ouji Gaiden"
+  },
+  "synonyms": [
+    "Legend of Black Heaven",
+    "課長王子外伝",
+    "Paradise Kiss",
+    "パラダイス・キス",
+    "ParaKiss"
+  ],
+  "type": "manga",
+  "chapters": 7,
+  "volumes": 1,
+  "status": "finished",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx53296-tBIg8kcx1nB1.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1025",
+      "url": "https://anilist.co/anime/1025"
+    },
+    "al_manga": {
+      "id": "1025",
+      "url": "https://anilist.co/manga/1025"
+    }
+  }
+}

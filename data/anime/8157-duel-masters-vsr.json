@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8157,
+  "slug": "duel-masters-vsr",
+  "kind": "anime",
+  "title": "Duel Masters VSR",
+  "titles": {
+    "default": "Duel Masters VSR",
+    "romaji": "Duel Masters VSR",
+    "native": "デュエル・マスターズVSR"
+  },
+  "synonyms": [
+    "Duel Masters VSR",
+    "デュエル・マスターズVSR",
+    "Duel Masters Versus Revolution",
+    "Battle Spirits: Burning Soul",
+    "バトルスピリッツ烈火魂〈バーニングソウル〉",
+    "Battle Spirits 2015",
+    "Battle Spirits Season 8"
+  ],
+  "type": "tv",
+  "episodes": 51,
+  "status": "finished",
+  "season": "spring",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21024-L4vsNUx34VXK.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21024",
+      "url": "https://anilist.co/anime/21024"
+    },
+    "k": {
+      "id": "9804",
+      "url": "https://kitsu.io/anime/9804"
+    },
+    "mal": {
+      "id": "29687",
+      "url": "https://myanimelist.net/anime/29687"
+    },
+    "t": {
+      "id": "97677",
+      "url": "https://trakt.tv/shows/97677"
+    },
+    "tvt": {
+      "id": "duel_vsr",
+      "url": "http://www.tv-tokyo.co.jp/anime/duel_vsr"
+    }
+  }
+}

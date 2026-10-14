@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9977,
+  "slug": "ahiru-no-sora",
+  "kind": "anime",
+  "title": "Ahiru no Sora",
+  "titles": {
+    "default": "Ahiru no Sora",
+    "romaji": "Ahiru no Sora",
+    "native": "あひるの空"
+  },
+  "synonyms": [
+    "Ahiru no Sora",
+    "あひるの空"
+  ],
+  "type": "tv",
+  "episodes": 50,
+  "status": "finished",
+  "season": "fall",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101239-iGhniUbzVgpn.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101239",
+      "url": "https://anilist.co/anime/101239"
+    },
+    "cr": {
+      "id": "ahiru-no-sora",
+      "url": "https://www.crunchyroll.com/series/ahiru-no-sora"
+    },
+    "mal": {
+      "id": "37403",
+      "url": "https://myanimelist.net/anime/37403"
+    },
+    "nf": {
+      "id": "80245713",
+      "url": "https://www.netflix.com/title/80245713"
+    },
+    "tx": {
+      "id": "ahirunosora_tv",
+      "url": "https://twitter.com/ahirunosora_tv"
+    }
+  }
+}

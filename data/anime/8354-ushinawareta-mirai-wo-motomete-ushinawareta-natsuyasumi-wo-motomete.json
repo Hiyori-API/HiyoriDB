@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8354,
+  "slug": "ushinawareta-mirai-wo-motomete-ushinawareta-natsuyasumi-wo-motomete",
+  "kind": "anime",
+  "title": "Ushinawareta Mirai wo Motomete: Ushinawareta Natsuyasumi wo Motomete",
+  "titles": {
+    "default": "Ushinawareta Mirai wo Motomete: Ushinawareta Natsuyasumi wo Motomete",
+    "romaji": "Ushinawareta Mirai wo Motomete: Ushinawareta Natsuyasumi wo Motomete",
+    "native": "失われた未来を求めて　第十三話「失われた夏休みを求めて」"
+  },
+  "synonyms": [
+    "Ushinawareta Mirai wo Motomete: Ushinawareta Natsuyasumi wo Motomete",
+    "失われた未来を求めて　第十三話「失われた夏休みを求めて」",
+    "Bokura wa Minna Kawai-sou: Hajimete no",
+    "僕らはみんな河合荘 初めての",
+    "The Kawai Complex Guide to Manors and Hostel Behavior: First Time",
+    "Bokura wa Minna Kawaisou: Hajimete no",
+    "Bokura wa Minna Kawaisou Special"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21405-owvZIGnhzmFO.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21405",
+      "url": "https://anilist.co/anime/21405"
+    },
+    "k": {
+      "id": "8536",
+      "url": "https://kitsu.io/anime/8536"
+    },
+    "mal": {
+      "id": "31521",
+      "url": "https://myanimelist.net/anime/31521"
+    },
+    "tx": {
+      "id": "waremete_anime",
+      "url": "https://twitter.com/waremete_anime"
+    }
+  }
+}

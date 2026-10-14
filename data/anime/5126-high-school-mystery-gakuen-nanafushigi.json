@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5126,
+  "slug": "high-school-mystery-gakuen-nanafushigi",
+  "kind": "anime",
+  "title": "High School Mystery: Gakuen Nanafushigi",
+  "titles": {
+    "default": "High School Mystery: Gakuen Nanafushigi",
+    "romaji": "High School Mystery: Gakuen Nanafushigi",
+    "native": "ハイスクールミステリー 学園七不思議"
+  },
+  "synonyms": [
+    "High School Mystery: Gakuen Nanafushigi",
+    "ハイスクールミステリー 学園七不思議",
+    "High School Mystery: School of Seven Mysteries",
+    "High School Mystery: School of Seven Wonders"
+  ],
+  "type": "tv",
+  "episodes": 41,
+  "status": "finished",
+  "season": "spring",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9882.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9882",
+      "url": "https://anilist.co/anime/9882"
+    },
+    "k": {
+      "id": "5919",
+      "url": "https://kitsu.io/anime/5919"
+    },
+    "mal": {
+      "id": "9882",
+      "url": "https://myanimelist.net/anime/9882"
+    }
+  }
+}

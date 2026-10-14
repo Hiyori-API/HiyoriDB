@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7470,
+  "slug": "amanee-tomodachinchi-de-konna-koto-ni-naru-nante",
+  "kind": "anime",
+  "title": "Amanee!: Tomodachinchi de Konna Koto ni Naru Nante!",
+  "titles": {
+    "default": "Amanee!: Tomodachinchi de Konna Koto ni Naru Nante!",
+    "romaji": "Amanee!: Tomodachinchi de Konna Koto ni Naru Nante!",
+    "english": "Sweet Lady (Amanee!)",
+    "native": "アマネェ！ ～トモダチンチでこんな事になるなんて！～"
+  },
+  "synonyms": [
+    "Amanee!: Tomodachinchi de Konna Koto ni Naru Nante!",
+    "Sweet Lady (Amanee!)",
+    "アマネェ！ ～トモダチンチでこんな事になるなんて！～",
+    "Milf Assault Mode",
+    "So, I Can't Play H! OVA",
+    "Dakara Boku wa, H ga Dekinai.: Mie Sugi! Mizugi Contest",
+    "So, I Can't Play H! Episode 13",
+    "だから僕は、Ｈができない 。 見えすぎ! 水着コンテスト",
+    "Dakara boku wa H ga Dekinai. Episode 13",
+    "Dakara Boku wa",
+    "H ga Dekinai. OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21130-8M9Y7c9smqsU.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21130",
+      "url": "https://anilist.co/anime/21130"
+    },
+    "k": {
+      "id": "7180",
+      "url": "https://kitsu.io/anime/7180"
+    },
+    "mal": {
+      "id": "21069",
+      "url": "https://myanimelist.net/anime/21069"
+    }
+  }
+}

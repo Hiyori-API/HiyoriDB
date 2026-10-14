@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10520,
+  "slug": "ore-wo-suki-nano-wa-omae-dake-ka-yo-oretachi-no-game-set",
+  "kind": "anime",
+  "title": "Ore wo Suki nano wa Omae dake ka yo: Oretachi no Game Set",
+  "titles": {
+    "default": "Ore wo Suki nano wa Omae dake ka yo: Oretachi no Game Set",
+    "romaji": "Ore wo Suki nano wa Omae dake ka yo: Oretachi no Game Set",
+    "english": "ORESUKI: Are you the only one who loves me?: Our Playball / Our End Run / Our Game",
+    "native": "俺を好きなのはお前だけかよ～俺たちのゲームセット～"
+  },
+  "synonyms": [
+    "Ore wo Suki nano wa Omae dake ka yo: Oretachi no Game Set",
+    "ORESUKI: Are you the only one who loves me?: Our Playball / Our End Run / Our Game",
+    "俺を好きなのはお前だけかよ～俺たちのゲームセット～",
+    "Ultra Maniac OVA",
+    "ウルトラマニアック",
+    "Tokimeki Fushigi Diary: Ultra Maniac"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114195-3h9rxnFnNkzw.png"
+  ],
+  "references": {
+    "al": {
+      "id": "114195",
+      "url": "https://anilist.co/anime/114195"
+    },
+    "cr": {
+      "id": "oresuki-are-you-the-only-one-who-loves-me",
+      "url": "https://www.crunchyroll.com/series/oresuki-are-you-the-only-one-who-loves-me"
+    },
+    "k": {
+      "id": "156",
+      "url": "https://kitsu.io/anime/156"
+    },
+    "mal": {
+      "id": "40936",
+      "url": "https://myanimelist.net/anime/40936"
+    },
+    "tx": {
+      "id": "oresuki_anime",
+      "url": "https://twitter.com/oresuki_anime"
+    }
+  }
+}

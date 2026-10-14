@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10307,
+  "slug": "kawauso-labo",
+  "kind": "anime",
+  "title": "Kawauso Labo",
+  "titles": {
+    "default": "Kawauso Labo",
+    "romaji": "Kawauso Labo",
+    "native": "カワウソラボ"
+  },
+  "synonyms": [
+    "Kawauso Labo",
+    "カワウソラボ",
+    "Blade of Demon Destruction",
+    "Demon Slayer: Kimetsu no Yaiba",
+    "鬼滅の刃",
+    "Kimetsu no Yaiba"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "winter",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113993-0qmlmdUI8PtP.png"
+  ],
+  "references": {
+    "al": {
+      "id": "113993",
+      "url": "https://anilist.co/anime/113993"
+    },
+    "mal": {
+      "id": "39007",
+      "url": "https://myanimelist.net/anime/39007"
+    },
+    "tx": {
+      "id": "BworksM",
+      "url": "https://twitter.com/BworksM"
+    }
+  }
+}

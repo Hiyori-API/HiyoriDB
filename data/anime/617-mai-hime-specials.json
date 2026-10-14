@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 617,
+  "slug": "mai-hime-specials",
+  "kind": "anime",
+  "title": "Mai-HiME Specials",
+  "titles": {
+    "default": "Mai-HiME Specials",
+    "romaji": "Mai-HiME Specials",
+    "english": "My-Hime Specials",
+    "native": "舞-HiME"
+  },
+  "synonyms": [
+    "Mai-HiME Specials",
+    "My-Hime Specials",
+    "舞-HiME",
+    "My-HiME",
+    "My Princess"
+  ],
+  "type": "special",
+  "episodes": 27,
+  "status": "finished",
+  "season": "winter",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/673.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "673",
+      "url": "https://anilist.co/anime/673"
+    },
+    "k": {
+      "id": "616",
+      "url": "https://kitsu.io/anime/616"
+    },
+    "mal": {
+      "id": "673",
+      "url": "https://myanimelist.net/anime/673"
+    }
+  }
+}

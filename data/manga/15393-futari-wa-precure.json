@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15393,
+  "slug": "futari-wa-precure",
+  "kind": "manga",
+  "title": "Futari wa Precure",
+  "titles": {
+    "default": "Futari wa Precure"
+  },
+  "synonyms": [
+    "Pretty Cure",
+    "ふたりはプリキュア",
+    "Railroad",
+    "레일로드"
+  ],
+  "type": "manga",
+  "chapters": 7,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx55921-Bh1aEDyR8zA8.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "603",
+      "url": "https://anilist.co/anime/603"
+    },
+    "al_manga": {
+      "id": "603",
+      "url": "https://anilist.co/manga/603"
+    }
+  }
+}

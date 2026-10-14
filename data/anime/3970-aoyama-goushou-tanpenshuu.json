@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3970,
+  "slug": "aoyama-goushou-tanpenshuu",
+  "kind": "anime",
+  "title": "Aoyama Goushou Tanpenshuu",
+  "titles": {
+    "default": "Aoyama Goushou Tanpenshuu",
+    "romaji": "Aoyama Goushou Tanpenshuu",
+    "native": "青山剛昌短編集"
+  },
+  "synonyms": [
+    "Aoyama Goushou Tanpenshuu",
+    "青山剛昌短編集",
+    "Aoyama Goushou Tanpen-shuu",
+    "Gosho Aoyama's Collection of Short Stories"
+  ],
+  "type": "special",
+  "episodes": 7,
+  "status": "finished",
+  "season": "spring",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5578-kcxJ0LgO7zql.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5578",
+      "url": "https://anilist.co/anime/5578"
+    },
+    "k": {
+      "id": "4178",
+      "url": "https://kitsu.io/anime/4178"
+    },
+    "mal": {
+      "id": "5578",
+      "url": "https://myanimelist.net/anime/5578"
+    }
+  }
+}

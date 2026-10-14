@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15452,
+  "slug": "tatakau-shisho-to-koisuru-bakudan",
+  "kind": "manga",
+  "title": "Tatakau Shisho to Koisuru Bakudan",
+  "titles": {
+    "default": "Tatakau Shisho to Koisuru Bakudan"
+  },
+  "synonyms": [
+    "戦う司書と恋する爆弾",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "volumes": 3,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/16068.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6758",
+      "url": "https://anilist.co/anime/6758"
+    },
+    "al_manga": {
+      "id": "6758",
+      "url": "https://anilist.co/manga/6758"
+    }
+  }
+}

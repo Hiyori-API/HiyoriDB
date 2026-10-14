@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7519,
+  "slug": "santa-company",
+  "kind": "anime",
+  "title": "Santa Company",
+  "titles": {
+    "default": "Santa Company",
+    "romaji": "Santa Company",
+    "native": "サンタ・カンパニー"
+  },
+  "synonyms": [
+    "Santa Company",
+    "サンタ・カンパニー"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16381.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "16381",
+      "url": "https://anilist.co/anime/16381"
+    },
+    "k": {
+      "id": "7416",
+      "url": "https://kitsu.io/anime/7416"
+    },
+    "mal": {
+      "id": "16381",
+      "url": "https://myanimelist.net/anime/16381"
+    }
+  }
+}

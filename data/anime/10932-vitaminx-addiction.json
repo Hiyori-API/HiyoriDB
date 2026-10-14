@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10932,
+  "slug": "vitaminx-addiction",
+  "kind": "anime",
+  "title": "VitaminX Addiction",
+  "titles": {
+    "default": "VitaminX Addiction",
+    "romaji": "VitaminX Addiction"
+  },
+  "synonyms": [
+    "VitaminX Addiction",
+    "Vitamin X OVA"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "summer",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10595.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "10595",
+      "url": "https://anilist.co/anime/10595"
+    },
+    "k": {
+      "id": "6260",
+      "url": "https://kitsu.io/anime/6260"
+    },
+    "mal": {
+      "id": "10595",
+      "url": "https://myanimelist.net/anime/10595"
+    }
+  }
+}

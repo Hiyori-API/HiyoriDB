@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1196,
+  "slug": "the-urotsuki",
+  "kind": "anime",
+  "title": "THE UROTSUKI",
+  "titles": {
+    "default": "THE UROTSUKI",
+    "romaji": "THE UROTSUKI"
+  },
+  "synonyms": [
+    "THE UROTSUKI",
+    "Urotsukidoji New Saga",
+    "Urotsukidoji: New Saga",
+    "Cosplay Complex",
+    "こすぷれCOMPLEX"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "spring",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1353.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1353",
+      "url": "https://anilist.co/anime/1353"
+    },
+    "cr": {
+      "id": "cosplay-complex-ova",
+      "url": "https://www.crunchyroll.com/series/cosplay-complex-ova"
+    },
+    "k": {
+      "id": "872",
+      "url": "https://kitsu.io/anime/872"
+    },
+    "mal": {
+      "id": "1353",
+      "url": "https://myanimelist.net/anime/1353"
+    }
+  }
+}

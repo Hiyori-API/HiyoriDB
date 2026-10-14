@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9218,
+  "slug": "koukyoushihen-eureka-seven-hi-evolution-1",
+  "kind": "anime",
+  "title": "Koukyoushihen Eureka Seven Hi-Evolution 1",
+  "titles": {
+    "default": "Koukyoushihen Eureka Seven Hi-Evolution 1",
+    "romaji": "Koukyoushihen Eureka Seven Hi-Evolution 1",
+    "english": "Eureka Seven Hi-Evolution 1",
+    "native": "交響詩篇エウレカセブン ハイエボリューション 1"
+  },
+  "synonyms": [
+    "Koukyoushihen Eureka Seven Hi-Evolution 1",
+    "Eureka Seven Hi-Evolution 1",
+    "交響詩篇エウレカセブン ハイエボリューション 1",
+    "E7 Hi-Evolution",
+    "Magical Girl Lyrical Nanoha Reflection",
+    "Mahou Shoujo Lyrical Nanoha: Reflection",
+    "魔法少女リリカルなのは Reflection"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98469-yAUcfoLGLHTk.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98469",
+      "url": "https://anilist.co/anime/98469"
+    },
+    "cr": {
+      "id": "eureka-seven-hi-evolution",
+      "url": "https://www.crunchyroll.com/series/eureka-seven-hi-evolution"
+    },
+    "k": {
+      "id": "8274",
+      "url": "https://kitsu.io/anime/8274"
+    },
+    "mal": {
+      "id": "35134",
+      "url": "https://myanimelist.net/anime/35134"
+    },
+    "tx": {
+      "id": "EUREKA_HI_EVO",
+      "url": "https://twitter.com/EUREKA_HI_EVO"
+    }
+  }
+}

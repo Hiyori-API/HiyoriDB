@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13657,
+  "slug": "gals-fiction-the-animation",
+  "kind": "anime",
+  "title": "Gals Fiction THE ANIMATION",
+  "titles": {
+    "default": "Gals Fiction THE ANIMATION",
+    "romaji": "Gals Fiction THE ANIMATION",
+    "native": "ギャルズフィクション THE ANIMATION"
+  },
+  "synonyms": [
+    "Gals Fiction THE ANIMATION",
+    "ギャルズフィクション THE ANIMATION",
+    "Delete"
+  ],
+  "type": "ova",
+  "status": "to_be_aired",
+  "season": "fall",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217009-jcuGzZxbNDQo.png"
+  ],
+  "references": {
+    "al": {
+      "id": "217009",
+      "url": "https://anilist.co/anime/217009"
+    },
+    "k": {
+      "id": "8729",
+      "url": "https://kitsu.io/anime/8729"
+    },
+    "mal": {
+      "id": "65035",
+      "url": "https://myanimelist.net/anime/65035"
+    }
+  }
+}

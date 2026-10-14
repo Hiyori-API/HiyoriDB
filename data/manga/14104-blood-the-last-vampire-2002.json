@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14104,
+  "slug": "blood-the-last-vampire-2002",
+  "kind": "manga",
+  "title": "Blood: The Last Vampire (2002)",
+  "titles": {
+    "default": "Blood: The Last Vampire (2002)"
+  },
+  "synonyms": [
+    "Blood",
+    "Blood the Last Vampire",
+    "Blood the Last Vampire 2000",
+    "Blood: The Last Vampire 2002",
+    "ブラッド ザ・ラストヴァンパイア 2000",
+    "Full Moon wo Sagashite",
+    "満月〈フルムーン〉をさがして",
+    "Searching for the Full Moon",
+    "Ginyuu Meika"
+  ],
+  "type": "manga",
+  "chapters": 6,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2001,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31080-bya4u2utIcrp.png"
+  ],
+  "references": {
+    "al": {
+      "id": "405",
+      "url": "https://anilist.co/anime/405"
+    },
+    "al_manga": {
+      "id": "405",
+      "url": "https://anilist.co/manga/405"
+    }
+  }
+}

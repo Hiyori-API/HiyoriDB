@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8404,
+  "slug": "crayon-shin-chan-ora-no-hikkoshi-monogatari-saboten-daisuugeki",
+  "kind": "anime",
+  "title": "Crayon Shin-chan: Ora no Hikkoshi Monogatari! Saboten Daisuugeki",
+  "titles": {
+    "default": "Crayon Shin-chan: Ora no Hikkoshi Monogatari! Saboten Daisuugeki",
+    "romaji": "Crayon Shin-chan: Ora no Hikkoshi Monogatari! Saboten Daisuugeki",
+    "native": "クレヨンしんちゃん オラの引越し物語～サボテン大襲撃～"
+  },
+  "synonyms": [
+    "Crayon Shin-chan: Ora no Hikkoshi Monogatari! Saboten Daisuugeki",
+    "クレヨンしんちゃん オラの引越し物語～サボテン大襲撃～",
+    "Shin-chan en México: El ataque del cactus gigante",
+    "Code Geass: Akito the Exiled 3 - The Brightness Falls",
+    "Code Geass: Boukoku no Akito 3 - Kagayaku Mono Ten yori Otsu",
+    "Code Geass: Akito the Exiled - The Brightness Falls",
+    "コードギアス 亡国のアキト 第３章「輝くもの天より堕つ」"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b98744-gh8o2Xio5oAM.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98744",
+      "url": "https://anilist.co/anime/98744"
+    },
+    "cr": {
+      "id": "code-geass-akito-the-exiled",
+      "url": "https://www.crunchyroll.com/series/code-geass-akito-the-exiled"
+    },
+    "k": {
+      "id": "7228",
+      "url": "https://kitsu.io/anime/7228"
+    },
+    "mal": {
+      "id": "27653",
+      "url": "https://myanimelist.net/anime/27653"
+    }
+  }
+}

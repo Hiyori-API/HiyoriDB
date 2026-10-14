@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5872,
+  "slug": "nekketsu-uchuujin",
+  "kind": "anime",
+  "title": "Nekketsu Uchuujin",
+  "titles": {
+    "default": "Nekketsu Uchuujin",
+    "romaji": "Nekketsu Uchuujin",
+    "native": "熱血宇宙人"
+  },
+  "synonyms": [
+    "Nekketsu Uchuujin",
+    "熱血宇宙人",
+    "Hot-blooded Alien"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8935.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8935",
+      "url": "https://anilist.co/anime/8935"
+    },
+    "k": {
+      "id": "5539",
+      "url": "https://kitsu.io/anime/5539"
+    },
+    "mal": {
+      "id": "8935",
+      "url": "https://myanimelist.net/anime/8935"
+    }
+  }
+}

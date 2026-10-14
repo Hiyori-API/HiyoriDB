@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10509,
+  "slug": "bang-dream-garupa-pico-oomori",
+  "kind": "anime",
+  "title": "BanG Dream! Garupa☆Pico: Oomori",
+  "titles": {
+    "default": "BanG Dream! Garupa☆Pico: Oomori",
+    "romaji": "BanG Dream! Garupa☆Pico: Oomori",
+    "english": "BanG Dream! Girls Band Party!☆PICO～OHMORI～",
+    "native": "BanG Dream! ガルパ☆ピコ~大盛り~"
+  },
+  "synonyms": [
+    "BanG Dream! Garupa☆Pico: Oomori",
+    "BanG Dream! Girls Band Party!☆PICO～OHMORI～",
+    "BanG Dream! ガルパ☆ピコ~大盛り~",
+    "Kingdom Season 3",
+    "キングダム 第3シリーズ",
+    "Kingdom 3rd Season"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113906-XWfukSUYMS5K.png"
+  ],
+  "references": {
+    "al": {
+      "id": "113906",
+      "url": "https://anilist.co/anime/113906"
+    },
+    "mal": {
+      "id": "40854",
+      "url": "https://myanimelist.net/anime/40854"
+    },
+    "tx": {
+      "id": "bang_dream_info",
+      "url": "https://twitter.com/bang_dream_info"
+    }
+  }
+}

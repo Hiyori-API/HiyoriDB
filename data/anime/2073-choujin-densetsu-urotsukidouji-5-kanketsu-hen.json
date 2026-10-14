@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2073,
+  "slug": "choujin-densetsu-urotsukidouji-5-kanketsu-hen",
+  "kind": "anime",
+  "title": "Choujin Densetsu Urotsukidouji 5: Kanketsu Hen",
+  "titles": {
+    "default": "Choujin Densetsu Urotsukidouji 5: Kanketsu Hen",
+    "romaji": "Choujin Densetsu Urotsukidouji 5: Kanketsu Hen",
+    "native": "超神伝説うろつき童子 完結編"
+  },
+  "synonyms": [
+    "Choujin Densetsu Urotsukidouji 5: Kanketsu Hen",
+    "超神伝説うろつき童子 完結編",
+    "Urotsukidoji V - The Final Chapter",
+    "Seikimatsu★Darling",
+    "世紀末★ダーリン",
+    "Seikimatsu Darling",
+    "End of Century - Darling"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1996,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2345.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2345",
+      "url": "https://anilist.co/anime/2345"
+    },
+    "k": {
+      "id": "1094",
+      "url": "https://kitsu.io/anime/1094"
+    },
+    "mal": {
+      "id": "2345",
+      "url": "https://myanimelist.net/anime/2345"
+    }
+  }
+}

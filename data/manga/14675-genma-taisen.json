@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14675,
+  "slug": "genma-taisen",
+  "kind": "manga",
+  "title": "Genma Taisen",
+  "titles": {
+    "default": "Genma Taisen"
+  },
+  "synonyms": [
+    "Genma Wars",
+    "Harmagedon",
+    "幻魔大戦",
+    "Lupin III",
+    "Lupin Sansei",
+    "Lupin the 3rd",
+    "ルパン三世"
+  ],
+  "type": "manga",
+  "chapters": 34,
+  "volumes": 2,
+  "status": "finished",
+  "year": 1967,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx131550-1brYBAIIroId.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1626",
+      "url": "https://anilist.co/anime/1626"
+    },
+    "al_manga": {
+      "id": "1626",
+      "url": "https://anilist.co/manga/1626"
+    }
+  }
+}

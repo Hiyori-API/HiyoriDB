@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9361,
+  "slug": "sirotan-sirotan-ga-ippai",
+  "kind": "anime",
+  "title": "Sirotan: Sirotan ga Ippai!",
+  "titles": {
+    "default": "Sirotan: Sirotan ga Ippai!",
+    "romaji": "Sirotan: Sirotan ga Ippai!",
+    "native": "しろたん しろたんがいっぱい!"
+  },
+  "synonyms": [
+    "Sirotan: Sirotan ga Ippai!",
+    "しろたん しろたんがいっぱい!",
+    "Shirotan: Shirotan ga Ippai!"
+  ],
+  "type": "ona",
+  "episodes": 24,
+  "status": "finished",
+  "season": "summer",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99966-Z3SMkIqxRTCg.png"
+  ],
+  "references": {
+    "al": {
+      "id": "99966",
+      "url": "https://anilist.co/anime/99966"
+    },
+    "mal": {
+      "id": "36107",
+      "url": "https://myanimelist.net/anime/36107"
+    },
+    "tx": {
+      "id": "sirotan_fun",
+      "url": "https://twitter.com/sirotan_fun"
+    }
+  }
+}

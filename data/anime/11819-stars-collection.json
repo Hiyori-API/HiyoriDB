@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11819,
+  "slug": "stars-collection",
+  "kind": "anime",
+  "title": "stars*collection",
+  "titles": {
+    "default": "stars*collection",
+    "romaji": "stars*collection",
+    "english": "stars*collection!",
+    "native": "スターズこれくしょん！"
+  },
+  "synonyms": [
+    "stars*collection",
+    "stars*collection!",
+    "スターズこれくしょん！",
+    "StarColle",
+    "Stars*Collection",
+    "Stars*Collection!"
+  ],
+  "type": "ona",
+  "episodes": 62,
+  "status": "finished",
+  "season": "winter",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx144451-onp8x0xZbMg9.png"
+  ],
+  "references": {
+    "al": {
+      "id": "144451",
+      "url": "https://anilist.co/anime/144451"
+    },
+    "mal": {
+      "id": "50934",
+      "url": "https://myanimelist.net/anime/50934"
+    }
+  }
+}

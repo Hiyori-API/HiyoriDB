@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1970,
+  "slug": "hikari-no-densetsu",
+  "kind": "anime",
+  "title": "Hikari no Densetsu",
+  "titles": {
+    "default": "Hikari no Densetsu",
+    "romaji": "Hikari no Densetsu",
+    "native": "光の伝説"
+  },
+  "synonyms": [
+    "Hikari no Densetsu",
+    "光の伝説",
+    "Legend of Light",
+    "The Story of Hikari",
+    "Cynthia ou le Rythme de la Vie",
+    "Die Kleinen Superstars",
+    "Hilary",
+    "La leggenda di Hikari",
+    "La leggenda di Hilary"
+  ],
+  "type": "tv",
+  "episodes": 19,
+  "status": "finished",
+  "season": "spring",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2224-eAPtHBDcAP7d.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2224",
+      "url": "https://anilist.co/anime/2224"
+    },
+    "k": {
+      "id": "2015",
+      "url": "https://kitsu.io/anime/2015"
+    },
+    "mal": {
+      "id": "2224",
+      "url": "https://myanimelist.net/anime/2224"
+    },
+    "t": {
+      "id": "13570",
+      "url": "https://trakt.tv/shows/13570"
+    }
+  }
+}

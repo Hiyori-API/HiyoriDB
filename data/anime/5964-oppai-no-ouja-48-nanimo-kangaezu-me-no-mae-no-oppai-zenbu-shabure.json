@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5964,
+  "slug": "oppai-no-ouja-48-nanimo-kangaezu-me-no-mae-no-oppai-zenbu-shabure",
+  "kind": "anime",
+  "title": "Oppai no Ouja 48: Nanimo Kangaezu Me no Mae no Oppai Zenbu Shabure!",
+  "titles": {
+    "default": "Oppai no Ouja 48: Nanimo Kangaezu Me no Mae no Oppai Zenbu Shabure!",
+    "romaji": "Oppai no Ouja 48: Nanimo Kangaezu Me no Mae no Oppai Zenbu Shabure!",
+    "english": "King of Breasts",
+    "native": "おっぱいの王者48 ~何も考えず目の前のおっぱい全部しゃぶれ! ~"
+  },
+  "synonyms": [
+    "Oppai no Ouja 48: Nanimo Kangaezu Me no Mae no Oppai Zenbu Shabure!",
+    "King of Breasts",
+    "おっぱいの王者48 ~何も考えず目の前のおっぱい全部しゃぶれ! ~",
+    "King of Boobs",
+    "xxxHOLiC Rou",
+    "×××HOLiC・籠",
+    "xxxHOLiC Rou: Adayume"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8039.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8039",
+      "url": "https://anilist.co/anime/8039"
+    },
+    "k": {
+      "id": "4759",
+      "url": "https://kitsu.io/anime/4759"
+    },
+    "mal": {
+      "id": "8039",
+      "url": "https://myanimelist.net/anime/8039"
+    }
+  }
+}

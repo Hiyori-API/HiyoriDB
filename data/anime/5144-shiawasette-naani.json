@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5144,
+  "slug": "shiawasette-naani",
+  "kind": "anime",
+  "title": "Shiawasette Naani",
+  "titles": {
+    "default": "Shiawasette Naani",
+    "romaji": "Shiawasette Naani",
+    "native": "しあわせってなあに"
+  },
+  "synonyms": [
+    "Shiawasette Naani",
+    "しあわせってなあに",
+    "Detonator Orgun",
+    "デトネイター・オーガン"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "summer",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b13441-CER4uVVlExNj.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "13441",
+      "url": "https://anilist.co/anime/13441"
+    },
+    "k": {
+      "id": "1058",
+      "url": "https://kitsu.io/anime/1058"
+    },
+    "mal": {
+      "id": "13441",
+      "url": "https://myanimelist.net/anime/13441"
+    }
+  }
+}

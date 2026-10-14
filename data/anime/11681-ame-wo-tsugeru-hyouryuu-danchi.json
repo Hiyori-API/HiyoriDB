@@ -1,0 +1,62 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11681,
+  "slug": "ame-wo-tsugeru-hyouryuu-danchi",
+  "kind": "anime",
+  "title": "Ame wo Tsugeru Hyouryuu Danchi",
+  "titles": {
+    "default": "Ame wo Tsugeru Hyouryuu Danchi",
+    "romaji": "Ame wo Tsugeru Hyouryuu Danchi",
+    "english": "Drifting Home",
+    "native": "雨を告げる漂流団地"
+  },
+  "synonyms": [
+    "Ame wo Tsugeru Hyouryuu Danchi",
+    "Drifting Home",
+    "雨を告げる漂流団地",
+    "Les Murs Vagabonds",
+    "Dom na falach",
+    "La casa tra le onde",
+    "Hogar a la deriva",
+    "บ้านล่องลอย",
+    "Дім на хвилях",
+    "ديار في قلب المحيط",
+    "Περιπλανώμενο Κτίριο",
+    "표류단지",
+    "Uma Casa à Deriva",
+    "Căminul plutitor",
+    "Shinjuku Shin-chan Patrol: Warui Otona ni Ki wo Tsukete",
+    "新宿シンちゃんパトロール わるい大人に気をつけて",
+    "Shinjuku Shin-chan Patrol: Be Careful of Bad Adults"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2022,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139643-HzWce7XJ2w6G.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "139643",
+      "url": "https://anilist.co/anime/139643"
+    },
+    "k": {
+      "id": "3974",
+      "url": "https://kitsu.io/anime/3974"
+    },
+    "mal": {
+      "id": "49938",
+      "url": "https://myanimelist.net/anime/49938"
+    },
+    "nf": {
+      "id": "81328781",
+      "url": "https://www.netflix.com/title/81328781"
+    },
+    "tx": {
+      "id": "Hyoryu_Danchi",
+      "url": "https://twitter.com/Hyoryu_Danchi"
+    }
+  }
+}

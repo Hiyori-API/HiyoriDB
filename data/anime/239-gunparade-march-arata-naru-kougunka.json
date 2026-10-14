@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 239,
+  "slug": "gunparade-march-arata-naru-kougunka",
+  "kind": "anime",
+  "title": "Gunparade March: Arata Naru Kougunka",
+  "titles": {
+    "default": "Gunparade March: Arata Naru Kougunka",
+    "romaji": "Gunparade March: Arata Naru Kougunka",
+    "english": "Gunparade March",
+    "native": "ガンパレード・マーチ -新たなる行軍歌-"
+  },
+  "synonyms": [
+    "Gunparade March: Arata Naru Kougunka",
+    "Gunparade March",
+    "ガンパレード・マーチ -新たなる行軍歌-",
+    "GPM",
+    "Gunparade March: A New Song for the March"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx266-nZSGUqJ58zWf.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "266",
+      "url": "https://anilist.co/anime/266"
+    },
+    "k": {
+      "id": "241",
+      "url": "https://kitsu.io/anime/241"
+    },
+    "mal": {
+      "id": "266",
+      "url": "https://myanimelist.net/anime/266"
+    },
+    "t": {
+      "id": "62029",
+      "url": "https://trakt.tv/shows/62029"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3282,
+  "slug": "kumo-to-tulip",
+  "kind": "anime",
+  "title": "Kumo to Tulip",
+  "titles": {
+    "default": "Kumo to Tulip",
+    "romaji": "Kumo to Tulip",
+    "native": "くもとちゅうりっぷ"
+  },
+  "synonyms": [
+    "Kumo to Tulip",
+    "くもとちゅうりっぷ",
+    "Spider and Tulip",
+    "Kumo to Chuurippu",
+    "The Spider and the Tulip"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1943,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3990.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3990",
+      "url": "https://anilist.co/anime/3990"
+    },
+    "k": {
+      "id": "3398",
+      "url": "https://kitsu.io/anime/3398"
+    },
+    "mal": {
+      "id": "3990",
+      "url": "https://myanimelist.net/anime/3990"
+    }
+  }
+}

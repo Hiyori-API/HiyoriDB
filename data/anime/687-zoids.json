@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 687,
+  "slug": "zoids",
+  "kind": "anime",
+  "title": "Zoids",
+  "titles": {
+    "default": "Zoids",
+    "romaji": "Zoids",
+    "native": "ゾイド"
+  },
+  "synonyms": [
+    "Zoids",
+    "ゾイド",
+    "Zoids Classic",
+    "Zoids: Chaotic Century",
+    "Zoids: Guardian Forces"
+  ],
+  "type": "tv",
+  "episodes": 67,
+  "status": "finished",
+  "season": "fall",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b763-1T59JdI5ohJd.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "763",
+      "url": "https://anilist.co/anime/763"
+    },
+    "k": {
+      "id": "685",
+      "url": "https://kitsu.io/anime/685"
+    },
+    "mal": {
+      "id": "763",
+      "url": "https://myanimelist.net/anime/763"
+    },
+    "t": {
+      "id": "61029",
+      "url": "https://trakt.tv/shows/61029"
+    }
+  }
+}

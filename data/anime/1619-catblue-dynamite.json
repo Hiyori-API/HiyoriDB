@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1619,
+  "slug": "catblue-dynamite",
+  "kind": "anime",
+  "title": "CATBLUE: DYNAMITE",
+  "titles": {
+    "default": "CATBLUE: DYNAMITE",
+    "romaji": "CATBLUE: DYNAMITE",
+    "english": "Catblue Dynamite",
+    "native": "キャットブルー：ダイナマイト"
+  },
+  "synonyms": [
+    "CATBLUE: DYNAMITE",
+    "Catblue Dynamite",
+    "キャットブルー：ダイナマイト",
+    "Catblue: Dynamite"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1828.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1828",
+      "url": "https://anilist.co/anime/1828"
+    },
+    "k": {
+      "id": "1645",
+      "url": "https://kitsu.io/anime/1645"
+    },
+    "mal": {
+      "id": "1828",
+      "url": "https://myanimelist.net/anime/1828"
+    }
+  }
+}

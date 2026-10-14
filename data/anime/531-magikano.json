@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 531,
+  "slug": "magikano",
+  "kind": "anime",
+  "title": "Magikano",
+  "titles": {
+    "default": "Magikano",
+    "romaji": "Magikano",
+    "native": "マジカノ"
+  },
+  "synonyms": [
+    "Magikano",
+    "マジカノ"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx576-2F5lKKqEXh54.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "576",
+      "url": "https://anilist.co/anime/576"
+    },
+    "cr": {
+      "id": "magikano",
+      "url": "https://www.crunchyroll.com/series/magikano"
+    },
+    "k": {
+      "id": "532",
+      "url": "https://kitsu.io/anime/532"
+    },
+    "mal": {
+      "id": "576",
+      "url": "https://myanimelist.net/anime/576"
+    },
+    "t": {
+      "id": "34044",
+      "url": "https://trakt.tv/shows/34044"
+    },
+    "ttv": {
+      "id": "2375",
+      "url": "https://tubitv.com/series/2375"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3515,
+  "slug": "muteki-robo-trider-g7",
+  "kind": "anime",
+  "title": "Muteki Robo Trider G7",
+  "titles": {
+    "default": "Muteki Robo Trider G7",
+    "romaji": "Muteki Robo Trider G7",
+    "english": "Invincible Robo Trider G7",
+    "native": "無敵ロボトライダーG7"
+  },
+  "synonyms": [
+    "Muteki Robo Trider G7",
+    "Invincible Robo Trider G7",
+    "無敵ロボトライダーG7"
+  ],
+  "type": "tv",
+  "episodes": 50,
+  "status": "finished",
+  "season": "winter",
+  "year": 1980,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx4536-UAsaGIZYe6Pv.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4536",
+      "url": "https://anilist.co/anime/4536"
+    },
+    "k": {
+      "id": "3669",
+      "url": "https://kitsu.io/anime/3669"
+    },
+    "mal": {
+      "id": "4536",
+      "url": "https://myanimelist.net/anime/4536"
+    },
+    "t": {
+      "id": "20120",
+      "url": "https://trakt.tv/shows/20120"
+    }
+  }
+}

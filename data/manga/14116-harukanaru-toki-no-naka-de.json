@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14116,
+  "slug": "harukanaru-toki-no-naka-de",
+  "kind": "manga",
+  "title": "Harukanaru Toki no Naka de",
+  "titles": {
+    "default": "Harukanaru Toki no Naka de"
+  },
+  "synonyms": [
+    "Haruka naru Toki no Naka de",
+    "From a Distant Time",
+    "In a Distant Time",
+    "遙かなる時空の中で2",
+    "遙かなる時空の中で3",
+    "Harukanaru Toki no Naka de 2",
+    "Harukanaru Toki no Naka de 3",
+    "Haruka: Beyond the Stream of Time",
+    "遙かなる時空の中で",
+    "Paradise Kiss",
+    "パラダイス・キス",
+    "ParaKiss"
+  ],
+  "type": "manga",
+  "chapters": 97,
+  "volumes": 17,
+  "status": "finished",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31146-GZ9mIVMVASoP.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "647",
+      "url": "https://anilist.co/anime/1906"
+    },
+    "al_manga": {
+      "id": "647",
+      "url": "https://anilist.co/manga/647"
+    }
+  }
+}

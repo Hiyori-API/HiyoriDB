@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12284,
+  "slug": "shingeki-no-kyojin-the-final-season-kanketsu-hen-kouhen",
+  "kind": "anime",
+  "title": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Kouhen",
+  "titles": {
+    "default": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Kouhen",
+    "romaji": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Kouhen",
+    "english": "Attack on Titan Final Season THE FINAL CHAPTERS Special 2",
+    "native": "進撃の巨人 The Final Season完結編 後編"
+  },
+  "synonyms": [
+    "Shingeki no Kyojin: The Final Season - Kanketsu-hen Kouhen",
+    "Attack on Titan Final Season THE FINAL CHAPTERS Special 2",
+    "進撃の巨人 The Final Season完結編 後編",
+    "Shingeki no Kyojin: The Final Season Final Edition",
+    "Attack on Titan Final Season Part 3 Final Arc Part 2",
+    "Attack on Titan: The Final Season Part 4",
+    "Shingeki no Kyojin: The Final Season Part 4",
+    "SnK 4",
+    "AoT 4",
+    "アイドルマスターシンデレラガールズ U149",
+    "The iDOLM@STER Cinderella Girls: U149 Special"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2023,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162314-qIWdAAFtvY8J.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "162314",
+      "url": "https://anilist.co/anime/162314"
+    },
+    "cr": {
+      "id": "watch/GWDU8ED5Q/attack-on-titan-final-season-the-final-chapters-special-2",
+      "url": "https://www.crunchyroll.com/series/watch/GWDU8ED5Q/attack-on-titan-final-season-the-final-chapters-special-2"
+    },
+    "mal": {
+      "id": "55802",
+      "url": "https://myanimelist.net/anime/55802"
+    },
+    "tx": {
+      "id": "anime_shingeki",
+      "url": "https://twitter.com/anime_shingeki"
+    }
+  }
+}

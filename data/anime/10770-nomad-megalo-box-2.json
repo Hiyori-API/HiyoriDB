@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10770,
+  "slug": "nomad-megalo-box-2",
+  "kind": "anime",
+  "title": "NOMAD: Megalo Box 2",
+  "titles": {
+    "default": "NOMAD: Megalo Box 2",
+    "romaji": "NOMAD: Megalo Box 2",
+    "english": "MEGALOBOX 2: NOMAD",
+    "native": "NOMAD メガロボクス2"
+  },
+  "synonyms": [
+    "NOMAD: Megalo Box 2",
+    "MEGALOBOX 2: NOMAD",
+    "NOMAD メガロボクス2",
+    "เมกาโล่บ็อกซ์ เจ้าสังเวียนพันธุ์แกร่ง ภาค 2",
+    "Megalobox 2: Nomad",
+    "Nomad: Megalo Box 2"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113359-FnjG2VppJF9f.png"
+  ],
+  "references": {
+    "al": {
+      "id": "113359",
+      "url": "https://anilist.co/anime/113359"
+    },
+    "cr": {
+      "id": "megalobox",
+      "url": "https://www.crunchyroll.com/series/megalobox"
+    },
+    "mal": {
+      "id": "40729",
+      "url": "https://myanimelist.net/anime/40729"
+    },
+    "tx": {
+      "id": "joe50_megalobox",
+      "url": "https://twitter.com/joe50_megalobox"
+    }
+  }
+}

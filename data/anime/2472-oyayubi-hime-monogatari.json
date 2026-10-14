@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2472,
+  "slug": "oyayubi-hime-monogatari",
+  "kind": "anime",
+  "title": "Oyayubi Hime: Monogatari",
+  "titles": {
+    "default": "Oyayubi Hime: Monogatari",
+    "romaji": "Oyayubi Hime: Monogatari",
+    "english": "Thumbelina: A Magical Story",
+    "native": "おやゆび姫物語"
+  },
+  "synonyms": [
+    "Oyayubi Hime: Monogatari",
+    "Thumbelina: A Magical Story",
+    "おやゆび姫物語",
+    "Story of Princess Thumbelina",
+    "Thumbelina",
+    "Thumb Princess Story",
+    "Thumbelina: A Magic Story",
+    "Tummelisa och Grodan Hoppe",
+    "A Dog of Flanders: My Patrasche",
+    "Flanders no Inu, Boku no Patrasche",
+    "フランダースの犬　～ぼくのパトラッシュ～",
+    "A Dog of Flanders: My Friend Patrasche"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2783-F2foOxAsI5xK.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2783",
+      "url": "https://anilist.co/anime/2783"
+    },
+    "k": {
+      "id": "2388",
+      "url": "https://kitsu.io/anime/2388"
+    },
+    "mal": {
+      "id": "2783",
+      "url": "https://myanimelist.net/anime/2783"
+    }
+  }
+}

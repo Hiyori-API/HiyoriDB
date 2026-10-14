@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1137,
+  "slug": "aquarian-age-saga-ii-don-t-forget-me",
+  "kind": "anime",
+  "title": "Aquarian Age: Saga II - Don't forget me...",
+  "titles": {
+    "default": "Aquarian Age: Saga II - Don't forget me...",
+    "romaji": "Aquarian Age: Saga II - Don't forget me...",
+    "english": "Aquarian Age the Movie",
+    "native": "アクエリアンエイジ Saga II ~Don`t forget me...~"
+  },
+  "synonyms": [
+    "Aquarian Age: Saga II - Don't forget me...",
+    "Aquarian Age the Movie",
+    "アクエリアンエイジ Saga II ~Don`t forget me...~",
+    "Atashin'chi Movie",
+    "映画 あたしンち",
+    "Eiga Atashin'chi"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1268-RnCEb7V5X5yb.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1268",
+      "url": "https://anilist.co/anime/1268"
+    },
+    "k": {
+      "id": "5873",
+      "url": "https://kitsu.io/anime/5873"
+    },
+    "mal": {
+      "id": "1268",
+      "url": "https://myanimelist.net/anime/1268"
+    }
+  }
+}

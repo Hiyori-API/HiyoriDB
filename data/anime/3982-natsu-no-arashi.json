@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3982,
+  "slug": "natsu-no-arashi",
+  "kind": "anime",
+  "title": "Natsu no Arashi!",
+  "titles": {
+    "default": "Natsu no Arashi!",
+    "romaji": "Natsu no Arashi!",
+    "native": "夏のあらし!"
+  },
+  "synonyms": [
+    "Natsu no Arashi!",
+    "夏のあらし!",
+    "Summer Storm!",
+    "夏のあらし！"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5597.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5597",
+      "url": "https://anilist.co/anime/5597"
+    },
+    "cr": {
+      "id": "natsu-no-arashi-",
+      "url": "https://www.crunchyroll.com/series/natsu-no-arashi-"
+    },
+    "k": {
+      "id": "4190",
+      "url": "https://kitsu.io/anime/4190"
+    },
+    "mal": {
+      "id": "5597",
+      "url": "https://myanimelist.net/anime/5597"
+    },
+    "t": {
+      "id": "44439",
+      "url": "https://trakt.tv/shows/44439"
+    }
+  }
+}

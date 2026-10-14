@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2987,
+  "slug": "seijuuden-twin-dolls",
+  "kind": "anime",
+  "title": "Seijuuden: Twin Dolls",
+  "titles": {
+    "default": "Seijuuden: Twin Dolls",
+    "romaji": "Seijuuden: Twin Dolls",
+    "english": "Twin Dolls",
+    "native": "聖獣伝 ツインドールズ"
+  },
+  "synonyms": [
+    "Seijuuden: Twin Dolls",
+    "Twin Dolls",
+    "聖獣伝 ツインドールズ",
+    "Twin Dolls: Legend of the Heavenly Beasts",
+    "Tanin no Kankei",
+    "他人の関係",
+    "Homeroom Affairs",
+    "Human Relations"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3534.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3534",
+      "url": "https://anilist.co/anime/3534"
+    },
+    "k": {
+      "id": "3614",
+      "url": "https://kitsu.io/anime/3614"
+    },
+    "mal": {
+      "id": "3534",
+      "url": "https://myanimelist.net/anime/3534"
+    }
+  }
+}

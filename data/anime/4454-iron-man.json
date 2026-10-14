@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4454,
+  "slug": "iron-man",
+  "kind": "anime",
+  "title": "Iron Man",
+  "titles": {
+    "default": "Iron Man",
+    "romaji": "Iron Man",
+    "native": "アイアンマン"
+  },
+  "synonyms": [
+    "Iron Man",
+    "アイアンマン",
+    "Ironman",
+    "Marvel Anime: Homem de Ferro"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6875.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6875",
+      "url": "https://anilist.co/anime/6875"
+    },
+    "k": {
+      "id": "4762",
+      "url": "https://kitsu.io/anime/4762"
+    },
+    "mal": {
+      "id": "6875",
+      "url": "https://myanimelist.net/anime/6875"
+    },
+    "t": {
+      "id": "60952",
+      "url": "https://trakt.tv/shows/60952"
+    }
+  }
+}

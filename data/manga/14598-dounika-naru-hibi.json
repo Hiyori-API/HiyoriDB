@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14598,
+  "slug": "dounika-naru-hibi",
+  "kind": "manga",
+  "title": "Dounika Naru Hibi",
+  "titles": {
+    "default": "Dounika Naru Hibi"
+  },
+  "synonyms": [
+    "Dou ni ka Naru Hibi",
+    "Happy-Go-Lucky Days",
+    "どうにかなる日々",
+    "Fujisan",
+    "富士山",
+    "Fuji-san"
+  ],
+  "type": "manga",
+  "chapters": 15,
+  "volumes": 2,
+  "status": "finished",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5750.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "113416",
+      "url": "https://anilist.co/anime/113416"
+    },
+    "al_manga": {
+      "id": "113416",
+      "url": "https://anilist.co/manga/113416"
+    }
+  }
+}

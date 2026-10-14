@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2165,
+  "slug": "maple-colors",
+  "kind": "anime",
+  "title": "Maple Colors",
+  "titles": {
+    "default": "Maple Colors",
+    "romaji": "Maple Colors",
+    "native": "メイプル カラーズ"
+  },
+  "synonyms": [
+    "Maple Colors",
+    "メイプル カラーズ",
+    "Tokyo Daigaku Monogatari",
+    "東京大学物語",
+    "Tokyo University Story"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2445.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2445",
+      "url": "https://anilist.co/anime/2445"
+    },
+    "k": {
+      "id": "943",
+      "url": "https://kitsu.io/anime/943"
+    },
+    "mal": {
+      "id": "2445",
+      "url": "https://myanimelist.net/anime/2445"
+    }
+  }
+}

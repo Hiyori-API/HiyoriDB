@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9626,
+  "slug": "amanchu-advance",
+  "kind": "anime",
+  "title": "Amanchu! Advance",
+  "titles": {
+    "default": "Amanchu! Advance",
+    "romaji": "Amanchu! Advance",
+    "english": "Amanchu! ~Advance~",
+    "native": "あまんちゅ！～あどばんす～"
+  },
+  "synonyms": [
+    "Amanchu! Advance",
+    "Amanchu! ~Advance~",
+    "あまんちゅ！～あどばんす～",
+    "High Score Girl",
+    "ハイスコアガール",
+    "Hi Score Girl"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx100532-JsnQ0rsV9c5D.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "100532",
+      "url": "https://anilist.co/anime/100532"
+    },
+    "k": {
+      "id": "8158",
+      "url": "https://kitsu.io/anime/8158"
+    },
+    "mal": {
+      "id": "36800",
+      "url": "https://myanimelist.net/anime/36800"
+    },
+    "nf": {
+      "id": "80997338",
+      "url": "https://www.netflix.com/title/80997338"
+    },
+    "tx": {
+      "id": "amanchu_anime",
+      "url": "https://twitter.com/amanchu_anime"
+    }
+  }
+}

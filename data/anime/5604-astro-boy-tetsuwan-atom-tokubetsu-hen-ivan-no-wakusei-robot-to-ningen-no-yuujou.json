@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5604,
+  "slug": "astro-boy-tetsuwan-atom-tokubetsu-hen-ivan-no-wakusei-robot-to-ningen-no-yuujou",
+  "kind": "anime",
+  "title": "ASTRO BOY Tetsuwan Atom Tokubetsu-hen: Ivan no Wakusei - Robot to Ningen no Yuujou",
+  "titles": {
+    "default": "ASTRO BOY Tetsuwan Atom Tokubetsu-hen: Ivan no Wakusei - Robot to Ningen no Yuujou",
+    "romaji": "ASTRO BOY Tetsuwan Atom Tokubetsu-hen: Ivan no Wakusei - Robot to Ningen no Yuujou",
+    "native": "ASTRO BOY 鉄腕アトム特別編 イワンの惑星~ロボットと人間の友情~"
+  },
+  "synonyms": [
+    "ASTRO BOY Tetsuwan Atom Tokubetsu-hen: Ivan no Wakusei - Robot to Ningen no Yuujou",
+    "ASTRO BOY 鉄腕アトム特別編 イワンの惑星~ロボットと人間の友情~",
+    "Astro Boy: Ivan's Planet",
+    "Tetsuwan Atom: Ivan's Planet",
+    "Tetsuwan Atom: Ivan no Wakusei - Robot to Ningen no Yuujou",
+    "Astro Boy Tetsuwan Atom: Ivan's Planet",
+    "Astro Boy Tetsuwan Atom Tokubetsu Hen: Ivan no Wakusei - Robot to Ningen no Yuujou"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b18637-mIj2qtXtSYIw.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "18637",
+      "url": "https://anilist.co/anime/18637"
+    },
+    "k": {
+      "id": "9109",
+      "url": "https://kitsu.io/anime/9109"
+    },
+    "mal": {
+      "id": "18637",
+      "url": "https://myanimelist.net/anime/18637"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10131,
+  "slug": "lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note",
+  "kind": "anime",
+  "title": "Lord El-Melloi II-sei no Jikenbo: \"Rail Zeppelin\" Grace note",
+  "titles": {
+    "default": "Lord El-Melloi II-sei no Jikenbo: \"Rail Zeppelin\" Grace note",
+    "romaji": "Lord El-Melloi II-sei no Jikenbo: \"Rail Zeppelin\" Grace note",
+    "english": "Lord El-Melloi II's Case Files {Rail Zeppelin} Grace note",
+    "native": "ロード・エルメロイⅡ世の事件簿 {魔眼蒐集列車} Grace note"
+  },
+  "synonyms": [
+    "Lord El-Melloi II-sei no Jikenbo: \"Rail Zeppelin\" Grace note",
+    "Lord El-Melloi II's Case Files {Rail Zeppelin} Grace note",
+    "ロード・エルメロイⅡ世の事件簿 {魔眼蒐集列車} Grace note",
+    "Досье лорда Эль-Меллоя II",
+    "Lord El-Melloi II's Case Files: Rail Zeppelin Grace Note",
+    "ロード・エルメロイⅡ世の事件簿 -魔眼蒐集列車 Grace note-",
+    "Lord El-Melloi II-sei no Jikenbo: Rail Zeppelin Grace Note"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx106918-4T0AdnCg8d64.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "106918",
+      "url": "https://anilist.co/anime/106918"
+    },
+    "cr": {
+      "id": "lord-el-melloi-iis-case-files-rail-zeppelin-grace-note",
+      "url": "https://www.crunchyroll.com/series/lord-el-melloi-iis-case-files-rail-zeppelin-grace-note"
+    },
+    "mal": {
+      "id": "38959",
+      "url": "https://myanimelist.net/anime/38959"
+    },
+    "tx": {
+      "id": "elmelloi_anime",
+      "url": "https://twitter.com/elmelloi_anime"
+    }
+  }
+}

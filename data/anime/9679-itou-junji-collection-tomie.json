@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9679,
+  "slug": "itou-junji-collection-tomie",
+  "kind": "anime",
+  "title": "Itou Junji: Collection - Tomie",
+  "titles": {
+    "default": "Itou Junji: Collection - Tomie",
+    "romaji": "Itou Junji: Collection - Tomie",
+    "english": "Junji Ito Collection: Tomie",
+    "native": "伊藤潤二「コレクション」富江"
+  },
+  "synonyms": [
+    "Itou Junji: Collection - Tomie",
+    "Junji Ito Collection: Tomie",
+    "伊藤潤二「コレクション」富江",
+    "Tomie",
+    "RG Veda",
+    "聖伝"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b101016-VM4HXz6S5myf.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "101016",
+      "url": "https://anilist.co/anime/101016"
+    },
+    "cr": {
+      "id": "junji-ito-collection",
+      "url": "https://www.crunchyroll.com/series/junji-ito-collection"
+    },
+    "k": {
+      "id": "402",
+      "url": "https://kitsu.io/anime/402"
+    },
+    "mal": {
+      "id": "36992",
+      "url": "https://myanimelist.net/anime/36992"
+    }
+  }
+}

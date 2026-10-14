@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3099,
+  "slug": "yes-precure-5-gogo",
+  "kind": "anime",
+  "title": "Yes! Precure 5 GoGo!",
+  "titles": {
+    "default": "Yes! Precure 5 GoGo!",
+    "romaji": "Yes! Precure 5 GoGo!",
+    "native": "Yes!プリキュア5GoGo!"
+  },
+  "synonyms": [
+    "Yes! Precure 5 GoGo!",
+    "Yes!プリキュア5GoGo!",
+    "Yes! プリキュア5 GoGo!"
+  ],
+  "type": "tv",
+  "episodes": 48,
+  "status": "finished",
+  "season": "winter",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3692-hNjdstSK2qMF.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3692",
+      "url": "https://anilist.co/anime/3692"
+    },
+    "k": {
+      "id": "3199",
+      "url": "https://kitsu.io/anime/3199"
+    },
+    "mal": {
+      "id": "3692",
+      "url": "https://myanimelist.net/anime/3692"
+    },
+    "t": {
+      "id": "65020",
+      "url": "https://trakt.tv/shows/65020"
+    }
+  }
+}

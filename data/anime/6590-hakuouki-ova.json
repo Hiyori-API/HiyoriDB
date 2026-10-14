@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6590,
+  "slug": "hakuouki-ova",
+  "kind": "anime",
+  "title": "Hakuouki OVA",
+  "titles": {
+    "default": "Hakuouki OVA",
+    "romaji": "Hakuouki OVA",
+    "native": "薄桜鬼"
+  },
+  "synonyms": [
+    "Hakuouki OVA",
+    "薄桜鬼",
+    "Hakuoki OVA",
+    "Hakuouki Shinsengumi Kitan OVA"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11663.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "11663",
+      "url": "https://anilist.co/anime/11663"
+    },
+    "k": {
+      "id": "6556",
+      "url": "https://kitsu.io/anime/6556"
+    },
+    "mal": {
+      "id": "11663",
+      "url": "https://myanimelist.net/anime/11663"
+    },
+    "t": {
+      "id": "44073",
+      "url": "https://trakt.tv/shows/44073"
+    }
+  }
+}

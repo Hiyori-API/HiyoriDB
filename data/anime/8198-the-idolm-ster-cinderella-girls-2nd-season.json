@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8198,
+  "slug": "the-idolm-ster-cinderella-girls-2nd-season",
+  "kind": "anime",
+  "title": "THE IDOLM@STER Cinderella Girls 2nd SEASON",
+  "titles": {
+    "default": "THE IDOLM@STER Cinderella Girls 2nd SEASON",
+    "romaji": "THE IDOLM@STER Cinderella Girls 2nd SEASON",
+    "english": "THE IDOLM@STER CINDERELLA GIRLS",
+    "native": "アイドルマスターシンデレラガールズ 2nd SEASON"
+  },
+  "synonyms": [
+    "THE IDOLM@STER Cinderella Girls 2nd SEASON",
+    "THE IDOLM@STER CINDERELLA GIRLS",
+    "アイドルマスターシンデレラガールズ 2nd SEASON",
+    "The Idolmaster: Cinderella Girls 2nd Season",
+    "Gatchaman Crowds Insight",
+    "GATCHAMAN CROWDS insight（インサイト）",
+    "Gatchaman Crowds 2nd Season",
+    "Gatchaman Crowds Second Season"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21094-owXSBdtxaVvW.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21094",
+      "url": "https://anilist.co/anime/21094"
+    },
+    "cr": {
+      "id": "the-idolmster-cinderella-girls",
+      "url": "https://www.crunchyroll.com/series/the-idolmster-cinderella-girls"
+    },
+    "k": {
+      "id": "8180",
+      "url": "https://kitsu.io/anime/8180"
+    },
+    "mal": {
+      "id": "30344",
+      "url": "https://myanimelist.net/anime/30344"
+    },
+    "t": {
+      "id": "70752",
+      "url": "https://trakt.tv/shows/70752"
+    },
+    "tx": {
+      "id": "imas_anime",
+      "url": "https://twitter.com/imas_anime"
+    }
+  }
+}

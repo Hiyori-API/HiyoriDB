@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8713,
+  "slug": "regalia-the-three-sacred-stars",
+  "kind": "anime",
+  "title": "Regalia: The Three Sacred Stars",
+  "titles": {
+    "default": "Regalia: The Three Sacred Stars",
+    "romaji": "Regalia: The Three Sacred Stars",
+    "native": "レガリア The Three Sacred Stars"
+  },
+  "synonyms": [
+    "Regalia: The Three Sacred Stars",
+    "レガリア The Three Sacred Stars",
+    "Shokugeki no Souma 2nd Season",
+    "Shokugeki no Soma 2",
+    "Food Wars: Shokugeki no Soma 2",
+    "Shokugeki no Soma: The Second Plate",
+    "Food Wars! The Second Plate",
+    "食戟のソーマ 弍ノ皿",
+    "Shokugeki no Souma: Ni no Sara"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21707-2j3DygPJrJs4.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21707",
+      "url": "https://anilist.co/anime/21707"
+    },
+    "cr": {
+      "id": "regalia-the-three-sacred-stars",
+      "url": "https://www.crunchyroll.com/series/regalia-the-three-sacred-stars"
+    },
+    "mal": {
+      "id": "32961",
+      "url": "https://myanimelist.net/anime/32961"
+    },
+    "tx": {
+      "id": "regalia_anime",
+      "url": "https://twitter.com/regalia_anime"
+    }
+  }
+}

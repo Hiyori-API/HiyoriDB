@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7134,
+  "slug": "amnesia",
+  "kind": "anime",
+  "title": "AMNESIA",
+  "titles": {
+    "default": "AMNESIA",
+    "romaji": "AMNESIA"
+  },
+  "synonyms": [
+    "AMNESIA",
+    "アムネシア",
+    "Amnesia"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15085-GA9iJnPgjY1H.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "15085",
+      "url": "https://anilist.co/anime/15085"
+    },
+    "cr": {
+      "id": "amnesia",
+      "url": "https://www.crunchyroll.com/series/amnesia"
+    },
+    "k": {
+      "id": "7209",
+      "url": "https://kitsu.io/anime/7209"
+    },
+    "mal": {
+      "id": "15085",
+      "url": "https://myanimelist.net/anime/15085"
+    },
+    "t": {
+      "id": "68733",
+      "url": "https://trakt.tv/shows/68733"
+    }
+  }
+}

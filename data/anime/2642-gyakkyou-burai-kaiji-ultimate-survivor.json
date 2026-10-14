@@ -1,0 +1,58 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2642,
+  "slug": "gyakkyou-burai-kaiji-ultimate-survivor",
+  "kind": "anime",
+  "title": "Gyakkyou Burai Kaiji: Ultimate Survivor",
+  "titles": {
+    "default": "Gyakkyou Burai Kaiji: Ultimate Survivor",
+    "romaji": "Gyakkyou Burai Kaiji: Ultimate Survivor",
+    "english": "Kaiji - Ultimate Survivor",
+    "native": "逆境無頼カイジ Ultimate Survivor"
+  },
+  "synonyms": [
+    "Gyakkyou Burai Kaiji: Ultimate Survivor",
+    "Kaiji - Ultimate Survivor",
+    "逆境無頼カイジ Ultimate Survivor",
+    "The Suffering Pariah Kaiji: Ultimate Survivor",
+    "Кайдзи",
+    "Reideen",
+    "ライディーン",
+    "Reideen (2007)",
+    "Raideen"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "fall",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3002-BExanPfxp888.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3002",
+      "url": "https://anilist.co/anime/3002"
+    },
+    "cr": {
+      "id": "kaiji",
+      "url": "https://www.crunchyroll.com/series/kaiji"
+    },
+    "k": {
+      "id": "1521",
+      "url": "https://kitsu.io/anime/1521"
+    },
+    "mal": {
+      "id": "3002",
+      "url": "https://myanimelist.net/anime/3002"
+    },
+    "nf": {
+      "id": "81409812",
+      "url": "https://www.netflix.com/title/81409812"
+    },
+    "t": {
+      "id": "34626",
+      "url": "https://trakt.tv/shows/34626"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8085,
+  "slug": "fate-kaleid-liner-prisma-illya-2wei-mahou-shoujo-in-onsen-ryokou",
+  "kind": "anime",
+  "title": "Fate/kaleid liner Prisma☆Illya 2wei!: Mahou Shoujo in Onsen Ryokou",
+  "titles": {
+    "default": "Fate/kaleid liner Prisma☆Illya 2wei!: Mahou Shoujo in Onsen Ryokou",
+    "romaji": "Fate/kaleid liner Prisma☆Illya 2wei!: Mahou Shoujo in Onsen Ryokou",
+    "english": "Fate/kaleid liner Prisma☆Illya 2wei! OVA",
+    "native": "Fate/kaleid linerプリズマ☆イリヤ ツヴァイ！魔法少女in温泉旅行"
+  },
+  "synonyms": [
+    "Fate/kaleid liner Prisma☆Illya 2wei!: Mahou Shoujo in Onsen Ryokou",
+    "Fate/kaleid liner Prisma☆Illya 2wei! OVA",
+    "Fate/kaleid linerプリズマ☆イリヤ ツヴァイ！魔法少女in温泉旅行",
+    "Судьба/Девочка-волшебница Иллия 2 OVA",
+    "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ! 魔法少女in温泉旅行",
+    "Prisma Illya 2wei! OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20862-EwdOS4tKrAKP.png"
+  ],
+  "references": {
+    "al": {
+      "id": "20862",
+      "url": "https://anilist.co/anime/20862"
+    },
+    "k": {
+      "id": "8831",
+      "url": "https://kitsu.io/anime/8831"
+    },
+    "mal": {
+      "id": "26057",
+      "url": "https://myanimelist.net/anime/26057"
+    }
+  }
+}

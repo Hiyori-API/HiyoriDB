@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15009,
+  "slug": "kidou-keisatsu-patlabor",
+  "kind": "manga",
+  "title": "Kidou Keisatsu Patlabor",
+  "titles": {
+    "default": "Kidou Keisatsu Patlabor"
+  },
+  "synonyms": [
+    "Mobile Police Patlabor",
+    "機動警察パトレイバー",
+    "The Lamb of God -Agnus Dei-",
+    "Kami no Kohitsuji -Agnus Dei-",
+    "神の子羊 －アニュス・デイ－"
+  ],
+  "type": "novel",
+  "chapters": 8,
+  "volumes": 5,
+  "status": "finished",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/95288-IHzkCaZj6p6L.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1288",
+      "url": "https://anilist.co/anime/1288"
+    },
+    "al_manga": {
+      "id": "1288",
+      "url": "https://anilist.co/manga/1288"
+    }
+  }
+}

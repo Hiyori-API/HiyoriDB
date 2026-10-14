@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15712,
+  "slug": "koihime-musou",
+  "kind": "manga",
+  "title": "Koihime†Musou",
+  "titles": {
+    "default": "Koihime†Musou"
+  },
+  "synonyms": [
+    "Koihime + Musou",
+    "Koihime Musō",
+    "Koihime Musou ~Dokisu Otome Darake no Sangokushi Engi~",
+    "恋姫†夢想",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "volumes": 2,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/11720.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4262",
+      "url": "https://anilist.co/anime/4262"
+    },
+    "al_manga": {
+      "id": "4262",
+      "url": "https://anilist.co/manga/4262"
+    }
+  }
+}

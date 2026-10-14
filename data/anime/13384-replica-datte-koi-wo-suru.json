@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13384,
+  "slug": "replica-datte-koi-wo-suru",
+  "kind": "anime",
+  "title": "Replica Datte, Koi wo Suru.",
+  "titles": {
+    "default": "Replica Datte, Koi wo Suru.",
+    "romaji": "Replica Datte, Koi wo Suru.",
+    "english": "Even a Replica Can Fall in Love",
+    "native": "レプリカだって、恋をする"
+  },
+  "synonyms": [
+    "Replica Datte, Koi wo Suru.",
+    "Even a Replica Can Fall in Love",
+    "レプリカだって、恋をする",
+    "Даже копия способна влюбиться",
+    "รักฉันเทียมเธอ",
+    "Prétear: The New Legend of Snow White",
+    "Shin Shirayuki-hime Densetsu Prétear",
+    "新白雪姫伝説プリーティア",
+    "Shin Shirayuki-hime Densetsu Pretear"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "spring",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186744-nFH4y2slUrO4.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "186744",
+      "url": "https://anilist.co/anime/186744"
+    },
+    "cr": {
+      "id": "series/GT00374288/even-a-replica-can-fall-in-love",
+      "url": "https://www.crunchyroll.com/series/series/GT00374288/even-a-replica-can-fall-in-love"
+    },
+    "k": {
+      "id": "79",
+      "url": "https://kitsu.io/anime/79"
+    },
+    "mal": {
+      "id": "61013",
+      "url": "https://myanimelist.net/anime/61013"
+    },
+    "t": {
+      "id": "42703",
+      "url": "https://trakt.tv/shows/42703"
+    }
+  }
+}

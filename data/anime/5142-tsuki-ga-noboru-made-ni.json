@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5142,
+  "slug": "tsuki-ga-noboru-made-ni",
+  "kind": "anime",
+  "title": "Tsuki ga Noboru made ni",
+  "titles": {
+    "default": "Tsuki ga Noboru made ni",
+    "romaji": "Tsuki ga Noboru made ni",
+    "native": "月がのぼるまでに"
+  },
+  "synonyms": [
+    "Tsuki ga Noboru made ni",
+    "月がのぼるまでに",
+    "By the Time the Moon Rises"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12905.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "12905",
+      "url": "https://anilist.co/anime/12905"
+    },
+    "k": {
+      "id": "6845",
+      "url": "https://kitsu.io/anime/6845"
+    },
+    "mal": {
+      "id": "12905",
+      "url": "https://myanimelist.net/anime/12905"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8959,
+  "slug": "tokyo-one-piece-tower-tongari-shima-no-dai-hihou",
+  "kind": "anime",
+  "title": "Tokyo One Piece Tower: Tongari Shima no Dai Hihou",
+  "titles": {
+    "default": "Tokyo One Piece Tower: Tongari Shima no Dai Hihou",
+    "romaji": "Tokyo One Piece Tower: Tongari Shima no Dai Hihou",
+    "english": "The Great Tongari Island Treasure Hunting Adventure",
+    "native": "東京ワンピースタワー トンガリ島の大秘宝"
+  },
+  "synonyms": [
+    "Tokyo One Piece Tower: Tongari Shima no Dai Hihou",
+    "The Great Tongari Island Treasure Hunting Adventure",
+    "東京ワンピースタワー トンガリ島の大秘宝",
+    "Treasure Hunting: Tongari Shima no Daibouke",
+    "In This Corner of the World",
+    "Kono Sekai no Katasumi ni",
+    "この世界の片隅に",
+    "To All the Corners of the World"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126649-sbuKTAghtsln.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "126649",
+      "url": "https://anilist.co/anime/126649"
+    },
+    "cr": {
+      "id": "series/GNVHKN9PW/in-this-corner-and-other-corners-of-the-world",
+      "url": "https://www.crunchyroll.com/series/series/GNVHKN9PW/in-this-corner-and-other-corners-of-the-world"
+    },
+    "k": {
+      "id": "7234",
+      "url": "https://kitsu.io/anime/7234"
+    },
+    "mal": {
+      "id": "38419",
+      "url": "https://myanimelist.net/anime/38419"
+    },
+    "nf": {
+      "id": "80192244",
+      "url": "https://www.netflix.com/title/80192244"
+    }
+  }
+}

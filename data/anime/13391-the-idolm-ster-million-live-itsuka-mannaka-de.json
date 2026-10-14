@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 13391,
+  "slug": "the-idolm-ster-million-live-itsuka-mannaka-de",
+  "kind": "anime",
+  "title": "THE IDOLM@STER Million Live!: Itsuka, Mannaka de",
+  "titles": {
+    "default": "THE IDOLM@STER Million Live!: Itsuka, Mannaka de",
+    "romaji": "THE IDOLM@STER Million Live!: Itsuka, Mannaka de",
+    "native": "アイドルマスター ミリオンライブ！～いつか、真ん中で～"
+  },
+  "synonyms": [
+    "THE IDOLM@STER Million Live!: Itsuka, Mannaka de",
+    "アイドルマスター ミリオンライブ！～いつか、真ん中で～",
+    "THE IDOLM@STER Million Live! OVA",
+    "Voices of a Distant Star",
+    "Hoshi no Koe",
+    "ほしのこえ"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2026,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187375-0Vquhap6D5zX.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "187375",
+      "url": "https://anilist.co/anime/187375"
+    },
+    "cr": {
+      "id": "voices-of-a-distant-star",
+      "url": "https://www.crunchyroll.com/series/voices-of-a-distant-star"
+    },
+    "k": {
+      "id": "231",
+      "url": "https://kitsu.io/anime/231"
+    },
+    "mal": {
+      "id": "61156",
+      "url": "https://myanimelist.net/anime/61156"
+    }
+  }
+}

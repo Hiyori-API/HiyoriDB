@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14934,
+  "slug": "omoide-poro-poro",
+  "kind": "manga",
+  "title": "Omoide Poro Poro",
+  "titles": {
+    "default": "Omoide Poro Poro"
+  },
+  "synonyms": [
+    "Omohide Poroporo",
+    "Memories like Falling Teardrops",
+    "Memories Like Falling Rain Drops",
+    "Memories of Teardrops",
+    "Only Yesterday",
+    "おもひでぽろぽろ",
+    "Ranma ½",
+    "Ranma 1/2",
+    "らんま½"
+  ],
+  "type": "manga",
+  "chapters": 24,
+  "volumes": 2,
+  "status": "finished",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b48010-nyc8pfYDCCIM.png"
+  ],
+  "references": {
+    "al": {
+      "id": "1029",
+      "url": "https://anilist.co/anime/1029"
+    },
+    "al_manga": {
+      "id": "1029",
+      "url": "https://anilist.co/manga/1029"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10238,
+  "slug": "odoru-mowai-kun",
+  "kind": "anime",
+  "title": "Odoru Mowai-kun",
+  "titles": {
+    "default": "Odoru Mowai-kun",
+    "romaji": "Odoru Mowai-kun",
+    "native": "おどるモワイくん"
+  },
+  "synonyms": [
+    "Odoru Mowai-kun",
+    "おどるモワイくん",
+    "Witch Hunter Robin",
+    "ウィッチハンター ロビン",
+    "WHR"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "summer",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b110317-y74kTXbC3317.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "110317",
+      "url": "https://anilist.co/anime/110317"
+    },
+    "k": {
+      "id": "4",
+      "url": "https://kitsu.io/anime/4"
+    },
+    "mal": {
+      "id": "40040",
+      "url": "https://myanimelist.net/anime/40040"
+    },
+    "t": {
+      "id": "1093",
+      "url": "https://trakt.tv/shows/1093"
+    }
+  }
+}

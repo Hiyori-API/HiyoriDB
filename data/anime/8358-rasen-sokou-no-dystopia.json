@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8358,
+  "slug": "rasen-sokou-no-dystopia",
+  "kind": "anime",
+  "title": "Rasen Sokou no Dystopia",
+  "titles": {
+    "default": "Rasen Sokou no Dystopia",
+    "romaji": "Rasen Sokou no Dystopia",
+    "native": "螺旋遡行のディストピア"
+  },
+  "synonyms": [
+    "Rasen Sokou no Dystopia",
+    "螺旋遡行のディストピア",
+    "Hyakka Ryouran: Samurai After",
+    "百花繚乱 サムライアフター",
+    "Hyakka Ryouran OVA"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "summer",
+  "year": 2015,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21420-trrC7e73kr8h.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21420",
+      "url": "https://anilist.co/anime/21420"
+    },
+    "k": {
+      "id": "8795",
+      "url": "https://kitsu.io/anime/8795"
+    },
+    "mal": {
+      "id": "30543",
+      "url": "https://myanimelist.net/anime/30543"
+    }
+  }
+}

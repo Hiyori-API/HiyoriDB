@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1044,
+  "slug": "samurai-gun",
+  "kind": "anime",
+  "title": "Samurai Gun",
+  "titles": {
+    "default": "Samurai Gun",
+    "romaji": "Samurai Gun",
+    "native": "サムライガン"
+  },
+  "synonyms": [
+    "Samurai Gun",
+    "サムライガン",
+    "Magical Girl Lyrical Nanoha",
+    "Mahou Shoujo Lyrical Nanoha",
+    "魔法少女リリカルなのは"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1167.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1167",
+      "url": "https://anilist.co/anime/1167"
+    },
+    "k": {
+      "id": "56",
+      "url": "https://kitsu.io/anime/56"
+    },
+    "mal": {
+      "id": "1167",
+      "url": "https://myanimelist.net/anime/1167"
+    },
+    "t": {
+      "id": "19744",
+      "url": "https://trakt.tv/shows/19744"
+    }
+  }
+}

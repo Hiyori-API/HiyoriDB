@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6083,
+  "slug": "susume-gachimuchi-3-kyoudai",
+  "kind": "anime",
+  "title": "Susume! Gachimuchi 3-Kyoudai",
+  "titles": {
+    "default": "Susume! Gachimuchi 3-Kyoudai",
+    "romaji": "Susume! Gachimuchi 3-Kyoudai",
+    "native": "進め！ガチムチ３兄弟"
+  },
+  "synonyms": [
+    "Susume! Gachimuchi 3-Kyoudai",
+    "進め！ガチムチ３兄弟",
+    "Susume! Gachimuchi Sankyoudai",
+    "Cat Shit One",
+    "キャットシットワン",
+    "Cat Shit One: The Animated Series",
+    "Apocalypse Meow"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8957.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8957",
+      "url": "https://anilist.co/anime/8957"
+    },
+    "k": {
+      "id": "4505",
+      "url": "https://kitsu.io/anime/4505"
+    },
+    "mal": {
+      "id": "8957",
+      "url": "https://myanimelist.net/anime/8957"
+    },
+    "yt": {
+      "id": "_4Udk-e6MxE",
+      "url": "https://www.youtube.com/watch?v=_4Udk-e6MxE"
+    }
+  }
+}

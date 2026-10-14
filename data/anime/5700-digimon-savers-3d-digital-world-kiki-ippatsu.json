@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5700,
+  "slug": "digimon-savers-3d-digital-world-kiki-ippatsu",
+  "kind": "anime",
+  "title": "Digimon Savers 3D: Digital World Kiki Ippatsu!",
+  "titles": {
+    "default": "Digimon Savers 3D: Digital World Kiki Ippatsu!",
+    "romaji": "Digimon Savers 3D: Digital World Kiki Ippatsu!",
+    "native": "デジモンセイバーズ3D デジタルワールド危機イッパツ!"
+  },
+  "synonyms": [
+    "Digimon Savers 3D: Digital World Kiki Ippatsu!",
+    "デジモンセイバーズ3D デジタルワールド危機イッパツ!",
+    "Digimon Savers 3D: A Close Call for the Digital World",
+    "デジモンセイバーズ3D デジタルワールド危機イッパツ！"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8491.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8491",
+      "url": "https://anilist.co/anime/8491"
+    },
+    "k": {
+      "id": "5356",
+      "url": "https://kitsu.io/anime/5356"
+    },
+    "mal": {
+      "id": "8491",
+      "url": "https://myanimelist.net/anime/8491"
+    }
+  }
+}

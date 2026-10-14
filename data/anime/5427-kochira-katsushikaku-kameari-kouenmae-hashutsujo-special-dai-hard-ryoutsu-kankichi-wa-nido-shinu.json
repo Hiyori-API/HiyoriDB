@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5427,
+  "slug": "kochira-katsushikaku-kameari-kouenmae-hashutsujo-special-dai-hard-ryoutsu-kankichi-wa-nido-shinu",
+  "kind": "anime",
+  "title": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo Special: Dai Hard! Ryoutsu Kankichi wa Nido Shinu",
+  "titles": {
+    "default": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo Special: Dai Hard! Ryoutsu Kankichi wa Nido Shinu",
+    "romaji": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo Special: Dai Hard! Ryoutsu Kankichi wa Nido Shinu",
+    "native": "こちら葛飾区亀有公園前派出所スペシャル 大ハード! 両津勘吉は二度死ぬ"
+  },
+  "synonyms": [
+    "Kochira Katsushikaku Kameari Kouenmae Hashutsujo Special: Dai Hard! Ryoutsu Kankichi wa Nido Shinu",
+    "こちら葛飾区亀有公園前派出所スペシャル 大ハード! 両津勘吉は二度死ぬ",
+    "Kochikame Special 4",
+    "Seikimatsu Leader Gaiden Takeshi!",
+    "世紀末リーダー外伝たけし！"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b145762-nHGT8h9GAC6M.png"
+  ],
+  "references": {
+    "al": {
+      "id": "145762",
+      "url": "https://anilist.co/anime/145762"
+    },
+    "k": {
+      "id": "7392",
+      "url": "https://kitsu.io/anime/7392"
+    },
+    "mal": {
+      "id": "16245",
+      "url": "https://myanimelist.net/anime/16245"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9126,
+  "slug": "tsukipro-the-animation",
+  "kind": "anime",
+  "title": "TSUKIPRO THE ANIMATION",
+  "titles": {
+    "default": "TSUKIPRO THE ANIMATION",
+    "romaji": "TSUKIPRO THE ANIMATION"
+  },
+  "synonyms": [
+    "TSUKIPRO THE ANIMATION",
+    "Gintama. Slip Arc",
+    "銀魂。ポロリ編",
+    "Gintama. Porori-hen"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx97904-sV0DB3unqTiw.png"
+  ],
+  "references": {
+    "al": {
+      "id": "97904",
+      "url": "https://anilist.co/anime/97904"
+    },
+    "cr": {
+      "id": "tsukipro-the-animation",
+      "url": "https://www.crunchyroll.com/series/tsukipro-the-animation"
+    },
+    "mal": {
+      "id": "34474",
+      "url": "https://myanimelist.net/anime/34474"
+    },
+    "tx": {
+      "id": "tsukipro_anime",
+      "url": "https://twitter.com/tsukipro_anime"
+    }
+  }
+}

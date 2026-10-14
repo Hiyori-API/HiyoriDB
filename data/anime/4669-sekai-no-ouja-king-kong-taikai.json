@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4669,
+  "slug": "sekai-no-ouja-king-kong-taikai",
+  "kind": "anime",
+  "title": "Sekai no Ouja: King Kong Taikai",
+  "titles": {
+    "default": "Sekai no Ouja: King Kong Taikai",
+    "romaji": "Sekai no Ouja: King Kong Taikai",
+    "native": "世界の王者 キングコング大会"
+  },
+  "synonyms": [
+    "Sekai no Ouja: King Kong Taikai",
+    "世界の王者 キングコング大会"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1966,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b208836-mQFIloR7mSkK.png"
+  ],
+  "references": {
+    "al": {
+      "id": "208836",
+      "url": "https://anilist.co/anime/208836"
+    },
+    "k": {
+      "id": "9572",
+      "url": "https://kitsu.io/anime/9572"
+    },
+    "mal": {
+      "id": "27379",
+      "url": "https://myanimelist.net/anime/27379"
+    }
+  }
+}

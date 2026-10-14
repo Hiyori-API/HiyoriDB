@@ -1,0 +1,64 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 397,
+  "slug": "howl-no-ugoku-shiro",
+  "kind": "anime",
+  "title": "Howl no Ugoku Shiro",
+  "titles": {
+    "default": "Howl no Ugoku Shiro",
+    "romaji": "Howl no Ugoku Shiro",
+    "english": "Howl‘s Moving Castle",
+    "native": "ハウルの動く城"
+  },
+  "synonyms": [
+    "Howl no Ugoku Shiro",
+    "Howl‘s Moving Castle",
+    "ハウルの動く城",
+    "Hauru no Ugoku Shiro",
+    "Das wandelnde Schloss",
+    "El Castillo Ambulante",
+    "Il castello errante di Howl",
+    "Le Château Ambulant",
+    "הטירה הנעה של האוול",
+    "Ruchomy zamek Hauru",
+    "قلعة هاول المتحركة",
+    "A Vándorló palota",
+    "O Castelo Animado",
+    "Yürüyen Şato",
+    "Ходячий замок",
+    "Det Levende Slottet",
+    "Το Κινούμενο Κάστρο",
+    "ปราสาทเวทมนตร์ของฮาวล์",
+    "Det levande slottet",
+    "Hinn kviki kastali Howls",
+    "El increible castillo vagabundo",
+    "O Castelo Andante",
+    "Howl's Moving Castle"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx431-o8Lj3XkjHm2k.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "431",
+      "url": "https://anilist.co/anime/431"
+    },
+    "k": {
+      "id": "395",
+      "url": "https://kitsu.io/anime/395"
+    },
+    "mal": {
+      "id": "431",
+      "url": "https://myanimelist.net/anime/431"
+    },
+    "nf": {
+      "id": "70028883",
+      "url": "https://www.netflix.com/title/70028883"
+    }
+  }
+}

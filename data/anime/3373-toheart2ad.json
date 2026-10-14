@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3373,
+  "slug": "toheart2ad",
+  "kind": "anime",
+  "title": "ToHeart2ad",
+  "titles": {
+    "default": "ToHeart2ad",
+    "romaji": "ToHeart2ad"
+  },
+  "synonyms": [
+    "ToHeart2ad",
+    "ToHeart 2: Another Days",
+    "To Heart 2: Another Days",
+    "トゥハート2 ad",
+    "ToHeart 2 AD",
+    "To Heart 2 AD",
+    "トゥハート2"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "spring",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4166-TtCU6kT3aXVa.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "4166",
+      "url": "https://anilist.co/anime/4166"
+    },
+    "k": {
+      "id": "3500",
+      "url": "https://kitsu.io/anime/3500"
+    },
+    "mal": {
+      "id": "4166",
+      "url": "https://myanimelist.net/anime/4166"
+    }
+  }
+}

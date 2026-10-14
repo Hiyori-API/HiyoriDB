@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8857,
+  "slug": "higanjima-x",
+  "kind": "anime",
+  "title": "Higanjima X",
+  "titles": {
+    "default": "Higanjima X",
+    "romaji": "Higanjima X",
+    "native": "彼岸島 X"
+  },
+  "synonyms": [
+    "Higanjima X",
+    "彼岸島 X",
+    "Koro Teacher Quest 2016",
+    "Koro Sensei Quest!",
+    "殺せんせーQ[クエスト]!",
+    "Koro-sensei Quest!"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/97715-tU3uy6vdWKUL.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "97715",
+      "url": "https://anilist.co/anime/97715"
+    },
+    "mal": {
+      "id": "34222",
+      "url": "https://myanimelist.net/anime/34222"
+    },
+    "tx": {
+      "id": "higanjima_x",
+      "url": "https://twitter.com/higanjima_x"
+    }
+  }
+}

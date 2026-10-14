@@ -1,0 +1,58 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10146,
+  "slug": "hataage-kemono-michi",
+  "kind": "anime",
+  "title": "Hataage! Kemono Michi",
+  "titles": {
+    "default": "Hataage! Kemono Michi",
+    "romaji": "Hataage! Kemono Michi",
+    "english": "Kemono Michi: Rise Up",
+    "native": "旗揚！けものみち"
+  },
+  "synonyms": [
+    "Hataage! Kemono Michi",
+    "Kemono Michi: Rise Up",
+    "旗揚！けものみち",
+    "Rise Up! Animal Road",
+    "旗扬！兽道",
+    "เคโมโนมิจิ ร้านสัตว์เลี้ยงในโลกแฟนตาซี",
+    "Ring ni Kakero 1",
+    "リングにかけろ１",
+    "Put it all in the Ring"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx107339-3mKBCMAUN896.png"
+  ],
+  "references": {
+    "al": {
+      "id": "107339",
+      "url": "https://anilist.co/anime/107339"
+    },
+    "cr": {
+      "id": "kemono-michi-rise-up",
+      "url": "https://www.crunchyroll.com/series/kemono-michi-rise-up"
+    },
+    "k": {
+      "id": "14",
+      "url": "https://kitsu.io/anime/14"
+    },
+    "mal": {
+      "id": "39030",
+      "url": "https://myanimelist.net/anime/39030"
+    },
+    "t": {
+      "id": "69507",
+      "url": "https://trakt.tv/shows/69507"
+    },
+    "tx": {
+      "id": "hatakemoanime",
+      "url": "https://twitter.com/hatakemoanime"
+    }
+  }
+}

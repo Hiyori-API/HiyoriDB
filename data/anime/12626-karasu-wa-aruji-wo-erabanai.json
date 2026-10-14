@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12626,
+  "slug": "karasu-wa-aruji-wo-erabanai",
+  "kind": "anime",
+  "title": "Karasu wa Aruji wo Erabanai",
+  "titles": {
+    "default": "Karasu wa Aruji wo Erabanai",
+    "romaji": "Karasu wa Aruji wo Erabanai",
+    "english": "YATAGARASU: The Raven Does Not Choose Its Master",
+    "native": "烏は主を選ばない"
+  },
+  "synonyms": [
+    "Karasu wa Aruji wo Erabanai",
+    "YATAGARASU: The Raven Does Not Choose Its Master",
+    "烏は主を選ばない",
+    "YATAGARASU",
+    "The Crow Does Not Choose the Lord",
+    "Yatagarasu: The Raven Does Not Choose Its Master"
+  ],
+  "type": "tv",
+  "episodes": 20,
+  "status": "finished",
+  "season": "spring",
+  "year": 2024,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170503-PCr24JL8F8f9.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "170503",
+      "url": "https://anilist.co/anime/170503"
+    },
+    "cr": {
+      "id": "series/G5PHNM92J/yatagarasu-the-raven-does-not-choose-its-master",
+      "url": "https://www.crunchyroll.com/series/series/G5PHNM92J/yatagarasu-the-raven-does-not-choose-its-master"
+    },
+    "mal": {
+      "id": "56980",
+      "url": "https://myanimelist.net/anime/56980"
+    },
+    "tx": {
+      "id": "nep_yatagarasu",
+      "url": "https://twitter.com/nep_yatagarasu"
+    }
+  }
+}

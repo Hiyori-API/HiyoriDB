@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4752,
+  "slug": "machi-ichiban-no-kechinbou",
+  "kind": "anime",
+  "title": "Machi Ichiban no Kechinbou",
+  "titles": {
+    "default": "Machi Ichiban no Kechinbou",
+    "romaji": "Machi Ichiban no Kechinbou",
+    "english": "The Stingiest Man in Town",
+    "native": "町一番のけちんぼう"
+  },
+  "synonyms": [
+    "Machi Ichiban no Kechinbou",
+    "The Stingiest Man in Town",
+    "町一番のけちんぼう",
+    "A Christmas Carol",
+    "The Number One Miser of the City"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1978,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b19971-JHpHjr6lAeqT.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "19971",
+      "url": "https://anilist.co/anime/19971"
+    },
+    "k": {
+      "id": "9094",
+      "url": "https://kitsu.io/anime/9094"
+    },
+    "mal": {
+      "id": "19971",
+      "url": "https://myanimelist.net/anime/19971"
+    }
+  }
+}

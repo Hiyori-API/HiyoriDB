@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1613,
+  "slug": "the-hakkenden",
+  "kind": "anime",
+  "title": "The Hakkenden",
+  "titles": {
+    "default": "The Hakkenden",
+    "romaji": "The Hakkenden",
+    "english": "The Hakkenden: Legend of the Dog Warriors",
+    "native": "THE 八犬伝"
+  },
+  "synonyms": [
+    "The Hakkenden",
+    "The Hakkenden: Legend of the Dog Warriors",
+    "THE 八犬伝"
+  ],
+  "type": "ova",
+  "episodes": 6,
+  "status": "finished",
+  "season": "fall",
+  "year": 1990,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1822-G2k0PqOAcXZ7.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1822",
+      "url": "https://anilist.co/anime/1822"
+    },
+    "k": {
+      "id": "1639",
+      "url": "https://kitsu.io/anime/1639"
+    },
+    "mal": {
+      "id": "1822",
+      "url": "https://myanimelist.net/anime/1822"
+    }
+  }
+}

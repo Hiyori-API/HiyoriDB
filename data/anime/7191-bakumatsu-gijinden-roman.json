@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7191,
+  "slug": "bakumatsu-gijinden-roman",
+  "kind": "anime",
+  "title": "Bakumatsu Gijinden Roman",
+  "titles": {
+    "default": "Bakumatsu Gijinden Roman",
+    "romaji": "Bakumatsu Gijinden Roman",
+    "native": "幕末義人伝 浪漫"
+  },
+  "synonyms": [
+    "Bakumatsu Gijinden Roman",
+    "幕末義人伝 浪漫",
+    "Bakumatsu Gijin-den Roman"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16211.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "16211",
+      "url": "https://anilist.co/anime/16211"
+    },
+    "cr": {
+      "id": "bakumatsu-gijinden-roman",
+      "url": "https://www.crunchyroll.com/series/bakumatsu-gijinden-roman"
+    },
+    "k": {
+      "id": "7388",
+      "url": "https://kitsu.io/anime/7388"
+    },
+    "mal": {
+      "id": "16211",
+      "url": "https://myanimelist.net/anime/16211"
+    },
+    "t": {
+      "id": "68743",
+      "url": "https://trakt.tv/shows/68743"
+    }
+  }
+}

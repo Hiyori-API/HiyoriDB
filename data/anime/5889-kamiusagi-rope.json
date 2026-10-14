@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5889,
+  "slug": "kamiusagi-rope",
+  "kind": "anime",
+  "title": "Kamiusagi Rope",
+  "titles": {
+    "default": "Kamiusagi Rope",
+    "romaji": "Kamiusagi Rope",
+    "english": "Paper Rabbit Rope",
+    "native": "紙兎ロペ"
+  },
+  "synonyms": [
+    "Kamiusagi Rope",
+    "Paper Rabbit Rope",
+    "紙兎ロペ",
+    "Fullmetal Alchemist: Brotherhood: 4-Koma Theater",
+    "Hagane no Renkinjutsushi: Furumetaru Arukemisuto: 4-Koma Gekijou",
+    "荒川弘 描き下ろし4コマ劇場",
+    "Hagane no Renkinjutsushi: 4-Koma Theater",
+    "Hiromu Arakawa 4-Koma Theater",
+    "FMA: 4-Koma Theater"
+  ],
+  "type": "special",
+  "episodes": 16,
+  "status": "finished",
+  "season": "summer",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13817.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "13817",
+      "url": "https://anilist.co/anime/13817"
+    },
+    "k": {
+      "id": "5154",
+      "url": "https://kitsu.io/anime/5154"
+    },
+    "mal": {
+      "id": "13817",
+      "url": "https://myanimelist.net/anime/13817"
+    }
+  }
+}

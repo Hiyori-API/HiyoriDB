@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14907,
+  "slug": "tsuyoshi-shikkari-shinasai",
+  "kind": "manga",
+  "title": "Tsuyoshi Shikkari Shinasai",
+  "titles": {
+    "default": "Tsuyoshi Shikkari Shinasai"
+  },
+  "synonyms": [
+    "Hang in There Tsuyoshi",
+    "Get a Grip Tsuyoshi",
+    "ツヨシしっかりしなさい",
+    "Nemureru Mori no Binan",
+    "眠れる森美男",
+    "Sleeping Beauty Boy",
+    "The Handsome Man in the Sleeping Woods",
+    "The Sleeping Beauty Man",
+    "The Sleeping Male Beauty in the Woods"
+  ],
+  "type": "manga",
+  "volumes": 19,
+  "status": "finished",
+  "year": 1986,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx42377-Z8Iw6BE1RWOd.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5992",
+      "url": "https://anilist.co/anime/5992"
+    },
+    "al_manga": {
+      "id": "5992",
+      "url": "https://anilist.co/manga/5992"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7863,
+  "slug": "fella-pure-mitarashi-san-chi-no-jijou-the-animation",
+  "kind": "anime",
+  "title": "Fella Pure: Mitarashi-san Chi no Jijou - THE ANIMATION",
+  "titles": {
+    "default": "Fella Pure: Mitarashi-san Chi no Jijou - THE ANIMATION",
+    "romaji": "Fella Pure: Mitarashi-san Chi no Jijou - THE ANIMATION",
+    "native": "フェラピュア ~御手洗さん家の事情~ THE ANIMATION"
+  },
+  "synonyms": [
+    "Fella Pure: Mitarashi-san Chi no Jijou - THE ANIMATION",
+    "フェラピュア ~御手洗さん家の事情~ THE ANIMATION",
+    "Fela Pure",
+    "Choujigen Game Neptune The Animation OVA",
+    "超次元ゲイム ネプテューヌ THE ANIMATION",
+    "Choujigen Game Neptune: The Animation Episode 13",
+    "Kami Jigen Game Neptune V OVA",
+    "Hyperdimension Neptunia Victory OVA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21100-Mw9QMKgLXYHf.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21100",
+      "url": "https://anilist.co/anime/21100"
+    },
+    "k": {
+      "id": "8071",
+      "url": "https://kitsu.io/anime/8071"
+    },
+    "mal": {
+      "id": "21829",
+      "url": "https://myanimelist.net/anime/21829"
+    }
+  }
+}

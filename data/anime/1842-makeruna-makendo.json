@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1842,
+  "slug": "makeruna-makendo",
+  "kind": "anime",
+  "title": "Makeruna! Makendo",
+  "titles": {
+    "default": "Makeruna! Makendo",
+    "romaji": "Makeruna! Makendo",
+    "native": "負けるな！魔剣道"
+  },
+  "synonyms": [
+    "Makeruna! Makendo",
+    "負けるな！魔剣道",
+    "Don't Lose, Makendo!",
+    "Makeru na! Makendo",
+    "Princess Minerva",
+    "プリンセス ミネルバ"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2081-LPck9fFqn6qw.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2081",
+      "url": "https://anilist.co/anime/2081"
+    },
+    "k": {
+      "id": "2294",
+      "url": "https://kitsu.io/anime/2294"
+    },
+    "mal": {
+      "id": "2081",
+      "url": "https://myanimelist.net/anime/2081"
+    }
+  }
+}

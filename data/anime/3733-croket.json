@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3733,
+  "slug": "croket",
+  "kind": "anime",
+  "title": "CROKET!",
+  "titles": {
+    "default": "CROKET!",
+    "romaji": "CROKET!",
+    "native": "コロッケ！"
+  },
+  "synonyms": [
+    "CROKET!",
+    "コロッケ！",
+    "Korokke!",
+    "Corokke!",
+    "Croquette!",
+    "Di Gi Charat Nyo",
+    "デ・ジ・キャラットにょ",
+    "DiGi Charat Nyo"
+  ],
+  "type": "tv",
+  "episodes": 104,
+  "status": "finished",
+  "season": "spring",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5071-ZzbBZjAfYwYx.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5071",
+      "url": "https://anilist.co/anime/5071"
+    },
+    "k": {
+      "id": "1512",
+      "url": "https://kitsu.io/anime/1512"
+    },
+    "mal": {
+      "id": "5071",
+      "url": "https://myanimelist.net/anime/5071"
+    },
+    "t": {
+      "id": "9591",
+      "url": "https://trakt.tv/shows/9591"
+    }
+  }
+}

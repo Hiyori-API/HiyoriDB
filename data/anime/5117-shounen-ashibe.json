@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5117,
+  "slug": "shounen-ashibe",
+  "kind": "anime",
+  "title": "Shounen Ashibe",
+  "titles": {
+    "default": "Shounen Ashibe",
+    "romaji": "Shounen Ashibe",
+    "native": "少年アシベ"
+  },
+  "synonyms": [
+    "Shounen Ashibe",
+    "少年アシベ",
+    "Shonen Ashibe",
+    "Young Ashibe",
+    "Kikou Keisatsu Metal Jack",
+    "機甲警察 メタルジャック",
+    "Armored Police Metal Jack"
+  ],
+  "type": "tv",
+  "episodes": 37,
+  "status": "finished",
+  "season": "spring",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8829.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8829",
+      "url": "https://anilist.co/anime/8829"
+    },
+    "k": {
+      "id": "2930",
+      "url": "https://kitsu.io/anime/2930"
+    },
+    "mal": {
+      "id": "8829",
+      "url": "https://myanimelist.net/anime/8829"
+    }
+  }
+}

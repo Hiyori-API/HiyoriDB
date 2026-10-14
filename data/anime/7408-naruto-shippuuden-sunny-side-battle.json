@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7408,
+  "slug": "naruto-shippuuden-sunny-side-battle",
+  "kind": "anime",
+  "title": "NARUTO: Shippuuden - Sunny Side Battle!!!",
+  "titles": {
+    "default": "NARUTO: Shippuuden - Sunny Side Battle!!!",
+    "romaji": "NARUTO: Shippuuden - Sunny Side Battle!!!",
+    "native": "NARUTO -ナルト- 疾風伝 サニー・サイド・バトル!!!"
+  },
+  "synonyms": [
+    "NARUTO: Shippuuden - Sunny Side Battle!!!",
+    "NARUTO -ナルト- 疾風伝 サニー・サイド・バトル!!!",
+    "Naruto: Shippuuden - Jump Festa 2013 Special",
+    "Naruto Shippuuden: Sunny Side Battle",
+    "ナルト-NARUTO-疾風伝 サニー・サイド・バトル",
+    "Naruto: Shippuuden - Jump Super Anime Tour 2013 Special"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n19511-8DIUleQ5KUgq.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "19511",
+      "url": "https://anilist.co/anime/19511"
+    },
+    "k": {
+      "id": "7975",
+      "url": "https://kitsu.io/anime/7975"
+    },
+    "mal": {
+      "id": "19511",
+      "url": "https://myanimelist.net/anime/19511"
+    }
+  }
+}

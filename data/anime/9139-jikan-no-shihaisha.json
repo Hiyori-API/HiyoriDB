@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9139,
+  "slug": "jikan-no-shihaisha",
+  "kind": "anime",
+  "title": "Jikan no Shihaisha",
+  "titles": {
+    "default": "Jikan no Shihaisha",
+    "romaji": "Jikan no Shihaisha",
+    "english": "CHRONOS RULER",
+    "native": "時間の支配者"
+  },
+  "synonyms": [
+    "Jikan no Shihaisha",
+    "CHRONOS RULER",
+    "時間の支配者",
+    "Made in Abyss",
+    "メイドインアビス"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "summer",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97939-IyggRBP9r9i6.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "97939",
+      "url": "https://anilist.co/anime/97939"
+    },
+    "cr": {
+      "id": "chronos-ruler",
+      "url": "https://www.crunchyroll.com/series/chronos-ruler"
+    },
+    "mal": {
+      "id": "34565",
+      "url": "https://myanimelist.net/anime/34565"
+    },
+    "tx": {
+      "id": "chronos_PR",
+      "url": "https://twitter.com/chronos_PR"
+    }
+  }
+}

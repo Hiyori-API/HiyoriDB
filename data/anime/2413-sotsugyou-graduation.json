@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2413,
+  "slug": "sotsugyou-graduation",
+  "kind": "anime",
+  "title": "Sotsugyou: Graduation",
+  "titles": {
+    "default": "Sotsugyou: Graduation",
+    "romaji": "Sotsugyou: Graduation",
+    "english": "Graduation",
+    "native": "卒業~Graduation~"
+  },
+  "synonyms": [
+    "Sotsugyou: Graduation",
+    "Graduation",
+    "卒業~Graduation~",
+    "Graduation: Graduation"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2714.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2714",
+      "url": "https://anilist.co/anime/2714"
+    },
+    "k": {
+      "id": "2475",
+      "url": "https://kitsu.io/anime/2475"
+    },
+    "mal": {
+      "id": "2714",
+      "url": "https://myanimelist.net/anime/2714"
+    }
+  }
+}

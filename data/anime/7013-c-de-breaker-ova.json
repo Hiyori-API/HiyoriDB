@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7013,
+  "slug": "c-de-breaker-ova",
+  "kind": "anime",
+  "title": "CØDE:BREAKER (OVA)",
+  "titles": {
+    "default": "CØDE:BREAKER (OVA)",
+    "romaji": "CØDE:BREAKER (OVA)"
+  },
+  "synonyms": [
+    "CØDE:BREAKER (OVA)",
+    "Code:Breaker: code:extra 1",
+    "2",
+    "3 & Plus 1",
+    "Code:Breaker: code:100 & extra HANAMI & Plus 2",
+    "Code:Breaker OVA",
+    "CØDE:BREAKER",
+    "Code Breaker OVA",
+    "Code:Breaker: code:extra 1,2,3 & Plus 1",
+    "Code:Breaker: code:4koma Special Theater"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "fall",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15633-ZT8n86wB8uQD.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "15633",
+      "url": "https://anilist.co/anime/15633"
+    },
+    "k": {
+      "id": "7286",
+      "url": "https://kitsu.io/anime/7286"
+    },
+    "mal": {
+      "id": "15633",
+      "url": "https://myanimelist.net/anime/15633"
+    }
+  }
+}

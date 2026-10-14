@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6322,
+  "slug": "nekogami-yaoyorozu",
+  "kind": "anime",
+  "title": "Nekogami Yaoyorozu",
+  "titles": {
+    "default": "Nekogami Yaoyorozu",
+    "romaji": "Nekogami Yaoyorozu",
+    "english": "The Everyday Tales of a Cat God",
+    "native": "猫神やおよろず"
+  },
+  "synonyms": [
+    "Nekogami Yaoyorozu",
+    "The Everyday Tales of a Cat God",
+    "猫神やおよろず",
+    "Cat God",
+    "Cuentos de un Gato Sagrado",
+    "Crônicas da Deusa Gato"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9934.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9934",
+      "url": "https://anilist.co/anime/9934"
+    },
+    "cr": {
+      "id": "cat-god",
+      "url": "https://www.crunchyroll.com/series/cat-god"
+    },
+    "k": {
+      "id": "5947",
+      "url": "https://kitsu.io/anime/5947"
+    },
+    "mal": {
+      "id": "9934",
+      "url": "https://myanimelist.net/anime/9934"
+    },
+    "t": {
+      "id": "55997",
+      "url": "https://trakt.tv/shows/55997"
+    }
+  }
+}

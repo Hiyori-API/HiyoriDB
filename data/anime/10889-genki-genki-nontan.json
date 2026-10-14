@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10889,
+  "slug": "genki-genki-nontan",
+  "kind": "anime",
+  "title": "Genki Genki Nontan",
+  "titles": {
+    "default": "Genki Genki Nontan",
+    "romaji": "Genki Genki Nontan",
+    "native": "げんきげんきノンタン"
+  },
+  "synonyms": [
+    "Genki Genki Nontan",
+    "げんきげんきノンタン",
+    "Genki Genki Non-tan",
+    "げんき げんき ノンタン",
+    "Genki! Genki! Nontan"
+  ],
+  "type": "tv",
+  "episodes": 15,
+  "status": "finished",
+  "season": "fall",
+  "year": 2002,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b181824-wsm6HgEjjagw.png"
+  ],
+  "references": {
+    "al": {
+      "id": "181824",
+      "url": "https://anilist.co/anime/181824"
+    },
+    "k": {
+      "id": "9277",
+      "url": "https://kitsu.io/anime/9277"
+    },
+    "mal": {
+      "id": "25609",
+      "url": "https://myanimelist.net/anime/25609"
+    }
+  }
+}

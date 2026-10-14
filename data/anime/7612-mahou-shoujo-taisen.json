@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7612,
+  "slug": "mahou-shoujo-taisen",
+  "kind": "anime",
+  "title": "Mahou Shoujo Taisen",
+  "titles": {
+    "default": "Mahou Shoujo Taisen",
+    "romaji": "Mahou Shoujo Taisen",
+    "english": "Magica Wars",
+    "native": "魔法少女大戦"
+  },
+  "synonyms": [
+    "Mahou Shoujo Taisen",
+    "Magica Wars",
+    "魔法少女大戦",
+    "Magical Girl Wars",
+    "The Irregular at Magic High School",
+    "Mahouka Koukou no Rettousei",
+    "魔法科高校の劣等生"
+  ],
+  "type": "tv",
+  "episodes": 26,
+  "status": "finished",
+  "season": "spring",
+  "year": 2014,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20530.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "20530",
+      "url": "https://anilist.co/anime/20530"
+    },
+    "cr": {
+      "id": "magica-wars",
+      "url": "https://www.crunchyroll.com/series/magica-wars"
+    },
+    "k": {
+      "id": "8053",
+      "url": "https://kitsu.io/anime/8053"
+    },
+    "mal": {
+      "id": "21421",
+      "url": "https://myanimelist.net/anime/21421"
+    },
+    "t": {
+      "id": "60390",
+      "url": "https://trakt.tv/shows/60390"
+    }
+  }
+}

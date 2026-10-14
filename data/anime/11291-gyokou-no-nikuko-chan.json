@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11291,
+  "slug": "gyokou-no-nikuko-chan",
+  "kind": "anime",
+  "title": "Gyokou no Nikuko-chan",
+  "titles": {
+    "default": "Gyokou no Nikuko-chan",
+    "romaji": "Gyokou no Nikuko-chan",
+    "english": "Fortune Favors Lady Nikuko",
+    "native": "漁港の肉子ちゃん"
+  },
+  "synonyms": [
+    "Gyokou no Nikuko-chan",
+    "Fortune Favors Lady Nikuko",
+    "漁港の肉子ちゃん",
+    "Nikuko of the Fishing Harbor",
+    "La fortuna di Nikuko",
+    "La chance sourit à madame Nikuko",
+    "Evangelion: 3.0+1.0 Thrice Upon a Time",
+    "Shin Evangelion Gekijouban :||",
+    "シン・エヴァンゲリオン劇場版:||",
+    "Evangelion: 4.0",
+    "Rebuild of Evangelion 4.0"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx127958-AxJzNaz3tFqO.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "127958",
+      "url": "https://anilist.co/anime/127958"
+    },
+    "k": {
+      "id": "3252",
+      "url": "https://kitsu.io/anime/3252"
+    },
+    "mal": {
+      "id": "45620",
+      "url": "https://myanimelist.net/anime/45620"
+    },
+    "tx": {
+      "id": "29kochanmovie",
+      "url": "https://twitter.com/29kochanmovie"
+    }
+  }
+}

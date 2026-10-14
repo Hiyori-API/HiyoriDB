@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15728,
+  "slug": "yotsunoha",
+  "kind": "manga",
+  "title": "Yotsunoha",
+  "titles": {
+    "default": "Yotsunoha"
+  },
+  "synonyms": [
+    "よつのは",
+    "Illumination",
+    "イルミナシオン"
+  ],
+  "type": "manga",
+  "chapters": 8,
+  "volumes": 1,
+  "status": "finished",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/13709.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3011",
+      "url": "https://anilist.co/anime/3011"
+    },
+    "al_manga": {
+      "id": "3011",
+      "url": "https://anilist.co/manga/3011"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9455,
+  "slug": "id-0-puchi-anime-gekijou-quiz-id-0",
+  "kind": "anime",
+  "title": "ID-0: Puchi Anime Gekijou (Quiz!! ID-0)",
+  "titles": {
+    "default": "ID-0: Puchi Anime Gekijou (Quiz!! ID-0)",
+    "romaji": "ID-0: Puchi Anime Gekijou (Quiz!! ID-0)",
+    "native": "ぷちアニメ劇場『クイズ!! ID-0』"
+  },
+  "synonyms": [
+    "ID-0: Puchi Anime Gekijou (Quiz!! ID-0)",
+    "ぷちアニメ劇場『クイズ!! ID-0』",
+    "Quan Zhi Gao Shou",
+    "Full-Time Expert",
+    "Expert of All Classes",
+    "マスターオブスキル",
+    "The King's Avatar",
+    "全职高手",
+    "Quanzhi Gaoshou"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b122173-qkmEem8dCcNj.png"
+  ],
+  "references": {
+    "al": {
+      "id": "122173",
+      "url": "https://anilist.co/anime/122173"
+    },
+    "mal": {
+      "id": "33926",
+      "url": "https://myanimelist.net/anime/33926"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2524,
+  "slug": "ariel",
+  "kind": "anime",
+  "title": "Ariel",
+  "titles": {
+    "default": "Ariel",
+    "romaji": "Ariel",
+    "native": "エリアル"
+  },
+  "synonyms": [
+    "Ariel",
+    "エリアル",
+    "Ariel Deluxe",
+    "Dark Warrior",
+    "Makyuu Senjou",
+    "魔宮戦場",
+    "Makyu Senjo"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2837.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2837",
+      "url": "https://anilist.co/anime/2837"
+    },
+    "k": {
+      "id": "1209",
+      "url": "https://kitsu.io/anime/1209"
+    },
+    "mal": {
+      "id": "2837",
+      "url": "https://myanimelist.net/anime/2837"
+    }
+  }
+}

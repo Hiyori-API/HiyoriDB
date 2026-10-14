@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7058,
+  "slug": "da-capo-iii-special",
+  "kind": "anime",
+  "title": "Da Capo III Special",
+  "titles": {
+    "default": "Da Capo III Special",
+    "romaji": "Da Capo III Special",
+    "native": "D.C.III～ダ・カーポIII～"
+  },
+  "synonyms": [
+    "Da Capo III Special",
+    "D.C.III～ダ・カーポIII～",
+    "D.C.III: Da Capo III Special"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2012,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17020.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "17020",
+      "url": "https://anilist.co/anime/17020"
+    },
+    "k": {
+      "id": "7569",
+      "url": "https://kitsu.io/anime/7569"
+    },
+    "mal": {
+      "id": "17020",
+      "url": "https://myanimelist.net/anime/17020"
+    }
+  }
+}

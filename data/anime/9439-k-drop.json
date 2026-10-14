@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9439,
+  "slug": "k-drop",
+  "kind": "anime",
+  "title": "K×Drop!!",
+  "titles": {
+    "default": "K×Drop!!",
+    "romaji": "K×Drop!!"
+  },
+  "synonyms": [
+    "K×Drop!!",
+    "Demi-chan wa Kataritai Episode 13",
+    "Interviews With Monster Girls: The Demi-chans' Summer Break",
+    "亜人ちゃんは語りたい 亜人ちゃんの夏休み",
+    "Demi-chan wa Kataritai: Demi-chan no Natsuyasumi"
+  ],
+  "type": "ona",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115437-VJX4Hz2ri3VM.png"
+  ],
+  "references": {
+    "al": {
+      "id": "115437",
+      "url": "https://anilist.co/anime/115437"
+    },
+    "mal": {
+      "id": "48508",
+      "url": "https://myanimelist.net/anime/48508"
+    }
+  }
+}

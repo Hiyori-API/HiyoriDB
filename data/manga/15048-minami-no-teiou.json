@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15048,
+  "slug": "minami-no-teiou",
+  "kind": "manga",
+  "title": "Minami no Teiou",
+  "titles": {
+    "default": "Minami no Teiou"
+  },
+  "synonyms": [
+    "King of Minami",
+    "ミナミの帝王",
+    "Fushigi Yugi",
+    "Fushigi Yuugi",
+    "ふしぎ遊戯",
+    "Mysterious Play",
+    "Curious Play"
+  ],
+  "type": "manga",
+  "chapters": 1691,
+  "volumes": 188,
+  "status": "finished",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx67729-39Vgd9vQZeYo.png"
+  ],
+  "references": {
+    "al": {
+      "id": "18631",
+      "url": "https://anilist.co/anime/18631"
+    },
+    "al_manga": {
+      "id": "18631",
+      "url": "https://anilist.co/manga/18631"
+    }
+  }
+}

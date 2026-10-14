@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 7484,
+  "slug": "code-geass-boukoku-no-akito-2-hikisakareshi-yokuryuu-picture-drama",
+  "kind": "anime",
+  "title": "Code Geass: Boukoku no Akito 2 - Hikisakareshi Yokuryuu Picture Drama",
+  "titles": {
+    "default": "Code Geass: Boukoku no Akito 2 - Hikisakareshi Yokuryuu Picture Drama",
+    "romaji": "Code Geass: Boukoku no Akito 2 - Hikisakareshi Yokuryuu Picture Drama",
+    "native": "コードギアス 亡国のアキト 第2章 引き裂かれし翼竜 ピクチャードラマ"
+  },
+  "synonyms": [
+    "Code Geass: Boukoku no Akito 2 - Hikisakareshi Yokuryuu Picture Drama",
+    "コードギアス 亡国のアキト 第2章 引き裂かれし翼竜 ピクチャードラマ",
+    "Code Geass: Akito the Exiled 2 - The Torn-Up Wyvern Picture Drama"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2013,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b109002-a9XsiOylyLer.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "109002",
+      "url": "https://anilist.co/anime/109002"
+    },
+    "k": {
+      "id": "8583",
+      "url": "https://kitsu.io/anime/8583"
+    },
+    "mal": {
+      "id": "23359",
+      "url": "https://myanimelist.net/anime/23359"
+    }
+  }
+}

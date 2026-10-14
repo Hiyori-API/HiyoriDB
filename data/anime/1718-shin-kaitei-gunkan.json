@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1718,
+  "slug": "shin-kaitei-gunkan",
+  "kind": "anime",
+  "title": "Shin Kaitei Gunkan",
+  "titles": {
+    "default": "Shin Kaitei Gunkan",
+    "romaji": "Shin Kaitei Gunkan",
+    "english": "Super Atragon",
+    "native": "新海底軍艦"
+  },
+  "synonyms": [
+    "Shin Kaitei Gunkan",
+    "Super Atragon",
+    "新海底軍艦",
+    "The New Submarine Battleship",
+    "Iczelion",
+    "Iczer-Girl Iczelion",
+    "戦-少女[イクサーガール]イクセリオン",
+    "Sen-shoujo Iczelion",
+    "Iczer Gal Iczelion"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 1995,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1938-snn4zFWdn5WP.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1938",
+      "url": "https://anilist.co/anime/1938"
+    },
+    "k": {
+      "id": "1648",
+      "url": "https://kitsu.io/anime/1648"
+    },
+    "mal": {
+      "id": "1938",
+      "url": "https://myanimelist.net/anime/1938"
+    }
+  }
+}

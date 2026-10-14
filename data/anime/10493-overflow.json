@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10493,
+  "slug": "overflow",
+  "kind": "anime",
+  "title": "Overflow",
+  "titles": {
+    "default": "Overflow",
+    "romaji": "Overflow",
+    "native": "おーばーふろぉ"
+  },
+  "synonyms": [
+    "Overflow",
+    "おーばーふろぉ",
+    "오버플로우",
+    "Overflow: Desbordándose",
+    "Overflow: Transbordando",
+    "Accident Dans Le Bain",
+    "Catman Series II",
+    "キャットマン",
+    "Catman",
+    "Catman 2nd Season"
+  ],
+  "type": "ona",
+  "episodes": 8,
+  "status": "finished",
+  "season": "winter",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113417-yofUQOwPXWuE.png"
+  ],
+  "references": {
+    "al": {
+      "id": "113417",
+      "url": "https://anilist.co/anime/113417"
+    },
+    "k": {
+      "id": "3602",
+      "url": "https://kitsu.io/anime/3602"
+    },
+    "mal": {
+      "id": "40746",
+      "url": "https://myanimelist.net/anime/40746"
+    }
+  }
+}

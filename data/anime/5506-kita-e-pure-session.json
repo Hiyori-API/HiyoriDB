@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5506,
+  "slug": "kita-e-pure-session",
+  "kind": "anime",
+  "title": "Kita e.: PURE SESSION",
+  "titles": {
+    "default": "Kita e.: PURE SESSION",
+    "romaji": "Kita e.: PURE SESSION",
+    "native": "北へ. PURE SESSION"
+  },
+  "synonyms": [
+    "Kita e.: PURE SESSION",
+    "北へ. PURE SESSION",
+    "Kirara",
+    "KIRARA"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119946-r9EFJmtt9IyT.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "119946",
+      "url": "https://anilist.co/anime/119946"
+    },
+    "k": {
+      "id": "2291",
+      "url": "https://kitsu.io/anime/2291"
+    },
+    "mal": {
+      "id": "18643",
+      "url": "https://myanimelist.net/anime/18643"
+    }
+  }
+}

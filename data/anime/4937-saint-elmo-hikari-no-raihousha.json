@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4937,
+  "slug": "saint-elmo-hikari-no-raihousha",
+  "kind": "anime",
+  "title": "Saint Elmo: Hikari no Raihousha",
+  "titles": {
+    "default": "Saint Elmo: Hikari no Raihousha",
+    "romaji": "Saint Elmo: Hikari no Raihousha",
+    "english": "Saint Elmo: Apostle of Light",
+    "native": "セントエルモ・光の来訪者"
+  },
+  "synonyms": [
+    "Saint Elmo: Hikari no Raihousha",
+    "Saint Elmo: Apostle of Light",
+    "セントエルモ・光の来訪者"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8561.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8561",
+      "url": "https://anilist.co/anime/8561"
+    },
+    "k": {
+      "id": "5391",
+      "url": "https://kitsu.io/anime/5391"
+    },
+    "mal": {
+      "id": "8561",
+      "url": "https://myanimelist.net/anime/8561"
+    }
+  }
+}

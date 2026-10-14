@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8647,
+  "slug": "non-non-biyori-repeat-hotaru-ga-tanoshinda",
+  "kind": "anime",
+  "title": "Non Non Biyori: Repeat - Hotaru ga Tanoshinda",
+  "titles": {
+    "default": "Non Non Biyori: Repeat - Hotaru ga Tanoshinda",
+    "romaji": "Non Non Biyori: Repeat - Hotaru ga Tanoshinda",
+    "native": "のんのんびより りぴーと 蛍が楽しんだ"
+  },
+  "synonyms": [
+    "Non Non Biyori: Repeat - Hotaru ga Tanoshinda",
+    "のんのんびより りぴーと 蛍が楽しんだ",
+    "Non Non Biyori: Repeat OVA",
+    "Trick or Alice",
+    "トリック・オア・アリス"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21585-7JLUZe4iooea.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21585",
+      "url": "https://anilist.co/anime/21585"
+    },
+    "k": {
+      "id": "8100",
+      "url": "https://kitsu.io/anime/8100"
+    },
+    "mal": {
+      "id": "32547",
+      "url": "https://myanimelist.net/anime/32547"
+    },
+    "tx": {
+      "id": "nonnontv",
+      "url": "https://twitter.com/nonnontv"
+    }
+  }
+}

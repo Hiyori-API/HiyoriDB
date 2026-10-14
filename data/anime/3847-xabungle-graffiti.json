@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3847,
+  "slug": "xabungle-graffiti",
+  "kind": "anime",
+  "title": "Xabungle Graffiti",
+  "titles": {
+    "default": "Xabungle Graffiti",
+    "romaji": "Xabungle Graffiti",
+    "native": "ザブングルグラフィティ"
+  },
+  "synonyms": [
+    "Xabungle Graffiti",
+    "ザブングルグラフィティ"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1983,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5303-yiVmUCm5D5ZZ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5303",
+      "url": "https://anilist.co/anime/5303"
+    },
+    "k": {
+      "id": "4045",
+      "url": "https://kitsu.io/anime/4045"
+    },
+    "mal": {
+      "id": "5303",
+      "url": "https://myanimelist.net/anime/5303"
+    }
+  }
+}

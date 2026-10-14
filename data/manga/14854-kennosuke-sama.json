@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14854,
+  "slug": "kennosuke-sama",
+  "kind": "manga",
+  "title": "Kennosuke-sama",
+  "titles": {
+    "default": "Kennosuke-sama"
+  },
+  "synonyms": [
+    "Kennosuke-Sama",
+    "Young Master Ken'nosuke",
+    "剣之介さま",
+    "Christmas Snow",
+    "Noel la Neige",
+    "ノエル　ラ　ネージュ",
+    "Noël la neige"
+  ],
+  "type": "one_shot",
+  "chapters": 1,
+  "status": "finished",
+  "year": 1987,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b134348-OhYK0oozTDvs.png"
+  ],
+  "references": {
+    "al": {
+      "id": "18603",
+      "url": "https://anilist.co/anime/18603"
+    },
+    "al_manga": {
+      "id": "18603",
+      "url": "https://anilist.co/manga/18603"
+    }
+  }
+}

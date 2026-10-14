@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11112,
+  "slug": "kyouryuu-shoujo-gauko",
+  "kind": "anime",
+  "title": "Kyouryuu Shoujo Gauko",
+  "titles": {
+    "default": "Kyouryuu Shoujo Gauko",
+    "romaji": "Kyouryuu Shoujo Gauko",
+    "english": "Dino Girl Gauko",
+    "native": "恐竜少女ガウ子"
+  },
+  "synonyms": [
+    "Kyouryuu Shoujo Gauko",
+    "Dino Girl Gauko",
+    "恐竜少女ガウ子",
+    "Dino-Girl",
+    "Dinołaczka",
+    "Dinosaurjenta Gauko"
+  ],
+  "type": "ona",
+  "episodes": 20,
+  "status": "finished",
+  "season": "fall",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b109639-dYkX119PtRm9.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "109639",
+      "url": "https://anilist.co/anime/109639"
+    },
+    "mal": {
+      "id": "39849",
+      "url": "https://myanimelist.net/anime/39849"
+    },
+    "nf": {
+      "id": "80216180",
+      "url": "https://www.netflix.com/title/80216180"
+    }
+  }
+}

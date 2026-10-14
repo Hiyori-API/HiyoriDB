@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4901,
+  "slug": "ouritsu-uchuugun-honneamise-no-tsubasa-pilot-film",
+  "kind": "anime",
+  "title": "Ouritsu Uchuugun: Honneamise no Tsubasa - Pilot Film",
+  "titles": {
+    "default": "Ouritsu Uchuugun: Honneamise no Tsubasa - Pilot Film",
+    "romaji": "Ouritsu Uchuugun: Honneamise no Tsubasa - Pilot Film",
+    "native": "王立宇宙軍 オネアミスの翼 パイロットフィルム"
+  },
+  "synonyms": [
+    "Ouritsu Uchuugun: Honneamise no Tsubasa - Pilot Film",
+    "王立宇宙軍 オネアミスの翼 パイロットフィルム",
+    "Wing of Royal Space Troop Honneamise Pilot",
+    "Royal Space Force: The Wings of Honneamise - The Short Film"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx17787-5tHkOPijpcff.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "17787",
+      "url": "https://anilist.co/anime/17787"
+    },
+    "k": {
+      "id": "8913",
+      "url": "https://kitsu.io/anime/8913"
+    },
+    "mal": {
+      "id": "17787",
+      "url": "https://myanimelist.net/anime/17787"
+    }
+  }
+}

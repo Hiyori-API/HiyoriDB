@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15823,
+  "slug": "kekkai-sensen",
+  "kind": "manga",
+  "title": "Kekkai Sensen",
+  "titles": {
+    "default": "Kekkai Sensen"
+  },
+  "synonyms": [
+    "Kekkai Sensen - Mafugai Kessha",
+    "Kekkai Sensen - Mafuugai Kessha",
+    "Ketsu-kai Sensen",
+    "Ketsukai Sensen",
+    "Blood Blockade Battlefront",
+    "血界戦線",
+    "Simple Knot Loafers",
+    "シンプルノットローファー",
+    "Shinpuru Notto Rofa",
+    "Shinpuru Notto Roofaa",
+    "Simple Not Loafer"
+  ],
+  "type": "manga",
+  "chapters": 33,
+  "volumes": 10,
+  "status": "finished",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx42994-RQAC6fDaekE7.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "97886",
+      "url": "https://anilist.co/anime/20727"
+    },
+    "al_manga": {
+      "id": "97886",
+      "url": "https://anilist.co/manga/97886"
+    }
+  }
+}

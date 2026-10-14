@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3852,
+  "slug": "macross-frontier-itsuwari-no-utahime",
+  "kind": "anime",
+  "title": "Macross Frontier: Itsuwari no Utahime",
+  "titles": {
+    "default": "Macross Frontier: Itsuwari no Utahime",
+    "romaji": "Macross Frontier: Itsuwari no Utahime",
+    "english": "Macross Frontier: The False Songstress",
+    "native": "劇場版 マクロスF 虚空歌姫 ~イツワリノウタヒメ~"
+  },
+  "synonyms": [
+    "Macross Frontier: Itsuwari no Utahime",
+    "Macross Frontier: The False Songstress",
+    "劇場版 マクロスF 虚空歌姫 ~イツワリノウタヒメ~",
+    "Macross F the Movie",
+    "Macross Frontier the Movie",
+    "Gekijouban Macross F: Itsuwari no Utahime",
+    "Macross F Movie 1: Itsuwari no Utahime",
+    "劇場版 マクロスＦ 虚空歌姫 ～イツワリノウタヒメ～"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5310-XvFJTkCobkvk.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "5310",
+      "url": "https://anilist.co/anime/5310"
+    },
+    "k": {
+      "id": "4051",
+      "url": "https://kitsu.io/anime/4051"
+    },
+    "mal": {
+      "id": "5310",
+      "url": "https://myanimelist.net/anime/5310"
+    }
+  }
+}

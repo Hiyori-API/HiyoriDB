@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2339,
+  "slug": "dorami-chan-arara-shounen-sanzoku-dan",
+  "kind": "anime",
+  "title": "Dorami-chan: Arara Shounen Sanzoku-dan!",
+  "titles": {
+    "default": "Dorami-chan: Arara Shounen Sanzoku-dan!",
+    "romaji": "Dorami-chan: Arara Shounen Sanzoku-dan!",
+    "native": "ドラミちゃん アララ・少年山賊団！"
+  },
+  "synonyms": [
+    "Dorami-chan: Arara Shounen Sanzoku-dan!",
+    "ドラミちゃん アララ・少年山賊団！",
+    "Dorami-chan: Wow, The Kid Gang of Bandits",
+    "Nadia: The Secret of Blue Water - The Motion Picture",
+    "Fushigi no Umi no Nadia: Original Movie",
+    "ふしぎの海のナディア 劇場用オリジナル版",
+    "Fushigi no Umi no Nadia Gekijou you Original Han",
+    "Nadia: The Secret of Blue Water - The Secret of Fuzzy"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 1991,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2636.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2636",
+      "url": "https://anilist.co/anime/2636"
+    },
+    "k": {
+      "id": "1127",
+      "url": "https://kitsu.io/anime/1127"
+    },
+    "mal": {
+      "id": "2636",
+      "url": "https://myanimelist.net/anime/2636"
+    }
+  }
+}

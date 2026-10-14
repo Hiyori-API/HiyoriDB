@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4985,
+  "slug": "what-s-michael-tv",
+  "kind": "anime",
+  "title": "What's Michael? (TV)",
+  "titles": {
+    "default": "What's Michael? (TV)",
+    "romaji": "What's Michael? (TV)",
+    "native": "ホワッツマイケル?"
+  },
+  "synonyms": [
+    "What's Michael? (TV)",
+    "ホワッツマイケル?"
+  ],
+  "type": "tv",
+  "episodes": 45,
+  "status": "finished",
+  "season": "spring",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b12039-SvxY1Wjvnkqa.png"
+  ],
+  "references": {
+    "al": {
+      "id": "12039",
+      "url": "https://anilist.co/anime/12039"
+    },
+    "k": {
+      "id": "6651",
+      "url": "https://kitsu.io/anime/6651"
+    },
+    "mal": {
+      "id": "12039",
+      "url": "https://myanimelist.net/anime/12039"
+    }
+  }
+}

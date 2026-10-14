@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14886,
+  "slug": "to-y",
+  "kind": "manga",
+  "title": "TO-Y",
+  "titles": {
+    "default": "TO-Y"
+  },
+  "synonyms": [
+    "トーイ",
+    "Mai",
+    "Mai, The Psychic Girl",
+    "舞"
+  ],
+  "type": "manga",
+  "chapters": 100,
+  "volumes": 10,
+  "status": "finished",
+  "year": 1985,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx54531-ijDZWyQBalSn.png"
+  ],
+  "references": {
+    "al": {
+      "id": "2103",
+      "url": "https://anilist.co/anime/2103"
+    },
+    "al_manga": {
+      "id": "2103",
+      "url": "https://anilist.co/manga/2103"
+    }
+  }
+}

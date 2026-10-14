@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4768,
+  "slug": "mahou-shoujo-lalabel-1980",
+  "kind": "anime",
+  "title": "Mahou Shoujo Lalabel (1980)",
+  "titles": {
+    "default": "Mahou Shoujo Lalabel (1980)",
+    "romaji": "Mahou Shoujo Lalabel (1980)",
+    "native": "魔法少女ララベル (1980)"
+  },
+  "synonyms": [
+    "Mahou Shoujo Lalabel (1980)",
+    "魔法少女ララベル (1980)",
+    "Mahou Shoujo Lalabel: Umi ga Yobu Natsuyasumi",
+    "Magical Girl Lalabel: the Sea Calls for a Summer Vacation",
+    "魔法少女ララベル 海が呼ぶ夏休み"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1980,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7807.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "7807",
+      "url": "https://anilist.co/anime/7807"
+    },
+    "k": {
+      "id": "5128",
+      "url": "https://kitsu.io/anime/5128"
+    },
+    "mal": {
+      "id": "7807",
+      "url": "https://myanimelist.net/anime/7807"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6408,
+  "slug": "jewelpet-sunshine",
+  "kind": "anime",
+  "title": "Jewelpet Sunshine",
+  "titles": {
+    "default": "Jewelpet Sunshine",
+    "romaji": "Jewelpet Sunshine",
+    "native": "ジュエルペット サンシャイン"
+  },
+  "synonyms": [
+    "Jewelpet Sunshine",
+    "ジュエルペット サンシャイン"
+  ],
+  "type": "tv",
+  "episodes": 52,
+  "status": "finished",
+  "season": "spring",
+  "year": 2011,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10359-9mio6qWgrrbV.png"
+  ],
+  "references": {
+    "al": {
+      "id": "10359",
+      "url": "https://anilist.co/anime/10359"
+    },
+    "k": {
+      "id": "6147",
+      "url": "https://kitsu.io/anime/6147"
+    },
+    "mal": {
+      "id": "10359",
+      "url": "https://myanimelist.net/anime/10359"
+    },
+    "t": {
+      "id": "78479",
+      "url": "https://trakt.tv/shows/78479"
+    }
+  }
+}

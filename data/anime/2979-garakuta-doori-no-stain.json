@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2979,
+  "slug": "garakuta-doori-no-stain",
+  "kind": "anime",
+  "title": "Garakuta-doori no Stain",
+  "titles": {
+    "default": "Garakuta-doori no Stain",
+    "romaji": "Garakuta-doori no Stain",
+    "english": "Mr. Stain on Junk Alley",
+    "native": "ガラクタ通りのステイン"
+  },
+  "synonyms": [
+    "Garakuta-doori no Stain",
+    "Mr. Stain on Junk Alley",
+    "ガラクタ通りのステイン",
+    "Ga-Ra-Ku-Ta: Mr. Stain on Junk Alley",
+    "Garakuta-dori no Sutein"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "winter",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3519.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3519",
+      "url": "https://anilist.co/anime/3519"
+    },
+    "k": {
+      "id": "3070",
+      "url": "https://kitsu.io/anime/3070"
+    },
+    "mal": {
+      "id": "3519",
+      "url": "https://myanimelist.net/anime/3519"
+    },
+    "t": {
+      "id": "31590",
+      "url": "https://trakt.tv/shows/31590"
+    }
+  }
+}

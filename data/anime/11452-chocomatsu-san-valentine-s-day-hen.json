@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11452,
+  "slug": "chocomatsu-san-valentine-s-day-hen",
+  "kind": "anime",
+  "title": "Chocomatsu-san: Valentine's Day-hen",
+  "titles": {
+    "default": "Chocomatsu-san: Valentine's Day-hen",
+    "romaji": "Chocomatsu-san: Valentine's Day-hen",
+    "native": "チョコ松さん～バレンタインデー編～"
+  },
+  "synonyms": [
+    "Chocomatsu-san: Valentine's Day-hen",
+    "チョコ松さん～バレンタインデー編～",
+    "Mr. Osomatsu Valentine's Day Shorts",
+    "Night World",
+    "Night Country",
+    "夜の国",
+    "Yoru no Kuni"
+  ],
+  "type": "ona",
+  "episodes": 3,
+  "status": "finished",
+  "season": "winter",
+  "year": 2021,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b137097-5PtQ5g4KZBZt.png"
+  ],
+  "references": {
+    "al": {
+      "id": "137097",
+      "url": "https://anilist.co/anime/137097"
+    },
+    "mal": {
+      "id": "46735",
+      "url": "https://myanimelist.net/anime/46735"
+    }
+  }
+}

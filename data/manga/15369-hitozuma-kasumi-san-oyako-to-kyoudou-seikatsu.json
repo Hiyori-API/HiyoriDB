@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15369,
+  "slug": "hitozuma-kasumi-san-oyako-to-kyoudou-seikatsu",
+  "kind": "manga",
+  "title": "Hitozuma Kasumi-san: Oyako To Kyoudou Seikatsu",
+  "titles": {
+    "default": "Hitozuma Kasumi-san: Oyako To Kyoudou Seikatsu"
+  },
+  "synonyms": [
+    "人妻♪かすみさん～母娘と共同性活～",
+    "Lilo & Stitch",
+    "リロ＆スティッチ",
+    "Disney's Lilo & Stitch"
+  ],
+  "type": "one_shot",
+  "chapters": 1,
+  "status": "finished",
+  "year": 2003,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx172918-KirGZoWFL1Ph.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2438",
+      "url": "https://anilist.co/anime/2438"
+    },
+    "al_manga": {
+      "id": "2438",
+      "url": "https://anilist.co/manga/2438"
+    }
+  }
+}

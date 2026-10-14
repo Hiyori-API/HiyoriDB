@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 256,
+  "slug": "akage-no-anne",
+  "kind": "anime",
+  "title": "Akage no Anne",
+  "titles": {
+    "default": "Akage no Anne",
+    "romaji": "Akage no Anne",
+    "english": "Anne of Green Gables",
+    "native": "赤毛のアン"
+  },
+  "synonyms": [
+    "Akage no Anne",
+    "Anne of Green Gables",
+    "赤毛のアン",
+    "Sekai Meisaku Gekijou",
+    "Red haired Anne",
+    "Anne the Redhead",
+    "World Masterpiece Theater",
+    "WMT",
+    "האסופית",
+    "Anna dai capelli rossi",
+    "Anne mit den roten Haaren",
+    "Ania z Zielonego Wzgórza"
+  ],
+  "type": "tv",
+  "episodes": 50,
+  "status": "finished",
+  "season": "winter",
+  "year": 1979,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx283-HlHQFRlU8IfB.png"
+  ],
+  "references": {
+    "al": {
+      "id": "283",
+      "url": "https://anilist.co/anime/283"
+    },
+    "k": {
+      "id": "258",
+      "url": "https://kitsu.io/anime/258"
+    },
+    "mal": {
+      "id": "283",
+      "url": "https://myanimelist.net/anime/283"
+    },
+    "t": {
+      "id": "15978",
+      "url": "https://trakt.tv/shows/15978"
+    }
+  }
+}

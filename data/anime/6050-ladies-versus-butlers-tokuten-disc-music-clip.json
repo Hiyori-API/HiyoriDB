@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6050,
+  "slug": "ladies-versus-butlers-tokuten-disc-music-clip",
+  "kind": "anime",
+  "title": "Ladies versus Butlers! Tokuten Disc Music Clip",
+  "titles": {
+    "default": "Ladies versus Butlers! Tokuten Disc Music Clip",
+    "romaji": "Ladies versus Butlers! Tokuten Disc Music Clip",
+    "native": "れでぃ×ばと!"
+  },
+  "synonyms": [
+    "Ladies versus Butlers! Tokuten Disc Music Clip",
+    "れでぃ×ばと!",
+    "Ladies vs. Butlers!",
+    "Redei x Bato",
+    "Nodame Cantabile Finale Special",
+    "のだめカンタービレ フィナーレ",
+    "Nodame Cantabile Third Season Special",
+    "Nodame Cantabile Season 3 Special",
+    "Nodame Cantabile Finale Episode 00",
+    "Mine to Kiyora no Saikai"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8619.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8619",
+      "url": "https://anilist.co/anime/8619"
+    },
+    "k": {
+      "id": "5177",
+      "url": "https://kitsu.io/anime/5177"
+    },
+    "mal": {
+      "id": "8619",
+      "url": "https://myanimelist.net/anime/8619"
+    }
+  }
+}

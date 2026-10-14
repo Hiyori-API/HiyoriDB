@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8822,
+  "slug": "kidou-senshi-gundam-thunderbolt-december-sky",
+  "kind": "anime",
+  "title": "Kidou Senshi Gundam Thunderbolt: December Sky",
+  "titles": {
+    "default": "Kidou Senshi Gundam Thunderbolt: December Sky",
+    "romaji": "Kidou Senshi Gundam Thunderbolt: December Sky",
+    "english": "Mobile Suit Gundam Thunderbolt: December Sky",
+    "native": "機動戦士ガンダム サンダーボルト December Sky"
+  },
+  "synonyms": [
+    "Kidou Senshi Gundam Thunderbolt: December Sky",
+    "Mobile Suit Gundam Thunderbolt: December Sky",
+    "機動戦士ガンダム サンダーボルト December Sky",
+    "機動戦士ガンダム サンダーボルト DECEMBER SKY"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21893-iuu8D51Go2oI.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21893",
+      "url": "https://anilist.co/anime/21893"
+    },
+    "mal": {
+      "id": "33221",
+      "url": "https://myanimelist.net/anime/33221"
+    },
+    "tx": {
+      "id": "gundam_tb",
+      "url": "https://twitter.com/gundam_tb"
+    }
+  }
+}

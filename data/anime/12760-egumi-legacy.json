@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 12760,
+  "slug": "egumi-legacy",
+  "kind": "anime",
+  "title": "Egumi Legacy",
+  "titles": {
+    "default": "Egumi Legacy",
+    "romaji": "Egumi Legacy",
+    "native": "エグミレガシー"
+  },
+  "synonyms": [
+    "Egumi Legacy",
+    "エグミレガシー",
+    "哎咕島消失的舔甜歌姬",
+    "DearS",
+    "ディアーズ"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2024,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177097-Tg5huoY2rqdF.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "177097",
+      "url": "https://anilist.co/anime/177097"
+    },
+    "cr": {
+      "id": "series/GRZXD528Y/dears",
+      "url": "https://www.crunchyroll.com/series/series/GRZXD528Y/dears"
+    },
+    "k": {
+      "id": "44",
+      "url": "https://kitsu.io/anime/44"
+    },
+    "mal": {
+      "id": "58926",
+      "url": "https://myanimelist.net/anime/58926"
+    },
+    "t": {
+      "id": "61051",
+      "url": "https://trakt.tv/shows/61051"
+    },
+    "tx": {
+      "id": "EgumiLegacy",
+      "url": "https://twitter.com/EgumiLegacy"
+    }
+  }
+}

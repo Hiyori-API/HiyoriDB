@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10524,
+  "slug": "inmou",
+  "kind": "anime",
+  "title": "Inmou",
+  "titles": {
+    "default": "Inmou",
+    "romaji": "Inmou",
+    "native": "淫毛"
+  },
+  "synonyms": [
+    "Inmou",
+    "淫毛",
+    "Araiso Private High School Student Council Executive Committee",
+    "Shiritsu Araiso Koutougakkou Seitokai Shikkoubu",
+    "私立荒磯高等学校生徒会執行部"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "winter",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114242-JCDyTFkYeuLx.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "114242",
+      "url": "https://anilist.co/anime/114242"
+    },
+    "k": {
+      "id": "389",
+      "url": "https://kitsu.io/anime/389"
+    },
+    "mal": {
+      "id": "40922",
+      "url": "https://myanimelist.net/anime/40922"
+    }
+  }
+}

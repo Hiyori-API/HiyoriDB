@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 1803,
+  "slug": "ai-to-yuuki-no-pig-girl-tonde-buurin",
+  "kind": "anime",
+  "title": "Ai to Yuuki no Pig Girl Tonde Buurin",
+  "titles": {
+    "default": "Ai to Yuuki no Pig Girl Tonde Buurin",
+    "romaji": "Ai to Yuuki no Pig Girl Tonde Buurin",
+    "english": "Super Pig",
+    "native": "愛と勇気のピッグガール　とんでぶーりん"
+  },
+  "synonyms": [
+    "Ai to Yuuki no Pig Girl Tonde Buurin",
+    "Super Pig",
+    "愛と勇気のピッグガール　とんでぶーりん",
+    "Ai to Yuki no Piggu Garu Tonde Burin",
+    "Boorin",
+    "Super Boink",
+    "Tonde Buurin - Pig Girl of Love and Courage",
+    "Superświnka",
+    "Súper Cerdita"
+  ],
+  "type": "tv",
+  "episodes": 51,
+  "status": "finished",
+  "season": "fall",
+  "year": 1994,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2041.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "2041",
+      "url": "https://anilist.co/anime/2041"
+    },
+    "k": {
+      "id": "1840",
+      "url": "https://kitsu.io/anime/1840"
+    },
+    "mal": {
+      "id": "2041",
+      "url": "https://myanimelist.net/anime/2041"
+    },
+    "t": {
+      "id": "74990",
+      "url": "https://trakt.tv/shows/74990"
+    }
+  }
+}

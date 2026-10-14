@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 6139,
+  "slug": "mayo-elle-otokonoko",
+  "kind": "anime",
+  "title": "Mayo elle Otokonoko",
+  "titles": {
+    "default": "Mayo elle Otokonoko",
+    "romaji": "Mayo elle Otokonoko",
+    "native": "迷elleオトコノ娘"
+  },
+  "synonyms": [
+    "Mayo elle Otokonoko",
+    "迷elleオトコノ娘",
+    "Mayo elle Otoko no Ko",
+    "まよえるオトコノコー",
+    "Mayo Elle Otoko no Ko"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2010,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9337.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "9337",
+      "url": "https://anilist.co/anime/9337"
+    },
+    "k": {
+      "id": "5684",
+      "url": "https://kitsu.io/anime/5684"
+    },
+    "mal": {
+      "id": "9337",
+      "url": "https://myanimelist.net/anime/9337"
+    },
+    "tx": {
+      "id": "mayo_musume",
+      "url": "https://twitter.com/mayo_musume"
+    }
+  }
+}

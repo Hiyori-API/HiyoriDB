@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5822,
+  "slug": "sore-ike-anpanman-yousei-rinrin-no-himitsu",
+  "kind": "anime",
+  "title": "Sore Ike! Anpanman: Yousei Rinrin no Himitsu",
+  "titles": {
+    "default": "Sore Ike! Anpanman: Yousei Rinrin no Himitsu",
+    "romaji": "Sore Ike! Anpanman: Yousei Rinrin no Himitsu",
+    "english": "Anpanman: The Secret of Fairy Rin-Rin",
+    "native": "それいけ! アンパンマン 妖精リンリンのひみつ"
+  },
+  "synonyms": [
+    "Sore Ike! Anpanman: Yousei Rinrin no Himitsu",
+    "Anpanman: The Secret of Fairy Rin-Rin",
+    "それいけ! アンパンマン 妖精リンリンのひみつ",
+    "それいけ!アンパンマン 妖精リンリンのひみつ"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116039-9QiYjTl7KDtP.png"
+  ],
+  "references": {
+    "al": {
+      "id": "116039",
+      "url": "https://anilist.co/anime/116039"
+    },
+    "k": {
+      "id": "9631",
+      "url": "https://kitsu.io/anime/9631"
+    },
+    "mal": {
+      "id": "21967",
+      "url": "https://myanimelist.net/anime/21967"
+    }
+  }
+}

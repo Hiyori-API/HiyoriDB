@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5436,
+  "slug": "hiragana-aan",
+  "kind": "anime",
+  "title": "Hiragana Aan!",
+  "titles": {
+    "default": "Hiragana Aan!",
+    "romaji": "Hiragana Aan!",
+    "native": "ひらがなあ～ん!"
+  },
+  "synonyms": [
+    "Hiragana Aan!",
+    "ひらがなあ～ん!",
+    "Twilight Of The Dark Master",
+    "Shihaisha no Tasogare",
+    "支配者の黄昏"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1998,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b208827-BhHFKZoMNTB5.png"
+  ],
+  "references": {
+    "al": {
+      "id": "208827",
+      "url": "https://anilist.co/anime/208827"
+    },
+    "k": {
+      "id": "1120",
+      "url": "https://kitsu.io/anime/1120"
+    },
+    "mal": {
+      "id": "63207",
+      "url": "https://myanimelist.net/anime/63207"
+    }
+  }
+}

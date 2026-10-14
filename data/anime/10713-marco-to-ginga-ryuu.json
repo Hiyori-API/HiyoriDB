@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10713,
+  "slug": "marco-to-ginga-ryuu",
+  "kind": "anime",
+  "title": "Marco to Ginga Ryuu",
+  "titles": {
+    "default": "Marco to Ginga Ryuu",
+    "romaji": "Marco to Ginga Ryuu",
+    "native": "マルコと銀河竜"
+  },
+  "synonyms": [
+    "Marco to Ginga Ryuu",
+    "マルコと銀河竜",
+    "Voices of a Distant Star",
+    "Hoshi no Koe",
+    "ほしのこえ"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2020,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154119-z25XciBCbUwQ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "154119",
+      "url": "https://anilist.co/anime/154119"
+    },
+    "cr": {
+      "id": "voices-of-a-distant-star",
+      "url": "https://www.crunchyroll.com/series/voices-of-a-distant-star"
+    },
+    "k": {
+      "id": "231",
+      "url": "https://kitsu.io/anime/231"
+    },
+    "mal": {
+      "id": "40636",
+      "url": "https://myanimelist.net/anime/40636"
+    }
+  }
+}

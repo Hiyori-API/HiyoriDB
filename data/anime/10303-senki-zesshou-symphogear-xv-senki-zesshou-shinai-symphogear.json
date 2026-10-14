@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 10303,
+  "slug": "senki-zesshou-symphogear-xv-senki-zesshou-shinai-symphogear",
+  "kind": "anime",
+  "title": "Senki Zesshou Symphogear XV: Senki Zesshou Shinai Symphogear",
+  "titles": {
+    "default": "Senki Zesshou Symphogear XV: Senki Zesshou Shinai Symphogear",
+    "romaji": "Senki Zesshou Symphogear XV: Senki Zesshou Shinai Symphogear",
+    "english": "Symphogear XV Omake",
+    "native": "戦姫絶唱シンフォギアXV 戦姫絶唱しないシンフォギア"
+  },
+  "synonyms": [
+    "Senki Zesshou Symphogear XV: Senki Zesshou Shinai Symphogear",
+    "Symphogear XV Omake",
+    "戦姫絶唱シンフォギアXV 戦姫絶唱しないシンフォギア",
+    "Symphogear XV Specials"
+  ],
+  "type": "special",
+  "episodes": 4,
+  "status": "finished",
+  "season": "fall",
+  "year": 2019,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113348-fHyKl9Rgvd7u.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "113348",
+      "url": "https://anilist.co/anime/113348"
+    },
+    "mal": {
+      "id": "40659",
+      "url": "https://myanimelist.net/anime/40659"
+    }
+  }
+}

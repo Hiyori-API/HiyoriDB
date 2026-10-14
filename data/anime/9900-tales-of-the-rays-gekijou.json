@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9900,
+  "slug": "tales-of-the-rays-gekijou",
+  "kind": "anime",
+  "title": "Tales of the Rays Gekijou",
+  "titles": {
+    "default": "Tales of the Rays Gekijou",
+    "romaji": "Tales of the Rays Gekijou",
+    "native": "ているず おぶ ざ れいず劇場"
+  },
+  "synonyms": [
+    "Tales of the Rays Gekijou",
+    "ているず おぶ ざ れいず劇場",
+    "22/7",
+    "Nanabun no Nijuuni",
+    "The Diary of Our Days",
+    "あの日の彼女たち",
+    "Ano Hi no Kanojo-tachi"
+  ],
+  "type": "ona",
+  "episodes": 8,
+  "status": "finished",
+  "season": "summer",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b110330-AtTQ5shkf9fR.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "110330",
+      "url": "https://anilist.co/anime/110330"
+    },
+    "mal": {
+      "id": "36955",
+      "url": "https://myanimelist.net/anime/36955"
+    }
+  }
+}

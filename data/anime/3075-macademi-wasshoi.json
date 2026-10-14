@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 3075,
+  "slug": "macademi-wasshoi",
+  "kind": "anime",
+  "title": "Macademi WAsshoi!",
+  "titles": {
+    "default": "Macademi WAsshoi!",
+    "romaji": "Macademi WAsshoi!",
+    "native": "まかでみWAっしょい！"
+  },
+  "synonyms": [
+    "Macademi WAsshoi!",
+    "まかでみWAっしょい！",
+    "The Magician's Academy",
+    "MA Project",
+    "Macademi Wasshoi!"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "fall",
+  "year": 2008,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3654.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3654",
+      "url": "https://anilist.co/anime/3654"
+    },
+    "cr": {
+      "id": "magicians-academy",
+      "url": "https://www.crunchyroll.com/series/magicians-academy"
+    },
+    "k": {
+      "id": "3172",
+      "url": "https://kitsu.io/anime/3172"
+    },
+    "mal": {
+      "id": "3654",
+      "url": "https://myanimelist.net/anime/3654"
+    },
+    "t": {
+      "id": "29450",
+      "url": "https://trakt.tv/shows/29450"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 646,
+  "slug": "uchuu-senkan-yamato-movie",
+  "kind": "anime",
+  "title": "Uchuu Senkan Yamato (Movie)",
+  "titles": {
+    "default": "Uchuu Senkan Yamato (Movie)",
+    "romaji": "Uchuu Senkan Yamato (Movie)",
+    "english": "Space Battleship Yamato",
+    "native": "宇宙戦艦ヤマト"
+  },
+  "synonyms": [
+    "Uchuu Senkan Yamato (Movie)",
+    "Space Battleship Yamato",
+    "宇宙戦艦ヤマト"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 1977,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx711-lZXWwNclsCxo.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "711",
+      "url": "https://anilist.co/anime/711"
+    },
+    "k": {
+      "id": "645",
+      "url": "https://kitsu.io/anime/645"
+    },
+    "mal": {
+      "id": "711",
+      "url": "https://myanimelist.net/anime/711"
+    }
+  }
+}

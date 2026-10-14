@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4310,
+  "slug": "sora-wo-kakeru-shoujo-picture-drama",
+  "kind": "anime",
+  "title": "Sora wo Kakeru Shoujo Picture Drama",
+  "titles": {
+    "default": "Sora wo Kakeru Shoujo Picture Drama",
+    "romaji": "Sora wo Kakeru Shoujo Picture Drama",
+    "english": "Girl Who Leapt Through Space Picture Drama",
+    "native": "宇宙をかける少女 ピクチャードラマ"
+  },
+  "synonyms": [
+    "Sora wo Kakeru Shoujo Picture Drama",
+    "Girl Who Leapt Through Space Picture Drama",
+    "宇宙をかける少女 ピクチャードラマ"
+  ],
+  "type": "special",
+  "episodes": 9,
+  "status": "finished",
+  "season": "spring",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6437.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6437",
+      "url": "https://anilist.co/anime/6437"
+    },
+    "k": {
+      "id": "4561",
+      "url": "https://kitsu.io/anime/4561"
+    },
+    "mal": {
+      "id": "6437",
+      "url": "https://myanimelist.net/anime/6437"
+    }
+  }
+}

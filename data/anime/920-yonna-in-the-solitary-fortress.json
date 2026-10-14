@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 920,
+  "slug": "yonna-in-the-solitary-fortress",
+  "kind": "anime",
+  "title": "Yonna in the Solitary Fortress",
+  "titles": {
+    "default": "Yonna in the Solitary Fortress",
+    "romaji": "Yonna in the Solitary Fortress",
+    "native": "はなれ砦のヨナ"
+  },
+  "synonyms": [
+    "Yonna in the Solitary Fortress",
+    "はなれ砦のヨナ",
+    "Hanare Toride no Yonna"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2006,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1031.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "1031",
+      "url": "https://anilist.co/anime/1031"
+    },
+    "cr": {
+      "id": "yonna-in-the-solitary-fortress",
+      "url": "https://www.crunchyroll.com/series/yonna-in-the-solitary-fortress"
+    },
+    "k": {
+      "id": "921",
+      "url": "https://kitsu.io/anime/921"
+    },
+    "mal": {
+      "id": "1031",
+      "url": "https://myanimelist.net/anime/1031"
+    }
+  }
+}

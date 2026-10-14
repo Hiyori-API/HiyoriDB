@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 536,
+  "slug": "honoo-no-labyrinth",
+  "kind": "anime",
+  "title": "Honoo no Labyrinth",
+  "titles": {
+    "default": "Honoo no Labyrinth",
+    "romaji": "Honoo no Labyrinth",
+    "english": "Labyrinth of Flames",
+    "native": "炎のらびりんす"
+  },
+  "synonyms": [
+    "Honoo no Labyrinth",
+    "Labyrinth of Flames",
+    "炎のらびりんす",
+    "Maetel Legend",
+    "メーテルレジェンド"
+  ],
+  "type": "ova",
+  "episodes": 2,
+  "status": "finished",
+  "season": "fall",
+  "year": 2000,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx581-SzbcPGTZdRNf.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "581",
+      "url": "https://anilist.co/anime/581"
+    },
+    "k": {
+      "id": "1341",
+      "url": "https://kitsu.io/anime/1341"
+    },
+    "mal": {
+      "id": "581",
+      "url": "https://myanimelist.net/anime/581"
+    }
+  }
+}

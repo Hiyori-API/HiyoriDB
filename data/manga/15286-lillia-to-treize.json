@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15286,
+  "slug": "lillia-to-treize",
+  "kind": "manga",
+  "title": "Lillia to Treize",
+  "titles": {
+    "default": "Lillia to Treize"
+  },
+  "synonyms": [
+    "Lillia & Treize",
+    "Lillia and Treize",
+    "リリアとトレイズ",
+    "Young Gun Carnaval",
+    "ヤングガン・カルナバル"
+  ],
+  "type": "novel",
+  "chapters": 38,
+  "volumes": 6,
+  "status": "finished",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/7091.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3549",
+      "url": "https://anilist.co/anime/3549"
+    },
+    "al_manga": {
+      "id": "3549",
+      "url": "https://anilist.co/manga/3549"
+    }
+  }
+}

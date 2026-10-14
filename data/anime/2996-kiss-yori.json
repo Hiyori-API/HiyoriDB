@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2996,
+  "slug": "kiss-yori",
+  "kind": "anime",
+  "title": "KISS Yori...",
+  "titles": {
+    "default": "KISS Yori...",
+    "romaji": "KISS Yori...",
+    "english": "A Heat for All Seasons",
+    "native": "KISSより…"
+  },
+  "synonyms": [
+    "KISS Yori...",
+    "A Heat for All Seasons",
+    "KISSより…",
+    "Ten Tokyo Warriors",
+    "Tokyo Juushouden",
+    "倒凶十将伝",
+    "Tokyo Jushoden",
+    "Ten Warriors of Tokyo",
+    "10 Tokyo Warriors"
+  ],
+  "type": "ova",
+  "episodes": 3,
+  "status": "finished",
+  "season": "summer",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3543.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3543",
+      "url": "https://anilist.co/anime/3543"
+    },
+    "k": {
+      "id": "942",
+      "url": "https://kitsu.io/anime/942"
+    },
+    "mal": {
+      "id": "3543",
+      "url": "https://myanimelist.net/anime/3543"
+    }
+  }
+}

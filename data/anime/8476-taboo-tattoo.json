@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8476,
+  "slug": "taboo-tattoo",
+  "kind": "anime",
+  "title": "Taboo Tattoo",
+  "titles": {
+    "default": "Taboo Tattoo",
+    "romaji": "Taboo Tattoo",
+    "native": "タブー・タトゥー"
+  },
+  "synonyms": [
+    "Taboo Tattoo",
+    "タブー・タトゥー",
+    "Sweetness & Lightning",
+    "甘々と稲妻",
+    "Amaama to Inazuma"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "summer",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21031-9UQTsZfReeP6.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21031",
+      "url": "https://anilist.co/anime/21031"
+    },
+    "cr": {
+      "id": "taboo-tattoo",
+      "url": "https://www.crunchyroll.com/series/taboo-tattoo"
+    },
+    "mal": {
+      "id": "29758",
+      "url": "https://myanimelist.net/anime/29758"
+    },
+    "tx": {
+      "id": "tabootattoo_ani",
+      "url": "https://twitter.com/tabootattoo_ani"
+    }
+  }
+}

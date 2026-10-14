@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5214,
+  "slug": "sore-ike-anpanman-anpanman-to-yukai-na-nakama-tachi",
+  "kind": "anime",
+  "title": "Sore Ike! Anpanman: Anpanman to Yukai na Nakama-tachi",
+  "titles": {
+    "default": "Sore Ike! Anpanman: Anpanman to Yukai na Nakama-tachi",
+    "romaji": "Sore Ike! Anpanman: Anpanman to Yukai na Nakama-tachi",
+    "native": "それいけ!アンパンマン アンパンマンとゆかいな仲間たち"
+  },
+  "synonyms": [
+    "Sore Ike! Anpanman: Anpanman to Yukai na Nakama-tachi",
+    "それいけ!アンパンマン アンパンマンとゆかいな仲間たち",
+    "Let's Go! Anpanman: Anpanman and His Fun Friends"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1992,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b121832-ibpMW76RvgHm.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "121832",
+      "url": "https://anilist.co/anime/121832"
+    },
+    "k": {
+      "id": "9607",
+      "url": "https://kitsu.io/anime/9607"
+    },
+    "mal": {
+      "id": "21937",
+      "url": "https://myanimelist.net/anime/21937"
+    }
+  }
+}

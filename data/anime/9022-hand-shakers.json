@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9022,
+  "slug": "hand-shakers",
+  "kind": "anime",
+  "title": "Hand Shakers",
+  "titles": {
+    "default": "Hand Shakers",
+    "romaji": "Hand Shakers",
+    "native": "ハンドシェイカー"
+  },
+  "synonyms": [
+    "Hand Shakers",
+    "ハンドシェイカー",
+    "Ajin-chan wa Kataritai",
+    "Interviews With Monster Girls",
+    "亜人ちゃんは語りたい",
+    "Demi-chan wa Kataritai"
+  ],
+  "type": "tv",
+  "episodes": 12,
+  "status": "finished",
+  "season": "winter",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx21731-jhhJdeuCnFjB.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "21731",
+      "url": "https://anilist.co/anime/21731"
+    },
+    "cr": {
+      "id": "hand-shakers",
+      "url": "https://www.crunchyroll.com/series/hand-shakers"
+    },
+    "mal": {
+      "id": "32981",
+      "url": "https://myanimelist.net/anime/32981"
+    },
+    "tx": {
+      "id": "hs_p_info",
+      "url": "https://twitter.com/hs_p_info"
+    }
+  }
+}

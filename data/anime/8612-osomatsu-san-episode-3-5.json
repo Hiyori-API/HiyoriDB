@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8612,
+  "slug": "osomatsu-san-episode-3-5",
+  "kind": "anime",
+  "title": "Osomatsu-san Episode 3.5",
+  "titles": {
+    "default": "Osomatsu-san Episode 3.5",
+    "romaji": "Osomatsu-san Episode 3.5",
+    "english": "Mr. Osomatsu Episode 3.5",
+    "native": "おそ松さん 第3.5話"
+  },
+  "synonyms": [
+    "Osomatsu-san Episode 3.5",
+    "Mr. Osomatsu Episode 3.5",
+    "おそ松さん 第3.5話",
+    "Mr. Osomatsu Special",
+    "Mr. Osomatsu Episode 3.5: Virgin Heroes",
+    "おそ松さん",
+    "Osomatsu-san Special"
+  ],
+  "type": "special",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21510-FgDYDwDMzAcQ.png"
+  ],
+  "references": {
+    "al": {
+      "id": "21510",
+      "url": "https://anilist.co/anime/21510"
+    },
+    "cr": {
+      "id": "mr-osomatsu",
+      "url": "https://www.crunchyroll.com/series/mr-osomatsu"
+    },
+    "mal": {
+      "id": "32026",
+      "url": "https://myanimelist.net/anime/32026"
+    },
+    "tx": {
+      "id": "osomatsu_PR",
+      "url": "https://twitter.com/osomatsu_PR"
+    }
+  }
+}

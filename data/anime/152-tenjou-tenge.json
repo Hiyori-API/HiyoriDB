@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 152,
+  "slug": "tenjou-tenge",
+  "kind": "anime",
+  "title": "Tenjou Tenge",
+  "titles": {
+    "default": "Tenjou Tenge",
+    "romaji": "Tenjou Tenge",
+    "english": "Tenjho Tenge",
+    "native": "天上天下"
+  },
+  "synonyms": [
+    "Tenjou Tenge",
+    "Tenjho Tenge",
+    "天上天下",
+    "Heaven and Earth",
+    "TenTen TV",
+    "Tenjo Tenge"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "spring",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174-s2PpkrK9X3Rw.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "174",
+      "url": "https://anilist.co/anime/174"
+    },
+    "ap": {
+      "id": "B07ZG6852H",
+      "url": "https://www.amazon.com/gp/video/detail/B07ZG6852H"
+    },
+    "cr": {
+      "id": "tenjho-tenge",
+      "url": "https://www.crunchyroll.com/series/tenjho-tenge"
+    },
+    "k": {
+      "id": "151",
+      "url": "https://kitsu.io/anime/151"
+    },
+    "mal": {
+      "id": "174",
+      "url": "https://myanimelist.net/anime/174"
+    },
+    "t": {
+      "id": "34583",
+      "url": "https://trakt.tv/shows/34583"
+    }
+  }
+}

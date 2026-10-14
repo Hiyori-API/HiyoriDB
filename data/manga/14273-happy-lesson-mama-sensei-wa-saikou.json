@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14273,
+  "slug": "happy-lesson-mama-sensei-wa-saikou",
+  "kind": "manga",
+  "title": "HAPPY LESSON: Mama-sensei wa Saikou!",
+  "titles": {
+    "default": "HAPPY LESSON: Mama-sensei wa Saikou!"
+  },
+  "synonyms": [
+    "Happy Lesson Mama Teacher is Wonderful!",
+    "Happy Lesson",
+    "HAPPY・LESSON ママ先生は最高!",
+    "20th Century Boys",
+    "20世紀少年",
+    "20 Seiki Shounen",
+    "Nijuu Seiki Shounen",
+    "Nijuusseiki Shounen",
+    "20thCB"
+  ],
+  "type": "manga",
+  "chapters": 14,
+  "volumes": 2,
+  "status": "finished",
+  "year": 1999,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b31785-F7bLKd0onOlE.png"
+  ],
+  "references": {
+    "al": {
+      "id": "260",
+      "url": "https://anilist.co/anime/259"
+    },
+    "al_manga": {
+      "id": "260",
+      "url": "https://anilist.co/manga/260"
+    }
+  }
+}

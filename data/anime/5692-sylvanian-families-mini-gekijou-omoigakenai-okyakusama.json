@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5692,
+  "slug": "sylvanian-families-mini-gekijou-omoigakenai-okyakusama",
+  "kind": "anime",
+  "title": "Sylvanian Families Mini Gekijou: Omoigakenai Okyakusama",
+  "titles": {
+    "default": "Sylvanian Families Mini Gekijou: Omoigakenai Okyakusama",
+    "romaji": "Sylvanian Families Mini Gekijou: Omoigakenai Okyakusama",
+    "native": "シルバニアファミリー ミニ劇場～思いがけないお客様～"
+  },
+  "synonyms": [
+    "Sylvanian Families Mini Gekijou: Omoigakenai Okyakusama",
+    "シルバニアファミリー ミニ劇場～思いがけないお客様～",
+    "Boku wa Imouto ni Koi wo Suru",
+    "僕は妹に恋をする",
+    "I'm My Little Sister's Secret",
+    "I'm in Love With My Little Sister"
+  ],
+  "type": "ova",
+  "episodes": 1,
+  "status": "finished",
+  "season": "spring",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b187216-ksp30icAn5tR.png"
+  ],
+  "references": {
+    "al": {
+      "id": "187216",
+      "url": "https://anilist.co/anime/187216"
+    },
+    "k": {
+      "id": "726",
+      "url": "https://kitsu.io/anime/726"
+    },
+    "mal": {
+      "id": "30961",
+      "url": "https://myanimelist.net/anime/30961"
+    }
+  }
+}

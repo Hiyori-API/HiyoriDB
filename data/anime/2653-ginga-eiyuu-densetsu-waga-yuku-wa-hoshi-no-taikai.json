@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 2653,
+  "slug": "ginga-eiyuu-densetsu-waga-yuku-wa-hoshi-no-taikai",
+  "kind": "anime",
+  "title": "Ginga Eiyuu Densetsu: Waga Yuku wa Hoshi no Taikai",
+  "titles": {
+    "default": "Ginga Eiyuu Densetsu: Waga Yuku wa Hoshi no Taikai",
+    "romaji": "Ginga Eiyuu Densetsu: Waga Yuku wa Hoshi no Taikai",
+    "english": "Legend of the Galactic Heroes: My Conquest Is the Sea of Stars",
+    "native": "銀河英雄伝説: わが征くは星の大海"
+  },
+  "synonyms": [
+    "Ginga Eiyuu Densetsu: Waga Yuku wa Hoshi no Taikai",
+    "Legend of the Galactic Heroes: My Conquest Is the Sea of Stars",
+    "銀河英雄伝説: わが征くは星の大海",
+    "LoGH: My Conquest Is the Sea of Stars",
+    "Legend of the Galactic Heroes MOVIE (1988)",
+    "Heldensagen vom Kosmosinsel"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "winter",
+  "year": 1988,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx3014-HcjYHAbi1bnd.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3014",
+      "url": "https://anilist.co/anime/3014"
+    },
+    "k": {
+      "id": "2724",
+      "url": "https://kitsu.io/anime/2724"
+    },
+    "mal": {
+      "id": "3014",
+      "url": "https://myanimelist.net/anime/3014"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8833,
+  "slug": "cyborg009-call-of-justice-3",
+  "kind": "anime",
+  "title": "CYBORG009 CALL OF JUSTICE 3",
+  "titles": {
+    "default": "CYBORG009 CALL OF JUSTICE 3",
+    "romaji": "CYBORG009 CALL OF JUSTICE 3",
+    "english": "Cyborg009 Call Of Justice 3"
+  },
+  "synonyms": [
+    "CYBORG009 CALL OF JUSTICE 3",
+    "Cyborg009 Call Of Justice 3",
+    "CYBORG009 COJ 3",
+    "In This Corner of the World",
+    "Kono Sekai no Katasumi ni",
+    "この世界の片隅に",
+    "To All the Corners of the World"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "fall",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/87483-GIAGPPUYCG0U.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "87483",
+      "url": "https://anilist.co/anime/87483"
+    },
+    "cr": {
+      "id": "series/GNVHKN9PW/in-this-corner-and-other-corners-of-the-world",
+      "url": "https://www.crunchyroll.com/series/series/GNVHKN9PW/in-this-corner-and-other-corners-of-the-world"
+    },
+    "k": {
+      "id": "7234",
+      "url": "https://kitsu.io/anime/7234"
+    },
+    "mal": {
+      "id": "33687",
+      "url": "https://myanimelist.net/anime/33687"
+    },
+    "nf": {
+      "id": "80192244",
+      "url": "https://www.netflix.com/title/80192244"
+    },
+    "tx": {
+      "id": "cyborg009coj",
+      "url": "https://twitter.com/cyborg009coj"
+    }
+  }
+}

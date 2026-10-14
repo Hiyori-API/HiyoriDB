@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 316,
+  "slug": "w-wish",
+  "kind": "anime",
+  "title": "W: Wish",
+  "titles": {
+    "default": "W: Wish",
+    "romaji": "W: Wish",
+    "english": "Double Wish",
+    "native": "W 〜ウィッシュ〜"
+  },
+  "synonyms": [
+    "W: Wish",
+    "Double Wish",
+    "W 〜ウィッシュ〜"
+  ],
+  "type": "tv",
+  "episodes": 13,
+  "status": "finished",
+  "season": "fall",
+  "year": 2004,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/346.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "346",
+      "url": "https://anilist.co/anime/346"
+    },
+    "k": {
+      "id": "313",
+      "url": "https://kitsu.io/anime/313"
+    },
+    "mal": {
+      "id": "346",
+      "url": "https://myanimelist.net/anime/346"
+    },
+    "t": {
+      "id": "65650",
+      "url": "https://trakt.tv/shows/65650"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 11105,
+  "slug": "cinderella-girls-gekijou-3rd-season-specials",
+  "kind": "anime",
+  "title": "Cinderella Girls Gekijou 3rd Season Specials",
+  "titles": {
+    "default": "Cinderella Girls Gekijou 3rd Season Specials",
+    "romaji": "Cinderella Girls Gekijou 3rd Season Specials",
+    "native": "シンデレラガールズ劇場 3期 スペシャル"
+  },
+  "synonyms": [
+    "Cinderella Girls Gekijou 3rd Season Specials",
+    "シンデレラガールズ劇場 3期 スペシャル",
+    "シンデレラガールズ劇場 第3期"
+  ],
+  "type": "special",
+  "episodes": 3,
+  "status": "finished",
+  "season": "summer",
+  "year": 2018,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122207-rcdYVjS7t3bQ.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "122207",
+      "url": "https://anilist.co/anime/122207"
+    },
+    "mal": {
+      "id": "38211",
+      "url": "https://myanimelist.net/anime/38211"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 14698,
+  "slug": "sasurai-no-taiyou",
+  "kind": "manga",
+  "title": "Sasurai no Taiyou",
+  "titles": {
+    "default": "Sasurai no Taiyou"
+  },
+  "synonyms": [
+    "さすらいの太陽",
+    "Ryuu no Michi",
+    "リュウの道",
+    "The Road of Ryuu"
+  ],
+  "type": "manga",
+  "volumes": 4,
+  "status": "finished",
+  "year": 1970,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b108317-Kmv8Uz0wL9FD.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "3819",
+      "url": "https://anilist.co/anime/3819"
+    },
+    "al_manga": {
+      "id": "3819",
+      "url": "https://anilist.co/manga/3819"
+    }
+  }
+}

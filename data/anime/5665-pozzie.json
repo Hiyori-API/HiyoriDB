@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 5665,
+  "slug": "pozzie",
+  "kind": "anime",
+  "title": "Pozzie",
+  "titles": {
+    "default": "Pozzie",
+    "romaji": "Pozzie",
+    "native": "ポッツィー"
+  },
+  "synonyms": [
+    "Pozzie",
+    "ポッツィー"
+  ],
+  "type": "special",
+  "episodes": 17,
+  "status": "finished",
+  "season": "summer",
+  "year": 2005,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8670.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "8670",
+      "url": "https://anilist.co/anime/8670"
+    },
+    "k": {
+      "id": "5432",
+      "url": "https://kitsu.io/anime/5432"
+    },
+    "mal": {
+      "id": "8670",
+      "url": "https://myanimelist.net/anime/8670"
+    }
+  }
+}

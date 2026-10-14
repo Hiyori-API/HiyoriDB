@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 8957,
+  "slug": "ippou-nippon-mukashibanash",
+  "kind": "anime",
+  "title": "Ippou Nippon Mukashibanash",
+  "titles": {
+    "default": "Ippou Nippon Mukashibanash",
+    "romaji": "Ippou Nippon Mukashibanash",
+    "native": "いっぽう日本昔ばなし"
+  },
+  "synonyms": [
+    "Ippou Nippon Mukashibanash",
+    "いっぽう日本昔ばなし",
+    "Calendar Story",
+    "Koyomimonogatari",
+    "暦物語"
+  ],
+  "type": "ona",
+  "episodes": 12,
+  "status": "finished",
+  "season": "spring",
+  "year": 2016,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126179-pQnN4n90pPyw.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "126179",
+      "url": "https://anilist.co/anime/126179"
+    },
+    "mal": {
+      "id": "33387",
+      "url": "https://myanimelist.net/anime/33387"
+    }
+  }
+}

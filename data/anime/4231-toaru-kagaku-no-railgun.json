@@ -1,0 +1,66 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 4231,
+  "slug": "toaru-kagaku-no-railgun",
+  "kind": "anime",
+  "title": "Toaru Kagaku no Railgun",
+  "titles": {
+    "default": "Toaru Kagaku no Railgun",
+    "romaji": "Toaru Kagaku no Railgun",
+    "english": "A Certain Scientific Railgun",
+    "native": "とある科学の超電磁砲"
+  },
+  "synonyms": [
+    "Toaru Kagaku no Railgun",
+    "A Certain Scientific Railgun",
+    "とある科学の超電磁砲",
+    "Toaru Kagaku no Choudenjihou",
+    "ריילגאן",
+    "المستوى الخامس",
+    "เรลกัน แฟ้มลับคดีวิทยาศาสตร์",
+    "Некий научный Рейлган",
+    "เรลกัน แฟ้มลับคดีวิทยาศาสตร์ ภาคที่ 1",
+    "Cấm thư ma thuật Index ngoại truyện: Siêu Railgun khoa học",
+    "Ένα Κάποιο Επιστημονικό Υπερόπλο",
+    "科學超電磁砲",
+    "魔法禁書目錄外傳 科學超電磁砲"
+  ],
+  "type": "tv",
+  "episodes": 24,
+  "status": "finished",
+  "season": "fall",
+  "year": 2009,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6213-QtrlDQnexApL.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "6213",
+      "url": "https://anilist.co/anime/6213"
+    },
+    "cr": {
+      "id": "a-certain-scientific-railgun",
+      "url": "https://www.crunchyroll.com/series/a-certain-scientific-railgun"
+    },
+    "k": {
+      "id": "4478",
+      "url": "https://kitsu.io/anime/4478"
+    },
+    "mal": {
+      "id": "6213",
+      "url": "https://myanimelist.net/anime/6213"
+    },
+    "nf": {
+      "id": "70308190",
+      "url": "https://www.netflix.com/title/70308190"
+    },
+    "t": {
+      "id": "30843",
+      "url": "https://trakt.tv/shows/30843"
+    },
+    "ttv": {
+      "id": "2312",
+      "url": "https://tubitv.com/series/2312"
+    }
+  }
+}

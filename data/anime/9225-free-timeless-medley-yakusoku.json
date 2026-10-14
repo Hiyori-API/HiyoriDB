@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 9225,
+  "slug": "free-timeless-medley-yakusoku",
+  "kind": "anime",
+  "title": "Free!: Timeless Medley - Yakusoku",
+  "titles": {
+    "default": "Free!: Timeless Medley - Yakusoku",
+    "romaji": "Free!: Timeless Medley - Yakusoku",
+    "english": "Free! -Timeless Medley- The Promise",
+    "native": "劇場版 Free!-Timeless Medley- 約束"
+  },
+  "synonyms": [
+    "Free!: Timeless Medley - Yakusoku",
+    "Free! -Timeless Medley- The Promise",
+    "劇場版 Free!-Timeless Medley- 約束",
+    "Magical Girl Lyrical Nanoha Reflection",
+    "Mahou Shoujo Lyrical Nanoha: Reflection",
+    "魔法少女リリカルなのは Reflection"
+  ],
+  "type": "movie",
+  "episodes": 1,
+  "status": "finished",
+  "season": "summer",
+  "year": 2017,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98496-5t9VFhYHyhzA.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "98496",
+      "url": "https://anilist.co/anime/98496"
+    },
+    "cr": {
+      "id": "free-iwatobi-swim-club",
+      "url": "https://www.crunchyroll.com/series/free-iwatobi-swim-club"
+    },
+    "k": {
+      "id": "8274",
+      "url": "https://kitsu.io/anime/8274"
+    },
+    "mal": {
+      "id": "35191",
+      "url": "https://myanimelist.net/anime/35191"
+    }
+  }
+}

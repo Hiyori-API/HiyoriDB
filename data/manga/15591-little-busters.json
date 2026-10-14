@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/hiyori.schema.json",
+  "hiyori_id": 15591,
+  "slug": "little-busters",
+  "kind": "manga",
+  "title": "Little Busters!",
+  "titles": {
+    "default": "Little Busters!"
+  },
+  "synonyms": [
+    "Official Little Busters! comic",
+    "Little Busters!",
+    "リトルバスターズ!",
+    "Kataomoi no Mukougawa",
+    "片想いの向こう側",
+    "Kataomoi no Mukou Gawa",
+    "Ano Kado o Magareba",
+    "Tenshi ga Kuretamono",
+    "Bitou na Koi",
+    "Kimi to Natsu no Aizu"
+  ],
+  "type": "manga",
+  "chapters": 32,
+  "volumes": 6,
+  "status": "finished",
+  "year": 2007,
+  "images": [
+    "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx38677-9QvFtVe6eEAG.jpg"
+  ],
+  "references": {
+    "al": {
+      "id": "18195",
+      "url": "https://anilist.co/anime/13655"
+    },
+    "al_manga": {
+      "id": "18195",
+      "url": "https://anilist.co/manga/18195"
+    }
+  }
+}
