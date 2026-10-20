@@ -1,0 +1,24 @@
+{
+    "tag": "data-2026.43",
+    "revision": 0,
+    "content_hash": "sha256:f132d8b24a273f7f6254c3fcf8a30c4498eea6ee60966c18bb6f9cfcd94009e0",
+    "counts": {
+        "anime": 15017,
+        "manga": 28819,
+        "files": 43846,
+        "rows": 475306
+    },
+    "generated_at": "2026-10-20T12:50:23+00:00",
+    "source_commit": "d9622177f9d930c003ef7c6d11f834eb9a30ba39",
+    "assets": [
+        "hiyori-db-data-2026.43.anime.jsonl.zst",
+        "hiyori-db-data-2026.43.manga.jsonl.zst",
+        "hiyori-db-data-2026.43.schema.zip",
+        "hiyori-db-data-2026.43.tables.zip",
+        "hiyori-db-data-2026.43.tar.zst",
+        "manifest.json",
+        "SHA256SUMS.txt"
+    ],
+    "verify": "php hiyori publish --verify",
+    "release_dir": "release-data-2026.43"
+}

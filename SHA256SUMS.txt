@@ -1,0 +1,6 @@
+c4ef924575dcbef8147eea13ef6e66d6cd9599e8ce86013b55c31ac152b6eab4  hiyori-db-data-2026.43.anime.jsonl.zst
+61966e5f787699573b51eb8bcf2aff34db65b50e7a9ce48cbfae5f9c1fc867fe  hiyori-db-data-2026.43.manga.jsonl.zst
+44d422ece3aee4c3e05f08e7d097a3b4be58f69ede2bceadfc5531bf55bcf2f6  hiyori-db-data-2026.43.schema.zip
+76fd8bd118ecf57bd6db2aa6f500ac2fe5c8a520bd54ba73ea30a6a05623f5d0  hiyori-db-data-2026.43.tables.zip
+3e9193fba466d9b4796c515e77229c138714552613bbfe0e578b13a935264dbf  hiyori-db-data-2026.43.tar.zst
+72b1843e731ef9122982cf8221a1ed8b17d7207da112e6c59106131e6263ca74  manifest.json

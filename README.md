@@ -1,10 +1,13 @@
 # HiyoriDB
 
-Relational dataset produced by the Hiyori CLI pipeline.
+Relational dataset produced by the hiyori CLI pipeline.
 
-- Profile: per-entry-json
-- Anime records: 13719
-- Manga records: 2161
+- Release: `data-2026.43`
+- Profile: `per-entry-json`
+- Anime records: 15017
+- Manga records: 28819
+- Content hash: `sha256:f132d8b24a273f7f6254c3fcf8a30c4498eea6ee60966c18bb6f9cfcd94009e0`
 
-Tables: `data/tables/{anime,manga,entity_titles,entity_references}.csv` (see `schema.sql`).
-Per-entry JSON: `data/<kind>/<hiyori_id>-<slug>.json`; bulk mirror: `data/<kind>.jsonl`.
+The dataset is published as a GitHub Release: the `*.tar.zst` archive plus the
+bulk mirror, the tables and the schema, with `SHA256SUMS.txt` alongside.
+`.hiyori-release/latest.json` points at the current release.
