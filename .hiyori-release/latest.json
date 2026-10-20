@@ -8,8 +8,8 @@
         "files": 43846,
         "rows": 475306
     },
-    "generated_at": "2026-10-20T12:50:23+00:00",
-    "source_commit": "d9622177f9d930c003ef7c6d11f834eb9a30ba39",
+    "generated_at": "2026-10-20T12:55:04+00:00",
+    "source_commit": "60be0e2d5191b028612779778f5a635451153ba9",
     "assets": [
         "hiyori-db-data-2026.43.anime.jsonl.zst",
         "hiyori-db-data-2026.43.manga.jsonl.zst",
