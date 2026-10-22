@@ -1,24 +1,24 @@
 {
-    "tag": "data-2026.43",
+    "tag": "data-2026.44",
     "revision": 0,
-    "content_hash": "sha256:f132d8b24a273f7f6254c3fcf8a30c4498eea6ee60966c18bb6f9cfcd94009e0",
+    "content_hash": "sha256:e6f710d47af7f82432e78a596768229f0be0788e9bf754e2b30602ac7d20e883",
     "counts": {
         "anime": 15017,
         "manga": 28819,
         "files": 43846,
-        "rows": 475306
+        "rows": 494142
     },
-    "generated_at": "2026-10-20T12:55:04+00:00",
-    "source_commit": "60be0e2d5191b028612779778f5a635451153ba9",
+    "generated_at": "2026-10-22T08:05:00+00:00",
+    "source_commit": "96e603f623f5fb93cbfe79dccfeb4681398b2f5f",
     "assets": [
-        "hiyori-db-data-2026.43.anime.jsonl.zst",
-        "hiyori-db-data-2026.43.manga.jsonl.zst",
-        "hiyori-db-data-2026.43.schema.zip",
-        "hiyori-db-data-2026.43.tables.zip",
-        "hiyori-db-data-2026.43.tar.zst",
+        "hiyori-db-data-2026.44.anime.jsonl.zst",
+        "hiyori-db-data-2026.44.manga.jsonl.zst",
+        "hiyori-db-data-2026.44.schema.zip",
+        "hiyori-db-data-2026.44.tables.zip",
+        "hiyori-db-data-2026.44.tar.zst",
         "manifest.json",
         "SHA256SUMS.txt"
     ],
     "verify": "php hiyori publish --verify",
-    "release_dir": "release-data-2026.43"
+    "release_dir": "release-data-2026.44"
 }

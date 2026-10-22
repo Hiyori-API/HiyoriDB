@@ -2,11 +2,11 @@
 
 Relational dataset produced by the hiyori CLI pipeline.
 
-- Release: `data-2026.43`
+- Release: `data-2026.44`
 - Profile: `per-entry-json`
 - Anime records: 15017
 - Manga records: 28819
-- Content hash: `sha256:f132d8b24a273f7f6254c3fcf8a30c4498eea6ee60966c18bb6f9cfcd94009e0`
+- Content hash: `sha256:e6f710d47af7f82432e78a596768229f0be0788e9bf754e2b30602ac7d20e883`
 
 The dataset is published as a GitHub Release: the `*.tar.zst` archive plus the
 bulk mirror, the tables and the schema, with `SHA256SUMS.txt` alongside.
